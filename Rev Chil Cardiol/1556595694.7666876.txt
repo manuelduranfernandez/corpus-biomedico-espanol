@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602011000100007
+Comparación de angiografía coronaria con el ultrasonido intracoronario como patrón de referencia en el diagnóstico de vasculopatía post trasplante cardíaco
+
+ 
+
+Introducción
+
+La Vasculopatía del Injerto (VDI) es la primera causa de muerte en la evolución alejada del trasplante cardíaco (TX) 1. Su etiología es multifactorial; hay factores inmunológicos y no inmunológicos que tienen influencia diferente en cada paciente 2. Dentro de estos últimos también se han invocado factores étnicos y es así que en una población de trasplantados cardíacos chinos se describe una incidencia de 2% de VDI, evaluados por coronariografía a los 4 años de evolución post trasplante 3. Si bien la incidencia es variable de acuerdo a las características de la población, en general se acepta que un 50% de los pacientes trasplantados desarrolla VDI a los 5 años post trasplante 4. El inicio puede ser muy precoz y su evolución progresiva dependiendo de los factores causales y su potencial tratamiento. La coronariografía es el método diagnóstico clásico en conjunto con la evaluación de la funcionalidad del injerto que tiene la limitante de ser poco sensible y tardío. En el último tiempo se ha desarrollado el IVUS, el cual, es un método de diagnóstico más precoz pues permite una imagen directa de la pared vascular y detecta los cambios en el engrosamiento intimal desde las 6 semanas post TX, convirtiéndolo en un poderoso marcador pronóstico de la VDI 5. Esto permitiría un tratamiento más oportuno de los factores etiológicos así como también ajustar el esquema inmunosupresor con drogas que tengan un efecto más específico sobre la vasculopatía. El control de esta complicación puede prolongar el tiempo del injerto y la calidad de vida del paciente trasplantado 6.
+
+De allí la importancia de conocer la magnitud real de la capacidad diagnóstica de la coronariografía por sí sola, para detectar VDI, contrastándola con el método considerado actualmente como el más precoz y específico como es el IVUS.
+
+Metodología
+
+El estudio se llevó a cabo en la Unidad de Hemodinamía del Hospital Dr. Gustavo Fricke de Viña del Mar, el cual es uno de los dos centros actuales de referencia nacional para trasplante cardíaco.
+
+Tipo de Estudio: Corresponde a un estudio de evaluación de pruebas diagnósticas de un diseño transversal con reclutamiento prospectivo.
+
+Muestra: Estuvo constituida por pacientes trasplantados cardíacos del Hospital Dr. Gustavo Fricke, entre 18 a 58 años, controlados entre marzo 2008 - septiembre 2010, a quienes como parte de su protocolo de control se les realizó simultáneamente un examen de coronariografía y un estudio de IVUS, previo consentimiento informado institucional para participar en esta investigación. Se analizaron 36 pacientes con un tiempo promedio de trasplante de 3,7 ± 3,7 años.
+
+Criterios de Exclusión: Pacientes sin coronariografía previa. Pacientes que presenten contraindicación para realizarse el examen debido a malos accesos vasculares que imposibiliten la realización del procedimiento, insuficiencia renal descompensada (Creatinina sobre 3.0 mg/dl al momento del examen y en ascenso) y pacientes que al momento del examen se encuentren realizando un episodio de rechazo agudo.
+
+Variables a analizar
+
+VDI según coronariografía cualitativa: Se entiende por cualitativa a la interpretación visual de la coronariografía tomando en cuenta una disminución difusa o segmentaria del lumen coronario en relación a la coronariografía previa.
+
+VDI según coronariografía cuantitativa: se entiende por variable cuantitativa al valor del diámetro de la estenosis, expresado en porcentaje, que diagnóstica VDI tomando en cuenta los parámetros consensuados por la Sociedad Internacional de Trasplante de Corazón y Pulmón (SITCP) el año 2010 8
+
+VDI según grosor intimal: Medida otorgada por el equipo IVUS, expresada en mm que refleja el engrasamiento de la íntima. Sobre 0,5 mm de grosor intimal se considera vasculopatía post trasplante 8.
+
+Procedimientos diagnósticos:
+
+Coronariografía: Se realizó la coronariografía según el protocolo de rutina.
+
+Mediciones post procedimiento de la coronariografía.
+
+Se revisó todo el árbol coronario buscando lesiones estenóticas las cuales son medidas con el software QCA del Angiógrafo Siemens "Axiom Artis dfC versión VB11".
+
+Puntos de Corte de la coronariografía:
+
+Para determinar el punto de corte de VDI según la coronariografía se utilizará los criterios consensuados de la SITCP, del año 2010. Ver tabla N°1.
+
+
+
+Donde:
+
+VDI0 = Ausencia de VDI
+
+VDI1, VDI2, VDI3 = Presencia de VDI
+
+IVUS: Inmediatamente después de la coronariografía, se llevó a cabo un estudio con IVUS utilizando un catéter guía coronario 6 F. A través este se introdujo una guía de 0,014" hasta la porción distal de la arteria descendente anterior, se avanzó sobre la guía un catéter de ultrasonido Eagle Eye de 20 MHz, conectado a la consola del equipo Volcano s5TM Imaging. Finalmente, se procedió a realizar el retiro automático a una velocidad de 0,5 mm/seg., visualizando todo el tercio medio de la arteria.
+
+Mediciones post procedimiento del IVUS
+
+Se lleva a cabo la medición del área del lumen (LA) y del área total compuesta por el lumen más la íntima (TA). A su vez se realizó la medición de los diámetros mayores (DM) y menores (Dm) tanto del TA y el LA. De esta forma, mediante la siguiente fórmula podemos obtener un promedio del grosor intimal en el frame:
+
+
+
+Puntos de Corte del IVUS:
+
+Ausencia de VDI= Grosor intimal < 0,5 mm. 
+
+Presencia de VDI= Grosor intimal > 0,5 mm.
+
+Análisis Estadístico Exactitud diagnóstica:
+
+Tablas de contingencias a partir de las cuales se determinaran la: Sensibilidad, Especificidad, Valores pre-dictivos (+) y (-), y Likelihood Ratio (+) y (-)
+
+Análisis de la Reproducibilidad:
+
+Se evaluó la confiabilidad de dos formas paralelas de obtener el diagnóstico de VDI, uno mediante el análisis visual de la coronariografía y el otro con un software cuantitativo de las imágenes coronariografícas, el estadístico utilizado fue el: Coeficiente de Spearman-Brown.
+
+El análisis estadístico se realizó con Software estadístico SPSS versión 15.0 y se consideró un nivel de significancia del 0,05.
+
+Resultados
+
+De los 54 pacientes en control post-trasplante cardíaco en el Hosp. Dr. Gustavo Fricke, en el período en que se llevó a cabo el estudio (3 años), se realizaron 36 coronariografías con IVUS. En 12 de ellos no se pudo realizar concomitantemente el IVUS por problemas de carácter técnico, y 6 de ellos fallecieron durante el período en estudio, por lo tanto la muestra analizada quedó conformada por 36 pacientes.
+
+
+
+Se incluyeron 36 pacientes de los cuales, un 30,6 % estuvo compuesto por mujeres (n=11) y un 69,4% por hombres (n=25), con una edad promedio de 44,9 ± 12,5 años, un tiempo promedio de trasplantado de 3,7 ± 3,7 años. El factor de riesgo más frecuente fue la Hipertensión Arterial con un 38,9% (Ver Tabla 2).
+
+
+
+Exactitud diagnóstica:
+
+Se testeo la exactitud diagnóstica de la coronario-grafía cualitativa y cuantitativa contra el IVUS como estándar de referencia. La tabla N°3 resume estos resultados.
+
+
+
+
+
+Reproducibilidad
+
+Esta fue determinada con el método de pruebas paralelas o equivalentes (split-half reliability), puesto que se está examinando la misma muestra de pacientes con dos instrumentos diferentes, uno utiliza una interpretación visual de la coronariografía para el diagnóstico de VDI, y el otro realiza la interpretación con un software de medición. El estadístico de prueba utilizado       fue el Coeficiente de Spearman-Brown, que dio un valor = 0,653, lo que le confiere una confiabilidad al test mínimamente aceptable.
+
+Discusión
+
+Los resultados de este estudio confirman la baja sensibilidad de la coronariografía v/s la coronariografía con IVUS en el diagnóstico de VDI. Esto está de acuerdo con estudios similares en poblaciones de TX con características clínicas diferentes 7 y pone de manifiesto lo poco comprendido aún de su etiopatogenia, donde se han identificado diferentes factores causales inmunológicos y no inmunológicos, pero cuyo rol exacto no está del todo claro. El hecho de que el tiempo promedio de TX fuera de 3,7 años puede haber favorecido esta diferencia, ya que en los estadios iniciales con compromiso circunscrito a la pared vascular sin compromiso luminal, la coronariografía tiene una sensibilidad menor que el IVUS. Por otro lado, el hecho de haber examinado solo una arteria disminuye el rendimiento diagnóstico del IVUS desde cifras que pueden ir de un 39% a un 74% lo que se compensa con el factor temporal 8. El bajo rendimiento de la coronariografía, especialmente en los primeros años de TX, se explica porque este proceso afecta principalmente en forma difusa el árbol coronario especialmente en las porciones más distales lo que dificulta el diagnóstico al examinador. Por otro lado también se ha visto una remodelación positiva del vaso coronario afectado en un intento por mantener el flujo miocárdico y que oculta también el compromiso de la pared vascular hasta etapas más tardías 8. Se han hecho intentos por desarrollar métodos diagnósticos no invasivos como el AngioTAC coronario, Ecocardiografía stress con Dobutamina o Medicina Nuclear pero hasta ahora ninguno de ellos ha podido reemplazar a la coronariografía y especialmente al IVUS en el diagnóstico de esta afección 8. En el último tiempo han aparecido estudios con IVUS complementados con histología virtual de la pared vascular en un intento por conocer mejor la historia natural de la VDI9. .     
+
+La reproducibilidad de la coronariografía fue baja, lo que evidencia la influencia de la estimación visual, experiencia del operador y características angiográficas difusas y distales propias de la VDI. 

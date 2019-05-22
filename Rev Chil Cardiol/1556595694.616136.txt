@@ -1,0 +1,326 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602011000100003
+Polimorfismo rs3091244 del gen de la proteína C reactiva influencia los niveles séricos de CRP-hs en individuos de la región de La Araucanía
+
+ 
+
+Introducción
+
+Actualmente, se reconoce a la Proteína C reactiva (CRP), como un predictor de riesgo independiente asociado a la incidencia de enfermedades cardiovasculares (ECV)1. Es así, como diversos estudios se han enfocado en clarificar el efecto directo de CRP sobre el proceso aterogénico, encontrándose acción vía disminución en la producción de óxido nítrico (NO)2, estimulación de la captación de lipoproteínas de baja densidad (LDL)3, facilitación de adhesión y migración de leucocitos mediante estimulación de moléculas de adhesión4, 5 e incluso ejerciendo efecto en la desestabilización de la placa aterosclerótica, mediante incremento en la expresión de la metaloproteinasa-2 (MMP-2)6.
+
+Es por ello, que actualmente, la medición de los niveles de CRP-hs ha cobrado gran importancia, ya que de acuerdo a su concentración se puede categorizar el riesgo cardiovascular relativo de un individuo en bajo (CRP < 1.0 mg/L), moderado (1.0 - 3.0 mg/L) y alto (> 3.0 mg/L)7.
+
+Adicionalmente al mejoramiento de la sensibilidad de los métodos para medir los niveles de CRP-hs sérica, el estudio de variantes en el gen que codifica CRP (CRP), emerge como una alternativa para la predicción de niveles elevados de esta proteína. CRP es codificada por un gen ubicado en el brazo largo del cromosoma 1, compuesto únicamente por 2 exones y 1 intrón, sin embargo, se trata de una región altamente polimórfica, con más de 40 variantes conocidas8. Estas, se han asociado tanto a niveles elevados como disminuidos de CRP9-11, ejemplo de ello, una repetición de dos nucleótidos (GT) con 13 alelos, dos de los cuales están asociados a menores valores de CRP12.
+
+Dentro de las variantes fuertemente asociadas a altos niveles de CRP, se encuentran dos polimorfismos de la región promotora rs3093062 y rs3091244, ambos localizados en regiones responsables de la unión de factores de transcripción. En el caso del polimorfismo rs3091244 C>T>A, en presencia del alelo T, la actividad del promotor se ve exacerbada13. Aunque se ha comprobado este efecto mediante experimentación in vitro, existe discordancia acerca de los genotipos asociados a elevados niveles de CRP-hs en distintas poblaciones.
+
+Así, el objetivo del presente estudio fue evaluar la posible asociación entre los valores de CRP-hs y los genotipos del polimorfismo rs3091244 C>T>A en una muestra de individuos de la población general de la región de La Araucanía.
+
+Métodos
+
+Sujetos
+
+Un total de 157 individuos adultos, sin ningún grado de parentesco entre sí, con edades comprendidas entre 35 y 70 años, todos provenientes de la región de La Araucanía, fueron incluidos en este estudio. Se les aplicó una encuesta para obtener información de historia familiar de enfermedad cardiovascular y de factores de riesgo tradicionales. Además, se les determinó peso, talla y se obtuvieron valores de presión arterial sistólica y diastólica. Todos los individuos, aprobaron participar en este estudio mediante la firma de un consentimiento informado, previamente aprobado por el Comité de Ética Científica del Servicio de Salud Araucanía Sur (Temuco, Chile). 
+
+Determinaciones bioquímicas
+
+Se obtuvieron muestras de sangre, luego de ayuno de 12 horas, para la determinación de los niveles séricos de glucosa, colesterol total, triglicéridos y HDL-C mediante métodos enzimático-colorimétricos. La concentración de colesterol de las LDL (LDL-C) fue calculada mediante la fórmula de Friedewald. La concentración de CRP-hs fue determinada mediante método turbidimétrico (CRP-hs Electa-Lab) en un analizador fotométrico Humalyzer 3000.
+
+Genotipificación de la variante rs3091244 del gen CRP
+
+El ADN genómico fue extraído a partir de sangre total anticoagulada con EDTA mediante la técnica descrita por Salazar et al.14. Para la genotipificación, se amplificó un fragmento de 287 pares de bases (bp) del gen CRP mediante reacción en cadena de la polimerasa (PCR) con partidores previamente descritos12. Posteriormente, este fragmento fue sometido a restricción enzimática con las endonucleasas HinAl y SpeI en reacciones individuales, para lograr discriminar los alelos C y A respectivamente, mientras que el alelo T, se dedujo por descarte. Los productos de PCR y de restricción enzimática fueron evaluados mediante electroforesis en gel de agarosa al 2% teñido con bromuro de etidio (0.5mg/L) y visualizado en un sistema de fotodocumentación digital.
+
+Análisis estadístico
+
+El análisis de los datos obtenidos se realizó utilizando el programa SigmaStat, versión 3.5 (San Rafael, EE.UU.). Las variables continuas se expresan como media ± desviación estándar. La asociación entre variables fue analizada mediante t de Student. Además, se utilizó Chi-cuadrado (X2) para el análisis de las variables no continuas y para verificar el equilibrio Hardy - Weinberg. El nivel de significancia estadística considerado en este estudio fue p <0,05.
+
+Resultados
+
+Características de los sujetos en estudio
+
+Las características biodemográficas de los 157 individuos investigados en este estudio, se resumen en la Tabla 1. En la Tabla 2, se puede apreciar la categorización de riesgo cardiovascular de los sujetos estudiados, según niveles de CRP-hs; encontrándose diferencias significativas entre los grupos de alto, moderado y bajo riesgo, sólo para los valores de IMC.
+
+Edad, años
+
+50.8 ± 9.5
+
+Hombres, %
+
+66
+
+Diabetes, %
+
+6
+
+PAS, mm Hg
+
+128 ± 22
+
+PAD, mm Hg
+
+79 ± 11
+
+IMC, kg/m2
+
+29.8 ± 4.6
+
+Índice cintura / cadera
+
+0.92 ± 0.08
+
+Fumadores, %
+
+26
+
+Hipertensión, %
+
+23
+
+Angina, %
+
+1.2
+
+IAM, %
+
+1.2
+
+CRP-hs, mg/L
+
+2.1 ± 2.8
+
+Colesterol total, mg/dL
+
+192 ± 30
+
+LDL - C, mg/dL
+
+126 ± 29
+
+HDL - C, mg/dL
+
+40 ± 9
+
+Triglicéridos, mg/dL
+
+126 ± 57
+
+Glucosa, mg/dL
+
+109 ± 56
+
+
+
+Riesgo Relativo
+
+Bajo     <1.0     (n=74)
+
+P*
+
+Mujeres, %
+
+37
+
+31
+
+24
+
+0.462
+
+Hombres, %
+
+63
+
+69
+
+76
+
+
+
+Diabetes mellitus, %
+
+2
+
+8
+
+12
+
+0.213
+
+PAS, mm Hg
+
+125 ± 25
+
+129 ± 19
+
+133 ± 23
+
+0.320
+
+PAD, mm Hg
+
+77 ± 12
+
+80 ± 11
+
+81 ± 11
+
+0.223
+
+IMC, Kg./m2
+
+28.5 ± 3.2
+
+30.3 ± 4.9
+
+32.9 ± 6.3
+
+< 0.001
+
+Índice Cintura/Cadera
+
+0.91 ± 0.09
+
+0.92 ± 0.07
+
+0.94 ± 0.10
+
+0.380
+
+Glucosa, mg/dL
+
+96 ± 19
+
+109 ± 70
+
+158 ± 101
+
+0.406
+
+Colesterol total, mg/dL
+
+181 ± 27
+
+208 ± 25
+
+168 ± 38
+
+0.077
+
+LDL-C, mg/dL
+
+115 ± 27
+
+142 ± 21
+
+112 ± 46
+
+0.131
+
+HDL-C, mg/dL
+
+43 ± 8
+
+39 ± 11
+
+35 ± 3
+
+0.468
+
+Triglicéridos, mg/dL
+
+115 ± 59
+
+142 ± 60
+
+109 ± 47
+
+0.609
+
+
+
+CC
+
+CT
+
+TT
+
+CA
+
+TA
+
+AA
+
+C
+
+T
+
+A
+
+11.5%
+
+45.2%
+
+31.2%
+
+5%
+
+7%
+
+0%
+
+0.370
+
+0.570
+
+0.060
+
+(18)
+
+(71)
+
+(49)
+
+(8)
+
+(11)
+
+(0)
+
+
+
+
+
+
+
+
+
+CC
+
+CT
+
+TT
+
+CA
+
+TA
+
+(18)
+
+(71)
+
+(49)
+
+(8)
+
+(11)
+
+Genotipificación de la variante rs3091244 del gen CRP
+
+La distribución genotípica y la frecuencia relativa de los alelos para el polimorfismo estudiado del gen CRP son mostradas en la Tabla 3. La distribución de genotipos fue la esperada según el equilibrio de Hardy-Weinberg. Además, se analizó la concentración de CRP-hs para cada genotipo, observándose diferencias significativas al comparar los niveles entre los portadores del genotipo de referencia (CC) y los genotipos TT (p=0.030), TA (p=0.002), CA/TA (p=0.022), presentando estos últimos, niveles elevados de CRP-hs (Tabla 4).
+
+Discusión
+
+CRP es un importante marcador inflamatorio que ejerce una acción directa en el proceso de aterogénesis y es considerado marcador de riesgo de ECV, pudiendo ser estratificado según sus niveles plasmáticos. Al hacer la clasificación del riesgo cardiovascular de los individuos estudiados, según los diferentes niveles de CRP-hs y relacionarlos con las características clínicas y de laboratorio, se asoció los niveles de CRP-hs por sobre los 3 mg/L a un mayor valor de IMC, datos semejantes a los encontrados por otro grupo con anterioridad15 y que pudieran ser consecuencia de un fenómeno inflamatorio asociado a obesidad, siendo IL-6, secretada por adipocitos, sindicada como activador de la síntesis de CRP en el híga-do16, 17. En otros de los parámetros estudiados, se observa una tendencia al alza (PAS, PAD, glucosa) o a la baja (HDL), sin embargo, no mostraron diferencias estadísticamente significativas entre las tres categorías de riesgo. En el presente estudio, se evaluó por primera vez en el país, la asociación entre los niveles séricos de CRP-hs y el polimorfismo rs3091244, una de las variantes fuertemente relacionada al aumento de CRP18, sin embargo, el genotipo determinante de esta asociación ha mostrado ser distinto entre poblaciones8, 19 20.
+
+Nuestros hallazgos evidencian una predominancia en la frecuencia relativa del alelo T (0.570), y del genotipo CT (45.2%) por sobre los demás genotipos encontrados (TT: 31.2%, CC: 11.5%, TA: 7% y CA: 5%), además de la ausencia del genotipo AA. Se observan discrepancias entre la distribución genotípica y alélica con estudios anteriormente publicados13, 18, debido, probablemente, a las diferencias étnicas de las poblaciones analizadas. Al analizar los valores de CRP-hs entre los portadores del genotipo CC versus CA/TA se observó una diferencia significativa (p=0.022), comprobándose mayores niveles de CRP-hs en individuos que presentan los alelos A y/o T comparado con el alelo C (alelo normal o de referencia); resultado similar al obtenido por otros autores que asocian los mismos alelos a niveles elevados de CRP-hs21, 22. El mecanismo que explicaría los mayores niveles de CRP-hs en estos individuos, podría ser atribuido a una mayor actividad del promotor del gen CRP en presencia de dichos alelos, traduciéndose en mayores niveles plasmáticos de CRP23 y consecuentemente mayor riesgo cardiovascular. Entre las limitaciones que presenta nuestro estudio, podemos comentar que sólo se realizó una medición de CRP-hs a cada individuo, siendo conveniente para calcular las cifras de CRP-hs, realizar dos determinaciones separadas entre 1 a 3 semanas7, 24. Sin embargo, asumimos el sesgo de una única medición, considerando que la CRP-hs presenta escasa fluctuación a corto plazo25. Además, de acuerdo a lo encontrado por Ridker et al. 26, una única determinación puede ser útil como predictor de enfermedad clínica. En resumen, nuestro estudio muestra una asociación entre la variante rs3091244 del gen CRP con niveles elevados de CRP-hs, por lo que podría ser útil como marcador molecular de riesgo cardiovascular, considerando que una elevación en los niveles de CRP significa mayor riesgo para el desarrollo de patologías del aparato circulatorio. Sin embargo, ello debiera corroborarse con otros estudios a lo largo del país, para poder extrapolar estos hallazgos.
+
+Agradecimientos:

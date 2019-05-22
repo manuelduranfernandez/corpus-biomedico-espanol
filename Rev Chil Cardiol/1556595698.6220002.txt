@@ -1,0 +1,78 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602015000200008
+Calidad de las Tromboplastinas utilizadas en el Laboratorio Clínico y en los equipos POCT y su impacto en la dosificación de acenocumarol en pacientes con terapia anticoagulante oral: discrepancies that may affect the dose of coumarin derivatives needed for treatment safety
+
+
+
+Introducción:
+
+El tratamiento con anticoagulantes cumarínicos (acenocu-marol y warfarina) debe ser supervisado estrechamente ya que la eficacia y la seguridad de estos fármacos dependen del mantenimiento del efecto anticoagulante dentro de un margen terapéutico definido1, expresado como Intervalo de INR. El monitoreo se realiza a través del examen Tiempo de Protrombina, expresado en el parámetro INR en cuyo cálculo la determinación incluye el tiempo, en segundos, del paciente y del control normal del laboratorio y el ISI del reactivo utilizado; este examen es utilizado en la clínica habitual2, 3. El Tiempo de Protrombina (TP) es medido agregando el reactivo de tromboplastina -que puede ser obtenido a partir de un extracto de tejido de mamífero rico en este factor o una preparación recombinante humana, en combinación con fosfolípidos- al plasma citra-tado y se mide el tiempo necesario para la formación del coagulo al agregar calcio. La tromboplastina lleva a una reducción de tres factores de la coagulación dependientes de la vitamina K (protrombina y los factores VII y X)2, 3. Para representar las diferentes sensibilidades del reactivo tromboplastina a la variable concentración de factores dependientes de vitamina K, los fabricantes del reactivo tromboplastina asignan un valor de ISI (Indice Internacional de Sensibilidad) a su reactivo, el cual se compara con una tromboplastina de referencia o normalizada a nivel internacional de ISI =1.02.
+
+El INR (de la sigla en inglés International Normalized Ratio), es la manera de estandarizar los valores obtenidos a través del Tiempo de Protrombina (TP) para el tratamiento y seguimiento de pacientes con tratamiento anticoagulante oral. El INR es entonces la proporción del tiempo de protrombina del paciente con respecto a un control normal, elevado a la potencia del valor ISI específico para el método y equipo empleado2. En los años 1992 en Estados Unidos se observó la necesidad urgente de estandarizar los resultados de TP, ya que se pueden obtener valores divergentes de TP e INR para una misma muestra de plasma, dependiendo del reactivo de tromboplastina utilizado. Esta situación puede conducir a la medicación inadecuada y peligrosa de los anticoagulantes4’ 5 6. Las recomendaciones tanto de la OMS como del Instituto de Salud Pública (ISP) indican que la precisión en el cálculo del INR puede ser mejorada usando reactivos con ISI bajo, considerándose como ISI de referencia internacional el valor 1,0. La óptima sensibilidad del reactivo se ha alcanzado con la elaboración de Tromboplastina de origen recombinante humana2. El ISP en su documento técnico de Abril de 2014 indica que es recomendable la utilización de tromboplastinas cuyos ISI no sean superior a 1,4 para el control de la anti coagulación oral2. En la actualidad muchos pacientes tratados con Antagonistas de la vitamina K utilizan equipos point of care testing (POCT) para la evaluación del INR ya que, al utilizar sangre capilar, son menos invasivos. El equipo para la medición de INR capilar a pacientes en control de terapia anticoagulante oral en el Servicio de Salud Metropolitano Occidente utiliza tromboplastina recombinante humana (ISI=1,0) y la detección del coágulo es electroquímica7. Estos equipos han sido validados mundialmente para el control de la anticoagulación8’ 9 10.
+
+En el control de Terapia Anticoagulante Oral (TACO) de los Establecimientos del Servicio de Salud Metropolitano Occidente (SSMOC) se han observado incongruencias importantes entre los resultados de INR venoso obtenidos usando reactivo Tromboplastina de cerebro de conejo, ISI=1,3) y aquellos obtenidos en sangre capilar con tromboplastina recombinante, a pesar de utilizar muestras de sangre a la misma hora y día. El presente estudio tiene como objetivo comparar el INR venoso con dos tromboplastinas de diferente ISI, con el INR obtenido por muestra capilar usando tromboplastina recombinante.
+
+Materiales y métodos:
+
+Se realizó un ensayo clínico cruzado. A cada paciente se tomó una muestra capilar y una muestra venosa el mismo día del control con el médico de TACO. Tromboplastinas: se utilizaron dos reactivos de Tromboplastina obtenida de cerebro de conejo, con ISI 1,3 y recombinante humana ISI 1,0 para determinación de INR venoso marca Stago® y se compararon con los resultados obtenidos con Tromboplastina recombinante humana ISI= 1,0 de equipo INR Capilar Coagucheck® de Roche. La determinación de INR en muestra venosa se realizó en un equipo STA Compact® de Stago en el Laboratorio Clínico del Hospital San Juan de Dios. La toma de muestra venosa se realizó en el mismo día y hora en que se realizó el INR Capilar.
+
+Pacientes: Se reclutaron 100 pacientes con tratamiento anticoagulante oral entre el 28 de abril del 2014 y el 7 de mayo de 2014 en la Toma de Muestras del Laboratorio Clínico el día de su control con el médico de TACO en el Hospital San Juan de Dios.
+
+Para la evaluación de diferencias se efectuó análisis de correlación (Pearson) y coeficiente de regresión.
+
+Resultados
+
+La distribución por sexo de los pacientes fue similar y las edades son la más frecuente entre los pacientes que habitualmente reciben TACO. La gran mayoría de los pacientes tenían como indicación la presencia de prótesis valvular y/o de fibrilación auricular y había un escaso número de pacientes con enfermedad tromboembólica venosa (Tabla 1).
+
+ 
+
+Tabla N°1: Características generales de los pacientes de este estudio.
+
+
+
+Hubo una alta correlación (r: 0.96) entre INR capilar (ISI=1,0) y INR con tromboplastina de cerebro de conejo ISI=1,3 (Figura 1). También hubo una alta correlación (r: 0.95) entre INR capilar (ISI=1,0) e INR venoso con tromboplastina recombinante humana ISI=1,0. (Figura 2).
+
+ 
+
+
+
+Figura 1: Correlación entre INR capilar (ISI=1,0) e INR con tromboplastina de cerebro de conejo (ISI=1,3).
+
+ 
+
+
+
+Figura 2: Correlación entre INR capilar (ISI=1,0) y INR con tromboplastina recombinante humana (ISI=1,0).
+
+En la Figura 3  se observa los valores de INR venoso utilizando tromboplastina de cerebro de conejo (ISI=1,3) y tromboplastina recombinante humana (ISI=1,0). En la Figura 4  se observa los valores de INR obtenidos con ambos métodos junto a la regresión entre ellos. Se observa que a partir de valores de INR = 3,0 las curvas comparativas se separan y se aprecia que la Tromboplastina de cerebro de conejo ISI=1,3 subestima el valor de INR en los rangos altos de este parámetro.
+
+ 
+
+
+
+Figura 3: Comparación de los valores de INR venoso utilizando tromboplastina de cerebro de conejo (ISI=1,3) y tromboplastina recombinante humana (ISI=1,0).
+
+ 
+
+
+
+Figura 4: Comparación de los valores de INR venoso utilizando tromboplastina de cerebro de conejo (ISI=1,3), tromboplastina recombinante humana (ISI=1,0) e INR Capilar con tromboplastina recombinante (ISI=1,0).
+
+Discusión
+
+Los resultados del presente estudio indican que para pacientes cuyo INR pre-establecido es alto, se observan importantes discrepancias entre los distintos métodos cuando el INR es mayor o igual a 3.0.
+
+Estos pacientes, cuyo riesgo tromboembólico es alto y requieren INR cercanos o superiores a 3 presentan mayor riesgo hemorrágico inherente al tratamiento. Por ello, el manejo de la terapia anticoagulante oral en estos casos requiere ajustes más precisos de dosis. Ello implica que en un mismo paciente el valor de INR informado a partir del uso de uno u otro reactivo, puede llevar a decisiones terapéuticas significativamente diferentes.
+
+Varios estudios internacionales han mostrado la variación de INR cuando se utilizan tromboplastinas de baja sensibilidad. Entre ellos podemos mencionar el estudio realizado por Lazo-Langner con 237 plasmas de pacientes y dos tromboplastinas (ISI= 1,0 recombinante humana e ISI=1,3 cerebro de conejo), donde observan las mismas variaciones que nuestro estudio, y discuten que esto es inaceptable en el ajuste clínico ya que la diferencia observada probablemente induciría al clínico a hacer un cambio de la dosis de warfarina que sería inadecuada12. Dos estudios realizados con controles certificados para INR observaron que la desviación estándar y la tendencia eran mejores al utilizar tromboplastina recombinante humana ISI= 1,013, 14. Finalmente, un estudio realizado en Francia muestra que laboratorios que utilizan tromboplastinas con ISI alto (1,62 ± 0,21) magnifican los errores preanalíticos de las muestras para determinación de PT/INR15.
+
+Dado que, como lo confirma el presente estudio, la Tromboplastina de cerebro de conejo (ISI= 1,3) sistemáticamente subestima los valores de INR, al controlar a los pacientes solo con muestra venosa, situación que ocurre en la mayor parte del país, existe el riesgo de tener a nuestra población circulando con tiempos de coagulación excesivamente prolongados y con riesgo elevado de complicaciones hemorrágicas. En particular, este riesgo puede ser relevante en pacientes quirúrgicos en terapia anticoagulante.
+
+El reactivo Tromboplastina de cerebro de conejo con ISI=1,3 cumple con las recomendaciones del ISP en su documento técnico de Abril de 2014, donde indica que "Es recomendable la utilización de tromboplastinas cuyos ISI no sean superior a 1,4". Los controles de calidad del PEEC del ISP dieron resultados satisfactorios para INR informados por los Laboratorios Clínicos del Servicio Metropolitano Occidente. No obstante, ante la creciente disponibilidad de equipos para determinación de INR capilar la recomendación ISP señalada en el punto anterior debe ser valorada localmente para garantizar la mayor seguridad a todos los pacientes, reciban o no anticoagulantes orales, a quienes se les realice la determinación de TP-INR.
+
+Una limitación importante del presente estudio es no disponer de datos que comprueben diferencias en los riesgos hemorrágicos según el tipo de tromboplastina utilizada. Ello requeriría un estudio de seguimiento que, dado los datos obtenidos podría ser cuestionable desde el punto de vista ético.
+
+Conclusiones
+
+Las discrepancias en los valores de INR observadas en pacientes que requieren mantener un nivel alto de INR pueden conducir a un aumento del riesgo hemorrágico cuando el INR se determina en muestra venoso y con TP proveniente de cerebro de conejo. Debido a los resultados obtenidos en este estudio, en los Laboratorios Clínicos de los hospitales del SSMOC se resolvió trabajar con tromboplastina de ISI igual a 1,0 recombinante.
+
+Agradecimientos

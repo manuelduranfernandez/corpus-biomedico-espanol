@@ -1,0 +1,196 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602011000200001
+Asociación entre strain y strain rate auricular izquierdo evaluado por speckle tracking y fibrilación auricular post cirugía de revascularización miocárdica
+
+Rev Chil Cardiol 2011; 31: 89 - 94
+
+INVESTIGACIÓN CLÍNICA
+
+ 
+
+Asociación entre strain y strain rate auricular izquierdo evaluado por speckle tracking y fibrilación auricular post cirugía de revascularización miocárdica.
+
+Speckle tracking derived left atrial strain and strain rate in patients with post myocardial revascularization atrial fibrillation
+
+ 
+
+Luigi Gabrielli, Samuel Córdova, Andrés Enríquez, Paul Mc Nab, Hugo Verdejo, Iván Godoy, Ramón Corbalán.
+
+División de Enfermedades Cardiovasculares. Hospital Clínico Pontificia Universidad Católica de Chile.
+
+Dirección para correspondencia
+
+Resumen:
+
+Introducción: La fibrilación auricular (FA) es la arritmia más común post cirugía de revascularización miocárdica (CRM) y está asociada a dilatación y disfunción auricular izquierda (AI). El strain y strain rate global longitudinal AI determinado por speckle tracking constituyen herramientas novedosas en la evaluación de la función AI.
+
+Objetivo: evaluar el strain y strain rate global longitudinal AI en pacientes con enfermedad coronaria con indicación de CRM y su relación con el desarrollo de FA post operatoria.
+
+Métodos: se incluyeron pacientes consecutivos con indicación de CRM, en ritmo sinusal con fracción de eyección > 50%. Se registraron características clínicas y ecocardiográficas con evaluación del strain AI: onda s (LASs) y strain rate: onda a (LASRa), onda s (LASRs) por speckle tracking (pre-cirugía). Se evaluó la ocurrencia de FA en el período post operatorio (una semana) mediante monitorización electrocardiografía continua. Se utilizó t-Student, chi-cuadrado y regresión logística múltiple.
+
+Resultados: Se incluyeron 70 pacientes, 26% presentaron FA. LASs, LASRr y LASRa estaban significativamente disminuidos en los pacientes que desarrollaron FA post CRM, LASs (10 ± 1,1 vs 24 ± 1,2%, p < 0,001), LASRa (- 0,6 ± 0,1 vs - 1,8 ± 0,12, p < 0,001) LASRs (0,6 ± 0,007 vs 1,2 ± 0,008, p < 0,001). Los pre-dictores independientes de FA fueron: LASRs OR: 6,1 IC 95% (1,3-15,2); LASRa OR: 2,4 IC 95% (1,1-19,6); volumen AI OR: 4,67 IC 95% (1,5-19,2) y edad > 65 años OR: 2,31 IC 95% (1,1-15,8).
+
+Conclusiones: LASs, LASRs y LASRa están disminudos en pacientes que desarrollan FA post CRM y LASRs, LASRa fueron predictores independientes de ésta.
+
+Background: Atrial fibrillation (AF) is the commonest arrhythmia post coronary artery bypass grafting (CABG); it is associated to left atrial (LA) dilatation and dysfunction. Speckle tracking derived longitudinal strain and strain rate are novel techniques to evaluate LA function.
+
+Aim: to evaluate the relation of global longitudinal LA strain and strain rate with the development of AF in patients undergoing CABG.
+
+Methods: Consecutive patients undergoing CABG with LV ejection > 50% and sinus rhythm were included. Clinical characteristics were tabulated and LA echocar-diographic speckle tracking measurements, LASs, LAS-Ra, LARs, were used to determine LA strain and LA strain rate. Continuous ECG monitoring for 1 week was performed to assess the occurrence of AF. Student's t, chi square and multiple logistic regression were used for statistical analysis.
+
+Results. 70 patients were studied; 26% developed post-operative AF. Compared to patients remaining in sinus rhythm, patients developing post-operative AF had lower LASs (10 ± 1,1 vs 24 ± 1,2%, p < 0,001), LASRa (- 0,6 ± 0,1 vs - 1,8 ± 0,12, p < 0,001) and LASRs (0.6 ± 0.007 vs 1.2 ± 0.008, p < 0,001). Independent predictors of AF were LASRs (OR: 6.1, 95% CI 1.3-15.2); LASRa (OR: 2.4, 95% CI 1.1-19.6); LA volume (OR: 4,67, 95% CI 1.5-19.2) and age>65 years (OR: 2.31, 95% CI 1.1-15.8).
+
+Conclusion.: LASs , LASRs and LASRa are lower in patients who develop AF after CABG and LASRs and LASRa were independent predictors of post-operative AF. Thus, LA strain rate assessed by speckle tracking is useful for predicting AF after CABG in addition to classic risk factors such as age and LA volume.
+
+Keys words: Speckle tracking echocardiography, atrial strain, atrial fibrillation.
+
+ 
+
+Introducción:
+
+La fibrilación auricular (FA) es la arritmia más frecuente en la población adulta, afectando el 1% de la población general y más del 5% de la población mayor a 65 años1. El desarrollo de FA se asocia a deterioro significativo de la calidad de vida, así como a un incremento en la morbimortalidad que alcanza casi al doble de la población de similar edad en ritmo sinusal 1,2
+
+Aun cuando los mecanismos que subyacen a la génesis y perpetuación de la FA no son completamente comprendidos, la hipótesis fisiopatológica actual está basada en un modelo de reentradas funcionales múltiples en un tejido auricular eléctricamente heterogéneo 3. Cambios anatómicos e histológicos en la aurícula pueden favorecer el desarrollo de FA al aumentar la anisotropía eléctrica del tejido 3,4
+
+Un modelo particular para el estudio de la FA lo constituye la FA post cirugía de revascularización miocárdica (CRM). En estos sujetos, la inflamación, estrés oxida-tivo y factores mecánicos propios del procedimiento quirúrgico determinan el desarrollo de FA en individuos susceptibles. Aún cuando inicialmente se suponía que la FA del postoperatorio era un fenómeno transitorio y en última instancia benigno, estudios recientes han demostrado que al igual que otras formas de FA, la FA del postoperatorio se asocia a un riesgo de morbimortalidad elevado 5. En un estudio de Villarreal et al. 6, 6.700 pacientes fueron seguidos post CRM, los pacientes con FA postoperatoria presentaron un riesgo incrementado de muerte y accidente vascular encefálico en el corto plazo, y una mortalidad elevada en el seguimiento alejado (RR 1.5, IC 95% 1.3-1.9). Más recientemente, Mariscalco et al., demostraron que el exceso de mortalidad en el seguimiento alejado depende principalmente de eventos embólicos fatales 7. Dada la alta prevalencia de la FA, que puede afectar hasta a un 30% de los pacientes luego de cirugía de CRM, se hace evidente la necesidad de un estudio detallado de los factores predisponentes al desarrollo de la arritmia y de los elementos que determinan un sustrato susceptible para identificar apropiadamente los pacientes en riesgo y orientar efectivamente las intervenciones profilácticas para la ocurrencia de la arritmia y sus complicaciones. Evidencia de diferentes estudios clínicos sugieren un rol de numerosos factores como inflamación, estrés oxidativo, fibrosis auricular y alteración en expresión de conexinas que llevan a un sustrato proarrítmico 8. Por otro lado, una serie de elementos clínicos están asociados con un aumento del riesgo de FA post CRM como la edad avanzada y un aumento del tamaño auricular izquierdo (AI), dos de los elementos más consistentemente predictores de FA en la mayoría de las series 9. Además, la disfunción AI ha sido observada en pacientes con enfermedad coronaria y ha sido propuesta como un factor de riesgo potencial para el desarrollo de FA post CRM. 10
+
+En años recientes, el estudio del strain y strain rate AI por speckle tracking bidimensional ha surgido como un método novedoso para la evaluación de la función AI 11. El speckle tracking es una herramienta ecocardiográfica que permite seguir el patrón de speckles cuadro por cuadro en la imagen bidimensional permitiendo la cuantifi-cación de la deformación del tejido 11. El strain y strain rate AI se correlaciona en forma adecuada con parámetros ecocardiográficos de evaluación de la función auricular y ha sido demostrado que el strain rate AI alterado se asocia a una mayor recurrencia de FA paroxística 12. El presente estudio tiene como objetivo evaluar el strain y strain rate AI por speckle tracking bidimensional en pacientes con enfermedad coronaria (EC) e indicación de CRM y observar su relación con el desarrollo de FA post operatoria.
+
+Métodos
+
+Población de estudio
+
+Se incluyeron un total de 70 pacientes con enfermedad coronaria (EC) que fueran a CRM electiva. Los criterios de inclusión fueron: ritmo sinusal preoperatorio, fracción de eyección > 50, cirugía con circulación extracor-pórea.
+
+Criterios exclusión: FA previa, síndrome coronario agudo dentro del mes previo, enfermedad inflamatoria o infecciosa activa, neoplasia, enfermedad pulmonar obstructiva crónica, insuficiencia renal (creatinina > 1,5 mg/dL). Todos los sujetos firmaron un consentimiento informado aprobado por el comité de ética de nuestra institución. Se registraron las características clínicas y demográficas de todos los sujetos y se realizó un ecocar-diograma transtorácico previo a la cirugía por un operador experto y ciego.
+
+Se realizó monitorización electrocardiográfica continua durante 5 días post operatoria para la evaluación de la ocurrencia de FA. Posterior a este período se realizaron registros electrocardiográficos según sintomatología o examen físico sugerente de FA. El seguimiento se mantuvo durante todo el período de hospitalización.
+
+Adicionalmente, en todos los sujetos, se realizaron mediciones plasmáticas de PCR ultrasensible (PCRus) como marcador de inflamación en el período preoperatorio. Se utilizó el método nefelométrico (Dade Behring BN II Nephelometer) con un límite de detección de 0,1 mg/L 13
+
+por speckle tracking y fibrilación auricular post cirugía...
+
+Electric Medical Health disponible comercialmente (transductor M4S de 2.5-5 MHz). Se obtuvieron las ventanas ecocardiográficas habituales con el paciente en decúbito lateral izquierdo. Se calculó el volumen AI a partir de las visiones apicales de cuatro y dos cámaras utilizando el método biplano de discos y la masa ventricular izquierda mediante la fórmula de Devereux 14. La función diastólica fue evaluada mediante el registro de las velocidades de influjo mitral con doppler pulsado y doppler tisular a nivel del anillo mitral medial y lateral en la visión cuatro cámaras apical.
+
+Strain y strain rate auricular izquierdo
+
+Para el estudio del strain y strain rate AI las imágenes fueron procesadas post adquisición con el programa Echopac7 versión 2.1.2 del 2008. Los bordes endocár-dicos fueron trazados manualmente usando un puntero. El strain AI fue calculado usando el registro electrocar-diográfico como referencia lo que permitió el reconocimiento del peak de la onda positiva sistólica (LASs) que corresponde a la función de conducto de la AI. De igual forma, en la curva del strain rate AI se identificó el peak de la onda positiva sistólica (LASRs) al inicio del sístole ventricular izquierdo y el peak de la onda negativa durante la contracción auricular (LASRa). Figura 1. El programa divide la pared de la AI en 6 segmentos y se consideró el promedio de LASs, LASRs and LASRa para el análisis.
+
+
+
+Speckle tracking bidimensional de la auricular izquierda. Curva de strain rate que muestra la onda sistólica positiva LASRs) y el peak de la onda negativa en relación a la contracción auricular (LASRa).
+
+Estudio ecocardiográfico
+
+En cada paciente se realizó un estudio ecocardiográfico transtorácico bidimensional completo por un operador experto y ciego. Se utilizó el equipo Vivid 7 General
+
+Análisis estadístico
+
+Para el cálculo del tamaño muestral se utilizó el programa Power and Sample size calculations versión 2.1.31 considerando como referencia los datos de Tsai et al 12. Con una potencia de 90%, error alfa de 5% los grupos con y sin FA debían ser al menos de 15 sujetos. Las variables fueron presentadas como porcentajes y promedios ± DS. Las diferencias entre los grupos que desarrollaron y no desarrollaron FA fueron evaluadas con chi-cuadrado y t-Student según correspondía. Se utilizó análisis por regresión logística múltiple para la evaluación de predictores independientes de ocurrencia de FA post operatoria. Un valor p < 0.05 fue considerado estadísticamente significativo.
+
+Resultados
+
+Un 26% de los pacientes presentaron algún episodio de FA luego de una semana de seguimiento. Las características basales, clínicas y ecocardiográficas, se muestran en la Tabla 1. La mortalidad intrahospitalaria fue de un 0% y ningún paciente experimento complicaciones tromboembólicas. Los pacientes que desarrollaron FA postoperatoria eran significativamente mayores (62 ± 2 versus 70 ± 2 años; p = 0,008) y tenían volúmenes auriculares mayores (30 ± 3,8 ml/m2 versus 23 ± 1,3 ml/m2; p = 0,01) en comparación con los pacientes que no presentaron la arritmia. Además, los pacientes que presentaron FA tuvieron tiempos de circulación extra-corpórea más prolongados (103 ± 1 min vs 138 ± 1 min; p = 0,02). Ambos grupos eran similares con respecto al género, índice de masa corporal, prevalencia de hipertensión arterial y diabetes, niveles de PCRus e índice de masa ventricular izquierdo.
+
+Edad (años)
+
+62 ± 2
+
+70 ± 2
+
+0,008
+
+Hipertensión (%)
+
+46
+
+50
+
+NS
+
+Diabetes Mellitus (%)
+
+21
+
+27
+
+NS
+
+IMC (kg/m2)
+
+26 ± 2
+
+25 ± 2
+
+NS
+
+Índice masa VI (g/m2)
+
+120 ± 5
+
+128 ± 8
+
+NS
+
+E/A
+
+1,0 ± 0,1
+
+1,4 ± 0,1
+
+NS
+
+Volumen AI (mL/m2)
+
+23 ± 1,3
+
+30 ± 3,8
+
+0,01
+
+E/e"
+
+11 ± 1
+
+15 ± 2
+
+0,05
+
+PCR us (mg/dL)
+
+5,7 ± 1,2
+
+6,8 ± 1,4
+
+NS
+
+TCE (min)
+
+103 ± 1
+
+138 ± 2
+
+0,02
+
+Abreviaciones. IMC: índice de masa corporal; VI: ventrículo izquierdo;          TCE: tiempo de circulación extracorpórea.
+
+Respecto de la función AI, los pacientes que presentaron FA postoperatoria tenían menor LASs (10 ± 1,1 vs 24 ±1,2%, p < 0,001), menor LASRa (- 0,6 ± 0,1 vs - 1,8 ± 0,12, p < 0,001) y menor LASRs (0,6 ± 0,07 vs 1,2 ± 0,08, p < 0,001) respecto de los pacientes que no presentaron la arritmia (Figuras 2, 3 y 4). La diferencias en las ondas del strain y strain rate se mantuvieron significativas tanto en pacientes con volumen AI < 32 ml/m2 y volumen AI > 32 ml/m2. En el análisis multi-variado (Figura 5) los predictores independientes de FA postoperatoria fueron: LASRs (odd ratio 6,1, IC 95% 1,3-15,2), LASRa (odd ratio 2.4, IC 95% 1,1-19,6), volumen AI (odd ratio 4,67, IC 95% 1,5-19,2) y edad > 65 años (odd ratio 2,31, IC 95% 1,1-15,8).
+
+
+
+
+
+
+
+
+
+Discusión
+
+Este estudio muestra que los pacientes que presentan FA post CRM presentan parámetros de evaluación de función AI disminuidos, como son LASs, LASRs y LASRa, respecto de pacientes que no desarrollan la arritmia y esta diferencia se mantiene a distintos volúmenes auriculares, el cual junto con la edad han sido factores de riesgo clásicos para el desarrollo de FA post CRM. Además, muestra que la evaluación preoperatoria del strain rate bidimensional por speckle tracking es útil en predecir la ocurrencia de FA post CRM. Por otro lado, se muestra que los pacientes que desarrollaron FA tenían presiones de llenado del ventrículo izquierdo mayores respecto de los pacientes que no presentaron FA, al comparar la relación E/e' de ambos grupos, elemento que se asocia a crecimiento AI y que se corrobora en otros estudios 15.
+
+La presencia de disfunción AI en pacientes con EC y su asociación con el desarrollo de FA post CRM fue previamente descrito utilizando doppler tisular 10. . Benedetto et al., 15 demostraron que pacientes con FA post operatoria tenían menores velocidades en el anillo mitral durante el sístole auricular en un estudio utilizando doppler tisular, un marcador que refleja la contractilidad AI. Nuestros hallazgos están en concordancia con esta evidencia anteriormente publicada. Sin embargo, es reconocido que el speckle tracking bidimensional tiene importantes ventajas sobre el estudio de tejidos con doppler tisular, incluidos la independencia del ángulo de evaluación y la tracción del tejido vecino12. El estudio de las velocidades del tejido auricular con doppler tisular no permite distinguir entre el movimiento intrínseco miocárdico y el desplazamiento pasivo debido a la tracción del tejido vecino16. Además, el estudio mediante doppler tisular limita el análisis a segmentos específicos de la pared de la AI, en cambio el speckle tracking permite el análisis de toda la pared AI otorgando una mayor información sobre la función AI11. Al contrario de nuestro estudio con speckle tracking, otros índices de evaluación de la función AI como el índice auricular (doppler) y cambios del área AI por planimetría han fallado en predecir un riesgo aumentado de FA post CRM 17,18
+
+Las causas de la disfunción AI en la EC no están completamente esclarecidas19. Es posible que mecanismos de isquemia sobre miocitos atriales en pacientes con enfermedad ateroesclerótica de la arteria circunfleja jueguen un rol importante 19, pero también es posible que anomalías estructurales como fibrosis intersticial y sobrecargas de presión auricular en presencia de disfunción sistólica y diastólica del ventrículo izquierdo tengan un rol importante 10. La disfunción AI puede llevar a un mayor riesgo de FA postoperatoria a través de un remodelado eléctrico producto de un aumento en las presiones intraauriculares que resultan en una dispersión de los períodos refractarios, fibrosis y vulnerabilidad eléctrica que finalmente llevan al desarrollo de FA 20,21.
+
+En nuestro estudio no encontramos diferencia en los niveles de PCRus entre ambos grupos, a pesar de que la inflamación ha sido mostrada como un elemento de inicio y perpetuación de FA 22. Probablemente, esto está dado por el modelo del estudio en donde todos los sujetos, por su patología basal, presentaban niveles de PCRus elevados haciendo más difícil lograr percibir alguna diferencia entre los grupos. Sin embargo, los pacientes con tiempos de circulación extracorpórea más prolongados, condición asociada a mayor estrés inflamatorio 19, presentaron más FA en el seguimiento.
+
+Las limitaciones de este estudio son que sólo se consideró la ocurrencia de FA en el período intrahospitalario y se puede subestimar la incidencia de FA postoperatoria y una proyección importante es correlacionar estos hallazgos con la histología AI en relación a la presencia de fibrosis en el tejido.

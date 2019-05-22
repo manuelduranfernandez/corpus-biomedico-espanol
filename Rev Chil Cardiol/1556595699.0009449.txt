@@ -1,0 +1,76 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602016000100005
+Dexmedetomidina genera óxido nítrico mediante un mecanismo independiente de la óxido nítrico sintasa inducible
+
+ 
+
+Introducción
+
+El infarto del miocardio es una de las principales causas de muerte a nivel mundial, pudiendo ser un evento menor en una enfermedad crónica o manifestarse como un evento catastrófico que resulte en muerte súbita o en deterioro hemodinámico severo1.
+
+El término infarto del miocardio refleja la muerte por necrosis de cardiomiocitos generada por una isquemia prolongada2. En ese contexto, la reperfusión inmediata es de fundamental importancia para la viabilidad del miocardio. Sin embargo, este proceso a su vez desencadena la muerte celular a través de un mecanismo que implica la apertura del poro de transición de permeabilidad mitocondrial (PTPM), lo que se conoce como daño por reperfusión3.
+
+El daño por isquemia del miocardio solía considerarse irreversible; sin embargo, en la actualidad se ha mostrado que al someter el tejido cardíaco a estrés por falta de oxígeno o al privarlo de sustratos, por periodos cortos, se activan mecanismos endógenos de sobrevida celular. Estos mecanismos moleculares favorecen condiciones fisiológicas de adaptación a la isquemia4. Los fenómenos de protección frente a un infarto del miocardio como consecuencia de breves períodos de isquemia previo o posterior a este proceso, se conocen como pre- y post-condi-cionamiento isquémico, respectivamente (PI y PostCI)5-6. La forma clásica de PI temprano ocurre inmediatamente terminada la maniobra pre condicionante, sin embargo, también se ha descrito una segunda ventana de pre condicionamiento (PI tardío), que se lleva a cabo entre las 24 a 72 h y se relaciona con la expresión de genes que codifican para la expresión de proteínas de sobrevida celular7. En cuanto a los mecanismos que median los efectos del PI y PostCI se ha mostrado que durante la reperfusión se activan cascadas de señalización de proteínas pro-sobrevida entre las cuales destacan la fosfatidilinositol 3-kinasa (PI3K) y las proteínas kinasas AKT y ERK1/2. Esta vía se denomina RISK (Reperfusion Injury Salvage Kinases, por su sigla en inglés)8. Además, también se ha descrito la participación de otras proteínas como PKC-ε, PKG, p70S6K y GSK-3β. La protección se deriva de la inhibición de la formación del PTPM a través de la activación de las kinasas de sobrevida AKT y ERK1/2, cuya inhibición del PTPM se ejerce por medio de la fosforilación de GSK-β8,9. 
+
+Actualmente, también se ha establecido que estas vías de señalización celular protectoras se pueden activar mediante el uso de fármacos10. En ese contexto, dexme-detomidina (Dex) es un agonista altamente selectivo de los receptores alfa2-adrenérgicos que, además de su uso como sedante en anestesia11, ha sido descrito sólidamente como protector y pre-condicionante en múltiples modelos de isquemia-reperfusión (IR)12-15. Asimismo, también se ha descrito su efecto protector en el corazón16-20; sin embargo, el mecanismo por el cual ejerce su efecto pre-condicionante aún está siendo estudiado. Recientemente, en nuestro laboratorio se describió la participación del endotelio y la vía óxido nítrico sintasa endotelial (eNOS)-óxido nítrico (NO) en el pre-condicio-namiento miocárdico con Dex (Fig. 1)21. En el contexto de lo indicado, este trabajo mostró activación de eNOS y un aumento de NO en respuesta a Dex en corazón aislado de rata. Además, se observó que el efecto cardioprotector de Dex frente a IR se perdió al co-administrar el fármaco con PTIO (atrapador de NO) y L-NAME (inhibidor de NOS)21. Sin embargo, cabe indicar que L-NAME es un inhibidor no específico de las NOS22, por lo que no se puede descartar la participación o efecto conjunto de las otras isoformas, nNOS e iNOS. La presente adenda tiene como objetivo evaluar si Dex activa a iNOS en el corazón y así evidenciar la posible participación de esta proteína en la cardioprotección generada por Dex.
+
+ 
+
+
+
+Fig. 1. Dex protege frente a IR a través de un mecanismo dependiente del endo-telio y la vía eNOS NO. Dex se une al receptor alfa2-adrene'rgico (Alfa2R) en el endotelio, promoviendo la activación de AKT, que a su vez activa a la óxido nítrico sintasa endotelial (eNOS). El óxido nítrico (NO) generado por eNOS difunde desde el endotelio hacia el cardiomiocito, activando a la guanilato cicla-sa soluble (sGC), la cual produce GMP cíclico (cGMP), que activa la proteína kinasa dependiente de cGMP (PKG), generando así la protección temprana del miocardio. Asimismo, el NO puede promover protección tardía, la cual podría estar mediada por la inducción de la óxido nítrico sintasa inducible (iNOS).
+
+Materiales y Métodos
+
+Reactivos
+
+El anticuerpo contra GAPDH, laminina y M-199 se obtuvieron en Sigma-Aldrich (St Louis, MO). Dexmedeto-midina-HCl se obtuvo de Hospira, Chile. El anticuerpo contra iNOS se adquirió de BD Transduction Laboratories El kit colorimétrico para óxido nítrico se compró en Abcam (Cambridge, MA).
+
+Animales
+
+El presente estudio se ajustó a la Guía para el Cuidado y Uso de Animales de Laboratorio publicada por los Institutos Nacionales de Salud de Estados Unidos (8va Edición, 2011) y fue aprobado por el Comité de Ética Institucional. Las ratas se obtuvieron del Bioterio de la Facultad de Ciencias Químicas y Farmacéuticas, Universidad de Chile.
+
+Modelo ex vivo de corazón aislado
+
+De acuerdo al protocolo de perfusión retrograda con sistema Langendorff23, ratas Sprague-Dawley (250-350 g) se anestesiaron con pentobarbital (80 mg/kg i.p.). Posteriormente, se realizó una esternotomía y se administró heparina 100 U/kg, i.v. Los corazones se extrajeron rápidamente de la cavidad torácica, montados en una cámara de corazón con temperatura controlada y perfundidos de forma retrógrada a través de la aorta ascendente, con una solución tampón Krebs Henseleit que contenía (en mM) NaCl (128,3), KCl (4,7), CaCl2 (1,35), NaHCO3 (20,2), NaH2PO4 (0,4), MgSO4 (1,1), glucosa (11,1), a pH 7,4 a 37° C, al equilibrarse con una mezcla de 95% O2 y 5% CO2. Las temperaturas del perfusado se mantuvieron a 37° C. Un balón de látex se insertó en el ventrículo izquierdo a través de la válvula mitral, se conectó a un transductor de presión (Puente Amp ADInstruments ML221, Australia) y se llenó con solución salina para producir una presión diastólica final del ventrículo izquierdo (PFD) de 5-10 mmHg. Los corazones se estabilizaron durante 20 min, se pre-condicionaron con una infusión de Dex 10 nM durante 25 min y, posteriormente, se realizó un lavado de 5 min con buffer Krebs-Henseleit. Luego, los corazones se congelaron a -80° C para posterior análisis.
+
+Obtención de homogenizados de tejidos
+
+Los ventrículos de ratas adultas congelados en nitrógeno líquido se homogeneizaron en tampón frío con inhibidores de fosfatasas y proteasas (en mM): MOPS-Tris pH 720, Sacarosa (300), EDTA (2), EGTA (2) Na3V04 (10), NaF (80), Na4P2O7 (20), Nonidet P-40 del 1% (v/v), SDS 0,1% (v/v) y los inhibidores de proteasas leupeptina y pepstatina (1:1000), pH final 7,4. Luego las muestras se homogenizaron en Douncer vidrio-teflón y, posteriormente, se centrifugaron a 1000 x g durante 20 min a 4° C. Posteriormente, se determinó la concentración de proteínas por el método de Hartree 24. Las fracciones solubles se guardaron congeladas a -80° C, para posterior análisis por Western blot.
+
+Western blot y determinación de dimeros de iNOS:
+
+La dimerización de iNOS se evaluó utilizando electro-foresis de baja temperatura (LT SDS PAGE) según la técnica descrita25. Los niveles de la forma dimerizada de iNOS en los ventrículos de ratas adultas se determinaron por Western blot, al final del periodo de precondiciona-miento farmacológico. Para la electroforesis y el análisis de Western blot, los lisados de los tejidos se ajustaron por proteínas (20 μg), separadas por LT-SDS-PAGE (8%). Los geles se mantuvieron previamente a 4°C y la cámara de electroforesis se mantuvo en una fuente con hielo, de manera tal que se mantuviese la temperatura del gel (<10°C) hasta ser transferidos a membranas de PVDF. Posteriormente, las membranas se bloquearon con BSA al 5% p/v en TBS Tween 0,2% por 1 h. Las membranas se incubaron con anticuerpos contra la forma total (1:1.000) de iNOS, así como también un anticuerpo contra GA-PDH como control de carga (1:20.000). Después de un período de incubación adicional con los correspondientes anticuerpos secundarios anti IgG de conejo o ratón, conjugado a peroxidasa de rabanito (1:5.000), la unión específica se detectó mediante quimioluminiscencia (ECL). La intensidad de la señal de las bandas se cuantificó por densitometría usando el software Image J.
+
+Determinación de nitritos por reacción de Griess
+
+La concentración de nitritos se cuantificó por medio de la reacción de Griess, utilizando el kit ab65328 Nitric Oxide Assay Kit Colorimetric (Abcam). Las muestras se obtuvieron en el efluente coronario posterior a los 5 min de lavado que suceden el tratamiento con o sin Dex 10 nM.
+
+Cultivo primario de cardiomiocitos adultos de rata
+
+Ratas adultas Sprague-Dawley (250-350 g) se anestesiaron con pentobarbital (80 mg/kg IP), y los corazones se aislaron y perfundieron de forma retrograda a través de la aorta. Los cardiomiocitos se aislaron administrando una infusión de colagenasa tipo II, según la técnica descrita26. Luego, las células se sembraron en placas con laminina e incubadas durante6-24 h a 37°C en condiciones de 95% oxígeno y 5% CO2. Las células se mantuvieron en medio M-199 (M7653, Sigma) suplementado con 10% de suero fetal de ternero y 1% penicilina - estreptomicina (Sigma).
+
+PCR a tiempo real (qPCR)
+
+Cardiomiocitos de rata adulta se estimularon con Dex 10 nM durante 0.5, 1, 2 y 3 h. PCR a tiempo real se realizó utilizando SYBR Green (Applied Biosystems), según el protocolo ya descrito27. Los datos obtenidos para cada transcrito se normalizaron respecto al rRNA 18S como control interno, usando el método 2-ΔΔCt. Los partidores utilizados fueron los siguientes:
+
+-iNOS (rata) sentido TTGGTACATGGGCACCGAGATTG 
+
+-iNOS (rata) antisentido CAGCTGCATTGATCTCGGTGACA
+
+Análisis estadístico
+
+Los resultados se muestran como el promedio ± SEM de al menos 3 experimentos independientes. Los datos se analizaron utilizando t test o ANOVA de una vía. Las diferencias se consideraron significativas con p<0.05.
+
+Resultados y Discusión
+
+Para evaluar si Dex activa a iNOS en el miocardio, corazones aislados de rata adulta se estimularon durante 25 min con Dex 10 nM y posteriormente se generó un lavado de 5 min con buffer Krebs-Henseleit. Posterior a este lavado, se midió la generación de nitritos, que son un marcador de NO28 y se observó que Dex aumentó su producción (Fig. 2A), lo cual concuerda con trabajos anteriores que describen la capacidad de Dex de generar NO21-29-30. Sin embargo, al evaluar la formación de dímeros (estado activo de la isoforma inducible de NOS31), no se observaron cambios respecto al control (Fig. 2B). Para confirmar estos resultados se evaluaron los niveles de mRNA de iNOS en cardiomiocitos de rata adulta en respuesta Dex 10 nM y no se observaron cambios respecto al control (Fig. 2C). Estos resultados apoyan los hallazgos que sugieren que iNOS se asocia a la segunda ventana de cardioprotección o PI tardío32 y no al PI agudo. Sin embargo, en ese mismo sentido, no se puede descartar una posible participación de iNOS en la protección generada con Dex a largo plazo, ya que este fármaco genera NO, el cual se ha descrito como uno de los estímulos que gatilla el PI tardío33 y por lo tanto, podría inducir la expresión de iNOS (Fig. 1). Por lo tanto, se requieren estudios de IR in vivo en los cuales se determinen los niveles y activación de iNOS 24 y 72 h en corazones estimulados con o sin Dex. Asimismo, estos hallazgos podrían ser reforzados con estudios de IR in vitro, utilizando siRNAs para nNOS e iNOS, con el fin de descartar con precisión la participación de estas isoformas de NOS.
+
+ 
+
+
+
+Fig. 2. Dex aumenta la producción de nitritos pero no la dimerización o niveles de mRNA de iNOS. (A): Concentración de nitritos en corazones aislados de rata luego de 5 min de lavado posterior a pre-condicionamiento con o sin Dex 10 nM. (B) Panel superior: Western blot representativo de dímeros de iNOS en homogenizados de corazón. En el panel inferior se muestra la cuantificación de los dímeros de iNOS normalizados por GAPDH. (C) Niveles de mRNA de iNOS en cardiomiocitos de rata adulta estimulados con Dex 10 nM durante 0.5,1,2, y 3 h. Las barras representan el promedio + SEM de 3 determinaciones. *P<0,05 vs Control. Los datos se analizaron por t test pareada con una cola, seguido por post-test de Mann-Whitney.
+
+En resumen, Dex protege el miocardio del daño agudo por IR a través de un mecanismo que involucra el endotelio y la vía eNOS-NO, independiente de iNOS. Sin embargo, la isoforma inducible pudiese participar en la protección con Dex a largo plazo y futuros estudios deben clarificar este punto. Asimismo, Dex es un fármaco cuyo efecto cardioprotector se encuentra ampliamente documentado, pero los estudios que detallen su mecanismo de acción en este pre condicionamiento no son menos importantes, ya que un correcto y detallado entendimiento de la señalización celular generada por Dex tanto en la primera como en la segunda ventana de protección, asegurará su uso seguro y permitirá a su vez, desarrollar nuevas estrategias de protección frente al infarto del miocardio.
+
+Agradecimientos

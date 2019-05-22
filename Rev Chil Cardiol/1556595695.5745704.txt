@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602011000300005
+Determinación del polimorfismo de CYP2C9*2 y su relación con la farmacocinética de acenocumarol en voluntarios sanos
+
+ 
+
+Introducción
+
+En la experiencia clínica actual se sabe que, en general, los fármacos son eficaces sólo entre un 25 a un 60% de los pacientes, por lo tanto, es considerable el número de casos en los que se observa falla terapéutica o se presentan reacciones adversas 1-3. Esta variabilidad entre individuos es multifactorial, pero en la actualidad se conoce que la información predeterminada genéticamente es responsable entre un 25 a un 95% de la variabilidad de la respuesta a medicamentos, lo que es el foco principal de estudio de la Farmacogenética 1-4, en especial para aquellos fármacos con una concentración plasmática mínima o un índice terapéutico estrecho, como son por ejemplo warfarina, acenocumarol o fenitoína 1-3; 5; 6.
+
+Las enzimas del citocromo P450 (CYP) que realizan la biotransformación de fármacos y otros xenobióticos pertenecen a tres familias CYP1, CYP2 y CYP3. Presentan en humanos un alto número de variables alélicas que podrían conducir a la supresión, disminución o aumento del metabolismo de fármacos. Por ende, es necesario conocer su variación en un individuo para ajustar a una terapia farmacológica individualizada, más eficaz y más segura 7-9.
+
+Entre las enzimas P450, CYP2C9 es una isoenzima que metaboliza aproximadamente el 15% de los medicamentos y que presenta polimorfismos genéticos que conducen a alteración de su actividad. El alelo silvestre es conocido como CYP2C9*1 y se denomina CYP2C9*2 cuando se produce un cambio nucleotídico o SNP (single nucleotide polymorphism) de una citosina por una timina en la posición 430 del gen (C430T) lo que conlleva a un cambio aminoacídico en la proteína de Arginina por Cisteína en la posición 144 de la secuencia de la enzima (rs1799853), esta mutación provoca que la variante *2 presente alrededor de 8 veces menor actividad que la enzima normal 10; 11. En poblaciones caucásicas se ha encontrado una frecuencia para esta variante de alrededor de un 19% para el genotipo heterocigoto (CYP2C9*1/*2) y un 3% para el genotipo homocigoto recesivo (CYP2C9*2/*2) 12; 13, similar a lo encontrado por nuestro grupo de investigación (12% para *1/*2 y un 4% para *2/*2) en 260 personas chilenas analizadas (datos no publicados).
+
+En el tratamiento con anticoagulantes orales se observa una gran variabilidad en la respuesta debido a su estrecho margen terapéutico, una gran unión a proteínas plasmáticas (97%), influencia de la dieta (consumo vitamina K) y a un gran número de interacciones farmacocinéti-cas y farmacodinámicas. Por esta razón es un área de vital importancia para individualizar la dosis diaria de cada paciente 14.
+
+Uno de los anticoagulantes orales más prescritos es el acenocumarol (Figura 1), el cual presenta mayor actividad que la warfarina 14; 15. Se absorbe vía oral con rapidez, con una biodisponibilidad sistémica de un 60% como mínimo. Las enzimas involucradas en el metabolismo de acenocumarol son CYP2C9, CYP1A2 y CYP2C19 14. Investigaciones previas demuestran que CYP2C9 representa el 14% de la variabilidad interindividual en la respuesta farmacológica 14; 15, por lo que no es posible establecer una correlación entre las concentraciones plasmáticas de acenocumarol y el nivel de pro-trombina o INR. Por lo tanto, determinar las variaciones genéticas interindividuales que explican las diferencias en la respuesta permitiría llevar un buen control de la terapia e indicar prescripción apropiada. En Chile no existen estudios que hayan demostrado que la presencia de variaciones alélicas en CYP2C9 altere los parámetros farmacocinéticos de acenocumarol. De acuerdo a los antecedentes propuestos se busca implementar un método confiable, rápido y reproducible que permita la detección de la variante CYP2C9*2, el cual corresponde al polimorfismo con mayor relevancia clínica y además, relacionar la presencia de esta variante a cambios en los parámetros farmacocinéticos de aceno-cumarol en voluntarios sanos.
+
+
+
+
+
+Mecanismo de acción y biotransformation de acenocumarol. VKO-CR1: vitamina K epóxido reductasa.
+
+Materiales y Métodos
+
+Materiales: 
+
+Como medicamento de estudio se utilizó comprimidos de 4 mg de acenocumarol (Neo Sintrom®) de Laboratorio NOVARTIS. Los reactivos, solventes y material cromatográfico fueron adquiridos en Merck Química S. A. Las muestras de sangre se tomaron mediante una bránula ante braquial (Beckton & Dickinson, 18 G).
+
+En la técnica de PCR-RFLP se utilizaron partidores, dNTPs, Taq ADN Polimerasa (Invitrogen, Brasil), enzima de restricción AvaII (Eco47I) (Fermentas, USA), marcador de peso molecular 100-1000pb Hyperladder IV (Bio-line, USA). La purificación del ADN de sangre periférica se realizó con un sistema comercial (Roche Diagnostics GmbH, Alemania).
+
+Voluntarios: 
+
+Para el presente estudio, luego de la obtención de una autorización ética, los voluntarios fueron llamados vía página web del laboratorio (www.ift.cl), informados y consultados acerca de su voluntad de participar en el estudio, firmando un documento de consentimiento informado y autorizando una serie de exámenes para constatar su estado de salud. Estos exámenes incluyeron: examen físico completo, hemograma y VHS, tiempo de protrombina, orina completa, VIH, hepatitis B y C, screening de drogas de abuso, glicemia, uremia, proteinemia, fosfatasas alcalinas, bilirubinemia, transaminasas oxálica y pirúvica y creatinemia. En el caso de las mujeres, se les practicó además un test de embarazo. Se seleccionaron 24 voluntarios sanos (Tabla I) adultos originarios de Chile, hombres y mujeres de edades entre 18 y 55 años con apellidos hispanoamericanos y masa corporal (IMC) entre 19 y 30 Kgm2, no fumadores, ni consumidores de drogas de abuso o alcohol, sin alergias a medicamentos y sin terapias concomitantes, además no debieron ingerir fármacos al menos dos meses antes del estudio. Finalmente, aquellos que presentaron rangos normales en los exámenes de laboratorio y después de previo examen físico (incluye la razón del índice normalizado de tiempo de protrombina (INR) entre 1 y 1,25), fueron declarados aptos para participar en el estudio.
+
+
+
+
+
+Los voluntarios estuvieron en ayunas (mínimo 12 horas) e ingirieron una dosis oral de 4 mg de acenocumarol con 250 mL de agua purificada. Las muestras de sangre periférica se recolectaron en tubos que contenían heparina sódica en los siguientes intervalos de tiempo: tiempo 0 (antes de administrar la droga), 0,5; 1,0; 1,5; 2,0; 2,5; 3,0; 3,5; 4,0; 4,5; 5,0; 6,0; 8,0; 11,0 y 24 horas post ingesta de acenocumarol. El plasma se obtuvo mediante centrifugación a 2.000 rpm en centrífuga refrigerada. Además, se recolectó una muestra en tubo que contenía EDTA para el análisis genotípico.
+
+Los voluntarios estuvieron recluidos 14 horas en el centro y fueron atendidos por todo el equipo profesional, la alimentación fue diseñada por una nutricionista sobre la base de lo aconsejado por el médico. El médico llenó un formulario de reportes clínicos para cada voluntario que incluía una ficha de reacciones adversas a medicamentos (RAM), exámenes clínicos y de laboratorio. 
+
+Aspectos éticos: 
+
+El estudio fue aprobado por el Comité de Ética de Investigación en Seres Humanos de la Facultad de Medicina de la Universidad de Chile y fue desarrollado de acuerdo a las buenas prácticas clínicas y la declaración de Helsinki 16; 17.
+
+Determinación de CYP2C9*2 mediante PCR-RFLP:
+
+Se determinaron las variantes genéticas de CYP2C9*2 en los 24 voluntarios sanos mediante la técnica PCR-RLP utilizando una adaptación del método de Adithan et al, 2003 18, en el cual se utilizan los siguientes partidores de ADN: directo (5'-TACAAATACAATGAAAATATCATG-3') e inverso (5'-CTAACAACCAGACTCATAATG-3') 19 Posteriormente, el amplicón obtenido fue sometido a digestión con la enzima de restricción AvaII.
+
+Determinación cuantitativa de acenocumarol en plasma: 
+
+Se validó el método de Huang et al, 2008 de Cromatografía Líquida de Ultra Resolución, acoplada a espectrometría de masa (UPLC-MS/MS) con modificaciones 20. Se definió con respecto a la estabilidad, selectividad, sensibilidad, exactitud, precisión, recuperación, lineali-dad, reproducibilidad siguiendo la guía de FDA 21. El sistema cromatográfico consistió en un detector Quatro Micro API, Modelo ESCI Multimode-Ionization, Mi-cromass y una unidad UPLC Acquity (Ultra Performance LC), un sistema Sample Manager and Binary Solvent Manager marca Waters. La columna utilizada fue una Acqui-ty UPLC BEH HILIC 1.7 μιη 2.1 x 50 mm, Waters. 
+
+Farmacocinética: 
+
+Los parámetros farmacocinéticos correspondientes a concentración plasmática máxima (Cmáx) y tiempo máximo (tmáx), área bajo la curva de concentraciones plasmáticas hasta 24 horas, ABC (0 - t) y hasta tiempo infinito, ABC (0 - 0ט), tiempo de vida media 0½) y constante de eliminación (ke), fueron determinados a partir de los datos obtenidos de las curvas de niveles plasmáticos de la droga en el tiempo post administración. Para ello se utilizó el procedimiento pk examine del paquete estadístico STATA 10.0, el cual es independiente de los modelos compartimentales [STATA 2007]. 
+
+Análisis Estadísticos: 
+
+Los cálculos de los parámetros fármacocinéticos se realizaron con el progama STATA, TX V10, 2007. Los análisis estadísticos se realizaron utilizando el programa GraphPad Prism versión 4.00 y el programa estadístico STATA 10.
+
+Se aplicó una prueba de Shapiro Wilk a los datos de los parámetros farmacocinéticos, luego fueron comparados usando ANOVA de una vía con post test de Dunnett. Se aplicó una prueba paramétrica de modelo de regresión lineal (Y = α + /31 gen + /32 género + /33 imc + β4 edad + e). Los datos se reportaron como promedio y con un 95% de intervalo de confianza (CI 95%).
+
+Resultados
+
+Los resultados obtenidos en el grupo de estudio mostraron que del total de 24 voluntarios, 19 poseen genotipo CYP2C9*1/*1 (wt/wt), 4 voluntarios poseen genotipo CYP2C9*1/*2 (heterocigoto) y 1 voluntario con genotipo de CYP2C9*2/*2 (homocigoto recesivo) (Figura 2).
+
+
+
+
+
+Patrón electroforético del polimorfismo genético estudiado. Después de la digestión del producto de la PCR con la enzima de restricción Avail se observaron fragmentos de 527 y 164 pb para el genotipo silvestre (CYP2C9*1/*1), de 691, 527 y 164 pb para el genotipo heterocigoto (CYP2C9*1/*2) y 691 pb para el genotipo homocigoto mutado (CYP2C9*2/*2).
+
+Todos los voluntarios terminaron el estudio satisfactoriamente, de acuerdo con el protocolo. El análisis estadístico de comparación entre grupos de genotipos mostró que no se alcanza a observar diferencias estadísticamente significativas entre los diferentes grupos de individuos por genotipo y los parámetros farmacocinéticos estudiados.
+
+Las variables antropométricas no influyeron mayormente esta evaluación, debido a que no existieron diferencias relevantes entre los grupos en cuanto a la edad y peso. El resultado de los parámetros farmacocinéticos estudiados (Cmáx, Tmáx, T1/2, ke o ABC) entre los diferentes grupos de genotipos se muestran en la Tabla II.
+
+
+
+
+
+Discusión
+
+Los anticoagulantes orales se utilizan para la prevención primaria y secundaria de eventos tromboembóli-cos. En Chile la política de salud establece como tratamiento administrar acenocumarol a personas de 15 años y más que presenten un accidente cerebrovascular isquémico (Guía GES, MINSAL), por lo que existe un amplio número de pacientes prescritos durante períodos prolongados con anticoagulantes antagonistas de vitamina K.
+
+La determinación de la dosis terapéutica apropiada de estos fármacos para los pacientes es compleja, esto hace que cobre interés determinar factores que puedan predisponer a estos individuos experimentar hemorrágicas severas. Por ello determinar las variaciones genéticas interindividuales que explican las diferencias en la respuesta a medicamentos, permitirá llevar un control de la terapia y una prescripción apropiada.
+
+En este estudio no se encontraron diferencias estadísticamente significativas al comparar los parámetros farmacocinéticos de los voluntarios agrupados por genotipo, esto es, con genotipo CYP2C9*2 con respecto a los voluntarios con genotipo CYP2C9*1 (Figura 3 y 4). Esta falta de asociación estadística se debe en gran medida a que se encontró tan sólo 1 individuo con genotipo CYP2C9*2/*2 (doble mutado) en donde la manifestación de la falta de expresión de la enzima resultaría más evidente dado que en individuos CYP2C9*1/*2 (heterocigotos) la presencia del gen normal en uno de los alelos podría ser suficiente para que el organismo produzca la enzima necesaria y alcance así a metabo-lizar de manera semi-normal el acenocumarol. Ello se podría explicar debido a que el alelo silvestre se encuentra en un ambiente genético de activa transcripción (sin imprinting, represores, etc.) 22.
+
+
+
+
+
+Curva farmacocinética promedio según genotipo para CYP2C9. Los datos están expresados como promedios ± SEM.
+
+
+
+
+
+Gráficos de los parámetros farmacocinéticos de acenocumarol según su genotipo del voluntarios.
+
+Sin perjuicio de lo anterior, la farmacogenética busca, a partir de la información genética de un individuo, predecir cómo éste va a responder frente a un tratamiento farmacológico, por lo tanto, el análisis individual cobra gran relevancia. En este aspecto, resulta muy interesante analizar el individuo que presenta genotipo CYP2C9*2/*2 de manera comparativa con respecto al promedio de las curvas farmacocinéticas de los voluntarios con genotipo CYP2C9*1/*1. La exclusiva presencia del alelo mutado del gen CYP2C9 (*2) modifica los parámetros farmaco-cinéticos, encontrándose que el tmáx se ve aumentado 1,4 veces en aproximadamente una hora, la ke se ve disminuí-da 1,8 veces y el t1/2 aumentado 1,7 veces. Esto sugiere una clara tendencia de menor eliminación del medicamento en este individuo con genotipo homocigoto muta-do para CYP2C9*2. En concordancia con esto, estudios realizados por el grupo Benusiglio et al, en el 2007 encontraron que la dosis requerida de acenocumarol en personas con genotipo CYP2C9*1/*2 debe ser reducida en un 8 a 16% 23. Otro grupo encontró en 145 pacientes con genotipo CYP2C9*2 una dosis óptima de acenocumarol significativamente más baja que en los con genotipo CYP2C9*1 (2,12 ± 0.96 mg/día, p <0,001) 24. También se ha descrito que existe una mayor aparición de complicaciones hemorrágicas menores en los pacientes con el alelo *2 que en otros pacientes sin la variable (p <0,005, OR = 1,99 [IC: 1,20 a 3,33]) 24 25. Sin embargo, el grupo de Saraeva et al, en el 2007 no encontró una relación estadística al presentar un genotipo CYP2C9*2 26

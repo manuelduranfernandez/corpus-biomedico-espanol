@@ -1,0 +1,122 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602018000300176
+Exceso de mortalidad no cardíaca en pacientes sometidos a angioplastía de puentes coronarios
+
+Introducción
+
+Las angioplastías de puente coronario (APC) constituyen cerca del 5-10% del total de procedimientos percutáneos1. Estos procedimientos, comparados con los realizados en coronarias nativas, se asocian a mayor riesgo de complicaciones precoces y alejadas, pero aun así, especialmente en pacientes con puente mamario permeable, la angioplastía constituye la estrategia de revascularización de elección frente a la reoperación2. Con el objetivo de mejorar los resultados, se han introducido sistemas de protección distal, stents cubiertos y stents medicados, que pueden ser de utilidad técnica, pero no han mejorado los resultados clínicos alejados. De hecho, se mantiene una mortalidad elevada a largo plazo que puede alcanzara 20 a 30% de estos pacientes.2) El objetivo de esta investigación es describir la población sometida a APC en nuestro centro y evaluar su mortalidad a mediano plazo. Con el propósito de caracterizar mejor los riesgos alejados de estos pacientes, los hemos comparado con un grupo pareado de pacientes intervenidos por infarto agudo al miocardio con elevación del segmento ST (IAMCEST), considerando que esta es una condición con alta mortalidad y resultados conocidos.
+
+Método
+
+Se realizó un estudio retrospectivo de tipo Caso-Control en el Hospital Clínico de la Pontificia Universidad Católica de Chile, identificándose al grupo de pacientes revascularizados quirúrgicamente y sometidos a angioplastía percutánea de puente coronario entre los años 2010 y 2016, tanto de forma electiva como de urgencia. Mediante el análisis de los registros y ficha clínica, se estudiaron las características clínicas de los pacientes y el tipo de intervención. En forma paralela, se analizó la mortalidad por cualquier causa y la mortalidad cardíaca hasta septiembre de 2018. Este grupo fue comparado con una población de pacientes con angioplastía coronaria en el contexto de un Infarto agudo al miocardio con supra-desnivel del ST (IAMCEST), pareados por edad y sexo dentro del mismo período de tiempo.
+
+La mortalidad fue derivada de la información proporcionada por el Registro Civil e Identificación de Chile.
+
+Análisis Estadístico
+
+Para la descripción de variables cualitativas dicotómicas se empleó tablas de frecuencia. Las variables cuantitativas se describieron con la media ± desviación estándar si su distribución era normal. En caso contrario, se utilizó mediana y valores min-max. Se compararon las variables
+
+categóricas con χ² o la Prueba exacta de Fisher. Para comparación de variables continuas con distribución normal se empleó "t" de Student para muestras independientes con o sin corrección de Welch. De no tener distribución normal se utilizó la prueba U de Mann - Whitney. Para evaluar el grado de asociación y direccionalidad de las variables numéricas con distribución normal se usó R de Pearson. En caso de no tener distribución normal se utilizó la prueba Rho de Spearman.
+
+La sobrevida se evaluó mediante una curva de Kaplan Meyer tanto para mortalidad global como cardiovascular y se buscaron factores relacionados con el modelo de riesgos proporcionales de Cox. En las evaluaciones estadísticas, se utilizó una p de dos colas, con α 0,05 y poder de 80%. Los cálculos fueron realizados en el software STATA 14 para MAC OS.
+
+El protocolo para esta investigación fue aprobado por el Comité de Ética institucional. No se requirió de consentimiento informado ya que solo involucraba revisión de datos e imágenes en forma retrospectiva
+
+Resultados
+
+Pacientes: Entre Enero de 2010 y Diciembre de 2016 se identificaron 63 pacientes sometidos a APC con un total de 76 procedimientos. Este grupo se comparó con 63 pacientes pareados por edad y sexo cursando con un IAM- CEST. Un 19% (n=12) del grupo APC requirió de 2 o 3 procedimientos.
+
+
+
+
+
+Figura 1 Curva de Kaplán Meier de mortalidad global según grupo. 
+
+
+
+
+
+Figura 1 Curva de Kaplán Meier de mortalidad global según grupo. 
+
+La media de edad en el grupo APC fue 70,3 ± 10,9 años, con un mínimo de 35 y un máximo de 89. La media de edad en el grupo IAMCEST fue 70,2 ± 11 años. La distribución por sexos en ambos grupos fue 90,5% (n=57) hombres y 9,5% (n=6) mujeres. La fracción de eyección promedio en el grupo APC fue 51,5 ± 12,6% y en el grupo IAMCEST 47,2 ± 12,2%, (NS, p 0,07).
+
+La prevalencia de dislipidemia fue significativamente mayor en el grupo APC (95,2% vs 39,7%, p=0,002), mientras que el tabaquismo lo fue en el grupo IAMCEST (38,1%, vs 4,76% p=0,001) No hubo diferencias en otras comorbilidades. (Tabla 1).
+
+
+
+
+
+Tabla 1 Características basales de ambos grupos. 
+
+
+
+
+
+
+
+Tabla 1 Características basales de ambos grupos. 
+
+Enfermedad de los puentes:
+
+La localización de los puentes intervenidos fue, en orden de frecuencia: Puente Aorto Coronario (PAC) a la circunfleja 48,7% (n=37), PAC a la coronaria derecha 30,3% (n=23), y PAC al ramo diagonal 10,5% (n=8).
+
+El tiempo entre la cirugía de revascularización y la angioplastía tuvo una mediana de 159 meses con un mínimo de 2 y un máximo de 381.
+
+Resultados de la angioplastía de los puentes: 
+
+Se implantaron en promedio 1,17 ± 0,47 stents por paciente, con un largo de 20,56 ± 6,37 mm y un diámetro de 3,42 ± 0,56 mm. El 70% (n=54) de los pacientes recibió un stent con droga, 14,5% (N=11) un stent metálico, 13,2% (n=10) un stent recubierto (i.e. MGUARD) y 1,32% (n=1) que sólo recibió una angioplastía con balón. El tipo de stent no fue predictor de mortalidad ni de complicaciones peri-procedimiento (p=0,07). El análisis con modelo proporcional de Cox no identificó otros factores relacionados a la mortalidad.
+
+La tasa de éxito del procedimiento fue 95,2%, logrando el implante de al menos 1 stent y flujo TIMI III en 60 de 63 pacientes. En cuanto a las complicaciones, éstas se observaron en 6,3% y se dividen en: 2 casos de "no-reflow", 1 caso de disección y 1 paro cardiorrespiratorio que fue recuperado exitosamente.
+
+Seguimiento alejado: 
+
+Con un seguimiento promedio de 47,5 ± 23,4 meses, los pacientes sometidos a APC presentaron una mortalidad de 28,5% (18 pacientes). En cambio, los pacientes con IAMCEST pareados por edad y sexo, con similar fracción de eyección y sin mayores diferencias en sus características basales tuvieron una mortalidad de 9,5% (6 pacientes), en el mismo período. Esto resulta en un exceso de riesgo de mortalidad mayor a tres veces en pacientes con APC (HR 3,02; IC 95% 1,11 - 8,22, p=0,02). De forma interesante, la diferencia se debió principalmente a una mayor mortalidad de causa no cardíaca en el grupo APC 12,7% (n=8) vs 3,2% (n= 2) [p=0,04]. Podemos observar la curva de Kaplan Meier de mortalidad global en la Figura 1 y de mortalidad cardíaca en la Figura 2.
+
+
+
+
+
+Figura 2 Curva de Kaplán Meier de mortalidad cardíaca según grupo. 
+
+
+
+
+
+Figura 2 Curva de Kaplán Meier de mortalidad cardíaca según grupo. 
+
+Entre las causas de muerte en el grupo APC un 55,6% (n=10) falleció por causa cardíaca incluyendo insuficiencia cardíaca descompensada y shock cardiogénico con falla multiorgánica. Un 16,7% (n=3) falleció por accidentes cerebrovasculares y un porcentaje similar lo hizo por cáncer (pulmonar, leucemia aguda, entre otros.). Finalmente, un 5,5% de los pacientes murió por causas infecciosas y un 5,5% por complicaciones de patología pulmonares (enfermedad pulmonar intersticial). (Figura 3)
+
+
+
+
+
+Figura 3 Causas de mortalidad en el grupo APC. 
+
+
+
+
+
+Figura 3 Causas de mortalidad en el grupo APC. 
+
+Las causas de muerte del grupo IAMCEST fueron en 66,6% (n=4) cardíaca, incluyendo infarto agudo al miocardio e insuficiencia cardíaca; 16,7% (n=1) fallecieron por enfermedad pulmonar intersticial y un número similar por neoplasia (Cáncer de esófago avanzado).
+
+Discusión
+
+Los PAC son utilizados frecuentemente en la cirugía de revascularización miocárdica (CRM); sin embargo, son propensos a la degeneración y la oclusión, lo que lleva a una menor permeabilidad a largo plazo en comparación con los injertos arteriales. Reportes previos sugieren que las tasas de falla de PACs puede ser 10% antes del alta hospitalaria y hasta 25% en los primeros 12-18 meses3 y la recurrencia de angina después de una revascularización quirúrgica puede llegar hasta 1 de cada 4 pacientes4, de modo que no es infrecuente la necesidad de tener que intervenir a estos pacientes en el seguimiento alejado luego de su cirugía.
+
+La angioplastía de puentes venosos es considerada un procedimiento de alto riesgo. Muchos factores se asocian al deterioro de los PAC incluyendo fragilidad y comorbilidades de los pacientes, dificultades técnicas para canular el puente afectado, y enfermedad difusa del PAC, entre otros, No obstante, destaca el hecho que las lesiones degenerativas de PACs suelen poseer un "thin cap" más friable en comparación con lesiones de la arteria coronaria nativa, lo cual incrementa la incidencia de embolización de placa y "no reflow" durante las intervenciones5. En este contexto, el uso de dispositivos de protección embólica ha sido recomendado para este tipo de intervenciones, aunque nueva evidencia ha mostrado un beneficio menor al inicialmente propuesto6. En los pacientes aquí presentados no se ocuparon dispositivos de protección embólica, a pesar de lo cual observamos una tasa de éxito, seguridad y pronóstico a largo plazo similar a aquellas series en que sí fueron empleados.7
+
+
+
+Aunque es una práctica común en muchos grupos, incluyendo el nuestro, existe escasa evidencia de que el uso de stents liberadores de drogas sea de beneficio en la APC. El estudio DIVA8 aleatorizó a 597 pacientes con isquemia y estenosis significativa de puentes venosos a recibir angioplastía con DES (n=292) vs BMS (n=305). El seguimiento a 12 meses no mostró diferencias en el objetivo primario de muerte, infarto agudo al miocardio ni revascularización del vaso culpable (p 0,67) entre ambos tipos de stent. Más recientemente, el seguimiento a 5 años del estudio ISAR CABG mostró que no hubo diferencias en el objetivo primario de muerte, infarto y re-vascularización del vaso culpable al comparar los stents metálicos (53,6%) vs los stent medicados (55,5%) (HR: 0.98; IC: 0.79 a 1.23; p 0.89).9
+
+
+
+La alta mortalidad en los pacientes sometidos a APC presentada en este trabajo es similar a la descrita en otras series internacionales. El mismo estudio ISAR CABG mostró una mortalidad global de 27,5% en el grupo DES y de 28,9% en aquellos con BMS (HR 0.94 (0.69-1.28)9). Del mismo modo, un metanálisis reciente de estudios aleatorizados evidenció una tasa de eventos cardiovasculares mayores (MACE) superiores al 30%, tanto con el uso de stents metálicos, como medicados en seguimientos de 12 a 35 meses.10. Es interesante, entonces, que la mortalidad de estos pacientes sea alta, a pesar de la terapia médica y las intervenciones invasivas y que los intentos realizados para optimizar la intervención percutánea, como el uso de dispositivos de protección embólica y stents medicados han fracasado.
+
+De acuerdo con nuestros resultados, la mayor dificultad y riesgos de la angioplastía de los puentes venosos no son suficientes para explicar la mala evolución alejada de los pacientes. En nuestro estudio, los resultados de la angioplastía fueron satisfactorios. Sólo tuvimos 2 casos de “no-reflow” corregido en el laboratorio y no hubo infartos en el seguimiento, pero la mortalidad no cardíaca fue muy alta. Para poner en contexto estos resultados, se decidió comparar la cohorte de pacientes con APC con un grupo pareado de pacientes con IAMCEST, una condición en la cual los pacientes son sometidos a angioplastía de un vaso culpable y es de reconocida alta mortalidad. En nuestra serie, la mortalidad a 4 años fue 3 veces más alta en los pacientes sometidos a APC y, notablemente, esto se debió de forma importante a una mayor mortalidad no cardiaca que ocurrió en casi la mitad de ellos. Cabe destacar que series extranjeras también reportan un alto porcentaje de mortalidad no cardíaca, si bien no tan elevada como la observada en este estudio. En un seguimiento a 2 años con cerca de 8.582 pacientes, Redfors et al 11, publicaron que las causas no cardíacas correspondieron al 22,5% de la mortalidad total.
+
+Las razones que explican estos hallazgos no están del todo claras. Es posible que la exposición a enfermedades crónicas por largo tiempo pueda tener un rol. Sabemos, por ejemplo, que la inflamación sistémica es un factor común al desarrollo de las enfermedades cardiovasculares, procesos infecciosos sistémicos o el cáncer. A nivel cardiovascular, ésta sirve como mediador en la progresión de la aterosclerosis desde la formación inicial de la placa hasta la trombosis12, mientras que, a nivel tumoral, puede promover la carcinogénesis y su progresión13. Es así como se ha descrito que la prevalencia de niveles elevados de proteína C reactiva ultrasensible es mayor en pacientes con cirugía de revascularización miocárdica, probablemente en relación con patologías de más larga evolución y con mayor deterioro orgánico. Por otro lado, los factores de riesgo como la obesidad, tabaquismo, diabetes mellitus o el consumo de alcohol, son comunes para el desarrollo y progresión de todas estas patologías14), (15. Es posible, entonces, que la exposición por mayor tiempo a este estado proinflamatorio y a patologías crónicas determine pacientes más frágiles y, de esta manera, más propensos a sufrir otras enfermedades de índole no cardíaca o, alternativamente, a tolerar de peor forma enfermedades intercurrentes, como infecciones. Entre las limitaciones de nuestro trabajo debemos mencionar que se trata de un análisis retrospectivo, unicéntrico y con un número reducido de pacientes. Por otro lado, se trató de pacientes con una función ventricular levemente disminuida, por lo que esto no puede ser extrapolado a aquellos con mayor disfunción ventricular. Además, carecemos de una caracterización del resto de la anatomía coronaria para evaluar la severidad de la enfermedad en el resto de los vasos.
+
+Conclusión
+
+Los pacientes sometidos a APC presentan una mortalidad a mediano plazo, aproximadamente, 3 veces mayor que los tratados con angioplastía por IAMCEST. Este exceso de mortalidad es principalmente derivado de una mayor mortalidad no cardíaca. El reconocimiento y manejo de las patologías asociadas de estos pacientes parece ser clave para mejorar sus resultados a largo plazo.

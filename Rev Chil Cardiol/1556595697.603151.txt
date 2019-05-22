@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602014000100007
+Utilidad diagnóstica del Péptido Natriurético tipo B en pacientes con insuficiencia cardíaca y enfermedad renal crónica
+
+ 
+
+Introducción: La prevalencia de enfermedad cardiovascular en pacientes con enfermedad renal crónica (ERC) es elevada1 e incluso la disfunción renal leve ha sido considerada un factor de riesgo independiente de eventos cardiovasculares2. Hay, por lo tanto, necesidad de obtener e interpretar marcadores de insuficiencia cardíaca (IC) que sean útiles en pacientes con ERC.
+
+La utilidad diagnóstica y pronóstica del péptido natriurético tipo B (BNP) está bien establecida para la población de pacientes con IC3, pero la presencia de disfunción renal agrega un nivel de complejidad a su uso como marcador en estos pacientes. Existe una relación inversa entre las concentraciones de BNP y la velocidad de filtración glo-merular (VFG), tanto en pacientes con insuficiencia cardíaca como en los que no la tienen4. Además, los niveles de BNP no deben ser interpretados como un valor aislado, sino en el contexto de la situación clínica general, pareciendo claro que el punto de corte de las concentraciones de BNP en los casos de insuficiencia renal crónica e insuficiencia cardíaca debe ser mejor definido5. En este trabajo se realiza una revisión de la fisiología, utilidad diagnóstica y pronóstica del BNP en el contexto de ERC, destacando la fisiología del BNP, su utilidad diagnóstica y pronóstica en la IC en el contexto de ERC.
+
+Fisiología del BNP
+
+Descrito en 1989 como un péptido liberado desde el corazón6, el BNP forma parte de un grupo de hormonas que constituyen una parte importante del sistema vasodilatador en la fisiología humana, con diversos efectos en el corazón, riñones, sistema vascular y nervioso central. En condiciones normales, la transcripción del gen de BNP y la producción de la pro-hormona ocurren predominantemente en las aurículas7. Bajo condiciones patológicas (sobrecarga de volumen o presión del ventrículo izquierdo), la transcripción y traducción de BNP son sobrerreguladas en los miocitos ventriculares, convirtiéndose así los ventrículos en la fuente predominante de producción de BNP. El producto inicial del gen, el preproBNP (con 134 aminoácidos), experimenta clivaje y glicosilación en el retículo endoplasmático del miocito para formar proBNP (con 108 aminoácidos). Este es fragmentado por proteasas, formando el NT-ProBNP (76 aminoácidos, vida media de 60-120 min) y el BNP (32 aminoácidos vida media de 15-20 min), que es la hormona biológicamente activa. Ambos son liberados a la circulación y tienen igual valor diagnóstico, ya que la liberación es equimolar8.
+
+Dentro de los efectos fisiológicos más relevantes de BNP, encontramos9:
+
+a) Contra-regulación de hipertensión y expansión de volumen.
+
+b) Reducción de resistencias y presiones vasculares pulmonares/sistémicas.
+
+c) Reducción de la presión auricular y de fin de diástole ventricular.
+
+d) Supresión de la vasoconstricción y taquicardia reflejas.
+
+e) Aumento del flujo sanguíneo renal y de la VFG.
+
+f) Inhibición de la secreción de renina y aldosterona.
+
+g) Efectos antifibróticos a nivel de los cardiomiocitos.
+
+Los efectos descritos producen natriuresis, diuresis y vasodilatación. Los efectos renales de BNP son ejercidos por dilatación de la arteriola aferente y constricción de la arteriola eferente con el consiguiente incremento de la filtración glomerular renal y de la fracción de sodio filtrado10. Los efectos natriuréticos de BNP están disminuidos en la IC debido a la disminución de la presión de perfusión renal y "up-regulation" de una variedad de factores anti-natriuréticos y vasoconstrictores.
+
+El clearance de BNP ocurre por al menos 3 mecanismos:
+
+(a) Unión al receptor de clearance de BNP (encontrado en el endotelio vascular, glándulas suprarrenales y parénquima renal) para fagocitosis.
+
+(b) Digestión por endopeptidasas (encontradas a través del cuerpo en células vasculares endoteliales) y, por lo tanto, un mayor clearance en pacientes con exceso de adiposidad que tienen mayor área de superficie endotelial.
+
+(c) Excreción de BNP y de NT-proBNP intacto en la orina. La vida media del BNP es 20 minutos mientras que la del NT-proBNP es 120 minutos, por lo que el nivel circulante del NT-proBNP es 6 veces mayor que el de BNP11.
+
+Utilidad Diagnóstica de BNPs en pacientes con disfunción renal concomitante
+
+En pacientes sin enfermedad renal crónica un nivel de corte <100 pg/mL de BNP y <300 pg/mL de NT-proBNP tienen un valor predictivo negativo de 99% para IC12. El efecto de la insuficiencia renal sobre los niveles circulantes de BNP/NT-proBNP ha sido objeto de investigación en pacientes con ERC. En pacientes prediálisis con HVI y VFG disminuida, los niveles del BNP y NT-ProBNP son más altos, especialmente el de NT-ProBNP13. Una reducción de la VFG de 10 mL/min se asocia con un incremento de BNP de un 20% y un NT-proBNP de 38%14. En el contexto de pacientes con disnea de inicio agudo que consultan en el servicio de urgencia se ha observado que el nivel de BNP es un marcador altamente sensible y específico de IC en pacientes con ERC y clearance de creatinina > 15 mL/min. Con un punto de corte de 100 pg/mL el área bajo la curva ROC (AUC) es 0.9115. Por lo tanto, la función renal no excluye el uso de la concentración de BNP plasmático como un marcador de sobrecarga de volumen o presión.
+
+En algunos estudios se ha observado que la función renal influye en el punto de corte óptimo para el BNP como diagnóstico de IC. En general, el punto de corte es mayor en pacientes con una ERC avanzada. Un punto de corte de aproximadamente 200 pg/mL parece razonable en aquellos pacientes con una VFG < 60 mL/min. 16,17 ׳ Debido a que el NT-proBNP es eliminado casi exclusivamente por la orina, se pensaba que su utilidad en la práctica clínica en pacientes con ERC era limitada. Sin embargo, el NT-ProBNP ha demostrado ser tan exacto como el BNP para el diagnóstico de IC en pacientes con falla renal. En un análisis retrospectivo del estudio PRIDE en pacientes que se presentaron en un servicio de urgencia con disnea aguda18, se estudiaron 599 pacientes no dependientes de diálisis con una VFG en promedio de 14.8 mL/min. El diagnóstico de IC pudo hacerse con una sensibilidad de 89% y una especificidad de 72%, en pacientes con VFG < 60 mL/min cuando se usó un punto de corte de 1200 pg/mL para NT-proBNP. La sensibilidad y especificidad no cambió apreciablemente cuando el se usó el mismo punto de corte para pacientes con el nivel de función renal más bajo (VFG < 44 mL/min). Adicionalmente, cuando se tomó en consideración la edad, la sensibilidad del NT-ProBNP alcanzó el 100% con sólo una modesta disminución en la especificidad en sujetos con VFG más baja (Tabla 1).
+
+ 
+
+Tabla 1. Sensibilidad y especificidad de NT-proBNP con diferentes niveles de función renal, estratificado por edad (De acuerdo a diferentes niveles de corte)
+
+
+
+Niveles de BNP/NT-proBNP en Enfermedad Renal
+
+Crónica Terminal
+
+En pacientes en diálisis (hemo o peritoneodiálisis) el BNP no es removido por ésta, y por tanto, mantiene el potencial de ser un indicador de disfunción ventricular izquierda19. En esta población, niveles aumentados de BNP/NT-proBNP se correlacionan en forma inversa de manera fuerte e independiente con la fracción de eyección y se correlacionan en forma positiva con el índice de masa ventricular izquierda. Además, en estos pacientes niveles aumentados de BNP/NT-proBNP son predictores de eventos cardiovasculares adversos y de mortalidad general y cardiovascular20.
+
+En una cohorte de 246 pacientes en hemodiálisis crónica (HD) sin evidencia clínica de IC, Mallamaci et al21, usando puntos de corte "óptimos" para análisis de curvas ROC, reportaron que un valor de 198 pg/mL de BNP tuvo una sensibilidad de 62% y una especificidad de 74% para diagnosticar disfunción sistólica VI. Un nivel plasmático de BNP >330 pg/mL tuvo un 74% de sensibilidad y un 76% de especificidad para disfunción sistólica VI, con un bajo valor predictivo positivo (31%), y un excelente valor predictivo negativo (95%) (Tabla 2).
+
+ 
+
+Tabla 2. BNP en pacientes en diálisis: valor predictivo para hipertrofia ventricular Izquierda y disfunción sistólica ventricular izquierda
+
+
+
+Por otra parte, se ha demostrado que la creación de un shunt arterio-venoso incrementa independientemente los valores de BNP, posiblemente debido a disfunción diastólica ventricular izquierda22.
+
+Influencia de la modalidad de diálisis crónica en los niveles circulantes de BNP
+
+Mientras que el trasplante renal exitoso normaliza los niveles circulantes de BNP23, en los pacientes en diálisis crónica estos niveles permanecen sobre los valores de corte normales independientemente de la modalidad de diálisis19. Sin embargo, en pacientes en peritoneodiálisis crónica (PD) los niveles circulantes de BNP son usualmente más bajos que en pacientes en hemodiálisis crónica (HD). El BNP es removido desde el suero especialmente por membranas de HD de alto-flujo24. Por otra parte, el uso de fluidos de PD no parece influenciar los niveles de BNP25. En concordancia con otros estudios, Nakatami et al26, demostraron que la concentración plasmática de BNP fue significativamente menor en 32 pacientes en PD comparada con la de 63 pacientes en HD (114.8 ± 142.7 pg/ml versus 296.8 ± 430.4 pg/ml, p<0.0001). Incluso, cuando compararon el subgrupo de pacientes sin enfermedad cardiovascular, aquellos pacientes en PD crónica (n=23) tenían menores niveles plasmáticos de BNP que los pacientes en HD crónica (n=40) (62.1 ± 60.6 pg/ml versus 151.8 ±102.2 pg/ml, P<0.0001)26. Lo anterior sugiere que la sobrecarga cardíaca en pacientes en PD es más baja que en pacientes en HD. Por otro lado, los niveles de BNP parecen mostrar una buena capacidad para identificar pacientes en diálisis sobrevolemizados y podría dar información adicional para determinar clínicamente el status de volumen, a pesar de que como método aislado de los parámetros clínicos es insatisfactorio para este propósito. Los conceptos más importantes sobre el BNP en pacientes en diálisis son los siguientes27,28:
+
+a) El valor promedio de BNP de pacientes en diálisis es de 800 pg/mL al comienzo de la primera semana de diálisis, y cae aproximadamente 15% con cada sesión de diálisis.
+
+b) En la población de ERC terminal, el cuartil mayor de BNP tiene el peor pronóstico para mortalidad general.
+
+c) En estos pacientes, el BNP no parece ser una herramienta de manejo atractiva, ya que no se correlaciona con el volumen de fluido removido, con la duración de la diálisis, ni con otros parámetros técnicos.
+
+Pronóstico
+
+Bruch et al, estudiaron la utilidad del NT-proBNP como predictor de mortalidad de causa cardíaca y de necesidad de asistencia ventricular y trasplante cardíaco urgente en 341 pacientes con ICC (183 tenían VFG < 60mL/min pero no estaban en diálisis). Se estableció un corte pronóstico de 1474 pg/mL derivado de las curvas ROC de los grupos con ERC como de la cohorte entera. En pacientes con ERC, el pronóstico fue significativamente peor en sujetos con NT-proBNP > 1474 pg/mL en comparación con aquellos con NT-proBNP < 1474 pg/mL (Sobrevida de 48% vs 93% respectivamente; p<0.001,). El NT-proBNP predijo de forma independiente las rehospitalizaciones causadas por ICC (HR 1.26, p=0.023)29.
+
+En un análisis post hoc del estudio ICON30, van Kimmenade et al examinaron la utilidad de NT-ProBNP para predecir la mortalidad a 60 días en una población de 1256 pacientes (720 con ICC aguda y el resto con disnea sin ICC). La población fue dicotomizada de acuerdo a una VFG > o <=a 60 mL/min. Los pacientes con un nivel de NT-proBNP mayor que la mediana del estudio (que fue 4694 pg/mL) en ausencia de daño renal tuvieron un pronóstico comparable con pacientes con daño renal. Adicionalmente, un aumento en la creatinina identifica sujetos en mayor riesgo de mortalidad siguiendo a la presentación, y este riesgo estuvo presente solo en aquellos con concentraciones elevadas de NT-proBNP (Figura 1).
+
+ 
+
+
+
+Figura 1. Sobrevida de Insuficiencia Cardiaca en pacientes es el estudio ICON (International Collaborative on NT-proBNP) como función de la velocidad de filtracion glomerular (GFR) y los niveles de NT-proBNP al ingreso.
+
+Aquellos sujetos con aumento de la creatinina pero sin un NT-proBNP marcadamente elevado al ingreso, demostraron una mortalidad a 60 días relativamente baja, similar a pacientes con bajos niveles de NT-proBNP, independiente de la evolución de su función renal31 (Figura 2). Los niveles de BNP predicen sobrevida en pacientes que están en HD en la unidad de cuidados intensivos. En pacientes críticos con ERC con o sin ICC descompensada, el BNP no se asoció con mortalidad, pero fue un predictor independiente de nuevos eventos cardíacos durante el seguimiento32. El pro-BNP ha mostrado utilidad también como marcador pronóstico de morbimortalidad en pacientes posterior al trasplante renal34.
+
+ 
+
+
+
+Figura 2. Curvas de sobrevida de ICC en pacientes en el estudio ION en función de las concentraciones de NT-ProBNP al ingreso y de cambios en la función renal en la evolucion 
+
+Conclusión: BNP y NT-proBNP son producidos por el corazón y reflejan la tensión de la pared ventricular. Debido a que estos péptidos tienen algún grado de eliminación renal, se esperan elevaciones moderadas de BNP y NT-proBNP cuando la VFG cae a < 60 mL/min. Virtualmente todos los pacientes en diálisis tienen elevados los niveles de BNP/ NT-proBNP.

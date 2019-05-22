@@ -1,0 +1,78 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602012000300002
+Doppler Tisular: velocidad de desplazamiento miocárdico en sístole en pacientes con hipertensión arterial con fracción de eyección conservada
+
+ 
+
+Introducción
+
+La hipertensión arterial (HTA) constituye un problema a nivel mundial y nacional, siendo el principal factor de riesgo para enfermedad coronaria y cerebrovascular1. Aunque su prevalencia ha disminuido, se estima que uno de cada tres personas la padece, el 34,9% desconoce su condición y solamente el 16,5% tiene un control óptimo de presión arterial 2.
+
+El Doppler Tisular (DT) podría complementar a la eco-cardiografía convencional en la evaluación del paciente hipertenso. Wang et al. demostraron que parámetros del DT superaban a los de ecocardiografía convencional al momento de predecir resultados adversos en pacientes cardiópatas. Valores de Sm <5 cm/s se asociaron mayor mortalidad cardíaca, la que fue aún mayor con Sm <3 cm/s 3. Posteriormente, Shin et al. observaron retrospectivamente mayor tasa de eventos cardiovasculares adversos en pacientes con Sm <5 cm/s en 148 pacientes con fibrilación auricular y FE conservada4. Estudios adicionales apoyan el valor pronóstico de parámetros del DT en pacientes con insuficiencia cardíaca, IAM e HTA 5-7. Pese a lo anterior, existe limitada evidencia que sustente específicamente su uso para evaluar función diastólica, siendo la relación E/e' el principal parámetro asociado a la presión de fin de diás-tole (PFD) 8. Valores de E/e' <8 predicen PFD conservada, mientras que E/e'> 13 se asocia a aumento en la PFD. Sin embargo, cuando se obtiene un valor intermedio, es decir entre 9-13, esta asociación disminuye y se requieren otros parámetros complementarios, entre ellos el VAI y PAPS 8. De acuerdo con las Guías de Sociedad Americana de Cardiología valores intermedios de E/e' predicen PFD normal cuando el VAI es menor a 34 ml/m2 y la PAPS es menor a 30 mmHg9. Valores normales de Sm podrían asociarse a PFD conservada, por lo que determinar su asociación podría ser una herramienta adicional en este subgrupo de pacientes. Finalmente, no existe evidencia en nuestro medio que evalúe su utilidad como marcador precoz de hipertrofia ventricular izquierda (HVI). El objetivo de este trabajo es determinar asociación entre la onda Sm y diferentes parámetros ecocardiográficos morfológicos, de función sistólica y diastólica en pacientes hipertensos con fracción de eyección preservada.
+
+Método
+
+Se realizó un análisis retrospectivo a 1198 pacientes hipertensos derivados para Ecocardiograma entre los años 2007 y 2010, en Hospital Militar de Santiago de Chile. Se incluyeron aquellos con FE mayor a 50%. 
+
+El examen fue realizado por 4 operadores, con experiencia tanto en la técnica convencional, como en el doppler tisular. Se utilizó un Equipo GE Vivid 7, transductor 3.5mhz y Philips Ie33.
+
+Mediante la técnica en Modo M se realizó la medición de diámetros y grosor de pared septal y posterior en Eje largo paraesternal. Se estimó el IMV por Fórmula de De-vereaux. Mediante técnica 2D se estimó el volumen de aurícula izquierda indexado en 4C y 2C apical y se estimó PAPS de acuerdo al máximo gradiente transtricuspideo y presión auricular derecha.
+
+Mediante doppler tisular se realizó la medición de la onda Sm, promediando el anillo mitral septal y lateral. Se determinó su asociación con la FE, la cual fue obtenida mediante el método de Simpson. Además, se determinó su asociación con el VAI, el IMV, la PAPS y la relación E/e', (promediando el anillo mitral septal y lateral). Para medir la relación entre dos variables continuas, se utilizó el coeficiente de correlación de Pearson (r), y para las variables cualitativas la prueba de chi-cuadrado. La diferencia de medias se analizó con la prueba t-student. Se consideró una significancia estadística del 5% (p<0,05). Las mediciones fueron obtenidas de la base de datos del Laboratorio de Ecocardiografía, del Hospital Militar de Santiago y los datos fueron analizados mediante el programa computacional STATA 11.0.
+
+Resultados
+
+De 2063 hipertensos referidos para ecocardiografía, 1198 tenían FE mayor a 50% y determinación de la onda Sm y fueron incluidos en el análisis. La edad promedio fue de 66 años (DS 13.4), el 54% eran mujeres y la FE promedio fue de 66% (DS 6,0) (Tabla 1).
+
+Un 29,3% presentó Sm <7,5 cm/s y no existió correlación estadísticamente significativa entre los valores de FE y onda Sm (r=0,09, p<0,01).
+
+Se observó una tendencia significativa al descenso de la onda Sm a medida que aumenta el IMV, con valores de Sm >7,5 cm/s (p<0,01). Cuando se analizó esta asociación en el subgrupo con Sm alterado, se observó que la tendencia fue estadísticamente significativa en hombres (p<0,01) (Tabla 2 y Tabla 3).
+
+Tabla 1: Características de la muestra
+
+
+
+FE: Fracción de eyección, Sm: Velocidad de desplazamiento miocárdico en sístole, VAI: Volumen atrio izquierdo, PAPS: Presión media de arteria pulmonar en sístole, IMV: Índice de masa ventricular, DS: Desviación estándar
+
+Tabla 2: Asociación entre Sm normal e IMV
+
+
+
+IMV: Índice de masa ventricular, Sm: Velocidad de desplazamiento miocárdico en sístole, DS: Desviación estándar
+
+Tabla 3: Asociación entre Sm alterado y aumento del IMV
+
+
+
+IMV: Índice de masa ventricular, Sm: Velocidad de desplazamiento miocárdico en sístole, DS: Desviación estándar
+
+En los pacientes con relación E/e' >13, el 71,7% tuvo Sm alterada y se comprobó asociación (p<0,01). De los pacientes con Sm <7,5 cm/s, sólo el 40,5% presentó E/e' mayor o igual a 13. Sin embargo, este porcentaje aumenta al disminuir el nivel de corte de la onda Sm a <6 cm/s, con el 76,6% de los pacientes presentando E/e' mayor o igual a 13cm/s, siendo esta asociación significativa (p<0,01) (Tabla 4).
+
+Tabla 4: Porcentaje de pacientes con E/e' > 13 para diferentes puntos de cortes de Sm alterado.
+
+
+
+Sm: Velocidad de desplazamiento miocárdico en sístole.
+
+Valores normales de onda Sm se asociaron con E/e' menor a 8 y 13, en 57.6% y 93.9% respectivamente (p<0,01). Además, se observó asociación de Sm normal con VAI <32 ml/m2 y PAPS <35 mmHg en un 71% y 92%, respectivamente, todos con valores de p<0,01. Finalmente, valores de Sm >7.5 cm/s se asociaron en un 64,8% a relación E/e'< 13, VAI <32 ml/m2 y PAPS <35 mmHg (p<0,01) (Tabla 5).
+
+Tabla 5: Asociación entre Sm normal y parámetros de aumento de presión diastólica final.
+
+
+
+Sm: Velocidad de desplazamiento miocárdico en sístole, VAI: Volumen atrio izquierdo, PAPS: Presión sistólica de arteria pulmonar
+
+Discusión
+
+No existió relación entre valores de Sm y FE en este estudio, lo que difiere con lo reportado en la literatura10-12. Alam, et al. estudiaron a 78 pacientes post infarto agudo al miocardio y observaron una importante correlación entre los valores de Sm y la FE. Es más, valores de Sm >7,5 cm/s presentaron una sensibilidad de 79% y especificidad de 88% para predecir FE conservada12. Lo anterior se explica por el rol desempeñado por las fibras subendocárdi-cas, encargadas del acortamiento longitudinal durante la sístole. Una alteración a este nivel, tal como un IAM, podría incidir directamente en la FE13. Si se considera que la población incluida en nuestro estudio tiene FE preservada (promedio 66%), es esperable que exista discrepancia con lo reportado en la literatura. Al no incluir pacientes con FE <50% no es posible sacar conclusiones acerca de su asociación.
+
+La asociación observada entre el IMV y los valores de Sm sustenta la hipótesis de que la alteración de la onda Sm podría ser un marcador precoz de HVI. Esto ha sido demostrado en pacientes con miocardiopatía hipertrófi-ca14, sin embargo, hay poca evidencia acerca del valor para predecir cardiopatía hipertensiva7■15■16. Borges, et al. demostraron una significativa relación entre la disminución de los valores de Sm y aumento del IMV, y al mismo tiempo observaron valores de Sm disminuidos en pacientes hipertensos con mínima HVI, lo que podría predecir deterioro precoz de la función sistólica16.
+
+La utilidad del DT en disfunción diastólica es ampliamente aceptada. No obstante, esto es válido para la velocidad de desplazamiento miocárdico en diástole (incluyendo la relación E/e'). Valores alterados de E/e' han mostrado ser el índice del DT con mayor impacto en la mortalidad de causa cardíaca17, por lo que es el parámetro recomendado para determinar la PFD en pacientes con FE conservada9. Menos estudiado es el valor de la onda Sm en disfunción diastólica. En nuestro trabajo se observa Sm alterada en el 71,2% de los pacientes con E/e' > 13 y se asocia a PFD aumentada. El 64,8% de asociación entre valores de Sm normal y PFD conservada, podría convertir a la onda Sm en una herramienta complementaria para mejorar la estimación de la PFD en pacientes con E/e' entre 9-13, donde la asociación con E/e' no es tan clara.
+
+De acuerdo a nuestros resultados y a lo publicado en la literatura, la medición de la onda Sm podría mejorar la valoración ecocardiográfica de pacientes hipertensos con FE conservada, ya que sería un sensible marcador de deterioro de la función sistólica inicial, especialmente en aquellos pacientes en que aparentemente estaría preservada, tales como disfunción diastólica. Conjuntamente, su asociación demostrada a HVI inicial y establecida, eventos cardiovasculares adversos y disfunción diastólica respalda aun más su utilidad en la práctica clínica.
+
+Conclusión
+
+La medición de la onda Sm aporta valiosa información a la evaluación del paciente hipertenso con FE conservada, pues se relaciona no solamente con HVI, sino también con parámetros de aumento de presión de fin de diástole.
+
+Una limitación de este trabajo es que no disponemos del tiempo de evolución del diagnóstico de HTA.

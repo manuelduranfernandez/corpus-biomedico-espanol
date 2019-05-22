@@ -1,0 +1,216 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602011000200002
+Strain y Strain rate auricular izquierdo evaluado por speckle tracking está relacionado a PCR ultrasensible en adolescentes obesos
+
+ 
+
+Introducción
+
+La obesidad en la infancia y adolescencia es un fenómeno creciente a nivel mundial. En Chile las cifras son preocupantes, con una prevalencia que alcanza el 20% en escolares, según datos de la Junta Nacional de auxilio escolar y becas (JUNAEB) 1-2. Un alto porcentaje de niños obesos continúa siéndolo en la edad adulta, con mayor riesgo cardiovascular y morbimortalidad 3-4. La obesidad infantil se acompaña y favorece a otros factores de riesgo cardiovascular como hipertensión, dislipidemia y alteraciones del metabolismo de la glucosa 5, y en la vida adulta la obesidad se asocia a complicaciones cardiovasculares severas como enfermedad coronaria, accidente cerebrovascular, insuficiencia cardíaca y enfermedad venosa tromboembólica 6-7. A medida que aumenta el tejido adiposo, al lado del perfil metabólico alterado ocurren una variedad de adaptaciones y alteraciones en la estructura y la función cardiacas, aún en ausencia de comorbilidades 8-9. En el caso de los niños que en general carecen de comorbilidades, la evidencia indica una tendencia a la disminución de la función ventricular izquierda y dilatación auricular izquierda a medida que aumenta el nivel de obesidad 10. En niños obesos sin comorbilidades con una estructura y función cardiaca normal evaluada por ecocardiografía convencional, un z-índice de masa corporal (z-IMC) elevado es un determinante independiente del aumento del tamaño de la aurícula izquierda (AI), sugiriendo que la obesidad ejerce un efecto en el tamaño de la AI a edades tempranas y potencialmente predispone a morbilidad cardiovascular más tardíamente en la vida 11.
+
+La ecocardiografía convencional y especialmente las nuevas herramientas para la evaluación de tejidos, basados en doppler tisular (TDI) y speckle tracking que permiten evaluar deformación (strain) y velocidad de deformación (strain rate) han permitido evaluar la función ventricular y auricular de forma más precisa 12. Estudios en niños y adolescentes obesos han mostrado que la fracción de eyección (EF) está significativamente disminuída y el índice de performance miocárdica está significativamente alto comparados con controles normales 13. La velocidad sistólica miocárdica y el strain rate están significativamente bajas, mostrando una disminución de la función sistólica ventricular 13. Además se ha demostrado una correlación negativa entre el strain rate en la base del ventrículo izquierdo (VI) y el IMC y una correlación positiva con la FE 14 .
+
+Por otro lado la obesidad es un factor de riesgo independiente de fibrilación auricular (FA), aun después de corregir por condiciones concomitantes como la hipertensión, diabetes o infarto al miocardio 15. Los mecanismos involucrados incluyen factores hemodinámicos, liberación de mediadores inflamatorios e interacciones locales directas entre los adipocitos epicárdicos y el miocardio adyacente 16 La obesidad se asocia a un estado circulatorio hiperdinámico e hipervolemia, lo que conduce a presiones de llenado elevadas del VI y dilatación AI 17-18. Además, la obesidad y el síndrome metabólico pueden inducir inflamación y estrés oxidati-vo, que tendrían un rol en la génesis de la FA al causar remodelación eléctrica y estructural de la AI 19-21. Es probable que los cambios estructurales y funcionales involucrados en la génesis de la FA comiencen a edades tempranas de la vida, sin embargo el impacto de la obesidad sobre el corazón en niños y adolescentes con sobrepeso y su eventual relación con biomarcadores no ha sido suficientemente estudiado. El strain y el strain rate longitudinal determinado por speckle tracking, son herramientas novedosas en la evaluación de la función de la AI y por esto nuestro objetivo fue evaluar, mediante estas herramientas, la condición de la AI en adolescentes obesos y la relación de estos hallazgos con biomarcadores inflamatorios de riesgo cardiovascular como es la PCR ultrasensible (PCRus).
+
+Métodos
+
+Estudio transversal. Se incluyeron adolescentes consecutivos con un z-IMC > 1, en ritmo sinusal. Criterios de exclusión: edad > 18 años, evidencia al examen físico o laboratorio de resistencia a la insulina, enfermedad respiratoria crónica, neoplasia, patología congénita mayor, evidencia de daño renal (creatinina plasmática > 1 mg/dL). Se incluyó un grupo de adolescentes sanos con z-IMC < 1 sin comorbilidad pareado por edad y sexo como grupo control. Todos los sujetos y sus padres firmaron un consentimiento informado aprobado por el comité de ética de nuestro hospital.
+
+Evaluación clínica
+
+Se midió peso y talla mediante balanza de palanca y estadiómetro SECA®, con el niño descalzo y con ropa liviana, promediándose tres mediciones. Se calculó el IMC, expresado en percentiles y se calculó el z-score. Se definió obesidad como IMC > percentil 95, sobrepeso: percentil 85-94, eutrofia: percentil 10-84 y bajo peso percentil < 10 22. Se consideró sobrepeso y obesidad a partir de un z-score > 1 para efectos del análisis de los grupos. Se midió la presión arterial de acuerdo a norma internacional 23, con Dynamap Pro 100, Criticon®. La fase I y V de los sonidos de Korotkoff se utilizaron para la medición de la presión sistólica y diastólica. Se realizaron dos determinaciones separadas luego de 5 minutos de reposo considerándose el promedio. Determinaciones en plama
+
+La glicemia se midió por el método Enzimático (Hexo-quinasa) / Hitachi Modular P - Roche, el colesterol Total (CT) por el método Enzimático Colorimétrico (CHOD-PAP) / Hitachi Modular P - Roche, el colesterol HDL (CHDL) por el método Enzimático Colorimétrico Homogéneo / Hitachi Modular P - Roche y los triglicéridos (TG) por el método Enzimático Colorimétrico con blanco-glicerol / Hitachi Modular P - Roche. El coles-terol LDL (CLDL) se calculó mediante la fórmula de Friedwald (LDL= (CT-HDL) - (TG/5)). En todos los sujetos se realizaron mediciones plasmáticas de PCRus mediante el método nefelométrico (Dade Behring BN II Nephelometer) con un límite de detección de 0,1 mg/L 24 y de adiponectina mediante radioinmunoensayo (Lin-co Research ,Inc., St. Charles, Missouri, USA) y fue expresada en microgramos por mililitro 24. La variación inter e intra ensayo fue de 8,3% y 3,4 % respectivamente.
+
+Estudio ecocardiográfico.
+
+En cada paciente se realizó un estudio ecocardio-gráfico transtorácico bidimensional completo por un operador experto y ciego. Se utilizó el equipo Vivid 7 General Electric Medical Health disponible comercial-mente (transductor M4S de 2.5-5 MHz). Se obtuvieron las ventanas ecocardiográficas habituales con el paciente en decúbito lateral izquierdo. Se calculó el volumen AI a partir de las visiones apicales de cuatro y dos cámaras utilizando el método biplano de discos y la masa VI mediante la fórmula de Devereux 25. La función diastó-lica fue evaluada mediante el registro de las velocidades de influjo mitral con doppler pulsado y doppler tisular a nivel del anillo mitral medial y lateral en la visión cuatro cámaras apical.
+
+Strain y strain rate auricular izquierdo
+
+Para el estudio del strain y strain rate AI las imágenes fueron procesadas post adquisición con el programa Echopac7 versión 2.1.2 del 2008. Los bordes endocárdicos fueron trazados manualmente usando un puntero. El strain AI fue calculado usando el registro electrocar-diográfico como referencia lo que permitió el reconocimiento del peak de la onda positiva sistólica (LASs) que corresponde a la función de conducto de la AI. De igual forma, en la curva del strain rate AI se identificó el peak de la onda positiva sistólica (LASRs) al inicio del sístole ventricular izquierdo y el peak de la onda negativa durante la contracción auricular (LASRa) (Figura 1). El programa divide la pared de la AI en 6 segmentos y se consideró el promedio de LASs, LASRs and LASRa para el análisis.
+
+
+
+Speckle tracking bidimensional de la auricular izquierda. Curva de strain rate que muestra la onda sistólica positiva LASRs) y el peak de la onda negativa en relación a la contracción auricular (LASRa).
+
+Análisis estadístico
+
+Para el cálculo del tamaño muestral se utilizó el programa Power and Sample size calculations versión 2.1.31 considerando como referencia los datos de Di Salvo et al 14. Con una potencia de 90%, error alfa de 5% los grupos debían ser al menos de 10 sujetos. Las variables discretas de expresaron como porcentajes y las continuas como promedios ± ES. Para evaluar diferencias entre grupos se utilizó chi-cuadrado o t-Student según correspondía y para la evaluación de correlaciones se utilizó el método de Pearson.
+
+Resultados
+
+Se incluyeron 15 sujetos por grupo de edad promedio de 13 años, 47% hombres sin diferencia entre ambos grupos. El z-score del grupo control fue 0,1 ± 0,05 versus 1,9 ± 0,16, p < 0,01 del grupo con sobrepeso. No presentaron diferencias en el estudio de la presión arterial. Los pacientes con sobrepeso presentaron un mayor diámetro indexado de la AI respecto del grupo control 19 ± 0,5 mm versus 21 ± 0,9, p = 0,03. No presentaron otras diferencias en el estudio de dimensiones de cavidades cardíacas ni en la evaluación de la función diastólica del VI. Tabla 1.
+
+Edad (años)
+
+13 ± 0.2
+
+13 ± 0.2
+
+0.4
+
+Hombres (%)
+
+47%
+
+47%
+
+0.6
+
+IMC
+
+19 ± 0,5
+
+29 ± 1
+
+< 0,01
+
+z IMC
+
+0,1 ± 0,05
+
+1,9 ± 0,16
+
+< 0,01
+
+PAS (mmHg)
+
+109 ± 1,9
+
+114 ± 2,8
+
+0,5
+
+Índice masa VI (g/m2)
+
+56 ± 2,2
+
+63 ± 2,7
+
+0,07
+
+Volumen AI (mL/m2)
+
+18 ±1
+
+19 ± 2
+
+0,2
+
+DiámetroAI (mm/m2)
+
+19 ± 0.5
+
+21 ± 0.9
+
+0.03
+
+E/A
+
+2,2 ± 0,2
+
+2,2 ± 0,1
+
+0,8
+
+TD (msec)
+
+161 ± 6
+
+171 ± 10
+
+0,4
+
+E/e"
+
+7 ± 0,3
+
+7,5 ± 0,3
+
+0,5
+
+Abreviaciones: IMC: índice de masa corporal; PAS: presión arterial sistólica; TD: tiempo de desaceleración.
+
+No hubo diferencias significativas en los parámetros de evaluación metabólica entre ambos grupos. Tabla 2.
+
+Glicemia (mg/dL)
+
+85 ± 1,7
+
+83 ± 1,4
+
+0,4
+
+Colesterol total (mg/dL)
+
+141 ± 5
+
+152 ± 5
+
+0,2
+
+Colesterol LDL (mg/dL)
+
+74 ± 5
+
+89 ± 4
+
+0,04
+
+Colesterol HDL (mg/dL)
+
+53 ± 4
+
+44 ± 2
+
+0,07
+
+Triglicéridos (mg/dL)
+
+69 ± 14
+
+89 ± 8
+
+0,2
+
+Abreviaciones: IMC: índice de masa corporal; PAS: presión arterial sistólica; TD: tiempo de desaceleración.
+
+Los pacientes con sobrepeso presentaron significativamente mayores niveles de PCR us respecto del grupo control, 0,5 ± 0,1 mg/L versus 1,4 ± 0,3, p = 0,04. No presentaron diferencias significativas en los niveles de adiponectina. Figuras 2 y 3.
+
+
+
+
+
+Niveles de adiponectina en adolescentes con sobrepeso versus sin sobrepeso.
+
+En el estudio de función auricular izquierda los pacientes con sobrepeso presentaron disminución significativa de la función de conducto y contráctil tanto en el estudio con strain (Figuras 4 y 5) y strain rate (Figuras 6 y 7).
+
+Se obtuvo una correlación negativa significativa entre los niveles de PCR us y la onda s en el estudio con strain (r: -0,62; p < 0,01) y strain rate (r: -0,58; p = 0,02) Figuras 8 y 9. No se encontraron correlaciones significativas con la onda a ni con los niveles de adiponectina.
+
+LASs en adolescentes con sobrepeso versus sin sobrepeso.
+
+ 
+
+LASa en adolescentes con sobrepeso versus sin sobrepeso.
+
+ 
+
+LASRs en adolescentes con sobrepeso versus sin sobrepeso.
+
+LASRa en adolescentes con sobrepeso versus sin sobrepeso.
+
+
+
+Correlación entre LASs y niveles de PCRus en adolescentes con sobrepeso.
+
+
+
+Correlación entre LASRs y niveles de PCRus en adolescentes con sobrepeso.
+
+Discusión
+
+Nuestro estudio muestra que el strain y strain rate AI, dos herramientas de evaluación de la función auricular, se encuentran significativamente reducidos en adolescentes obesos. Este hallazgo complementa numerosos estudios que evidencian que la obesidad se asocia a cambios preclínicos en la estructura y función cardíaca y demuestra que estos pueden manifestarse desde etapas precoces de la vida 26-28. Ambos parámetros ecocardio-gráficos se asocian a inflamación subclínica, determinada por PCRus en estos niños. Esta relación no había sido descrita en la literatura.
+
+Es interesante notar que las diferencias de strain y strain rate entre pacientes obesos y controles no se acompañaron de diferencias en la función diastólica evaluada por los patrones de influjo mitral y doppler tisular. Tampoco se observó diferencias significativas en el volumen AI y sólo hubo una pequeña, aunque significativa diferencia en el diámetro auricular. Esto sugiere que las presiones de llenado elevadas del VI no constituyen el mecanismo principal en el desarrollo de disfunción auricular izquierda, o al menos no parecen jugar un rol relevante en las etapas iniciales del proceso. Dentro de los mecanismos alternativos se ha prestado importante atención al rol de la inflamación, ya que los pacientes con FA tienen niveles más elevados de PCRus 29-31 y los agentes antinflamatorios como las estatinas, los inhibidores de la enzima convertidora y los esteroi-des pueden prevenir la recurrencia de FA después de una cirugía cardíaca o post cardioversión 32-34. En los individuos obesos existe evidencia de que el aumento del tejido adiposo se asocia a un estado inflamatorio de baja cuantía, pero crónico, evidenciado por un aumento de IL-6 y PCRus 35-37. Se postula que este estado inflamatorio sistémico participa en la patogenia de la enfermedad aterosclerótica prematura y es posible que pueda jugar un rol en el remodelado auricular y en el desarrollo de FA 31,36. La grasa epicárdica es una fuente importante de mediadores inflamatorios y adipocitoquinas, que pueden producir directamente remodelado eléctrico y estructural de la aurícula 37. Malavazos et al., demostraron que los niveles de proteína quimiotáctica de los monocitos 1 y del complejo IL-6/receptor soluble de IL-6 se correlacionan estrechamente con el espesor de la grasa epicárdica 38 y Kremen et al., detectaron altas concentraciones de citokinas inflamatorias en la grasa epicárdica de pacientes sometidos a cirugía cardíaca 39. Dado que la grasa epicárdica está en contacto directo con la AI y las venas pulmonares, su rol puede ser clave en la iniciación de la FA. En concordancia con estos datos, nuestro estudio demostró que el deterioro de la función AI, manifestado por una disminución del strain y starin rate AI, en adolescentes obesos se correlaciona con un estado inflamatorio aumentado, expresado por niveles significativamente más elevados de PCRus.
+
+No se encontró asociación entre el strain o strain rate auricular en nuestros pacientes y los niveles de adipo-nectina. Esta es una hormona derivada del tejido adiposo con propiedades antidiabéticas, antiaterogénicas y antiinflamatorias y se le ha atribuido un rol protector contra la fibrosis y remodelación miocárdica patológica. Los niveles plasmáticos de adiponectina se encuentran disminuidos en los individuos obesos y se postula que este es un factor que contribuye al remodelado auricular 40,41. El hecho de no encontrar una diferencia significativa en nuestro grupo de estudio, pudiera deberse al hecho que la adiponectina en los niños obesos hombres pareciera empezar a disminuir recién después de la pubertad, como fue publicado por nuestro mismo grupo recientemente 24. Por lo mismo, se requieren futuros estudios que permitan aclarar la eventual relación de la adiponectina, la función AI y el desarrollo de la FA en pacientes obesos.

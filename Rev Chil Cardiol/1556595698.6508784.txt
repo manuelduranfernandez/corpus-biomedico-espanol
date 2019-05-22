@@ -1,0 +1,216 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602015000200009
+Tomografía por Coherencia Óptica Intracoronaria: Bases Físicas, Utilidad Clínica e Interpretación
+
+
+
+Introducción: La tomografía por coherencia óptica (OCT) es una tecnología relativamente nueva, que cuando es aplicada al estudio de las arterias coronarias ofrece imágenes de alta resolución (alrededor de 15 pm), unas 10 veces mayor que el ultrasonido coronario (IVUS). La calidad y detalle de las imágenes obtenidas con esta técnica, sumado a la facilidad de su uso, han promovido una rápida aceptación por los cardiólogos intervencionales de distintos laboratorios del mundo. Chile no ha estado ajeno a esta tendencia, habiéndose experimentado un creciente uso de esta tecnología en los laboratorios de hemodinamia de nuestro país. Considerando lo anterior, es apropiado revisar los principios del OCT intracoronario y explorar las aplicaciones claves en intervencionismo coronario.
+
+Propiedades ópticas de las imágenes basadas en la luz
+
+El OCT es una modalidad de imagen que utiliza luz en el rango de la luz infrarroja. La intensidad de la luz reflejada en el tejido es captada por un interferómetro y es convertida a una escala de colores o escala de grises. A su vez, el tiempo tomado por la luz reflejada nos dará la resolución espacial (similar al concepto de ultrasonido) y esta suma de información dará como resultado las imágenes del segmento de tejido analizado. Cabe destacar que la luz es reflejada también por los glóbulos rojos, por lo que es fundamental crear un ambiente libre de éstos durante la adquisición de las imágenes.1’2
+
+Existen dos tipos de sistemas de OCT: a) OCT de primera generación, conocido como Time Domain (TD) OCT1-3, y b) OCT de segunda generación, conocido como Fourier Domain (FD) OCT4-6, los cuales difieren principalmente en el método usado para calcular la amplitud de campo eléctrico. El sistema TD-OCT usa una fuente de luz de banda ancha en el rango de 1280-1350 nm, realizando múltiples imágenes de distancia de referencia y mide directamente la amplitud del campo eléctrico. En cambio, FD-OCT usa un láser monocromático cuya longitud de onda cambia constantemente; mientras la medición de la distancia de referencia se mantiene constante, la amplitud de campo eléctrico pasa mediante la transformación Fourier y es detectada en todos los puntos de profundidad simultáneamente. Esto hace que el FD-OCT pueda adquirir una mayor cantidad de imágenes por segundo (100 cuadros/s vs 15-20 cuadros/s) y a una mayor velocidad de pullback (20 mm/s vs 1-3 mm/s). Lo anterior ha facilitado enormemente el procedimiento para crear un ambiente libre de glóbulos rojos: mientras que con TD-OCT se requiere ocluir con un balón el segmento de la arteria a examinar, con FD-OCT basta con la infusión de contraste para "lavar" la arteria y obtener una imagen adecuada. Comparado con IVUS, OCT provee imágenes de menor profundidad debido a la menor penetración de la luz en el tejido (2 mm vs 10 mm), aunque con mayor resolución. En la Tabla 1 se exponen las principales diferencias entre cada sistema de OCT y el IVUS.7 Sus características han hecho del OCT una herramienta de imagen ideal para la evaluación de los componentes superficiales de la placa coronaria y "struts"del stent.1-6. A continuación, en la Tabla 2, describimos un protocolo a seguir para la adquisición de éstas imágenes.
+
+ 
+
+Tabla 1
+
+
+
+ 
+
+Tabla 2. Protocolo de adquisición de imágenes 
+
+
+
+Bases de la interpretación del OCT
+
+Para interpretar una imagen obtenida mediante la técnica de OCT existen dos principios fundamentales, que en su inter-relación permiten el reconocimiento de las estructuras de la pared arterial coronaria:8
+
+a)    Reflexión de la luz: Es la cantidad de luz reflejada por el tejido y posteriormente analizada por el sistema de OCT, la cual nos va a dar la escala de colores o brillo.
+
+b)    Atenuación de la luz: Es la capacidad de penetración de la radiación de la luz en los diferentes componentes del tejido, lo que nos va a dar la capacidad de obtener o no imágenes en la profundidad de la estructura analizada.
+
+Aplicaciones Clínicas
+
+Actualmente, el OCT es de utilidad preferentemente en dos contextos 8:
+
+1)    Evaluación del proceso de ateroesclerosis coronaria; y
+
+2)    Evaluación de la implantación de stent y sus resultados alejados.
+
+A continuación, basados en imágenes obtenidas en nuestro laboratorio, detallaremos cada una de las aplicaciones clínicas descritas previamente.
+
+1- Evaluación de la Ateroesclerosis Coronaria
+
+En un vaso normal, el OCT permite distinguir claramente las 3 capas (íntima, media y adventicia) de acuerdo a sus características de reflexión y atenuación (Figura 1). La pérdida de esta arquitectura normal permite identificar las lesiones que posteriormente describiremos.9 
+
+ 
+
+
+
+Figura 1: Arteria Coronaria normal. Nótese la estructura de 3 capas, observándose desde el lumen a la periferia: 
+
+A- Íntima: Alta reflexión, baja atenuación 
+
+B-Media: Baja reflexión, baja atenuación 
+
+C-Adventicia: Alta reflexión y baja atenuación
+
+Lesión ateroesclerótica: Una lesión es vista en el OCT como una masa dentro de la pared de la arteria, engrosa-miento intimal focal o pérdida de la arquitectura de las 3 capas del vaso.9
+
+A continuación describiremos los 3 principales tipos de lesiones descritos mediante OCT:
+
+a)    Placa fibrosa: es aquella lesión caracterizada histológicamente por ser rica en colágeno y músculo liso.9 En el OCT se observa como un engrosamiento de la íntima con una alta reflexión (brillante) y baja atenuación (deja pasar la luz) (Figura 2A).
+
+ 
+
+
+
+Figura 2. Distintos tipos de lesiones coronarias, de acuerdo a sus componentes.
+
+A- Placa Fibrosa: Entre las 3 y las 9 se observa un engrasamiento con alta reflexión y baja atenuación (colágeno y músculo liso).
+
+B- Placa Fibrocálcica: Entre las 9 y 11 se observa una estructura con baja reflexión, baja atenuación y bordes bien delimitados (calcio), inmerso en componente fibroso.
+
+C- Fibroateroma Se observa una lesión entre las 8 y las 11, caracterizada por baja reflexión, baja atenuación y bordes difuminados (rico en lípidos/core necrótico). La medición de la capa fibrosa en este caso es de 290 |jm (línea amarilla), compatible con fibroateroma de capa gruesa. Nótese que la atenuación que produce la lesión no permite ver la real magnitud de ésta.
+
+D- Fibroateroma de capa delgada (TCFA)
+
+Entre las 4 y las 7 se observa una lesion compatible con un fibroateroma (descrito previamente). La medición en este caso de la capa fibrosa es de 40 |jm (en amarillo).
+
+b)    Placa fibro-cálcica: Contiene tejido fibroso (colágeno y músculo liso) (descrito previamente) con áreas de calcio, vistas en el OCT como regiones con baja reflexión (oscuras), baja atenuación (deja pasar la luz) y bordes bien delimitados.9 (Figura 2B)
+
+c)    Placa rica en lípidos o fibroateroma: Son lesiones con contenido rico en lípidos con un núcleo necrótico, cubierto por una capa fibrosa, de grosor variable. Al OCT se observan como regiones de baja reflexión (oscuras) con alta atenuación (no deja pasar la luz) con bordes difuminados (a diferencia del calcio).9 Cabe destacar que la predominancia necrótica o lipídica del núcleo no puede diferenciarse por OCT, ya que las imágenes de estas dos características son similares. Otro concepto importante es que con el OCT no se puede medir la carga de placa (plaque burden), porque los núcleos lipídicos/necróticos tienen alta atenuación y no se visualiza hasta que punto se extienden hacia la media. En cambio, el IVUS permite efectuar esta medición. (Figura 2C).
+
+Los fibroateroma de capa delgada (TCFA, thin-cap fibroa-theroma), son aquellos en que la capa fibrosa que cubre el contenido lipídico mide < 65 μm. Los TCFA se han definido como una lesión vulnerable con alta probabilidad de ruptura y de esta manera con potencialidad de producir un síndrome coronario agudo.9 (Figura 2D).
+
+Del mismo modo, es posible encontrar otros componentes de interés en las diferentes lesiones coronarias:
+
+a)    Trombos: Aparecen como una masa unida a la superficie luminal o flotando dentro del lumen. El OCT es capaz de distinguir trombos rojos y blancos, aunque la mayoría de las veces se trate de un trombo con un componente mixto y predominancia de glóbulos rojos o plaquetas, respectivamente. El trombo rojo se observa como una estructura con alta reflexión y alta atenuación, más bien heterogéneo (Figura 3A), a diferencia del trombo blanco que se observa como una estructura de reflexión intermedia y baja atenuación9. (Figura 3B).
+
+ 
+
+
+
+Figura 3. Trombo Rojo y Blanco.
+
+A- Trombo Rojo: Se observa una ruptura de placa con una estructura entre las 8 y las 9, caracterizada por alta reflexión y alta atenuación.
+
+B- Trombo Blanco: Se observa una trombosis del stent con abundante contenido de estructuras con reflexión intermedia y baja atenuación (trombos blancos).
+
+ 
+
+Tabla 3. Características generales de los diferentes tejidos visualizados en OCT
+
+
+
+b)    Acumulación de macrófagos: Ocasionalmente pueden observarse en el contexto de un fibroateroma, como un punteado confluente caracterizados en OCT por una alta reflexión y alta atenuación9 (Figura 4A).
+
+ 
+
+
+
+Figura 4. Otros componentes que pueden ser observados en una placa ateroesclerótica 
+
+A-Macrófagos: Se observan entre las 2 y las 3 como un punteado confluente con alta reflexión y alta atenuación en un fibroateroma.
+
+B- Vasculatura Intimal: Se observa entre las 7 y las 8, como una región ovoidea de baja reflexión y baja atenuacion dentro del tejido intimal. 
+
+C- Cristales de Colesterol: Se observa entre las 4 y 5, como una estructura de alta reflexión y baja atenuación dentro de un fibroateroma,
+
+d) Vasculatura intimal y cristales de colesterol: La vasculatura intimal se observa como regiones bien delineadas ovoideas con baja reflexión y baja atenuación; se ignora si estos vasos se comunican con el lumen o emanan desde los vasa vasorum.9 (Figura 4B).
+
+Los cristales de colesterol se ven como estructuras con alta reflexión y baja atenuación dentro de una placa (Figura 4C).
+
+2. Mecanismos de Síndromes Coronarios Agudos
+
+Además de permitir caracterizar de mejor manera aquellas lesiones que tienen un mayor potencial de producir un evento coronario, OCT ha ayudado en la comprensión de los mecanismos que subyacen el accidente de placa y la producción de un síndrome coronario agudo.11
+
+a) Ruptura de Placa: Frecuentemente ocurren en el contexto de un TCFA y muestran características de desgarro intimal, disrupción o disección de la capa fibrosa (Figura 5A)
+
+ 
+
+
+
+Figura 5. Mecanismos de Síndrome Coronario Agudo 
+
+A- Ruptura de Placa: Se observa una solución de continuidad intimal con una ruptura de un fibroateroma y exposición de core necrótico al torrente sanguíneo. La imagen intraluminal observada entre 2-3 corresponde probablemente a un artefacto. 
+
+B- Nódulo Calcificado: Entre las 9 y las 11, se observa como una estructura de calcio que protruye al lumen.
+
+b)    Erosión de Placa: Se observa como una evidencia de trombo, con una superficie luminal irregular y la ausencia de ruptura de la capa evaluada en múltiples cuadros.
+
+c)    Nódulo Calcificado: Es definido como una o múltiples regiones de calcio que protruyen dentro del lumen. (Figura 5B).
+
+En algunas experiencias se ha descrito con el OCT diferencias en las lesiones de los vasos afectados en un síndrome coronario agudo (SCA), de acuerdo a si la presentación clínica de un paciente es la de un infarto con o sin supra-desnivel del ST, sin embargo esto aún requiere mayores estudios.11’ 12
+
+3. Evaluación de Implantes de Stents
+
+El rol del OCT en la evaluación del implante del stents incluye la expansión y aposición del stent, evaluación de las disecciones de los bordes de stent, prolapso de tejido, cobertura del stent y re-estenosis.9
+
+Los "struts" de los stent en el OCT se observan como estructuras de alta reflexión y alta atenuación, generando una sombra a posterior e impidiendo ver directamente la aposición de estos en la íntima del vaso13 (Figura 6A).
+
+ 
+
+
+
+Figura 6. Stents y evaluación
+
+A- Struts de los stents: Son estructuras de alta reflexión y alta atenuación. Generan una sombra a posterior que impide ver con claridad la aposición de éstos a la íntima.
+
+B- Disección de borde de Stent: Entre las 11 y 12 se observa un rasgo de apertura del tejido intimal en el borde de un stent, posterior al implante de éste.
+
+C- Re-estenosis del Stent: Se observa un tejido que recubre el stent de naturaleza heterogénea que determina una estrechez en el lumen del vaso.
+
+a) Expansión y aposición del stent:
+
+Se habla de sub-expansión del stent cuando no se logra adquirir el diámetro objetivo y de mal- aposición cuando la distancia axial entre la superficie del "strut" a la superficie luminal es mayor que el grosor del "strut" (incluyendo el polímero si está presente). Si la distancia es menor que el grosor del "strut", entonces estos stents se consideran apuestos9.
+
+Dada la alta atenuación que generan, no es posible ver la aposición exacta del "strut" en la íntima. La mejor forma de evaluar esto es saber con exactitud el diámetro exacto del "strut" + polímero y extrapolar esta medida desde la cara luminal del "strut" a la íntima. Explicado de otra forma, como lo que se ve es el reflejo del stent/polímero la distancia al plano de la placa debe ser igual o menor a la suma de ambos medido desde la mitad del reflejo.10, 13 Es sabido que la angioplastía primaria con stent frecuentemente tiene resultados sub-óptimos. En estos casos el OCT ayuda para que los stents queden bien expandidos y apuestos.14
+
+b) Disecciones de los bordes del stent
+
+Dado la alta resolución que ofrece el OCT, frecuentemente se identifican disecciones en los bordes de los stent (< 5 mm del borde proximal y distal respectivamente). (Figura 6B). Sin embargo, actualmente no existe una recomendación formal para tratar o no estas disecciones. Estudios no randomizados concluyen que podrían dejarse sin tratar aquellas disecciones de los bordes de stent que tengan las siguientes características: < 1.75 mm de longitud; < 2 flaps concomitantes; < 0.52 mm de profundidad; < 0.33 mm de apertura del flap; no extensión más allá que la capa media; o, en general, que no comprometan más de un cuadrante de la circunferencia del vaso.15
+
+c)    Prolapso de Tejido
+
+Se observa como una proyección de tejido dentro del lumen entre los struts del stent posterior a la implantación. Es más frecuentemente observado cuando el stent es puesto sobre un TCFA o un núcleo necrótico y su rol pronóstico es aún incierto. Cabe considerar que puede ser difícil diferenciar entre prolapso, trombo, disección intra-stent o intimal y neo-íntima.9
+
+d)    Recubrimiento de los Stents
+
+La ausencia de endotelización de los "struts" se ha relacionado a mayor incidencia de eventos adversos, como trombosis del stent. 8 Si algún tejido puede ser identificado sobre los "struts", la naturaleza precisa del tejido que recubre a éstos no se puede determinar con exactitud con el OCT (endotelio, trombo, neoíntima).10
+
+e) Re-estenosis
+
+Se visualiza como una señal de baja o alta intensidad cubriendo los "struts" del stent. La relación entre la intensidad de señal de la re-estenosis y el tejido de base ha sido sólo documentada en casos raros y no es generalmente entendida. (Figura 6C). De forma más relevante, OCT puede ayudar a dilucidar en algunos casos el mecanismo de la re-estenosis y de esta manera guiar el tratamiento (fractura o subexpansión del stent).9
+
+4. Mediciones Cuantitativas
+
+Mediante softwares incluídos en la consola de OCT, podemos realizar mediciones cuantitativas, como el área del vaso, diámetro máximo y mínimo, lo cual permite planificar una intervención coronaria de manera rápida y precisa definiendo, por ejemplo, el diámetro y largo del stent a utilizar. 1
+
+5. Artefactos más frecuentes
+
+En algunas ocasiones, se producen artefactos que hay que conocer para poder hacer una adecuada interpretación clínica del segmento de la arteria coronaria analizado.10 Entre éstos, señalaremos:
+
+a)    Artefacto por la presencia de células sanguíneas: La presencia de contenido intraluminal de alta reflexión suele ser secundario a un deficiente "lavado" de la arteria o a una estenosis crítica que dificulta el llenado distal a la lesión. Puede confundirse con trombos rojos. Se soluciona incrementando la tasa de "flush" de contraste dentro de la arteria o permeabilizando el vaso (Figura 7A).
+
+ 
+
+
+
+Figura 7. Artefactos
+
+A- Artefacto de Células Sanguíneas y de discontinuidad: En el lumen de la arteria se observa un contenido que es secundario a artefacto por mal "lavado" de la arteria. Además a las 1 del reloj se observa una discontinuidad de la pared la arteria secundario a un rápido movimiento de la guía. A las 3 se observan dos estructuras redondeadas en relación a la guía que impresionan como trombos blancos.
+
+B- Artefacto por excentricidad de la Guía de OCT: Los struts entre las 9 y las 12 se observan más elongados que los más próximos a la guía de OCT (fenómeno de carrusel). Se observa también proliferación de tejido dentro del stent, compatibles con restenosis.
+
+b)    Artefacto por excentricidad de la guía de OCT: Se puede observar el llamado Fenómeno de Carrusel, que se produce por las diferencias en la velocidad de barrido del haz de luz en las zonas más alejadas, lo que ocasiona pérdida de resolución lateral y da un aspecto más elon-gado a los "struts" que están más distantes de la guía. Figura 7B).
+
+c)    Artefacto de discontinuidad: El rápido movimiento de la guía o la arteria coronaria produce un defecto de alineación de la pared del vaso (Figura 7A).
+
+d)    Artefactos de plegamiento: Se observa como un ple-gamiento del lumen de la arteria coronaria. Se pueden observar en bifurcaciones de grandes vasos.
+
+Conclusión:
+
+Con el OCT podemos obtener imágenes de alta resolución que pueden facilitar y optimizar la intervención coronaria, así como evaluar sus resultados a largo plazo. Además, el OCT nos ha permitido mejorar considerablemente nuestro entendimiento de la biología vascular en la aterosclerosis y de los fenómenos que determinan la producción de síndromes coronarios agudos.

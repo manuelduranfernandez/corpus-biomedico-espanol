@@ -1,0 +1,50 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602014000100004
+Factores asociados a INR fuera de rango terapéutico en usuarios de terapia anticoagulante oral con antagonistas de vitamina K
+
+ 
+
+Introducción: En la actualidad, el uso de fármacos anticoagulantes orales corresponde a una herramienta esencial para la prevención primaria y secundaria de eventos tromboembólicos en situaciones clínicas específicas, entre las cuales destacan la fibrilación auricular, tromboembolismo pulmonar, trombosis venosa profunda, algunas valvulopatías y miocardiopatías1. Dentro de los fármacos disponibles para este propósito, los más utilizados son los antagonistas de la vitamina K, cuyo tratamiento es monitorizado utilizando el tiempo de protrombina, a través de una fórmula de estandarización denominada International Normalized Ratio (INR)2.
+
+Tener un INR sobre o bajo los niveles recomendados según la indicación específica, expone al paciente a un mayor riesgo de presentar patología tromboembólica o complicaciones hemorrágicas, respectivamente1,3,4. En la práctica clínica habitual, mantener un nivel de anticoagulación estable es difícil3,4. En el mejor de los casos, en centros donde se han tomado las máximas precauciones, se logra que dos tercios de los pacientes se mantengan con INR en rango terapéutico5.
+
+Se ha descrito en la literatura la existencia de factores que afectan la terapia anticoagulante oral (TACO)1,6 elevando la posibilidad de estar fuera de rango terapéutico, y como consecuencia, de sufrir eventos adversos6. Una de las principales asociaciones con INR fuera de dicho rango son las interacciones medicamentosas1 y la edad de los pa-cientes1,4,7, factores que toman especial relevancia en los adultos mayores, quienes presentan múltiples comorbilidades, con el consecuente uso de un gran número de fár-macos4,7. La duración de la terapia anticoagulante, el nivel de educación de los pacientes respecto de su enfermedad y tratamiento, además de la ingesta de vitamina K, también intervienen en la estabilidad del tratamiento6,9,10. Por ello, se hace necesario mantener un seguimiento periódico y estricto de los pacientes en terapia anticoagulantel,11. Existe escasa literatura científica nacional respecto a dicha problemática. Un estudio realizado en el Hospital Regional de Iquique publicado el año 2009, describió que se encontraban dentro de rango terapéutico un 48,4% de los pacientes en tratamiento con Acenocumarol y un 50,5% de los pacientes tratados con Warfarina, sin diferencias significativas entre ambos fármacos para la mantención de un INR adecuado12.
+
+En este contexto, el presente estudio tiene como objetivo identificar los factores asociados con un INR fuera de rango terapéutico.
+
+Pacientes y método: Este es un estudio observacional de corte transversal que analizó los datos de pacientes en terapia anticoagulante oral, controlados en un policlínico especializado del Hospital Naval Almirante Nef. El universo correspondía a 406 pacientes en terapia anticoagulante, por lo que se estimó, utilizando el software Stata 10, un tamaño muestral mínimo de 193 pacientes, tomando en consideración una potencia estadística de 80% y un alfa de 0,05; esperando encontrar a un 60% de los pacientes con INR dentro de rango. Una vez recibida la aprobación del comité de ética del hospital, se recopiló información demográfica y clínica a través de las fichas clínicas electrónicas almacenadas en el programa OMEGA 3000 v3.2, considerando las variables: Nombre, edad, género, diagnóstico que motiva el tratamiento anticoagulante, fecha de inicio de la terapia, fecha del último control, fármaco anticoagulante específico y rango de INR recomendado. De las variables de laboratorio se registró: INR correspondiente al mes de Octubre de 2012 y de los últimos tres controles. En el caso de los pacientes que presentaban INR fuera de rango, el médico a cargo del policlínico interrogó dirigidamente a los pacientes respecto a las probables causas de ello. Para el análisis de datos se utilizó el programa STATA 10, describiendo las variables continuas mediante media y desviación estándar, las variables categóricas fueron descritas como frecuencias absolutas y relativas. Se utilizó "t" de Student, prueba de asociación de chi cuadrado y estimación de riesgo con intervalo de confianza mediante la razón de Odds (OR) en los casos necesarios, considerando como significativo un valor p igual o menor a 0,05.
+
+Resultados: Se analizaron los datos de 374 pacientes, correspondiendo al 92% del total de pacientes en terapia anticoagulante oral, controlados en el policlínico de anticoagulación del Hospital Naval Almirante Nef. Del total, 196 correspondieron a hombres (52,4%). La edad promedio fue de 73,6 ± 11,6 años. De las indicaciones de terapia anticoagulante, la fibrilación auricular fue el diagnóstico más frecuente (53,5%), seguido de los fenómenos tromboembólicos (24,6%) y los usuarios de prótesis valvular mecánica (10,2%). Los fármacos anticoagulantes utilizados en esta población fueron Acenocumarol (76,2%) y Warfarina (23,8%). El tiempo promedio que los pacientes habían recibido terapia anticoagulante fue de 65,5 ± 56,4 meses (Tabla 1).
+
+ 
+
+Tabla 1. Características de 374 pacientes controlados en el Policlínico de tratamiento anticoagulante oral.
+
+
+
+Doscientos setenta y dos pacientes presentaban INR en rango terapéutico (72,7%). 102 tenían un INR no adecuado para su patología (27.3%), de los cuales 60 se encontraban en rango subterapéutico (16,1%) y 42 sobre dicho rango (11,2%) (Tabla 2). Al promediar el INR de los últimos 3 controles, 334 pacientes resultaron dentro de rango terapéutico (89,3%) y 40 fuera de rango (10,7%). De los motivos asociados a presentar INR fuera de rango se reportó con mayor frecuencia el olvido en la toma de medicamentos (35,3%), alteraciones en la dieta (16,7%) e interacciones farmacológicas (14,7%). Un 7,8% de los casos habían sido recientemente hospitalizados, mientras que un 2,9% de los pacientes habían sido sujetos a algún tipo de procedimiento médico-quirúrgico o dental que motivó la suspensión del tratamiento. En 23 pacientes con INR fuera de rango terapéutico no se logró encontrar alguna causa específica (22,6%) (Figura 1).
+
+ 
+
+Tabla 2. Rango de INR en el último control de 374 pacientes atendidos en el Policlínico de tratamiento anticoagulante oral.
+
+
+
+ 
+
+
+
+Figura 1. Motivos reportados en 102 pacientes con INR fuera de rango terapéutico. Policlínico de tratamiento anticoagulante.
+
+Al considerar las variables registradas en el estudio se encontró una asociación estadísticamente significativa entre tener 80 o más años y presentar un INR fuera de rango terapéutico (OR 1,67; IC 95% 1,01 - 2,73). El presentar un promedio de los últimos tres controles fuera de rango terapéutico mostró un OR de 4.36 (IC95% 2.1 - 9.14) para tener un nuevo valor fuera del intervalo deseado.
+
+La duración de terapia anticoagulante fue 67,4 meses en los pacientes con INR dentro del rango terapéutico y de 59,8 meses para los que presentaban INR fuera de rango, no siendo esta diferencia estadísticamente significativa (p=0,14). No se encontró asociación significativa entre el tipo de fármaco anticoagulante utilizado y el estar o no dentro de rango terapéutico (p=0,15) (Tabla 3).
+
+ 
+
+Tabla 3: Relación entre fármaco anticoagulante utilizado y valor de INR de 374 pacientes atendidos en el Policlínico de tratamiento anticoagulante.
+
+
+
+Discusión: Mantener una terapia anticoagulante oral a largo plazo es una dura tarea, tanto para el paciente como para el equipo de salud. El presente estudio reveló que los pacientes en terapia anticoagulante oral controlados en un policlínico especializado del Hospital Naval Almirante Nef presentan una frecuencia mayor de INR dentro de rango terapéutico que lo reportado por la literatura5. Este mejor control podría explicarse debido a que nuestros pacientes son educados al momento de ingresar al programa por el médico a cargo del policlínico y constantemente por el equipo multidisciplinario que participa en él. En concreto, se les entrega información simple y clara sobre el motivo de ingreso a la terapia, el objetivo de ésta y los factores que pueden alterar sus resultados.
+
+En el caso de los pacientes que presentaron un nivel de anticoagulación fuera de rango terapéutico, destacan factores como el olvido en la toma de medicamentos, interacciones farmacológicas y cambios en la dieta, los que coinciden con los descritos en la literatura4,6,7,10. Estos factores son susceptibles de corrección, ya sea mejorando las herramientas terapéuticas, como buscando nuevas estrategias de control y seguimiento.

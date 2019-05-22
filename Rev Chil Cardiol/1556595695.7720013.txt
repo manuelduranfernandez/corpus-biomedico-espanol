@@ -1,0 +1,66 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602012000100003
+Relación entre la hiperglicemia al ingreso a la unidad de emergencia y el pronóstico en pacientes no diabéticos con infarto agudo al miocardio, no sometidos a terapia de reperfusión
+
+ 
+
+Introducción
+
+Si bien desde hace muchos años se han observado elevaciones de los niveles plasmáticos de glucosa en pacientes con IAM SDST 1, sólo en los últimos años se ha estudiado la relación entre la hiperglicemia y el aumento en la morbilidad y mortalidad en esta condición 2. Se sabe que la hiperglicemia de estrés se relaciona con aumento de las catecolaminas 3, pero la evidencia actual sugiere que no sólo es una respuesta al estrés 1. La asociación entre HGI y un peor pronóstico en pacientes con IAM SDST se acompaña de alteraciones electrofisiológicas que favorecen arritmias, disfunción del ventrículo izquierdo, infartos de mayor tamaño, alteraciones de la coagulación y la activación plaquetaria 2. Pese a lo anterior, el mecanismo de aumento en la morbilidad y mortalidad no está claro 4. Existen numerosos estudios en pacientes diabéticos en que esta asociación ha sido descrita, siendo conocido que esta condición se asocia de manera independiente a un peor pronóstico. Sin embargo, hay escasos estudios en pacientes sin el diagnóstico previo de DM2. La mayoría de los estudios centran su evaluación en la mortalidad, dejando de lado otros outcomes relevantes. En nuestro país hasta el 40% de pacientes con IAM SDST no reciben terapia de re perfusión (TRP) por su ingreso tardío (>12h) a las unidades de emergencia 5. El presente estudio se efectuó para conocer la relación entre HGI y pronóstico en pacientes sin diagnóstico conocido de DM2, que ingresaron a la unidad de emergencia por IAM SDST y que no fueron sometidos a TRP como tratamiento primario.
+
+Métodos:
+
+Se realizó un estudio de cohortes retrospectivo en pacientes ingresados al servicio de urgencia del Hospital Carlos Van Buren por IAM SDST durante los años 2008-2009 y que no fueron sometidos a TRP como tratamiento primario. El objetivo principal fue conocer la relación entre la HGI y el pronóstico. El período de seguimiento se definió en 1 año para cada paciente a partir de la fecha de ingreso a la unidad de emergencia.
+
+Se incluyeron 230 pacientes en el estudio (figura 1). Los criterios de inclusión fueron los siguientes: a) pacientes mayores de 18 años con diagnóstico de IAM SDST ingresados a la unidad de emergencia del Hospital Carlos Van Buren de Valparaíso durante los años 2008 y 2009; b) pacientes que tuvieron medición de niveles de glicemia en el momento de su admisión. La HGI fue definida como glicemia igual o superior a 140 mg/dl 6; c) pacientes que no fueron sometidos a TRP como tratamiento primario. Se excluyeron del estudio los pacientes con diagnóstico previo de DM2 y aquellos con insuficiencia renal crónica.
+
+La tabla 1 muestra algunas características clínicas y epidemiológicas basales de la población incluida en el estudio. El antecedente de HTA, % de hombres y de fumadores fue significativamente más frecuente en el grupo con HGI.
+
+
+
+
+
+
+
+
+
+Los datos de los pacientes ingresados a la unidad de emergencia fueron obtenidos a partir de los registros de ingresos de patologías GES del hospital. La información sobre evolución intrahospitalaria, a 30 días y a 1 año del evento, fue obtenida de las historias clínicas.
+
+Se utilizó un outcome compuesto que incluyó 7 resultados: a) muerte a 30 días, b) muerte a 1 año, c) re-infarto a 30 días, d) re-infarto a 1 año, e) rehospitalización de causa coronaria, d) necesidad de coronariografía, e) necesidad de revascularización. Para el análisis, se calculó un promedio de complicaciones para cada paciente, expresado en forma de porcentaje, donde el tener 1 de 7 complicaciones equivalió a 14,2%, tener 2 de 7 complicaciones equivalió a 28,5%, y así sucesivamente. Luego se analizó la distribución de estos según el grupo al cual pertenecían (HGI o sin HGI).
+
+El outcome secundario incluyó todos los componentes del outcome primario en forma separada.
+
+El pronóstico fue definido por el outcome compuesto y por cada uno de sus componentes por separado. El IAM SDST se definió según los criterios diagnósticos de las guías clínicas de la Sociedad Chilena de Cardiología para el manejo del infarto agudo al miocardio con supra desnivel de ST del año 2009 5. El re-infarto fue definido según los mismos criterios.
+
+Para el análisis de los datos se utilizó el software STATA 10.0 para Windows. El nivel de significancia empleado fue de 0.05 para un valor p de una cola. Para todas las variables analizadas, se determinó su distribución paramétri-ca mediante prueba de Kolmogorov Smirnov. La relación entre variables se midió con prueba Chi cuadrado y T de student para muestras no pareadas, según correspondiera. Para evaluar la magnitud de la relación se utilizaron riesgos relativos (RR) y likelihood ratios (LR). Para el análisis estratificado se utilizó Mantel Haenszel y para el análisis multivariado se utilizó regresión logística.
+
+Resultados:
+
+Hubo diferencias estadísticamente significativas en el número de complicaciones por paciente entre los grupos del estudio. El porcentaje promedio de complicaciones para el grupo de pacientes con HGI fue 31,9 ± 17,7% y para el grupo de pacientes sin HGI fue 27,6 ± 15,8%, p 0.05. En la tabla 2 se observan los componentes del outcome primario por separado entre los pacientes con y sin HGI. No hubo diferencias en necesidad de coronariografía, o de revascularización ni de rehospitalización de causa coronaria. La mortalidad a 30 días del infarto mostró una relación estadísticamente significativa en los pacientes con HGI, donde de un total de 13 fallecimientos, 12 correspondieron a pacientes que presentaron HGI. La tasa de mortalidad fue 11% para el grupo con HGI versus 0,8% para el grupo sin HGI (p 0.001), con un RR de 13,3 (IC 1,7 a 100,7) y un LR de 12,8. La mortalidad a un año plazo no fue diferente entre los grupos.
+
+
+
+
+
+La ocurrencia de re-infarto a 30 días también mostró diferencias estadísticamente significativas. Hubo 4 re-infartos, todos en pacientes con HGI (p 0.034), con un LR de 6. Para evaluar si la relación entre la presencia de HGI y mortalidad a 30 días fue influida por otras variables, se realizó un análisis estratificado de Mantel Haenszel. Las variables de control que se asociaron significativamente a la HGI fueron incluidas en un modelo de regresión logística para evaluar magnitud de dicha influencia. Los resultados de este análisis muestran que la relación entre HGI y mortalidad a 30 días fue influida por el antecedente de hipertensión arterial, dislipidemia tabaquismo e infarto previo, y por la presencia de taquicardia e insuficiencia cardíaca aguda al momento del evento, como también por insuficiencia cardiaca crónica. (tabla 3).
+
+
+
+
+
+Discusión:
+
+En el presente estudio se investigó el valor pronóstico de la HGI en una población de pacientes con IAM con SDST, sin diagnóstico previo de DM2 y que no fueron sometidos a TRP. La razón para no recibir TRP fue, en la gran mayoría de los casos, la consulta tardía (mayor a 12 horas) desde el inicio de los síntomas. Los resultados mostraron que existe una relación estadísticamente significativa entre la HGI y el pronóstico a corto y largo plazo, utilizando un outcome compuesto. Al analizar los resultados por separado, la HGI se asoció en forma significativa a mortalidad y re-infarto a 30 días, donde la tasa de mortalidad fue 11%. Resultados similares se encuentran en los estudios realizados por Méndez y cols, donde la mortalidad intrahospitalaria alcanzó a 10,8% para pacientes con glicemias sobre 150 mg/dl y en los realizados por Kosiborod y cols, donde la mortalidad fue 8,4% para pacientes con glicemias sobre 140 y 13% para glicemias sobre 200 7,8.
+
+Numerosos estudios han investigado la relación entre mortalidad a corto plazo y niveles elevados de glicemia al ingreso hospitalario. La mayoría de ellos muestran resultados diferentes ya que incluyen pacientes tratados con angioplastía primaria como tratamiento inicial, lo que se asocia a un mejor pronóstico 17-15׳4׳3׳, como es el caso del estudio de Méndez y cols 7. Nuestro estudio difiere de este, ya que estudiamos la relación entre mortalidad e HGI en pacientes sin terapia de reperfusión.
+
+Un estudio 16 comparó la relación entre mortalidad e HGI en pacientes de la era pre angioplastía con pacientes de la era con angioplastía primaria; se demostró que la HGI se relacionaba con tasas de mortalidad de 28% en la era pre- angioplastía primaria, versus mortalidad de 19% en pacientes de la era más actual. En nuestro estudio, el RR para mortalidad a 30 días en pacientes con HGI fue 13,3 lo cual es superior a lo encontrado en estudios que incluyen pacientes sin HGI tratados con TRP. Así, una revisión sistemática publicada en The Lancet el año 2000 mostró un RR de 3,9 para el mismo outcome El estudio de Kosiborod y cols, evaluó el promedio de glicemias durante la hospitalización, mostrando un OR de 4,7 cuando el valor promedio era entre 140 y 170 mg/dl, OR 8,13 con valores entre 170 y 200 mg/dl y OR de 15,3 cuando el promedio era mayor a 200 mg/dl 8.
+
+En nuestro estudio, la presencia de hipotensión, taquicardia e insuficiencia cardíaca aguda durante el IAM SDST, tuvo una asociación estadísticamente significativa con la mortalidad. Resultados similares obtuvieron Méndez y la revisión sistemática publicada en The Lancet 17 En cambio, en nuestro estudio, la edad y el sexo no se asociaron en forma significativa con la mortalidad. Con respecto a la ocurrencia de re-infarto a 30 días, el presente estudio mostró un riesgo 6 veces mayor en los pacientes con HGI, la que parece ser un factor de riesgo importante en determinar este outcome. No se encontraron estudios que evaluaran esta asociación.
+
+La HGI no se asoció de forma significativa con una evaluación que hiciera necesario llevar a cabo una co-ronariografía o revascularización. Una posible explicación es que los pacientes no revascularizados son considerados de mayor riesgo y por lo tanto, la mayoría son sometidos a coronariografía según las recomendaciones de las guías clínicas para el manejo del IAM SDST 5. Los resultados muestran que la HGI no se asoció a rehospitalizaciones de causa coronaria ni a mortalidad y re-infarto a largo plazo, resultados que son similares a los de otros estudios donde la hiperglicemia se ha mostrado como un predictor de mortalidad a corto plazo, pero no a largo plazo 4,8,11,12.
+
+Este estudio tiene algunas limitaciones. 1) Fue realizado en un sólo centro hospitalario. 2) No se realizó medición de hemoglobina glicosilada ni prueba de tolerancia a la glucosa por lo que se pudo haber incluido a pacientes diabéticos no diagnosticados. 3) No se contó con información para definir las características del IAM en ambos grupos. Tampoco se contó con medición de la fracción de eyección ni la terapia farmacológica recibida al momento del alta.
+
+En suma: La hiperglicemia al ingreso en pacientes con un IAM SDST, sin diagnóstico previo de DM2 y que no fueron sometidos a terapia de revascularización como tratamiento primario fue un marcador pronóstico de mortalidad y re-infarto a corto plazo. Creemos que es recomendable la medición de la glicemia en todo paciente que ingrese con diagnóstico de infarto agudo al miocardio.
+
+Agradecimientos 

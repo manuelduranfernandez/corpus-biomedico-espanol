@@ -1,0 +1,194 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602017000300209
+La inhibición de Rho quinasa post infarto mejora el remodelado y la función ventricular: mecanismos involucrados a nivel preclínico
+
+Introducción:
+
+A nivel global el infarto del miocardio (IAM) es una de las causas principales de insuficiencia cardíaca (IC) y de mortalidad en la población. Las modificaciones cardíacas post IAM y el remodelado son mecanismos compensatorios que mantienen inicialmente la integridad del tejido y preservan la función ventricular. Cuando esta respuesta adaptativa temprana es progresiva y mantenida en el tiempo, el remodelado cardíaco resulta adverso y necesariamente lleva a disfunción ventricular y a IC1-3. En la fase aguda post IAM, la liberación de mediadores inflamatorios activa vías de señalización intracelular
+
+en el miocardio. Estas vías incluyen respuestas neurohormonales que restablecen la presión arterial y el flujo sanguíneo, alteran la expresión de proteínas miocárdicas o modifican el nivel de fosforilación de proteínas y, de esta manera, su función4.
+
+Una de las vías de señalización asociada al remodelado patológico y a la disfunción contráctil post IAM es la vía RhoA y su principal proteína blanco Rho quinasa (ROCK). RhoA se activa mediante agonistas de receptores acoplados a proteína G de la membrana celular, como Ang II y noradrenalina entre otros5. RhoA activada se transloca a la membrana celular, donde fosforila y por lo tanto activa a ROCK. ROCK activada media importantes funciones celulares como son la contracción muscular, organización del citoesqueleto, adhesión y motilidad, proliferación, diferenciación, apoptosis, supervivencia y expresión de genes implicados en remodelado6-12. ROCK también interviene en la regulación positiva de varias moléculas proinflamatorias, trombogénicas y fibrogénicas, y regula negativamente el óxido nítrico sintasa endotelial. Además, la activación de ROCK promueve el estrés oxidativo vascular13.
+
+Estudios preclínicos dan cuenta del rol de la activación de ROCK en procesos clave asociados con remodelado post IAM 14-22. En ratones que sobre expresan Gαq, la deleción del gen ROCK1 previene la dilatación ventricular y la disfunción sistólica23. En cardiomiocitos cultivados, la activación de ROCK up regula a Bax, lo que induce muerte mitocondrial y apoptosis de los cardiomiocitos24. En ratones transgénicos que sobre expresan la subunidad 2 de la fosfatasa de miosina (blanco de ROCK), una mayor actividad de esta fosfatasa produce disfunción y dilatación VI25.
+
+Aún así, no está del todo claro si la disfunción sistólica post IAM se relaciona con la fosforilación de proteínas que son blanco de ROCK y que promueven remodelado ventricular y cual es el rol de la inhibición de ROCK es en este contexto. El objetivo del presente estudio fue evaluar algunos mecanismos moleculares a través de los cuales la activación cardíaca de ROCK post IAM participa en el remodelado y en el deterioro de la función ventricular, determinando simultáneamente niveles de proteínas río abajo de ROCK, función sistólica VI in vivo además de niveles de fibrosis e hipertrofia miocárdica en ratas con inhibición farmacológica de ROCK. El trabajo presenta los hallazgos más significativos previamente publicados por nosotros27.
+
+Métodos:
+
+El trabajo se realizó de acuerdo con la "Guía para el cuidado y uso de animales de laboratorio" (NIH No. 85-23, revisado en 1996) y fue aprobado previamente por el Comité de Ética y Bienestar Animal de la Facultad de Medicina de la Pontificia Universidad Católica de Chile. Modelo experimental de infarto del miocardio. Se obtuvieron ratas macho adultas Sprague-Dawley (peso 200 ± 10 g, de 9 semanas) que se mantuvieron bajo ciclos de luz/oscuridad de 12 horas a temperatura y humedad reguladas con acceso libre a comida y agua. El IAM se indujo por ligadura de la arteria descendente anterior izquierda (por toracotomía izquierda) bajo anestesia intraperitoneal (ip) con ketamina (50 mg / kg) y xilazina (10 mg / kg) y ventilación mecánica. En el grupo control, la cirugía se realizó de la misma manera, pero sin ligadura de la arteria coronaria. Las ratas infartadas se dividieron aleatoriamente en 2 grupos: uno con y otro sin tratamiento oral con fasudil, inhibidor farmacológico de ROCK (100 mg/kg/día por gavage, 1 semana) iniciado un día después de la cirugía.
+
+Función ventricular izquierda
+
+(ecocardiografía bidimensional). Una semana después de la ligadura coronaria, un ecocardiografista experimentado realizó ciegamente un ecocardiograma bajo sedación con ketamina y xilazina (equipo Sonos 5500 Philips y un transductor de 12 MHz. Se obtuvo una visión paraesternal del eje corto del ventrículo izquierdo (VI) y se determinaron: diámetro telesistólico (DS), diámetro telediastólico (DD), grosor de la pared anterior y posterior y fracción de acortamiento del VI. La fracción de eyección (FE) se cuantificó con la metodología descrita por de Simone et al26.
+
+Morfometría miocárdica. En el VI se determinó hipertrofia cardiomiocitaria y fibrosis miocárdica. Una semana post IAM, las ratas fueron eutanasiadas. Se extrajo cuidadosamente cada corazón, se lavó en solución salina, se pesó, y fijó en formalina al 4% para inclusión en parafina. Los corazones fijados se cortaron transversalmente (5 μm) y se tiñeron con hematoxilina-eosina (HE).
+
+Se analizaron las secciones transversales de los cardiomiocitos en la pared VI no infartada, bajo microscopio óptico (Nikon Eclipse E400) a 400X. Se midieron cien células de cada roedor en todo el miocardio y endocardio del VI. Se delimitó el perímetro de cada celda seleccionada para calcular el área de sección transversal usando el software NIS-Element BR 3.0.
+
+Las imágenes para determinar la fracción de volumen de colágeno intersticial (CVF) fueron adquiridas en un microscopio óptico (Nikon Eclipse E400). De cada VI se examinaron 20 imágenes correspondientes al área infartada, al área cercana al infarto y al área lejos del infarto (zona en la sección transversal ubicada exactamente a 180º del centro de la cicatriz) con aumento de 200X. El colágeno se cuantificó mediante morfometría asistida por computadora utilizando el software MATLAB6.1.
+
+Cuantificación de proteínas
+
+(Western Blot). Para el análisis de Western blot, se congelaron muestras de todo el VI en nitrógeno líquido y se mantuvieron a -80 ° C hasta su procesamiento. Las muestras de VI se homogeneizaron y se lisaron con tampón de lisis con bajas concentraciones de detergente suplementado con inhibidores de proteasa e inhibidores de fosfatasas en hielo27. Se cargaron cantidades iguales de proteína, se separaron en un gel SDS-PAGE al 10% y se transfirieron a una membrana de nitrocelulosa. Después de bloquear con leche descremada (para proteínas no fosforiladas) o BSA 5% (para proteínas fosforiladas) durante 1 hora a temperatura ambiente, las transferencias se incubaron durante la noche a 4 ° C con los siguientes anticuerpos: anti subunidad blanco de la fosfatasa de la miosina-1 (MYPT-1, ratón monoclonal, 1/1000 BD Biosciences); anti p-MYPT-1 (Phospho-MYPT1-Thr 853 Conejo policlonal, 1/700, Cyclex Co), anti Ezrina-radixina-moesina (ERM, Total-ERM, conejo policlonal, 1/700, Cell Signaling); anti p-ERM (Phospho-ERM, Ezrin Thr567, Radixin Thr564, Moesin Thr558, Conejo policlonal, 1/700, Cell Signaling); anti β-MHC (cadena pesada de miosina, monoclonal de ratón, 1/1000, Novocastra TM); anti α-SKA (ratón monoclonal, 1/2500, US Biological Life Sciences); anti p-Smad3 (Phospho-Smad S423/425, monoclonal de conejo, 1/1000, Cell Signaling); anti Smad3 (Total-Smad, conejo monoclonal, 1/1000, Cell Signaling); anti ROCK-1 (ratón monoclonal, 1/1000, BD BioScience); anti ROCK-2 (monoclonal de ratón, 1/1000, BD BioScien-ce); anti ERK1/2 (Total-ERK, conejo policlonal, 1/1000, Cell Signaling); anti p-ERK1/2 (Phospho-ERK 44/42 Thr202/Tyr204, 1/1000, Cell Signaling); anti GATA-4 (Total-GATA 4, conejo policlonal, 1/1000, Thermo Scientific) y anti p-GATA-4 (Phospho-GATA 4, fosfo S105, 1/1000, conejo policlonal). A continuación, los blots se lavaron e incubaron con un anticuerpo secundario de cabra anti-IgG de conejo conjugado con HRP (1: 5000, Thermo Scientific) o uno de cabra anti IgG de ratón (1: 10.000, Santa Cruz) durante dos horas. La cantidad relativa de proteína se estimó mediante quimioluminiscencia usando el kit ECL plus (Perkin Elmer). Las imágenes digitales obtenidas se analizaron por densitometría utilizando el software Image J (NIH, EE.UU.).
+
+Como proteína de control de carga (GADPH) se usó un anticuerpo monoclonal de ratón anti GAPDH (1: 1000) (Santa Cruz Biotechnology Inc).
+
+Análisis estadístico. Los datos se presentan como promedio ± ES. Los promedios se compararon con análisis de varianza de un factor (ANOVA) seguido del test de Newman-Keuls. Un valor de p < 0.05 se consideró estadísticamente significativo.
+
+
+
+
+
+
+
+Promedio ± ES.
+
+Abreviaciones: VI = ventrículo izquierdo
+
+Símbolos: # = p < 0, 05 vs Sham y @ = p < 0, 05 vs IAM (Newman Keuls post-ANOVA)
+
+
+
+
+
+
+
+Promedio ± ES.
+
+Abreviaciones: VI = ventrículo izquierdo
+
+Símbolos: # = p < 0, 05 vs Sham y @ = p < 0, 05 vs IAM (Newman Keuls post-ANOVA)
+
+Resultados:
+
+Características de los grupos experimentales y función ventricular izquierda (Tabla 1). Una semana post IAM, el peso corporal disminuyó en el grupo IAM y en el grupo IAM+fasudil en comparación con el grupo control operado, sin ser significativo. La masa ventricular (peso de ambos ventrículos) aumentó significativamente en el grupo IAM en 6%, y en las ratas con IAM tratadas con fasudil la masa ventricular disminuyó significativamente en 18% en comparación el grupo IAM (y 13% en comparación con el grupo control). La masa ventricular relativa (masa ventricular/peso corporal) aumentó significativa-mente en 30% en el grupo IAM y disminuyó significativamente con fasudil.
+
+Dimensiones y función sistólica VI (Tabla 1). En el grupo IAM se observó una dilatación importante de la cavidad VI. El área de fin de sístole se incrementó significativamente 2,6 veces en el grupo IAM en comparación con el grupo control y disminuyó en 40% con fasudil. Al mismo tiempo, la fracción de acortamiento (FAC) y la fracción de eyección del VI (EF) se vieron gravemente comprometidas en el grupo IAM, lo que mejoró significativamente con la inhibición farmacológica de ROCK.
+
+Activación de la vía RhoA/ROCK en miocardio. La activación de la ROCK cardíaca se evaluó mediante la determinación de los niveles de fosforilación de sus dos principales sustratos directos, MYPT-1 y ERM en el miocardio del VI no infartado. La fosforilación de MYPT-1 (p-MYPT1) en el residuo 853 es específica para ROCK. En ratas con IAM, p-MPYT1 aumentó significativamente en 2.9 ± 0.3 veces en comparación con el grupo control, y se redujo significativamente con la administración de fasudil (Figura 1a). Los niveles de proteína total de MYPT-1 (T-MYPT1) en ratas infartadas aumentaron 1,9 ± 0,2 veces y también disminuyeron significativamente con fasudil (Figura 1b). Los niveles de p-MYPT1/T-MYTP1 en el grupo IAM aumentaron significativamente en 60% y se mantuvieron altos después de la administración de fasudil. Con el fin de precisar el nivel de activación de ROCK cardiaco, se determinaron también los niveles de fosforilación de un segundo blanco directo de ROCK, el complejo ERM, en el VI. En las ratas infartadas se observó un aumento significativo de los niveles de p-ER-M/T-ERM cardíaco en 2,2 ± 0,14 veces y se redujeron significativamente con fasudil (Figura 2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Isoformas de ROCK (Figura 3). Los niveles proteicos de las isoformas ROCK1 y ROCK2 en miocardio post IAM aumentaron significativamente en 50% (p<0.01) y 40% (p<0.05), respectivamente post IAM. Fasudil redujo significativamente los niveles cardíacos de ambas isoformas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Niveles cardíacos de β-MHC y α-SKA y área de los cardiomiocitos (Figura 4). Los niveles de proteína de β-MHC y α-SKA se usaron como marcadores tempranos de hipertrofia cardiomiocitaria. Los niveles de β-MHC en miocardio aumentaron 30 veces en comparación con el grupo control (y disminuyeron significativamente con fasudil (p <0.001). De manera similar, en el grupo IAM, los niveles de α-SKA aumentaron en un 85% (p < 0.001), sin cambios después de la administración de fasudil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+El área de sección transversal de los cardiomiocitos en el grupo sham fue 167 ± 3 μm2 y fue significativamente mayor en un 10% en el grupo IAM (p <0.05). Fasudil administrado durante 7 días a ratas con IAM no modificó este parámetro en comparación con el grupo control.
+
+Fibrosis miocárdica (Figura 5). Tanto en las áreas cercanas al IAM como en las áreas alejadas del IAM se observó un aumento significativo en la fracción volumétrica de colágeno (FVC) en el grupo IAM en comparación con el grupo control operado (1,16 ± 0,34 versus 5,1 ± 0,6% y 1.16 ± 0.34 versus 4.2 ± 0.3%, n = 6, p< 0.001, respectivamente). La fibrosis miocárdica se atenuó en el grupo IAM tratado con fasudil en ambas áreas del ventrículo izquierdo en comparación con el grupo IAM sin tratamiento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fosforilación de ERK 42, ERK 44 y de GATA-4 en miocardio. Debido al papel desempeñado por la vía de señalización ROCK /ERK /GATA-4 en el remodelado y en la contractilidad del miocardio, se determinaron estos niveles. El IAM aumentó significativamente los niveles de fosforilación de ERK 42 y ERK 44 en 2 y 63% respectivamente (Figura 6). En el grupo con IAM tratado con el inhibidor de ROCK estos niveles fueron similares a los observados en el grupo control. Además, el IAM produjo un aumento significativo de los niveles del factor de transcripción GATA-4 fosforilado en 2,9 veces (Figura 7), mientras que con fasudil los niveles fueron similares a los del grupo control. El IAM también indujo un aumento significativo en los niveles de proteína total de GATA-4 en 2,5 veces, sin cambios en el grupo IAM tratado con fasudil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discusión:
+
+Las principales observaciones de este estudio en un modelo preclínico de IAM fueron: la disfunción sistólica VI está fuertemente asociada a la activación de ROCK cardíaca y a la fosforilación secundaria de las proteínas río abajo de ROCK que promueven remodelado ventricular como son β -MHC y la vía ERK/GATA-4. La inhibición de ROCK con fasudil mejoró significativamente la función sistólica, disminuyó la fibrosis miocárdica y normalizó los niveles de β-MHC y de fosforilación de ERK/GATA-4.
+
+Activación de ROCK y disfunción sistólica post IAM. El método más reconocido para determinar la activación de ROCK es midiendo el nivel de fosforilación de una de sus proteínas blanco, MYPT1. MYPT1 es parte del complejo holoenzimático fosfatasa de la miosina, la subunidad reguladora de la unión de la miosina. La actividad de esta fosfatasa está regulada por el estado de fosforilación de los residuos de treonina 696 y 853 en MYPT1, que pueden ser fosforilados por ROCK28-30. Los estudios in vitro han establecido que la fosforilación en el residuo 853 es completamente evitada por los inhibidores de ROCK, mientras que el residuo T696 también puede ser fosforilado por otras quinasas.
+
+En el presente estudio, en ratas con disfunción sistólica temprana una semana post IAM, los niveles de fosforilación cardíaca de MYPT1 aumentaron significativamente y el inhibidor de ROCK fasudil redujo esta fosforilación, lo que indica el papel de la activación de ROCK cardíaca post IAM (y posiblemente en otros tipos de disfunción sistólica). La dosis y el método de administración de fasudil utilizados se han descrito previamente para evaluar inhibición de ROCK cardiovascular en roedores 13,14,31,32.
+
+Con el fin de caracterizar mejor la especificidad de la fosforilación de ROCK en este modelo, se determinó el nivel de fosforilación de ERM cardíaco, otro blanco di-recto de ROCK12,33, en el miocardio de VI no infartado en una muestra de los 3 grupos experimentales como se ha reportado previamente en ratones34. Se observó un aumento significativo en los niveles de fosforilación de ERM cardíaco una semana post IAM, lo que también se redujo con fasudil. Nuestros hallazgos en ERM son consistentes con observaciones sobre activación cardíaca de ROCK en ratones 4 días 34 y 4 semanas post IAM 14 así como en el modelo de isquemia-reperfusión en la rata 35. Las proteínas de ERM están estrechamente relacionadas con la dinámica del citoesqueleto y son componentes importantes de la estructura celular36,37, pero el rol de la fosforilación de ERM en células cardíacas no es algo bien conocido. En cardiomiocitos, la activación de ERM media los efectos de la activación del intercambiador de Na+/ H+ inducido por ácido37.
+
+Además, observamos un aumento significativo en los ni-veles de las isoformas cardíacas ROCK1 y ROCK2, lo que no se había reportado previamente en este modelo experimental. El aumento de estas 2 isoformas de ROCK se ha observado experimentalmente en células de músculo liso vascular en hipertensión experimental y también en arterias pulmonares en situación de hipoxia y también como consecuencia de daño pulmonar.38
+
+
+
+En ratas con diabetes inducida por estreptozotocina se ha observado un aumento de ambas isoformas cardíacas de ROCK39, y también en el modelo de isquemia-reperfusión40. Previamente, en este modelo de IAM, localizamos niveles aumentados de ROCK2 (y el efecto de la inhibición de ROCK) dentro de los cardiomiocitos usando inmunofluorescencia, en paralelo con aumento de β-MHC, lo que apoya el papel de ROCK2 en la hipertrofia cardíaca27.
+
+ROCK1 participa en procesos celulares que caracterizan el remodelado cardíaco patológico como fibrosis, hipertrofia y apoptosis de cardiomiocitos, que conducen a dilatación y disfunción ventricular y a insuficiencia cardíaca. ROCK1 parece mediar la señalización alterada de supervivencia dependiente de ERK y de Akt, el aumento de citoquinas fibrogénicas y la expresión alterada de AC5/6 inducidas por estímulos hipertróficos12. Por otro lado, estudios genéticos que utilizan ratones knockout para ROCK2 específica en corazón han demostrado que ROCK2 está involucrado en hipertrofia de cardiomiocitos, en apoptosis y en fibrosis cardíaca durante la hipertrofia cardíaca compensatoria 41,11.
+
+Estudios genéticos recientes indican que las isoformas de ROCK pueden tener funciones distintas en el remodelado cardíaco. A este respecto, queda por determinar si los efectos beneficiosos de los inhibidores de ROCK están mediados por la inhibición de ROCK1, ROCK2 o de ambos. En este sentido, estudios con ratones knockout condicional de ROCK1 y ROCK2, así como el uso de inhibidores específicos de cada isoforma podrían proporcionar nuevos conocimientos sobre su rol en el IAM y en el remodelado cardíaco.
+
+Remodelado ventricular. La injuria miocárdica se asocia a reexpresión de genes normalmente expresados en la vida fetal temprana como β-MHC y α-SKA, que son marcadores tempranos de hipertrofia2,42,43. En nuestras ratas con IAM, observamos un aumento significativo de los niveles cardíacos de β-MHC y α-SKA, consistente con reportes anteriores2,42,43. Fasudil redujo los niveles de β-MHC a niveles normales, lo que indica que la activación de ROCK contribuye al remodelado adicionalmente a través de la expresión de beta-MHC. Fasudil no redujo los niveles cardíacos de α-SKA, lo que sugiere que la expresión de esta proteína post IAM es independiente de la activación de ROCK. Se ha propuesto que en la hipertrofia cardíaca por sobrecarga de presión pueden existir dos poblaciones distintas de cardiomiocitos dentro del corazón hipertrófico: una que es hipertrófica y que expresa predominantemente α-MHC y una segunda población no hipertrófica que expresa α y β-MHC44,45. Desde esta perspectiva, la re-expresión de β-MHC sería un marcador celular de 'normotrofia ' bajo condiciones que inducen hipertrofia cardíaca, lo que haría a estos cardiomiocitos resistentes a un aumento de su tamaño de manera que esta reexpresión de β-MHC sería de hecho protectora44,45. La reexpresión de β-MHC se produce en grupos discretos de miocitos dentro del subendocardio lo que parece sugerir que la inducción de β-MHC no es una consecuencia obligatoria de hipertrofia celular; también las células que expresan β-MHC en el corazón hipertrófico se distribuyen predominantemente en agrupaciones dentro y también rodeando focos de fibrosis45.
+
+Para evaluar con más detalle el mecanismo por el cual la activación de ROCK regula la expresión de β-MHC cardíaca, nos hemos centrado en el factor de transcripción GATA-4, que se transloca al núcleo y se une a secuencias de consenso [(A/T)GATA(A/G)] en los promotores de genes que codifican proteínas como β-MHC, el receptor de angiotensina II tipo 1, endotelina-139 y también troponina46. La activación transcripcional de GATA-4 depende de la fosforilación en serina 105 y está mediada principalmente por la proteína quinasa activada por mitógeno (MEK 1) y ERK1/2 47,16,42,43. ROCK es un regulador directo de la vía ERK1/2, que fosforila y activa a GATA-4 a nivel cardíaco42. En este estudio hemos observado un aumento en los niveles de fosforilación de ERK1/2 en ratas con IAM y también en los niveles de fosforilación en el residuo de serina 105 en GATA-4 miocárdica. Ambos cambios se redujeron con fasudil, lo que indica el rol de la activación de ROCK en estos procesos. La activación de la vía ROCK/ERK/GATA-4 cardíaca en este contexto también es consistente con el aumento en la expresión de β-MHC en el grupo con IAM.
+
+Junto con la hipertrofia cardíaca, en este modelo de IAM (grande), aumentó el colágeno intersticial en la zona no infartada del ventrículo izquierdo. Fasudil revertió la fibrosis miocárdica, consistente con el rol de la activación de ROCK en la fibrosis miocárdica14-18,34. En ratones con deleción del gen ROCK1, se ha identificado el rol de esta isoforma en el desarrollo de fibrosis cardíaca en respuesta a la isquemia reperfusión 9 y también en ratones haploinsuficientes ROCK1 (+/-) estimulados con angiotensina II18.
+
+Estos resultados in vivo (aumento de la fosforilación cardíaca de las proteínas blanco de ROCK y su reducción con fasudil, junto con mejoría de la función sistólica) demuestran que los efectos observados son bastante específicos de esta quinasa. Por otro lado, el aumento en los niveles de cardíacos de MYPT1 y β-MHC y su disminución con fasudil, sugiere que ROCK es un regulador importante en las modificaciones postranduccionales de estas proteínas asociadas a remodelado y a contractilidad miocárdica48-50.
+
+Limitaciones. Habiendo utilizado un modelo in vivo y observado cambios cardíacos inducidos en un contexto fisiopatológico integrado, el papel de otras vías de señalización no se evaluó. Además, las modificaciones observadas, 1 semana post IAM, podrían no estar presentes en el largo plazo. Por otro lado, en ratones con IAM de 4 semanas también se observan los efectos deletéreos de la activación de ROCK en el remodelado y función sistólica VI18, de manera que las alteraciones observadas posiblemente son más que transitorias. También, hemos utiliza-do todo el VI en lugar de la zona no infartada del VI para las determinaciones moleculares y bioquímicas. Sin embargo, para los efectos de interpretar los resultados, las mismas mediciones se realizaron en ambos grupos experimentales, con áreas de infarto similares, presentando el grupo IAM mayor remodelado en la zona no infartada en comparación con el grupo tratado con fasudil. Por lo tanto, es razonable proponer que los cambios moleculares observados muy probablemente tuvieron lugar en la zona no infartada. Tampoco realizamos estudios de expresión génica, pero se analizó cuantitativamente el rol de varias proteínas fosforiladas que son importantes en el remodelado y en la función ventricular izquierda, y que finalmente dan cuenta de las modificaciones de un fenotipo.
+
+En conclusión, mecanismos relevantes por los cuales la activación temprana de ROCK post IAM deteriora la función sistólica VI son la estimulación de hipertrofia y fibrosis, la fosforilación de ERK42, ERK44 y del factor de transcripción GATA-4 a nivel miocárdico. La inhibición de ROCK post IAM mejora significativamente la función sistólica VI y normaliza estos mecanismos alterados

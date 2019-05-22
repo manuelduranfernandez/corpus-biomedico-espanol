@@ -1,0 +1,150 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602017000300200
+Uso de terapia antiagregante dual luego de angioplastía coronaria. Duración, frecuencia de sangramientos y validación de scores de riesgo de hemorragia en una cohorte chilena
+
+Introducción
+
+La terapia antiagregante dual (TAD) con aspirina y un inhibidor de P2Y12 reduce las recurrencias isquémicas en pacientes con enfermedad coronaria tratados con stents1. Sin embargo, este beneficio es limitado por un mayor riesgo de sangrado producido por estas drogas, el cual está directamente relacionado con el tiempo de duración de la TAD. Esto es importante, dado que tanto los eventos isquémicos como los sangrados pueden afectar negativamente el pronóstico de los pacientes2. Los resultados de estudios recientes aportan datos conflictivos. Por un lado, acortar la duración de TAD a 3 o 6 meses reduce de manera significativa el riesgo de sangrado3. Por el otro lado, un tratamiento prolongado por más de 12 meses reduce los eventos isquémicos, incluyendo los relaciona-dos como los no relacionados al stent4.
+
+Por esto, las guías internacionales sugieren evaluar el riesgo de sangrado de cada paciente individual para definir el tiempo óptimo de duración de la TAD en el cual se combinen la protección de eventos isquémicos y la disminución del riesgo de sangrado5. Actualmente existen 2 puntajes de riesgo validados que han demostrado predecir el riesgo de sangrado y/o eventos isquémicos en pacientes con TAD. El DAPT (dual-antiplatelet therapy score) provee una escala entre -2 a 10 que incluye una serie de variables relacionadas con el riesgo de eventos (Tabla 1)6. Menores puntajes se asocian con mayor riesgo de sangrado y menos beneficio en reducir eventos isquémicos con el tratamiento, mientras que puntajes altos se asocian a menor riesgo de sangrado y un mayor beneficio absoluto en prevención de eventos isquémicos. Cabe destacar, sin embargo, que el DAPT score fue diseñado para evaluar el riesgo de sangrado en pacientes que ya han recibido TAD por 1 año sin inconvenientes. Más recientemente, un nuevo puntaje llamado PRECISE-DAPT ha sido propuesto y validado7. Este puntaje incluye 5 variables (Tabla 1) cuya integración en un normograma permite discriminar entre pacientes con riesgo bajo (puntaje <25), riesgo moderado (21-25) y riesgo alto (>25) de sangrado con el uso de TAD. A diferencia de DAPT score, este nuevo sistema de puntaje permite discriminar el riesgo de sangrado de cada paciente al momento de iniciar la TAD, de modo que puede ser considerado desde un inicio en la evaluación clínica de los pacientes.
+
+Estos puntajes de riesgo han sido validados en poblaciones incluidas en grandes ensayos clínicos aleatorizados de TAD, los cuales en general tienen escasa representación de pacientes latinoamericanos y de Chile en particular8. Adicionalmente, en nuestro conocimiento no con tamos con datos locales sobre la duración de TAD y la incidencia de eventos hemorrágicos en nuestra población de pacientes sometidos a angioplastía coronaria.
+
+Con esto en consideración, los objetivos de este estudio fueron i) evaluar la duración de TAD en una cohorte de pacientes sometidos a angioplastía coronaria en un hospital universitario; ii) conocer la tasa de eventos hemorrágicos en estos pacientes; iii) evaluar el comportamiento de los puntajes de riesgo DAPT score y PRECISE-DAPT en esta cohorte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Métodos
+
+Población estudiada
+
+El programa de Prevención Cardiovascular del Hospital Clínico de la Universidad Católica recluta a todos los pacientes que han sido sometidos a una angioplastía coronaria en nuestro centro y que están dispuestos a participar en un seguimiento telefónico enfocado principalmente en hábitos de vida saludable y control de factores de riesgo, junto con recibir educación sobre su enfermedad. De este modo, contamos con una base de datos prospectiva de la mayoría de los pacientes intervenidos en nuestra institución que incluye sus características biodemográficas, diagnósticos de ingreso, factores de riesgo cardiovascular y comorbilidades, resultados de exámenes al momento de su evento y el tratamiento recibido (incluyendo terapia farmacológica y las intervenciones realizadas).
+
+Diseño del estudio
+
+Para este estudio seleccionamos a los pacientes sometidos a angioplastía coronaria durante el año 2015 y que se encontraban incluidos en el programa de Prevención Cardiovascular, con el objetivo de evaluar los eventos isquémicos y hemorrágicos de estos pacientes durante un período de 2 años. Para obtener la información sobre eventos cardiovasculares y episodios hemorrágicos y el tipo y tiempo de duración de TAD se realizó una encuesta telefónica estandarizada a todos los pacientes. A la información obtenida se agregó la revisión de los datos de la ficha clínica electrónica de nuestra institución. En caso de discordancia en la información, se contactó nuevamente al paciente para solicitar clarificación sobre el punto en particular.
+
+Definición de eventos
+
+Los eventos de sangrado fueron definidos según la clasificación de la ISTH (International Society of Thrombosis and Haemostasis)9 y del grupo de estudios TIMI (Thrombolysis in Myocardial Infarction)10, considerando aquellos que ocurrieron al menos 7 días posterior a la intervención. Los eventos cardiovasculares fueron definidos como nueva revascularización (angioplastía o cirugía coronaria) no programada al momento de la angioplastía índice, síndrome coronario agudo (incluyendo angina inestable e infarto con o sin supradesnivel del ST), accidente cerebrovascular y muerte. Se calcularon los puntajes DAPT y PRECISE-DAPT para cada paciente y se correlacionaron con los eventos hemorrágicos.
+
+Análisis estadístico
+
+Las variables continuas se muestran como promedio +/-desviación estándar o medianas y variables categóricas como porcentaje. Diferencias en variables continuas fue-ron evaluadas mediante T de Student y ANOVA. Diferencias en proporciones fueron analizadas mediante test exacto de Fisher y se calculó odds ratio (OR) para establecer el riesgo de un evento en el tiempo estudiado. Se construyó una curva ROC para avaluar el mejor punto de corte para predicción de sangrados del puntaje PRECISE-DAPT en nuestra cohorte. Se consideró una p<0,05 como significativa. Los análisis fueron realizados con el software SPSS versión 21.0 (IBM SPSS Statistics, IBM Corporation, Armonk, New York).
+
+Resultados
+
+Características basales
+
+Se incluyeron 227 pacientes que recibieron una angioplastía coronaria durante el año 2015. El promedio de edad fue de 64,2 años, 22,5% correspondieron a mujeres, 69,6% eran hipertensos, 28,6% diabéticos, 26,9% fuma-dores y 5,3% insuficientes renales crónicos. El 63% de los pacientes presentó un síndrome coronario agudo, se implantaron 1,4±0,7 stents/paciente y en el 37% de los casos se implantaron sólo stents metálicos. Las características basales de la población estudiada se presentan en la Tabla 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duración de DAP y eventos
+
+El seguimiento promedio fue de 26±3 meses. Al momento del alta, el 99,1% de los pacientes se encontraba recibiendo aspirina, 93,4% clopidogrel, 6,6% ticagrelor y 9,3% anticoagulantes orales. Se registró un tiempo promedio de duración de TAD de 12,6±7,4 meses. No se encontraron diferencias en el tiempo de duración de TAD y múltiples factores que son considerados habitualmente predictores de eventos cardiovasculares o sangrados durante el seguimiento, tales como edad, infarto previo y uso de más de 1 stent (Tabla 3). Sin embargo, hubo una tendencia no significativa a un uso de TAD más prolongado en pacientes diabéticos y por tiempo más corto en aquellos pacientes que sólo recibieron stents metálicos. Cabe destacar que la duración de la TAD no se vio modificada en relación con los puntajes DAPT score o PRECISE-DAPT (Figuras 1a y 1b).
+
+
+
+
+
+
+
+DA= arteria descendente anterior
+
+
+
+
+
+
+
+DA= arteria descendente anterior
+
+Se registraron 35 (15,4%) nuevos eventos cardiovasculares (nueva revascularización 14, síndrome coronario agudo 12, accidente cerebrovascular 2 y muerte 7) y 31 (13,6%) episodios de sangrados de acuerdo con el criterio ISTH. Al utilizar el criterio TIMI de sangrado se registraron 5 (2,2%) episodios graves, 9 (3,9%) leves y 17 (7,4%) menores La duración de TAD fue mayor en aquellos pacientes con un nuevo evento cardiovascular, aunque no alcanzó significancia estadística (16,3 [7,2] vs. 11,9 [7,2] meses, p=0,09). Por el contrario, los pacientes que presentaron sangrados utilizaron TAD por un tiempo similar a aquellos que no tuvieron hemorragias (12,8 [7,4] vs. 11,0 [7,2] meses, p=0,24). Diez (4,4%) pacientes refirieron que se les modificó la TAD debido al sangrado.
+
+Predicción de hemorragias con puntajes de riesgo
+
+En nuestra cohorte, la mediana del puntaje PRECI-SE-DAPT fue 16 y de DAPT score fue 1. El 21% de los pacientes tuvieron puntaje PRECISE-DAPT de alto riesgo (>25) y el 58,4% DAPT score menor o igual a PRECISE-DAPT se asoció de manera significativa a los episodios de sangrado, con tasas de 10,5% en pacientes de bajo riesgo (puntaje <20), 18,5% en pacientes de riesgo moderado (puntaje 21-25) y 31,7% en aquellos de riesgo alto (>25) (Figura 2, p<0,01). De hecho, tener un puntaje de alto riesgo (>25) aumentó más de 3 veces el riesgo de sangrado (OR 3,1 IC 1,4-7,1, p<0,01). En los 5 pacientes que presentaron un episodio grave de sangrado de acuerdo con el criterio TIMI, el promedio del puntaje PRECISE-DAPT fue de 27. Como era esperable, el uso de TACO además de la TAD también aumentó el riesgo de sangrado (OR 3,4 IC 1,2-9,5, p=0,02). Para evaluar el comportamiento de PRECISE-DAPT en nuestra cohorte elaboramos una curva ROC, la cual estableció que en la población estudiada el mejor punto de corte para predecir hemorragias fue de 18 puntos (C-statistic 0,69) (Figura 3). De esta forma, la tasa de sangrado en los pacientes con PRECISE-DAPT de 18 o más puntos fue de 24,1%, comparado con 9,5% en aquellos con puntaje menor a 18 (p<0,01). Si bien miden distintos parámetros, los puntajes de riesgo DAPT y PRECISE-DAPT se correlacionaron significativamente en nuestra cohorte (correlación kappa p<0,01). Luego, analizamos la capacidad de predecir hemorragias de ambos scores en conjunto. Utilizando los puntos de corte recomendados de 25 para PRECISE DAPT y de menor o igual a 1 para DAPT score encontramos que la tasa de sangrado fue de 32% para los pacientes que cumplían ambos criterios, en cambio fue de sólo 6% para aquellos que no cumplían ninguno de los dos (Figura 4a, p<0,01, índice de correlación kappa 0,089). El repetir el mismo análisis, pero considerando el punto de corte de 18 que obtuvimos en nuestra cohorte para PRECISE-DAPT, encontramos que la tasa de sangrado para los pacientes que cumplían ambos criterios fue de 24,6%, mientras que para los que no cumplían ninguno de los dos fue de 3,6% (Figura 4b, p<0,01). Esto se traduce en que pertenecer al grupo de bajo riesgo combinado (DAPT score >2 y PRECISE-DAPT <20) es un factor protector de sangrado con un OR de 0,13 (IC 0,03-0,58, p<0,01). De forma interesante, utilizando el punto de corte de 18 el índice de correlación kappa fue p=0,04, implicando una mejor concordancia entre ambos puntajes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discusión
+
+Los hallazgos más importantes del presente estudio son: en la población estudiada, el tiempo de duración de TAD no parece estar determinada por factores que habitualmente se considera que pueden afectar esta decisión, tales como infarto miocárdico como forma de presentación clínica, uso de más de 1 stents o stents de diámetro pequeño, insuficiencia renal, infarto previo, etc; ii) los puntajes DAPT score y PRECISE-DAPT tampoco se correlacionaron con la duración de la TAD, de modo que la decisión pareciera estar determinada por factores distintos; iii) las hemorragias son un evento frecuente con el uso de TAD, con tasas similares a la de nuevos eventos isquémicos; iv) PRECISE-DAPT parece predecir de forma adecuada la aparición de eventos hemorrágicos, aunque el punto de corte podría ser algo menor en nuestra población comparado con la cohorte internacional donde fue validado.
+
+Durante los últimos años la TAD se ha hecho más compleja, en cuanto existen nuevas drogas disponibles, la duración de la terapia podría verse modificada por una serie de factores (entre los cuales está la presentación clínica, tipo de stent y comorbilidades) y estudios recientes muestran que puede ser útil extender la terapia mucho más allá de lo habitualmente recomendado11. Esto ha determinado que las guías clínicas recomienden la evaluación del riesgo individual de cada paciente al momento de decidir sobre el tipo y duración de DAP luego de una angioplastía coronaria5. En nuestra cohorte observamos que las decisiones sobre la duración de la TAD realizada por los cardiólogos de nuestro centro no se corresponden con factores reconocidos que pueden aumentar el riesgo de eventos isquémicos o hemorrágicos en el seguimiento. Tampoco pareciera que se utilizan los puntajes disponibles para decidir si se prolongará la terapia luego de 1 año. Esto está en línea con una encuesta que hemos realizado y, en la cual cardiólogos y médicos internistas a lo largo de todo el país mostraron una gran divergencia en sus conductas respecto al uso de TAD. Los hallazgos aquí presentados enfatizan la necesidad actual que tenemos de establecer protocolos de actuación locales, que sean compartidos con el gran volumen de médicos que están a cargo de controlar a estos pacientes tanto en el sistema público como privado de salud.
+
+Los eventos hemorrágicos en pacientes con TAD son frecuentes y deben ser considerados al momento de planificar el tratamiento. En el estudio PEGASUS la tasa de sangrado mayor de acuerdo con criterio TIMI fue de hasta 2,6%, con sangrados que llevaron a suspensión de la droga en hasta 7,8% de los pacientes11. La incidencia de sangrados según ISTH que observamos (13,6%) es similar a la descrita en la rama de dabigatrán más clopidogrel en el estudio REDUAL12. Del mismo modo, la tasa de 2,2% de sangrados mayores (TIMI) de nuestra cohorte es comparable a las obtenidas en las ramas de uso prolongado en estudios que evalúan la duración de TAD 4,13,14. Es importante considerar que esta es una cohorte de la vida real, donde se incluyeron pacientes con perfiles de riesgo que potencialmente hubieran sido descartados de estudios clínicos (insuficiencia renal, edad muy avanzada, sangramientos previos, entre otros) y en donde un 9,3% de los pacientes recibió además anticoagulantes orales, de tal manera que son esperables cifras altas o en el límite superior de lo reportado en ensayos clínicos.
+
+Nuestros resultados demuestran que usar los scores de riesgo para sangrado, en particular PRECISE-DAPT, parece ser una alternativa válida y útil en nuestra población. Si bien DAPT-score predijo sangrados en su estudio original4, posteriormente falló en predecirlos en su cohorte de validación6, de modo que decidimos centrar nuestro análisis principalmente en el recientemente desarrollado puntaje PRECISE-DAPT. Sin embargo, la integración de ambos puntajes puede ser una ayuda aún mayor al momento de decidir sobre esta terapia. Así, de nuestra cohorte se obtiene que si un paciente tiene un puntaje bajo en PRECISE-DAPT y menor o igual a 1 en DAPT score su posibilidad de tener un sangramiento es muy baja (3,6%), de modo que, si su riesgo de eventos isquémicos lo amerita, pareciera razonable prolongar la terapia. De modo contrario, si tanto los puntajes DAPT score como PRECISE-DAPT sugieren un riesgo alto de sangramiento, nuestros resultados sugieren una posibilidad aproximada de 1 en 4 pacientes de tener algún sangrado, haciendo recomendable usar TAD el mínimo tiempo posible. Es importante destacar, sin embargo, que no todos los episodios hemorrágicos ponen en riesgo la vida de los pacientes, pero sí son molestos y pueden determinar cambios en la TAD, que, a su vez, podría potencialmente llevar a eventos adversos. Un caso habitual de esto es aquellos pacientes que presentan, por ejemplo, hematuria mientras están con TAD, en los cuales muchas veces se le suspenden los antiagregantes plaquetarios, poniéndolos en riesgo de presentar un evento isquémico o trombosis del stent. De hecho, en el estudio ADAPT-DES el sangramiento luego de una angioplastía coronaria se asoció de manera significativa con mortalidad a 2 años (aumentándola en 5 veces), con un efecto mayor que el de presentar un infarto miocárdico15. En nuestro estudio el 4,4% de los pacientes refirió que se les cambió su TAD debido a sangrados. 
+
+El presente estudio presenta una serie de limitaciones, dentro de las cuales cabe destacar la naturaleza retrospectiva de la identificación de las hemorragias y los eventos cardiovasculares por medio de una encuesta, lo cual puede ser una fuente de sesgo. También, el número de pacientes presentados nos permite acercarnos a algunas conclusiones, pero sería ideal confirmar estos resultados en una cohorte mayor de pacientes. Finalmente, este estudio buscó validar un puntaje internacional (PRECISE-DAPT) en una cohorte chilena y no crear un puntaje propio de sangrado. Por esto, no se realizaron regresiones multivariadas para identificar predictores. Para un estudio de esta naturaleza el tamaño muestral es insuficiente. En conclusión, nuestros resultados sugieren que en esta cohorte de la vida real de pacientes con TAD la ocurrencia de sangramientos es un evento frecuente. Por lo tanto, el riesgo de presentar hemorragia debe ser un factor relevante que considerar al momento de la angioplastía coronaria y la selección de la duración de la TAD. El puntaje PRECISE-DAPT es una herramienta útil para predecir sangrados en nuestra población, aunque nuestros resultados sugieren que valores de corte algo menores que lo previamente publicado pueden ser más apropiados para la realidad local. Finalmente, la combinación de ambos puntajes permite identificar un grupo con muy bajo riesgo de tener sangrado con TAD.
+
+
+
+
+
+
+
+
+
+

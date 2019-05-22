@@ -1,0 +1,58 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602016000100003
+Impacto de Ia Telemedicina en Ia calidad del Control de Tratamiento Anticoagulante Oral
+
+ 
+
+Introducción: La ampliación de las indicaciones de profilaxis antitrombótica con fármacos anti vitamina K en los últimos años y la longevidad de la población han incrementado de manera notable el número de enfermos susceptibles de beneficiarse de este tipo de tratamiento1-2. En Chile el anticoagulante más utilizado es el acenocumarol (en comprimidos de 4 mg), en los países anglosajones se utiliza la warfarina sódica y es con este medicamento con el que se han realizado la mayor parte de estudios y ensayos clínicos3. Los fármacos anti vitaminas K son eficaces, pero tienen un estrecho margen terapéutico y su eficacia se ve afectada por diferentes circunstancias como la alimentación o la administración de otros medicamentos4. Las principales consecuencias de los desajustes en las dosis son la trombosis (falta de eficacia) o el desarrollo de un evento hemorrágico por exceso de dosis. La minimización de estos riesgos exige controles periódicos para ajustar las dosis del fármaco a unos rangos de anticoagulación seguros, en función de una prueba analítica conocida como razón normalizada internacional (INR)5. Existe una fuerte relación en entre el tiempo que los pacientes están en rango y la aparición de un efecto adverso, por lo que los controles del tratamiento con fármacos anti vitaminas K deben cumplir unos requisitos de calidad reconocidos internacionalmente1-2. Los principales son el porcentaje de pacientes en rango terapéutico y Tiempo en Rango Terapéutico (TTR)1-2-3. La masificación de las consultas del control del tratamiento con anti vitaminas K, las dificultades de desplazamiento de los pacientes y la irrupción en el mercado de pequeños equipos que permiten la valoración del INR han motivado a las administraciones a iniciar programas de descentralización que van a afectar a un alto número de pacientes6-7-8-9. Habitualmente, la totalidad de estas atenciones de salud son realizadas por médicos especialistas. No obstante, cada vez es más frecuente que los servicios de atención primaria colaboren para garantizar un mejor control del tratamiento anticoagulante oral así como facilitar al usuario la realización de las pruebas pertinentes2. El objetivo de este estudio fue implementar el control del tratamiento anticoagulante por Telemedicina entre el Hospital San Juan de Dios (alta complejidad) y el Hospital de Curacaví (baja complejidad) y evaluar su impacto en la calidad del tratamiento.
+
+Pacientes y métodos:
+
+En junio de 2014 se implementó un dispositivo de asistencia móvil en dependencias del Hospital de Curacaví y al mismo tiempo en el Hospital San Juan de Dios se instaló una licencia de videoconferencia utilizando la red MINSAL ubicada en el box de atención en el de Tratamiento Anticoagulante (TACO). Para la determinación de INR se instaló en la Unidad de Toma de Muestras del Hospital de Curacaví un equipo de Point of Care Testing (POCT) de INR Capilar (Coagucheck® Roche) conectado a un software de Tratamiento Anticoagulante (TAONet® Roche) ubicado en el computador del médico especialista del Hospital San Juan de Dios. Se dispuso un stock de Acenocumarol en la Farmacia del Hospital de Curacaví (no disponible en la canasta de fármacos de Atención Primaria), el cual se repone desde la Farmacia del Hospital San Juan de Dios vía receta. El médico que realiza la interconsulta vía Telemedicina debe realizar un registro de las indicaciones generadas y enviarlas a través del software de dosificación de tratamiento anticoagulante TAONet®, incluida la receta del fármaco anticoagulante para ser impresas en el Hospital de Curacaví. El equipo de este último, formado por un médico y dos enfermeros entrega la receta al paciente para que retire los fármacos en la Farmacia del Hospital de Curacaví. Una copia de la indicación es archivada en la ficha clínica del paciente. Tanto el médico como los enfermeros refuerzan las indicaciones entregadas por el médico especialista al paciente como a sus familiares. En la Figura 1 se indica el flujograma de la atención vía Telemedicina.
+
+ 
+
+
+
+Figura 1: Flujograma de la atención por Telemedicina a paciente con tratamiento anticoagulante, HSJD y Hospital de Curacaví, SSMOC.
+
+Análisis de datos: Los datos para el cálculo de Indicador Porcentaje INR dentro de rango y Tiempo en rango Terapéutico (TTR) se obtienen del software de dosificación de tratamiento anticoagulante TAONet®. Para el análisis estadístico se utilizó test de chi2, mediante el programa estadístico Epiinfo7.
+
+Resultados
+
+En la Tabla 1 se indican las características de los pacientes del Hospital de Curacaví que se atendieron vía Telemedicina.
+
+ 
+
+Tabla 1: Características de los pacientes de Poli TACO que se atendieron vía Telemedicina en Curacaví.
+
+
+
+De junio 2014 a diciembre de 2015 se realizaron 2.174 consultas vía Telemedicina. La producción de Tele asistencias realizada por el Policlínico de TACO del SSMOC es la mayor de la Región Metropolitana (Figura 2). Satisfacción Usuaria: Se constató una alta satisfacción usuaria al encuestar al los pacientes atendidos en Curacaví. Calificación igual o superiores a 6.8 (escala 1-7) se obtuvieron en los ítems calidad de la atención, trato de parte del personal, tiempo de espera en la toma de muestras y en la percepción de la calidad de la relación con el Servicio de Salud Occidente (Tabla 2)
+
+ 
+
+
+
+Figura 2: Producción Teleasistencias por Servicio de Salud región Metropolitana, Octubre 2012 a Abril 2015. (Fuente: Subsecretaria de Redes Asistenciales, Unidad Telemedicina)
+
+ 
+
+Tabla 2: Promedio notas por pregunta de encuesta satisfacción usuaria realizada a pacientes Poli TACO Hospital de Curacaví posterior a implementación de INR Capilar Telemedicina (Julio 2014)
+
+
+
+Indicadores de Calidad del Tratamiento: En el contexto del Monitoreo de indicadores de calidad del Tratamiento Anticoagulante, que también están incluidos en el proceso de Acreditación de Calidad de instituciones de salud (GCL 1.13, se han estandarizado dos Indicadores para la evaluación del TACO en toda la Red Occidente: 1) Porcentaje de determinaciones de INR en rango terapéutico; 2) Porcentaje de pacientes con INR dentro de rango terapéutico. Con la información de la base de datos y del módulo estadístico del software de tratamiento anti-coagulante fue posible conocer el porcentaje (%) de INR dentro del rango terapéutico en un período de tiempo determinado. Este indicador se midió trimestralmente en la Tabla 3A se muestra un comparativo entre los pacientes atendidos por Telemedicina y el equipo local del Hospital de Curacaví y los pacientes atendidos por el mismo médico especialista en el Hospital San Juan de Dios. Respecto del Tiempo en Rango Terapéutico (TTR), que mide el tiempo cronológico durante el cual el paciente se encuentra dentro del rango de INR asignado a su patología, se incluyen los pacientes que reciben anticoagulante oral para rango de INR de 2,0 a 3,0 portadores de cualquier tipo de trastorno del ritmo. Los resultados de TTR para pacientes del Hospital de Curacaví y Hospital San Juan de Dios se muestran en Tabla 3B.
+
+ 
+
+Tabla 3 A. INR dentro de rango terapéutico pacientes atendidos por Telemedicina en Hospital de Curacaví y pacientes atendidos en HSJD trimestralmente (umbral > 50 %) (Fuente: Software Tratamiento Anticoagulante, TAONet®). B. Tiempo en Rango Terapéutico pacientes atendidos por Telemedicina en Hospital de Curacaví y pacientes atendidos en HSJD trimestralmente (umbral > 60 %). (Fuente: Software Tratamiento Anticoagulante, TAONet®).
+
+
+
+Discusión
+
+La producción de tele asistencias realizada por el Policlínico de TACO del SSMOC es la mayor de toda la Región Metropolitana (Figura 2).La implementación de INR Capilar y consulta vía Telemedicina ha sido muy bien recibida por los usuarios quienes califican con un promedio de 6,9 (escala 1-7) esta estrategia (Tabla 2). El impacto en la calidad del tratamiento ha sido evidente, lo que se observa en los indicadores tanto de porcentaje INR en rango terapéutico como para el TTR, los cuales fueron mayores en el H. Curacaví que en el Hospital San Juan de Dios. (58.3% vs 50.8%, respectivamente (p < 0,05). En el caso de TTR 50,6% de los pacientes del Hospital de Curacaví se encuentran en rango versus un 46,2% de los pacientes del Hospital San Juan de Dios (p< 0,05). Probablemente estos resultados se deban al reforzamiento de las indicaciones entregadas en el control por el médico especialista por el equipo de Telemedicina local tanto al paciente como a sus familiares, así como a la mejora en la adherencia a la terapia -pilar de la calidad de la misma- derivada de la facilitación en el acceso al control percibido por los pacientes. Lo anterior ha significado menor riesgo de trombosis o hemorragia en estos pacientes, evitando de esta manera consultas al Servicio de Urgencia y hospitalizaciones (datos preliminares no publicados).
+
+En 2005, la Organización Mundial de la Salud (OMS) estableció un observatorio global para la salud de e-health. Este supervisa el desarrollo de tecnologías de información y comunicaciones (ICT) para la asistencia médica, incluyendo Telemedicina, y permite proporcionar información confiable para elaborar mejores prácticas, políticas y normas11-12. Hasta el momento, la mayor parte de las experiencias en Telemedicina han ocurrido en países industrializados y aún hay poca experiencia en los países en desarrollo. La ventaja fundamental de este recurso tecnológico se centra en mejorar el acceso, deviniendo en una herramienta útil para reducir inequidades y reforzar sistemas de salud en países en vía de desarrollo13-14. Este es el primer estudio en Chile que evalúa el impacto de la Telemedicina en la Calidad del tratamiento Anticoagulante.
+
+Conclusiones

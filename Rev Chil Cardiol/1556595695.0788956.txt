@@ -1,0 +1,330 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602011000200003
+Alteración de la variabilidad del ritmo cardíaco en pacientes con síndrome coronario agudo sin supradesnivel del segmento ST: Experiencia preliminar
+
+Introducción
+
+La variabilidad del ritmo cardíaco (VRC) es la desviación de la media que los latidos cardíacos presentan en un determinado período de tiempo1 y representa una fina sintonía de los mecanismos de control del sistema autonómico del ritmo cardíaco latido a latido. Los eferentes simpáticos y vagales en el nodo sinusal tiene una participación constante y son modulados de manera central (centros respiratorios y vasomotor) y periférica (oscilación de la presión arterial, movimientos respiratorios y sistema humoral) lo que determina un acortamiento o alargamiento del ritmo sinusal en cada latido.
+
+En la evolución del infarto agudo del miocardio (IAM) y en la insuficiencia cardíaca, un factor determinante en la sobrevida parece ser la disfunción en el equilibrio simpático-parasimpático, con un aumento de actividad simpática y/o una disminución de actividad parasimpática. La medición de la VRC corresponde a una técnica no invasiva y de bajo costo que ha demostrado ser un indicador pronóstico en el IAM con SDST 23A5; asimismo la disminución de la VRC en los pacientes con angina inestable e IAM sin SDST se relaciona con el aumento de morbimortalidad cardiovascular a corto y mediano plazo 67.
+
+De acuerdo al consenso de la Sociedad Europea de Cardiología y la Sociedad Norteamericana de Electrofisiolo-gía (Task Force) existen fundamentalmente dos períodos validados de registro del ritmo cardíaco: en 5 minutos y en 24 horas8. Existen numerosas formas de análisis de la VRC que pueden ser agrupadas de la siguiente forma:
+
+1. Análisis en el Dominio del Tiempo.
+
+Utiliza medidas estadísticas, como la desviación estándar y la media aritmética para la cuantificación de los intervalos RR adyacentes de una serie temporal, que en ritmo sinusal incluyen a todos los intervalos entre complejos QRS. Esta forma de tratamiento de los datos resulta la más sencilla, pero impide distinguir cuál es la influencia autonómica dominante. No se detallará la nomenclatura de estas variables, ya que excede el objeto del trabajo y se puede obtener del documento de concenso Task Force.8
+
+2. Análisis en Dominio de Frecuencia
+
+a) Métodos no lineales: Scattograma (Diagrama de Poin-carè). Es una representación en dos dimensiones en la cuál cada intervalo RR es graficado en función del intervalo RR que lo precede.
+
+b) Métodos espectrales. Permiten obtener información concreta de la modulación que ejerce el sistema nervioso autónomo sobre la VRC. Es representada en las siguientes bandas de frecuencia:
+
+- ULF (ultra baja frecuencia)  < 0,003 Hz
+
+- VLF (muy baja frecuencia)   < 0,04 Hz
+
+- LF   (baja frecuencia): 0,04-0,15 Hz
+
+- HF (alta frecuencia):       0,15-0,40 Hz
+
+- VHF (muy alta frecuencia)    0,40-1,00 Hz
+
+La interpretación fisiológica de las bandas de frecuencia se puede resumir como sigue:
+
+ULF: Expresa el ritmo circadiano de la VRC en registros de larga duración. Durante un registro de 24 horas el 90% de la VRC podría estar condicionada por los espectros de ULF y VLF.
+
+VLF: En la actualidad no se sabe con exactitud el mecanismo fisiológico que regula el componente VLF.
+
+LF: Refleja la estimulación o tono simpático, con modulación del parasimpático y en menor medida por el sistema renina-angiotensina, vasopresina y óxido nítrico.
+
+HF: refleja la modulación del sistema parasimpático (tono vagal) sobre la VRC9.
+
+Banda de muy alta frecuencia (VHF): Aparece en los registros durante la realización de ejercicio físico intenso. Su representación fisiológica necesita ser demostrada.
+
+Cociente LF/HF: Es un indicador fiable del balance autonómico en reposo. 10,11 Valores sobre este rango normal indicarán un mayor predominio simpático y valores por debajo reflejarán un mayor predominio parasimpático.
+
+En la figura 1 se muestran los valores normales de los índices de VRC de acuerdo a la Task Force8.
+
+
+
+Valores normales de los parámetros de VRC.      Reproducida de Task Force of the European Society of Cardiology the North American      Society of Pacing Electrophysiology (1996).
+
+Tradicionalmente la forma de obtener los intervalos RR para el análisis de variabilidad ha sido mediante la grabación de electrocardiograma (ECG) continuo de 3 o 12 derivaciones y la detección de los complejos QRS. Sin embargo, en las últimas décadas se ha desarrollado el monitoreo del ritmo cardíaco inalámbrico, entre los que destaca el dispositivo Polar S810®, que puede grabar intervalos RR para el posterior análisis de VRC12. Éste consta de un electrodo sujeto a una correa elástica que se posiciona en el tórax del paciente y detecta los intervalos RR con una resolución de 1 ms; a su vez esta información es transmitida mediante radiofrecuencia al receptor que puede posicionarse en la muñeca del paciente. Posteriormente la información es transmitida mediante un cable a un computador con el software HRV Analysis 1.1, que procesa los datos y entrega la información de VRC del paciente estudiado. La validación de medición del dispositivo Polar S810 para la medición de los intervalos RR y el subsecuente análisis de la VRC en relación al "gold standard" del ECG, fue demostrada primero en ejercicio de baja intensidad12 y recientemente en reposo en posición supina13. No se han reportado estudios con grabaciones de corta duración del ritmo cardíaco con el monitor inalámbrico de VRC Polar S810 ® en pacientes con síndrome coronario agudo. El registro de corta duración del ritmo cardíaco en un equipo inalámbrico y el posterior análisis de la VRC, podría tener utilidad en la toma de decisiones clínicas en el paciente recientemente admitido en el hospital por un síndrome coronario agudo y además ser una herramienta complementaria para definir el pronóstico de este tipo de pacientes.
+
+El objetivo del presente trabajo es evaluar si existe una correlación entre la VRC en un registro de cinco minutos, con el TIMI Risk Score y los marcadores séricos de daño miocárdico (CK mb masa y troponina T) de los pacientes que cursan con un SCA sin SDST.
+
+Métodos
+
+Corresponde a un estudio descriptivo de una serie de casos.
+
+1. Pacientes
+
+Se incluyeron pacientes ingresados en el Hospital Clínico Gral. Dr. Raúl Yazigi desde diciembre 2007 a marzo del 2008, dentro de las primeras 24 horas de hospitalización, en ritmo sinusal y con el diagnóstico de ingreso de síndrome coronario agudo sin supradesnivel del segmento ST de acuerdo a los criterios establecidos por las guías de la AHA-ACC14: dolor precordial característico, asociado o no a cambios electrocardiográficos (infradesnivel del segmento ST o inversión de la onda T). Se consideraron como criterios de exclusión el desarrollo de onda Q en el ECG, así como infarto agudo al miocardio ocurrido dentro de los 21 días previos, angioplastía coronaria dentro los 6 meses previos, insuficiencia cardíaca (NYHAFC III o IV), enfermedad severa crónica, presencia de fibrilación auricular, extrasístoles ventriculares o supraventriculares frecuentes, marcapaso uni o bicameral, desfibrilador o resincronizador, insuficiencia renal con creatinina de ingreso > 2.0 mg/dL, shock, ventilación mecánica y dolor por cualquier causa en el momento de la medición. El protocolo de estudio fue aprobado por el comité de ética del hospital.
+
+2. Recolección de datos
+
+Clínicos
+
+Se consignaron las características basales y antecedentes médicos de los pacientes incluidos en el estudio, como los datos demográficos, clínicos, bioquímicos y diagnósticos previos. Se consideró como portadores de hipertensión arterial a quienes se les había diagnosticado, según el séptimo reporte del JNC15. Se definió diabetes de acuerdo a los criterios establecidos en el reporte The Expert Committe on the Diagnosis and Classification of Diabetes Mellitus16. Se consideró dis-lipidemia según los límites de colesterol, triglicéridos, HDL y LDL definidos por la ATP III17.
+
+A cada paciente se le calculó el puntaje TIMI para síndrome coronario agudo sin elevación del segmento ST o angina inestable18.
+
+ECG, bioquímicos e imágenes
+
+Se analizaron la serie de ECG realizados a cada paciente en el servicio de urgencia y posteriormente cada 6 horas durante las primeras 24 horas de hospitalización. La depresión del segmento ST fue considera a 80 ms después del punto J. Tanto la inversión del segmento ST así como la inversión de las ondas T se consideraron significativas si ocurrían en dos derivaciones adyacentes y de por lo menos 0.1mV.
+
+Se realizaron tomas de muestras sanguíneas para el análisis de CK MB masa y troponina T de acuerdo al protocolo para los pacientes con dolor torácico del Hospital FACH que las considera al ingreso y cada seis horas hasta obtener el primer descenso en el valor de la CK MB masa. El valor superior de corte que utiliza el laboratorio para la CK MB masa es 4.9 pg/dL y para la troponina T es 0.01 pg/dL. Para el análisis de los datos se consignaron los marcadores séricos de daño miocárdico que fueron tomados 6 horas posterior al ingreso del paciente al servicio de urgencias. La medición de CK MB masa y troponina T en el suero de los pacientes se realizó con un analizador Hitachi por el método de inmunoensayo Elicsys 2010. (Roche medical).
+
+Variabilidad del ritmo cardíaco
+
+Se obtuvo la grabación del ritmo cardíaco de cada paciente mediante el monitor inalámbrico Polar S810®. Se registraron grabaciones de 5 minutos a cada paciente en posición de decúbito supino, en reposo, sin hablar, sin dolor, a una temperatura ambiente confortable (19 -21°C). La información del monitor Polar fue transferida al Software Polar Precision Performance mediante un puerto USB infrarrojo y los datos de los intervalos RR fueron exportados en formato TXT para ser procesados en el software HRV Analysis 1.1. Se realizó una selección de 300 latidos de los 5 minutos de grabación. Se obtuvieron los análisis en el dominio de tiempo y en el dominio de frecuencia que son presentados por el software, como se muestra en la figura 5 para cada uno de los pacientes incluidos en el estudio.
+
+3. Análisis estadístico
+
+Se calcularon los promedios de todos los parámetros de VRC con sus respectivas desviaciones estándar. Se realizó una correlación múltiple con el análisis de Spearman entre los parámetros de VRC (HF, LF, VLF, LF/HF, Pot Total, RMSSD, NN50, PNN50, SD1, SD2) y el puntaje TIMI, los valores de CK masa y troponina T. Se consideró un nivel de significancia de p < 0,05.
+
+Se realizó una subdivisión de los pacientes en grupos pares entre las variables que evaluaron severidad del síndrome coronario agudo según mayor o menor gravedad como sigue: pacientes con troponina T positivas (> 0,011 pg/dL) o negativas (0,010 pg/dL); CK masa alta (> 3,6 pg/dL) o baja (< 3,6 pg/dL); TIMI score mayor o igual a 3 o inferior a éste valor (Tabla 1). Se compararon los promedios de todos los parámetros de VRC de cada uno de estos pares grupos de pacientes, mediante prueba "t" de Student para muestras independientes. Se consideró un nivel de significancia de p < 0,05.
+
+Tabla 1: Subdivisión grupos de pacientes según puntaje TIMI, valores de troponina T y CK masa y lesiones angiográficas, para el análisis de promedios de los parámetros de VFC.
+
+TIMI Puntaje
+
+Troponinas Valor (pg/dl)
+
+CK MB masa Valor (pg/dl)
+
+Bajo 0-2 Alto > 3
+
+Normales < 00,1 Elevadas > 0,01
+
+Baja < 3,6 Alta > 3,6
+
+Resultados
+
+Del total de 123 pacientes ingresados en la unidad coronaria del hospital FACH desde diciembre 2007 a marzo 2008, hubo 25 pacientes con diagnóstico de SCA sin SDST. De ellos se excluyeron 4 por presentar fibrilación auricular y 5 por enfermedad crónica severa o insuficiencia renal. En total 14 pacientes cumplieron con los criterios de inclusión y aceptaron formar parte del estudio. Las características basales se resumen en la Tabla 2.
+
+HTA - n° (% )
+
+12 (85,7)
+
+Diabetes - n° (%)
+
+3 (21,4)
+
+Dislipidemia - n° (%)
+
+9 (64,2)
+
+Fumadores activos - n° (%)
+
+3 (21,4)
+
+Historia de fármacos - n° (%)
+
+
+
+Aspirina
+
+10 (71,4)
+
+ Betabloqueadores
+
+3 (21,4)
+
+ IECA o ARAII
+
+11 (78,6)
+
+Cardiopatía coronaria conocida* - n° (%)
+
+4 (28,5)
+
+Alteraciones ECG** - n° (% )
+
+5 (35,7)
+
+TIMI - promedio (DS)
+
+3,2 (1,62)
+
+Troponina T - promedio (DS)
+
+0,116 (1,19)
+
+CK masa - promedio (DS)
+
+7,77 (5,14)
+
+Se realizó el análisis de variabilidad del ritmo cardíaco, tanto en los dominios de tiempo como de frecuencia. Se obtuvo en la totalidad los pacientes una significativa disminución de todos los parámetros de variabilidad: promedios y desviaciones estándar en relación a los valores definidos normales. Los resultados se exponen en las tablas 3, 4, 5 y 6.
+
+FC: frecuencia cardíaca; Lpm: latidos por minuto; RR: intervalo RR; Entre paréntesis se muestran las desviaciones estándar.
+
+Variable
+
+% (DS)
+
+ms2 (DS)
+
+u.n. (DS)
+
+Unidad
+
+
+
+
+
+
+
+VLF
+
+34,36 (16,6)
+
+57,64 (54,9)
+
+
+
+LF
+
+34,9 (14,2)
+
+77,42 (107,3)
+
+55,82 (21,15)
+
+HF
+
+30,73 (17,7)
+
+70,14 (73,3)
+
+44,17 (21,15)
+
+LF/HF
+
+1,93 (1,8)
+
+
+
+
+
+PT
+
+
+
+202,35 (224,3)
+
+
+
+Se muestran los promedios de las variables y entre paréntesis las desviaciones estándar (DS).     VLF: banda de muy baja frecuencia, LF: banda de baja frecuencia, HF: banda de alta frecuencia,      LF/ HF: razón baja frecuencia/alta frecuencia, PT: poder total.
+
+  
+
+
+
+VLF
+
+LF
+
+HF
+
+PT
+
+SD
+
+RMSSD
+
+RRTI
+
+SD2
+
+
+
+(ms2)
+
+(ms2)
+
+(ms2)
+
+(ms2)
+
+(ms)
+
+(ms)
+
+
+
+(ms)
+
+R
+
+0,871
+
+0,774
+
+0,876
+
+0,902
+
+0,828
+
+0,722
+
+0,886
+
+0,744
+
+P
+
+0,005
+
+0,024
+
+0,004
+
+0,002
+
+0,011
+
+0,043
+
+0,003
+
+0,034
+
+ 
+
+En el grupo del total de los pacientes incluidos en el presente estudio no se encontró una correlación significativa en el análisis de Spearman, entre los componentes de variabilidad del ritmo cardíaco y la severidad en la presentación del síndrome coronario agudo sin SDST, definida por score TIMI, CK MB masa y troponina T.
+
+Al realizar la división según mayor o menor gravedad de presentación del SCA en los pacientes según TIMI, CK MB y Troponina, se obtuvo los subgrupos mostrados en la figura 2. Es así como fueron 9 pacientes que registraron TIMI > 3 (64,3%) y 6 pacientes con CK MB masa elevada y troponina positiva (35,7%).
+
+
+
+División del grupo de pacientes según gravedad de presentación del SCA según TIMI, CK MB masa y Troponina.
+
+Se efectuó el análisis de los promedios de los parámetros de VRC de los grupos troponina T positivas o negativas, CK masa alta o baja y TIMI score mayor o igual a 3 y menor a 3 respectivamente. Se obtuvo una diferencia significativa entre los promedios de HF, VLF, LF y LF/HF para los grupos de CK masa alta y baja. El grupo de pacientes con CK MB masa alta, muestra una disminución del promedio de HF (%, ms2 y u.n.), y asimismo un aumento del promedio de LF (ms2). Estos resultados se muestran en las figuras 3 y 4. En la figura 5 se muestra que el grupo de pacientes con troponina T positiva tuvo un promedio de HF ms2 significativamente más bajo que el grupo de pacientes con troponina T negativas. Al realizar un análisis de correlación de Spearman entre los parámetros de variabilidad en la población de mayor riesgo, es decir los pacientes con troponina T positivas, CK masa elevada y TIMI > 3, se obtuvieron los resultados expresados en las tablas 5 y 6 que muestran los valores de R de Pearson y P. Se observa que existe una buena correlación en el grupo de troponina T positivas con las variables LF (ms2), HF (ms2), Potencia total, RRTI. Así mismo, en el grupo de CK masa elevada se muestra una buena correlación con VLF (ms2), LF (ms2), HF (ms2), Potencia total (ms2), SD (ms), RMSSD (ms), RRTI, SD2 (ms). No hubo correlación entre los pacientes con puntajes TIMI > 3 y los parámetros de VRC.
+
+
+
+Gráficos con barras de error que compara los promedios de HF (%, ms2 y u.n.) y VLF (ms2) para los grupos de CK masa alto y bajo. Sig: significancia, Ckm II: CK masa.
+
+
+
+
+
+ 
+
+Discusión
+
+En los pacientes con síndrome coronario agudo sin SDST incluidos en el presente estudio, se observó una disminución de los valores de los diferentes parámetros que definen la VRC. El grado de disminución no obtuvo una correlación estadísticamente significativa con la severidad del síndrome coronario, expresada por el puntaje TIMI, el valor de troponina T y CK masa. La no dependencia entre estos dos grupos de variables, se puede explicar en parte por el tamaño muestral. Con un N de 14 pacientes se pueden acentuar las diferencias que debieran existir en la VRC de los pacientes por edad, género y condiciones basales.
+
+Cabe destacar que el número de pacientes diabéticos y usuarios de fármacos betabloqueadores incluidos en el estudio, es bajo y similar al porcentaje reportado en ensayos multicéntricos que han demostrado no interfierir con los resultados de morbimortalidad en pacientes con infarto agudo al miocardio o SCA. Sin embargo, debido al pequeño número de pacientes del presente estudio, éste puede ser un ítem a considerar en el análisis de VRC. Se ha demostrado que los pacientes diabéticos tienen una alteración de la regulación del sistema autonómico, con una leve disminución de los parámetros espectrales de la VRC que se ven considerablemente modificados en aquellos pacientes que presentan daño de órgano blanco, como en la neuropatía diabética 22,23.
+
+Otra debilidad del estudio hace referencia a no tener un grupo de control, ya que si bien es cierto existen valores poblaciones definidos como normales, puede ser de utilidad tener un rango de referencia para una muestra de pacientes de características basales similares. Sin embargo, esto no aseguraría la aleatoriedad de la muestra. Al comparar los parámetros de VRC en los subgrupos de mayor y menor riesgo de TIMI (>3, <3), troponina T (positivas y negativas) y CK masa (altas y bajas), se observó una interesante correlación. El grupo de troponina T positivas presentó el promedio de banda de alta frecuencia (HF ms2) más baja que el grupo de troponina T negativas (figura 5). Esto implica una baja actividad parasimpáti-ca, que es considerada protectora del sistema cardiovascular. Así mismo en el grupos de CK MB masa elevada se observó una disminución del promedio de la banda de alta frecuencia (HF en %, ms2 y u.n.) y un aumento del promedio tanto de la banda de baja frecuencia (LF ms2), así como del índice LF/HF. Esto se interpreta como una disminución de la actividad parasimpática y un aumento del predominio de la actividad simpática en el grupo de pacientes con CK MB masa elevado (figuras 3 y 4). Estos hallazgos son concordantes con el comportamiento que debiera tener el sistema nervioso simpático en los síndromes coronarios agudos, con aumento de la actividad simpática y disminución parasimpática que ha sido descrita en la literatura. Existen series pequeñas de pacientes con síndrome coronario agudo sin supradesnivel del segmento ST en los que la disminución de VRC se correlaciona con el pronóstico y el valor predictivo de nuevos eventos cardiovasculares en el corto plazo y mediano plazo19,20,7. Así también se ha descrito que la VRC combinado con otros predictores clínicos, de laboratorio y ECG de mortalidad en IAM a 12 meses, tienen un excelente valor predictivo negativo21.
+
+Recientemente se dio a conocer un trabajo que vincula la regulación de las señales adrenérgicas con la expresión de genes que controlan el metabolismo oxidativo en el músculo esquelético24. Esto demuestra la relación antes supuesta entre daño miocárdico y estrés oxidativo, lo que abre otra senda en la investigación relacionada a la VRC. Existen numerosas publicaciones acerca de VRC en las últimas décadas y entregan evidencia que ésta es una herramienta pronóstica en diferentes patologías cardiovasculares. Sin embargo, no es una medición que esté incorporada a la práctica clínica habitual. Esto probablemente se deba a que no existe consenso en la utilización de un único parámetro que refleje la VRC, sino que existen muchos índices que pueden llegar a ser confundentes para el médico. Además la disminución de la VRC en las diferentes patologías, es en muchos casos multifactorial lo que dificulta el diseño de una estrategia terapéutica específica. Un ensayo de evaluación de la VRC con intervención terapéutica es el subestudio del EMIAT (European Myocardial Infarct Amiodarone) 25, que identifica a los pacientes con disminución de la VRC y muestra que se podrían beneficiar de amiodarona profiláctica post infarto agudo al miocardio, con disfunción ventricular sistólica moderada. El registro corto de 5 minutos del ritmo cardíaco para el posterior análisis de variabilidad, está validado desde el consenso de la Sociedad Europea de Cardiología en 1996. Hay que mencionar que se limita la utilidad de los índices del dominio de tiempo, excepto RMSS (ms) y SDNN (ms), siempre que comparen registros de la misma duración en cantidad de latidos. Para grabaciones de 5 minutos se utiliza preferentemente los métodos espectrales: HF, LF, VLF, LF/HF, poder total26. Steeds27 reportó la medición de VRC con holter de ECG durante 5 minutos en 164 pacientes a las 48 horas post infarto agudo. Dicho estudio demostró que la disminución de la VRC se asoció a un aumento de eventos adversos cardiovasculares. El registro del ritmo cardíaco con el monitor Polar S810® se ha realizado en personas sanas bajo condiciones de entrenamiento cardiovascular y en sujetos en reposo en diferentes condiciones medioambientales. Como se mencionó previamente fue Francois Gamelin13 quién realizó la validación del equipo Polar para el análisis de VRC. No se han reportado estudios de VRC que contemplen mediciones con un monitor inalámbrico en pacientes con síndromes coronarios agudos. Es así como el presente estudio, se podría considerar una contribución en este ámbito, ya que debido al bajo costo, facilidad de registro y procesamiento de los datos, puede ser una herramienta útil en la práctica clínica, en lugares aislados o con bajos recursos. Se requieren más estudios que corroboren estos hallazgos.
+
+Conclusión:
+
+En los 14 pacientes que fueron parte del presente estudio con síndrome coronario agudo sin SDST sin falla ventricular, existe una relación entre la regulación del ritmo cardíaco por el sistema nervioso autónomo y la elevación de marcadores séricos de daño miocárdico.
+
+Agradecimientos:

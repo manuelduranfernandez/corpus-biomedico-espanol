@@ -1,0 +1,60 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602014000200004
+Incidencia de eventos cardiovasculares mayores en pacientes con infarto agudo del miocardio manejados con stent y su relación con la fracción de eyección ventricular
+
+ 
+
+Introducción
+
+El infarto agudo de miocardio (IAM) es una de las principales causas de mortalidad a nivel mundial1. El pronóstico en los pacientes con IAM ha mejorado en las últimas dos décadas debido a los avances en el manejo farmacológico, la terapia de reperfusión con fibrinolíticos y la intervención percutánea coronaria primaria (PCI)2-3. Esta última se ha asociado con una tasa más alta de permeabilidad de la arteria relacionada con el infarto, reestenosis menos severa, menor disfunción ventricular izquierda y tasa de isquemia recurrente e infarto, comparado con fibrinólisis4-5. En pacientes con IAM se han comparado los stent convencionales (SC) y fármacoactivos (SM) mostrando beneficios de este último grupo en cuanto a eventos adversos cardiovasculares mayores (MACE por sus siglas en inglés) sin encontrarse diferencias significativas en términos de mortalidad6-9. La disfunción ventricular izquierda en pacientes con IAM ha mostrado ser un fuerte predictor de mortalidad a 30 días y 1 año10. En la actualidad hay controversia respecto a la evolución de los pacientes con IAM manejados con SC y SM cuando se asocia con disfunción ventricular izquierda.
+
+Se determinó la ocurrencia de MACE durante el primer año post-implante de SC o SM en pacientes con IAM sometidos a PCI y el efecto de la fracción de eyección en los desenlaces adversos cardiovasculares mayores (MACE).
+
+Métodos
+
+Se realizó un estudio de cohorte prospectivo basado en un registro sistemático (DREST) realizado desde 1994 en una institución de IV nivel de atención en Colombia que incluye todos los pacientes sometidos a intervención percutánea coronaria con stent convencional o fármacoactivo. A estos pacientes se les registró datos demográficos, información clínica relacionada con el procedimiento y seguimiento por vía telefónica, visita hospitalaria o con revisión de la historia clínica al egreso, al mes, 6 meses y al año hasta 5 años. Se incluyeron los pacientes mayores de 18 años, con indicación de implante de SC o SM por infarto agudo del miocardio con o sin ST elevado entre enero de 2002 y octubre de 2013 y se realizó seguimiento hasta el primer año después del implante del stent. Se definió como ocurrencia de MACE el combinado de muerte por cualquier causa, reinfarto, angina inestable que requirió hospitalización, trombosis aguda o reestenosis del stent, necesidad de repetir revascularización. La exposición principal fue el tipo de stent implantado y la co-variable principal fue la presencia de disfunción ventricular izquierda menor o igual a 45% por ventriculografía al momento del cateterismo cardíaco, se consideraron otras co-variables como los antecedentes personales, farmacológicos y hallazgos relevantes del procedimiento índice. Se comparó la ocurrencia de MACE en pacientes con IAM según el tipo de stent implantado y la presencia de disfunción ventricular. Las variables cualitativas se presentaron como número absoluto y porcentajes y las cuantitativas como medianas y rango intercuartílico. Se obtuvo un modelo multivariado de riesgos proporcionales Cox donde se incluyeron las variables estadísticamente significativas en el modelo univariado. Se estimó la probabilidad de estar libre de MACE hasta 1 año después del procedimiento y se compararon las sobrevidas mediante Log Rank Test. Se consideraron significativas p inferiores a 0,05. Se utilizó Stata 11.1 para realizar los análisis estadísticos. Este estudio fue aprobado por el Comité de Ética e Investigación Biomédica Institucional.
+
+Resultados
+
+Se incluyeron 1081 pacientes con infarto agudo del miocardio de los cuales 758 (70%) recibieron stent convencional y 323 (29,97%) stent fármaco-activo. La mediana de edad fue de 62 años en ambos grupos (p=0,65) con una mayor prevalencia de hombres (72,3% y 75,54% en SC y SM respectivamente). 56% de los pacientes en ambos grupos no fueron fumadores y se observó tabaquismo previo y actual en 21% de los casos (p=0,953). La prevalencia de diabetes mellitus fue mayor en el grupo de stent fármaco-activo (26,01% vs 20,18% p= 0,034). En la tabla 1 se describen las características clínicas principales según el tipo de stent. No hubo diferencias en el uso de medicamentos como clopidogrel, calcioantagonistas, nitratos, estatinas, heparinas de bajo peso molecular entre ambos grupos. Sin embargo, hubo mayor uso de antagonistas del receptor de angiotensina (ARA II) y betabloqueadores entre los pacientes que recibieron stent fármaco-activo (Tabla 1). La mediana de fracción de eyección ventricular por ventriculografía fue de 50% en ambos grupos. No hubo diferencias en el número de vasos enfermos en ambos grupos de SC y SM así como tampoco en el uso de inhibidores de glico-proteína IIb/IIIa. Fueron tratadas de forma más frecuente con SM cuando se presentaron dos o más lesiones comparado con SC (p=0,00) (Tabla 2). En un modelo de riesgos proporcionales multivariado de Cox, luego de un año de seguimiento el uso de stent fármaco-activo en pacientes infarto agudo del miocardio no estuvo relacionado con mayor o menor incidencia de MACE (HR 0,75 95% IC 0,54-1,05 p=0,102). La presencia de disfunción ventricular izquierda menor a 45% se asoció con 60% más riesgo de presentar MACE independiente de la edad, presencia de diabetes, hipertensión arterial y hallazgos angiográficos. La hipertensión arterial se relacionó con 50% mayor probabilidad de presentar MACE a 1 año de seguimiento (Tabla 3, Figuras 1, Fig. 2 y Fig. 3).
+
+ 
+
+Tabla 1. Características demográficas y antecedentes de los pacientes con infarto agudo del miocardio según tipo de stent implantado.
+
+
+
+ 
+
+Tabla 2. Hallazgos durante el procedimiento en pacientes con infarto agudo del miocardio según el tipo de stent implantado.
+
+
+
+ 
+
+Tabla 3. Modelo de riesgos proporcionales Cox con seguimiento a 1 año y desenlace adverso MACE
+
+
+
+ 
+
+
+
+Figura 1. Diagrama de cajas y bigotes de distribución de fracción de eyección ventricular según el tipo de stent y la presencia de desenlaces cardiovasculares adversos mayores.
+
+ 
+
+
+
+Figura 2. Probabilidad de sobrevida libre de MACE a 1 año de seguimiento según la presencia de disfunción ventricular izquierda.
+
+ 
+
+
+
+Figura 3. Sobrevida libre de MACE en el primer año de seguimiento según el tipo de stent implantado.
+
+Discusión
+
+En los pacientes con infarto agudo de miocardio, los estudios que comparan el uso de SC y SM han mostrado que los segundos se asocian con un porcentaje menor de re-estenosis y una menor necesidad de revascularizar el vaso afectado, sin embargo, con mayor riesgo de trombosis tardía asociado con el uso de stent fármaco-activo6-11-20. En nuestro estudio, se encontró menor frecuencia de eventos en los que recibieron SM vs SC, sin ser esta diferencia significativa a 1 año de seguimiento. No se observó mayor frecuencia de trombosis tardía del stent. También se observó mayor probabilidad de presentar MACE cuando hay disfunción ventricular izquierda y que por cada 1% de aumento de la función ventricular la probabilidad de presentar MACE disminuía 3% a un año de seguimiento (HR 0,97 95% IC 0,96-0,98 p=0,000). En estudios de pacientes con IAM a quienes se realiza una angioplastía primaria con implantación de stent, la disfunción ventricular ha mostrado ser un predictor importante de mortalidad a 30 días y a 1 año10-21, además de estar relacionada con trombosis tardía del stent22. Sin embargo, en pacientes con lesión de tronco que fueron intervenidos y se les implantó stent, la disfunción ventricular izquierda no mostró ser un factor pronóstico independiente después del análisis multivariado23. Niveles de NT-proBNP mayores de 463,4 pg/ ml en pacientes con IAM e implantación de stent permiten identificar de manera temprana pacientes con disfunción ventricular, lo cual es importante vista la morbimortalidad de este grupo24. La principal limitante de este es que los pacientes no fueron aleatorizados para recibir SC o SM. Nuestros resultados pueden estar afectados por un sesgo de selección con respecto a las características de severidad de las lesiones que fueron diferentes en ambos grupos. Debido a que este es un estudio basado en los resultados de un registro institucional, la probabilidad de recibir uno u otro stent según el perfil clínico del paciente pudo sesgar los resultados25. Además, se encontró una diferencia cronológica en la implantación de los stent, siendo los SC los más usados al principio del estudio y los SM predominantes en los últimos años lo cual puede relacionarse no sólo con las características del stent si no con más experiencia de los operadores, mejores técnicas y mejor manejo médico. Aunque se realizaron análisis multivariados para minimizar el efecto de las diferencias encontradas en las características de base registradas puede seguir existiendo efecto de factores confundentes no identificados en este estudio. A pesar de esto, consideramos que la medición de desenlaces duros no relacionados con la decisión del tipo de stent implantado permite describir estos eventos.
+
+Conclusiones

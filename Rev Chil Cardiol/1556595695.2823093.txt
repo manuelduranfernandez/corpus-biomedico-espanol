@@ -1,0 +1,180 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602011000200008
+Boldina disminuye la apoptosis miocárdica post isquemia reperfusión en la rata
+
+Introducción
+
+El infarto al miocardio (IAM) constituye una de las principales causas de insuficiencia cardíaca (IC)1. En el último tiempo se han generado grandes avances en el tratamiento del IAM enfocados en la reperfusión del área comprometida2, lo cual ha reducido la mortalidad en el período agudo post IAM3. En la isquemia con reperfusión el estrés oxidativo deteriora la función cardíaca por daño oxidativo de membranas y macromoléculas celulares, produciendo disfunción y muerte celular mediante procesos de apoptosis o necrosis en el miocardio4. La apoptosis, a diferencia de la necrosis, está presente en etapas tempranas y tardías post IAM, ubicándose los cardiomiocitos apoptóticos tanto en el miocardio viable o remoto como en la zona adyacente al IAM5.
+
+El estrés oxidativo se produce por un desbalance entre la producción de especies reactivas tanto del oxígeno (ROS) como del nitrógeno (RNS) y los mecanismos antioxidantes, en su mayoría enzimáticos. En fibroblastos cardíacos las ROS han mostrado activar metaloproteasas (MMPs) de la matriz extracelular6. Adicionalmente, los ROS pueden modular la actividad de diversas moléculas y señales de transducción intracelular, tales como las proteínas involucradas en el proceso de excitación-contracción, canales iónicos, canales liberadores de calcio del retículo sarcoplásmico y miofilamentos7.
+
+Los canales de unión en hendidura (CUH) comunican el citoplasma de células adyacentes y los hemicanales (HCs) comunican el medio intra con el extra celular. Se ha demostrado que los CUH formados por conexina 43 se nitrosilan y esta modificación covalente se asocia a la apertura de los HCs presentes en la superficie celular y por lo tanto a un aumento de la muerte celular8. En general, es aceptado que los HCs permanecen cerrados la mayor parte del tiempo (baja probabilidad de apertura) y son permeables a iones y moléculas pequeñas incluyendo algunas que juegan un papel importante en la señalización intercelular paracrina, como el calcio, ATP y prostaglandina E29.
+
+La boldina ((S)-(1,10-dimetoxi-2,9 dihidroxiaporfina) es un compuesto extraído del boldo (Peumus boldus), árbol endémico de Chile. Las propiedades del boldo pueden resumirse como: estimulante de la digestión, sedante sobre el sistema nervioso, citoprotector y anti-inflamatorio en modelos experimentales10. En estudios in vitro, la boldina a concentraciones entre 10-5 10^ M, ha mostrado ejercer un efecto relajante de la musculatura lisa sobre ileum de rata y una pequeña parte es mediada por acción anticoli-nérgica. Se ha propuesto que este alcaloide bloquea receptores a adrenérgicos y es antagonistas de canales de calcio en ratas11. También, presenta buena afinidad por los receptores de dopamina tipo D1 y D2. Resultados preliminares en células HeLa transfectadas con conexina43, la principal conexina del miocardio, revelan que boldina y glauci-na-un derivado de la boldina- actúan como inhibidores de HCs y no afectan el estado funcional de los CUH12.
+
+A la fecha no existen antecedentes en la literatura respecto de los efectos de la boldina en la función ventricular, remodelamiento miocárdico ni muerte celular en modelos experimentales de isquemia con reperfusión miocárdica. El objetivo de este estudio fue determinar el efecto de bol-dina sobre la apoptosis de cardiomiocitos de ratas sometidas a isquemia con reperfusión y su efecto en la actividad de MMPs y niveles de mRNA de MCP-1 miocárdico.
+
+Métodos
+
+La presente investigación se realizó de acuerdo a la "Guía para el cuidado y uso de animales de laboratorio" publicado por el "National Health Institute" (NIH N° 85-23, 1985) y fue aprobada por la Comisión de Investigación de la Facultad de Medicina de la P. U. Católica de Chile. Durante el período de estudio, los animales se mantuvieron en el Vivero del Laboratorio de Cardiología Molecular en el Centro de Investigaciones Médicas de la Facultad de Medicina y recibieron agua y comida ad libitum en condiciones controladas de luz (12 horas de ciclos de luz/oscuridad), temperatura ambiental de 21°C, humedad ambiental de 50%, ventilación adecuada y libre de ruidos.
+
+1. Modelo experimental.
+
+Se usaron ratas macho Sprague Dawley de 200±10g de peso. La isquemia se indujo por oclusión reversible de la rama descendente anterior de la arteria coronaria izquierda por 30 minutos y posteriormente la arteria se reperfundió por 24 horas (IR). Las ratas IR fueron randomizadas para recibir 1 minuto antes de la reperfusión suero fisiológico o boldina (40 mg/kg peso vía intraventricular) y posteriormente, 30 y 90 min post inicio de la reperfusión (75 mg/ kg peso, vía gavage)13. Como grupo control (Sham), se usaron animales sometidos a operación ficticia y tratados con boldina según el protocolo. Los animales fueron eutanasiados a las 24 horas post inicio de la reperfusión.
+
+2. Estudios hemodinámicos y funcionales
+
+La presión arterial sistólica (PAS) se midió por el método pletismográfico en la cola de los animales bajo suave anestesia con éter etílico un vez por semana por investigadores ciegos al tratamiento14. La función del ventrículo izquierdo se evaluó por ecocardiografía transtorácica bidi-mensional al término del tratamiento, para lo cual se usó un transductor sectorial electrónico de ultrabanda S12 Philips con rango de frecuencia de operación de 5-12 MHz 2D, doppler color, doppler pulsado y continuo, adaptable al ecocardiógrafo Sonos 5000. Para la evaluación de la función ventricular los animales IR y Sham fueron previamente anestesiados con Ketamina (35mg/Kg peso) y Xila-cina (7mg/Kg peso) y su tórax fue rasurado. Se determinó el diámetro de fin diástole (DFDVI) y de sístole (DFSVI) del ventrículo izquierdo (VI), la fracción de acortamiento del VI (FA) y el grosor de la pared anterior y posterior del VI (GPAVI, GPPVI) 14
+
+3. Evaluación de la hipertrofia ventricular izquierda.
+
+El grado de hipertrofia cardíaca (HC) se cuantificó por la relación entre la masa ventricular (MV) y la masa corporal (MC, MV/ 100 g PC)14.
+
+4. Determinación de apoptosis por ensayo TUNEL (terminal transferase-mediated dUTP nick labeling)
+
+Para la identificación de células apoptóticas presentes en el miocardio, cortes histológicos embebidos en parafina de 5 um de grosor, se tiñeron mediante la técnica TUNEL15, utilizando para ello un kit comercial (In Situ Cell Death Detection Kit, POD, Roche). El procedimiento se aplicó de acuerdo a las recomendaciones del fabricante con un tiempo de incubación de 60 minutos a 37°C para la reacción de la transferasa y pretratando las muestras por calentamiento en horno de microondas por 5 minutos con citrato de sodio 0,1 M. Los cortes se contratiñeron con hematoxilina. La conversión de la señal se realizó con pe-roxidasa de rábano y diaminobenzidina para luego tomar microfotografías en microscopio de luz a un aumento 20X (Eclipse E-800, Nikon) y cámara digital (Coolpix 4500, Nikon) a 0,05 mm2/campo de visión16.
+
+Para cada corte se analizaron 16 campos de visión consistentes a lo largo de la circunferencia del miocardio. En cada campo se contó el número de núcleos marcados positivamente (TUNEL(+)) diferenciando aquellos núcleos ubicados claramente en el centro del citoplasma de un cardiomiocito. También se determinó el número total de núcleos de cardiomiocitos visibles para calcular el porcentaje de cardiomiocitos TUNEL(+) por campo de visión. Los núcleos fueron considerados como cardiomiocitos cada vez que estos estaban situados en el centro de una célula de citoplasma grande con morfología característica de cardiomiocito en corte transversal y límites nítidos. El procedimiento fue realizado por un observador ciego a la intervención.
+
+5. Niveles de de mRNA de la proteína quimiotractante de macrófagos tipo 1 (MCP-1) de ventrículo izquierdo
+
+Se siguió el procedimiento descrito por Ocaranza et al14. Brevemente, el RNA total del ápice del VI se aisló por el método del trizol y se cuantificó por espectroscopia a 260nm/280nm. El cDNA se obtuvo por transcripción reversa a partir de 1,5 ug de RNA total tratado con DNAsa Los ensayos de PCR se realizaron usando los siguientes protocolos de amplificación y secuencias de partidores, 38 ciclos de 1 min a 92°C, 1 min a 53°C, 1 min a 72°C y posteriormente 10 min a 72 °C. Las secuencias nucleotídicas de los partidores sentido y antisentido fueron 5'-CAGG-TCTCTGTCACGCTTCT-3' y 5'-GTGCTTCAGGT-GGTTGTGG-3\ respectivamente17. La intensidad de las bandas se cuantificó por densitometría y se normalizó con respecto a la banda 18 S del RNA ribosomal.
+
+6. Evaluación de la actividad de metaloproteinasa (MMP) 2 y 9 por zimografía.
+
+Se utilizó la técnica descrita por Petterson et al.18, de zimografía en geles de gelatina. Para ello, trozos de VI viable de 100 mg se homogenizaron en tampón de lisis (PBS, 0,5% deoxicolato de sodio, 0,1% SDS, 1 mM orto-vanadato de sodio, 1 mM PMSF, 1%M, Nonidet P^, 1,5 uM aprotinina, 21 uM leupeptina y 14,6 uM pepstatina A) y centrifugados por 10 minutos a 7.000 G a 4°C para separar restos celulares18. La concentración de proteínas del sobrenadante se midió por el método de Bradford18. Se utilizaron 100 pg de proteína diluida en amortiguador no reductor SDS 2x (126 mM Tris-HCl, 20% glicerol, 4% SDS, 0,005% azul de bromofenol, pH 6,8). Las muestras se cargaron en geles SDS-PAGE al 8% con 0,1% de gelatina y corridas a 100 mV a temperatura ambiente. Posteriormente, el gel se lavó dos veces con 2,5 % Tritón X-100 durante 30 minutos a temperatura ambiente, e incubado a 37° por 18 horas con 50 mM de HEPES, pH 7,5, 0,2 M NaCl, 5 mM CaCl y 20 pmol/L de ZnCl. Finalmente los geles se tiñeron con azul de coomassie (0,2% azul de coomasie, 10% ácido acético glacial, 50% metanol). La actividad se determinó mediante análisis densitométri-co mediante un scanner Hewlewt-Packard y el software image-j de análisis densitométrico.
+
+7. Análisis estadístico y presentación de resultados
+
+Las comparaciones se realizaron utilizando el test no paramétrico Mann-Whitney. Las diferencias significativas se consideraron con valor p<0,05 (con 2 colas de 0,025 cada una). Los resultados se expresaron como promedio ± SEM.
+
+Resultados
+
+1. Parámetros morfométricos y hemodinámicas y función ventricular izquierda.
+
+La tabla 1 muestra los parámetros hemodinámicos, destacando que a las dosis de boldina usadas sólo se observó una disminución significativa de la presión arterial sistólica en las ratas IR+boldina respecto a ratas con Sham+Boldina y ratas IR (78 ± 4 vs 95 ± 4 y 97 ± 4, p=0,006, respectivamente). No se encontraron diferencias en la masa corporal (MC) ni masa cardíaca relativa (MCR, mg de corazón/masa corporal), como tampoco se produjo edema pulmonar ya que no se observaron cambios en la masa pulmonar relativa (MPR).
+
+Las variables ecocardiográficas evaluadas se muestran en la tabla 2. A las 24 horas post cirugía no se observaron diferencias entre los grupos experimentales.
+
+Sham+boldina 
+
+IR
+
+IR+boldina
+
+N
+
+8
+
+10
+
+10 
+
+190±4
+
+198±4 
+
+95±4* 
+
+78±4
+
+423±14 
+
+616±96
+
+IR 
+
+IR+boldina
+
+N
+
+10
+
+10
+
+DFDVI (mm)
+
+7,43±0,16
+
+6,98±0,32 
+
+DFSVI (mm) 
+
+ 5,38±0,44 
+
+5,21±0,49 
+
+AFDVI (mm2)
+
+4,12±0,16 
+
+4,18±0,29 
+
+ AFSVI (mm2)
+
+2,11±0,29 
+
+2,22±0,30
+
+ AFS/AFD 
+
+0,49±0,06 
+
+0,47±0,06 
+
+DPPVI (mm) 
+
+1,29±0,02 
+
+1,23±0,04 
+
+DPAVI (mm)
+
+1,13±0,08
+
+1,13±0,07
+
+2. Apoptosis
+
+La administración temprana de boldina al inicio de la isquemia y durante la reperfusión disminuyó la apoptosis de los cardiomiocitos en un 35% y un 19,7% en las células totales positivas para la reacción de TUNEL, respecto al grupo IR sin tratamiento. Las células no cardiomiocíticas positivas para TUNEL no presentaron diferencias estadísticamente significativas entre ambos grupos experimentales (figura 1A y 1B).
+
+Figura 1: Detección de células apoptóticas por ensayo TUNEL medidas 24 horas después de la isquemia en los grupos experimentales.
+
+
+
+3. Niveles de mRNA de MCP-1
+
+Se utilizó la expresión génica de MCP-1 para ver si es que las diferencias en la apoptosis encontradas por TUNEL podrían ser explicadas o al menos asociadas a una disminución concomitante en la inflamación. El tejido empleado para esto fue miocardio del ápice ventricular debido a que no se dispuso de miocardio de una zona más cercana a la base, que es la zona de donde se obtuvo el tejido para la realización de TUNEL. La figura 2A muestra los resultados del RT-PCR de algunas de las muestras evaluadas. No se encontraron diferencias significativas entre el grupo IR+boldina vs las ratas con IR, p=0,24 (Figura 2B).
+
+4. Actividad de MMP-2 y MMP-9
+
+Las MMP-2 y 9 se asocian a remodelado ventricular post infarto al miocardio. La MMP-9 se activa en etapas tempranas mientras que la MMP-2 se activa en fases tardías post isquemia miocárdica. El aumento en la actividad de MMP-9 post isquemia se ha asociado a apoptosis en el miocardio. Para determinar si la disminución en la apoptosis encontrada en el TUNEL del grupo IR+boldina respecto del grupo IR se asocia a una disminución en la actividad de MMPs de matriz extracelular, se realizó un ensayo de zimografía18. La Figura 3A representa los resultados de las zimografías de las ratas IR vs IR+B. No se encontraron diferencias significativas en las actividades de MMP-2 y MMP-9 (p=0,755 y p=0,662 respectivamente), en los grupos experimentales evaluados (figura 3B).
+
+
+
+A) RT-PCR de MCP-1, B) Niveles de MCP-1 expresado en veces     respecto a al grupo experimental IR. N=6 por grupo.
+
+(A) Zimografias de MMPs 2 y 9. (B) Actividad de MMP-2 y MMP-9     expresada en veces respecto a grupo IR. N=8 por grupo.
+
+Discusión
+
+Los principales resultados de este trabajo mostraron que la administración de boldina: 1) disminuyó tempranamente la PAS y la apoptosis de cardiomiocitos y del total de células miocárdicas, post isquemia. 2) El efecto antiapop-tótico de boldina no es mediado por la disminución de la expresión del factor proinflamatorio MCP-1 y tampoco, por la disminución en la actividad de MMPs-2 y 9.
+
+El daño miocárdico por IR se caracteriza por la aparición temprana de procesos de necrosis e inflamación, seguida de apoptosis tanto de miocardiocitos como de otras células del miocardio. Estos procesos tienen tal relevancia que solamente 30-60 minutos de IR compromete el miocardio en una extensión comparable a la observada normalmente luego de 24 horas de oclusión permanente30. Nuestros resultados muestran claramente el aumento significativo de la apoptosis de cardiomiocitos del grupo IR respecto al grupo Sham, producto de la activación de procesos celulares que se gatillan en este tipo de daño.
+
+Entre los mecanismos iniciales de daño por IR se han descrito la acidificación celular durante el período de isquemia que se revierte rápidamente durante la reperfusión, llevando a la acumulación de sodio intracelular a través del intercambiador Na-H y Na-HCCQ31. El aumento del sodio intracelular lleva a un aumento del flujo de calcio desde el retículo sarcoplásmico hacia el sarcolema mediado por el intercambiador Na-Ca sin posibilidad de reincorporarlo32. Esta sobrecarga de calcio produce un estado de hipercon-tractibilidad de la fibra miocárdica33, depleción de ATP34, daño ultraestructural de mitocondrias y aturdimiento miocárdico35. La IR genera aumento en la producción de especies reactivas del oxígeno (ROS) en la mitocondria, llevando a la apertura de poros mitocondriales permitiendo el paso de las RCS al citoplasma36, generando nuevas ROS vía xantina oxidasa y culminando con la formación del apoptosoma37.
+
+Considerando la relevancia del estrés oxidativo característico de este daño es que se han realizado esfuerzos por identificar sustancias con capacidad de reducir los radicales libres o disminuir su efecto sobre el tejido afectado3. Boldina es una molécula con conocidas propiedades antioxidantes20. Al respecto, se ha descrito en células HeLa transfectadas con conexina43, la principal conexina del miocardio, la boldina actúa inhibiendo los HCs sin afectar el estado funcional de los CUH12. Además de sus características antioxidantes teóricas derivadas de su estructura molecular, se ha demostrado in vitro que boldina tiene un efecto protector ante el daño oxidativo mediado por cate-colaminas en mitocondrias de neuronas dopaminérgicas21.
+
+Igualmente, en cortes de hipocampo privados de oxígeno y glucosa para simular el daño producido por isquemia, se demostró que boldina aumentó significativamente la viabilidad celular22. También, se ha descrito un efecto protector en hepatocitos aislados sometidos a estrés oxidativo23. En modelos in vivo la boldina disminuyó el daño hepático post exposición a tetracloruro de carbono23 y a cisplatino24, demostrando esto último un efecto quimioprotector. Además, se ha descrito que boldina reduce significativamente el edema inflamatorio25. Al respecto, en un modelo muri-no de enfermedad inflamatoria intestinal, el pretratamiento con boldina diminuyó la actividad mieloperoxidasa sugiriendo una menor infiltración de neutrófilos26. En términos de lipoxidación boldina diminuyó las lesiones ateroscleróticas en aorta sin alterar los niveles de LDL, HDL y triglicéridos, lo que sugiere que el efecto observado sería mediado por su efecto antioxidante28. En un modelo muri-no de diabetes en que se exponen a estreptozotocina (STZ) la cual, por medio de radicales libres mitocondriales, daña las células beta pancreáticas por estrés oxidativo, boldina previno el aumento de la glucosa plasmática y la pérdida de peso generada por la STZ27.
+
+Tanto por experimentos in vivo como in vitro, boldina ha demostrado propiedades antioxidantes, las cuales estarían dando cuenta de su efecto en la prevención de la apoptosis por IR. Nuestros resultados muestran claramente y por primera vez que boldina disminuyó la apoptosis de los cardiomiocitos, efecto farmacológico que se suma a los descritos en otros tejidos.
+
+Es conocido que durante la isquemia se genera un intenso estímulo para la liberación de óxido nítrico a nivel en-dotelial con efecto favorable mediado por vasodilatación asociado a un efecto sobre la agregación plaquetaria, adhesión de leucocitos y captación de radicales libres38. Durante la reperfusión se genera un medio saturado de RCS que genera peroxinitrito que afecta a distintas sustancias vasoactivas y además activa al sistema inmune a través de un aumento en quimioquinas, citoquinas y moléculas de adhesión. Las MMPs habitualmente se activan por proteólisis del propéptido originalmente sintetizado40, no obstante, se ha observado que en condiciones de estrés oxidativo con aumento de peroxinitrito libre se produce una activación directa no proteolítica de la MMP-2 y MMP-9. A su vez, la activación de estas MMPs se ha asociado a liberación de citocromo C, aumento en la actividad de caspasa 3 y de la expresión de la vía Bax teniendo como resultado la apoptosis. Nuestros resultados muestran que el efecto antiapoptótico de la boldina no es mediado por cambios en la actividad de MMPs 2 y 9. Al respecto no se puede descartar que la participación de las MMPs pudiera gatillarse en etapas posteriores y no en etapa temprana como la evaluada en este estudio.
+
+El estrés oxidativo y radicales peroxinitrilo aumentan la permeabilidad endotelial, inflamación, producción de citoquinas y quimiotractantes con expresión de "toll like receptors" y activación de la cascada del complemento39. Se ha observado que en el daño por IR, MCP-1 aumenta su expresión. La sobreexpresión de MCP-1 en el miocardio genera infiltración por monocitos/macrófagos y vas-culopatía arteriolar trombótica oclusiva, la que a su vez se asocia a isquemia, fibrosis intersticial y dilatación ventricular. Además, MCP-1 induce la expresión de la proteína inducida por MCP (MCPIP) la que a su vez se ha identificado como un nuevo factor de transcripción cuya expresión causa apoptosis. En nuestro modelo experimental y a los tiempos evaluados no se observó la participación de MCP-1 como mediador del efecto de la boldina. Estos resultados pueden ser producto que los cambios en la expresión de genes ocurren tempranamente, es decir antes de las 24 horas, respecto en este caso al cambio en el número de células apoptóticas.
+
+Boldina es un compuesto con efecto descrito en receptores alfa adrenérgicos19, dopaminérgicos29, canales de cal-cio11 y receptores colinérgicos11. Además se ha observado un efecto vasodilatador en vasculatura renal19. Nosotros observamos que en condiciones de IR+Boldina la PAS fue significativamente menor comparado con los grupos Sham+Boldina e IR. Este efecto podría estar en relación con los descritos y/o potenciado por los eventos patológicos característicos de esta injuria, sin embargo, debe ser considerado en el contexto de una evaluación temprana cuya evolución se desconoce.
+
+Constituyen limitantes de este estudio el esquema de administración de boldina que es nuevo, por lo que se desconoce exactamente a que concentraciones de boldina disponibles en miocardio se logran los efectos observados. No se realizó un estudio de toxicidad, si bien se trabajó con dosis divulgadas en la literatura, la vía de administración intraventricular de boldina es nueva, siendo interesante contar con datos de esta índole. La característica temporal del modelo resulta limitante al intentar explorar posibles mecanismos de acción de boldina que den cuenta de los resultados.
+
+Este es el primer trabajo que muestra un efecto de boldina sobre un modelo de daño miocárdico, siendo relevante tanto por la prevalencia de la enfermedad cardiovascular isquémica, como también por el original efecto de este compuesto. Considerando que boldina es un extracto obtenido desde una especie endémica de Chile, la apertura de cada vez nuevos usos farmacológicos ofrece importantes oportunidades en el desarrollo e implementación de formulaciones que a futuro tengan un rol terapéutico en humanos.

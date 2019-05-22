@@ -1,0 +1,60 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-85602009000200003
+Aumento del riesgo de consultas cardiovasculares por contaminación atmosférica por partículas: Estudio en la ciudad de Santiago
+
+ 
+
+Introducción
+
+Desde la década    de 1980 se conoce que la contaminación atmosférica por partículas determina    mayor mortalidad y morbilidad por afecciones respiratorias en diversas ciudades    del mundo12, y que esa asociación epidemiológica también se presenta    en la ciudad de Santiago34. Sin embargo, el reconocimiento que la    contaminación también produce un efecto sobre las enfermedades cardiovasculares    ha sido posterior. Ostro5 y Sanhueza6, a fines de los    90, en la cuenca de la ciudad de Santiago comprobaron que las altas concentraciones    diarias de partículas grandes (MP 10), se asociaban no sólo a incrementos de    la morbi-mortalidad respiratoria sino también cardiovascular. En la literatura    internacional se ha comunicado una mayor frecuencia de hospitalizaciones y muertes    de origen C-V durante los períodos de elevada concentración de partículas contaminantes,    como ocurre en la estación invernal7.8.9.
+
+Respecto a la fisiopatología    de la alteración C-V, se han postulado como mecanismos posibles, por un lado,    la inflamación sistémica endotelial producida por el paso a través de los alvéolos    pulmonares de I as partículas dañinas, provocando inflamación y estimulación    de factores protrombóticos, como ha postulado Jalil en Santiago en pacientes    coronarios y por otro, un desequilibrio del sistema autonómico10.11.12.    Santiago es una ciudad con alta contaminación por partículas    grandes (MP10) y pequeñas (MP 2,5), que alcanzan concentraciones máximas y cuyo    promedio diario triplica los estándares de la OMS, que son de 50 ug/m3 para    MP 10 y de 20 ug/m3 para MP 2,513. Presenta, además, marcadas diferencias    de temperatura entre las diversas estaciones del año514. Con estos    antecedentes nos ha parecido importante estudiar la relación entre la concentración    diaria de las partículas contaminantes y la morbilidad aguda de las enfermedades    cardiovasculares en la ciudad de Santiago en el año 2007.
+
+Metodología
+
+Establecimos como    hipótesis que las concentraciones de partículas atmosféricas MP 10 y MP 2,5    influyen en el número de consultas diarias de enfermedades cardiovasculares    en la ciudad de Santiago. El estudio se realizó durante el año 2007. La información    sobre las variables de contaminación se obtuvo del registro diario de la concentración    de ambos tamaños de partículas en los 7 centros de la Red de Monitoreo de Calidad    del Aire en la región Metropolitana (MACAM), estableciendo como variables de    contaminación los valores máximos de ambas partículas, MP10 y MP 2,5, expresadas    en ug/m3. Además se registraron las temperaturas máxima y mínima    y el valor máximo de la humedad relativa del aire, obtenidos del Instituto de    Meteorología de Chile.
+
+El número diario    de consultas (morbilidad) por causas cardiovasculares se obtuvo de los registros    de los 6 Servicios de Urgencia hospitalarios de la ciudad de Santiago, los que    fueron consolidados diariamente por el Departamento de Estadística e Información    de Salud (DEIS) del Ministerio de Salud. El total de consultas cardiovasculares    en el año fue de 34.864, cuyo desglose por enfermedades más prevalentes se anota    en la Tabla 1. Los diagnósticos fueron establecidos    por los médicos de los respectivos Servicios de Urgencia, de acuerdo a los criterios    habituales.
+
+Para el análisis    estadístico se implemento un modelo de regresión múltiple aditivo (GAM) y ajustado    a la distribución de los datos (Poisson). El modelo se aplicó para cada uno    de los diagnósticos C-V (variables dependientes), utilizando como variables    independientes MP 10 y MP2,5, controlando por las variables tem-peratura del    día y temporalidad (día observado)14. Los cálculos fueron aplicados    para el año completo y para los meses de junio y julio, en los cuales se observa    una mayor concentración de partículas.
+
+   
+
+Resultados
+
+En la Tabla    2 se muestran las variables estudiadas. La concentración media de ambos    tipos de partículas en el año estuvo sobre la norma internacional,
+
+que es de 50 y    20 ug/m3, respectivamente. Se observó que los valores máximos para el año superan    5 veces a la norma. El rango de temperaturas máxima y mínima fueron los habituales    de la ciudad de Santiago, como también la humedad relativa.
+
+   
+
+En cuanto a las    consulta C-V, la frecuencia de Infarto miocárdico registrada por el DEIS fue    baja, probablemente debido a que fueron informados sólo los infartos completamente    definidos en el momento de la consulta, en base a la clínica, el ECG y las enzimas,    de modo que no se informaron los    síndromes isquémicos en comienzo.
+
+La Tabla    3 muestra el riesgo relativo del total de eventos cardiovasculares y de    las crisis hipertensivas en relación a las concentraciones de MP 10 y MP 2,5,    separadamente para todo el año y para los meses de Junio y Julio.
+
+   
+
+Se observa que    para el total de eventos cardiovasculares el aumento del riesgo fue del 10%    en relación a la concentración de MP 10 y del 17% para MP 2,5, ambos incrementos    significativos (p<0.001). Para los meses de Junio y Julio, el aumento del    riesgo asociado a MP 10 fue del 15% y del 28% para MP 2,5, ambos porcentajes    significativamente mayores que los correspondientes a todo el año (p< 0.001).
+
+Respecto a la crisis    hipertensiva, el aumento del riesgo asociado a MP 10 fue del 4% (p<0.001)    y no significativo para MP 2,5. Sin embargo, en los meses invernales el aumento    de riesgo fue significativamente mayor para ambas partículas, correspondiendo    un 7% a MP 10 (p<0.001) y un 13% a MP 2,5 (p< 0.03).
+
+Discusión y    Comentario
+
+El análisis realizado    en el año 2007 para la ciudad de Santiago, demuestra una asociación estadísticamente    significativa entre el número total de consultas por eventos C-V y el valor    máximo diario de partículas MP10 y MP 2,5. Esta asociación también se observó    para el número de consultas por crisis hipertensiva. Dado el menor número de    consultas registradas para el infarto miocárdico y el accidente cerebrovascular,    el análisis no permitió conclusiones estadísticas para esas patologías.
+
+Una limitación    del estudio es que los registros de las consultas en S de U de la RM por causa    específica CV se inician en año 2007, por lo que no se cuenta con datos previos    para hacer comparaciones, sin embargo estos continúan realizándose lo que permitirá    a futuro una mirada más precisa. Otra posible limitación es la certidumbre del    diagnóstico que es realizado por médicos no especialistas, pero que tienen amplia    experiencia    en el diagnóstico y manejo de estas frecuentes morbilidades.
+
+En la literatura    existe abundante información de la asociación entre contaminación del aire por    partículas y eventos cardiovasculares, pero la gran mayoría de ella se refiere    a cifras de mortalidad. Los datos comunicados respecto a morbilidad son escasos.    Entre ellos, el estudio de 6 ciudades en EE. UU reveló que la ciudad más contaminada    presentó un 26% de aumento del riesgo de enfermedades C-V en relación a las    menos contaminadas15.
+
+En una ciudad de    Brasil, el incremento del riesgo C-V en exposición aguda a MP 10 fue del 4%    (p<0,05)ie. En un estudio en mujeres en la ciudad de Seattle, EE.UU, el aumento    de riesgo de eventos C-V fue del 24% por cada aumento de 10ug/m3 de MP2.517.    En la mayoría de las comunicaciones revisadas el aumento de riesgo se calcula    en relación a cada incremento de 10 ug/m3 en la concentración de partículas.    Con ese criterio, el incrementos de riesgo de muerte para el total de enfermedades    C-V fluctúa entre un 0,4% y un 1%, y específicamente para la enfermedad coronaria,    el accidente cerebrovascular y las arritmias, entre un 4,5% y un 18%17,18,19,20
+
+Es preciso destacar    que la mayoría de los estudios se refieren a las partículas grandes o MP 10,    pero aquellos que registraron las partículas pequeñas, o MP 2,5, demostraron    un significativo riesgo mayores.
+
+Con respecto a    la ciudad de Santiago, nuestros datos confirman lo observado por Ostro y Sanhueza,    en la década de los 90, que se referían a mortalidad por enfermedades cardiovasculares56.    Nuestros resultados se basan en registro de morbilidad C-V, y por tanto en un    espectro mayor de población, lo que determina una alerta para enfrentar la acción    patológica de la contaminación del aire.
+
+Además, la asociación    registrada entre daño C-V y    contaminación atmosférica por partículas, sugiere la aparición de un nuevo factor    de riesgo de las enfermedades C-V, por lo que es importante realizar nuevos    estudios al respecto.
+
+Pero desde el punto    de vista de la salud pública, aparece imperativo realizar un esfuerzo multifactorial    para reducir los niveles de contaminación del aire, no sólo en Santiago, sino    también en otras ciudades del país.
+
+Si bien, no hemos    podido demostrar significativamente una asociación entre contaminación y morbilidad    por enfermedad coronaria, la literatura registra una acción deletérea mayor    en los pacientes con ateroesclerosis coronaria, demostrada por coronariografía,    en relación a quienes no la presentan19. 20 . Entre nosotros,    Jalil y col11, en pacientes coronarios expuestos a contaminación    por MP 2,5 en la ciudad de Santiago, observaron una serie de cambios fisiopatológicos    que pueden llevar a obstrucción coronaria, consistentes en stress oxidativo,    inflamación vascular y fenómenos protombót¡cos10.11.20,21,22.
+
+Desde el punto    de vista de la Salud Pública, las concentraciones de ambos tipos de partículas,    MP 10 y MP 2,5, observadas en el año 2007, superan las normas internacionales.    Ello pone una nota de alerta ambiental, pues la norma vigente en Chile es de    150 ug/m3 para MP 10, tres veces superior a la internacional, la que seguirá    vigente hasta 2010 en el plan de descontaminación de Santiago14.
