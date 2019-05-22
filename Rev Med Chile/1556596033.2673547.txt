@@ -1,0 +1,86 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872010000400009
+Interacciones de medicamentos y eventos adversos en fármacos utilizados en una unidad de cuidados intensivos
+
+La interacción entre fármacos (IEF) se defne como "la administración de dos o más fármacos con propiedades farmacocinéticas y farmacodinámicas particulares, con posibilidad de desencadenar eventos adversos (EA) posibles". Para la Organización Mundial de la Salud (OMS) los EA son todo efecto de un medicamento, que es perjudicial y no deseado, que ocurre a dosis usadas con fnes terapéuticos, proflácticos o de diagnóstico1,2,4,5. El estudio de los EA y las IEF comenzó a realizarse en Chile el año 1995 con la creación de un programa nacional de farmacovigilancia, que buscaba entregar información sobre los medicamentos usados en el país y a la vez obtener casos de EA que pudieran ser parte de una futura base de notifcaciones, que consta de 1.797 casos comunicados entre 1995 y 2001, con un peak para este último año de 771 notifcaciones3,6. De los datos recibidos hasta el año 2001, los antimicrobianos ocupan el primer lugar con 31% de los reportes, seguidos por antipsicóticos, anticonvulsivantes y antiinfamatorios no esteroidales6.
+
+En el caso de los Estados Unidos de Norteamérica el estudio de ambos factores determinó que producían un costo estimado de 76,6 billones de dólares para el año 1995, calculado en relación a la mortalidad y morbilidad por drogas7-9.
+
+Se estima además, que cerca de 2,8% de las admisiones de los pacientes a los servicios de salud se debían a posibles IEF, que alrededor de 11% de los pacientes que estaban hospitalizados desarrolló algún síntoma relacionado con una IEF y que del total de pacientes que recibían medicamentos, 9,2% a 70,3% tuvo la posibilidad de desarrollar alguna IEF, que calculada según el costo anual fue equivalente a 130 billones de dólares en gastos para el servicio de salud. Finalmente, de todos los casos estudiados 1,2% a 23,3% de las IEF probabas presentaron relevancia clínica10-12.
+
+Es importante que exista una vigilancia sobre las IEF relevantes que pudiesen desarrollar EA potencialmente peligrosos, asumir esta relación y determinar su incidencia. Esto permitirá adoptar las medidas que disminuyan la mortalidad y morbilidad de drogas asociados a ellos. Se destaca que los programas de acreditación de calidad instan a las instituciones de salud a incentivar la notifcación e investigar cada caso que se produzca, coordinando la creación de nuevos departamentos o cargos que en la actualidad utilizan nuevas herramientas como los programas de screening de interacciones que apoyan la toma de una decisión (selección de medicamentos)13-18. El comité de farmacovigilancia de Clínica Dávila es encabezado por un químico-farmacéutico encargado desde el año 2007, quien reúne la información de los casos producidos en la institución y los informa a través de la fcha establecida por la CENIMEF (Centro Nacional de Información de Medicamentos y Farmacovigilancia) del Instituto de Salud Pública (ISP).
+
+Creemos que las IEF y los EA son frecuentes en nuestros enfermos de unidad de cuidados intensivos (UCI), dada la polifarmacia habitual. Por otra parte, no evaluamos en forma rutinaria estos riesgos. El objetivo de nuestro trabajo es medir la frecuencia de las IEF y de los EA, para conocer la real importancia de cada uno de ellos dentro de nuestra UCI, destacando además que los trabajos actuales no poseen información sobre los pacientes UCI.
+
+Material y Métodos
+
+Se realizó un estudio prospectivo y de cohorte, en el cual se siguió los fármacos utilizados de los pacientes UCI entre los meses de junio y agosto del año 2008, evaluando las IEF y los EA de una lista de 14 distintas asociaciones de fármacos, clasifcados como: 1) Contraindicados y 2) Potencialmente peligrosos (Tabla 1)19-20.
+
+   
+
+Desde principios del 2007 se inició en nuestra UCI un programa de farmacovigilancia, en conjunto con un equipo de químico-farmacéuticos. Este estudio se desarrolló en ese contexto y fruto de él. La UCI consta de 18 camas y, debido a la enorme cantidad de fármacos involucrados en estos pacientes, se decidió concentrarse en los de uso más frecuente, estos son los sedantes-analgésicos y antibióticos. Cada uno de los seleccionados fue confrontado con la literatura y luego con el programa de detección de interacciones Epocrates On Line® (software de libre acceso)19.
+
+De la primera revisión    efectuada se formaron dos grupos de fármacos, los contraindicados con una alta    incidencia de producir el EA si la asociación se presentaba y los potenciales    con una relación probable, si los fármacos se administraban en concomitancia.    La revisión fnal en la confección de la tabla se basó en el programa Micromedex®20,    que consiste en una base de datos actualizada con información al día de todos    los medicamentos que se pueden usar en un servicio de salud, tanto en dosis,    vías de administración, indicaciones y EA producidos, entre otras. Además, informa    las notifcaciones de EA desde que el medicamento empieza a comercializarse con    las referencias específcas y renovadas constantemente. Dentro de sus herramientas    se utilizaron los programas Drug REAX y Drug DEX, que indican de forma general    los posibles problemas que pudiesen presentarse con la asociación de medicamentos20.    Con la información resumida se diseñó la Tabla 1.
+
+Los pacientes seleccionados de la población estudiada debían cumplir con los siguientes criterios de inclusión:
+
+     a)     Tener al menos 3 días de estadía en UCI;          b)     Recibir algún(os) de los medicamento(s) estudiados con un mínimo de 3 días de    terapia;          c) Sin    un límite de edad y considerando todas las patologías presentes.
+
+Se evaluaron concomitantemente los datos epidemiológicos, el índice APACHE II21, el peso estimado, las patologías presentes, los días de estadía, los exámenes de laboratorio habituales y la mortalidad en la unidad.
+
+Para la defnición de cada uno de los EA se utilizó la guía "Common Terminology Criteria For Adverse Events" (CTCAE) versión 3.0, defnida por el Instituto Nacional del Cáncer de Estados Unidos22.
+
+Estadística: En el análisis estadístico se utilizó el programa SPSS (Statistical Package for the Social Sciences) 15.0 para Windows con los siguientes test: exacto de Fisher, riesgo relativo (RR) de la exposición y regresión logística multivariada en la obtención del odds ratio (OR). El tamaño muestral se determinó asumiendo una frecuencia de IEFs de 40%, de acuerdo a lo antes descrito por la literatura investigada. La diferencia signifcativa entre ambos grupos se estableció con un nivel de seguridad de 95%, un poder estadístico de 80% y un OR esperado mayor a 4. En relación a los criterios señalados, el número de pacientes necesario fue de 34. La signifcancia mínima, para aceptar la hipótesis de relación, fue un valor p menor a 0,05. Finalmente, en el caso del RR se construyó un intervalo de confanza al 95% (IC 95%) que determinó la verdadera relevancia de la exposición.
+
+Resultados
+
+Al fnal del período de estudio se totalizaron 35 pacientes que cumplieron con los criterios de inclusión defnidos. La edad promedio fue de 58,63 ± 16,3 años (mínimo 21 y máximo 91) con un peso estimado de 76,77 ± 11,05 kg. La distribución por sexo fue 68,6% masculino y 31,4% femenino. El índice de Apache II fue de 15,54 ± 5,49 (mínimo 8 y máximo 30).
+
+Las causas de ingreso fueron: sepsis 34,2%, síndrome de distress respiratorio en el adulto (SDRA) 11,6%, falla renal aguda (FRA) 8,5%, paro cardiorespiratorio (PCR) 5,7% y otros, con 40%, en el cual, la mayor porción correspondía a cardiopatía, con un 11,6%. La estadía fue de 23,35 ± 18,66 días (mínimo de 4 y máximo de 76) con un mortalidad promedio de 8,5% (3 casos). Los datos mencionados se encuentran en la Tabla 2.
+
+   
+
+Se registraron un total de 76 IEF durante la totalidad de la investigación en los 35 pacientes. Para los fármacos clasifcados como contraindicados, las IEF de mayor asociación fueron: fuoroquinolonas + hidrocortisona en 6 ocasiones, fentanilo + amiodarona en 5 y ceftriaxona + gluconato y/o cloruro de calcio en 2 oportunidades. En el caso de los fármacos clasifcados como potencialmente peligrosos, las IEF de mayor asociación fueron: fentanilo + midazolam + propofol en 33 ocasiones, seguida de vancomicina + aminoglicósidos en 3 ocasiones y amfotericina B + vancomicina en otros 3. El total de la información se muestra en la Tabla 3.
+
+   
+
+Para los EA el total de casos llegó a 60, con una distribución marcada para la bradicardia (21 oportunidades), la que siguió en número fue la FRA en 7 ocasiones, la hipotensión y el SDRA, ambos con 6 casos y fnalmente la retención urinaria con 5. La frecuencia de los EA encontrados esta descrita en la Tabla 4.
+
+   
+
+En la determinación de la posible relación entre los EA producidos y las IEF estudiadas se construyen las Tablas 5 y 6, las que resumen cuáles son los fármacos evaluados con sus respectivos EA. En cada tabla se aplican los test estadísticos anteriormente enunciados.
+
+   
+
+De acuerdo al test exacto de Fisher, las IEF asociadas a la producción de EA se encuentran en la Tabla 5. En la Tabla 6 se resumen los valores estadísticos para la posible relación entre IEF y EA. Las IEF más importantes fueron: fentanilo + midazolam + propofol asociadas con la producción de bradicardia e hipotensión con un RR de 10,4 (IC 95% 1,59-68) y 5 (IC 95% 1,08-23,1), respectivamente. El OR calculado para bradicardia e hipotensión según la regresión logística multivariada fue de 125,2 (IC 95% 1,8-1.224) y 12,6 (IC 95% 1,2-124), respectivamente.
+
+   
+
+ 
+
+Otra IEF importante fue vancomicina + amfotericina B y amikacina + vancomicina asociada con la producción de FRA, con un RR y OR de 6,4 (IC 95% 1,9-21,6) y 10,8 (IC 95% 1,2-76). Las diferencias obtenidas entre las cantidades totales de EA producidos referidos en las Tablas 4 y 6, se deben a que en la segunda, sólo se evaluaron los casos de EA cuando las IEF estuvieron presentes en la terapia.
+
+La prolongación del intervalo QT, retención urinaria, arritmias y SDRA no mostraron relación estadísticamente signifcativa. Para la retención urinaria el tamaño muestral no permitió el cálculo del RR y del OR, ya que no hubo IEF para el EA. Para identifcar otros factores de riesgo que pudieran estar implicados en la producción del EA, se realizó un análisis multivariado donde se incluyó edad, peso estimado, índice APACHE II de ingreso, presencia de cardiopatía, insufciencia renal aguda (IRA), diabetes mellitus, uso de medios de contraste y uso de antiinfamatorios no esteroidales (AINES); no demostrándose asociación con ellos (Tabla 7).
+
+   
+
+Discusión
+
+Según nuestro conocimiento, este sería el primer estudio de IEF en el contexto de UCIs en nuestro país. Llama la atención que dada la frecuencia descrita de hasta 23% de eventos adversos clínicamente signifcativos atribuibles a las IEF, existe poca conciencia en nuestro medio de su real importancia.
+
+Las UCIs concentran quizás la mayor polifarmacia entre los pacientes hospitalizados, de modo que este estudio cumple el objetivo de describir su presencia en nuestra Unidad.
+
+Se reunió la información de la totalidad de pacientes que ingresaban a la unidad, siendo 35 pacientes los estudiados, sufcientes según el cálculo de tamaño muestral descrito. Para todos los fármacos estudiados se utilizó como sistema de revisión el programa Micromedex®, con sus herramientas Drug REAX y Drug DEX que analizó el total de las 14 asociaciones con los dos grupos defnidos como contraindicados y potencialmente peligrosos.
+
+Se registraron un total de 76 IEF durante la investigación en los 35 pacientes seleccionados. En los fármacos contraindicados, las IEF de mayor asociación fueron: fuoroquinolonas + hidrocortisona en 6 ocasiones, fentanilo + amiodarona en 5 y ceftriaxona + gluconato y/o cloruro de calcio en 2 oportunidades. En el caso de los fármacos potencialmente contraindicados, la interacción para fentanilo + midazolam + propofol se asoció en 33 ocasiones, seguida de vancomicina + aminoglicósidos y/o amfotericina B en 6.
+
+Para la mayoría de los casos que tenían concomitantemente la presencia de la asociación fentanilo + midazolam + propofol se presentaron los siguientes EA, que encabeza la bradicardia con 35% e hipotensión y SDRA con 10%. La marcada disminución de la frecuencia cardíaca por la presencia de la IEF fue el resultado más visto. El EA se producía cuando la IEF estaba en la terapia de los pacientes, pero a la hora de determinar que cada paciente sufriera este resultado, se debían eliminar otras variables. Dentro de ellas estaban edad, peso y APACHE II, que evaluaron si los pacientes tenían predisposición a la producción del EA por alguna característica individual. La variable presencia de cardiopatía previa en el paciente no mostró signifcancia estadística por regresión logística multinomial, al igual que la edad, que tanto para pacientes más jóvenes como mayores se presentó, el peso que se asoció a la dosis administrada no mostró mayor valor y el APACHE II de ingreso que atribuía la gravedad propia del ingresado a la unidad no difrió de los anteriores resultados con OR cercano a 1. El RR calculado de la IEF en producir el EA fue de 10,4 en bradicardia y de 5 en hipotensión concluyendo que sólo debían estar presentes los fármacos, sin importar otras variables con un OR de 125,2 y 12,6, respectivamente.
+
+Para la asociación entre vancomicina + amikacina y vancomicina + amfotericina B, la cantidad de episodios de FRA llegó a 7 casos, de los cuales 3 se eliminaron de todo análisis, pues formaban parte de las patologías de ingreso a la unidad. Con los 4 casos restantes se evaluaron ambas IEF, observando un aumento gradual en los valores de creatinina comenzado el tratamiento. Los valores de riesgo relativo y odds ratio fueron 6,4 y 8 respectivamente, sin importar la edad, el peso, el APACHE II, IRA y uso de medios de contraste, calculado por regresión logística multinomial. Es importante señalar que las dosis utilizadas fueron dosis habituales (datos no mostrados) y en ningún momento fueron dosis tóxicas, lo que apoya la tesis de la etiología de los EA atribuibles a las IEF ya descritas.
+
+No podemos establecer la prevalencia real de las IEF y los EA producidos, ya que no es el objetivo del presente estudio y el diseño no lo permite. Sin embargo, pretendemos sensibilizar al respecto y abrir el camino para nuevos estudios multicéntricos y con mayor poder que puedan resolver estas preguntas.
+
+En suma, podemos concluir que las IEF y los EA asociados a ellos son un problema frecuente, convirtiéndose en un tema relevante en nuestra UCI y probablemente en otras del país.
+
+Las IEF que se asociaron con riesgo en la producción de EAs son: fentanilo + propofol + midazolam para bradicardia e hipotensión; amfotericina B + vancomicina y vancomicina + amikacina para FRA. En el manejo tanto de las IEF y de los EA producidos, la farmacovigilancia se convierte en una herramienta efcaz para su detección y prevención.
+
+Finalmente, el trabajo mutuo y coordinado de médicos y químicofarmacéuticos y todo el equipo de salud, hace posible la pesquisa y comprensión de nuevos problemas, antes no visualizados en el manejo diario de nuestros pacientes. De esta manera podemos optimizar las terapias y buscar mejores soluciones para ellos.

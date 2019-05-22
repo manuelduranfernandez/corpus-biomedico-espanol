@@ -1,0 +1,124 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872016000200001
+Beneficio de la quimioterapia adyuvante en pacientes con cáncer de colon: cohorte retrospectiva de un hospital clínico universitario
+
+ 
+
+El cáncer de colon (CC) es la tercera neoplasia en frecuencia y la cuarta en mortalidad a nivel mundial1. A diferencia de lo que ocurre en países desarrollados, donde su mortalidad va en descenso2,3, en Chile habría una tendencia al alza en su mortalidad de 3,7 en el año 1990 a 6,3/100.000 en el año 20044. Este hecho puede ser explicado por múltiples hipótesis, destacando cambios en el estilo de vida de la población, falta de acceso a programas de tamizaje en población asintomática y diferencias en las oportunidades de tratamiento de esta enfermedad.
+
+La quimioterapia (QT) adyuvante ha sido extensamente estudiada y desde la década 1990-99 se demostró un beneficio en sobrevida global cercano a 10% con quimioterapia basada en 5-fluorouracilo (5 FU) modulado con leucovorina (LV) en pacientes con CC en etapa III (con metástasis ganglionares regionales)5-7. Se han estudiado múltiples formas de administración de estas drogas, siendo los esquemas infusionales los más utilizados en los últimos años, tanto en la adyuvancia como en el escenario metastásico8. Posteriormente, los estudios MOSAIC9 y NSABP C-0710 mostraron un mayor beneficio al agregar la droga oxaliplatino (esquema FOLFOX) logrando una mejora en sobrevida global de 4% a 5 años.
+
+Estos resultados no fueron categóricos en pacientes en etapa II (sin metástasis ganglionares regionales)11-13, por lo que para estos pacientes las guías internacionales sólo recomiendan tratamiento con QT adyuvante en caso de factores pronósticos adversos14,15. La capecitabina es una prodroga del 5 FU de administración por vía oral que ha mostrado resultados equivalentes en adyuvancia16,17, por lo que se considera una alternativa de tratamiento tanto como monoterapia como en combinación con oxaliplatino.
+
+El objetivo de este estudio es describir a la población de pacientes que recibieron quimioterapia adyuvante por cáncer de colon en el Hospital de la Universidad Católica de Chile, y observar su influencia en la sobrevida libre de enfermedad y sobrevida global.
+
+Material y Método
+
+En este estudio se incluyeron todos los pacientes con CC tipo adenocarcinoma etapas II y III sometidos a resección quirúrgica con intención curativa en el Hospital Clínico de la Universidad Católica de Chile entre enero de 2002 y junio de 2012. Se excluyeron los pacientes con cáncer de recto, definidos como tumor hasta 15 cm sobre margen anal y los que realizaron su tratamiento adyuvante en otro centro. Los datos fueron recolectados de la ficha clínica de cada paciente y del registro de tumores de la institución. La información relativa a mortalidad se extrajo de la base de datos del Servicio de Registro Civil de Chile18. Para la estadificación se utilizó la clasificación de la AJCC TNM 7a edición19. Los pacientes con depósitos tumorales en el tejido adiposo pericolónico se consideraron como etapa III sin sumarse éstos al número total de ganglios. A todos los pacientes se les realizó una tomografía axial computada de tórax, abdomen y pelvis para descartar enfermedad metastásica al momento del diagnóstico. Se realizó seguimiento clínico, con antígeno carcinoembrionario (CEA) y mediante imágenes, hasta completar 5 años del término del tratamiento.
+
+Los pacientes recibieron quimioterapia    adyuvante según la recomendación de su oncólogo tratante.    Para la decisión en pacientes en etapa III se consideraron la edad, las    comorbilidades del paciente y la existencia de complicaciones postoperatorias.    En el caso de los pacientes en etapa II se tomaron en cuenta además la    presencia de factores de mal pronóstico como: tumor T4, perforación    intestinal, tumor obstructivo, mala diferenciación, menos de 12 ganglios    a la patología, permeaciones linfovasculares y CEA elevado antes de la    cirugía. Durante el período de estudio fueron variando los esquemas    de quimioterapia utilizados según a la evidencia disponible, destacando    las combinaciones de 5 FU/LV (esquema Mayo20 o infusional) y FOLFOX21    (Tabla 1).
+
+
+
+Tabla 1. Esquemas de quimioterapia    en cáncer de colon
+
+
+
+ 
+
+Las características de la población se expresaron como promedios para las variables continuas y como porcentajes para las variables categóricas. El análisis estadístico se realizó mediante t-Student para las variables continuas, 2 para las variables categóricas y curvas de Kaplan-Meier con test de log-rank para el análisis de sobrevida. Se realizó un análisis univariado y posteriormente multivariado mediante regresión de Cox para detectar variables pronósticas independientes. El análisis de datos se realizó mediante el programa SPSS versión 21. Este estudio fue aprobado por el comité de ética institucional.
+
+Resultados
+
+Características de los pacientes
+
+En este estudio se incluyeron    370 pacientes tratados entre enero de 2002 y junio de 2012. Se excluyó    a 10 pacientes por tener un registro incompleto. El 49% de los pacientes correspondieron    a hombres y la edad promedio fue 67,5 años, con un rango de 20 a 94 años.    La localización anatómica del tumor fue en el colon izquierdo    en 42% y en el colon derecho en 40% de los casos. La histología correspondió    en 93,5% a adenocarcinoma tubular, mientras que la variante mucinosa fue la    segunda en frecuencia con 5,9% del total (Tabla 2).
+
+
+
+Tabla 2. Características    de los pacientes
+
+
+
+
+
+Fueron diagnosticados en etapa    II y en etapa III, 202 y 168 pacientes respectivamente. De los pacientes en    etapa II, 58,9% presentaba algún factor de mal pronóstico, proporción    que fue mayor en pacientes que recibieron quimioterapia en comparación    a los que no recibieron (86,6% versus 50,5%; p < 0,01). Los factores de riesgo    más prevalentes en este grupo fueron las permeaciones linfovasculares,    con 22,7%, y los tumores T4 o perforados, con 13,3% (Tabla 3).
+
+
+
+Tabla 3. Factores de riesgo    en etapa II
+
+
+
+
+
+En los pacientes en etapa III, el número promedio de ganglios con metástasis fue de 4,1. En este grupo 59% tuvieron 1 a 3 ganglios comprometidos por tumor, 27% 4 a 6 y 13% igual o más de 7.
+
+Tratamiento y sobrevida
+
+La mediana de seguimiento en    este estudio fue de 4,6 años. La edad promedio de los pacientes que recibieron    QT fue de 59 años, mientras la de los que no recibieron fue de 74 años    (p < 0,01). Se administró QT a 45 de 202 (22,2%) pacientes en etapa    II y a 117 de 168 (69,6%) en etapa III. En el primer grupo, el esquema más    usado fue 5 FU/LV, en 76,7% de los casos, y en el segundo grupo fue FOLFOX,    en 60,1% (Tabla 4).
+
+
+
+Tabla 4. Esquemas de quimioterapia    utilizados por etapa
+
+
+
+
+
+La sobrevida a 5 años fue de 79% en el grupo en etapa II y de 74% en el grupo en etapa III   (Figura 1). Los pacientes en etapa II con factores de riesgo    tuvieron una tendencia a peor sobrevida a 5 años respecto a los que no    los presentaban (73% versus 87%), si bien esto no fue estadísticamente    significativo, HR 1,29 (IC 95% 0,69-2,41) (Figura 2).    Al considerar el efecto de la quimioterapia en este estadio observamos que la    sobrevida a 5 años fue de 80% en el grupo tratado y 79% en el grupo no    tratado. La sobrevida libre de enfermedad a 5 años fue 84% en ambos grupos    HR 1,04 (IC 95% 0,44-2,52).
+
+
+
+
+
+
+
+Figura 1. Curva de sobrevida    global por etapa.
+
+
+
+
+
+Figura 2. Curvas de sobrevida    según factores de riesgo y porcentaje de ganglios positivos.     
+
+En los pacientes en estadio III se observó una relación entre el compromiso ganglionar y un peor pronóstico, con una sobrevida a 5 años en los pacientes con < 20%, 20-40% y > 40% ganglios comprometidos por tumor, de 84%, 58% y 40% respectivamente (p < 0,05).
+
+Los pacientes que recibieron    quimioterapia en este grupo tuvieron una sobrevida a 5 años de 81% comparado    con 56% en los que no la recibieron, HR 0,29 (IC 95% 0,15-0,56) (Figura    3). La sobrevida libre de enfermedad a 3 años fue mejor en el grupo    tratado respecto al no tratado, 78% versus 73%, pero a 5 años no hubo    diferencias con 67% versus 66%, HR 0,87 (IC 95% 0,47-1,64). No se encontraron    diferencias significativas entre los distintos esquemas de quimioterapia utilizados.
+
+
+
+
+
+Figura 3. Curvas de sobrevida    global según la administración de quimioterapia.
+
+
+
+Tanto en el análisis univariado    como en el multivariado se encontró una influencia significativa de la    QT en el riesgo de mortalidad para los pacientes en etapa III, HR 0,47 (IC 95%    0,23-0,94). Por el contrario, en los pacientes en etapa II la quimioterapia    no se asoció a beneficio, HR 1,21 (IC 95% 0,62-2,35) (Tabla    5).
+
+
+
+Tabla 5. Análisis multivariado    de factores relacionados a sobrevida
+
+
+
+
+
+Discusión
+
+En nuestro conocimiento, la presente cohorte de pacientes con CC tratados con QT adyuvante corresponde a la más grande publicada en Chile hasta la fecha, y es la primera que demuestra beneficio en sobrevida.
+
+En este estudio, la recomendación de QT dependió del médico tratante. El porcentaje de pacientes en etapa II y III que recibió QT en esta serie fue de 22 y 70% respectivamente. Esto es similar a la frecuencia reportada por un estudio americano utilizando la base de datos del SEER (Surveillance, Epidemiology, and End Results) que incluyó a más de 23.000 etapa II y 17.000 pacientes en etapa III22. Los datos obtenidos en nuestro estudio reproducen la sobrevida alcanzada en estudios aleatorizados internacionales en esta patología5,9,10.
+
+También cabe destacar que la presente cohorte incluye pacientes con riesgo significativo de recaída. Por ejemplo, de los pacientes en etapa II, más de 50% contaba con uno o más factores de mal pronóstico, mientras que en los etapa III, 40% tenía 4 o más ganglios comprometidos por tumor. Una limitación del presente estudio es que no se realizó análisis de inestabilidad microsatelital. Este fenómeno es un signo biológico de falla en la reparación del ADN que está presente en 15 a 20% de los pacientes con CC localizado y se asociaría a ausencia de beneficio de QT basada en 5 FU23,24 y a un menor riesgo de recidiva25.
+
+Dentro de los resultados destaca una mejor sobrevida en los pacientes etapa III tratados con quimioterapia en comparación a los no tratados. Si bien, al no haber un grupo de control de similares características existe un sesgo de selección significativo, esta diferencia se mantiene al realizar el análisis multivariado. La diferencia a favor de la QT nos parece relevante del punto de vista clínico y difícil de explicar solamente por el sesgo inherente a un estudio observacional.
+
+No se observaron diferencias en sobrevida entre pacientes tratados con QT con o sin oxaliplatino, lo que se contradice con los estudios de adyuvancia mencionados9,10. Esto se podría explicar por el relativo bajo poder del estudio para demostrar diferencias en este desenlace.
+
+Respecto a los pacientes en etapa II, se observa una sobrevida a 5 años cercana a 80%, la cual es similar a la reportada en estudios de adyuvancia como el estudio QUASAR26 o la base de registro del SEER27. Destaca que los pacientes tratados con QT tuvieron una sobrevida similar a los no tratados, pese a que los primeros tenían una mayor prevalencia de factores de mal pronóstico. Estos resultados podrían sugerir que la QT sería capaz de compensar el mal pronóstico determinado por la existencia de estos factores. Otros trabajos ya han sugerido este beneficio, como la base de estudios aleatorios ACCENT en la que se determinó un beneficio de 5% en sobrevida a 8 años28; esto contrasta con otros análisis cooperativos que sólo han mostrado beneficio en sobrevida libre de enfermedad29.
+
+Un estudio chileno de Bannura et al.30 también exploró en forma observacional el beneficio de la QT adyuvante en cáncer de colon, mostrando una tendencia al beneficio con el esquema de 5 FU/LV en bolo, pero la diferencia no fue estadísticamente significativa. Si bien ambas iniciativas realizadas en esta población aportan en el estudio de esta enfermedad, el número de pacientes que consideran es pequeño al compararlo con otras bases de registro. Por ejemplo, la base del SEER cubre los registros de 26% de la población norteamericana, lo que ha permitido el desarrollo de estudios observacionales con un poder adecuado y buena calidad metodológica31.
+
+Dentro de las fortalezas de nuestro estudio destaca que se realizó en un solo centro universitario y que cuenta con un seguimiento prolongado. Además, a partir del año 2007 un porcentaje muy relevante de los pacientes fueron tratados con la QT estándar hasta la fecha (FOLFOX).
+
+En conclusión, nuestro estudio apoya el beneficio de la QT adyuvante en pacientes con CC en etapa III, y sugiere un beneficio para pacientes en etapa II con factores de riesgo. En este último grupo es necesario desarrollar mejores marcadores predictivos para así identificar a los pacientes que realmente se benefician de este tratamiento.

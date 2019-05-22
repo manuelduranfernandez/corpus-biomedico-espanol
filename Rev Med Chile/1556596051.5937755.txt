@@ -1,0 +1,40 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872012000400021
+Distribución Normal: ¿Es tan frecuente como parece?
+
+Rev Med Chile 2012; 140: 548
+
+CARTA AL EDITOR
+
+ 
+
+Distribución Normal ¿Es tan frecuente como parece?
+
+ 
+
+Normal Distribution: Is it as frequent as it seems? 
+
+ 
+
+Jorge Osada, José Luis Rojas, Lupe Vidal
+
+Unidad de Epidemiología Clínica, Facultad de Medicina Alberto Hurtado, Universidad Peruana Cayetano Heredia. Lima, Perú.
+
+Correspondencia a:
+
+ 
+
+Sr. Editor:
+
+Un gran número de artículos científicos no indican la distribución de las variables que estudian, dejándolas sobreentendidas como normales. Al no describir la distribución de las variables y hacerlo mediante medias (promedios) y desviaciones estándar, se asume una distribución normal. Si bien muchas variables tienden a la normalidad, es improbable que todos los estudios publicados tengan esta característica, sobre todo cuando el número de observaciones descritas es pequeño.
+
+La descripción individual de cada variable es el primer paso en el análisis de datos, en cualquier estudio cuantitativo1. Ésta refleja la habilidad de los autores para caracterizar los datos recolectados, condensar la información y presentarla de manera simplificada a los lectores, de diversas formas: porcentajes, frecuencias, medias, medianas, desviaciones estándar, rangos o percentiles.
+
+Entre las mencionadas, la media (o promedio) es una medida útil, debido a su simpleza para entender la tendencia central de una distribución. Lamentablemente, es afectada de manera importante por los valores extremos de distribuciones sesgadas. Por otro lado, la desviación estándar permite entender fácilmente la dispersión de las observaciones, pero al ser un valor único no puede describir adecuadamente a las curvas asimétricas1,2. Debido a ello, en algunas ocasiones se requieren otros métodos para describir la información.
+
+Identificar el tipo de variable y su distribución permite elegir adecuadamente el camino a seguir: usar pruebas paramétricas o no paramétricas. Los métodos estadísticos paramétricos requieren de supuestos teóricos, como la normalidad y homogeneidad de varianzas, que si no se cumplen pueden invalidar los resultados.
+
+Si bien los análisis no-paramétricos y/o de libre distribución3 tienen menor poder estadístico, son los únicos disponibles para tratar variables categóricas, pues ninguna prueba paramétrica es aplicable en tal situación. Así mismo, si el tamaño de muestra es muy pequeño, puede no haber otra opción que usar estas pruebas. Las pruebas no paramétricas requieren cumplir menos suposiciones de los datos, por lo que son las indicadas para este tipo de variables4.
+
+La falta de normalidad puede afectar la homogeneidad de varianzas, sobre todo cuando hay mucha diferencia entre los grupos, recomendándose aplicar transformaciones para estabilizar la varianza y normalizar la respuesta3,5. Es importante estudiar la distribución de los residuos evaluando su simetría, aplicando la transformación de datos sólo si esta es asimétrica. Cuando la heterogeneidad de varianzas es muy irregular, es decir, cuando algunos grupos poseen mayor variabilidad que otros, sin que exista una relación entre medias y varianzas, se recomienda usar métodos no paramétricos3.
+
+Los análisis realizados con presunciones incorrectas pueden llegar a resultados e interpretaciones erróneos, que afectan la calidad de la investigación, por lo que creemos que explorar esta línea de investigación será provechoso para valorar algunas de las limitaciones de los estudios y mejorar la calidad de la publicación científica regional.

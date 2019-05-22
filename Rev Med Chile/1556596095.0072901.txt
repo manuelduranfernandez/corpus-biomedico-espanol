@@ -1,0 +1,80 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000700823
+El polimorfismo rs12979860 C&gt;T en el gen Interferón lambda 4 no está asociado a riesgo de fibrosis hepática en pacientes chilenos con hepatitis crónica por virus C
+
+La infección crónica con el virus de hepatitis C (VHC) es una importante causa de morbilidad y mortalidad1, estimándose que a nivel mundial hay 185 millones de pacientes infectados2. La infección persistente con VHC puede llevar a una hepatitis crónica, cirrosis hepática, desarrollo de hepatocarcinoma, falla hepática y fallecimiento3. La progresión de la enfermedad hepática en pacientes con infección crónica es muy variable entre los pacientes infectados. Varios factores son ampliamente conocidos como causantes de la progresión a fibrosis en la infección por VHC, incluyendo la edad, alcoholismo, obesidad, coinfección con virus hepatitis B (VHB) o el virus de la inmunodeficiencia humana (VIH) y la esteatosis hepática4–6. Debido a que la progresión de la fibrosis aún es variable entre pacientes con similares riesgos, se ha sugerido que la predisposición genética del hospedero puede ser otro factor importante de riesgo para el desarrollo de fibrosis7,8. Al respecto, existe evidencia de que particularmente variantes genéticas en los genes que controlan las vías de respuesta inmune e inflamatoria pueden influir en la aparición de fibrosis en infección crónica por VHC9,–11. En este contexto, el descubrimiento del polimorfismo de nucleótido único rs12979860 C>T cercano al gen Interferon lambda 3 (IFNL3, inicialmente llamado IL28B), representó un hallazgo importante en la investigación en hepatitis C, llegando a ser el factor del hospedero más fuerte asociado con la eliminación viral mediada por la terapia basada en interferón alfa12,13. Considerando que el polimorfismo rs12979860 está realmente localizado en el intrón 1 del recientemente descubierto gen IFN lambda 4 (IFNL4)14, éste será mencionado en este estudio como polimorfismo IFNL4 rs12979860.
+
+Hasta ahora, existen resultados controversiales respecto a la asociación entre el polimorfismo IFNL4 rs12979860 y el riesgo de fibrosis en pacientes con infección crónica por VHC15–17. Al parecer, los resultados dependen de la distribución geográfica de la población estudiada18.
+
+El objetivo de este estudio fue evaluar la asociación entre el polimorfismo IFNL4 rs12979860 y el riesgo de fibrosis hepática en pacientes chilenos con infección crónica por VHC.
+
+Material y Método
+
+Muestras de pacientes
+
+Se analizaron en forma retrospectiva muestras de sangre de 150 pacientes chilenos con infección crónica por VHC obtenidas entre marzo de 2000 y agosto de 2014 en el Hospital Clínico de la Universidad de Chile (Santiago, Chile). Este estudio fue aprobado por el Comité de Ética del Hospital Clínico Universidad de Chile con certificado de aprobación N° 394/10 y todos los pacientes firmaron el consentimiento informado en el momento de tomarles las muestras de sangre y realizarles la biopsia hepática. Los criterios de inclusión fueron: i) pacientes mayores de 18 años; ii) Diagnóstico de infección crónica por VHC basado en la detección anticuerpos anti VHC y RNA positivos por al menos 6 meses; iii) disponibilidad de biopsia hepática previa a tratamiento antiviral y iv) disponibilidad de muestra de sangre almacenada a −80°C obtenida concomitantemente con la biopsia hepática. Los criterios de exclusión fueron: i) Abuso de alcohol (> 30 g/día para hombres y > 20 g/día para mujeres por al menos 5 años); ii) diagnóstico de hepatitis autoinmune; iii) co-infección con VHB y/o VIH y iv) pacientes trasplantados de hígado.
+
+Los datos clínicos como parámetros bioquímicos, diagnóstico de diabetes mellitus e índice de masa corporal (IMC), fueron obtenidos de la ficha clínica de los pacientes.
+
+Genotipificación del VHC y determinación de carga viral
+
+Para la genotipificación del VHC se utilizaron las técnicas de transcripción reversa, seguida por reacción en cadena de la polimertasa (RCP) anidada de la región 5’ no codificante y posterior ensayo de polimorfismo del tamaño de los fragmentos de restricción. Esta técnica permite identificar los genotipos de VHC mediante el uso de enzimas de restricción específicas que cortan los productos de ADN obtenidos en la RCP, generando fragmentos de ADN característicos de cada genotipo y los cuales se visualizan en un gel de agarosa teñido con bromuro de etidio. Este método fue diseñado y validado con la técnica comercial de hibridación con sondas INNO Lipa y mediante secuenciación directa en el Instituto Pasteur de Francia19.
+
+La carga viral fue medida mediante RCP en tiempo real usando el test comercial COBAS® TaqMan® HCV (Roche Molecular Systems, Branchburg, NJ, USA).
+
+Clasificación histológica
+
+El porcentaje de esteatosis y el grado de fibrosis fue analizado por un patólogo, quien desconocía los parámetros del estudio. La presencia de esteatosis fue analizada considerando criterios previamente establecidos20: Grado 0 (ausencia) < 5%, Grado 1 = 5% – 33%, Grado 2 = 34% – 66% y Grado 3 > 66%. Debido al pequeño número de pacientes con esteatosis grado 2 y 3 (solo 2 pacientes en nuestro estudio), nosotros analizamos la esteatosis como una variable cualitativa (< 5% = ausencia, > 5% = presencia). La fibrosis fue expresada de acuerdo al sistema de clasificación METAVIR (F0 = ausencia de fibrosis, F1 = fibrosis leve, F2 = fibrosis moderada, F3=fibrosis severa y F4 = cirrosis).
+
+Genotipificación del polimorfismo IFNL4 rs12979860
+
+El DNA genómico fue preparado en duplicado a partir de linfocitos de sangre periférica usando el kit commercial High Pure System Nucleic Acid kit (Roche Molecular Systems, Branchburg, NJ, USA). El genotipo de rs12979860 fue realizado mediante PCR en tiempo real usando el kit LightMix® Kit IL28B rs12979860 de TIB MOLBIOL (GmbH, Berlin, Germany) y procesado en el instrumento LightCycler® 2.0 de Roche.
+
+Asociación entre el polimorfismo IFNL4 rs12979860 C>T y fibrosis hepática
+
+La asociación entre los genotipos CC, CT o TT de IFNL4 rs12979860 con fibrosis fue analizada comparando pacientes con clasificación METAVIR F0, F1 o F2, con pacientes con METAVIR F3 o F4.
+
+Análisis estadístico
+
+Las variables categóricas fueron registradas como frecuencia y porcentaje, mientras que las variables continuas fueron tabuladas como promedio ± desviación estándar. Se utilizó el test estadístico de Shapiro-Wilk para evaluar normalidad. Las variables categóricas fueron analizadas mediante el test de χ2 de dos colas y las variables cuantitativas mediante el test no paramétrico Kruskall-Wallis o mediante análisis de varianza cuando fuera apropiada. Se realizaron modelos de regresión logística múltiple para evaluar la asociación entre el genotipo de IFNL4 rs12979860 y fibrosis a través del odd ratio (OR) como medida del efecto de riesgo, ajustando previamente con variables clínicamente relevantes asociadas a fibrosis (edad, género, índice de masa corporal, diabetes y presencia de esteatosis). Se utilizó el programa computacional STATA version 12.0 para el análisis estadístico, considerándose un p < 0,05 como diferencia estadísticamente significativa.
+
+Resultados
+
+De los 150 pacientes con infección crónica por VHC estudiados, 61 eran hombres y 89 mujeres, con una edad promedio de 50 ± 11 años. El genotipo 1 de VHC fue encontrado en 125 pacientes (83,3%), el genotipo 3 en 16 pacientes (10,7%), el genotipo 2 en 4 pacientes (2,7%) y los genotipos 4 y 5, cada uno en 1 paciente respectivamente (0,7%). En 3 casos el genotipo no fue determinado (1,9%). El total de pacientes con presencia de esteatosis fue 79 (52,6%) y se encontró fibrosis severa o cirrosis en 54 pacientes (36%).
+
+La distribución del genotipo de IFNL4 rs12979860 fue 32 pacientes CC (21,3%), 86 CT (57,3%) y 32 TT (21,3%).
+
+Los 32 pacientes con genotipo CC de IFNL4 rs12979860 fueron similares a los 86 pacientes con genotipo CT y los 32 pacientes con genotipo TT en cuanto a las características como edad, género, IMC, presencia de diabetes, parámetros bioquímicos y clasificación de fibrosis (Tabla 1). Los pacientes con genotipo IFNL4 rs12979860 CT presentaron más altas tasa de esteatosis en la biopsia que los pacientes con genotipo CC (p = 0,048).
+
+Tabla 1 Características de los 150 pacientes chilenos con hepatitis crónica C de acuerdo al genotipo IFNL4 rs12979860 
+
+Abrevaciones: IMC, índice de masa corporal; ALT, alanina aminotransferasa; DE, desviación estándar.
+
+*p value < 0,05 es considerado estadísticamente significativo.
+
+Además, realizamos un análisis de regresión logística uni y multivariable para riesgo de fibrosis que consideró el genotipo homocigoto CC de IFNL4 rs12979860 como referencia e hicimos la corrección con los factores de riesgo conocidos (Tabla 2). En el análisis univariable, el genotipo de IFNL4 rs12979860 no se asoció a riesgo de fibrosis. La edad, el IMC, la presencia de diabetes y presencia de esteatosis fueron factores independientes asociados a fibrosis. En el análisis multivariable, la edad y presencia de esteatosis se mantuvieron como únicos factores de riesgo asociados a fibrosis (Tabla 2).
+
+Tabla 2 Análisis de regresión logística univariable y multivariable del efecto del genotipo de FNL4 rs12979860 sobre el riesgo de fibrosis en los 150 pacientes con hepatitis crónica por VHC 
+
+Abrevaciones: imc: índice de masa corporal; IC: intervalo de confianza; OR: odds ratio.
+
+*p-value < 0,05 es considerado estadísticamente significativo.
+
+Al realizar el mismo análisis para los 125 pacientes con genotipo 1 de VHC, la regresión logística univariable mostró que no existe asociación entre el genotipo de IFNL4 y riesgo de fibrosis. Los factores edad, IMC, presencia de diabetes y esteatosis también fueron factores independientes asociados a fibrosis. En el análisis multivariable, solo la edad y la esteatosis mostraron asociación con riesgo de fibrosis (Tabla 3). Este análisis no fue realizado para los demás genotipos debido al reducido número de muestras.
+
+Tabla 3 Análisis de regresión logística univariable y multivariable del efecto del genotipo de FNL4 rs12979860 sobre el riesgo de fibrosis en 125 pacientes con hepatitis crónica por VHC, genotipo 1 
+
+Abrevaciones: IMC: índice de masa corporal; IC: intervalo de confianza; OR: odds ratio.
+
+*p-value < 0,05 es considerado estadísticamente significativo.
+
+Discusión
+
+La asociación entre el polimorfismo rs12979860 en el gen IFNL4 y riesgo de fibrosis en pacientes con infección crónica por VHC es muy controversial. Existen reportes que han demostrado una asociación entre los distintos genotipos de IFNL4 e inflamación hepática, pero que han fallado en demostrar un efecto sobre el grado de fibrosis hepática relacionada a VHC16,21. Por otro lado, un estudio multicéntrico internacional con 3.129 en pacientes caucásicos provenientes de 5 países (España, Reino Unido, Australia, Alemania e Italia), concluyó que en pacientes con hepatitis crónica por VHC, el genotipo CC en IFNL4 rs12979860 se asocia a desarrollo y progresión de fibrosis, siendo mayor el impacto de este polimorfismo en pacientes jóvenes y en genotipo 3 de VHC15. Por el contrario, existen múltiples estudios que relacionan el alelo T de IFNL4 rs12979860 con fibrosis hepática en VHC. Fabris et al. describieron una mayor prevalencia del alelo T en pacientes con cirrosis por VHC que en otra etiología y que en pacientes con hepatitis crónica leve por VHC22. De igual forma, De la Fuente et al. encontraron que en comparación con pacientes cirróticos alcohólicos, el genotipo TT es más frecuente en pacientes con cirrosis por VHC23. Con respecto a este último punto, es interesante señalar que el estudio más grande que se ha realizado para evaluar la relación entre el polimorfismo IFNL4 rs12979860 y cirrosis o transición a cirrosis fue multicéntrico internacional en que se enrolaron 2.916 pacientes y que describió que el genotipo TT se asocia significativamente a fibrosis sólo en pacientes con genotipo 1 de VHC. Esta asociación fue evidente en población caucásica europea, pero no en pacientes de origen Asiático, Medio Oriente y Latinoamérica18. Al respecto, los autores mencionan que la falta de asociación en estos últimos pacientes puede deberse al bajo número de pacientes estudiados, que en el caso de Latinoamérica era de 139 pacientes, provenientes de 5 países (Argentina, Chile, México, Perú y Venezuela). Sin embargo, no descartan que pudieran existir factores étnicos que pudieran explicar sus resultados.
+
+En el presente estudio, nosotros no encontramos asociación entre el polimorfismo IFNL4 rs12979860 y riesgo de fibrosis hepática en 150 pacientes chilenos con infección crónica por VHC. De igual forma, no observamos esta asociación en los 125 pacientes con el genotipo 1 de VHC. Estos resultados son concordantes con los que se describen para población latinoamericana, pero que en este caso incluye un mayor número de pacientes de un solo país. Esto refuerza la idea de posibles factores étnicos involucrados en el desarrollo de fibrosis en nuestra población. En la literatura se describen otros polimorfismos en los genes PNPLA3 y TM6SF2 como variantes genéticas asociados esteatosis y fibrosis en pacientes con hepatitis crónica por VHC24,25. En población chilena, el polimorfismo en PNPLA3 rs738409 C<G (I148M) es muy frecuente y se asocia a riesgo de esteatosis hepática pero no a fibrosis en pacientes con VHC26. Por otro lado, el polimorfismo TM6SF2 rs58542926 C>T (E167K), es muy poco frecuente en nuestra población y no se asocia a riesgo de esteatosis o fibrosis en estos pacientes26.
+
+En nuestra cohorte, se excluyeron pacientes con consumo crónico de alcohol, factor ampliamente conocido de estar asociado a fibrosis y cirrosis hepática5. Por ello, la edad de los pacientes y presencia de esteatosis fueron los únicos factores de riesgo asociados a fibrosis.
+
+En conclusión, el presente trabajo representa el primer estudio realizado en un país latinoamericano con un alto número de pacientes con infección crónica por VHC, en donde se demuestra que no existe asociación entre el polimorfismo IFNL4 rs12979860 C>T y riesgo de fibrosis hepática. Sería interesante conocer si en otros países de la región, esta situación se replica.
+
+Financiamiento: Proyecto OAIC 394/10.

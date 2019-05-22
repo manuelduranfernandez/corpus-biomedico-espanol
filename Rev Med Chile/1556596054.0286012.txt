@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872012000800006
+Propiedades psicométricas y utilidad diagnóstica del Addenbrooke's Cognitive Examination-Revised (ACE-R) en una muestra de ancianos chilenos
+
+ 
+
+La utilidad de las pruebas de screening cognitivo con buenas propiedades psicométricas y capacidad diagnóstica para evaluar demencias es indiscutible. El test cognitivo breve más utilizado para ello es el Mini Mental State Examination (MMSE)1, ya estandarizado en Chile2. En términos de evaluaciones breves, con la intención de crear un test cognitivo simple para detectar precozmente las enfermedades demenciantes y ayudar a diferenciar entre sus distintos tipos, se desarrolló el Addenbrooke's Cognitive Examination (ACE)3, instrumento que ha mostrado en diversos estudios mayor sensibilidad y valor predictivo para detectar demencias en comparación al MMSE, así como buena utilidad para discriminar entre enfermedad de Alzheimer, demencia frontotemporal, parálisis supranuclear progresiva y otros síndromes parkinsonianos que cursan con demencia3-7. Asimismo, ha sido sugerido que los síntomas anímicos comórbidos o trastornos del ánimo no afectarían su desempeño8.
+
+Con el fin de facilitar su uso, proporcionar una herramienta que posibilite su traducción e implementación en otras culturas y mejorar su sensibilidad para detectar trastornos cognitivos, se diseñó la versión revisada del ACE: el Addenbrooke's Cognitive Examination-Revised (ACE-R)9. El ACE-R incorpora en su estructura al MMSE, por lo que administrarlo conlleva la ventaja de obtener puntajes para ambas pruebas. Ha evidenciado una precisión diagnóstica y propiedades psicométricas similares a las del ACE, exhibiendo en su publicación original excelentes validez convergente, confiabilidad, sensibilidad y especificidad9. Considerando las características favorables de esta prueba y que los rendimientos en pruebas cognitivas son sensibles a variables socioculturales10, resulta relevante obtener datos chilenos para su utilización en la clínica de las demencias. Más aún, si se advierten las diversas limitaciones del MMSE11-15, se torna importante contar con una alternativa, en conjunto con disponer de los primeros datos de referencia acerca de la validez, confiabilidad, sensibilidad y especificidad para el ACE-R en Chile. El objetivo de este estudio entonces consistió en estimar las propiedades psicométricas y la utilidad diagnóstica del ACE-R en Chile (ACE-R-Ch) en una muestra de ancianos atendidos en el Servicio de Neurología del Hospital del Salvador incluyendo casos de demencia, deterioro cognitivo leve (DCL) y controles.
+
+Material y Método
+
+Desarrollo del ACE-R-Ch
+
+El ACE-R original evalúa 5 dominios cognitivos: Orientación y Atención (18 puntos), Memoria (26 puntos), Fluencias Verbales (14 puntos), Lenguaje (26 puntos) y Habilidades Visoespaciales (16 puntos), siendo 100 puntos su puntaje máximo total. La adaptación y transculturación del ACER se inició usando como referencia su versión en español (versión argentina) recientemente validada16. Se modificó la sub-escala de Memoria en la tarea de memoria anterógrada (prueba del Nombre y la Dirección), además de las preguntas de memoria retrógrada. El ACE-R-Versión Chilena (ACE-R-Ch) (Anexo 1) alcanzó su versión definitiva después de un estudio piloto que incluyó a 30 sujetos normales. (El Anexo 1 no figura en esta publicación, pero puede solicitarse directamente al autor corresponsal).
+
+Pacientes
+
+Se realizó un muestreo por conveniencia, incluyendo a 127 adultos mayores de ambos sexos, 65 o más años de edad, habla hispana (chilenos) y con al menos 4 años de educación formal. Se consideraron 3 grupos para la configuración de la muestra: i) grupo de pacientes con demencia (n = 60); ii) grupo de pacientes con DCL (n = 22) y iii) grupo de control (n = 45). Se incorporaron en el estudio a pacientes de la Unidad de Neurología Cognitiva y Demencias del Servicio de Neurología del Hospital del Salvador. Los sujetos control correspondieron a cónyuges, familiares y personas cercanas a los consultantes de la unidad. Los diagnósticos fueron realizados por un neurólogo con la Clinical Dementia Rating Scale (CDR)17,18 y los criterios diagnósticos establecidos para los diferentes tipos de demencia. Todos los sujetos incluidos en la investigación se sometieron a evaluaciones neurológica completa, neuropsicológica y con neuroimágenes (TAC o RMN) para confirmar su diagnóstico y ser correctamente categorizados. Contaban además con una fuente de garantía confiable (un cuidador primario para los pacientes con demencia y un informante clave para los pacientes con DCL y los controles). Se excluyeron del estudio a sujetos que presentaran déficits sensoriales severos (pérdida visión o audición) que imposibilitaran una evaluación neuropsicológica, depresión representados por un puntaje total > 5 puntos en la Geriatric Depression Scale19 y cuadros ansiosos determinados por un puntaje > 51 puntos en la Zung Scale20.
+
+El grupo de pacientes con demencia incluyó a 60 sujetos de CDR > 117,18. Se incluyeron a 41 pacientes diagnosticados con enfermedad de Alzheimer según los criterios de la NINCDS-ADRDA21, 11 con demencia frontotemporal según los criterios de Neary y Snowden22, 5 con demencia vascular según los criterios de la NINDS-AIREN23 y 3 con demencia por cuerpos de Lewy según los criterios de consenso para el cuadro24.
+
+El grupo de pacientes con DCL incluyó a 22 pacientes de CDR = 0,517,18. Se entendió por DCL un deterioro de uno o más dominios cognitivos con una capacidad funcional en las actividades de la vida diaria (AVD) relativamente preservada25.
+
+El grupo control incluyó a 45 adultos mayores sanos de CDR = 017,18 sin quejas de memoria ni historiales de enfermedades neurológicas y/o psiquiátricas.
+
+Evaluación y material utilizado
+
+Para obtener indicadores de eficiencia cognitiva global se le administró a toda la muestra el ACE-R-Ch en conjunto con el MMSE chileno2. La severidad de la demencia se estimó con la CDR17,18. La funcionalidad en las AVD se evaluó con el Activities of Daily Living Questionnaire en su versión validada en Chile (ADLQ-Ch)26, el Functional Assessment Questionaire (PFAQ) en su versión chilena27 y la Instrumental Activities of Daily Living (IADL) Scale218. Para medir la presencia de cambios cognitivos se usó la versión local del Alzheimer Disease 8 (AD8-Ch)29.
+
+Procedimiento y análisis de datos
+
+La investigación fue aprobada por el Comité de Ética Científico del Servicio de Salud Metropolitano Oriente. Todos los participantes firmaron un consentimiento informado previo a su inclusión al estudio. En algunos casos de demencia, el cuidador primario firmó el documento debido a la discapacidad cognitiva del paciente.
+
+Luego del pilotaje, se realizó la recolección de datos y los análisis estadísticos respectivos con el Software Estadístico PASW Statistics 18 para Windows. Se obtuvieron los perfiles demográficos y clínicos de la muestra ordenados por división diagnóstica. Se compararon los 3 grupos estudiados (pacientes con demencia, DCL y controles) mediante pruebas ANOVA de un factor. Para estimar la validez convergente del instrumento30 se contrastaron mediante correlaciones los resultados obtenidos en el ACE-R-Ch con el MMSE (r de Pearson), la CDR (rho de Spearman), el ADLQ-Ch, el PFAQ, la IADL Scale y el AD8-Ch (r de Pearson). Para determinar la confiabilidad del ACE-R-Ch se estimó su consistencia interna utilizando el coeficiente alfa de Cronbach31. Validez y confiabilidad se calcularon con todos los sujetos del estudio para utilizar una muestra de heterogeneidad máxima. Tanto los puntajes del ACE-R-Ch como los del MMSE se sometieron a un análisis con curvas ROC (Receiver Operator Characteristic)32 para estimar los puntos de corte que permitieran entregar la sensibilidad y especificidad más altas diferenciando: i) pacientes con demencia de controles; ii) pacientes con DCL y demencia de controles, o bien iii) pacientes con DCL de controles. Para tales efectos, el diagnóstico clínico de demencia (CDR > 1), así como el de DCL (CDR = 0,5) y el de un caso sano (CDR = 0), sirvieron como gold standard contra los cuales se compararon los puntajes del ACE-R-Ch y del MMSE. El área bajo la curva (ABC) fue calculada también para cada situación de manera de precisar la utilidad diagnóstica de ambas pruebas. El nivel de significación estadística en todos los cálculos realizados fue < 0,05.
+
+Resultados
+
+Adaptación y transculturización del ACE-R-Ch
+
+Un comité de jueces expertos (5 profesionales de la salud con al menos 5 años de experiencia en evaluaciones neuropsicológicas) consideró que el ACE-R-Ch se adaptó de forma apropiada, cumpliendo los criterios de pertinencia, claridad y suficiencia. Al ser probado en el estudio piloto, su aplicación no reveló dificultades. Durante la recolección de datos se observó que su administración es fácil y toma entre 20 y 40 minutos aproximadamente.
+
+Datos demográficos y perfiles clínicos
+
+En la Tabla.1   se resumen los datos demográficos y clínicos de la muestra separados en los 3 grupos establecidos: pacientes con demencia (n = 60), pacientes con DCL (n = 22) y sujetos control (n = 45). En términos de edad, años de educación y sexo no se encontraron diferencias significativas (p > 0,05) entre los grupos estudiados, situación que sustenta su homogeneidad. En cuanto a los perfiles clínicos, se encontraron diferencias significativas (p < 0,01) y de efecto moderado (0,47 < ε2 < 0,71)33 en medidas de eficiencia cognitiva global (ACE-R-Ch y MMSE), gravedad de la demencia (CDR), evaluación funcional (ADLQ-Ch, PFAQ e IADL Scale) y cuantificaciones de cambios cognitivos (AD8-Ch). El análisis post-hoc de estas variables identificó diferencias significativas (p < 0,05) y de amplio rango para todos los puntajes obtenidos en estas valoraciones entre los grupos de pacientes con demencia, DCL y controles, exceptuando dos de las evaluaciones de funcionalidad, IADL Scale y PFAQ, escalas en las que no se hallaron diferencias significativas (p > 0,05) para los resultados entre el grupo de pacientes con DCL y los controles.
+
+  Tabla 1. Datos demográficos y perfiles clínicos de la muestra
+
+
+
+ACE-R-Ch
+
+En términos de variables demográficas, la prueba desarrollada no mostró diferencias significativas entre los resultados obtenidos según sexo (t = -1,508, p > 0,05), los que tampoco correlacionaron significativamente con la edad (r = -0,30, p > 0,05). Sí se encontró, sin embargo, una relación significativa entre los rendimientos en el ACE-R-Ch y los años de educación (r = 0,475, p < 0,01).
+
+En la Tabla.2   se sintetizan los puntajes del ACE-R-Ch para toda la muestra, detallando la división por dominio cognitivo que permite el instrumento y sus comparaciones pertinentes. Se encontraron así diferencias significativas (p < 0,01) y de efecto moderado (0,46 < ε2 < 0,65) entre los grupos diagnosticados en los puntajes totales y en los dominios Orientación y Atención, Memoria y Lenguaje, mientras que en los dominios Fluencias Verbales y Habilidades Visoespaciales, si bien se encontraron diferencias significativas (p < 0,01), estas tuvieron un efecto menor (0,33 < ε2 < 0,38)33. El análisis post-hoc mostró que los puntajes totales del ACE-R-Ch, así como los de Orientación y Atención, Memoria, Fluencias Verbales, Lenguaje y Habilidades Visoespaciales fueron significativamente más bajos (p < 0,05) en el grupo de pacientes con demencia que en el de pacientes con DCL y que en el control. Los pacientes con DCL además obtuvieron rendimientos significativamente más bajos (p < 0,05) que los controles en los puntajes totales, de Memoria, Fluencias Verbales, Lenguaje y Habilidades Visoespaciales, sin embargo, entre ambos grupos no se hallaron diferencias significativas en el dominio Orientación y Atención (p > 0,05). Es posible señalar que todas las diferencias observadas en este último análisis sugieren ser de amplio rango (ver Anexo 2).
+
+ Tabla 2. Puntajes de la versión chilena del ACE-R (ACE-R-Ch) divididos por dominio cognitivo
+
+
+
+ Anexo 2. Detalle análisis post-hoc de las valoraciones utilizadas
+
+
+
+Validez y Confiabilidad
+
+En términos de validez convergente, el ACE-R-Ch mostró correlaciones significativas con mediciones de eficiencia cognitiva global, gravedad de la demencia, capacidad funcional y cambios cognitivos (p < 0,01) (Tabla.3). En cuanto a la confiabilidad, se estimó la consistencia interna del instrumento obteniéndose un coeficiente alfa de Cronbach de 0,918, el que puede ser considerado como excelente.
+
+ Tabla 3. Validez convergente de la versión chilena del ACE-R (ACE-R-Ch)
+
+
+
+Utilidad Diagnóstica
+
+Las ABC obtenidas mediante las curvas ROC ejecutadas entregan valores más altos para el ACE-R-Ch que para el MMSE (Figura.1   y Tabla.4). Se consideró que el punto de corte que reveló el mejor ajuste entre sensibilidad y especificidad para el ACE-R-Ch fue el que contrastó el grupo de pacientes con demencia con los controles (punto de corte = 76, sensibilidad = 0,917, especificidad = 0,933; Figura 1, i., Tabla.4, i.).
+
+
+
+ Figura 1. Curvas ROC para el ACE-R-Ch y el MMSE.          ACE-R-Ch = Addenbrooke's Cognitive Examination          - Revised - Versión Chilena;          MMSE = Mini Mental State Examination.
+
+ Tabla 4. Análisis con curvas ROC para el ACE-R-Ch y el MMSE
+
+
+
+Discusión
+
+Los resultados obtenidos permiten sostener que el ACE-R - Versión Chilena (ACE-R-Ch) es un instrumento válido, confiable y de buena utilidad diagnóstica para la detección de casos de demencia en una muestra de ancianos chilenos, lo que sugiere que su uso en la evaluación de quejas cognitivas a lo largo de Chile podría ser recomendable.
+
+En la publicación original del ACE-R9, Mioshi y colaboradores recomiendan dos puntos de corte, 82 puntos: sensibilidad = 0,84, especificidad = 1,0 y 88 puntos: sensibilidad = 0,94, especificidad = 0,89. El presente estudio propone que el punto de corte óptimo es el hallado para distinguir pacientes con demencia de sujetos sanos: 76 puntos, sensibilidad = 0,917, especificidad = 0,933, indicadores prácticamente idénticos a los arrojados por el estudio preliminar de esta investigación34. El punto de corte calculado para diferenciar pacientes con demencia y DCL, como grupo combinado, de controles también podría ser usado por presentar valores respetables: punto de corte = 81, sensibilidad = 0,841, especificidad = 0,822, sin embargo, el punto de corte obtenido para diferenciar pacientes sólo con DCL de controles no se recomienda debido su baja especificidad: punto de corte = 91, sensibilidad = 0,864, especificidad = 0,622.
+
+En cuanto a validez convergente y confiabilidad, el ACE-R-Ch mostró resultados similares a los obtenidos en la publicación original9 que reportó validez convergente (correlación significativa r = -0,321, p < 0,001 con la CDR) y confiabilidad (coeficiente alpha de Cronbach de 0,8) excelentes. Además, sobre este punto mostró resultados homólogos con las dos validaciones latinoamericanas conocidas hasta el momento: la brasileña35 y la argentina16. En pacientes con demencia, la utilidad diagnóstica, sensibilidad y especificidad del ACE-R-Ch también fueron parecidas a las encontradas por dichas investigaciones, aunque los puntos de corte fueron diferentes. En concreto, el estimado en Chile para distinguir entre pacientes con demencia y sujetos sanos fue más bajo que los hallados en los estudios mencionados, lo que podría explicarse por factores socioculturales10,36-38. Por otra parte, comparado con el MMSE, el ACE-R-Ch presentó mayor ABC, lo que podría sugerir que es una prueba de mejor utilidad diagnóstica que el MMSE.
+
+Una de las debilidades de esta investigación podría encontrarse en la inclusión exclusiva de sujetos de una unidad especializada en demencias dentro de un hospital. Habría sido valioso, por ejemplo, sumar a participantes de otros lugares especializados o centros de salud de atención primaria. Otro aspecto cuestionable de nuestro estudio podría vincularse al trabajo con pacientes diagnosticados con DCL si se tienen en cuenta las controversias que ha generado la definición de este concepto aún en construcción39.
+
+En relación a la proyección de esta investigación, interesante resultaría trabajar en una normalización del ACE-R-Ch usando una muestra representativa de las personas de tercera edad en Chile.
+
+En la actualidad es ampliamente conocido que múltiples desórdenes neurológicos (ACV, Parkinson, epilepsias, TEC, etc.) y psiquiátricos (esquizofrenia, TAB, etc.) cursan con trastornos cognitivos. En la práctica general o ambulatoria, ante quejas de problemas de memoria es necesario el uso de un test de screening breve y sensible que permita definir si hay motivos de preocupación que ameriten un estudio profundo40. Además de contar con adecuadas propiedades psicométricas, el test de screening efectivo debe ser de bajo costo y breve, junto con ser aceptado por la población objetivo2,41. En este trabajo se plantea que el ACE-R es un test que cumple con las características recién descritas, lo que lo deja bien posicionado para los ámbitos clínico e investigativo y se ve reflejado además en el interés que ha despertado en más de 150 centros, clínicos y de investigación, a nivel global (Portugal, Bélgica, Rumania, Australia, Nueva Zelanda, Sudáfrica, India, Sri Lanka, Argentina, Brasil, etc.)9.
+
+Para finalizar, si bien el ACE-R-Ch podría situarse como un instrumento que entrega elementos clínicos que aportan al diagnóstico de las demencias, es de resaltar que una evaluación neuropsicológica completa debería siempre incluir el testimonio de una fuente de garantía cercana al paciente sobre el estado de salud de este, la capacidad funcional en las AVD, la sintomatología neuropsiquiátrica respectiva, si es que la presenta, e informaciones respecto de posibles cambios cognitivos, a fin de obtener una visión íntegra del caso. De este modo, la utilización conjunta de pruebas de screening cognitivo y valoraciones de informantes en las demencias permitiría realizar un proceso de evaluación de mejor calidad42.

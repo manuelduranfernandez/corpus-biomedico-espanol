@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872012000500004
+Un modelo estructural para medir la efectividad de los servicios hospitalarios: aplicación en hospitales públicos del sur de Chile
+
+El Gobierno de Chile impulsa la Reforma de la Salud aceptando una relación directa entre los esfuerzos dirigidos a garantizar la eficiencia de la gestión y la mejora en la efectividad sanitaria, consiguiendo simultáneamente una mejor atención al usuario. De hecho, la medición de las actuaciones de las organizaciones públicas y sus resultados, así como las relaciones entre ambos aspectos en distintos contextos, han sido objeto de una intensa investigación que continúa en la actualidad1'2.
+
+En los servicios de salud, el análisis se ha abordado desde la orientación al marketing3'4 y desde el valor percibido por los pacientes5-7, mientras que la medición y el análisis de los resultados obtenidos se ha venido tratando desde indicadores de productividad8,9, desde la evaluación de la calidad de los servicios públicos de salud10,11 y también, desde la evaluación del nivel de satisfacción de los usuarios con el servicio y sus componentes5,12,13.
+
+Pese a estas aportaciones, no existe aún consenso para la modelización y medición de la efectividad de los servicios públicos de salud14,15. La investigación sigue en una fase exploratoria de conceptos, de medición de variables y de confirmación de las posibles relaciones entre las mismas. Consecuentemente, es importante invertir esfuerzos dirigidos al avance hacia una fase confirmatoria de análisis que refuerce este cuerpo de conocimiento. Así, el objetivo del trabajo es proporcionar a la gestión hospitalaria un modelo válido de medición de efectividad, que permita entender el proceso de formación y apoyo entre las distintas variables implicadas para tal efecto, desde la perspectiva de usuarios.
+
+Se abre así una vía de investigación16, apenas explorada, que estudia la relación entre prácticas de calidad percibida desarrolladas en la empresa (lo que en términos concretos implica aplicar a la oferta un enfoque de orientación al usuario) (OU), con la satisfacción de éste respecto a diferentes elementos del servicio (en otros términos, un análisis desde la perspectiva de la demanda) (SU). Para dimensionar la efectividad del servicio ofrecido, desde una perspectiva subjetiva, éste se mide a través de calidad global percibida (CGP) y de la satisfacción global (SAT), siguiendo a autores como Nilsson et al17.
+
+Por tanto, el modelo teórico de efectividad del servicio es un modelo causa-efecto (Figura.1) que se somete a validación para el caso de la gestión pública de salud, utilizando información primaria de dos hospitales regionales del sur de Chile. Las hipótesis implicadas son:
+
+H1: "La satisfacción obtenida desde la experiencia con elementos del servicio será mayor cuanto mayor sea la percepción del usuario del grado en que la gestión le tiene en cuenta en su toma de decisiones".
+
+H2: "Una mayor satisfacción con los elementos componentes del servicio consigue una mayor efectividad del mismo".
+
+H2.1: "Un nivel de satisfacción más elevado con los elementos del servicio da lugar a una mayor calidad global percibida por el usuario".
+
+H2.2: "Una percepción de mayor calidad global ofrecida por el servicio al usuario dará lugar a una mayor satisfacción global del mismo".
+
+  
+
+Material y Método
+
+La información fue obtenida mediante una encuesta ad-hoc estructurada(a), dirigida a usuarios y construida a partir de la revisión de la literatura: las referencias básicas de la lista inicial de indicadores son Meterko y Rubin10, Parasuraman et al18, Alvarado y Vera19, Bruster et al20 y Bigné et al21. De forma adicional y complementaria, se realizó un análisis cualitativo que incluyó reuniones, entrevistas dirigidas a directivos y administrativos de hospitales, además de observación in situ.
+
+El cuestionario contiene varios bloques de afirmaciones: i) un bloque de 28 afirmaciones sobre la orientación de la gestión del hospital hacia el usuario (OU), además de un ítem (V29) para medir calidad global percibida (CGP), utilizando escalas tipo Likert sobre grado de acuerdo, desde "Nunca" (valor 1), hasta "Siempre" (valor 7); ii) 20 ítems que se dirigen a medir el grado de satisfacción con distintos elementos del servicio (SU), y un ítem (V50) para medir el nivel de satisfacción global (SAT), desde "Completamente Insatisfecho" (valor 1), hasta "Completamente Satisfecho" (valor 7). OU y SU son variables latentes, no observadas, mientras que CGP y SAT son variables observadas.
+
+Los hospitales públicos sobre los que se desarrolla el análisis empírico (CH1 y CH2) son dos centros de prestación de nivel secundario y terciario. Cubren más de 200.000 habitantes cada uno. Dicha amplitud justifica un muestreo de conveniencia por cuotas de sexo y edad (mayores de 15 años), considerando porcentajes de atención diaria. Los cuestionarios válidos para cada caso son 200. Los pacientes eran encuestados al finalizar su atención en sala, previa autorización médica.
+
+Los datos se someten a análisis factorial, técnica que permite la reducción de datos a un número (menor) de factores. Primero, se aplica análisis factorial exploratorio (AFE) para determinar el número de factores y sus componentes iniciales. Luego, estos factores se comprueban como dimensiones en un análisis factorial confirmatorio (AFC), que forma parte posteriormente del modelo de medida de cada variable latente. Finalmente, la posición de causa o efecto de cada una de estas variables se contrasta, respecto al resto, en el modelo de ecuaciones estructurales propuesto.
+
+Resultados
+
+Sendos AFE fueron aplicados sobre las cuestiones relativas a los conceptos que se estima de mayor contenido o dimensiones para OU y SU(b). Los resultados obtenidos constatan la adecuación de los datos y la factibilidad de agrupación en factores. El pertinente análisis de fiabilidad aconseja eliminar seis ítems del concepto OU(c) (de mayor contenido o dimensión), entre los que destaca el relativo a capacidades y habilidades médicas, y un ítem de SU(d).
+
+Los factores subyacentes resultantes en la estructura de OU (varianza total explicada 62,03%) se denominan: Orientación al usuario en gestión de información personal (OU1 4 ítems); Orientación al usuario en gestión de reclamaciones (OU2 6 ítems); Orientación al usuario en capacitación y trato de personal de enfermería y auxiliar (OU3 2 ítems); Orientación al usuario en capacitación y trato de médicos y administrativos (OU4 4 ítems) y, Orientación al usuario en compromiso de la gestión por resolver íntegramente sus necesidades de salud (OU5 6 ítems). Para SU: Satisfacción con la estancia (SU1 7 ítems); Satisfacción con la atención recibida en trámites, tiempos de espera y de atención (SU2 4 ítems); Satisfacción con infraestructura (SU3 2 ítems); Satisfacción con salas de espera y señalizaciones (SU4 3 ítems) y Satisfacción con asistencia social (SU5 3 ítems).
+
+Los resultados del AFC(e) de cada escala de medida de OU y SU comprueban dos modelos de primer orden fiables y válidos; lo que justifica el desarrollo de análisis factoriales de segundo orden para ambos (Tabla.1). Estos análisis sugieren la eliminación de siete ítems de ambas dimensiones por ofrecer fiabilidad individual (R2) inferior a 0,5. Dos variables eliminadas de OU son de nuevo relativas al personal médico: el trato prestado (V16) y la información ofrecida (V17), cuya tarea, según el usuario, parece prescindible para evaluar la calidad de la gestión. Los ítems de SU5 son también eliminados.
+
+  Tabla 1. Indicadores de bondad del ajuste
+
+
+
+La validez de contenido de los dos modelos de medida se sustenta en la revisión de la literatura, en el análisis cualitativo y en los factoriales exploratorios. Se comprueba validez convergente (todas las cargas estimadas superan el valor 0,5)22 (Tabla.2); y validez discriminante (todas las cargas factoriales son superiores a las correlaciones observadas entre las dimensiones)23. La fiabilidad conjunta es adecuada (Tabla.3)(f).
+
+  Tabla 2. Resultados análisis factorial confirmatorio  
+
+ 
+
+  Tabla 3. Fiabilidad de las escalas de medida
+
+
+
+Con todo, se confirma un modelo de medida para OU, dimensión de segundo orden formada por cinco dimensiones de primer orden y quince indicadores, y otro para SU, formada por cuatro dimensiones de primer orden y 12 indicadores.
+
+El siguiente paso es contrastar el modelo completo (Figuras.2   y 3). Todas las dimensiones de primer orden de OU y SU inciden en su formación con un elevado nivel de importancia, emergiendo alguna diferencia entre los dos hospitales. Así, para el caso de CH1, la atención del personal de enfermería y auxiliares (OU3) y la orientación al usuario del personal administrativo (OU4), así como la satisfacción con trámites y tiempos (SU2) y con la infraestructura (SU3), son las dimensiones más influyentes para determinar efectividad medida en CGP. Para el caso de CH2, las dimensiones más destacadas son la gestión de la información personal (OU1) y la orientación al usuario en el compromiso por una resolución íntegra de sus necesidades de salud (OU5); así como, de nuevo, la satisfacción en trámites y tiempos de atención (SU2) y la satisfacción con la infraestructura (SU3).
+
+  
+
+  
+
+El modelo para cada hospital presenta un buen ajuste. La significatividad de los coeficientes y los valores R2 confirman validez predictiva. Un 67% y 83% de la satisfacción del usuario con elementos del servicio (SU), en CH1 y en CH2 respectivamente, vienen explicados por el grado de orientación al usuario de la gestión del establecimiento hospitalario (OU), que le afecta en sentido positivo. Se confirma así la hipótesis H1.
+
+A su vez, la SU ejerce un efecto positivo en la CGP, lo que confirma la hipótesis H2.1. Finalmente, la relación causa-efecto significativa y positiva de CGP sobre la satisfacción con el servicio completo (SAT), permite aceptar la hipótesis H2.2.
+
+Discusión
+
+Se ha cubierto el objetivo de la investigación, habiendo validado el modelo teórico y, con él, las hipótesis de trabajo sobre efectividad del servicio. Se ha comprobado la estabilidad de la estructura planteada y los resultados obtenidos permiten ofrecer conclusiones e implicaciones, así como avances para la investigación futura.
+
+Los principales avances conseguidos son: i) en escalas de medición; estudios posteriores pueden utilizar con toda confianza las escalas validadas para analizar la oferta y la demanda desde el punto de vista del usuario y/o paciente de un centro hospitalario; ii) en la resolución del flujo de relaciones causa-efecto entre calidad y satisfacción en servicios de salud; la aceptación de las hipótesis comprueba que la calidad percibida, tanto latente (modelo de medida) como global, es causa de la satisfacción del usuario. Pero, la satisfacción latente, medida al detalle de los atributos del servicio, es causa directa de la calidad percibida global e influye sólo de manera indirecta en la satisfacción global. La calidad global percibida se retroalimenta de la satisfacción con los elementos del servicio y la satisfacción global es el último resultado o indicador de efectividad conseguida. Así pues, es necesario ser cuidadoso con las medidas utilizadas y las conclusiones que se establezcan en relación a los resultados; y iii) asimismo, se constata una especial relación de contingencia entre las variables consideradas para el ámbito hospitalario, descrita por Dabholkhar14.
+
+La gestión hospitalaria se beneficia de un instrumento de medición válido para la efectividad del servicio prestado por estos centros hospitalarios y de un conocimiento cierto sobre la importancia de una orientación al usuario en todos sus componentes principales: uso de la información personal, gestión de las reclamaciones, atención prestada por enfermeras y auxiliares, capacitación y trato de funcionarios, y compromiso integral de la gestión del hospital con el usuario. Estos aspectos determinan la satisfacción latente con la estancia en el hospital, los tiempos de atención y otros trámites, las infraestructuras, y la comodidad de salas y señalizaciones.
+
+Para CH1, cabe destacar el elevado peso de la capacitación y el trato de enfermeras y auxiliares en la formación de OU. Para CH2 la variable más formativa es la orientación al usuario en la gestión de la información personal. Para ambos centros, la satisfacción con los trámites y tiempos de atención es la más considerada, resultado que está en línea con los encontrados en otras aplicaciones a hospitales28,29. A ésta le sigue la satisfacción con las infraestructuras.
+
+En ambos casos, la percepción de capacidades y habilidades, en especial el trato ofrecido y la información prestada por el personal médico, no son elementos imprescindibles en la valoración del usuario(g). Resultados dispares se han obtenido en estudios anteriores en este sentido realizados en distintos países. Por ejemplo, Bigné et al21, encontraron que el trato de los médicos era menos importante sobre las percepciones de calidad que el servicio de habitaciones, mientras que Ortiz et al28(h), encontraron que un motivo de insatisfacción del usuario es la actitud poco amable de los médicos. Probablemente, el usuario-paciente encuentra difícil valorar las habilidades de un personal que debe presumir capacitado, sobre todo en el caso de usuarios de servicios que no tienen alternativa. En su mayoría, los usuarios de estos hospitales públicos son clientes cautivos que no tienen la opción de acudir a servicios hospitalarios privados. Este descubrimiento no implica que el centro no deba dar importancia a su personal médico. Los centros públicos pueden y deben informar del éxito conseguido con sus tratamientos. Este hecho les animará a seguir buscando la efectividad a través de sus actuaciones y a conseguir el apoyo de sus propios usuarios para lograrlo.
+
+La gerencia de los centros debe reunir esfuerzos en la prestación de un servicio más personalizado (de mayor importancia relativa en el caso del usuario de CH2) y en la selección y/o formación del personal de enfermería, del auxiliar y del administrativo (más importante para el usuario de CH1). Así pues, los recursos deben distribuirse teniendo en cuenta una mayor coordinación entre las distintas secciones y especialidades, en orden a incrementar una imagen de centro comprometido íntegramente con la satisfacción de sus pacientes. Especial atención merecen las oficinas de información y reclamaciones o departamentos de atención al paciente. Incidiendo en la mejora de estos aspectos, se asegurará la efectividad del proceso de producción del servicio, medida a través de una experiencia más satisfactoria del paciente.
+
+Las diferencias que emergen entre los dos hospitales analizados en cuanto a la formación de las variables latentes pueden reflejar diferencias, entre ellos, por el tipo de público que atienden31,32. La población ligada a CH1 es más urbana y su mayor nivel socio-educacional puede generar mayores exigencias en la atención de su salud. De manera que en CH1 tiene más incidencia el grado de orientación al usuario por parte del personal de enfermería y auxiliar, de mayor contacto y vinculación social con el paciente-usuario. El usuario de CH2 tiene un menor nivel social y educacional, y menos vínculos urbanos, lo que hace más relevante el trato del personal administrativo. La gestión de CH2 debe tener en cuenta este hecho al programar el seguimiento de la dolencia, la atención y la información personal al paciente.
+
+La principal limitación de este trabajo es centrarse en la medición de efectividad desde variables cualitativas. Pese a que no es el objetivo final de un servicio público, los gestores no deben olvidar la importancia de una correcta distribución de sus recursos económicos y sus resultados en términos de beneficios tangibles. El trabajo desarrollado puede ayudar en este cometido, pero el mismo no se aborda directamente, lo que implica la omisión de algunas variables. Además, es de interés replicar el estudio a otro tipo de servicios de salud en orden a procurar conocimiento adaptado a cada situación y una mayor ayuda a la gestión pública de la salud.
+
+ 
+
+Notas
+
+(a)Cuestionario disponible vía e-mail.
+
+(b) Método de extracción con componentes principales y rotación Varimax.
+
+(c) "Solución alternativa a problemas de atención", "Contacto permanente con usuarios" y "Contacto directo con personal", son eliminadas por presentar una alta especificidad. "Trabajo coordinado de los servicios", se elimina por presentar una comunalidad inferior a la recomendada (0,5). "Compromiso y disposición de funcionarios" y "Capacidades y Habilidades" se eliminan por cargar en más de dos factores.
+
+(d) Se elimina por baja comunalidad. El coeficiente alpha de Cronbach, que mide la relación entre indicadores de un grupo para explicar una dimensión, es superior a 0,9 en ambos casos.
+
+(e) Modelo de medida con estimación robusta ML (Máximo Verosímil).
+
+(f)Para evaluar la fiabilidad de los parámetros del modelo se utiliza el coeficiente de Fornell y Larcker24, CF1 (valor recomendado mayor de 0,5), que recoge la proporción de varianza explicada de un grupo de medidas por la variable latente; y el Coeficiente Omega de McDonald25, CF2 (valor recomendado superior a 0,7), que recoge la fiabilidad compuesta del constructo. Se calcula el coeficiente Rho para testar fiabilidad conjunta de las escalas utilizadas en el modelo. La fiabilidad de los indicadores se estima mediante el coeficiente de correlación múltiple al cuadrado de cada indicador (R2)26,27
+
+(g) Al-Doghaither et al30 obtienen en una investigación en hospitales de Riyahd (Arabia Saudí), que el trato de los empleados, su comportamiento y su forma de comunicarse son más influyentes en la satisfacción que las habilidades profesionales.
+
+(h) Estudio sobre motivos de insatisfacción, aplicado a 15 hospitales, públicos y privados, de Hidalgo (México).

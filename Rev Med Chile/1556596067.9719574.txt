@@ -1,0 +1,116 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872014000300004
+Mortalidad por suicidio en Chile: tendencias en los años 1998-2011
+
+ 
+
+El suicidio es un proceso complejo 	    que conlleva un acto de violencia intencional hacia sí mismo, que afecta tanto a individuos y familias, como a comunidades y países; acarreando graves consecuencias, tanto a corto como a largo plazo y provocando además efectos perjudiciales en los servicios de atención 	    de salud1,2. A él se encuentran ligados procesos como ideación suicida, planeación suicida e intento de suicidio; los que se concretan en el suicidio. El suicidio se evalúa en términos de mortalidad, ideación, planeación e intento y todos se vinculan a la morbilidad2.
+
+En el suicidio intervienen factores psicológicos, sociales, biológicos, genéticos, situacionales, culturales y ambientales2. Los factores de riesgo asociados al suicidio son variados, pero destacan entre otros las enfermedades mentales, el alcoholismo, el abuso de drogas, las enfermedades crónicas, desajustes emocionales y violencia3.
+
+La Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión (CIE-10), constituye uno de los estándares internacionales más usados para elaborar estadísticas de morbilidad y mortalidad en el mundo. Define "Causas externas de morbilidad y mortalidad", y específicamente lesiones auto infligidas intencionalmente, las que se denominan suicidio4.
+
+En los últimos 45 años, las tasas de suicidio han aumentado 60% a nivel mundial, convirtiendo al suicidio en una de las tres primeras causas de defunción entre las personas de 10 a 44 años, y la cuarta causa de muerte de entre los 35 y 54 años2. Cada año se suicida casi un millón de personas, dando una tasa de mortalidad "global" de 16 por 100.000 habitantes, o una muerte cada 40 segundos5,6. Esto casi duplica el número de fallecimientos por homicidio, y casi triplica las muertes provocadas por guerras y conflictos. Estas cifras no incluyen las tentativas de suicidio, que son hasta 20 veces más frecuentes que los casos de suicidio consumado, especialmente en mujeres5,7,8.
+
+Considerando todo lo anteriormente descrito, el objetivo de este estudio es describir las tendencias de mortalidad por suicidio en Chile entre los años 1998 y 2011, por año, región, sexo y edad.
+
+Material y Método
+
+Diseño
+
+Estudio poblacional.
+
+Sujetos
+
+Se utilizó la base de datos proporcionada por la Dirección Nacional del Servicio Médico Legal (SML) y Departamento de Estadísticas e Información de Salud (DEIS) (datos de mortalidad por región del 2000 hasta el 2011) y por la Organización Panamericana de la Salud (OPS), la oficina regional de la Organización Mundial de la Salud (OMS) para las Américas para el período 1998-2010 (datos de mortalidad por año, género de 1998 hasta el 2010 y grupo de edad y tipo de 1998 hasta el 2009). Se selecionaron las muertes o defunciones clasificadas con los códigos de causa básica de muerte de acuerdo a la CIE-10 en los códigos X60-X844.
+
+Variables a estudio
+
+Año, edad, sexo, distribución geográfica y causas de suicidio. La variable edad se utilizó de forma categórica, agrupando por decenio; la distribución geográfica se trabajó reagrupando las regiones en tres zonas: Norte (regiones de Tarapacá, Antofagasta; y Arica y Parinacota); Centro (regiones de Coquimbo, Valparaíso, 	    Libertador Bernardo O'Higgins, Maule y Metropolitana); y Sur (regiones del     Bío Bío, La Araucanía, Los Lagos, Los Ríos, Aisén, Magallanes y Antártica Chilena).
+
+Análisis de datos
+
+Se realizó un análisis exploratorio con los datos brutos. Se aplicó estadística descriptiva con cálculo de porcentajes, medidas de tendencia central y de variabilidad. Luego, se realizó el ajuste de tasas por edad según año, región y sexo a partir de 1998 a 2011. Estas se calcularon utilizando la población estándar, según lo establecido por la población mundial en grupos de edades estructurados por la Organización Mundial de la Salud para el período 2000-20259. Las tasas brutas de mortalidad por suicidio, se calcularon por 100.000 habitantes. Teniendo en cuenta estas tasas se crearon tablas y gráficos. Se aplicó el cálculo ponderado de tasas, para lo que se consideró el porcentaje de representación de habitantes en el total del país según la cantidad de habitantes de cada región, estos datos fueron obtenidos desde el Instituto Nacional de Estadística (INE)8.
+
+Además se realizó un 	    análisis de la variación porcentual anual (VPA) de las tasas, 	    donde se utilizó un modelo de regresión lineal, construyendo 	    intervalos de confianza de 95% (IC) y valor de p. Posteriormente, se realizó un 	    ajuste del logaritmo de las tasas estandarizadas por año y región 	    utilizando un modelo de regresión lineal. Este modelo permite estimar 	    la variación media anual de la tasa porcentual, los IC y valores 	    p.
+
+Finalmente, se determinaron los riesgos relativos (RR) por sexo, edad y zona. Todos los datos se analizaron utilizando el programa estadístico SAS®.
+
+Resultados
+
+En Chile, entre los años 1998 y 2010, las muertes por suicidio, alcanzaron los 21.874 habitantes, de estos 16.733 (76,5%) eran hombres. La tasa de mortalidad por suicidio (TMS) promedio en Chile en el período 2000-2011 fue 12,11. Los años con TMS más altas fueron 2008, 2009 y 2011 (12,9; 12,7 y 12,6 respectivamente). Los años con TMS más bajas fueron 2000 y 2002 (9,6 y 10,2 respectivamente) (Tabla 1).
+
+ 
+
+
+
+Por regiones las mayores tasas en promedio desde el año 2000 al 2011 fueron Aisén, Los Lagos y Los Ríos (15,80; 14,56 y 14,35 respectivamente). Las regiones con menor TMS fueron la Metropolitana, Antofagasta y Tarapacá (9,36; 9,61 y 9,87 respectivamente). En el año 2011 esta diferencia cambió, identificándose a las regiones de Aisén, Atacama y Arica como aquellas con TMS más altas (17,95; 16,63 y 16,38 respectivamente); así también sucede al identificar a las regiones de Tarapacá, Antofagasta y Coquimbo como aquellas con TMS más bajas durante 2011 (5,28; 9,11 y 10,15 respectivamente) (Tabla 1).
+
+Al analizar esta variable por zonas, se observó que la zona con mayor TMS promedio fue la Sur (13,35); y la de menor TMS promedio fue la norte (10,32). Esta tendencia se mantuvo a lo largo de los años a excepción de 2011, cuando fue la zona Centro la que generó la mayor TMS promedio (12,98) (Tabla 1).
+
+Al contrastar las tasas anuales de suicidio por sexo, se observa que las TMS promedio fueron siempre mayores en hombres que mujeres desde 1998 a 2010 (17,5 y 3,4 respectivamente). En 2008 los hombres presentaron la TMS más alta (21,0) y en 1999 la TMS más baja (12,0). Las mujeres presentaron las TMS más altas los años 2008 y 2009 (ambos 5,0); y las más baja en 1998 (1,7) (Tabla 2).
+
+ 
+
+
+
+En relación a la TMS en los distintos grupos de edad, al calcular un promedio desde 1998 a 2009 se constató que la tasa de mortalidad más alta fue en el grupo de 40 a 59 años (14,41); siendo la más baja, la del grupo de menores de 14 años (0,54). Estas diferencias se mantienen constantes en los años 2001, 2002, 2005 y 2006. Pero en los años 1998, 1999, 2000 y 2003, el grupo de edad con más alta TMS fue el grupo de 60 años y más. En los años 2004, 2007, 2008 y 2009, el grupo de edad con la TMS más alta fue el grupo de 25 a 39 años. El grupo de menor TMS a lo largo del período en estudio fue el de 15 años y menos (Tabla 2).
+
+En relación a los tipos de muerte por suicidio; se verificó que entre los años 1998 y 2009 se produjeron 15.598 muertes por ahorcamiento (78,4%) y 1.790 muertes por armas de fuego (9,0%). El resto de las causas se detalla en la Tabla 3. Al desagrupar por sexo, se constató que en hombres las causas más frecuentes fueron ahorcamiento (80,3%); uso de armas de fuego (9,7%); y envenenamiento (5,3%); y en mujeres fueron ahorcamiento (68,9%); envenenamiento (15,9%) y uso de armas de fuego (5,5%) (Tabla 3).
+
+ 
+
+
+
+En relación al análisis por grupos de edad, el panorama es similar, considerando que las causas de muerte más frecuentes en los menores de 15 años, fueron el ahorcamiento (89,4%), uso de armas de fuego (4,9%), y envenenamiento (4,9%). Al desagrupar por sexo, los hombres menores de 15 años siguen el orden anterior; pero en las mujeres, las últimas dos preferencias se entrecruzan siendo la segunda preferencia el envenenamiento. Esta tendencia se repite en los grupo de 25 a 39 años y de mayores de 60 años (Tabla 4).
+
+ 
+
+ 
+
+Al realizar un análisis año a año de las distintas causas de muerte, estas tres preferencias siguen estando marcadas en los años, a excepción de los años 2006 y 2007 donde el envenenamiento queda en segundo lugar con 9,1% y 6,1% de muertes y traslada al uso de armas de fuego a tercer lugar con 7,7% y 6,0% muertes (Tabla 5).
+
+ 
+
+ 
+
+En relación a la tendencia del ahorcamiento año a año, esta tuvo un aumento promedio de 15,53% anual, siendo el tipo de muerte que se mantuvo más estable en el tiempo. El saltar de un lugar elevado es el tipo de muerte que mayor variación presentó desde 1998 a 2009, siendo ésta de 195% respecto de otros tipos de muertes (Tabla 5).
+
+La tendencia de mortalidad por suicidio desde 1998 a 2010 tuvo una VPA de 1,92% (IC = 1,32-2,52, p < 0,01); lo que implica que las TMS aumentaron significativamente 1,92% cada año (Tabla 6).
+
+ 
+
+ 
+
+Al realizar un análisis de tendencia entre regiones, Atacama y Coquimbo fueron las que presentaron mayor VPA de 2,21% (IC = 1,14-3,30, p < 0,01) y 2,02% (IC = 0,59-3,47, p < 0,03), lo que indica que la VPA aumentó significativamente cada año. Tarapacá fue la única región con una VPA negativa, de -1,24% (IC = -2,80-0,34, p > 0,05), señalando que las TMS tienden a ir disminuyendo anualmente, pero esta disminución no fue significativa (Tabla 6).
+
+La VPA fue más elevada en la zona sur, lo que quiere decir que a medida que pasan los años las diferencias en las TMS se han ido acrecentando con una VPA de 0,98% (IC = 0,47-1,50, p < 0,01). La zona con menor VPA es la norte con una variación de 0,76% (IC = 0,02-1,52, p = 0,08) (Tabla 6).
+
+Las mujeres presentan una mayor VPA 3,56% (IC = 2,79-4,34, p < 0,01), señalando que cada año aumentan las TMS. En los hombres la VPA es menor 1,59% (IC = 0,96-2,27, p < 0,01), constatándose un incremento progresivo (Tabla 6).
+
+Al analizar por grupos de edad, observamos que el grupo con mayor VPA es el de 0 a 14 años 6,56% (IC = 3,33-9,89, p < 0,01); hecho que implica un incremento anual considerable en las TMS. Por otra parte, el grupo que de menor VPA es el de 60 a más años, con 0,97% (IC = 0,28-1,67, p < 0,03), a pesar de lo cual igual se verificó un aumento (Tabla 6).
+
+El RR de 5,14 (IC = 4,82-5,97); implica mayor riesgo de mortalidad por suicidio en hombres que mujeres. Esta diferencia ha ido decreciendo a través de los años, constatándose una VPA del RR de -1,93% (IC = -2,24--1,62, p < 0,01), lo que denota que la diferencia entre hombres y mujeres ha disminuido en el tiempo, llegando a valores más homogéneos (Tabla 2 y 6).
+
+Además se calcularon los RR de mortalidad por suicidio entre zonas, entre la zona norte y centro un RR de 0,9 (IC = 0,83-0,98), entre la zona centro y sur un RR de 0,82 (IC = 0,78-0,87), y entre la zona norte y sur un RR de 0,74 (IC = 0,68-0,81).
+
+También se estimaron los RR por grupo de edad contrastando el riesgo de mortalidad por suicidio entre todos los grupos de edad (de 15 a 24 años, de 25 a 39 años, de 40 a 59 años y de 60 o más años) con el grupo de edad de 0 a 14 años, obteniendo los siguientes resultados de 15 a 24 años un RR de 27,45 (IC = 16,8-38,11), de 25 a 39 años un RR de 34,25 (IC = 19,0-49,5), de 40 a 59 años un RR de 35,88 (IC = 19,1-52,6), de 60 o más años un RR de 35,98 (IC = 17,4-54,6).
+
+Discusión
+
+El impacto psicológico y social del suicidio sobre la familia y la sociedad no es mensurable. En promedio, un suicidio individual afecta íntimamente al menos a otras seis personas y si ocurre en una institución educativa o en el sitio de trabajo, tiene impacto sobre cientos1.
+
+Chile, presenta menores tasas de mortalidad general 5,79 por 1.000 habitantes, en relación a los países de Sudamérica10; específicamente la TMS en Chile sigue siendo más baja que las tasas de otros países11; esto no se consideraría una buena señal ya que la VPA indica un aumento significativo de la TMS año tras año.
+
+Alrededor del mundo la mortalidad por suicidio presenta ciertas tendencias y características según sexo y grupo de edad12. En el caso de Chile las diferencias por sexo repiten los patrones mundiales. En síntesis, las TMS son más altas en hombre que en mujeres, llegando a ser en promedio cinco veces más altas, a pesar de que estas diferencias disminuyen año a año; situación que podría cambiar, pues el VPA en mujeres es mayor que en hombres; situación preocupante que debiera ser considerada estimulando políticas públicas que pudiesen frenar esta tendencia. Por otro lado, merece considerarse el hecho que, si bien es cierto que las TMS han sido constantemente más altas en la zona sur; se verificó que durante los últimos años se registró un incremento considerable en Arica y Atacama, presentando esta última, la mayor VPA de las TMS.
+
+Hay evidencia que sugiere que en Chile se repetirán pronto las tendencias mundiales en lo que a distribución del fenómeno por grupos de edad13; puesto que a pesar de tener TMS más altas en el grupo de 40 a 59 años, esto ha cambiado en los últimos años hacia el grupo de 25 a 39 años; hecho que podría empeorar si consideramos que la población de 0 a 14 años presenta la mayor VPA de las TMS, pudiendo por consiguiente transformarse en el grupo con mayores TMS.
+
+Por cada persona que se suicida, 	    hay millones de personas a diario intentando suicidarse, y son muy diversos 	    los motivos por los cuales deciden atentar en contra de su propia vida14. 	    Sabemos que históricamente las factores asociados a suicidio son 	    diversos destacando entre otros las enfermedades mentales, el alcoholismo, 	    el abuso de drogas, las enfermedades crónicas, desajustes emocionales 	    y violencia15. Una revision sistemática publicada en 2012, 	    señala que el ser de raza blanca, presentar trastorno bipolar y abusar 	    de sustancias son factores de riesgo de suicidio16. Existe evidencia 	    adicional en términos de que más de 90% de los casos de suicidio 	    se asocian con trastornos psiquiátricos, aunque también existen 	    otros factores sociales, económicos y culturales, que influyen en 	    este comportamiento17. Entre los trastornos mentales predominantes 	    en las personas que se suicidan destacan los trastornos afectivos y la esquizofrenia16,17-19. 	    Así también otras investigaciones dan cuenta de que problemas 	    financieros, dificultades en las relaciones sociales, conflictos familiares, 	    aislamiento social y soledad; son la razones más frecuentes de suicidio20,21.
+
+De aquí surge la primera 	    limitación de esta investigación ya que esta no pretende identificar 	    las causas asociadas al suicidio, ni menos proporciona información 	    sobre los factores de riesgo asociados al suicidio, lo cual surge como lógica 	    pregunta luego de conocer las elevadas TMS, además pudiera esto incentivar 	    el desarrollo de intervenciones que reduzcan el riesgo suicida utilizando 	    datos nacionales. Ya que tal cual como se refleja anteriormente existe evidencia 	    respecto de potenciales factores de riesgo asociados a la mortalidad por 	    suicidio, los que en su gran mayoría están relacionados a 	    población europea y norteamericana16-21; sin embargo, 	    existe poca información disponible a nivel latinoamericano.
+
+Por consiguiente se considera fundamental para líneas futuras de investigación indagar sobre los factores asociados al suicidio. Así también sería beneficioso contar con los registros de los métodos de suicidio por región, en especial considerando las características demográficas de Chile, las que crean marcadas diferencias sociales y ambientales por región y se ha comprobado que ambos puede ser un factor de riesgo sobre las TMS, y posiblemente también en los métodos de suicidio utilizados13. También es fundamental contrastar los datos de mortalidad por suicidio con los datos epidemiológicos sobre los trastornos mentales para poder realizar contrastes, como por ejemplo entre regiones.
+
+La OPS/OMS recopila los datos de mortalidad y morbilidad de sus países miembros anualmente. La cobertura de los datos sobre las causas de mortalidad en todo el mundo es bastante heterogéneas22. En Chile la cobertura del registro de las causas de mortalidad se considera de alta calidad, registrando más de 98% de estas11. Esto podría explicar las pequeñas diferencias entre los registros de mortalidad por suicidio entre OMS/OPS, SML y DEIS, quienes posiblemente redistribuyen o no el porcentaje no especificado dentro de las otras causas de mortalidad. De aquí surge la segunda limitación del estudio ya que sigue existiendo un porcentaje no menor de causas externas de muerte que están siendo clasificadas como causas con intensión no determinada4, que pudieran tener cabida dentro las causas básicas: accidentes de trasporte, homicidios o suicidios. Es por esto fundamental que futuras investigaciones consideren las causas externas de mortalidad e incluyan cálculos de tasas en donde se puedan redistribuir las muertes por causas con intensión no determinada de forma ponderada en cada sub grupo.
+
+Según la OMS, la mayoría de los suicidios pueden prevenirse y aconseja reducir el acceso a los medios para suicidarse (pesticidas, medicamentos, armas de fuego, etc.); tratar a las personas con trastornos mentales, y en particular a quienes padecen depresión, alcoholismo o esquizofrenia; realizar un seguimiento de los pacientes que intentaron quitarse la vida; fomentar un tratamiento responsable del tema en los medios de comunicación; y formar a los profesionales de la atención primaria de salud23,24. Es por esto que consideramos esta investigación como un primer acercamiento a la realidad nacional sobre la mortalidad por suicidio, dando el puntapié en el tema y entregando valiosa información para incentivar futuras investigaciones, así también considerar esta en las políticas públicas, donde se podrá en instancia futuras prestar especial atención a la población en riesgo, en especial aquellos que aumentan año a año sus tasas de suicidio sin que haya ni respuesta ni intervenciones al respecto.

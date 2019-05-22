@@ -1,0 +1,76 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872010000900004
+Implicancias de la glicemia de ingreso en la mortalidad intrahospitalaria y alejada según el método de reperfusión en pacientes con infarto agudo del miocardio y supradesnivel del segmento ST
+
+Durante    las últimas décadas, la introducción de terapias de reperfusión efectivas para    el manejo del infarto con supradesnivel del segmento ST (IAM-SDST) como la trombolisis    (TR) y la angioplastia primaria (APP), junto a terapias coadyuvantes, han modificado    significativamente    la expectativa de vida asociada a esta patología1. La presencia de    hiperglicemia al ingreso, independiente del antecedente de diabetes mellitus    (DM), ha sido identificada como un factor pronóstico adverso en IAM-SDST en    múltiples estudios observacionales2-4. La información referente a    los resultados de terapias de reperfusión en este subgrupo de pacientes es limitada,    pero sugieren una mayor tasa de fracaso de la TR5,6. La APP en este    grupo de pacientes ofrece ventajas teóricas, ya que se asocia a tasas mayores    de reperfusión coronaria exitosa, mayor reducción de mortalidad y menor incidencia    de complicaciones hemorrágicas1,7-9.
+
+El objetivo de este estudio es investigar el impacto de la hiperglicemia al ingreso en la mortalidad intrahospitalaria y a largo plazo del IAM-SDST según el método de reperfusión empleado.
+
+Método
+
+Diseño y selección de los pacientes
+
+Estudio observacional. Se incluyeron 2.296 pacientes consecutivos desde enero de 2001 hasta marzo de 2006, ingresadoscon diagnóstico de IAM y SDST en 3 centros hospitalarios terciarios de la región metropolitana de Santiago de Chile participantes en el Registro Chileno del Infarto (GEMI) y que tratan más de 300 pacientes por año, 2 de ellos utilizan preferentemente TR y el otro APP. Los pacientes fueron incluidos si cumplían con los siguientes requisitos: 1) síntomas compatibles con IAM por al menos 30 minutos; 2) elevación persistente del segmento ST de al menos 0,1 mV en dos derivadas contiguas en el ECG y 3) elevación de marcadores séricos de necrosis miocárdica mayor a 2 veces el rango normal (troponina T o I, CK total, CK-MB); 4) tratamiento con TR o APP dentro de las primeras 6 horas de evolución.
+
+Registro de los datos
+
+Los    datos fueron ingresados en una ficha especialmente diseñada por una enfermera    y/o médico responsable en cada institución. Se registraron datos demográficos,    características clínicas del IAM (duración del dolor previo a la consulta, localización    del IAM, KILLIP de ingreso, antecedentes coronarios y factores de riesgo entre    otros), terapia de reperfusión utilizada y tiempo de inicio desde el momento    de ingreso del paciente, necesidad de nueva coronariografía y/o cirugía de revascularización.    Se consideró hiperglicemia de ingreso a la glicemia plasmática ≥ 140 mg/dl,    independiente del antecedente de diabetes mellitus. Este punto de corte se determinó    mediante un modelo múltiple de riesgo proporcional de Cox y fue el mejor predictor    de mortalidad alejada, según una comunicación anterior de nuestro grupo (Greig    D. et al. "Valor adicional de la glicemia de ingreso en la estratificación    de riesgo en el infarto agudo al miocardio. Análisis en tres hospitales terciarios".    XLIII Congreso Chileno de Cardiología y Cirugía Cardiovascular). Para la estratificación    de riesgo del infarto se utilizó el puntaje de riesgo TIMI10. Todos    los análisis fueron realizados en forma centralizada por un observador externo    a los centros hospitalarios involucrados. Se garantizó la privacidad de la información    durante la ejecución del estudio.
+
+Seguimiento
+
+La mortalidad alejada y la causa de muerte se evaluaron mediante consulta a la base de datos de la Oficina de Registro Civil e Identificación al término del período de seguimiento. La mortalidad intrahospitalaria se evaluó en relación a los registros clínicos de los centros participantes. Para efectos del análisis se consideraron las muertes de origen cardiovascular.
+
+Análisis estadístico
+
+Los    datos son presentados como promedio ± desviación estándar. Los grupos    fueron comparados mediante test t de Student o test de chi cuadrado para variables    continuas o categóricas según correspondía. La sobrevida se analizó mediante    método de Kaplan-Meier; las curvas de sobrevida se compararon mediante el test    de Log Rank (Figura 1). Para determinar el riesgo incremental    de la glicemia en la mortalidad intrahospitalaria y alejada, la glicemia se    categorizó en cuartiles en forma diferenciada para pacientes con y sin antecedentes    de DM al ingreso, posteriormente, los modelos se ajustaron según las variables    que fueron significativas en los modelos univariados, edad, sexo, infarto de    pared anterior, KILLIP >1 y presión arterial sistólica (Figuras    2a y 2b). El rol pronóstico de la hiperglicemia al ingreso y el método de    reperfusión, fue evaluado mediante un modelo de regresión logística múltiple,    señalando los Odds ratio (OR) respectivos para mortalidad intrahospitalaria,    mientras que para la evaluación del impacto en mortalidad alejada se empleó    el modelo de riesgos proporcionales de Cox, señalando los Hazard ratio (HR)    respectivos (Figuras 3a y 3b). Ambos modelos fueron ajustados por puntaje de    riesgo de TIMI. Un valor de p ≤ 0,05 de dos colas fue considerado significativo.    Todos los análisis fueron realizados con SPSS 15.0.
+
+  
+
+Resultados
+
+Características basales de los pacientes
+
+De los 2.296 pacientes incluidos en el registro, 1.634 (71%) correspondieron a IAM con SDST. De éstos, 967 (59,2%) fueron tratados con terapias de reperfusión, 72% con TR (90% con estreptoquinasa y 10% con trombolíticos específicos) y 28% con APP, lo que constituye la muestra de nuestro estudio. Las principales causas para no utilizar terapias de reperfusión fueron: ingreso tardío (46%), ausencia de angina al ingreso (16%) y contraindicaciones formales al uso de trombolíticos (10%).
+
+El promedio de edad fue de 60 ± 12 años, 77% fueron de sexo masculino, 24% diabéticos y 55% hipertensos. El promedio de la glicemia de ingreso fue de 264 ± 114 mg/dL en pacientes con DM y 144 ± 50 mg/dl en pacientes sin historia de DM. Las características basales de los 967 pacientes según la presencia o ausencia de hiperglicemia de ingreso, se muestran en la Tabla 1.
+
+
+
+
+
+Se observa que los pacientes con hiperglicemia de ingreso fueron en mayor proporción de sexo femenino, tenían mayor edad y mayor prevalencia de HTA. Además, tenían infartos clínicamente más graves, caracterizados por un mayor puntaje de riesgo TIMI e insuficiencia cardíaca (KILLIP ≥ 1) al ingreso.
+
+El seguimiento se obtuvo en el 100%. La causa de muerte fue identificable en 98% de los casos. El promedio de seguimiento fue de 859 días (rango 30-1944). En el grupo total, la mortalidad intrahospitalaria en pacientes tratados con TR y APP fue de 10,9 vs 5,6% (p < 0,01) y la mortalidad alejada fue de 20,4 vs 9,7% (p < 0,01), respectivamente.
+
+Efectos de la glicemia de ingreso y método de reperfusión en la mortalidad
+
+La presencia de hiperglicemia al ingreso se asoció a una mayor mortalidad intrahospitalaria y alejada. La Figura 1 muestra las curvas de sobrevida según cuartil de glicemia de ingreso para el grupo total (log Rank test, p <0,01). Se observa en esta fi gura que los cuartiles 3º y 4º (140-199 y sobre 200 mg/dl, respectivamente) se asociaron a una menor sobrevida en el seguimiento alejado.
+
+Del mismo modo, la presencia de hiperglicemia de ingreso se tradujo en una mayor mortalidad intrahospitalaria y al año ( Tabla 2).
+
+
+
+
+
+La Figura 2 muestra la relación de la glicemia de ingreso según cuartiles y mortalidad intrahospitalaria (Figura 2a) y alejada (Figura 2b), para pacientes diabéticos y no diabéticos. Según se observa en estos modelos ajustados por características del infarto, edad y sexo, la glicemia de ingreso constituye un factor de riesgo adverso e incremental, principalmente en los pacientes no diabéticos y particularmente, al considerar la mortalidad alejada. En ambos modelos los valores de glicemia que confi eren un mayor riesgo son más elevados en los pacientes diabéticos comparados a los no diabéticos.
+
+  
+
+La    Figura 3 muestra la mortalidad, intrahospitalaria (Figura    3a) y alejada (Figura 3b) para pacientes con y sin hiperglicemia    de ingreso y método de reperfusión empleado, en pacientes con y sin antecedentes    de diabetes mellitus. Al igual que lo señalado en la tabla 2,    la mortalidad alejada e intrahospitalaria es mayor en pacientes con hiperglicemia    al ingreso. Más aún, la APP ofreció un mayor beneficio en relación a TR en ambos    grupos, sin embargo, este efecto es significativamente superior en pacientes    hiperglicémicos, independiente de la presencia de diabetes mellitus.
+
+  
+
+Discusión
+
+El presente estudio confirma que en pacientes con IAM-SDST la hiperglicemia al ingreso es un factor de riesgo para mortalidad intrahospitalaria y alejada. El beneficio proporcional de APP sobre TR, observado en el grupo general, es mayor en pacientes con hiperglicemia al ingreso, independiente de la gravedad del cuadro clínico estimado por puntaje de riesgo de TIMI.
+
+La elevación transitoria de los niveles de glicemia es común en las primeras horas del IAM6. Numerosos estudios observacionales han asociado la presencia de hiperglicemia al ingreso con un peor pronóstico del IAM, relacionándola con un mayor tamaño del IAM y compromiso de la función ventricular4,11,12. El mecanismo fisiopatológico del daño provocado por hiperglicemia en el IAM no está claro, postulándose como responsables al aumento de marcadores inflamatorios y activación inmune13,14, inhibición de la expresión de iNOS mediada por isquemia15 y disminución del preacondicionamiento isquémico mediada por cierre de canales KAT P 16. Otro mecanismo potencial de daño por hiperglicemia se asocia al desarrollo de disfunción endotelial e inhibición de la angio-génesis17,18. Estudios experimentales sugieren que la hiperglicemia potencia la adhesión plaquetaria, aumenta las moléculas de adhesión solubles y disminuye la biodisponibilidad de óxido nítrico, lo que puede llevar a alteraciones del flujo coronario7,19. Del mismo modo, el estudio CLARITY TIMI 28, mostró que en pacientes con infarto tratados con trombolisis, la presencia de hiperglicemia al ingreso se asoció a mayor fracaso de arteria abierta (Flujo TIMI 2/3), independiente del uso de clopidogrel20. Estos mecanismos podrían contribuir a explicar la mayor tasa de fracaso de reperfusión observada en diabéticos sometidos a trombolisis6.
+
+Observaciones recientes muestran que la APP tiene un mayor impacto en reducir la mortalidad en comparación a la TR en pacientes diabéticos21. Sin embargo, en el grupo de pacientes con hiperglicemia al ingreso el impacto potencial a largo plazo de terapias como la APP aun no está del todo aclarado22-24. Nuestros resultados son diferentes a los reportados por Ishihara et al8, quien encontró que el mayor beneficio de la APP en pacientes con hiperglicemia se limitaba a la mortalidad a 30 días, a diferencia de los pacientes con antecedente de DM, en los cuales el beneficio de la APP se mantiene en el tiempo. En nuestro estudio, los beneficios de la APP sobre la TR en pacientes con hiperglicemia de ingreso se mantienen en el seguimiento alejado. Este efecto se mantuvo luego del ajuste por puntaje TIMI, lo que parece contradecir la hipótesis de que la hiperglicemia de ingreso constituye solamente un marcador de la severidad del infarto y no un factor pronóstico independiente en el IAM-SDST5,25.
+
+Es interesante resaltar que los niveles de glicemia de ingreso que confieren un riesgo incremental de mortalidad son diferentes en pacientes diabéticos y no diabéticos. Al igual que en otros reportes3,7,12,26,27 los niveles de glicemia asociados a mortalidad en pacientes diabéticos son proporcionalmente superiores, y el impacto de la hiper-glicemia como factor de riesgo independiente, es menor en este subgrupo. Esto puede obedecer, al menos en parte, a las características clínicas y demográficas de los pacientes diabéticos. En efecto, en nuestro grupo, los pacientes diabéticos tuvieron infartos clínicamente más graves, menor tasa de reperfusión exitosa y eran de edad más avanzada que en el grupo no diabético (datos no mostrados). Estos factores podrían contribuir al pronóstico adverso asociado a diabetes mellitus independientemente del valor de glicemia de ingreso. Por otro lado, nuestros datos son concordantes con los publicados con los de Petursson et al, quienes describieron que en pacientes con hiperglicemia de ingreso sin el antecedente de diabetes mellitus tenían una mortalidad mayor comparada a los pacientes con hiperglicemia y el antecedente de diabetes28. En nuestro trabajo, esta observación se mantiene, además, en el seguimiento a largo plazo.
+
+La ausencia de determinaciones seriadas de glicemia constituye una de las limitaciones de nuestro estudio ya que impide evaluar qué porcentaje de los pacientes con hiperglicemia de ingreso correspondían a diabetes mellitus no diagnosticada29. Además, el momento en que se determina la glicemia parece ser determinante en el establecer el pronóstico de sobrevida. De este modo, Nicolau et al, ha mostrado que la persistencia de hiperglicemia a las 24 horas de evolución se asocia a un peor pronóstico alejado30, mientras que Vivas et al, reportó que la primera glicemia en ayuna parece ser un mejor predictor de mortalidad, comparado a la glicemia de ingreso31.
+
+En conclusión, en pacientes con IAM-SDST, la presencia de hiperglicemia se asocia a una mayor mortalidad intrahospitalaria y alejada. El beneficio proporcional de AP vs. TR se incrementa en relación a hiperglicemia al ingreso en ambos grupos, independiente del antecedente de DM. Estos hallazgos confirman que el beneficio de la APP con respecto de la TR es más significativo en la medida que aumenta el perfil de riesgo de los pacientes. Los posibles alcances terapéuticos de estas observaciones deben ser evaluados en futuros estudios prospectivos.
+
+Nota del Editor: los autores indican que "este    trabajo se escribió en el contexto del registro GEMI, el cual se encuentra avalado    por el Comité de Ética de la Sociedad Chilena de Cardiología".

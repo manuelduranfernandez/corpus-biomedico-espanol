@@ -1,0 +1,74 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872012000500001
+Frecuencia génica de antígenos menores de histocompatibilidad en la población chilena y estimación de sus efectos inmunológicos en el trasplante alogénico de progenitores hematopoyéticos
+
+Los antígenos menores de histocompatibilidad (mHAgs), son péptidos inmunogénicos producto de polimorfismo entre individuos, que se encuentran fuera del sistema HLA. Estos antígenos tienen un rol en el prendimiento del injerto, la inducción de enfermedad injerto contra huésped (EICH) y el desarrollo de actividad de injerto contra tumor (ICT) luego del trasplante alogénico de progenitores hematopoyéticos (TAPH) entre dos individuos HLA compatibles1,2.
+
+La distribución génica de los mHAgs en la población chilena es desconocida. Conocer las frecuencias génicas relativas de mHAgs relevantes permite estimar los eventos inmunológicos relacionados al TAPH3, con una clara repercusión en la implementación de terapias celulares.
+
+Actualmente, se han descrito alrededor de 30 mHAgs, estableciéndose la frecuencia alélica, genotípica e inmunofenotípica en diversas etnias5,6. Específicamente, las variantes alélicas HA-1H, HA-2V y HA-8R de mHAgs son considerados in-munodominantes, expresándose en precursores hematopoyéticos y sus células diferenciadas, por lo que son blancos inmunológicos relevantes en la actividad ICT. Estos mHAgs son presentados a linfocitos T mediante la molécula de restricción HLA-A027-9. Estas características de mHAgs los hace candidatos ideales para inducir una respuesta inmune específica, independizando el efecto ICT de la EICH en el paciente alotrasplantado.
+
+En este trabajo, establecimos las frecuencias alélicas y genotípicas relativas de los antígenos menores de histocompatibilidad HA-1, HA-2 y HA-8 en individuos sanos no emparentados donantes de banco de sangre y estimamos su impacto inmunogénico teórico en pacientes trasplantados.
+
+Individuos y Métodos
+
+Selección de individuos
+
+Se enrolaron 192 individuos, donantes sanos de sangre del Banco de Sangre del Hospital Clínico de la Universidad de Chile. Previo a la extracción de sangre, los individuos firmaron un consentimiento informado. El trabajo fue aprobado por el Comité de Ética del Hospital Clínico de la Universidad de Chile.
+
+Determinación del haplotipo HLA-A2 mediante citometría de flujo
+
+Se procesó 1 ml de sangre periférica para determinar la presencia del alelo HLA-A2. En breve, se agregó 5 ml de Tampón ACK para lisar los glóbulos rojos de la muestra, se incubó 10 minutos a T° ambiente y luego se centrifugó a 300 x g durante 5 minutos a 4° C. Se repitió el procedimiento hasta obtener un pellet blanco. Se lavó con 5 ml de Tampón PBS y luego las células se incubaron con 30 ml de anticuerpo monoclonal anti-HLA A2 durante 15 minutos a 4° C. Luego, las células fueron lavadas dos veces con 5 ml de PBS e incubadas con 50 ml de anticuerpo anti ratón FITC-conjugado durante 15 minutos a 4° C. Nuevamente se lavaron las células con PBS y, por último, fueron fijadas con PBS/1 % PFA. Las muestras fueron leídas en un citómetro de flujo FACSort (Beckton-Dickinson, USA), siendo analizados los datos mediante el programa WinMDI 2.8 (http://facs.scripps.edu/software.html)
+
+Extracción de ADN
+
+El ADN genómico de sangre periférica fue extraído mediante el kit comercial "JETQUICK" (GENOMED, Alemania). En breve, 200 μL de sangre periférica fueron mezcladas con 200 μL de buffer de lisis, conteniendo 2 mg / ml de proteinasa K. Se incubó a 70°C durante diez minutos y luego se adicionó 200 μL de etanol absoluto. Se agregó a una columna de sílica y se centrifugó a 10.600 g x 2 minutos. La columna se lavó dos veces con soluciones de etanol, y posteriormente se eluyó el ADN de la columna adicionando 100 μL de agua precalentada a 70°C. El ADN se cuantificó mediante espectrofotometría.
+
+PCR Alelo específico
+
+Para llevar a cabo el procedimiento, se utilizó la técnica de PCR-SSP, descrita previamente para la tipificación de los mHAgs HA-1, HA-2 y HA-810. Para tal efecto, en un tubo de PCR, se mezcló: 100 ng de ADN genómico, 1,5 mM de MgCl2, 0,8 mM de dNTPs, 0,5 mM de partidores, 50 mM KCl, 10 mM, Tris HCl (pH 8,3) y 2,0 U Taq DNA Polimerasa (Invitrogen). Para incrementar el producto de PCR del gen HA-1, se duplicó la concentración de partidores. El programa de termociclado consistió en 1 ciclo a 94° C por 2 m, 10 ciclos de 94° C por 30 s y 65° C por 60 s; y finalmente 20 ciclos a 94° C por 30 s, 65° C por 50 s y 72° C por 30 s. Los productos de PCR fueron corridos en un gel de agarosa al 2% a 100 V durante 30 minutos y luego teñidos con 50 mg/ mL de bromuro de etidio.
+
+Cálculo de la aplicación clínica de mHAgs
+
+Para calcular la probabilidad de encontrar un efecto de ICT (pICT) en individuos HLA-A*02 se utilizó la fórmula pICT = [(pNI + pII) x pNN] x 100, donde pNI es la frecuencia del genotipo heterocigoto, pII es la frecuencia del genotipo inmunogénico y pNN es la frecuencia del genotipo no inmunogénico. La probabilidad del uso combinado de los tres mHAgs, para pICT se calcula con la siguiente fórmula:
+
+P(fHA-1 U fHA-2 U fHA-8) = P(fHA-1) + P(fHA-2) + P(fHA-8) - P(fHA-1 x fHA-2) - P(fHA-1 x fHA-8) - P (fHA-2 xfHA-8) - P(fHA-1 xfHA-2 xfHA-8)
+
+Donde P(fHA-1), P(fHA-2) y P(fHA-8) corresponden a la probabilidad de ICT del gen HA-1, HA-2 y HA-8, respectivamente.
+
+Comparación de frecuencias génicas de la población chilena con otras poblaciones
+
+Para el análisis estadístico de las frecuencias genotípicas se realizó el test de ANOVA de dos colas, 95% IC, con una prueba de Bonferroni.
+
+Resultados
+
+Frecuencias alélicas y genotípicas de cada mHAgs y de la molécula HLA-A*02 en la población estudiada
+
+Las frecuencias de cada gen estudiado se muestran en la Tabla.1. Cada mHAgs se mantiene en equilibrio genético cumpliendo con la ley de Hardy-Weinberg que establece que la composición genética de una población permanece en equilibrio mientras no actúe la selección natural ni ningún otro factor que introduzca alguna mutación (dato no mostrado). Además, 23 combinaciones de 27 genotipos posibles estuvieron representadas en la población con una frecuencia esperada (dato no mostrado). En 190 individuos se encontró al menos una variante inmunogénica (Forma HA-1H, HA-2V o HA-8R), 77 individuos portaron combinaciones de dos mHAgs y en 86 individuos se evidenció presencia de los tres alelos inmunogénicos de mHAgs. Por otra parte, la frecuencia encontrada de la molécula de HLA-A*02, a la cual se restringen los mHAgs estudiados, fue de 32% (61 de 192) en la población en estudio.
+
+Tabla 1. Frecuencias alélicas y genotípicas de mHAgs HA-1, HA-2 y HA-8 en la población estudiada
+
+
+
+Aplicación clínica de polimorfismos de mHAgs
+
+La probabilidad de utilizar la disparidad de mHAgs como blanco inmunológico, puede calcularse sobre la base de frecuencias alélicas para las variantes inmuno y no inmunogénicas de los tres mHAgs estudiados. Para esta predicción, el paciente debe poseer la molécula de restricción HLA-A*02 y al menos 1 alelo que codifique la variante inmunogénica. En contraste, el donante debe ser homocigoto para el alelo no inmunogénico.
+
+En síntesis, nuestros resultados muestran que la posibilidad de que en un total de 100 trasplantados HLA-A*02, el máximo de pacientes con probabilidad de presentar actividad ICT será de 22% para HA-1; 2% para HA-2 y 21% para HA-8, mientras que la posibilidad combinada alcanzará el 40%.
+
+Frecuencias alélicas de mHAgs otras poblaciones
+
+Conocer las frecuencias alélicas de los mHAgs, es un paso previo a establecer la relevancia epidemiológica en el contexto del trasplante alogénico de progenitores hematopoyéticos. En la Figura.1   se compara las frecuencias alélicas y genotípicas de la población obtenida de este estudio con poblaciones caucásicas, negroides, de Asia Pacífico, mestizos mexicanos y tunecinos. El resultado indica que no existen diferencias significativas (p < 0,05) entre la población chilena y los demás grupos étnicos.
+
+
+
+ 
+
+Discusión
+
+La respuesta inmunológica observada en un trasplante alogénico de progenitores hemato-poyéticos (TAPH) full match, está gatillada por diferencias en el polimorfismo de mHAgs. Si el péptido inmunogénico se encuentra en las células normales del receptor, se desarrollará un EICH, si el péptido se distribuye en las células tumorales, habrá una reacción de ICT. En el presente trabajo establecimos las frecuencias alélicas de mHAgs en una población normal de donantes de banco de sangre, y extrapolamos nuestros resultados a condiciones de trasplante. Los antígenos estudiados, HA-1, HA-2 y HA-8 se encuentran distribuidos en células hematopoyéticas y neoplasias hematológicas. Por esta razón, las conclusiones están relacionadas principalmente con el ICT. Lo anterior fundamenta las bases teóricas para separar los efectos ICT de EICH, constituyéndose en una meta a alcanzar el conocer detalladamente las diferencias en mHAgs en todo paciente alotrasplantado. Nuestro trabajo es un aporte en esa dirección12.
+
+En el presente estudio, la frecuencia genotípica de alelos inmunogénicos corregidos para la molécula HLA-A2*02 son 21, 31 y 23%, correspondiente a los inmunogenotipos HA-1, HA-2 y HA-8 respectivamente (Tabla.1). Los alelos inmunogénicos son relevantes cuando el donante HLA compatible no posee la variante inmunogénica y, activa la respuesta inmune contra estos antígenos. Determinamos que 40% de los individuos HLA-A*02 podrían desencadenar respuesta contra los alelos HA-1H, HA-2V o HA-8R, que son los inmunogénicos.
+
+Rezvani y col13 encontraron una respuesta inmune específica contra mHAgs en el paciente alotrasplantado, la cual puede ser optimizada para su uso terapéutico. En ese sentido, la fabricación de vacunas específicas contra mHAgs específicos favorecería el efecto de ICT minimizando los riesgos de EICH en el paciente alotrasplantado. Warren y col14 trataron a 7 pacientes en recaída después de un trasplante full match con linfocitos T específicos contra mHAgs, logrando una remisión completa en 5 pacientes. Aunque esto fue transitorio, fue realizado en pacientes intensamente tratados y de mal pronóstico. El mHAgs HA-8 se expresa además en células no hematológicas pudiendo originar eventos inmunes nocivos como la EICH hasta en 20% en los individuos HLA-A*02 trasplantados. Alternativamente, el uso de una terapia celular con acción reguladora dirigida hacia mHAgs, expresados en órganos o tejidos, podría ser una alternativa para prevenir la aparición de EICH o de disminuir sus efectos deletéreos.
+
+La utilización de donantes HLA idénticos no emparentados para realizar un TAPH es un recurso cada día más utilizado15-17, esta estrategia aumenta la probabilidad de diferencias de mHAgs entre el receptor y donante, independientemente de que hayamos demostrado que las frecuencias genéticas de mHAgs en nuestra población son similares a otras etnias descritas.

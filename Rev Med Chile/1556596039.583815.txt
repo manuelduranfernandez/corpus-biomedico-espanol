@@ -1,0 +1,154 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872010001200008
+Contaminación del aire en la Florida (Talca, Chile): Beneficios económicos en salud por la reducción de los niveles PM10
+
+Los impactos de la contaminación del aire en la salud de las personas se ha estudiado extensivamente, en especial en áreas metropolitanas, donde los impactos varían dependiendo de los contaminantes y sus fuentes, donde las emisiones son generadas principalmente por el tráfco vehicular y las actividades productivas1-6. La evidencia muestra que las personas de más escasos recursos están más expuestas a problemas ambientales generando problemas de equidad1,7. Igualmente, la contaminación generada en el hogar es preocupante, de acuerdo a la Organización Mundial de la Salud8, pues el humo proveniente de combustibles sólidos quemados en el hogar es unos de los principales riesgos para las personas que viven en países en vía de desarrollo. El uso de dichos combustibles contribuye a altas tasas de enfermedades respiratorias agudas y crónicas8,10. Dichas emisiones también genera impactos ambientales a las poblaciones aledañas, usuarios y no usuarios de combustibles sólidos, que incluso están dispuestos a pagar por medidas de control ambiental o certificación de leña11.
+
+Autores como Ségala et al6 encuentran que las consultas médicas (CM) de emergencia a hospitales por bronquitis se relacionan con la contaminación del aire en invierno, donde el análisis de series de tiempo muestra asociaciones entre contaminación del aire, mortalidad, enfermedades cardiorrespiratorias y admisiones a centros de salud. Dicho estudio muestra una correlación negativa entre emisiones con temperatura, lluvia y viento. Algunos estudios también incluyen la humedad12,13.
+
+Adicionalmente, numerosos estudios han determinado, en diversas urbes, incluida la ciudad de Santiago de Chile14, que la contaminación con PM10 determina un aumento de mortalidad por enfermedades cardiovasculares y broncopulmonares.
+
+En Chile, el mejoramiento en la calidad del aire en las principales ciudades del país ha sido una prioridad gubernamental por años. Se han realizado diagnósticos e inventarios de emisiones en las principales ciudades del país, lo que ha permitido iniciar las gestiones para reducir la contaminación generada por la combustión de leña y la actividad industrial1. Sin embargo, en ciudades fuera del área metropolitana, sólo algunas ciudades han realizados estudios y tomados medidas concretas con respecto a la contaminación del aire15,16.
+
+En la ciudad de Talca, un informe de la Secretaria Regional Ministerial de Salud17 indica que la ciudad superó 44 veces la norma que establece un máximo de PM10 de 150 μg/m3 18, alcanzando un máximo de 327 y 283 μg/m3, para los años 2004 y 2005, respectivamente, mientras que el año 2006 se superó 21 veces la norma (Tabla 1).
+
+
+
+
+
+La contaminación atmosférica se produce principalmente en invierno, por las bajas temperaturas que aumenta el uso de combustibles sólidos, principalmente leña, para calefaccionar los hogares, causando daños en la salud de las personas, principalmente enfermedades respiratorias, lo que aumenta las consultas diarias, hospitalizaciones y tasas de mortalidad19. Por ello, es importante determinar el impacto que tiene la contaminación del aire sobre la salud de los habitantes.
+
+El objetivo de este estudio es estimar los beneficios económicos en salud que generaría un menor número de enfermedades respiratorias de la población vía una reducción en los niveles de PM10 respirable en uno de los sectores con mayor contaminación del aire en la ciudad de Talca, Chile.
+
+La hipótesis es que la reducción del contaminante PM10 reduciría significativamente las consultas médicas (CM) por enfermedades respiratorias y a su vez los costos económicos asociados.
+
+Materiales y Métodos
+
+Marco conceptual
+
+El aire es un bien público que requiere métodos alternativos para determinar valor que le dan los individuos. Un método de valoración monetaria es asignar valor a una función de dosis-respuesta20.
+
+La ecuación (1)    relaciona la calidad del aire en función del nivel de emisiones21,22:    
+
+ 
+
+donde C =calidad    del aire y e = nivel de emisiones del contaminante. La ecuación (2) relaciona    la calidad del aire, las acciones de tipo defensiva y el efecto que estas generan    en la salud de las personas, donde existe una relación inversa:
+
+ 
+
+con D =    índice de efectos en la salud del individuo; Y(C) = acción defensiva    en salud del individuo, en función de la calidad del aire. El valor monetario    depende de los índices de salud de los individuos, donde existe una relación    positiva entre ambas variables (ecuación 3).
+
+
+
+donde V = valor    monetario del estado de salud de los individuos. Sustituyéndose, entre ecuaciones    (1), (2)    y (3) se obtiene: 
+
+Freeman21    considera que los beneficios de una política de reducción de niveles de emisiones    de e0 a e1 implica una mejora en la calidad    del aire de C0 a C1, con el consecuente    impacto en los beneficios:
+
+
+
+A pesar de la ventaja del modelo para explicar los beneficios, tiene limitaciones porque requiere valorizar la reducción de emisiones mediante la implementación de políticas ambientales, lo que se aleja del objetivo del estudio. Por ello, se consideró una adaptación del modelo, según lo planteado por Sánchez et al5.
+
+El modelo primero estima el impacto de la contaminación atmosférica en las CM, a través de la estimación de la elasticidad, la que mide el cambio porcentual en las CM con respecto a un cambio porcentual en los niveles de PM10. Segundo, se valora económicamente los beneficios de reducir la contaminación vía el ahorro de costos por morbilidad (ecuación 6):
+
+ 
+
+donde ∆B    = beneficios por reducción en casos de enfermedades respiratorias y ∆X    = variación de casos de morbilidad por cambios en la calidad ambiental. 
+
+Azqueta23 menciona tres enfoques para valorar los efectos en la morbilidad ante cambios en la calidad ambiental: costo de tratamiento por enfermedad, funciones de producción de salud y valoración contingente. En este trabajo se aplicó el primer método24,25, porque el método de funciones de producción de salud posee problemas con la determinación del gasto médico óptimo y valoración contingente requiere entrevistas personales26.
+
+Este estudio tiene similitud a otros realizados previamente27,28, sin embargo, se diferencia en la modelación del costo de la calidad ambiental vía CM y no diferencia entre grupos etarios, porque el tamaño de la muestra era insuficiente.
+
+Especificación del modelo
+
+Basado en la literatura,    se estimó un modelo (función    Dosis-Respuesta) de series de tiempo en primeras diferencias y con rezagos,    cuya variable dependiente fueron las CM por enfermedades respiratorias y las    independientes el nivel PM10, la temperatura mínima, promedio y máxima,    la humedad y las consultas por enfermedades crónicas. El modelo es estimado    usando el procedimiento de mínimos cuaDrados ordinarios (MCO). El modelo se    expresa como ecuación (7):
+
+
+
+ donde CMt = CM por enfermedades respiratorias momento t, PM10t,    = nivel PM10 en día t; Tt = temperatura en momento    t; Ht = humedad momento t; CRt = enfermedad    respiratoria crónicas momento t; y εt = error aleatorio.    La serie temporal disponible de emisiones es día por medio, donde los rezagos    de las respectivas variables (δ) hay que multiplicarlos por dos para llevarlo    a número de días.
+
+El análisis se delimitó en dos aspectos: considera sólo enfermedades relacionadas con la contaminación atmosférica y la población de referencia fueron las personas atendidas en el consultorio de la Florida, Talca, reportados enfermos durante el año 2006. Dada la limitante de información existente, no se han agregado los accidentes cardiovasculares que se ha demostrado que aumentan como consecuencia de la contaminación con material particulado fino27, y tampoco se ha valorado el aumento de la mortalidad por exposición previa a material particulado14. Además, la exposición crónica a dicho material aumenta la mortalidad por diversos cánceres, en especial, el broncopulmonar28.
+
+Un detalle de las CM se muestra en Tabla 2, diferenciadas en agudas y crónicas (CR). Se incluyen las CR en el modelo para aislar en efecto de estas consultas con las que están directamente relacionadas con el PM10.
+
+
+
+
+
+Área de estudio y datos
+
+El estudio se realizó en el sector la Florida, Talca. La elección de esta ciudad se debe principalmente por el riesgo que poseía de ser declarada zona de saturación por contaminantes atmosféricos y a la falta de estudios relacionados. Además, dicho sector exhibe altos índices de contaminación por combustión a leña.
+
+Los datos de las    CM por enfermedades respiratorias provienen del Consultorio de Salud de la Florida,    único centro que se encuentra en el sector del estudio. Esto podría    generar un sesgo porque las personas pueden ir al hospital por una consulta.    Los datos de material particulado, temperatura y humedad, fueron suministrados    por el Centro de Investigación y Transferencia en Riego y Agro-climatología    de la Universidad de Talca.
+
+El promedio de CM por enfermedades respiratorias diarias disponibles fue de 33 consultas, éstas corresponden a todos los días del año excluyendo domingos y festivos, con un total de 6.008 CM el 2006. Las enfermedades respiratorias agudas más frecuentes consultadas en el año fueron bronquitis (24,23%), resfrío común (23,32%), y neumonitis (11,6%). La causa más usual de CM por enfermedades respiratorias crónicas en el consultorio fueron enfermedades pulmonares obstructivas crónicas (14,25%) (Tabla 2).
+
+La    Tabla 3 muestra la estadística descriptiva de la variables    bajo análisis. Las correlaciones de las variables objeto de estudio muestran    una relación negativa entre PM10 y temperatura, lo inverso sucede    entre PM10, CM y CR (Tabla 4).
+
+
+
+
+
+
+
+
+
+Un aumento del PM10 en 1%, incrementará las CM y CR en 34% y 89%, respectivamente. La correlación CMt con PM10t-δPM10 con δPM10 = 1 a 13 se presenta en Tabla 5 , reflejando una alta correlación por varios días después de la emisión.
+
+
+
+
+
+La relación existente entre PM10 y CM se ilustra en la  Figura 1, a mayor nivel de PM10 respirable las consultas por enfermedades respiratorias se ven incrementadas, observándose la presencia de rezagos en la relación.
+
+
+
+Modelo econométrico
+
+La ecuación (8)    muestra el modelo econométrico final estimado:
+
+
+
+El modelo explica    54,1% de la variabilidad de las consultas médicas. Como se evidencia en la Tabla    6 , los coeficientes de las variables son significativamente diferentes    de cero a un nivel de significación de 5%, con excepción de la variable humedad    que se eliminó. Además, no hay autocorrelación de primer orden y no se puede    rechazar la hipótesis de homosedasticidad.
+
+
+
+
+
+Las estimaciones    muestran que las CM están dependiendo del nivel del material    particulado, la temperatura mínima, las CM previas, y las CR con ocho, cuatro,    catorce y seis días previos, respectivamente. La temporalidad de las variables    se debe a que la serie contiene datos de día por medio. Además, el impacto del    PM10 se refleja en que la correlación cruzada con las CM alcanza    un valor de +0,34.
+
+Se calculó la elasticidad    del cambio porcentual en CM ante un cambio porcentual en los niveles de PM10    igual a 0,469. Al suponer que en los registros aparece un efecto contagio en    los individuo29, es necesario dividir la elasticidad por uno menos    el coeficiente de rezago de la variable endógena (0,547) obteniéndose la elasticidad    de largo plazo ajustada de 1,0375.
+
+Mejora en la calidad del aire
+
+En este apartado se estiman los beneficios de reducir la contaminación del aire. Se comenzó con el cálculo del número de consultas evitadas que se obtienen del mejoramiento de la calidad del aire, tomando el promedio de PM10 del período muestral alcanzando 60,53 μg/m3, y contando el número de días del período en que se supera la norma promedio diaria de latencia de 120 μg/m3 estipulado en la Ley de Bases de Medio Ambiente. La norma de latencia se sobrepasa cuando las emisiones llegan a 80% del valor establecido en la norma diaria de calidad del aire, equivalente a un límite máximo de la norma (150 μg/m3), lo que ocurrió en 21 días. Adicionalmente, el PM10 no puede exceder más de 7 veces al año la norma, para ser considerada la calidad del aire como tolerable. El cálculo realizado fue:
+
+
+
+A partir de ecuación    (20) resulta:
+
+ 
+
+De manera que las    concentraciones del PM10 se reducen en 66,69% de su nivel promedio. 
+
+Consultas evitadas
+
+El análisis de las consultas evitadas requirió tener los datos del número de consultas por enfermedades respiratorias en el sistema público de salud del sector de estudio. A dichas consultas se les aplicó la elasticidad promedio con respecto al PM10, calculada con base a las elasticidades de largo plazo. A partir de esto se obtuvo que con una reducción de 66,60% en las concentraciones de PM10 se reducirían las CM en 69,10% (1,0375*0,6669*100), equivalente a una disminución de 4.157 en las consultas.
+
+Ahorro de costos por consultas evitadas
+
+Los costos asociados por enfermedad respiratoria, son costos directos, costos indirectos (incluye el costo de oportunidad del tiempo perdido) y disminución en bienestar de los individuos por las molestias29. Los dos primeros costos se estiman con la información disponible, pero el tercero no se considera porque requiere valoración de los afectados.
+
+El costo directo considerado es el valor de la consulta médica. Con datos de las principales enfermedades respiratorias del Departamento de Salud de Talca, se calculó el costo promedio de consulta por enfermedad respiratoria en $ 27.750.
+
+Los costos indirectos    relacionados con la menor productividad laboral o costo de oportunidad de dejar    de trabajar por enfermedad o cuidar a un enfermo, se cuantifico usando el salario    promedio diario de una persona. Los costos por día de ausentismo laboral se    utilizó el salario promedio mensual imponible en la Región del Maule de $288.878,    según la Encuesta de Caracterización Socioeconómica (CASEN) de 200630;    y se consideró que hay 21,7 días laborales al mes para doce meses laboralmente.    El costo del ausentismo laboral diario es $13.312. Si el costo de la actividad    restringida equivalente al 20% del día laboral y la reducción de la productividad    laboral es un tercio del 80% del trabajo realizado, el costo total por actividad    restringida diaria es $6.212. El costo indirecto promedio considero la información    referente a los días de reposo promedio por patologías respiratorias y los niveles    etarios de los afectados, estimándose un valor de $4.421.
+
+Discusión
+
+Los resultados    obtenidos con el modelo, en términos de coeficiente de determinación, superan    los alcanzados por otros a nivel regional (Fuentes P, Benavides P. Beneficios    económicos por una reducción de contaminación atmosférica    para el sector la Florida, ciudad de Talca, año 2006. Memoria de Grado para    optar al título de Ingeniero Comercial, Universidad de Talca, 2007. Carrasco    C, Richard C. Beneficios económicos de contaminación atmosférica según grupos    etarios en Temuco y Padre Las Casas. Memoria de Grado para obtener el título    de Ingeniero Comercial, Universidad de Concepción, año 2003). Similar a otros    estudio6,12,13, las variables que mejor explican las CM respiratorias    son el material particulado, temperatura mínima y enfermedades respiratorias    preexistentes, confirmando los resultados de múltiples estudios epidemiológicos,    apoyados con investigaciones de metaanálisis, que muestran una asociación entre    contaminación por partículas e incremento en pacientes con enfermedades respiratorias    y muertes19, a pesar que algunos estudios muestran una baja o inexistente    relación entre PM10    y síntomas respiratorios31, 32.
+
+Bajo el escenario hipotético de cumplimiento de la norma de latencia, implicaría un ahorro de 133,7 millones de pesos anuales, valor inferior al obtenido por Cerda et al11 utilizando el método de valoración contingente. Dichos resultados se pueden comparar con los costos que significan la implementación de medidas tendiente a mitigar el daño ambiental, vía un organismo certificador de leña seca o tecnologías sustitutas.
+
+Cabe mencionar que las estimaciones de este estudio dan un valor mínimo de referencia del costo real total de la contaminación, el que se espera sea mayor al valor estimado, porque sólo se ha considerado en su cálculo el efecto sobre el incremento de enfermedades respiratorias agudas, pero no se ha considerado el aumento de morbilidad y mortalidad aguda por enfermedades cardiovasculares ni la morbilidad y mortalidad por cáncer broncopulmonar causada por exposición crónica a material PM10 14,27,28.
+
+Por lo anterior, políticas públicas destinadas a reducir los niveles de emisión generados por la combustión a leña en la ciudad generaría disminuciones en las CM y beneficios económicos importantes para la sociedad.
+
+Agradecimientos

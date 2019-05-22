@@ -1,0 +1,124 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000100053
+Ambiente educativo en una facultad de medicina peruana: una tendencia negativa a lo largo de los años académicos
+
+El ambiente educativo es un constructo amplio que hace referencia a las condiciones materiales e intangibles de una institución, incluyendo las relaciones entre las personas y las características de estas interacciones1. El ambiente educativo influencia en gran parte el aprendizaje en las facultades de medicina, y se encuentra asociado al éxito y la satisfacción de los estudiantes2,3. La percepción que los estudiantes tengan sobre el ambiente educativo provee una base para la comprensión y mejora de los elementos que lo conforman, para así encaminarla hacia los objetivos institucionales4.
+
+A lo largo de los años se han ido desarrollando diversos instrumentos5–7 para poder medir el ambiente educativo en las universidades. Entre ellos, el más usado actualmente es el Dundee Ready Educational Environment Measure (DREEM)8, un cuestionario creado para evaluar el ambiente educativo en facultades afines a las ciencias de la salud. El cuestionario DREEM ha sido traducido tanto al español como a otros idiomas9 y se ha aseverado que es un instrumento confiable, además de ser culturalmente independiente10.
+
+En Latinoamérica, escuelas de medicina de Argentina y Chile han utilizado el instrumento DREEM11,12. En un estudio, se comparó el puntaje entre una universidad de Chile y otra de Argentina, encontrándose una mejor evaluación en esta última, atribuido a su currículo basado en problemas11. En otro estudio, se utilizó el DREEM para comparar 6 facultades de medicina, identificando áreas que requerían cambios2. En el 2016, se publicó un estudio que comparó una facultad chilena con otra española, mostrando que en ambas, la percepción educativa disminuyó en alumnos de años superiores13.
+
+En Perú, se ha evidenciado el progresivo aumento de facultades de medicina de calidad cuestionable14. Por otro lado, se ha creado recientemente la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU), cuyo objetivo es evaluar y asegurar la calidad de educación en las universidades, incluyendo las facultades de medicina15. Sin embargo, a pesar del creciente reconocimiento de la importancia del ambiente educativo, no se han encontrado estudios que examinen el ambiente educativo de una facultad de medicina peruana.
+
+El objetivo de este estudio fue describir el ambiente educativo de una facultad de medicina peruana de una universidad privada, y determinar si existía asociación entre el año académico y la percepción del ambiente educativo de esta facultad médica.
+
+Materiales y Métodos
+
+Diseño del estudio
+
+Se condujo un estudio transversal usando un cuestionario anónimo virtual. Se accedía a este a través del aula virtual de la facultad de medicina, plataforma que los estudiantes usan para obtener material de lectura, entregar trabajos o rendir exámenes.
+
+Áreas y participantes
+
+La Facultad de Medicina de la Universidad de San Martín de Porres (USMP), una institución privada reconocida en el Perú, ha iniciado una reforma interna para adecuarse a los estándares de calidad que exige la SUNEDU16.
+
+En la USMP, el programa de pregrado es similar a la mayoría de facultades de medicina peruanas y latinoamericanas, dividida en 3 etapas: preclínica, clínica e internado. Durante la etapa preclínica (los primeros tres años), los estudiantes permanecen principalmente en el campus universitario, aprenden los fundamentos básicos de la medicina, y su entrenamiento está compuesto por clases teóricas, prácticas de laboratorio y seminarios. Durante la etapa clínica (los siguientes tres años), los estudiantes reciben entrenamiento en ambientes hospitalarios y clases teóricas. La etapa final es el internado (último año), que permite a los estudiantes adquirir experiencia preprofesional al convertirse en fuerza de trabajo del hospital bajo la supervisión de médicos asistentes.
+
+La población objetivo de este estudio consistió en estudiantes de medicina de 1° a 6° año académico de la USMP, sede Lima. El 7° año (internado) no fue incluido, debido a que estos estudiantes no utilizan regularmente el aula virtual. Los datos fueron recolectados entre abril y octubre del 2015. Solo se consideraron en al análisis final los cuestionarios completamente llenados.
+
+Definición de las variables
+
+El ambiente educativo fue medido usando el cuestionario DREEM validado al español y utilizado extensivamente en Chile12, que consiste de 50 ítems y 5 dominios: percepción de aprendizaje, percepción de los docentes, autopercepción académica, percepción de la atmósfera, y autopercepción social. Para interpretar los puntajes, los autores originales del DREEM17 recomendaron que toda la escala y cada subescala tengan 4 puntos de corte, esquematizados en la Tabla 2. Además, señalan que los ítems individuales con puntaje < 2,00 deben ser entendidas como “áreas problema”, y aquellas con puntaje > 3,50 como “áreas fuertes”. Sin embargo, algunos estudios han cuestionado la utilidad y validez de las subescalas8,19,20. Por eso, aunque nuestro estudio muestra todos los resultados, la discusión se centra principalmente en el puntaje global, la diferencia entre años académicos y la identificación de áreas problemas y áreas fuertes.
+
+El año académico fue medido como una variable continua discreta (1° a 6°). Las etapas académicas de forma categórica: etapa preclínica (los primeros tres años) y etapa clínica (los siguientes tres años académicos). Otras variables incluidas fueron: edad (en años), sexo, condición de matriculado (regular/no regular). La condición de matrícula “no regular” se refiere a aquellos estudiantes que no se matricularon en todos los cursos correspondientes a su año académico, lo cual es generalmente causado por problemas académicos o económicos. Todas las variables fueron autorreportadas.
+
+Procedimientos
+
+Un piloto con 15 estudiantes de medicina se realizó para identificar cualquier dificultad en entender los ítems del cuestionario. Se realizaron pequeños cambios gramaticales para mejorar el entendimiento, y estos estudiantes no participaron en el estudio final. Todos los estudiantes registrados en la facultad de medicina de 1° a 6° año académico fueron invitados a participar mediante el aula virtual. La invitación aparecía como ventana emergente (“pop up”). Además, incluía un formato de consentimiento informado que explicaba el propósito de estudio y el cuestionario DREEM.
+
+Análisis de los datos
+
+Los datos fueron analizados usando STATA 13 para Windows (STATA Corp, CollegeStation, TX, US). Las características de la muestra fueron descritas de acuerdo a los años académicos. Medias y desviaciones estándar fueron usadas para resumir las variables numéricas. La prueba t de Student fue usada para comparar los puntajes del DREEM entre etapas preclínicas y clínicas. Modelos de regresión lineal simple y ajustado fueron usados para identificar asociaciones del puntaje DREEM y los años académicos, y puntaje DREEM y etapas académicas, usando errores estándar robustos.
+
+Ética
+
+Aprobación ética fue obtenida del Comité Institucional de Ética en Investigación de la Universidad de San Martín de Porres, en Lima, Perú. El sorteo de un libro de texto de medicina entre los participantes de cada año académico fue incluido para incentivar la participación en el estudio. Solo se solicitó el código de estudiante para el sorteo, para el análisis todos los códigos fueron eliminados para no violar el anonimato de los participantes. Toda participación fue voluntaria. El proceso de consentimiento se llevó a cabo como los recomienda el reglamento institucional de investigación y del comité de ética. Los resultados encontrados fueron discutidos con algunas autoridades de la facultad de medicina humana. Los resultados expuestos tienen un enfoque constructivo, son parte de la búsqueda constante de la mejora educativa.
+
+Resultados
+
+Descripción de la población de estudio
+
+Un total de 2.421 estudiantes de 1° a 6° año estaban registrados en esta facultad de medicina para el año 2015. De estos, 911 (37,6%) empezaron el cuestionario, pero solo 828 (32,4%) lo completaron. Dentro de los encuestados, 489 (59,1%) eran mujeres. La edad promedio fue de 20,6 (DE: 2,5) años. La mayoría de participantes pertenecían al quinto año (44,3%) y segundo año (25,8%). Hubo 121 (14,6%) estudiantes con matrícula no regular. La distribución de estos estudiantes fue variada en los años académicos, siendo más frecuente en la etapa preclínica (Tabla 1).
+
+Tabla 1 Medias del puntaje DREEM por subescalas del total de la muestra 
+
+DE: Desviación Estándar.
+
+Puntaje global de la escala DREEM en la muestra
+
+El puntaje global de la escala DREEM en la muestra fue de 117,2 (DE: 25,6). Este resultado fue mayor al puntaje mínimo (100 puntos) necesario para considerarlo más positivo que negativo (Tabla 2). En todos los años académicos, el puntaje global fue mayor a 100 puntos, encontrándose el puntaje más alto en 1° año (134,5) y el menor en 6° año (102,2).
+
+Tabla 2 Características básicas de la muestra 
+
+M: Número de personas de sexo masculino; F: Número de personas de sexo femenino. DE: Desviación Estándar.
+
+Asociación con años académicos
+
+Se encontró una asociación entre los años académicos y los puntajes obtenidos en el DREEM (escala y subescalas), ajustando por edad, estado académico y sexo (Tabla 3). Se observaron menores puntajes en los años académicos más avanzados (< 0,001). Consecuentemente, también se encontró una asociación negativa entre ser un estudiante de la etapa clínica y puntaje DREEM (escala y subescalas) en modelos multivariables ajustados por edad, estado académico y sexo (Tabla 4).
+
+Tabla 3 Asociación entre el puntaje DREEM y los años académicos: modelo crudo y ajustado de regresión lineal 
+
+aModelo fue ajustado por sexo, edad y condición de matrícula;
+
+*indica puntajes considerados negativos de acuerdo a la interpretación por sub-escalas.
+
+Tabla 4 Puntaje DREEM y etapas académicas: modelo crudo y ajustado de regresión lineal 
+
+aModelo ha sido ajustado por edad, sexo y condición de matrícula. La referencia en los modelos es el puntaje en área preclínica. Se utilizó la prueba T-prueba para comparar entre puntaje preclínica y clínica;
+
+**Puntajes considerados más negativos que positivos. DE: Desviación Estándar.
+
+Análisis de ítems
+
+En toda la muestra, seis ítems (3, 4, 12, 17, 25 y 48) obtuvieron puntajes menores a 2,0, que significa “áreas problema” (Tabla 5). Sin embargo, tomando en cuenta solo la etapa clínica, se añaden 10 ítems con bajos puntajes (13, 14, 20, 21, 24, 41, 42, 43, 44 y 47). Además, se encontraron diferencias (p < 0,05) en los puntajes de los ítems entre la etapa preclínica y clínica (Tabla 5). Los ítems con menores puntajes fueron el ítem 3 y el 17, los cuales corresponden a “En la facultad, la copia en los exámenes constituye un problema” y “hay un buen sistema de apoyo para estudiantes que sufren estrés”, respectivamente. No hubo ítems que sobrepasaron 3,50. Sin embargo, los ítems que obtuvieron los puntajes más altos fueron los ítems 10, 15 y 31 (Tabla 5).
+
+Tabla 5 Promedios del puntaje DREEM por ítems en etapa preclínica, clínica y la muestra total 
+
+*ítems que tienen puntaje < 2,0 en la etapa clínica y/o pre-clínica. LOS ítems en cursiva están codificados negativamente. Sin embargo, sus puntajes están mostrados de forma revertida, después del análisis. A menor valor, peor desempeño en esas áreas. Se utilizó T-test para diferenciar puntajes entre etapa pre-clínica y clínica. DE: Desviación Estándar.
+
+Discusión
+
+El ambiente educativo de esta facultad de medicina obtuvo una puntuación correspondiente a “más aspectos positivos que negativos” en la escala DREEM. Sin embargo, se observó una tendencia negativa en la percepción del ambiente educativo a mayor año académico. Los principales problemas identificados se pueden resumir en cinco: enseñanza basada en el docente, horarios inadecuados, enseñanza que genera poco estímulo y disminución de la confianza, copia en los exámenes y la falta de apoyo en situaciones de estrés. Estos problemas, se acrecientan en la etapa clínica.
+
+Puntuación general
+
+En nuestra muestra, la escala DREEM mostró una puntuación positiva similar a la encontrada en otras escuelas de medicina latinoamericanas2,11. En un estudio realizado en seis escuelas de medicina en Chile, que incluyó solamente a estudiantes de 3°, 4° y 5° año académico, las puntuaciones totales de DREEM por facultad oscilaron entre 103,1 y 126,9 puntos2. De similar manera, en una facultad de medicina argentina, los puntajes totales de DREEM de 1°, 3° y 5° año académico fueron 149,6, 142,4 y 136,6, respectivamente. Este estudio, que presentó puntajes más altos que el nuestro, sugiere que estos se debían a su nuevo plan de estudios basado en problemas11.
+
+Tendencia negativa
+
+Nuestro estudio mostró una tendencia negativa en los puntajes DREEM en años superiores del programa de pregrado. De forma similar, algunos estudios11,13,21 han encontrado puntajes negativos en años académicos mayores, aunque tomando como referencia solo un año por etapa académica y no el total de años, como nuestro estudio. De manera general, esta tendencia negativa puede deberse a un aumento en el estrés en estudiantes en los años académicos superiores21 o que los estudiantes de grados menores no tienen experiencia suficiente para hacer una evaluación adecuada22. De las subescalas, la percepción social de aprendizaje, de atmósfera y la autopercepción resultaron ser las más débiles. Sin embargo, es el análisis de ítems que nos ha permitido identificar 5 principales problemas, más evidentes en el área clínica:
+
+Primero, la enseñanza basada en el docente (ítem 48) y el aprendizaje de datos innecesarios (ítem 25). La memorización de información innecesaria es un reclamo común en las escuelas de medicina de América Latina, Asia y Europa2,23,24. Por otro lado, el enfoque basado en docente es tradicional, compuesto principalmente por la transmisión de información por parte del profesor, dejando al alumno como un ente pasivo25.
+
+Segundo, los horarios no son bien programados (ítem 12) y el tiempo de enseñanza no es bien utilizado (ítem 24). En la etapa clínica, el tiempo de enseñanza en los hospitales puede ser limitado debido a las responsabilidades del personal médico en los hospitales. Este problema también se ha descrito en España, Alemania y el Reino Unido23,24,27. Además, existe una gran cantidad de estudiantes por grupo de práctica hospitalaria, lo cual puede afectar la satisfacción del alumno28.
+
+Tercero, en la etapa clínica, la enseñanza parece no generar un estímulo por aprender ni generar confianza (ítem 21, 41, 43 y 44). Por ello, la metodología de enseñanza en los ambientes hospitalarios, en combinación con las clases teóricas brindadas, debe ser evaluada y replanteadas.
+
+Cuarto, toda la facultad menciona que copiar en los exámenes es un problema importante (ítem 17). Esta mala conducta académica ha sido descrita frecuentemente en América Latina y Europa2,21,23,26. El problema dentro de la profesión médica parece ser impulsado por la presión para tener éxito, la falta de comprensión de lo que constituye copiar y el medio ambiente que fomenta comportamiento deshonesto29.
+
+Quinto, los estudiantes perciben que existe un excesivo cansancio (ítem 4) y que no hay un buen sistema de apoyo para los que sufren estrés (ítem 3). Aunque la facultad de medicina tiene una unidad de apoyo psicológico y tutoría, puede ser que no se de abasto (tiempo y recursos humanos) con brindar apoyo a estos estudiantes o peor aun, que sean alumnos que aún no han sido identificados o no sepan la existencia de este servicio. Además, estudiantes de clínica refieren que la tensión es mayor al disfrute de sus estudios (ítem 42) y que les genera aburrimiento (ítem 14).
+
+Por otro lado, es importante que los estudiantes desarrollan empatía durante su carrera.
+
+Relevancia o implicaciones
+
+Este estudio tiene implicaciones en la educación médica. En primer lugar, las áreas problemas expuestas deben ser prioridad por las autoridades de la universidad. Además, el estudio alienta a otras facultades a que planteen sus propios estudios y evalúen su ambiente educativo. Finalmente, la SUNEDU y el Ministerio de Educación deben considerar los resultados del estudio para plantear evaluaciones periódicas y soluciones, principalmente respecto a las conductas éticas (plagio) y el apoyo a los estudiantes en situaciones de estrés. Por otro lado, con las áreas problema identificadas, se pueden diseñar estudios cualitativos para ahondar en las explicaciones y soluciones.
+
+Fortalezas y limitaciones
+
+Una fortaleza de este estudio es que ha explorado la percepción del ambiente educativo de 6 años académicos. Además, aunque un estudio peruano utilizó el DREEM para evaluar una rotación hospitalaria30, este es el primer estudio que lo utiliza para evaluar globalmente la totalidad de las etapas preclínica y clínica. Sin embargo, este estudio también presenta algunas limitaciones. Usualmente, los cuestionarios virtuales tienen menor tasa de respuesta que los físico31, y, quizás, los alumnos que respondieron el cuestionario eran aquellos que deseaban expresar su descontento (sesgo de deseabilidad). Sin embargo, nuestra intención de comparar los puntajes por año académico, disminuye esta limitación. Por otro lado, en el análisis ajustado, puede haber confusores que no se evaluaron, como el tiempo de demora en llegar a la facultad, su estabilidad económica, entre otras.
+
+Conclusiones
+
+El ambiente educativo percibido por los estudiantes de esta facultad de medicina resultó tener un puntaje positivo. Sin embargo, se evidenció una tendencia negativa, con puntajes menores en alumnos de mayor grado académico o etapa clínica. Los puntos críticos del ambiente educativo parecen estar relacionados con una enseñanza basada en el docente, la inadecuada programación de horarios, el poco estímulo para generar confianza y aprendizaje, la copia en los exámenes, y falta de soporte en situaciones de estrés.
+
+Fuentes de financiamiento El estudio fue autofinanciado por los autores. OFF, FLS y TJ son actualmente profesores de la Facultad de Medicina Humana de la Universidad de San Martín de Porres.

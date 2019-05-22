@@ -1,0 +1,36 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000300403
+Sobre la validación del cuestionario “Evaluación de la Atención de Enfermedades Crónicas para pacientes”
+
+Carta al Editor
+
+Sobre la validación del cuestionario “Evaluación de la Atención de Enfermedades Crónicas para pacientes”
+
+Validation of the questionnaire “Evaluation of Chronic Disease Care for patients”
+
+Sergio Dominguez-Lara1 
+
+			
+
+1Instituto de Investigación de Psicología, Universidad de San Martín de Porres
+
+
+
+
+
+Sr. Editor
+
+El proceso de validación de un cuestionario de una cultura a otra representa un reto, ya que además de la traducción, debe procurarse que el significado original del ítem se refleje en esa nueva versión. Una vez logrado aquello, el estudio de la dimensionalidad, esto es, el grado en que los ítems son influidos por un factor común, es un paso necesario.
+
+Respecto al análisis factorial exploratorio (AFE) llevado a cabo por Lagos, Salazar y Salas1 es necesario precisar algunos puntos sobre el diseño utilizado. El método de extracción denominado componentes principales, el uso del criterio de Kaiser para determinar cuántas dimensiones podrían extraerse, y la rotación varimax (en conjunto, Little Jiffy), es una combinación cuyo uso no es recomendado en estudios que tengan como objetivo estudiar la estructura interna de un instrumento de evaluación2,3, debido a las limitaciones inherentes a cada procedimiento. De este modo, una de las principales falencias es la sobreextracción factorial4, que hace referencia a la acción de extraer más factores (o componentes) de los que realmente se necesitan para explicar la variabilidad de las puntuaciones.
+
+Un problema asociado a esa situación es la complejidad factorial (CF)5, en la que existen cargas factoriales de moderada magnitud en más de un factor (o componente). Esto afecta la toma de decisiones respecto a la pertenencia del ítem a determinado factor, derivando en estructuras de difícil interpretación.
+
+La CF es una situación ubicua a la mayoría de instrumentos de evaluación6, ya que elaborar un ítem que sea una medida perfecta de un constructo en particular es algo inusual; sin embargo, el grado de complejidad debe evaluarse a fin de discernir qué ítems no son interpretables en función de un solo constructo. Para ello, existe el índice de simplicidad factorial (ISF)7, cuya métrica va de cero (ítem complejo) a uno (ítem simple), siendo 0,80 un indicador de aceptable CF5. Fueron tomados en cuenta los datos proporcionados por Lagos y colegas en una de sus tablas (p. 737) para hacer el cálculo de los ISF, los cuales se presentan en el mismo orden en que figuran en la tabla 3 del citado manuscrito.
+
+Como puede apreciarse, 13 de los 20 ítems (65%) presentan elevada CF (ISF marcadamente menores que 0,80), lo que restaría respaldo al agrupamiento de ítems que se indica, ya que se asume que los ítems son representativos del constructo. Cabe resaltar que en la tabla 5 se omiten las cargas secundarias (cargas que no pertenecen al factor principal).
+
+Tabla 1 Índice de simplicidad factorial de los ítems de la ”Evaluación de la Atención de Enfermedades Crónicas para pacientes” 
+
+Nota: Cn: Componente n; ISF: Índice de simplicidad factorial; en negritas: ISF marcadamente menor que 0,80.
+
+En conclusión, el estudio de la estructura interna de un instrumento debe estar guiado tanto por la teoría como por métodos apropiados2,3, por lo que es recomendable tener en cuenta tanto las fortalezas como limitaciones de los procedimientos utilizados a fin de que las conclusiones respecto a la dimensionalidad tengan mayor solidez.

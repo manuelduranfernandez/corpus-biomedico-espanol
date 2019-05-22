@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872011001100010
+Errores de medicación en pacientes críticos adultos de un hospital universitario: Estudio prospectivo y aleatorio
+
+ 
+
+En Estados Unidos de Norteamérica (EE.UU.) cada año mueren entre 44.000 y 98.000 pacientes como consecuencia de errores clínicos prevenibles, ubicándolos como la séptima causa de muerte en ese país1. Los pacientes en las Unidades de Cuidados Intensivos (UCI) experimentan 1,7 errores clínicos cada día y muchos de ellos se exponen a un error potencialmente fatal durante su estadía2. Los errores de medicación (EM) son el tipo más frecuente de error y dan cuenta de 78% de errores clínicos graves en UCI3. En el año 2003, fueron comunicados más de 235.000 EM en EE.UU., de los cuales al menos 2% resultó en un daño significativo para el paciente4, constituyendo el principal factor que limita la efectividad y seguridad de las terapias farmacológicas5. Bates y cols6 estimaron un costo anual de 2,8 millones de dólares asociado a EM graves en un hospital terciario, y que la reducción de estos en tan sólo 17% podría significar un ahorro de 480.000 dólares para ese centro7.
+
+La seguridad de los pacientes es esencial en la UCI, pero la complejidad de los procesos y la condición médica de los enfermos los hace más vulnerables a la ocurrencia de errores8. Adicionalmente, los pacientes críticos utilizan el doble de medicamentos que aquellos en unidades de menor complejidad, y principalmente son administrados por vía parenteral requiriendo muchas veces cálculos matemáticos para establecer dosis y velocidades de infusión, situación que aumenta la probabilidad de EM9.
+
+Diversos estudios internacionales han evaluado la prevalencia de EM en UCI entregando resultados dispares10-13, principalmente por diferencias metodológicas en la definición y reporte de EM14. Recientemente, un estudio transversal multinacional que evaluó la administración de fármacos por vía parenteral, empleando como estrategia el reporte voluntario, encontró 33% de EM8.
+
+Disponer de información en relación a los EM permite evaluar los procesos que presenten falencias o que predispongan a la generación de errores para poder realizar intervenciones que favorezcan la cultura de la seguridad en el uso de los medicamentos1. Hasta el momento actual no existen datos chilenos que permitan dimensionar la magnitud del problema e identificar los procesos más susceptibles, para desarrollar estrategias de prevención ajustadas a la realidad nacional. El presente estudio tuvo como objetivo establecer la frecuencia y características de los EM e identificar los procesos más afectados, en una UCI de adultos de un hospital universitario.
+
+Pacientes y Método
+
+Mediante un estudio prospectivo observacional de una muestra aleatoria y representativa de pacientes, se evaluó la calidad de cada uno de los procesos de utilización de medicamentos en una UCI médico-quirúrgica de un hospital universitario en Santiago de Chile.
+
+Tamaño y selección de la muestra
+
+Considerando 33% de EM por paciente reportado en la literatura internacional8, un nivel de significación de 95% y 20% de posibles pérdidas, se calculó un tamaño muestral de 124 pacientes15. Para el seguimiento diario de los procesos de utilización de medicamentos las 12 camas y horarios en jornada diurna y hábil de la UCI fueron aleatorizados durante un período de 3 meses. Se incluyeron en el estudio únicamente los pacientes que estaban recibiendo medicamentos por vía enteral o parenteral en los horarios y camas seleccionadas. En cada paciente se evaluó un solo horario de la medicación utilizada. No existieron criterios de exclusión.
+
+Procedimientos y Recolección de datos
+
+Durante cada proceso, un evaluador externo, previamente entrenado en los protocolos de calidad de utilización de medicamentos y los procedimientos propios en UCI y el establecimiento, realizó la observación directa y secuencial de las etapas de prescripción, transcripción, dispensación, preparación y administración de medicamentos, clasificando cada EM detectado según la National Coordinating Council for Medication Error Reporting and Prevention16, como se muestra en la Tabla.1  .
+
+Para cada horario y cama seleccionada se evaluó la totalidad de medicamentos prescritos, exceptuando sueros, inhaladores o aquellos administrados a través de bombas de infusión continua.
+
+  Tabla 1. Tipos y subtipos de error de medicación evaluados en 124 pacientes hospitalizados en una UCI
+
+
+
+Se definió como EM a cualquier error que ocurre durante el proceso de utilización del medicamento, tenga este una consecuencia adversa o no17. Asimismo, se definió como EM de prescripción cualquier error u omisión producido durante el proceso de redacción de la receta médica, sin evaluar la calidad de la selección del medicamento prescrito. EM de transcripción como cualquier diferencia entre lo prescrito y lo registrado en las tarjetas de procedimientos de enfermería. EM de dispensación como cualquier diferencia entre lo solicitado en la receta médica y lo dispensado desde la farmacia. EM de preparación como cualquier diferencia entre lo indicado por la literatura científica o el productor versus lo realizado por el personal de la UCI. EM de administración como cualquier diferencia entre lo indicado en la prescripción médica y lo administrado.
+
+Para la recolección de datos se diseñó una ficha con un protocolo de uso para estandarizar el seguimiento y llenado de la misma. La ficha incorporaba para cada EM detectado, el registro del medicamento implicado y sus características, tipo y subtipo de error, el horario, día de la semana, tipo y número de medicamentos administrados en el horario del EM, además de los datos demográficos de los pacientes, diagnósticos de ingreso a la UCI y severidad de la enfermedad mediante el sistema Acute Physiology and Chronic Health Evaluation (APACHE II).
+
+Calidad de la información
+
+El 10% de los datos registrados y digitados fueron revisados al azar por un supervisor externo e independiente, quien evaluó la veracidad y concordancia entre los procesos reales con los datos registrados. El personal de la UCI no tuvo conocimiento de la realización del estudio para no influenciar su comportamiento habitual. Sin embargo, cuando se detectó un EM se informó inmediatamente al personal encargado del cuidado del enfermo para cautelar su seguridad. La confidencialidad de los datos se resguardó utilizando un sistema de códigos numéricos.
+
+Análisis estadístico
+
+Se realizó un análisis estadístico descriptivo, presentando los datos como frecuencias y porcentajes para las variables categóricas, y como promedio y desviación estándar (DE) para las variables continuas. Los datos fueron procesados con el programa STATA 8.0.
+
+La oportunidad de EM se obtuvo de la relación entre el número de errores detectado por grupo terapéutico y el número de veces que se prescribió medicamentos del grupo terapéutico a estudiar.
+
+Implicancias éticas
+
+Este estudio fue aprobado por el Comité de Ética Científico para Investigación Biomédica en Seres Humanos del Hospital Clínico Universidad de Chile y lo eximió de consentimiento informado debido a su naturaleza observacional.
+
+Resultados
+
+De un total de 124 pacientes estudiados, el 69% fueron varones, con un promedio de edad de 51 ± 18 años y un puntaje APACHE II 20 ± 2. Los principales datos demográficos y la caracterización farmacoterapéutica evaluada se muestran en las Tabla.2   y 3  .
+
+  Tabla 2. Características basales de los pacientes (n = 124 pacientes)
+
+
+
+Errores de medicación
+
+En 52 de los 124 pacientes se encontró un total de 66 EM, evaluándose 194 medicamentos en los horarios estudiados. Treinta y tres por ciento de estos pacientes experimentaron más de un EM. En 34% de los medicamentos evaluados ocurrió al menos un EM durante el curso de su utilización.
+
+El 51% de los EM ocurrió en la etapa de administración, 18% en la prescripción, 15% en la preparación, 8% en la transcripción, y el 8% restante durante la dispensación. La probabilidad de que un paciente experimente algún EM en las diferentes etapas de utilización de medicamentos se muestra en la figura.1  .
+
+  Tabla 3. Caracterización de los medicamentos utilizados en los horarios evaluados durante el estudio
+
+
+
+De los EM que se produjeron en la etapa de administración, el 41% tuvo relación con la velocidad de administración, 38% con problemas en el horario de administración, 15% errores por omisión de la administración y 6% por problemas con la dosis administrada.
+
+La figura.2   muestra la oportunidad de EM según grupo terapéutico, en ella se observa que los antibacterianos fueron el grupo terapéutico con mayor frecuencia de EM, con una oportunidad de error de 63%. Los principales problemas encontrados con los antibacterianos ocurrieron en la administración. De los 21 EM encontrados en esta etapa del proceso, 11 fueron por problemas con la velocidad de administración y 10 por errores en el horario. En cambio, los antihipertensivos presentaron problemas principalmente en la prescripción.
+
+Al evaluar la frecuencia de EM según número de medicamentos administrados en el mismo horario, se observó que aquellos pacientes que recibieron 3 o más medicamentos tuvieron una probabilidad de 63% de presentar un EM, mientras que en los pacientes con 1 ó 2 medicamentos fue de 39%.
+
+No se documentaron efectos adversos graves durante el período de observación.
+
+Discusión
+
+Los pacientes en la UCI tienen un elevado riesgo de experimentar EM debido a que: 1) se encuentran habitualmente sedados, razón por la que no pueden detectar o identificar posibles errores; 2) reciben muchos medicamentos, y 3) la mayoría de estos medicamentos son dados por vía parenteral y requieren de cálculos para su administración18. En este contexto, el manejo seguro de la medicación es especialmente desafiante debido a la complejidad de las diferentes etapas involucradas en su utilización, así la administración de una sola dosis de un medicamento en un hospital, puede requerir la adecuada ejecución de entre 80 y 200 pasos19. Uno de los elementos más relevantes para mejorar la seguridad de los pacientes, consiste en comprender cómo y por qué ocurren los errores20,21, por lo tanto, el reporte de EM es un importante componente de la estrategia que permite prevenirlos, ya que revela las fallas activas y las condiciones latentes en el sistema22. Nuestro estudio es el primero en entregar información objetiva sobre EM en una UCI de adultos en Chile, y muestra que al menos en un tercio de los medicamentos prescritos se produjo un error, situación que podría mejorarse mediante la capacitación del personal y la reorganización de los procesos de atención de los pacientes.
+
+
+
+  Figura 1. Tasa porcentual de errores de medicación por paciente en las diferentes etapas del proceso de utilización de medicamentos.
+
+
+
+  Figura 2. Oportunidad de error según el grupo terapéutico indicado.
+
+Es interesante mencionar que, analizando las diferentes etapas involucradas en el proceso de manejo de la medicación, se encontró que en la prescripción, los EM más frecuentes se relacionaban con la indicación de una forma farmacéutica inapropiada para la vía de administración seleccionada, como, por ejemplo, antihipertensivos en comprimidos de liberación retardada por sonda nasoenteral. Sin embargo, es importante mencionar que durante el período de estudio no se evaluó si el medicamento indicado fue el más apropiado para la condición clínica del paciente, ya que no se tomó en cuenta el proceso de selección para la asignación de EM. En este contexto, existe la posibilidad de haber subestimado la ocurrencia de errores en esta etapa.
+
+Por otra parte, los errores observados en la etapa de transcripción estuvieron relacionados con las características propias de una UCI de alta complejidad, donde la carga asistencial puede ser muy intensa en algunos momentos lo que predispone a la ocurrencia de errores. En tanto que en la etapa de preparación los errores se relacionaron principalmente con una inadecuada estandarización en el manejo de la medicación. Diferentes autores han propuesto estrategias de intervención para reducir este tipo de EM17,23-25.
+
+En el presente estudio, la etapa de administración fue la más vulnerable y dio cuenta de la mitad de los EM detectados, cifra similar a la reportada por otros investigadores26. Aunque, Fahimi y cols27, utilizando una metodología similar a la nuestra, pero enfocada únicamente en la medicación parenteral, encontraron 66% de EM. Un estudio chileno realizado en una UCI pediátrica también coincide en que la etapa de administración es la más propensa a sufrir EM, pero cabe destacar que este estudio utilizó el reporte voluntario y no anónimo, por lo que sus resultados pueden haber sido subestimados28.
+
+La baja ocurrencia de EM encontrada en la etapa de dispensación podría estar explicada por la disponibilidad de personal de la UCI encargado de llevar los medicamentos desde y hacia la farmacia, revisándolos antes de cada entrega.
+
+Dado que los errores en la etapa de administración son los que conllevan el mayor riesgo de ocasionar un efecto adverso grave en los pacientes críticos29, se realizó la caracterización de los mismos para identificar los problemas específicos del proceso. Así, los EM más frecuentemente observados en la etapa de administración estuvieron relacionados con los horarios, con la programación de la velocidad de las infusiones y con la técnica de administración. Varios estudios internacionales, empleando diferentes metodologías han reportado resultados similares8,26,30.
+
+El análisis detallado, y la observación directa y secuencial de todos los procesos involucrados en el manejo de la medicación, nos permitieron identificar algunos de los posibles factores asociados a la ocurrencia de estos EM en nuestra institución, como sobrecarga asistencial, inapropiada estandarización en la preparación de medicamentos, descoordinación entre la UCI y farmacia, y la administración simultánea de 3 o más medicamentos en un mismo horario.
+
+La monitorización, medición y mejoramiento de la seguridad y calidad representa un gran desafío para el personal de la salud encargado de la atención de pacientes críticos31. La generación de estrategias educacionales dirigidas al personal, la revisión del arsenal de medicamentos disponibles en relación a las necesidades y condiciones especiales de los pacientes en la UCI, el desarrollo e implementación de protocolos que permitan orientar el correcto manejo de los medicamentos por las diferentes vías de administración y el uso de nueva tecnología, tienen el potencial de reducir significativamente los EM32,33.
+
+Entre las fortalezas del estudio destacan la evaluación de todas las etapas del proceso de utilización de medicamentos, a diferencia de otros estudios que se han enfocado principalmente en las etapas de prescripción y administración8,27,28,31. Un aspecto relevante a considerar, es que durante el período de observación no sólo se incluyeron las formas farmacéuticas parenterales, como lo han reportado algunos estudios27, sino también las enterales, lo que permitió la identificación de EM relacionados con estos fármacos. Adicionalmente, el diseño aleatorio del estudio, la metodología de reporte utilizada, basada en un observador externo, y la supervisión programada de los datos recolectados, le otorgan mayor validez interna a los resultados obtenidos.
+
+Sin embargo, nuestro trabajo tiene varias limitaciones. En primer lugar, se trata de un estudio realizado en un solo centro, en una población relativamente pequeña de pacientes, lo que podría restarle validez externa. No obstante, el número de pacientes incluido fue el apropiado según el cálculo del tamaño muestral, y en acuerdo con ello, estudios internacionales multicéntricos han reportado resultados similares a los nuestros8. En segundo lugar, no se evaluaron medicamentos administrados a través de infusiones continuas, dejando fuera del análisis medicamentos de uso frecuente en las UCI, como, por ejemplo, vasoactivos, sedo-analgésicos y anticoagulantes, lo que podría haber ocasionado una subestimación de los EM. Sin embargo, esto sólo resalta la trascendencia del problema. Finalmente, las observaciones realizadas en este estudio ocurrieron sólo en el horario diurno y hábil de trabajo, por lo que no incluye información sobre los procesos de manejo de medicamentos durante la jornada nocturna y fines de semana.

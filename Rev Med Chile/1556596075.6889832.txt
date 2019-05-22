@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015000200012
+¿Salud Pública o Privada? Los factores más importantes al evaluar el sistema de salud en Chile
+
+ 
+
+La salud es un derecho fundamental,    plasmado en la Constitución Política de Chile, en la cual se asume    que el Estado provee una atención igualitaria y libre a la población,    al mismo tiempo que consagra un sistema de carácter mixto, es decir,    público y privado.
+
+Desde el punto de vista de la eficacia del Sistema de Salud Chileno, se distinguen discrepancias desde varios ángulos temáticos.             Primero, discusiones políticas y gremiales con respecto a la implementación de las reformas de salud1. Segundo, falta de espacios para la participación e involucramiento ciudadano con respecto a las decisiones sectoriales y          desafíos de salud pública2.
+
+En Chile, según la encuesta de la Superintendencia de Salud (2011), la gran mayoría de sus habitantes pertenece al sistema             de salud público -alrededor de 80% de la población- mientras que únicamente 20% cuenta con un sistema privado de salud3. Interesante es que, según esta encuesta, únicamente 38% de la población encuestada manifiesta estar satisfecha con la atención             pública, mientras que 61% con la atención privada, lo que podría denominarse una crisis de descontento con el sistema de salud             público. Más aún, si consideramos los datos de la encuesta LAPOP (Proyecto de Opinión Pública de América Latina 2011), únicamente             5,2% de la población en Chile considera “buena” la calidad del servicio de salud público, siendo extremadamente bajo en comparación             con otros países de la región como, por ejemplo, Argentina (37,7%) y Uruguay (47,5%)4. Ciertamente, las diferencias -con respecto al servicio de  salud público y privado en Chile- pueden ser una causa de la             disparidad en términos comparativos.
+
+Entonces, ¿qué factores son los más importantes en la evaluación del sistema de salud? Para responder esta pregunta es posible             considerar, principalmente, dos métodos: 1º. Estudios de opinión pública (de representación nacional o regional); 2º. Estudios             específicamente a pacientes quienes evalúan, a través de cuestionarios, la calidad del servicio hospitalario.
+
+La opinión pública es un método por excelencia utilizado en políticas públicas. De hecho, es parte central dentro de las democracias             representativas puesto que muestra las percepciones que tiene la población respecto a sus expectativas  e intereses públicos5. Por otra parte, se distinguen estudios relacionados con la salud pública toda vez que se desea conocer las apreciaciones,             en distintas dimensiones, sobre temas concernientes a problemas gubernamentales por resolver. Por ejemplo, en el año 2006,             se realizó una encuesta en Estados Unidos para dar a conocer los problemas de salud más importantes para el gobierno, citándose             los costos de atención como la principal prioridad6. Ahora bien, con respecto a tal método son escasas las investigaciones, basadas en metodología de regresión estadística,             que estudian las preferencias de los habitantes por los sistemas de salud público y privado (estudios de opinión pública).
+
+Con respecto al segundo método, éste ha sido fuertemente utilizado -en diversos estudios- con el objetivo de averiguar las             diferencias en la calidad del servicio en los hospitales privados y públicos7-11. El método más utilizado para medir la calidad de los servicios hospitalarios proviene de la mercadotecnia y corresponde             al cuestionario denominado “SERVQUAL”. Éste es el método más utilizado dentro de aquellos que evalúan la calidad de los servicios             como, por ejemplo: technical and functional quality model12, ideal value model of service quality13, internal service quality model14, evaluated  performance and normed quality model15.
+
+Con respecto a este último método, se ha concluido que en Grecia los pacientes de los hospitales públicos se encuentran mayormente             satisfechos con la idoneidad de los médicos y enfermeras, sin embargo, los hospitales privados proporcionan mejores instalaciones             físicas y menores tiempos de espera16. Se ha argumentado que en los hospitales públicos de Singapur hay una carencia en términos de fiabilidad, seguridad, capacidad             de respuesta, empatía, accesibilidad, asequibilidad y en términos tangibles (infraestructura)17. En Sudáfrica se ha hecho un interesante hallazgo: en los hospitales privados la empatía de las enfermeras hacia los pacientes,             la seguridad y aspectos tangibles tienen un impacto positivo en la satisfacción con el servicio18.
+
+Ciertamente, como lo señalan autores ya bastantes años antes, se distinguen diferencias entre los hospitales públicos y privados             lo que ha llevado a una competitividad entre ambos por no fracasar frente a problemas de eficiencia19-20. En consecuencia, los clientes juegan un papel trascendental en la supervivencia de las entidades públicas y privadas toda             vez que tienen la capacidad de evaluar un servicio21-22.
+
+El objetivo de este estudio es investigar qué factores son percibidos como más importantes al evaluar el sistema de salud             en Chile. Igualmente, explorar la percepción de calidad que tienen del sistema de salud los usuarios de prestaciones públicas             y privadas. Esto nos permitirá dar a conocer las causas del descontento de la población por el sistema de salud en ambos sectores.
+
+Metodología
+
+Se realizó un estudio observacional, analítico de corte transversal. A través de múltiples análisis econométricos se estudió             la variable dependiente: nota del sistema de salud en general, la cual corresponde a una variable de percepción de calidad.             Para ello se utilizaron modelos de regresión logística binominal puesto que los datos corresponden a encuestas cuya operacionalización             de las variables pueden ser binarias, es decir, 0 y 123. Con esto fue posible estudiar la relación entre distintas causalidades de la aprobación del sistema de salud. En consecuencia,             tal variable se operacionalizó de la siguiente forma: ¿Qué nota le pone usted al sistema chileno de salud, en general? Use             la escala de 1 a 7, donde 1 es “Muy Malo” y 7 es “Muy Bueno”. Una nota de 5 a 7 es categorizada con 1 y de 1 a 4 con 0.
+
+Se realizaron cuatro modelos econométricos puesto que se quiso averiguar el impacto de variados factores causales en la percepción             de calidad del sistema de salud en distintas dimensiones. La primera dimensión corresponde a la población general de Chile,             la segunda a la apreciación únicamente de los que cuentan con un seguro de salud público (Fonasa) y, por último, los que tienen             un seguro de salud privado (Isapre).
+
+El instrumento de recolección de datos correspondió a la Encuesta sobre el Sistema de Salud Chileno, del Instituto de Salud             Pública de la Universidad Andrés Bello. Se realizó un corte transversal considerando los años 2011, 2012 y 2013 puesto que             aquí se realizaron un mismo grupo de preguntas. Por consiguiente, se infirió que al abarcar un mayor número de datos se aportarían             resultados más robustos. Se consideró una muestra representativa de la población de la Región Metropolitana y de Valparaíso,             con una totalidad de 2.801 casos segmentados según grupo socioeconómico, sexo y región. El tamaño de muestra se asoció a un             error estadístico de 5% en caso de muestreo probabilístico y un nivel de confianza de 95%.
+
+Resultados
+
+Al examinar los resultados descriptivos, lo primero que es posible distinguir es el alto descontento con el sistema de salud             en general y que la mayor parte de la población pertenece a Fonasa (sistema de salud público). Llama la atención que el mayor             disgusto es con respecto a la atención de urgencia, es decir, únicamente 30,3% señala que la atención al Servicio de Urgencia             es oportuna. Otro factor de importancia, aunque menos crítico, es que únicamente 45,5% de la población indica que se sienten             protegidos financieramente con su actual plan de salud. Por lo demás, las notas a los médicos es, en general, alta, al igual             que la percepción del trato administrativo y de la calidad de la infraestructura médica. Por otro lado, se distingue que hay             una predominancia de mujeres pertenecientes a Fonasa y, en cuanto a regiones, en Valparaíso es bastante mayor el número de             afiliados, a tal organismo público, que en la Región Metropolitana (Tabla 1).
+
+ 
+
+Tabla    1. Frecuencia de las variables. N = 2.801
+
+ 
+
+Ahora bien: ¿Qué    factores son los más influyentes al momento de evaluar el sistema de    salud? La tabla de correlaciones bivariadas muestra que la protección    financiera y la atención de Servicios de Urgencias serían las    variables que más se relacionan con la percepción del sistema    de salud en general de Chile. Aquello, nos aproxima a posibles causalidades    que se medirán en los modelos de regresión (Tabla    2).
+
+ 
+
+Tabla    2. Correlaciones
+
+
+
+El modelo multivariado de regresión    logística binominal (Tabla 3) predice lo siguiente:    
+
+1º Hay una probabilidad aproximada de 63% de que la población adscrita a Fonasa estime que el sistema de salud en general             es bueno, no ocurriendo lo mismo en el caso de los afiliados al sistema Isapre.
+
+2º Hay entre 64% y 68% de probabilidad que la población que califica positivamente la atención médica, administrativa y la             calidad de la infraestructura hospitalaria, también llegue a calificar positivamente el sistema de salud en general. 
+
+3º Es 2,2 veces más probable que un individuo indique que las atenciones de urgencia son oportunas y califique el sistema             de salud con una buena nota, a que no lo haga. Tal resultado nos propone que el tiempo de respuesta de los Servicios de Urgencia             es el factor más importante al momento de evaluar la percepción del sistema de salud en general (Exp (B) = 2,215).
+
+4º Es 2 veces más probable que un individuo señale sentirse protegido con su actual sistema de salud y, a su vez, evalúe positivamente             el sistema de salud en general a que no llegue a suceder tal acontecimiento (Exp (B) = 2,096. Aquel es el segundo factor en             nivel de importancia, en el modelo que estudia la percepción de la totalidad de la población, con respecto al sistema de salud             en general.
+
+Se ha incluido la variable “hombres” pero no mujeres puesto que considerar ambas variables en el modelo habría sido redundante.             Por igual motivo, los grados de libertad se han reducido con respecto a la variable “edad”, es decir, se ha excluido la edad             entre 18 y 39 años.
+
+ 
+
+Tabla    3. Nota al sistema de salud chileno, muy bueno y bueno
+
+
+
+En la Tabla 4    es posible distinguir que los pertenecientes a Fonasa y al grupo socioeconómico    C2, son quienes se sienten mayormente satisfechos con el sistema de salud en    general. Es decir, la clase media-media.
+
+ 
+
+Tabla    4. Nota al sistema de salud chileno, muy bueno y bueno        (la variable “Fonasa” se ha fraccionado según grupo socioeconómico)
+
+
+
+En la Tabla 5    se observa que el segmento de la población afiliada a Fonasa evalúa    el sistema de salud en general, primeramente, en base a los tiempos de espera    en las atenciones médicas de urgencia y, en segundo lugar, los montos    cancelados en la última atención.
+
+ 
+
+Tabla    5. Población con FONASA
+
+ 
+
+La Tabla 6    muestra que el segmento de la población afiliada a Isapre evalúa    el sistema de salud en general, primeramente, por la calidad de la infraestructura    médica y, en segundo lugar, por su protección financiera.
+
+ 
+
+Tabla    6. Población con ISAPRE
+
+
+
+Discusión
+
+Estos resultados sugieren que la población evalúa el sistema de salud en general, primeramente, por la prontitud de las atenciones             de urgencias. Este resultado es consistente con la evaluación que hacen los afiliados a Fonasa puesto que la variable “Atención             Servicio de Urgencia” posee el mayor coeficiente de regresión. La  segunda variable de mayor importancia, en tal caso, son             los montos cancelados en la última atención médica. Por su parte, en el caso de los afiliados a Isapre, ellos evalúan el sistema             de salud en general, primeramente, por la calidad de la infraestructura médica pasando a segundo lugar la protección financiera             del plan de salud. Estos resultados podrían ser útiles al momento de definir -en cada uno de los subsistemas- políticas públicas             que aborden estos elementos, es decir, las evaluaciones y percepciones que los beneficiarios tienen al estar en Isapres o             Fonasa. Ambos segmentos de la población valoran de manera distinta su seguro y sus respectivas redes de prestadores de salud.             Es decir, considerando las ventajas y deficiencias que ofrecen tanto el sistema de salud público como privado, nos acercamos             a las dimensiones que se deben equilibrar para mantener satisfechos a sus afiliados. En el caso de la salud privada: infraestructura             hospitalaria versus protección financiera en el copago de las prestaciones. En el caso de la salud pública: prontitud de la             atención de urgencia versus montos en el copago de las prestaciones médicas.
+
+Planteamos que todo lo que contribuya a  mejorar la gestión clínica y asistencial de los prestadores públicos -produciendo             una mejor asignación de recursos para que los pacientes gocen de una atención oportuna en  los servicios de urgencia  junto             con bajas en los montos de copago de las prestaciones médicas- podría mejorar los niveles de satisfacción de los beneficiarios             del Fonasa. En el caso del sector privado, para perseguir el mismo objetivo, junto con mantener o mejorar la protección financiera             se debe continuar mejorando la calidad de la infraestructura médica. Aquello puesto que, según la metodología aquí propuesta,             estos factores son relevantes para los beneficiarios de Isapre.
+
+Cabe señalar que, pese a que la presente investigación recabó información relevante en torno a una muestra representativa             de la población de las principales regiones del país, se presentaron algunas limitantes: los datos provienen de la opinión             pública y no directamente de  encuestas realizadas en los hospitales. Interesante sería contrastar tales resultados con un             estudio a los propios pacientes dentro de los centros de atención públicos y privados. Es probable que los encuestados -al             no estar en contacto con la calidad del servicio- puedan generar resultados distintos. Los estudios de esta índole suelen             ser criticados por alteraciones en la percepción, toda vez que los encuestados son constantemente influenciados por los medios             de comunicación, grupos de interés o líderes políticos24. Es por ello que se sugiere realizar estudios a través de cuestionarios SERVQUAL, cuando se desee comparar la calidad del             servicio hospitalario público y privado desde el punto de vista de la percepción del cliente. El presente estudio busca ser             un aporte en la discusión acerca de  la calidad de los servicios en ambos casos y de las causas de la crisis de descontento             en el sistema de salud chileno en general.
+
+Anexo: Los datos    de manejo de las variables pueden ser solicitados por los lectores interesados,    al autor corresponsal.

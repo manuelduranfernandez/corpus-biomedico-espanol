@@ -1,0 +1,126 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000500618
+Disglucemia asociada a fluoroquinolonas: una revisión estructurada
+
+En la prevención de la aparición y la progresión de complicaciones crónicas asociadas a la diabetes mellitus y su tratamiento, resulta clave alcanzar y mantener valores de normoglucemia (prepandial: 80-130 mg/dL y postprandial menor 180 mg/dL) y de hemoglobina glicosilada A1 inferiores a 7%1. El logro de dicho objetivo en ocasiones se ve afectado por estados de hipoglucemia, atribuidos a las propiedades farmacológicas y mecanismo de acción de los fármacos antidiabéticos, los cuales pueden ser graves y poner en riesgo la vida de los pacientes2; adicionalmente la respuesta de los pacientes al tratamiento con medicamentos antidiabéticos puede verse afectada por interacciones medicamentosas3. La medicación concomitante puede causar interacciones farmacocinéticas (cambio en el efecto debido a fluctuaciones en los niveles plasmáticos de los fármacos antidiabéticos) o farmacodinámicas (cambio en el efecto sin variaciones en las concentraciones del antidiabético), generando con ello, estados de hipoglucemia o de hiperglucemia3,4, favoreciendo la liberación de insulina, disminuyendo la resistencia periférica a la insulina o reduciendo la producción hepática de glucosa.
+
+Las quinolonas son una clase de antibacterianos ampliamente utilizados para tratar una gran variedad de infecciones bacterianas en humanos. Son antimicrobianos que inhiben el resellado de la ruptura de doble cadena del ADN generado por la ADN girasa y ADN topoisomerasa IV en el proceso de replicación de la información genética5.
+
+Estos medicamentos pueden producir disglucemias3, consideración que debería tenerse presente en pacientes que se encuentran en terapia con antidiabéticos. Korbel y Spencer describieron que hasta 20% de los reingresos hospitalarios en pacientes diabéticos se asociaron a infecciones del tracto urinario, piel, neumonía y sepsis, susceptibles a ser tratados con quinolonas6.
+
+Algunos autores, utilizando modelos animales han presentado explicaciones del posible mecanismo de las hipoglucemias asociadas al uso de fluoroquinolonas. En este sentido, Ghaly H et al., evidenciaron que la ciprofloxacina y la moxifloxacina generan un aumento de la liberación de insulina, bloqueando los canales de K+ ATP-sensibles. Además, reportaron que el efecto hipoglucemiante es dependiente de la dosis (Figura 3) y que es mayor con moxifloxacina que con ciprofloxacina7. Por su parte, Saraya et al., identificaron que las fluoroquinolonas causarían un aumento en la secreción de insulina, de forma similar a como lo hacen las sulfonilureas8.
+
+El mecanismo que produce una respuesta hiperglucémica con el uso de quinolonas aún no es claro, aunque existen datos de estudios en animales que presentaron una disminución en los gránulos secretores en las células pancreáticas β cuando se expusieron a gatifloxacina, lo que a su vez pudo conducir a una disminución en los niveles de insulina sérica y provocar hiperglucemia9.
+
+A la fecha no se dispone de una revisión estructurada que detalle la frecuencia y características asociadas, incluyendo las diferencias en el efecto de grupo, de las disglucemias asociadas a las fluoroquinolonas, con el soporte de los estudios analíticos y reportes de caso disponibles. Por tanto, el objetivo de este trabajo fue identificar y caracterizar la incidencia del efecto hipoglucemiante e hiperglucemiante asociado a las fluoroquinolonas en pacientes con diabetes y sin diabetes.
+
+Materiales y Métodos
+
+Se realizó una revisión estructurada (Revisión que tiene una estrategia de búsqueda definida que permite ser replicable) en PubMed/Medline sobre el efecto hipoglucemiante e hiperglucemiante de las fluoroquinolonas en humanos, se buscaron artículos publicados en inglés o español, con acceso a texto completo entre septiembre de 2006 y septiembre de 2017. La revisión se complementó con la inclusión de las referencias bibliográficas de los artículos consideradas de interés para el tema. La búsqueda se realizó con los siguientes términos MESH: Hypoglycemia, Hyperglycemia, Quinolones, Ciprofloxacin, Levofloxacin, Moxifloxacin (Anexo 1). Los criterios de inclusión fueron: 1) describir en el título o resumen información del cambio en la glucemia asociada al tratamiento con fluoroquinolonas; y 2) disponibilidad de acceso al texto completo. Por su parte, los criterios de exclusión fueron: 1) artículos sin ninguna relación con los objetivos de la revisión; 2) artículos con información limitada para evaluar relevancia clínica de la interacción o sin desenlace clínico o evaluación de la causalidad en reportes de caso; y 3) artículos relacionados con gatifloxacina (retirada del mercado en el 2009).
+
+Los artículos identificados fueron leídos y seleccionados por 3 investigadores de forma independiente. Para ello, se revisaron los títulos y resúmenes de todas las publicaciones identificadas para decidir su elegibilidad. Posteriormente, los artículos seleccionados se analizaron conjuntamente y, por consenso, se definió su inclusión o exclusión. Para la evaluación de la inclusión de las cohortes se tomó como base la guía la declaración STROBE de lectura de estudios observacionales.
+
+La clasificación de la relevancia clínica de las interacciones medicamentosas se estableció con base en la gravedad y probabilidad de ocurrencia de la misma10.
+
+Gravedad de la interacción10
+
+
+
+Grave. La interacción puede causar daño o lesión al paciente. La consecuencia del resultado clínico negativo de la farmacoterapia puede causar o generar en el paciente la muerte, riesgo para la vida, hospitalización, una incapacidad permanente o significativa, anomalías congénitas o malformaciones al nacer, al igual que otros efectos que a juicio médico puedan comprometer la integridad del paciente y generar la necesidad de realizar una intervención quirúrgica para evitar la muerte, hospitalización o anomalías congénitas.
+
+Moderada. La interacción genera la necesidad de realizar un seguimiento del paciente. La consecuencia del resultado clínico negativo de la farmacoterapia puede causar una modificación (cambio o interrupción) de la farmacoterapia o el empleo de nuevos fármacos para tratar el problema relacionado con medicamentos, o bien la prolongación de la hospitalización del paciente.
+
+Leve. La interacción no causa daño al paciente. La consecuencia del resultado negativo de la medicación no requiere la modificación (cambio o interrupción) de la farmacoterapia o el empleo de nuevos fármacos para tratar el problema relacionado con medicamentos ni prolonga la hospitalización del paciente.
+
+Probabilidad de aparición de la interacción10
+
+
+
+Por su parte, para la probabilidad de aparición de la interacción se establecieron 3 categorías: definida, probable o posible a partir del tipo de estudio que ha documentado la interacción y que ha sido publicado en revistas con revisión previa e indexada en bases de datos:
+
+Definida: Interacción documentada en metaanálisis, revisiones sistemáticas o ensayos clínicos aleatorizados o no aleatorizados.
+
+Probable: Interacción documentada en estudios analíticos o por la descripción de 3 o más casos.
+
+Posible: Interacción documentada por la descripción de menos de 3 casos o por recomendaciones de grupos de expertos.
+
+A partir de las combinaciones posibles de gravedad y probabilidad de aparición, las interacciones se agruparon en 4 categorías:
+
+Nivel 1: Riesgo muy alto (resultante de la combinación grave y definida, o grave y probable. En este caso el uso simultáneo de los medicamentos se consideró absolutamente contraindicado).
+
+Nivel 2: Riesgo alto (resultante de la combinación grave y posible, moderada y definida o moderada y probable. El uso simultáneo requiere ajustes en la dosificación y valoración clínica permanente de forma cuantitativa de la efectividad y seguridad de la combinación de los fármacos interactuantes).
+
+Nivel 3: Riesgo Medio (resultante de la combinación moderada y posible, leve y definida o leve y probable. También es necesario un monitoreo clínico frecuente y un análisis sobre la necesidad de ajustar la dosis).
+
+Nivel 4: Riesgo Bajo (resultante de la combinación leve y posible. La interacción es de escasa relevancia clínica).
+
+Análisis estadístico
+
+Se realizaron análisis estadísticos descriptivos, en el caso de los reportes de caso, se calcularon medias y proporciones. Adicionalmente, se realizó un forestplot, gráfica utilizada para resumir visualmente los riesgos relativos (RR) reportados en todos estudios de cohorte. Es importante destacar que con este análisis no se pretendió establecer un valor de la combinación de los estudios (meta-análisis) ya que la intención del estudio es descriptiva, por tanto, no se presentó el rombo para el RR.
+
+Resultados
+
+En total, 42 referencias bibliográficas fueron identificadas y se seleccionaron 24 artículos, en la Figura 1 se ilustra el proceso de identificación y selección de los manuscritos. Adicionalmente, se complementó la búsqueda con 2 artículos de interés, identificados en las referencias de los trabajos seleccionados. En dichos artículos se identificaron 6 interacciones, 3 valoradas de riesgo muy alto (nivel 1), para generar hipoglucemia, resultante de la combinación grave/probable, y las 3 restantes de riesgo medio (nivel 3) de causar hiperglucemia, producto de la combinación leve/probable, tal como se detalla en la Tabla 1. Los 24 artículos revisados mostraron que las fluoroquinolonas pueden causar disglucemias, siendo la hipoglucemia la alteración de mayor relevancia debido a que genera riesgo para la vida de los pacientes.
+
+Figura 1 Flujograma de búsqueda. *Artículos que evalúan el posible mecanismo hipoglucemiante de las quinolonas. **2 artículos presentaron 2 reportes de caso cada uno. ***En las cohortes se evaluó más de una quinolona. 
+
+Tabla 1 Clasificación de la relevancia clínica de la disglucemia asociada a las quinolonas (interacciones medicamento enfermedad de mecanismo farmacodinámico)5
+
+					 
+
+Acorde con los 15 reportes de caso, la edad media (DE) de los pacientes con hipoglucemia fue de 66,1 (12,7) años, el 53% hombres, 66% tenía diagnóstico de diabetes, el 13 % no tenía de diabetes y de 20% no se reportó el dato del diagnóstico. El 60% de los pacientes presentaron alteración renal, mientras que 13% alteración hepática. En el caso de los 10 pacientes con diabetes, 60% tenía prescrito una sulfonilurea. En los 15 reportes de caso, la levofloxacina (73,3%), seguido de la moxifloxacina (20,0%) y finalmente la ciprofloxacina (6,6%) fueron las fluoroquinolonas más asociadas a eventos hipoglucémicos. En todos los reportes de caso la gravedad de la hipoglucemia fue grave ya que fue causa de ingreso a hospitalización. La edad avanzada, la falla renal y la utilización concomitante de sulfonil-ureas podrían considerarse como factores de riesgo para hipoglucemia. Los resultados se detallan en la Tabla 2.
+
+Tabla 2 Características sociodemográficas y clínicas de los pacientes informada en los reportes de casos de hipoglucemia asociada a fluoroquinolonas 
+
+N/D: No disponible. IV: intravenosa.
+
+En pacientes con diabetes, en orden decreciente, las fluoroquinolonas con mayor riesgo de hipoglucemias fueron levofloxacina > moxifloxacina > ciprofloxacina. Por su parte, sin diferenciar por la presencia de diabetes (pacientes con o sin diabetes -población general-) el riesgo fue mayor con moxifloxacina seguida de ciprofloxacina y finalmente levofloxacina.
+
+Dentro del grupo de antibióticos los macrólidos se les considera que tienen un bajo efecto sobre la homeostasis de la glucosa, por tanto los estudios de cohorte comparan las incidencias de hipoglucemia e hiperglicemia de las quinolonas con estos antibióticos, El análisis comparativo de incidencias y riesgos relativos (RR) de hipoglucemias, atribuidas al tratamiento con fluoroquinolonas versus al asociado a los macrólidos (considerados como no hipoglucemiantes) mostró que la utilización de fluoroquinolonas aumenta el riesgo de hipoglucemia, la Figura 2 muestra los valores de RR obtenidos en cada una de las cohortes para cada quinolona.
+
+Figura 2 Comparación de incidencias y riesgos relativos (RR) de hipoglucemia entre fluoroquinolonas y macrólidos. 
+
+En 3 cohortes analizadas la incidencia de disglucemias, principalmente hipoglucemia, fue definida como grave al ser causa de ingreso al departamento de urgencias o causa de hospitalización, en pacientes en tratamiento conjunto de antidiabéticos con quinolonas hasta 30 días después de la prescripción de las antimicrobianos, las otras 2 cohortes evaluaron pacientes hospitalizados en tratamiento con quinolonas y tomaron como valores de hipoglucemia por debajo de 50 y 70 mg/dl y valores superiores a 200 mg/dl como hiperglucemia, sin clasificar la severidad de los eventos. (Las características de estos estudios analíticos se pueden observar en la Tabla 3).
+
+Tabla 3 Características sociodemográficas y clínicas de los pacientes de las cohortes relacionadas con disglucemia asociada a fluoroquinolonas 
+
+N/D: no disponible.
+
+Dentro de las principales limitaciones encontradas en estas cohortes se manifestó la dificultad para captar los pacientes ya que los datos fueron tomados de forma retrospectivas y no siempre se encontraron todos los exámenes de laboratorio, adicionalmente, aunque las cohortes presentaron grandes tamaños de muestra, los casos aún son bajos debido a la baja frecuencia de aparición de hipoglucemia producida por quinolonas.
+
+Discusión
+
+Los resultados de la presente revisión sustentan la afirmación de que las fluoroquinolonas pueden causar cambios en la homeostasis de la glucosa3, esencialmente hipoglucemia (Tablas 1 y 2). En este sentido, es importante destacar que en pacientes con diabetes el orden decreciente de riesgo del efecto fue levofloxacina > moxifloxacina > ciprofloxacina. Por su parte, sin diferenciar por la presencia de diabetes (pacientes con o sin diabetes -población general-) el riesgo fue mayor con moxifloxacina seguida de ciprofloxacina y levofloxacina, respectivamente.
+
+Tabla 4 Estudios incluidos en la revisión 
+
+PK/PD: Framacocinético/farnmacodinámico.
+
+Relacionado con la seguridad del tratamiento antibiótico con quinolonas en pacientes con diabetes, los resultados de la presente revisión soportan un aumento en la incidencia de eventos hipoglucemiantes mediante interacción farmacodinámica de relevancia 1 (riesgo muy alto) y de hiperglucemias a través de interacción farmacodinámica de relevancia 3 (riesgo medio). Según los estudios de cohorte identificados, en población con o sin diabetes (población general), la moxifloxacina es la fluoroquinolona con mayor incidencia de efecto hipoglucemiante, seguida de ciprofloxacina y levofloxacina, respectivamente. Sin embargo, en pacientes con diabetes, la levofloxacina fue la fluoroquinolona con mayor probabilidad de causar el evento de hipoglucemia, seguida de la moxifloxacina y ciprofloxacina, respectivamente. Por tanto, en pacientes con diabetes, la ciprofloxacina es la que tiene menor probabilidad de generar hipoglucemia. Esta información debería ser considerada especialmente en los pacientes con diabetes ambulatorios, ya que estos son los que podrían tener limitaciones para un seguimiento y valoración del efecto en la glucemia asociado al inicio y terminación del tratamiento con este tipo de antibióticos.
+
+La edad avanzada parece ser un factor que aumenta el riesgo de presentarse disglucemias asociadas a fluoroquinolonas. En este sentido, en los reportes de caso y los estudios de cohorte, la edad promedio se ubicó entre los 66 y 78 años. Adicionalmente, la alteración renal y el uso concomitante de sulfonil-ureas se asociaron a una mayor incidencia de eventos de hipoglucemia.
+
+Mecanismo hipoglucemiante
+
+Las quinolonas se unen a los canales de potasio dependientes de ATP sobre la membrana celular de las células pancreáticas β, esto conlleva a una inhibición de la salida de iones de potasio del interior de la célula pancreática así como su acumulación, causando que el potencial de membrana se vuelva más positivo. Esta despolarización permite la apertura de canales de calcio voltaje dependientes que a su vez incrementan la fusión de los gránulos transportadores de insulina con la membrana celular aumentado la liberación de insulina a circulación sistémica. Si bien el bloqueo en los canales de potasio dependientes de ATP es necesario para ejercerse el efecto de liberación de insulina, este mecanismo no parece ser suficiente para explicar la hipoglucemia causada por las quinolonas8 (Figura 3).
+
+Figura 3 Posible mecanismo del efecto hipoglucemiante de las fluoroquinolonas24,25
+
+						 
+
+Mecanismo hiperglucemiante
+
+Los estudios en animales han demostrado una disminución relacionada con la dosis en la liberación de insulina de las células en respuesta a un desafío de glucosa después de 7 días de exposición a fluoroquinolonas9.
+
+Orden de la actividad hipoglucemia de las quinolonas
+
+En pacientes con diabetes y factores de riesgo para presentar hipoglucemias, que requieran un tratamiento con una fluoroquinolona teniendo presente el tipo de infección y perfil de sensibilidad, se debería considerar el posible orden de probabilidad de presentar hipoglucemia asociado al tratamiento con estos fármacos (levofloxacina > moxifloxacina > ciprofloxacina). Esta información podría ser de interés, en el momento de elegir una fluoroquinolona en este tipo de pacientes, en especial de edad avanzada y ambulatorios, los cuales carecen de un monitoreo más estricto del efecto de la prescripción de dichos antibióticos en la glucemia.
+
+Limitaciones
+
+La principal limitación del presente estudio se debe a que la búsqueda se limitó a la base de datos PubMed/Medline. Sin embargo, este efecto pudo disminuirse con la inclusión de las referencias bibliográficas de los artículos consideradas de interés para el tema.
+
+Conclusiones
+
+Las fluoroquinolonas pueden causar disglucemia, esencialmente hipoglucemia en pacientes con o sin diabetes (población general) con un riesgo en orden decreciente, moxifloxacina > ciprofloxacina > levofloxacina. Por su parte, en pacientes con diabetes el riesgo obedece al siguiente orden: levofloxacina > moxifloxacina > ciprofloxacina. Aunque la incidencia de esta condición sea baja, en pacientes en tratamiento anti-diabético, con factores de riesgo, esencialmente edad avanzada y enfermedad renal, existe mayor probabilidad de presentarse hipoglucemias graves, interacción farmacodinámica clínicamente relevante (riesgo muy alto) que debería ser tenida en cuenta en el momento de la prescripción de estos fármacos.
+
+Apoyo financiero: El grupo Promoción y Prevención Farmacéutica recibió financiación de la convocatoria de sostenibilidad 2018-2019 del Comité para el Desarrollo de la Investigación de la Universidad de Antioquia.

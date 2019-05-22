@@ -1,0 +1,114 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015000900001
+El ácido nicotínico aumenta el transporte celular de colesterol de las lipoproteínas de alta densidad en pacientes con hipoalfalipoproteinemia
+
+ 
+
+Los niveles séricos de colesterol transportado en las lipoproteínas de alta densidad (HDL) se correlacionan inversamente con el riesgo cardiovascular ateroesclerótico1-3. Entre diferentes funciones fisiológicas4-6, las partículas de HDL remueven el exceso de colesterol de los tejidos periféricos, transportándolo a través del plasma y entregándolo al hígado para su excreción biliar. Este proceso se conoce como transporte reverso del colesterol y sería uno de los principales mecanismos que explican el efecto antiaterogénico de las HDL7,8.
+
+Estudios in vitro y en animales han demostrado que el receptor scavenger clase B tipo I (SR-BI)9 participa en el transporte reverso de colesterol, facilitando su eflujo desde las células periféricas hacia las partículas de HDL10 y mediando la captación de colesterol desde las HDL hacia los hepatocitos11. De hecho, SR-BI controla el metabolismo de HDL y tiene efecto antiaterogénico en ratones12-14 y modula los niveles de colesterol HDL en humanos15,16, sugiriendo que alteraciones en su expresión y/o función podrían ser relevantes también en ateroesclerosis humana.
+
+Por otro lado, el ácido nicotínico (AN) modula el metabolismo lipoproteico, aumentando el colesterol HDL en pacientes con bajos niveles de esta lipoproteína (hipoalfalipoproteinemia)17-21, y determinando acumulación de partículas de HDL2, una subclase de HDL de mayor tamaño22-24, como consecuencia de menor degradación hepática25. Adicionalmente, niveles elevados de HDL2 se han asociado a menor riesgo cardiovascular ateroesclerótico26-28. Así, estas partículas de HDL de mayor tamaño estarían más disponibles para participar en las diferentes etapas del transporte reverso de colesterol mediado por el receptor de HDL SR-BI.
+
+Por lo tanto, proponemos que el tratamiento con AN mejora la capacidad funcional de las HDL como partículas aceptoras y/o donantes de colesterol en células que expresan SR-BI. Este estudio clínico piloto evaluó el efecto del AN sobre los niveles, el tamaño, la composición lipídica y la funcionalidad de las partículas de HDL en los procesos de eflujo y captación celular de colesterol mediados por SR-BI en pacientes hipoalfalipoproteinémicos.
+
+Métodos
+
+Diseño
+
+Sub-estudio piloto dentro de un protocolo clínico con diseño pareado (sin grupo control no intervenido) que analizó la seguridad y eficacia del AN de liberación extendida (ANLE) en pacientes con hipoalfalipoproteinemia. Ocho pacientes con colesterol HDL ≤ 40 mg/dl fueron tratados por vía oral durante16 semanas con ANLE (titulado mensualmente hasta alcanzar 2 g/día). Durante todo el estudio, los pacientes podían recibir dosis estables de estatinas, antihipertensivos y antidiabéticos. La droga de intervención (NiaspanMR) fue proporcionada por Merck S.A. Chile. Cada paciente firmó un consentimiento informado aprobado previamente por el Comité de Ética en Investigación institucional. Se obtuvieron muestras de sangre basales y post-tratamiento con ANLE de cada paciente, cuyos plasmas se mantuvieron a 4ºC o congelados hasta su uso.
+
+Análisis bioquímicos estándares
+
+Los parámetros bioquímicos rutinarios se evaluaron en muestras de sangre antes y después del tratamiento con AN en el laboratorio del Hospital Clínico de nuestra institución.
+
+Mediciones de colesterol y fosfolípidos en HDL total y colesterol HDL2 y HDL3
+
+La fracción total de HDL, así como en las subclases de HDL2 y HDL3 plasmáticas, se aislaron mediante precipitación iónica29 o remoción cromotográfica30 de las lipoproteínas no HDL. El contenido de colesterol total, colesterol no esterificado, ésteres de colesterol y fosfolípidos totales asociados a HDL se cuantificaron mediante métodos estandarizados30,31.
+
+Medición del tamaño de las partículas de HDL
+
+A partir de plasma total, las lipoproteínas no HDL se precipitaron con polietilenglicol (PEG)32. El sobrenadante fue utilizado para la medición del tamaño de las partículas de HDL mediante electroforesis no denaturante33.
+
+Preparación de HDL para ensayos de transporte celular de colesterol
+
+Después de la precipitación con PEG32, el sobrenadante del plasma que contenía las partículas de HDL se concentró mediante ultrafiltración para luego utilizarlo en los ensayos de transporte celular de colesterol. El contenido de apolipoproteína A-I asociado a HDL se midió mediante ELISA (kit comercial obtenido de ABCAM, Cambridge, MA, EUA).
+
+Cultivo celular y marcación celular con colesterol tritiado
+
+La línea celular ldlA7 no transfectada y aquella que expresa establemente el receptor de HDL SR-BI (ldlA[SR-BI]) fueron obtenidas del Dr. Monty Krieger, Departamento de Biología, MIT (Cambridge, MA, EUA) y se cultivaron como se ha descrito previamente10,11. Para el caso específico del estudio de eflujo de colesterol, las células se preincubaron por 24 h con medio suplementado con 1 Ci/ml de [3H]-colesterol no esterificado para marcar radioactivamente el contenido intracelular de colesterol10.
+
+Ensayo de eflujo de colesterol celular dependiente de SR-BI e inducido por HDL
+
+Después de la marcación con [3H]-colesterol, las células sin y con expresión de SR-BI se lavaron con medio de cultivo sin suero y luego se incubaron (por triplicado) a 37ºC durante 2 h con medio de eflujo10 y 100 µl/ml del sobrenadante del plasma post-precipitación con PEG que contenía HDL obtenidas pre- o post-terapia con ANLE. Después de esta incubación, se retiró el medio de eflujo que contenía HDL, se centrifugó y el sobrenadante se utilizó para medir la radiactividad del colesterol tritiado presente en el medio. Además, las células adheridas a la placa de cultivo se lisaron y se emplearon para medir el colesterol celular radioactivo. El eflujo de colesterol se determinó mediante el cálculo del porcentaje de la radiactividad total presente en el ensayo (la suma de la radiactividad de colesterol medida en las células más la radiactividad del medio de eflujo) que se liberó hacia dicho medio durante el período de incubación con HDL10. El eflujo celular de colesterol dependiente específicamente de SR-BI se obtuvo substrayendo el eflujo mediado por las muestras de HDL pre-o post-AN de cada paciente medido en células ldlA sin SR-BI de aquel eflujo detectado en las células ldlA [SR-BI].
+
+Ensayo de captación celular de colesterol celular dependiente de SR-BI e inducido por HDL
+
+Las células sin y con sobrexpresión de SR-BI se lavaron con medio de cultivo sin suero y después se incubaron en triplicado a 37ºC durante 5 h con medio de captación11 y 100 µl/ml del sobrenadante de plasma post-precipitación con PEG que contenía HDL obtenidas pre- o post-terapia con ANLE. Después de esta incubación, se retiró el medio que contenía HDL y las células se enfriaron, lavaron y sometieron a extracciones para mediciones del contenido celular de colesterol total y proteínas11. La captación neta de colesterol se determinó mediante el aumento en el contenido de colesterol celular después de la incubación sin y con HDL y se expresó como µg de colesterol total/mg de proteína celular11. La captación celular de colesterol dependiente específicamente de SR-BI se estableció substrayendo la captación mediada por las muestras de HDL pre- o post-ANLE de cada paciente medido en las células ldlA sin SR-BI de aquella captación detectada en las células ldlA[SR-BI].
+
+Análisis estadístico
+
+La normalidad de la distribución de los datos obtenidos pre- y post-tratamiento fue evaluada mediante el test de Shapiro-Wilk. Cada paciente corresponde a su propio control para los análisis realizados antes y después del tratamiento con AN. Por ello, la significación de las diferencias observadas se analizó aplicando el test t de Student o de rangos con signo de Wilcoxon para muestras pareadas, según la distribución de las mismas. Las diferencias se consideraron estadísticamente significativas con un valor de p < 5%.
+
+Resultados
+
+Las características basales de los pacientes estudiados se muestran en la Tabla 1. La mayoría de los pacientes (6 de 8 casos) reclutados mostraron niveles bajos de colesterol HDL asociados a un metabolismo anormal de la glucosa. Sin embargo, todos los pacientes estaban clínicamente estables y sin cambios en su estilo de vida ni terapia farmacológica por al menos 6 semanas pre-estudio ni durante el desarrollo de este protocolo.
+
+ 
+
+Tabla 1. Características generales de los pacientes
+
+
+
+
+
+Después del tratamiento de estos pacientes con ANLE, se detectaron cambios significativos en los parámetros de HDL. La comparación de los valores observados antes y después del uso de ANLE en cada paciente mostró un aumento promedio significativo de 6,8 mg/dl (IC: 3,04-10,07; p = 0,0013), lo que equivale a un alza de 21%, en los niveles totales de colesterol HDL con respecto a la condición basal (Figura 1). Estos cambios se correlacionaron con un aumento proporcional en los niveles de colesterol no esterificado y esterificado presente en las HDL después del tratamiento con ANLE, sin cambio del contenido relativo de ésteres de colesterol (Tabla 2). Por otro lado, el tratamiento con AN causó un aumento significativo en el contenido de fosfolípidos de HDL y en los niveles de apolipoproteína A-I (Tabla 2).
+
+ 
+
+
+
+Figura 1. Efecto del AN sobre los niveles de colesterol HDL en pacientes con          hipoalfalipoproteinemia. Los valores de colesterol HDL total se midieron en muestras          plasmáticas antes y después del tratamiento con AN usando un método clínico rutinario.          Comparando antes y después del tratamiento en cada paciente, el uso de ANLE          mostró un aumento promedio significativo en los niveles totales de colesterol HDL.
+
+ 
+
+Tabla 2. Efecto del AN sobre los niveles de colesterol, fosfolípidos HDL y apolipoproteína          A-I yel tamaño de las partículas de HDL en pacientes con hipoalfalipoproteinemia
+
+
+
+
+
+En cuanto a las subclases de HDL, la terapia con ANLE produjo un aumento significativo de 5,6 mg/dl (IC: 2,07-8,06; p = 0,0028) en los niveles de colesterol transportados en HDL2 (Figura 2), sin cambios significativos en los niveles de colesterol asociados a HDL3 (p = 0,1299). Además, el aumento en el colesterol asociado a HDL2 se correlacionó con un incremento significativo de 11% (p = 0,007) en el tamaño estimado de las partículas de HDL post-tratamiento con AN versus la situación basal (Tabla 2).
+
+ 
+
+
+
+Figura 2. Efecto del AN sobre los niveles de colesterol asociado a HDL2 en          pacientes con hipoalfalipoproteinemia. Los valores de colesterol presentes en las          partículas de HDL2 se midieron en muestras plasmáticas antes y después del          tratamiento con AN usando el método descrito en la sección de Métodos. La terapia          con ANLE produjo un incremento significativo en los niveles de colesterol          transportados en HDL2 comparando la condición pre- versus post-tratamiento.
+
+
+
+Funcionalmente, se analizaron los cambios en la capacidad de transporte (eflujo y captación) celular de colesterol de las partículas de HDL aisladas antes y después del tratamiento con AN en forma dependiente de SR-BI, usando una línea celular con sobrexpresión de este receptor y el respectivo control celular que no lo expresa. Todos los ensayos se realizaron mediante adición al medio de cultivo de un volumen fijo (100 µl) de plasma sobrenadante después de la precipitación de las lipoproteínas no HDL. Este volumen de plasma adicionó una cantidad de HDL que permitió alcanzar concentraciones finales de apo A-I entre 8-24 µg/ml de apo A-I en cada ensayo, las cuales se encuentran dentro del rango lineal de la curva dosis respuesta de unión, eflujo y captación de colesterol de las partículas de HDL en células que expresan el receptor SR-BI9,10. En primer lugar, la capacidad de eflujo celular de colesterol de las HDL dependiente del receptor SR-BI mostró un aumento absoluto significativo de 7,9% (IC: 2,9-12,8; p = 0,011), lo que equivale a un incremento relativo de 93%, después del tratamiento con AN en comparación con la funcionalidad basal de estas lipoproteínas (Figura 3). Por otro lado, la capacidad de las lipoproteínas HDL para facilitar la captación de colesterol hacia las células en cultivo por medio del receptor SR-BI aumentó significativamente, determinando un incremento neto de 3,4 µg colesterol/mg de proteína celular (IC: 1,4-5,3; p = 0,045), cuando se compara la condición previa versus el estado posterior al tratamiento con AN. El efecto de este hipolipemiante sobre estas variables no dependió de la presencia basal de trastornos en el metabolismo glucídico. En conjunto, estos resultados funcionales muestran que el plasma obtenido después del tratamiento con ANLE tiene una mayor capacidad de transporte de colesterol dependiente de SR-BI entre las partículas de HDL y las células que expresan este receptor lipoproteico.
+
+ 
+
+
+
+Figura 3. Efecto del AN sobre el transporte celular de colesterol HDL dependiente del          receptor SR-BI en pacientes con hipoalfalipoproteinemia. El eflujo (izquierda) y la captación          (derecha) celular de colesterol dependiente específicamente de SR-BI e inducido por las          partículas de HDL obtenidas antes y después del tratamiento con AN se determinaron          como se describe en la sección de Métodos. Los datos se muestran como media ± 1 DE          o mediana y cuartiles. Los valores de p indican la significación estadística de la          difererencia entre la condición basal y post-terapia con ácido nicotínico evaluada mediante          test t de Student o de rangos con signo de Wilcoxon(*) para muestras pareadas.          Tanto la capacidad de eflujo como captación celular de colesterol de las HDL dependiente          del receptor SR-BI mostraron un aumento significativo después del tratamiento con AN en          comparación con ambas funcionalidades de estas lipoproteínas en condiciones basales.
+
+ 
+
+Discusión
+
+Además de comprobar los cambios conocidos sobre los niveles y la composición de las HDL, este estudio clínico piloto describe el efecto del tratamiento con AN sobre la funcionalidad de las partículas de HDL cuando participan en el proceso de transporte celular de colesterol mediado por el receptor lipoproteico SR-BI.
+
+Bioquímicamente, este trabajo confirma que el tratamiento de pacientes hipoalfalipoproteinémicos con AN aumenta los niveles totales de colesterol HDL17-21 y que este cambio se debe a un aumento concomitante y proporcional en el contenido de colesterol libre y esterificado, asociado con un aumento en los niveles de fosfolípidos presentes en esta clase lipoproteica. Por lo tanto, AN preserva la composición relativa de colesterol libre/esterificado en las HDL, rasgo que parece ser crítico para la funcionalidad normal de estas partículas lipoproteicas en el transporte de colesterol desde y hacia las células in vivo. De hecho, las partículas de HDL enriquecidas en fosfolípidos tienen una mayor capacidad de eflujo de colesterol celular a través de SR-BI34.
+
+En relación al tamaño de las partículas de HDL, este estudio piloto muestra que ANLE induce un aumento significativo en el diámetro estimado de esta fracción lipoproteica, asociado a la acumulación de HDL2, sin cambios en HDL322-24. Esta acumulación de partículas de HDL de mayor tamaño se explicaría por la menor degradación hepatocelular de HDL2 inducida por AN25. Este aumento neto en los niveles de colesterol HDL asociados con la presencia de las partículas de HDL más grandes puede conducir a un transporte reverso de colesterol más eficiente in vivo, ya sea mediante el aumento del flujo de salida de colesterol desde las células periféricas hacia las partículas de HDL, así como una mayor captación de colesterol desde estas últimas hacia los hepatocitos.
+
+En cuanto a los estudios de transporte celular de colesterol, el tratamiento con ANLE se asoció claramente a mayor eflujo y captación de colesterol celular inducida por las HDL plasmáticas en forma dependiente de la expresión del receptor SR-BI. De hecho, estos hallazgos son consistentes con estudios previos que indican que la afinidad de la unión de las partículas de HDL a SR-BI se relaciona directamente con el tamaño e inversamente con la densidad de estas lipoproteínas35. Estos hallazgos sugieren un nuevo mecanismo por el cual las partículas de HDL2 se han asociado preferencialmente con menor riesgo de ateroesclerosis26-28.
+
+Nuestro trabajo no permite diferenciar si el aumento en la capacidad de transporte de colesterol de las HDL obtenidas después del tratamiento con ANLE se explica simplemente por el aumento observado en los niveles de HDL, por un mayor número de partículas HDL o una mejor funcionalidad intrínseca. Un estudio reciente indica que el incremento en la capacidad de eflujo de colesterol celular inducido por plasma humano post-tratamiento con AN se debe principalmente al cambio en la concentración de HDL, sin modificaciones en la función de las partículas de HDL per se36. Sin embargo, nuevos fármacos en desarrollo aumentarían la capacidad funcional intrínseca de las partículas de HDL en el proceso de eflujo celular de colesterol32,37.
+
+A pesar de estos efectos favorables sobre las lipoproteínas HDL, así como en los niveles de colesterol LDL y triglicéridos, los estudios de intervención más recientes no demostraron un beneficio clínico adicional del uso de AN asociado a estatinas21,38. Por lo tanto, no existe evidencia suficiente para recomendar terapia con AN orientada a HDL para disminuir el riesgo cardiovascular residual que existe a pesar de una óptima terapia hipolipemiante con estatinas. Sin embargo, AN puede seguir siendo útil como tratamiento adyuvante en pacientes que persisten con altos niveles de lipoproteínas aterogénicas y que no toleran el uso o el aumento en la dosificación de las estatinas como terapia primaria.
+
+En resumen, este estudio clínico piloto establece que la actividad funcional del receptor de HDL SR-BI pudiese ser relevante en la comprensión de los efectos biológicos de los fármacos hipolipemiantes. Si este nuevo mecanismo de acción del AN mediado por SR-BI en células en cultivo ocurre in vivo, el diseño de nuevos fármacos que aumenten la expresión y/o la actividad de este receptor lipoproteico podrían modular favorablemente el metabolismo de HDL y optimizar la prevención y tratamiento de la ateroesclerosis.

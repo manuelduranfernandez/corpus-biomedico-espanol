@@ -1,0 +1,150 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872011000900009
+Entrenador virtual de fibrobroncoscopia de bajo costo para enseñanza
+
+ Los avances tecnológicos han permitido crear entrenadores virtuales con gran realismo sensorial, sin supervisión, evaluando objetivamente las habilidades del estudiante, y preparándolo psicológicamente para enfrentar complicaciones simuladas de manera segura. Varios estudios muestran que los entrenamientos virtuales son tan buenos como los métodos de entrenamiento estándar1-5.  La fibrobroncoscopia (FBC) es un examen que no reviste peligro de muerte, pero sus movimientos requieren de habilidad especial para no generar algún daño6. La realidad virtual (RV) ha mostrado su potencial en FBC para prevenir errores7-15, siendo una realidad gracias a la disponibilidad de programas computacionales para crear modelos tridimensionales del árbol traqueobronquial16,17. El objetivo de este trabajo es mostrar la utilidad de la FBC virtual en el entrenamiento de becados de la especialidad broncopulmonar, previo al enfrentamiento real, relacionado a aspectos prácticos y de costos. No se pretende simular totalmente el procedimiento ni reemplazar el "real", sino lograr que el especialista sienta comodidad al utilizar el aparato y aproveche mejor su tiempo de práctica de FBC real. Presentamos un modelo de entrenador de bajo costo en el uso del fibrobroncoscopio (BC) utilizando RV. Se muestra el diseño 3D de la tráquea y los bronquios y la simulación del desplazamiento del BC dentro del árbol bronquial. Presentamos el ajuste de los parámetros del BC virtual según la opinión experta de los especialistas para mejorar la simulación, como también los beneficios y limitaciones de entrenar a becados de la especialidad broncopulmonar con esta herramienta virtual.  Materiales y Métodos El simulador se programó en Virtual Reality Modelling Language (VRML) bajo la plataforma libre de costo "Superscape Viscape Universal" versión 5.618, requiriendo como mínimo un PC Pentium IV de 1,6GHz y 1GB de RAM. El recorrido del BC por las vías aéreas se simula desde la tráquea hasta los bronquios, compuesto de objetos razonablemente cilíndricos, siendo el cilindro la pieza principal de construcción del mundo virtual.  Los cilindros se representan computacionalmente por polígonos, que demandan una alta capacidad de procesamiento. Por esto, los cilindros se aproximan utilizando la menor cantidad posible de polígonos, equilibrando desempeño computacional y riqueza gráfica. La tráquea es un tubo cilíndrico cuya parte posterior es plana y corresponde al quinto de su circunferencia. En cambio, los bronquios son prácticamente cilíndricos. Al representar la tráquea como un cilindro completo, es posible utilizar la misma figura para construir tráquea y bronquios virtuales. La representación 3D de un cilindro se aproxima con caras planas. Con 4 caras se tiene un cubo sin tapas, con infinito número de caras se tiene un cilindro perfecto. El número de facetas depende de la capacidad de procesamiento: una mayor cantidad de polígonos representan un mejor cilindro, requiriendo mayor tiempo al representarlo. Un entrenador virtual requiere al menos 8 caras por cilindro, para ejecutarlo en PC estándares.  Durante la FBC, la cabeza del paciente permanece quieta, asumiéndose que la tráquea tiene una longitud constante durante el procedimiento. El diámetro de una tráquea viva no es fijo, pero la diferencia entre el primer y último anillo es de 0,2 mm19, siendo razonable suponer que la tráquea tiene longitud y diámetro fijos. A pesar que el radio de los tubos bronquiales decrece a medida que crecen, en esta aplicación se mantienen constante para simplificar los cálculos de colisión y reducir el tiempo de respuesta del sistema. En el árbol bronquial se asume que las ramificaciones son dicotómicas (serie de bifurcaciones sucesivas que dan forma al árbol). Para reducir la complejidad, la bifurcación de las ramas tiene un ángulo de 90º. En estas bifurcaciones se reduce el diámetro en la misma cantidad de los tubos bronquiales que crecen en 30% cada generación, incluso en la bifurcación de la tráquea, cuyo bronquio derecho es más voluminoso que la tráquea y que la rama izquierda.  Se representan seis generaciones del árbol bronquial siendo una muestra suficientemente grande y compleja para entrenar las habilidades de un estudiante. Consecuentemente, seis generaciones es lo máximo que puede recorrer el BC real dentro del árbol bronquial.  La radiografía de la Figura 1(a) muestra la expansión dicotómica de los bronquios, que no es suficientemente clara para hacer una abstracción virtual. Para modelarlo en 3D se recurre a imágenes como en la Figura 1(b). Una representación simplificada no requiere una reproducción exacta y fidedigna de los órganos, considerando que el entrenador virtual tiene como objetivo familiarizar al estudiante con el BC y su procedimiento. Las ramas virtuales se distribuyen libremente con la restricción que el árbol quepa dentro de un pulmón virtual. La Figura 2 muestra el diagrama desarrollado en 3D.       
+
+Figura 1. El árbol bronquial. a. Radiografía20; b. Según21.         
+
+Figura 2. Diagrama plano de árbol bronquial y tráquea.   Para simular el tejido humano se estudia imágenes de resonancia magnética, videos y modelos computarizados como el Visible Human Project22. Para lograr mayor realismo se simulan detalles más complejos por medio de colores o texturas en las caras visibles del trayecto del BC.  El uso de texturas incrementa la sensación de inmersión al proveer más claves visuales de "realidad" al usuario, mostrando detalles imposibles de representar con polígonos, o costosas en tiempo de procesamiento. Otro beneficio es disimular los pocos polígonos que componen una figura, aprovechando la ilusión óptica. Para obtener la textura se recurre a fotografías de una FBC real (Figura 3), tomadas desde el centro de la tráquea. Para crear la textura se toma muestras de color de la parte más clara y más oscura del anillo cartilaginoso para fundirlas con un efecto de degradación de un color al otro.       
+
+Figura 3. Fotografías de una tráquea tomadas con un FBC23.  
+
+Los avances tecnológicos han permitido crear entrenadores virtuales con gran realismo sensorial, sin supervisión, evaluando objetivamente las habilidades del estudiante, y preparándolo psicológicamente para enfrentar complicaciones simuladas de manera segura. Varios estudios muestran que los entrenamientos virtuales son tan buenos como los métodos de entrenamiento estándar1-5. 
+
+La fibrobroncoscopia (FBC) es un examen que no reviste peligro de muerte, pero sus movimientos requieren de habilidad especial para no generar algún daño6. La realidad virtual (RV) ha mostrado su potencial en FBC para prevenir errores7-15, siendo una realidad gracias a la disponibilidad de programas computacionales para crear modelos tridimensionales del árbol traqueobronquial16,17.
+
+El objetivo de este trabajo es mostrar la utilidad de la FBC virtual en el entrenamiento de becados de la especialidad broncopulmonar, previo al enfrentamiento real, relacionado a aspectos prácticos y de costos. No se pretende simular totalmente el procedimiento ni reemplazar el "real", sino lograr que el especialista sienta comodidad al utilizar el aparato y aproveche mejor su tiempo de práctica de FBC real.
+
+Presentamos un modelo de entrenador de bajo costo en el uso del fibrobroncoscopio (BC) utilizando RV. Se muestra el diseño 3D de la tráquea y los bronquios y la simulación del desplazamiento del BC dentro del árbol bronquial. Presentamos el ajuste de los parámetros del BC virtual según la opinión experta de los especialistas para mejorar la simulación, como también los beneficios y limitaciones de entrenar a becados de la especialidad broncopulmonar con esta herramienta virtual. 
+
+Materiales y Métodos
+
+El simulador se programó en Virtual Reality Modelling Language (VRML) bajo la plataforma libre de costo "Superscape Viscape Universal" versión 5.618, requiriendo como mínimo un PC Pentium IV de 1,6GHz y 1GB de RAM.
+
+El recorrido del BC por las vías aéreas se simula desde la tráquea hasta los bronquios, compuesto de objetos razonablemente cilíndricos, siendo el cilindro la pieza principal de construcción del mundo virtual. 
+
+Los cilindros se representan computacionalmente por polígonos, que demandan una alta capacidad de procesamiento. Por esto, los cilindros se aproximan utilizando la menor cantidad posible de polígonos, equilibrando desempeño computacional y riqueza gráfica.
+
+La tráquea es un tubo cilíndrico cuya parte posterior es plana y corresponde al quinto de su circunferencia. En cambio, los bronquios son prácticamente cilíndricos. Al representar la tráquea como un cilindro completo, es posible utilizar la misma figura para construir tráquea y bronquios virtuales.
+
+La representación 3D de un cilindro se aproxima con caras planas. Con 4 caras se tiene un cubo sin tapas, con infinito número de caras se tiene un cilindro perfecto. El número de facetas depende de la capacidad de procesamiento: una mayor cantidad de polígonos representan un mejor cilindro, requiriendo mayor tiempo al representarlo. Un entrenador virtual requiere al menos 8 caras por cilindro, para ejecutarlo en PC estándares. 
+
+Durante la FBC, la cabeza del paciente permanece quieta, asumiéndose que la tráquea tiene una longitud constante durante el procedimiento. El diámetro de una tráquea viva no es fijo, pero la diferencia entre el primer y último anillo es de 0,2 mm19, siendo razonable suponer que la tráquea tiene longitud y diámetro fijos.
+
+A pesar que el radio de los tubos bronquiales decrece a medida que crecen, en esta aplicación se mantienen constante para simplificar los cálculos de colisión y reducir el tiempo de respuesta del sistema.
+
+En el árbol bronquial se asume que las ramificaciones son dicotómicas (serie de bifurcaciones sucesivas que dan forma al árbol). Para reducir la complejidad, la bifurcación de las ramas tiene un ángulo de 90º. En estas bifurcaciones se reduce el diámetro en la misma cantidad de los tubos bronquiales que crecen en 30% cada generación, incluso en la bifurcación de la tráquea, cuyo bronquio derecho es más voluminoso que la tráquea y que la rama izquierda. 
+
+Se representan seis generaciones del árbol bronquial siendo una muestra suficientemente grande y compleja para entrenar las habilidades de un estudiante. Consecuentemente, seis generaciones es lo máximo que puede recorrer el BC real dentro del árbol bronquial. 
+
+La radiografía de la Figura 1(a) muestra la expansión dicotómica de los bronquios, que no es suficientemente clara para hacer una abstracción virtual. Para modelarlo en 3D se recurre a imágenes como en la Figura 1(b). Una representación simplificada no requiere una reproducción exacta y fidedigna de los órganos, considerando que el entrenador virtual tiene como objetivo familiarizar al estudiante con el BC y su procedimiento. Las ramas virtuales se distribuyen libremente con la restricción que el árbol quepa dentro de un pulmón virtual. La Figura 2 muestra el diagrama desarrollado en 3D.
+
+
+
+Figura 1. El árbol bronquial. a. Radiografía20; b. Según21.
+
+
+
+Figura 2. Diagrama plano de árbol bronquial y tráquea.
+
+Para simular el tejido humano se estudia imágenes de resonancia magnética, videos y modelos computarizados como el Visible Human Project22. Para lograr mayor realismo se simulan detalles más complejos por medio de colores o texturas en las caras visibles del trayecto del BC. 
+
+El uso de texturas incrementa la sensación de inmersión al proveer más claves visuales de "realidad" al usuario, mostrando detalles imposibles de representar con polígonos, o costosas en tiempo de procesamiento. Otro beneficio es disimular los pocos polígonos que componen una figura, aprovechando la ilusión óptica.
+
+Para obtener la textura se recurre a fotografías de una FBC real (Figura 3), tomadas desde el centro de la tráquea. Para crear la textura se toma muestras de color de la parte más clara y más oscura del anillo cartilaginoso para fundirlas con un efecto de degradación de un color al otro.
+
+
+
+Figura 3. Fotografías de una tráquea tomadas con un FBC23.
+
+El tubo traqueal se ve como un túnel que al texturizarlo resulta el polígono de la Figura 4, con 8 caras del cilindro claramente identificables. 
+
+
+
+Figura 4. Polígono texturizado.
+
+Al modificar la textura, desde la perspectiva del BC, los tubos octagonales parecen cilíndricos. Para esto, se crea una imagen de cómo se desea ver el tubo (Figura 5), se dibuja sobre la imagen el tubo octagonal y se recorta la porción delineada con rojo. El trapecio se deforma en un rectángulo, resultando la textura rectangular final (Figura 6). Al aplicar la textura al modelo del tubo bronquial, se obtiene el efecto de la Figura 7.
+
+
+
+ 
+
+
+
+Figura 7. Polígono con textura modificada.
+
+El resultado no oculta la naturaleza octagonal del tubo, pero la imagen es más "orgánica" que la textura de la Figura 4 sin comprometer el tiempo de procesamiento.
+
+El BC no se ve en la pantalla durante el procedimiento, por lo que se modela con una serie de cubos en fila, siendo una forma simple de graficar y optimizar el tiempo en representarlos. Los cubos no colisionan con los muros bronquiales. Una función determina si existe colisión al evaluar ciertos datos que los cubos portan, y que no están necesariamente relacionados con su forma. La cadena de cubos es tan larga como la distancia del principio de la tráquea hasta el punto más alejado de los bronquios al que es capaz de llegar el BC. El número de cubos depende de la capacidad de procesamiento: a mayor cantidad de cubos, mayor tiempo en analizar las interacciones con el árbol. 
+
+El caso básico de colisión dentro del árbol bronquial corresponde al de un segmento del BC dentro de un cilindro del árbol sin rotación ("cilindro" corresponde a una parte del sistema bronquial o de la tráquea y "segmento" corresponde a una parte del tubo del BC).
+
+Para determinar si un segmento está dentro del cilindro se evalúa la distancia desde el centro del cilindro hasta el centro del segmento. Si la distancia es mayor que el radio del cilindro entonces está fuera, en caso contrario está dentro. Para dotar al segmento de radio, basta con reducir el radio del cilindro en la cantidad del radio que se desea dar al segmento.
+
+Con este enfoque se detectan colisiones donde, a pesar de que el árbol se compone de cilindros con polígonos, el choque es contra un cilindro matemáticamente "real".
+
+El sistema se navega con un avatar que posee iluminación propia. En el caso del árbol bronquial, la vista se encuentra siempre dentro de túneles, prescindiendo representar algo detrás de los segmentos cartilaginosos, siendo sólo visible lo que ilumina el BC.
+
+Los especialistas en BC que participaron en el diseño realizaron pruebas para ajustar los parámetros y mejorar la simulación y el realismo que ellos mismos percibían del mundo virtual.
+
+Para analizar la utilidad del BC virtual en el entrenamiento de especialistas, se experimentó su uso con un grupo de 4 becados de la especialidad broncopulmonar. Después del enfrentamiento real se encuestó a los becados del grupo de control y se contrastó con otro grupo de 4 becados que entrenó con el método tradicional de aprendizaje.
+
+Los especialistas del grupo de control practicaron con un dispositivo de entrada semejante al BC en sus movimientos y apariencia, construido con un mouse y un joystick, con la consiguiente ventaja económica (Figura 8).
+
+
+
+Figura 8. Dispositivo de entrada.
+
+El mango del dispositivo (1 en la Figura 8) imita en su forma al mango de un BC real. Dentro, contiene un potenciómetro de joystick, usando sólo uno de los ejes de movimiento. El cable que sale por la parte superior corresponde al cable de datos del joystick, y en su contraparte real, al cable que va a la fuente de luz y que envía la información al capturador de video. Por abajo, el cable es similar en diámetro, flexibilidad y textura al cable del BC real. Este cable se introduce en lo que representa al paciente (2 en la Figura 8). Esta caja alberga los sensores tomados del mouse, para medir desplazamiento y rotación del cable. 
+
+El BC posee flexibilidad, significando que el movimiento de un segmento está determinado por el segmento que le precede y le antecede en el tubo. El extremo del BC se curva a voluntad mediante el uso de un dispositivo en el mango del BC, que se reemplaza en este prototipo por un potenciómetro de uno de los ejes del joystick. La sección que se curva del tubo virtual es equivalente a 4cm, que responde a los comandos del potenciómetro de entrada.
+
+El BC es capaz de curvar su extremo en 180º. Al dividir esta cantidad por n (número de segmentos en la sección), se obtiene el valor del incremento del ángulo que se debe utilizar en cada etapa de curvado. Esta rotación se realiza sobre un mismo plano de acuerdo con la entrada recibida del mouse. El ángulo para rotar cada segmento se mide respecto a la línea que se forma al unir los dos segmentos inmediatamente anteriores. La rotación se realiza respecto al eje que resulta de trazar una perpendicular al plano en el punto del segmento inmediatamente anterior del segmento rotado. El ángulo de rotación es negativo o positivo dependiendo de si el comando en el BC del joystick se acciona hacia arriba o hacia abajo. La cantidad de segmentos rotados depende de la intensidad con que se accione el comando, si se acciona a tope (arriba o abajo) todos los segmentos posibles están rotados.
+
+Para calcular los segmentos a rotar con una determinada intensidad en la entrada, se asocia la máxima intensidad en cualquiera de los dos sentidos con la máxima cantidad de segmentos. La intensidad cero significa que no hay rotación, las cantidades intermedias se obtienen dividiendo la intensidad máxima por el número máximo de segmentos rotables, resultando un incremento i. A cada incremento i en la entrada corresponde un incremento de segmentos rotados; al decrementarse en i, se disminuye en uno los segmentos rotados.
+
+Otra forma de mover el BC es rotando su tubo sobre su eje. Este movimiento se transmite a través de todo el cuerpo del tubo, permitiendo, junto con la punta flexible, llegar a prácticamente todas las ramas del árbol bronquial antes de la sexta generación de ramas. Para simular este movimiento se asume una simplificación: cada segmento rota sobre sí sobre su eje de desplazamiento, con excepción de la sección curvada de la punta del BC, que rota según el eje que forman los dos últimos segmentos antes que empiecen los segmentos curvados. Esto significa, que se deben rotar los segmentos curvados del extremo del BC o sólo el primer segmento cuando no están curvados.
+
+Resultados
+
+Un monitor muestra el recorrido del BC virtual, en el que varios observadores pueden presenciar la experiencia, pero sólo uno interactúa directamente con el BC.
+
+La simulación se basa en el comportamiento físico de los objetos, contrastando los resultados con videos y la opinión de expertos broncopulmonares. Para evitar problemas de latencia, la imagen de la FBC se muestra en tiempo real con un mínimo de 20 cuadros/seg.
+
+Para limitar el movimiento de un segmento, se determina experimentalmente el ángulo máximo de movimiento entre las líneas que forman el segmento con el siguiente y el anterior. Un experto considera fijarlo en 60º.
+
+Los expertos que aportaron al diseño del simulador detectaron tres limitaciones: a) la ausencia de resistencia; b) la dificultad en asimilar las distancias; c) la falta de detalles en la bifurcación traqueal. 
+
+Por ejemplo, la longitud de la tráquea de un hombre de pie mirando al horizonte mide 12 cm (11 cm en la mujer), que según la elevación de la laringe o la inclinación de la columna cervical, varía de 3 a 4 cm. Las dimensiones horizontales varían según sexo y edad, siendo mayores en el hombre y mayores en el adulto. El diámetro transverso promedio en el hombre adulto es de 13 mm. En el BC virtual estas medidas se consideraron fijas.
+
+La tráquea está algo torcida sobre su eje, el bronquio izquierdo es más anterior que el derecho, y forman un ángulo entre 75º y 85º (más agudo en el niño que en el adulto).
+
+Los bronquios reales difieren por su dirección, relación, longitud y calibre, que no se distinguen en los virtuales. El bronquio izquierdo es más largo que el derecho, y éste es más voluminoso que el izquierdo.
+
+La encuesta realizada a los becados muestra que los que usaron el simulador se sintieron cómodos y confiados al enfrentarse a una FBC real. Mientras que los que siguieron el método tradicional, sintieron menor familiaridad con el proceso.
+
+Al igual que los expertos, la mayor crítica de los becados del grupo de control es la falta de resistencia del BC virtual.
+
+Discusión
+
+El realismo alcanzado por un simulador se mide de acuerdo a la opinión del usuario más que la veracidad matemática o física de las ecuaciones incorporadas3. Para lograr este objetivo, es importante entregar al usuario las pistas de realidad adecuadas para que su cerebro haga el resto. Qué agregar o dejar fuera requiere de un equipo interdisciplinario y continuas pruebas del entrenador virtual. El simulador otorga pistas de realidad en cuanto al movimiento del BC, creando la ilusión de que el instrumento virtual se comporta como el real.
+
+Para los especialistas es fundamental complementar este entrenamiento con el procedimiento que se debe seguir en una BC real:
+
+"Recordar al paciente no ingerir alimentos por lo menos 4 h antes de la FBC, para evitar vómitos y aspiración. Si es un niño puede ser necesario inmovilizarlo. Insertar una línea intravenosa para monitorear los signos vitales como presión sanguínea, latidos cardiacos y niveles de oxigenación de la sangre. 
+
+La FBC se realiza con el paciente sedado por vía intravenosa a un estado de somnolencia, donde es posible despertarlo y solicitarle que tosa, estornude o que intente hablar. Se instilan gotas anestésicas (lidocaína) en la nariz para insensibilizarla, y en el BC para insensibilizar laringe, tráquea, bronquios, etc. La lidocaína previene la reacción frente a la intrusión del BC (irritación, tos o estornudos). El BC se inserta cuando el anestésico surte efecto.
+
+Desde que se inserta la línea intravenosa, el procedimiento toma menos de 15 min. Un lavado bronquial alveolar requerirá unos pocos minutos más. El paciente queda bajo observación mientras los efectos del sedante se acaban (unos 30 min). Al no mostrar signos de estar sedado puede irse a casa. El proceso total de recuperación toma alrededor de una hora".
+
+Algunos aspectos no considerados en el experimento virtual podrían incorporarse sin incrementar la complejidad del simulador: el monitoreo de los signos vitales podría simularse sin dificultades en una futura versión, como también se podría modelar las diferencias entre bronquio izquierdo y derecho, como también disponer de modelos para tráqueas masculinas, femeninas, niños y adultos.
+
+De los resultados de la encuesta a los becados del grupo de control, se destaca que existe una variabilidad del grado de realismo percibido en el entorno virtual, que responde a factores de motivación, diferencias individuales, sexo, edad, rasgos de personalidad, contacto previo con medios digitales, etc, cuyo análisis escapa al entorno de este trabajo, y que exigen un estudio más profundo para encontrar las causas y mejorar el grado de realismo percibido.
+
+Uno de los objetivos de este BC virtual es familiarizar al becado de la especialidad broncopulmonar con el proceso para otorgarle mayor confianza y "reemplazar" un aparato costoso por uno de bajo costo, lo que permitiría replicarlo y masificarlo. En el diseño del simulador se dejó deliberadamente fuera la evaluación de la resistencia, lo cual sería un aporte importante a la sensación de realidad, creando una ilusión poderosa pero incrementando considerablemente su costo. 
+
+Aunque no es el objetivo de este entrenador virtual, es importante destacar la imposibilidad de reemplazar totalmente la veracidad de la experiencia real16. Con la tecnología actual no es posible "virtualizar" a bajo costo todos los detalles del procedimiento. 
+
+Finalmente, tal como ocurre en otros ámbitos de aplicaciones virtuales, como simuladores de vuelo, aunque los usuarios experimenten innumerables veces en un ambiente virtual, es necesario recordar que el mundo real es más complejo. 
+
+Agradecimientos: Los autores agradecen el trabajo de Álvaro Bahamondes quien diseñó e implementó la primera versión del programa computacional de un fibrobroncoscopio virtual, que ha sido la base para las versiones mejoradas.

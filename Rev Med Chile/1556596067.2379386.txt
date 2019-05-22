@@ -1,0 +1,140 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872014000200001
+Proposición de nuevas ecuaciones para calcular valores espirométricos de referencia en población chilena adulta: Sociedad Chilena de Enfermedades Respiratorias (SER)
+
+ 
+
+La espirometría es el 	    examen básico de medición de la función respiratoria, 	    indispensable en la pesquisa, diagnóstico, control y seguimiento 	    de enfermedades respiratorias. Es también de utilidad en salud laboral 	    y elemento indispensable en investigación epidemiológica1-5. 	    S u interpretación requiere de valores de referencia para su comparación 	    con mediciones realizadas en un sujeto6. Numerosos factores influyen 	    en los valores de función pulmonar7, 	    los más importantes son el sexo8, la edad, la antropometría9, 	    la etnia10 y el tabaquismo11. Se han demostrado valores 	    significativamente mayores en poblaciones residentes en altura geográfica12,13. 	    Estas razones hacen recomendable disponer de valores de referencia espirométricos 	    obtenidos de la misma población en la cual éstos serán 	    aplicados6. Estudios realizados en población chilena indican 	    que tanto volúmenes como flujos pulmonares 	    espirométricos arrojan valores mayores a los observados en población 	    anglosajona14-16. La última guía de las sociedades 	    americana y europea de enfermedades respiratorias sobre estandarización 	    de procedimientos para realizar espirometrías17, propone 	    la obtención de valores de referencia a partir de población "sana" o "normal" en 	    su salud respiratoria, con características antropométricas 	    similares a la población original. Idealmente debe analizarse una 	    muestra poblacional, siendo también aceptable análisis de 	    muestras conformadas por sujetos voluntarios sanos, con adecuada distribución 	    de sus características antropométricas, sexo y edad.
+
+Un estudio chileno publicado en 199618,19 propone valores de referencia espirométricos obtenidos en una muestra de chilenos sanos de 5 y más años de edad.
+
+Estos valores representan mejor a la población chilena que aquellos propuestos por Knudson20, derivados de población anglosajona, recomendados para ser utilizados en Chile por la Sociedad Chilena de Enfermedades Respiratorias (SER, 1988)21, 22. Para los valores propuestos, sin embargo, se han constatado limitaciones en su interpretación, especialmente en varones de edad avanzada. El análisis crítico de esta situación23 descartó la ocurrencia de errores en la obtención de espirometrías. La muestra analizada usó criterios estandarizados de ingreso (personas chilenas "sanas respiratorias", nunca fumadoras, no obesas) y las mediciones siguieron las normas propuestas por la American Thoracic Society (ATS)6, siendo obtenidas con equipos adecuados y calibrados.
+
+Las limitaciones comentadas se atribuyeron a la baja representación de mayores de 60 años, particularmente varones, lo que podría originar la sobreestimación observada de patrones restrictivos en sujetos en ese rango de edad23.
+
+El objetivo del presente estudio fue modelar nuevas ecuaciones de referencia para los índices espirométricos habituales, aplicables a la población adulta chilena, obtenidos en una muestra adecuadamente constituida respecto de su estructura de edad, sexo, características antropométricas y sanas desde el punto de vista respiratorio.
+
+Materiales y Métodos
+
+A través de la SER se 	    accedió a las bases de datos de investigaciones nacionales sobre 	    el tema, conducidas con similares criterios de inclusión y 	    que realizaron espirometrías según normas ATS198724, 	    199425 y 200517. Los estudios utilizaron muestras 	    poblacionales o bien, constituidas por sujetos voluntarios "sanos respiratorios" (sin 	    tos, disnea, infección respiratoria en el mes precedente, alteraciones 	    torácicas anatómicas, diagnóstico médico de 	    asma bronquial, bronquitis crónica, enfisema pulmonar, enfermedad 	    pulmonar obstructiva crónica (EPOC), tuberculosis pulmonar, cáncer 	    bronquial, fibrosis pulmonar y antecedente de cirugía pulmonar). 	    Fueron excluidos sujetos con índice de masa corporal (IMC) mayor 	    a 30 kg/ m2, y sujetos fumadores actuales o con antecedente de 	    tabaquismo y embarazadas.
+
+Los estudios nacionales considerados por disponer de información adecuada para ser sometidos a criterios definidos de inclusión y exclusión se muestran en el anexo 1.
+
+Se consolidó una base de datos con las siguientes variables: edad, sexo, peso, talla, valor de capacidad vital forzada (CVF), volumen espiratorio forzado en el primer segundo (VEF1), relación VEF1/CVF y el flujo espiratorio medio máximo (FEF25-75).
+
+Los valores de referencia se elaboraron mediante modelos de regresión lineal múltiple. Se realizó análisis de residuos para evaluar: la necesidad de efectuar transformaciones de las variables en caso de distribución no normal; de verificación del supuesto de homocedasticidad (varianza constante) y, determinar la necesidad de incluir términos polinomiales en el modelo (ajuste de regresión polinomial). El cumplimiento del supuesto de normalidad se determinó mediante el test de Kolmogorov-Smirnov y la confección de gráficos cuartil-cuartil (QQ-plots).
+
+Para decidir el número de ecuaciones a calcular según rangos de edad, se utilizó el test de razón de verosimilitud, basado en la comparación de los residuos de los modelos29,30.
+
+Para verificar la bondad de ajuste de los valores medidos con las ecuaciones obtenidas, se estimó la cantidad de sujetos estudiados situados bajo el límite inferior de lo normal (LIN) y se comparó con cuatro ecuaciones espirométricas de referencia (ERE) disponibles: NHANES III31 (ecuaciones polinomiales obtenidas en población México-americana de Estados Unidos de Norteamérica), Knudson20 (ecuaciones de regresión lineal de población caucásica de Estados Unidos de Norteamérica), Gutiérrez 199616 (ecuaciones de regresión lineal en población chilena, Región de Valparaíso, a nivel del mar) y estudio PLATINO27 (ecuaciones de regresión lineal, muestra de población general de 40 y más años de 5 ciudades latinoamericanas).
+
+La bondad de ajuste de las nuevas ERE se realizó calculando las diferencias entre el valor medido de los principales parámetros de la espirometría, VEF1 y CVF en los sujetos de esta muestra común y el valor esperado según este set de cuatro ecuaciones de referencia.
+
+Todos los análisis estadísticos se realizaron con el programa estadístico SPSS versión 17.0. Se consideró significativo todo valor p inferior o igual a 0,05.
+
+Resultados
+
+Se revisó la integridad 	    y consistencia de las 5 bases de datos de los estudios primarios, verificando     el cumplimiento de los criterios de inclusión y exclusión considerados, excluyéndose sujetos con IMC > 30 Kg/m2. Las características de hombres y mujeres de la muestra se presentan en las Tablas 1 y 2, observándose para ambos sexos una relación inversamente proporcional entre la variable edad y los valores espirométricos y directamente proporcional entre la variable talla y estos valores.
+
+ 
+
+ 
+
+ 
+
+Se conformó una muestra de 1.174 sujetos, 448 hombres y 726 mujeres, cuyas principales características se muestran en la Tabla 3. Los valores de función pulmonar para todas las variables de interés fueron estadísticamente mayores en hombres, al igual que el peso corporal, talla e IMC.
+
+ 
+
+
+
+ 
+
+El análisis de los residuos de los modelos lineales obtenidos para hombres y mujeres, para VEF1, CVF, VEF1/CVF y FEF25-75, mostró distribución normal, sin observarse tendencias lineales o no lineales en los gráficos de residuos versus los valores estimados, haciendo innecesario considerar términos polinomiales. Tampoco se observó heterogeneidad, lo que hizo innecesaria la transformación de variables o el uso de modelos estadísticos no lineales.
+
+Se elaboró un modelo lineal incorporando las variables edad y talla para ambos sexos por separado, sin segmentación por edad, los que fueron comparados con modelos alternativos con puntos de cortes a los 50, 60 y 65 años de edad. Mediante test de razón de verosimilitud se seleccionó como mejor punto de corte los 50 años, valor que mostró la mejor capacidad predictiva de respuesta para la mayoría de los parámetros de función pulmonar, respecto al modelo basal.
+
+Se calcularon ecuaciones de regresión lineal para cada parámetro, en hombres y mujeres de 19 a 50 años y en mayores de 50 años de edad en base a las cuales, se construyeron nomogramas para facilitar su aplicación (SER200933).
+
+Aplicaciones preliminares de estas ecuaciones, analizadas en la Comisión de Función pulmonar de la SER, mostraron variaciones importantes en los valores al cambiar el rango de edad (Ej. Hombre con talla 1,69 m, tiene una disminución anual de CVF hasta los 50 años de 12 ml y sobre los 50 años, de 31 ml, y al pasar de 50 a 51 años de edad su CVF teórica cae en 214 ml).
+
+El reanálisis de datos no mostró cambio     significativo en la pendiente de caída de los parámetros espirométricos en el rango de 19 a 90 años de edad (Figura 1), por lo que se optó por modelar ecuaciones de regresión lineal para todo el rango de edad, separadas por sexo.
+
+ 
+
+ 
+
+Las ERE, calculadas mediante modelos de regresión lineal en función de las variables edad y talla, para hombres y mujeres por separado, se muestran en la Tabla 4.
+
+ 
+
+
+
+En la Tabla se describen, para cada valor espirométrico y sexo, los parámetros estimados del modelo lineal: el intercepto (constante) y las pendientes estimadas para la edad, talla (pred) y talla (low). Las pendientes estimadas talla (pred) y talla (low) se usan para estimar dos valores distintos: talla (pred), que estima el valor promedio para cada parámetro y talla (low), que estima el límite inferior de normalidad para cada parámetro.
+
+Para calcular el valor promedio de cada parámetro de referencia (X), según edad y estatura determinada, se utilizó la siguiente formulación:
+
+X = intercepto + edad * coeficiente de edad + talla * coeficiente de talla (pred)
+
+Siendo X = CVF, VEF1, VEF1/CVF o FEF25-75
+
+Para calcular el LIN (límite inferior de normalidad) de cada parámetro, para una edad y estatura determinada, se utilizó la siguiente fórmula:
+
+LINX = intercepto + edad *coeficiente de edad + talla * coeficiente de talla (low)
+
+La cantidad de sujetos de esta muestra situada bajo el LIN, vale decir, identificados como anormales, fue cercana a 5%, valor esperado según la definición de "límite inferior de normalidad" (Tabla 5)
+
+ 
+
+
+
+Las diferencias observadas entre valores medidos de VEF1 y CVF en sujetos de la muestra y los valores esperados según las diferentes ERE se muestran en las Figuras 1 y 2 para hombres y mujeres. Como era esperable, la diferencia, medida en ml, respecto a ERE SER fue cercana a valor cero, a diferencia de lo que ocurre con las otras ERE analizadas.
+
+ 
+
+ 
+
+Discusión
+
+Este estudio realizado a partir 	    de 5 muestras de determinaciones espirométricas realizadas en sujetos 	    sanos no fumadores residentes de áreas urbanas de las Regiones Metropolitana 	    de Santiago y Valparaíso, permite modelar ERE en un rango de edad, 	    que fluctúa entre 19 y 84 años 	    en varones y 19 y 94 años en mujeres. Dicho rango recoge adecuadamente 	    características demográficas actuales de la población 	    chilena y constituye un aporte metodológico importante de este trabajo. 	    Sujetos de avanzada edad, en quienes es particularmente importante contar 	    con adecuados patrones de referencia, suelen estar subrepresentados en estudios 	    de esta naturaleza.
+
+Este aspecto cobra especial importancia dado el incremento reportado en la prevalencia de EPOC (2010 Update GOLD)34 y de enfermedades intersticiales en adultos mayores35.
+
+Respecto a limitaciones del estudio, sólo las muestras Gutiérrez 1996 y PLATINO son muestras poblacionales, correspondiendo las restantes a voluntarios sanos. No obstante, según lineamientos ATS/ERS17, resulta aceptable la utilización de este tipo de muestra para obtener ERE.
+
+La inclusión de estudios con estrictos protocolos, procedimientos, normas ATS y que midieron y registraron covariables espirométricas relevantes, permite su utilización aun cuando los estudios fueron realizados en un amplio recorrido de tiempo (Gutiérrez 1996, Lisboa 2007).
+
+Las características demográficas de la muestra son similares a la reportada por datos censales (200236), al igual que sus características antropométricas (Encuesta Nacional de Salud 201037). En la literatura existen antecedentes de estudios similares como es la publicación canadiense 201138, cuyos autores también proponen ecuaciones lineales para adultos entre 20-90 años, derivadas de estudios poblacionales, demostrando un mejor ajuste que las previamente utilizadas, obtenidas de población caucásica no canadiense.
+
+Los criterios de exclusión 	    utilizados en las ERE propuestas son universalmente aceptados y sugeridos 	    por estudios epidemiológicos ATS/ERS6,17,24,25. Con respecto 	    al peso y la talla de los sujetos participantes, se excluyeron a los sujetos 	    con IMC mayor de 30. La obesidad provoca cambios en la función pulmonar, 	    disminuyendo el desplazamiento diafragmático y la distensibilidad 	    tóraco-pulmonar, derivando en menores volúmenes pulmonares 	    y sobrecarga de músculos inspiratorios39. Jones et al40 2006, 	    demostraron diferencias significativas en la CV en relación con el 	    IMC (IMC 20-25: CV fue de 97,6% del teórico; IMC 30-35, de 	    92,2%, IMC 36-40 de 91,1% e IMC > de 40, de 87,9%), justificando 	    considerar este criterio de exclusión para modelar las ERE propuestas.
+
+Los estudios seleccionados dispusieron de protocolos explícitos y se adhirieron estrictamente a criterios de inclusión, utilizando procedimientos estandarizados para realizar las espirometrías.
+
+Debe considerase, sin embargo, que la no inclusión de grupos étnicos específicos y de población residente en altura geográfica, factores relevantes en parámetros de función pulmonar12,13, limitan la aplicación de la ERE propuestas en estas poblaciones.
+
+La incorporación de 	    una ecuación para el cálculo del LIN, y no de un porcentaje 	    fijo según rango de edad, le confiere un mayor grado de exactitud 	    a esta propuesta. Este concepto ha sido ampliamente difundido41-44, 	    generando controversia respecto de la definición de EPOC propuesta 	    por GOLD, que sugiere su diagnóstico cuando la relación VEF1/CVF 	    es inferior a 70%, sin importar la edad.
+
+De acuerdo con los algoritmos 	    de interpretación45, basta un valor de VEF1/CVF 	    bajo el LIN para asignar un patrón obstructivo, lo que avala la importancia 	    de la exactitud de este valor de referencia. Esto es especialmente importante 	    al analizar la relaciónVEF1/CVF, parámetro caracterizado 	    por fluctuaciones según la edad41. En este estudio, el 	    LIN del VEF1/CVF es de 74% y 75% respectivamente para hombres 	    y mujeres de 25 años con 1,7 m de talla, y de 59% para un hombre 	    o mujer de 84 años de igual talla.
+
+Las ERE propuestas presentaron 	    una bondad de ajuste (R2) levemente inferior a ecuaciones polinomiales 	    en edad y talla y muy similar a modelos lineales diferenciados por edad. 	    Se optó por modelos lineales por la simplicidad en su presentación. 	    Su valor predictivo es adecuado, lo cual se confirma al comparar con otras 	    ERE disponibles.
+
+Para comparar el comportamiento de las ERE obtenidas con otras en uso en Chile, se calculó la diferencia entre los valores medidos en la población de referencia y los esperados según las diferentes ERE para los parámetros más importantes: CVF y VEF1 (Figuras 2 y 3).
+
+ 
+
+
+
+Se observa que las ERE de Knudson, ampliamente utilizadas en Chile, subestiman en promedio 560 ml la CVF y 320 ml el VEF1, haciendo no recomendable su uso. También se observa que las ERE Gutiérrez 1996 sobreestiman 200 ml en hombres la CVF y VEF1, origen de la sobreestimación de alteraciones restrictivas en hombres (lo que no se observa en mujeres, en quienes la diferencia es de 70 ml). Al aplicar las ERE NHANES III se observa que también subestiman a nuestra población, pero en menor grado que Knudson.
+
+Finalmente, para comprobar el comportamiento y ajuste de las ERE propuestas, se calculó el porcentaje de personas que quedarían con valores inferiores al LIN, vale decir, clasificadas erróneamente como anormales.
+
+La Tabla 5 muestra que alrededor de 5% de los sujetos se ubica bajo el LIN de los parámetros     espirométricos, valor esperable al utilizar este LIN, que por definición deja a 5% de sujetos sanos como enfermos. Al aplicar las ERE de Knudson, menos de 1% de la muestra tiene CVF o VEF1 inferior al LIN, mostrando su baja sensibilidad para la población chilena para detectar trastornos restrictivos. Ocho coma uno por ciento de las mujeres y 14,1% de los hombres tienen valores de VEF1/CVF bajo el LIN sugiriendo alteración obstructiva, con un evidente sobrediagnóstico. Se aprecia también el problema de las ERE Gutiérrez     1996, que identifican 18,8% de la muestra en hombres, con CVF bajo el LIN,     situándose el resto de los parámetros en valores muy cercanos a 5%.
+
+Concluimos que las ERE propuestas (Ecuaciones propuestas por la Sociedad Chilena de Enfermedades Respiratorias-SER) resultan adecuadas para su aplicación a la población chilena mayor de 18 años y debieran ser adoptadas e integradas a los softwares de los espirómetros actualmente en uso en nuestro país.
+
+Los análisis efectuados en su comportamiento, avalan y respaldan la incorporación de las ecuaciones de referencia espirométricas SER en la práctica clínica, en salud laboral e investigación epidemiológica en nuestro país.
+
+El contar con estas ecuaciones representativas de la población chilena, permitirá también efectuar comparaciones con las GLI201246, ecuaciones multiétnicas recientemente publicadas por la Global Lung Function Iniciative (GLFI) 47 con fines epidemiológicos y de investigación48.
+
+ 
+
+Anexo 1

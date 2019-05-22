@@ -1,0 +1,150 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015000900014
+Cobertura de la estrategia preventiva de cáncer gástrico en Chile: resultados de la Encuesta Nacional de Salud 2009-2010
+
+ 
+
+En Chile el cáncer gástrico (CG) constituye la primera causa de muerte por cáncer en hombres y la tercera causa en mujeres, con una relación de mortalidad hombre:mujer de 2:11. Presenta una tasa de mortalidad de 18,7 x 100.000 habitantes para el 2011, una de las más altas del mundo2, la cual aumenta con la edad. En la última década se ha observado una tendencia decreciente de la mortalidad por esta enfermedad.
+
+La mortalidad por CG en Chile muestra variabilidad geográfica. Las mayores tasas se observan entre las regiones del Maule y Aysén1. Además, se ha descrito una mayor mortalidad por esta enfermedad a menor nivel socioeconómico3,4.
+
+El CG incipiente es definido como aquel que se encuentra limitado en profundidad a la mucosa o submucosa del estómago5, el cual presenta una supervivencia a 5 años superior a 90%6. En este contexto, la prevención secundaria del CG por medio de la detección precoz de lesiones premalignas o de CG incipientes ha sido el método propuesto para reducir la mortalidad de esta enfermedad7.
+
+Existen múltiples estrategias para la detección precoz del CG. La más estudiada de ellas es el estudio radiológico contrastado con bario con una evaluación posterior por endoscopia digestiva alta (EDA) en casos con lesiones sospechosas en el estudio radiológico8. La EDA, focalizada en grupos de mayor riesgo de CG sin estudio radiológico previo, ha sido propuesta como una alternativa en países con alta mortalidad por CG y mayor disponibilidad de este método diagnóstico8-10. No obstante, el costo de la EDA, su carácter invasivo, aceptabilidad y calidad dependiente del operador, fundamentan la búsqueda de pruebas alternativas no invasivas que permitan incrementar la eficiencia del tamizaje11,12.
+
+En Chile se ha evaluado la realización de EDA en personas sintomáticas con sospecha de CG, reportándose tasas de detección de CG incipiente de hasta 20%13. Basado en esta evidencia, desde el año 2006, con la implementación del plan de Garantías Explícitas en Salud (GES), se recomienda el estudio por medio de EDA y biopsia de lesiones sospechosas para hombres o mujeres mayores de 40 años que presenten epigastralgia de al menos 15 días de duración asociada o no a signos de hemorragia digestiva alta, baja de peso, anemia, sensación de plenitud, saciedad precoz, compromiso del estado general o disfagia. Además, se recomienda el estudio de personas mayores de 40 años con historia familiar de CG o gastrectomía hace más de 15 años14,15. La cobertura de esta estrategia preventiva aún no ha sido evaluada.
+
+El presente estudio tiene por objetivo evaluar la cobertura diagnóstica del uso de la EDA para la detección precoz de CG en Chile a nivel poblacional y evaluar algunos determinantes sociodemográficos, mediante el análisis secundario de la información recopilada en la Encuesta Nacional de Salud 2009-10 (ENS).
+
+Material y Métodos
+
+Muestra y mediciones
+
+El presente estudio corresponde a un análisis secundario de los datos obtenidos en la ENS 2009-10, la cual corresponde a un estudio de prevalencia realizado en hogares en una muestra nacional, probabilística, estratificada y multietápica de 5.293 personas de 15 y más años. La muestra tiene representatividad nacional, urbano-rural y regional con errores de estimación variables según prevalencias, no superando 20% relativo para prevalencias superiores a 4%16,17. La aplicación del cuestionario fue realizado por una enfermera entrenada. El protocolo fue aprobado por el Comité de Ética de Investigación de la Escuela de Medicina de la Pontificia Universidad Católica de Chile e incluyó en su correspondiente consentimiento informado, autorización para análisis diferido de los resultados obtenidos.
+
+Definiciones operacionales
+
+Se definió epigastralgia persistente como aquel dolor ubicado en el epigastrio, ubicación identificada mediante una ilustración del abdomen, de 15 o más días de duración y que se haya presentado en los últimos 3 meses. Se consideró como PSDA el reporte de la presencia de deposiciones negras o vómitos con sangre en los últimos 3 meses. Se interrogó por la realización de EDA y el año en que fue realizada la última. Se consideró como uso de inhibidores de bomba de protones (IBP) el uso presente y regular al momento de la encuesta de omeprazol, esomeprazol, lansoprazol o pantoprazol y al uso de antagonistas del receptor histamínico H2 (Anti H2) como al uso de ranitidina o famotidina. Se interrogó el antecedente de CG en familiar directo considerando para esto padres, hijos o hermanos biológicos. El nivel de educación fue estratificado en < 8 años; 8 a 12 y > 12 años de instrucción.
+
+La cobertura de EDA fue definida como la realización de EDA durante el año previo a la encuesta en personas mayores de 40 años que reportaron la presencia de epigastralgia persistente como síntoma.
+
+Análisis estadístico
+
+El análisis estadístico utilizó factores de expansión calculados, atendido el carácter de muestreo complejo de la ENS 2009-2010. Los datos se expresan como frecuencia e intervalo de confianza 95% (IC95%) o media e IC95%. Para la asociación de variables se realizaron regresiones logísticas, expresadas según Odds Ratio (OR) y sus correspondientes intervalos de confianza calculados con 95% de confianza e IC95%. Los estimadores de riesgo por región del país y por nivel educacional fueron calculados utilizando como categorías de referencia a la Región Metropolitana (RM) y el nivel de > 12 años de estudio respectivamente, ajustados por edad y sexo. Se estableció a priori un valor alfa de 5% para identificar diferencias estadísticamente significativas. Todos los análisis fueron ejecutados a partir del módulo de muestras complejas del paquete estadístico SPSS 17.0 (SPSS Inc., Chicago, USA).
+
+Resultados
+
+Epigastralgia, posible sangrado digestivo alto y endoscopia digestiva alta
+
+La prevalencia de epigastralgia en los tres meses previos a la ENS fue de 3,4% (IC95%; 2,6-4,3), con mayor frecuencia en el sexo femenino con un OR 1,9 (1,1-3,1) ajustado por edad (p < 0,001). En mayores de 40 años la prevalencia de epigastralgia fue 3,7% (2,8-5,9), sin diferencias con respecto al grupo menor de 40 años al ajustar por sexo (p = 0,45) (Tabla 1).
+
+ 
+
+Tabla 1. Distribución demográfica de epigastralgia persistente, posible sangrado digestivo          alto y prevalencia de vida de endoscopia digestiva alta en población de 15 años y más
+
+
+
+
+
+Los síntomas de probable sangrado digestivo alto en los últimos 3 meses, fueron observados en el 3,3% (2,6-4,1), sin diferencias según edad o sexo (Tabla 1).
+
+La prevalencia de EDA realizada alguna vez en la vida fue reportada por 18,3% (16,5-20,2) de la población, con una mayor frecuencia en mujeres (OR ajustado por edad 3,7; IC95%: 2,7-5,1) (p < 0,001) y en mayores de 40 años (OR ajustado por sexo 1,4; IC95%: 1,1-1,9) (p = 0,006) (Tabla 1).
+
+En cambio, la realización de EDA en el período 2006-2010 fue reportada por 6,3% (5,3-7,5) de la población, con una mayor frecuencia en mujeres (OR ajustado por edad 1,7; IC95%: 1,1-2,5)(p = 0,016) y en mayores de 40 años (OR ajustado por sexo 2,9; IC95%: 1,9-4,5)(p = 0,006).
+
+La Tabla 2 muestra la distribución regional de prevalencia de epigastralgia, PSDA y realización de EDA alguna vez en la vida. La epigastralgia no presenta diferencias regionales significativas al ajustar por edad y sexo. En cambio, se observó mayor prevalencia de PSDA en las regiones de Coquimbo y el Maule, siendo menor en la Región L. B. O’Higgins, con respecto a la Región Metropolitana, ajustadas por edad y sexo.
+
+ 
+
+Tabla 2. Distribución regional de epigastralgia persistente, posible sangrado digestivo alto y  prevalencia de vida de endoscopia digestiva alta en población de 15 años y más
+
+
+
+
+
+La prevalencia de vida de realización de EDA fue significativamente menor en la Región de la Araucanía con respecto a la Región Metropolitana, ajustadas por edad y sexo.
+
+La Tabla 3 presenta la prevalencia de epigastralgia, PSDA y realización de EDA alguna vez en la vida según nivel educacional y zona urbana o rural. El nivel de menos de 8 años de educación concentró mayores prevalencias de epigastralgia (OR 2,6; IC95%: 1,2-5,8) (p = 0,02) y PSDA (OR 2,7; IC95%: 1,2-6,2) (p = 0,02), ajustados por edad y sexo.
+
+ 
+
+Tabla 3. Distribución según nivel educacional y zona urbana o rural de epigastralgia          persistente, posible sangrado digestivo alto y prevalencia de vida de endoscopia          digestiva alta en población de 15 años y más
+
+
+
+
+
+Con respecto a la EDA alguna vez en la vida, la prevalencia cruda fue de 22,2% (19-25,9) y 15,8% (13,7-18,2) en los grupos con menos de 8 y con 8 a 12 años de educación respectivamente. Esta diferencia se modifica al ser ajustada por sexo, obteniendo menores prevalencias de EDA en los grupos con menos de 8 años y entre 8 y 12 años de instrucción respecto a quienes tienen más de 12 años, OR 0,39 (0,3-0,6) (p < 0,001) y OR 0,63 (0,4-0,9) (p = 0,009) respectivamente (Tabla 3).
+
+La población rural presentó una menor prevalencia de vida de EDA con un OR 0,65 (0,5-0,9) (p = 0,01), ajustado por edad y sexo.
+
+Consumo de IBP o Anti H2
+
+Se observó que 4,3% (3,5-5,3) de la población refirió el usos regular de algún IBP al momento de la encuesta, sin diferencias por sexo o nivel educacional ajustado por edad. En cambio, 2,2% (1,7-2,8) refiere haber estado utilizando algún Anti H2 al momento de la encuesta, con mayor prevalencia de uso en mujeres, con un OR 2,0 (1,2-3,4) (p = 0,01), ajustado por edad, y sin diferencias según nivel educacional.
+
+La Figura 1 muestra la prevalencia de uso de IBP o Anti H2, observándose para ambos fármacos prevalencia máxima de uso entre los 70 y 80 años, alcanzando a 21,6% (14,9-30,2) de la población.
+
+ 
+
+
+
+Figura 1. Prevalencia de epigastralgia persistente, uso de IBP y/o Anti H2 y tasa          de mortalidad por CG al 2010 según edad en población de 15 años y más.
+
+ 
+
+Cobertura EDA
+
+Se evaluó la prevalencia de realización de EDA en el período 2006-2010 y su asociación con algunas variables sociodemográficas y geográficas, mediante un análisis multivariado (Tabla 4), observándose menor prevalencia de EDA para el sexo masculino (p = 0,008), en el grupo previsional del Fondo Nacional de Salud (FONASA) (p < 0,001), en la región de la Araucanía (p = 0,017) y en el grupo con menos de 8 años de educación (p = 0,02).
+
+ 
+
+Tabla 4. Análisis multivariado de variables demográficas asociadas a la realización          de EDA en el período 2006-2010, ajustado por epigastralgia persistente
+
+
+
+
+
+La cobertura de EDA, definida como la realización de EDA durante el año previo a la encuesta en personas mayores de 40 años con epigastralgia persistente, fue de 14,4% (5,9-31,2), significativamente superior al 3,2% (2,4-4,2) observado en personas sin epigastralgia de este grupo etario (OR 4,8; IC95%: 1,6-13,9) (p = 0,004). La cobertura de EDA en mayores de 40 años con o sin epigastralgia fue 3,6% (2,7-4,8).
+
+Además, se evaluó la prevalencia de EDA en personas con signos de sangrado digestivo alto, usuarios de IBP/Anti H2 y con antecedentes de familiar directo con cáncer gástrico, presentado en la Figura 2.
+
+ 
+
+
+
+Figura 2. Cobertura de EDA en grupos de riesgo para CG. *EDA en el último año.          **EDA sobre los 40 años. ***Ajustado por edad y sexo.          Ajustados por epigastralgia y posible sangrado digestivo.
+
+ 
+
+Antecedente familiar de CG
+
+El antecedente familiar de CG de primer grado es reportado por 13,9% (12,0-16,0) de la población mayor de 40 años. De este grupo 20,5% (15,5-26,6) refiere haberse realizado una EDA después de los 40 años, sin diferencias estadísticamente significativas con respecto a quienes no presentan antecedente familiar de CG (17,6%) (p = 0,4), ajustando por edad y sexo (Figura 2).
+
+Discusión
+
+El CG es una importante causa de mortalidad y encabeza las muertes por cáncer en Chile1. A partir del año 2006, el estudio endoscópico de sujetos con epigastralgia persistente mayores de 40 años fue garantizado como estrategia preventiva de CG en el plan GES. A partir de los datos obtenidos en la ENS 2009-2010 es posible estimar una cobertura poblacional de EDA en sujetos con epigastralgia persistente de este grupo etario de 14,4%. Además, se observaron diferencias por región del país, según previsión de salud y nivel de instrucción en la prevalencia de EDA para el período 2006-2010.
+
+La ENS 2009-10 es un estudio poblacional de corte transversal que evalúa síntomas y autorreporte de realización de EDA. Por lo tanto, no es posible evaluar su eficacia diagnóstica ni el impacto en mortalidad por CG, pero sí permite obtener una aproximación de la real cobertura de detección precoz de CG.
+
+Los estudios poblacionales corresponden a evaluaciones realizadas en población general, de alto nivel de representatividad estadística y de alta validez externa, al incorporar escasos criterios de inclusión y exclusión18. Por estos atributos, son utilizados regularmente para determinar la cobertura poblacional y los alcances de políticas y programas de salud19.
+
+La cobertura de EDA reportada en el presente estudio es menor a la descrita en países con alta mortalidad por CG, como Japón o Corea, quienes reportan coberturas que alcanzan hasta 37% para los programas de detección de CG en personas con o sin síntomas20. En Chile, a partir de la ENS 2009-10 se estima que la cobertura de EDA en mayores de 40 años con o sin epigastralgia es de sólo 3,6%.
+
+La implementación de estrategias de prevención del CG en personas con o sin síntomas ha demostrado aumentar la detección de CG incipiente21,22. Por este motivo, se debe considerar extender las estrategias preventivas a poblaciones asintomáticas.
+
+En el presente estudio no se observaron diferencias de epigastralgia persistente según zonas geográficas o mayor prevalencia en grupos etarios de alta mortalidad por CG. Esto sugiere, desde una perspectiva poblacional, que la epigastralgia persistente en forma aislada, presenta una utilidad limitada para discriminar adecuadamente las poblaciones con mayor riesgo de muerte por CG.
+
+Por otra parte, es posible que la prevalencia de epigastralgia persistente en Chile esté subestimada por el amplio uso de IBP o Anti H2 observado. Se ha sugerido que el uso de este tipo de fármacos debe ser criterioso y regulado en países de alta mortalidad por CG, dado que su uso no permite evaluar adecuadamente los síntomas iniciales del CG al enmascararlos, lo cual podría retrasar su diagnóstico.
+
+El presente estudio muestra prevalencias de uso de IBP o Anti H2 cercanas a 10% de la población mayor de 40 años y superiores a 20% después de los 70 años (Figura 1). La implementación de una política de tamizaje basada en la epigastralgia persistente debe ser revisada ante el amplio consumo de este tipo de fármacos. Posiblemente, los usuarios de IBP o Anti H2 son un grupo susceptible de tamizaje de CG, sin embargo, una aproximación clínica individual podría permitir una adecuada estratificación de riesgo de CG.
+
+En base a la evidencia existente, no es claro que el uso de EDA como único método de tamizaje sea una adecuada estrategia de diagnóstico precoz del CG, dado su alto costo, disponibilidad limitada, carácter invasivo y calidad dependiente del operador. Es deseable la introducción de nuevos exámenes no invasivos que permitan la detección de CG incipiente que permitan focalizar mejor el tamizaje en el futuro11,12.
+
+En Japón se utiliza como estrategia de tamizaje la radiografía de doble contraste con bario en individuos asintomáticos mayores de 40 años, y ante la sospecha de una lesión con este método se realiza una EDA. Por otra parte, en Corea, dada la mayor disponibilidad de EDA y su similar costo con la radiografía contrastada, se recomienda el estudio bienal con cualquiera de los dos métodos o ambos8-10.
+
+La estrategia preventiva utilizada en Japón, basada en radiografía de doble contraste y EDA, ha sido evaluada en estudios prospectivos y controlados23,24. Mizoue et al reportan reducción de 45% en la mortalidad por CG en hombres tras 8 años de seguimiento con esta estrategia, sin impacto en la mortalidad en mujeres. En tanto, estudios de casos y controles previos fueron más auspiciosos reportando reducciones entre 40-60% en la mortalidad por CG. Sin embargo, estos estudios presentaron importantes sesgos de selección21,25-27 que pueden haber conducido a sobreestimar el efecto. Esta evidencia ha sustentado la aplicación de la estrategia preventiva utilizada en Japón por más de 40 años.
+
+En cuanto a la EDA como único método de tamizaje, no se dispone de estudios que evalúen prospectivamente la mortalidad por CG al implementar aisladamente esta estrategia8. Sin embargo, dada la mayor sensibilidad del método, se ha asumido similar rendimiento al uso de radiografía de doble contraste y EDA, considerando los mayores costos de su implementación. La disponibilidad limitada de la radiografía de doble contraste en nuestro país ha impulsado la búsqueda de la mejor estrategia preventiva basada en EDA como método único de tamizaje.
+
+Los resultados de este estudio, permiten concluir que la cobertura estimada de la estrategia vigente para la detección precoz del CG mediante EDA es de 14,4%, evaluada a nivel poblacional. Además, se requieren nuevos estudios para determinar el impacto de esta estrategia sobre el diagnóstico de CG incipiente y la mortalidad por CG en Chile.
+
+Agradecimiento: Esta investigación utilizó información de la Encuesta Nacional de Salud 2009-2010. Los autores agradecen al Ministerio de Salud, propietario intelectual de la Encuesta, la autorización de la disposición de la base de datos. Todos los resultados del estudio son de responsabilidad de los autores y en nada comprometen a dicho Ministerio28. Agradecemos a Trinidad Hernández Eyquem el diseño de las Figuras.

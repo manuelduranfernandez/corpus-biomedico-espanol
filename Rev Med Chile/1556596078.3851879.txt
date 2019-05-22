@@ -1,0 +1,128 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015000600005
+Inmunohistoquímica convencional como predictor de respuesta y sobrevida en pacientes con cáncer de mama tratadas con quimioterapia preoperatoria: Experiencia de un centro
+
+ 
+
+El cáncer de mama (CM) es la principal causa de muerte por cáncer en mujeres chilenas1. La quimioterapia neoadyuvante (QTN), es decir, previo a la cirugía, es una estrategia de tratamiento aceptada para pacientes             con CM localmente avanzado. Este enfoque de tratamiento aumenta las posibilidades de lograr un tratamiento conservador y mejora             las tasas de resecabilidad de tumores considerados inicialmente no resecables2, permitiendo la evaluación de factores pronósticos y predictivos, de manera dinámica e in vivo. El alcanzar una RPC posterior a QTN ha sido capaz de predecir pronóstico a largo plazo en varios estudios, y por tanto,             es un potencial marcador sustituto de supervivencia3; especialmente para tumores considerados triple negativos (TN) o aquellos que sobre-expresan el receptor del factor de crecimiento             epidérmico tipo 2 (HER-2). 
+
+El estudio de perfiles genéticos ha permitido determinar los subtipos moleculares de CM. Estos permiten predecir respuesta             al tratamiento y evolución de enfermedad4. La probabilidad de alcanzar RPC está directamente asociada a subtipos moleculares5. Después de QTN, tumores considerados basaloides (la mayoría TN) o HER-2 positivos logran mayor RPC que aquellos considerados             luminales (estrógenos dependientes). Este último factor, la obtención de RPC, se asocia a mejor sobrevida, que aquellos que             no alcanzan tal respuesta6,7. Sin embargo, la implementación de estos perfiles genéticos en la práctica clínica tiene limitaciones, sobre todo en nuestro             país, por su alto costo. Por tanto, herramientas patológicas convencionales, como el grado histológico (GH), expresión de             RH y expresión de HER2 pueden ser utilizadas como sustitutos de clasificación de subtipos.
+
+El objetivo de nuestro estudio es investigar si estas herramientas de patología convencionales son capaces de predecir la             respuesta a QTN en pacientes chilenas con CM, y determinar si el alcanzar RPC se asocia a mejor pronóstico. 
+
+Pacientes y Métodos
+
+Población 
+
+Estudio retrospectivo realizado en el Centro del Cáncer de la Pontificia Universidad Católica de Chile en Santiago, Chile.             El estudio fue aprobado por el Comité de Ética local.
+
+Se reclutaron todas las pacientes con diagnóstico de CM que recibieron QTN en nuestro centro entre 1997 y 2012. Los criterios             de inclusión fueron: 1) recibir al menos un ciclo de tratamiento citotóxico; 2) disponibilidad de información clínica y patológica             suficiente para determinar tipo de respuesta alcanzada. Los pacientes con metástasis al momento del diagnóstico se incluyeron             en el análisis de la respuesta, pero se excluyeron del análisis de supervivencia. 
+
+Revisión patológica 
+
+El tipo histológico, tamaño tumoral, GH8, y el compromiso linfonodal fueron determinados en todas las muestras. Combinamos GH 1 y 2 siendo considerados como tumores             con baja tasa de proliferación. El estado del receptor de estrógeno (RE), receptor de progesterona (RP) y HER2 fue determinado             a través de IHQ. El valor de corte para determinar la positividad de RE y RP fue de ≥ 1% de células tumorales con tinción             nuclear. Consideramos como HER-2 positivos todos aquellos tumores con puntuación de 3 cruces (+++) en IHQ. En caso de ser             considerados 2 cruces (++), se realizó estudio de hibridación fluorescente in situ (FISH) para HER2, procedimiento realizado en la mayoría de los casos (este estudio no era obligatorio en nuestro centro hasta             el año 2006). Dado que el estudio con Ki67 no se realiza de forma rutinaria en nuestro centro, decidimos no incluirlo en el             análisis.
+
+El estadio al momento del diagnóstico se determinó de acuerdo con el sistema TNM del American Joint Committee on Cancer Staging Manual 2010 (séptima edición).
+
+Subtipos clínico-patológicos 
+
+Los tumores se clasificaron en 4 subtipos de acuerdo a marcadores clásicos: Luminal A, luminal B, HER-2 enriquecidos y TN             (Tabla 1).
+
+ 
+
+Tabla 1. Definición de subtipos moleculares de cáncer            de mama basados en inmunohistoquímica convencional            y grado histológico
+
+
+
+ 
+
+Respuesta tumoral 
+
+RPC fue definida como la ausencia de tumor invasor en la mama (independiente de la presencia de componente residual in situ) y en los linfonodos axilares (ypT0/is-ypN0). Pacientes con respuesta parcial o sin respuesta fueron clasificados como “no-RPC“.             Debido a que la definición exacta de RPC se encuentra aún en discusión, exploramos una segunda definición (RPC-2) definida             como la ausencia de componente invasor en la mama independiente del estado de los linfonodos (ypT0/is-ypN0/+).
+
+Análisis estadístico 
+
+Se utilizó χ2 (o prueba exacta de Fisher) para evaluar variables categóricas. Usamos prueba de Wilcoxon para comparar medianas. Realizamos             un análisis multivariado para RPC a través de una regresión logística binaria. La SG fue calculada de acuerdo al método de             Kaplan-Meier y comparadas mediante prueba de Log-Rank. Consideramos una diferencia estadísticamente significativa cuando el             valor de p fue menor o igual a 0,05. Todos los datos fueron analizados utilizando la versión de IBM® SPSS® 21. 
+
+Resultados 
+
+De 1.560 pacientes con CM invasor tratados en nuestro centro desde 1999 hasta 2012, determinamos 147 pacientes que recibieron             QTN (9,5%). No consideramos catorce de estos pacientes por encontrarse aún bajo tratamiento al momento del análisis (8 pacientes)             o debido a que no fue posible reunir información adecuada (6 pacientes). Las características y distribución de los subtipos             clínico-patológicos de los 133 pacientes incluidos, en comparación con el grupo control (pacientes con CM que no recibieron             QTN) se presentan en la Tabla 2.
+
+ 
+
+Tabla 2. Características clínico-patológicas de pacientes con cáncer de mama que            recibieron  quimioterapia neoadyuvante (QTN) comparadas con el grupo control (sin QTN)
+
+
+
+ 
+
+La mediana de edad de pacientes que recibieron QTN fue 51 años (24-80). La mediana del tamaño tumoral al examen físico fue             de 6,4 cm (2-20). Quince pacientes (11,2%) tenían enfermedad diseminada (estadio IV) al momento del diagnóstico. 84,3% de             los tumores correspondió a histología ductal. 55,2% de los pacientes se sometió a mastectomía total y 89,6% fueron tratados             con disección axilar.
+
+En comparación con el grupo control, las pacientes que recibieron QTN eran más jóvenes, (p < 0,0001), con tumores de mayor             GH (56,0% vs 31,7%, p < 0,0001), más frecuentemente RH negativos (31,8 vs 17,1%; p < 0,0001) y HER-2 sobre-expresado (24,3             vs 16,3%, p = 0,003).
+
+En relación al subtipo de CM (Tabla 2) 68,9% fueron clasificados como luminales (luminal A 35 casos, luminal B 44 casos y 12 casos indefinidos). 
+
+Casi un tercio de los tumores estudiados presentaron RH negativos, la mayoría de ellos TN (24 pacientes o 18,4% del total)             y 13 o 10,2% del total de pacientes fueron considerados como HER-2 enriquecidos.
+
+Las pacientes fueron tratadas con diferentes esquemas de QT: 97,7% de ellas recibieron antraciclinas y 26,0% taxanos. 62,5%             de los esquemas de QT fueron completados después del procedimiento quirúrgico.
+
+Documentamos un total de 11 RPC (8,2%) (Tabla 3). La tasa de RPC fue de 3,5% en tumores que expresaban RH y 19,5% en aquellos que no lo expresaban (p = 0,01). Según subtipo             molecular, la tasa RPC fue variable: 0,0% en luminal A, 6,6% en luminal B, 15,4% en HER-2 enriquecido y 25,0% en tumores considerados             TN (p = 0,03) (Tabla 4). De los 3 casos de RPC en el subtipo luminal B, 2 sobre-expresaron HER-2. En el restante no logramos obtener información             de HER-2.
+
+ 
+
+Tabla 3. Características clínico-patológicas de pacientes con cáncer de mama que            recibieron quimioterapia neoadyuvante (QTN) según respuesta patológica completa (RPC) 
+
+ 
+
+Tabla 4. Tasa de respuesta patológica completa (RPC)            después de quimioterapia neoadyuvante (QTN) según subtipo 
+
+
+
+Según el GH, la probabilidad de lograr una RPC fue de 11,8% para neoplasias GH 3 vs 3,8% para tumores con baja tasa de proliferación.             Esta diferencia no fue estadísticamente significativa (p = 0,11).
+
+Quince casos (11,2%) de RPC fueron documentados de acuerdo con la segunda definición (RCP-2). Ninguna de las características             estudiadas y mencionadas previamente varió significativamente entre ambas definiciones (Tabla 5).
+
+ 
+
+Tabla 5. Características clínico-patológicas de pacientes con cáncer de mama que recibieron   quimioterapia neoadyuvante (QTN) según respuesta patológica completa (RPC-2) 
+
+
+
+En el análisis univariado, teniendo en cuenta características como: edad, motivo de consulta, tamaño del componente invasor,             tipo histológico, estadio clínico TNM, número de linfonodos resecados, proporción de metástasis a linfonodos versus linfonodos             examinados, la expresión de RH, HER-2, GH y el tipo de QT; los factores asociados con RPC fueron: el tamaño del componente             invasor (p = 0,004); la relación de metástasis a linfonodos versus linfonodos examinados (p = 0,003); y la ausencia de RH             (p = 0,009). Ninguno de estos factores mantuvo su significación estadística en el análisis multivariado. 
+
+Con una mediana de seguimiento de 72,6 meses (3,5 a 180 meses), la SG a 5 años fue de 100% en aquellos pacientes que lograron             RPC y de 81% en aquellos que no lograron tal respuesta (p = 0,037) (Figura 1). 
+
+ 
+
+Figura 1. Curva de Kaplan Meier comparando sobrevida global en pacientes              con cáncer de mama que reciben quimioterapia neoadyuvante             según presencia                  o ausencia de respuesta patológica completa (RPC o No-RPC respectivamente).
+
+
+
+Discusión 
+
+El CM es una enfermedad biológicamente muy heterogénea. Perou et al.4 lograron describir cuatro clases moleculares de CM, en base a expresión de perfiles genéticos distintos, los cuales fueron             llamados “subtipos intrínsecos”. Ellos fueron asociados inicialmente con pronóstico en CM; sin embargo, también ha sido sugerido             su rol en predecir respuesta a tratamiento9.
+
+El tratamiento neoadyuvante permite la evaluación in vivo de la sensibilidad a la QT. Subtipos moleculares de CM muestran diferentes sensibilidades a la QTN, y el grado de respuesta             patológica alcanzado se asocia con SG, particularmente en tumores considerados como basaloides y HER-2 enriquecidos3,7.
+
+¿Cómo podemos identificar estos subtipos en la práctica clínica? Se han desarrollado varios modelos utilizando distintas firmas             genéticas10-12. Una de las más ampliamente utilizadas es Oncotype DX, el cual calcula un puntaje otorgando riesgo de recurrencia basada en expresión de 16 genes10. Estos genes están relacionados con la expresión del RE, HER2 y varios genes asociados con proliferación. Si bien esta prueba             es ampliamente utilizada en la toma de decisiones clínicas en países desarrollados, múltiples restricciones técnicas y económicas             limitan su uso en la práctica clínica habitual en pacientes con CM en nuestro país.
+
+Si bien algunos autores han sugerido que la utilización de estos test debiese representar el “gold-standard”13, la evidencia sugiere que variables clínicas y patológicas convencionales logran proporcionar información pronóstica independiente             de la puntuación otorgada por marcadores moleculares14. Según el Consenso Internacional de Expertos de St. Gallen, si no es posible la identificación de los subtipos intrínsecos             mediante el uso de marcadores moleculares-genéticos (por ejemplo: Oncotype DX o Mammaprint), se recomienda definiciones sustitutas             utilizando la IHQ estándar9.
+
+Sin embargo, la asociación de marcadores patológicos convencionales (ER, PR, HER-2) con los subtipos intrínsecos a través             de estudios moleculares no es perfecta15.
+
+La medición de la expresión de Ki67 permite adicionar mayor información16. Ki67 es una proteína nuclear expresada por las células en distintas fases del ciclo celular (fase tardía de G1, S y en G2/M),             reflejando la proporción de células que se encuentran en proliferación en ese momento. Un Ki67 elevado se asocia a peor pronóstico             y parece ser un factor predictor independiente de respuesta a QTN17,18. Recientemente, se ha demostrado que el uso de un panel de marcadores de IHQ que considere RE, RP, HER-2 y Ki67, es capaz             de otorgar información pronostica similar al Oncotype DX14, apoyando el uso de IHQ habitual como sustituto a firmas de expresión genética.
+
+Sin embargo, el uso rutinario de Ki67 para evaluación pronóstica en CM no se considera como una práctica estándar. Su costo             y la falta de estandarización en la medición limitan su uso, no siendo parte del informe patológico habitual en todos los             centros19. Un panel de expertos de la Sociedad Americana de Oncología Clínica (ASCO) sugiere no utilizar marcadores de proliferación             para evaluar pronóstico del CM20. Otros marcadores de proliferación celular informados rutinariamente en la biopsia de mama como el GH y el índice mitótico             (IM) han demostrado correlación con Ki67 en algunos estudios, sin embargo, este hallazgo no logró ser replicado en nuestro             grupo21,22. Por otra parte, según Lips et al23; el uso del GH supera al uso de Ki67 como marcador sustituto al momento de definir subtipos moleculares. Esta observación             puede estar relacionada con el hecho de que GH toma en consideración otras características del tumor, además de la actividad             proliferativa (principal rol del Ki-67), tales como el grado de formación de glándulas y el polimorfismo nuclear, lo cual,             teóricamente, podría estar relacionado con mayor sensibilidad a terapia citotóxica23.
+
+Dado que los subtipos clínico-patológicos, como hemos discutido, presentan una buena concordancia con perfiles genéticos demostrando             un papel pronóstico y predictivo valioso, decidimos evaluar la correlación entre la expresión de marcadores clásicos (RH,             HER2, GH, excluyendo Ki67) y el grado de respuesta a QTN en nuestros pacientes con CM. 
+
+Los resultados de nuestro estudio mostraron una tasa global de RPC de 8,2% posterior a QTN. Este valor parece menor a lo reportado             en estudios previos24,25 lo cual puede ser explicado por múltiples factores.
+
+Primero, en esos estudios la definición de RPC fue menos estricta a la utilizada por nosotros. Tanto en el estudio NSABP B-18             y el NSABP B-27 aquellas pacientes que sólo recibían antraciclinas como QTN lograban tasas de RPC de 13% y 13,7%, respectivamente.             La definición utilizada en ambos ensayos fue la ausencia de componente invasor sólo en el tumor primario, independiente de             lo que ocurría a nivel linfonodal. Estos resultados son muy cercanos a 11,2% obtenido en nuestro centro al utilizar la misma             definición (RPC-2). Segundo, múltiples estudios han demostrado que incorporar un taxano antes de la cirugía se asocia con             aumento de RPC24,26,27. En nuestro grupo, 62,5% de las pacientes completó el tratamiento planificado después de la cirugía y sólo 25% de ellas recibió             taxanos como parte de la QTN. Por último, hay pruebas que demuestran que pacientes con enfermedad HER-2 positiva logran mayor             tasa de RPC si el tratamiento incluye un agente dirigido contra HER-2, como el anticuerpo monoclonal trastuzumab25. En nuestra serie, menos de un tercio de los pacientes que sobre-expresaban HER-2, recibieron trastuzumab preoperatorio.
+
+En el análisis univariado también encontramos que el tamaño del componente invasivo (p = 0,004), la relación linfonodos metastásicos             y examinados (p = 0,003) y la ausencia de RH (p = 0,009) fueron potenciales predictores de RPC. Ambos, el tamaño del tumor             y el compromiso nodal son potentes factores pronósticos en CM28. A pesar de que el tamaño tumoral se correlaciona con el compromiso linfonodal, los valores pronósticos de ambos factores             son independientes. En algunos estudios, la proporción de linfonodos positivos extirpados es capaz de predecir sobrevida de             manera acertada29. Desafortunadamente ninguno de dichos factores mantuvo su significancia luego del análisis multivariado. 
+
+En nuestro trabajo, como ha sido reportado anteriormente, pacientes que logran RPC tienen mejor SG3. Sin embargo, no todos los estudios han demostrado los mismos resultados24. Si bien esta discrepancia puede deberse a limitaciones metodológicas y al tipo de paciente incluido, von Minckwitz et al,             mostró recientemente que la definición de RPC es fundamental3. En base a su trabajo, los únicos pacientes que debiesen ser considerados como RPC son aquellos que no presentan ningún tipo             de tumor (in situ o invasor) en mama y axila posterior a QTN. Puesto que objetivamos pocos eventos que cumpliesen esa definición (8 casos)             decidimos no incluirlo en nuestro análisis. Sin embargo, el uso de otras definiciones, tal como hemos mencionado anteriormente,             también se asocia a pronóstico24.
+
+Es importante destacar que estas herramientas permiten la clasificación en subtipos, identificando pacientes que con mayor             probabilidad lograrán desaparición del tumor después de QTN. Esto se aplica particularmente para tumores definidos como TN             y HER2-enriquecidos, con patrones de recurrencia temprana, y en el que la RPC es un marcador pronóstico aceptado y validado.             
+
+Nuestros hallazgos refuerzan el valor de la clasificación de subtipos de CM utilizando técnicas de IHQ disponibles en cualquier             laboratorio de patología convencional, lo que permite predecir respuesta patológica tras QTN y además SG.

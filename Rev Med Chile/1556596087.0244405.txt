@@ -1,0 +1,90 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872016000800008
+Fisuras labio-palatinas y fortificación de la harina con ácido fólico en Chile: An exploratory study
+
+ 
+
+Se ha postulado que el déficit de ácido fólico participa en los mecanismos causales del desarrollo de fisuras faciales. En la literatura existe controversia en el rol preventivo de la fortificación de alimentos con ácido fólico para la disminución de la incidencia en las fisuras labio-palatinas1,2. Existen muchos trabajos que apoyan la existencia de un efecto protector de la ingesta de ácido fólico en la reducción de incidencia de fisuras labio-palatinas, especialmente cuando se administra en multivitamínicos1,3-8. La fortificación de la harina u otros alimentos de consumo habitual de la población se ha planteado como medida efectiva para aumentar aporte de ácido fólico, enfocados en aumentar el aporte a las mujeres en edad fértil y así lograr una disminución de defectos congénitos, en especial de los defectos del tubo neural. Las madres jóvenes de estratos más vulnerables socioeconómicamente tienen mayor riesgo de que su consumo de ácido fólico periconcepcional sea bajo los niveles recomendados (400 µg de ácido fólico diario adicional)6,9,10.
+
+La mayoría de los embarazos en Chile y otros países en vías de desarrollo no son planificados11. Por lo que el programa de fortificación de la harina con ácido fólico, al permitir entregar niveles de aporte semejante a toda la población, incluida la población objetivo, colabora en la disminución de las disparidades, favoreciendo la disminución de los defectos congénitos2,9.
+
+Con la fortificación de granos de cereal en Canadá, implementada durante el año 1998, no se observó una disminución de la prevalencia de las fisuras oro-faciales en el período post-fortificación, a diferencia de la fortificación en Estados Unidos de Norteamérica donde se identificó una disminución de 6% incidencia de fisuras oro-faciales5,12. Canfield et al. reportan en el año 2005 una reducción significativa de 12% en las fisuras de paladar en 23 estados de los Estados Unidos de Norteamérica , pero no de las fisuras que comprometen el labio con o sin paladar4. En el Estado de Paraná, en Brasil, la fortificación de la harina con ácido fólico disminuyó en 18,52% los casos incidentes de fisuras labio-palatinas no sindromáticas (OR = 0,81, CI 0,72-0,93, p = 0,002)8.
+
+Los estudios de Nazer et al. en Chile encontraron una disminución significativa de los defectos del tubo neural, luego de la fortificación de la harina con ácido fólico, no así de otras malformaciones congénitas, incluidas las fisuras labio-palatinas7,13-15. Estos trabajos están basados en 14 maternidades del país que forman parte del ECLAMC (acrónimo para Estudio Colaborativo Latinoamericano de Malformaciones Congénitas). El objetivo de este trabajo es explorar la tendencia de la tasa de egresos hospitalarios de fisuras labio-palatinas en menores de 1 año de edad, como variable subrogante de la incidencia de fisuras labio-palatinas durante el período 1986-2012 y evaluar si existe un cambio concomitante de esta tendencia con la implementación en Chile desde el año 2000 de la fortificación con ácido fólico en la harina de trigo.
+
+Pacientes y Métodos
+
+Estudio ecológico tipo serie de tiempo descriptivo y analítico, de la población de menores de 1 año, entre 1986 y 2012 en Chile, obteniéndose la tasa de egresos hospitalarios de fisuras labio-palatinas como un valor aproximado de incidencia de fisuras labio-palatinas, con los códigos CIE-10 siguientes: fisuras de paladar Q.35.0 a Q.35.9; fisuras de labio Q.36.0 a Q.36.9 y fisuras de labio-paladar Q.37.0 a Q.37.9, solicitados al Departamento de Estadísticas e Información de Salud del Ministerio de Salud (DEIS-MINSAL) y biblioteca de salud. Para el cálculo de la tasa se utiliza como denominador a los recién nacidos vivos, quienes representan la población menor de un año. Además, se analizan estas tasas con y sin repetición de número identificador (solicitado al DEIS, disponible desde 2004-2011), utilizando suavizamiento exponencial, lo cual permite eliminar el impacto de los elementos irregulares históricos mediante un enfoque en períodos de valores reciente. El período 1986-2012 se categoriza en pre y post fortificación, con punto de corte en el año 2001. Además, se genera un modelo Prais-Winsten con otras variables con registro poblacional que han sido relacionadas con las fisuras labio-palatinas y que podrían haber experimentado variaciones en el período, actuando en algunos casos como variables de confusión: tasa de incidencia de rubéola en la población16, porcentaje de indigencia y pobreza en Chile17, prevalencia de consumo de alcohol y tabaco en mujeres en el último mes18 y prevalencia de obesidad en embarazadas19,20. Para este modelo, en el caso de valores ausentes en la variables, se usó criterios de imputación univariado con regresión lineal. Para realizar el modelo de Prais Winsten se corrigió los datos egresos hospitalarios totales del año 2008, considerando una variación aislada de ese año de éstos por la incorporación de las fisuras labio-palatinas al programa GES, disminuyendo los datos repetidos sólo a 8,5% más de los datos sin repetición de número identificador. Los análisis se realizaron con el software STATA 11.221.
+
+Resultado
+
+Análisis de los egresos hospitalarios: 1986-2012
+
+Para los años 1994-1995 y 1997-2000 no fue posible encontrar los registros de egresos hospitalarios por fisuras labio-palatinas en menores de 1 año. En promedio, existieron 472 egresos hospitalarios anuales (DE ± 75,3 egresos hospitalarios) en el período 1986-2012. Se observó una tendencia a la disminución de los egresos hospitalarios por fisuras labio-palatinas, siendo el promedio de egresos hospitalarios anuales de 538 (DE ± 47,4) en el período 1986-1996, significativamente mayor a 417 (DE ± 41,9) egresos hospitalarios encontrados en el período 2001-2011 (t test, p < 0,001).
+
+La tasa de egresos hospitalarios por fisuras labio-palatinas en menores de 1 año de edad, durante los años encontrados se observan en la Tabla 1 y Figura 1. La tasa de egresos hospitalarios por fisura labio-palatina en menores de 1 año de edad en el período 1986-1996, disminuyó desde un promedio de 1,87 por 1.000 NV (DE ± 0,09), a un promedio de 1,68 por 1.000 NV (DE ± 0,16) en el período 2001-2012. Esto entrega un riesgo relativo de 1,09 (IC 95% 1,05-1,14, p < 0,001), es decir, existe una disminución, estadísticamente significativa de 9% de los egresos hospitalarios por esta patología al comparar ambos período (Figura 1).
+
+ 
+
+Tabla 1. Asociación multivariado de las series de tasa de egresos hospitalarios         de fisura labio-palatina y la variable subrogante a la fortificación del ácido fólico         en la harina en menores de 1 año durante el período 1986- 2011
+
+
+
+ 
+
+
+
+Figura 1. Tasa egresos hospitalarios por fisuras labio-palatinas, período 1986-2012, Chile.
+
+ 
+
+Análisis del período 2004-2011
+
+Durante este período se obtuvieron los datos de dos registros. Por una parte, se logró determinar un egreso hospitalario con y sin repetición de casos y por tipo de fisura labio-palatina durante los años 2004-2011. Se observa en la Figura 4 un aumento aislado en el año 2008.
+
+Al comparar los registros de egresos hospitalarios sin y con repetición de pacientes durante el período 2004-2011, se observa que existió una diferencia entre ambos de 36 egresos hospitalarios anuales en promedio, es decir, de los 423 egresos anuales en promedio durante 2004-2011, 8,5% de los casos registrados tuvo más de un alta médica durante su primer año de vida.
+
+Por otra parte, se obtuvo la tasa de egresos hospitalarios por tipo fisura labio-palatinas desde el año 2004 hasta 2011, agrupadas en fisuras de labio, fisuras de paladar y fisuras de labio y paladar, sin repetición de pacientes, los cuales se muestran en la Figura 3.
+
+En relación a las fisuras de paladar existió una tendencia a mantenerse con una curva estable en el período y con un promedio de 0,49 (IC 95% 0,44-0,53) egresos hospitalarios por 1.000 NV. Para las fisuras de labio existió una tendencia a la disminución al comparar los años 2004-2007 y 2008-2011 (OR 1,46 IC 95% 1,27-1,67, p < 0,01).
+
+Las fisuras de labio y paladar aumentaron en 50%, si se compara los años 2004-2007 y 2008-2011 (OR 0,67 IC 95% 0,59-0,75, p < 0,01), presentando un aumento absoluto y porcentual (Figuras 2 y 3).
+
+ 
+
+
+
+Figura 2. Porcentaje de tasa de egresos hospitalarios por tipo de          fisura labio-palatina, período 2004-2011.
+
+ 
+
+
+
+
+
+
+
+ 
+
+Con el modelo de Prais-Winsten se corrobora que la disminución la tasa de egresos hospitalarios de fisura labio-palatina es explicada por la fortificación de la harina con ácido fólico, manteniendo significancia estadística la variable pre-post como subrogante a la implementación de la fortificación. Esta asociación es ajustada por la presencia de las otras variables (Tabla 1) que no tienen significancia estadística en el modelo. Según este modelo, el cambio de años sin a con intervención implican una disminución de 0,19 por 1.000 NV en la tasa de egresos hospitalarios por fisuras labio-palatinas.
+
+El modelo ajustado Prais-Winsten muestra una ligera disminución de la pendiente (Beta) de la variable subrogante a la fortificación con ácido fólico en la harina de trigo (pre-post), pero manteniendo la significancia estadística, lo que no ocurrió con las otras variables explicatorias. Es decir, la fortificación de ácido fólico en la harina en el año 2000 en Chile, se asoció con una disminución de la tasa de egresos hospitalarios por fisuras labio-palatinas en 0,19 puntos (IC 95% -0,33; -0,049; p = 0,01) ajustado por porcentaje de indigencia en la población, porcentaje de obesidad en embarazadas, consumo tabaco y alcohol en mujeres e incidencia de rubéola en la población. Se buscaron interacciones entre las variables predictoras y la tasa de egresos hospitalarios, pero no se encontraron.
+
+Discusión
+
+La fortificación de alimentos con ácido fólico ha logrado disminuir la incidencia de defectos del tubo neural en Chile y en distintos países del mundo, pero es controversial su efecto sobre las fisuras labio-palatinas. En Chile se observó una disminución del 55% de los defectos del tubo neural en recién nacidos con la implementación de la fortificación con ácido fólico en la harina de trigo durante el año 200022. Nuestro trabajo explora los eventuales efectos sobre la incidencia de fisuras labio-palatinas, a través de egresos hospitalarios, después de la incorporación de la fortificación con ácido fólico en la harina en Chile implementada en el año 2000. Con estos resultados podemos decir que, luego de la implementación del programa de fortificación de la harina de trigo con ácido fólico, se detecta una disminución concomitante de la tasa de egresos hospitalarios de las fisuras labio-palatinas de los menores de 1 año, cuantificada en una disminución de 9%. Aunque no se puede descartar que se trate de un problema de registros, esta es una evidencia que aporta en el sentido de la existencia de la asociación.
+
+El estudio tiene limitaciones que es necesario sopesar. En primer lugar, los registros de egresos hospitalarios pueden no reflejar fielmente todos los casos de recién nacidos con fisuras labio-palatinas en una población. Por ejemplo, puede haber sub-diagnósticos de las fisuras labio-palatinas en mortinatos, poli-malformados o algunos casos de mortalidad neonatal que no se registraron durante su estada en el servicio de neonatología o maternidad; también pueden existir casos de fisuras de paladar aislada o fisura submucosa que tengan diagnóstico ambulatorio más tardío y que presenten resolución quirúrgica después del año de vida, por lo que no quedarían registrados, dada nuestra aproximación con los egresos por esta causa en menores de 1 año. Por otra parte, podrían ocurrir repeticiones debidas a casos con más de un alta médica por procedimientos quirúrgicos relacionados. 
+
+A pesar de estas limitaciones, la tasa de egresos hospitalarios es una buena aproximación a la incidencia de fisuras labio-palatinas, considerando que éstos se han mantenido estables en el período de estudio. La incorporación de las fisuras labio-palatinas al programa de Garantías Explícitas de Salud en el año 2007 produjo un aumento de los egresos hospitalarios por fisuras labio-palatinas durante el año 2008 en forma aislada. Esto puede tener explicación por un aumento de las oportunidades de resolución médica-quirúrgica, sin necesariamente reflejar un aumento de la incidencia real. Pese a esa alza, aún se observa la disminución de la tasa de los egresos hospitalarios por fisuras labio-palatinas al comparar el período pre-fortificación y post-fortificación.
+
+Si comparamos estos resultados con los encontrados después de la fortificación de alimentos en otros países, podemos decir que en Chile existió una disminución del riesgo, a diferencia de los estudios canadienses, que no arrojan una diferencia en la incidencia después de la fortificación de cereales12,23. En cambio, este efecto es cercano a los valores encontrados en Estados Unidos de Norteamérica y Brasil después de la fortificación de los cereales y la harina respectivamente4,5,8.
+
+Los estudios de Nazer et al. en Chile encontraron una disminución significativa de los defectos del tubo neural luego de la fortificación de la harina con ácido fólico, pero no así de otras malformaciones congénitas, incluidas las fisuras labio-palatina7,13,15. Estos trabajos están basados en algunas maternidades del país que forman parte del ECLAMC, lo que podría tener sesgo de derivación, pudiendo entregar incidencias más altas que la realidad nacional. Debido a las dificultades para encontrar un registro que refleje fielmente la incidencia de esta patología en la realidad nacional se destaca la necesidad imperiosa de generar un Registro Nacional de Malformaciones Congénitas.
+
+El riesgo de toxicidad del ácido fólico cuando se sobrepasa la ingesta máxima tolerable es bajo, ya que los niveles plasmáticos no metabolizados de acido fólico son excretados en la orina24. En Chile, las personas de niveles socioeconómicos bajos, especialmente los menores de edad, son los que pueden estar expuestos a ingesta excesivas de ácido fólico a través del pan25. Existen actualmente ciertos temores dado eventuales efectos no intencionados por el alto consumo de ácido fólico, como el enmascaramiento de la anemia perniciosa en los adultos mayores y el aumento de la incidencia de diferentes tipos de cáncer por el rol del ácido fólico como cofactor en el crecimiento y proliferación celular12,24.
+
+Las últimas revisiones concluyen que existe insuficiente evidencia que afirme que existe una asociación entre el riesgo de cáncer y el aumento del consumo de ácido fólico, aunque tampoco se descarta una asociación9. Por otra parte, estudios recientes han concluido que suplementación con ácido fólico no enmascara el déficit de vitamina B12, es decir, los eritrocitos siguen presentando macrocitosis, elemento característico de la anemia perniciosa, a pesar de la suplementación con ácido fólico. Otra conclusión es que no se requiere estudios de laboratorio previo el inicio de la suplementación (evidencia tipo II-2-A)10,24.
+
+Un hallazgo importante que requiere mayor análisis es la disminución de las fisuras de labio y un aumento de las fisuras de labio y paladar. Como hipótesis se puede plantear que la disminución de las fisuras labiales se debe a que esta malformación ha sido permeable a los cambios ambientales que se han ocurrido en el período 2004-2011. Uno de los factores ambientales que podría estar participando es la mejoría de la distribución del ácido fólico en los molinos de harina del país, que aún no llega a los niveles homogéneos deseados, presentando importantes diferencias intra-molinos e inter-molinos de los niveles de este micronutriente26,27. El aumento absoluto en los egresos hospitalarios de las fisuras de labio y paladar durante los años 2008-2011 puede reflejar un aumento de la edad materna, con lo que algunos autores han encontrado una asociación con la fisuras labio y paladar no sindromática28-32. Este punto requiere mayor investigación a nivel nacional.
+
+Por otra parte, nuestro estudio es ecológico y, por lo tanto, está sujeto a los sesgos reconocidos de este diseño33,34; sin embargo, postulamos que no hay otra forma de estudiar este problema una vez que la intervención ya existe y que lo que interesa es conocer a nivel poblacional si es posible detectar beneficios adicionales, así como también es la forma de evidenciar eventuales efectos no deseados35.Considerando lo anterior, aunque no es posible afirmar taxativamente que hay una asociación causal con la fortificación con ácido fólico, estos resultados constituyen un aporte valioso referente a eventuales efectos poblacionales del ácido fólico.
