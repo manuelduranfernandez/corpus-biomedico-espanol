@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-381X2019000100103
+Análisis Descriptivo y Cualitativo de Tres Software Gratuitos Usados para la Conversión de Formato DICOM para STL
+
+INTRODUCCIÓN
+
+Los avances tecnológicos en los exámenes de imagen permitieron optimizar la planificación y ejecución de la cirugía maxilofacial, haciéndola más precisa y previsibles (Moreira & da Silva Leal, 2013). Aunque la tomografía computarizada (TC) y la resonancia magnética (RM) posibilitan la formación de imágenes tridimensionales (3D) de alta calidad (Haaga et al., 1996), la tomografía computarizada de haz cónico (CBCT) es ampliamente utilizada en la región oral y maxilofacial, debido a su menor dosis efectiva de radiación y menor costo en relación a la TC (Hashimoto et al., 2003; Ludlow et al., 2006). Además, entrega calidad de imagen para el diagnóstico que es adecuada cuando se trata de análisis del tejido óseo (Kim et al., 2011, 2012).
+
+Con los exámenes de imagen tridimensional es obtener información virtual del paciente, pudiendo ser estudiada para simular diferentes tipos de tratamientos (Orentlicher et al., 2010). Estas imágenes se utilizan comúnmente para crear el modelo de prototipado rápido (PR), que es la obtención del modelo físico a partir del modelo virtual, orientando de forma previa el procedimiento quirúrgico, auxiliando en la planificación (Menezes et al., 2008) y en la comunicación entre cirujanos y paciente (Winder & Bibb, 2005).
+
+El proceso de formación de la imagen 3D hasta la fase de prototipado rápido se puede dividir en tres pasos básicos: 1) adquisición de datos, 2) procesamiento de imagen y 3) fabricación del modelo, siendo cada paso una fuente potencial de errores geométricos y distorsiones en el modelo final (Orentlicher et al.). Uno de estos errores puede estar en la conversión del formato de archivo. Las imágenes tomográficas se importan en formato DICOM (Digital Imaging and Communications in Medicine) y a través de un software, estas imágenes pasan por un proceso de segmentación; luego, se determina la región anatómica de interés, cuyo valor mas utilizado es el threshold (Otsu, 1979). Por medio de este algoritmo, los tonos de grises de los diferentes voxels son separados y se excluyen los voxels que están fuera del umbral, formando un biomodelo 3D.
+
+Los equipos de impresión 3D no reconocen archivos con formato DICOM, proporcionado por el tomógrafo, pues la información de la imagen debe ser tridimensional representada en forma de triángulos, siendo el formato STL (Standard Tessellation Language) utilizado para esta etapa (Menezes et al., 2008). Es decir, un algoritmo transforma cada voxel, de acuerdo con su umbral, en un conjunto de triángulos. Esta transformación puede ser automática, manual o ambos. El algoritmo difiere en cada software, luego el recuento de triángulos también, reflejando en el modelo físico final (Huotilainen et al., 2014). De esta forma, factores que dependen de esta etapa de transformación pueden incidir en el resultados final de nuestro prototipo.
+
+En este sentido, el mercado ofrece una amplia variedad de software, donde los de acceso libre tienen gran aceptación basado en el bajo o nulo costo que significa su utilización; el control de calidad para su empleo no siempre es conocido, de forma que el objetivo de este estudio fue analizar tres software gratuitos 3DSlicer, InVesalius e ImageVis3D, en cuanto a la dificultad de manejo y características para la conversión de archivo DICOM hacia STL.
+
+MATERIAL Y MÉTODO
+
+Reclutamiento de la muestra. El proyecto fue aprobado por el Comité de Ética en investigación de la Universidad Estatal de Maringá (CAEE: 74986217.5.0000.0104). Todos los participantes firmaron un Consentimiento Libre e Informado antes de iniciar sus actividades de evaluación.
+
+Se seleccionaron en esta investigación CBCT de los modelos de estudio en yeso de la maxila y de la mandíbula obtenidas por el equipo i-CAT Next Generation® (Imaging Sciences International, Hatfield, PA, EE.UU.) realizadas por un único profesional previamente entrenado. Los volúmenes se reconstruyeron con 0,125 mm de voxel isométrico, con FOV (Field of View) de 8 X 8 cm, tensión de tubo de 120 kVp y corriente del tubo de 3-8 mA, en el formato DICOM; las imágenes correspondían a pacientes en preparación para cirugía ortognática en el Departamento de Odontología de la Universidad Estatal de Maringá (UEM), Brasil.
+
+Evaluación del software. La metodología empleada para evaluar el software 3DSlicer, InVesalius e ImageVis3D fue basado en el modelo del proceso de evaluación de calidad, según la norma NBR ISO/IEC 9126-1 (Associação Brasileira de Normas Técnicas, 2003). La Norma ISO / IEC 9126-1 establece seis características básicas (funcionalidad, confiabilidad, usabilidad, eficiencia, mantención y portabilidad) y sus debidas sub características (Fig. 1), las que son necesarias para clasificar a un software como “software de calidad”.
+
+
+
+
+
+Fig. 1 Traducido de: Modelo del proceso de evaluación de calidad según la norma NBR ISO/IEC 9126-1. (Associação Brasileira de Normas Técnicas, 2003). 
+
+
+
+
+
+Fig. 1 Traducido de: Modelo del proceso de evaluación de calidad según la norma NBR ISO/IEC 9126-1. (Associação Brasileira de Normas Técnicas, 2003). 
+
+Para la evaluación de los tres software, fueron formados dos grupos de observadores, siendo el grupo 1 formado por tres alumnos de pregrado en odontología y el grupo 2 formado por tres alumnos del postgrado de Odontología de la misma Universidad.
+
+Se proporcionó a los voluntarios acceso al software y orientaciones generales sobre el proceso de evaluación. La evaluación de los observadores ocurrió individualmente y no hubo interferencia de los investigadores. Los voluntarios recibieron la especificación detallada sobre cada ítem que sería evaluado y orientaciones sobre cómo se daría el proceso de evaluación. Una vez realizada la evaluación, utilizando cada uno de los datos obtenidos fue realizada una discusión de los resultados encontrados, analizando los puntos que cada voluntario administró.
+
+El voluntario era orientado a seleccionar el archivo DICOM del modelo de yeso previamente obtenido de la CBCT y transformarlo en un archivo STL. Esta transformación fue hecha por el voluntario usando los tres software investigados, con el fin de establecer una comparación entre ellos. Todos los voluntarios tuvieron acceso libre e ilimitado al software para realizar la transformación, manipulación y segmentación de los modelos del formato DICOM para STL; cuando esta finalizaba, el voluntario encontraba una tabla con las características y sub características establecidas por la Asociación Brasileña de Normas Técnicas (2003) para la evaluación de este tipo de software. En está incorporaba puntuaciones que variaban entre nota 0,0 para una calidad insatisfactoria y nota 4,0 para para una calidad excelente.
+
+Así, de esta manera los voluntarios evaluaron las características de los tres software que fueron medidas cuantitativamente correspondientes a los grados de satisfacción del usuario. El valor de la media y de las medidas cuando eran próximos a 1 correspondía a una experiencia de uso insatisfactorio, el 2 lo cataloga como un programa razonable, el 3 como satisfactorio y 4 lo clasifica como un software excelente de acuerdo con la norma NBR ISO/IEC 14598, como se observa en la Figura 2 (Associação Brasileira de Normas Técnicas, 2004).
+
+
+
+
+
+Fig. 2 Valores esperados para las características y sub características establecidas por la norma NBR ISO/IEC 14598 - 6. (Associação Brasileira de Normas Técnicas, 2004). 
+
+
+
+
+
+Fig. 2 Valores esperados para las características y sub características establecidas por la norma NBR ISO/IEC 14598 - 6. (Associação Brasileira de Normas Técnicas, 2004). 
+
+RESULTADOS
+
+En cuanto a la metodología empleada para evaluar los software 3DSlicer, InVesalius e ImageVis3D en la norma NBR ISO/IEC 9126-1 de la Asociación Brasileña de Normas Técnicas (Tabla I), seis evaluadores seleccionados evaluaron los tres software. Después de recoger toda la información se hizo una media del valor de cada sub característica del software correspondiente y un promedio final (Tabla II). En relación a la media final, los tres software recibieron valores en torno a dos, siendo clasificados como razonables (ImageVis3D: 2,6; InVesalius: 2,5 y el 3DSlicer: 2).
+
+
+
+
+
+Tabla I Análisis sistemático de los tres software. 
+
+* uvf (Generic UVF Dataset), vgi (VGStudio Data), dat (QVis Data), nrrd e nhdr (Nearly Raw Raster Data), stk (Stk Volume), ome.tiff .tif e .tiff (TIFF Volume), vff (Visualization File Format), bov (Brick pf Values), rek (Fraunhofer Raw Volume), iass e iass.gz ( Fraunhofer MAVI Volume), i3m (ImageVis3D Mobile Data), mhd (Kitware MHD Data), hdr (Inveon ou Analyze 7.5), am (Amira), mrc (Medical Research Council’s eléctron density format), vtk (Visualization ToolKit). **dcm (Digital Imaging and Communications in Medicine).
+
+
+
+
+
+Tabla I Análisis sistemático de los tres software. 
+
+* uvf (Generic UVF Dataset), vgi (VGStudio Data), dat (QVis Data), nrrd e nhdr (Nearly Raw Raster Data), stk (Stk Volume), ome.tiff .tif e .tiff (TIFF Volume), vff (Visualization File Format), bov (Brick pf Values), rek (Fraunhofer Raw Volume), iass e iass.gz ( Fraunhofer MAVI Volume), i3m (ImageVis3D Mobile Data), mhd (Kitware MHD Data), hdr (Inveon ou Analyze 7.5), am (Amira), mrc (Medical Research Council’s eléctron density format), vtk (Visualization ToolKit). **dcm (Digital Imaging and Communications in Medicine).
+
+En cuanto a las sub características, se observó que la usabilidad (asociada con la exactitud) del software 3DSlicer, al mismo tiempo que es indicado por los evaluadores como el software de más complejidad en su manipulación, también es el que tiene el menor grado de la exactitud en los resultados. Aun así, este software tiene herramientas que le entrega la mayor nota en relación a la adecuación. Por eso, es necesario un entrenamiento más preciso para obtener un mejor manejo del mismo por parte de los evaluadores (Tabla II).
+
+
+
+
+
+Tabla II Media obtenida de cada sub característica y media final. 
+
+
+
+
+
+
+
+Tabla II Media obtenida de cada sub característica y media final. 
+
+Al comparar resultados entre los evaluadores del grupo 1 y 2 se observó que los programas InVesalius e ImageVis3D no presentaron diferencia en la media final de comparación, mientras que las medias de sub características presentaron mínimas diferencias. El software 3DSlicer fue el obtuvo mayor diferencia en los promedios, siendo que la media final del grupo 1 fue mayor que la del grupo 2; probablemente, esta discrepancia se debe al hecho de que 3DSlicer posee más herramientas que los demás software, lo que en algunos casos puede dificultar su manejo (Tabla III).
+
+
+
+
+
+Tabla III Media obtenida de cada sub característica y media final de los grupos 1 y 2. 
+
+G1: Grupo de observadores de pregrado en odontología; P2: Grupo de observadores de postgrado en odontología
+
+
+
+
+
+Tabla III Media obtenida de cada sub característica y media final de los grupos 1 y 2. 
+
+G1: Grupo de observadores de pregrado en odontología; P2: Grupo de observadores de postgrado en odontología
+
+DISCUSIÓN
+
+Los exámenes en 3D se han utilizado cada vez más para el diagnóstico y planificación en la Odontología. A través de software, es posible analizar esas imágenes 3D en una superficie bidimensional (2D), como por ejemplo en una pantalla de ordenador. Estos software permiten que haya un análisis cuantitativo para interpretar la imagen de forma objetiva y precisa, de acuerdo con sus herramientas (Fedorov et al., 2012). Evaluar la calidad es complejo, ya que calidad es un concepto demasiado abstracto que necesita descomponerse en atributos más objetivos. La metodología que nosotros utilizamos es eficiente para mejorar e identificar las deficiencias que pueden presentar este tipo de programas gratuitos.
+
+El prototipado rápido utiliza técnicas de triangulación para convertir datos tridimensionales virtuales en modelos tridimensionales reales. Sin embargo, no es posible hacer esta técnica de forma directa, pues el formato de archivo obtenido de CBCT, TC o RM no es interpretado por la máquina de prototipado rápido. Además, el espesor de las imágenes tomográficas es de 1 a 5 mm, mientras que las secciones utilizadas en los procesos de prototipado son alrededor de 0,25 mm. Para ello, es necesario reconstruir tridimensionalmente y convertir estas imágenes tomográficas en STL, que es el formato de archivo más utilizado y aceptado como estándar (Souza et al., 2003). Existen algunos programas ya reconocidos comercialmente como por ejemplo Dolphin Imaging & Management Solution® que convierte archivos DICOM en STL, estos software tienen costos al usuario y necesitan de licencias anuales para mantenerse actualizados; los software estudiados en esta investigación son gratuitos lo que hace mas interesante nuestra investigación, ya que pueden ser herramientas útiles para clínicos que no tengan un volumen grande de pacientes, clínicas donde no sea necesario invertir en software de alto costo o simplemente en casos donde el uso de los sistemas gratuitos sea la mejor opción para el desarrollo clínico.
+
+La transformación de archivos hacia STL se utiliza para simulación y planificación quirúrgica, confección de guía quirúrgica para implantes dentales, prótesis faciales individualizadas, placas de fijación así como su pre-moldeado, además de auxiliar en la comunicación con los pacientes. Por esta razón, cuanta mejor sea la precisión y reproducción dimensional de las estructuras deseadas, mejor será el resultado del producto terminado (Meurer et al., 2008). El éxito de la producción de imágenes cuantitativas depende de métodos de análisis robustos y herramientas de software (Fedorov et al.). Por eso y debido al aumento de uso de esta tecnología el presente estudio es necesario, evaluando tres software gratuitos de conversión del archivo DICOM a STL.
+
+El software 3DSlicer es una aplicación de visualización de imágenes médicas. Su gran diferencia está en su gran amplitud en cuanto a funcionalidad, extensibilidad, portabilidad entre plataformas y licencia de software de código abierto. Se trata de un conjunto que contienen diversas herramientas de análisis de imagen, entre ellos la AW Workstation (GE Healthcare), syngo.via (Siemens), PMOD (PMOD Technologies Ltd, Zurique, Suíça), Definiens (Definiens Inc., Parsippany, NJ), MimVista (MIM Software Inc., Cleveland, OH). Otra ventaja es que 3DSlicer tiene una versión de 64 bits libre de derechos, aceptando tamaños diversos de imagen. Se distribuye a través de un acuerdo de licencia BSD, lo que permite la distribución gratuita del software para uso académico y comercial, pero no es un dispositivo aprobado por la FDA. Luego su licencia no aprueba la aplicabilidad clínica del software. Cabe al consumidor cumplir con las directrices de seguridad y de ética apropiadas. Este software, también, permite cargar archivos DICOM del disco o directamente del PACS (Sistemas de Archivado y Distribución de Imágenes). Además, acepta TC, RM, TEP (Tomografía por Emisión de Postitrones) y ultrasonido, que se pueden utilizar para la visualización de hasta cuatro conjuntos de datos tridimensionales (Tabla I).
+
+En cuanto a la imagen 3D el 3DSlicer puede configurar los datos de volumen de imagen, como la superficie del modelo triangulado, la representación de volumen, la renderización y el efecto tridimensional estereoscópica, haciendo la imagen más cercana a la real. Las técnicas de renderización del volumen utilizadas en 3DSlicer son básicamente: Ray Casting y Texture Mapping. La primera ocurre debido a un haz de rayo de luz que se traza hacia el objeto y de acuerdo con la transparencia de cada voxel se determinará el color de cada pixel (Manssour & Freitas, 2002). La segunda, es una imagen llamada mapa de textura, se utiliza para mapear la superficie del objeto, sus elementos individuales no se llaman pixels y sí de texels (Heckbert, 1986). Otra categoría de módulo es la segmentación, que es una herramienta que separa la imagen en subregiones individuales, siendo hecha de forma semiautomática o manual. Una de las grandes ventajas de 3DSlicer es soportar una variedad de marcas en la imagen tridimensional, a través de un marcador fiducial (puntos), mediciones unidimensionales y regiones de interés en imágenes raster 3D ("label maps"). Con eso, es posible hacer una segmentación de los label maps, individualizando una anatomía o una determinada patología específica.
+
+InVesalius es un software libre para la reconstrucción de imágenes procedentes de equipos de CBCT, TC o RM, disponible para las plataformas Microsoft Windows, GNU / Linux y Apple Mac OS X (Al-Chueyr, 2009). Este software se ha desarrollado desde 2001 con el objetivo de atender las necesidades de hospitales y clínicas en el Brasil, siendo un software de imágenes médicas en portugués y español. Fue creado por el Centro de Tecnología de la Información Renato Archer (CTI), que es una unidad de investigación del Ministerio de Ciencia, Tecnología e Innovación (MCTI). También posee versión de procesamiento tanto de 32 y de 64 bits gratis (Tabla I). Al igual que el 3DSlicer, el InVesalius también tiene como característica la segmentación de las imágenes, que cuenta con dos técnicas: 1) el threshold con sólo voxels con valores entre un mínimo y un máximo que son seleccionados, y 2) el manual en que es es posible seleccionar, interactivamente, voxels de interés del usuario no seleccionados por la técnica de umbral, así como eliminar de la selección voxels que no sean de su interés (Amorim et al., 2015). InVesalius también tiene el método de visualización 3D renderizado del volumen, utilizando sólo la técnica Ray casting.
+
+ImageVis3D es un software de renderizado volumétrico de código abierto Integrative Biomedical Computing de la University of Utah Scientific Computing and Imaging (SCI) Institute, liberados por la licencia MIT (Massachusetts Institute of Technology), sin restricciones de uso. El sistema ImageVis3D está compuesto por un componente principal, la biblioteca de renderizado de volumen Tuvok. La renderización también utiliza la técnica Ray casting a partir del sistema Tuvok, que ofrece alta calidad en las representaciones de imágenes en 3D. Las versiones de procesamiento de 32 y 64 bits sólo están disponibles en el sistema Windows, Mac OS X y Linux sólo la versión de 64 bits que está disponible, lo que dificulta el procesamiento en equipos que tienen poca memoria RAM. La gran desventaja de este software es que no hace la segmentación de la imagen, luego no es posible cargar imágenes de TC y RM de forma directa, con lo que el software no acepta formato de archivo DICOM. Así, el National Institutes of Health Center (NIH), que desarrolló el software ImageVis3D para University of Utah SCI Institute, ofreció también un software de segmentación y procesamiento del volumen de código abierto, llamado Seg3D.
+
+El software Seg3D está disponible para Windows, Mac OS X y Linux, pero las versiones más recientes del software no están disponibles para el sistema Linux y para los otros dos - Windows y Mac OS X - sólo tienen versiones de 64 bits, dificultando el procesamiento en equipos que tienen poca memoria RAM. El Seg3D acepta TC y RM, con lo que uno de los formatos de archivo posibles para ser importado en el software es el DICOM. Este software, además de soportar muchos formatos comunes de imagen biomédica, tiene como principal característica segmentación automática integrada con contorno manual, en que la característica tomada en cuenta es la definición geométrica de los elementos de la imagen; el problema de esta técnica es que puede ocurrir la presencia de discontinuidades. Para el procesamiento de la imagen, el Seg3D utiliza el Insight Toolkit (ITK), que proporciona los filtros adecuados para implementar la segmentación de imágenes médicas.
+
+El software InVesalius e ImageVis3D presenta en la mayoría de las sub características de usabilidad y funcionalidad un grado satisfactorio, probablemente vinculado que presenta menor cantidad de herramientas que hacen más fácil su uso por parte del usuario de conocimiento básico; de la misma forma, la familiaridad con el idioma en que el software es realizado también cumple un rol importante en la selección y valoración de los sistemas.
+
+De acuerdo con los resultados de este estudio, se puede concluir, que en cuanto a la calidad del software, los tres son considerados razonables, siendo que el software 3DSlicer fue el más completo con diversas herramientas, lo que puede perjudicar su manejo cuando el conocimiento del software es limitado. Así, el software InVesalius, ImageVis3D y principalmente el 3DSlicer necesitan un entrenamiento adecuado para que su manipulación sea lo más precisa posible y que todas sus herramientas sean conocidas por el profesional que las utilice.

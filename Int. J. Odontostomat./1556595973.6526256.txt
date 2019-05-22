@@ -1,0 +1,112 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-381X2011000100002
+Proyecto Histología Virtual: ODONTOWEB
+
+ 
+
+INTRODUCCIÓN
+
+Las nuevas tecnologías de la información    y comunicación (NTIC) tienen un alto potencial de desarrollo en la educación    para apoyar los procesos de enseñanza/aprendizaje de las ciencias.
+
+Con las NTIC surge un nuevo paradigma de enseñanza    basado en planteamientos socio-constructivistas del aprendizaje, promoviendo    el mismo, a partir de la búsqueda y transformación del conocimiento    médico/odontológico (Matheos, 2007).
+
+Por otra parte, el apoyo presencial o "convencional"    para los alumnos que realizan un curso curricular anual de materias relacionadas    con las Ciencias Morfológicas posee numerosas dificultades ya que se    realiza en un determinado espacio físico y con un horario de servicio    pre-establecido (Avila et al., 2009b).
+
+Actualmente existen en medicina nuevas oportunidades    en la educación a distancia usando las NTIC y entre ellas Internet (Hersh    et al., 2001).
+
+Dentro de las plataformas utilizadas en Internet    con propósitos educativos se encuentran el correo electrónico    y la World Wide Web. Desde el año 2000 hemos realizados en forma piloto    diferentes actividades virtuales de Biología Celular, Histología    y Embriología usando la Internet (Avila et al., 2002; Samar et al., 2004;    Avila & Samar, 2008; Avila et al., 2009a, 2010).
+
+La plataforma de aprendizaje basado en la Web    (WBT) posee diferentes niveles de independencia en la enseñanza virtual,    ya que contiene en línea diversa herramientas de comunicación    (correo electrónico, chat, cursos on-line, links, etc.) Nosotros proponemos    para un número ilimitado de alumnos, el uso de las plataformas que posee    la Word Wide Web. Esta permite la actualización de temas y actividades    propuestas por los docentes y de aquéllos requeridos por los estudiantes,    enriqueciendo el proceso de enseñanza-aprendizaje.
+
+Histología, Anatomía y Embriología    Buco-dental son disciplinas de las Ciencias    Morfológicas cuyo conocimiento permite comprender la fisiología    y la patología. El aprendizaje de la anatomía microscópica    (histología y embriología ) depende fundamentalmente de la correcta    interpretación de imágenes por parte de los estudiantes. Las imágenes    capturadas en forma digital creando bases de datos de imagen permiten a un mayor    número de estudiantes acceder económicamente a imágenes    de alta calidad a través de Internet (Silva Lópes & Monteiro-Leal,    2003).
+
+Brisbourne et al. (2002) utilizaron un programa    llamado HistoQuest e ilustraron principios básicos histológicos    integrando la estructura histológica con la función permitiendo    a los estudiantes la formación de modelos mentales que posibilitan organizar    e integrar la nueva información.
+
+De esta manera, los cambios metodológicos    derivados del acceso universal a la información y la comunicación    que posibilitan INTERNET y el uso de las NTIC han conducido a la aparición    de un nuevo paradigma de enseñanza de las Ciencias Morfológicas    (Samar & Avila, 1994; Avila & Samar, 2004).
+
+A partir de este nuevo paradigma nuestro objetivo    fue desarrollar dentro del Proyecto Histología Virtual el sitio virtual    ODONTOWEB.
+
+ELEMENTOS DE TRABAJO Y METODOLOGÍA
+
+El apoyo virtual gratuito está destinado    a los estudiantes de las Ciencias de la Salud y en especial a los que cursan    Histología y Embriología de la Facultad de Odontología    de la Universidad Nacional de Córdoba, Argentina.
+
+Las imágenes pertenecen a los autores    y colaboradores del ATLAS VIRTUAL DE HISTOLOGIA HUMANA.ISBN 978-987-05-5029-7
+
+Se obtuvieron imágenes digitales con una    extensión JPG y GIF. de cortes histológicos, en su mayoría    de humanos, mediante un analizador de imágenes con el programa "Image    Proplus", conectado a un fotomicroscopio Olympus Bx50 y a una cámara    de video Sony.
+
+Para el desarrollo del sitio Web se utilizaron    las siguientes herramientas de diseño y programación:
+
+Microsoft Office SharePoint Designer: programa    que permite tener una visión completa de un proyecto Web. Este programa    facilita creación de páginas web e inserta dinamismo a las mismas    a través de scripting y al mismo tiempo permite una administración    global de todo el proyecto (hipervínculos, navegación, directorios,    etc.).
+
+HTML: (HyperText Markup Language). Lenguaje para    el formato de documentos de hipertexto que estructura un documento por medio    de etiquetas (tags) que posteriormente interpretarán los navegadores.
+
+RESULTADOS
+
+El alojamiento del sitio virtual ODONTOWEB gratuito    está incluido en el que actualmente posee la la II Cátedra de    Biología Celular, Histología y Embriología, Facultad de    Ciencias Médicas, Universidad Nacional de Córdoba: http://www.histologiavirtual.fcm.unc.edu.ar/ODONTOWEB_2009.htm
+
+El «Home Page» identifica la asignatura,    la facultad y la Universidad. Luego se divide la presentación de la información    en sectores mediante una tabla que contiene diferentes celdas identificando    la información y sus correspondientes links. Cada link permite la apertura    de nuevas ventanas con sus respectivas imágenes.
+
+En el Home Page ODONTOEWB, la información    se organiza de la siguiente manera: desde arriba hacia abajo 1- TEJIDOS 2-SISTEMAS    DE COORDINACION ¸ 3-SISTEMAS ENCARGADOS DE TRANSPORTE Y DEFENSA, 4- SISTEMAS    ENCARGADOS DE LA NUTRICION, RESPIRATORIO Y URINARIO. Al pulsar en cada título    identificatorio se muestra una pantalla con imágenes en miniatura. Cada    imagen posee un breve texto que la identifica como así también    la coloración y el aumento original correspondiente a la captura de la    misma en el microscopio (Figs. 1 y 2).
+
+
+
+
+
+
+
+También los respectivos sistemas disponen    de guías de estudio: 1-SISTEMAS DE COORDINACION E INTEGRACION 2- SISTEMAS    DE TRANSPORTE Y DEFENSA,3-SISTEMA DIGESTIVO 4. SISTEMARESPIRATORIO, 5-SISTEMA    URINARIO (Figs. 3, 4, 5    y 6).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Se destaca la celda de Histología de órganos    y sistemas IDENTIFICANDO IMÁGENES, que posee 18 ejercicios con preguntas    de diferentes imágenes. En las pantallas respectivas se pueden desplegar    preparaciones histológicas con consignas    para identificarlas (Figs. 7, 8 y 9).
+
+
+
+
+
+
+
+
+
+
+
+Por último, una celda posee el link a    TRABAJANDO EN LA WEB. Donde los alumnos disponen de consignas sobre diferentes    tareas a realizar sobre búsquedas bibliográficas (Fig.    10).
+
+
+
+DISCUSIÓN
+
+La utilización de la Web para el dictado    de cursos permite respetar el tiempo biológico de los individuos para    procesar la información. El sistema educativo debería tener en    cuenta esta característica neurobiológica individual cuando se    elaboran contenidos y organigramas.
+
+Este modelo de enseñanza virtual pone    énfasis en el trabajo independiente, crea hábitos y habilidades,    el alumno aprende a aprender y a desarrollar de manera progresiva una independencia    cognitiva que permitirá enriquecer su futuro desempeño profesional    y contribuye al desarrollo de la cultura computacional o sociedad de la información.
+
+Quienes investigan en el uso de las computadoras    en la enseñanza conocen muy bien su potencialidad como instrumento para    favorecer el aprendizaje. La computadora por un lado, y la informática    por otro, como entorno técnico integrado a la misma, brindan enormes    posibilidades de enriquecer diversas situaciones educativas (Maiztegui et al.,    2002).
+
+Blake et al. (2003) dictaron cursos con imágenes    histológicas en CD-ROM permitiendo a los alumnos consultar las imágenes    en cualquier momento y en cualquier lugar con sus computadoras portátiles.    Expresan que tanto los estudiantes y profesores participantes de los cursos    demostraron un fuerte apoyo para el uso de este enfoque para la enseñanza    de la histología mediante CD-ROM.
+
+Nosotros creemos que el uso de la Web provee    a una mayor cantidad de estudiantes experiencias de aprendizaje activo, facilitando    la participación de los alumnos en proyectos que promuevan un trabajo    colaborativo investigando, resolviendo problemas y desarrollando estrategias    que les faciliten una mayor preparación y comprensión de la sociedad    en donde realizarán su actividad profesional.
+
+No pretendemos sustituir la actividad presencial    en el ámbito universitario, ya que su correcto manejo proporcionará    una gran cantidad de información adicional a la que se presenta en nuestro    proyecto.
+
+Cuando aplicamos la informática al campo    de la enseñanza, se disminuye el costo de los materiales didácticos    y la facilidad en la digitalización y almacenamiento de las imágenes    permite actualizar e incrementar los contenidos del sitio web a un costo mínimo    si lo comparamos con la edición en papel (Juri et al., 1991).
+
+Además, el dictado de cursos utilizando    la web permite la difusión de los resultados obtenidos en los proyectos    de investigación desarrollados en los laboratorios de la unidad académica    que imparte la enseñanza (Avila et al., 2010).
+
+Harris et al. (2001), Heidger et al. (2002),    Dee et al. (2003) demostraron que cuando se utilizaron imágenes virtuales    se mantienen muchas de las ventajas educativas inherentes al uso de un microscopio    real y permiten a los estudiantes a comprender mejor las características    morfológicas de las microfotografías tradicionales.
+
+Monge-Nájera et al. (1999) definen a los    "laboratorios virtuales" que se han aplicado a la enseñanza    a distancia como "simulaciones de prácticas manipulativas que pueden    ser hechas por la/el estudiante lejos de la universidad y el docente".    Continúan diciendo los autores, los laboratorios virtuales son imitaciones    digitales de prácticas de laboratorio o de campo, reducidas a la pantalla    de la computadora (simulación bidimensional) o en sentido estricto, a    una visión más realista con profundidad de campo y visión    binocular, que requiere que la persona se coloque un casco de realidad virtual.
+
+La incorporación del laboratorio virtual    ONDOTOWEB permitió reforzar y complementar las prácticas presenciales    con el microscopio, enriqueciendo las diversas situaciones educativas. Nuestra    experiencia concuerda con la Silva López & Monteiro-Leal quienes    crearon una página web usando bases de datos con imágenes histológicas    que ayudaron a la reducción de la brecha educativa entre diferentes regiones    con distintas capacidades tecnológicas.
+
+Internet aplicada a la educación, satisface    en gran medida las necesidades de información, tanto en contenidos como    en metodologías y recursos, lo que permite sostener que el mayor valor    de esta red para la educación, consiste en ser un sistema de difusión    del conocimiento y un espacio de encuentro y colaboración, imprescindibles    en los procesos educativos (Samar et al., 2004).

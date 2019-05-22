@@ -1,0 +1,84 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-381X2017000100004
+Determinación de Valores Numéricos en la Escala de Grises de Diferentes Materiales Dentales Mediante Tomografía Computarizada de Haz Cónico (CBCT)
+
+ 
+
+INTRODUCCIÓN
+
+El examen radiográfico    es esencial para el diagnóstico y plan de tratamiento en odontología.    Sin embargo, la interpretación de una imagen puede verse alterada por    la anatomía tanto de los dientes como de las estructuras vecinas, a lo    que se suma la limitada información obtenida a partir de las radiografías    retroalveolares, ya que la anatomía tridimensional del área radiografiada    se comprime a una imagen bidimensional    (Manoj Kumar et al., 2011). Debido a lo señalado anteriormente, la Tomografía    Computarizada de Haz de Cono, en inglés "Cone Beam Computed Tomography"    (CBCT) para uso dental ha sido ampliamente recomendada como una herramienta    útil en la planificación preoperatoria (Nomura et al., 2010).    Este nivel de desarrollo tecnológico para la obtención de diagnósticos    mediante imágenes radiológicas digitales ha    abierto una nueva dimensión en la valoración cualitativa y cuantitativa    de los tejidos duros (Lopez-Videla et al., 2009). De manera particular,    resultaría especialmente útil en la evaluación imagenológica    de los componentes esqueléticos y dentales, así como también    en la verificación y control de tratamientos con materiales biocompatibles    (Lopez-Videla et al.).
+
+El conocimiento del perfil matemático    estándar de las estructuras naturales y los biomateriales odontológicos    utilizados permite la detección de alteraciones estructurales ya sea    por patologías como también fallas en los materiales restauradores    (Lopez-Videla et al.). Los biomateriales odontológicos (BO) tienen    diferentes densidades, es decir, dependiendo de sus características estructurales    generarán diferentes imágenes indicando de esta manera diferentes    índices absorcionales (Lopez-Videla et al.; Whaites, 2008). En una    radiografía convencional podemos inferir la presencia de una determinada    restauración al observar un área radiopaca en un diente, pero    no podemos determinar exactamente de qué tipo de material se trata (Akerboom    et al., 1993; D'Addazio et al., 2011; Stona et al., 2012).
+
+El valor o escala de grises es    el rango de tonos de grises en los pixeles, y representan el coeficiente de    atenuación de los rayos X que permite la evaluación de la densidad    de los tejidos en la tomografía computarizada (Azeredo et al., 2013).    Actualmente, no existen valores promedios asociados a los diferentes materiales    usados en odontología que permitan identificar o estimar el material    observado en una imagen digital (Akerboom et al.; D'Addazio et al.; Stona et    al.).
+
+De acuerdo al estudio realizado    por López-Videla Montaño et al. (2009), donde imágenes    2D digitales directas fueron calibradas dimensionalmente, y luego analizadas    cualitativamente mediante sus índices absorcionales, concluyeron que    su utilidad podría ser limitada debido a la condición de volumen    parcial adquirido de las estructuras anatómicas, producto de la sobre    proyección de elementos en la sumatoria del recorrido del haz de radiación,    lo que se manifestaría como un valor promedio y no individual de cada    una de ellas (López-Videla Montaño et al.). Con el CBCT podemos    obtener un valor numérico digital de cada área escaneada según    su capacidad de absorción de los rayos X (índice absorcional o    valor en la escala de grises), sin la sobreproyección de estructuras,    lo que permitiría aproximarse a un valor estimado para cada material    (Lopez-Videla et al.; Azeredo et al.). La obtención de rangos promedios    de índices absorcionales específicos    para un material dental ayudaría a predecir su presencia, aportando información    útil para el diagnóstico, pronóstico y tratamiento de los    pacientes de la clínica odontológica. Por esta razón, el    objetivo del presente estudio fue determinar los índices absorcionales    de algunos biomateriales utilizados en odontología, mediante la aplicación    de la técnica Cone Beam CT con diferentes equipos.
+
+MATERIAL Y MÉTODO
+
+Se confeccionaron seis dispositivos    correspondientes a bloques de cera odontológica rosada con forma de herradura    a semejanza de una arcada dentaria para poder disponerlos en los diferentes    equipos CBCT. Estos fueron enumerados del 1 al 6 (Fig. 1).    A lo largo de cada dispositivo se confeccionaron 6 cavidades de 4 mm de ancho,    largo y profundidad. Cada cavidad se encontraba separada de la siguiente por    10 mm. Se prepararon diferentes materiales dentales (MD) y se colocaron dentro    de dichas cavidades. Estos materiales fueron:
+
+1. Resina compuesta (RC): Filtek®    Z250 Restaurador Universal, color A2. 3M ESPE Deutschland GmbH Dental Products,    Neuss, Germany.
+
+2. Amalgama (Am): Securalloy    cápsulas, Septodont®. Saint-Maur-des-Fossès Cedex,    France.
+
+3. Vidrio Ionómero de    autocurado (de tercera generación) (ViA): ChemFil® Superior, Densply.    Konstanz, Alemania.
+
+4. Acrílico de autocurado    (Acr): Blanco color 46. Marche®, Santiago, Chile.
+
+5. Vidrio Ionómero modificado    con resina (de cuarta generación) (ViR): Vitremer®, 3M ESPE Deutschland    GmbH Dental Products, Neuss, Germany.
+
+6. Cemento Eugenato de Zinc (Eug):    Eugenol USP y Óxido de Zinc USP. Alfa Dental, Santiago, Chile.
+
+Los Dispositivos 1, 2 y 3 se    confeccionaron exactamente iguales y en cada uno de ellos se colocaron tres    materiales, donde cada material estaba repetido dos veces. Del mismo modo los    Dispositivos 4, 5 y 6 también se confeccionaron iguales y albergaron    a los otros tres materiales (Fig. 1).
+
+La preparación y colocación    de los materiales dentro de las cavidades se realizó siguiendo las indicaciones    de los respectivos fabricantes. Los tres equipos CBCT utilizados fueron: i-Cat    (Imaging Sciences International, Hatfield, PA, USA), GALILEOS Comfort (Sirona    Dental Systems, Bensheim, Germany), y Planmeca ProMax 3D s (Planmeca, Helsinki,    Finland).
+
+Se posicionaron los dispositivos    en parejas uno sobre el otro simulando ambas arcadas dentarias en oclusión,    quedando los 6 materiales evaluados en una adquisición, y se procedió    a la toma de un volumen en los diferentes equipos de CBCT por cada par de dispositivos    o herraduras de cera (Fig. 2).
+
+Los nueve volúmenes adquiridos    fueron evaluados como sigue: para cada material usado se obtuvieron los valores    numéricos de densidades en escala de gris o de índice absorcional    (IA) que entrega el software del equipo y clasificados en una tabla por equipo    que contenía las variables número de dispositivo, material y valor.    Para obtener el valor de IA, se utilizaron las correspondientes herramientas    de cada software de los tres equipos, eligiendo un área de 1 mm por 1    mm en el centro de cada cavidad con material restaurador, de tal manera de analizar    sólo volumen de ese material, y se registró en cada caso, el número    de unidades de atenuación o índice absorcional que arrojó    el software para dicha área seleccionada (valor numérico en la    escala de grises).
+
+
+
+Fig. 1. A: Diagrama que muestra    la distribución de los materiales en los dispositivos 1, 2 y 3.   B: Diagrama que muestra la distribución de los materiales en los dispositivos    4, 5 y 6. (RC: Resina    Compuesta; Am: amalgama; ViA: Vidrio ionómero de Autocurado; Acr: acrílico;    Eug: eugenato).
+
+
+
+
+
+ Fig. 2. Pareja de dispositivos    simulando arcadas dentarias en el equipo CBCT Galileos Sirona.
+
+RESULTADOS
+
+Se realizó un análisis    estadístico descriptivo de cada examen realizado a cada dispositivo.    Se obtuvo un total de seis mediciones para cada material por cada equipo CBCT,    obteniendo un total de 36 mediciones por equipo y 108 mediciones totales. Los    datos se importaron al software Stata 13.0 para el análisis estadístico.    Se consideró un nivel de significancia de los intervalos de confianza    de un 95 %. Los resultados se resumieron en tablas de frecuencia por equipos    (Tablas I, II y III).    Luego se construyó una tabla resumen por equipos con los intervalos de    confianza (Tabla IV), que permiten identificar un material    según el valor numérico estimado. No se realizó comparación    entre equipos debido a la diferencia entre los equipos que no los hace comparables.
+
+Tabla    I. Valores de Índices Absorcionales para cada biomaterial con el equipo    iCat.
+
+
+
+Tabla    II. Valores de Índices Absorcionales para cada    biomaterial con el equipo equipo Galileos Comfort, Sirona.
+
+
+
+ Tabla    III. Valores de Índices Absorcionales para cada   biomaterial con el equipo Planmeca ProMax 3D s.
+
+
+
+ Tabla    IV. Tabla resumen de estadística descriptiva de Indices   Absorcionales (IA) para cada biomaterial según equipo de CBTC.
+
+
+
+ DISCUSIÓN
+
+Se obtuvieron los valores correspondientes    a los índices absorcionales (IA) de cada material dental por equipo,    seleccionados debido a su constante uso en la práctica clínica    odontológica. Esto es, un valor numérico que el software asigna    a cada tono en la escala de tonos de grises en la imagen de cada material dental    analizado.
+
+Del mismo modo, se eligieron    tres equipos de CBCT de marcas reconocidas y ampliamente usadas en radiología    cráneo maxilofacial. Al analizar los valores numéricos obtenidos    para cada material sólo resultan comparables entre equipos de igual marca,    por lo tanto no es posible establecer rangos comunes de reconocimiento independientes    del equipo utilizado.
+
+Por su parte los Intervalos de    Confianza obtenidos, con cada equipo de acuerdo a los valores de IA correspondientes    a los distintos biomateriales, resultaron ser bastante estrechos. Esta situación    sugiere la posibilidad de construir una escala numérica propia para cada    equipo con rangos de IA asociada a los biomateriales estudiados. Desde el punto    de vista clínico, esto significaría que al realizar un examen    CBCT con un determinado equipo a unpaciente que presente algunos de estos materiales    en sus dientes, el valor de su índice absorcional debería estar    dentro de los rangos prestablecidos. Por lo tanto, al analizar en el examen    de un paciente el número de tono de gris obtenido en una zona de un diente    donde haya restauraciones sintéticas, podríamos predecir de qué    material está compuesta dicha restauración, o bien qué    tipo de material se utilizó como base cavitaria.
+
+En la literatura se han reportado    intentos de evaluar la radiopacidad de biomateriales en las radiografías    convencionales 2D digitales (intraorales retroalveolares o extraorales panorámicas),    pero lamentablemente la valoración cuantitativa de estos materiales está    sujeta a la superposición o sumación de estructuras propias de    cada paciente, las que le van a agregar o quitar densidad y por lo tanto, sumar    o restar valor al número real que correspondería para ese material    (Akerboom et al.; D'Addazio et al.; Lopez-Videla et al.; Stona et al.).    Este aspecto de poder predecir la presencia de un material sólo en la    etapa de examinación del paciente, constituiría una herramienta    de valor clínico agregado para la práctica del odontólogo,    pues dadas las desventajas que plantean los exámenes convencionales de    dos dimensiones es muy difícil evaluar lo que sucede con las restauraciones    o bajo ellas sin realizar procedimiento invasivos. Este aporte imagenológico    podría ayudar incluso a una planificación más adecuada    de los tratamientos o evitar subdiagnósticos. Sin embargo, los IA para    Eugenato de Zinc, Amalgama y Vidrio ionómero de autocurado obtuvieron    respectivamente el mismo valor tanto en los equipos Planmeca como Galileos.    Clínicamente esto significa que frente a un valor de 4094 en un equipo    Galileos o un valor de 3096 en un equipo Planmeca sólo se podrá    predecir que corresponde a uno de esos tres materiales, pero no cuál    de ellos.
+
+A pesar de las limitaciones en    la aplicabilidad clínica de los IA estos resultan más útiles    en la tecnología CBCT que el uso de la escala de tonalidad de grises    de Hounsfield, ya que esta última fue propuesta para tomografía    computarizada, y la metodología de este estudio no permite hacer una    comparación entre ambas.
+
+La tecnología CBCT ha    alcanzado una amplia difusión en el ámbito odontológico,    debido a que permite hacer evaluaciones de estructuras maxilofaciales y dentoalveolares    en diferentes planos del espacio, a un menor costo y con menor dosis de radiación    que la tomografía convencional usada en medicina, lo que ha hecho que    esta herramienta sea cada día más utilizada por los odontólogos    para hacer diagnósticos más precisos (Dawood et al., 2009; Lenguas    Silva et al., 2010; Manoj Kumar et al.; Pauwels et al., 2014).
+
+Los diferentes equipos de CBCT    disponibles en el mercado entregan para cada área analizada un valor    numérico que corresponde al índice absorcional o valor de atenuación    de los rayos X de esa estructura en particular, que se traduce en un tono de    gris. Debido a lo anterior, se estudiaron algunos biomateriales odontológicos    ampliamente usados en la práctica clínica. Sin embargo, como muestran    los resultados, se podría decir que cada equipo, de acuerdo a sus características    de software y procesamiento de la información, parece asignar sus propios    valores numéricos a cada tono de gris computacionalmente generado.

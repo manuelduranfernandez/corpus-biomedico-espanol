@@ -1,0 +1,42 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-381X2011000300010
+Determinación de la Estatura a Partir del Arco y Radio-Cuerda Maxilar
+
+INTRODUCCIÓN 
+
+El hallazgo de restos humanos esqueletizados supone la necesidad    de identificación medicolegal. Esta se realiza mediante una aproximación    al sexo, la edad estimada y algunas otras características, que orienten    la investigación y que disminuyan el número de sujetos posibles    con los que podrán aplicarse procedimientos de biología molecular    que nos entregue una confirmación de identidad. Para el diagnóstico    del sexo existen diversos procedimientos desarrollados por la antropología    física, con especial importancia los que evalúan rasgos dimórficos    en cráneo, mandíbula y pelvis ósea (Suazo et al., 2008a,    2008b, 2008c; 2009), o mediante la observación de la cromatina de Barr    en pulpa dental, desarrollado recientemente (Suazo et al., 2010, 2011). Para    la evaluación de la edad, la evolución de la dentición    en cráneos y mandíbulas de subadultos es el método más    utilizado. En adultos el cierre de las suturas craneales y palatinas, el desgaste    dentario y alveolar nos entregan valiosa información acerca de la edad    estimada. Luego de estos análisis podemos hacer una estimación    de sexo y edad del sujeto. La validez de esta aproximación dependerá    del estado de las osamentas y de las piezas óseas encontradas. Cuando    el material disponible se encuentra fragmentado o sólo se encuentran    huesos cortos la probabilidad del diagnóstico correcto disminuye. El    arco dentario maxilar es una región que habitualmente se encuentra conservada,    esto se debe a su ubicación relativamente protegida y la resistencia    de las piezas dentarias al deterioro producto de las condiciones de enterramiento.
+
+Una vez determinado el sexo y la edad estimada de las osamentas,    la entrega de información adicional permitirá circunscribir mejor    la investigación. La estimación de la estatura de un sujeto es    un dato relevante para la identificación, para ello se utilizan métodos    basados en los huesos largos (Lundy, 1985; Bahn & Renfrew, 1993; Rodriguez,    1994), estos métodos no pueden ser aplicados cuando los huesos están    fragmentados o sólo contamos con el cráneo. Carrea (1920) establece    que existen relaciones proporcionales entre las dimensiones dentales y la cara    y el cráneo, a partir de lo cual sugiere que esta proporcionalidad    se extiende al resto del individuo. A partir de estos principios, Carrea (1939)    generó un modelo matemático para la estimación de la estatura    a partir de las dimensiones de las piezas dentarías anteriores mandibulares,    verificado posteriormente con reesultados diversos (Silva, 1990; Sampaio, 1995;    Cavalcanti et al., 2007). El Carrea’s index ha sido también evaluado    en el arco maxilar, buscando su aplicación en hallazgos osamentas craneales    con pérdida de mandíbula, con resultados negativos (Lima et al.,    2008). Sin embargo es deseable el desarrollo de métodos que permitan    estimar la estatura de un sujeto, a partir de dimensiones dentales individuales    y en el arco dentario.
+
+Con estos antecedentes el propósito de este estudio fue    desarrollar un método para la estimación de la estatura a partir    de las dimensiones del arco y radio-cuerda maxilar unilateral.
+
+ 
+
+MATERIAL Y MÉTODO
+
+Se diseñó un estudio de corte transversal, en    el que participaron 145 pacientes, 77 hombres y 68 mujeres, de entre 18 y 44    años con una media de edad de 24,23 años (DE 4,76). Los pacientes    fueron informados de la naturaleza del estudio y accedieron voluntariamente    a participar en el. Se consideraron sólo pacientes con piezas anteriores    sanas, sin alteraciones de número o posición. Ellos fueron sometidos    a las siguientes mediciones:
+
+Determinación de la estatura, La estatura    de cada paciente fue medida, estando el individuo en posición erecta,    con pies descalzos y cabeza descubierta. La medición se realizó    utilizando un estadímetro de pared y se expresó en metros con    dos decimales.
+
+Determinación del arco. Corresponde    a la sumatoria de los diámetros mesiodistales de las piezas incisivo    central, lateral y canino.
+
+Determinación de Radio-Cuerda. Corresponde    a la distancia lineal entre mesial del incisivo central y distal del canino.
+
+La medición del arco y radio-cuerda se realizaron utilizando    un caliper digital (0,01mm) y se expresó en milímetros con dos    decimales.
+
+Utilizando SPSS 17.0 se realizó un análisis de    regresión lineal multivariante, en el cual la variable dependiente fue    la estatura medida en metros, en función del valor del arco y cuerda    del lado derecho expresado en milímetros. Con este procesamiento se obtuvo    la ecuación de regresión y el coeficiente de determinación    R2.
+
+ 
+
+RESULTADOS
+
+Los estadísticos descriptivos se observan en la Tabla    I. La ecuación de regresión obtenida a partir de los datos    fue la siguiente:
+
+
+
+Estatura=0,538+(0,036xArco)+(0,003xRadio-Cuerda)
+
+El valor de R2 fue de 0,54, por lo que en el 54% la ecuación    permitió determinar la estatura.
+
+   DISCUSIÓN
+
+Carrea (1920) afirmaba “dadme un diente y yo encontraré    a la persona”, con ello ilustraba la importancia que los elementos dentales    tenían como aporte a la identificación medicolegal. A partir de    sus estudios se desarrollaron métodos para la estimación de la    estatura, en base a las relaciones que la mandíbula establecía    con el triángulo de Bomwill. El Carrea’s index fue utilizado exitosamente    para la estimación de la estatura de Joseph Menguele, criminal de la    segunda guerra mundial fallecido en Brasil, bajo otra identidad (Silva, 1997).    Para Lima (2011) es posible determinar la estatura a partir de mediciones en    el maxilar al corregir el denominador del Carrea’s Index de 2 a 2,5.
