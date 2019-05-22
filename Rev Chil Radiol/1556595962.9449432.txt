@@ -1,0 +1,162 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082009000400002
+RESONANCIA MAGNÉTICA, HACIA LA CAPTURA DE LOS TIEMPOS FISIOLÓGICOS
+
+Rev Chil Radiol    2009; 15 Supl (1): s4-s9.
+
+RESONANCIA    MAGNÉTICA, HACIA LA CAPTURA DE LOS TIEMPOS FISIOLÓGICOS
+
+ 
+
+TM. Iván    Soza G.
+
+Departamento    de Imágenes       Servicio de Resonancia Magnética       Clínica Alemana de Santiago       email: isoza@alemana.cl
+
+RESUMEN
+
+Las tecnologías    incorporadas en el último tiempo en resonancia magnética, han impactado considerablemente    en la resolución temporal y espacial. Los avances más relevantes son;    tecnología multicanal, adquisición paralela y bobinas multireceptoras.
+
+La incorporación    y asimilación de estas nuevas herramientas permite optimizar la calidad y    tiempos de exámenes, respondiendo a las exigencias diagnósticas y asistenciales    de esta técnica    por imágenes.
+
+Interiorizarse    de la tecnología que se dispone y evaluar en que medida se puede participar    de estos avances, permitirá trabajar con un máximo de rendimiento, para cada    centro en particular.
+
+ 
+
+INTRODUCCIÓN
+
+Sin duda, la resonancia    magnética (RM) ha evolucionando vertiginosamente durante los últimos años, siendo    la carrera por la captura de los tiempos fisiológicos lo que impulsa el constante    desarrollo de software, hardware, secuencias y herramientas que aceleran los    procesos involucrados en la generación de la imagen. Este desafío es enfrentado    con investigaciones y avances en tres grandes polos de desarrollo de la RM:    transmisión, recepción y procesamiento de datos (Figura 1).
+
+   
+
+Basándonos en estos    conceptos fundamentales, en el presente artículo describiremos los avances más    importantes del último tiempo en RM, que han tenido un impacto relevante en    la resolución espacial y temporal de las imágenes, que ha incidido en una mejoría    de la sensibilidad y especificidad de los exámenes. Estos avances son los siguientes:
+
+        Adquisición paralela
+
+         Bobinas multireceptoras
+
+         Equipos multicanales
+
+EVOLUCIÓN DE    LA RM EN EL ÚLTIMO TIEMPO
+
+Desde que en 1971    Paúl Lautenbeur planteó la idea de superponer un nuevo campo magnético (gradiente    magnética) al campo principal, entregó al mundo de la RM la llave y los cimientos    para la localización de la señal(1).
+
+Los objetivos posteriores    siempre confluyen en cómo aprovechar durante el proceso de relajación del hidrógeno    una mayor recolección de señal en menos tiempo.
+
+Poder responder    hoy en día a todas las exigencias de las distintas áreas de la medicina, implica    que las imágenes por RM deben entregar no sólo información anatómica sino que    también en el campo funcional, donde las expectativas y aportes son hoy en día    las de mayor interés.
+
+El legado dejado    por Peter Mansfield en 1977 permite abordar estos desafíos con las secuencias    eco planar (EPI), que cambiaron el concepto de tren de ecos, reemplazando las    RF por gradientes bipolares y digitalizando la señal en ambos sentidos del espacio    K, impactando y llevando los tiempos de adquisición a los milisegundos.
+
+   
+
+En pleno período    de la resonancia moderna, comienza un desenfrenado y focalizado interés por    el desarrollo de las bobinas de gradientes, llevando al máximo las exigencias    y rendimiento de éstas. Este esfuerzo de los investigadores y de la industria    se ha reflejado en la comercialización de nuevas generaciones de equipos que    han permitido satisfacer las expectativas clínicas, aumentando y mejorando las    aplicaciones del método (Figura 2).
+
+Este desarrollo    tecnológico de las bobinas de gradientes, no obstante, por razones de bioseguridad,    es restringido por la FDA (Food and drug administraron, EEUU)(2),    dictaminando límites de performance para el uso clínico. Estos límites regulan    los riesgos biológicos de las gradientes de campo magnético, tales como la estimulación    nerviosa periférica y ruido provocado por éstas, siendo el trauma acústico el    problema mayor.
+
+Así, la resonancia    magnética se ve nuevamente enfrentando grandes desafíos, como seguir acortando    los tiempos de exámenes, mejorando la resolución espacial y temporal con uno    de sus principales componentes por el momento restringido en su máxima escalada.
+
+En el año 2001    se comercializa la adquisición paralela, la cual fue desarrollada por Klaas    P. Pruessmann, por lo que recibió el reconocimiento de la European SocietyforMagnetic    Resonante Imaging el año 2004.
+
+   
+
+Pruessmann, planteó    bajar las líneas de codificación de fase sin alterar la resolución espacial.    Para el pensamiento lógico de quienes participamos en esta técnica y partimos    aprendiendo que cada línea de codificación de fase será un aporte en la resolución    espacial, esto resulta ser muy revolucionario. Recordemos que las líneas de    codificación de fase tienen una directa relación con los tiempos de adquisición    (Figura 3).
+
+De acuerdo a este    planteamiento, si se llenan menos líneas de codificación de fase en el espacio    K, se reducen considerablemente los tiempos de adquisición de las secuencias.
+
+Por lo tanto, lo    que realizó Pruessmann fue reemplazar codificaciones de fase por procesos matemáticos    que son los encargados de mantener la resolución espacial a posteriori con información    previa de los receptores (elementos, bobinas).
+
+BOBINAS MULTIRECEPTORAS
+
+Para lograr este    objetivo ya existía el concepto de multibobinas o multireceptores(3)    las cuales se agrupan de acuerdo a las necesidades del examen y en donde cada    receptor obtiene una data particular aportando a una imagen total, esto es lo    que llamamos dependiendo de las empresas comerciales bobinas Phased Array o    Sinergy (Figura 4).
+
+   
+
+   
+
+Para realizar adquisición    paralela este concepto de agrupar ("arreglo de bobinas") se mantiene'4'.    La condicionante se origina a partir de que estos receptores deben estar dispuestos    de tal manera que la estructura a estudiar debe tener receptores en paralelo    respecto a la estructura (Figura 5).
+
+Para poder realizar    los procesos matemáticos involucrados en la reposición de las líneas del espacio    K que son dejadas de adquirir, necesitamos entregar una data previa al sistema,    esta se obtiene a partir de los perfiles de sensibilidad de los receptores.    Estos perfiles de sensibilidad dependiendo de la empresa comercial se pueden    adquirir antes o durante la secuencia de adquisición y son conocidos como calibración'5',    o reference sean. Estos datos son un muestreo rápido para cada receptor respecto    a la anatomía que está enfrentando. Cuando los datos de los receptores son insuficientes,    los perfiles de sensibilidad estarán incompletos y esto originará una gran cantidad    de artefactos de adquisición paralela.
+
+ADQUISICIÓN    PARALELA
+
+Con el fin de entregar    una clasificación de acuerdo a los nombres asignados por las distintas empresas    a la adquisición paralela, identifiquemos en primera instancia los procesos    más relevantes en la RM: (Figura 6).
+
+La adquisición    paralela se puede dividir en dos grupos:
+
+         Los procesos realizados después de la transformada de Fourier, en la    imagen.
+
+         Los procesos realizados en el espacio K.
+
+A. ADQUISICIÓN    PARALELA REALIZADA DESPUÉS DE LA TRANSFORMADA DE FOURIER
+
+De acuerdo a las    empresa comerciales reciben los siguientes nombres:
+
+         SENSE (Sensitivy Encoding) Philips.
+
+         ASSET (Array Spatial Sensitivy Encoding Technique) GE
+
+         m SENSE (Self-calibrate SENSE) Siemens
+
+   
+
+La adquisición    paralela se crea con la finalidad de acortar los tiempos de adquisición en RM,    favoreciendo de acuerdo a las necesidades diagnósticas del examen, la resolución    temporal o espacial. Recordemos que la finalidad es no llenar la totalidad de    las líneas de codificación de fase del espacio K, de esta forma ya tenemos menos    tiempo de adquisición (Figura 3). Siempre hay que tener    presente que el uso de la adquisición paralela implica una caída de un 30% a    40% en la relación señal/ruido, por lo tanto no todas las secuencias con adquisición    paralela obtienen imágenes óptimas y es en este momento cuando una bobina con    mayor cantidad de receptores puede levantar la señal perdida, manteniendo el    tiempo corto ya conseguido. Cuando se obtienen menos líneas del espacio K (Figura    7), se produce un "enrollamiento" de la imagen (Figura    8). Para poder "desenrollar" esta imagen recurriremos a los perfiles    de sensibilidad de los receptores, los cuales ya contienen la data para restituir    estas líneas y mantener la resolución espacial; todo esto sucede en el dominio    de la imagen donde la resonancia ya cobró el tiempo de adquisición, el que fue    más corto por haber llenado menos líneas en el espacio K.
+
+   
+
+   
+
+Es importante siempre    considerar que en la medida que llenamos menos líneas del espacio K, bajan los    tiempos de adquisición. Hoy en día, el poder acelerar la velocidad de adquisición    de una secuencia depende además de las características particulares de cada    marca. De acuerdo a cada empresa comercial los equipos tendrán mayor o menor    capacidad de aceleración, incluso esto se maneja como un dato de evaluación    de equipos en las instancias de compra, si bien hay que distinguir entre la    capacidad teórica de aceleración y la real, dada por la configuración del sistema    como un todo. Esta capacidad de acelerar las secuencias, se describe en la consola    como factor de aceleración o "R ". Si el valor de R es mayor, más    rápida es la secuencia y menos líneas del espacio K son adquiridas, lo cual    conlleva una mayor caída en la relación señal/ruido y mayor posibilidad de artefactos    inducidos por adquisición paralela (Figura 9).
+
+   
+
+B. ADQUISICIÓN    PARALELA REALIZADA EN EL ESPACIO K
+
+La adquisición    paralela realizada en el espacio K de acuerdo a las empresas comerciales reciben    los siguientes nombres:
+
+        SMASH (Simultaneus Adquisition of Spatial Harmonics)(6).
+
+        GRAPPA (GeneRealized Autocalibrating Partially Parallel Acquisition) Siemens(7).
+
+Una de las grandes    ventajas de esta técnica está relacionada con la ausencia de artefactos por    enrollamiento, debido a que la adquisición paralela y los perfiles de sensibilidad    actúan en el espacio K, antes de la generación de la imagen.
+
+EQUIPOS MULTICANAL
+
+A los conceptos    de bobinas multireceptoras y adquisición paralela, simultáneamente los equipos    comienzan a identificarse por su cantidad de canales.
+
+La asimilación    de estos conceptos ha sido difícil por lo rápido del cambio.
+
+Cuando hacemos    referencia a canales en RM nos referimos a la relación directa con las vías    de transmisión de datos de los receptores de las bobinas hacia los computadores    de procesamiento, por lo tanto siempre han existido los canales en los equipos    de RM, sólo que no se hablaba de ellos, debido a que durante largo tiempo existieron    cuatro vías de transmisión (canales) y la mayor cantidad de centros adquirió    equipos con estas características. En este período se realizaron una gran cantidad    de avances en RM, como difusión, perfusión, funcional, angiografías, imágenes    cardíacas, exámenes con resolución temporal (abdomen, mamas) y espectroscopia.
+
+Cuando se introduce    la adquisición paralela y bobinas multireceptoras, esto conlleva a construir    equipos con más vías de transmisión (más canales) y de esta forma se puede cumplir    el objetivo final que es acortar los tiempos de adquisición.
+
+Al construir bobinas    con mayor cantidad de receptores, se plantea que cada receptor tenga un canal    de transmisión (Figura 10), Si un equipo tiene más receptores    y menos canales, este no trabajará en forma óptima porque se produce un cuello    de botella en la vía de transmisión (Figura 11), por    lo tanto un sistema ideal para un equipo, tiene que tener tantos canales como    receptores (elementos) que demanden las bobinas mutire-ceptoras (multielementos)    (Figura 12).
+
+Es interesante    destacar que la tecnología de canales para equipos de resonancia magnética va    adelantada con respecto a la construcción de bobinas multireceptoras existentes    en el mercado, por ejemplo, los equipos con capacidad de 16 ó 32 canales han    desarrollado recién sólo una bobina con esta cantidad de receptores y la mayoría    está aún en 8 ó 12 receptores como máximo.
+
+Lo más importante    para que el sistema funcione óptimamente es que tiene que existir un canal de    transmisión para cada receptor. Ahora, cuando la    bobina tiene más receptores que canales en el equipo, se ocupa el concepto ya    mencionado, el cual es agrupar o usar un arreglo de receptores (concepto phased    array o sinergy), adecuándose a esta condición (Figura 13).
+
+   
+
+   
+
+   
+
+
+
+De    acuerdo a lo descrito podemos plantear las siguientes consideraciones generales:
+
+Si tenemos un equipo    con 16 canales y bobinas con 8 receptores, el sistema se comportará como un    equipo de 8 canales.
+
+Si tenemos un equipo    de 4 canales y bobinas de 8 receptores, el sistema se comportará como un equipo    de 4 canales.
+
+De acuerdo a lo    explicado, un equipo multica-nal funcionando en condición óptima, dependiendo    de los canales y bobinas multireceptoras utilizadas, puede impactar la agenda    de citación de exámenes respecto a su rapidez en un 20% a 30%. Este dato es    sin considerar el uso de adquisición paralela.
+
+EN    RESUMEN
+
+Las tecnologías    incorporadas en los últimos años por la RM están pasando frente a nuestros ojos    sin una total comprensión y asimilación de sus potencialidades.
+
+La adquisición    paralela, los equipos multicanal y los avances en bobinas de elementos múltiples    representan el mayor avance tecnológico de la RM.
+
+Una optimización    y aplicación integral de todas las    técnicas descritas, nos permite realizar estudios con mejor resolución temporal,    sin un mayor deterioro de la resolución espacial'8'.
+
+Se potencian considerablemente    los exámenes que necesitan una evaluación dinámica de la administración de medio    de contraste.
+
+La cantidad de    señal que proporcionan las bobinas multireceptoras, permiten el uso de matrices    altas, espesores de corte y campos de visión pequeños, obteniendo imágenes de    muy alta resolución espacial.

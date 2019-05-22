@@ -1,0 +1,114 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082012000200005
+Análisis cuantitativo de variables hemodinámicas de la aorta obtenidas de 4D flow
+
+Resumen. Objetivo: Los parámetros hemodinámicos son de gran utilidad para realizar un adecuado diagnóstico. Sin embargo, debido a la gran cantidad de variables que pueden obtenerse, el análisis global de todas ellas puede ser complejo. Para facilitar esta tarea, nosotros proponemos crear un modelo que permita clasificar distintas variables hemodinámicas entre las pertenecientes a un individuo sano o a uno patológico. Para ello, usaremos técnicas de minería de datos que permitan identificar y encontrar relaciones entre distintos parámetros hemodinámicos de la aorta obtenidos a través de flujo multidimensional (4D flow) por resonancia magnética. Método: Una secuencia 4D flow de todo el corazón y los grandes vasos fue adquirida utilizando resonancia magnética en 19 voluntarios sanos y 2 pacientes (uno con una coartación aórtica y otro con una coartación aórtica reparada). Retrospectivamente, los datos fueron reformateados a lo largo de la aorta, originándose 3 cortes en los voluntarios y 30 cortes en cada paciente. En cada corte la aorta fue segmentada y distintos parámetros fueron cuantificados: área, velocidad máxima, velocidad mínima, flujo y volumen, calculándose en los cuatro últimos su valor máximo, promedio, desviación estándar, curtosis, sesgo, proporción de tiempo en alcanzar el valor máximo, entre otros. Teniendo un total de 26 variables por cada corte. Se aplicó la técnica de árboles de decisión tipo CART (por sus siglas en inglés) para clasificar los datos. Para validar el modelo, 2 cortes extras fueron generados por cada voluntario y 20 cortes por cada paciente. Resultados: La técnica CART, mediante la utilización de sólo 7 variables, puede clasificar las imágenes de los voluntarios y pacientes con una tasa de error del 14,1%, una sensibilidad de 82,5% y una especificidad de 89.4%. Conclusiones: 4D flow provee una gran cantidad de datos hemodinámicos que son difíciles de analizar. En este trabajo demostramos que al utilizar minería de datos se pueden clasificar imágenes a partir de parámetros hemodinámicos relevantes y sus relaciones para apoyar el diagnóstico de alteraciones cardiovasculares.  Palabras claves: CART, Resonancia magnética cardíaca, 4D flow.
+
+ 
+
+Introducción
+
+Las enfermedades cardiovasculares constituyen unas de las primeras causas de muerte en los países de desarrollo intermedio o avanzado como consecuencia del llamado cambio o transición epidemiología(1). En Chile son la primera causa de muerte, generando 24.000 muertes anuales, aproximadamente el 30% de los fallecimientos del país en un año(2). 
+
+Diferentes métodos de imágenes existen para realizar un adecuado diagnóstico clínico de las enfermedades cardiovasculares, entre ellas la ecocardiografía, la tomografía computarizada, la tomografía por emisión de positrones, el cateterismo diagnóstico y la resonancia magnética cardiovascular (RMC), siendo esta última cada vez más utilizada a nivel mundial. Esto debido a que es un método no invasivo, no irradia al paciente y es una técnica muy versátil(3).
+
+La RMC provee imágenes, tanto para el diagnóstico anatómico como funcional, y además se pueden obtener imágenes que entregan información de las velocidades del flujo sanguíneo. Los datos de flujos por resonancia magnética son obtenidos por una técnica llamada contraste de fase (PC), la cual permite adquirir datos de flujo bidimensionales en venas y arterias de distintos vasos sanguíneos. Recientemente, esta técnica ha sido extendida para adquirir datos multidimensionales. A este método se le ha denominado 4D flow y permite adquirir datos de velocidad de flujo en 3 direcciones ortogonales a lo largo de todo el ciclo cardíaco (Figura 1a y 1b)(4).
+
+
+
+  
+
+Figura 1. a) Como resultado de la adquisición 4D flow se pueden obtener 2 tipos de imágenes distintas, una imagen anatómica y una imagen codificada por velocidad, en los 3 ejes ortogonales, b) muestra una visualización de flujo 3D, c) la imagen anatómica resultante y 3 cortes perpendiculares de ésta.
+
+4D flow provee datos de los cuales se pueden extraer una gran cantidad de variables hemodinámicas y, por lo tanto, el análisis global de todas ellas puede ser complejo. Debido a esto, es necesario desarrollar herramientas que permitan analizar distintas variables hemodinámicas del sistema cardiovascular.
+
+La minería de datos podría ser de gran ayuda para el desarrollo de técnicas que aporten en la búsqueda de parámetros relevantes a partir de una gran base de datos(5), uno de los métodos más utilizados en clasificaciones biomédicas corresponde a los árboles de decisión(6). Este método ha sido aplicado con éxito en imágenes de ultrasonido y de resonancia magnética(7-11). Sin embargo, no tenemos evidencia de su aplicación en imágenes de resonancia magnética analizando variables hemodinámicas obtenidas por 4D flow.
+
+En este trabajo nosotros proponemos elaborar una herramienta basada en la utilización de árboles de decisión tipo CART, que permitirá clasificar y diferenciar un conjunto de datos de flujo de la aorta obtenidos en voluntarios sanos y pacientes, utilizando 4D flow.
+
+Este artículo se estructura de la siguiente forma; en la metodología se describen las técnicas, tanto de extracción de parámetros como de minería de datos. Luego se describen los resultados en los cuales se explican cómo se manejan los datos, y el uso de tablas de contingencia para verificar la eficiencia de los modelos generados. Finalmente se realiza una discusión de los resultados y se concluye el trabajo haciendo énfasis a la importancia del uso de la minería de datos en la clasificación de parámetros extraídos de imágenes de flujo por resonancia magnética. 
+
+Material y métodos
+
+Datos de 4D flow fueron adquiridos en 19 voluntarios y en 2 pacientes (uno con una coartación aórtica y otro con una coartación aórtica reparada) en un resonador clínico Philips Achieva (Philips Healthcare, Best, The Netherlands) de 1.5 T. La secuencia 4D flow cubría todo el corazón y los grandes vasos del mediastino. Esta secuencia se adquirió utilizando los siguiente parámetros de adquisición: 50 cortes, ángulo de excitación de 6°, resolución temporal de 38 ms, resolución espacial de 2.5 mm3 y VENC = 200-350 cm/s.
+
+Procesamiento de imágenes
+
+Para obtener parámetros hemodinámicos de la aorta, los datos fueron procesados a través de una rutina creada con el software Matlab (The MathWorks Inc, Natick, MA, USA).
+
+El procesamiento de las imágenes de 4D flow consistió en dos etapas, la primera fue la creación de una imagen anatómica y la segunda en un método interactivo para reformatear los datos de 4D flow en datos de flujo 2D.
+
+Para la creación de la imagen anatómica se aplicó el algoritmo descrito en Bock J, et al(12). Este algoritmo permite enmascarar el ruido de fondo en las imágenes y aumentar la intensidad de los valores de pixel en las regiones vasculares con alta velocidad de la sangre (Figura 1c).
+
+La imagen anatómica obtenida fue utilizada para planificar cortes perpendiculares a la aorta. Luego, cada corte generado fue segmentado a través de la técnica de crecimiento de regiones para delimitar el área de la aorta (Figura 2)(13).
+
+
+
+ 
+
+  
+
+Figura 2. a) Planos de cortes hechos para generar el modelo, b) resultado de corte generado, imagen anatómica 2D y segmentación por crecimiento de regiones, c) evolución temporal de la velocidad normal al corte segmentado, fase cardíaca número 1, 6, 12 y 25.
+
+Luego de segmentar la imagen se cuantificaron valores de área, velocidad máxima y mínima perpendicular al plano de la imagen en cada fase cardíaca y el flujo neto que pasa a través de la aorta por ciclo cardíaco. El volumen de flujo se obtuvo sumando la velocidad de cada pixel por su unidad de área, y esto para cada fase cardíaca. Cada uno de estas variables puede ser representada en gráficos en función del tiempo (Figura 3). Estas variables fueron llamadas variables hemodinámicas globales.
+
+
+
+
+
+Figura 3. Gráfico de las variables hemodinámicas globales extraídas de las imágenes segmentadas.
+
+A partir de los datos globales se calcularon distintas variables estadísticas específicas que serán utilizadas como la base de datos para construir el modelo de minería de datos. Estas son el valor máximo, el promedio, la desviación estándar, la curtosis y sesgo, para las variables de flujo, velocidad máxima, velocidad mínima y volumen. Otras variables estadísticas específicas obtenidas, fueron la proporción de tiempo en alcanzar el valor máximo con respecto al total del ciclo cardíaco (para el flujo, velocidad máxima, velocidad mínima) y la proporción de tiempo en alcanzar el valor mínimo (para la velocidad mínima). Por último se calculó el valor mínimo de la curva de velocidad mínima. En total se obtuvieron 26 variables por cada corte generado, como se muestra en la Tabla I.
+
+
+
+
+
+Extracción de las variables hemodinámicas
+
+Para generar la base de datos para el modelo se generaron 3 cortes por cada voluntario y 30 cortes por cada paciente (Figura 2). Esto se realizó para igualar el tamaño de los conjuntos de variables y de esta forma balancear las clases (voluntario vs paciente). Así se generó una matriz de 26 variables estadísticas específicas para cada uno de los 117 cortes (57 cortes en los voluntarios y 60 cortes en los pacientes).
+
+Modelo de Minería de Datos
+
+Se construyó un modelo basado en la utilización de árboles de decisión tipo CART para realizar la clasificación de los datos(14).
+
+CART es una técnica no paramétrica, a través de la cual se pueden seleccionar aquellas variables, que de acuerdo a sus interacciones son relevantes en la determinación de las variables resultantes de la clasificación. El resultado de la aplicación de CART es un árbol de clasificación o de regresión(15).
+
+Validación del modelo
+
+Para validar el modelo, se generaron en forma adicional a los cortes utilizados en las etapas previas, dos cortes más por cada voluntario y 20 cortes más por cada paciente en zonas intermedias entre los cortes 1, 2 y 2, 3 (Planos A y B en la Figura 4). Las variables estadísticas específicas obtenidas a partir de estos cortes sólo fueron utilizadas para validar el modelo y no para su construcción. 
+
+
+
+
+
+Figura 4. Planos de cortes A y B, realizados por cada uno de los voluntarios y pacientes, para validar el modelo.
+
+El desempeño del modelo se analizó mediante el uso de una tabla de contingencia, la cual nos permite estudiar la efectividad de éstos. Por ejemplo, para cuantificar si los datos hemodinámicos de un voluntario son clasificados efectivamente como un voluntario (verdadero negativo) o erróneamente como un paciente (falso positivo); como también si los datos hemodinámicos de un paciente son clasificados efectivamente como un paciente (verdadero positivo) o erróneamente como un voluntario (falso negativo).
+
+Resultados Modelo de Minería de Datos. 				Cálculos Árbol de decisión tipo CART:
+
+La base de datos utilizada en este estudio, corresponden a las 26 variables estadísticas específicas mostradas en la Tabla I. Estas son directamente ingresadas al árbol de decisión tipo CART, el cual entrega el modelo más optimo para clasificar todos los datos usados en la construcción del modelo, se seleccionaron 7 de las 26 variables estadísticas especificas utilizadas, como se observa en la Figura 5. Estas variables corresponden a velocidad mínima promedio, velocidad máxima promedio, desviación estándar de la velocidad máxima, sesgo del volumen, curtosis de la velocidad mínima, curtosis del flujo y el área. 
+
+
+
+
+
+Los resultados de este modelo se muestran en la Tabla II, de los cuales se obtuvo: efectividad= 0.8590, tasa de error = 0.1410, sensibilidad= 0.8250, una especificidad = 0.8947, tasa de falsos positivos= 0.1053 y tasa de verdaderos positivos= 0.8250.
+
+
+
+
+
+Discusión
+
+En este trabajo propusimos utilizar el conocimiento de minería de datos para realizar un procesamiento estadístico: las variables hemodinámicas extraídas de 4D flow, a partir del uso del árbol de decisión tipo CART. Como resultado del modelo generado se logró una efectividad de un 85,9%, clasificando de forma certera 67 cortes de 78 en total. Este método logra una sensibilidad de un 82.5% en la clasificación de cortes pertenecientes a pacientes (verdaderos positivos), y tiene una tasa de falsos positivos de un 10.53%.
+
+Es probable que el error del 14,1% generado por el árbol de decisión tipo CART se deba, por un lado, al poco número de pacientes que se posee en la base de datos y, por otro lado, al no poseer variables hemodinámicas más específicas, como por ejemplo el wall sheer stress, la vorticidad y helicidad, ya que estas variables están directamente relacionadas con el comportamiento anatómico de las paredes del vaso en función del flujo de sangre que circula por éstos.
+
+Es probable que otra fuente de error sea debido a que el modelo del árbol de decisión tipo CART se generó con datos de la aorta ascendente (Plano corte 1, Figura 2) del paciente que tiene una coartación aórtica reparada al final del arco aórtico. Los datos adquiridos en la aorta ascendente de este paciente eran muy similares a los datos de los voluntarios sanos. De hecho, 6 de los 7 cortes que fueron mal clasificados (falsos negativos), correspondían a planos de corte generados en la aorta ascendente (Plano A, Figura 4) del paciente con coartación aórtica reparada. 
+
+En conclusión, el árbol de decisión tipo CART es un método eficiente para identificar qué datos, provenientes de imágenes de resonancia magnética cardíaca, corresponden a un paciente o a un voluntario sano. La ventaja del árbol de decisión tipo CART es que mide la correlación existente entre las variables de construcción del modelo, dejando sólo las variables más relevantes, disminuyendo en forma automática el número de variables a analizar.
+
+Si bien la minería de datos es una herramienta estadística muy poco utilizada en la clasificación de parámetros relevantes dentro de las imágenes médicas, hemos mostrado a través de este estudio que es posible utilizar este tipo de técnica como una buena herramienta de apoyo al diagnóstico clínico.
+
+Agradecimientos

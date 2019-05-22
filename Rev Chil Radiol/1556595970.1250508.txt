@@ -1,0 +1,238 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082015000400005
+Utilidad de la resonancia magnética en el diagnóstico de las enfermedades musculares hereditarias
+
+ 
+
+Resumen: Las enfermedades musculares hereditarias son patologías raras, debidas a un defecto genético que causa una alteración en la estructura o funcionamiento de las fibras musculares. Pueden debutar en cualquier etapa de la vida y su diagnóstico definitivo suele requerir de biopsia muscular. Si bien las miopatías hereditarias más frecuentes tienen una presentación clínica relativamente característica, existe una parte importante de ellas en que los síntomas son poco específicos y su diagnóstico definitivo puede tomar largo tiempo. La Resonancia Magnética (RM) ha ganado un espacio en el proceso diagnóstico de este último grupo de miopatías, confirmando la presencia del compromiso muscular y planteando aproximaciones diagnósticas en base a su distribución, información que acota el estudio inmunohistoquímico y/o genético necesario para el diagnóstico definitivo.En el presente artículo revisaremos los protocolos de estudio básico con RM de las miopatías y su interpretación, mostrando también algunos casos de estas enfermedades.
+
+Palabras clave: Hereditario, Miopatías, MRI.
+
+ 
+
+Introducción
+
+El músculo estriado puede verse afectado por patologías de diverso origen. Lo más frecuente es que se produzca un compromiso de carácter "adquirido", entre los que encontramos el trauma, las infecciones, afecciones por fármacos y procesos autoinmunes(1).
+
+Sin embargo, también existen las enfermedades musculares hereditarias, que son enfermedades primarias del músculo, debidas a un defecto genético que provoca una alteración en la estructura o funcionamiento de las fibras musculares. Son enfermedades complejas tanto en su identificación como en su manejo, por lo que es fundamental tener un alto grado de sospecha clínica para plantear su diagnóstico(2). Las enfermedades musculares hereditarias presentan patrones de afectación de los músculos que pueden resultar muy característicos y ayudar en su identificación (ej. distrofia facio escápulo humeral). Estos patrones de afectación muscular que pueden identificarse clínicamente, también son susceptibles de ser analizados por exámenes imagenológicos.
+
+Tradicionalmente, el diagnóstico específico del tipo de enfermedad muscular hereditaria requiere de biopsia muscular (incluyendo estudio inmunohistoquímico) en la mayor parte de los casos, lo que permite orientar el estudio genético en búsqueda de la mutación causal. En las últimas décadas, la resonancia magnética (RM) se ha convertido en una herramienta diagnóstica de fundamental importancia en el proceso diagnóstico de las miopatías que tienen una presentación clínica no tan característica, evidenciando el compromiso de determinados grupos musculares que guían la biopsia y planteando aproximaciones diagnósticas que acotan el estudio inmunohistoquímico y/o genético(2-4).
+
+ 
+
+Enfermedades musculares hereditarias
+
+Definición
+
+Las enfermedades musculares hereditarias son un grupo extenso de más de 300 enfermedades genéticas raras que resultan de mutaciones que afectan la estructura y función del músculo(5), y de transmisión variable (autosómica dominante, autosómica recesiva, ligada al cromosoma X, etc.)
+
+ 
+
+Clasificación y fisiopatología
+
+Las diferentes enfermedades musculares hereditarias pueden clasificarse en 16 grupos, que se relacionan con el defecto primario en el genoma. Algunos de estos grupos son: distrofias musculares, miopatías congénitas, miopatías distales, síndromes miotónicos, entre otros(5).
+
+También se las podría dividir, a grandes rasgos, en congénitas, metabólicas y distrofias musculares:
+
+• Las miopatías congénitas son aquellas en que se produce una falla en el desarrollo del músculo, lo que lleva a un defecto estructural del mismo. Estas se agrupan según el patrón histopatológico predominante en la biopsia. Ejemplos de enfermedades en este grupo son la miopatía miotubular ligada al cromosoma X, miopatías centronucleares (autosómica dominante o recesiva), la miopatía nemalínica, entre otras(6).
+
+• En las miopatías metabólicas el defecto es funcional, producto de una falla enzimática en el metabolismo de hidratos de carbono, lípidos o cadena respiratoria mitocondrial. Son ejemplos de este grupo la glucogenosis tipo II o enfermedad de Pompe, el déficit primario de carnitina muscular y la oftalmoplejia externa progresiva(6,7).
+
+• Las distrofias musculares son enfermedades lenta o rápidamente progresivas, caracterizadas por un patrón de necrosis–regeneración de las fibras musculares en la biopsia. Este proceso es secundario a las alteraciones que la mutación patogénica genera en la cantidad o calidad de diversas proteínas musculares (distrofina, caveolina, disferlina, lámina, etc.). Las más frecuentes entre estas enfermedades son las distrofias de Duchenne y Becker, causadas por la ausencia total o parcial de distrofina, siendo menos común entre las distrofias un grupo muy heterogéneo conocido como distrofias musculares de cinturas (LGMD del inglés limb girdle muscular dystrophy)(2).
+
+ 
+
+Contexto clínico
+
+Las enfermedades musculares hereditarias se pueden manifestar en diferentes etapas de la vida, desde el nacimiento hasta la adultez:
+
+• Las miopatías congénitas se suelen manifestar desde el nacimiento o en el primer año de vida, con hipotonía, debilidad muscular y retardo del desarrollo motor. Sin embargo, en algunos casos los primeros síntomas y signos se pueden evidenciar recién en la edad adulta(6).
+
+• De forma similar, las miopatías metabólicas pueden debutar inmediatamente después del nacimiento hasta la adultez, con un grado de compromiso variable que va desde la hipotonía al nacimiento, con muerte en los primeros años de vida, hasta un cuadro de tan sólo elevación de la creatina fosfokinasa muscular (CPK) o intolerancia al ejercicio. Algunas de estas formas pueden asociarse a compromiso cardíaco o hepático(6,7).
+
+• Las distrofias musculares pueden ser congénitas (con severa hipotonía y debilidad desde el nacimiento), de inicio temprano (dentro de la primera década de vida) o tardías (a partir de la segunda década de vida e incluso aún después de los cincuenta años). Lo más habitual es que no haya alteraciones al nacimiento y con posterioridad se desarrolla debilidad muscular de diversa distribución según de que enfermedad se trate(6).
+
+ 
+
+Diagnóstico
+
+Clásicamente el diagnóstico de las enfermedades musculares hereditarias se ha basado en las características clínicas, parámetros de laboratorio (aumento de CPK), biopsia muscular (incluyendo estudio inmunohistoquímico, microscopía electrónica y biología molecular) y estudio genético(4,8).
+
+Los estudios por imágenes han ido adquiriendo cada vez mayor importancia en el algoritmo diagnóstico de las miopatías, en especial en la última década. Si bien los músculos pueden ser evaluados con ultrasonido, tomografía computada y RM, es esta última técnica la que nos brinda una información más completa y objetiva. A continuación analizaremos como deben ser realizados los estudios de RM, cuál es la información de utilidad que proporcionan y como ésta es de ayuda diagnóstica para los clínicos que evalúan a estos pacientes(9).
+
+ 
+
+Evaluación por RM
+
+La evaluación con RM de las enfermedades musculares hereditarias se realiza desde hace alrededor de 20 años con protocolos sencillos que se han modificado escasamente hasta la actualidad. Las diferentes miopatías tienden a afectar selectivamente ciertos grupos musculares y respetando otros de forma más o menos consistente, dando patrones de compromiso característicos. Sin embargo, la complejidad de la interpretación radica en el gran número de enfermedades existentes (y por lo tanto de patrones de afectación), lo que determina cierto grado de superposición de estos patrones, a lo que se suma la continua descripción e incorporación de nuevas enfermedades.
+
+ 
+
+Protocolos de estudio
+
+Como ya se indicó anteriormente, los protocolos fundamentales para el diagnóstico de miopatías por RM son sencillos y han sufrido escasa modificación desde que se inició su aplicación.
+
+En el año 1998 Mercuri y colaboradores iniciaron un programa de evaluación con RM de niños con distrofias musculares utilizando secuencias potenciadas en T1, T2 y STIR en los planos axial y coronal en brazos y piernas(2).
+
+Con el tiempo se ha demostrado que el plano de mayor utilidad en la evaluación es el axial y la secuencia más útil es la potenciada en T1. Esto se debe a que el plano axial permite una mejor evaluación topográfica del compromiso de los músculos y que los focos de reemplazo adiposo en el músculo quedan mejor demostrados en T1. STIR genera información de carácter complementario mostrando el grado de edema y/o cambios inflamatorios en los músculos, que teóricamente corresponden a cambios más precoces en estas enfermedades. Finalmente los segmentos corporales más estudiados son la región glútea, muslos y piernas, ya que la información obtenida en estos lugares suele ser suficiente para dar una orientación diagnóstica(2,9).
+
+El consenso actual propone realizar imágenes potenciadas en T1 en el plano axial, agregando el plano coronal si se tiene la opción de RM de cuerpo completo. Estas secuencias permiten evaluar la infiltración por tejido adiposo de los músculos, hallazgo que es el marcador de progresión de las enfermedades neuromusculares, así como su distribución, la que nos permite acotar posibilidades diagnósticas(10) (Figura 1a y 1b).
+
+
+
+
+
+
+
+
+
+Figura 1. Imágenes axiales potenciadas en T1 a nivel de los muslos. a) Se aprecian algunos focos aislados de infiltración grasa en los vientres musculares, sin significado patológico. b) Severa infiltración grasa en todos los compartimentos, con respeto del gracilis (flecha).
+
+
+
+La presencia de edema y cambios inflamatorios puede ser detectada con secuencias potenciadas en T2, T2 con supresión grasa o secuencias STIR, estudiando las mismas áreas que las secuencias potenciadas en T1(11,12) (Figura 2a y 2b).
+
+
+
+
+
+
+
+
+
+Figura 2. Imágenes axiales STIR a nivel de los muslos. a) Músculos de señal normal b) Focos de edema muscular múltiples, especialmente en gracilis y vasto lateral (flechas).
+
+
+
+Los detalles técnicos para los estudios axiales a 1.5T se resumen en la tabla I(10).
+
+
+
+
+
+ 
+
+Por otra parte se están utilizando mediciones del tiempo de relajación T2 como una manera más objetiva de estimar el edema muscular, que es un método más sensible, preciso y reproducible, especialmente útil con fines de investigación(10,11).
+
+Para monitorizar la progresión de la infiltración grasa se ha propuesto realizar secuencias densidad protónica con separación de agua-grasa, el que sería un método cuantitativo en comparación con las secuencias potenciadas en T1(10).
+
+Las técnicas de espectroscopía y perfusión por RM han sido hasta el momento poco evaluadas, permaneciendo aún en etapas experimentales, por lo que no deben ser consideradas en los protocolos de rutina(11).
+
+ 
+
+Interpretación
+
+El análisis de las imágenes potenciadas en T1 es fundamental, y como ya se mencionó, permite confirmar la presencia o ausencia de infiltración grasa. Con el fin de sistematizar el grado de compromiso se han propuesto múltiples escalas de clasificación, de las cuales mostramos dos ejemplos, que se presentan en las tablas II y III(11).
+
+
+
+
+
+
+
+
+
+ 
+
+Sin embargo, en la fase de diagnóstico de estas patologías, el análisis de la distribución del compromiso es mucho más importante que su severidad. Es finalmente éste el que permite plantear diagnósticos diferenciales que sean de ayuda para guiar los estudios inmunohistoquímicos o genéticos de estos pacientes. En este contexto recordemos que existen decenas de miopatías hereditarias, en muchas de la cuales la clínica es inespecífica y no permite un diagnóstico sindromático preciso, además que los estudios de laboratorio que certifican sus diagnósticos son complejos de realizar e interpretar. Es por eso que el reducir el espectro de posibles diagnósticos a descartar contribuirá a un diagnóstico de certeza más rápido(11,12).
+
+Por su parte las secuencias STIR o T2FS tienen el valor de mostrar el edema muscular, que es un cambio que precede a la eventual degeneración grasa. Además, son útiles en el control de la actividad de la enfermedad, como seguimiento terapéutico y como guía de biopsia(11). En la fase diagnóstica su información se considera mayormente de carácter complementario a la proporcionada por las imágenes potenciadas en T1.
+
+Al revisar la literatura publicada de los hallazgos a RM en las diferentes miopatías hereditarias nos encontraremos con numerosos estudios y abundante información. En base a éstos se ha logrado aprender cuál es el patrón de distribución de infiltración grasa que sigue cada enfermedad, el que en algunos casos puede ser similar entre ciertas miopatías si es que el examen es evaluado en forma general. Por esto es que también se describen detalles particulares de compromiso que permiten estrechar los diagnósticos diferenciales, como pueden ser el compromiso o respeto de algún músculo en particular, así como también la morfología de la infiltración grasa dentro del mismo músculo.
+
+Por último, es de suma importancia el contacto con el clínico, ya que su información es fundamental para guiar y respaldar los diagnósticos que se pueden plantear en base a las imágenes.
+
+ 
+
+Casos clínicos
+
+A continuación presentaremos ejemplos de cinco casos de enfermedades musculares hereditarias en que la RM ha sido de utilidad diagnóstica.
+
+1. Disferlinopatía (Figura 3a y 3b)
+
+La mutación en el gen de la disferlina genera una distrofia de cinturas que puede tener un patrón de compromiso en la extremidades inferiores de predominio proximal (distrofia de cinturas tipo 2B, LGMD2B) o bien distal (Miopatía distal de Miyoshi, MM) en el inicio de la enfermedad. Con la progresión de la enfermedad, ambos fenotipos a menudo se traslapan. En los muslos se observa un compromiso que predomina en los aductores e isquiotibiales y en las piernas hay una mayor afección de los gemelos y el sóleo. El compromiso muscular se puede desarrollar en forma asimétrica(11-13,15).
+
+
+
+
+
+
+
+
+
+Figura 3. Disferlinopatía. Imágenes axiales potenciadas en T1 a nivel de los muslos (a) y piernas (b). A nivel de los muslos predomina el compromiso a nivel de los aductores e isquiotibiales y en las piernas el mayor grado de afección se aprecia en gemelos y sóleo (flechas). Hay respeto relativo del gracilis y sartorio.
+
+
+
+2. Sarcoglicanopatía (Figura 4a y 4b)
+
+También se clasifica entre las distrofias de cinturas, identificándose al menos cuatro tipos (LGMD2C–2F). En los muslos puede haber compromiso severo tanto del compartimento anterior como posterior, con predominio del compartimento anterior, sin embargo un hecho característico es la escasa afección de la musculatura de las piernas. La literatura científica publicada respecto de los hallazgos por RM de este grupo específico de miopatías es aún escasa. Las imágenes mostradas corresponden a una gamma-sarcoglicanopatía (LGMD2C)(11,12,15).
+
+
+
+
+
+
+
+
+
+Figura 4. Sarcoglicanopatía. Imágenes axiales potenciadas en T1 a nivel de los muslos (a) y piernas (b). En los muslos hay severo compromiso tanto del compartimento anterior como posterior, con algunas zonas de menor afección en el cuádriceps (flechas). Prácticamente no hay compromiso en las piernas, hallazgo descrito para esta miopatía.
+
+ 
+
+3. Miopatía nemalínica (Figura 5a y 5b)
+
+Pertenece al grupo de las miopatías congénitas y debe su nombre a que en los estudios histológicos se encuentran unas estructuras llamadas cuerpos nemalínicos(4). Son causadas por mutaciones de varios genes diferentes que codifican para proteínas del sarcómero como nebulina, alfa actina, troponina, tropomiosina, etc.(5). Clínicamente las miopatías congénitas pueden ser muy similares entre sí, sin embargo, se han descrito diferencias en su apariencia a RM. En este caso podemos ver compromiso difuso de la musculatura de los muslos y piernas, con presencia de focos de infiltración grasa múltiples, sin embargo, existe una mayor afección del sartorio y del compartimento anterior en las piernas (flechas)(12,14,16).
+
+
+
+
+
+
+
+
+
+Figura 5. Miopatía Nemalínica por mutación del gen ACTA1. Imágenes axiales potenciadas en T1 a nivel de los muslos (a) y piernas (b), que muestran múltiples focos de infiltración grasa en músculos de muslos y piernas, destacando un mayor compromiso de sartorios y compartimento anterior de las piernas (flechas).
+
+
+
+4. Desminopatía (Figura 6a y 6b)
+
+Pertenece a un grupo conocido como miopatías miofibrilares que son causadas por mutaciones en diversos genes (desmina, miotilina, filamina C, etc.) que se caracterizan ultraestructuralmente por degeneración miofibrilar. La desminopatía se produce por mutaciones en el gen de la desmina (DES) y puede clasificarse como miofibrilar, miopatía distal o distrofia de cinturas 1E según su presentación clínica. En los muslos de los pacientes con desminopatía el músculo más comprometido es el semitendinoso, junto con el sartorio y gracilis, y en las piernas el compromiso tiende a dominar a nivel de los peroneos (flechas)(11).
+
+
+
+
+
+
+
+
+
+Figura 6. Desminopatía. Imágenes axiales potenciadas en T1 a nivel de los muslos (a) y piernas (b). Destaca el mayor compromiso del semitendinoso, sartorio y gracilis en los muslos y de los peroneos en las piernas (flechas).
+
+ 
+
+5. Enfermedad de Bethlem (Figura 7a y 7b)
+
+Es una miopatía causada por mutaciones en el gen del Colágeno VI. En los muslos de estos pacientes se describe que los músculos vastos presentan un anillo de infiltración grasa en la periferia, hallazgo conocido como atrofia concéntrica y en las piernas se observa un plano de infiltración grasa entre los gemelos y el sóleo (flechas)(11,12,14,15).
+
+
+
+
+
+
+
+
+
+Figura 7. Enfermedad de Bethlem. Imágenes axiales potenciadas en T1 a nivel de los muslos (a) y piernas (b). En esta miopatía se describe un anillo de infiltración grasa en la periferia de los músculos vastos y un plano de infiltración grasa entre gemelos y sóleo (flechas).
+
+
+
+Conclusiones
+
+En la actualidad la RM se ha ganado un espacio en el proceso diagnóstico y control de las enfermedades musculares hereditarias. Se trata de enfermedades poco frecuentes, cuyo diagnóstico puede verse dificultado aún en manos de clínicos con experiencia. En este contexto la RM puede aportar información que va más allá de demostrar la existencia de músculos con signos de miopatía, sino que puede plantear diagnósticos diferenciales que orienten estudios histopatológicos, biología molecular y finalmente genéticos específicos que certifiquen un diagnóstico definitivo. Dado las dificultades y el alto costo que los estudios de laboratorio tienen en nuestro medio, la RM de músculo se convierte en una herramienta fundamental en el algoritmo diagnóstico de las miopatías. La RM tiene la ventaja de ser un método no invasivo y de menor costo relativo, el que puede aplicarse de forma masiva para la pesquisa y orientación diagnóstica de miopatías. Los protocolos de estudio para el diagnóstico son sencillos de implementar, aunque también existen técnicas de avanzada que permiten cuantificación del compromiso que son de especial utilidad en el control de la evolución de la enfermedad.
+
+ 
+
+Agradecimientos
+
+Agradecemos el apoyo de los proyectos FONDECYT#1110159, FONDECYT#1151383 y Anillos #ACT1121 de la Comisión Nacional de Investigación Científica y Tecnología de Chile (CONICYT).

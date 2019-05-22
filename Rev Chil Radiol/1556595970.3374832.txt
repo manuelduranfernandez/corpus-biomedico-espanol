@@ -1,0 +1,164 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082016000100007
+Efectos del voltaje de tubo en la dosis de radiación y calidad de imagen en fantoma en tomografía computarizada multicorte pediátrica
+
+ 
+
+Resumen. El incremento en el uso de la TC es sostenido en los últimos años, llegando a ser la mayor contribución a la dosis colectiva mundial. Los niños no están exentos de ello, con un riesgo potencialmente creciente. Con el objetivo de estudiar métodos de optimización en TCMC se investigó el efecto del voltaje de tubo como herramienta de reducción de dosis gracias al uso de fantomas representativos, evaluando paralelamente su efecto sobre la calidad de imagen. Se observó que para el fantoma pediátrico el CTDIw es mayor en un factor de 2 con respecto a su símil adulto para iguales valores de kV. Se constató que una reducción en el kV permite una notoria disminución de CTDIw, con menores efectos sobre el ruido en la imagen pediátrica. Por otro lado, una reducción de kV permite mejorar el contraste de estructuras óseas y con medio de contraste yodado. 
+
+Palabras clave: Voltaje de tubo. Dosis de radiación. Índice Ponderado de Dosis en Tomografía computarizada. Fantoma. Tomografía computarizada multicorte. Pediátrico. Calidad de imagen.
+
+ 
+
+Introducción 
+
+La contribución de la tomografía computarizada (TC) a la medicina actual es innegable, y se ha visto incrementada por importantes avances tecnológicos, como la introducción de la tecnología helicoidal y posteriormente la tomografía computarizada multicorte (TCMC). Estos avances han aumentando la velocidad, flexibilidad y versatilidad de los estudios que pueden realizarse hoy en día. Sin embargo, la TC se ha convertido paralelamente en la principal fuente de radiación para la población mundial en el contexto de las exposiciones médicas, aportando alrededor de un 40% de esta dosis colectiva1. Esta contribución es resultado, entre varios factores, del creciente aumento en las últimas décadas de la TC como herramienta diagnóstica2. El Colegio Americano de Radiología (ACR) reporta que entre 1985 y 2005 la cantidad de tomografías realizadas en Estados Unidos aumentó 20 veces, alcanzando los 60 millones de procedimientos al año3. La preocupación internacional en torno a este tema ha ido en aumento, debido además al creciente uso de la TC en pacientes pediátricos, el cual crece a una tasa de un 10% anual4. Se estima que en Estados Unidos alrededor de 7 millones de TC al año se realizan en niños5.
+
+Aunque normalmente se considera que el riesgo individual de cáncer radioinducido por TC en niños es de alrededor de uno cada 1.000 (con un máximo de uno cada 500) para un rango de dosis de 5 a 60 mSv por barrido, el creciente aumento de la población expuesta y el hecho de que un tercio de estos pacientes se ve sometido al menos a 3 barridos en cada estudio de TC6 plantea una posible situación de salud pública ad portas. Se sabe que los niños presentan una mayor radiosensibilidad inherente en comparación con los adultos en un factor de 10, siendo esta mayor en niñas que en niños7. Poseen además mayor probabilidad de expresar un posible cáncer radioinducido debido a su corta edad, efecto que habitualmente conlleva tiempos de latencia de varios años8. Basado en estos preceptos Brenner et al. estimaron en 2001 que del total de tomografías de abdomen y cerebro que se realizaron en Estados Unidos a niños menores de 15 años, 500 individuos podrían morir a causa de un cáncer atribuible a la dosis de radiación aportada por la TC8. Por otra parte, Mathews et al. estimaron un aumento de un 24% en el riesgo de cáncer en niños y adolescentes sometidos a TC en Australia9.
+
+El sistema de protección radiológica propuesto por la Comisión Internacional (ICRP) tiene entre sus principales objetivos disminuir la probabilidad de los efectos estocásticos de las radiaciones tanto como sea posible10. Aunque pudiese considerarse que la TC pediátrica es evitable, diversos diagnósticos normalmente tienen una justificación clara sustentada en la indicación de un facultativo. En estos casos, y basados en las recomendaciones de la ICRP, el principio de optimización aparece como el principal camino para reducir los riesgos asociados a este tipo de exposiciones11,12, haciendo referencia a que la magnitud de las dosis individuales se mantengan tan bajas como sea razonablemente posible alcanzar, objetivo acuñado comúnmente tras el denominado criterio ALARA13.
+
+Se puede entregar dosis de radiación innecesaria a estos pacientes debido a que, a diferencia de la radiología convencional, en la TC las imágenes nunca se ven sobreexpuestas al aumentar estos parámetros. Además de ello, debido a las ventajas que presenta la tecnología helicoidal y multicorte, existe evidencia de una tendencia a aumentar la cobertura de los barridos, así como a realizar exploraciones con sobreposición de espiras para mejorar la calidad de imagen en procesos de reformación2, y con ello, la búsqueda de protocolos que abarquen todos los posibles diagnósticos en un solo estudio para enfrentar la demanda por este tipo de exámenes14. En consecuencia, se ha visto en la práctica que para una misma aplicación diagnóstica los protocolos de estudio para pacientes pediátricos pueden variar de manera importante, incluso en centros clínicos de una misma ciudad, con el consiguiente impacto en las dosis observadas15,16. Reviste especial preocupación la existencia de evidencia concreta de que en algunos centros se utilizan protocolos de examen diseñados para adultos en estudios de pacientes pediátricos, con una mayor dosis de radiación resultante para estos últimos17.
+
+Es por estos motivos que se debe prestar máxima atención a la selección de los parámetros de adquisición a la hora de establecer los protocolos de examen en niños. Comúnmente los protocolos de TC tienden a estandarizar el valor de voltaje de tubo y tiempo de rotación para una determinada aplicación clínica, realizando ajustes de dosis en función del tamaño del paciente a través del manejo de la corriente de tubo o el producto mAs12,18, y la aplicación de técnicas de modulación de corriente disponibles en los tomógrafos computados modernos. La mayor parte de las exploraciones en TCMC se realizan con 120 o 140 kV estandarizados, con un infrecuente uso de valores de voltaje menores19. Nuevos estudios recomiendan el uso de bajos valores de kV (80-100) para angioTC y estudios de abdomen en pacientes de baja talla20, valores también recomendados para estudios contrastados en pacientes pediátricos19, inclusive hoy en día con buenos resultados al utilizar sistemas automáticos de selección del kV21. Debido a que el voltaje determina la distribución energética del haz de rayos X, se espera que al variar su valor se observen además cambios en la imagen, principalmente en su nivel de ruido y contraste. Normalmente, una reducción en el voltaje de tubo produce un incremento del contraste en la imagen de estructuras de alto coeficiente de atenuación en función del hueso o medio de contraste yodado. Un aumento del nivel de ruido en la imagen es también esperable. Sin embargo, este incremento debiese ser menos notorio en pacientes de menores dimensiones22.
+
+El objetivo de este estudio fue evaluar la influencia de la selección del voltaje de tubo en los parámetros de dosis de radiación y calidad de imagen en un tomógrafo computado multicorte moderno, haciendo énfasis en las diferencias que se pueden encontrar entre pacientes pediátricos y adultos, representados por fantomas, y la utilidad que esta información presta a la hora de trabajar en la optimización de protocolos de adquisición en TCMC en niños.
+
+      
+
+Materiales y métodos 
+
+Para este estudio se utilizó un equipo tomógrafo computado marca Siemens, modelo Somatom Sensation 64, perteneciente al Centro de Imagenología del Hospital Clínico de la Universidad de Chile. El equipo posee mantenciones preventivas periódicas realizadas por la marca.
+
+Como parámetro dosimétrico representativo se utilizó el Índice Ponderado de Dosis en TC (CTDIw), cuyo cálculo se realizó en función de las mediciones de CDTI100, utilizando cámara de ionización tipo lápiz modelo 30009, de 100 mm de largo activo y 3,14 cc de volumen, conectada a un electrómetro modelo Unidos E®, ambos marca PTW. En conjunto se utilizaron 2 fantomas estándar para medición de CTDI de polimetilmetacrilato (PMMA) marca PTW, uno para representar tórax y abdomen de niños de 5 años modelo T40017 (16 cm de diámetro y 15 cm de longitud), y otro con dimensiones de cuerpo adulto modelo T40016 (32 cm de diámetro y 15 cm de longitud). Estos fantomas fueron utilizados además para la determinación de ruido en la imagen, usándolos con los 5 insertos de PMMA ubicados en los agujeros para cámara de ionización, con el objetivo de asegurar su homogeneidad.
+
+Para la medición de unidades Hounsfield (UH) en tejidos biológicos simulados por materiales de similar densidad, se utilizaron los fantomas de resina epóxica agua equivalente marca CIRS Inc, modelo 062; uno de ellos de 5 cm de longitud y 17,8 cm de diámetro representativo de paciente pediátrico, y otro de 5 cm de longitud y 33 cm de diámetro mayor y 27 cm de diámetro menor, representativo de paciente adulto. En la tabla 1 se presentan las especificaciones según el fabricante de los insertos de tejido equivalente utilizados. En el inserto central se utilizó una dilución de medio de contraste y suero fisiológico que se estandarizó en 200 UH para 120 kV y 200 mAs. En esta dilución se utilizó medio de contraste Ioversol 320 mg/ml y suero fisiológico estándar al 0,9%.
+
+
+
+Tabla 1. Especificaciones según el fabricante de insertos de tejido equivalente y base de fantoma de densidad electrónica.
+
+
+
+
+
+ 
+
+La metodología de mediciones se basó en la realización de un corte único dispuesto en el centro de cada fantoma para distintos valores de voltaje de tubo disponibles en el equipo de TC utilizado (80, 100, 120 y 140 kV), manteniendo el resto de los parámetros de adquisición constantes. Se realizaron 5 repeticiones en las mismas condiciones para estimar la variabilidad de cada medición. Específicamente se utilizó 200 mAs (400 mA y 0,5 seg), configuración de detección de 30 × 0,6 mm (máxima apertura para esta modalidad) y sistema de modulación de corriente CARE DOSE® 4D inactivo. Sumado a ello, se realizaron mediciones solo en los fantomas pediátricos con voltaje de tubo fijo (80 y 120 kV) y distintos valores de producto corriente de tubo y tiempo (50, 100, 150 y 200 mAs), manteniendo el resto de los parámetros constantes.
+
+Las mediciones de CTDI100 se realizaron siguiendo la guía del reporte MDA/98/25 de ImPACT23. Las mediciones fueron corregidas por presión y temperatura de acuerdo a los valores registrados en el equipo Hand held Barometer modelo 02406 de la marca Thermo Fisher Scientific Inc. El cálculo de CTDIw se realizó de acuerdo a la fórmula1:  
+
+  Donde CTDI100,c es el valor de CTDI en el centro del fantoma y CTDI100,p el promedio obtenido de las mediciones de CTDI en las 4 posiciones periféricas de la cámara en el fantoma. Para la obtención del valor de ruido en cada fantoma se realizaron en la estación Wizard del TC 4 regiones de interés (ROI) de 500 mm2 en ubicaciones de homogeneidad de la imagen dentro del fantoma. Se registraron los datos de desviación estándar de los valores de UH en cada uno de ellos (fig. 1).      Figura 1. Ubicación de regiones de interés para medición de ruido en fantoma de CTDI.  
+
+  Para la medición de UH en el fantoma CIRS se estableció una ROI circular de 400 mm2 para cada inserto de tejido equivalente, además de una ROI de iguales dimensiones en el medio de soporte del fantoma (agua equivalente). La ROI ubicada en el medio de soporte fue localizada de forma equidistante de los insertos colindantes y de la superficie del fantoma. Para ello se ubicó el centro de la ROI a 1,5 cm del borde de cada inserto (fig. 2).     Figura 2. Ubicación de regiones de interés para medición de Unidades Hounsfield en fantoma de densidad electrónica.  
+
+   El manejo de datos fue realizado en el programa Microsoft Excel® versión 2011. El análisis estadístico se llevó a cabo con ayuda del programa SPSS para Windows, versión 11.5 de SPSS Inc. Se utilizó la prueba de Shapiro-Wilk para evaluar la normalidad de los datos obtenidos, y la prueba de Wilcoxon para evaluar la mediana de las diferencias entre las muestras que se compararon.      Resultados  En la tabla 2 se resumen los resultados obtenidos del cálculo de CTDIw y medición de ruido en los fantomas utilizados para los 4 valores de voltaje de tubo evaluados. En la tabla 3 se resumen los valores de UH promedio obtenidos para los insertos de hígado y músculo. En la tabla 4 se muestran los valores respectivos para grasa y pulmón en inspiración.     Tabla 2. Promedio y desviación estándar de valores de CTDIw y ruido, medidos en los fantomas de 16 y 32 cm para distintos voltajes de tubo y mAs constante
+
+ 
+
+  Donde CTDI100,c es el valor de CTDI en el centro del fantoma y CTDI100,p el promedio obtenido de las mediciones de CTDI en las 4 posiciones periféricas de la cámara en el fantoma. Para la obtención del valor de ruido en cada fantoma se realizaron en la estación Wizard del TC 4 regiones de interés (ROI) de 500 mm2 en ubicaciones de homogeneidad de la imagen dentro del fantoma. Se registraron los datos de desviación estándar de los valores de UH en cada uno de ellos (fig. 1).      Figura 1. Ubicación de regiones de interés para medición de ruido en fantoma de CTDI.  
+
+  Para la medición de UH en el fantoma CIRS se estableció una ROI circular de 400 mm2 para cada inserto de tejido equivalente, además de una ROI de iguales dimensiones en el medio de soporte del fantoma (agua equivalente). La ROI ubicada en el medio de soporte fue localizada de forma equidistante de los insertos colindantes y de la superficie del fantoma. Para ello se ubicó el centro de la ROI a 1,5 cm del borde de cada inserto (fig. 2).     Figura 2. Ubicación de regiones de interés para medición de Unidades Hounsfield en fantoma de densidad electrónica.  
+
+   El manejo de datos fue realizado en el programa Microsoft Excel® versión 2011. El análisis estadístico se llevó a cabo con ayuda del programa SPSS para Windows, versión 11.5 de SPSS Inc. Se utilizó la prueba de Shapiro-Wilk para evaluar la normalidad de los datos obtenidos, y la prueba de Wilcoxon para evaluar la mediana de las diferencias entre las muestras que se compararon.      Resultados  En la tabla 2 se resumen los resultados obtenidos del cálculo de CTDIw y medición de ruido en los fantomas utilizados para los 4 valores de voltaje de tubo evaluados. En la tabla 3 se resumen los valores de UH promedio obtenidos para los insertos de hígado y músculo. En la tabla 4 se muestran los valores respectivos para grasa y pulmón en inspiración.     Tabla 2. Promedio y desviación estándar de valores de CTDIw y ruido, medidos en los fantomas de 16 y 32 cm para distintos voltajes de tubo y mAs constante
+
+
+
+ 
+
+Donde CTDI100,c es el valor de CTDI en el centro del fantoma y CTDI100,p el promedio obtenido de las mediciones de CTDI en las 4 posiciones periféricas de la cámara en el fantoma.
+
+Para la obtención del valor de ruido en cada fantoma se realizaron en la estación Wizard del TC 4 regiones de interés (ROI) de 500 mm2 en ubicaciones de homogeneidad de la imagen dentro del fantoma. Se registraron los datos de desviación estándar de los valores de UH en cada uno de ellos (fig. 1).
+
+ 
+
+
+
+ 
+
+Para la medición de UH en el fantoma CIRS se estableció una ROI circular de 400 mm2 para cada inserto de tejido equivalente, además de una ROI de iguales dimensiones en el medio de soporte del fantoma (agua equivalente). La ROI ubicada en el medio de soporte fue localizada de forma equidistante de los insertos colindantes y de la superficie del fantoma. Para ello se ubicó el centro de la ROI a 1,5 cm del borde de cada inserto (fig. 2).
+
+
+
+
+
+  
+
+El manejo de datos fue realizado en el programa Microsoft Excel® versión 2011. El análisis estadístico se llevó a cabo con ayuda del programa SPSS para Windows, versión 11.5 de SPSS Inc. Se utilizó la prueba de Shapiro-Wilk para evaluar la normalidad de los datos obtenidos, y la prueba de Wilcoxon para evaluar la mediana de las diferencias entre las muestras que se compararon.
+
+    
+
+Resultados 
+
+En la tabla 2 se resumen los resultados obtenidos del cálculo de CTDIw y medición de ruido en los fantomas utilizados para los 4 valores de voltaje de tubo evaluados. En la tabla 3 se resumen los valores de UH promedio obtenidos para los insertos de hígado y músculo. En la tabla 4 se muestran los valores respectivos para grasa y pulmón en inspiración.
+
+
+
+Tabla 2. Promedio y desviación estándar de valores de CTDIw y ruido, medidos en los fantomas de 16 y 32 cm para distintos voltajes de tubo y mAs constante
+
+
+
+
+
+Tabla 3. Valores promedio y desviación estándar de medidas de UH en fantomas de densidad electrónica (pediátrico y adulto) para los insertos de tejido equivalente hígado y músculo
+
+
+
+
+
+Tabla 4. Valores promedio y desviación estándar de UH medidas en fantomas de densidad electrónica (pediátrico y adulto) los tejidos simulados grasa y pulmón en inspiración
+
+ 
+
+ 
+
+En la figura 3 se representan los valores promedio de CTDIw estimado en función de las mediciones realizadas en el fantoma de 16 cm de diámetro para 2 valores fijos de voltaje de tubo (80 y 120 kV) y distintos valores de producto mAs. En la figura 4 se representan los valores promedio de ruido medidos en el fantoma de 16 cm de diámetro para 2 valores fijos de voltaje de tubo (80 y 120 kV), y distintos valores de producto mAs. En las figuras 5 y 6 se despliegan los valores de UH promedio vs voltaje de tubo para los insertos de hueso y medio de contraste yodado respectivamente. En la figura 7 se destaca la diferencia de UH para el inserto de hueso y medio de contraste yodado al utilizar 80 y 120 kV sobre el fantoma representativo pediátrico, con igual valor de mAs en ambos casos.
+
+
+
+
+
+Figura 3. Valores promedio de CTDIw (mGy) en fantoma de 16 cm estimado para 80 y 120 kV, y distintos valores de producto mAs.
+
+
+
+
+
+Figura 4. Valores promedio de ruido (UH) medido en el fantoma de 16 cm (pediátrico) para 80 y 120 kV, y distintos valores de producto mAs.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+   
+
+ Discusión 
+
+De acuerdo con los resultados expuestos se puede apreciar que existen diferencias en los parámetros de dosis de radiación y calidad de imagen al modificar el valor de voltaje de tubo durante la exploración de cada uno de los fantomas representativos de los 2 grupos de pacientes evaluados.
+
+Una de las primeras diferencias que se destaca es el notorio aumento del CTDIw en el fantoma de 16 cm para iguales combinaciones de kV y mAs (p < 0,05). Como se observa en la tabla 2, para todas las combinaciones evaluadas el valor de CTDIw es mayor en el fantoma pediátrico por aproximadamente un factor de 2, siendo que su diámetro es tan solo la mitad del fantoma de cuerpo. Un factor similar a este ha sido reportado por estudios previos en equipos monocorte24. Esto pone en relevancia que pacientes de menores dimensiones, como los niños, pueden recibir dosis innecesarias cuando son sometidos a exploraciones bajo TC con protocolos diseñados originalmente para adultos, y por ende, recalca la necesidad de optimizarlos en función de sus dimensiones.
+
+Si se observa cada uno de los fantomas por separado (tabla 2) puede notarse que se establece un incremento del CTDIw al aumentar el voltaje de tubo, con una tendencia que podría ajustarse a una función potencial con exponente en torno a 2 y 3 para ambos fantomas. En el caso específico del fantoma de 16 cm, las estimaciones de CTDIw para 80 y 120 kV muestran que para todos los valores de mAs utilizados el uso de 80 kV entrega alrededor de un tercio del CTDIw obtenido con 120 kV. Inclusive, con 80 kV pueden utilizarse valores de hasta 150 mAs sin sobrepasar el valor más bajo de CTDIw obtenido para la combinación de 120 kV y 50 mAs (fig. 3). Esta factibilidad en el manejo del mAs podría aplicarse en compensaciones en favor de la calidad de imagen producto de potenciales reducciones de voltaje.
+
+En el caso de la evaluación de ruido, los valores obtenidos para el fantoma de 16 cm son notoriamente inferiores (p < 0,05) a los observados en el fantoma de cuerpo (tabla 2), coincidente con lo reportado en el trabajo de Sieguel et al.22. Estas diferencias van desde 1/5 del valor de ruido en el fantoma de 32 cm para 140 kV, hasta 1/10 para la condición de 80 k
+
+V. Además, el impacto de la reducción de voltaje en el nivel de ruido no es igual en ambos fantomas. La relación de ruido entre 140 y 80 kV en el fantoma pediátrico es cercano a un factor de 2, mientras que en el caso del fantoma adulto este factor puede alcanzar valores por encima de 4. Esto abre una posibilidad a la hora de optimizar los protocolos de exploración en niños, debido a que el nivel de ruido se ve afectado en menor cuantía en ellos al variar el voltaje de tubo, dando margen a una potencial reducción de dosis a través de la selección de bajos kV. En el caso de ser necesaria una compensación para reducir el nivel de ruido para una determinada aplicación clínica, un incremento del producto mAs aparece como una mejor alternativa sin un costo demasiado elevado en términos de CTDIw (fig. 3), permitiendo finalmente una reducción de dosis en comparación con el uso de valores de kV más elevados como base, en concordancia con lo propuesto por ICRP19.
+
+Gracias al uso del fantoma CIRS se pudo realizar un análisis del comportamiento de los valores de UH de distintos tejidos y materiales (medio de contraste) simulados por insertos con propiedades físicas equivalentes. Se observó un comportamiento muy similar de los valores de UH al variar el voltaje de tubo en ambos fantomas, con diferencias entre ambos bajo un 5% en general. Sin embargo, se obtuvieron diferencias significativas (p < 0,05) en los casos de hueso y medio de contraste, donde los valores de UH para todos los kV evaluados fueron mayores en el paciente pediátrico entre un 10% y 20% en relación con el fantoma adulto (figs. 5 y 6).
+
+En ambos fantomas se observó un notorio aumento de los valores de UH para hueso y medio de contraste al reducir el voltaje de tubo, observándose que entre 140 y 80 kV existen diferencias sobre un 50% y un 90% respectivamente. Esto puede verse reflejado en una mejora del contraste de estructuras óseas u ocupadas por medio de contraste, lo que no puede conseguirse con una reducción de mAs exclusivamente. Los valores de UH aumentan de forma significativa (p < 0,05) para hueso y medio de contraste al reducir el voltaje de 120 a 80 kV en el fantoma pediátrico, alcanzando incrementos de hasta un 40% y 63% respectivamente (fig. 7). Este efecto podría considerarse un beneficio a la hora de escoger una reducción de voltaje como alternativa de optimización de dosis en pacientes pediátricos. Sumado a ello, tejidos de baja capacidad de atenuación, como el hígado, la grasa e incluso el pulmón, no presentan mayores variaciones de UH a diferentes valores de kV (tablas 3 y 4). Sin embargo, se debe dar especial atención a estudios en los cuales se busque distinguir lesiones de bajo contraste con el entorno, las que pueden verse afectadas por el aumento de ruido secundario a la reducción de voltaje. A pesar de ello, de ser necesaria alguna compensación en búsqueda de mejorar la relación contraste-ruido (CNR) o relación señal ruido (SNR) según sea el caso25, un aumento del producto mAs puede eliminar ese efecto, con un menor costo en dosis de radiación. Este hecho se pudo observar específicamente al comparar el nivel de ruido en el fantoma de 16 cm para 80 y 120 kV (fig. 4). Aunque el nivel de ruido es mayor a 80 kV en un factor de 2 aproximadamente para todos los valores de mAs evaluados, se observa que la combinación 80 kV y 150 mAs produce un valor de ruido levemente superior al obtenido por la combinación 120 kV y 50 mAs, sin embargo con una significativa (p < 0,05) disminución del valor de CTDIw (tabla 2).
+
+A través de este estudio se puede demostrar que la estrategia de reducir el voltaje de tubo puede constituir una buena alternativa de optimización de dosis en estudios pediátricos bajo TCMC, e incluso en adultos de baja talla. Por otra parte, en conjunto, con permitir una reducción del parámetro de dosis evaluado, la reducción del kV mejora la visualización de estructuras óseas u ocupadas con medio de contraste debido a un aumento en su atenuación. Aunque se espera a la par un aumento del nivel de ruido en la imagen, este puede ser compensado mediante un incremento en el mAs del estudio, logrando un impacto menor en la dosis de radiación para el paciente. A pesar de que este estudio se basó en la realización de mediciones en un solo corte, se proyecta que las tendencias observadas se mantengan en barridos helicoidales y con uso de otras configuraciones de detección, apoyado en la evidencia de otros estudios realizados con equipos de otras configuraciones22,24. Sin embargo, hay que considerar para el caso helicoidal los efectos de la selección del factor de pitch, principalmente por su contribución al ruido, a la imagen y al CTDIvol. Como limitante puede considerarse la imposibilidad de evaluar el comportamiento de mediciones para fantomas de otras dimensiones, que permitiesen simular grupos de pacientes de otras edades. No obstante, queda en evidencia el aporte que tiene el uso del voltaje de tubo como método de reducción de dosis de radiación en los protocolos de TCMC para pacientes pediátricos.
+
+ 
+
+ Conflicto de intereses 
+
+Los autores declaran no tener ningún conflicto de intereses.

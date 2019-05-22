@@ -1,0 +1,162 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082009000400004
+DIFUSIÓN POR RESONANCIA MAGNÉTICA: BASES Y APLICACIONES ONCOLÓGICAS EN ÓRGANOS EXTRACRANEANOS
+
+RESUMEN
+
+La técnica de difusión    por resonancia magnética (DWI) se basa en la detección in vivo del movimiento    de moléculas de agua, la que puede estar restringida en determinadas condiciones    patológicas como isquemia y tumores. Si bien es usada desde hace tiempo en el    diagnóstico precoz del infarto cerebral, sólo recientemente se ha ampliado su    uso en el abdomen y la pelvis. En este artículo se revisan los fundamentos de    la técnica, los protocolos empleados y sus principales aplicaciones en el abdomen    y la pelvis, específicamente en la detección y caracterización de neoplasias.
+
+Palabras clave:    Difusión por Resonancia Magnética, detección de neoplasias, órganos extracraneales.
+
+ 
+
+INTRODUCCIÓN
+
+El cáncer constituye    la segunda causa de muerte en los países desarrollados después de las enfermedades    cardiovasculares. La radiología cumple un rol fundamental en el manejo de los    pacientes oncológicos, inicialmente para diagnosticar la enfermedad, y una vez    confirmada ésta por medio de histología, para etapificar su extensión, lo que    permite escoger la terapia más eficaz de acuerdo a cada caso, o eventualmente,    preferir un manejo paliativo de los síntomas. De igual manera, las imágenes    son hoy ampliamente usadas para monitorizary medir la respuesta al tratamiento    de quimioterapia y/o radioterapia.
+
+La técnica de difusión    por resonancia magnética (diff usion weighted imaging-DWI) ha sido usada desde    hace al menos una década para patologías intracraneanas, principalmente para    el diagnóstico precoz del accidente cerebrovascular isquémico'1'.    Su popularidad se basa    en su rapidez, sencillez en la interpretación y en la capacidad de demostrar    alteraciones isquémicas del encéfalo antes que aparezcan otros cambios evidentes    por tomograf ía computada (TC) o secuencias convencionales de resonancia magnética    (RM).
+
+Asimismo, su utilidad    se ha visto confirmada para otras patologías del sistema nervioso central (SNC),    como trauma, epilepsia, demencia, neurotoxicidad, etc.
+
+Recientemente,    se ha demostrado la posibilidad de utilizar la DWI para el estudio de patologías    fuera del SNC, especialmente en el cuello y abdomen, a lo que se han ido agregando    aplicaciones en el tórax, mamas y sistema músculo esquelético.
+
+Dentro de las aplicaciones    que han concertado el mayor interés se hallan las oncológicas, útiles para el    diagnóstico y seguimiento de neoplasias.
+
+En el pasado, la    DWI estaba limitada en su uso intracraneano debido a artefactos de susceptibilidad    magnética, de movimiento y por distorsiones geométricas en el cuerpo.
+
+Avances recientes,    fundamentalmente la introducción de secuencias de eco planar (echo planar imaging-EPI),    gradientes de alta performance, bobinas de múltiples elementos y equipos con    adquisición paralela han permitido solucionar los artefactos y han convertido    a la DWI en una herramienta de uso cotidiano en el cuello, tórax, abdomen, pelvis    y extremidades.
+
+BASES TÉCNICAS
+
+La difusión por    RM se basa en la detección del movimiento aleatorio de las moléculas de agua    en los tejidos. Si tenemos un recipiente con agua en el laboratorio, a consecuencia    de la agitación térmica, las moléculas tendrán un movimiento browniano, esto    es, al azar. Este movimiento browniano es analogable a difusión libre. En cambio,    las moléculas de agua en el organismo tienen difusión restringida, dada la presencia    de macromoléculas y membranas celulares.
+
+Es importante destacar    que la RM es el único método capaz de detectar y medir la difusión molecular    in vivo, esto es, la traslación de las moléculas.
+
+La señal de difusión    obtenida en tejidos se obtiene a partir de movimiento molecular en tres compartimientos:    a. Espacio extracelular, b. Espacio intracelulary c. Espacio intravascular(2).    De estos tres compartimientos, es el intravascular el que muestra una mayor    difusión, dada por el flujo sanguíneo o perfusión (Figuras    1 y 2). Por esta razón, por ejemplo, tumores con    importante vascularización muestran alta señal en difusión'3'.
+
+Por otra parte,    el grado de restricción a la difusión es inversamente proporcional a la celularidad    tisular y a la integridad de las membranas'47'.
+
+Así, tejidos (especialmente    tumorales) tienen restricción a la difusión si es que son celularmente densos.
+
+   
+
+   
+
+Stejskal y Tanner'8'    describieron el método usado en la actualidad para cuantificar la difusión in    vivo. Para ello, adaptaron una secuencia T2 SE añadiendo un par de gradientes    bipolares (Figura 3) La razón por la cual se escogió    una secuencia potenciada en T2 es que se requiere un tiempo de eco (TE) lo suficientemente    largo como para poder intercalar dos gradientes. Las moléculas de agua en movimiento,    a diferencia de aquellas que están estáticas, no logran retasarse tras la aplicación    de la segunda gradiente, por lo que se produce un cambio de señal, que es proporcional    a la amplitud de las gradientes. Asimismo, la sensibilidad de la secuencia de    difusión al movimiento molecular se puede variar modificando la    amplitud de las gradientes bipolares, así como su duración. El parámetro que    se usa para variar la amplitud y duración de las gradientes bipolares se denomina    valor b (b-value). En la práctica clínica, la sensibilidad de la secuencia se    modifica con el valor b, siendo éste inversamente proporcional.
+
+   
+
+INTERPRETACIÓN    DE LA SEÑAL DE DIFUSIÓN
+
+Cada vez que usamos    la secuencia de difusión, en la práctica empleamos dos valores b, típicamente    0 s/mm2 y otro entre 1 y 1000 s/mm2.
+
+En general a mayor    valor b, mayor atenuación de las moléculas de agua. Por ejemplo, un tumor con    necrosis central mostrará alta señal en su componente celular con valores b    altos, indicando restricción a la difusión, mientras que su parte necrótica    mostrará atenuación de la señal debido a difusión facilitada o menos restringida.
+
+No obstante, es    necesario comprender que la intensidad de señal que vemos en la secuencia de    difusión es una mezcla de la difusión como tal y del tiempo de relajación T2    de los tejidos. Este efecto T2, que puede ser confundido con restricción a la    difusión se llama "shine-through" Una forma de reducir este    efecto indeseable es reduciendo el TE y aumentando el valor b, aunque nunca    se puede eliminar completamente.
+
+ANÁLISIS CUANTITATIVO    DE LA DIFUSIÓN
+
+Para cuantificar    la difusión se utiliza el coeficiente de difusión aparente (Apparent Diffusion    Coefficient-ADC). Este resulta de la pendiente de la línea que une el logaritmo    de la intensidad de señal para los dos valores b escogidos, típicamente 0 y    otro entre Oy 1000 mm2 (Figura 4).
+
+El ADC es un valor    independiente de la intensidad del campo magnético y contribuye a reducir el    efecto shine through. El computador calcula el ADC para cada pixel de la imagen    y lo muestra como un    mapa paramétrico, en color o escala de grises. Manualmente, es posible dibujar    un área de interés (ROÍ) sobre la imagen y así obtener el valor de ADC para    un determinado tejido (Figura 5).
+
+   
+
+   
+
+
+
+
+
+Las áreas tisulares    de difusión restringida, debido a una alta celularidad, muestran valores de    ADC bajos, por lo que en general, hay que comprender que la señal de difusión    es inversa a la señal del mapa de ADC.
+
+Es interesante    notar que el ADC refleja la suma de dos fenómenos que ocurren simultáneamente    dentro del voxel: La difusión propiamente tal y la perfusión, que es la traslación    molecular que se genera en la microcirculación. Afortunadamente, el efecto de    la perfusión sólo tiene relevancia en valores b bajos, por esa razón se confía    más en valores b altos que minimizan la señal derivada de la perfusión.
+
+UTILIDAD DE    LA DIFUSIÓN EN EL CUERPO
+
+Actualmente se    dispone de varias técnicas de DWI en el cuerpo'911'. Las más usadas    son las de SE-EPI, ya que son rápidas y permiten cuantificar. Para la adquisición    de imágenes corporales, existen dos aproximaciones principales: Técnicas de    apnea (breath-hold) o en respiración libre (free-breathing). Las primeras se    usan para analizar órganos específicos (por ejemplo el hígado) con mayor precisión,    al carecer de artefactos de movimiento respiratorio y mayor resolución espacial.    Las segundas son preferidas para obtener imágenes corporales totales a modo    de rastreo, que resultan especialmente prometedoras en la etapificación tumoral.
+
+En nuestro centro,    sólo a modo de ejemplo, usamos la secuencia de difusión SE EPI DWI (TR 6000-8000    ms; TE 65-85 ms; Matriz 128 x 80; NEX 6; Grosor 5-8 mm; Gap 1 mm; Valor b 600    s/mm2; 30-40 cortes axiales; 2 min 45 s), en un equipo GE Signa Hdx de 1.5T    de 16 canales.
+
+DIFUSIÓN DE    CUERPO COMPLETO (DIFFUSION-WEIGHTED WHOLE-BODY IMAGING WITH BACKGROUND BODY    SIGNAL SUPPRESSION, DWIBS)
+
+El año 2004, Takahara    et al. comunicaron una variante de la DWI que emplea adquisición en respiración    libre, lo que permite la obtención de imágenes en largos segmentos corporales    y ausencia de artefactos'12'. Esto se explica porque las gradientes    bipolares aplicadas apenas están separadas en 50ms, por lo que son insensibles    al movimiento coherente de la respiración, el cual produce un desfase de los    protones que por lo demás se repite rítmicamente para cada codificación de fase    (usando una secuencia single-shot EPI), de manera que no afecta en absoluto    la señal o el contraste, siendo solamente responsable de algún grado de borrosidad    o "blurring" en la imagen.
+
+Esta secuencia    se prefiere usar en adquisición axial, generalmente con cortes de 4 mm sin gap,    lo que facilita la realización posterior de reconstrucciones multiplanares.    Además, el DWIBS puede combinar con técnicas de supresión grasa, como STIR o    saturación química de grasa, con lo mejora la supresión del fondo y aumenta    el contraste.
+
+Al invertir la    escala de grises se obtienen imágenes similares a las de la tomografía por emisión    de positrones, con lo cual algunos la han denominado "PET virtual"    (Figura 6).
+
+   
+
+
+
+DETECCIÓN Y    ETAPIFICACIÓN DE TUMORES
+
+Los tumores son    más celulares que el tejido del cual se originan, y por lo tanto, van mostrar    restricción (mayor señal) en difusión.
+
+En la detección    de metástasis hepáticas, se han utilizado valores b bajos (50-150 s/mm2).    Hay estudios que muestran que la difusión tiene alta sensibilidad y especificidad    para la detección de metástasis hepáticas, aunque no se ha comparado su rendimiento    en comparación con las secuencias ponderadas en T2 y las series dinámicas con    contraste paramagnético(1314).
+
+En el caso de las    adenopatías, cabe señalar que la DWI permite una lectura más fácil de los ganglios,    ya que éstos exhiben alta señal debido a una restricción relativa de la difusión    en comparación a los tejidos corporales, lo que se debe a su alta celularidad    (Figura 7). Los ganglios tumorales muestran aún mayor    restricción a la difusión, pero la capacidad de la técnica para diferenciar    entre ganglios benignos de malignos es por ahora materia de estudio.
+
+También, varios    autores han demostrado la utilidad de la DWI en la detección de metástasis peritoneales,    serosa intestinal, omento y mesenterio. En difusión, el líquido ascítico tiene    baja intensidad y el líquido de las asas intestinales se suprime parcialmente,    mejorando la visualización del peritoneo adyacente y la afectación tumoral de    la serosa intestinal. De acuerdo a Fujii(15), la difusión tiene una    sensibilidad del 90% y especificidad del 95,5%, superior a la TC con contraste    (sensibilidad 85-93% y especificidad del 78-96%) y a la RM con contraste (sensibilidad    95% y especificidad de 80%).
+
+CARACTERIZACIÓN    DE TUMORES
+
+Para caracterizar    tumores en el hígado, se recomienda usar valores b entre 0 y 600 s/mm2(16).    El análisis visual suele bastar para la diferenciación entre lesiones sólidas    y quísticas, pero para diferenciar entre diferentes lesiones sólidas se requiere    cuantificar la difusión con valores de ADC. Se ha demostrado que los hemangiomas    tienen valores medios de ADC mayores que las metástasis y que los hepatocarcinomas(1718)    (Figura 8). 
+
+   
+
+
+
+De acuerdo a Bruegel(19),    calculando el valor del ADC para un valor b: 600 s/mm2. Se pueden    usar los siguientes valores como referencia:
+
+Hepatocarcinoma:    1,05 x10-3± 0,09 mm2/s. b. Metástasis: 1,22 x10-3±    0,31 mm2/s. c. Hiperplasia nodular focal: 1,40 x10-3±    0,15 mm2/s. d. Hemangiomas: 1,92 x10-3± 0,34mm2/s.    e. Quistes: 3,02 x10-3± 0,34 mm2/s.
+
+Este mismo autor    señala que con un valor umbral de ADC de 1,63 x10-3 mm2/s    se pueden clasificar las lesiones como benignas o malignas en un 88%. También    se ha demostrado la utilidad del ADC en la diferenciación de abscesos de metástasis    quísticas o necróticas, que muestran valores más altos(20). No obstante,    existe solapamiento de ADC entre lesiones benignas y malignas, sobre todo en    lesiones necróticas que elevan el ADC.
+
+   
+
+
+
+En el abdomen,    la difusión también ha sido usada para caracterizar lesiones renales, siendo    precisa para diferenciar lesiones quísticas de sólidas. Sin embargo, no es capaz    de separar tumores benignos de malignos en base a los valores de ADC(21).
+
+Otras aplicaciones    emergentes de la difusión son la diferenciación de sarcomas de partes blandas    de carácter quístico de otros sólidos, detección de cáncer colorrectal y caracterización    de tumores quísticos del páncreas y ovarios'2225'.
+
+En el cáncer de    páncreas, la difusión facilita la detección y ayuda en la determinación de su    extensión. El ADC del carcinoma pancreático es menor que el del páncreas normal    y de la pancreatitis crónica (Figura 9). Para un valor    de b de 800 mm2/s los valores de ADC son los siguientes:
+
+a.  Páncreas    normal: 1,90 x10-3± 0,6 mm2/s.
+
+b.  Pancreatis    crónica: 2,31 x10-3± 0,18 mm2.
+
+c.  Carcinoma    pancreático: 1,44x10-3± 0,20 mm2/s(24).
+
+   
+
+
+
+
+
+En la próstata,    la cuantificación con ADC ha demostrado ser capaz de diferenciar focos de neoplasia    en la zona periférica no evidentes en las imágenes ponderadas en T2. Estos focos    muestran baja intensidad de señal en los mapas de ADC, menores que la zona periférica    sin tumor. Sin embargo, existe solapamiento entre cáncer y patologías benignas    como prostatitis crónica'2628'.
+
+En el cuello, la    imagen de difusión es una técnica prometedora que puede diferenciar entre adenopatías    benignas y malignas, por lo que es empleada en el diagnóstico de malignidad,    etapificación tumoral, planificación de terapia y seguimiento durante y después    de tratamiento. Para un valor de b de 1000 mm2/s los valores de ADC    que se han reportado son 1,09 ± 0,11 x10-3mm2/s.    para adenopatías metastásicas y de 1,64 ± 0,16 x10-3mm2/s    en adenopatías benignas.
+
+También se ha comunicado    su utilidad para valorar masas originadas en las glándulas salivales. En general    lesiones con valores de ADC menores de 1 son malignas (Figura    10).
+
+   
+
+
+
+UTILIDAD DE    LA DIFUSIÓN EN LA PREDICCIÓN Y VALORACIÓN DE LA RESPUESTA A TRATAMIENTO
+
+Una de las aplicaciones    más interesantes de la difusión en oncología ha surgido de la evidencia que    es posible predecir la respuesta a quimioterapia o radioterapia de algunos tumores    en base a las mediciones de ADC. Los estudios han sido realizados en cánceres    de mama, colorrectal y gliomas. En estos, se ha visto que tumores celulares    con ADC pre-tratamiento bajos responden mejor a la quimioterapia y radioterapia    que aquellos con valores de ADC más elevados. Dentro de las posibles explicaciones,    se ha barajado que tumores con valores altos de ADC exhibirían mayor grado de    necrosis, lo que impide la llegada de la quimioterapia o la acción de la radioterapia.
+
+Por otra parte,    algunos estudios han demostrado que un alza del valor de ADC al iniciar el tratamiento    predice un mejor resultado final en términos de volumen tumoral.
+
+Otros estudios    han demostrado que pacientes con carcinoma hepatocelular, gliomas y sarcomas    de partes blandas exhiben un aumento del valor de ADC después de las primeras    fases del tratamiento, lo que no ocurre en los no respondedores'2932'.
+
+DESAFÍOS PENDIENTES
+
+Una de las principales    limitaciones de la DWI corporal es la falta de estandarización. Las técnicas    varían de acuerdo a las marcas de los equipos y de acuerdo a cada centro. Aún    no hay consenso sobre los valores b óptimos a utilizar en cada órgano o segmento    corporal, lo que se refleja en la variabilidad de los valores de ADC que se    obtienen. Por esta razón, los investigadores suelen emplear más de dos valores    b con el objeto de buscar la optimización de sus secuencias.
+
+Asimismo, aún no    se ha demostrado que existe reproducibilidad de los resultados, para lo cual    faltan estudios.
+
+Por otro lado,    se requiere de mayor sofisticación de las herramientas de software que permitan    un análisis más fino de los tejido tumorales, especialmente aquellos más heterogéneos,    para así poder medir perfiles o mapas de ADC más precisos y automatizados.

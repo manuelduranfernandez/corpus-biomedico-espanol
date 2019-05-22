@@ -1,0 +1,138 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082016000300004
+Diez años desde la implementación del RIS PACS de la Clínica Alemana de Santiago: Impacto de la tomografía computarizada en el uso y disponibilidad de archivo
+
+ 
+
+Resumen. Los sistemas RIS PACS se han vuelto indispensables para el manejo de las imágenes digitales, su distribución y archivo. Esta investigación evaluó el impacto de la tomografía computarizada en el PACS del servicio de imágenes de la Clínica Alemana de Santiago. Se revisó la base de datos del PACS a través de la herramienta de software IMPAX BI, de los 2.267.683 estudios del período 2005-2014. Los exámenes de tomografía computarizada representan el 10,67% de los estudios archivados en el PACS, pero su peso en TB es el 50,10% del total. El impacto de los estudios de tomografía computarizada no se ha dimensionado ni previsto adecuadamente, lo que ha impactado en la disponibilidad esperada para los estudios de un año on line. Este estudio ha permitido valorar adecuadamente el impacto de la tomografía computarizada en la disponibilidad del PACS, y cómo debe ser considerado al planificar la implementación de un PACS.
+
+Palabras clave: PACS. Tomografía computarizada. On line. Archivo. Base de datos.
+
+ 
+
+Introducción
+
+La implementación de plataformas RIS PACS es un desafío para todas las instituciones de salud públicas y privadas que quieren mejorar sus flujos de trabajo y la calidad de la atención a sus pacientes1. Las soluciones RIS PACS son el repositorio de los resultados de exámenes e imágenes que son visualizados en la ficha clínica o en el uso de visualizadores web que permiten consultar resultados desde unidades críticas como urgencia, UCI, pabellón, o simplemente desde las consultas médicas. De esta manera el clínico cuenta con una herramienta que le entrega resultados en corto tiempo, permitiendo la comparación con estudios previos y teniendo disponibles imágenes e informes históricos.
+
+En el proceso de evaluación para la implementación de una plataforma, se estima el peso específico de los estudios de cada modalidad para dimensionar el cache inicial, tomando en cuenta un peso promedio de cada tipo de examen, las producciones anuales hasta la fecha y un porcentaje de crecimiento que corresponde al promedio de los últimos años. Sin embargo, con el tiempo esta estimación se va perdiendo, ya que nuevos equipos con distintas características son configurados en el PACS2-4.
+
+Quizás el ejemplo más crítico de este cambio tecnológico es el desarrollo de la tomografía computarizada, ya que si bien las características de las imágenes mantienen una misma resolución espacial y densidad de resolución, estudios que hace algunos años incluían 20 imágenes, hoy están integrados por varios cientos de imágenes. Este cambio se ha dado principalmente por la evolución desde equipos helicoidales de un canal a equipos multicorte de varios canales, tecnología que ha permitido disminuir los tiempos de exámenes, mejorar la calidad de imagen y trabajar con vóxeles isotrópicos, permitiendo post-procesos en múltiples planos de calidad similar al plano axial5.
+
+El cache on line corresponde al arreglo de discos que contienen las imágenes más recientes que han llegado al PACS, habitualmente está configurado con discos de fibrocanal y en arreglos RAID, lo que le otorga una alta performance debido a su paralelismo y alta disponibilidad.
+
+Los discos RAID se organizan en una configuración RAID 5, lo que permite otorgar una alta seguridad, ya que las imágenes están disponibles en más de un disco y aunque falle algún disco, ninguna imagen se perderá3,4.
+
+Las imágenes que llegan desde las modalidades permanecerán en el cache on line hasta el tiempo de retención que esté previamente configurado, según el tamaño inicial que tenga el cache. Es posible configurar tiempos de retención según modalidades en particular u otros parámetros como cantidad de consultas de un estudio en un tiempo determinado, es decir, mantener por más tiempo a los más consultados. La herramienta que ejecuta este proceso, que habitualmente corre cada noche, se llama prefetching6. Una segunda copia de las imágenes es archivada para un respaldo permanente en los arreglos de discos conocido como near line o a largo plazo. Este archivo se configura para varios años, ya que es el único que contendrá los estudios una vez que sean borrados del cache on line.
+
+Una manera de optimizar el espacio en el cache on line, y cualquier tipo de archivo de imágenes, es utilizar compresión. Existen distintos tipos de compresión, aquellas que permiten recuperar la imagen original (compresión lossless) y aquellas que no permiten recuperar la imagen original (lossy). Habitualmente en el near line se utiliza compresión lossless, lo que permite comprimir las imágenes DICOM 2,5 veces6.
+
+El presente estudio buscó determinar la evolución del archivo durante los 10 años de implementación del PACS y cómo el peso de las imágenes de la tomografía computarizada ha tomado un rol relevante en la disponibilidad del PACS.
+
+ 
+
+Materiales y métodos
+
+Para el presente estudio se utilizó el programa IMPAX BI, Oracle Business Intelligence de AGFA, versión de software 11.1.1.7.131017, con la que se analizó la base de datos del PACS, IMPAX 6.5.2.657, que contenía la información de los exámenes e imágenes realizados en el Departamento de Imágenes de la Clínica Alemana de Santiago, en el período 2005-2014, con un total de 2.267.683 estudios y 219.840.430 imágenes. Las variables dependientes correspondieron al número de estudios, imágenes y volumen de archivo por cada año y modalidad (expresado en Gb). La variable independiente fue la modalidad de los equipos (Computed Tomography [CT], Magnetic Resonance [MR], Ultrasound [US], Radiography [RX], X-Ray Angiography [XA], Medicine Nuclear [MN], Positron Tomography [PT], Radio Fluoroscopy [RF], Mammography [MG]). IMPAX BI realiza diariamente una copia incremental de la base de datos del PACS, de manera que cualquier consulta no compromete la performance de la base de datos estudiada. Se realizaron consultas a la base de datos para obtener los datos con los rangos de fecha indicados. Los resultados fueron analizados con estadística descriptiva, mediante análisis de frecuencia y porcentaje, estableciendo el peso específico de cada tipo de modalidad por año, las tendencias de % de ocupación por modalidad y cómo la tomografía computada utilizó el archivo disponible.
+
+ 
+
+Resultados
+
+En la tabla 1 se resume el número de exámenes por modalidad y por año, durante el período 2005-2014, donde destaca que el 29,18% corresponde a US, el 28,14% a estudios de radiología computarizada (CR) y solo un 10,67% a estudios de CT. En la tabla 2 se detalla el número de imágenes por modalidad, donde los estudios por CT representan el 64,2% de las imágenes. En la tabla 3 se expresa el volumen de archivo en el mismo período en Gb, donde los estudios de CT ocupan el 50% con 46.007 Gb o 44,93 TB. En la tabla 4 podemos ver la composición porcentual por año del CT respecto al total del archivo, donde prácticamente se mantiene una relación del 50% cada año.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Se realiza la prueba de correlación de Pearson, la que determina que existe una correlación significativa directa entre las variables total de imágenes en el PACS y el total de imágenes de tomografía computarizada entre los años 2005-2014 (figs. 1, 2, 3, 4 y 5).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Discusión
+
+Los resultados han permitido comprobar que el aumento del archivo de imágenes de las distintas modalidades en el PACS está claramente correlacionado con las imágenes de la tomografía computarizada. Si bien estos estudios representan el 10,67% de los exámenes, son responsables del 64,20% de las imágenes y del 50,10% del total del archivo.
+
+Una de las causas que justificarían estos resultados es la evolución tecnológica de los equipos de tomografía computarizada, desde equipos de 2-16 canales hace 10 años a equipos de 128-320 canales en los últimos 5 años, lo que ha determinado un aumento explosivo de imágenes en estos tipos de estudios, al poder realizar cortes más finos (de 10 a 0,7 mm), múltiples fases vasculares y series de post-proceso en distintos algoritmos de reconstrucción para el análisis de la información. Otra causa no considerada es el aumento de estudios cardíacos, angiográficos con múltiples fases y reprocesos con distintos algoritmos de reconstrucción, lo que lleva a un número creciente de imágenes por cada examen que son archivadas en el PACS5.
+
+Sin embargo, al analizar la evolución del peso del archivo, esperábamos un aumento más significativo en los últimos años, pero la importancia relativa de la tomografía se mantiene en un valor promedio cercano al 50%. Creemos que las causas son variadas, pero entre ellas podemos describir el aumento significativo también en los últimos 5 años de la importancia de la resonancia magnética (RM), que igualmente es un estudio con múltiples secuencias y gran número de imágenes, a pesar de que el peso de cada una de sus imágenes no supera los 512 Kb. También ha existido un aumento sostenido de la mamografía digital (MG), que tiene un muy bajo impacto en el número de imágenes (de 4 a 6 por estudio), pero no así en el peso de los estudios, que es aproximadamente de 250 a 300 Mb por cada uno y que con el uso de la tomosíntesis tiene un nuevo efecto en el peso total del estudio. El cambio de la CR por estudios de radiología digital directa ha llevado a un aumento del peso de cada imagen, pasando de los 20-30 Mb a los 60-80 Mb, cambio que es significativo cuando representa cerca del 45-50% de los exámenes que se envían al PACS.
+
+Cuando se planificó la implementación del PACS, se estimaron los valores de los cache de imágenes y los tamaños de los sistemas de archivo. Nuestro sistema comenzó con un cache on line de 5 TB y un archivo near line de 32 TB para 5 años.
+
+El cache on line se estimó para la disponibilidad de un año del total de estudios a 5 años; sin embargo, en el tercer año (2007) se alcanzó la producción de 5 TB/año, llegando a los 6,89 TB/año en el 2011, con lo cual la disponibilidad on line bajó de un año a 7,5 meses. Esto se corrigió el año 2012, aumentando el cache on line a 10 TB, pero esto nuevamente fue superado el 2013 con una producción de 14,6 TB/año y el 2014 con 30,08 TB/año, con lo que a pesar de su aumento este ha estado bajo el crecimiento real, ya que fue proyectado sobre el crecimiento de los estudios, pero no sobre el crecimiento de la cantidad de imágenes archivadas. Así, hoy el cache on line actual permite solo contar con las imágenes en línea por cerca de 4 meses. Esta dificultad de no contar con un cache on line dimensionado adecuadamente, finalmente va a afectar a los usuarios finales, ya sean el radiólogo o el clínico, ya que cuando requieran ver estudios previos que no se encuentren en el cache on line, deberán esperar su recuperación desde el archivo a largo plazo, lo que puede tomar desde algunos segundos hasta varios minutos, dependiendo de la demanda por retrieve de estudios sobre la plataforma.
+
+Del archivo total, se dimensionó un archivo inicial de 16 TB a 5 años, el que realmente fue de 23,49 TB, por lo que se debió aumentar antes del tiempo previsto el archivo en 64 TB más, llegando a un total de 80 TB, que nuevamente el año 2013 debió ser redimensionado.
+
+No ha sido posible comparar nuestros resultados con otros estudios, ya que no existen estudios similares publicados, por lo que creemos que este estudio puede ser de importancia para generar un análisis adecuado de la implementación de estos sistemas PACS y un punto de discusión en las implementaciones nacionales.
+
+ 
+
+Conclusiones
+
+Este estudio ha permitido demostrar el peso e importancia de las imágenes de tomografía computarizada en la plataforma RIS PACS y cómo un adecuado dimensionamiento pudiera evitar demoras en la disponibilidad de los estudios.
+
+Para futuros estudios se podrían evaluar medidas de contención del impacto del crecimiento del archivo, como archivar series de espesor de corte mayor para tomografía computarizada, sistemas de compresión sin pérdida en el cache on line y con pérdida en el archivo near line.
+
+ 
+
+Responsabilidades éticas
+
+Protección de personas y animales
+
+Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+ 
+
+Confidencialidad de los datos
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+ 
+
+Derecho a la privacidad y consentimiento informado
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+ 
+
+Financiación
+
+Esta investigación no ha recibido ningún tipo de financiación para su realización.
+
+ 
+
+Conflicto de intereses
+
+Esta investigación declara no tener ningún tipo de conflicto de intereses directos ni indirectos.

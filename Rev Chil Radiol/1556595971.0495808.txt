@@ -1,0 +1,172 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082016000400004
+Variabilidad en la determinación de fracción grasa muscular en resonancia magnética utilizando la técnica de Dixon
+
+Resumen. La resonancia magnética muscular ha emergido como una valiosa herramienta de apoyo diagnóstico en enfermedades neuromusculares. La técnica de Dixon permite objetivar la fracción grasa muscular, pero no existe consenso sobre la estandarización de estas mediciones. El objetivo de este estudio fue evaluar la variabilidad en la determinación de fracción grasa utilizando la técnica de Dixon, estudiando la variabilidad intrasegmentaria, intramuscular e intermuscular en 60 músculos por paciente. Se realizó RM de cuerpo completo a 31 pacientes: 23 con miopatía congénita y 8 controles, entre 10 meses y 35 años de edad, desde enero del 2014 a junio del 2016. En pacientes sanos se estimó una fracción grasa promedio cercana al 5%, con una variabilidad intramuscular inferior al 2%. En pacientes con miopatías congénitas existe una variabilidad entre el 3,1-7,8%. El estudio permite concluir que existe una alta variabilidad intra e intermuscular en pacientes miopáticos, que no se observa en pacientes sanos.
+
+Palabras clave: Resonancia magnética. Músculo. Cuerpo completo. Dixon. Fracción grasa. Miopatías congénitas.
+
+ 
+
+ 
+
+Introducción
+
+Las enfermedades neuromusculares (ENM) hereditarias, como la atrofia muscular espinal, las miopatías congénitas y las distrofias musculares congénitas, se encuentran entre las enfermedades de la infancia que comparten características clínicas comunes como hipotonía generalizada, debilidad muscular y retraso motor1-3. El enorme progreso en las últimas décadas de las bases moleculares subyacentes en estas patologías ha permitido identificar numerosos genes responsables de estos cuadros4,5. Las miopatías congénitas conforman un grupo de más de 30 trastornos musculares hereditarios y 20 genes distintos, con signos clínicos de presentación en ocasiones muy semejantes, cuyo diagnóstico específico continúa siendo un desafío debido a la importante heterogeneidad genética y escasa especificidad de los exámenes clásicamente utilizados, como son los niveles de creatinkinasa plasmática, la electromiografía y la biopsia muscular6-8. Identificar las causas genéticas responsables de los distintos cuadros es necesario para definir mejor el seguimiento de los pacientes, anticiparse a eventuales complicaciones cardíacas, respiratorias o musculoesqueléticas, particulares de cada entidad específica, y entregar un consejo genético más informado al paciente y su familia.
+
+El uso de la resonancia magnética muscular (RMM) ha emergido como una valiosa herramienta de apoyo al diagnóstico de las ENM al documentar la existencia de compromiso muscular selectivo, fenómeno hasta hace poco desconocido, y que ha permitido conformar patrones de compromiso muscular característicos9,10. La evaluación cualitativa del compromiso en RM ha permitido establecer hasta ahora algunos patrones de compromiso selectivo11,12, fundamentalmente en adultos, para algunas miopatías específicas más frecuentes, como aquellas secundarias a mutaciones en el gen del colágeno VI (COLVI)13,14, la rianodina (RYR1)15 y la selenoproteína (SPN1)16. Existe sin embargo un número importante de miopatías en las que aún los patrones de compromiso muscular se encuentran a la espera de ser definidos. Gran parte del conocimiento existente se limita a pequeñas series de pacientes con estudios de resonancia muscular generalmente restringidos solo a extremidades inferiores17. Recientemente, la técnica que incluye la representación del cuerpo completo, utilizada hasta ahora principalmente en la detección y estadificación de tumores, se ha incorporado en el estudio de las ENM18,19. El uso selectivo de secuencias permite en poco tiempo la adecuada resolución del parénquima muscular, sumado a las ventajas de las técnicas multiplanares que permiten abarcar una mayor superficie de estudio, acortando los tiempos de estudio.
+
+A pesar de que la búsqueda y descripción de patrones ha sido prometedora, entregando en muchas ocasiones información que permite orientar el diagnóstico hacia la alteración genética subyacente, se ha descrito superposición de patrones en distintas enfermedades10. Por otra parte, el reemplazo graso muscular es un hallazgo no específico que ocurre como etapa final en muchas ENM de larga data9,12. Es por esto que han surgido propuestas para estandarizar el compromiso de los músculos en forma cualitativa, acercando la descripción al concepto de grado de infiltración20, dependiendo de su comparación con una escala colorimétrica de 4 tonos de gris (escala de Mercuri17).
+
+La necesidad de detectar alteraciones en forma precoz, de comparar en forma objetiva las alteraciones en los diferentes grupos musculares y de proporcionar un método que permita el seguimiento de las enfermedades, por ejemplo, para evaluar la efectividad de nuevos tratamientos, han justificado tanto la necesidad de implementar técnicas cuantitativas de evaluación como la extensión de su uso en población pediátrica.
+
+La técnica de Dixon, de uso creciente en varias áreas de la radiología, consiste en secuencias de eco gradiente, en fase y fuera de fase, en las que se utilizan distintos tiempos de eco para adquirir las imágenes. Son secuencias potenciadas en T1 o en T2, más frecuentemente utilizadas en estudios abdominales21. Tras un pulso de radiofrecuencia los núcleos de hidrógeno del agua y de los grupos metilo de la grasa están en fase, por lo que sus magnetizaciones transversales se suman. La diferente frecuencia de precesión es la responsable de que los protones del agua se adelanten, permitiendo que sus vectores se orienten transitoriamente en sentido contrario respecto a los de la grasa. De esta manera, las secuencias en fase y fuera de fase aprovechan este cambio para obtener las imágenes. La obtención de este tipo de imágenes recibe el nombre de método Dixon22. La orientación contraria de los protones de la grasa respecto a los del agua es la responsable del artefacto que aparece en las secuencias fuera de fase, y que es utilizado para formar las imágenes.
+
+Teniendo en consideración el hecho de obtener mediciones técnicamente reproducibles y la escasa variación debida a condiciones que alteran la intensidad de señal en otras secuencias, la técnica de Dixon parece ser la alternativa para la determinación confiable de la fracción grasa en pacientes con reemplazo graso muscular23,24. Sin embargo, la evaluación por imágenes de los pacientes portadores de miopatías congénitas muestra cómo, en muchas ocasiones, el reemplazo no es homogéneo dentro del plano de sección del músculo, reconociendo áreas de músculo respetado que se alteran con tractos de grasa de diferente tamaño y que pueden configurar regiones con mayor reemplazo graso, especialmente dentro de los músculos largos (fig. 1).
+
+
+
+
+
+Figura 1. Muslo de paciente portador de miopatía congénita en imagen T1w coronal (A), y en imágenes axiales en fase T1w Dixon en distintos niveles (B-D). Nótese la diferencia de intensidad de señal en el eje mayor de los músculos.
+
+ 
+
+El objetivo de nuestro trabajo fue evaluar la variabilidad en la determinación de la fracción grasa dentro de los segmentos de un mismo músculo y entre los distintos músculos de cada paciente en un grupo de pacientes portadores de miopatía congénita y en un grupo control.
+
+ 
+
+Materiales y métodos
+
+Población de estudio
+
+Luego de la aprobación del comité de ética de nuestra institución se estudió con resonancia magnética de cuerpo entero, en forma prospectiva, entre enero del 2014 y junio del 2016, a 31 pacientes: 17 mujeres y 14 varones, con edades comprendidas entre 1 y 35 años, con una media de 12 años. El estudio incluyó un grupo de 23 pacientes portadores de miopatías congénitas y un grupo control de 8 pacientes sanos. Todos los pacientes del grupo enfermo tenían diagnóstico clínico o genético de miopatía congénita realizado por neurólogos infantiles y biopsia muscular compatible.
+
+ 
+
+Resonancia magnética de cuerpo completo
+
+El examen de resonancia magnética fue realizado en un equipo 1.5 T Avanto Siemens. Los pacientes fueron posicionados en decúbito supino. Se utilizaron 2 bobinas Body Array y una bobina de extremidades inferiores. El protocolo estándar incluyó localizadores HASTE en planos axial, coronal y sagital, ajustado al tamaño del paciente (fig. 2), con adquisiciones con GRAPPA, 4 bloques secuenciales de imágenes T1w Turbo Spin Eco (FOV de lectura 280-360 mm, TR 477 ms, TE 8,4 ms, cortes de 4 mm, matriz 512 × 281, 1.00 NEX); bloques secuenciales de 25 cortes de 4 mm con secuencia Dixon de 3 puntos, (FOV de lectura 360 mm, TR 571 ms, TE 11 ms, matriz 512 × 358 interpolada 2.00 NEX) en la región masticatoria, cintura escapular, región toracoabdominal, cintura pélvica, muslos, y piernas, con un tiempo total de examen aproximado de 30 min (fig. 3).
+
+
+
+
+
+
+
+
+
+ 
+
+Con la secuencia Dixon de 3 puntos22, obtuvimos 4 imágenes simultáneamente: dentro de fase, fuera de fase, imagen de agua e imagen de grasa. Se estimó la señal de la grasa de acuerdo a la siguiente ecuación (fórmula 1):
+
+
+
+
+
+ 
+
+En pacientes menores de 5 años se utilizó un protocolo de sedación con privación de sueño y melatonina oral 3 mg 30 min previo al inicio del examen. Se utilizó apoyo anestésico solo en un paciente de 26 años con insuficiencia respiratoria y necesidad previa de asistencia ventilatoria.
+
+ 
+
+Análisis de las imágenes y cuantificación
+
+Las imágenes fueron evaluadas en conjunto por 3 observadores. Se evaluaron 54 músculos diferentes. Para los músculos orientados perpendicular al eje axial (30/54), se realizaron 5 mediciones (ROI) en 3 segmentos (proximal, medio y distal) a lo largo del músculo, y un ROI del área de sección; para aquellos con fibras predominantemente orientadas en el plano axial (24/54), se realizaron 5 mediciones en el espesor principal del músculo y un ROI del área de sección.
+
+Se obtuvo para cada medición un registro de intensidad de señal en imágenes de grasa y de agua, generadas a partir de la secuencia Dixon para cada segmento. Se estimó el porcentaje de infiltración grasa de acuerdo a la siguiente ecuación (fórmula 2):
+
+
+
+
+
+Análisis estadístico
+
+a) Variabilidad en el tamaño y posición del ROI: se determinó la variabilidad respecto de la media en la fracción grasa obtenida en las diferentes mediciones dentro del mismo segmento para pacientes sanos y portadores de miopatía congénita. Se analizó la asociación entre el valor de la media de los 5 ROI intrasegmento y el valor del ROI del área de sección mediante el test U de Mann-Whitney para comparación de medias de 2 muestras independientes. El análisis estadístico fue realizado utilizando el software SPSS (versión 22.0 para Windows, SPSS). Se consideró como estadísticamente significativo un valor p < 0,05.
+
+b) Variabilidad intramuscular e intermuscular promedio: se determinó la fracción grasa promedio para cada segmento (proximal, distal y central) para 60 músculos por paciente. En los músculos evaluados por segmento, se determinó la variabilidad promedio. Se utilizó la media aritmética como medida de tendencia central y la diferencia porcentual absoluta (magnitud de la diferencia porcentual) como medida de variabilidad. Se comparó la variabilidad intersegmentaria con respecto al promedio establecido entre los músculos evaluados para pacientes sanos y portadores de miopatía congénita.
+
+ 
+
+Resultados
+
+Se evaluaron los estudios de 31 pacientes, incluyendo 54 músculos de los cuales solo la lengua fue considerada como músculo único, el resto fueron registrados en sus porciones derecha e izquierda, con un total de 107 músculos evaluados para todo el estudio (tabla 1).
+
+
+
+
+
+a) Variabilidad en el tamaño y posición del ROI: el reemplazo graso no suele darse como un aumento difuso de la señal del músculo afectado. Muy por el contrario, el cambio en resonancia suele verse tanto como áreas de músculo con señal relativamente normal que se alternan con tractos adiposos de alta señal, como áreas grises, más uniformes de límites variados, cambios que con frecuencia son progresivos (fig. 4). La elección de un ROI de pequeño tamaño, en forma aislada, puede determinar la elevación o normalización de la señal en un rango que puede llegar hasta el 80%, dependiendo la posición respecto de la presencia de áreas relativamente más preservadas o áreas de franca infiltración (fig. 5). La selección de múltiples mediciones en una misma área o de un área que se acerque a los límites del músculo permite dar cuenta, en una medida promedio, de la coexistencia de tractos fibrosos de diferente calibre y de fibras musculares preservadas. Al evaluar la diferencia entre realizar varias mediciones pequeñas y una medida que abarque el total del músculo, no existieron diferencias significativas entre el promedio aritmético de los valores de los 5 ROI pequeños y el valor de un ROI del área de sección para 107 músculos por paciente (p = 0,0749). 
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Figura 6. Variabilidad en términos de diferencia porcentual absoluta del porcentaje de grasa en pacientes sanos (en gris) y portadores de miopatía congénita (en negro).
+
+
+
+
+
+Figura 7. Correlación entre variabilidad intersegmentos de músculos en pacientes sanos y portadores de miopatía congénita (R = 0,11195).
+
+
+
+
+
+Figura 8. Promedios de fracción grasa para cada segmento en los músculos largos de pacientes con miopatía congénita.
+
+ 
+
+Discusión
+
+Las técnicas de resonancia magnética muscular de cuerpo completo han permitido realizar imágenes comparables con la cintigrafía y el PET, sin el inconveniente de la radiación ionizante, y en menor tiempo, lo que ha hecho cada vez más atractivo su uso en pediatría19. La resonancia de cuerpo entero permite un análisis global de la musculatura esquelética y en detalle de la afectación muscular, a través de cortes axiales contiguos que se extienden desde la cabeza hasta los pies. La graduación del grado de infiltración grasa se ha realizado hasta ahora según métodos semicuantitativos que valoran, a través de una escala visual, el grado de infiltración grasa de los diversos músculos en secuencias ponderadas en T120.
+
+Este estudio logró establecer valores normales de fracción grasa promedio en músculos de niños sanos, dato hasta ahora escasamente reportado en la literatura. Este hecho es importante, dado que el estudio de la población pediátrica permite acercarnos al diagnóstico precoz, contribuyendo a los intentos de mejorar la calidad de vida de estos pacientes. La factibilidad técnica de este protocolo en pacientes pediátricos, confirmada por nuestro estudio, permite incorporarlo como herramienta de evaluación objetiva tanto para el diagnóstico, como para el seguimiento, frente al avance de la enfermedad o a la repuesta al tratamiento.
+
+Sin embargo, a pesar de la utilidad previamente demostrada en la literatura de la técnica de Dixon para cuantificar el reemplazo graso, las mediciones aisladas son insuficientes para su valoración objetiva. Los patrones de reemplazo intramuscular, descritos por Goutallier et al. en 199425,26, subrayan el hecho anatómico de la coexistencia de áreas más preservadas de músculo alternadas con estrías grasas más numerosas y de mayor tamaño, y coinciden con la mayor variabilidad de la fracción grasa en pacientes portadores de miopatías congénitas en nuestro estudio. La ausencia de relación entre la variabilidad de la fracción grasa, en pacientes sanos y enfermos, da cuenta del reemplazo heterogéneo de las fibras musculares por grasa, como una condición propia de la enfermedad.
+
+Si bien el análisis preliminar de la relación entre arquitectura muscular y variabilidad no permite concluir una tendencia, parece razonable suponer que el reemplazo siga un cierto orden anatómico de acuerdo a la organización estructural del músculo, enfrentado a fenómenos de destrucción, atrofia o hipertrofia estableciendo, por ejemplo, patrones con mayor reemplazo en relación con las inserciones respecto de los vientres musculares, hecho no comprobado en nuestro estudio. A pesar de que se trata de enfermedades de baja frecuencia, nos parece importante sumar un mayor número de pacientes y evaluarlos en relación con sus diferentes patologías, para caracterizar el tipo específico de reemplazo muscular, para así proponer diagnósticos de acuerdo a estos patrones.
+
+La fracción grasa muscular, como variable estadística, no tiene una distribución normal, hecho que sumado a una muestra numéricamente pequeña limita nuestra evaluación utilizando parámetros estadísticos habituales. Sin embargo, la comparación de la desviación de las mediciones individuales, respecto de su tendencia promedio, permite establecer diferencias importantes en la variabilidad de la determinación grasa en músculos de pacientes sanos y enfermos. Es así como en pacientes portadores de miopatía congénita, la mayor variabilidad encontrada en músculos como el vasto lateral, sartorio o flexor del hallux, encontrada en nuestro estudio, nos apoya para desestimarlos como sitio sugerido de biopsia. Por el contrario, la menor variabilidad de la serie la mostraron músculos como el tríceps o el deltoides, este último suficientemente accesible para obtener muestras satisfactorias, y por lo mismo, más recomendable. Por otro lado, la mayor variabilidad en el compromiso graso observado en los músculos glúteo mayor y extensores lumbares de pacientes sanos hacen pensar en su menor utilidad a la hora de definir el compromiso muscular en pacientes portadores de alguna miopatía.
+
+ 
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación humana responsable y de acuerdo con la Asociación Médica Mundial y la Declaración de Helsinki.
+
+ 
+
+Confidencialidad de los datos. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+ 
+
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+ 
+
+Financiación
+
+Este estudio ha sido financiado por proyecto de la dirección académica de Clínica Las Condes PI-DA001-2014.
+
+ 
+
+Conflicto de intereses. 
+
+Los autores declaran que no existen conflictos de intereses.
+
+ 
+
+Agradecimientos
+
+Agradecemos especialmente a la Dra. Silvana Cavallieri y a su equipo médico de anestesia, a los tecnólogos médicos de resonancia magnética, auxiliares de radiología, de la Clínica Las Condes, y a la enfermera del Centro de Enfermedades Raras, Chantal Diemer, por las facilidades y colaboraciones prestadas para la realización de este estudio.

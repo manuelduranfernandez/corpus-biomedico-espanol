@@ -1,0 +1,162 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082013000100006
+Análisis geométrico de la arquitectura trabecular de un hueso de bovino durante el proceso inducido de desmineralización
+
+ 
+
+Introducción
+
+Desde los inicios de la radiología, en 1895 por Wilhem C. Roentgen, esta técnica imagenológica ha sido utilizada para la producción de imágenes que tiene como objetivo detectar las anomalías presentes en la anatomía humana, que desencadenen una patología mucho mayor. Los diferentes desarrollos que se han generado en la tecnología, han beneficiado en gran manera a la medicina diagnóstica, generando cada vez más imágenes de alta calidad, y que son útiles para realizar un diagnóstico y seguir un tratamiento.
+
+Modalidades como la radiología digital, la tomografía computarizada, la mamografía, la densitometría ósea, la resonancia magnética y la ecografía, han cumplido un papel fundamental en los servicios clínicos y hospitalarios a la hora de prestar apoyo diagnóstico. Existe una gran concentración de población adulta dentro de la sociedad chilena, y en ella se presenta una patología muy conocida, que es la osteoporosis. Las personas que sean mayores a 65 ańos, o que hayan tenido la menopausia antes de los 45 ańos e historia familiar de esta patología son más propensas a sufrir esta enfermedad . La radiología digital se ha masificado de tal manera que gran parte de los centros que prestan servicios por medio de las imágenes ya cuentan con esta tecnología, lo que hace posible que la población en general pueda acceder fácilmente a este método diagnóstico.
+
+Sin embargo, el problema radica en que la radiología sólo aporta información cualitativa y semicuantitativa de la patología osteoporótica(1), la cual se caracteriza por diferentes cambios a nivel estructural. Entre estos cambios se presentan los que se producen a nivel trabecular, que influyen en gran manera en la calidad del hueso. Es por esta razón que se planteó como pregunta de investigación: "^Es posible realizar un análisis geométrico para describir la arquitectura trabecular de un hueso de bovino, en un proceso inducido de desmineralización, a través de la radiología digital?". El propósito de este estudio es realizar un análisis geométrico de la arquitectura trabecular, ya que ante la presencia de patologías degenerativas del tejido óseo es posible observar los cambios que se producen estructuralmente, los cuales tienen como consecuencia una mayor susceptibilidad a sufrir una fractura.
+
+Material y Métodos
+
+Se utilizó un fémur de bovino, sin tratamiento previo que altere la naturaleza trabecular de éste, y/o su densidad ósea.
+
+Se realizaron diferentes cortes al fémur, para caracterizar los cambios que sufrirá durante el periodo de estudio tal como lo indica la figura 1.
+
+
+
+Para lograr realizar el proceso de descalcificación, utilizaremos ácido acético al 4%, el cual, al interactuar con los componentes cálcicos del hueso, como el carbonato de calcio, que actúa como agente secuestrador de electrones de éste, produciendo la pérdida del mineral en su estructura como lo indica la siguiente fórmula:
+
+
+
+El hueso fue sumergido en el ácido acético por un periodo de 2 semanas, y se retiró de éste ambiente para la adquisición de las imágenes cada 24 horas. Se hizo un seguimiento de los cambios estructurales de la arquitectura trabecular hasta que se observaron cambios evidentes en las radiografías digitales, lo cuales fueron evidenciado la pérdida de las trabéculas en las imágenes digitales observada con respecto a la imagen del primer (control). Las adquisiciones de las imágenes radiológicas fueron obtenidas gracias a un equipo de radiología digital directa de marca Philips DigitalDiagnostic Eleva, que consta de un tubo de rayos X (ceiling suspension CS), una mesa (single side suspended table TH-S), un estativo (moveable vertical stand VM) con un detector digital de silicio amorfo y centellador de yoduro de cesio, un detector digital inalámbrico (wireless portable detector)(20).
+
+En este caso se utilizó el detector digital inalámbrico. La técnica radiológica fue de 55 Kb (kilo volt), y 8 más (miliamper-segundo) con un campo de colimación de 34 cm x 20 cm, a una distancia de 100 cm con respecto al detector inalámbrico, adicionando filtros adherentes de cobre y aluminio (0.2 mm Cu y 1 mm Al) para filtrar el haz primario de radiación, tal como lo indica la figura 2.
+
+  
+
+
+
+  
+
+
+
+ 
+
+Las imágenes adquiridas fueron manipuladas en cuanto a valores de contraste (0.3), brillo (0.7), realce (0.7), detalle (0.65), y nivel de ruido (0) para obtener una imagen de óptimas condiciones para realizar la evaluación, como se muestra en la figura 3. Las imágenes en formato DICOM que genera la radiología digital, tienen la particular característica de almacenar toda la información con respecto a los parámetros de adquisición, la resolución de las imágenes, los niveles de grises presentes en ella(21,22). Éstas fueron evaluadas mediante un software de libre acceso llamado ImageJ® desarrollado por el National Institute of Health (INH) y que puede ser descargado gratuitamente (http://rsbweb.nih.gov/ij/index.html)(23). En todas las imágenes se escogió una región que fue evaluada diariamente hasta identificar cambios evidentes en una población de 10 trabéculas del hueso de bovino, mediante el software de análisis de imágenes ImageJ®, haciendo un ROI en cada una, con el fin de analizar los cambios estructurales y geométricos como el área, perímetro y circularidad. Para poder realizar las mediciones y obtener los datos mediante el software, fue necesario realizar los siguientes pasos:
+
+1. Delimitación del área a estudiar: Se seleccionó la diáfisis femoral para la evaluación de los cambios trabeculares, cuya distribución permite una mejor visualización durante el proceso inducido de desmineralización. El área delimitada se muestra en la figura 4.
+
+2. Realización de medidas con herramienta ROI: el software de análisis de imágenes ImageJ®, posee diferentes herramientas que pueden hacer posible el estudio de las dimensiones trabeculares dentro de la estructura ósea del hueso de bovino. En la barra principal de herramientas, existe una llamada "Freehand selection", la cual permite realizar diferentes formas en una región de interés a evaluar. Al seleccionar todas las trabéculas a evaluar, en la barra de herramientas existe la opción "Analyzeà Set measurements", donde se seleccionarán todas las opciones que son necesarias para la evaluación trabecular. Luego de realizar tal tarea, nuevamente en la barra de herramientas se selecciona la opción "Analyze Measure", lo cual nos entregará todos los valores que en este caso queremos evaluar (área, perímetro y circularidad), como indica la figura 5.
+
+3. Selección de datos y creación de gráficos: finalmente, luego de haber realizado las mediciones a las 10 trabéculas seleccionadas en las 15 imágenes, los datos son copiados y pegados en una tabla Excel, con el fin de que éstos sean graficados. Se calculó el promedio del área, perímetro y circularidad de todas las trabéculas, y fueron agrupados para generar los gráficos.
+
+  
+
+
+
+ 
+
+Figura 4. Se muestra el área escogida, donde se evaluará la arquitectura trabecular y los cambios que se producen durante el proceso de desmineralización.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Resultados
+
+Durante este estudio, se simuló un proceso de desmineralización, como el que ocurre patológicamente en la osteoporosis. Los resultados del área, perímetro y circularidad de las trabéculas fueron promediados con el pasar de los días, arrojando los siguientes resultados.
+
+Análisis del área
+
+El promedio diario del área de la población trabecular estudiada, durante los días en que se realizó el estudio, fue posible observar un crecimiento en los valores que se comporta de manera lineal, lo que nos indica que existe aumento de tamańo con el pasar de los días durante el proceso de desmineralización, con respecto al control de un 126% (Tabla I, Figura 6).
+
+  
+
+ Figura 6. Área en función de los días.
+
+  
+
+ 
+
+Análisis del perímetro
+
+Al igual que el área, fue posible observar también un incrementoen los valores, que se comporta de manera lineal, lo que nos indica que existe aumento de tamańo con el pasar de los días durante el proceso de desmineralización, con respecto al control de un 53% (Tabla II, Figura 7).
+
+  
+
+ Figura 7. Perímetro en función de los días.
+
+  
+
+Análisis de circularidad
+
+En este valor geométrico en el promedio diario de la población trabecular estudiada, fue posible observar que los valores se mantenían dentro de un rango, lo que demostró que no hubo variación significativa de los valores diarios en las trabéculas. Ello nos indica que a pesar de que existe un aumento de tamańo, las formas de las trabéculas no cambiaron con respecto al control (Tabla III, Figura 8).
+
+  
+
+ Figura 8. Circularidad en función de los días.
+
+  
+
+Discusión
+
+La técnica planteada, nos muestra que la trabécula crece sin cambiar su forma a medida que el hueso pierde minerales, que es lo que pasa con enfermedades tales como la osteoporosis, donde el riesgo de sufrir una fractura a medida que pasa el tiempo es inminente.
+
+Estudios anteriores avalan esta teoría donde se demuestra pérdida de volumen y arquitectura trabecular(16). Entonces creemos que es posible realizar estudios en pacientes que tengan pérdida de desmineralización con radiografías digitales, en un periodo determinado, para así poder analizar mediante esta técnica de bajo costo y fácil acceso si existen cambios en sus trabéculas y prever posibles fracturas con un tratamiento oportuno.
+
+Como limitante se puede mencionar que todos estos pasos que se consideran dentro de la metodología, son totalmente operador dependiente, por lo que es de suma importancia que el investigador sea totalmente minucioso a la hora de reproducir el estudio.
+
+Bibliografia
+
+1. Guglielmi G, Muscarella S, Bazzocchi A. Integrated Imaging Approach to Osteoporosis: State of the Art Review and Update. Radiographics 2011; 31: 1343-1365.            [ Links ]
+
+2. Downey P, Siegel M. Bone Biology and the Clinical Implications for Osteoporosis. Journal of the American Physical Therapy Association 2006; 86: 76-92.            [ Links ]
+
+3. Jayakumar P, Di-Silvio L. Osteoblast in Bone tissue Engineering Proceedings of the Institution of Mechanical Enginners: Part H. Journal of Engineering in Medicine 2012; 224: 1414-1440.            [ Links ]
+
+4. Raisz GL, Seeman E. Cause of Age-Related Bone Loss and Bone Fragility: An Alternative View. Journal of Bone and Mineral Research 2001; 16: 1948-1952.            [ Links ]
+
+5. Sosa H, Gómez-de-Tejada-Romero MJ. El término osteopenia y el riesgo de fractura. Anales de Medicina Interna 2006; 23: 151-152.            [ Links ]
+
+6. Watanabe PCA, Issa JPM, Oliveira TM. Morphodigital Study of the Mandibular Trabecular Bone in Panoramic Radiographs. Int J Morphol 2007; 25: 875-880.            [ Links ]
+
+7. Seeman E. Invited Review: Pathogenesis of Osteoporosis. The Journal of Applied Physiology 2003; 95: 2142-2151.            [ Links ]
+
+8. Arriagada M, Arinoviche R, Amaral H. Guías de Diagnóstico: Prevención y Tratamiento de la Osteoporosis. Reumatología 2007; 23: 45-84.            [ Links ]
+
+9. Moscote LR, Castellar SM, Farid H. Osteoporosis y columna vertebral. Revista Chilena de Neurocirugía 2009; 33: 30-33.            [ Links ]
+
+10. Rodríguez JA, Valdivia G, Trincado P. Fracturas vertebrales osteoporosis y vitamina D en la menopausia: Estudio en 55 mujeres en Chile. Revista Médica de Chile 2007; 135: 31-36.            [ Links ]
+
+11. Link T. Osteoporosis Imaging: State of the Art and Advanced Imaging. Radiology 2012; 263: 3-17.            [ Links ]
+
+12. Henderson RC, Lark RK, Newman JK. Pediatric Data for Dual X-Ray Absorptiometric Measures of Normal Bone Density in the Distal Femur. AJR 2002; 178: 439-443.            [ Links ]
+
+13. Gilsanz V, Perez FJ, Campbell PP. Quantitative CT Reference Values for Vertebral Trabecular Bone Density in Children and Young Adults. Radiology 2009; 250: 222-227.            [ Links ]
+
+14. Budoff MJ, Hamirani YS, Gao YL. Measurement of Thoracic Bone Mineral Density with Quantitative CT. Radiology 2010; 257: 434-440.            [ Links ]
+
+15. Singh M, Nagrath AR, Maini PS. Changes in Trabecular Pattern of the Upper End of the Femur as an Index of Osteoporosis. The Journal of Bone and Joint Surgery 1970; 52: 457-467.            [ Links ]
+
+16. Parfitt AM, Mathews HE, Villanueva AR. Relationship Between Surface Volume and Thickness of Iliac Trabecular Bone Aging and in Osteoporosis: Implication for the Microanatomic and Cellular Mechanisms of bone Loss. Journal Of Clinical Investigation 1983; 72: 1396-1409.            [ Links ]
+
+17. Korner M, Weber C, Wirth S. Advances in Digital Radiography: Physical and System Overview. Radiographics 2007; 27: 675-685.            [ Links ]
+
+18. Chappard C, Bousson V, Bergot C. Prediction of Femoral Fracture Load: Cross-Secctional Study of Texture Analysis and Geometric Measurements on Plain Radiographs versus Bone Mineral Density. Radiology 2010; 255: 536-543.            [ Links ]
+
+19. Grier SJ, Turner AS, Alvis MR. The Use of Dual-Energy X-Ray Absorptiometry in Animals Investigative. Radiology 1996; 31: 50-62.            [ Links ]
+
+20. Digital Diagnostic, Digital Radiography Solutions, Philips, "Open a New Chapter in Radiography", (http://www.medical.philips.com). (accesado el 15/07/2012).            [ Links ]
+
+21. Escott E, Rubinstein D. Free DICOM Image Viewing and Processing Software for Your Desktop Computer: What's Available and What It Can Do for you. Radio-Graphics 2003; 23: 1341-1357.            [ Links ]
+
+22. Azrulhizam S, Riza S, Mohammad H. Information Retrieval Technique in Medical Imaging Technology:Hotel Equatorial Bangi-Putrajaya, Malaysia, 14-15 January 2011; ISBN 978-983-42366-4-9.            [ Links ]
+
+23. Ferreira T, Rasband W. Image J. User Guide IJ 1.45m http://rsb.info.nih.gov/ij/docs/index.html (accesado 6/Aug/2011).            [ Links ]
+
+Correspondencia: TM. Marco Jiménez / mjimenez@alemana.cl
+
+Trabajo recibido el 24 de enero de 2013, aceptado para publicación el 11 de marzo de 2013.

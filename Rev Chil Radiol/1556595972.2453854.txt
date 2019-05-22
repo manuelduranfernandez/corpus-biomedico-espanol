@@ -1,0 +1,202 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082018000100005
+Magnitudes y unidades para dosimetría del personal ocupacionalmente expuesto en radiodiagnóstico e intervencionismo
+
+Introducción
+
+La exposición ocupacional1 a las radiaciones ionizantes puede producirse como consecuencia de las diversas actividades llevadas a cabo por el ser humano, particularmente por el trabajo asociado al uso de sistemas de rayos X en las aplicaciones médicas de Radiodiagnóstico (tomografía computarizada, fluoroscopía, radiología general, mamografía y radiología dental) e Intervencionismo (diferentes tipos de cateterismo).
+
+Para controlar esta exposición es necesario poder evaluar y cuantificar los niveles de radiación ionizante a los que son expuestos los trabajadores1 durante estos procedimientos médicos. Para ello, se requiere la formulación de magnitudes y unidades apropiadas, las cuales han sido desarrolladas a nivel internacional por un trabajo conjunto entre la Comisión Internacional de Unidades y Medidas Radiológicas (ICRU)2 y la Comisión Internacional de Protección Radiológica (ICRP)3, denominadas “magnitudes de protección radiológica”4,5. En Chile, la definición de magnitudes para la dosimetría de los trabajadores y sus fenómenos físicos, químicos y biológicos, al igual que en el caso de las magnitudes de dosimetría para pacientes, no se encuentra actualizada en la legislación6,7.
+
+En nuestro articulo previo8, relativo a la dosimetría de pacientes sometidos a procedimientos de Radiodiagnóstico e Intervencionismo, el análisis se fundamentó en los reportes ICRU-859 y 7410, donde se documentaron las magnitudes y unidades denominadas “fundamentales” para describir las radiaciones ionizantes en general (magnitudes radiométricas, coeficientes de interacción, magnitudes dosimétricas y de radiactividad) y las denominadas “especiales”. Sin embargo, se omitió intencionalmente un análisis más acabado de las magnitudes y unidades “dosimétricas”, dada su estrecha relación para comprender las magnitudes y unidades de “protección radiológica” utilizadas en las exposiciones ocupacionales.
+
+Por todo lo anterior, el presente trabajo de revisión tuvo como objetivo generar un segundo documento guía y complementario al anterior8, que presente de manera didáctica y en un lenguaje sencillo para los profesionales de la salud y áreas afines, las principales magnitudes y unidades que se deben conocer y utilizar en la dosimetría ocupacional de los trabajadores involucrados en la ejecución de procedimientos de Radiodiagnóstico e Intervencionismo (fuentes externas de radiación ionizante).
+
+Desarrollo
+
+I. Magnitudes dosimétricas
+
+Concebidas para proporcionar una medida física que se correlacione con los efectos reales o potenciales de la radiación, estas magnitudes y unidades fueron descritas por última vez en el reporte ICRU-8510 del año 2011. En reportes del Organismo Internacional de Energía Atómica, se les denomina también magnitudes y unidades “físicas”11,12. Estas magnitudes son:
+
+
+
+
+
+
+
+Exposición (X): corresponde al cociente del valor absoluto de la carga total de los iones de un signo producidos en aire (dQ), cuando todos los electrones liberados por fotones, en un volumen elemental de aire (dm) son completamente frenados en dicho medio. Se expresa en unidades de C·kg-1 o la unidad especial denominada Röentgen (R), equivalente a 2,58·10-4 C·kg-1.
+
+Tasa de exposición (Ẋ): se define como la exposición producida en cierta masa de aire, en un periodo de tiempo definido. Se expresa en C·kg-1·s-1 o R·s-1.
+
+Kerma (K): acrónimo de kinetic energy release in matter. Representa la suma de energía cinética inicial de todas las partículas ionizantes con carga, liberadas por radiación ionizante sin carga, en una masa dm. Se expresa en unidades de J·kg-1 o la unidad especial denominada Gray (Gy).
+
+Tasa de kerma : corresponde al kerma producido en un periodo de tiempo determinado, expresado en unidades de J·kg-1·s-1 o Gy·s-1.
+
+Dosis absorbida (D): se define como el cociente de la energía media () impartida por la radiación ionizante a una masa (dm) de materia. Se expresa en unidades de J·kg-1 o la unidad especial denominada Gray (Gy).
+
+Tasa de dosis absorbida (Ḋ): corresponde a la variación de dosis absorbida (dD) en un intervalo de tiempo (dt). Se expresa en J·kg-1·s-1 o Gy·s-1.
+
+
+
+
+
+
+
+Exposición (X): corresponde al cociente del valor absoluto de la carga total de los iones de un signo producidos en aire (dQ), cuando todos los electrones liberados por fotones, en un volumen elemental de aire (dm) son completamente frenados en dicho medio. Se expresa en unidades de C·kg-1 o la unidad especial denominada Röentgen (R), equivalente a 2,58·10-4 C·kg-1.
+
+Tasa de exposición (Ẋ): se define como la exposición producida en cierta masa de aire, en un periodo de tiempo definido. Se expresa en C·kg-1·s-1 o R·s-1.
+
+Kerma (K): acrónimo de kinetic energy release in matter. Representa la suma de energía cinética inicial de todas las partículas ionizantes con carga, liberadas por radiación ionizante sin carga, en una masa dm. Se expresa en unidades de J·kg-1 o la unidad especial denominada Gray (Gy).
+
+Tasa de kerma : corresponde al kerma producido en un periodo de tiempo determinado, expresado en unidades de J·kg-1·s-1 o Gy·s-1.
+
+Dosis absorbida (D): se define como el cociente de la energía media () impartida por la radiación ionizante a una masa (dm) de materia. Se expresa en unidades de J·kg-1 o la unidad especial denominada Gray (Gy).
+
+Tasa de dosis absorbida (Ḋ): corresponde a la variación de dosis absorbida (dD) en un intervalo de tiempo (dt). Se expresa en J·kg-1·s-1 o Gy·s-1.
+
+II. Magnitudes de protección radiológica
+
+Para la evaluación de la dosis de exposición a la radiación se han desarrollado magnitudes dosimétricas especiales. Las magnitudes de protección fundamentales adoptadas por la ICRP están basadas en la medición de la energía depositada en órganos y tejidos del cuerpo humano. Para relacionar la dosis de radiación al riesgo de la misma (detrimento), también es necesario tener en cuenta tanto las variaciones en la eficacia biológica de las radiaciones de diferente calidad, así como la diferencia en la sensibilidad de órganos y tejidos a la radiación ionizante4,13. Dichas magnitudes son:
+
+
+
+
+
+
+
+Dosis en órgano y tejido (
+
+
+
+DT
+
+
+
+ ): corresponde al cociente entre el promedio de energía impartido (Ē), en cierta masa de tejido (mT). Se expresa en unidades J·kg-1 o Gy.
+
+Dosis equivalente (
+
+
+
+HT
+
+
+
+ ): es el producto de la dosis en órgano (DT) por el factor de ponderación de la radiación (wR). Se expresa en J·kg-1 o la unidad especial denominada Sievert (Sv). 
+
+El factor wR permite tener en cuenta la efectividad biológica relativa de la radiación, en función de su tipo y energía, en términos de la probabilidad de que produzcan efectos estocásticos a bajas dosis en un órgano o tejido. En radiología diagnóstica, el factor wR tiene un valor 1.
+
+Dosis efectiva (E): Es el producto de la dosis equivalente (HT) recibida por cierto tejido u órgano, por el factor de ponderación del mismo (wT). Se expresa en J·kg-1 o la unidad especial denominada Sievert (Sv).
+
+
+
+
+
+
+
+Dosis en órgano y tejido (
+
+
+
+DT
+
+
+
+ ): corresponde al cociente entre el promedio de energía impartido (Ē), en cierta masa de tejido (mT). Se expresa en unidades J·kg-1 o Gy.
+
+Dosis equivalente (
+
+
+
+HT
+
+
+
+ ): es el producto de la dosis en órgano (DT) por el factor de ponderación de la radiación (wR). Se expresa en J·kg-1 o la unidad especial denominada Sievert (Sv). 
+
+El factor wR permite tener en cuenta la efectividad biológica relativa de la radiación, en función de su tipo y energía, en términos de la probabilidad de que produzcan efectos estocásticos a bajas dosis en un órgano o tejido. En radiología diagnóstica, el factor wR tiene un valor 1.
+
+Dosis efectiva (E): Es el producto de la dosis equivalente (HT) recibida por cierto tejido u órgano, por el factor de ponderación del mismo (wT). Se expresa en J·kg-1 o la unidad especial denominada Sievert (Sv).
+
+El factor wT representa la contribución relativa cierto órgano o tejido, al detrimento total derivado de efectos estocásticos, causados por una irradiación a cuerpo entero, bajo un campo de radiación uniforme. La suma de los factores wT de todos los tejidos y órganos del cuerpo es 1.
+
+En el rango de las dosis bajas, la protección radiológica está principalmente interesada en la protección contra el cáncer y las enfermedades hereditarias inducidas por la radiación. Estos efectos se consideran de naturaleza probabilística, sin umbral, y cuya frecuencia de aparición aumenta en proporción a la dosis de radiación5.
+
+III. Magnitudes de protección radiológica operacional
+
+Las magnitudes de protección radiológica no pueden medirse directamente, puesto que para ello habría que situar los detectores de radiación en el interior de los órganos del cuerpo humano. Por esta razón, la ICRU ha definido un grupo de magnitudes y sus correspondientes unidades, capaces de proporcionar en la práctica una aproximación razonable (o una sobreestimación) de las magnitudes 
+
+
+
+HT
+
+
+
+ y E, ambas denominadas como “limitadoras”, para el monitoreo de la irradiación externa como es el caso de los procedimientos de Radiodiagnóstico e Intervencionismo. Estas magnitudes medibles se definen a partir de la dosis equivalente en un punto del cuerpo humano o de un maniquí y su relación con las magnitudes limitadoras puede calcularse para condiciones de irradiación determinadas. A diferencia de la definición de la dosis equivalente en tejido, empleando el factor de ponderación wR, las magnitudes operacionales de dosis equivalente, por ser funciones del punto, mantienen en su definición la ponderación de la dosis absorbida con el factor de calidad de radiación Q. Así la dosis equivalente se define como, H = Q • D, cuya unidad es J.kg-1 o Sv.
+
+Estas magnitudes de protección radiológica operacionales, se clasifican en dos grandes grupos: las de evaluación individual y las de área14,15. Dentro de las primeras, está la magnitud conocida como: 
+
+
+
+
+
+Tabla 1: Magnitudes de protección radiológica operacionales para monitoreo de la irradiación externa de tipo individuales. 
+
+
+
+
+
+
+
+Tabla 1: Magnitudes de protección radiológica operacionales para monitoreo de la irradiación externa de tipo individuales. 
+
+Dentro de las magnitudes de protección radiológica operacionales de área, encontramos dos subgrupos:
+
+
+
+
+
+Tabla 2: Magnitudes de protección radiológica operacionales para monitoreo de la irradiación externa de tipo ambiental o de área. 
+
+
+
+
+
+
+
+Tabla 2: Magnitudes de protección radiológica operacionales para monitoreo de la irradiación externa de tipo ambiental o de área. 
+
+
+
+
+
+Tabla 3: Magnitudes de protección radiológica operacionales para monitoreo de la irradiación externa de tipo ambiental o de área. 
+
+
+
+
+
+
+
+Tabla 3: Magnitudes de protección radiológica operacionales para monitoreo de la irradiación externa de tipo ambiental o de área. 
+
+Discusión
+
+El paso inicial en la interacción de la radiación ionizante con el material biológico es la absorción de la energía que causa ionizaciones. Por lo tanto, podría parecer razonable utilizar la cantidad de energía absorbida por unidad de masa (dosis absorbida) o en cierta masa de tejido único (dosis en órgano y tejido) como únicos términos para cuantificar la exposición o dosimetría a la radiación en protección radiológica, en orden a estimar el riesgo causado por una exposición dada. Sin embargo, esto no es válido, ya que los efectos de la radiación no sólo dependen de la dosis absorbida, sino también del tipo de radiación (es decir, dosis equivalente) y, de la radiosensibilidad de los tejidos u órganos expuestos (lo que corresponde a la dosis efectiva). En la Publicación 26 de la ICRP fueron introducidos los conceptos de magnitud “dosis referida al cuerpo” (1977)16y la magnitud “equivalente de dosis efectiva”. El procedimiento básico adoptado por la ICRP fue utilizar la dosis absorbida como la magnitud física fundamental, para promediar la dosis absorbida sobre determinados órganos y tejidos (DT) y aplicar factores de ponderación adecuadamente elegidos para tener en cuenta las diferencias en la eficacia biológica de diferentes radiaciones y de las diferencias en sensibilidades de órganos y tejidos a efectos estocásticos sobre la salud. En este punto, resulta relevante destacar que ya en la Publicación 60 de la ICRP13, la Comisión clasificó los efectos de la radiación que causan reacciones tisulares como efectos deterministas y utilizó el término efectos estocásticos para el cáncer y enfermedades heredables inducidas por la radiación. En el caso de los efectos estocásticos, los estudios epidemiológicos y experimentales proporcionan evidencia del riesgo de la radiación a dosis de alrededor de 100 mSv o menores, aunque con incertidumbres para el cáncer. En el caso de enfermedades heredables, aunque no existe evidencia directa de los riesgos de la radiación en las personas, las observaciones experimentales argumentan convincentemente que esos riesgos para las futuras generaciones deberían estar incluidos en el sistema de protección5.
+
+Por lo anterior, la ICRP recomienda el establecimiento de límites dosis que son aceptables y alcanzables para evitar las exposiciones innecesarias de los individuos dentro del lugar de trabajo17. Las magnitudes y unidades “dosimétricas o físicas”, son el primer eslabón para cuantificar los niveles de radiación a los cuales están expuestos los trabajadores. Posteriormente, las magnitudes y unidades denominadas de “protección radiológica” o también llamadas “limitadoras”, son las que se utilizan para establecer límites máximos con objeto de proteger a los seres humanos de los posibles efectos nocivos de las radiaciones ionizantes. Estas magnitudes son valores medios, promediados sobre una masa extensa, como puede ser un órgano o un tejido humano. Las dos magnitudes actualmente en uso (dosis equivalente y dosis efectiva) fueron introducidas por la ICRP en 199113. En este contexto, el límite de la dosis efectiva representa el nivel por encima del cual se considera inaceptable el riesgo de efectos estocásticos5. Para exposiciones localizadas en el cristalino del ojo, en las extremidades y en la piel, este límite en la dosis efectiva no es suficiente para garantizar que se evitan los efectos deterministas, por esta razón para tales situaciones se especifican límites de dosis equivalente12.
+
+Actualmente la ICRP estableció el valor de 20 mSv/año como límite de dosis efectiva máxima en un año, promediado en cualquier período de 5 años, para la exposición ocupacional. También hace hincapié en que la exposición a la radiación de los trabajadores y público en general, debe mantenerse tan baja como sea razonablemente alcanzable (principio ALARA)5. Esta recomendación, lamentablemente aún no se adopta en nuestro país, ya que mantenemos el límite anterior de 50 mSv/año6, sin embargo, en el corto plazo esta situación debería cambiar gracias a un nuevo reglamento de protección radiológica que está en proceso de revisión para Chile18.
+
+La necesidad de magnitudes fácilmente mensurables que sirvan de estimadores de la dosis efectiva y de la dosis equivalente, ha conducido al desarrollo de “magnitudes de protección radiológica operacionales” de evaluación individual (Tabla 1) y las de área (Tablas 2 y 3) para la evaluación de la exposición ocupacional a fuentes externas de radiación ionizante, es decir, para la vigilancia radiológica de los trabajadores y de los puestos de trabajo, respectivamente. En sus definiciones se incorpora el efecto que produce la presencia del cuerpo de la persona expuesta, modificando el campo incidente en el punto de medición. A su vez, para considerar el grado de penetración de la radiación, las magnitudes se especifican para determinadas profundidades en el cuerpo (0,07, 3 y 10 mm, respectivamente).
+
+En este sentido, los dosímetros personales en Chile están calibrados en términos de dosis equivalente personal Hp(0,07) y Hp(10)5. En procedimientos de radiología intervencionista, se recomienda usar un dosímetro adicional, el cual entregue una medida de la dosis al cristalino del ojo en valores de Hp(3)19. Sin perjuicio de lo anterior, la Publicación 103 de la ICRP sugiere que el monitoreo de la exposición al cristalino es suficientemente confiable con el uso de Hp(0,07)13. Otro estudio mostró que para evaluar la dosis equivalente personal Hp(3) en procedimientos de tipo intervencionista, un dosímetro pasivo de cuerpo completo calibrado en Hp(10) o Hp(0,07) puede ser utilizado satisfactoriamente20.
+
+Por su parte, los dosímetros de área se utilizan para fines de monitoreo del ambiente. El primer grupo de magnitudes descritas en la tabla 2, se adecúan para la radiación fuertemente penetrante y el segundo grupo mostrado en la tabla 3, se utilizan para radiación poco penetrante. La dosis equivalente ambiental H*(10), en un punto de interés en el campo de radiación real, es la dosis equivalente que se produciría por el correspondiente campo de radiación alineado y expandido, en la esfera de ICRU a una profundidad de 10 mm, en el vector de radio opuesto a la dirección de la incidencia de radiación. H*(10) debería dar una estimación conservadora de la dosis efectiva que una persona recibiría si permaneciera en dicha posición. Lo anterior se cumple en fotones con energías inferiores a 10 MeV, en tal caso, las magnitudes Hp(10) y H*(10) toman valores similares en la parte frontal del cuerpo21,22. En Chile la dosimetría de área es aún incipiente y no se utiliza regularmente. Sin embargo, existen propuestas como la desarrollada en España, donde las dosis individuales de los trabajadores se pueden estimar a partir de los resultados de la vigilancia realizada en el ambiente de trabajo23.
+
+Limitaciones del trabajo
+
+Se han omitido intencionadamente fórmulas matemáticas y detalles técnicos de cada magnitud y unidad descrita, tanto en sus procesos de formulación como de calibración de los dosímetros. Para mayor detalle de estos aspectos técnicos, se puede recurrir a la serie de documentos de la Organización Internacional de Normalización (ISO)24,25,26,27.
+
+Agradecimientos
+
+El presente trabajo se ha llevado a cabo como parte del proyecto de cooperación técnica “Fortalecimiento de la infraestructura nacional, para que los usuarios finales puedan dar cumplimiento a las reglamentaciones y requerimientos en materia de protección radiológica”, RLA/9/075 de la Agencia Internacional de Energía Atómica. Los investigadores (Ubeda C y Nocetti D) agradecen el apoyo de la Dirección de Investigación de la Universidad de Tarapacá, a través de los proyectos de investigación UTA Mayor Nº 7713-18 y 7714-18, respectivamente.

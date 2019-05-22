@@ -1,0 +1,194 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082015000200005
+Revisión de técnica y utilidades de la tomosíntesis digital de tórax en la actualidad
+
+Resumen: La Tomosíntesis digital (TSD) de tórax es una técnica de imagen compuesta por piezas similares que la radiografía digital (RD). Sus ventajas de sobre RD: diagnóstico más preciso de las alteraciones estructuras torácicas, útil para confirmar o descartar la sospecha de nódulos, detección de los pacientes de alto riesgo de cáncer pulmonar y seguimiento de lesiones conocidas. La TSD crea reconstrucciones coronales torácicas con resolución superior a TC. Sin embargo, está limitada por su resolución de profundidad y susceptibilidad al movimiento, ocultando ocasionalmente lesiones adyacentes a pleura, diafragma y mediastino. La dosis de radiación de TSD y el costo son más bajos que la TC. Más aplicaciones específicas además de los nódulos pulmonares están bajo investigación, como la infección por micobacterias, fibrosis quística y otras. Una comprensión básica de la utilidad de TSD torácica y su técnica puede ser útil para el radiólogo.
+
+Palabras clave: Cáncer, Micobacteria, Nódulo pulmonar, Tomosíntesis torácica.
+
+La radiografía de tórax, en sus más de cien años de vigencia, es la técnica imagenológica más usada alrededor del mundo, siendo la base imagenológica en la sospecha de enfermedad pulmonar y medistínica. Esto, a pesar de los grandes avances en radiología, especialmente en la tomografía computada (TC)(1,2).
+
+Si bien la radiografía de tórax sigue proporcionando una gran cantidad de información médica vital, las anormalidades como los nódulos pulmonares pueden pasar desapercibidos hasta por los radiólogos más experimentados debido a la sobreproyección de estructuras tridimensionales en una imagen bidimensional, que conduce a la disminución de la resolución de contraste.
+
+El uso de tomosíntesis digital (TSD) para imágenes torácicas ofrece ventajas comparativas, tanto de la radiografía de tórax como de la TC, mejorando la visibilidad de las anomalías torácicas en comparación con la radiografía; eliminando la superposición de estructuras, así como también proporcionando una mayor resolución en el plano coronal y una dosis de radiación significativamente menor en relación a la TC.
+
+En clínica, la tomografía geométrica se introdujo en 1931, siendo una de las técnicas imagenológicas más tempranas en intentar superar la limitación de sobreproyección de la radiografía(2-4). En esta técnica, el tubo de rayos-x se mueve a través de un ángulo de adquisición limitado, con exposición continua a los rayos-x(3,4). Los objetos del plano determinado de interés (plano de enfoque) son representados con mayor nitidez, mientras que los objetos externos a él se ven borrosos (Figura 1).
+
+
+
+
+
+Figura 1.Tomosíntesis digital con foco centrado en bronquios principales, carina y tráquea. Nótese el aumento de definición de estas estructuras en relación a los planos óseos por ejemplo, como costillas, esternón, vétebras, etc.
+
+ 
+
+Esta técnica se usaba principalmente para análisis de cavitaciones pulmonares de tuberculosis, calcificaciones en nódulos pulmonares y ganglios linfáticos, enfermedades del esternón y de vías aéreas centrales(2). Una limitación es la persistencia de la difuminación residual causada por objetos en frente y detrás del plano de enfoque, a menudo ocultando anormalidades de los tejidos blandos que tienen bajo contraste intrínseco. Por otra parte, cada barrido del tubo de rayos-x y la exposición de todo el espesor del paciente generaba sólo una única imagen(2,3); el proceso debía repetirse para la adquisición de varias imágenes en diferentes profundidades focales, con el aumento de la dosis de radiación para el paciente.
+
+En última instancia, la tomografía geométrica de tórax no pudo competir con la TC, que la suplantó gradualmente entre finales de 1970 y principios de 1980(2,3). En la TC, las imágenes de cortes transversales se reconstruyen con poca o ninguna contaminación por objetos fuera el plano de enfoque. Esto es posible porque, a diferencia de la tomografía geométrica, los tubos de rayos-x giran en 360° alrededor del paciente. Esto, sin embargo, conlleva un significativo aumento de radiación aplicada al paciente.
+
+Con el advenimiento de la radiografía digital y detectores de pantalla plana, el desarrollo de la tomosíntesis digital (TSD) se hizo posible. La TSD se basa en principios similares a los de la tomografía geométrica(3,4), pero en la primera las imágenes representan secciones a través de la anatomía que se generan y reconstruyen a partir de un conjunto de radiografías de proyección.
+
+Aparte de eliminar la superposición de estructuras adyacentes vistas en la radiografía, la TSD proporciona una mayor resolución en el plano coronal y una menor dosis de radiación que la TC.
+
+La implementación de esta nueva tecnología está siendo cada vez más amplia en la actualidad, con aprobación actual de la FDA de EE.UU.(3,5). Por lo tanto, una comprensión básica de TSD, junto al conocimiento de sus posibles aplicaciones imágenes torácicas, son de importancia para el radiólogo.
+
+A continuación se describirá la TSD torácica en cuanto a sus principios básicos, fundamentos de la interpretación de las imágenes, ventajas y limitaciones, potenciales aplicaciones e indicaciones sugeridas, con casos prácticos desarrollados en Clínica Dávila y el apoyo de evidencia en la literatura hasta la fecha.
+
+ 
+
+Sistemas de TSD
+
+Los componentes básicos de un sistema de TSD de tórax son similares a las de un sistema de radiografía digital; un tubo de rayos-x convencional, una cámara digital detector de panel plano y una rejilla. Una diferencia fundamental es que el sistema TSD de tórax incluye una grúa motorizada para el tubo de rayos-x. Esta grúa controlada por computador, permite que el tubo de rayos x se incline en varios ángulos para que pueda seguir una trayectoria definida y paralela al detector mientras se adquieren las imágenes(3) (Figura 2).
+
+
+
+
+
+Figura 2. Esquema de una tomosíntesis digital, arriba, plataforma de movimiento y el tubo de rayos-x deslizándose en un plano paralelo al objeto irradiado y el panel detector plano abajo (estrella).
+
+ 
+
+Es similar a la radiografía en cuanto hace uso de un detector digital de panel plano en lugar de una matriz de detectores como en la TC. Este detector de panel plano proporciona una mayor resolución espacial en el plano coronal, más comúnmente unas 200 × 200 micras de tamaño de pixel, en comparación con el tamaño de píxel de aproximadamente 500 × 500 micras del TC (Figura 3). Al igual que con TC, se adquieren múltiples imágenes en varios ángulos(3); sin embargo, utiliza un ángulo limitado y un plano de enfoque. El ángulo total de adquisición en la TSD es desde 35° a 60° y se necesitan aproximadamente 60 imágenes para una reconstrucción de TSD. A diferencia de la TSD de mama, que utiliza un sistema isocéntrico, en los TSD de tórax disponibles comercialmente, el tubo generalmente se mueve en una trayectoria paralela a la anatomía con un ángulo predeterminado, y el paciente puede estar en posición vertical o supina(3).
+
+
+
+
+
+Figura 3. TSD (a la izquierda), en comparación con la imagen coronal en TC (a la derecha). La resolución espacial de TSD y la radiografía son idénticos, aproximadamente pixeles de 200 × 200 micras. La TC demuestra resolución de contraste mayor, pero a una resolución espacial con pixeles de 500 × 500 micras.
+
+
+
+Por otra parte, a diferencia de la tomografía geométrica, que entrega la exposición continua a radiación, el detector TSD de tórax recibe pulsos de exposiciones de rayos-x en diferentes ángulos del tubo(3,4), esto permite la reconstrucción de una imagen que representa un plano de enfoque específico; sin embargo, debido a una adquisición se utiliza ángulo de menos de 180°, la imagen es contaminada por estructuras detrás y delante del plano de enfoque. Cuando se utiliza un ángulo más amplio para la adquisición de la imagen, la reconstrucción digital puede separar más eficazmente estructuras del plano de enfoque, de las que no están en el foco.
+
+Como ejemplo, cerca de 60 imágenes se obtienen en el sistema comercial de TSD de GE Health, con un tiempo de exposición para cada proyección corto (~10 ms). La adquisición total de las imágenes se lleva a cabo durante una sola retención de aire en inspiración de 10-12 segundos(4).
+
+La tomografía geométrica era capaz de producir sólo un plano de enfoque. La TSD representa una mejora sustancial en este aspecto ya que permite reconstruir varias imágenes en múltiples profundidades que abarcan la totalidad de espesor del paciente en un solo barrido(3,4,6).
+
+El concepto de "grosor de corte" no existe, dado que objetos por delante y por detrás del plano de enfoque siempre estarán presentes, aunque menos definidos. Mientras más lejos esté el objeto del plano de enfoque, menos definido se observará. Se debe tener en cuenta la dirección de barrido, especialmente cuando se enfrenta a los artefactos producidos por objetos metálicos, que interfieren en la calidad diagnóstica de la imagen. El ángulo de barrido debe aumentarse para evaluar anatomía más fina y mayor detalle, con una mejor resolución de profundidad.
+
+ 
+
+Fundamentos de la Interpretación de Imágenes
+
+La interpretación de las imágenes en TSD es similar a la radiografía. Al ser varias imágenes y con distintos puntos focales, son más fácilmente evaluables estructuras como la pared torácica, estructuras óseas (Figura 4), mediastino, vasos (Figura 5), vías aéreas, pleura, pulmones, y la parte superior del abdomen, mejorando notablemente la visibilidad anatómica. La calidad técnica del examen estará determinada por la evaluación de todas las estructuras anteriormente mencionadas(11). Al igual que con la radiografía, grandes estructuras orientadas perpendiculares al plano de la imagen (por ejemplo, el diafragma) son más claramente diferenciables que estructuras orientadas de forma paralelas al plano de adquisición (por ejemplo, la superficie anterior y posterior del corazón).
+
+
+
+
+
+Figura 4. En la imagen de la izquierda se representa una mejor visualización de las estructuras óseas de la pared torácica anterior y esternón. En comparación, a derecha, un foco en los procesos espinosos y pedículos vertebrales, junto a arcos costales posteriores.
+
+
+
+
+
+Figura 5. Se muestra foco de la vasculatura en TSD. Se observan las ramas principales de arteria pulmonar y sus divisiones posteriores, se observa también vasos venosos, con disposición inferior a los vasos arteriales y con mayor paralelismo al diafragma.
+
+ 
+
+Ventajas y limitaciones
+
+Múltiples estudios con TDS han demostrado mejoras en la precisión diagnóstica, la confianza de quien recibe el informe y la concordancia entre observadores(12-15). El uso de TSD para verificar presuntos hallazgos de lesiones pulmonares en las radiografías de tórax pueden reducir la utilización de TC en alrededor de un 75%(13).
+
+Debido a que un sistema de TSD comercial funciona asociado a una unidad de radiografía digital, un TSD se puede realizar inmediata y convenientemente después de la adquisición de las radiografías de tórax para verificar presuntos hallazgos sin tener que mover el paciente(6). Al proporcionar una mejor detección de la lesión y de localización, si se decide complementar un hallazgo con TDS se puede obviar la radiografía de tórax lateral(4,5).
+
+La dosis de radiación efectiva estimada para un estudio de TSD torácica es de 0.08-0.13 mSv(4,16), mientras que las dosis efectivas para la radiografía de tórax posteroanterior y lateral son aproximadamente 0,02 mSv y 0,04-0,05 mSv, respectivamente(17). Por lo tanto, la dosis total de radiación para un estudio por TSD de tórax es aproximadamente el doble que la de dos vistas radiográficas de tórax digital estándar (0.06 mSv). Sin embargo, es mucho menor al compararla con la TC torácica, que implica una dosis efectiva estimada de 1-4 mSv (Tabla I)(12,17-19). Es importante tener en cuenta que con el avance de tecnología se espera una reducción de la dosis de radiación, con claros beneficios para la TC y TSD.
+
+Se estima que el costo de una TC sin contraste es aproximadamente 10 a 15 veces el de una radiografía de tórax(21), siendo el costo de la TSD sólo 1.5 a 3 veces mayor (Tabla I)(20,22), considerable en relación al beneficio para el presupuesto en salud en muchos países.
+
+Respecto a las limitaciones, en relación a la radiografía de tórax, la TSD de tórax posee una gran susceptibilidad a los artefactos de movimiento y no existen equipos portátiles. Otro punto es que mientras mayor el número de imágenes producidas en TSD, mayor tiempo se requiere para la interpretación, a diferencia de radiografías PA-L. (Media reportada= 200 segundos vs 120 segundos) (Tabla I)(13).
+
+
+
+
+
+ 
+
+Aplicaciones
+
+Nódulos pulmonares
+
+El cáncer de pulmón es la causa principal de muertes por cáncer en los Estados Unidos(25). A nivel mundial, es la principal causa de muerte por cáncer entre los hombres y la segunda causa entre las mujeres(26). Durante décadas, el screening del cáncer pulmonar con imágenes ha sido un reto que ha cosechado un considerable foco de atención e investigación(19,27-33).
+
+Ensayos de detección precoz de cáncer pulmonar con radiografía de tórax han sido ineficaces, ya que no han dado lugar a la disminución de la mortalidad de este cáncer(27,28). Estudios de radiografía de tórax con radiólogos experimentados, muestran falsos negativos de hasta 30%(28), principalmente por estar sobrepuestas con estructuras circundantes(4). Por otro lado, hasta un 20% de los nódulos pulmonares sospechosos en radiografías de tórax representan superposición de estructuras o lesiones pulmonares no cancerosas(36). Recientemente, la TC de dosis baja reduce la mortalidad por cáncer de pulmón en 20% en comparación con la detección radiográfica, previniendo un número estimado de 12.000 muertes por año en los Estados Unidos(33La detección de nódulos pulmonares por medio de TSD como medio de la detección temprana del cáncer de pulmón presenta resultados prometedores. Como un híbrido entre la radiografía y el TC, la TSD es capaz de delinear estructuras por capas, aumenta la visibilidad de las anomalías del parénquima y nódulos pulmonares. Para los nódulos mayores de 4 mm en la TC, se ha demostrado un aumento de tres veces en la sensibilidad con TSD comparado con la radiografía(12,23,37). Además, la TSD es más específica que la radiografía para diferenciar pseudonódulos de lesiones potencialmente malignas. Un estudio prospectivo comparativo de radiografía y TSD ha demostrado una sensibilidad media del 7% frente a 92% y especificidad de 13% frente a 92%, valor predictivo positivo de 2% frente a 79%, y valor predictivo negativo de 31% versus 97%, respectivamente, para detectar lesiones pulmonares sospechosas que requieran CT(13). En la Tabla II se integran resultados de diversos estudios que comparan las sensibilidades y especificidades de la radiografía, TSD y TC de baja dosis en la detección de nódulos pulmonares, usando la TC dosis estándar como referencia(35).
+
+
+
+
+
+ 
+
+Posibles dificultades en la detección de nódulos pulmonares en TSD(11):
+
+Imágenes situadas adyacentes a la pleura o subpleurlales se han identificado erróneamente como nódulos. Nódulos centrales pequeños (<5 mm) adyacentes a vasos pueden no ser visualizados, y los ganglios linfáticos del mediastino o hiliares pueden ser malinterpretados como nódulos. Al igual que en la radiografía, hallazgos esqueléticos, podrían ser mal interpretados como nódulos.
+
+Los patrones morfológicos y calcificaciones de nódulos pulmonares son similares en TSD y en TC(8). Nódulos de densidad en "vidrio esmerilado" son más difíciles de detectar que los nódulos sólidos y son definitivamente mejor visualizados en TC que en TDS(38).
+
+Se han propuesto varios escenarios para la integración TSD en la práctica(3-6), principalmente en screening de pacientes con factores de riesgo para cáncer pulmonar y metástasis. Un estudio observacional ha reportado tasas comparables para TSD y TC de baja dosis en la detección de nódulos pulmonares no calcificados y el cáncer de pulmón(39), así como ha demostrado también tasas de hasta 93% detección para nódulos pulmonares metastásicos en cáncer colorrectal(40). Estudios experimentales de detección de nódulos pulmonares artificiales han demostrado similares índices de detectabilidad entre TSD y TC de baja dosis(16).
+
+Otra indicación clínica razonable para TDS es el seguimiento de nódulos pulmonares(3-6) reduciendo considerablemente la dosis de radiación acumulada en los pacientes.
+
+La verificación de los nódulos o densidades sospechosas vistas en radiografía de tórax antes de proceder a la TC parece otra aplicación plausible(3-6), con una reducción de la TC de hasta un 76% de los casos(13).
+
+La TSD también mejora la diferenciación de lesiones particularmente cuando presentan alto contraste intrínseco, como por ejemplo calcificaciones tanto en nódulos como linfáticas (Figura 6), calcificaciones ateromatosas aórticas, extendiéndose a la detección de calcificaciones en arterias coronarias, como algunos investigadores lo han sugerido(4,6).
+
+
+
+
+
+Figura 6. Radiografías PA y L con lesión bien definida redondeada hiliar derecha. En TSD, se observa más claramente que la lesión es densa, compatible con un linfonodo calcificado.
+
+
+
+La radiografía de tórax sigue siendo una herramienta eficaz y ampliamente utilizada para patología pleuropulmonar relacionada con asbesto(43). La TC debiese llevarse a cabo cuando hay radiografía con hallazgos no concluyentes, la TSD proporciona una mayor precisión diagnóstica que la radiografía para la detección de placas pleurales con o sin calcificaciones, por lo que es una alternativa en éstos casos(22).
+
+ 
+
+Cuerpos extraños y material médico
+
+La TSD demuestra mejor representación de la vía aérea central en comparación con la radiografía(9,10) (Figura 7).
+
+
+
+
+
+Figura 7. Radiografía de tórax frontal, se observa una lesión aparentemente quística sobre el hilio pulmonar derecho. En TSD se determina que corresponde a un pesudoquiste, ya que sus paredes son superposición de estructuras normales.
+
+
+
+La menor dosis de radiación en TSD comparada con TC es de especial interés en la población pediátrica. La retención de la respiración y la quietud física requeridas para la adquisición de la imagen TSD podría representar un reto para estos pacientes. En algunos centros, la TSD está actualmente disponible para niños de 8 años o mayores, menores de 12 años de edad son examinados en posición supina para reducir artefactos de movimiento(8).
+
+Otra aplicación es la visualización de material médico, el material relativamente pequeño o sutil, tal como stents endovasculares, clips quirúrgicos, y las líneas discontinuas son mejor evaluados en TSD que en radiografías.
+
+ 
+
+Enfermedad pulmonar por micobacterias
+
+La TSD ayuda a evaluar las enfermedades de las vías respiratorias pequeñas, como la bronquiolitis por mejor visualización de las vías respiratorias de menor calibre en comparación con la radiografía(9).
+
+La TSD de baja dosis (0,05 mSv-) ha demostrado mayor precisión diagnóstica que la radiografía de tórax frontal en tuberculosis pulmonar y micobacterias no tuberculosas, también en nódulos, consolidación, cavitación y la pérdida volumen pulmonar(20). La precisión diagnóstica y concordancia entre observadores son mejores que en radiografía(20). En la Tabla III se comparan las sensibilidades de ambas técnicas en la detección de cavidades pulmonares. Es destacable el beneficio en términos de rendimiento diagnóstico logrado a expensas de un discreto aumento en la dosis de radiación (0,03 mSv).
+
+
+
+
+
+Puede ser que la TSD sustituya o se combine con la radiografía de tórax para la evaluación de primera línea en pacientes con alto riesgo de tuberculosis pulmonar o con enfermedad conocida que requiera seguimiento con imágenes.
+
+ 
+
+Fibrosis quística y otros
+
+Tanto en niños como adultos, la TSD ha mostrado excelentes resultados en detección de los cambios típicos de la fibrosis quística, como tapones mucosos, engrosamiento de la pared bronquial y bronquiectasias con menor radiación que la TC(8).
+
+Pequeños niveles hidro-aéreos en bronquios dilatados o abscesos, neumotórax y bulas son también mejor visualizados en TSD que en la radiografía(8). Un sistema de puntuación de gravedad específico para fibrosis quística por TSD ha sido desarrollado recientemente, con buena correlación inter-observador(44).
+
+Esta técnica es más sensible que la radiografía para el diagnóstico precoz de enfermedades pulmonares intersticiales, sin embargo, no hay diferencia significativa en términos de especificidad(22).
+
+ 
+
+Conclusión
+
+La superposición de estructuras tridimensionales en una imagen bidimensional como la radiografía de tórax a menudo oculta lesiones pulmonares. La TSD separa la anatomía subyacente y mejora la visibilidad del parénquima pulmonar así como la de las vías respiratorias, del sistema vascular y estructuras óseas sin un aumento sustantivo de la radiación en comparación a la TC.
+
+A la fecha, los estudios han demostrado la TSD de tórax es superior a la radiografía de tórax en términos de sensibilidad y especificidad, como en la confianza de quien lee el informe radiológico, así como también en cuanto una menor variabilidad inter-observador. La TSD torácica puede ser utilizada para la evaluación de individuos con alto riesgo de cáncer pulmonar o metástasis pulmonares, en la caracterización y seguimiento de nódulos, la confirmación de presuntos hallazgos en las radiografías de tórax, con lo que se reduciría la necesidad de TC, evitando así la innecesaria radiación proporcionada.
+
+Todas las aplicaciones descritas en esta revisión, incluido el screening de cáncer pulmonar en pacientes de alto riesgo, son sólo potenciales o teóricas, sin validación clínica suficiente hasta hoy. Serán necesarios estudios prospectivos multicéntricos para demostrar su utilidad final. Sin embargo, las aproximaciones en cuanto a reducción de costos y radiación por la TSD son prometedoras.

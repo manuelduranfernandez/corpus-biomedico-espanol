@@ -1,0 +1,162 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082015000100003
+Relación entre el signo de Entrecruzamiento y el ángulo de versión acetabular en tomografía axial computada
+
+
+
+Resumen: Introducción. El signo de entrecruzamiento (SE) es propuesto en el diagnóstico imagenológico del pinzamiento Femoroacetabular tipo Pincer. El SE se produce en la región craneal del acetábulo, mientras que el ángulo de versión acetabular (VA) se mide en la región donde el acetábulo se hace más profundo. Objetivo. Determinar si valores de VA medidos en regiones craneales a la medida clásica se relacionan mejor al hallazgo de SE positivo. Material y Método. Estudio transversal en pacientes asintomáticos. Se obtuvieron imágenes mediante TC de abdomen y pelvis. Fueron consignados en reconstrucción antero-posterior el SE y en reconstrucción axial el ángulo de VA. Se estimaron modelos de regresión logística para la medición de VA en 7 niveles de cefálico a caudal con IC 95%. Resultados. Fueron medidos 104 pacientes. En nivel 3 se obtuvo un área bajo curva ROC 0.81 (0.74-0.87), valor de corte 11.2° con sensibilidad de 80.0% y especificidad de 73.0%. Conclusión. VA en nivel 3 tiene mayor capacidad diagnóstica de la presencia de SE positivo.
+
+Palabras clave: Ángulo de versión acetabular, Pinzamiento femoroacetabular, Signo de entrecruzamiento.
+
+ 
+
+Introducción
+
+El pinzamiento femoroacetabular (PFA) es una condición anatómica y dinámica que produce un contacto patológico del acetábulo y la cabeza femoral, limitando el movimiento fisiológico y provocando dolor(1,2).
+
+Existen tres tipos: Pincer, en el cual existe una sobrecobertura acetabular focal o global; Cam, en el cual existe una deformidad de la unión cuello-cabeza femoral; y Mixto, en el cual coexisten ambas condiciones(3,4).
+
+El signo de entrecruzamiento (SE) es propuesto en el diagnóstico imagenológico del pinzamiento femoroacetabular tipo Pincer focal. Se considera positivo cuando, en una radiografía antero posterior de pelvis, la pared anterior del acetábulo se observa más lateral a la pared posterior del acetábulo(5).
+
+El ángulo de versión acetabular es una medida descrita para el diagnóstico de displasia de cadera. Clásicamente se mide en la porción más profunda del acetábulo, considerándose retroversión un ángulo menor a 15°(5,6).
+
+Tanto el SE y ángulo de versión acetabular han sido considerados en la aproximación diagnóstica del entrecruzamiento tipo Pincer. Sin embargo, si se observa la altura en la cual generalmente se produce el entrecruzamiento, esto ocurre a un nivel más cefálico que la altura, en la cual se mide clásicamente el ángulo de versión acetabular (Figura 1)(2,5).
+
+
+
+
+
+Figura 1. Esquema para ilustrar que el signo de entrecruzamiento ocurre a una altura más cefálica que el nivel clásico donde se realiza el corte axial para medir el ángulo de versión acetabular. En este caso existe entrecruzamiento en la cadera derecha.
+
+ 
+
+El objetivo del presente estudio fue determinar la altura acetabular en la cual la medición del ángulo de versión acetabular se relaciona mejor con el hallazgo de signo de entrecruzamiento positivo.
+
+ 
+
+Material y métodos
+
+Se diseñó un estudio transversal, el cuál cuenta con la aprobación del Comité de Ética del Hospital Clínico de la Universidad de Chile. La población en estudio son personas chilenas mayores de 15 años, asintomáticos y sin antecedentes de patologías coxales. Los individuos fueron reclutados prospectivamente, pidiéndoles completar un consentimiento informado y una ficha con sus antecedentes personales y médicos. La participación fue voluntaria y gratuita.
+
+Fueron incluidos pacientes chilenos con indicación de tomografía computada (TC) de abdomen y pelvis por causa no articular. Se excluyeron pacientes con dolor de cadera (actual o histórica) y aquellos con antecedentes de cirugías de cadera y/o pelvis.
+
+Las imágenes fueron obtenidas utilizando un equipo de Tomógrafo Computarizado Multicorte Siemens, modelo Somaton Sensation 64®. En la adquisición del estudio se utilizó un protocolo con cortes de 1.5 mm cada 0.3 mm, información que posteriormente fue procesada en reconstrucciones multiplanares de 3 mm en ventana ósea y reconstrucciones 3D, mediante los programas 3D e INSPACE® respectivamente.
+
+Dado que la pelvis posee una disposición espacial en 3 dimensiones y considerando las desviaciones por la posición de la pelvis en relación a la mesa del tomógrafo, las reconstrucciones axiales fueron corregidas en 3 planos: rotación, inclinación lateral y basculación de la pelvis(7). Para esto último, se consideró lo propuesto por Bosse et al.(8), considerándose las diferencias descritas entre sexos, fijando la distancia de la unión sacrocoxígea y el borde superior del pubis en 3 cm hombres y en 6 cm en mujeres. La evaluación de las imágenes y las mediciones fueron realizadas por radiólogos y traumatólogos en formación, mediante el programa Osirix® v 4.0.
+
+El signo de entrecruzamiento fue evaluado en una TC transparente corregida en 3 planos, que simula una radiografía AP. Se consideró positivo cuando el borde anterior del acetábulo se observó lateral al borde posterior del acetábulo.
+
+El ángulo de versión acetabular fue medido en reconstrucciones axiales de TC corregidas en tres planos. Midiéndose en seis niveles de cefálico a caudal, cada 3 mm desde el borde superior del acetábulo. La sexta medida coincide con la medida clásica de versión acetabular, la cual se realiza donde el acetábulo es más profundo. La medición se realizará según lo propuesto por Kang et al.(6) (Figuras 2 y 3).
+
+
+
+
+
+Figura 2. Reconstrucción de TAC emulando una radiografía AP de pelvis para ilustrar los distintos niveles en los cuales se obtuvieron los cortes axiales para la medición del ángulo de versión acetabular. La altura desciende cada 3 mm desde cefálico a la porción más profunda del acetábulo.
+
+
+
+
+
+Figura 3. Medición de ángulo de versión acetabular: Se realiza en una imagen obtenida en TAC en reconstrucción axial. El ángulo se mide trazando una línea que va desde el borde anterior al borde posterior del acetábulo ipsilateral y otra línea vertical que va desde el borde posterior del acetábulo y es tangencial a una horizontal que une los bordes posteriores de los acetábulos.
+
+ 
+
+Dado que, en cada acetábulo se evaluará la relación existente entre el signo de entrecruzamiento y el ángulo de versión acetabular, es posible asumir que la lateralidad de cada paciente son eventos independientes. Esto último, permite analizar ambas caderas de cada paciente.
+
+En el análisis estadístico se estimaron modelos de regresión lineal para cada nivel de medición del ángulo de versión acetabular, calculándose Odds Ratio como medida de asociación.
+
+Dado que el estimar modelos de regresión logísticos requiere asumir la independencia de los subgrupos obtenidos por la misma regresión, en cada modelo de regresión logística estimado se realizó un test de bondad de ajuste, permitiéndose un máximo de 10 patrones de covarianza, para comprobar dicha independencia. Se consideró adecuado asumir la independencia de los subgrupos si la significancia era mayor a 0.15.
+
+Se estimaron valores de corte para el diagnóstico de SE positivo en cada nivel de medición de VA, en el que el modelo logístico estimado garantizaba la independencia de los subgrupos de covarianzas. Se seleccionó aquel valor que maximizara la sensibilidad y especificidad.
+
+Se construyeron intervalos de confianza de 95% y se utilizó una significación del 5%. Los datos fueron procesados con el programa estadístico STATA® v.11.1.
+
+ 
+
+Resultados
+
+Fue incluido un total de 91 pacientes, lo que permitió analizar 182 caderas. La edad promedio de la muestra fue de 37 años (±14.44). Del total de la muestra 33 (36.26%) son de sexo femenino y 58 (63.74%) de sexo masculino. Las mujeres presentaron una edad promedio de 37 años (±16.42), al igual que los hombres (±13.32).
+
+El promedio del ángulo de versión acetabular en el lado derecho fue de 15.54° (5.54°) y en el izquierdo 15.80° (4.87°). El signo de entrecruzamiento fue positivo en el lado derecho en 7 casos (7.69%), izquierdo 4 casos (4.40%) y bilateral en 22 casos (24.18%).
+
+A continuación se muestran los resultados obtenidos en la estimación del modelo de regresión logística por nivel de medición del ángulo de versión acetabular.
+
+Nivel 1. Se obtuvo un OR de 0.89 [0.85-0.93], lo cual muestra que a mayor valor de ángulo de versión acetabular mayor protección de tener entrecruzamiento positivo. El área bajo curva ROC fue de 0.80 [0.73-0.87] (Gráfico 1). Sin embargo, el test de bondad de ajuste del modelo rechaza la independencia de los subgrupos (p= 0.10).
+
+
+
+
+
+ 
+
+Nivel 2. Se obtuvo un OR de 0.87 [0.83-0.92], lo cual muestra que a mayor valor de ángulo de versión acetabular mayor protección de tener entrecruzamiento positivo. El área bajo curva ROC fue de 0.82 [0.76-0.88] (Gráfico 2). El test de bondad de ajuste del modelo no rechaza la independencia de los subgrupos del modelo (p= 0.40).
+
+
+
+
+
+Gráfico 2. Muestra curva ROC del ángulo de versión acetabular corregido en tres planos en el nivel 2. 
+
+ 
+
+El punto de corte obtenido fue de 4.8°, lo cual tiene una sensibilidad de 74.00% y especificidad de 71.43%, clasificando en forma correcta al 72.16% de los pacientes. El valor predictivo positivo fue 52.27% y el negativo 91.67% (Tabla I).
+
+
+
+
+
+ 
+
+Nivel 3. Se obtuvo un OR de 0.88 [0.85-0.92], lo cual muestra que a mayor valor de ángulo de versión acetabular mayor protección de tener entrecruzamiento positivo. El área bajo curva ROC fue de 0.81 [0.74-0.87] (Gráfico 3). El test de bondad de ajuste del modelo no rechaza la independencia de los subgrupos (p= 0.55).
+
+
+
+
+
+Gráfico 3. Muestra curva ROC del ángulo de versión acetabular corregido en 3 planos en el nivel 3.
+
+ 
+
+El punto de corte obtenido fue de 11.3°, lo cual tiene una sensibilidad de 80.00% y especificidad de 73.02%, clasificando en forma correcta al 73.30% de los pacientes. El valor predictivo positivo fue 54.05% y el negativo 90.20% (Tabla I).
+
+Nivel 4. Se obtuvo un OR de 0.88 [0.84-0.92], lo cual muestra que a mayor valor de ángulo de versión acetabular mayor protección de tener entrecruzamiento positivo. El área bajo curva ROC fue de 0.78 [0.71-0.85] (Gráfico 4). Sin embargo, el test de bondad de ajuste del modelo rechaza la independencia de los subgrupos(p= 0.09).
+
+
+
+
+
+ 
+
+Nivel 5. Se obtuvo un OR de 0.84 [0.78-0.90], lo cual muestra que a mayor valor de ángulo de versión acetabular mayor protección de tener entrecruzamiento positivo. El área bajo curva ROC fue de 0.76 [0.69-0.84] (Gráfico 5). Sin embargo, el test de bondad de ajuste del modelo rechaza la independencia de los grupos (p= 0.00).
+
+
+
+
+
+Gráfico 5. Muestra curva ROC del ángulo de versión acetabular corregido en 3 planos en el nivel 5.
+
+ 
+
+Nivel 6. Se obtuvo un OR de 0.84 [0.78-0.90], lo cual muestra que a mayor valor de ángulo de versión acetabular mayor protección de tener entrecruzamiento positivo. El área bajo curva ROC fue de 0.70 [0.62-0.79] (Gráfico 6). El test de bondad de ajuste del modelo no rechaza la independencia de los subgrupos (p= 0.55). El punto de corte obtenido fue de 14.6°, lo cual tiene una sensibilidad de 64.00% y especificidad de 65.08%, clasificando en forma correcta al 64.77% de los pacientes. El valor predictivo positivo fue 42.11% y el negativo 82.00% (Tabla I).
+
+
+
+
+
+Gráfico 6. Muestra curva ROC del ángulo de versión acetabular corregido en 3 planos en el nivel 6.
+
+ 
+
+Discusión
+
+El PFA tipo Pincer focal presenta un conflicto mecánico en la mitad más cefálica del acetábulo. Entre los hallazgos que sustentan esto se encuentra el SE, el cual, traduce una retroversión acetabular proximal. Consecuente con lo anterior, en el TC la retroversión acetabular debiese objetivarse, mediante el ángulo de versión acetabular, en una altura acetabular que se correlacione con el lugar anatómico donde se produce el conflicto. El objetivo del presente estudio fue determinar la altura acetabular donde el ángulo de versión acetabular se correlaciona mejor con la presencia de SE positivo, la cual debería ser más cefálico a la medida clásica del ángulo de VA(2,5).
+
+Los datos obtenidos concuerdan con lo planteado en el párrafo anterior, observándose que, a medida que se desciende de cefálico a caudal, se produce una caída de la sensibilidad del ángulo de VA en diagnosticar SE positivo. En el caso de la especificidad, se observa que ésta también disminuye, aunque en forma más gradual que la sensibilidad.
+
+Tanto el nivel 2 y el nivel 3 presentan discriminación muy buena con un área bajo curva de ROC de 0.82 [0.76-0.88] y de 0.81 [0.74-0.87] respectivamente. Sin embargo, el nivel 3 con el punto de corte obtenido para el diagnóstico de retroversión (11.3°) presenta valores mayores de sensibilidad y especificidad respecto al nivel 2.
+
+Este hallazgo es importante, porque en la actualidad los radiólogos en los informes de tomografía axial computada sólo informan la medida del ángulo de versión acetabular medida en la región donde el acetábulo es más profundo. El reporte de ángulo de versión acetabular por niveles no se realiza de rutina, porque es una técnica de obtención de imagen que consume tiempo(7).
+
+Se propone medir el ángulo de versión acetabular de rutina a 9mm del borde craneal de acetábulo, con el objetivo de apoyar el diagnóstico de Pinzamiento acetabular tipo Pincer, ofreciendo al cirujano otra herramienta para el diagnóstico y la planificación de la cirugía.ConclusionesLa medida del ángulo de versión acetabular a 9 mm del borde craneal del acetábulo tiene mayor capacidad predictiva de la presencia de signo de entrecruzamiento positivo.
+
+El ángulo de versión acetabular medido en la región más profunda del acetábulo (medida clásica) tiene una mala discriminación para la presencia de signo de entrecruzamiento positivo.

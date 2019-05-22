@@ -1,0 +1,408 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082015000100004
+Control de calidad en imagen por resonancia magnética: Evaluación de parámetros de calidad en protocolos de neuroimagen
+
+
+
+Resumen: La resonancia magnética juega un rol muy importante en neuroimagen debido al desarrollo de secuencias que permiten conocer aspectos estructurales y funcionales del cerebro, tales como la DTI y la resonancia magnética funcional. El análisis de las imágenes en neuroimagen es de carácter cuantitativo, esto requiere que las imágenes sean de una elevada calidad. Con el fin de asegurar la obtención de esta elevada calidad de imagen requerida se ha elaborado un protocolo de control de calidad exclusivamente diseñado para neuroimagen. Este protocolo abarca la evaluación de 5 parámetros de calidad: exactitud geométrica, uniformidad de imagen, SNR, posición del corte y espesor del corte. Se han adquirido las imágenes por resonancia magnética de 3 maniquíes, analizando las imágenes de acuerdo a la metodología propuesta para cada parámetro. Los resultados han sido variados, en algunos parámetros se han obtenido resultados satisfactorios y en otros no. Se recomienda llevar a cabo este protocolo propuesto respetando la metodología y tomando en cuenta las consideraciones que se citan en este trabajo.
+
+Palabras clave: Control de calidad, Imagen tensor de difusión (DTI), Maniquíes, Neuroimagen, Resonancia magnética funcional.
+
+ 
+
+ 
+
+Introducción
+
+La neuroimagen consiste en el uso de varias técnicas de imagen que logran obtener información estructural y funcional del cerebro. Dentro de las técnicas de imagen en neuroimagen se cuenta, la tomografía computarizada (TC), resonancia magnética (RM), tomografía computarizada por emisión de fotón único (SPECT), tomografía por emisión de positrones (PET).
+
+El análisis en neuroimagen es más bien cuantitativo, debido a esto último la cuantificación precisa requiere imágenes de gran exactitud.
+
+Como veremos más adelante la resonancia magnética es una técnica de imagen que, por su principio de funcionamiento y el diseño de los equipos, es muy susceptible a la aparición de artefactos que deterioran la calidad de imagen, dificultando de esta manera el posterior análisis a través de las distintas técnicas de cuantificación en neuroimagen.
+
+Los controles de calidad en resonancia magnética que se han publicado hasta la fecha sólo tienen en cuenta los ajustes necesarios para lograr una buena imagen diagnóstica. Sin embargo, para neuroimagen es necesario controles de calidad más dirigidos. Por este motivo el objetivo de este trabajo es establecer un protocolo de control de calidad para secuencias propias de neuroimagen en resonancia magnética.
+
+Se llevaron a cabo las pruebas de control de calidad propuestas para este protocolo, para ello se utilizaron maniquíes especiales para estos objetivos. Se presentan los resultados de dichas pruebas y el análisis exhaustivo de ellos.
+
+La realización de este trabajo estuvo en el marco de un estudio de las anomalías de los patrones de activación de la resonancia magnética funcional en reposo y su relación con las alteraciones de sustancia blanca detectadas mediante imágenes de DTI. Cabe destacar que actualmente la Sociedad Española de Física Médica (SEFM), junto con la Sociedad Española de Protección Radiológica (SEPR) y la Sociedad Española de Radiología Médica (SERAM) elaboraron, en el marco del desarrollo de este trabajo, el "Protocolo Español de Control de Calidad en Radiodiagnóstico, revisión 2010. Por primer año se va a incluir a la resonancia magnética.
+
+ 
+
+Neuroimagen: Rol de la resonancia magnética
+
+La resonancia magnética puede producir no sólo imágenes morfológicas sino también funcionales y su abanico de indicaciones se amplía día a día, invadiendo el terreno de otras modalidades (TC, angiografía, PET, ecografía, etc.). Actualmente existen dos técnicas en RM que están llevando el liderazgo en la investigación, la resonancia magnética funcional (RMf) y DTI.
+
+ 
+
+Cuantificación de imágenes
+
+En la práctica clínica la forma más habitual de valorar las imágenes médicas sigue siendo la inspección visual, la cual, en ocasiones, no permite extraer toda la información posible de las imágenes. Para ello es necesario cuantificar, es decir, determinar alguna característica de interés presente en las imágenes. Esta característica puede ser una región determinada, volúmenes, niveles de gris en localizaciones específicas, evoluciones temporales, formas, tamaños, deformaciones, etc.
+
+Las principales técnicas de cuantificación de imágenes médicas son:
+
+ Segmentación: consiste en efectuar una delimitación de las estructuras de interés.
+
+ Atlas de Talairach: fue concebido originalmente para proporcionar un sistema de coordenadas estándar para la localización de estructuras cerebrales en un espacio estereotáxico y ha sido ampliamente utilizado en estudios neuroclínicos y de planificación quirúrgica.
+
+ Creación de mapas paramétricos estadísticos (SPM): Los SPM constituyen una herramienta informática cuya finalidad es el diseño y análisis de estudios estadísticos mediante imágenes PET, SPECT, RM o RMf. La estadística se efectúa sobre toda la imagen, analizando de forma independiente todos los vóxeles que la componen.
+
+ Fusión de imágenes multimodalidad: permite integrar información anatómica y funcional aportada por distintas técnicas de diagnóstico.
+
+Para lograr buenos resultados en estas técnicas cuantitativas es necesario que las imágenes sometidas a ellos sean precisas y de una gran calidad de imagen. Es por esto que surge la necesidad de establecer un protocolo de control de calidad exclusivo para neuroimagen.
+
+ 
+
+Control de Calidad
+
+El Control de Calidad es una parte integral de la Garantía de Calidad, consiste en una serie de distintos procedimientos técnicos que aseguran la producción de un producto de calidad, es decir de una imagen de una alta calidad diagnóstica.
+
+El protocolo en construcción pretende establecer las pruebas que razonablemente y dentro de las limitaciones de material y recursos humanos existentes, permitan llevar a cabo un control de calidad adecuado a las necesidades y posibilidades de las unidades de diagnóstico que emplean resonancia magnética.
+
+ 
+
+Protocolo de Calidad para estudios de neuroimagen
+
+Los controles de calidad que actualmente existen no tienen la especificidad adecuada para las secuencias de neuroimagen. Es por esto que es necesario establecer un protocolo de control de calidad específico para estudios de neuroimagen.
+
+En este trabajo se propone que los parámetros de control de calidad más relevantes para incluir en un protocolo exclusivo para estudios de neuroimagen por resonancia magnética serán los siguientes:
+
+ Exactitud geométrica.
+
+ Uniformidad de señal.
+
+ Relación señal-ruido.
+
+ Posición y espesor del corte.
+
+ 
+
+Exactitud geométrica
+
+Se refiere a la capacidad del sistema de reproducir una imagen que conserve las mismas características geométricas del objeto bajo estudio. Los parámetros que tienen mayor protagonismo en la obtención de una imagen fiel geométricamente al objeto son: la homogeneidad del campo y la linealidad de los gradientes. Una falta de linealidad del gradiente tendrá serias consecuencias para poder llevar a cabo la codificación de forma correcta.
+
+ 
+
+Uniformidad de la intensidad de imagen
+
+El equipo de resonancia magnética debe producir una señal constante cuando el objeto visualizado tiene características homogéneas, es decir que las imágenes de resonancia magnética obtenidas deben tener el mismo nivel de intensidad si pertenecen a la misma región anatómica que se está estudiando, en el caso de un maniquí en el que la solución es homogénea en toda la estructura la imagen obtenida debiera tener el mismo nivel de intensidad.
+
+Dentro de los parámetros que podemos citar que guardan relación con la Uniformidad de la Imagen, están: Homogeneidad del campo magnético principal, diseño de la bobina utilizada en la adquisición y efecto de las corrientes de Eddy.
+
+Relación Señal-Ruido (SNR)
+
+La relación señal-ruido en resonancia está relacionada directamente con el tamaño del vóxel. Los parámetros que afectan al tamaño del vóxel son el field of view (FOV), número de codificaciones de fase, frecuencia, espesor de corte, cantidad de excitaciones (Nex) y ancho de banda. Aparte de estos parámetros manipulables en el momento de planificar la secuencia de adquisición que se utilizará, la obtención de una alta SNR también está condicionada por la integridad en el funcionamiento de la bobina receptora que se esté utilizando en el momento de la adquisición, así una descalibración de algún elemento de la bobina, conllevará a aumentar el ruido existente de tal manera de reducir la SNR. Por último, también juega un rol importante para obtener una buena SNR la intensidad y la homogeneidad del campo magnético principal.
+
+ 
+
+Posición del corte
+
+Con este parámetro se pretende asegurar que los cortes programados a partir de una imagen de localización se obtienen en las posiciones reales del paciente o del objeto que se esté estudiando, o si existe un desajuste.
+
+Si se observan diferencias iguales entre la posición nominal y la real en distintos cortes, la causa del error debe estar en el propio desplazamiento de la camilla. Cuando esto no es así, es decir en determinadas posiciones no existe desajuste entre el corte nominal y el real y en otras sí, las causas deben buscarse en la calibración de los gradientes o en una falta de homogeneidad en el campo magnético. En estos últimos casos, se detectarán también variaciones en la exactitud geométrica de las medidas.
+
+ 
+
+Espesor del corte
+
+Con este parámetro se intenta determinar la exactitud de los espesores de corte especificados. Un desajuste de los espesores de corte, además de que éstos sean demasiado finos o demasiado gruesos, puede también dar a lugar a cambios indeseados en la resolución de la imagen, contraste inadecuado o una variación de la relación señal-ruido.
+
+Los factores que pueden afectar el espesor de cortes son forma del pulso de RF, homogeneidad del campo magnético, linealidad del gradiente, corrección de la corriente de Eddy.
+
+ 
+
+Materiales y métodos
+
+Materiales
+
+Adquisición
+
+Equipo de RM: Las imágenes de los maniquís fueron adquiridas en el Servicio de Resonancia Magnética del Hospital Clínico de Barcelona, en un equipo Siemens 3T TIM Trio (Siemens, Erlangen, Germany).
+
+Bobinas de RF: Se utilizó la antena "Head Matrix", la cual es estrictamente receptora, en su modo dual, en este modo actúa como bobina array con 8 elementos.
+
+Protocolo de Adquisición: Se realizó parte del protocolo de neuroimagen establecido en el Servicio de Resonancia Magnética del Hospital Clínico de Barcelona.
+
+MPRAGE 3D potenciadas en T1 cuyos factores técnicos de adquisición son: TR/TE: 2050/2.41 ms. Matrix= 256 x 256, FOV= 22 cm, se adquirieron 192 imágenes en el plano axial de 0.90 mm de grosor, sin gap entre las imágenes, el tamaño del vóxel es de 0.86*0.86*0.90 mm.
+
+Imágenes DTI: TR/TE 7600/89ms. bo= 1000s/mm2 Matrix= 250 x 250, FOV= 20cm, se adquirieron 30 repeticiones de 60 imágenes de 2 mm de grosor, sin gap entre las imágenes, el tamaño del vóxel es de 2.049*2.049*2 mm. Imágenes Funcionales: TR/TE: 2000/29ms, Matrix= 80 x 80, FOV= 24cm, 90 adquisiciones de 4 mm de grosor, sin gap entre las imágenes, el tamaño del vóxel es de 3.0*3.0*4.0 mm.
+
+ 
+
+Maniquíes
+
+Se utilizaron los denominados "MagNET TEST OBJECTS". Caracterización Química: Solución acuosa de Sulfato de Cobre (II) (Figura 1).
+
+
+
+
+
+Figura 1. MagNET TEST OBJECTS. Solución acuosa de Sulfato de Cobre.
+
+
+
+Para el posterior análisis de los resultados se les ha asignado la siguiente denominación a los maniquíes de control de calidad:
+
+Maniquí N° 1: corresponde al maniquí MagNET diseñado para la evaluación de la distorsión geométrica y espesor del corte en resonancia magnética.
+
+Maniquí N° 2: corresponde al maniquí MagNET diseñado para la evaluación de la correcta posición del corte programado en resonancia magnética.
+
+Maniquí N° 3: esfera diseñada para la evaluación de la homogeneidad de campo, en nuestro caso ha sido utilizada para evaluar la uniformidad de la intensidad en la imagen.
+
+ 
+
+Procesamiento de Imágenes
+
+Para el procesamiento y análisis de las imágenes de los maniquíes se utilizaron los siguientes softwares:
+
+ Image J ( http ://rsbweb.nih.gov/ij), Utilizado en la totalidad de las pruebas.
+
+ MRIcro/MRIcron (www.mricro.com). Utilizado en la totalidad de las pruebas.
+
+ SPM5 (Statistical Parametric Mapping), (http://www.fil.ion.ucl.ac.uk/spm). Utilizado en la preparación de imagenes de prueba de exactitud geométrica.
+
+ FSL (http://www.fmrib.ox.ac.uk/fsl). Utilizado en la preparación de imágenes de prueba de exactitud geométrica.
+
+ 
+
+Métodos
+
+Adquisición
+
+Se realizó la adquisición de la imagen de los 3 maniquíes con parte del protocolo de neuroimagen establecido, imágenes ponderadas en T1 MPRAGE3D axial, DTI, y una secuencia funcional para el maniquí 3.
+
+Procesamiento y análisis de las imágenes:
+
+Exactitud Geométrica:
+
+Este parámetro se evaluó de tres formas distintas:
+
+ ¿Existe distorsión geométrica en las imágenes de resonancia magnética?
+
+Se realizaron dos medidas en el plano axial de la imagen T1 y con la imagen FA y distintos valores de gradiente en las imágenes DTI. Se ha medido el diámetro transversal y horizontal de la imagen, tal como muestra la figura 2.
+
+
+
+
+
+Figura 2. Diámetros transversal y horizontal de la imagen de los maniquíes.
+
+
+
+ ¿Qué pasa con las diferentes direcciones de gradiente en la adquisición de DTI?
+
+Se repitieron las medidas para las 30 direcciones de gradiente utilizadas en la DTI para poder evaluar el patrón de distorsión a medida que cambiaba la dirección del gradiente.
+
+ ¿La distorsión es lineal?
+
+Para poder realizar esta cuantificación se hicieron dos mediciones. En el maniquí N°1 se realizaron 6 medidas en 6 direcciones (3 horizontales y 3 verticales) de unos puntos diseñados en el maniquí 1 para tales efectos y se obtuvo el coeficiente de variabilidad:
+
+
+
+El segundo método consistió en identificar visualmente la zona en el maniquí N°1 que presentaba la mayor distorsión en las imágenes y realizar la medida del ángulo de distorsión y la distancia entre los dos puntos periféricos al central en las 30 direcciones de gradiente de la imagen DTI.
+
+Se ha realizado la construcción de la imagen FA a través de FSL y se han hecho las medidas en esta imagen, con el fin de evaluar la distorsión de la imagen resultante.
+
+ 
+
+Uniformidad de Imagen
+
+Se evaluó en la imagen de resonancia magnética del maniquí N° 3 en la secuencia
+
+T1.MPRAGE 3D axial. Esta se cuantificó a través de la Uniformidad Fraccional, que se define como, el porcentaje de pixeles con valores entre el + 10% de la intensidad de señal promedio en la ROI.
+
+
+
+ 
+
+SNR:
+
+Para calcular la SNR se siguieron los siguientes pasos:
+
+1. Medida de la señal.
+
+2. Medida del ruido.
+
+3. Cálculo de la SNR.
+
+Medida de la señal: Se crearon 5 regiones de interés (ROI) de un tamaño de 20 x 20 pixeles sobre la imagen del maniquí 3. Se calculó la intensidad media de cada ROI y posteriormente la intensidad media de las 5 ROI.
+
+Medida del ruido: Creación de 5 ROI de 20 x 20 pixeles sobre el fondo de la imagen del maniquí 3, estas regiones estaban libres de cualquier artefacto. Se calculó la media de las desviaciones estándar de las 5 ROI y se calculó la SNR de la siguiente manera (Figura 3).
+
+
+
+
+
+Figura 3. Medida del ruido: Creación de 5 ROI de 20 x 20 pixeles sobre el fondo de la imagen del maniquí 3.
+
+ 
+
+
+
+ 
+
+Cálculo de la SNR: Fue calculada como el cociente entre la señal y el ruido calculados anteriormente:
+
+
+
+ 
+
+Posición del corte
+
+Se utilizó el maniquí N° 2 cuyo diseño está especializado para verificar este parámetro. El maniquí contiene dos barras de vidrio anguladas y 4 barras paralelas (Figura 4).
+
+
+
+
+
+Figura 4. Posición del corte estudiado mediante dos barras de vidrio anguladas y 4 barras paralelas del maniquí N° 2.
+
+ 
+
+Para calcular el correcto posicionamiento del corte se siguieron los siguientes pasos, todos en la misma imagen axial adquirida, sin reformatearla:
+
+1. Calcular el factor de corrección.
+
+2. Medida de la distancia entre las barras anguladas en el corte a verificar.
+
+3. Evaluar el error del posicionamiento del cort Cálculo del factor de corrección: Se mide la distancia de las barras paralelas en la imagen obtenido por resonancia magnética del maniquí 2 (RDM). La distancia real entre ellas es de 120 mm (RDA). El factor de corrección viene dado por:
+
+
+
+Medida de la distancia entre las barras anguladas en el corte a verificar: Se realizó la medida de la distancia que separa las dos barras anguladas en una imagen axial del maniquí 2 adquirido.
+
+Evaluación del error del posicionamiento del corte (Figura 5):
+
+
+
+
+
+Figura 5. Error del posicionamiento del corte.
+
+
+
+Dónde: DRA, Distancia de rampas anguladas.
+
+FC, Factor de corrección.
+
+SR, Separación de rampas.
+
+Posición del corte (calculado) = (posición del 1° corte) + {(número del corte – 1) * (espesor del corte)}
+
+Error= posición del corte (calculado) – posición del corte (medido).
+
+ 
+
+Espesor del corte
+
+La forma típica de medir este parámetro es mediante la utilización de maniquíes con rampas de ángulo conocido, como es el caso del maniquí N°1.
+
+Se creó un perfil a través de uno de las rampas en la imagen (Figura 6).
+
+
+
+
+
+Figura 6. Espesor del corte medido utilizando rampas de ángulo conocido.
+
+
+
+Para el maniquí N° 1, el ángulo entre las rampas es de 11,3°. El espesor de corte se evaluó en la imagen T1 3D MPRAGE axial.
+
+ 
+
+Resultados
+
+Exactitud Geométrica:
+
+ ¿Existe distorsión geométrica en las imágenes de resonancia magnética?
+
+Existe una distorsión geométrica en las imágenes de resonancia magnética, cuya magnitud y comportamiento depende de la secuencia con la cual fue adquirida la imagen:
+
+T1 MPRAGE3D: Distorsión geométrica vertical 0,883 y horizontal -0,135.
+
+FA: Distorsión geométrica vertical y horizontal -0,271.
+
+Imagen T1 MPRAGE: Existe una distorsión en la imagen en la cual se alarga en el sentido vertical y se encoge en el sentido horizontal.
+
+Imagen FA: Existe una distorsión homogénea, ya que en la imagen el tamaño real del objeto se reduce en los dos sentidos en casi el mismo porcentaje.
+
+ ¿Qué pasa con las diferentes direcciones de gradiente en la adquisición de DTI?
+
+En la adquisición fueron aplicadas 30 direcciones de gradiente, para cada una de ella la distorsión fue distinta, tanto en el sentido vertical como en el sentido horizontal.
+
+Sin embargo, para construir la imagen FA donde se promedian estas 30 imágenes la distorsión resultante no es de una distorsión muy extrema y mantiene las proporciones de la imagen, ya que tiene igual valor para los dos sentidos.
+
+ ¿La distorsión es lineal?
+
+Coeficiente de Variabilidad (CV): existe una distorsión no lineal, ya que existen diferencias entre los coeficientes de variación tanto horizontales como verticales. Esta distorsión no lineal también es dependiente de la secuencia de adquisición que se utilizó.
+
+FSL: Se han realizado las medidas en la imagen FA reconstruida por FSL, dando como resultado que sólo existe una leve distorsión en la imagen en el sentido horizontal, se reduce el tamaño de la imagen en un 0.27%.
+
+ 
+
+Uniformidad de imagen
+
+En una inspección visual de la imagen de resonancia magnética del maniquí Nº3 se observó que existía una pobre homogeneidad de las intensidades en la imagen, observando un aumento progresivo del nivel de intensidad desde la periferia al centro. Se observó que el patrón de cambio de intensidad es una elipse, aumentando el nivel de la intensidad desde la periferia al centro de la imagen (Figura 7).
+
+
+
+
+
+Figura 7. Uniformidad de imagen. Pobre homogeneidad de las intensidades en la imagen con aumento progresivo del nivel de intensidad desde la periferia al centro.
+
+
+
+Al cuantificar la falta de la homogeneidad de la imagen, se obtuvo una uniformidad fraccional de 24% (Figura 8).
+
+
+
+
+
+Figura 8. Uniformidad de imagen. Cuantificación de la homogeneidad de la imagen.
+
+
+
+SPM: SPM antes de realizar postprocesos con la imagen de resonancia, realiza una corrección de inhomogeneidad en las intensidades de la imagen, denominada Bias Correction. Una vez aplicado este proceso en la imagen al realizar los perfiles de intensidad, en la inspección visual, se observa una notoria mejora en la homogeneidad de las intensidades de la imagen, con una uniformidad fraccional de 94% (Figura 9).
+
+
+
+
+
+Figura 9. Corrección de la inhomogeneidad de las intensidades de la imagen (Bias Correction).
+
+
+
+SNR: La SNR calculada fue de 180, es decir la señal de la imagen del maniquí N° 3 es 180 veces mayor que la señal del ruido adquirido en la adquisición de la secuencia T1 MPRAGE 3D.
+
+SNR Funcional: Se evaluó la estabilidad de la SNR a lo largo de la adquisición de la secuencia funcional, dando como resultado una variabilidad a lo largo del tiempo, cuyo valor mínimo esta en 150, valor máximo de 260, un promedio de 200 y una desviación estándar de 25.
+
+Posición del corte. Se han realizado las medidas en 7 cortes en la imagen dando como resultado un error promedio de 0.581 mm, es decir entre el corte planificado y el corte real hay una diferencia de posición de alrededor de 1/2 mm.
+
+Espesor del corte. Se calculó el espesor de corte en la imagen, según lo planificado en la secuencia el espesor de corte de la imagen debiera ser de 1 mm. El espesor de corte calculado es de 1.736 cm.
+
+ 
+
+Discusión
+
+Protocolo de control de calidad en neuroimagen: La mayor dificultad en la elaboración de dicho protocolo ha sido la falta de bibliografía existente acerca del tema. Pese a esto se ha construido el protocolo gracias a una búsqueda bibliográfica basada de la investigación es este campo y principalmente a la experiencia de expertos.
+
+Tiempo requerido en la adquisición de las imágenes: En promedio se han utilizado unos 30 a 45 minutos en la adquisición de los 3 maniquíes.
+
+ 
+
+Parámetros en el protocolo de control de calidad en neuroimagen:
+
+Exactitud geométrica. Generalmente para comparar DTI se realiza fusionándola con la imagen potenciada en T1, esta última nos brinda la información anatómica. Tal como se ha evidenciado en los resultados la distorsión experimentada en T1 es diferente a la experimentada en la imagen DTI, por lo que al fusionarlas induciríamos un error, esto perjudicaría a la interpretación de los resultados. Para el análisis y procesamiento de las imágenes por resonancia magnética es de suma importancia que la imagen adquirida sea fiel reflejo de la estructura estudiada. Si existiera algún grado de distorsión, primero que todo es necesario identificarlo de la manera que se ha realizado en este trabajo, una vez identificado hay que cuantificarlo y evaluar si mantiene un patrón fijo dependiendo de la secuencia que se utilice y si es así, diseñar y construir método de corrección para no añadir un error de posición en las estructuras estudiadas en los diferentes postprocesos a los cuales se puede ver sometida la imagen.
+
+Uniformidad de imagen. La antena que se utilizó para la adquisición contiene 8 elementos que recibieron la señal para formar la imagen, atribuimos esta falta de homogeneidad a una posible descalibración de estos elementos, ponderando más la señal en unas zonas que en otras. Sin embargo, en SPM existe la corrección de inhomogeneidades que se conoce con el nombre de "bias correction", al evaluar la eficiencia de dicho proceso se comprobó que el valor de U.F. aumentó desde un valor del 24 al 94%. Estos resultados se darán a conocer a la empresa para su análisis y para la identificación y posterior corrección del desajuste.
+
+SNR. Las diferencias en los valores de SNR en las distintas adquisiciones de la secuencia funcional en la inspección visual no son de fácil reconocimiento, sólo al momento de cuantificar el parámetro podemos darnos cuenta de las diferencias que existen.
+
+Posición del corte. Los resultados de esta prueba dan validado el mecanismo que realiza el equipo para llevar a cabo el corte de acuerdo a la posición del corte planificado.
+
+Espesor del corte. El error en el espesor de corte debiera ser menor que + 10% del espesor planificado. En nuestro caso el espesor de corte planificado es de 1 mm por lo que los valores debieran variar entre los 0.9 y 1.1 mm. Los resultados están fuera del rango de valores permitidos, con un espesor de corte calculado de 1.736 mm. La resolución de la imagen se ve empobrecida comparada con la que se esperaba con un espesor de corte de 1 mm, en cuanto al contraste tampoco es el esperado. Estos resultados se dieron a conocer a la empresa del equipo para una calibración de este parámetro.
+
+ 
+
+Conclusión
+
+La confección de este protocolo de control de calidad de neuroimagen ha sido útil principalmente para la identificación, cuantificación y caracterización de las anomalías presentes en las imágenes que serán sometidas a una técnica de cuantificación. Una línea futura de continuación de este trabajo sería la optimización del protocolo, confección de programas que automaticen el análisis de las imágenes y lograr desarrollar métodos que logren corregir dichas anomalías en las imágenes.

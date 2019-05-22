@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082016000200007
+¿Son reproducibles las mediciones dosimétricas a bajas dosis en cardiología intervencionista?
+
+ 
+
+Resumen. Existen varios métodos para medir la dosis de radiación absorbida por los profesionales ocupacionalmente expuestos, pero se desconoce si estos son reproducibles entre sí a bajas dosis. El objetivo del estudio fue determinar el grado de reproducibilidad entre los dosímetros termoluminiscentes (TLD) y los dosímetros luminiscentes ópticamente estimulados (OSL), en condiciones simuladas. Se realizó un estudio de reproducibilidad, empleando 2 tipos de dosímetros, los cuales se dispusieron en la ubicación de trabajo del médico intervencionista dentro del pabellón. Se empleó un fantoma antropomórfico como paciente y se replicaron las mismas proyecciones, colimación y técnicas radiológicas empleadas en las últimas 30 coronariografías, examen considerado de baja exposición en el contexto de cardiología intervencionista. Se aplicó el coeficiente de correlación de concordancia de Lin, obteniéndose un valor de –0,006 con un IC al 95% de –0,069 a 0,056 para los dosímetros TLD con OSL. Los datos obtenidos mostraron una escasa reproducibilidad a bajas dosis de radiación.
+
+Palabras clave: Reproducibilidad de resultados. Monitoreo de radiación. Dosímetros termoluminiscentes. Dosímetro luminiscente opticamente estimulado. 
+
+ 
+
+Introducción
+
+La mayor parte de las dosis de radiación que recibe el staff de profesionales que trabaja en unidades de imagenología provienen de técnicas como fluoroscopia, cinefluorografía y sustracción digital, dosis que por ley deben ser monitoreadas; para ello se emplean unos pequeños dispositivos conocidos como dosímetros, los cuales registran y almacenan las dosis recibidas hasta el momento de su lectura. Actualmente, los dosímetros termoluminiscentes (TLD) son los más frecuentemente utilizados en dosimetría personal puesto que es una técnica pasiva, de bajo costo, que integra detectores fabricados en base a materiales cristalinos y de vidrio (LiF:Mg,Ti, CaF:Mn, CaSO4:Dy, Li2B4O7, vidrios de aluminiofosfato y otros)1. Estos cristales tienen la capacidad de atrapar los electrones generados por la irradiación en sus órbitas y de esta forma se puede almacenar la información dosimétrica por un largo periodo de tiempo. Para leer la dosis acumulada en un dosímetro TLD, este es calentado a una temperatura aproximada de 400 °C, lo que provoca la emisión de luz luminiscente, que es proporcional a la dosis acumulada. Es una técnica destructiva en la que la señal es completamente removida del lector una vez que este ha sido calentado2,3.
+
+El otro tipo de dosímetro más nuevo en el mercado nacional es el ópticamente estimulado (OSL), el cual utiliza materiales y un proceso similar a los TLD, pero la diferencia es que lee la información acumulada mediante una luz láser en lugar de calor4. Su alta sensibilidad, precisión, tiempo de lectura más rápido, lectores más simples y más automatizables5 son las principales ventajas de los OSL en comparación con los TLD.
+
+A pesar de las ventajas señaladas de los OSL sobre los TLD, aún en la comunidad científica no se le ha atribuido a ninguna de estas técnicas la condición de «gold estándar dosimétrico», con la cual se deberían comparar todas las demás técnicas que busquen evaluar exactitud diagnóstica. Por lo mismo, los actuales estudios están abocados a comparar otros aspectos, tales como el desvanecimiento, la dependencia angular, dependencia energética, linealidad y reproducibilidad6-8. Con respecto a la reproducibilidad entre TLD y OSL, esta ya ha sido reportada. El año 2011 se publicó un estudio en los EE. UU.9, que fue desarrollado con un nivel de exposición de 120 kV y 80 mAs. A estos niveles energéticos se reportó una buena reproducibilidad con un valor del coeficiente de variación de un 3,3% (2,9-3,6); en este caso se evaluó la reproducibilidad entre dosímetros de una misma técnica, todos OSL con distintos números de serie; además, es necesario señalar que en ese estudio se utilizaron haces de radiación directos, distinto a lo estudiado en el presente estudio, que mide dosis secundarias principalmente.
+
+En la práctica clínica lo habitual es encontrar distintas técnicas dosimétricas. En Chile la situación es similar, siendo las más frecuentes TLD, OSL y los dosímetros fílmicos. En el caso de los dosímetros fílmicos, su utilización está en descenso porque requieren salas especiales, como cuartos obscuros y salas de revelado. Además presentan mucha variación entre films, lotes y problemas con la dependencia energética10. Otro elemento a considerar es que los profesionales que trabajan dentro de las unidades de cardiología intervencionista son los que reciben la mayor exposición ocupacional dentro de los profesionales de la salud11-13. La principal razón de esto es que la cardiología intervencionista a través de exámenes imagenológicos permite a los especialistas evitar complicadas cirugías invasivas, las cuales en algunos pacientes podrían no ser toleradas debido a su edad, comorbilidades y a la propia enfermedad de base, y así se logran estadías hospitalarias menores14. Es importante conocer cuán concordantes son las mediciones dosimétricas entre sí, de tal manera que eventualmente los dosímetros TLD y OSL puedan ser remplazados o intercambiados, ya sea porque uno de ellos es más sencillo, menos costoso y por lo tanto más costo-efectivo, o porque uno de ellos resulta más seguro y cómodo para el profesional ocupacionalmente expuesto, sobre todo en niveles de exposición extremos, es decir, de baja exposición o de muy alta exposición a rayos-X. Tal vez el nivel menos estudiado es a bajos niveles de exposición. En el contexto de una unidad de cateterismo diagnóstico e intervencionista, los niveles considerados bajos de exposición se generan en los exámenes coronariográficos.
+
+El propósito de esta investigación es conocer el grado de reproducibilidad entre los dosímetros TLD y OSL en el contexto de una unidad de cardiología intervencionista en condiciones experimentales y a un nivel de exposición bajo, niveles que habitualmente se observan en los procedimientos de coronariografía.
+
+Material y método
+
+La recolección de datos de este estudio se llevó a cabo en el Hospital Regional de La Serena, IV región Chile, durante el mes de abril de 2015. Por tratarse de un experimento que no involucra seres humanos, no requiere la autorización del comité de ética del Hospital. El análisis de datos se realizó en la Escuela de Tecnología Médica de la Universidad Viña del Mar.
+
+Se realizó un estudio experimental de reproducibilidad, que buscó evaluar la concordancia entre 2 tipos de dispositivos que miden la dosis efectiva (TLD y OSL). Es importante hacer notar que este estudio no busca evaluar la exactitud de las mediciones registradas por estos dispositivos, para lo cual se necesitaría de una medida patrón o gold estándar, como por ejemplo una cámara de ionización, ni tampoco es un estudio de repetibilidad, los cuales miden la estabilidad de las mediciones de «un instrumento» cuando se mide el mismo parámetro «n» cantidad de veces. En este experimento se posicionó un fantoma antropomorfo de tórax (The Phantom RANDO®, Alderson Research Laboratories Inc., Stamford, CT, EE. UU.) en posición supino prono sobre la camilla, luego se dispusieron los 2 tipos de dosímetros, siempre en la misma ubicación y ángulo respecto al tubo de rayos-X, para cada uno de los 30 procedimientos replicados en un trípode a la altura de la tiroides (1,50 m) y posición de trabajo habitual del médico intervencionista, entre 85 y 95 cm de distancia a la fuente de rayos-X dentro del pabellón de cardiología intervencionista (fig. 1); para cada experimento simulado se utilizó un par de dosímetros TLD y OSL específicos, es decir, se utilizaron finalmente 60 dosímetros en total. El Colegio Americano de Cardiología estipula el uso de 2 dosímetros para el profesional ocupacionalmente expuesto que labora en estas unidades, uno dispuesto debajo del delantal plomado a la altura del tórax y el otro a la altura de la tiroides, fuera del cuello plomado. En este experimento se utilizó la posición tiroidea por el hecho de recibir este dosímetro más dosis de radiación que el situado debajo del delantal plomado, facilitando así su detección por parte de los dosímetros. Adicionalmente, se aseguró la disposición de los dosímetros siempre en la misma posición y orientación angular respecto al tubo de rayos-X. Posteriormente, se replicaron exactamente las proyecciones, tiempos aplicados de fluoroscopia, tiempos de cinefluorografía y técnicas radiológicas empleadas en cada una de las últimas 30 coronariografías reales realizadas en el Hospital de La Serena, lo cual arrojó una técnica promedio de 73,8 ± 24,7 kV y 582 ± 145 mA. Adicionalmente se utilizó una filtración entre 0,1 y 0,3 mm de Cu. La tasa de pulsos fue de 10 pulsos/s en el modo de fluoroscopia y 15 pulsos/s para cinefluorografía; así, con esta configuración experimental, se lograron replicar las condiciones vistas en las 30 últimas coronariografías reales realizadas en el Laboratorio de Cardiología Intervencionista del Hospital de La Serena. Se replicó este procedimiento en particular por ser el de mayor frecuencia en las unidades de cardiología intervencionista y uno de los exámenes considerados de baja exposición llevados a cabo en estas unidades.
+
+
+
+
+
+ 
+
+Dosímetros e instrumentos
+
+Para las mediciones dosimétricas, se emplearon 2 tipos distintos de dosímetros: TLD (LiF Mg; Ti, Harshaw, fabricado por Thermo Fisher Scientific, EE. UU.), suministrados por el Laboratorio de Radioactividad y Termoluminiscencia de la Facultad de Física de la Pontificia Universidad Católica de Chile, lugar donde también se realizaron las lecturas de dichos dosímetros. Según datos del fabricante, estos dosímetros pueden registrar dosis tan pequeñas como 0,01 hasta 1.000 mSv, lo que permitiría medir las cantidades de dosis emitidas por procedimiento en Hemodinamia. Los OSL (Al2O3, Landauer IncConsta, modelo Inlight, EE. UU.) fueron suministrados por la empresa Nuclear Control, Santiago de Chile, mismo lugar donde se leyeron. Según datos del fabricante, estos dosímetros pueden registrar dosis tan pequeñas como 0,01 hasta 10.000 mSv.
+
+La fuente emisora de rayos-X
+
+Corresponde a un angiógrafo marca Siemens, modelo Axiom Artis, año 2013 (Siemens, Múnich, Alemania), equipado con un panel plano, con una cámara de ionización interna, con filtración automática de la radiación mediante filtros de 0,1 a 0,9 mm de cobre.
+
+Análisis estadístico
+
+Para la descripción de los datos se emplean medidas de tendencia central (promedio y mediana) y dispersión (desviación estándar y rango), diagrama de caja (box plot) y diagrama de dispersión. Se estudia la normalidad de los datos mediante la prueba de Ryan-Joiner; en el caso de no normalidad de estos, se transforman mediante logaritmo neperiano. Se analiza la concordancia mediante el coeficiente de correlación concordancia (CCC) propuesto por Lin en 198915, que toma valores entre –1 y 1; si CCC > 0,99 concordancia casi perfecta, de 0,95 < CCC < 0,99 sustancial, de 0,90 < CCC < 0,95 moderada, y si CCC < 0,90 pobre.
+
+Se calculan intervalos de confianza con un nivel de confianza de 95% para la concordancia y se trabaja con un nivel de significación de 0,05.
+
+El registro de datos se realiza en una planilla de Excel y en el análisis se emplean los paquetes estadísticos MINITAB versión 2.1 y MedCalc versión 15.6.1
+
+Resultados
+
+Los parámetros técnicos y las dosis secundarias de radiación experimentales emitidas por el angiógrafo (tabla 1) lograron replicar las condiciones habituales de un examen de baja exposición, las cuales se suelen ver en estudios coronariográficos; se muestran además los datos de las 30 últimas angioplastias a modo de referencia de lo que serían condiciones de exposición altas.
+
+
+
+
+
+ 
+
+En términos absolutos, en el experimento diseñado, la dosis efectiva medida con dosímetros TLD presentó una mediana de 138 μSv, con un rango entre 93-271 μSv. Por su parte, la dosis efectiva medida con dosímetros OSL presentó una mediana de 35,0 μSv, con un rango de valores entre 10,0-140 μSv, (fig. 2).
+
+
+
+
+
+ 
+
+Reproducibilidad
+
+Finalmente, para poder conocer el grado reproducibilidad entre los 2 tipos de dosímetros, se decidió utilizar el test estadístico CCC, ya que permite evaluar el acuerdo entre muestras pareadas. En este test se obtuvo un valor de –0,006 (intervalo de confianza de –0,069 a 0,056), lo que corresponde a una concordancia muy pobre o nula entre las mediciones obtenidas por ambos métodos dosimétricos, lo cual queda muy bien reflejado en el figura 3, donde se aprecia un comportamiento muy desorganizado de los puntos que no permiten establecer una línea de tendencia.
+
+
+
+
+
+ 
+
+Discusión
+
+A la fecha, no existen estudios similares publicados en las bases de datos online Pubmed, Science Direct y EBSCO. Este estudio es inédito, ya que es el primero donde se analizó específicamente el grado de reproducibilidad a bajas exposiciones de radiación entre los dosímetros TLD y OSL, en condiciones simuladas a las de un pabellón de cardiología intervencionista.
+
+El tiempo de fluoroscopia promedio y el producto dosis área logrado en este estudio (3,0 min y 25,4 Gy.cm2 respectivamente) son muy similares a las reportadas por Tsapaki et al.16, quienes reportaron un tiempo de fluoroscopia promedio para la coronariografía de 4,1 min y un producto dosis área de 27,7 Gy.cm2. Por lo tanto, las condiciones en que se realizó este estudio lograron reflejar las exposiciones habituales generadas en los procedimientos de coronariografía a las que se exponen los profesionales ocupacionalmente expuestos de las unidades de cardiología intervencionista.
+
+En cuanto a las dosis efectivas registradas por los dosímetros TLD y OSL (138 μSv y 35 μSv respectivamente), estas resultaron ser muy similares a las reportadas por Lange y von Boetticher17, quienes, para el examen de angiografía coronaria vía acceso radial, reportaron dosis efectivas de un 64 ± 55 μSv. Al comparar los datos de este estudio con los registros dosimétricos de una revisión sistemática realizada por Kim et al.18 (0,02-38 μSv para cateterismo diagnóstico), se observa que solo las medidas dosimétricas registradas con los dosímetros OSL estarían dentro de ese rango; en cambio, los dosímetros TLD registraron en promedio casi 4 veces más dosis efectiva que Lange y von Boetticher. Estos datos sugieren que las medidas dosimétricas registradas por los dosímetros OSL serían más sensibles que los dosímetros TLD, sin embargo, al no existir un gold estándar, resulta imposible atribuir los registros dosimétricos que estarían más cerca del valor real o verdadero.
+
+Tanto la validez como la reproducibilidad dan cuenta de la calidad de las pruebas o test diagnósticos. En este estudio, al someter los dosímetros a muy bajos niveles de exposición, se obtienen mediciones muy dispares entre estos, lo que produce una muy baja o nula concordancia entre los sistemas dosimétricos utilizados. Comparar estos datos resulta un proceso difícil puesto que las pocas publicaciones que en su título reportan análisis de reproducibilidad presentan un enfoque distinto a lo evaluado, por cuanto se limitan a analizar la reproducibilidad entre distintas presentaciones de dosímetros TLD (GR-100, GR-107, TLD-700H y TLD de óxido de aluminio)6, reproducibilidad entre dosímetros OSL con distintos números de serie9 o entre 2 tipos distintos de lectores dosimétricos (Harshaw versión 3500 y 5500). El único estudio que de forma secundaria toca el tema de la reproducibilidad entre distintos tipos de dosímetros a distintas condiciones de exposición es el estudio de Ferrufiño et al.19, el cual fue presentado en el Congreso Regional de Protección Radiológica auspiciado por la Sociedad Brasilera de Radio-protección el año 2013. Los resultados obtenidos por dichos investigadores, específicamente para niveles de radiación desde 0,4 mSv a 1,0 mSv, no presentaron concordancia entre ellos, lo cual es muy acorde a lo reportado en esta investigación, sin embargo, hay que hacer la salvedad que en ese estudio los haces de radiación fueron directos, no dispersos.
+
+La importancia de establecer el grado de reproducibilidad entre las distintas técnicas dosimétricas en condiciones de baja exposición radica en que este conocimiento permite saber si las 2 técnicas pueden ser intercambiadas entre sí, pues de existir un alto grado de reproducibilidad no habría inconvenientes, dado que ambas técnicas arrojarían resultados similares. El hecho de que los datos en esta investigación difieran entre sí indica que al menos una de estas mediciones estaría entregando datos erróneos, ya sea sobrevalorándolos o, lo que sería peor, subvalorándolos, pues el profesional se quedaría con la impresión que sus mediciones estarían bajo los umbrales seguros siendo que en realidad podrían estar sobre dichos valores, efecto que también se replicaría al paciente que se encuentra sometido a dichos procedimientos imagenológicos. Se recuerda que ellos reciben el haz primario de radiación ionizante.
+
+Dadas las enormes discrepancias mostradas en este estudio y en otros, surge como una necesidad imperiosa agregar, al Programa de Evaluación de la Calidad a los Servicios de Dosimetría Personal Externa (PECDPE), un sistema de vigilancia epidemiológica que dé cuenta de los efectos que pudiesen estar sufriendo los pacientes. Al respecto, ya existe una experiencia en curso avalada por la Organización Internacional de Energía Atómica (OIEA) denominada Safety in Radiology Procedures (SAFRAD)20, modelo que muy bien se podría aplicar en Chile.
+
+Conflicto de intereses
+
+Los autores declaran no tener ningún conflicto de intereses.
+
+Agradecimientos

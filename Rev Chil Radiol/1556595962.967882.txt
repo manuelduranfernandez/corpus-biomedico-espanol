@@ -1,0 +1,118 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082009000400003
+REDUCCIÓN DE LOS TIEMPOS DE ADQUISICIÓN DE IMÁGENES POR RESONANCIA MAGNÉTICA UTILIZANDO TÉCNICAS DE COMPRESSED SENSING
+
+Rev Chil Radiol    2009; 15 Supl (1): s10-s16.
+
+REDUCCIÓN    DE LOS TIEMPOS DE ADQUISICIÓN    DE IMÁGENES POR RESONANCIA MAGNÉTICA UTILIZANDO TÉCNICAS DE COMPRESSED SENSING
+
+REDUCTION    OF THE ACQUISITION TIME IN MAGNETIC RESONANCE IMAGING USING COMPRESSED SENSING
+
+ 
+
+Carlos Sing-Long    C(1), Cristián Tejos N, Ph.D(2), Pablo irarrazaval    M, Ph.D(3).
+
+1.  Ingeniero    Civil Electricista, Investigador, Departamento de Ingeniería Eléctrica, Pontificia    Universidad Católica de Chile, Centro de Imágenes Biomédicas, Pontificia Universidad    Católica de Chile.
+
+2.  Profesor    Asistente Adjunto, Departamento de Ingeniería Eléctrica, Pontificia Universidad    Católica de Chile, Centro de Imágenes Biomédicas, Pontificia Universidad Católica    de Chile.
+
+3.  Profesor    Titular, Departamento de Ingeniería Eléctrica, Pontificia Universidad Católica    de Chile, Centro de Imágenes Biomédicas, Pontificia Universidad Católica de    Chile.
+
+ABSTRACT
+
+Introduction: The    acquisition process in Magnetic Resonance Images (MRI) is slow. One approach    to reduce the acquisition times is the reconstruction of undersampled data.    i.e. to acquire less samples that those needed for standard application, and    to reconstruct the unknown samples using mathematical algorithms. We propose    to used reconstruction techniques for undersampled data based on Compressed    Sensing (CS) to decrease the acquisition times, obtaining identical MRI as those    obtained with all samples. Methods: We performed reconstructions of undersampled    data obtained from phantoms and MRI with 60%, 55% and 50% of the samples. Results:    When the number of samples was more that the double of pixels with non cero    intensity, the reconstructions where identical to the original ones. For the    MRI experiment, this was achieved with 60% of the samples, therefore obtaining    a 40% of reduction in the acquisition time. Discussion: Our reconstruction technique    based on CS is an effective way for reducing the acquisition times in MRI.
+
+RESUMEN
+
+Introducción: El    proceso de adquisición de imágenes por resonancia magnética (IRM) es lento.    Una forma para disminuir los tiempos de adquisición es a través de reconstrucciones    de datos submuestreados, es decir tomar menos muestras que las necesarias en    aplicaciones estándares, y reconstruir las muestras faltantes a través de algoritmos    matemáticos. Proponemos utilizar técnicas de reconstrucción de datos submuestreados    basadas en técnicas de Compressed Sensing (CS) para disminuir los tiempos de    adquisición, obteniendo imágenes idénticas a las obtenidas con todas las muestras.    Métodos: Realizamos reconstrucciones de datos submuestreados de fantomas y IRM    con 60%, 55% y 50% de las muestras. Resultados: Cuando el número de muestras    fue mayor al doble del número de pixeles con intensidad cero, las reconstrucciones    obtenidas fueron idénticas a las originales. Para las IRM esto se logró con    60% de las muestras, logrando reducciones del 40% en los tiempos de adquisición.    Discusión: Nuestra técnica de reconstrucción basada en CS es una forma efectiva    para reducir los tiempos de adquisición de IRM.
+
+Palabras clave:    Magnetic resonance imaging, Image reconstruction, Compressed sensing.
+
+ 
+
+INTRODUCCIÓN
+
+La formación de    imágenes por resonancia magnética (MRI, del inglés Magnetic Resonance Imaging)    es una técnica no invasiva utilizada ampliamente para obtener imágenes de alto    contraste en una gran variedad de tejidos. Sin embargo, el tiempo necesario    para adquirir una imagen es largo y se incrementa en forma proporcional al aumento    de ciertos parámetros que definen la calidad deseada (e.g. la resolución, el    número de promedios para mejorar la razón señal a ruido), de modo que existe    un compromiso entre calidad y duración del examen. Diversos métodos han sido    propuestos para reducir el tiempo de adquisición de una imagen, entre los más    populares están aquellos adquieren menos muestras que las necesarias para reconstruir    una imagen estándar, y luego aplican algún algoritmo matemático para estimar    los datos no adquiridos. Estos métodos buscan reconstruir una imagen que satisfaga    un cierto criterio o propiedad y que conserve los valores de las muestras que    fueron adquiridas, condición que se denomina consistencia de datos. En estos    métodos hay generalmente un compromiso entre la exactitud de la imagen obtenida    (i.e. qué tan parecida es a la imagen que se hubiera obtenido con todas las    muestras) y la tasa de submuestreo utilizada (i.e. la proporción entre el número    de muestras que idealmente debiéramos haber obtenido y número de muestras adquiridas).    A las imágenes obtenidas a través de este tipo de técnicas se les denomina imágenes    submuestradas.
+
+Compressed Sensing    (CS)(1) es una técnica creada para reconstruir señales en general    (audio, imágenes, etc.) que han sido submuestreadas y fue utilizada por primera    vez como una técnica de reconstrucción de imágenes submuestreadas de MRI por    Lustig et al.(2). Esta técnica funciona para reconstruir imágenes    que puedan ser representadas con pocos coeficientes, es decir que hay muchos    lugares donde la imagen es igual a cero. Esto sucede frecuentemente en las imágenes    de MRI, por ejemplo alrededor del paciente, ya que el aire no produce señal    alguna y vemos por lo general un fondo negro. El método de reconstrucción de    CS de una imagen submuestreada consiste en probar distintas imágenes que cumplan    con la consistencia de datos, y elegir aquella imagen te tenga la mayor cantidad    de pixeles iguales a cero, proceso al que se le conoce como minimización de    la cuasi-norma l0 de una imagen. Está demostrado matemáticamente    que si se adquieren más muestras que el doble del número de pixeles diferentes    de cero de la imagen (independiente de cuales sean las muestras adquiridas),    entonces la imagen reconstruida será exacta, i.e. idéntica a la que se obtendría    de obtener todas las muestras. Para dar un ejemplo, esto significa que si tengo    una imagen con 100 pixeles, de los que se sabe que hay sólo 40 distintos de    cero (pero    no se sabe dónde están ubicados), me bastaría adquirir 80 muestras para obtener    la imagen ideal, y por consiguiente puedo reducir el tiempo de adquisición en    un 20%.
+
+Desafortunadamente,    no existe una metodología que permita encontrar de forma óptima la imagen que    satisfaga esta minimización y la única manera de encontrar la solución es probando    todas las posibles combinaciones (formalmente se llama a esto un problema NP-completo).    Luego, el tiempo requerido para reconstruir la imagen a partir de las muestras    adquiridas es prohibitivo. Por esta razón, Candes et al.(1) modificaron    el proceso de minimización de la cuasi-norma l0 en CS por una minimización    de la norma \ de las imágenes, i.e. minimizar la suma de las intensidades    de todos los pixeles de la imagen, sujeto a la consistencia de datos. Este nuevo    método de CS puede ser resuelto con programas computacionales estándares, sin    embargo, es necesario ahora conocer una cantidad de muestras considerablemente    mayor que en el caso anterior (las tasas de submuestreo que pueden lograrse    son menores) y en algunos casos, aún cuando se cumpla el requerimiento del número    de muestras adquiridas, puede que la imagen reconstruida no sea idéntica a la    ideal.
+
+Para aprovechar    sus ventajas, Trzasko et al.(3) retomaron el enfoque minimización    de la cuasi-norma l0 en CS y lograron expresarlo como un problema    de minimización convencional y factible de solucionar utilizando aproximaciones    con funciones continuas. Sus resultados experimentales con MRI muestran que    ésta es una técnica de reconstrucción efectiva y permite tasas de submuestreo    mayores a las conseguidas en CS con la norma lr Adicionalmente, Mohimani    et al.(4)demostraron que la reconstrucción a través de este método    es siempre exacta si se adquieren suficientes muestras. Sin embargo, el método    de Trzasko et al. aún posee ciertas dificultades, ya que depende de algunos    parámetros cuyos valores no son fáciles de encontrar.
+
+Enfatizamos tres    ideas principales. Primero, en MRI es importante reducir el número de muestras    adquiridas con el fin de reducir la duración de los exámenes clínicos. Dado    que las máximas tasas de submuestreo (y por lo tanto las mayores reducciones    de tiempo de adquisición) en CS se alcanzan con los métodos basados en la cuasi-norma    l0, es relevante ahondar en su estudio. Segundo, si el número de    muestras adquiridas es suficiente, los métodos de CS basados en la cuasi-norma    l0 producen reconstrucciones exactas y por lo tanto, sin artefactos    en la imagen. Tercero, el número de muestras necesarias para reconstruir una    imagen exacta depende de la imagen que se desea adquirir, la que es desconocida    a priori. Por este motivo, en la práctica se desconoce cuántas muestras son    necesarias para obtener una reconstrucción exacta.
+
+Nuestro trabajo    extiende los resultados de Trzasko et al. al presentar una técnica de reconstrucción    basado en una minimización por aproximaciones de la cuasi-norma l0.    Nuestro método, sin embargo, no requiere la definición de parámetros, y es por    tanto más fácil de implementar. Adicionalmente, nuestro método permite evaluar    un índice numérico, que no depende de información a priori de la imagen, que    muestra una fuerte correlación con el error de reconstrucción, permitiendo determinar    si la imagen submuestreada obtenida es idéntica a la original o no, y por tanto,    si las tasas de submuestreo escogidas han sido excesivas o no.
+
+MATERIALES    Y MÉTODOS
+
+Conceptos básicos    de minimizaciones de la cuasi-norma l0 en Compressed Sensing.
+
+Los métodos de    reconstrucción de CS están diseñados para reconstruir imágenes que tengan muchos    pixeles iguales a cero. Para explicar mejor este concepto podemos recurrir a    un fantoma sintético de 10 x 10 pixeles para el cual graficamos sólo una línea    (Figura 1). En la figura se puede apreciar que el valor    de la cuasi-norma l0 de la línea graficada es igual a cuatro, ya    que sólo cuatro pixeles tienen una intensidad distinta de cero (en las posiciones    1, 2, 4 y 6).
+
+Como es sabido,    las imágenes de MRI no son adquiridas directamente en el espacio de la imagen,    sino que en un espacio que corresponde a la Transformada de Fourier de ella.    Por consiguiente, una vez que adquirimos la señal original de una MRI debemos    reconstruirla aplicando una transformada de Fourier inversa. En la forma estándar,    debemos tomar tantas muestras en el espacio de Fourier, como pixeles queremos    que tenga nuestra imagen. Una vez más podemos ejemplificar gráficamente estos    conceptos con nuestro fantoma (Figura 2). Para poder    ver nuestra línea de 10 pixeles, tenemos que obtener 10 muestras en el espacio    de Fourier y luego aplicar una transformada de Fourier inversa (IFT).
+
+   
+
+El método de reconstrucción    de CS mediante minimización de la cuasi-norma l0 nos dice que basta    con adquirir el doble de los pixeles distintos de cero para reconstruir la imagen    deseada. En nuestro ejemplo del fantoma, esto corresponde a adquirir sólo ocho    muestras (Figura 3), sin importar la ubicación de ellas.    Esto equivale a una reducción del tiempo de adquisición de un 20%. En el caso    de la Figura 3 las ocho muestras escogidas se muestran en rojo y las no escogidas    se muestran en azul.
+
+El método original    de reconstrucción de CS por minimización de la cuasi-norma l0 consiste    en probar todas las combinaciones de imágenes cuyas muestras en el espacio de    Fourier coincidan con las muestras adquiridas (las muestras rojas en nuestro    ejemplo de la Figura 3a) y elegir la que tenga un mayor    número de pixeles iguales a cero en la imagen (Figura 3b).    Formalmente esto equivale a evaluar cada pixel de la imagen (Figura    3b) en una función que valga 1 en todo lugar, salvo en el origen en cuyo    caso la función vale cero (línea sólida negra en la Figura    4) y luego sumar los resultados originados con cada pixel. En la práctica,    este procedimiento no es viable porque el número de combinaciones que debieran    evaluarse es muy grande. Nuestro enfoque, al igual que el de Trzasko et al.(3),    es utilizar funciones continuas (líneas rojas en la Figura    4) con las que se pueda evaluar en forma aproximada la cuasi-norma l0,    y además resolver la minimización y reconstrucción de una manera factible y    óptima. En la práctica esta minimización se resuelve de forma iterativa, en    donde se resuelve una minimización local con una de las funciones continuas    de aproximación y secuencialmente se va retinando la solución usando funciones    más parecidas a la cuasi-norma l0 (líneas rojas en la Figura    4).
+
+Existen varias    formas para realizar las minimizaciones locales, en nuestro caso utilizamos    las mismas funciones de aproximación que Trzasko et al.(3), pero    proponemos una resolución de punto fijo, del tipo:
+
+
+
+donde P es una    matriz que nos permite transformar las muestras no adquiridas c al espacio de    Fourier; P* es la matriz transpuesta conjugada de P; D es una matriz diagonal    que contiene información acerca de la pendiente de las funciones de aproximación;    g(0) es una imagen de inicialización arbitraria. La ecuación(1)    es un proceso iterativo que se inicializa con una imagen g(0), que    es reconstruida suponiendo que las muestras desconocidas son iguales a cero.    Luego podemos calcular la cuasi norma l0 de g(0) multiplicando    por la matriz D, y dado que los coeficientes desconocidos están en el espacio    de Fourier, debemos multiplicar por la matriz de transformación P. Dado que    sabemos que esta aproximación no es exacta,    debemos compensar los errores inducidos por la aproximación multiplicando por    la matriz-(P*DP)1. Luego, debemos iterar hasta lograr que la diferencia    de los valores encontrados de c en dos iteraciones consecutivas sea pequeña.    Finalmente, con los valores encontrados de c y las muestras adquiridas, podemos    reconstruir la imagen deseada aplicando la transformada de Fourier inversa.
+
+   
+
+   
+
+   
+
+A diferencia del    método de minimización propuesto por Trzsasko et al.(3) en nuestro    método no es necesario elegir ningún tipo de parámetro, los cuales por lo general    dificultan las implementaciones ya que tienen que ser encontrados de manera    heurística. Además, nos permite conocer un índice numérico de reconstrucción    (Rl), que se calcula como:
+
+
+
+donde l    y m    son el mínimo valor propio y el promedio de todos los valores propios de la    matriz P*DP, respectivamente. Este índice Rl tiene una alta correlación con    el error de reconstrucción de las imágenes y no necesita ningún tipo de información    acerca de la imagen que se quiere reconstruir, y por lo tanto, nos puede advertir    sobre el uso de tasas de submuestreo excesivas.
+
+DESCRIPCIÓN    DE LOS EXPERIMENTOS REALIZADOS
+
+Para verificar    la exactitud de las reconstrucciones con nuestro método de CS, y para verificar    si nuestro índice de reconstrucción (Rl) se correlaciona con el error relativo    de reconstrucción (RRE), realizamos dos experimentos.
+
+En el primer experimento    construimos fantomas de una dimensión, similares a los de la Figura    1, pero cuyo largo total N era de 97 pixeles. Variamos la cantidad de    pixeles distintos de cero entre 1,5,..., 89 y 93, y la cantidad de muestras    adquiridas entre 2,6,..., 90,94. Para cada combinación se generaron 30 fantomas    con valores aleatorios, los que se muestrearon en lugares aleatorios. Finalmente,    se procedió a reconstruir los fantomas con nuestro método y para cada caso,    se comparó nuestro índice de reconstrucción (Rl) con el error relativo de reconstrucción    (RRE).
+
+En el segundo experimento    se adquirió una imagen FLAIR de MRI con los siguientes parámetros: TR/TI/TE:    14679/3000/150 ms; flip angle 90; turbo factor 46; resolución: 1.7x1.7x1.7 mm.    Todas las muestras necesarias de la imagen fueron adquiridas de tal forma de    obtener una imagen de referencia para calcular el error de reconstrucción. Posteriormente,    se descartaron en forma aleatoria 40%, 45% y 50% de las muestras para simular    el proceso de submuestreo y por consiguiente, de reducción del tiempo de adquisición.    Finalmente, se procedió a reconstruir las imágenes submuestreadas con nuestro    método y para cada caso, se comparó nuestro índice de reconstrucción (Rl) con    el error relativo de reconstrucción (RRE). Para facilitar el análisis de los    resultados cada línea de la imagen de MRI fue reconstruida en forma independiente.
+
+Para ambos experimentos    se evaluó la correlación entre el índice de reconstrucción Rl y el error relativo    de reconstrucción RRE utilizando curvas ROC (por sus siglas en inglés, Receiver    Operating Characteristic).
+
+Para efectos prácticos,    el error relativo de reconstrucción RRE fue calculado como:
+
+
+
+donde II II es    el valor absoluto de la diferencia en niveles de gris de la imagen original    f y la reconstruida g, normalizada por los niveles de intensidad de la imagen    f.
+
+RESULTADOS
+
+Considerando un    60% de las muestras la reconstrucción mediante CS es exacta para 164 de las    173 líneas que posee la imagen (Figura 5b), es decir    no existe diferencia alguna entre las líneas reconstruidas de la manera tradicional    con todas las muestras, y las líneas reconstruidas con CS y sólo un 60% de las    muestras. Esto se puede apreciar con mayor detalle cuando graficamos una línea    específica de la imagen (Figura 6a). Las 9 líneas que    presentan diferencias se debe a que el submuestreo fue excesivo, por lo que    sólo bastaría con tomar un poco más del 60% de las muestras para obtener una    imagen idéntica a la imagen estándar.
+
+Considerando ahora    sólo un 55% de las muestras, existe un mayor número de líneas en donde el submuestreo    es excesivo, por lo que aparecen un número mayor de líneas con distorsiones    (Figura 5c). Esto se puede apreciar mejor cuando graficamos    una línea de la imagen (Figura 6b).
+
+   
+
+   
+
+   
+
+Finalmente, cuando    consideramos sólo el 50% de las muestras aún se conserva gran parte de la estructura    de la cabeza, pero el número de líneas con problemas se hace    ostensiblemente mayor (Figura 5d), y la magnitud de las    diferencias también se incrementa (Figura 6c). El índice    de reconstrucción Rl entrega valores normalizados entre 0 y 1, y como se aprecia    en la Figura 7, los valores de Rl lejanos a 1 indican    que los errores cometidos al reconstruir (RRE) son bajos o nulos. Por consiguiente,    valores de Rl lejanos de 1 nos indican que las tasas de submuestreos han sido    adecuadas. Por el contrario, cuando Rl se acerca a 1, nos indica que existen    errores de reconstrucción, y por lo tanto que las tasa de submuestreo han sido    excesivas. Esta observación es válida tanto para el fantoma como para la imagen    de MRI.
+
+El valor predictor    del índice Rl es alto y tiene un punto óptimo en torno a Rl = 0,95 para el cual    la tasa de falsos positivos es inferior al 5% y de positivos verdaderos es superior    al 95% (Figura 8). Esto quiere decir que con aproximadamente    un 95% de probabilidad podemos saber si una línea de la imagen fue reconstruida    con errores o no, y por lo tanto si necesitamos aumentar el número de muestras    adquiridas.
+
+ CONCLUSIÓN
+
+   
+
+Nuestro trabajo    propone un método de reconstrucción que constituye una mejora en relación a    los métodos presentes en la literatura. Este método consiste    en un problema de minimización que: no tiene parámetros libres, satisface exactamente    la consistencia de datos y la complejidad del método es proporcional a la tasa    de submuestreo. Adicio-nalmente, nuestros resultados muestran que el método    es equivalente en la práctica a resolver la minimización basada en la cuasi-norma    l0.
+
+A partir de este    método, definimos un índice de reconstrucción que exhibe una fuerte correlación    con el error de reconstrucción. Este índice no requiere ninguna información    a priori de la imagen a adquirir y, por tanto, puede ser utilizado para determinar    si la imagen submuestreada es igual a la original. El método de detección propuesto    con este fin, permite obtener una alta tasa de detecciones correctas con valores    pequeños de falsas detecciones. Consecuentemente, esto permite determinar si    la tasa de submuestreo empleada es excesiva y debe ser ajustada.
+
+AGRADECIMIENTOS

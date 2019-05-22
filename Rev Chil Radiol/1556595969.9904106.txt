@@ -1,0 +1,186 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082015000300006
+Neurografía por resonancia magnética en la evaluación de los nervios periféricos
+
+Resumen: La neurografía por resonancia magnética (NRM), con secuencias de alta resolución, permite un detallado estudio de los plexos y nervios periféricos. Para su interpretación, es necesario contar con conocimientos generales de RM, así como de la anatomía del sistema neuromuscular y de las lesiones que lo afectan. La patología de los nervios y plexos puede dividirse en mononeuropatías (por trauma, atrapamiento o tumores) y polineuropatías hereditarias (como la enfermedad de Charcot Marie Tooth) o adquiridas (por poliradiculoneuropatía desmielinizante idiopática crónica, diabetes, vasculitis o inflamación)
+
+El objetivo de esta revisión es describir la técnica de estudio de la neurografía por resonancia magnética, así como las características del nervio periférico normal y patológico.
+
+Palabras clave: Neuropatía periférica, Neurografía por RM, RM, Sistema nervioso periférico.
+
+ 
+
+Introducción
+
+La neurografía por resonancia magnética (NRM) es el método por imágenes que permite el estudio de los nervios periféricos a través del empleo de secuencias dedicadas, de alta resolución. El término neurografía (Neurography) fue introducido por Chhabra en el año 2011(1) y en años posteriores surgieron numerosos trabajos avalando esta técnica(2-6). Para interpretar la NRM es necesario contar con conocimientos generales de RM, así como de la anatomía y de las lesiones que afectan al sistema neuromuscular. La patología de los nervios y plexos puede dividirse en mononeuropatías y polineuropatías. En las mononeuropatías se encuentran causas como los procesos inflamatorios, el trauma, el atrapamiento, los tumores benignos y malignos de la vaina neural, así como aquellos tumores de estructuras adyacentes que pueden comprimir o invadir al nervio/plexo(7-9). En las polineuropatías se destacan las formas hereditarias como la enfermedad de Charcot Marie Tooth y las adquiridas, entre las que se encuentran la poliradiculoneuropatía desmielinizante idiopática crónica, diabetes, vasculitis, inflamación(10-12).
+
+El objetivo de esta revisión es explicar las consideraciones técnicas sobre la NRM, mencionar las características normales del nervio periférico por NRM y describir la apariencia de las lesiones más frecuentes que afectan a los nervios y plexos.
+
+ 
+
+Consideraciones técnicas
+
+La NRM se puede realizar en equipos de 1, 5 ó 3 T, con el fin de obtener la mejor relación señal/ruido posible. Las secuencias convencionales fast spin echo en ponderación T1, T2 y STIR fueron reemplazadas por secuencias 3 D de alta resolución que derivan del método Dixon(13), que trabaja en base a imágenes en fase/fuera de fase, con saturación de agua y/o de grasa. La secuencia IDEAL (Iterative Decomposition of water and fat with Echo Asymmetry and Least-squares estimation-GE Healthcare, USA), permite el empleo de imágenes en ponderación T1 y T2 con cuatro combinaciones de pulsos de saturación: supresión de agua, supresión de grasa y supresión combinada de agua y grasa en fase y fuera de fase(14,15). En nuestro protocolo de estudio, ante la presencia de lesiones de aspecto tumoral/pseudotumoral se añaden secuencias de difusión (DWI) y tensor de difusión (DTI)(16,17). En la tabla I se presenta el protocolo básico de estudio que utilizamos en nuestro Departamento de Imágenes.
+
+
+
+
+
+ 
+
+Anatomía del nervio
+
+La unidad funcional del nervio periférico está constituida por el axón, que se encuentra contenido por la vaina de mielina formada por las células de Schwann. Cada axón, a su vez, está rodeado por una capa de tejido conectivo que corresponde al endoneuro. Múltiples axones forman un fascículo que, a su vez, está recubierto por un estroma fibroso, el perineuro. Varios fascículos forman el nervio, que está recubierto por el epineuro, que es una capa de tejido conectivo que contiene los vasos sanguíneos que irrigan al nervio(18) (Figura 1).
+
+
+
+
+
+ 
+
+Apariencia normal del nervio periférico por Neurografía por resonancia
+
+El nervio normal se caracteriza por presentar un patrón fascicular. Cuanto mayor es la resolución espacial de la imagen así como el calibre del nervio, mejor se pueden diferenciar los fascículos. Además, presenta un curso rectilíneo o ligeramente curvo según el área anatómica por donde transcurre. Por otra parte, el epineuro es delgado y muchas veces no se percibe en NRM, siendo mejor visualizado en cortes perpendiculares al eje longitudinal del nervio. El tejido graso perineural es homogéneo, sin estriaciones y, se evidencia con mejor resolución en secuencias que ponderan T1 sin y con supresión de la grasa(19, 20) (Figura 2).
+
+
+
+
+
+
+
+
+
+Figura 2. Apariencia normal del nervio peroneo. Secuencia IDEAL en ponderación T2 con saturación de agua, reconstrucción en el plano coronal oblicuo; a) se observa el nervio peroneo común, b) la división en peroneo superficial y profundo antes de entrar al túnel peroneo, c) ambas divisiones luego de pasar el túnel peroneo.
+
+ 
+
+Evaluación por neurografía de las mononeuropatías
+
+Trauma
+
+El trauma directo de los nervios periféricos puede ser causado por estiramiento o laceración durante un evento traumático. Seddon(21) describió tres tipos de lesión neuronal en base al grado de severidad: la neuropraxia, la axonotmesis y la neurotmesis. La neuropraxia es el grado más leve de lesión neuronal, en donde el nervio presenta sufrimiento, manifestado por edema, sin discontinuidad de su vaina ni del axón; en general es un trastorno transitorio y con restitución completa. En un grado intermedio, la axonotmesis se manifiesta con discontinuidad axonal, pero con integridad del envoltorio conectivo del nervio (endoneuro, perineuro y epineuro), cuya capacidad de restitución es variable. La neurotmesis, es la forma más severa de lesión neuronal, en la cual se dañan tanto el axón como las vainas perineurales. Es una lesión que repara con cicatriz (neuroma).
+
+En la neuropraxia la NRM revela leve engrosamiento del nervio con aumento de la intensidad de señal en ponderación T2 en relación a la presencia de edema. En la neurotmesis, además de los cambios de la neuropraxia, se observa engrosamiento del epineuro sin discontinuidad de fibras (Figura 3). Por último, en la neurotmesis, dependiendo del tiempo de evolución, se puede observar discontinuidad neuronal en periodo agudo, hasta la formación de un neuroma por continuidad en fase crónica(22).
+
+
+
+
+
+
+
+Figura 3. Trauma: Avulsión de plexo braquial. Paciente de 25 años, de sexo masculino con antecedente de accidente de motocicleta; a) Secuencia IDEAL en ponderación T2 con supresión de grasa. Se observa pseudomeningocele de la raíz C8 y retracción del tronco inferior (flecha); b) Secuencia IDEAL en ponderación T2, se observa el pseudomeningocele de la raíz C8 derecha (flecha) y cambios en la morfología del cordón medular.
+
+
+
+Los nervios con mayor posibilidad de lesión son los que reciben estiramientos de alto impacto, como ocurre en el trauma del plexo braquial o, aquellos que recorren regiones periféricas como el nervio peroneo a nivel de la rodilla, o cercanas a estructuras óseas, como el nervio ciático cuando se lesiona cercano al isquion(20).
+
+ 
+
+Atrapamiento
+
+Los nervios periféricos de los miembros superiores e inferiores en su recorrido suelen atravesar túneles fibro-óseos o fibro-musculares que los hacen particularmente vulnerables a la compresión. Es más frecuente en los miembros superiores, donde los más afectados son el nervio mediano a nivel del túnel carpiano, el nervio cubital en el túnel cubital o en el canal de Guyón y el nervio interóseo posterior en el canal supinador. En los miembros inferiores se destacan en frecuencia el nervio peroneo común en el túnel peroneo y el nervio tibial en el túnel tarsal(23,24).
+
+En el atrapamiento, la NRM además de mostrar los cambios en la señal del nervio en relación al sufrimiento neuronal, se puede observar la presencia de músculos accesorios o engrosamiento de retináculos o tendones, según sea la causa que lo genere(25) (Figura 4).
+
+
+
+
+
+Figura 4. Atrapamiento del nervio cubital. Secuencia IDEAL en ponderación T2 con supresión grasa, reconstrucción en el plano axial; se visualiza el nervio cubital (NC) con aumento de grosor y de la señal. Presencia de músculo anconeo accesorio (cabeza de flecha) como causa de atrapamiento
+
+ 
+
+Tumores
+
+Los tumores benignos de la vaina neural son los tumores más frecuentes del nervio periférico. El schwannoma es un tumor de lento crecimiento y se desarrolla usualmente en forma excéntrica al nervio quedando contenido por el perineuro. Por el contrario, el neurofibroma es de localización central, no encapsulado, por lo que no puede separarse del nervio (Figura 5). Ambos tumores presentan morfología fusiforme, bordes bien definidos y raramente exceden los cinco cm de diámetro(26,27).
+
+
+
+
+
+
+
+
+
+Figura 5. Neurofibroma en paciente con antecedente de neurofibromatosis tipo I. Secuencia IDEAL en ponderación T2 con saturación grasa. Se observa engrosamiento nodular de morfología fusiforme de la raíz C8 derecha (flecha); a) plano coronal, b) reconstrucción oblicua, c) plano axial.
+
+
+
+La mayoría de los tumores benignos de la vaina neural son isointensos a levemente hiperintensos respecto al músculo en ponderación T1, con marcada hiperintensidad en ponderación T2 respecto de la grasa. Pueden presentar un halo periférico de alta intensidad de señal por la presencia de tejido mixoide, con un área central con señal baja o intermedia debido a la presencia de fibrosis(28). En los tumores pequeños, la captación de contraste suele ser de distribución homogénea, mientras que en los grandes tumores el realce puede ser central, periférico o nodular irregular(29).
+
+El neurofibroma plexiforme es casi patognomónico de neurofibromatosis tipo I (NF I). Se distinguen por expandir y distorsionar extensos segmentos de nervio/s y, en NRM, suelen presentar alta intensidad de señal en las secuencias ponderadas en T2, dando el aspecto de "saco de gusanos". El realce tras la inyección de contraste es similar al de los neurofibromas solitarios(30).
+
+El schwannoma maligno puede originarse de novo o resultar de la transformación maligna de neurofibromas preexistentes. En general, se desarrollan en los troncos nerviosos principales, como grandes masas que exceden los 5 cm, con señal heterogénea, afectan la totalidad del espesor del nervio, con extensión proximal y distal(31).
+
+El linfoma y los tumores secundarios son extremadamente raros. Es imposible diferenciarlos de otras variantes malignas. El antecedente de linfoma o tumor primario ayuda al diagnóstico(6).
+
+ 
+
+Evaluación por Neurografía de las polineuropatías
+
+El mayor aporte de la NRM en las polineuropatías ha sido demostrar la afectación de varios nervios cuando los datos clínicos son los de una mononeuropatía. Otro aporte de importancia es que determina la extensión de las lesiones, así como la progresión o regresión de las mismas(32).
+
+ 
+
+Enfermedad de Charcot Marie Tooth
+
+La enfermedad de Charcot Marie Tooth (CMT) constituye una de las entidades de transmisión genética más comunes de los nervios periféricos. Se han descrito cinco tipos de presentación genéticamente demostrados. La forma más frecuente es la CMT tipo 1 en la que se describe hipertrofia de los nervios periféricos(33). Se ha mencionado apariencia hiperintensa en ponderación T2 e isointensa en T1 con aumento del área de los nervios afectados. Pareciera haber un marcado compromiso de los nervios distales más que de los proximales, con mayor afectación de los nervios tibial y peroneo que del ciático. El patrón fascicular se mantiene constante con hipertrofia de fascículos y del tejido adiposo, causante del aumento del área del nervio comprometido(34). La NRM podría demarcar la extensión de las lesiones, aportando información en casos en que la clínica es negativa y, en particular, en los casos dudosos, en los cuales el dato de predilección de nervios distales sobre proximales sería un dato a favor de CMT (Figura 6).
+
+
+
+
+
+Figura 6. Polineuropatía hereditaria de Charcot Marie Tooth. Paciente de 16 años con antecedentes familiares de enfermedad de CMT que presenta debilidad muscular de miembros superiores e inferiores. Secuencia STIR en el plano axial, se visualiza hipertrofia del nervio ciático que preserva el patrón fascicular (flechas).
+
+ 
+
+Polineuropatía desmielinizante crónica idiopática
+
+La polineuropatía desmielinizante crónica idiopática (PDCI) constituye la causa más común de neuropatía desmielinizante adquirida. Estos procesos suelen tener un sustrato inmunomediado aunque la causa real aún se desconoce. Existen criterios diagnósticos de la Academia Americana de Radiología que permiten una aproximación diagnóstica(35); sin embargo, en ocasiones el diagnóstico presenta dificultades clínicas, debido a la existencia de variantes de PDCI muchas veces asociadas a paraproteinemias que no responden correctamente al tratamiento(36).
+
+La RM ha demostrado hipertrofia de raíces, de los plexos braquial y lumbosacro y en ocasiones de las raíces de la cauda equina. La hipertrofia puede presentar una morfología fusiforme a diferencia de otras poliradiculopatías como CMT u otras variantes de PDCI(37,38). Esta morfología fusiforme podría tener correlación con el sustrato anátomo patológico descrito "en catáfilas de cebolla", generado por las repetidas fases de desmielinización y remielinización que sufren los nervios(39) (Figura 7).
+
+
+
+
+
+
+
+
+
+Figura 7. Polineuropatía desmielinizante idiopática crónica (CIDP): paciente de sexo femenino de 26 años, presenta disminución de fuerza y del trofismo de los músculos del brazo izquierdo. El electromiograma demuestra signos de desmielinización de raíces C5 y C6 izquierdos. Secuencia IDEAL en ponderación T2 con supresión de la grasa; a) plano coronal, b) reconstrucción coronal oblicua del lado derecho, c) lado izquierdo. Se observa engrosamiento difuso de las raíces, troncos, cordones y divisiones del plexo braquial en forma bilateral con predominio izquierdo.
+
+ 
+
+Diabetes
+
+La poliradiculoneuropatía diabética (DBT) también llamada amiotrofia DBT, suele tener un curso subagudo y se manifiesta en algún momento de la enfermedad en el 50% de los pacientes con DBT. La afectación puede ser uni o multifocal, uni o bilateral(40).
+
+En patología se describen hallazgos histopatológicos que sugieren injuria isquémica y micro vasculitis con pérdida de fibras de distribución multifocal, engrosamiento perineural, neo vascularización y formación de neuroma, asociado a colecciones inflamatorias perivasculares, inflamación de las paredes de los vasos y macrófagos cargados de hemosiderina. El diagnóstico diferencial entre neuropatía isquémica y DBT radica en el antecedente clínico de DBT(41).
+
+El hallazgo distintivo en NRM es la hiperintensidad de la señal en ponderación T2 de grado variable de la raíz afectada, asociado a hipertrofia de las raíces y/o realce tras la inyección de contraste. Los músculos dependientes del trayecto nervioso afectado muestran cambios en su estructura, con aumento de la intensidad de señal en ponderación T2 en los casos de denervación subaguda por la presencia de edema y aumento de la intensidad de señal en ponderación T1 en relación a infiltración adiposa como manifestación de denervación crónica; en estos casos puede asociarse a disminución de volumen por atrofia muscular(42) (Figura 8).
+
+
+
+
+
+Figura 8. Polineuropatía diabética. Paciente de 57 años, con antecedentes de DBT tipo II mal controlada. Secuencia IDEAL en ponderación T2 del plexo braquial. Presenta aumento de la intensidad de señal en ponderación T2 y engrosamiento de las raíces del plexo braquial derecho.
+
+ 
+
+Inflamación
+
+Los nervios periféricos pueden estar afectados por procesos inflamatorios y la NRM puede ayudar a confirmar el diagnóstico. Una forma de presentación es el síndrome de Guillain Barré, una polineuropatía de origen inmunomediado, de evolución aguda/subaguda. En general existen antecedentes de infección viral o bacteriana y con menor frecuencia de trauma y cirugías(43).
+
+En NRM suele observarse el engrosamiento de las raíces de la cauda equina (Figura 9). También se ha descrito engrosamiento de las raíces y troncos de los plexos braquial y lumbosacro. En general, la afectación es de múltiples nervios, esto lo diferencia de una lesión por espondilodiscartrosis cervical o lumbar(44).
+
+
+
+Figura 9. Síndrome de Guillain Barre. Paciente de 6 años, sexo masculino se presenta con dificultad respiratoria, globo vesical, debilidad y parestesias de miembros superiores e inferiores; a) Secuencia FSE T2 en plano sagital. Se observó engrosamiento de las raíces de la cauda equina de forma generalizada, b) secuencia FSE T1 en plano axial con contraste. Refuerzo difuso de las raíces tras la administración de gadolinio.
+
+ 
+
+ 
+
+Conclusión
+
+La neurografía por RM a través de secuencias de alta resolución en equipos de alto campo magnético permite estudiar en detalle la anatomía de los nervios periféricos y plexos. Demarca con exactitud la localización y extensión de las lesiones y brinda información sobre la probable etiología.

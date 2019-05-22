@@ -1,0 +1,160 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082017000300007
+Calidad de imagen y reducción de dosis en angiotomografía computarizada de arterias coronarias usando protocolo de baja energía
+
+ 
+
+Resumen. El objetivo de este estudio fue cuantificar la disminución de la dosis de radiación sin perjudicar la calidad de imagen, utilizando protocolos de adquisición de 100 y 120 kilovolts. Se analizaron 37 pacientes no obesos en un hospital privado de Santiago de Chile, de los cuales 20 fueron obtenidos con un protocolo de 120 kilovolts y los 17 restantes con protocolo de baja energía. Se evaluó la calidad de imagen cuantitativa y cualitativamente. El promedio de puntuación de la calidad de imagen para los grupos de 120 y 100 kilovolts fue de 3,25 ± 0,8 y 3,41 ± 0,7 respectivamente, demostrando una mejora en la calidad de imagen, aunque en un valor no significativo (p= 0,58). En las imágenes obtenidas con el protocolo de 100 kilovolts, se demostró una reducción en la dosis de radiación de un 41,99% además de un aumento significativo de la intensidad de la señal y del ruido. Se logró demostrar una disminución de la dosis de radiación sin perjuicio en la calidad de imagen diagnóstica en angiografía coronaria por tomografía computarizada.
+
+Palabras clave: Angiografía por Tomografía computarizada, Tomografía computarizada, Calidad de imagen, Dosis efectiva.
+
+ 
+
+Introducción
+
+El diagnóstico no invasivo de la enfermedad coronaria se ha instalado como una herramienta de gran utilidad en el contexto global de la patología cardiovascular, entidad que registró 17,5 millones de muertes en el año 2012 y de éstas, 7.4 millones a causa de cardiopatía isquémica, considerándose la primera causa de muerte a nivel mundial1. En Chile, 25.744 defunciones fueron asociadas al sistema circulatorio según los indicadores de salud del año 2013, con una tasa de 149,25 por 100.000 habitantes, correspondiente a un 25,88% del total de defunciones de este mismo año, ocupando el primer lugar en las causas de muerte2.
+
+La angiotomografía computarizada (AngioTC) de arterias coronarias es una modalidad de imagen no invasiva para el estudio de las patologías cardiovasculares, que permite evaluar la pared, el lumen y la presencia de calcio en las arterias coronarias sin la necesidad de tener que recurrir a un cateterismo arterial. Permite valorar no solo la anatomía, sino también variantes anatómicas, anomalías, origen y trayecto de las arterias coronarias, además de la cuantificación directa de la estenosis, la evaluación de bypass, la valoración de la función cardiaca a través de imágenes volumétricas en ambas fases del ciclo cardiaco pudiendo determinar anomalías en la contractilidad miocárdica, grosor del miocardio y fracción de eyección. Sumado a lo anterior, esta técnica entrega información sobre las dimensiones auriculares y ventriculares, la función sistólica global y segmentaria del ventrículo izquierdo, características anatómicas y funcionales del ventrículo derecho, pericardio, septum interventricular e interauricular, así como permitir el estudio de la ubicación de las venas pulmonares y del seno coronario. Para esto son necesarias una alta resolución espacial y temporal, así como una excelente resolución de contraste3. La desventaja de este examen es la cantidad de dosis de radiación que los pacientes reciben por cada exploración, que se puede elevar a valores de 39mSv, por este motivo se hace importante la optimización de dosis en dicho procedimiento4. La AngioTC de arterias coronarias tiene una sensibilidad de un 83%, especificidad de 64%, valor predictivo positivo de 99% y un valor predictivo negativo de 95% en pacientes sin enfermedad coronaria previa conocida5.
+
+ 
+
+Calidad de imagen
+
+En tomografía computarizada los principales factores que en forma interrelacionada determinan la calidad de la imagen son: El ruido, la resolución espacial y la resolución de contraste. La resolución espacial es la capacidad de diferenciar dos estructuras pequeñas y muy próximas como unidades independientes, es el detalle de la imagen, es decir, es una medida de lo pequeño que puede verse un objeto en una imagen, la que depende del tamaño de píxel y el grosor de corte, teniendo en cuenta que a menor tamaño de ambos parámetros se obtiene una mejor resolución espacial. La resolución de contraste es la capacidad de poder distinguir dos estructuras por su diferencia en la escala de grises, la cual está limitada por el contraste inherente y tamaño del objeto, su uniformidad y el ruido del equipo, una mayor resolución de contraste implica que los objetos más sutiles se puedan ver de forma rutinaria en la imagen. El ruido se define como la desviación estándar de una gran cantidad de pixeles que componen una imagen y se relaciona con la cantidad de señal recibida por los detectores, siendo que una mayor señal tiene como resultado una imagen con menor nivel de ruido y con esto la resolución contraste de la imagen aumenta6. Otro aspecto de la calidad de imagen específico de la AngioTC coronaria es la consideración del movimiento constante del corazón, que hace necesario tomar medidas para evitar la presencia de artefacto cinético, por lo que se debe controlar la frecuencia cardiaca del paciente al momento de realizar este examen. Para lograr una imagen de interpretación confiable, es necesario que el paciente presente una frecuencia cardiaca con un máximo de 65 latidos por minuto (lpm), siendo necesaria la administración de beta bloqueadores por vía oral o intravenosa. También contribuyen a la obtención de una imagen libre de artefactos de movimiento la velocidad de adquisición que permiten los equipos con alto número de canales, la apnea del paciente y la adquisición en diástole7.
+
+ 
+
+Optimización de dosis de radiación en AngioTC coronaria
+
+Frente al aumento de los factores de riesgo para la enfermedad coronaria, las exploraciones por AngioTC coronaria han visto un importante aumento en el número de exámenes realizados teniendo una excelente aceptación clínica. La preocupación ante esto son los probables efectos estocásticos que se puedan producir debido a la contribución de dosis a los pacientes8. Aunque el beneficio es mayor al riesgo, se hace necesaria la implementación de técnicas que permitan la disminución de la dosis durante la exploración. A pesar del advenimiento de nuevos equipos de TC que han incorporado nuevos tipos de asociación de la adquisición de las imágenes al electrocardiograma (ECG) propio del paciente durante la realización del examen, la mayoría de los barridos actualmente se realizan de las maneras clásicas: el gatillado prospectivo, en que se realizan cortes secuenciales solamente en la fase de interés del ciclo cardiaco, y el gatillado retrospectivo, en que la emisión de rayos X es en forma continua de hélice, generando imágenes en todas las fases del ciclo cardiaco aumentando la dosis de radiación. En este tipo de gatillado puede aplicarse la modulación de corriente, la cual consiste en la modificación del mili-amperaje del tubo de rayos X según las características morfológicas de la zona anatómica a evaluar, lo que provoca que la emisión de rayos X se reduzca9. Aparte de este tipo de modulación de dosis, otra técnica utilizada para disminuir la dosis de radiación en AngioTC de coronarias es la modulación asociada al ECG o "ECG Pulsing", en donde la corriente se disminuye en el período sistólico y se imparte la corriente seleccionada por el operador en el momento de la diástole. Otra de las técnicas utilizadas es la del Triggering, o escaneo en modo "step and shoot" donde la fase de angiografía se obtiene irradiando de manera secuencial exclusivamente durante la diástole, generando una disminución de la dosis lo que hace imposible el análisis de otra fase que no sea la adquirida10,11. Actualmente la AngioTC coronaria es realizada con un protocolo de energía del haz de rayos X de 120 kilovolts (kV) y se ha demostrado que la dosis efectiva estimada se asocia a un valor medio de 12 mSv12. Hausleiter y cols12, en su estudio denominado PROTECTION II, demostraron que una disminución de la energía del haz de 120 a 100 kV, no afecta significativamente la calidad de imagen al aplicarlo en pacientes no obesos, siendo éste el principal método de disminución de dosis. Este estudio fue realizado en 400 pacientes, donde 202 fueron asignados al azar a un protocolo que usaba 100 kV y 198 a un protocolo de 120 kV, con el objetivo de demostrar la mantención de la calidad de imagen al variar la energía mediante una evaluación que calificaba de 1 a 4 puntos, siendo 1 no diagnóstica y 4 de excelente calidad de imagen y a su vez incluyendo también aspectos técnicos de calidad de imagen. Este estudio comprobó que se reduce la exposición de radiación en un 31% comparado con el protocolo estándar de 120 kV, mientras que al evaluar la calidad de imagen se demostró que la puntuación media fue de 3.3 ± 0.67 usando el protocolo de 100 kV, en cambio, con 120 kV fue de 3.28 ± 0.68, esta puntuación fue obtenida mediante la apreciación de dos radiólogos expertos en AngioTC coronaria con la escala ya mencionada lo cual demuestra que no se ve afectado debido a que la variación fue solamente de 0,001, valor que no baja del margen de no inferioridad predefinido en 0.212.
+
+Existen diversos estudios que se han abocado a la posibilidad de obtener la puntuación de calcio coronario por el método de Agatston con una energía de tubo de 100 kV, disminuyendo así la dosis, que concluyen que a pesar de que la disminución del kV informa una óptima correlación en la puntuación realizada con 100 y 120 kV, esto implica modificaciones en el análisis estándar, con un aumento en el umbral para la detección de calcio, debido al aumento en la absorción de los rayos X y el posterior aumento en la atenuación de las placas cálcicas, provocando como consecuencia una sobre estimación de ésta, de tal manera es que la Sociedad de Tomografía Computarizada Cardiovascular no recomienda actualmente el uso rutinario de la exploración de calcio con 100 kV debido a las modificaciones necesarias para el análisis de la imagen y la escasez de datos clínicos disponibles3,13.
+
+La disminución del kV en AngioTC coronaria es una práctica que no se ha integrado en los protocolos de los diversos centros diagnósticos, esto puede deberse a una falta de conocimiento de la estrategia, el desconocimiento de datos científicos que acrediten que se obtiene una imagen diagnóstica o la falta de estandarización de estrategias de disminución de dosis, es por esto que el objetivo del presente estudio fue demostrar la factibilidad de esta estrategia mediante la cuantificación de la disminución de la dosis de radiación y una evaluación de la calidad de imagen obtenida al utilizar un protocolo de adquisición con una energía de tubo de 100 kV.
+
+ 
+
+Materiales y métodos
+
+Se diseñó un estudio comparativo de dos cohortes de pacientes, en que se analizaron de manera retrospectiva exámenes que utilizaron el protocolo habitual de adquisición con 120 kV y luego de manera prospectiva, se aplicó un protocolo modificado de 100 kV para posteriormente comparar las variables dosimétricas y de calidad de imagen entre ambos grupos.
+
+Se incluyeron aquellos pacientes que presentaron un índice de masa corporal (IMC) entre 18,5 y 29,9 kg/m2, excluyendo pacientes con valores de IMC superiores e inferiores a éstos. Esto se debe a que el aumento de la masa corporal implica una disminución en la dosis de radiación absorbida, por lo que los parámetros técnicos utilizados deben ser aumentados para obtener una imagen diagnóstica, no logrando la disminución de energía. En lo que respecta al límite inferior se ha propuesto en distintos estudios que es posible utilizar una energía del haz de rayos X de 80 kV para los pacientes bajo este IMC3. Aquellos pacientes que presenten una enfermedad coronaria declarada y tengan estudios anteriores también se excluyeron del estudio.
+
+En el caso de los pacientes retrospectivos los datos ya mencionados se obtuvieron de la ficha clínica del paciente. Se obtuvo el peso en kilogramos y la estatura en metros, para así calcular el IMC a través de la fórmula estándar14.
+
+Se obtuvo autorización de la dirección del servicio y del comité de ética local. También se solicitó consentimiento informado firmado por los pacientes para la muestra prospectiva de 100 kV.
+
+ 
+
+Adquisición de imágenes
+
+Las imágenes se obtuvieron de dos equipos multicanal, un TC Siemens™ Somatom Definition de 64 canales y un General Electric™ modelo Optima CT 660 de 64 canales. Para ambos protocolos de energía, se utilizó un protocolo de gatillado electrocardiográfico retrospectivo y modulación de corriente habitual y basada en ECG. Las imágenes adquiridas en Siemens™ fueron de cortes de 0,6 mm y un filtro de reconstrucción b26f, mientras que en General Electric™ el espesor de corte fue de 0,625 mm con filtro de reconstrucción Soft. Volumen de administración de medio de contraste endovenoso y administración de beta bloqueadores fueron según las indicaciones y decisiones profesionales del servicio local sin intervención alguna de los investigadores.
+
+ 
+
+Comparación de la calidad de imagen
+
+Para ambos grupos, la calidad de imagen fue evaluada de manera cuantitativa y cualitativa. Cuantitativamente se analizaron los parámetros técnicos de calidad de imagen de intensidad de señal, ruido, relación señal ruido (SNR) y relación contraste ruido (CNR). Las mediciones en las imágenes se realizaron en el software de visualización de imágenes DICOM, Osirix™’15. Las mediciones se realizaron en imágenes axiales reconstruidas en un grosor de corte normalizado equivalente a 1 mm con una región de interés ovalada (ROI) no mayor a 7 mm2. La intensidad de la señal se deriva de la media del número TC (unidades de Hounsfield) promediados de dos ROI’s, ubicados en las regiones proximales del lumen de la arteria coronaria izquierda (ACI) y la arteria coronaria derecha (ACD). El ruido fue representado por la desviación estándar del promedio de las unidades de Hounsfield en los mismos ROI’s mencionados. La SNR se calculó como la media de los valores de las unidades de Hounsfield medidas en las ACI y ACD y se dividió por el valor del ruido de la imagen. Por último, la CNR se obtuvo de la diferencia de los valores de número Hounsfield de las ACI y ACD en su parte proximal con la densidad media de la pared lateral del ventrículo izquierdo (VI), dividido por el ruido de la imagen12,16. En las Figuras 1a, 1b y 1c se muestra la posición del ROI en cada una de las estructuras medidas.
+
+
+
+  
+
+ 
+
+Cualitativamente se evaluó mediante una puntuación asignada por médicos radiólogos expertos en el área, quienes evaluaron a través de una escala Likert con puntuación de 1 a 4 según los aspectos mencionados en la Tabla 1, considerando la definición de los vasos, el aspecto granuloso de la imagen, artefacto de movimiento, pérdida de contraste y presencia de extensas calcificaciones. Esto se realizó mediante la entrega de una encuesta donde se evaluó la calidad de imagen en la arteria coronaria izquierda, la arteria coronaria derecha, la arteria circunfleja (ACX) y en la arteria descendiente anterior (ADA), donde la evaluación ideal debiese ser de 16 puntos en total, con un esperado de 13 puntos12. A los radiólogos evaluadores no se les dio a conocer los parámetros técnicos utilizados en la adquisición de las imágenes y se compararon mediante el promedio de los valores obtenidos para lograr una evaluación entre los protocolos de 120 kV y 100 kV.
+
+
+
+
+
+ 
+
+Comparación de valores dosimétricos
+
+Se evalúo en forma comparativa para ambos protocolos el Índice de dosis volumétrico en TC (CTDIvol), producto dosis largo (DLP) y dosis de radiación efectiva estimada. El CTDIvol y DLP se obtuvo para la muestra prospectiva por el informe de dosis o protocolo del paciente entregado por el equipo para cada paciente. Los datos dosimétricos para la muestra retrospectiva se obtuvieron ingresando al cabezal digital de la imagen o meta-data en el cual se buscó los valores de corriente y CTDIvol, mientras que el DLP se logró mediante el producto simple entre CTDI y el largo del barrido. La dosis efectiva se estimó multiplicando el DLP por el factor de conversión correspondiente a la región anatómica irradiada, la cual en este caso es el tórax, cuyo factor es 0,014 mSv*mGy-1*cm-1. Se calculó la media aritmética de cada uno de estos factores y se comparó la disminución existente entre ambos protocolos12.
+
+Para visualizar si los datos cumplían con una distribución normal y si sus varianzas eran estadísticamente significativas se realizaron las pruebas Kolmogorov - Smirnov. Posteriormente se aplicó la prueba t de Student para la evaluación cuantitativa y la prueba U de Mann Whitney para la evaluación cualitativa con el objetivo de evaluar el grado de significancia en las diferencias de las evaluaciones en ambos protocolos17.
+
+ 
+
+Resultados
+
+El estudio fue aplicado a 37 pacientes, de los cuales 20 fueron pacientes que ya se habían realizado una exploración de AngioTC coronaria en la que se empleó la técnica estándar con energía del tubo de 120 kV y los 17 restantes se seleccionaron de aquellos pacientes con indicación de AngioTC y que cumplían con los criterios de inclusión para este estudio. Estos 17 pacientes fueron explorados con el protocolo propuesto de disminución de dosis de 100 kV sin otra modificación de factores técnicos. En la Tabla 2 se pueden observar en detalle las características de los pacientes incluidos en la muestra.
+
+
+
+
+
+La Tabla 3 muestra los resultados del análisis de calidad de imagen y de dosis de radiación. Respecto del análisis cuantitativo, con el protocolo de 100 kV se observó un aumento significativo en la intensidad de señal de un 26,6% (p= 0,01) y en el ruido un 37,42% (p= 0,02), por otro lado la SNR tuvo un aumento de un 22,6% (p= 0,2). En cambio, en la CNR se observó una disminución de un 21,17% (p= 0,2). En relación a los resultados de los valores de dosis de radiación con ambos protocolos, el promedio del CTDIvol es significativamente inferior para el protocolo de 100 kV con 19,87 ± 5,02 mGy versus el de 120 kV con 40,99 mGy ± 7,07 mGy (p<0,001), equivalente a un 51,52%. De igual forma el DLP disminuye en un 41,99% (p=0,02). La dosis efectiva estimada disminuye en un 41,95% (p<0,001).
+
+
+
+
+
+ 
+
+Las Figuras 2, 3 y 4 muestran imágenes de exámenes obtenidos con ambos protocolos en las que se pueden observar cualitativamente la mayor atenuación lograda en las estructuras con medio de contraste resultante al utilizar el protocolo de menor energía de tubo.
+
+
+
+
+
+Figura 2. Reformateos coronales de exámenes adquiridos con ambos protocolos. Se usaron los mismos parámetros de ancho y nivel de ventana.
+
+
+
+
+
+Figura 3. Cortes axiales de dos exámenes adquiridos con ambos protocolos. Se usaron los mismos parámetros de ancho y nivel de ventana.
+
+
+
+
+
+Figura 4. Intensidad de señal en los orígenes de la arteria coronaria izquierda en exámenes obtenidos con los dos protocolos. Se usaron los mismos parámetros de ancho y nivel de ventana.
+
+ 
+
+La Figura 5 muestra una imagen de exámenes obtenidos con ambos protocolos en la que se puede observar el mayor nivel de ruido (como desviación estándar de UH) producto de la disminución de la energía del tubo.
+
+
+
+
+
+Figura 5. Nivel de ruido (desviación estándar, UH) medido en la pared lateral del ventrículo izquierdo en dos exámenes obtenidos con los diferentes protocolos.
+
+
+
+En el análisis cualitativo al comparar ambos protocolos se evidencia un aumento de un 4,9% (p= 0,58) en la puntuación total de la encuesta realizada por los radiólogos al utilizar el protocolo de 100 kV. Las puntuaciones promedio de cada una de las arterias se pueden apreciar en la Tabla 3. Se presentaron 4 evaluaciones con puntuaciones inferiores a 3 en aquellas imágenes obtenidas con un protocolo de 100 kV, equivalentes al 23,5% del total. Estas fueron a causa de artefacto de movimiento (50%) y a causa del ruido (50%). Mientras que en aquellas obtenidas con 120 kV aquellas evaluaciones inferiores a 3 (20%) fueron a causa de artefactos de movimiento y baja densidad.
+
+ 
+
+Discusión y conclusiones
+
+La disminución de dosis junto a la protección radiológica al paciente han sido una preocupación e interés permanente de los profesionales encargados de realizar los exámenes radiológicos. A pesar de que aún existe controversia sobre la relación de los riesgos estocásticos de la radiación recibida por exámenes imagenológicos, el principio ALARA, que indica que la dosis de radiación a un paciente debe ser tan baja como razonablemente sea posible, es bien aceptado. Esto implica que la disminución de dosis entregada debe ser la máxima posible sin afectar la calidad diagnóstica de la imagen ni la relación riesgo-beneficio del paciente, un estudio no diagnóstico puede implicar la realización de imágenes adicionales aumentando la radiación neta entregada al paciente18.
+
+En el presente estudio se evaluaron las diferencias en la calidad de imagen entre los protocolos de 120 y 100 kV de AngioTC coronaria realizada en pacientes no obesos y sin enfermedad coronaria declarada, y se demostró que la calidad de imagen es similar y superior, aunque con una variación no significativa (p= 0,58) al usar el protocolo de 100 kV, manteniéndose el nivel de confianza diagnóstica con una dosis de radiación estimada inferior. La disminución de kilo-voltaje implicó una elevación en la intensidad de señal y ruido. El aumento de la intensidad de señal se explica por las características de absorción de los rayos X del yodo, el cual es superior a energías de menor kV, traduciéndose en una mayor atenuación del medio de contraste. Mientras que el aumento de ruido se explica por la reducción de kV en los parámetros de adquisición. La disminución del voltaje del tubo se ha demostrado como una estrategia efectiva de optimización de dosis de radiación en adultos de talla baja mejorando además la visualización de estructuras óseas u ocupadas con medio de contraste debido a un aumento en su atenuación21, incluso con el uso de 80 kV exclusivamente en pacientes de talla pequeña22.
+
+Un estudio multicéntrico en que se realizó la comparación de imágenes con la modificación de energía en AngioTC coronaria en 400 pacientes no obesos, por Hausleiter y col, del cual derivaron múltiples estudios pequeños con el mismo fin, se demostró que se mantiene la calidad de imagen al utilizar un protocolo de 100 kV disminuyendo en un 31% la dosis de radiación, desde un promedio de DLP de 868 mGy*cm a uno de 599 mGy*cm, equivalente a una reducción de dosis efectiva de 12,2 mSv a 8,4 mSv. Esto implicó un aumento en el ruido de un 36% desde una media de 24,6 a 33,5 UH, lo cual solamente afecta la imagen de manera estética ya que no impidió la evaluación diagnóstica de las arterias coronarias por los radiólogos evaluadores12. En el presente estudio, el promedio de DLP disminuyó en un 41,99% desde un promedio de 599,36 mGy*cm a 347,68 mGy*cm, equivalente a una reducción de dosis efectiva estimada desde 8,39 mSv a 4,87 mSv, con un aumento en el ruido de un 37%. Se logró evidenciar que la dosis efectiva para el protocolo de 120 kV utilizado en este estudio, es cercana a la entregada utilizando 100 kV en la ACTC del estudio de Hausleiter. A pesar de utilizar la misma energía del haz de rayos X las diferencias presentadas entre los estudios en las dosis efectivas estimadas y CTDIvol se pueden explicar debido a las diferencias en el mili amperaje utilizado en ambos estudios, siendo menor el utilizado en la presente investigación.
+
+La modalidad gold standard para el estudio de las arterias coronarias, continúa siendo la angiografía convencional intervencionista o coronariografía, con dosis efectivas reportadas entre 7 - 30 mSv dependiendo de si es diagnóstica o terapéutica, aunque la dosis mínima entregada por ésta es levemente menor a la entregada por el protocolo actual de la AngioTC coronaria a 120 kV, entonces una reducción de la energía del haz de rayos X a 100 kV representa una disminución de dosis entregada al paciente de 30,57% en relación a la angiografía convencional, por lo que debe considerarse para disminuir el número de intervenciones en pabellón innecesarias. También debe compararse la dosis con otros estudios cardiacos habituales de medicina nuclear como la perfusión miocárdica con Tecnecio 99m-Sestamibi o Talio en estrés y reposo, que implican 9 mSv y 41 mSv respectivamente19,20.
+
+En la evaluación cualitativa realizada por los radiólogos, se obtuvo un promedio de 3,25 vs uno de 3,41 para los protocolos de 120 y 100 kV respectivamente, junto a una puntuación total de 13,27 levemente por sobre el esperado de 13, obteniendo entonces una calidad de imagen capaz de ser interpretada en forma diagnóstica por los radiólogos. Se presentaron puntuaciones 1 y 2 en alguna de las arterias evaluadas con el protocolo de baja energía, en sólo cuatro ocasiones, debidas a artefactos de movimiento en un 50% y a causa del aumento de ruido de la imagen en el mismo porcentaje, estas últimas coincidían con aquellos pacientes que se encontraban muy cercanos al IMC tope de inclusión al estudio, pacientes que se encontraban entre un IMC de 28 y 29 kg/m2. Lo anterior hace tomar en cuenta, en aquellos pacientes con IMC más altos como los mencionados, la distribución de la masa corporal del paciente para decidir el protocolo a utilizar3.
+
+Una optimización de dosis de radiación en AngioTC coronario no deber ser sólo a causa de una disminución de energía de tubo, sino que debe ser producto de la utilización en conjunto de las distintas estrategias y aplicaciones existentes de los tomógrafos, como el gatillado prospectivo, la modulación de corriente habitual y la basada en ECG así como la incorporación de métodos iterativos de reconstrucción3,12. Si bien la dosis es un buen determinante del resultado final de la imagen en la AngioTC Coronaria, la calidad de imagen depende de un conjunto de factores, en primer lugar una alta calidad diagnóstica es posible de lograr utilizando equipos multidetectores de 64 canales o superiores, ya que permiten una mayor rapidez en el barrido consiguiendo una apnea en forma efectiva, una alta resolución espacial que permite evaluar nítidamente estructuras finas como las arterias coronarias y una alta resolución temporal permitiendo adquirir el corazón en diástole, momento en que el corazón presenta menor movimiento. Además, una frecuencia cardiaca baja y estable permite un periodo diastólico largo para alcanzar a adquirir imágenes sin artefactos de movimiento. El cumplir con las condiciones anteriormente mencionadas es parte también de evitar una entrega de dosis mayor a la necesaria por requerir de más exploraciones para conseguir la imagen diagnóstica deseada19.
+
+Como limitación del presente estudio se encuentra el tamaño pequeño de la muestra, siendo ésta representativa sólo del centro estudiado. Datos más representativos y numerosos podrían ser adquiridos si se realizara un estudio multicéntrico y de distintas marcas de equipos, en centros clínicos donde se realicen AngioTC coronaria a nivel nacional. Por otro lado, en este estudio sólo se evaluó la disminución de dosis de la fase angiográfica del examen de Angio TC coronaria y no se consideró la dosis entregada por la imagen localizadora, la exploración para la puntuación de calcio, ni la entregada por la exploración del bolus tracking, que implica un estudio completo, sin embargo, la dosis de radiación significativa del examen es producto de la fase angiográfica, que fue la estudiada en la presente investigación.
+
+Como proyección se espera entregar los resultados dosimétricos y de los parámetros que respectan a la calidad de imagen con el fin de lograr una futura implementación del protocolo de 100 kV en el servicio de radiología de la institución, para realizar la AngioTC coronaria en aquellos pacientes que cumplan con los criterios definidos en el estudio.
+
+Una de las grandes preocupaciones en el área de los exámenes diagnósticos en radiología es el uso de radiación ionizante debido a los posibles riesgos que esto trae consigo, es por ello la preocupación de la optimización de dosis, como la realizada en este estudio. Una reciente revisión de las principales conclusiones de la Conferencia Iberoamericana de Protección Radiológica en Medicina23, señala que el principal problema en radiología diagnóstica es la falta de cultura de radioprotección del paciente, con implicancias en justificación de los estudios de imágenes y una pobre optimización de dosis de radiación en los procedimientos, por lo que es importante hacer énfasis en la educación al respecto y con un rol muy importante de las sociedades de profesionales, en particular tecnólogos médicos y radiólogos, tema al que fue dirigido el presente estudio.
+
+Como conclusión se puede señalar que la utilización de un protocolo de AngioTC coronaria con 100 kV permite disminuir la dosis de radiación entregada al paciente sin perjudicar cualitativamente la calidad de imagen, en los pacientes seleccionados del presente estudio. A pesar del aumento del ruido en la imagen, éste no impide la evaluación diagnóstica por los médicos radiólogos. Por lo cual se sugiere considerar e incorporar este protocolo con disminución de energía de tubo para pacientes no obesos y sin enfermedad coronaria declarada para así entregar una dosis de radiación tan baja como razonablemente sea posible.
+
+Este estudio representa sólo la disminución de dosis en la AngioTC coronaria, por lo que futuras investigaciones pueden considerar esta estrategia de disminuir la energía del tubo para el resto de las angiografías realizadas por TC a distintas zonas anatómicas.
+
+ 
+
+Agradecimientos
+
+Los autores desean agradecer a los tecnólogos médicos, radiólogos y dirección del servicio de diagnóstico por imágenes por la disposición a la presente investigación.

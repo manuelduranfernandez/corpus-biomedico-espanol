@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082011000200004
+Utilización de resonancia magnética funcional 3T para evaluar los efectos del metilfenidato sobre la función de atención en pacientes con déficit atencional
+
+Resumen: El objetivo es evaluar el nivel de atención utilizando resonancia funcional en pacientes con déficit atencional, comparando los resultados entre los test de atención realizados antes y después del uso de metilfenidato. Se estudiaron 6 pacientes pediátricos y 2 adultos. Cada uno realizó un test de atención antes y después de usar metilfenidato. El estudio grupal de los pacientes pediátricos mostró una diferencia positiva con mayor nivel de atención en el grupo con tratamiento con metilfenidato. En el test realizado con medicamento en los adultos se evidenció mejoría en la función de atención en uno de ellos. Este método permite medir fisiológicamente si existe mejoría en la función de atención después de la utilización de metilfenidato, constituyendo una herramienta para evaluar la utilidad del tratamiento del déficit atencional.
+
+Palabras clave: Déficit atencional, Metilfenidato, Resonancia funcional.
+
+La atención es un estado neurocognitivo cerebral de preparación que precede a la percepción y a la acción, y es el resultado de una red de conexiones corticales y subcorticales de predominio hemisférico cerebral derecho. Para el estudio de la función de atención se ha utilizado PET y resonancia funcional, utilizando por ejemplo tests de atención del tipo inhibitorio como el test de stroop y go/no-go(1). Dentro de las condiciones que afectan la función de atención, el déficit atencional con hiperactividad (TDA-H) es el desorden neurológico más común en niños y adolescentes y que persiste frecuentemente en adultos(2). El tratamiento farmacológico con estimulantes para el TDA-H ha demostrado ser efectivo, pero el exacto mecanismo de acción no ha sido establecido(2). Se han realizado estudios con resonancia funcional que buscan establecer los efectos de estos fármacos, tanto en adultos como en niños en el desempeño de la función de atención(2,3). El objetivo del presente trabajo es evaluar el nivel de atención utilizando resonancia magnética funcional 3T en pacientes con diagnóstico clínico de déficit atencional, comparando los resultados obtenidos en tests de atención realizados por los pacientes antes y después de la ingesta de metilfenidato para el tratamiento del déficit atencional.
+
+Materiales y métodos
+
+Participaron 6 pacientes pediátricos: 5 de sexo masculino y 1 femenino de entre 6 y 14 años de edad y 2 pacientes adultos, una mujer y un hombre de 24 y 50 años de edad respectivamente. Los pacientes o sus padres firmaron un consentimiento informado para realizar el estudio. Los pacientes cumplieron los siguientes criterios para su inclusión en el estudio: normalidad cognitiva, presencia de comorbilidad como: rasgos depresivos, rasgos de bipolaridad, trastornos ansiosos, traumatismo cerebral previo y diagnóstico de TDA-H, según criterios de DSM IV(4). El criterio de comorbilidad fue establecido por los neurólogos tratantes, ya que en pacientes con otros síntomas neurológicos el diagnóstico de TDA-H es complejo clínicamente, por lo que este tipo de exámenes podría ser de utilidad, al evaluar objetivamente la eficacia del medicamento. 
+
+La metodología de estudio para la evaluación del fármaco consistió en dos sesiones separadas. En la primera se realizó una adquisición funcional sin el medicamento utilizando un test de atención de inhibición motora. Una vez finalizada esta primera sesión, los pacientes recibieron por 10 días metilfenidato (0.3 mg/Kg en una dosis matinal para los pacientes pediátricos y 5 mg al día en los pacientes adultos). Completado los 10 días con metilfenidato se realizó la segunda adquisición funcional, con el fin de poder medir cuantitativamente los efectos del fármaco en los niveles de atención. Previo a la realización del examen funcional en el resonador, cada uno de los pacientes recibió las instrucciones para realización de test de inhibición motora(1). Este test consistió en presentar letras del abecedario de forma aleatoria cada un segundo a través de una pantalla, donde el paciente debía presionar un botón con su dedo índice cada vez que visualizara una letra distinta de la letra X. La estimulación fue diseñada utilizando 3 bloques de activación intercalados con 4 bloques de reposo, ambos de 20 segundos de duración. Esta adquisición tuvo una duración total de 2 min. 
+
+Una vez finalizada la adquisición funcional se obtuvo un volumen T1 del cerebro de cada paciente. Las imágenes en este estudio fueron adquiridas en un resonador PHILIPS Achieva de 3T utilizando una bobina de cerebro de 8 canales. Los test de atención fueron realizados utilizando una secuencia FEEPI, cuyos parámetros de adquisición fueron: TR: 2000 ms, TE: 30 ms, FOV: 240 x 240 mm² y una matriz de 80 x 80 pixeles. Una vez finalizada esta etapa se realizó una adquisición anatómica T1 del cerebro de alta resolución para generar una visualización espacial de las activaciones obtenidas utilizando una secuencia T1TFE. 
+
+Los parámetros de esta adquisición fueron: TR: 7.1 ms, TE: 3.4 ms, FOV: 240 x 240 mm² y una matriz de 240 x 240 pixeles. Al término de las adquisiciones, las imágenes fueron analizadas utilizando el software de procesamiento de imágenes funcionales FSL 4.1 (FMRIB Software Library, Release 4.1 (c) 2008, The University of Oxford). Mediante este software las imágenes fueron corregidas espacial y temporalmente, con el fin de mejorar aspectos de relación señal ruido principalmente. Además fueron co-registradas con la imagen anatómica de cada voluntario y estandarizadas mediante la plantilla MNI (Montreal Neurological Institute) de 1 mm de resolución, con la finalidad de conocer de forma objetiva la ubicación espacial de las activaciones registradas. De acuerdo a este estándar de ubicación espacial, se identificó el área y función asociada a las regiones cerebrales activadas mediante el mapa de Brodmann, el cual se basa en la organización neuronal de la corteza cerebral descrita en 52 áreas(5). 
+
+Tanto en los test sin medicamento como en los test realizados con medicamento, se analizaron aquellos cluster pertenecientes a regiones corticales descritas en la literatura como áreas de atención, utilizando un umbral de significancia estadística de p<0.05. Además del análisis individual de las activaciones obtenidas en cada paciente antes y después de la medicación, en los pacientes pediátricos se realizaron análisis grupales de los resultados obtenidos entre estas dos condiciones distintas. Este análisis consistió en restar los promedios de activación obtenidos con y sin la utilización del fármaco realizando pruebas del tipo paired t-test. Este test tiene como finalidad determinar si existen diferencias significativas entre un mismo grupo muestreado bajo dos condiciones distintas y ha sido utilizado, por ejemplo, en estudios de resonancia magnética funcional como método de comparación de activaciones mediadas por condiciones medicamentosas diferentes(6). Al igual que en los análisis individuales, la significancia estadística utilizada en las comparaciones fue de p<0.05 y dependiendo de cada paciente, se utilizó el mismo umbral de activación (Z-score) para comparar las activaciones registradas en ambas condiciones (con y sin medicamento).
+
+Resultados
+
+La totalidad de los voluntarios fueron capaces de ejecutar de forma satisfactoria las pruebas de inhibición motora en el resonador. En el grupo pediátrico entre las áreas de Brodmann mapeadas con los test de atención realizados, tanto con y sin medicamento, se encuentran la corteza premotora (AB 6), corteza prefrontal anterior (AB 10), corteza parietal inferior (AB 39), lóbulo parietal inferior (AB 40), cíngulo dorsal posterior (AB 31), cíngulo dorsal anterior (AB 32) y corteza visual secundaria (AB 18). Los resultados de este grupo se resumen en la tabla I, que muestra las áreas de Brodmann activadas con el test de atención realizado con y sin medicamento en los 6 pacientes pediátricos y la región cortical asociada a las diferentes áreas de Brodmann mencionadas. Todas estas áreas de Brodmann están descritas como zonas que se activan con test de atención específicos(1). Para cada paciente y condición (sin y con uso de medicamentos) se indica el total de voxels activados considerando las áreas de atención obtenidas. 
+
+
+
+
+
+
+
+
+
+     En el grupo pediátrico se observó una mejoría en cuanto a la extensión de áreas de atención activadas en todas las pruebas de atención realizadas con uso de metilfenidato, a excepción del paciente 3, el cual presentó mayor activación de áreas de atención en el test sin medicación. Como ilustración de estos hallazgos se eligieron los pacientes 1 (figura 1) y 4 (figura 2), los que en los cortes anatómicos seleccionados muestran mayor activación en cíngulo dorsal anterior y corteza premotora bilateral respectivamente. Los resultados obtenidos entre las comparaciones realizadas sin medicación versus con medicación en el grupo pediátrico evidenciaron una diferencia positiva sólo en cerebelo, probablemente porque sin uso de medicación se utilizó mayormente áreas de coordinación motora que con medicación (Tabla II). La activación en cerebelo correspondió a 7.691 voxeles totales.
+
+
+
+
+
+Figura 1. Caso individual pediátrico (paciente 1) que en el corte anatómico seleccionado muestra mayor activación en cíngulo dorsal anterior en el test realizado con metilfenidato versus el test realizado sin metilfenidato. 
+
+
+
+
+
+
+
+Figura 2. Caso individual pediátrico (paciente 4) que en el corte anatómico seleccionado muestra mayor activación en corteza premotora bilateral en el test realizado con metilfenidato versus el test realizado sin metilfenidato.  
+
+ 
+
+
+
+
+
+ 
+
+ En forma contraria al realizar la resta de las áreas activadas con medicación versus las áreas activadas sin medicación, se obtuvo una diferencia positiva con un número mayor de áreas activadas. Estas áreas fueron: corteza motora primaria (AB 4), cíngulo posterior dorsal (AB 31), corteza premotora (AB 6), lóbulo parietal inferior (AB 40) y corteza visual secundaria (AB 18). Todas estas áreas están involucradas en la función cerebral de atención y corresponden a 35.877 voxels totales, aproximadamente 4.6 veces más voxels que en la resta contraria en donde sólo se identificaron diferencias positivas en cerebelo. En la figura 3 se presentan imágenes representativas de las áreas de activación obtenidas de las comparaciones realizadas en el grupo pediátrico. También se observa la diferencia de activación positiva en el lóbulo parietal inferior derecho; en la figura 4 en la región de cíngulo posterodorsal izquierdo; y en la figura 5 en la corteza premotora derecha.      Figura 3. Imagen de las áreas de activación obtenidas de la resta realizada entre el promedio de los test de atención con medicación versus sin medicación, con diferencia de activación positiva en el lóbulo parietal inferior derecho, para el test con metilfenidato.  
+
+      
+
+Figura 4. Imagen de las áreas de activación obtenidas de la resta realizada entre el promedio de los test de atención con medicación versus sin medicación, con diferencia de activación positiva cíngulo posterodorsal izquierdo para el test con metilfenidato.
+
+En forma contraria al realizar la resta de las áreas activadas con medicación versus las áreas activadas sin medicación, se obtuvo una diferencia positiva con un número mayor de áreas activadas. Estas áreas fueron: corteza motora primaria (AB 4), cíngulo posterior dorsal (AB 31), corteza premotora (AB 6), lóbulo parietal inferior (AB 40) y corteza visual secundaria (AB 18). Todas estas áreas están involucradas en la función cerebral de atención y corresponden a 35.877 voxels totales, aproximadamente 4.6 veces más voxels que en la resta contraria en donde sólo se identificaron diferencias positivas en cerebelo.
+
+En la figura 3 se presentan imágenes representativas de las áreas de activación obtenidas de las comparaciones realizadas en el grupo pediátrico. También se observa la diferencia de activación positiva en el lóbulo parietal inferior derecho; en la figura 4 en la región de cíngulo posterodorsal izquierdo; y en la figura 5 en la corteza premotora derecha.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Figura 4. Imagen de las áreas de activación obtenidas de la resta realizada entre el promedio de los test de atención con medicación versus sin medicación, con diferencia de activación positiva cíngulo posterodorsal izquierdo para el test con metilfenidato.
+
+
+
+
+
+
+
+Figura 5. Imagen de las áreas de activación obtenidas de la resta realizada entre el promedio de los test de atención con medicación versus sin medicación, con diferencia de activación positiva en la corteza premotora derecha para el test con metilfenidato. 
+
+ 
+
+En los adultos estudiados, entre las áreas que se activaron en los test con y sin medicación se encuentra el lóbulo parietal (AB 40 ), giro frontal inferior (AB 47), corteza visual secundaria (AB 18) y corteza visual asociativa (AB 19). Los resultados obtenidos en los dos adultos estudiados están descritos en la tabla III. Sólo la mujer presentó una mejoría en la extensión de áreas relacionadas con la función de atención después de la ingesta de metilfenidato. El número de individuos adultos estudiados fue limitado, lo que no permitió un análisis grupal de los resultados.
+
+
+
+
+
+
+
+ Discusión y conclusiones
+
+Las áreas descritas que se activaron con el test de inhibición motora utilizado en pacientes pediátricos y en pacientes adultos concuerdan con las obtenidas en publicaciones anteriores en donde se han estudiado las áreas de activación cerebral con este tipo de test(7,8). Los resultados de las comparaciones obtenidas en el grupo pediátrico muestran una tendencia que coincide con los resultados de estudios internacionales a pesar de ser un número bajo de casos, es decir, el metilfenidato aumenta el nivel de la función de atención en pacientes con TDA-H(2,3). 
+
+Para el neurólogo tratante la información individual del aumento o no aumento de los niveles de atención con metilfenidato fue de utilidad clínica, ya que el grupo escogido para realizar el estudio es complejo neurológicamente, porque además de cumplir los criterios clínicos según DSM-IV para TDA-H, presentaban una comorbilidad asociada que dificultaba un análisis sólo clínico para determinar la efectividad del metilfenidato y conveniencia o no de iniciar un tratamiento con este fármaco. La comorbilidad neurológica como criterio para ingreso de los pacientes al estudio puede explicar que uno de los pacientes pediátricos y un adulto no presentarán mejoría del nivel de atención con metilfenidato, ya que aunque su nivel de atención era bajo clínicamente (criterios DSM-4), esta baja se puede deber a los otros síntomas neurológicos concomitantes. 

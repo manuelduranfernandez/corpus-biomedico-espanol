@@ -1,0 +1,122 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082013000100003
+Disminución de la dosis de radiación en el radiodiagnóstico
+
+
+
+Introducción
+
+El diagnóstico radiológico o radiodiagnóstico es la rama de la medicina que estudia la morfología mediante imágenes obtenidas a través de radiaciones ionizantes. Según importantes organismos internacionales, más del 80% de la dosis de radiación de origen artificial que recibe la población, se debe a prácticas con fines diagnósticos. Así, la tomografía computarizada (TC), que cuenta con aproximadamente 4% de los exámenes radiológicos, según informes contribuye con el 40% de la dosis colectiva de la población(1-3).
+
+La dosis de radiación es particularmente importante en los niños, debido a que el riesgo de cáncer es relativamente mayor en ellos comparado con los adultos(4,5). Aunque el verdadero riesgo de cáncer debido a dosis bajas de radiación todavía se debate(6), es bien aceptado que la dosis de radiación en radiodiagnóstico debe ser disminuida(78 ׳).
+
+Por estas razones, en los casos en que se decide que los beneficios de la información obtenida son mayores que el riesgo de la dosis de radiación, Donelly(9) propone que los factores técnicos en un TC helicoidal de corte único, tales como la carga del tubo y el pitch, deberían ser ajustados para disminuir la dosis de radiación. Así, recomienda utilizar en la técnica de tórax dos tercios de la corriente utilizada en la técnica de abdomen. La tabla I muestra los valores recomendados de la carga del tubo en función de la masa para pacientes pediátricos en un TC helicoidal de corte único. En este orden, Vade(10) demuestra que aumentando el pitch de 1 a 1,5 se reduciría la dosis en un 33%, sin pérdida de información diagnóstica. Por otra parte, Frush(11) muestra algunas estrategias para reducir la dosis de radiación, sugiriendo que es tiempo de que los médicos radiólogos piensen más en términos de calidad de imagen aceptable que en calidad óptima, aunque su trabajo es algo empírico. Todos estos trabajos concluyen que existe una relación lineal entre la carga del tubo (mA) y la dosis de radiación, al disminuir la carga se reduce la dosis.
+
+  
+
+El propósito de este trabajo es crear conciencia sobre la disminución de la dosis de radiación en el radiodiagnóstico, en las instituciones que usan equipos generadores de radiaciones ionizantes (rayos-X); aplicando los principios básicos de la protección radiológica, calculando la dosis efectiva (u otras dosis) y comparando los resultados obtenidos en las diferentes modalidades con los niveles de referencia diagnósticos establecidos por organismos internacionales.
+
+La Protección Radiológica: su rol en la disminución de la dosis
+
+Para alcanzar el objetivo primordial de que la dosis y en consecuencia el detrimento, sea el mínimo razonablemente alcanzable, se estudia y aplica la protección radiológica, la cual se enfoca en:
+
+1. La asignación de responsabilidades.
+
+2. La instalación de blindajes; ubicación y distribución de las salas; la colocación de los equipos y las trayectorias a recorrer.
+
+3. Los equipos: diseño, fabricación, verificación de parámetros al momento de la instalación y controles periódicos, mantenimiento periódico, calibraciones y control de calidad.
+
+4. La operación: utilización adecuada de los equipos (manuales de uso, personal capacitado para la práctica, empleo de accesorios de protección tanto para el paciente como para el personal ocupacionalmente expuesto), la dosimetría personal y clínica, y manual de procedimientos para trabajo seguro.
+
+Niveles de referencia diagnósticos (NRD)(12)
+
+La noción de NRD fue introducida por la Comisión Internacional de Protección Radiológica (ICRP)(13) e incluida en la Directiva EURATOM 97/43. En el afio 2001 el Comité 3 del ICRP se abocó a la preparación de un documento específico sobre este tema. Se trata de un concepto de aplicación específica en el ámbito de la exposiciones médicas referido a niveles de dosis en radiodiagnóstico determinados en base a mediciones y/o cálculos (o niveles de actividad administrada en medicina nuclear obtenidos mediante encuestas) correspondientes a exámenes "tipo" realizados en pacientes o fantomas de características "estándar", en un dado país o región.
+
+Los NRD son indicadores de la calidad de equipos y procedimientos, no se aplican a casos individuales, no constituyen límites ni son "dosis óptimas". Su valor numérico no surge de un valor promedio, sino que se establece mediante un método estadístico tomando en consideración el percentil 75 de la distribución de dosis medidas (o de las actividades administradas). Esto significa que en un 25% de los casos las dosis (o actividades) se sitúan por encima del NRD(14). Identificando y eliminando las causas, la curva Gaussiana se desplazará hacia la izquierda con la consecuente disminución del valor de NRD. Aquí reside el rasgo "dinámico" del concepto de NRD: partir del conocimiento de una realidad local para intentar modificarla tendiendo a la reducción progresiva de las dosis hasta alcanzar un valor óptimo. No debe olvidarse que la noción de NRD es indisociable de la de "calidad informativa de la imagen". Es asimismo un concepto evolutivo que deberá actualizarse acorde al desarrollo de la tecnología disponible en cada país y/o región.
+
+Concepto de dosis efectiva
+
+En 1975 la Comisión Internacional sobre Protección a la Radiación (ICRP) propuso una cantidad teórica para evaluar la probabilidad del detrimento de la salud debido a dosis bajas de radiación ionizante, conocida inicialmente como dosis equivalente, y posteriormente (1990) como dosis efectiva(7,15). Esta cantidad considera el riesgo-salud de un paciente estándar, quien no está expuesto uniformemente a la radiación ionizante y cae en una situación en la que debería estar expuesto uniformemente a un campo de radiación. Esta metodología es la usada para vigilar al personal ocupacionalmente expuesto (POE) a las radiaciones ionizantes en nuestro país. La estimación de la dosis efectiva se realiza sobre los datos basados en el detrimento de la salud, establecida para una población promedio sobre todas las edades y ambos géneros(16).
+
+¿Cómo determinar la dosis efectiva?
+
+Una manera de estimar la dosis efectiva en radiología, es tener un conocimiento previo de las cantidades operacionales medibles, definidas a lo largo del tiempo en cada área radiológica. Estas cantidades son muy útiles inicialmente para optimizar los procedimientos en cada modalidad. Además, estas cantidades son representativas de la dosis entregada al paciente y pueden usarse (en principio) para estimar la dosis efectiva mediante factores de conversión específicos a través de la ecuación(15):
+
+
+
+donde E, es la dosis efectiva,Co la cantidad operacional y, F el factor de conversión.
+
+Existe un conjunto de factores de conversión para estimar la dosisórgano, mediante estas cantidades operacionales. La evaluación de estos factores de conversión comenzó hace más de 30 años. Las metodologías para definir un paciente estándar y las formas de evaluar la dosis-órgano, han evolucionado desde el uso de fantomas equivalentes de tejido del cuerpo que contiene los órganos, en el que los dosímetros pueden ser insertados y puedan aplicarse simulaciones tipo Monte Carlo. Sin embargo, es importante recordar que el uso de fantomas con anatomía similar a la del paciente produce una dosis efectiva, no para un dado paciente, sino para un fantoma cuya anatomía es representativa de un paciente "general". En el futuro, ésta podría mejorar con el uso de los datos obtenidos en el paciente mismo, a pesar de las incertidumbres con respecto a los factores de conversión, que tengan en cuenta la radiosensibilidad de cada órgano, se mantengan altas.
+
+La radiología convencional está muy estandarizada y cuando un examen (por ejemplo, una radiografía de tórax posteroanterior o una radiografía lateral de columna lumbar) se indica, la geometría y la energía media de exposición se conoce con bastante precisión.
+
+En tales casos, una medición de dosis en un punto concreto en el haz es suficiente para permitir la estimación de dosis en cada órgano y la dosis efectiva.
+
+La cantidad operativa más común, o indicador de dosis, en radiología es la dosis de entrada en la piel (ESD, entrance skin dose, por sus siglas en inglés). Esta representa la dosis absorbida por la piel en el punto de entrada del haz de rayos-X y puede ser fácilmente estimada con una ecuación simple como(15):
+
+
+
+donde U, es el voltaje del tubo de rayos-X (en kilo-voltios, KV), Q, la corriente del tubo de rayos-X (en miliamperios, mA), y dfs, la distancia entre el punto focal del tubo de rayos- X hasta el punto de entrada del haz de rayos-X.
+
+En las tablas II y III se muestra la estimación de la dosis efectiva (en mSv) en diferentes exámenes de radiología y angiografía, respectivamente, usando la ecuación (i), donde la cantidad operacional en la primera es la dosis de entrada en la piel, mientras que en la segunda es el producto dosis-área. Estos cálculos son realizados en pacientes adultos.
+
+  
+
+  
+
+Respecto a la determinación de dosis efectiva en TC, si se quiere realizar una estimación de dosis realista, conviene tener en consideración tanto las características del equipo utilizado como la geometría y composición de la zona irradiada del paciente. Existen trabajos que han abordado el problema, algunos orientados a posibles aplicaciones de cálculo de dosis en radioterapia a partir de las imágenes de TC, y otros, más específicamente orientados al cálculo de las dosis recibidas por el paciente en TC.
+
+En cualquier caso, dada la evolución actual de los equipos (TC multicorte o escáner híbrido TC-PET) y de sus aplicaciones (cardiología, fluoroscopía o angiografía), estos programas permiten utilizar métodos ad hoc para estimar las dosis u otras magnitudes de interés. Los principales parámetros de exploración determinantes de la dosis efectiva son: el kilovoltaje (KV), la corriente de tubo (mA), la colimación y el pitch. Además, la dosis efectiva para un TC puede calcularse empleando distribuciones de dosis para una geometría específica de exploración y calidad del haz, que a su vez dependen de la corriente y el kilovoltaje, el volumen explorado y el pitch.
+
+La dosis efectiva normalizada en TC vendrá dada por la ecuación (i) expresada como:
+
+
+
+donde DLP, el producto dosis-longitud es la cantidad operacional y EDLP, el factor de conversión.
+
+El producto dosis-longitud, DLP (mGy.cm), representa la dosis de radiación integrada para un TC. A partir del DLP, puede calcularse la dosis efectiva para regiones típicas del cuerpo aplicando un factor de conversión (mSv.cm/mGy) que depende de factores ponderados de riesgo para el órgano. La tabla IV muestra los factores de conversión para la estimación de la dosis efectiva normalizada en adultos, en diferentes exámenes de TC.
+
+  
+
+Por otra parte, la Dosis Glandular Promedio (DGP) es el parámetro que describe la dosis absorbida en la mama (dosis-órgano), que reemplaza los valores de medida tradicionales, tales como la dosis en la piel y la dosis de medio plano de la mama. La DGP para una mama de espesor dado, es el producto de la exposición de entrada y un factor de conversión (establecido en función del espesor hemirreductor), y el kV de la exposición en cuestión. Hace poco publicamos un método de cálculo de dosis glandular promedio en exámenes de mamografía convencional(17), en el cual los parámetros de interés: kilovoltaje (kV), carga del tubo (mAs) y espesor de mama comprimida, son tomados del equipo e introducidos manualmente en una hoja de cálculo, arrojando como resultado la DGP en mGy.
+
+En la tabla V se muestran los niveles de referencia de dosis efectiva en exámenes radiológicos, de angiografía y TC, propuestos por el Colegio Americano de Radiología (ACR)(18). En la tabla VI se muestran los niveles de referencia de DLP en exámenes de TC, propuestos por la Comunidad Europea (CE)(19).
+
+  
+
+  
+
+Finalmente, el Colegio Americano de Radiología(20) acredita las imágenes (DGP liberado por sistemas mamógrafos), al simular un espesor comprimido de 4,2 cm cuya composición es 50% tejido adiposo y 50% tejido glandular, y establece el valor de referencia en 3 mGy, por proyección cráneo-caudal.
+
+El descriptor BERT
+
+El descriptor período equivalente de radiación natural de fondo, BERT (Background Equivalent Radiation Time) por sus siglas en inglés, fue propuesto por primera vez y promovido por el Dr. John Cameron de la Universidad de Wisconsin-Madison en Estados Unidos. Debido a la naturaleza compleja de las múltiples mediciones científicas de los niveles de radiación, este descriptor fue considerado para el público en general incorporando términos que pueden ser entendidos fácilmente, sin complicadas unidades científicas, terminología y/o conceptos(21) .
+
+Este descriptor se compara con la radiación natural de fondo a la que cada día está expuesta toda la población, de las sustancias radiactivas naturales del aire, del suelo y del entorno o medio que lo rodea. La radiación natural de fondo incluye una componente importante que está relacionada con el gas radón. Aunque la cantidad de radiación varía con la altitud y la localización, la radiación natural de fondo anual es aproximadamente 3 mSv. Sin embargo, hay considerables variaciones de radiación natural de fondo entre países, así como dentro de cada país. Por ejemplo, en el Reino Unido la media de la radiación natural de fondo es de 2,2 mSv por año(22). Por lo tanto, la cantidad de radiación recibida de un procedimiento radiológico puede expresarse en términos de un cierto número de días, meses o años de radiación natural de fondo. Este el fin que persigue el descriptor BERT.
+
+Justificación de las prácticas radiológicas
+
+Una manera de justificar las prácticas radiológicas es tener en cuenta que siempre son mayores los beneficios que los riesgos involucrados, cuando los procedimientos se aplican dentro de las normas de la buena práctica médica.
+
+Por lo tanto, el uso de guías para solicitud de exámenes por imágenes debe ser necesario y casi obligatorio, para que los médicos se sirvan de directrices y tengan una decisión clara al enviar a los pacientes a los servicios de diagnóstico por imagen. Estas guías serán muy útiles sobre todo, para los Médicos que recién ingresan a un hospital o centro de salud.
+
+La Guía Europea PR118(22) (Guía de indicaciones para la correcta solicitud de pruebas de diagnóstico por imagen, 2000) trata 280 problemas clínicos, descritos en cuatro columnas: en la primera se presenta la situación clínica que requiere exploración; en la segunda se apuntan algunas posibles técnicas de diagnóstico por imagen (y el nivel de exposición a la radiación que conllevan); en la tercera se da la recomendación (y el grado de las pruebas que la respaldan) sobre si la exploración es la adecuada o no, y en la cuarta se ofrecen comentarios explicativos.
+
+Programa de Protección Radiológica del Paciente (PRP)
+
+El programa de Protección Radiológica del Paciente (PRP) tiene como objetivo tomar todas las medidas necesarias para proteger al paciente, para conservar los beneficios disminuyendo los riesgos(23) .
+
+A partir del primer Congreso de PRP que tuvo lugar en Málaga-España en el año 2001, algunos países, como por ejemplo Argentina (Autoridad Reguladora Nuclear, 2004), comenzaron a elaborar su propio PRP. El programa argentino de PRP es conducido por una Comisión Conjunta de Sociedades Profesionales vinculadas al uso de radiaciones ionizantes en medicina y tiene seis objetivos básicos(23):
+
+1. Justificabilidad: es importante que el público sepa que los estudios radiológicos implican un riesgo que sólo se justifica si el examen tiene una indicación médica.
+
+2. Optimización de la práctica: una vez que los estudios estén justificados se intenta que los mismos se realicen en condiciones óptimas para que las dosis sean tan bajas como sea posibles.
+
+3. Prevención de accidentes (riesgos potenciales): en radioterapia pueden producirse fallas que ocasionen que el paciente reciba una dosis mayor o menor que la necesaria, y ambos casos deben evitarse. Estos accidentes en general son originados por errores humanos.
+
+4. Capacitación y entrenamiento: el equipo médico debe contar con una calificación adecuada.
+
+5. Difusión de los criterios de PRP: a fin de hacer una difusión adecuada de los criterios de PRP en todo el país.
+
+6. Estructura de control y supervisión: con el fin de establecer un sistema de control que estimule las buenas prácticas y corrija las desviaciones.
+
+Conclusiones

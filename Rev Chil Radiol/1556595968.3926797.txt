@@ -1,0 +1,214 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082013000400005
+Más allá del tensor de difusión: Experiencia preliminar en Tractografía HARDI-CSD y Super-Resolución en 1.5T
+
+Revista Chilena de Radiología. Vol. 19 Ng 4, año 2013; 166-173.
+
+NEURORRADIOLOGÍA
+
+ 
+
+Más allá del tensor de difusión: Experiencia preliminar en Tractografía HARDI-CSD y Super-Resolución en 1.5T
+
+ 
+
+Beyond the diffusion tensor model: Preliminary Experience inHARDI Tractography-CSD and Super-resolution 1.5T
+
+ 
+
+TM. Javier Urriola Y(1), Dr. Ricardo Wenger C(2).
+
+1. TM. M.Sc. Magnetic Resonance Technology, University of Queensland, Australia.
+
+2. Médico Radiólogo. Clínica Alemana de Valdivia. Instituto de Especialidades, Facultad de Medicina, Universidad Austral de Chile. Valdivia - Chile.
+
+Dirección para correspondencia
+
+Abstract. Introduction: For more than a decade the diffusion tensor imaging model has been widely used in order to resolve and represent the intracranial white-matter microanatomy. Howeverthere are numerous studies that have successfully demonstrated the limitations associated with DTI in trying to define crossing-fibre regions. Various models have been developed with the intention of overcoming these limitations. This is why our study focuses on the description and preliminary experience in the use of tractography based on high-angular-resolution-diffusion imaging (HARDI) using the constrained spherical deconvolution (CSD) technique. Methods: The data was acquired on a Philips Achieva 1.5T resonator using a diffusion weighted single-shot echoplanar sequence along 32 directions with a b-value of 1000s/mm2. The images were processed using FSL v5.0 and MRtrix v0.2.10 software. Results: We achieved tensor free high-angular-resolution-diffusion tractographic images that better represented the white-matter micro-architecture than those obtained from the tensor model. Additionally, it was possible to generate track-density images (TDI) with a final resolution more than 500 times that of the acquired data. 
+
+Key word: Constrained Spherical Deconvolution, Diffusion weighted imaging, Diffusion tensor imaging, High Angular-Resolution Diffusion Imaging, MRI, Neuroimaging, Super-resolution, Tractography, Track-density imaging.
+
+Resumen. Introducción: Desde hace más de una década que el modelo de tensor de difusión ha sido ampliamente utilizado con el fin de resolver y representar la microanatomía de la sustancia blanca intra-cerebral. Sin embargo, no son pocos los estudios que han logrado demostrar las grandes desventajas que el modelo presenta al tratar de definir regiones de entrecruzamiento de fibras. Diversos modelos han sido desarrollados para ofrecer una solución consistente, capaz de representar dichas regiones con mayor grado de correlación anatómica. Es por ello que nuestro estudio se enfoca en la descripción y experiencia preliminar en el uso de tractografía basada en imágenes de difusión de alta resolución angular (HARDI) usando el modelo de deconvolución esférica restringida (CSD). Métodos: La adquisición se realizó en un resonador Philips Achieva 1.5T mediante secuencia de difusión single-shot echo-planar de 32 direcciones con un b-value de 1.000s/mm2 procesamiento de las imágenes se realizó mediante software FSL v5.0 y MRtrix v0.2.10. Resultados: Se lograron tractografías libres de tensor de difusión de alta resolución angular que representan la micro-arquitectura de la sustancia blanca de mejor manera que con las generadas a partir del modelo de tensor. Adicionalmente, se logró generar imágenes de densidad tractográfica (TDI) con una resolución final de más de 500 veces a la de adquisición.
+
+Palabras clave. Deconvolución esférica restringida, Imagen ponderada en difusión, Imágenes de densidad tractográfica, Imágenes de difusión de alta resolución angular, Neuroimagen, Tractografía, Tensor de difusión, Resonancia magnética, Súper-resolución.
+
+Introducción
+
+El cerebro humano es el órgano de mayor complejidad en nuestro organismo y a su vez el que mayor fascinación ha generado durante el último siglo, despertando generaciones de investigadores, quienes a pesar de describir detalladamente la macro-anatomía reconocen lo poco que se sabe sobre su función y micro-arquitectura (Gray, 1918, Raichle and Mintun, 2006). Es por ello que para contribuir a la comprensión del funcionamiento cerebral es necesario dilucidar como éste conduce el impulso electroquímico y es capaz de conectar diferentes áreas neuronales según el tipo de información transportada.
+
+A escala microscópica, las neuronas transmiten la información a otras células neuronales a través de su axón. Los axones representan la fibra nerviosa, los que unidos a otras fibras forman paquetes nerviosos denominados tractos neuronales. A gran escala los tractos neuronales constituyen el mayor componente del sistema nervioso central, los cuales cuentan principalmente con axones mielinizados muy estrechamente organizados que en su conjunto otorgan el color blanquecino característico. Esta intrincada red neuronal ha sido estudiada tanto en cortes histológicos como también con la inyección de marcadores químicos, y posterior observación creando mapas de conectividad neuronal de gran resolución, tanto en modelos animales como en estudios de post-mortem (Selden et al., 1998). Sin embargo, el estudio detallado in vivo sólo ha estado disponible a partir de los últimos 15 años (Le Bihan et al., 2001).
+
+Actualmente, la imagen de resonancia magnética potenciada en difusión (DWI) corresponde a la única técnica no invasiva capaz de revelar la micro-arquitectura de los tejidos. Desde su descripción hace ya casi 30 años (Le Bihan D, 1985) a la incorporación a mediados de la década de los 90s del modelo de tensor de difusión (Basser et al., 1994) la comprensión de la conectividad y funcionalidad neuronal se ha visto inmensamente beneficiada. Sin embargo, dichos avances no han estado exentos de dificultades al tratar de dilucidar y representar la intrincada microanatomía que caracteriza a la sustancia blanca intracerebral.
+
+ 
+
+Fenómeno de difusión
+
+Tanto en gases como en el líquido, las moléculas de agua experimentan un movimiento totalmente aleatorio, el cual es el resultado de colisiones moleculares inducidas por temperaturas absolutas positivas (Descoteaux, 2012). Este fenómeno físico descrito también como movimiento Browniano (Brown, 1828), hace casi 200 años, llevó a físicos a principios del siglo pasado a demostrar que el desplazamiento total de una molécula de agua que experimenta una difusión libre de obstáculos está representada por una distribución gaussiana (Einstein, 1905), la cual variará su longitud dependiendo de la distancia recorrida por unidad de tiempo, la cual es característica para cada fluido y se denomina coeficiente de difusión, D, cuyo valor esta dado en unidades de mm2/s.
+
+De este modo, la distribución normal del fenómeno de difusión libre estará caracterizado por el desplazamiento molecular equidistante en todas las direcciones, el cual se denomina difusión isotrópica, la cual puede ser representada como un volumen esferoidal (Figura 1a).
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sin embargo, la difusión es más compleja en tejidos biológicos y especialmente en el parénquima neuronal (Figura 2a, b), donde las moléculas están rodeadas de células gliales, membranas axonales semipermeables y vainas de mielina, las cuales en su conjunto restringen el desplazamiento y direccionalidad de la molécula de agua (Figura 1b). Es por ello que el proceso de difusión se torna anisotrópico, revelando la geometría y disposición espacial de las estructuras que bloquean la libre difusión de la molécula de agua. 
+
+
+
+
+
+
+
+
+
+ 
+
+De esta forma, el modelo de tensor de difusión, ampliamente ocupado para resolver la micro-arquitectura cerebral, se basa en determinar la forma, amplitud y direccionalidad del elipsoide para así describir tridimensionalmente el desplazamiento molecular del agua durante la secuencia de difusión. Es por ello que para caracterizar la anisotropía del vóxel se requiere de al menos seis direcciones ortogonales unas de otras, y adicionalmente una imagen libre de gradientes de difusión (Basser et al., 1994).
+
+Dentro de los actuales usos del tensor de difusión se destaca el uso de la determinación de la anisotropía como marcador para estadios patológicos, evaluación del desarrollo cerebral, parcelación de sustancia blanca, estudios de conectividad cerebral y evaluación pre y post-quirúrgica entre otros (Mori and Zhang, 2006). Todas estas aplicaciones utilizan el modelo de tensor para obtener la información necesaria de modo de representar de manera más adecuada la distribución espacial de los paquetes axonales contenidos en cada vóxel de adquisición (Figura 2c). Sin embargo, se ha demostrado que el modelo resulta ser inadecuado para representar apropiadamente la difusión en vóxeles que contienen múltiples orientaciones de haces neuronales (Tuch, 2004). Recientemente se ha estimado que el número de vóxeles que presentan algún grado de entrecruzamiento de fibras corresponde a aproximadamente el 90% (Jeurissen et al., 2010). Esto trae importantes consecuencias para realizar estudios tractográficos congruentes con la micro-arquitectura cerebral, ya que la mayoría de los tractos generados atravesarán regiones con importante entrecruzamiento a lo largo de su propagación.
+
+
+
+
+
+
+
+Para solucionar esta grave inexactitud en el modelo de tensor, numerosos modelos matemáticos de imágenes de difusión de alta resolución angular (HARDI) han sido sugeridos para resolver de manera más adecuada el artefacto de volumen parcial. Una de las soluciones propuestas recientemente contempla el uso de un modelo basado en la Deconvolution Esférica Restringida (CSD por sus siglas en inglés) (Tournier et al., 2007, Tournier et al., 2008). El modelo descrito proporciona información adicional suficiente para resolver regiones de entrecruzamiento (Figura 3), como también permite el mapeo de los haces trac-tográficos para lograr resoluciones mayores a la del vóxel de adquisición, técnica referida como imagen de densidad tractográfica o TDI (Figura 4) (Calamante et al., 2010, Calamante et al., 2011, Tournier et al., 2012).
+
+
+
+ 
+
+
+
+ 
+
+Es por ello que el presente estudio, aparte de reforzar los conceptos básicos sobre difusión y modelo de tensor, se enfoca en la descripción y experiencia preliminar con imágenes HARDI en equipos de 1.5 Tesla, de modo de lograr una adecuada representación y correlación microestructural, con el fin de ampliar y maximizar la información obtenida de imágenes de difusión para el diagnóstico neurorradiológico.
+
+ 
+
+Estructuras a evaluar
+
+Con el fin de obtener un resultado experimental del uso de la técnica en equipos ampliamente ocupados en nuestro país se decidió focalizar el estudio tractográfico a dos tractos que presentan entrecruzamiento de fibras, difíciles de resolver para el modelo de tensor. El primero fue el tracto óptico, el cual dirige su segmento intracraneano hacia la línea media donde se une al contralateral formando el quiasma óptico. En este punto se produce la decusación de aproximadamente el 50% de las fibras retinianas hacia el tracto óptico opuesto. Cabe destacar que la mitad de las fibras maculares y periféricas también cruzarán dividiendo la información captada en ambas retinas (Baert AL and Müller-Forell, 2006).
+
+Desde el ángulo pósterolateral del quiasma, la vía óptica continúa conformando los tractos ópticos. Estos avanzan hacia dorsal entre la sustancia perforada anterior y el tuber cinereum, constituyendo el límite anterolateral de la fosa interpeduncular. Posteriormente se acerca y adhiere al aspecto más craneal de los pedúnculos cerebrales, en estrecha relación con los uncus temporales. Rodean junto con las arterias posteriores al mesencéfalo para terminar, la mayor parte de sus fibras, a nivel del núcleo geniculado lateral en el aspecto posterolateral del tálamo. Sin embargo, en su trayecto, algunas de sus fibras finalizan su recorrido a nivel del colículo superior, área pretectal, núcleo accesorio del tracto óptico y núcleo supraquiasmático hipotalámico.
+
+Alrededor de la mitad de las fibras que se originan en el núcleo geniculado lateral se proyectan hacia la corteza visual occipital avanzando dorsalmente rodeando el aspecto más superior del ventrículo lateral a través del lóbulo parietal inferior. La otra mitad de las fibras describe un asa de dirección anterior (asa de Mayer) a través del lóbulo temporal por sobre y por fuera del cuerno ventricular temporal, para posteriormente alcanzar el polo occipital.
+
+El segundo tracto utilizado para evaluar la técnica HARDI-CSD fue el sistema cerebelo-cortical, el cual representa la principal vía eferente cerebelosa correspondiente a los pedúnculos cerebelosos superiores. Estos están conformados por fibras derivadas de los distintos núcleos cerebelosos que se proyectan hacia el mesencéfalo donde en un porcentaje importante, cruzan la línea media hasta alcanzar el núcleo rojo contralateral (Fernández-Miranda et al., 2012). Desde allí se proyectan hacia el tálamo y a través del tracto rubro-espinal que también se decusa, hacia la médula espinal, influyendo en la actividad motora del mismo lado.
+
+ 
+
+Material y métodos
+
+El estudio contó con la participación de cinco voluntarios adultos, tres mujeres y dos hombres, cuyas edades fluctúan entre los 23 y los 43 años. No presentaron antecedentes mórbidos ni contraindicaciones para realizar estudio de resonancia magnética. Se obtuvo consentimiento informado autorizando la participación de cada uno de ellos en este protocolo.
+
+ 
+
+Procedimiento de adquisición
+
+Las imágenes se obtuvieron de un resonador Philips Achieva 1.5T, bobina phase array de cerebro de 8 canales. La adquisición de las imágenes potenciadas en difusión se realizaron a partir del protocolo DTI high iso preinstalado en estaciones de adquisición Philips, desde donde se obtuvieron 32 direcciones de difusión equidistantes cambiando el valor b a 1.000s/mm2 mas una imagen b=0s/mm2. El vóxel isotrópico de adquisición de esta secuencia Spin Eco EPI fue de 2mm, NEX 2. Esta adquisición fue complementada con una secuencia anatómica gradiente 3D potenciada en T1 TR/TE 7.1/3.2ms con vóxel isotrópico de 1mm. El tiempo total de adquisición fue de aproximadamente 17 minutos.
+
+ 
+
+Pre-proceso de datos
+
+La direcciones de difusión fueron corregidas de corrientes de Eddie y registradas a la imagen b=0 s/mm2 para corrección de movimiento usando el software FSL (http://www.fmrib.ox.ac.uk/fsl) (Jenkinson et al., 2012). La estimación del tensor de difusión se realizó mediante el software MRtrix (Tournier et al., 2012), software que también se ocupó para realizar el cálculo de CSD de modo de obtener la orientación de la distribución de fibras (FOD) para cada vóxel con un nivel de armónicos de orden 6.
+
+ 
+
+Tractografía de fibras
+
+Se usó el abordaje probabilístico para la propagación de fibras, las cuales se obtuvieron con los siguientes parámetros: step size 0.22, largo mínimo máximo de propagación de la fibra 6/200 mm, radio mínimo de curvatura 1mm y un umbral de corte (cutoff) de 0.15. Por otro lado, para la comparación de la técnica HARDI la tractografía basada en tensor de difusión con propagación determinística, fue realizada con los valores precargados en MRtrix (Tournier et al., 2012).
+
+Se definieron dos pares de regiones de interés, el primer par contó con un vóxel único seleccionado sobre la imagen de mapa de vectores a color desde donde comienza el sembrado para la propagación de los tractos, y su región complementaria correspondió a una región esferoidal de diámetro 20mm en la región en donde las fibras tenían como blanco para su propagación. De este modo el primer par se realizó el sembrado en nervio óptico izquierdo y su blanco fue la corteza visual primaria (V1) en la región occipital. El segundo sembrado de fibras se localizó en vóxel único en medio del pedúnculo cerebeloso superior de valor estimado con anisotropía fraccional de 0.7 siendo su región de propagación el giro precentral contralateral, de modo de evaluar el paso de las fibras por la decusación de los pedúnculos cerebelosos superiores.
+
+Para lograr la imagen de densidad de tractos (TDI) se generaron 1.5 millones de fibras usando como máscara la totalidad del cerebro después de la remoción automática de cráneo BET mediante FSL (Jenkinson et al., 2012). Para la generación de los tractos los parámetros fueron similares a los nombrados anteriormente exceptuando que se descartaron todas las fibras con un largo mayor a 8 voxeles de modo de disminuir errores acumulativos durante la propagación probabilística y a la vez evitar la saturación en el contraste obtenido por estructuras con alta densidad de fibras (Kurniawan et al., 2012, Urriola et al., 2013). La comparación entre la imagen con la resolución original de adquisición y el resultado de 0.5 mm isotrópicos se muestra en figura 5.
+
+
+
+
+
+La técnica de súper-resolución de densidades trac-tográficas fue comparada mediante un gráfico perfil de contraste para una línea transversal en el plano axial. Para ello se contó con la opción Plot Profile incluida en paquete Fiji para el software de postproceso de imágenes ImageJ.
+
+Los gráficos de los perfiles de contraste se realizaron de tal forma de incluir sustancia gris, blanca y líquido cefalorraquídeo para determinar tanto el aumento de resolución como también de contraste para evaluar la imagen de densidad tractográfica (TDI).
+
+ 
+
+Resultados
+
+Las tractografías generadas usando tanto el modelo de tensor como la de alta resolución angular HARDI fueron capaces de generar propagaciones tractográ-ficas correlacionadas con la anatomía estructural. Sin embargo, en áreas de mayor entrecruzamiento como en la decusación de los pedúnculos cerebelo-sos superiores (Figura 6) como en el quiasma óptico (Figura 7), el modelo tractográfico HARDI logró una mejor representación tractográfica. En ninguno de los volúmenes adquiridos el modelo de tensor fue capaz de cruzar la línea media en la decusación del tracto cerebelo-cortical (Figura 8). En cambio la mayoría de las fibras pudieron propagarse a través de la decusación, pasando por el tálamo y alcanzando la corteza motora para el modelo de difusión de alta resolución angular.
+
+
+
+ 
+
+Figura 6. a) Imagen a nivel diencefálico demostrando la diferencia entre el modelo de difusor de tensor (b) en donde no es posible generar fibras con el método determinístico que crucen al lado contralateral desde el pedúnculo cerebeloso hacia la región motora primaria contralateral. Imagen (c) representa el entrecruzamiento de fibras de la decusación (flecha) y su correspondiente tractografía.
+
+
+
+ 
+
+Figura 7. Comparativa entre el resultado de tensor de difusión A, B con tractografía probabilística HARDI para resolver regiones de entrecruzamiento de fibras en el quiasma óptico. En las imágenes se aprecia la característica de la técnica del modelo de alta resolución angular en donde la forma del FOD permite la propagación de fibras en múltiples direcciones dentro de un mismo vóxel. En comparación al modelo standard de tensor de difusión donde la orientación de la difusión está dado solo por la eigenvector de la elipsoide.
+
+
+
+ 
+
+Figura 8. Imagen A, C corresponde a la tractografía usando el modelo de tensor de difusión con propagación determinístico. La región de sembrado se situó en vóxel dentro del pedúnculo cerebeloso superior izquierdo y la región de interés para la propagación fue la región motora primaria. Imágenes B y D corresponden a la principal vía eferente del cerebelo. La cual emerge de los núcleos dentados hacia el núcleo rojo contralateral, tálamo llegando a la región motora contralateral.
+
+En relación a la vía óptica, la propagación desde el nervio prequiasmático izquierdo hacia la corteza visual resulta factible para ambos modelos en todos los pacientes para la región V1 ipsilateral. Sin embargo, solo el modelo tractográfico HARDI fue capaz de resolver el entrecruzamiento (Figura 9). Del mismo modo, la capacidad de resolver correctamente las fibras que atraviesan la decusación de los pedúnculos cerebelosos superiores fue exclusiva para el modelo HARDI para todos los volúmenes.
+
+
+
+ 
+
+Figura 9. Comparativa modelo en la representación tratográfica del tracto óptico con sembrado único en nervio óptico izquierdo, tanto para el modelo tensor de difusión (A,C) como para el modelo de alta resolución angular HARDI (B,D). Es importante notar que el modelo de tensor no fue capaz de resolver el entrecruzamiento de fibras en la región del quiasma óptico (flecha).
+
+
+
+Fue posible conseguir resoluciones mayores a la de adquisición al realizar un mapeo de los tractos generados bajo el modelo probabilístico obteniendo incluso resoluciones submilimétricas.
+
+Los gráficos de los respectivos perfiles de contraste y resolución se muestran en la figura 10. En ellos destaca la capacidad de la técnica de mapeo de densidad tractográfica para lograr resolver estructuras de tamaño menor al vóxel de adquisición por medio de aumento de la matriz de reconstrucción para generar imágenes de súper-resolución (Calamante et al., 2010). Por otro lado, TDI también otorga la posibilidad de generar un nuevo tipo de contraste, resaltando especialmente estructuras con índices anisotrópicos altos como el cuerpo calloso, cápsula interna y corona radiada entre otros.
+
+
+
+ 
+
+ 
+
+ 
+
+Discusión
+
+Las técnicas tractográficas son, hoy en día, un pilar para el estudio imagenológico de las relaciones entre lesiones intracerebrales y la sustancia blanca. Su utilidad en el estudio previo e intraoperatorio permite localizar y eventualmente preservar tractos piramidales, áreas motoras primarias, radiaciones ópticas y vías del lenguaje, entre otras áreas elocuentes.
+
+Sin embargo, presentan limitaciones ampliamente conocidas y que han limitado su aplicación clínica como son: la caracterización de haces complejos o de trayectos angulados, de sus reales orígenes y terminaciones, la presencia de arborizaciones terminales, pliegues de sustancia blanca a nivel subcortical y entrecruzamiento de fibras. En dichas situaciones, los métodos determinísticos han fallado en reproducir la neuroanatomía conocida ya hace siglos, generando artefactos y falsos tractos, con los riesgos quirúrgicos que ello conlleva. Más aun, el problema para demostrar entrecruzamiento de fibras se acentúa en presencia de edema o efecto de masa, hallazgos habituales en lesiones intraaxiales.
+
+La técnica HARDI ha demostrado superar en gran medida estas dificultades y proveer estudios de conectividad estructural con mayor precisión, en pacientes con lesiones intracerebral permitiendo una evaluación detallada del compromiso de sustancia blanca.
+
+Su utilidad puede representarse en la evaluación pre quirúrgica de cavernomas que ha demostrado ausencia de fibras axonales intralesionales. Sin embargo en aquellas lesiones hemorrágicas se identifican signos de disrupción de las fibras periféricas al cavernoma. Por otro lado, su adecuada evaluación podría marcar diferencia en los resultados quirúrgicos al utilizar una vía de acceso menos riesgosa para lesiones profundas.
+
+En el caso de tumores gliales es posible comprobar la infiltración de sustancia blanca por tumores de alto grado pudiendo diferenciarse del efecto de masa que genera. En ese sentido cabe destacar que no sólo permite hacer un análisis cualitativo de la disrupción de fibras (nula, parcial o total) sino que mediante la determinación de fibras por vóxel, correlaciona el número de axones existentes. Lo anterior permite cuantificar el daño y compararlo con haces contralaterales, pudiendo modificar el momento o técnica quirúrgicas y mejorar el seguimiento y pronóstico de las lesiones.
+
+La recopilación y posterior comparación de los hallazgos con bases de datos imagenológicos poblacionales permitirá comprender de mejor manera los mecanismos patogénicos de las distintas enfermedades neurológicas, psiquiátricas o trastornos del comportamiento, y colaborar en estudios de impacto de nuevas terapias.
+
+Su uso también puede ser aplicado en lesiones isquémicas evaluando la relación de haces que terminan o se originan en áreas elocuentes y pequeños infartos lacunares sintomáticos. La posibilidad de inferir pronósticos a largo plazo post evento isquémico es también parte de las líneas de investigación actual con promisorios resultados. Otras aplicaciones son la evaluación de enfermedades desmielinizantes, daño axonal difuso o encefalopatía hipóxico isquémica en población pediátrica (Yamada and Nishimura, 2009).
+
+Las pruebas realizadas en este estudio demuestran que es posible utilizar esta herramienta en el ámbito clínico, sin grandes requerimientos especiales, en equipos de resonancia magnética disponibles a lo largo de nuestro país, haciendo uso de software de uso público, formando parte del arsenal imagenológico funcional. Por otro lado, abre nuevos caminos para la investigación científica y el uso académico para la comprensión más fidedigna de la neuroanatomía humana.
+
+ 
+
+Limitaciones
+
+A pesar que los resultados obtenidos en el presente estudio representan un paso significativo para la caracterización de la micro-arquitectura del parénquima cerebral, las técnicas tractográficas y de súper resolución utilizadas aún están en proceso de investigación y desarrollo, por lo que los parámetros de propagación como curvatura y umbral de término como también el número de tractos necesarios para generar imágenes potenciadas en densidad tractográfica aún no están estandarizados. El proceso de validación se ha llevado a cabo mediante equipos de alto campo (Kurniawan et al., 2012, Moldrich et al., 2010, Urriola et al., 2013) por lo que la presente experiencia aporta a la ampliación del modelo HARDI-CSD en equipos de 1.5T. Sin embargo, serán necesarios análisis sobre la reproducibilidad y variabilidad del modelo, parámetros y post-proceso de modo de adoptar la técnica para complementar el diagnóstico clínico por imágenes.
+
+ 
+
+Conclusión
+
+La tractografía HARDI es, sin duda, un gran paso para lograr una correlación anatómicamente correcta de la microanatomía en sustancia blanca. Nuestro estudio, el primero que introduce la técnica en Chile, reveló la posibilidad de utilizar este novedoso método de alta resolución en equipamiento convencional en nuestro país. Es de esperar que en un futuro próximo se puedan llevar a cabo nuevos estudios en éste u otros modelos que ofrezcan una alternativa real y robusta al modelo de difusión de tensor, para así ofrecer un estudio de mayor calidad diagnóstica a nuestros pacientes como también contar con un modelo capaz de resolver de mejor manera preguntas experimentales.

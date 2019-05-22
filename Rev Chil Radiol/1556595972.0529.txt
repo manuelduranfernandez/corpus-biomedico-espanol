@@ -1,0 +1,160 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082017000400151
+Utilidad del Score PI-RADS 2 en la Práctica Clínica ¿Se Justifica el estudio histológico?
+
+Introducción
+
+Actualmente la Sociedad Internacional de Patología Urológica (ISUP) clasifica el cáncer de próstata en 5 grupos según el patrón histológico1, pero el riesgo de progresión y diseminación está determinado por el score de Gleason total. Un score ? 6 traduce riesgo muy bajo o bajo. A este subgrupo se le puede ofrecer vigilancia activa, es decir, control periódico con antígeno prostático específico (APE), evaluación clínica, biopsia y/o imágenes; en aquellos de riesgo intermedio y alto, con score ³ 7, no es viable la vigilancia activa, siendo candidatos a tratamiento activo, entre ellos cirugía y/o radioterapia, por lo que son considerados “clínicamente significativos”.
+
+La biopsia prostática sistemática transrectal es el método de elección utilizado por los urólogos para hacer un muestreo histológico de la glándula prostática. Se realiza en un box de atención sin mayor complejidad, pero se trata de un procedimiento invasivo donde se obtiene por lo general 12 muestras, con una tasa de complicaciones reportada en 20,2 por mil procedimientos, incluyendo infecciones, sepsis, sangrado y alteraciones urinarias2.
+
+Es por esto que se recurre a métodos de screening para optimizar las biopsias, siendo el antígeno prostático específico (APE) el de mayor uso. Sin embargo, este no es capaz de discriminar entre patología benigna y cánceres de bajo, intermedio o alto riesgo, encontrándose un alto número de pacientes con APE elevado y biopsias negativas o con lesiones de bajo riesgo, lo que puede llevar a un exceso de tratamientos activos como cirugías y/o radioterapia, sin impacto significativo en la sobrevida. Por otro lado, en un pequeño grupo de pacientes, se puede encontrar APE alterado y no detectarse un cáncer de riesgo alto hasta en un 7% de los casos, lo que podría retrasar un tratamiento adecuado3,4.
+
+La resonancia magnética multiparamétrica (RMmp) reportada como negativa, es decir con score PI-RADS 1 y 2 (Figura 1) reporta un VPN de hasta un 90% para cáncer clínicamente significativo, pero aún no ha sido validada como método de screening5.
+
+
+
+
+
+Figura 1: RMmp de próstata potenciada en T2 (A), difusión (B), ADC (C) y perfusión (D), que muestra signos de hiperplasia en zona de transición y algunas secuelas fibrosas post-inflamatorias en zona periférica. No hay focos sospechosos de enfermedad clínicamente significativa; PI-RADS 2. 
+
+
+
+
+
+Figura 1: RMmp de próstata potenciada en T2 (A), difusión (B), ADC (C) y perfusión (D), que muestra signos de hiperplasia en zona de transición y algunas secuelas fibrosas post-inflamatorias en zona periférica. No hay focos sospechosos de enfermedad clínicamente significativa; PI-RADS 2. 
+
+A pesar de esto, en nuestra institución se han realizado biopsias sistemáticas transrectales con RMmp negativas (PI-RADS 2), pero se desconoce su número, si corresponden a cáncer (en especial clínicamente significativo), y si justifican las eventuales complicaciones y costos del procedimiento.
+
+Estas interrogantes presentan mayor relevancia teniendo en cuenta que en nuestra institución ha existido un aumento sostenido en el total de RMmp de próstata realizadas, desde cerca de 300 en el primer semestre del 2015 a más del doble en el primer semestre del 2017, con un aumento proporcional de aquellas categorizadas como PI-RADS 2, las cuales representan aproximadamente el 50% (Gráfico 1).
+
+
+
+
+
+Gráfico 1: RMmp de próstata categorizadas como PI-RADS 2 versus total realizadas entre enero 2015 y junio 2017. 
+
+
+
+
+
+Gráfico 1: RMmp de próstata categorizadas como PI-RADS 2 versus total realizadas entre enero 2015 y junio 2017. 
+
+Materiales y métodos
+
+Estudio retrospectivo observacional aprobado por el comité de ética de Clínica Alemana de Santiago (CAS), quien autoriza exención de consentimiento informado. Se realizó búsqueda en el PACS institucional de todos los informes de RMmp de próstata que incluyeran la categoría “PI-RADS 2” entre enero del 2015 y junio del 2017. Los pacientes que fueron incluidos en la muestra presentaban seguimiento en nuestra institución, es decir al menos un control con urología posterior al examen, y registro de resultados histológicos en la ficha electrónica. Luego se extrajeron los datos para edad, APE, volumen prostático (VP) en RMmp e indicación y resultado de biopsia para cada uno.
+
+Todos los exámenes fueron realizados en resonadores magnéticos 3 Tesla (modelo Skyra, Siemens Healthcare), plataforma versión Numaris/4. Se utilizó bobina de superficie phase array de pelvis de 30 canales, con administración de buscapina 10 mg poe vía intravenosa. El protocolo de estudio incluye secuencias T2 TSE multiplanares sagital, coronal y axial, T1 TSE axial, difusión (b0, 50, 500, 1000 y 1600), mapa ADC y estudio de perfusión.
+
+Las características cualitativas se describen por sus distribuciones de porcentaje; los cuantitativos en términos de promedios (y DS) o en intercuantiles en caso de asimetría. La normalidad de variables cuantitativas fue evaluada usando la prueba de Shapiro-Wilk. También se realizó regresión logística en busca de asociaciones estadísticamente significativas entre las variables y probabilidad de cáncer. El análisis de regresión logística múltiple se llevó a cabo con la consideración de las variables que presentaron p<0,20 en el análisis bivariado. Permanecieron en el modelo final las variables con p< 0,05. La base de datos fue tabulada y procesada en software STATA v 14.0 (Stata Corp S.A.), se calculan intervalos de confianza de 95%, según corresponda, y se estiman variaciones estadísticamente significativas, con un p<0.05. 
+
+Resultados
+
+Se encontraron 1.287 informes PI-RADS 2 en el periodo señalado, separando 646 pacientes con seguimiento, que representan el 50,2% del total de exámenes realizados. De ellos, 91 pacientes contaban con informe de biopsia en la ficha clínica, que corresponde al 14% de aquellos con seguimiento, los cuales conforman la muestra final para el análisis (Figura 2).
+
+
+
+
+
+Figura 2: Obtención de la muestra. 
+
+
+
+
+
+Figura 2: Obtención de la muestra. 
+
+La edad promedio de la muestra fue de 61 años (DS 7,91), la mediana de APE fue 5.82 ng/ml (RIC 4,27-8), y la mediana de VP de 66 cc (RIC 45-97) (Tabla 1). La mitad de los pacientes presentaba resultados histológicos realizados por biopsia sistemática trans-rectal indicada por el tratante en contexto de elevación de APE. La otra mitad de los resultados histológicos se obtuvieron del análisis de las cirugías por hiperplasia prostática benigna (HPB), en contexto de uropatía obstructiva. Se encontraron 10 casos de cáncer, nueve en el grupo con biopsia sistemática, y uno en el grupo de cirugía por HBP (Tabla 2). En el primer grupo, seis fueron Gleason 6 y tres Gleason 7. El único caso de cáncer en el segundo grupo correspondió a Gleason 7. Se realizó un análisis multivariado usando regresión logística, en el cual ninguna de las variables incluidas en el modelo demostró ser un predictor estadísticamente significativo para cáncer (Tabla 3).
+
+
+
+
+
+Tabla 1: Descripción de la muestra. 
+
+
+
+
+
+
+
+Tabla 1: Descripción de la muestra. 
+
+
+
+
+
+Tabla 2: Casos de cáncer por subgrupo y scorede Gleason. 
+
+
+
+
+
+
+
+Tabla 2: Casos de cáncer por subgrupo y scorede Gleason. 
+
+
+
+
+
+Tabla 3: Análisis multivariado. 
+
+
+
+
+
+
+
+Tabla 3: Análisis multivariado. 
+
+En el análisis global, un 10,98% de los pacientes biopsiados corresponden a casos de cáncer no pesquisados por la RMmp, independiente del nivel de riesgo, es decir, de su relevancia clínica (Gráfico 2). Si consideramos sólo cáncer clínicamente significativo, estos falsos negativos se reducen a un 4.4% (Gráfico 3). No hubo casos de falsos negativos para cánceres de riesgo alto.
+
+
+
+
+
+Gráfico 2: Porcentaje de biopsias positivas para cáncer versus negativas. 
+
+
+
+
+
+Gráfico 2: Porcentaje de biopsias positivas para cáncer versus negativas. 
+
+
+
+
+
+Gráfico 3: Total de casos de cáncer por grupo de riesgo: bajo (Gleason 6), intermedio (Gleason 7) y alto (Gleason > 7). 
+
+
+
+
+
+Gráfico 3: Total de casos de cáncer por grupo de riesgo: bajo (Gleason 6), intermedio (Gleason 7) y alto (Gleason > 7). 
+
+Discusión
+
+En nuestra institución una RMmp negativa (score PI-RADS 2) descartó correctamente neoplasia clínicamente significativa en el 95.6% de los casos, sin existir casos de cáncer de riesgo alto. La mayoría de los casos de cáncer (90%) se encontraron en el grupo de biopsia sistemática, lo que era esperable considerando que en estos pacientes existía una mayor sospecha clínica que llevó a la realización de la biopsia sistemática transrectal, a diferencia de aquellos con HPB en que existía una muy baja sospecha clínica.
+
+Como se observa en el gráfico 1, la categoría PI-RADS 2 representa aproximadamente la mitad de todas las RMmp realizadas en nuestra institución durante los últimos cinco semestres, pero ésta aún no entrega la confianza suficiente a los médicos clínicos para evitar la realización de biopsias sistemáticas en algunos pacientes.
+
+Un aspecto destacable de la muestra de éste trabajo es la representación simétrica de pacientes con indicación de biopsia y de indicación quirúrgica de la HPB sin biopsia previa, disminuyendo así el sesgo de selección. Esto da cierta validez externa al considerar escenarios habituales en la práctica clínica para radiólogos y urólogos.
+
+No se encontró en la literatura estudios de diseño similar al nuestro, la mayoría busca valores de sensibilidad, especificidad, valor predictivo positivo y VPN, algunos mostrando resultados similares relacionados al objetivo de nuestro estudio.
+
+Numerosos estudios han estimado el VPN de la RMmp para la pesquisa de todos los cánceres en 54-65% y en un 84-90% para cánceres clínicamente significativos (Gleason ≥7).
+
+Wysock et al. reporta un VPN de la RMmp para lesiones clínicamente significativas (Gleason ≥7) de un 98.7%. Otras publicaciones reportan VPN para lesiones clínicamente significativas de 98% (Villiers), 96% (Emberton), 96% (Villers), 97% (Pokorny).
+
+Los estudios citados y el aumento sostenido de la RMmp plantean preguntas similares a la nuestra: si debemos seguir realizando biopsias a pacientes con RMmp con baja sospecha de cánceres clínicamente significativos y en qué forma debemos realizar un adecuado seguimiento a estos pacientes.
+
+El diseño de nuestro estudio no permite calcular VPN, pero tampoco parece éticamente correcto someter a biopsia a todos los pacientes con RMmp negativas (PI-RADS 1-2) con el solo fin de estimar dicho parámetro considerando la evidencia disponible actualmente.
+
+A pesar de no corresponder a un estudio prospectivo, el análisis multivariado es coherente con nuestra percepción de que, al enfrentarnos a un examen, ninguno de los antecedentes incluidos nos predispone a encontrar lesiones malignas en algún escenario clínico en particular.
+
+Conclusiones
+
+La RMmp con baja sospecha de una lesión clínicamente significativa (PI-RADS 2) en nuestra institución demostró ser un método confiable para el estudio de neoplasia prostática, en especial para descartar cánceres clínicamente significativos, con muy pocos pacientes con estudios histológicos positivos para cáncer y en especial de lesiones clínicamente significativas (riesgo intermedio-alto). Un punto a considerar es la adecuada interpretación de la RMmp que debe ser realizada por médicos capacitados en ésta técnica, con una variabilidad interobservador al menos aceptable, hechos que pueden no reflejar el uso de la RMmp en la comunidad radiológica.
+
+La información de este estudio podría tener un impacto en la conducta de los médicos tratantes que se traduzca en una disminución en el número de biopsias prostáticas, lo cual podría ser objeto de nuevos estudios a futuro.

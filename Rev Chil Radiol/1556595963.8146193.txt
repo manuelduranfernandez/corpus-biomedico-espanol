@@ -1,0 +1,102 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082010000100003
+CARACTERIZACIÓN DE LESIONES HEPÁTICAS SÓLIDAS CON TÉCNICA DE DIFUSIÓN POR RESONANCIA MAGNÉTICA: REPORTE PRELIMINAR
+
+Resumen:    La caracterización de las lesiones hepáticas en resonancia magnética    se basa en: morfología, comportamiento en las diversas secuencias y con el contraste    paramagnético. Objetivo: evaluar el comportamiento en difusión de diversas lesiones    sólidas, midiendo ADC para determinar su utilidad. En los años 2007-2008, se    estudiaron 51 lesiones focales sólidas (26 pacientes) con resonancia magnética,    utilizando secuencias convencionales y difusión, que fue adquirida con modalidad    EPI con diferentes valores de "b". Las lesiones correspondieron a:    20 hemangiomas, 12 hiperplasias nodulares focales (HNF), 5 hepatocarcinomas    (HCC) y 14 metástasis. El análisis estadístico permitió determinar nivel de    corte óptimo (ADC 1.28x10'3mrrf/s) para diferenciar lesiones benignas    de malignas. Los valores ADC de lesiones benignas fueron significativamente    mayores que los de las malignas; el hemangioma fue la lesión sólida con mayor    ADC, seguido por HNF, HCC y metástasis, con valores menores. Los valores medios    encontrados fueron de 1.68, 1.30, 1.08 y 1.03 (x103mm2/s)    respectivamente. En nuestra opinión, la técnica de difusión debe utilizarse    como complemento de resonancia magnética convencional, para una adecuada caracterización    de lesiones sólidas hepáticas.
+
+ Palabras    clave: Difusión, Lesiones hepáticas sólidas, Resonancia magnética.
+
+ 
+
+Introducción
+
+El hígado puede    presentar una amplia variedad de lesiones sólidas, tanto benignas como malignas.    La detección, caracterización y diferenciación certera de éstas ha sido siempre    uno de los objetivos de los diferentes métodos de imágenes.
+
+En resonancia magnética    (RM), la caracterización de estas lesiones se basa en su morfología, intensidad    de señal en las diferentes secuencias (HASTE, T1) y en su comportamiento con    contraste paramagnético (Gadolinio). También se han usado contrastes específicos    que, dado su alto costo, no están disponibles en nuestro país. Sin embargo,    aún con los protocolos habituales de estudio, que incluyen las secuencias antes    mencionadas, todavía persisten casos donde no es posible lograr una adecuada    diferenciación entre    lesiones benignas y malignas
+
+La técnica de difusión    por RM, que no requiere uso de contraste, es ampliamente utilizada en el sistema    nervioso central. Sin embargo, su utilización en abdomen sólo se describió en    1994 cuando Muller et al(1) presentan sus primeros trabajos en esta    área. Desde entonces, se han publicado múltiples estudios sobre los parámetros    técnicos'25' y las características de la difusión en los diferentes    órganos sólidos tales como hígado, bazo, riñon y páncreas'67', incluyendo    enfermedades difusas y focales del hígado'6810'. En nuestro medio    no existen publicaciones en el uso de esta técnica en el estudio de lesiones    hepáticas focales sólidas.
+
+Las características    de difusión en un tejido son evaluadas midiendo el Coeficiente Aparente de Difusión    (ADC) que cuantifica el movimiento incoherente intravoxel, determinado por:
+
+a)       Perfusión capilar y
+
+b)       Movimiento browniano de las partículas de agua libre o difusión propiamente    tal.
+
+La difusión por    RM refleja las propiedades de los tejidos, tales como amplitud de los espacios    ex-tracelulares, viscosidad, celularidad, integridad de membranas, etc.
+
+Objetivo
+
+El objetivo del    trabajo fue evaluar las características de difusión de diferentes lesiones sólidas    del hígado, cuantificando los valores de ADC para determinar si esta técnica    es útil en la diferenciación de lesiones benignas y malignas.
+
+Materiales    y Método
+
+Se revisaron retrospectivamente    todos los estudios de RM de hígado realizados durante 8 meses (01 agosto 2007-    30 marzo 2008), midiendo los valores de ADC de las lesiones sólidas encontradas    en el período.
+
+El estudio de RM    convencional y la difusión fueron realizados con un equipo Siemens modelo Avanto    1.5 Tesla, utilizando antenas spine matrix (columna) por posterior y body matrix    (cuerpo) por anterior.
+
+Todas las imágenes    de difusión fueron adquiridas con modalidad Echo Planar Imaging (EPI) con técnica    de adquisición en paralelo en plano axial, usando los siguientes parámetros:    a) 12 a 18 imágenes para cubrir el hígado, b) tiempo de repetición (TR) de 1800    ms, c) tiempo de eco (TE) de 85 ms, d) matriz 192x192, grupo de visión (FOV)    de 350 mm, espesor de corte de 7 mm y 4 mm en lesiones pequeñas, f) distancia    entre cortes de 0 mm, g) factores de difusión ("b") de magnitud ascendente,    es decir, con diferentes grados de sensibilización (50, 200, 400, 500, 700 y    850 seg/mm2).
+
+La adquisición    se realizó con 4 señales, y un tiempo total aproximado de 2:15 minutos, en respiración    libre. Se utilizó técnica I PAT (Integrated Parallel Acquisition Techniques),    en modo GRAPA (Generalized Autocalibrating Partially Paralell Acquisition) con    factor de aceleración 2 y medición de antenas en modo dual.
+
+Los estudios de    RM convencional fueron interpretados por un médico radiólogo con dedicación    en Imaginología Gastrointestinal con 10 años de experiencia en RM.
+
+Las mediciones    de ADC de todas las lesiones fueron realizadas en forma independiente por un    médico radiólogo y un tecnólogo médico con dedicación en RM, promediándolas    posteriormente. Para evitar errores de volumen parcial se seleccionaron sólo    las lesiones sólidas iguales o mayores de 1 cm de diámetro, realizándose 3 mediciones    por lesión con un área de muestra de 5 mm2, promediándolas para obtener    el ADC final de cada lesión. En las lesiones con centro necrótico o fibroso    se evitó medir esta área (5 casos constituidos por 1 hemangioma, 2 HNFy 2 metástasis).    En aquellos pacientes que presentaban múltiples lesiones sólidas de similares    características, se seleccionó al azar un máximo 3 lesiones.
+
+El diagnóstico    final de la naturaleza de las lesiones se determinó por sus características    en: ultrasonografía (US), tomografía computada multicorte (TCMC) y RM sin/y    con contraste ev, además de la evolución en los casos benignos (tiempo de control    de 12 meses), los antecedentes de lesión primaria conocida y evolución en las    metástasis. En los casos de HCC se consideró: la presencia de cirrosis más un    nodulo con características propias de HCC en RM, nivel de alfafetoproteínas    y/o biopsia.
+
+Método estadístico:    El análisis de los datos fue realizado con el software R (http://www.r-project.org/);    toda decisión fue efectuada con un 95% de confianza. Los valores de ADC según    la caracterización final de la lesión fueron comparados de acuerdo al procedimiento    de Mann-Whitney. Se ajustó un modelo de regresión logística para modelar la    probabilidad de que la lesión fuera maligna, ocupando el valor de ADC como variable    predictiva. Con el modelo ajustado se determinó el punto óptimo de corte para    la discriminación en términos de sensibilidad y especificidad.
+
+Resultados
+
+En el período 01    de agosto 2007 a 30 de marzo 2008 se estudiaron 97 pacientes con RM de hígado;    en 46 de éstos se diagnosticó una o más lesiones nodulares sólidas hepáticas    mayores de 1 cm Se descartaron 13 pacientes por no tener secuencias de difusión,    1 paciente cuyo diagnóstico final fue proceso inflamatorio focal que regresó    con tratamiento antibiótico, 2 pacientes en que el nodulo correspondió a depósito    focal de grasa, 1 paciente con diagnóstico de nodulo displásico sin confirmación    y 3 pacientes con metástasis que habían recibido o estaban en tratamiento con    quimioterapia o radiofrecuencia. De este modo, el grupo final estuvo compuesto    por 26 pacientes con 51 lesiones nodulares sólidas: 11 hombres y 15 mujeres,    con un promedio de edad de 51,5 años y un rango de 30-73 años.
+
+Los diagnósticos    finales de las 51 lesiones nodulares analizadas fueron: 20 hemangiomas, 12 HNF,    5 HCC y 14 metástasis.
+
+El resumen de las    mediciones de los valores de ADC obtenidos en cada tipo de lesión se muestra    en la Tabla I y los box plots asociados se muestran en la Figura    1. En la Tabla I se observa que la distribución de    los valores de ADC son ascendentes en el orden expuesto, evidenciando un significativo    grado de superposición entre las mismas. En la Figura 1 se evidencia que en    el grupo de HNF existen 2 observaciones anómalas, que no siguen el comportamiento    general del grupo; ésto puede ser explicado por el bajo número de observaciones    y/o inexactitud de la medición del ADC.
+
+La Tabla    II muestra los resúmenes estadísticos de las mediciones de ADC de los diferentes    tipos de lesiones, agrupadas en benignas o malignas. La media obtenida para    las lesiones benignas fue de 1.54x103mm2/s, lo que difiere    significativamente de la media para lesiones malignas (1.04x103mm2/s),    según el test de Mann-Whitney (p < 0.05). La Figura 2    muestra box plots de los ADC para las mediciones de las 51 lesiones estudiadas,    evidenciando que existe alto grado de superposición entre primer y último cuartil    de las lesiones benignas y malignas respectivamente.
+
+  
+
+   
+
+   
+
+  
+
+ 
+
+                                                           
+
+Ajustando el modelo    de regresión logística se buscó la mejor regla de decisión (nivel de corte)    en base a la tasa correcta de clasificación. El valor de ADC obtenido fue 1.28x10"3mm2/s.
+
+La Tabla    III muestra la relación entre las lesiones hepáticas benignas y malignas    y la predicción de su naturaleza; fue realizada en base a un modelo con nivel    de corte de ADC de 1.28x103mm2/s. Con esta clasificación,    se obtiene sensibilidad y especificidad de 84%. La Figura    3 muestra el Box Plot de las lesiones benignas y malignas y su relación    con el nivel de corte de ADC seleccionado (1.28x103mm2/s)
+
+   
+
+   
+
+   
+
+En la Tabla    IV se observa el comportamiento de los diferentes tipos de nodulos, estudiados    en relación al nivel de corte utilizado (1.28x103mm2/s).    Si tomáramos como nivel de corte de ADC valores que nos permitieran un 100%    de especificidad, veríamos que la sensibilidad con este valor sería muy baja.    El 100% de las lesiones con ADC > 1.44 x10-3mm2/s<14>    correspondió a lesiones benignas (Figuras 4 y 5)    (13 de 20 hemangiomas y 1 de 12 HNF) y el 100% con ADC < 0,97 x103    mm2/s%(7) se trató de lesiones malignas (Figuras    6 y 7) (2 de 5 HCC y 5 de 14 metástasis). Entre estos    dos grupos, encontramos superposición de valores en 28 lesiones, benignas y    malignas (7 de 20 hemangiomas, 11 de 12 HNF, 3 de 5 HCC y 9 de 14 metástasis).
+
+   
+
+   
+
+   
+
+   
+
+Discusión
+
+Publicaciones previas    han demostrado la potencialidad del uso de ADC en la caracterización de lesiones    hepáticas focales'3'7'8'9'10'    o difusas, en la detección de lesiones focales'11' y en el control    de tratamiento de tumores hepáticos primarios y secundarios'121314'.
+
+Al igual que en    la literatura existente, hemos encontrado que la técnica de difusión, utilizando    como variable independiente el ADC, es útil en el estudio de las lesiones hepáticas    sólidas para la diferenciación entre lesiones benignas y malignas, siendo el    modelo estadísticamente significativo, con una sensibilidad y especificidad    de 84% respectivamente. Este valor está limitado por la superposición de valores    entre ambos tipos de lesiones, especialmente HNF y lesiones malignas (HCC y    metástasis).
+
+Si bien, en líneas    generales, nuestros hallazgos sobre los valores de ADC de los diferentes tipos    de lesiones son similares a lo encontrado en la literatura (los valores de los    hemangiomas, son mayores que las HNF y estas mayores que los del HCC y de las    metástasis) los valores absolutos no son iguales, lo que probablemente está    determinado por diferencias en la técnica ("b" utilizados, respiración,    forma de medición y técnica matemática utilizada).
+
+Las limitaciones    del estudio están dadas por el número de lesiones estudiadas y por no incluir    la ubicación de las lesiones en los distintos segmentos del hígado, ya que hay    publicaciones que han demostrado un diferente valor de ADC del parénquima hepático    sano en algunos segmentos (ej. segmento VIII) susceptibles a la influencia del    movimiento cardíaco y diafragmático y además por una menor relación señal/ruido    en aquellos sectores más alejados de las antenas'15'.
+
+El hecho de no    haber incluido las zonas de necrosis ni fibrosis (2 metástasis, 2 HNF y 1 hemangioma)    también debe ser tomado en cuenta en el análisis de los resultados, ya que estas    zonas tienen un mayor movimiento de agua libre y por ende mayor ADC, lo que    influye en las diferencias de valores de ADC reportadas por otros autores que    han incluido estas zonas en su medición.
+
+En conclusión,    la difusión por RM es una técnica fácil de realizar, que no requiere contraste,    agrega poco tiempo de exploración al examen y puede diferenciar lesiones hepáticas    sólidas benignas de las malignas con una elevada sensibilidad y especificidad    (84%). Sin embargo, no ocurre lo mismo cuando se pretende diferenciar entre    los diferentes tipos de lesiones sólidas benignas ni tampoco ayuda a diferenciar    los diferentes tipos de lesiones malignas, ya que en estas situaciones existe    un importante grado de superposición de valores de ADC.

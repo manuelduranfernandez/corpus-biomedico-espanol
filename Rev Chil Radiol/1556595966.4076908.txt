@@ -1,0 +1,136 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082011000300007
+4D FLOW: Una nueva herramienta de diagnóstico para cardiopatías congénitas
+
+Resumen: Objetivo. Demostrar la utilidad de 4D flow para el análisis de patrones y distribución de flujos en pacientes con cardiopatías congénitas. Métodos: Seis pacientes con cardiopatías congénitas fueron escaneados con un protocolo de resonancia magnética cardíaca estándar. Además se incluyeron secuencias de flujo 2D en los principales vasos del tórax y una secuencia 4D flow que cubría todo el corazón. Para la visualización de los patrones de flujo se emplearon vectores de velocidad, líneas de flujo y trazadores de partículas. Resultados: 4D flow reveló vórtices y hélices en la arteria pulmonar de la mayoría de los pacientes, y en la aorta y vena cava superior de un paciente con coartación aórtica reparada y vena cardinal levoatrial. Conclusiones: 4D flow permite identificar patrones de flujo en pacientes con cardiopatías congénitas, difíciles de observar con otros métodos diagnósticos. La evaluación de patrones de flujo podría contribuir a comprender las consecuencias hemodinámicas de diferentes cardiopatías congénitas.
+
+Palabras claves: 4D flow, Cardiopatía congénita, Patrones de flujo, Resonancia magnética.
+
+La resonancia magnética cardíaca (RMC) es una herramienta complementaria muy útil para el diagnóstico de pacientes con cardiopatías congénitas (CC)(1). Esta técnica ha reemplazado otras modalidades de imágenes llegando a ser el "gold standard" para la evaluación y/o seguimiento de algunas CC, como Tetralogía de Fallot o ventrículo único.
+
+La RMC es ideal para pacientes pediátricos con CC, dado que muchos de ellos tienen anatomías cardiovasculares complejas y requieren numerosos exámenes para el seguimiento de su patología y tratamiento. La técnica ofrece importantes ventajas: no es invasiva, no utiliza radiación ionizante, ni tampoco medios de contraste yodados. Además, permite un análisis preciso de la anatomía y cuantificación de la función y flujos cardiovasculares.
+
+En RMC la técnica más usada para la cuantificación de flujos cardiovasculares es el contraste de fase en imágenes bidimensionales. Esta técnica permite codificar la velocidad de los "spins" de los protones de hidrógeno presentes en el paciente (particularmente en la sangre) mediante la aplicación de gradientes magnéticos bipolares(2). Estos gradientes bipolares transforman la velocidad de los "spins". La magnitud de la fase observada es proporcional al área de los gradientes, al tiempo de aplicación de los gradientes, y particularmente, a la velocidad de los "spins". Estos gradientes pueden ser aplicados para codificar la velocidad en cualquier dirección espacial. Para la cuantificación de flujos cardíacos se adquiere usualmente un corte en un plano perpendicular al vaso de interés, con los gradientes bipolares aplicados en la misma dirección que los gradientes de selección del corte.
+
+Las curvas de flujos cardiovasculares se obtienen seleccionando una región de interés en el vaso deseado. El promedio de las velocidades, multiplicado por el área de la región de interés, entrega la cantidad de flujo en una determinada fase cardíaca. El volumen total de sangre que pasa por ese vaso durante el ciclo cardíaco se obtiene sumando los flujos obtenidos durante todas las fases cardíacas.
+
+Esta técnica es ampliamente usada y ha sido validada en pacientes con CC(3,4). Sin embargo, la adquisición de los datos es difícil, requiere de un usuario experimentado para planificar la ubicación de los cortes, y si el plano no es completamente perpendicular al vaso analizado, los flujos pueden ser subestimados(5,6).
+
+4D flow es una extensión de la técnica de contraste de fase 2D que permite obtener la velocidad de los "spins" en todas las direcciones y a lo largo de todo el ciclo cardíaco(7-9). A pesar de que esta técnica ha demostrado ser muy útil para el entendimiento de ciertas patologías cardiovasculares, su uso aún no se ha masificado en la práctica clínica. Esto se debe principalmente a los largos tiempos de adquisición de los datos, y a la dificultad en el procesamiento e interpretación de ellos.
+
+Durante los últimos años han surgido resonadores magnéticos más rápidos y software de procesamiento más amigables, reimpulsando esta técnica como un método útil para la comprensión de las dinámicas del flujo sanguíneo.
+
+La mayoría de las investigaciones en flujo se han focalizado en el entendimiento de la hemodinamia de la aorta bajo distintas condiciones(3,10-13). Sin embargo, la aplicación de esta técnica en pacientes con CC ha sido poco estudiada.
+
+El objetivo de este trabajo es demostrar la utilidad de la técnica 4D flow para analizar patrones y distribución de flujos en pacientes con CC.
+
+ 
+
+Material y métodos
+
+Técnica 4D flow
+
+La técnica 4D flow consiste en la aplicación consecutiva de gradientes bipolares para la codificación de velocidad en tres direcciones ortogonales. Al igual que en la técnica de contraste de fase 2D, es necesario definir la velocidad máxima esperada en el volumen que será codificado. Este parámetro, conocido como VENC ("Velocity ENCoding"), puede definirse para cada dirección en forma independiente. Es muy importante definir el VENC correctamente, ya que si éste es menor que las velocidades efectivas, las mediciones de la velocidad serán erradas. Por el contrario, si el VENC es mucho mayor que la velocidad efectiva las mediciones serán menos precisas(11), ya que no se podrá discriminar entre velocidades con pequeñas diferencias de magnitud.
+
+Como resultado de la adquisición 4D flow se pueden obtener 2 tipos de imágenes distintas, una imagen anatómica, y una imagen codificada por velocidad, la que a su vez permite ver tres direcciones del flujo en tres imágenes independientes (Figura 1). 
+
+
+
+Figura 1. (a) Imagen anatómica, y 3 imágenes codificadas en velocidad en 3 direcciones (b) izquierda a derecha, (c) de pies a cabeza (d) y antero posterior. Una velocidad igual a cero se codifica con un gris medio, mientras que velocidades positivas y negativas (según la dirección establecida anteriormente) se codifican en forma proporcional con grises claros y oscuros respectivamente 
+
+La secuencia 4D flow puede ser aplicada en un solo corte o en un volumen. La secuencia volumétrica aplicada en todo el corazón demora aproximadamente 10 a 15 minutos, incluso utilizando técnicas de adquisición rápida como SENSE y k-t blast(14). A pesar del largo tiempo de adquisición este método puede entregar información hemodinámica de todo el corazón y los grandes vasos en un solo "scan"(15), bajo las mismas condiciones fisiológicas.
+
+4D flow de todo el corazón permite reformatear a posteriori los datos en cualquier dirección, y por lo tanto, es posible cuantificar los flujos de todos los grandes vasos presentes en el volumen adquirido. Además de la cuantificación de flujos sanguíneos, las secuencia 4D flow permite evaluar semi-cuantitativamente los patrones de flujos como vorticidad o helicidad, determinar la trayectoria de la sangre, calcular "shunts" cardíacos debido a conexiones arterio-venosas y realizar estimaciones del "wall shear stress" en grandes vasos(16).
+
+Adquisición de datos
+
+Para demostrar la utilidad de la técnica, 6 pacientes con CC (4 hombres y 2 mujeres, edad media de 19.3 años, rango: 10-46 años) fueron escaneados en un resonador Philips 1.5T (Philips Healthcare, Best, The Netherlands). En cada paciente se realizó el protocolo estándar de RMC de acuerdo al tipo de patología, el que incluyó en la mayoría de los casos secuencias de contraste de fase 2D en los principales vasos del tórax: Aorta (Ao), Arteria Pulmonar (AP) y sus ramas principales (APD y API), Vena Cava Inferior (VCI) y Vena Cava Superior (VCS). Adicionalmente, en cada paciente se adquirió una secuencia 4D flow cubriendo todo el corazón y los grandes vasos del mediastino con los siguiente parámetros de adquisición: 50 cortes, ángulo de excitación de 6°, resolución temporal de 38 ms, resolución espacial de 2.5 mm3 y VENC = 200-350 cm/s.
+
+Análisis y cuantificación
+
+Para el análisis de los patrones de flujo se utilizaron distintas herramientas gráficas: vectores de velocidad, líneas de flujo o "streamlines" y trazadores de partículas (Figura 2). Para la generación de dichas herramientas se utilizó el software GTFlow (Gyrotools LLC, Zurich, Suiza).
+
+
+
+Figura 2. Ejemplos de métodos de visualización de patrones de flujo en la aorta y arteria pulmonar utilizando (a) vectores de velocidad, (b) líneas de flujo "streamlines" y (c) trazadores de partículas. 
+
+
+
+Vectores de velocidad
+
+Este método permite visualizar la componente de la velocidad paralela al plano de la imagen. Esta representación de los datos es útil para el análisis local de vórtices(17).
+
+Líneas de flujo o "streamlines"
+
+Son líneas imaginarias que se orientan de acuerdo al campo de velocidades de la sangre en una determinada fase cardíaca(18). Estas líneas imaginarias proveen una perspectiva 3D de los vectores de velocidad, permitiendo crear mapas de conectividad de la sangre, sin embargo, es sólo una representación estática.
+
+Trazadores de partículas
+
+Los trazadores de partículas permiten visualizar el recorrido que la sangre toma a lo largo del ciclo cardíaco(19). La técnica consiste en seleccionar un plano de interés y luego dibujar una región de interés (ROI) en un vaso desde donde se emitirán partículas ficticias que serán seguidas a lo largo del ciclo cardíaco.
+
+Resultados
+
+Los diagnósticos de los pacientes incluidos fueron: 1) Drenaje Venoso pulmonar anómalo (DVPA) parcial y comunicación interauricular, 2) Coartación aórtica reparada y vena cardinal levoatrial (conexión anómala venosa entre la aurícula izquierda y vena braquiocefálica izquierda), 3) y 4) Atresia pulmonar, status post reparación ventricular tipo "uno y medio" con anastomosis tipo Glenn, 5) Reparación tipo Fontan, y 6) Transposición de los grandes vasos, status post "switch" arterial.
+
+La técnica 4D flow reveló patrones de flujo como vórtices y hélices en la AP de la mayoría de los pacientes y en la VCS del paciente con vena cardinal levoatrial. 
+
+En los vectores de velocidad (Figura 3a) se aprecian patrones de flujo de los pacientes operados con reparación ventricular "uno y medio" y anastomosis tipo Glenn durante tres fases cardíacas. Mediante trazadores de partículas es posible ver que se producen vórtices y flujos retrógrados en la AP. Mapas de conectividad (Figura 3b) también permitieron distinguir estos vórtices y la distribución de los flujos de la AP hacia sus bifurcaciones. Sorprendentemente, en ambos pacientes con anastomosis tipo Glenn la mayoría del flujo proveniente de la VCS es desviada hacia el tronco de la AP y el ventrículo derecho durante las fases diastólicas (Figura 4).
+
+    
+
+Figura 3. (a) Vectores de velocidad muestran los patrones de flujo en un paciente operado con anastomosis tipo Glenn. Dichos vectores revelan vórtices (indicados por las flechas en columna 1, 2 y 3) en la arteria pulmonar (AP) y flujo retrogrado durante diástole (flecha en columna 4). (b) Mapas de conectividad también muestran vórtices (indicados por la flecha en todas las columnas) y la distribución de flujos de la arteria pulmonar Izquierda (API) y arteria pulmonar derecha (APD). 
+
+   
+
+Figura 3. (a) Vectores de velocidad muestran los patrones de flujo en un paciente operado con anastomosis tipo Glenn. Dichos vectores revelan vórtices (indicados por las flechas en columna 1, 2 y 3) en la arteria pulmonar (AP) y flujo retrogrado durante diástole (flecha en columna 4). (b) Mapas de conectividad también muestran vórtices (indicados por la flecha en todas las columnas) y la distribución de flujos de la arteria pulmonar Izquierda (API) y arteria pulmonar derecha (APD). 
+
+Figura 3. (a) Vectores de velocidad muestran los patrones de flujo en un paciente operado con anastomosis tipo Glenn. Dichos vectores revelan vórtices (indicados por las flechas en columna 1, 2 y 3) en la arteria pulmonar (AP) y flujo retrogrado durante diástole (flecha en columna 4). (b) Mapas de conectividad también muestran vórtices (indicados por la flecha en todas las columnas) y la distribución de flujos de la arteria pulmonar Izquierda (API) y arteria pulmonar derecha (APD). 
+
+
+
+
+
+Figura 4. En los pacientes con reparación ventricular tipo "uno y medio" y anastomosis tipo Glenn se encontró que el flujo proveniente de la vena cava superior (VCS) se dirige principalmente hacia la arteria pulmonar (AP) y ventrículo derecho (VD). 
+
+
+
+En la Figura 5a se puede apreciar un flujo helicoidal en la VCS del paciente con coartación aórtica reparada y vena cardinal levoatrial, secundario a la comunicación entre la aurícula izquierda y la vena braquiocefálica izquierda. En el mismo paciente también se identificó un flujo aórtico turbulento en la zona de la coartación reparada (Figura 5b y 5c). Se ha indicado que patrones de flujo similares a los detectados en la Ao de este paciente podrían contribuir al desarrollo futuro de aneurismas aórticos(20).     
+
+Figura 5. (a) En el paciente con coartación aórtica reparada y vena cardinal levoatrial (VC) se detectó una hélice en la vena cava superior (VCS) (indicada por la flecha), secundaria a la conexión entre la aurícula izquierda (AI) y la vena braquiocefálica izquierda. (b y c) En el mismo paciente se observaron flujos anormales en la zona de la coartación reparada (ver flecha). 
+
+
+
+Figura 5. (a) En el paciente con coartación aórtica reparada y vena cardinal levoatrial (VC) se detectó una hélice en la vena cava superior (VCS) (indicada por la flecha), secundaria a la conexión entre la aurícula izquierda (AI) y la vena braquiocefálica izquierda. (b y c) En el mismo paciente se observaron flujos anormales en la zona de la coartación reparada (ver flecha). 
+
+
+
+Discusión
+
+La técnica 4D flow aplicada en todo el corazón no sólo permite la cuantificación de los flujos cardiovasculares(15,21), sino también posibilita analizar las complejas dinámicas del flujo. A través de vectores de velocidad, líneas de flujo o "streamlines" y trazadores de partículas es posible analizar cualitativa y cuantitativamente los patrones de flujo y su distribución en las cavidades cardíacas y grandes vasos de pacientes con CC.
+
+En este grupo de pacientes, la técnica 4D flow permitió demostrar la existencia de vórtices en la AP y VCS de un paciente con vena cardinal levoatrial. Se detectaron también vórtices anormales en la Ao del paciente con coartación aórtica reparada y en el paciente con switch arterial. 
+
+Una limitación importante de la técnica 4D flow es la compensación por movimiento respiratorio, esto es, el proceso para evitar o corregir que se generen artefactos en las imágenes producto de la respiración del paciente. Algunos autores han demostrado que algunas técnicas para disminuir las distorsiones producidas por la respiración, son compatibles con 4D flow(15,21). Sin embargo, la mayoría de estas técnicas utilizan gatillo respiratorio, en donde los datos obtenidos en posiciones respiratorias incorrectas son adquiridos nuevamente. En consecuencia, esta técnica aumenta considerablemente la duración del scan.
+
+En algunos pacientes con zonas estenóticas en la AP o en la Ao, es necesario definir un VENC bastante alto para prevenir errores de cuantificación de la velocidad. Sin embargo, esto limita la precisión de las mediciones en vasos donde la sangre tiene baja velocidad.
+
+En niños que poseen altas frecuencias cardíacas, la resolución temporal estándar de 4D flow (~38 ms) podría ser insuficiente para detectar patrones de flujo que tienen una corta duración. Esto podría limitar la precisión de la medición durante el peak de sístole(10).
+
+Las estructuras cardíacas de los niños son más pequeñas, por lo que se requiere mejorar la resolución espacial (a órdenes de 1.5 mm3), lo que aumenta considerablemente el tiempo de scan. Esto es especialmente necesario para visualizar venas pulmonares que son difíciles de identificar por su escaso tamaño.
+
+El agregar la secuencia 4D flow al protocolo clínico aumenta el tiempo de scan en 10-15 minutos, lo que sumado a los 30 minutos que dura el procesamiento de los datos, podría no ser compatible con la práctica clínica. Esto resultaría difícil de realizar en niños en condiciones críticas, los cuales requieren anestesia general y ventilación mecánica. La automatización en la definición de regiones de interés de los grandes vasos y cavidades cardíacas podría reducir considerablemente este tiempo, haciendo que los tiempos de 4D flow y 2D de contraste de fase sean comparables. Con esto la secuencia 4D flow podría reemplazar las secuencias 2D, y por lo tanto se podría disminuir el tiempo total del examen(22).
+
+La aplicación de 4D flow en distintas CC podría ayudar a entender la relación entre la hemodinamia y el comportamiento de las paredes vasculares. Por ejemplo, entender la relación que existe entre pacientes con válvula aórtica bicúspide y el desarrollo de aneurismas aórticos(23); y el desarrollo de aneurismas en pacientes operados de coartación aórtica(20,24,25).
+
+Se ha reportado que algunos pacientes con ventrículo único posterior a cirugía de Fontan tienen una mala evolución después de la operación. A pesar de que este tipo de procedimiento tiene aproximadamente 40 años, aún no está claro cuál es la conexión cavo-pulmonar hemodinámicamente más eficiente. En este caso, la técnica 4D flow podría revelar patrones y distribución de los flujos para ayudar a aclarar esta interrogante(26).
+
+Perspectivas futuras
+
+Nuevas investigaciones y desarrollos de la técnica 4D flow prometen importantes avances para el entendimiento de la hemodinámica cardiovascular. 
+
+Es necesario entender a cabalidad los patrones de flujo en voluntarios sanos, para así poder entender la dinámica de los flujos en pacientes con CC. La mayoría de los trabajos en esta área se han realizado en la Ao(10), describiéndose una gran variedad de patrones de flujo.
+
+Aunque no fue demostrado en este trabajo 4D flow también permite la estimación de otros parámetros asociados al sistema cardiovascular, como por ejemplo, el "wall shear stress" de los vasos sanguíneos(27), crear mapas de presiones(28), y nuevas formas de cuantificar la helicidad y vorticidad de los flujos(16). 
+
+En conclusión, la técnica 4D flow representa un gran avance para el entendimiento de la dinámica de los flujos cardiovasculares en pacientes con CC. Nuevos avances, tanto en la adquisición y procesamiento de datos, podrían llegar a ser un desarrollo importante para implementar la técnica en la práctica clínica. 
+
+Agradecimientos

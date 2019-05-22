@@ -1,0 +1,214 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082017000300003
+Utilidad del coeficiente de difusión aparente en resonancia magnética como método auxiliar para la diferenciación entre meduloblastomas y ependimomas de la fosa craneal posterior en niños y adultos tratados en el Hospital Carlos Van Buren de Valparaíso: Una experiencia preliminar
+
+ 
+
+Resumen. El uso del coeficiente de difusión aparente (ADC) en resonancia magnética (RM) ha demostrado ser útil en la tarea de diferenciar tumores cerebrales primarios. Nuestro objetivo es evaluar su uso para diferenciar entre meduloblastomas y ependimomas. Se analizaron 37 casos: 21 meduloblastomas (edad promedio 12 años) y 16 ependimomas (edad promedio 5 años) de fosa posterior tratados en el hospital Carlos Van Buren de Valparaíso, entre diciembre de 2005 y junio de 2015. Hubo 15 y 5 hombres en cada grupo respectivamente. Además de edad y sexo se recolectaron valores ADC tumorales (ADCt) y de tejido sano. Los valores ADCt para meduloblastoma y ependimoma promediaron 0,64 y 0,92 [x 10-3 mm2/s] respectivamente (p<0,001). El modelo multivariado incluyó sexo y ADCt, con sensibilidad de 0,95 y especificidad 0,87 para predecir meduloblastoma. Podemos concluir que la medición de ADC ayuda a diferenciar tumores de distinta celularidad como el meduloblastoma y el ependimoma.
+
+Palabras Clave: meduloblastoma, ependimoma, fosa cranial posterior, imágenes de resonancia magnética.
+
+ 
+
+Introducción
+
+Los tumores de fosa posterior corresponden a aproximadamente al 50% de los tumores cerebrales en niños, lo que los hace de especial interés en la clínica y en la literatura correspondiente a este grupo etario. Pueden ser divididos en dos grandes categorías: Tumores neuroectodérmicos primitivos (TNEP) y tumores gliales. Los TNEP son neoplasias malignas altamente indiferenciadas y representan cerca de un tercio de todos los tumores de fosa posterior pediátricos, con una relación hombre/mujer de 2:1, siendo el tipo histológico más frecuente el medulo-blastoma1. Los tumores gliales pueden ser divididos en tres grupos principales: astrocitomas pilocíticos, ependimomas y gliomas del tronco cerebral1. Por otro lado, los tumores de fosa posterior son infrecuentes de encontrar en adultos; siendo el meduloblastoma responsable del 1%2 y el ependimoma del 4%3 de los tumores del sistema nervioso central. Por esta razón, la evidencia respecto de estos tumores en adultos es menor2.
+
+En el caso de sospechar un meduloblastoma es importante hacer un estudio imagenológico preoperatorio para diferenciarlo de otros tumores de fosa posterior, por su alta capacidad de diseminación4,5.
+
+En niños, al considerar los hallazgos en la RM en combinación con la localización del tumor, así como también la edad y el sexo del paciente -los que son elementos auxiliares para plantear una hipótesis diagnóstica- se puede predecir un diagnóstico histológico en el 70% de los casos6.
+
+La RM es la herramienta más importante en la evaluación temprana de los tumores cerebrales primarios. La elección del tratamiento, el pronóstico a largo plazo, así como también la calidad de vida en supervivientes dependen de un diagnóstico inicial correcto7,8,9. Sin embargo, la RM convencional está frecuentemente limitada en cuanto a identificar tipos tumorales específicos y en muchos casos no puede diferenciar con facilidad lesiones de alto y bajo gra-do3,7,10,11. Además, es necesario obtener información adicional antes de cualquier decisión terapéutica, especialmente en casos donde la biopsia del tumor no se puede realizar3.
+
+El poder distinguir mediante un método no invasivo entre los probables diagnósticos puede ser de gran utilidad en estos pacientes11,12. Al enfrentarse al estudio imagenológico de un tumor de fosa posterior, la distinción entre meduloblastoma y ependimoma puede ser especialmente difícil, ya que ambos tumores suelen encontrarse en relación al cuarto ventrículo y pueden presentar un aspecto morfológico similar en las imágenes, sobre todo en tumores pequeños11. Ambas lesiones pueden presentarse en línea media, tener componentes sólidos y quísticos, y presentarse alrededor de los cinco años de edad. Sin embargo, poseen algunas características morfológicas que pueden ayudar a distinguirlos13,14.
+
+Imagenológicamente el meduloblastoma es hiper-denso en la TC, con estructura heterogénea en RM, hipointenso en secuencias ponderadas en T1, e iso o discretamente hiperintenso en secuencias T2, con calcificaciones en 10-20% y un componente necrótico o cistoídeo en el 50% de los casos. La espectros-copía RM muestra elevados niveles de colina (Co), más altos que los encontrados en otras neoplasias de fosa posterior, indicando alto recambio de células tumorales. También hay una notoria disminución de N-acetil aspartato (NAA) (alta relación Co/NAA), marcado incremento de la relación Co/creatina (Cr) y una significativa disminución de la relación NAA/ Cr4. Clásicamente se describe que el meduloblastoma emerge del techo del cuarto ventrículo, pudiendo identificarse una interfase de líquido cefalorraquídeo entre el tumor y el ventrículo. Frecuentemente comprime al ventrículo causando hidrocefalia no comunicante15.
+
+Por otro lado, el ependimoma es iso/hipodenso en TC con realce heterogéneo. En RM es iso/hipointensa en T1, de señal intermedia en T2 y de estructura heterogénea secundaria a necrosis11. También se observan calcificaciones (hasta el 50% de los casos), presencia de metahemoglobina, hemosiderina y diferencias en el aporte vascular tumoral hasta en un 50% de los casos. En niños comúnmente se extiende a través de los agujeros del cuarto ventrículo (Luschka y Magendie) y del foramen magno, determinando dilatación de éstos, sin poder reconocer interfase con el piso del cuarto de ventrículo15. En adultos es más frecuente su localización en la médula espinal respecto de la población infantil3. En general es de mal pronóstico debido a la dificultad de lograr una resección quirúrgica completa por la alta adherencia del tumor a los tejidos adyacentes1.
+
+En tumores muy pequeños, o en aquellos donde sus características morfológicas no se encuentren bien definidas, podría ser difícil la distinción entre ambos.
+
+Es importante destacar que el principal factor pronóstico en el ependimoma es la exéresis tumoral total16, independiente del sexo y la edad del paciente, lo que tiene implicancias desde el punto de vista del abordaje quirúrgico. Si bien es cierto que en los meduloblastomas también se persigue la exéresis total, los pacientes serán sometidos por protocolo a quimioterapia y radioterapia postoperatoria.
+
+La DWI por RM ha demostrado utilidad en la diferenciación de estos tumores mediante la comparación de los valores de coeficiente de difusión aparente (ADC) intratumorales1,12-14,17. En diversos estudios se ha demostrado que el meduloblastoma posee valores de ADC más bajos que los del ependimoma10. Esto sería explicable por su elevada celularidad y alta relación núcleo citoplasmática, lo que determinaría una mayor proporción de membranas afectando la difusión de las moléculas de agua10,12,14,16. Pierce y Provenzale, en un estudio retrospectivo14, con una muestra de 103 casos utilizaron dos valores ADC para diferenciar tumores en fosa posterior: el valor ADC mínimo (ADCmin) obtenido en tres mediciones de cada tumor y el cociente entre ADCmin y el valor ADC de tejido normal medido en los putámenes. En su serie pudieron establecer un punto de corte en el ADCmin de 0.675 x 10-3 mm2/s para poder distinguir entre meduloblastoma y ependimoma con una sensibilidad de 0,97 y especificidad de 114.
+
+Faten Fawzy Mohamed y Ahmed A, en otro estudio retrospectivo6, analizaron a treinta pacientes en que sospechaban tumores de fosa posterior a partir de TC contrastada. Todos los pacientes fueron sometidos a RM convencional, seguido de imágenes de DWI, con posterior cálculo de valores ADC, obteniendo que, con valores mayores de 1.3 [x 10-3 mm2/s] son característicos de astrocitoma pilocítico, y valores menores de 0.9 [x 10-3 mm2/s] de meduloblastoma, siendo esta diferencia estadísticamente significativa (p= 0.001). Con respecto al valor del ependimoma, éste fue similar al astrocitoma pilocítico, sin lograr una diferencia estadísticamente significativa entre ambos6.
+
+Otras experiencias, sin embargo, han demostrado resultados menos concluyentes, informando, incluso, sobreposición entre los valores ADC medidos para ambos tumores. Es necesario considerar que estos estudios han sido hechos en series más pequeñas que la de Pierce18.
+
+Nuestro objetivo es comparar los valores de ADC entre meduloblastomas y ependimomas a fin de poder establecer un punto de corte útil para diferenciar entre ambos tumores, contribuyendo de esta forma a la experiencia nacional.
+
+ 
+
+Materiales y métodos
+
+Estudio retrospectivo transversal analítico. El diseño del trabajo se orientó en función de generar un modelo matemático para la predicción de la histología del tumor como variable dependiente en función de las variables independientes.
+
+Se buscaron todos los casos de tumores de fosa posterior, tanto en adultos como en niños, tratados en el Hospital Carlos Van Buren de Valparaíso desde diciembre de 2005 hasta junio de 2015, cuyos resultados histológicos fueran concordantes con 
+
+meduloblastomas y ependimomas.
+
+Se excluyeron aquellos pacientes en los que no se pudieron conseguir las imágenes de RM preoperatoria.
+
+ 
+
+Metodología de obtención de datos
+
+En cada estudio se utilizó un Resonador General ElectricSigna excite 1.5T (Hi Speed) de cuatro canales, con bobinas dedicadas para cabeza, realizando en todos los casos secuencias de difusión en cortes axiales de encéfalo, con valores b de 0 y 1000 s/ mm2, tiempo de repetición (TR) de 6850 y tiempo de eco (TE) de 90, espesor de corte de 5 ó 5.5 mm, espaciado de 1, 1.5 ó 2.5 mm, matriz de 128 x 128, FOV de 24 cm2, phase FOV de 1 y NEX de 1 o 4, construyéndose los respectivos mapas ADC.
+
+Se buscaron los estudios de RM preoperatorios correspondientes y se midieron los valores del ADC a partir de regiones de interés (ROI) en las imágenes correspondientes al mapa ADC incluidas en cada caso, utilizando la estación de trabajo ADW 4.2 (GE Healthcare), y empleando la herramienta Functool.
+
+Después de reconocer el área más oscura de la lesión en el mapa ADC y utilizando como ayuda visual el mapa ADC exponencial en colores, se colocó manualmente un marcador circular en la ROI de 30 mm2 para todos los casos, sin incluir tejido neural normal, áreas quísticas, hemorrágicas, ni necróticas (Figuras 1a, b y c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Todas las mediciones fueron hechas por un médico recién egresado de la especialidad de imagenología, supervisado por un neurorradiólogo de más de 30 años de experiencia, los que eran ciegos para el resultado histológico al momento de la medición y tabulación. El análisis estadístico fue hecho por un equipo distinto al que realizó las mediciones.
+
+ 
+
+Variables del estudio
+
+Los datos fueron recolectados en planilla Microsoft® Excel® 2011 para Mac
+
+•    Sexo: Corresponde al género del paciente.
+
+•    Edad: Corresponde a la edad del paciente, expresada en años.
+
+Todos valores ADC medidos se expresan en 1x 10-3 mm2/s.
+
+•    ADCt: Se determinó el promedio del valor ADC medido en la ROI de cada tumor obteniendo un valor absoluto.
+
+•    ADCc: Medición de una ROI en un área cere-belosa lo más alejada de la lesión. Se describe más detalladamente en la Figura 2.
+
+•    ADCp: Promedio de la medición de dos ROI del Putamen derecho e izquierdo.
+
+•    ADCnc: Corresponde a la relación ADCt/ADCc y se le llamó valor ADC normalizado-cerebelo.
+
+•    ADCnp: Corresponde a la relación ADCt/ADCp y se le llamó ADC normalizado-putámenes.
+
+
+
+
+
+ 
+
+ 
+
+Análisis de datos
+
+Se consideró un valor de p<0,05 como significativo. El análisis de datos se realizó en tres etapas en el programa Stata®/SE 11.0.
+
+1. Análisis descriptivo, donde se calculó normalidad de los datos con la prueba de Shapiro Wilk. Se calcularon promedios, desviaciones standard (DS), media y rango intercuartil (RIC) en las variables cuantitativas y frecuencias absolutas y porcentajes en las variables cualitativas.
+
+2. Análisis bivariado, en donde se cruzó la edad, el sexo y los distintos valores ADC versus el tipo de tumor estudiado. Las medidas de asociación en el análisis bivariado fueron Odds Ratio (OR) con su intervalo de confianza al 95% para sexo. Para el resto de variables cuantitativas se utilizó T de student en las variables paramétricas o U de Mann Whitney para variables no-paramétricas.
+
+3. Modelo de regresión logística, en donde sólo se incluyeron variables con asociación demostrada en el análisis bivariado. No se incluyeron las variables compuestas por otras variables. Se aceptó el modelo que contempló variables con valores de p significativos para su coeficiente. Se calculó pseudo R cuadrado y curva característica operador-receptor (ROC). Para analizar la bondad del modelo se calculó el Chi2 de Pearson y el valor de p para la prueba de Hosmer-Lemeshow.
+
+Una vez establecido el modelo se calcularon los valores de sensibilidad, especificidad, Likelihood ratio (Razón de verosimilitud) positivo y negativo, y observaciones correctamente clasificadas para los datos con que contamos.
+
+ 
+
+Resultados
+
+El total de casos encontrados entre diciembre de 2005 y junio de 2015 fue de 44. De ellos, 25 correspondieron a meduloblastomas y 19 a ependi-momas. Luego de excluir los casos cuyos estudios se hallaron incompletos, se analizaron 37 de ellos, de los cuales 21 correspondieron a meduloblastomas y 16 a ependimomas.
+
+Se probó la normalidad de los datos con la prueba de Shapiro Wilk, resultando normales con p> 0,05 todas las variables, excepto edad con p< 0,001, valor ADCc con p de 0,001 y valor ADCnc con p de 0,031.
+
+Los casos estudiados presentaron una mediana de 10 años con un rango intercuartil (RIC) entre 4 y 23 años, con un rango de 1 a 56 años. El valor de p para U de Mann-Withney fue de 0,325.
+
+En la muestra hubo 17 mujeres y 20 hombres. En los 21 casos de meduloblastoma hubo 15 hombres, y en los 16 ependimomas hubo 5. El OR para ser hombre y presentar meduloblastoma fue de 5,5 con un IC 95% de 1,1 a 29.
+
+El ADCt presentó una media de 0,762 [x 10-3 mm2/s] y la desviación estándar (DS) fue 0,215. Los meduloblastomas y ependimomas presentaron media de 0,923 [x 10-3 mm2/s] y DS de 0,192 y media de 0,640 [x 10-3 mm2/s] y DS de 0,139 respectivamente. El valor de p para la prueba T de Student fue menor a 0,01.
+
+El ADCp presentó una media de 0,763 [x 10-3 mm2/s] y la DS fue 0,046. Los meduloblastomas y ependimomas presentaron media de 0,769 [x 10-3 mm2/s] y la DS de 0,04 y media de 0,757 [x 10-3 mm2/s] y DS de 0,051 respectivamente. El valor de p para la prueba T de Student fue de 0,455.
+
+El ADCc presentó una mediana de 0,771 [x 10-3 mm2/s] con RIC de fue 0,713 - 0,848. Los medulo-blastomas y ependimomas presentaron mediana de 0,787 [x 10-3 mm2/s] con RIC de 0,733 - 0,858 y mediana de 0,76 [x 10-3 mm2/s] con RIC de 0,703 -0,848 respectivamente. El valor de p para la prueba U Mann Whitney fue de 0,326.
+
+El ADCnp presentó una media de 1 [x 10-3 mm2/s] y la DS fue 0,275. Los meduloblastomas y ependimomas presentaron media de 1,202 [x 10-3 mm2/s] y DS de 0,25 [x 10-3 mm2/s] y media de 0,845 y DS de 0,178 respectivamente. El valor de p para la prueba T de Student fue menor a 0,001.
+
+El ADCnc presentó una mediana de 0,928 [x 10-3 mm2/s] con RIC de 0,725 - 1,155. Los meduloblastomas y ependimomas presentaron mediana de 1,163 [x 10-3 mm2/s] con RIC de 0,945-1,265 y mediana de 0,866 [x 10-3 mm2/s] con RIC de 0,659 - 0,975 respectivamente. El valor de p para la prueba U Mann Whitney fue menor de 0,001.
+
+Se registraron las medidas de asociación entre las distintas variables estudiadas y la variable tipo de tumor. Se halló significancia estadística en las variables sexo y ADCt encontrándose un OR de 5,5 (IC 95% 1,1 - 29,0) para resultado histológico de meduloblastoma y ser hombre, y un valor de p menor de 0,001 en la prueba de T de Student para el valor ADCt.
+
+Más resultados y sus detalles se pueden encontrar en la Tabla 1.
+
+
+
+
+
+ 
+
+Modelo de regresión logística
+
+Se corrió un modelo de regresión logística incluyendo las variables que resultaron con asociación significativa en el análisis bivariado: sexo y ADCt. Se dejaron fuera del modelo las variables descritas en la literatura como ADCnc y ADCnp, ya que corresponden a variables compuestas por la variable ADCt, lo que produciría que ésta se ponderara más de una vez en el modelo. Por otro lado en el análisis bivariado los valores de ADCc y ADCp no resultaron con asociación significativa, por lo que tampoco fueron incluidos.
+
+La ecuación mostrada en la Figura 2 explica el modelo aplicado y entrega la probabilidad de tener meduloblastoma. Se obtubieron coeficientes de 5,2911, -20,4694 y 13,0345 para sexo masculino (M), ADCt y constante matemática (c) respectivamente. Los valores de p para la validez de estos coeficientes fueron 0,017, 0,006 y 0,006 respectivamente. El modelo mostró un pseudo R2 de 0,67.
+
+El valor de la curva ROC fue de 0,964 con un intervalo de confianza de 0,914 a 1,00. Se muestra la curva ROC en la Figura 3.
+
+
+
+
+
+Figura 3. Curva ROC del modelo matemático para diferenciar Meduloblastoma de Ependimoma a prtir de valores ADC y sexo. Área bajo la curva de 0,964.
+
+ 
+
+Usando la ecuación de la figura 2 se graficó la figura 4 donde se muestra la sensibilidad y especificidad para los distintos valores de corte que arroja nuestra ecuación, observando que valores cercanos a 0,5 (50%) en el eje de las "x", presentan la mayor sensibilidad y especificidad (eje "y"). De igual forma, ocupando nuestra ecuación, se calcularon porcentajes para predecir meduloblastoma según distintos valores de ADCt y sexo con los coeficientes que mencionamos previamente. Para distintos valores de probabilidad de diagnóstico de meduloblastoma se muestran, en la Tabla 2, valores de sensibilidad, especificidad, Likelihood ratio (LR) positivo, LR negativo y precisión; por lo que un resultado (primera columna de la tabla 2) que arroja una probabilidad del 50% de tener meduloblastoma tiene una sensibilidad y especificidad del 95,2% y 87,5% respectivamente, LR+ y LR- del 7,62 y 0,05 respectivamente, con una precisión del 91,8 %, definiendo este resultado para ser ocupado en el cálculo de los puntos de corte de los valores ADCt.
+
+
+
+
+
+
+
+
+
+Figura 4. Sensibilidad y especificidad para distintos valores de corte del modelo matemático propuesto para diferenciar Meduloblastoma de Ependimoma a partir de valores ADC y sexo.
+
+
+
+ 
+
+Bondad de ajuste del modelo y punto de corte
+
+Se realizaron pruebas de bondad de ajuste del modelo propuesto, obteniéndose un valor de p de 0,981 en la prueba Chi2 de Pearson y un valor p de 0,872 en la prueba de Hosmer-Lemeshow.
+
+A partir de nuestra ecuación y reemplazando los distintos coeficientes junto con el valor de probabilidad del 50%, que lo definimos sobre la base de su buen rendimiento, despejamos la variable ADCt y definimos puntos de corte según sexo, obteniendo que valores ADC menores de 0,895 [x 10-3 mm2/s] si es hombre y menores de 0,637 [x 10-3 mm2/s] si es mujer, se asume el diagnóstico de meduloblastoma.
+
+ 
+
+Discusión
+
+La medición de los ADC para la diferenciación de tumores de fosa craneal posterior es un método simple que puede proveer un punto de apoyo importante a los especialistas en imágenes para realizar diagnósticos cada vez más precisos. Cabe destacar que el valor ADCt y el sexo, variables que encontramos importantes para nuestro modelo, no son susceptibles de interpretación, sino que son valores objetivos, siendo de esta forma un parámetro estandarizado que puede ayudar a la toma de decisiones.
+
+En relación con los valores de ADCt observados se encontró que para el meduloblastoma los valores de nuestra serie son similares a la literatura, según los datos de Pierce13,14; 0,5 - 0,9 [x 10-3 mm2/s] en la literatura versus 0,4 - 0,9 [x 10-3 mm2/s] en nuestro estudio. En cambio, para ependimoma el rango de ADCt fue mayor; 1- 1.3 [x 10-3 mm2/s] literatura versus 0.5 - 1.3 [x 10-3 mm2/s] en nuestro estudio.
+
+A diferencia de lo descrito en otros estudios, nuestro análisis demostró que los valores normalizados no serían útiles en diferenciar ambos tumores, ya que sus componentes tienen dos orígenes: el valor ADCt es incluido en el modelo multivariado porque en el análisis bivariado resulta significativo, en cambio en el de los ADCp y ADCc no hubo asociación significativa en el análisis bivariado, por lo cual no se incluye en el modelo final, por lo que no se considera de importancia.
+
+Para el modelo matemático propuesto, el punto de corte de probabilidad de predicción tumoral se fijó en 50%, es decir, sobre este valor de probabilidad se asume el diagnóstico meduloblastoma, mientras que menor de 50% será ependimoma (Tabla 2). Las características operativas de este punto de corte son favorables, comenzando por el elevado valor de la curva ROC sobre 95%, LR (+) sobre 7 y LR (-) de 0,05. La elección de 50% fue por lo fácil de recordar la cifra versus el escaso cambio en los valores de sensibilidad en porcentajes cercanos, situación evi-denciable en la Figura 4.
+
+Si bien es cierto que nuestra ecuación explica en forma integral la probabilidad de tener meduloblastoma según el resultado que arroje a partir de los valores ADCt ingresados, entregando de esta forma distintos rendimientos (Tabla 2); en términos prácticos, hemos establecido puntos de corte según sexo obtenidos a partir de la ecuación de regresión logística (Figura 2), una vez despejando la variable de interés, en este caso, el valor ADCt.
+
+Cabe destacar que el gran rendimiento de nuestro modelo es sobre una muestra que no contempla todos los tumores de la fosa craneal posterior, sino sólo los meduloblastomas y ependimomas. Existen características morfológicas en imágenes que ayudan a sospechar los restantes tumores. En la práctica, muchas veces la capacidad interpretativa para diferenciar entre meduloblastomas y ependimomas, una vez descartados los otros tumores, puede verse disminuida ya que no siempre presentan sus características propias que los hacen distinguibles. Por este motivo es que evaluamos el ADCt en estos dos tumores y de esta forma establecer alguna diferencia en sus valores que pudiera diferenciarlos, demostrando adicionalmente que por sí mismo el ADCt es medida suficiente de asociación, desaconsejando la medición del ADC en tejido sano con el fin de estandarizar medidas.
+
+Proponemos un estudio multicéntrico nacional para aumentar el número de casos de meduloblastomas y ependimomas y de esta forma probar y ajustar más el modelo propuesto, con el fin de obtener una cantidad mayor de pacientes.
+
+ 
+
+Conclusiones
+
+Se desarrolló un modelo de regresión logística para predecir meduloblastomas con justificación estadística significativa. Se demuestra que resultados mayores de 50% como predicción matemática, presentan una seguridad diagnóstica imagenológica adecuada para asumir que el resultado histológico sea meduloblastoma, por lo que proponemos este valor como punto de corte. Cabe destacar que el valor de corte propuesto es aproximadamente tres veces más poderoso para descartar meduloblastoma que para confirmarlo. Además, desde el punto de vista práctico, planteamos valores ADCt de corte para cada tumor según sexo.
+
+Por lo tanto, nuestro modelo puede ser considerado como una herramienta objetiva con validación interna robusta, siendo un aporte a nuestra realidad nacional como método auxiliar en diferenciar estos dos tumores.

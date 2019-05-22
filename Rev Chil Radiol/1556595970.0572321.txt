@@ -1,0 +1,160 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082015000400003
+Área muscular abdominal determinada por tomografía computada como predictor de mortalidad en pacientes oncológicos
+
+Resumen. Objetivo: Demostrar que los actuales puntos de corte del índice muscular esquelético lumbar (IMEL) sobreestiman sarcopenia en pacientes oncológicos. Se proponen nuevos puntos de corte como predictores de mortalidad en pacientes oncológicos. Materiales y métodos: Se estimó el IMEL en un grupo de pacientes oncológicos y sanos que se realizaron tomografía computada por motivos oncológicos y no oncológicos, respectivamente. Se determinó la prevalencia de sarcopenia del grupo oncológico utilizando los puntos de corte internacionales y puntos de corte estimados a partir de -1DS y –2DS bajo el promedio de pacientes sanos, proponiendo valores intermedios para poder facilitar su utilización. Se realizó un estudio de sobrevida para demostrar si los puntos de corte diferencian entre curvas de mortalidad de pacientes sarcopénicos y no sarcopénicos. Resultados: Se seleccionaron 131 pacientes sanos y 64 pacientes oncológicos. La prevalencia de sarcopenia en pacientes oncológicos fue de 80.8% y 42.1% con puntos de corte internacionales, 57.5% y 39.5% utilizando -1 DS y 15.4% y 13.2% utilizando -2 DS, en hombres y mujeres respectivamente. Durante el seguimiento,17 pacientes fallecieron y el mejor predictor de mortalidad fue el IMEL de 45 cm2/m2 para hombres y 34 cm2/m2 para mujeres. Conclusión: El IMEL utilizando puntos de corte de 45 cm2/m2 para hombres y 34 cm2/m2 para mujeres, es un buen predictor de mortalidad.
+
+Palabras claves: Composición corporal, Músculo esquelético, Sarcopenia, Tomografía computada.
+
+ 
+
+Introducción
+
+El reconocimiento de la sarcopenia es un fenómeno clínico emergente importante en el ámbito oncológico. El término sarcopenia denota una cantidad reducida de músculo esquelético que se asocia a pérdida de la función física, discapacidad, infecciones nosocomiales y en oncología, mala respuesta a quimioterapia y peor pronóstico(1,2). Es fundamental recalcar que el proceso de pérdida de masa muscular puede no ser proporcional a cambios en el tejido adiposo, lo que quiere decir que se puede estar sarcopénico con índice de masa corporal normal o alto.
+
+La tendencia actual es identificar técnicas objetivas para evaluar la composición corporal(3). La tomografía computada (TC) ofrece grandes ventajas dada su disponibilidad y uso rutinario en el diagnóstico y seguimiento de pacientes oncológicos.
+
+Algunos estudios han demostrado una buena correlación entre composición corporal total y un corte axial único a nivel de la tercera vértebra lumbar con TC(4,5).
+
+En el año 2008, Mourtzakis et al(4) establecieron puntos de corte para el "índice muscular esquelético lumbar" que se genera al normalizar el área de tejido muscular en un corte axial a nivel de la vértebra L3, con el cuadrado de la estatura del paciente. Estos puntos de corte propuestos, para población caucásica canadiense, son 55,4 cm2/m2 para hombres y 38,9 cm2/m2 para mujeres, sin embargo, no existen patrones locales de comparación.
+
+Nuestro objetivo es averiguar si los puntos de corte establecidos internacionalmente son aplicables a la población local de nuestra institución y de no ser aplicables, proponer puntos de corte basados en nuestra propia población.
+
+ 
+
+Materiales y métodos
+
+Se realizó un estudio longitudinal prospectivo que fue aprobado por el comité de ética de nuestra institución.
+
+ 
+
+Pacientes
+
+Desde marzo del año 2013 a diciembre del año 2014 se reclutaron pacientes oncológicos hospitalizados en nuestra institución. Los criterios de inclusión fueron: Edad mayor a 18 años, condición física y mental para ser sometidos a una evaluación nutricional por parte de un profesional, TC o tomografía por emisión de positrones/tomografía computada (PET/CT) que incluyeran cortes axiales de abdomen a nivel de la vértebra L3 disponibles y realizados máximo 30 días antes del ingreso al estudio y disponibilidad para el seguimiento.
+
+Se conformó retrospectivamente un segundo grupo, compuesto por sujetos previamente sanos de entre 18 y 40 años que fueron atendidos en el servicio de urgencia de nuestra institución y que se realizaron TC por protocolo de politraumatismo entre julio del año 2011 a julio del año 2014. Sólo se seleccionó a aquellos individuos que tuviesen talla verificable en el sistema de ficha clínica electrónica.
+
+ 
+
+Evaluación nutricional
+
+Al ingreso del servicio de oncología, todos los pacientes del grupo oncológico fueron sometidos a una evaluación nutricional por un nutricionista según el protocolo local, adquiriéndose talla, peso e índice de masa corporal para cada caso.
+
+ 
+
+Análisis de imágenes
+
+En ambos grupos se seleccionó un corte axial de TC o PET/CT a nivel del cuerpo de la vértebra L3 por cada paciente. Las imágenes fueron exportadas y segmentadas de forma semiautomática con el software SliceOMatic (versión 5.0; Tomovision, Canadá) a través del método de crecimiento de regiones y corrección manual en los casos necesarios (Figura 1). Para obtener las áreas (cm2) de los compartimentos musculares y adiposos, se utilizaron los siguientes umbrales en unidades Hounsfield: -29 a 150 para músculo esquelético, -190 a -30 para tejido adiposo subcutáneo e intramuscular y -150 a -50 para tejido adiposo visceral.
+
+
+
+
+
+Figura 1. Imagen del software SliceOmatic (Version 5.0, Tomovision) en una segmentación de un corte axial a nivel de L3 y la tabla de resultados (extremo inferior) que entrega el software. Se han demarcado con colores las áreas a analizar: Tejido adiposo subcutáneo en rojo; tejido adiposo intraabdominal en verde; tejido muscular del psoas en azul; restantes músculos presentes en el corte en rosado; y tejido adiposo intramuscular en amarillo.
+
+ 
+
+Las áreas musculares obtenidas fueron normalizadas según la talla (m2), estimando el índice muscular esquelético lumbar (cm2/m2).
+
+Los datos provenientes de la evaluación nutricional y análisis de imágenes fueron ingresados a una base de datos creada con el software REDCap (versión 6.6; Vanderbilt University).
+
+ 
+
+Análisis de porcentaje de sarcopenia según distintos puntos de corte
+
+Se determinó la prevalencia de sarcopenia en pacientes oncológicos utilizando los puntos de corte del índice muscular esquelético lumbar propuestos por Mourtzakis et al. También fueron utilizados puntos de corte de -1 y -2 desviaciones estándar extraídos desde los pacientes sanos, los que teóricamente pueden detectar el 15,9% y el 2,3% de los pacientes sarcopénicos basándose en la curva normal, respectivamente.
+
+ 
+
+Análisis de sobrevida
+
+Se constató el fallecimiento de los pacientes mediante el seguimiento a través de la ficha clínica y contacto telefónico con familiares en el periodo comprendido entre 1 de marzo del año 2013 y 15 de marzo de 2015 (745 días).
+
+Utilizando los puntos de corte recién mencionados, se llevó a cabo una comparación de las curvas de sobrevida entre sarcopénicos y no sarcopénicos utilizando el test log-rank y curvas de sobrevida de Kaplan-Meier en el software Stata/SE 11.1 para Windows. Se consideraron significativos valores de p<0,05.
+
+ 
+
+Resultados
+
+Durante el periodo de estudio se reclutaron 103 pacientes oncológicos, de los cuales 39 no cumplieron los criterios de inclusión, quedando sólo 64. El principal motivo de exclusión fueron estudios de imágenes que no abarcaban hasta la vértebra L3 y estudios realizados en fechas distantes al ingreso de la investigación.
+
+Desde julio de 2011 a julio de 2014 se realizaron TC por protocolo de politraumatismo a 384 pacientes de entre 18 y 40 años de edad. Se reclutaron 131 pacientes sanos (83 hombres y 48 mujeres) que fueron los casos que contaban con talla en la ficha electrónica.
+
+Las principales características de los pacientes y parámetros corporales resultantes de la segmentación en TC se describen en las Tablas I y II.
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+Estimación de porcentajes de sarcopenia según distintos puntos de corte
+
+Al aplicar los puntos de corte del índice muscular esquelético lumbar propuestos por Mourtzakis et al. en pacientes oncológicos, se obtuvo que 80,8% de los hombres y 42,1% de las mujeres estaban en rango de sarcopenia.
+
+Si se considera una desviación estándar bajo el índice muscular esquelético lumbar de los pacientes sanos, se obtienen los siguientes puntos de corte: 51,54 cm2/m2 en hombres y 38,05 cm2/m2 en mujeres. Con estos valores, 57,5% de los hombres y 39,5% de las mujeres del grupo oncológico estarían en rango de sarcopenia.
+
+Al considerar dos desviaciones estándar bajo el índice muscular esquelético lumbar de los pacientes sanos, se obtienen los siguientes puntos de corte: 44,5 cm2/m2 en hombres y 33,23 cm2/m2 en mujeres. Con estos valores, el 15,4% de los hombres y el 13,2% de las mujeres del grupo oncológico están en rango de sarcopenia.
+
+ 
+
+Análisis de la sobrevida
+
+La mediana del tiempo de seguimiento fue de 346 días (RIQ de 347 días). Durante este periodo fallecieron 17 pacientes (6 hombres y 11 mujeres). El índice muscular esquelético lumbar en mujeres no mostró diferencias significativas entre fallecidas y no fallecidas (40,54 cm2/m2 en promedio). Sin embargo, entre hombres fallecidos (46,91 cm2/m2) y hombres no fallecidos (52,44 cm2/m2) si fue significativa la diferencia (valor-p<0,05).
+
+Al definir sarcopenia utilizando los puntos de corte propuestos por Mourtzakis et al, el test de log-rank no muestra diferencia significativa (valor-p de 0,16) entre las curvas de sobrevida de sarcopénicos y no sarcopénicos.
+
+Si definimos sarcopenia según -1DS de los pacientes sanos, el test de log-rank muestra una tendencia a disminuir en su valor-p (0,058); sin embargo, no llega a ser significativo para diferenciar las curvas de sobrevida entre sarcopénicos y no sarcopénicos.
+
+Si utilizamos como punto de corte -2DS de los pacientes sanos, el test de log-rank muestra diferencia significativa (valor-p de 0,014) en la sobrevida de sarcopénicos y no sarcopénicos.
+
+Cada una de estas situaciones se representa a través del método de Kaplan-Meier (Figuras 2, 3 y 4).
+
+
+
+
+
+Figura 2. Gráfico de Kaplan-Meier de las curvas de sobrevida estimadas considerando los puntos de corte internacionales para definir sarcopenia.
+
+
+
+
+
+
+
+Figura 3. Gráfico de Kaplan-Meier de las curvas de sobrevida estimadas considerando los puntos de corte tomados desde -1DS de la población sana para definir sarcopenia.
+
+
+
+
+
+
+
+Figura 4. Gráfico de Kaplan-Meier de las curvas de sobrevida estimadas considerando los puntos de corte tomados desde -2DS de la población sana para definir sarcopenia.
+
+
+
+Luego de analizar estos resultados se plantea la alternativa de establecer puntos de corte intermedios entre -1DS y –2DS con valores enteros con el fin de facilitar la utilización en la práctica. Los valores elegidos son 45 cm2/m2 para hombres y 34 cm2/m2 para mujeres. El test de log-rank demuestra diferencias significativas (valor-p de 0,037) entre las curvas de sobrevida de pacientes sarcopénicos y no sarcopénicos utilizando estos valores. El método de Kaplan-Meier corrobora la diferencia entre las curvas (Figura 5).
+
+
+
+
+
+Figura 5. Gráfico de Kaplan-Meier de las curvas de sobrevida estimadas considerando los puntos de corte propuestos por los autores para definir sarcopenia.
+
+ 
+
+Conclusión
+
+Los resultados obtenidos indican que los puntos de corte internacionales para el índice muscular esquelético lumbar sobreestiman el número de pacientes con sarcopenia.
+
+Los pacientes diagnosticados con sarcopenia desde puntos de corte internacionales y -1DS no demuestran tener curvas de sobrevida diferentes a pacientes no sarcopénicos.
+
+Los puntos de corte estimados con -2DS parecen ajustarse más a la realidad de la población de nuestra institución y determinan curvas diferentes entre pacientes sarcopénicos y no sarcopénicos. Se propone la utilización de valores enteros, 45 cm2/m2 para hombres y 34 cm2/m2 para mujeres, para facilitar la comprensión y utilización.
+
+Dado que la sarcopenia es un factor pronóstico en la evolución del paciente oncológico, pensamos que la aplicación rutinaria de estos puntos de corte, permitirá al radiólogo participar desde una nueva perspectiva en el grupo clínico tratante.

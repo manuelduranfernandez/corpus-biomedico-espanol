@@ -1,0 +1,212 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082016000200006
+Corrección de índice de dosis en tomografía computarizada por parámetro de diámetro efectivo según reporte 204 de la Asociación Americana de Físicos Médicos
+
+ 
+
+Resumen. Con el objetivo de tener una estimación de dosis más exacta entregada por los estudios de tomografía computarizada (TC) y dado que los estimadores de dosis actuales no incluyen el tamaño del paciente en la estimación, se realizó un estudio retrospectivo en una muestra de 388 pacientes de un servicio de radiología de un hospital general, para calcular las dosis entregadas en exámenes de TC de tórax, abdomen y pelvis en pacientes adultos y pediátricos. Se elaboró y realizó una comparación entre el índice de dosis de TC (CTDIVOL) entregado por el equipo y el CTDIVOL corregido mediante la incorporación del parámetro del diámetro efectivo del paciente según el reporte 204 de la Asociación Americana de Físicos Médicos (AAPM). Se pudo comprobar que los valores de CTDIVOL varían en la totalidad de los casos al ingresar el parámetro de tamaño del paciente y que esta variación es mayor a medida que los tamaños se van a los extremos.
+
+Palabras clave: Índice de dosis de tomografía computarizada. Size Specific Dose Estimate. Estimación de dosis. Tamaño específico. Diámetro efectivo. Dosis de radiación.
+
+ 
+
+ 
+
+Introducción
+
+Actualmente las herramientas utilizadas en tomografía computarizada (TC) para estimar la dosis absorbida en el paciente se encuentran representadas por el índice de dosis de TC (CTDIVOL)1–3 y el producto dosis-longitud (DLP)4. A partir de este último se efectúa una estimación de la dosis efectiva (en Sieverts) a través del uso de los factores «k»5.
+
+El CTDI es una medición de dosis mediante una cámara de ionización colocada en fantomas de polimetilmetacrilato (PMMA) los cuales tienen diámetros de 16 o 32 cm (fig. 1). El CTDI es medido en el centro del fantoma y también en sus partes periféricas (12, 3, 6 y 9 según sentido horario) para representar así una distribución espacial de la dosis absorbida. Esto implica que el valor de CTDI, cualquiera sea su apellido, es un valor de dosis a un fantoma específico6(fórmula 1).
+
+
+
+ (1)
+
+
+
+
+
+ 
+
+Una vez obtenidos los datos, tanto en el eje central como en la periferia del fantoma, es necesario realizar una integración de estos, a través de la inclusión de un nuevo parámetro que se define como CTDI ponderado (CTDIW), el cual se obtiene sumando 1/3 de la dosis obtenida en el centro y 2/3 de la obtenida en la periferia7.
+
+Una vez integradas las dosis promedio de todos los ejes (Y, X y Z) en un corte, es necesario introducir un factor de corrección que tome en cuenta el desplazamiento de la camilla y la colimación utilizada, de esta forma obtendremos el CTDIVOL.
+
+Como el CTDIVOL ofrece una aproximación de dosis en Gray en un solo corte, se deberá utilizar además un indicador de la longitud del volumen a irradiar en el estudio. Este indicador es conocido como el DLP y se obtiene de la siguiente forma6 (fórmula 2):
+
+
+
+ (2)
+
+ 
+
+Es importante señalar que, hasta este momento, en la estimación de dosis del estudio de TC no se ha incluido el parámetro de tamaño del paciente en ninguna parte.
+
+La constante preocupación de parte de los organismos internacionales por la protección radiológica y la búsqueda por llegar a un valor de dosis (ya sea absorbida o efectiva) real ha llevado a la realización y constitución de diferentes grupos de estudios por los organismos competentes. En el año 2011 la Asociación Americana de Físicos Médicos (AAPM) en conjunto con la Comisión Internacional sobre Unidades y Mediciones Radiológicas (ICRU) y la campaña Image Gently de la Alianza para la Protección Radiológica en Imágenes Pediátricas publicaron el reporte 204. Este y otros reportes son de carácter público y se pueden encontrar en la plataforma online de la asociación8.
+
+Este reporte task group-204 (TG-204), llamado «Estimación de dosis específica por tamaño (SSDE) en exámenes TC de adultos y niños», es el eje fundamental para el presente trabajo8.
+
+El grupo de trabajo TG-204, formado por 4 diferentes grupos de investigación, estuvo a cargo de desarrollar factores de conversión para aplicarlos al valor de CTDIVOL y proporcionar una estimación más exacta de la dosis absorbida que incluyera el tamaño del paciente, elemento que hasta ahora no se había incorporado en la estimación.
+
+Es necesario recalcar la importancia de las dosis entregadas por la TC, ya que si bien es cierto que no es el examen más frecuente, alrededor de un 5% de los exámenes radiológicos realizados en un año a lo largo de todo el mundo corresponden a este método diagnóstico, sí es responsable de un gran porcentaje de la dosis efectiva colectiva global, con alrededor de un 34% de contribución9.
+
+Es por lo ya señalado por lo que existe la necesidad de controlar de manera fidedigna la dosis entregada a la población al momento de realizar TC, tanto en pacientes adultos como, sobre todo, en pacientes pediátricos. Para alcanzar esta meta del balance entre dosis de radiación y calidad de imagen, los médicos radiólogos, físicos médicos y tecnólogos médicos del área de radiología y física médica necesitan de herramientas más exactas para estimar la dosis de radiación durante un examen de TC.
+
+Según lo expuesto anteriormente, nace la preocupación por saber si la dosis nominal que entrega el equipo se acerca a la dosis absorbida real recibida por los pacientes en los exámenes de TC y si estos valores (que se obtienen de los reportes dosimétricos estandarizados característicos de cada equipo con base en los fantomas) están dentro de los niveles recomendados por los organismos pertinentes ya mencionados. Mediante la inclusión de un parámetro de tamaño del paciente (diámetro efectivo) y la incorporación de los factores de conversión de las tablas propuestas por el reporte 204 se pretende lograr una dosimetría más exacta, con el fin de tener estimaciones más fidedignas y, a la larga, una optimización a niveles menores de las dosis que reciben los pacientes.
+
+ 
+
+Materiales y métodos
+
+Este estudio fue realizado de manera retrospectiva entre los meses de enero a mayo del año 2014, tomando como muestra exámenes de TC con su reporte dosimétrico estandarizado, el cual se utilizó específicamente para la obtención de los parámetros de dosis: CTDIvol y DLP. Se obtuvo una muestra de manera secuencial a partir de la base de datos de TC de tórax, abdomen y pelvis pertenecientes a pacientes adultos y pediátricos de una institución hospitalaria de la ciudad de Santiago de Chile. A partir de la recolección secuencial de exámenes de la base de datos, la muestra se intenciona de forma tal que cubra la mayor cantidad de tamaños de paciente posibles. La información recopilada de los pacientes no incluye datos personales sino solo sus parámetros dosimétricos y de tamaño, y el estudio fue autorizado por la dirección del servicio en estos términos de confidencialidad de los datos de los pacientes.
+
+Los exámenes fueron adquiridos con los siguientes equipos:
+
+Para determinar y medir el tamaño del paciente, se utilizaron 2 dimensiones: lateral (Lat) y antero-posterior (AP). Estas dimensiones se obtuvieron utilizando las herramientas específicas de medición que forman parte del software de los equipos de TC, aplicándolos en un corte específico del paciente. Una vez medidos los diámetros, se asume que el paciente tiene una forma elíptica en una sección transversal y se calculó el valor del parámetro de diámetro efectivo para cada paciente de la muestra a través de la fórmula de la ecuación n.° 3 (fórmula 3).
+
+
+
+ (3)
+
+ 
+
+En cuanto al diámetro efectivo, hay que especificar que este representa el diámetro del paciente en una ubicación dada a lo largo del eje z, asumiendo que el paciente tiene una sección transversal circular (fig. 2).
+
+
+
+
+
+
+
+Si bien el reporte contiene diferentes formas de incluir el parámetro de tamaño, como por ejemplo utilizar tan solo un eje Lat o un eje AP individualmente, se decidió utilizar el parámetro de diámetro efectivo por considerarlo más representativo.
+
+Con los valores de diámetro efectivo logrados se consultan las tablas generadas por el reporte 204 (tabla 1, extraída del reporte 204)8 y que nos muestra los factores de conversión según el tamaño seleccionado, que para el presente caso es el de diámetro efectivo. Para determinar la tabla se debe tener la seguridad de conocer cuál fue el fantoma utilizado en la calibración de los valores de CTDIVOL (esto puede aparecer en el reporte dosimétrico DICOM o, en su defecto, en el manual de usuario del equipo). De esta forma las tablas generadas por el reporte 2048 tabulan los factores de conversión con relación al parámetro escogido de tamaño del paciente y también con relación al fantoma utilizado en la medición del CTDIVOL nominal entregado por el equipo.
+
+
+
+Tabla 1. Factores de conversión según diámetro efectivo y fantoma utilizado. 
+
+
+
+
+
+Se utilizaron las siguientes fórmulas para determinar el SSDE, la diferencia de cada fórmula es con relación al fantoma utilizado, si es de 16 (ecuación 4) o de 32 cm (ecuación 5) (fórmula 4 y 5):
+
+
+
+(4)
+
+(5)
+
+ 
+
+Los datos se presentan en tablas comparativas y para el análisis de los datos se utilizaron herramientas estadísticas de análisis descriptivo y de diferencia de promedios.
+
+Las referencias anatómicas usadas al momento de realizar las mediciones de diámetros AP-Lat para la obtención del diámetro efectivo en los distintos exámenes fueron iguales tanto en exámenes pediátricos como en los de adultos:
+
+ 
+
+Resultados
+
+La muestra obtenida fue de un total de 388 exámenes, cuyo detalle se expresa en la tabla 2.
+
+
+
+
+
+ 
+
+En las tablas 3, 4, y 5 se exponen los datos pertenecientes a la categoría de los pacientes adultos de tomografías de tórax, abdomen y pelvis, respectivamente: se exponen aquellos intervalos en los cuales se obtuvieron pacientes y sus respectivos datos dosimétricos.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+En las tablas 6, 7 y 8 se ven los resultados de los valores de CTDIVOL y SSDE pertenecientes a exámenes de abdomen, pelvis y tórax, respectivamente, en los pacientes pediátricos.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+Discusión
+
+Según el análisis realizado en la muestra obtenida, encontramos que en la totalidad de los casos existe una diferencia entre el CTDIVOL y SSDE o CTDIVOL corregido por diámetro efectivo, y que estas diferencias son más notorias en aquellos intervalos que se encuentran en los extremos, los cuales representan a los pacientes que tienen características de diámetros efectivos mayores o menores que la media.
+
+Si bien solo se logró obtener una muestra total de 54 pacientes pediátricos, esto no fue tan limitante al momento de realizar una comparación entre el CTDIVOL y el SSDE, ya que se corrobora la misma tendencia observada en la muestra correspondiente a pacientes adultos. Si bien es cierto que el número de muestra total pediátrico podría considerarse pequeño, es posible establecer comparaciones y realizar una estimación de dosis más cercana a la realidad en este tipo de pacientes, en los que la exposición a una cantidad específica de radiación se hace aún más evidente. Es importante señalar que esto, a su vez, podría explicarse por una baja frecuencia de realización de exámenes en la población pediátrica, lo que podría ser resultado de una buena práctica por parte de la institución. Debido a esto fue imposible reclutar exámenes con diámetros efectivos pertenecientes a los intervalos de los extremos en la población pediátrica. Aun así, se puede saber la orientación que estos tendrían en cuanto a la estimación de dosis.
+
+Es importante notar que los valores de CTDIVOL en exámenes de cuerpo utilizan el fantoma de cuerpo (32 cm) para sus calibraciones, sin diferenciar entre tamaños de pacientes. Esto explica la importante variación de los valores originales de CTDIVOL, ya que el tamaño de los pacientes pediátricos es menor a los 32 cm del fantoma, lo que deja el factor de corrección con un valor superior a la unidad y esto, a la larga, refleja el considerable aumento de CTDIVOL, con un SSDE resultante en un 126% mayor en promedio, como se puede ver en la tabla 7.
+
+De manera análoga podemos ver el impacto de los diámetros mayores en la dosis absorbida (tablas 4 y 5) donde podemos observar el efecto que tiene un factor de conversión menor a la unidad, que genera un SSDE menor al CTDIVOL nominal en estos pacientes de diámetro efectivo mayor. Esta disminución puede tener un impacto lógico en la calidad de la imagen resultante.
+
+El problema fundamental que ha representado un motivo constante de discusión para las autoridades competentes en el ámbito de la protección radiológica, específicamente la dosis entregada a los pacientes en el área de TC, es que al momento de calcular esta dosis se ha integrado una sola medida y sus posteriores derivaciones: el CTDI, introducido hace ya casi más de 30 años1 y sus subsecuentes adaptaciones como, por ejemplo: CTDIFDA, CTDI100, CTDIW, CTDIVOL y el DLP2,3,10, principalmente para facilitar políticas de regulación, aplicaciones clínicas y establecer un consenso de manufacturación al momento de estandarizar la dosimetría en TC11–13.
+
+Como se ha señalado anteriormente, las medidas entregadas por el CTDI se encuentran altamente estandarizadas y, además, se reconocen a lo largo de todo el mundo, pero estas no pueden ser reconocidas como un indicador de la dosis entregada al paciente. Esto se basa principalmente en las siguientes razones:
+
+A pesar de las ventajas prácticas que nos han ofrecido los parámetros de CTDIVOL y DLP, estas medidas no incluyen información acerca de las dimensiones del paciente ni de la región del cuerpo que se estudia, por lo cual, no pueden reflejar la dosis individual entregada al paciente, por lo tanto, un tercer parámetro es necesario. Como se ha puesto en práctica en el presente estudio, el hecho de obtener las medidas de los diámetros AP y Lat de los pacientes es tal vez la manera más práctica para determinar el tercer parámetro de tamaño del cuerpo irradiado. ¿Por qué utilizar los diámetros AP y Lat? Principalmente porque estos pueden obtenerse antes de iniciar la adquisición tomográfica del cuerpo del paciente, directamente del topograma realizado previo al examen, o también es posible obtenerlos de las imágenes reconstruidas posteriormente al examen. Medidas alternativas, tales como calcular el índice de masa corporal, requieren una mayor información clínica del paciente, que podría no estar disponible. Además, si se optara por utilizar los indicadores globales de tamaño corporal, como lo son el peso y el índice de masa corporal, estos podrían no representar necesariamente la atenuación específica de ciertas regiones del cuerpo, sobre todo, porque el peso del paciente puede ser distribuido de manera muy diferente en cada individuo15.
+
+Si bien al momento de determinar el SSDE se utilizaron los conceptos de diámetros AP y Lat y su derivación de diámetro efectivo, el reporte 2048 introduce otras formas para llegar a una estimación de dosis, basándose, por ejemplo, en la edad del paciente y su respectivo diámetro efectivo.
+
+A pesar de que existe la necesidad de tomar en cuenta el tamaño del paciente cuando queremos estimar la dosis entregada y aun cuando esto ha sido bien establecido, el CTDIVOL sigue siendo mal interpretado al momento de estimar la dosis del paciente, ya que este no es un parámetro creado para estimar estos valores. El CTDIVOL ofrece valores que son muy útiles al momento de comparar las dosis entregadas por varios protocolos de exámenes o para determinar niveles específicos de calidad de imagen en determinados tamaños de paciente. Con el correcto uso de los niveles de referencia diagnóstica, el CTDIVOL puede ser utilizado para prescribir la dosis correcta para un paciente de tamaño específico y un diagnóstico determinado. Sin embargo, el CTDIVOL no puede ser utilizado como un sustituto al estimar la dosis en pacientes, ya sea en estudios epidemiológicos para determinar los posibles efectos tardíos de una población expuesta a la radiación, ya sea en un seguimiento individual realizado a un paciente específico. Ni el CTDIVOL, ni su derivado DLP, recordando que este se define como el producto entre el CTDIVOL y la longitud de escáner irradiado, deberían ser utilizados para estimar la dosis efectiva6.
+
+Con relación a la dosis efectiva, esta se define como una magnitud individual, especificada en la publicación 60 de la ICRP, como «la suma ponderada de la dosis equivalente a todos los tejidos y órganos pertinentes, con el fin de indicar la combinación de diferentes dosis en diferentes tejidos de manera que sea posible la correlación con el total de los efectos estocásticos»16, esto hace alusión al riesgo relativo al momento de exponerse a radiaciones ionizantes, esta es capaz de reflejar los efectos biológicos que pueden llegar a ser perjudiciales al exponernos de manera completa a una fuente de radiación uniforme. La dosis efectiva debe utilizarse con precaución en el caso de los pacientes, tal como se indica en el informe 2000 del UNSCEAR de la ONU: «La dosis efectiva no debe utilizarse directamente para realizar estimaciones del daño producido por exposiciones médicas, aplicando coeficientes de probabilidad nominal de mortalidad. Tales evaluaciones serían inapropiadas y no tendrían utilidad, teniendo en cuenta las incertidumbres debidas a las posibles diferencias demográficas entre una población de pacientes en particular y la población general a la cual se refieren los coeficientes de riesgo de la ICRP. La dosis efectiva en términos generales puede subestimar el daño por exposiciones diagnósticas a pacientes jóvenes en un factor de 2 y, por el contrario, podría sobrestimar el daño a los pacientes de edad avanzada en un factor 5, por lo menos»9.
+
+Es necesario insistir en que la dosis efectiva no puede ser utilizada para estimar la dosis en un caso individual17, sino que debe ser utilizada como una magnitud de protección, principalmente para la evaluación de la dosis probable en la planificación y la optimización de la protección radiológica y en la demostración, para fines reguladores, del cumplimiento de los límites de dosis. No se recomienda la dosis efectiva para las evaluaciones epidemiológicas, ni debería utilizarse para estudios retrospectivos específicos y detallados de la exposición individual y del riesgo6,17. Aun así, existen herramientas que nos permitirán establecer una referencia estimativa de dosis efectiva en exámenes de TC. El primero de ellos se califica como el método gold-standard basado en la estimación de dosis en órgano, que utiliza como referencia los factores de peso tisular (WT) especificados por la ICRP. El segundo método utiliza los parámetros de DLP y los factores de conversión «k»5, los cuales dependen exclusivamente de la región anatómica examinada, y que derivan de los cálculos de dosis en órganos realizados por la Junta Nacional de Protección Radiológica (NRPB por sus iniciales en inglés) y los factores de peso tisular propuestos por la ICRP 60 y su estricta relación cuando los datos eran referidos a una misma región anatómica. Esto llevó a la Comisión Europea a presentar en el año 2000 un método genérico y rápido para estimar la dosis efectiva en TC, determinado principalmente por el producto entre el DLP y los factores k5. El problema de esta determinación es que esta conversión a dosis efectiva asume un tamaño estándar de paciente5, el cual hace referencia a un paciente adulto de aproximadamente 73 kg de peso. Similarmente, los factores k para los recién nacidos y niños de diferentes edades hacen referencia a un niño genérico para esas edades, incluso aun cuando las dimensiones asignadas a un rango de edad específico no siempre se correlacionan con el tamaño actual del paciente. Para ambos grupos, tanto adultos como niños, el modelo de paciente ideal es hermafrodita, ya que posee tanto los órganos sexuales masculinos como los femeninos; es así que el paciente modelo utilizado para estimar la dosis efectiva utilizando los parámetros de DLP no representa a un paciente real17. También es importante señalar que los factores de peso tisulares han sufrido cambios en su magnitud en diferentes reportes de la ICRP a lo largo del tiempo. Tal es el caso, por ejemplo, de las gónadas, que en el año 1977 (reporte 26) tenían un valor de peso de 0,25, que bajó a 0,2 en el reporte 60 (1991) y actualmente con el reporte 103 (2007) bajan aún más, a un valor de 0,0716–18. En resumen, las estimaciones generales de dosis efectiva proporcionadas por los factores k5–7 no deben interpretarse más allá de su propósito como indicaciones de dosis típicas para hacer referencia a pacientes adultos y pediátricos en los protocolos de TC estándar19.
+
+Se hace necesario, entonces, empezar a aportar mayor exactitud a los nuevos métodos de estimación de dosis, en los que se pueda ofrecer una estimación individual a cada paciente y no, exclusivamente, medidas en fantomas en las que las características de tamaño propias de cada paciente no se ven incorporadas. Es por esto por lo que se intenta con la presente publicación introducir el parámetro de SSDE en nuestra realidad local, aplicando la conversión a una muestra de pacientes de distintas dimensiones como un parámetro de estimación de dosis absorbida más cercana a las características propias de cada paciente.
+
+Los tópicos y preguntas tratados anteriormente generan desafíos en el área de investigación dirigidos al desarrollo de métodos que puedan integrar de manera exacta y eficaz la conversión de los factores más utilizados para medir la dosis en pacientes (CTDIVOL y DLP), con aquellos factores que nos ayudarán a obtener una dosis en pacientes más exacta, como lo son: el tamaño del paciente, el tomar en cuenta la longitud de la zona irradiada (dosis en órgano y en profundidad) y, por supuesto, las herramientas de disminución de dosis que ya vienen integradas en el apartado técnico del escáner en sí. Si bien el reporte 204 hace hincapié en considerar el tamaño del paciente, podrían realizarse nuevas investigaciones que pudieran integrar el tamaño del paciente y, por ejemplo, las herramientas de modulación de dosis. Una nueva línea de investigación sería observar el comportamiento que presenta la dosis cuando se ve influida por estos 2 factores. Otro factor importante a considerar es el hecho de que diferentes sectores del cuerpo (por ejemplo: abdomen y tórax) pueden tener igual diámetro efectivo y, sin embargo, sus capacidades de atenuación de la radiación son diferentes, elemento no incorporado en el reporte 204 y del que se hace cargo el TG-220 de la AAPM20.
+
+El hecho de integrar el SSDE en nuestro campo práctico, principalmente en los servicios de TC, no es una idea que se aleje de la realidad, ya que es un parámetro fácil de calcular y que solo necesita de las medidas realizadas en el topograma AP y LAT y de las tablas de conversión disponibles, tal vez no para establecer un estatuto ideal de dosis en el paciente, sino como herramienta de control, comparación y corrección, lo que sería de gran utilidad al momento de modificar los parámetros de exposición, en caso de ser necesario, para así reducir las dosis de radiación a los pacientes, sobre todo, en el caso de los pacientes pediátricos. Este es un tema de creciente preocupación de la comunidad científica, por la mayor radiosensibilidad que presentan los niños y el mayor tiempo de latencia para desarrollar efectos estocásticos21.
+
+Un objetivo importante del presente trabajo es la introducción de este nuevo parámetro de SSDE en el conocimiento de la comunidad radiológica y, como consecuencia deseable, la puesta en práctica de acciones concretas, las que necesariamente irán en favor de la protección de los pacientes que deben ser observados mediante tomografías y nos acercarán a una práctica realmente ALARA (as low as reasonably achievable; tan bajo como sea razonablemente posible).
+
+ 
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+ 
+
+Confidencialidad de los datos
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+ 
+
+Derecho a la privacidad y consentimiento informado
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+ 
+
+Conflicto de intereses
+
+Los autores declaran no tener ningún conflicto de intereses.
+
+Trabajo realizado en una muestra de exámenes de tomografía computarizada de adultos y niños.
+
+ 
+
+Agradecimientos
+
+Los autores desean expresar su gratitud y agradecimiento para con los tecnólogos médicos, coordinadores y jefe del Servicio de Diagnóstico por Imágenes por su ayuda y acogida al presente proyecto en su desarrollo y culminación.

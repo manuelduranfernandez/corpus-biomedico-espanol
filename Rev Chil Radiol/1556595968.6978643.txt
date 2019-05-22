@@ -1,0 +1,80 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082014000100008
+Recomendaciones para el uso adecuado de las referencias en un artículo científico
+
+Resumen: La correcta referencia a los artículos científicos es necesaria para poder apoyar o sustentar las afirmaciones que se realizan en un artículo científico. Es por ello que existen recomendaciones internacionales respecto de cómo uniformar esta información de forma que sea rápidamente accesible. En este artículo hacemos mención de las últimas recomendaciones y pautas al respecto. 
+
+Palabras clave: Publicaciones científicas, Referencias bibliográficas.
+
+
+
+Introducción
+
+La sección de "referencias" o "bibliografía" es aquella en un artículo científico donde se ordenan los trabajos realizados previamente por otros autores que fundamentan las afirmaciones, diseño metodológico y /o conclusiones. Ello porque el trabajo científico generalmente se sustenta en investigaciones que le preceden y son base del estudio actual. Son los mismos que le permitirán contrastar sus hipótesis, o que apoyan una revisión del tema. Referenciar correctamente en un texto científico permite mantener o sustentar las afirmaciones que uno pudiera realizar(2).
+
+Por ello también es de la mayor importancia realizar una adecuada búsqueda y selección pertinente de aquellos artículos que serán utilizados. Son omisiones comunes el basarse solamente en los buscadores como PubMed o EMBASE, y no tomar en consideración referencias que pueden encontrarse en bases de datos como LILACS (literatura latinoamericana, donde se encuentra incluida SciElo, en la cual se indexa nuestra revista). Es particularmente desprolijo el no incluir referencias pertinentes de la misma revista donde se está enviando el artículo en cuestión.
+
+Otro error común en los artículos enviados para consideración a la Revista Chilena de Radiología, es la inadecuada referencia a los artículos que se hacen mención en el texto. El más habitual corresponde a una referencia no secuencial de los artículos que se presentan, los cuales deben ordenarse de acuerdo a como fueron presentadas las ideas bases en el texto desarrollado. Es decir, el orden del listado de referencias será dado por el orden en que las ideas extraídas de estos fueron presentadas por el autor. En frecuencia le sigue el error de mala estructuración de la referencia en sí, siendo esto de gran importancia para el lector quien pudiera interesarse en buscar el artículo referido para obtener mayor información de la idea contenida. Para poder lograr esto es que se requiere cumplir con normas básicas que permiten identificar este artículo en las bases de datos electrónicas disponibles.
+
+Conocida la relevancia de esta sección, ya en 1978 se reúnen los editores científicos de las Revistas biomédicas de mayor prestigio, creando el "grupo de Vancouver", que sentó las bases de la estructura actual de las referencias biomédicas(3). Con el tiempo, estas recomendaciones han sufrido actualizaciones agrupadas actualmente en la International Committee of Medical Journal Editors (ICMJE), creando así orientaciones y pautas a utilizar para todas las revistas del área biomédica. Actualmente las recomendaciones se van actualizando en la página oficial de ICMJE (http://www.icmje.org/index.html).
+
+En este artículo se mencionarán algunos aspectos relevantes para una correcta inclusión de dichos artículos. Revista Chilena de Radiología al igual que la mayoría de las revistas del área biomédica adscribe a las recomendaciones de la ICMJE, con algunos ajustes locales que se describen a continuación. Ésta se va actualizando constantemente y actualmente incluye también recomendaciones respecto a cómo hacer referencia a artículos publicados en medios digitales, o sólo disponibles en páginas web.
+
+A continuación se mencionarán las formas más frecuentes de referencias utilizadas con ejemplos atingentes en el formato definido por Revista Chilena de Radiología.
+
+Formas aceptadas de hacer referencia(4)
+
+1) Artículo impreso estándar: Colocar los primeros seis autores con apellido e inicial del nombre. Esto debe continuarse con el título de artículo con un punto seguido. Luego se menciona la revista donde se publicó con su abreviación aceptada por la National Library of Medicine (NLM), a continuación el año de publicación separado por un punto y coma, seguido por el volumen y el número de la revista, este último entre paréntesis. Finalmente con un signo de dos puntos, se separa la página de inicio y del final, con un guión.
+
+En el caso de existir más de seis autores, Revista Chilena de Radiología solicita que después del sexto autor coloque "et at".
+
+Formato estándar
+
+Autor A, Autor B, Autor C (et al, si corresponde). Título artículo. Nombre revista abreviado. Año; vol (número): número páginas completas, sin abreviar.
+
+Ejemplo:
+
+Pérez M, Ortega X, Lillo S, Moenne K, Escaffi J, Pérez C. Tortícolis en la edad pediátrica: Revisión pictográfica. Rev Chil Radiol 2013; 19(3): 125-133.
+
+2) Reporte breve o carta al editor: Cuando el artículo corresponde a un reporte breve o una carta al editor esto debe ir indicado entre paréntesis a continuación del título del artículo.
+
+Ejemplo:
+
+Georges JL, Livarek B. X-ray dose delivered during coronary angioplasty. (Carta al editor). J Invasive Cardiol. 2013 Jul; 25(7): A19.
+
+3) Artículo publicado electrónicamente previo a versión impresa (Epub): En ocasiones un artículo puede ser seleccionado para publicación, y se da a conocer por el sitio de Internet de una revista, mientras se le asigna un número de volumen para ser entregado en versión impresa. Dichos artículo también pueden ser citados, y su referencia se presenta a continuación del texto estándar (mencionado en el punto uno), agregando "Epub" y la fecha en que se hizo disponible al público en forma digital.
+
+Ejemplo:
+
+Mayer JL, Lehners N, Egerer G, Kauczor HU, Heussel CP. CT-Morphological Characterization of Respiratory Syn-cytial Virus (RSV) Pneumonia in Immune-Compromised Adults. Rofo. 2014 Feb 20. [Epub ahead of print].
+
+4) Capítulo de un libro. A continuación de los autores del capítulo se indicará el nombre de éste. Tras un punto seguido, se menciona el libro donde se encuentra contenido, iniciándose con los nombres de los editores y el título del libro, finalizando con las páginas a las cuales se hace referencia en el capítulo.
+
+Formato estándar
+
+Apellido Autor, Inicial Nombre. Titulo capítulo. En: Editor A, Editor B, editores. Título y subtitulo del libro. Edición (si no es la primera). Lugar de publicación: Editorial; Año, páginas del capítulo completas, sin abreviar.
+
+Ejemplo:
+
+Ley S, Kreitner K. Pulmonary hypertension and thromboembolic disease. En: Baert AL, Knauth M, Sartor K editores. MRI of the Lung. Heidelberg: Springer-Verlag; 2010. pp. 107-119.
+
+5) Mención a una presentación oral en congreso de especialidad. Debe hacerse mención al título específico de la presentación, al lugar y fecha donde fue presentado.
+
+Ejemplo:
+
+Schiappacasse G. TC y RM de la enfermedad inflamatoria intestinal. Congreso Chileno de Radiologia [presentación oral]. Viña del Mar; 26 de Octubre, 2013.
+
+6) Artículo disponible solamente en Internet. En este caso se hará mención específica al sitio web de donde se extrajo la información y entre paréntesis cuadrados se destaca la fecha de la último acceso a este.
+
+Formato estándar:
+
+Autor A, Autor B. Título del artículo. Nombre revista abreviado. Año [citado día mes año]; volumen (número): páginas. Disponible en: dirección internet o en su defecto DOI (digital object identifier).
+
+Ejemplo:
+
+Masic I. Plagarism in Scientific Publishing. Acta Inform Med 2012; [Citado 21 de Febrero del 2014]; 20(4): 208213. doi:10.5455/aim.2012.20.208-213
+
+Un mayor número de ejemplos están disponibles en el sitio en Internet: http://www.nlm.nih.gov/bsd/uniform_requirements.html
+
+Conclusión
+
+La correcta referencia de los artículos utilizado como sustento de un artículo científico, es una forma de reconocer el aporte que han realizado distintos autores en la creación y difusión del conocimiento. Por ello, su adecuada representación en un texto permite una mayor y mejor extensión de este saber. Los esfuerzos internacionales para uniformar este tema, permiten tener parámetros comunes para poder lograr este objetivo.

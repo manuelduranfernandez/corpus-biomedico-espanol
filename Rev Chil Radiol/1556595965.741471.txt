@@ -1,0 +1,82 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082011000100003
+Resonancia magnética de rodilla: Estudio comparativo entre secuencia Spin Echo Volumétrica y tradicional de corte grueso
+
+Resumen: El desarrollo de nuevas tecnologías en resonancia magnética ha favorecido el uso de secuencias que mejoran significativamente la resolución espacial del método, obteniendo imágenes de cortes finos que permiten análisis volumétrico. Se presenta la experiencia en Clínica Vespucio en un protocolo rutinario de estudio de rodilla, con evaluación de 45 pacientes consecutivos a los que se les realizó secuencia tradicional de densidad protónica con saturación grasa (DPFS) de corte grueso (3 mm) y secuencia DPFS volumétrica de corte fino (1,2 mm). En la mayoría de los casos es posible realizar mejor caracterización anatómica de las lesiones, principalmente meniscales y condrales, con un mínimo aumento en el tiempo de estudio.
+
+Palabras clave: Corte fino, Resonancia magnética, Rodilla.
+
+Introducción
+
+ El desarrollo de nuevas tecnologías en resonancia magnética (RM), principalmente con mayores velocidades de gradiente y equipos multicanales, ha favorecido el uso de secuencias que mejoran significativamente la resolución espacial del método, obteniendo imágenes de cortes finos que permiten análisis volumétrico. La mayoría corresponde a secuencias de gradiente, sin embargo en imaginología osteoarticular, su uso no ha sido generalizado por la susceptibilidad a artefactos y escaso contraste tisular, presentando su mayor utilidad en secuencias especiales para evaluación de cartílago (por ejemplo 3D WATS, Philips Medical Sistems). En general, son principalmente utilizadas secuencias spin echo (SE) de cortes más gruesos.
+
+Se presenta la experiencia en Clínica Vespucio con secuencia SE de corte fino volumétrica, ponderada en densidad protónica con saturación grasa (DPFS) en protocolo rutinario de estudio de rodilla.
+
+El objetivo es demostrar que el uso de esta secuencia mejora la pesquisa de lesiones, en comparación con secuencia tradicional DPFS de corte grueso.
+
+Material y métodos
+
+Los estudios fueron realizados en resonador Philips Medical Sistems Achieva 1,5T de 16 canales. Se utilizó antena dedicada de rodilla de 8 canales, Philips Medical Sistems. 
+
+A 43 pacientes se realizó secuencia sagital DPFS de corte grueso de 3 mm, con un gap de 0,3 mm, 28 cortes, TR 3244 ms, TE 30 ms, factor turbo de 25, matriz de 512, RFOV 160 FH x 160 AP x 95 RL, sin SENSE, con una duración de aproximadamente 145 segundos y además secuencia sagital DPFS volumétrica de corte fino 1,2 mm, con intervalo de 0,6 mm (traslape de 50%), 160 cortes, TR 800 ms y TE 35 ms, factor turbo de 45, con matriz de 512, RFOV 160 FH x 160 AP x 95 RL, con factor SENSE 1,7 y una duración de aproximadamente 200 segundos.
+
+Se eliminó la identificación de los estudios y luego fueron analizados por dos médicos radiólogos con experiencia de más de 6 años en RM músculo-esquelética.
+
+Se realizó estudio descriptivo comparativo, evaluando para cada paciente ambas secuencias, definiendo los hallazgos y, particularmente precisando, si existió beneficio con la secuencia volumétrica de corte fino versus la secuencia tradicional de corte grueso.
+
+Resultados
+
+Se realizaron 44 exámenes a 43 pacientes (en un caso se evaluó ambas rodillas), 21 mujeres y 22 hombres, con edades entre 9 y 56 años (promedio= 33 años). Se estudió la rodilla derecha en 25 estudios y la izquierda en 19. 
+
+De los 44 exámenes, 10 resultaron normales en DPFS de corte grueso y también en secuencia DPFS de corte fino. En 17 casos, el uso de DPFS de corte fino significó un aporte al diagnóstico; en 9 de ellos permitió visualizar desgarros meniscales no vistos en corte grueso. En 18 se mantuvo sin cambios los mismos hallazgos, tanto en DPFS de corte grueso como en DPFS de corte fino, pero con una mejor definición, de acuerdo a los observadores (Figuras 1, 2).
+
+
+
+  
+
+
+
+En 19 de los casos existía edema óseo, que se reconoció en forma menos evidente en la secuencia de corte fino pese a que se identificó claramente en todos los casos (Figura 3).
+
+
+
+Respecto a lesiones condrales, tendíneas o ligamentosas no se demostró diferencia significativa en su detección, sin embargo su definición fue mejor en la secuencia de corte fino.
+
+Discusión
+
+En RM, las secuencias 3D con resolución isotrópica habitualmente están basadas en gradientes, particularmente secuencias de precesión libre balanceada en estado estacionario (steady-state)(1-5). Los resultados de 2 estudios(3,5), han demostrado que estas secuencias pueden ser usadas para entregar una evaluación rápida y detallada de la articulación de la rodilla. En algunos estudios(5) se ha descrito limitaciones potenciales del contraste tisular T1-T2 en estas secuencias, lo que determina que a pesar de su resolución espacial, finalmente su sensibilidad y especificidad sea similar a las técnicas rutinarias de estudio con secuencias de corte grueso no isotrópicas, basadas en técnicas de SE. 
+
+Secuencias 3D FSE (Fast Spin Echo) con resolución isotrópica corresponden a otro método promisorio para reemplazar las secuencias 2D en la práctica clínica. Secuencias 3D FSE permiten obtener imágenes en densidad protónica, la secuencia más comúnmente utilizada en RM músculo-esquelética(7,8–16). La gran ventaja de esta secuencia es su resolución espacial, siendo posible obtener reconstrucciones multiplanares en ejes arbitrarios, hecho que favorece la interpretación (Figura 4).
+
+
+
+En nuestro estudio, la secuencia 3D DPFS proporciona información superior en un número significativo de casos, de hecho incluso es planteable que entregue en una sola secuencia prácticamente toda la información que contiene un estudio completo multisecuencia de aproximadamente 25 minutos de duración. En este estudio, el mayor beneficio de la secuencia 3D DPFS destaca en la evaluación de los meniscos, pudiendo detectar nuevas lesiones o mayor extensión de lesiones visualizadas en secuencia DPFS de corte grueso (Figuras 5, 6). Esto fue demostrado previamente en el trabajo de Yoon y colaboradores(6), que demostró alta capacidad de detección de lesiones meniscales, en correlación con resultados de artroscopías.
+
+
+
+
+
+
+
+La secuencia 3D DPFS permite excelente visualización del cartílago articular, particularmente por menor artefacto de volumen parcial y permite, en teoría, detección de lesiones cartilaginosas más pequeñas. En nuestro trabajo no se produjo una diferencia significativa en la detección de patología condral, sin embargo, objetivamos que el detalle entregado es mayor (Figura 7). 
+
+
+
+ 
+
+En el caso de la evaluación de tendones y ligamentos no encontramos una diferencia relevante. Este hecho coincide con lo reportado en la literatura, donde existen evidencias de que la especificidad y sensibilidad de esta secuencia es similar a la del protocolo rutinario completo de RM músculo-esquelética(6). Destaca que, dada su capacidad multiplanar, con esta secuencia es posible realizar reconstrucciones en planos oblicuos, siguiendo el trayecto de las distintas estructuras a evaluar(10, 16–18) (Figura 8).
+
+
+
+
+
+
+
+En el caso del edema, su detección es similar en ambos tipos de secuencias, a pesar de que en la secuencia 3D DPFS se visualiza con menor intensidad de señal. Esto está determinado por el TR corto que sacrifica la carga T2 manteniendo un adecuado número de cortes y el tiempo de la secuencia, como parte de la planificación del examen; para acortar el tiempo de secuencia sin reducir el número de cortes, se sacrifica la carga T2 del examen, acortando significativamente el TR.
+
+En relación al tiempo que consumen ambas secuencias, la duración de la secuencia 3D de corte fino es aproximadamente 1 minuto más que la tradicional de corte grueso, lo que parece razonable dados los beneficios obtenidos e incluso puede significar un ahorro si se suprimen secuencias similares de corte grueso obtenidas en otros planos.
+
+El presente estudio tiene algunas limitaciones atribuibles al pequeño número de pacientes estudiados, lo que no permite un análisis estadístico completo, por lo que es un estudio descriptivo. Sería ideal realizar estudio con número mayor de pacientes, comparando el protocolo rutinario completo versus esta secuencia única, incluyendo correlación artroscópica como gold standard. 
+
+Conclusión
+
+La realización rutinaria de secuencia volumétrica 3D DPFS de corte fino en rodilla permite una adecuada caracterización de lesiones y el diagnóstico de alteraciones más pequeñas, con un mínimo sacrificio en el tiempo de adquisición de la secuencia. 

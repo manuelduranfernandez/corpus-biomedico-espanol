@@ -1,0 +1,108 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082017000100002
+Evaluación de la intensidad de señal en núcleo dentado, puente, globus pallidus y tálamo en pacientes con esclerosis múltiple: Valoración de la retención de gadolinio
+
+ 
+
+Resumen. Introducción: Recientemente, algunos estudios han informado acumulación de gadolinio en el cerebro de los pacientes con múltiples administraciones de contraste basado en gadolinio. Los pacientes con esclerosis múltiple son sometidos a múltiples resonancias contrastadas y podrían convertirse en una población de riesgo. Objetivo: Determinar si la exposición repetida por vía intravenosa a gadolino se asocia con mayor intensidad en el tálamo, el dentado, el puente y el globo pálido. Métodos: Se realizó un estudio retrospectivo núcleo de 60 pacientes con EM que habían sido sometidos a dos o más RM contrastadas entre 2007 - 2015. Se calcularon las razones núcleo dentado - puente (DNP), tálamo-puente (TP), núcleo caudado- puente (CNP), globus pallidus - tálamo (GPT), globus pallidos - puente (GPP), revisando secuencias T1 axiales simples. Se calcularon los cambios relativos y se compararon con el número de RM contrastadas. Se evaluó la concordancia entre observadores con el coeficiente de correlación intraclase. Resultados: No hubo evidencia de aumento de la intensidad de la señal en secuencias T1 (DNP 0,524, 0,446 GPT, GPP 0,684, 0,771 PT, CNP 0.352). Al no existir diferencias, el coeficiente de Spearman no mostró correlación entre los cambios relativos y el número de resonancias realizadas. La concordancia interobservador fue casi perfecta (0.982) para todas las estructuras. Conclusión: Nuestro estudio no encontró un aumento estadísticamente significativo en la intensidad de la señal T1 en pacientes con esclerosis múltiple. Sin embargo, hay factores a considerar, tales como el tipo de gadolinio y el lapso de tiempo entre las administraciones.
+
+Palabras clave: Esclerosis múltiple, Deposición de gadolinio, MR.
+
+1. This work was presented in the ESR 2016 as an oral presentation 2.
+
+ 
+
+Introducción
+
+La esclerosis múltiple (EM) es la enfermedad desmielinizante más común del sistema nervioso central1 aunque por años se han identificado múltiples posibles causas y factores desencadenantes, hasta el momento su fisiopatología exacta es aún desconocida y la enfermedad constituye la causa más frecuente de discapacidad no traumática en el adulto joven1.
+
+La prevalencia a nivel mundial es variable, entre grupos de alta (30/100.000), media (5-30/100.000) o baja (<5/100.000) prevalencia, siendo Colombia un país de baja prevalencia2.
+
+A lo largo de la enfermedad los pacientes con EM requieren múltiples estudios con resonancia magnética que deben ser realizados con medio de contraste tipo gadolinio. En los últimos meses se han publicado varios estudios y un comunicado de la FDA acerca de la acumulación del gadolinio en el cerebro de animales y humanos3-5, e incluso existe un pronunciamiento de la FDA acerca de la acumulación de gadolinio en pacientes y animales con función renal normal6. Esta acumulación de gadolinio en el cerebro de pacientes está directamente relacionada con el número de estudios contrastado a los que son sometidos. Los pacientes con esclerosis múltiple podrían llegar a ser una población en riesgo por alto número de estudios contrastados a los que son sometidos y, por ende, tendrían un mayor riesgo de acumulación de gadolinio, principalmente en los ganglios basales y núcleo dentado.
+
+Al momento no se cuenta con información de pacientes latinoamericanos a este respecto, por tanto, nuestro objetivo es establecer la variación de intensidad de señal de núcleo dentado, globo pálido, puente y tálamo en secuencias T1 simples en pacientes con esclerosis múltiple con dos o más resonancias magnéticas contrastadas.
+
+ 
+
+Materiales y métodos
+
+Pacientes
+
+Realizamos un estudio observacional retrospectivo de pacientes adultos (> 18 años) con EM confirmada según los criterios revisados de McDonald 20107 que tenían al menos dos RM contrastadas que incluye una secuencia axial sin contraste T1, realizadas entre 2007-2015 en las Clínica Universitaria Colombia y la Clínica Reina Sofía. El estudio fue aprobado por el comité ético la Fundación Universitaria Sanitas.
+
+Los criterios de exclusión fueron: 1) pacientes con hipoxia, lesiones isquémicas o neoplásicas que involucran núcleo dentado, globo pálido, el tálamo o protuberancia; 2) historia de la radiación holocraneal, hemorragia cerebral, evento cerebrovascular o infección intracraneal; 3) imágenes T1 insatisfactorios y 4) disminución de la tasa de filtración renal (60 cc/ min/1,73 m2).
+
+ 
+
+Evaluación de imágenes y análisis estadístico.
+
+Las resonancias se realizaron con un equipo de 1,5 Tesla General Electric © HD23. El protocolo de imágenes sigue los lineamientos internacionales de EM, incluyendo axial T1, DP, T2 y FLARI, sagital FLAIR, coronal T2 e imágenes contrastadas en T1 en los tres planos. En nuestra institución usamos tanto gadopentetato de dimeglumina y gadobutrol, con doble dosis para la esclerosis múltiple8.
+
+Uno de los autores que no formó parte de la evaluación de las imágenes, realizó la aleatorización de las imágenes y eliminó la información clínica del paciente. Las imágenes fueron revisadas en el sistema IMPAX por dos radiólogos (C.T, J. M, 15 y 4 años de experiencia), de forma independiente.
+
+Dibujaron una región de interés (ROI, por sus siglas en inglés) en las imágenes ponderadas en T1 sin contraste en el puente, ambos núcleos dentados, globos pálidos, tálamos y núcleos dentados, utilizando el promedio entre las estructuras izquierda y derecha para el análisis.
+
+Se calcularon las relaciones núcleo dentado-puente (DNP), tálamo-puente (TP), núcleo caudado-puente (CNP), globo pálido-tálamo (GPT) y globo pálido-puente (GPP), de la siguiente manera: la relación de DNP se calculó dividiendo la intensidad de señal media de los núcleos dentados entre el puente (P).
+
+Los cambios relativos entre la primera y última MRI se calcularon como lo describió Errante9 , donde x es la última resonancia magnética y 1 la primera en el mismo paciente. Estos datos se contrastaron con el número de resonancias magnéticas contrastadas realizadas.
+
+Tomamos en cuenta los datos demográficos, número de RM contrastadas y el tiempo entre las resonancias. Las variables continuas se presentan como medias y DE si son de distribución normal, a menos que se indique lo contrario. Se utilizó la prueba de rangos con signo de Wilcoxon y el coeficiente de correlación de Spearman con un nivel de significancia estadísticamente significativo si P <0,05.
+
+Se evaluó la concordancia entre los observadores con el coeficiente de correlación intraclase10 con un modelo de efectos aleatorios. Este análisis se realizó en STATA 11,2 MP (StataCorp, LP, College Station Texas).
+
+ 
+
+Resultados
+
+En nuestra base de datos se identificaron 67 pacientes con diagnóstico confirmado de esclerosis múltiple, se excluyeron 3 pacientes por presentar lesiones diferentes a la EM, y 4 con secuencia T1 no satisfactorias. Se incluyeron un total de 60 pacientes, todos ellos con función renal normal.
+
+Las características demográficas y clínicas se presentan en la Tabla 1, el rango del número de resonancias es de 2-14, el intervalo entre las resonancias es de 2 - 45 meses, con tiempo entre la primera y última resonancias de 3,9-97,46 meses (Tabla 2).
+
+
+
+
+
+
+
+
+
+ 
+
+Las razones en la primera y última resonancia magnética se presentan en la tabla 2. El valor de p que se presenta es el de la variación relativa calculada.
+
+Los pacientes fueron clasificados según si se sometieron <5 imágenes de resonancia magnética o >6, sin encontrar diferencias significativas (Figuras 1 y 2).
+
+
+
+
+
+Figura 1. Cambios relativos en pacientes con menos de 6 RM. Azul oscuro: primera resonancia Gris: última resonancia. Los valores en la parte superior de las barras son valores p de la diferencia.
+
+
+
+
+
+Figura 2. Cambios relativos en pacientes con 6 o más RM. Azul oscuro: primera resonancia. Gris: última resonancia. Los valores en la parte superior de las barras son valores p de la diferencia.
+
+ 
+
+Como no hubo diferencias en la evaluación, el coeficiente de Spearman no mostró correlación entre los cambios relativos de las proporciones y el número de resonancias: DNP 0.202 (P = 0,122), GPT: -0,044 (P = 0,740), GPP: -0,078 (P = 0,552), TP: -0,062 (p = 0,638), CNP: -0,181 (p = 0,166).
+
+La correlación entre observadores fue casi perfecta: 0,982 (IC del 95% = 0,97- 0,99) para todas las estructuras evaluadas.
+
+ 
+
+Discusión
+
+Este estudio no mostró aumento significativo de intensidad de la señal en las estructuras evaluadas, después de la realización de múltiples resonancias contrastadas, incluso cuando se clasifican por el número (más o menos de 6 RM).
+
+Estudios anteriores han demostrado marcadas diferencias en la acumulación de gadolinio después de la administración de los diferentes agentes de contraste, específicamente con gadodiamida, y últimamente también depósitos con el uso de gadopen-tetato de dimeglumina35. Además, concentraciones de gadolinio significativamente más bajas después de la administración de agentes macrocíclicos11,vconsiderando que los quelatos macrocíclicos son más estables que los quelatos lineales12,13 y están asociados con la concentración de suero más baja en el tiempo6.
+
+En nuestro caso, el 25% de las imágenes de resonancia magnética se realizaron con un agente macrocíclico (gadobutrol) y 75% con agentes lineales (gadopentetato dimeglumina). Cada paciente recibió diferentes tipos de contraste a bases de gadolinio y ningún paciente recibió exclusivamente gadopentato de dimeglumina en la totalidad de las resonancias. Aunque vemos una tendencia a aumentar la relación de DNP en pacientes que se sometieron a >6 imágenes de resonancia magn tica, no fue estadísticamente significativa.
+
+A pesar que el tiempo entre la primera y última MRI es comparable a los estudios previos14, el intervalo entre MR en nuestro estudio fue más largo que otros estudios mencionados 11,28 semanas por Radbruch et al5, en comparación con 14,55 meses en nuestro estudio). En un estudio en el cual se administraron múltiples dosis gadodiamida a animales, se demostró que la hiperintensidad no se resolvió después de 5 semanas15, pero períodos de tiempo más largos no se han estudiado aún. Nuestros hallazgos sugieren un periodo de lavado de gadolinio más largo de lo que se considera, lo que debe ser confirmado con otro tipo de estudios.
+
+Hasta donde sabemos, ésta es la primera serie de pacientes con EM latinoamericanos donde se evalúa la retención de gadolinio.
+
+El estudio tiene algunas limitaciones: su carácter retrospectivo, el hecho de que no tenemos un grupo de comparación (lineal vs macrocíclico) y que ambos tipos de agentes fueron utilizados en cada paciente.
+
+En conclusión, no hemos encontrado ningún aumento en la intensidad de la señal en el tálamo, el núcleo dentado, protuberancia y el globo pálido después de la administración de agentes basados en gadolinio de configuración lineal o macrocíclicos en pacientes con esclerosis múltiple.

@@ -1,0 +1,186 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082013000400004
+Uso de volumetría y carga lesional en el seguimiento de pacientes con esclerosis múltiple: Experiencia local y revisión de la literatura
+
+Resumen. La esclerosis múltiple (EM) es una frecuente enfermedad desmielinizante que afecta el sistema nervioso central produciendo lesiones focales a nivel cerebral y medular que condicionan diversos déficit neurológicos evolutivos, muchos de ellos severos e irreversibles, afectando e invalidando un gran porcentaje de pacientes jóvenes en edad productiva. El estudio con resonancia magnética mejoró la capacidad diagnóstica respecto a la tomografía computada, pero en esta década el desarrollo de nuevos magnetos, bobinas y software han permitido desarrollar la neurorradiología cuantitativa que logra evaluar parámetros como el volumen cerebral global, de cada una de sus estructuras así como el recuento semi o automatizado de la carga lesional, lo que permite el mejor seguimiento de cada paciente individual en relación a un evento determinado como un nuevo déficit neurológico dentro de un brote de la enfermedad, un deterioro cognitivo no detectado previamente o en relación a un tratamiento determinado. Mostraremos nuestra experiencia local utilizando el software freesurfer en nuestra práctica habitual, así como otro software de postproceso, siendo la primera experiencia de su uso en esclerosis múltiple publicada en nuestro país.
+
+Palabras clave. Carga lesional, Esclerosis múltiple, Freesurfer, MIPAV, Resonancia magnética, Volumen cerebral.
+
+ 
+
+Introducción
+
+La esclerosis múltiple (EM) es una enfermedad desmielinizante frecuente que afecta el sistema nervioso central, produciendo lesiones focales que condicionan diversos déficit neurológicos evolutivos, muchos de ellos severos e irreversibles. Un importante porcentaje afecta a la población joven (entre los 20 y 40 años), más frecuente en mujeres (2:1), lo cual condiciona un importante impacto económico y social. No se ha definido exactamente su etiología lo que ha dificultado encontrar un tratamiento curativo. Por estos motivos, su estudio es una importante fuente de investigación en múltiples centros a nivel mundial.
+
+Desde el punto de vista diagnóstico, uno de los avances importantes fue la incorporación de la resonancia magnética en la década de los '80, la cual nos permite visualizar las lesiones que eran omitidas por la tomografía computada. La incorporación de mejores magnetos, nuevas bobinas y software de postproceso ha aumentado la sensibilidad en el diagnóstico de esta enfermedad.
+
+Una importante característica de la EM es la heterogeneidad en su expresión clínica(1) lo que se correlaciona con su heterogeneidad neuropatológica.
+
+Diferentes cursos clínicos de la EM: forma recurrente-remitente (RR), secundaria progresiva (SP), primaria progresiva (PP), y la progresiva recidivante (PR)(2).
+
+La EMRR se caracteriza por disfunciones neurológicas agudas autolimitadas seguida por un grado variable de recuperación. Por el contrario, EMPP se caracteriza por una disminución constante en la función neurológica desde el inicio, sin brotes evidenciables en la evolución clínica de la enfermedad. Aproximadamente 50 a 80% de los individuos que presentan un síndrome clínicamente aislado ya tienen lesiones en la RM, las que estarían con anterioridad (ocultas) a la actividad de la enfermedad(2). Lucchinetti(3) ha propuesto cuatro distintas formas patológicas de la enfermedad donde existen lesiones multifocales con destrucción y reparación de la mielina, pérdida axonal y astrogliosis reactiva.
+
+Para el diagnóstico clínico de rutina se utilizan secuencias potenciadas en T2 (Figura 1) que permiten al radiólogo evaluar la cantidad, posición y forma de las lesiones en la médula espinal y cerebro para establecer un diagnóstico presuntivo de esclerosis múltiple. En las secuencias T1 se visualizan los llamados "hoyos negros", que traduce un gran daño tisular.
+
+
+
+
+
+En el año 2001 se incorporan los criterios de McDonald, los cuales establecen los criterios diagnósticos específicos para esclerosis múltiple en resonancia magnética en su diseminación en tiempo tanto como en espacio(4).
+
+Se ha observado una correlación entre los hallazgos en la RM y la actividad inflamatoria, la cual se ha utilizado como un biomarcador de progresión, con una buena correlación a los hallazgos neuropatológicos. Diversos estudios han confirmado la relación entre la captación de gadolinio (Gd) de las lesiones en T1 con actividad inflamatoria(5-8). Esto ha llevado a la aceptación de la RM como un marcador sustituto en los diversos ensayos clínicos de tratamientos antin-flamatorios para la EM.
+
+Los avances técnicos en resonancia con magnetos de alto campo y nuevas bobinas, nos permiten la adquisición rutinaria de estudios volumétricos potenciados en T1 y T2. Con ello, y las nuevas técnicas automáticas o semiautomáticas de postproceso, nos permiten evaluar el volumen cerebral total, así como de diferentes regiones o estructuras cerebrales y determinar la carga lesional en cada uno de nuestros pacientes. Esto último es un importante elemento de juicio útil para determinar la evolución de la enfermedad en plazos breves tales como un año, lo cual nos introduce en la utilización de parámetros cuantitativos en esclerosis múltiple.
+
+ 
+
+Neurorradiología cuantitativa
+
+El desarrollo de nuevas secuencias en resonancia, nuevas bobinas, mayor poder en el campo de los magnetos (alto campo) han permitido obtener imágenes con una mayor sensibilidad en relación a los cambios neuropatológicos y una mayor resolución anatómica.
+
+Además, el desarrollo de nuevos softwares tales como FSL (www.fmrib.ox.ac.uk/fsl/(9) y SPM (www.fil.ion.ucl.ac.uk/spm/(10)), permite el análisis e interpretación cuantitativa de los datos obtenidos. Así surge la neurorradiología cuantitativa que cambia la visión que se tenía de la enfermedad, intentando cambiar el manejo de la EM, ya que permite identificar pequeñas variaciones cuantitativas antes indetectables y, por lo tanto, mejora nuestra precisión para evaluar la respuesta individual a un tratamiento determinado.
+
+Las mediciones de la carga lesional y de la actividad inflamatoria de la enfermedad, a través de técnicas cuantitativas de RM se utilizan cada vez con mayor frecuencia, tanto en clínica como en investigación. Estas técnicas requieren un flujo de análisis que permitan asegurar la eficiencia, reproducibilidad y control de calidad de imágenes por resonancia magnética de pacientes con EM, lo que requiere de un procesamiento avanzado de imágenes. Debido a los avances en informática con la implementación de sistemas PACS (Picture Archiving and Communication Systems) se tienen a disposición bases de datos que permiten realizar análisis dirigidos a una patología en particular.
+
+Los softwares para determinar el volumen cerebral utilizan técnicas de segmentación de imágenes, corregistro y análisis de series en el tiempo(11).
+
+Ya que el análisis cuantitativo de las imágenes de RM se basa en intensidades relativas, como primer paso en el proceso se debe corregir la inhomogeneidad del campo (muy importante en equipos de alto campo, mayor de 3T, y con el uso de bobinas phased-array), luego se hace el registro y segmentación.
+
+En el registro las imágenes realizadas en diferentes equipos se sobreponen en las mismas localizaciones anatómicas(12). El tiempo entre los estudios puede ser de días o años, lo que permite el seguimiento comparativo a largo plazo. Los estudios se pueden realizar con la misma ponderación, por ejemplo T1 para evaluar la atrofia(13) o ponderación diferente, incluso utilizando diferentes modalidades de imágenes, por ejemplo RM v/s PET.
+
+ 
+
+Medición de la Carga Lesional
+
+Un importante uso de la segmentación en el estudio de la EM, es determinar la cantidad y volumen de las lesiones hiperintensas en T2, lo cual se puede cuantificar en milímetros cúbicos para comparar con estudios posteriores. Los cambios en el volumen de las lesiones se utilizan en los ensayos clínicos de nuevos tratamientos para la EM(14,15).
+
+La segmentación de lesiones de la EM se puede hacer manualmente corte por corte por un operador, donde es posible lograr una reproducibilidad razonable, pero es lento y requiere gran uso de mano de obra. Además, se producen errores intraoperador (mismo operador), o interoperador (diferentes operadores).
+
+Múltiples trabajos han abordado el problema de reducir la cantidad de tiempo de operador y mejorar la reproducibilidad de la medición de los volúmenes de las lesiones de EM, utilizando métodos semi o totalmente automatizados(16-18), los que incluyen técnicas de detección de bordes, seguimiento de contornos, redes neuronales, compresión fractal de imágenes, etc.
+
+Es probable que el enfoque más prometedor se base en segmentación usando múltiples parámetros, donde la información de un número de secuencias (por ejemplo T1, DP y FLAIR) se combinan para segmentar las lesiones basadas en la posición de los pixeles en un espacio N-dimensiones, según intensidad.
+
+La clasificación semi-automática de lesiones puede dar una adecuada sensibilidad con una buena reproducibilidad del método en la detección de lesiones de EM, junto a la eliminación de la variabilidad y de la subjetividad (variabilidad intraoperador, interoperador) y la reducción en el costo asociado al proceso manual. Pero todavía es necesario el operador para identificar manualmente algunas lesiones de EM.
+
+La mayoría de los métodos de identificación y segmentación automáticos como semiautomáticos de lesiones se basan en un rango de intensidades de los diferentes tejidos del encéfalo. Sin embargo, grandes variaciones de intensidad pueden violar estos supuestos y afectar negativamente el éxito del proceso. Estas variaciones se derivan de los diferentes fabricantes y modelos de resonadores, las diferencias en los protocolos de adquisición (espesor de corte, etc.), también por ser realizados en diferentes fases de la enfermedad o la presencia de la patología concomitante que puede afectar el comportamiento de la intensidad de los tejidos de manera significati-va(19,20). Debido a lo anterior, algunos softwares como TOADS-CRUISE, además de utilizar los niveles de gris para detectar las lesiones de EM, utilizan atlas anatómicos para eliminar falsos positivos(21).
+
+ 
+
+Atrofia cerebral
+
+La atrofia cerebral es una característica normal del envejecimiento, con pérdida progresiva del tejido encefálico a partir de la edad adulta temprana. Para evaluar la atrofia cerebral, hay que tener en consideración que el volumen del cerebro es altamente variable entre los individuos.
+
+Se cree que la pérdida de tejido neuronal es un indicador de largo plazo de daño irreversible del tejido. Esto es algo complejo cuando existe el fenómeno de "pseudoatrofia global", por el efecto antinflamatorio de algunos tratamientos de EM, donde se produce una rápida pérdida inicial de volumen cerebral debido a una reducción en el exceso de líquido en el cerebro, fenómeno que debe ser considerado al momento de la evaluación volumétrica(22).
+
+La atrofia cerebral se puede medir de forma transversal o longitudinal. La transversal es estimar el volumen total de tejido cerebral. Debido a que el volumen del cerebro es variable, los resultados no son fácilmente comparables, excepto en los estudios de grandes poblaciones. Una manera de estandarizar las medidas, es proporcionar un "normalizado" del volumen del cerebro. Hay una forma de hacer esto: dividir el volumen del parénquima cerebral por el volumen craneal, ya que el volumen craneal permanece fijo durante la vida adulta(23).
+
+En los estudios longitudinales es posible medir la reducción de volumen del cerebro normalizado con respecto al estudio basal. Sin embargo, los registros sofisticados de los estudios realizados en diferentes puntos de tiempo, hacen posible no sólo evaluar la variación bruta de volumen de tejido, sino que también visualizar la ubicación anatómica de la pérdida de tejido(24).
+
+Estudios patológicos y de imágenes sugieren que el desarrollo de deterioro neurológico permanente en la EM, se asocia a la atrofia progresiva cerebral y de la médula espinal.
+
+ 
+
+Material y métodos
+
+Con resonadores Siemens Avanto y General Electric (GE) Optima 450 de 1.5T, se adquirieron secuencias volumétricas T1 (Secuencia MPRAGE en equipo Siemens con parámetros: TR 2400 ms, TE: 3.74 ms, Ti: 1000 ms, FOV: 250 x 250. Secuencia FSPGR (BRAVO) en equipo GE con parámetros TR: 9.7 ms, TE: 3.7 ms, Ti: 600 ms, FOV: 256 x 256. Secuencia FLAIR en equipo Siemens con parámetros TR: 7000 ms, TE: 430 ms, Ti: 2200 ms, FOV: 256 x 256. Secuencia FLAIR en equipo GE con parámetros TR: 6000 ms, TE: 146.7 ms, Ti: 1812 ms, FOV: 256 x 256) a 50 pacientes derivados por sus médicos tratantes para control por esclerosis múltiple en forma rutinaria, o por la aparición de un brote clínico. De éstos se seleccionaron 11 (9 mujeres y 2 hombres) porque tenían al menos un control con resonancia magnética en el tiempo (promedio: 12.6 meses), cuyas edades fluctuaron entre los 23 y 54 años (promedio: 38 años). El seguimiento con resonancia se realizó ente los 5 y 15 meses (promedio: 12.6 meses). Se realizó el análisis volumétrico con software Freesurfer v.4.5.0 (Freesurfer, http://surfer. nmr.mgh-harvard.edu; ejemplo de segmentación) y con software MIPAV con el plugin TOADS-CRUISE (http://www.nitrc.org/projects/toads-cruise/) para recuento lesional, el que permite utilizar secuencias T1, FLAIR, T2 y PD, pero se obtienen mejores resultados utilizando secuencias T1 y FLAIR. Se comparó con nuestra base de datos volumétricos normales según rango etario.
+
+Con el fin de comparar las imágenes de los distintos pacientes es necesario transformarlas en un espacio anatómico estándar(12). En nuestros casos nos basamos en el atlas cerebral MNI, del Instituto Neurológico de Montreal, el que está compuesto por el registro de los estudios de una amplia muestra de sujetos controles, de los cuales se obtiene un cerebro promedio, el cual fue corregistrado de forma aproximada al atlas de Talairach y Tournoux(26).
+
+ 
+
+Resultados
+
+En figura 2 se muestra un corte coronal de la segmentación de un paciente con EM, obtenida con Freesurfer. En figura 3 se muestran cortes axiales de la segmentación de lesiones de EM del mismo paciente anterior, obtenidas con TOADS-CRUISE. En figura 4 se muestra la reconstrucción 3D de las lesiones de EM segmentadas previamente con TOADS-CRUISE y reconstruidas con 3D Slicer. En figura 5 se comparan dos reconstrucciones 3D de cargas lesionales de un mismo paciente en un año de evolución. Los círculos rojos indican zonas con aumento de la carga lesional.
+
+
+
+
+
+Figura 2. Imagen de segmentación del encéfalo diferenciando la sustancia blanca y gris, imagen en el plano coronal realizada con Freesurfer.
+
+
+
+
+
+Figura 3. Cortes axiales de carga lesional segmentada con MIPAV en un mismo paciente entre la resonancia del (a) 04-10-2010 y del (b) 14-10-2011. (volumetría cerebral en tabla 1).
+
+
+
+
+
+Figura 4. Reconstrucción 3D de la carga lesional.
+
+
+
+Figura 5. Reconstrucciones 3D comparativas de cargas lesionales de un mismo paciente en un año de evolución. Los círculos rojos indican zonas con aumento de la carga lesional.
+
+ 
+
+En figura 6 y Tabla I se muestra el formato que nos entrega en nuestros pacientes el estudio volumétrico individual con Freesurfer. En este caso visualizamos una leve disminución de volumen cerebral difuso en el plazo de un año.
+
+
+
+Figura 6. Gráfico de la variación del volumen hipocampal derecho e izquierdo según la edad. Se especifica (ver círculos) el volumen hipocampal de paciente P7.
+
+
+
+
+
+ 
+
+El 36% de los pacientes estudiados presentaron disminución de volumen cerebral difuso (Figura 7), pero debemos diferenciar si se afecta más la sustancia blanca o la corteza cerebral. La disminución de volumen de la sustancia gris cortical (72% de los 11 pacientes) afectó un mayor número de pacientes que la disminución de volumen de la sustancia blanca (39%, Figura 8).
+
+
+
+
+
+Figura 7. Gráfico de barras en que se compara el volumen cerebral total en el tiempo, de los 11 pacientes con esclerosis múltiple. El 36% de los pacientes estudiados, presentaron disminución de volumen cerebral difuso.
+
+
+
+
+
+Figura 8. Gráfico de barras en el que se compara el volumen de la sustancia gris y de la sustancia blanca en el tiempo de los 11 pacientes en control por esclerosis múltiple. El 72% de los pacientes presentó disminución de volumen cortical y un 39% disminución de volumen de sustancia blanca.
+
+ 
+
+El 54% de los pacientes estudiados presentó una disminución de volumen de uno o ambos hipocampos (Figura 9).
+
+
+
+
+
+Figura 9. Gráfico de barras donde se compara la evolución en el tiempo de los volúmenes hipocampales de los 11 pacientes con esclerosis múltiple. El 54% de los pacientes estudiados presentó disminución de volumen de uno o ambos hipocampos.
+
+
+
+El estudio con MIPAV nos permite comparar la carga lesional en un mismo paciente, lo cual se puede visualizar de forma tridimensional. El 63% de los pacientes estudiados presentó aumento de la carga lesional (Figura 10).
+
+
+
+
+
+Figura 10. Gráfico de barras en que se compara la evolución en el tiempo de la carga lesional, en los 11 pacientes con esclerosis múltiple. El 63% de los pacientes estudiados presentó aumento de la carga lesional.
+
+
+
+ 
+
+Discusión
+
+La atrofia se ha sugerido como un marcador potencial de progresión de la enfermedad. El registro de resonancias seriadas ofrece una alternativa útil para evaluar la atrofia cerebral con esta técnica, ya que las mediciones son sensibles y reproducibles, lo que permite detectar la atrofia progresiva dentro de plazos tan cortos como, por ejemplo, un año de evolución de una enfermedad y puede tener potencial como un marcador de la progresión de la enfermedad en el seguimiento de los ensayos terapéuticos. En el estudio de Fox et al (2006)(26), los volúmenes cerebrales basales en el grupo de EM fueron menores v/s los controles, la tasa de atrofia cerebral en el grupo de EM fue 0,8% por año, más del doble que la de los controles (0,3%). La tasa de crecimiento ventricular fue cinco veces mayor que los controles(28), lo cual nosotros visualizamos en el 36% de los casos.
+
+El deterioro cognitivo es un importante evento clínico en la evolución de la EM, dependiendo de la fase y tipo de la enfermedad, entre un 45-65% desarrollará un grado variable de disfunción cognitiva. Los estudios patológicos y por RM han fallado en demostrar una estricta relación entre el deterioro cognitivo y la patología en la sustancia blanca subcortical. La correlación es más pobre aun cuando se considera la atrofia global (sustancia blanca más corteza).
+
+En la actualidad está ampliamente aceptado el compromiso de la sustancia gris en la EM. Lesiones desmielinizantes son comunes en la corteza y en las regiones subcorticales(28). Focos de desmielinización subpial también se pueden extender a la corteza. Estos son probablemente relacionados a los nódulos de infiltración de células B en las meninges supraya-centes(29) y puede reflejar la acción de anticuerpos antimielina. La atrofia cortical y subcortical de la sustancia gris es progresiva durante la evolución de la enfermedad, la cual puede atribuirse a una distrofia neural, pero en los núcleos subcorticales, como el tálamo la atrofia se asocia con pérdida neuronal(30, 31). Se ha observado una significativa correlación negativa entre el espesor cortical promedio y el volumen total de las lesiones de sustancia blanca, lo cual da sostén al uso de medición de carga lesional y espesor cortical promedio(32,33). Nosotros cuantificamos que el 63% presentó aumento de la carga lesional.
+
+Para nuestro análisis utilizamos el software Free-surfer v.4.5.0(34-36) para analizar el volumen cortical así como el espesor cortical (este dato será objeto de publicaciones posteriores). Este software por defecto nos entrega los valores de volumen cortical total (Figura 2), lo que es incluido en la evaluación de pacientes con EM, especialmente si tienen algún grado de déficit cognitivo.
+
+El rol primario de la patología cortical en EM por lesiones inflamatorias focales y atrofia cortical, ha sido subestimado. Éstas determinan déficit cognitivos focales (deterioro de memoria, déficit de atención, procesamiento del lenguaje) y atrofia global, lo que está determinado por diferentes estudios(37-40).
+
+Nuestros hallazgos, los cuales son semejantes a lo encontrado en la experiencia publicada en otros centros, nos hacen comprender que los avances técnicos en los equipos de resonancia magnética, así como las nuevas técnicas de procesamiento de imágenes, nos permiten obtener parámetros cuantitativos como volumen cerebral global y de las diferentes estructuras encefálicas, especialmente la sustancia blanca y el cortical, así como la carga lesional, lo cual nos permite evaluar cuantitativamente la evolución temporal de los pacientes con esclerosis múltiple. Esto marca una gran diferencia respecto a los protocolos de resonancia estándar utilizados en la rutina clínica de nuestro país. Esto nos ha permitido determinar los cambios morfovolumétricos durante los controles anuales de resonancia magnética en aquellos pacientes sin brotes aparentes de su enfermedad, determinando con sorpresa que a pesar del o de los tratamiento utilizados para detener la progresión de la enfermedad, se observa la aparición de nuevas lesiones con aumento de la carga lesional y disminución del volumen cerebral.
+
+La utilización de las técnicas cuantitativas para la valoración de volumen cerebral y recuento lesio-nal en pacientes con esclerosis múltiple no han sido públicas en nuestro país hasta la fecha.
+
+Dentro de las limitaciones de esta técnica debemos mencionar la dificultad de la segmentación de las lesiones en la fosa posterior, debido a la menor diferencia de señal entre la sustancia blanca y gris en esta región y la dificultad de la técnica para diferenciar entre corteza cerebelosa y lesiones, por lo tanto la exactitud de la técnica es deficiente para el conteo de lesiones en la fosa posterior, pero esta limitación no altera la comparación en un mismo sujeto, ya que la omisión de lesiones en esta región es constante en los diferentes estudios de un paciente y no condiciona una variación significativa de la carga lesional, lo cual si es determinado por las lesiones supratentoriales las que son de mayor volumen y número y que sí son bien definidas por esta técnica. Sería interesante tener la correlación de nuestros hallazgos con los estudios neuropsicológicos de los pacientes estudiados así como la exacta correlación del tratamiento que cada uno de ellos utilizaba y su evolución con ellos, lo cual será objeto de estudios posteriores.
+
+En resumen, la volumetría encefálica junto al conteo automatizado de lesiones en pacientes con esclerosis múltiple permite hacer el seguimiento longitudinal de los pacientes, comparando estudios de diferentes fechas con múltiples parámetros en forma reproducible y confiable. Si esto se realiza en forma precoz en el curso de la enfermedad podemos pretender mejorar el manejo de esta patología, con la esperanza que las nuevas terapias en desarrollo logren detener el curso de la enfermedad y lograr mejorías sustanciales del pronóstico a largo plazo, evitando la producción de nuevas lesiones y la consecuente atrofia cerebral, que son los responsables de los daños neurológicos irreversibles que visualizamos en la actualidad.

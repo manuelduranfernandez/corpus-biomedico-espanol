@@ -1,0 +1,96 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082009000400009
+TRACTOGRAFÍA Y TENSOR DE DIFUSIÓN EN EL ESTUDIO POR RESONANCIA MAGNÉTICA DEL NERVIO MEDIANO: REPORTE DE UN CASO
+
+RESUMEN
+
+Introducción: La    resonancia magnética es una herramienta indispensable en el estudio de enfermedades    del sistema nervioso central. Varios estudios consideran la aplicación del tensor    de difusión (DTI) y tractograf ía en el estudio de nervios periféricos. Metodología:    Se realizó tractografía y DTI en dos mujeres, una con síndrome del túnel carpiano    confirmado y otra sin patología. Se consignaron valores de fracción de anisotropía    (FA) y coeficiente de difusión aparente (ADC). Resultados: El valor promedio    de FA de la fibra fue 0,461 (caso) y 0,632 (control). No hubo diferencias entre    valores promedios de ADC de fibras. Discusión: Se logró representar el tracto    del nervio mediano utilizando software de reconstrucción de tractografía. La    morfología y valores del análisis cuantitativo del DTI dependen directamente    del algoritmo de reconstrucción utilizado, especialmente del umbral mínimo de    FA de la fibra a reconstruir. El valor más constante es FA, obtenido por zona,    siendo menor en el caso.
+
+ Palabras Clave:    Coeficiente de difusión aparente, Fracción de anisotropía, Tensor de difusión,    Tractografía.
+
+ 
+
+INTRODUCCIÓN
+
+La resonancia magnética    (RM) es una herramienta indispensable en el estudio de las enfermedades del    sistema nervioso central, pero hasta el momento tiene menor aplicación en las    enfermedades del sistema nervioso periférico, principalmente debido a su dificultad    para delinear adecuadamente los nervios, como consecuencia del bajo contraste    que exhiben respecto del tejido que los rodea'12'. Las primeras neurograf    ías por RM de nervio periférico, realizadas por Filler et al el año 1993, incluían    imágenes con T2 FSE(3), más tarde, se agregaron las secuencias T1,    T1SE, STIR y T2 FSE con saturación grasa'45'. El análisis de las    imágenes obtenidas es de carácter cualitativo y subjetivo, con resultados poco    específicos'13', como por ejemplo, una marcada prolongación en T2,    que no permite diferenciar edema por denervación, des-mielinización o lesión    tumoral'6' lo que ha promovido la búsqueda de nuevos métodos para    el estudio de los tractos nerviosos.
+
+Existen en la literatura    varios estudios que consideran la aplicación del tensor de difusión (DTI) y    de la tractografía en el estudio de nervios periféricos. Dentro de las posibles    aplicaciones reportadas se encuentran la evaluación, pronóstico y seguimiento    posterior al tratamiento de múltiples patologías, principalmente las neuropatías    compresivas de nervios periféricos, como el síndrome del túnel del carpo, lesiones    traumáticas y visualización de las fibras en el caso de neoplasias'710'.
+
+El DTI es un método    no invasivo y cuantitativo, que revela la microestructura y la organización    del tejido sobre la base de su capacidad para monitorizar los movimientos aleatorios    de las moléculas de agua, propiedad del tejido llamada "difusión",    obteniéndose un método más objetivo en la medición del daño del nervio'1-2-5'.
+
+La difusión existente    en las moléculas que forman los nervios periféricos es de tipo preferente, es    decir, mayor en la dirección del nervio que en su eje perpendicular, probablemente    debido a la capa de mielina que lo envuelve; esta propiedad es conocida como    "anisotropía"'6'911'.
+
+La difusión del    tejido es evaluada a través de imágenes potenciadas en difusión (DWI), que nos    aportan información de la difusión en una dirección. El índice de medición es    la "difusibilidad" que se refiere a la capacidad de una molécula de    difundir a través de una membrana.
+
+La RM no es constante    cuando se usa para medir la difusión en un medio complejo, como lo es cualquier    tejido biológico, y por ello se propone usar el "coeficiente de difusión    aparente" (ADC) que es sensible a la composición y a la ultra/microestructura    del material donde las moléculas difunden e interac-túan entre ellas'1213'.
+
+El tensor de difusión    (DTI) es necesario para la caracterización    total de la difusión en un tejido; a partir de sus valores se determina el grado    y la dirección de preferencia de la difusión de las moléculas que lo componen'913'.    Luego, a través de un software de procesamiento, se reconstruyen con    una visión tridimensional los tractos nerviosos, recibiendo el nombre de tractografía.
+
+Existen al menos    cuatro índices provenientes del DTI, el principal es la fracción de anisotropía    (FA), que tiene un rango de 0 a 1; mientras más cercano a 1 sea el valor numérico    de este índice, indica que el tracto en estudio presenta de preferencia movimiento    o difusión en una dirección, secundario a indemnidad de la capa de mielina que    lo envuelve (valor de FA alto). Mientras más cercano a 0 sea el valor de la    FA (valor de FA bajo), reflejará una pérdida de la dirección preferente, probablemente    por una pérdida focal o difusa de la capa de mielina'1'2'67'.
+
+Dentro de las patologías    del sistema nervioso periférico, el síndrome del túnel del carpo (STC) es la    neuropatía compresiva crónica más frecuente'711'. Ocurre por un atrapamiento    del nervio mediano a nivel de la muñeca, secundario a lo cual se produce un    aumento de la presión dentro del túnel, con una obstrucción del retorno venoso,    lo que lleva a edema, cambios fibróticos de las capas más externas del nervio,    epi y perineuro (Figura 1) y pérdida secundaria de mielina;    incluso se ha comprobado degeneración walleriana en cortes histológicos'13'.
+
+   
+
+Se describen 5    grados de daño en un nervio; el grado más frecuentemente encontrado en el STC    es el primer grado o neuropraxia, en el que existe una pérdida de mielina que    se traduce en una menor conducción nerviosa. Los casos más severos pueden llegar    a la axonotmesis (grado 2-3) con pérdida de mielina y disrupción, axonal o total,    del tracto nervioso (Figura 2). En general, el daño a    las fibras    está relacionado con el grado y duración de lacompresión(1315).
+
+   
+
+A continuación,    a propósito de un caso derivado a nuestro servicio para estudio de neurograf    ía de nervio periférico, se presenta nuestra experiencia en el uso de estas    nuevas herramientas diagnósticas.
+
+CASOS
+
+Se reclutaron dos    pacientes de sexo femenino con edad promedio de 30 años, una con diagnóstico    clínico y electromiográfico de STC y otra sin patología. En ambas pacientes    se descartó uso de medicamentos, cirugías o historia de enfermedades neurológicas.    Se denominó caso a la paciente enferma y control a la paciente sana.
+
+El estudio fue    realizado en resonador 3 Tesla Philips Achieva X-Series, con gradiente Quasar    Dual, 80mt/m de amplitud, con slewratede 100t/m/s, utilizando una bobina    de muñeca de 8 elementos, factor SENSE de 8, con la paciente en decúbito supino    y mano ubicada lateral al cuerpo.
+
+Se realizaron cortes    anatómicos T2 de alta resolución con las siguientes características: 60 cortes    de 2mm, con TR/TE 6392/93, 2 NEX, FOV DE 100, matriz de 200X 256, TA 4:41 min    y secuencia DTI EPI    con TR/TE 4455/56, factor B 1000 S/mm2, 32 direcciones, NEX 3. TA de 7:34 min.
+
+Luego de adquirida    la imagen, se realizó un corregistro automático y se analizó en el software    "Extended MR Workspace" Reléase 2,5.3.1 de Philips Medical Systems.
+
+En el análisis    y post proceso de la imagen se realizaron dos pasos esenciales: la reconstrucción    del tracto del nervio mediano con el análisis de los valores de la DTI para    la fibra (con diferentes algoritmos de reconstrucción predeterminados) y el    análisis de tres puntos o áreas focales en el tracto del nervio.
+
+Para realizar el    primer paso del post proceso se obtuvo el corte anatómico a nivel del hueso    pisiforme en secuencia T2, ubicándose el nervio mediano (Figura    3), luego se correlacionó con el mapa color en los cortes axial y coronal    (Figuras 4 y 5), se dibujó en    dos puntos distintos una región de interés (ROÍ) externa al área del nervio,    y se trazó el tracto nervioso según el algoritmo de reconstrucción predeterminado    (Figuras 6 y 7). Luego se obtuvo    los valores numéricos de ADC y FA para la fibra.
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+Para el segundo    paso, se ubicó el nervio en cortes anatómicos T2, sobre el cual se ubicó en    el mapa color axial y coronal, realizándose mediciones en tres puntos focales    del trayecto del nervio, realizando ROIs con diámetros menores al área del nervio.    Un ROÍ en el antebrazo, aproximadamente a 5 cm proximal al túnel del carpo (zona    1), en la región del túnel a la altura del hueso pisiforme (zona 2) y un tercer    ROÍ a 1,5 cm caudal al túnel (zona 3) (Figuras 8 y 9),    obteniendo valores de ADC y FA para cada una de las zonas estudiadas.
+
+Los resultados    obtenidos en las mediciones del caso y del control son mostrados en las tablas    1 y 2. El nervio mediano pudo ser identificado como    una formación redondeada o de forma oval, de color azul, visible tanto en el    corte axial como en la reconstrucción coronal del mapa color. En ambos casos    hubo una correlación en la ubicación del nervio con los cortes anatómicos en    T2.
+
+En ambos sujetos    de estudio se realizó la reconstrucción de la fibra nerviosa con tractografía,    que se correlaciona con la ubicación de ella en cortes anatómicos y en el mapa    color.
+
+La fibra reconstruida    no presenta diferencias en la evaluación visual, con respecto a la morfología    del tracto entre el caso y el control.
+
+El valor promedio    de la FA de la fibra del caso fue 0,461, notoriamente menor al caso control    que alcanzó a 0,632. No se visualizaron diferencias entre los valores promedios    del ADC de la fibra.
+
+Con respecto al    análisis entre las tres zonas estudiadas, hay diferencias principalmente en    la FA medida en la zona del túnel del carpo en caso y control, con FA de 0,426    versus 0,761. El valor de FA de ambas pacientes entre las zonas 1 y, de las    zonas 3 entre sí, no presentan diferencias significativas. En el caso hay una    reducción de alrededor de un 40% de la FA entre la zona 1 y 2. En el control,    la FA en la zona 2 se encuentra levemente aumentada con respecto a la zona 1    (0,761 versus 0,739).
+
+   
+
+   
+
+   
+
+DISCUSIÓN
+
+El estudio de nervio    periférico por RM (neurogra-fía de nervio periférico) se obtenía en sus inicios    con secuencias potenciadas en T2 Fat sat (1993)(3) y STIR (2002)(5);    éstas secuencias anatómicas tienen la desventaja de una pobre delineación del    nervio, debida a la baja resolución de contraste con el tejido adyacente y la    poca especificidad de los hallazgos en T2, observando edema en patología compresiva,    regeneración y tumores'1'6'.
+
+En los últimos    años se han publicado varios trabajos acerca    del estudio de nervios periféricos a través del tensor de difusión y tractografía.    En un estudio experimental realizado porTakagi et al, 2009(1), con    un resonador de 7 Tesla, se demostró que existe una correlación entre los cambios    histológicos después de una lesión, como por ejemplo daño axonal, desmielinización,    degeneración walleriana, y el factor de anisotropía, que se encuentra afectado    en el epicentro de la lesión'13'.
+
+Nuestro grupo,    al igual que los estudios mencionados previamente, pudo representar el tracto    nervioso del nervio mediano al utilizar un software de reconstrucción    de tractografía. La morfología y valores del análisis cuantitativo del DTI dependen    directamente del algoritmo de reconstrucción utilizado, en especial del valor    umbral mínimo de la FA de la fibra a reconstruir, que determina el valor promedio    de la FA del tracto nervioso reconstruido (Figuras 10    y 11).
+
+El valor de la    FA de la fibra es menor en el caso, paciente con STC documentado, lo que reflejaría    la presencia de desmielinización y daño axonal. No se encontraron diferencias    en los valores de ADC, lo que refleja que no existe un trastorno en la difusibilidad,    hallazgo que se observaría en presencia de un daño del epineuro, en los grados    más severos.
+
+Los valores encontrados    en el análisis de la FA por zonas, demostraron una reducción del FA del nervio    mediano en la zona del túnel del carpo, mayor a un 40%, lo que refleja disminución    de la anisotropía preferente en la zona de compresión, probablemente secundaria    a pérdida de mielina o a daño axonal'10'.
+
+   

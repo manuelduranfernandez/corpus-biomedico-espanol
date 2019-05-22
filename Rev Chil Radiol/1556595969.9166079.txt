@@ -1,0 +1,216 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-93082015000300004
+Magnitudes y unidades para dosimetría a pacientes en radiodiagnóstico e intervencionismo
+
+Resumen: Debido a que los procedimientos de radiodiagnóstico e intervencionismo representan una de las principales fuentes de irradiación a la población por radiaciones ionizantes, se vuelve prioritario conocer las magnitudes y unidades que dan cuenta de la dosimetría a los pacientes. Existen innumerables documentos y recomendaciones internacionales sobre nombres, conceptos, definiciones y campos de aplicación para diversas magnitudes y unidades utilizadas en la dosimetría de pacientes en procedimientos de radiodiagnóstico e intervencionismo. Sin embargo, la legislación nacional no se encuentra actualizada en este sentido y no contempla en ninguno de sus documentos, un glosario actualizado que permita encontrar en forma rápida y precisa este tipo de información. Por lo anterior, este trabajo de revisión presenta de manera didáctica y en un lenguaje sencillo, las principales magnitudes y unidades que se deben utilizar en la dosimetría de pacientes sometidos a procedimientos de radiodiagnóstico e intervencionismo.
+
+Palabras clave: Dosimetría, Kerma en aire en la superficie de entrada, Kerma incidente en aire, Magnitudes, Producto kerma en aire área.
+
+Introducción
+
+De acuerdo al Comité Científico de las Naciones Unidas sobre el efecto de las radiaciones atómicas (UNSCEAR), las aplicaciones médicas representan la principal fuente de exposición artificial de la población mundial a las radiaciones ionizantes, destacando dentro de éstas los procedimientos de radiodiagnóstico (Tomografía computarizada, fluoroscopía, radiología general, mamografía y radiología dental) y el intervencionismo (diferentes tipos de cateterismo)(1).
+
+Junto con lo anterior, se sabe que las radiaciones ionizantes tienen el potencial de generar efectos adversos en la salud humana, los cuales pueden agruparse en dos categorías: los efectos deterministas (reacciones tisulares nocivas) y efectos estocásticos, es decir, cáncer y efectos heredables(2). Los primeros, se caracterizan por presentar un umbral de dosis absorbida (dosis absorbida se define como una medida de la energía depositada por la radiación ionizante en un blanco y la medición de la misma se conoce como dosimetría(3) por encima del cual la gravedad de la lesión, incluyendo el deterioro de la capacidad de recuperación del tejido, aumenta con la dosis. En el caso de los efectos estocásticos, se presentan con un modelo lineal sin umbral, es decir, desarrollar un cáncer o efecto heredable atribuible a la radiación se puede presentar con cualquier valor de dosis y su probabilidad se incrementa con la misma.
+
+Por lo anterior, es prioritaria una evaluación y cuantificación permanente de los niveles de radiación ionizante a que son expuestos los pacientes durante los procedimientos de radiodiagnóstico e intervencionismo. Para esto, se requiere la formulación de magnitudes y unidades apropiadas. Esta tarea fundamental de la Comisión Internacional de Unidades y Medidas Radiológicas (ICRU), es realizada junto a otras organizaciones como la Comisión Internacional de Protección Radiológica (ICRP), la Agencia Internacional de Energía Atómica (IAEA), el UNSCEAR, la Organización Internacional para la Estandarización (ISO) y el Consejo Nacional de Protección Radiológica y Medidas de Estados Unidos (NCRP) que definen y conceptualizan estos fenómenos físicos, químicos y biológicos.
+
+Sin embargo, la incorporación de esta información no se encuentra actualizada en nuestra legislación(4,5). Son escasos los documentos o artículos nacionales que den cuenta de las magnitudes y unidades que se deben utilizar para la dosimetría de pacientes en procedimientos convencionales y digitales de tomografía computarizada, fluoroscopia, radiología general, radiología dental, mamografía y cateterismo.
+
+Por todo lo anterior, el presente trabajo de revisión tiene como objetivo generar un primer documento guía que presente de manera didáctica y en un lenguaje ameno para los profesionales de la salud y áreas afines, las principales magnitudes y unidades que se deben utilizar en la dosimetría de pacientes sometidos a procedimientos de radiodiagnóstico o intervencionismo.
+
+ 
+
+Desarrollo
+
+I. Magnitudes fundamentales
+
+El reporte ICRU-85(6) del año 2011, es una de las principales publicación que trata el tema de las magnitudes y unidades utilizadas en forma genérica para describir a las radiaciones ionizantes. Este documento reemplazó el informe previo del año 1998 (ICRU-60(7)), el cual tiene una versión traducida por la Sociedad Española de Física Médica(8). En estos documentos se asignan magnitudes a diferentes categorías.
+
+a. Magnitudes radiométricas: Se refieren al número y energía de las partículas ionizantes, así como al producto de estas magnitudes junto con sus distribuciones espaciales y temporales. Estas magnitudes se describen en la tabla 3.1 de la publicación ICRU-85(6).
+
+b. Coeficientes de interacción: Son el eslabón entre las magnitudes radiométricas y las magnitudes dosimétricas. Son especialmente importantes en los cálculos cuando la magnitud medida difiere de la magnitud que se desea determinar. El detalle de éstas se encuentra en la tabla 3.2 de la publicación ICRU-85(6).
+
+c. Magnitudes dosimétricas: Concebidas para proporcionar una medida física que se correlacione con los efectos reales o potenciales de la radiación, son en esencia un producto de magnitudes radiométricas y coeficientes de interacción. Si bien se calculan de este modo, no se definen de la misma manera, porque lo usual es que se midan directamente. Estas magnitudes también son consideradas básicas(9) y se muestran en la tabla I.
+
+d. Radiactividad: Magnitudes asociadas con el campo de radiación producido por las sustancias radiactivas, las cuales se describen en la tabla II.
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+II. Magnitudes Específicas
+
+La principal referencia bibliográfica que da cuenta de las magnitudes y unidades utilizadas en dosimetría de pacientes sometidos a procedimientos de radiodiagnóstico e intervencionismo, es el reporte ICRU-74 del año 2006(9).
+
+Debido a las energías utilizadas en radiodiagnóstico e intervencionismo, existe una equivalencia numérica entre la dosis absorbida y el kerma, por lo cual estas magnitudes han sido denominadas indistintamente y son descritas en la tabla III. Por otro lado, al compartir ambas magnitudes las mismas unidades, es importante destacar que el kerma se utiliza principalmente para cuantificar el campo de radiación y la dosis absorbida se usa para dar cuenta de los efectos de la radiación(10).
+
+
+
+
+
+a. Magnitudes para fluoroscopía, radiología general, radiología dental, mamografía y cateterismo:
+
+1. Kerma incidente en aire (incident air kerma), Ki
+
+Es el kerma medido en aire libre (sin retrodispersión) en la intersección del eje del haz de radiación con el plano correspondiente a la superficie de entrada del objeto irradiado (Figura 1).
+
+
+
+
+
+ 
+
+• Unidad: J/kg. El nombre especial para esta unidad es el Gray (Gy).
+
+ 
+
+2. Tasa de kerma incidente en aire (incident air kermai rate), Ki
+
+Corresponde al cociente de dKi, que representa el incremento de kerma incidente en aire, evaluado en el intervalo de tiempo dt.
+
+• Unidad: J/(kg/s). El nombre especial para esta unidad es el Gray sobre segundo (Gy/s).
+
+ 
+
+3. Kerma en aire en la superficie de entrada (entrance surface air kerma), Ke
+
+Es el Kerma medido en aire libre (con retrodispersión) en la intersección del eje del haz de radiación con el plano correspondiente a la superficie de entrada del objeto irradiado. El factor de retrodispersión (BSF), es la relación entre el valor del kerma en aire medido en la superficie de entrada de un material y el medido en idénticas condiciones en ausencia del material dispersor. Depende de la calidad del haz y del tamaño del campo de radiación. Sus valores típicos son de 1,3 a 1,4 para radiología convencional, de 1,05 a 1,1 en mamografía y 1,1 en radiología dental (Figura 1).
+
+• Unidad: J/kg. El nombre especial para esta unidad es el Gray (Gy).
+
+4. Tasa de kerma en aire en la superficie de entrada (entrance surface air kerma rate), Ke
+
+Es el incremento del kerma en aire en la superficie de entrada, producido en el intervalo de tiempo dt.
+
+• Unidad: J/(kg/s). El nombre especial para esta unidad es el Gray sobre segundo (Gy/s).
+
+ 
+
+5. Producto kerma en aire área (air kerma area product), PKA
+
+Es la integral del kerma en aire sobre el área del haz de rayos X en un plano perpendicular al eje del haz (Figura 1). Su fórmula es:
+
+
+
+• Unidad: J/kg·m2. La unidad especial es el Gy·cm2.
+
+Nota: Esta unidad no se utiliza para mamografía.
+
+ 
+
+6. Tasa de producto kerma en aire área (air kerma area product rate), PKA
+
+Representa el cociente entre el producto kerma en aire – área y el intervalo de tiempo sobre el cual es realizada la medición.
+
+• Unidad: (J·m2)/(kg·s). La unidad especial es el (Gy·cm2)/s.
+
+ 
+
+b. Magnitudes para tomografía computarizada (TC)
+
+1. Índice de kerma en aire en TC (CT air kerma index), Ca,100
+
+Medición al aire libre para una sola rotación de un escáner de TC y es el cociente de la integral del kerma aire a lo largo de una línea paralela al eje de rotación del escáner sobre una longitud de 100 mm y el espesor de corte nominal, T. El rango de la integración se posiciona simétricamente sobre el volumen examinado, como:
+
+
+
+Para un escáner multicorte, con N cortes simultáneamente adquiridos de espesores nominales T (anchura nominal de haz irradiado NT), se tiene:
+
+
+
+• Unidad: J/kg. El nombre especial para esta unidad es el gray (Gy).
+
+ 
+
+2. Producto kerma en aire longitud (air kerma length product), PKL
+
+Corresponde a la integral del kerma en aire libre sobre una línea "L" paralela al eje de rotación del tomógrafo computarizado. Su fórmula es:
+
+
+
+• Unidad: (J/kg)·m. El nombre especial para esta unidad es el Gray por centímetro (Gy·cm).
+
+ 
+
+3. Producto dosis longitud (dose length product), DLP
+
+Corresponde a un indicador de riesgo en el volumen irradiado. El modo de calcularlo varía según el tipo de estudio (series cortes axiales o helicoidales), sin embargo, en general corresponde al producto del índice de dosis para tomografía computarizada por la extensión del estudio, para la exploración completa (i).
+
+Series axiales:
+
+
+
+Series helicoidales:
+
+
+
+Donde:
+
+• CTDIw,i índice de dosis para TC normalizado.
+
+• ei corresponde al espesor de corte nominal.
+
+• Ni es el número de cortes que componen la serie.
+
+• Qi es la carga de tubo expresada en mAs.
+
+• li es la corriente del tubo en mA.
+
+• ti corresponde al tiempo total de adquisición de la serie, en segundos.
+
+• Unidad: (J/Kg) • m. El nombre especial para esta unidad es el Gray por centímetro (Gy • cm).
+
+ 
+
+c. Magnitudes para mamografía
+
+1. Dosis glandular media (mean glandular dose), DG
+
+Término de referencia para la estimación de la dosis de radiación en una mamografía. Es la dosis absorbida en promedio en el tejido glandular, excluyendo la piel, de una mama comprimida uniformemente con una composición de un 50% de tejido adiposo y un 50% de tejido glandular. Su expresión es:
+
+
+
+Donde:
+
+• Ki es el kerma en aire incidente para cada paciente, el cual se puede obtener directamente (cámaras de ionización, detectores de estado sólido o cristales termoluminiscentes) o indirectamente a partir del rendimiento, medido con el mismo valor de kilovoltaje y después corregido por distancia, es decir Ki =Y (dref /d)2.
+
+• CDG,Ki es un coeficiente de conversión de kerma incidente a dosis glandular promedio, el cual depende del valor de la capa hemirreductora. Éste a su vez depende del valor de kilovoltaje.
+
+• "s" es un factor dependiente del material del ánodo y filtro. Si se utiliza el molibdeno para ambos, el valor de "s" es la unidad.
+
+• PIt es el producto intensidad por tiempo o carga del tubo para exponer cada paciente (en mAs).
+
+ 
+
+Discusión
+
+De acuerdo con el reporte técnico 457 del IAEA(11) el principal objetivo de la dosimetría del paciente en procedimientos de radiodiagnóstico e intervencionismo, es determinar las magnitudes dosimétricas para el establecimiento y uso de niveles de referencia para el diagnóstico (NRD) y la evaluación del riesgo comparativa. Los NRD son valores de dosis a pacientes que no se sobrepasarán en pacientes tipo, siempre y cuando se realice una buena práctica(12), además representa la principal estrategia de optimización de las dosis a los pacientes de acuerdo al ICRP 103(2). Por su parte el reporte ICRU 74(9) plantea al respecto que la dosimetría a pacientes en estos procedimientos proporciona un medio para establecer y comprobar los estándares de buenas prácticas, como una ayuda a la optimización de la protección radiológica del paciente y de la calidad de la imagen y, en segundo lugar, se necesitan estimaciones de la dosis absorbida en los tejidos y órganos en el paciente, para evaluar el detrimento debido a la irradiación, de modo que las técnicas radiológicas pueden justificarse y los casos de sobreexposición accidental sean investigados.
+
+Independientemente del objetivo, la historia de la dosimetría ha estado plagada de definiciones y conceptos que han inducido a la confusión. En este sentido, un buen ejemplo es el Röentgen, la unidad especial, hoy antigua y obsoleta, de la magnitud exposición.
+
+A partir del año 1980, los nombres y definiciones de las magnitudes y unidades usadas en dosimetría a pacientes, han experimentado una serie de modificaciones, siendo uno de los primeros cambios el reemplazo gradual de la magnitud exposición por kerma aire para la calibración de los dosímetros(13). El factor de conversión de exposición a kerma aire es 0,876 x 10-2 (Gy/R)(9).
+
+Uno de los puntos más controversiales en cuanto a nombres de magnitudes es justamente especificar la energía en el punto de intersección del eje central del haz de rayos X y la superficie de entrada del paciente o maniquí. Estos han incluido conceptos como: exposición a entrada de piel (exposure at skin entrance (ESE)), la exposición de radiación de entrada (input radiation esposure), Ke, Ki, dosis en la superficie de entrada (entrance surface dose (ESD)), dosis en piel en la superficie entrada (entrance skin dose (ESD)) y la dosis en piel integral (integral skin dose (ISD)). Sin embargo, las últimas recomendaciones internacionales se han inclinado por establecer al Ke como la magnitud de referencia, en reemplazo de la ESD, fundamentalmente porque en radiodiagnóstico, la producción de radiación de frenado dentro de materiales de número atómico bajo, es despreciable(9,11). Para radiología general también se debe considerar la magnitud PKA, la cual independiza de la distancia el valor de la dosis a nuestro paciente.
+
+Para exámenes fluoroscópicos y procedimientos de intervencionismo la dosimetría al paciente puede ser estimada a partir de las magnitudes Ki, Ke o PKA. Las dos primeras nos permiten una estimación del kerma en la piel del paciente en función del tiempo de duración del procedimiento, siempre y cuando se haya utilizado una sola proyección. Se sabe que los procedimientos fluoroscópicos e intervencionistas son eminentemente dinámicos y, por lo mismo el haz de radiación puede incidir desde muchos ángulos al paciente, siendo por ello la magnitud PKA aquella que representa un mejor indicador general de energía entregada al paciente(14). En estos procedimientos también resulta interesante comentar que la Comisión de Eletrotécnica Internacional define la magnitud "dosis acumulada", equivalente al Ki, en el punto de referencia a la entrada del paciente. Este punto se define como referencia de la posición de la piel del paciente en la cara de entrada del haz de rayos X. Para sistemas de fluoroscopía con un isocentro, el punto de referencia a la entrada del paciente está situado a lo largo del rayo central del haz de rayos X a una distancia de 15 cm del isocentro en dirección al punto focal(15).
+
+En el caso particular de la tomografía computarizada, también se han generado cambios, dado fundamentalmente porque las cámaras de ionización tipo lápiz utilizadas para la dosimetría en procedimientos tomográficos, vienen actualmente calibradas en términos de kerma aire. En este sentido, se han incorporado magnitudes como PKL y Ca,100 en lugar de sus magnitudes antecesoras DLP e índice de dosis en TC (CTDI)(11), respectivamente. Sin embargo, estas últimas magnitudes aún se utilizan.
+
+Para la mamografía la DG representa un indicador del riesgo de carcinogénesis de acuerdo a lo descrito por Martin(14). Para obtener esta magnitud se debe aplicar una serie de factores adimensionales relacionados, los que fueron obtenidos con métodos de Montecarlo y posteriormente comprobados empíricamente por Dance et al(16).
+
+Si bien es cierto, los nombres de las magnitudes y unidades están cambiando, tenemos que ser cautos a la hora de incorporar dichos nombres, en trabajos y publicaciones, ya que podríamos generar una mayor confusión entre quienes se relacionan con estos temas. En el pasado hemos planteado la necesidad de una revisión de nuestra legislación(17,18), donde se incorpore dentro de otros temas relevantes, una actualización de las magnitudes y unidades para la dosimetría del paciente. Nuestra recomendación es al menos incorporar las magnitudes propuestas como NRD en el reporte ICRU 74(9) para cada tipo de procedimiento y que sean utilizadas en la dosimetría de nuestros pacientes en radiodiagnóstico e intervencionismo.
+
+Finalmente, en siguientes trabajos desarrollaremos y explicaremos la metodología para la obtención de estos NRD, como así también hablaremos sobre magnitudes de protección radiológica de tipos limitadoras y operacionales, tanto para el paciente como para los operadores(2).
+
+ 
+
+Agradecimiento
+
+El presente trabajo se ha llevado a cabo como parte del proyecto de cooperación técnica "Fortalecimiento de la infraestructura nacional, para que los usuarios finales puedan dar cumplimiento a las reglamentaciones y requerimientos en materia de protección radiológica", RLA/9/075 de la Agencia Internacional de Energía Atómica. Uno de los investigadores (Ubeda C) agradece el apoyo de la Dirección de Investigación de la Universidad de Tarapacá, a través del proyecto de investigación UTA Mayor Nº 7710-14.
