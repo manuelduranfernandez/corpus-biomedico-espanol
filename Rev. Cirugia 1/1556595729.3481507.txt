@@ -1,0 +1,128 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262014000200016
+DESARROLLO DE UNA NUEVA TÉCNICA ENDOSCÓPICA PARA EL TRATAMIENTO DE LA ACALASIA: POEM (PER-ORAL ENDOSCOPIC MYOTOMY)
+
+Resumen
+
+La Acalasia es el trastorno 	    motor primario más frecuente del esófago. Existen diversas 	    alternativas para el tratamiento de esta enfermedad, siendo el gold standard actual 	    la miotomía de Heller laparoscópica. Durante los últimos 	    años, con el desarrollo de técnicas endoscópicas avanzadas, 	    se ha desarrollado una nueva técnica endoscópica para el tratamiento 	    de esta patología; la técnica POEM (del inglés: Per 	    Oral Endoscopic Myotomy). Hoy en día pocos centros en el mundo 	    realizan esta técnica, con un total de pacientes intervenidos hasta 	    la fecha de aproximadamente mil, reportándose excelentes resultados 	    y escasas complicaciones. La técnica consta de 5 pasos críticos: 	    elevación de la mucosa esofágica, incisión de la mucosa, 	    creación del túnel submucoso, 	    miotomía de las fibras circulares internas de la pared esofágica 	    extendiéndose hasta el estómago y cierre del defecto en la 	    mucosa. Los mayores exponentes de esta compleja técnica recomiendan 	    el entrenamiento previo en modelos animales simulados, con el fin de disminuir 	    las curvas de aprendizaje previo a la realización en pacientes. En 	    este artículo se presenta la técnica POEM, así como 	    la implementación de un modelo de entrenamiento animal porcino ex     vivo desarrollado en nuestra institución. 
+
+Palabras clave: Acalasia,       endoscopia digestiva alta, miotomía.
+
+ 
+
+Introducción
+
+La Acalasia es el trastorno motor primario más frecuente del esófago. Su nombre deriva del término griego a-khalasis, que significa "falta de relajación". Esta enfermedad se caracteriza por la ausencia de relajación del esfínter esofágico inferior (EEI), presión basal del EEI aumentada y aperistalsis del esófago distal. Desde el punto de vista fisiopatológico se produce una degeneración del plexo mientérico en la pared esofágica, lo que genera un trastorno en la relajación de las fibras musculares lisas presentes en el esófago distal.
+
+Es una enfermedad poco frecuente, con una incidencia anual aproximada de 1 a 2 casos por 100.0001. Ambos sexos son afectados por igual y si bien puede presentarse a cualquier edad, habitualmente es diagnosticada entre los 25 y 60 años1.
+
+La disfagia es el síntoma más frecuente y está presente en aproximadamente el 90% de los pacientes con Acalasia. Otras manifestaciones como regurgitación, pirosis, dolor epigástrico 	    o retroesternal y baja de peso son menos comunes, con una frecuencia variable     entre 40 a 60% de los casos.
+
+La instalación de los síntomas habitualmente es insidiosa y de progresión gradual. Esto explica la usual demora en la primera consulta de los pacientes, con una duración media de síntomas hasta el diagnóstico entre 4 a 5 años2.
+
+Diagnóstico
+
+El estudio diagnóstico incluye la realización de estudio contrastado del esófago, en el cual éste se observa dilatado en grado variable, terminando a nivel del EEI en forma aguzada, descrita habitualmente como "pico de pájaro". La manometría esofágica típicamente evidencia una presión de reposo del EEI elevada, relajación incompleta de éste y aperistalsis esofágica. La endoscopia digestiva alta revela un esófago dilatado y con contenido alimentario en su interior, permitiendo el paso del instrumento a través de la unión gastro-esofágica (UGE). La principal utilidad de este examen es el diagnóstico diferencial con otras patologías que pudieran explicar los síntomas (pseudoacalasia).
+
+Tratamiento
+
+En la actualidad se dispone de distintas alternativas de tratamiento de esta enfermedad: tratamiento médico, que incluye fármacos como nitratos y bloqueadores de calcio; el tratamiento endoscópico, a través de procedimientos como dilatación con balón e inyección de toxina botulínica al EEI y el tratamiento quirúrgico, que consiste principalmente en la miotomía del EEI (ejemplo: Miotomía de Heller).
+
+El tratamiento médico es utilizado principalmente en pacientes que no están dispuestos a tratamientos invasivos o que sus comorbilidades los contraindican. En general la respuesta es pobre, con tasas de respuesta menor al 50%3,4 y efectos adversos en cerca del 30% de los pacientes4.
+
+Respecto al tratamiento endoscópico, los procedimientos disponibles que cuentan con mayor evidencia son:
+
+Inyección de toxina botulínica
+
+Su efecto es a través del bloqueo de neuronas excitatorias que contraen el músculo liso a nivel del EEI. Se reportan tasas de respuesta inicial en el 80% de los casos, similar a la dilatación con balón     y cirugía5. Sin embargo, el efecto disminuye con el tiempo (50% a 6 meses y 40% a 12 meses), requiriendo otro tratamiento un elevado porcentaje de los pacientes5.
+
+Dilatación con balón
+
+Consiste en la dilatación forzada con balón del EEI, produciendo disrupción parcial de sus fibras musculares. Posee una tasa de respuesta inicial del 85%, disminuyendo con el tiempo a 74% a los 6 meses y 68% a los 12 meses. Sin embargo, presenta el riesgo de perforación esofágica en el 1,6% de los casos, el cual aumenta en caso que los pacientes requieran más de una dilatación u otro tipo de procedimiento posterior5.
+
+Tratamiento quirúrgico
+
+En la actualidad el tratamiento 	    de elección es la miotomía del EEI. Ésta puede ser 	    realizada a través de un abordaje abdominal o torácico, con 	    técnica tradicional o mínimamente invasiva5-7. 	    La primera descripción de este procedimiento data del año 	    1913, en el cual Ernst Heller realizó la cirugía que hoy lleva     su nombre para el tratamiento de la Acalasia. La cirugía consiste     en la sección de las fibras musculares (circulares y longitudinales)     del esófago distal, extendiéndose en al menos 2 a 3 cm a la     musculatura gástrica. La miotomía debiera asociarse a un procedimiento     para prevenir el desarrollo de reflujo gastro-esofágico (RGE)     post-operatorio, debido a que se produce una disrupción en el     sistema antirreflujo durante la cirugía6.
+
+Las ventajas de la miotomía que la transforman en el gold standard en la actualidad, incluyen una alta tasa de éxito (mayor al 90%) y una baja tasa de recurrencia5. Sin embargo, debe señalarse que es un procedimiento invasivo y que al igual que el resto de las técnicas presenta morbi-mortalidad asociada (tasa de perforación de 3-5% y mortalidad del 0,1%), la que es mayor en pacientes que han sido sometidos previamente a otro procedimiento. Adicionalmente y como ya comentamos existe el riesgo de desarrollar RGE post-operatorio, dependiendo de la asociación de un procedimiento antirreflujo durante la cirugía     (10 y 35% de los casos respectivamente)5-8.
+
+Desarrollo de una nueva técnica: Per-oral Endoscopic Myotomy (POEM)
+
+Con la aparición de la cirugía NOTES (Naturally Orificial Totally Endoscopic Surgery) hemos experimentado un aumento progresivo de las habilidades de los endoscopistas, junto a un gran desarrollo de instrumental endoscópico. Todo lo anterior ha permitido la realización de técnicas endoscópicas más avanzadas, tales como la Disección Endoscópica Submucosa (DES), entre otras.
+
+Derivado de la cirugía NOTES, Pasricha el año 2007, publicó la realización de la primera miotomía esofágica endoscópica en un modelo animal ex-vivo, como técnica potencialmente aplicable al tratamiento de la Acalasia, mediante la realización de un túnel submucoso y posterior miotomía del esófago distal por vía endoscópica9.
+
+El año 2009, Inoue publica por primera vez la realización en un paciente de la técnica previamente descrita, bautizándola como POEM10.
+
+Hoy en día existen aproximadamente 20 centros en el mundo realizando esta técnica, con un volumen total de pacientes sometidos a POEM hasta la fecha de aproximadamente mil. Los resultados publicados son promisorios, con una tasa de éxito posterior al procedimiento de más del 90%11, incluso en pacientes que han sido sometidos a otros procedimientos previamente (incluído POEM). Junto con lo anterior, existen reportes de tratamiento exitoso con esta técnica en otros trastornos del esófago, los cuales     requieren de miotomías más largas que en la Acalasia típica11-17.
+
+El POEM, al igual que el resto de los procedimientos invasivos, no está exento de riesgos. Uno de los principales temores de quienes desarrollaron la técnica es que producto de la incisión en la mucosa y sección de fibras musculares esofágicas, pudiera ocurrir una perforación de pared total esofágica y la secuencia catastrófica mediastinitis-sepsis-muerte, lo cual afortunadamente no ha ocurrido en las series disponibles11,13-17. Dentro de la morbilidad atribuible al procedimiento, lo más habitual es el sangrado del túnel mucoso, neumomediastino, neumotórax     y neumoperitoneo, los cuales en la mayoría de los casos se resuelven espontáneamente tras la observación y suspensión del régimen oral. Hasta el día de hoy, no existen casos de mortalidad asociada al procedimiento en las series publicadas11,13-17.
+
+La técnica consta de 5 pasos críticos: 1) Elevación de la mucosa esofágica; 2) Incisión de la mucosa; 3) Creación del túnel submucoso; 4) Miotomía de las fibras circulares internas de la pared esofágica, extendiéndose hasta el estómago; 5) Cierre del defecto en la mucosa (Figura     1).
+
+ 
+
+Figura 1. Esquema               representativo de los pasos críticos de la técnica               POEM. A. Elevación e incisión de la mucosa               esofágica. B. Creación del túnel submucoso. C. Miotomía               de las fibras circulares internas de la pared esofágica. D. Extensión               de la miotomía hasta el estómago. E. Cierre               del defecto en la mucosa. Modificado con el permiso del Dr. H Inoue.
+
+ 
+
+Entrenamiento y aprendizaje de la técnica
+
+Dados los potenciales riesgos previamente descritos y la complejidad de la técnica, quienes la iniciaron sugieren el entrenamiento en modelos simulados previo a su implementación y ejecución en seres humanos. Existe consenso que el mejor modelo animal que imita el esófago humano es el cerdo, por lo que se han desarrollado modelos de entrenamiento con esófago porcino ex vivo y con porcinos vivos bajo anestesia11,18-21.
+
+Presentamos a continuación la implementación de un modelo de entrenamiento animal porcino ex vivo para la práctica de POEM, desarrollado por nuestro equipo.
+
+Se utilizan para la confección 	    de este modelo el segmento esófago-estómago extraído 	    de cerdos previamente sacrificados. La pieza quirúrgica consta de 	    un segmento de largo variable de esófago que mide en promedio 30 	    a 35 cm. Ésta es lavada con agua y posteriormente congelada hasta 	    su utilización. El proceso de descongelamiento se realiza en agua 	    tibia con abundante cloruro de sodio (sal). Una vez descongelada la pieza, ésta 	    se monta en una caja de simulación especialmente diseñada, 	    que contiene una boquilla que se continúa con un sobretubo, el cual 	    es introducido en el esófago porcino y fijado con abrazaderas, de 	    manera de dejar al menos 20 cm de lumen esofágico libre para realizar 	    el procedimiento. En el segmento de estómago, a nivel del antro, 	    se sella el lumen con grapas para permitir una adecuada insuflación. 	    Se utiliza una placa monopolar adherida a la pared gástrica con abundante 	    gel de conducción, para permitir la utilización del cuchillo 	    endoscópico (Figura 2).
+
+ 
+
+Figura                 2. Modelo de entrenamiento animal porcino ex vivo para                 la práctica de POEM, desarrollado por el Equipo de Cirugía                 Digestiva de la Pontificia Universidad Católica de Chile.
+
+ 
+
+Una vez montado el modelo se requieren diversos implementos para la realización del procedimiento. Los utilizados por nuestro grupo son: endoscopio (Fujinon modelo Eg450 rd5), insuflador (Fuji modelo GW-1) 	    (Si bien nosotros utilizamos un insuflador de aire durante el entrenamiento 	    en porcino, una vez que el procedimiento se realice en humanos es necesario 	    utilizar un insuflador de CO2, con el fin de disminuir la posibilidad de     complicaciones como neumomediastino, neumotórax y neumoperitoneo),     espaciador distal (Fuji modelo DH-19GR), bomba de irrigación (Fuji modelo     JW-2), aguja de inyección (US Endoscopy modelo Carr Locke), suero fisiológico con índigo carmín, cuchillos endoscópicos (Flush Knife BT, triangle tip knife), pinza de coagulación,     generador (ERBE) y clips de hemostasia.
+
+Antes de comenzar el procedimiento, se realiza una endoscopia diagnóstica en la cual se visualiza la mucosa esofágica, UGE y estómago. Luego se inicia el procedimiento elevando la mucosa mediante inyección de suero fisiológico (con aguja de inyección) en la cara anterior del esófago, en un punto aproximadamente 15 cm proximal a la UGE (Figura 	      3a). Se realiza una incisión en la mucosa en sentido transversal de 2 cm de largo (Figura 	      3b) y posteriormente se desliza la punta del endoscopio al espacio submucoso, creando un túnel submucoso con la técnica de DES, el cual se debe extender hasta 	    por lo menos 2 a 3 cm distal a la UGE y abarcar aproximadamente 1/3 de la 	    circunferencia del esófago. Lo anterior puede ser comprobado avanzando el endoscopio hacia el estómago y realizando una retrovisión, 	    en la que debiera verse por translucencia la presencia de suero con índigo carmín bajo la mucosa gástrica en la región subcardial (Figuras 	    3c y 3d). Luego se inicia la miotomía de las fibras musculares circulares internas del esófago en un punto aproximadamente 3 a 4 cm distal a la incisión mucosa, utilizando el cuchillo y traccionando las fibras para separarlas de las fibras longitudinales y reducir el riesgo de perforación. La miotomía se extiende hasta un punto por lo menos 2 a 3 cm distal a UGE (Figura 	    3e). Una vez concluída la miotomía se realiza el cierre de la incisión     mucosa con clips (Figura 3f).
+
+ 
+
+Figura 3. Visión               endoscópica de la técnica POEM en modelo de entrenamiento. A. Elevación               de la mucosa esofágica mediante inyección de suero               fisiológico. B. Incisión de la mucosa esofágica. C. Creación               del túnel submucoso. D. Retrovisión endoscópica,               observándose por translucencia la presencia de suero con índigo               carmín bajo la mucosa gástrica en la región               subcardial. E. Miotomía de las fibras circulares               internas de la pared esofágica. F. Cierre de la incisión               mucosa con clips.
+
+ 
+
+Ventajas y desventajas de la técnica POEM
+
+Existen múltiples ventajas que pudiera presentar el POEM sobre la miotomía de Heller, dentro de las cuales destacan:
+
+1. Su realización no requiere de incisiones como en la cirugía, impactando positivamente en la reducción del dolor post-operatorio y por supuesto en el resultado estético.
+
+2. El POEM pudiera ser utilizado en enfermedades que comprometan difusamente el esófago, dado que su realización permite exponer casi la totalidad de la longitud de la capa muscular esofágica. Al contrario, la miotomía de Heller sólo trata el esófago distal.
+
+3. En la series publicadas se observan buenos resultados en pacientes sometidos a procedimientos previos para el tratamiento de la Acalasia (dilataciones con balón, miotomía de Heller e incluso posterior a POEM)11. Ésto se explica por la posibilidad de abordar cualquiera de las paredes del esófago (anterior, posterior y laterales), con el fin de evitar las adherencias en la zona tratada previamente.
+
+4. Menor RGE post operatorio: Dado que sólo se realiza una miotomía de las fibras circulares internas y no se daña el aparato antirreflujo, debiera esperarse una tasa menor de RGE postoperatorio. Las series muestran tasas del 10 al 20% de RGE posterior a POEM, el cual presenta una buena respuesta al tratamiento con inhibidores de la bomba de protones14.
+
+5. Potencial para realizar la técnica en forma ambulatoria: Si bien aún este planteamiento es muy precoz, dadas las aprehensiones de potenciales complicaciones graves, eventualmente este procedimiento podría ser realizado en forma completamente ambulatoria en el futuro.
+
+Por otro lado, las desventajas al compararla con el gold-standard son:
+
+1. Técnica nueva y compleja: El POEM sólo tiene poco más de 4 años de desarrollo y un número de alrededor de mil casos publicados. Sólo es realizado en 20 centros alrededor del mundo, debido a la complejidad de la técnica y la necesidad de contar con habilidades endoscópicas avanzadas, como el manejo de una gran diversidad de instrumentos, familiarización con técnicas     de hemostasia, disección y eventual manejo de perforaciones u otras complicaciones.
+
+2. Las series publicadas muestran una duración promedio del procedimiento bastante similar a la duración de la miotomía de Heller laparoscópica11. Si bien al completar la curva de aprendizaje los tiempos debieran disminuir, por el momento éste no es un punto a favor para el POEM.
+
+3. Potenciales complicaciones graves: Los grandes temores al iniciar esta técnica 	    son sus potenciales complicaciones ya mencionadas, como el neumomediastino,     neumotórax, neumoperitoneo y en especial la perforación esofágica y su eventual progresión a mediastinitis. Por el momento no se han reportado muertes atribuibles al procedimiento y los casos de perforación esofágica en el tránsito contrastado de control han sido tratadas exitosamente de manera conservadora en la mayoría de los casos.
+
+Conclusiones y perspectivas a futuro
+
+En el tratamiento de la Acalasia, la miotomía de Heller es la terapia de elección. La técnica de POEM surge como una alternativa terapéutica nueva para el tratamiento de la Acalasia.
+
+Los principales exponentes de esta técnica sugieren fuertemente el entrenamiento en modelos animales previo al paso a la realización en humanos. En general hay consenso que el cerdo es el mejor modelo dada su similitud en cuanto a la anatomía con el humano.
+
+Nuestro modelo de entrenamiento constituye la primera aproximación a esta técnica a nivel nacional, con miras a la realización de un modelo posterior en porcinos vivos y luego su eventual realización en humanos.
+
+El inicio de una experiencia de POEM en pacientes, a la luz de la complejidad de la técnica 	    y sus potenciales complicaciones, requiere de equipos multidisciplinarios 	    compuestos al menos por endoscopistas avanzados, cirujanos digestivos y     torácicos, gastroenterólogos, intensivistas, anestesiólogos, etc.
+
+Los resultados publicados de POEM hasta el momento son alentadores y la perfilan como una técnica segura. Sin embargo, es necesario un mayor seguimiento de las series y un número mayor de pacientes para lograr validar la técnica, antes de transformarse en la alternativa de elección en el tratamiento de la Acalasia.
+
+Agradecimientos
+
+1) Agradecemos a Equipos Médicos Zepeda por su colaboración en el desarrollo del modelo mediante entrega de instrumental y disponibilidad de centro de simulación para su puesta en práctica; 2) Agradecemos al Dr. H. Inoue por los permisos otorgados.

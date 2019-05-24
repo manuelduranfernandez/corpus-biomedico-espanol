@@ -1,0 +1,82 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262018000400329
+Factores asociados a reingreso hospitalario precoz posterior a resecciones hepáticas y pancreáticas
+
+Introducción
+
+El reingreso hospitalario precoz (RHP) es aquel que ocurre dentro de los primeros 30 días posteriores al alta1. Este evento se ha convertido en un problema para el funcionamiento de los servicios de salud, ya que genera costos elevados asociados a prestaciones médicas potencialmente evitables2. Por esta razón, se ha establecido como un marcador de calidad e incluso algunos países han instaurado sanciones económicas a prestadores con indicadores deficientes3. Sumado a las desventajas económicas que produce, el RHP se asocia a un aumento de la morbilidad y mortalidad en los pacientes que la presentan, sobre todo en cirugías de alta complejidad como es el caso de la cirugía hepática y pancreática4. Diversos autores han estudiado la incidencia y factores asociados a este evento, con prevalencias globales de RHP descritas entre 14,2% y 20,9%1,4–8. Los principales factores de riesgo asociados al RHP son el número y la severidad de las comorbilidades del paciente, la presencia de complicaciones posoperatorias y el tiempo de estadía hospitalaria4–8.
+
+El objetivo principal de este estudio fue determinar la frecuencia de RHP en una cohorte de pacientes sometidos a cirugía de resección hepática o pancreática en nuestro Centro.
+
+Material y Métodos
+
+Estudio de cohorte histórica. Se revisaron las fichas clínicas e informáticas de pacientes operados entre junio de 2012 y junio de 2014 por el equipo de cirugía hepatobiliar y pancreática del Hospital Clínico de la Pontificia Universidad Católica (PUC). Se incluyeron en el estudio todos los pacientes sometidos a cirugías de resección hepática y pancreática mayor; definidas como mayores a dos segmentos de Couinaud en el caso de las hepatectomías y a resecciones pancreáticas formales (duodenopancreatectomías y pancreatectomías corporocaudales). Se excluyeron las cirugías de urgencia, resecciones “no anatómicas” y pacientes con información incompleta o que fallecieron durante la hospitalización. Se registraron variables de laboratorio, clínicas y quirúrgicas. Las complicaciones posoperatorias se categorizaron según la clasificación Clavien-Dindo: grados 1 y 2 se definieron como complicaciones menores, mientras que grado 3 y 4 se consideraron complicaciones mayores7.
+
+El evento o outcome principal analizado fue el reingreso de los pacientes dentro de los primeros 30 días posteriores a su alta. En este grupo se analizaron, además, las características propias que motivaron el reingreso, así como morbilidad, mortalidad y re-intervenciones quirúrgicas. Los pacientes opera-dos que no presentaron RHP fueron considerados como “grupo control”.
+
+El análisis estadístico se realizó mediante el programa SPSS versión 17 (2009, Chicago IL, USA). Para la descripción de variables continuas se utilizaron los estadígrafos media y desviación estándar o mediana e intervalo, según correspondiera. La descripción de variables categóricas se realizó mediante frecuencias absolutas y porcentajes.
+
+Se utilizó prueba χ2 y t de student/Mann-whitney para variables categóricas o continuas, respectivamente. Se utilizó regresión logística para el análisis multivariable. Se consideró significativo un valor de p < 0,05.
+
+Este estudio fue aprobado por el Comité de Ética de Investigación de la Escuela de Medicina de la Pontificia Universidad Católica de Chile.
+
+Resultados
+
+Un total de 140 pacientes fueron sometidos a resecciones hepáticas o pancreáticas entre los años 2012 y 2014. Luego de aplicar los criterios de exclusión, se revisaron las fichas clínicas de 116 pacientes. La Tabla 1 resume las características de la población general y de los grupos generados al categorizar a los pacientes según RHP. El grupo que no presentó RHP fue considerado como control. El promedio de edad de la población general fue de 58 + 14 años, con leve predominio de sexo femenino (50,9%) y la estadía hospitalaria promedio fue de 14 + 11 días. El IMC promedio de la población fue de 26,3 + 3,69 kg, mientras que la hipertensión fue la comorbilidad más frecuente. Ochenta y seis pacientes (74%) tenía el diagnóstico de cáncer, siendo el adenocarcinoma pancreático el diagnóstico más frecuente (25,9%), seguido por metástasis hepáticas 25 (21,6%). La mayoría de los pacientes fueron clasificados como ASA I o II 103 (88,7%) y la cirugía más frecuente fue la pancreatoduodenectomía 46 casos (40,5%). El abordaje abierto fue el más empleado en esta serie 94 (81%) y el tiempo promedio de intervención fue 304,5 + 89,2 min. Se presentaron complicaciones en 42 (36,3%) de los pacientes y en caso de presentarlas, la mayoría fueron menores 29 (69%).
+
+Tabla 1 Características de la población 
+
++Promedio ± Desviación estándar.
+
+++n/porcentaje.
+
++++Mediana/Intervalo.
+
+Análisis de reingreso
+
+Un total de 21 pacientes presentaron RHP (18,1%), con una mediana de 17 días para la aparición del evento. La distribución temporal del RHP se presenta en La Figura 1. La frecuencia de reingreso fue mayor en resecciones de páncreas, comparado con hepatectomías (23,7% vs 12,2% respectivamente p < 0,05). Los síntomas que más frecuentemente motivaron el RHP fueron el dolor abdominal 57% (12) y fiebre 14% (3). Los diagnósticos más frecuentes de reingreso fueron colección intraabdominal (9 casos) e infección de la herida operatoria (2 pacientes). La mediana de estadía hospitalaria debido al RHP fue 6 (3-30) días. En esta serie no se registró mortalidad. Cuatro pacientes presentaron complicaciones que requirieron un manejo específico; en 2 casos se realizó una punción percutánea radiológica, un paciente requirió drenaje transrrectal (absceso prostático) y un paciente fue sometido a un aseo quirúrgico por vía laparoscópica. Las características de este grupo se resumen en la Tabla 2.
+
+Figura 1 Distribución de distribución temporal del reingreso hospitalario precoz. 
+
+Tabla 2 Características de readmisión a 30 días 
+
++n/porcentaje.
+
+++Mediana/intervalo.
+
+Factores asociados al reingreso
+
+De acuerdo al análisis univariable (Tabla 1), se observa que el tiempo de estadía en la intervención original (p = 0,01), leucocitos preoperatorios (p = 0,036) y la presencia de complicaciones posoperatorias (p = 0,001), presentan diferencias significativas entre los pacientes que presentaron RHP y el grupo control. Al realizar el análisis multivariable (Tabla 3) se observa que sólo la duración de la estadía hospitalaria se asocia de forma independiente con la posibilidad de reingreso a 30 días, con un OR de 1,2 [IC 95% 1,1-1,5 (p < 0,001)].
+
+Tabla 3 Análisis multivariable 
+
+Discusión
+
+El reingreso hospitalario no planificado de pacientes es un evento frecuente en los centros hospitalarios de todo el mundo y afecta de forma transversal a todas las especialidades2,3,9–11. Su principal importancia radica en el aumento de costos económicos y en peores resultados de salud para los pacientes que la presentan2. Existen distintas definiciones en el tiempo transcurrido desde el egreso hospitalario hasta que el paciente se rehospitaliza, siendo más frecuentemente utilizadas la aparición de este evento a 30 y 90 días7,8,12–14. Se utilizó la definición de RHP como la rehospitalización de pacientes dentro de los primeros 30 días posteriores a su alta, con el fin de comparar nuestros resultados con series internacionales, las cuales han demostrado que el mayor porcentaje de eventos se produce en este período (> 90%)15–19.
+
+La cifra de RHP global en resecciones hepáticas y pancreáticas ha sido consistentemente elevada en comparación a otros tipos de cirugía, como la cirugía bariátrica o colorrectal, donde se reportan cifras entre 3,1-7,2% y 7-15% respectivamente20–26. Si bien la complejidad técnica y menor reserva funcional de los pacientes sometidos a este tipo de resecciones explican gran parte de esta cifra, es necesario entender las causas del RHP para crear estrategias preventivas. En este sentido, existen claras diferencias en las frecuencias de rehospitalización según el tipo de resección quirúrgica realizada. Tanto en el presente estudio, como en publicaciones previas, la frecuencia de este evento fue mayor en las resecciones pancreáticas que en las hepáticas4,6. Si bien el RHP de resecciones hepáticas encontradas en este estudio fue similar a lo publicado previamente (12,2 vs 12,7-15,5%)4,5,8,27, el RHP de resecciones pancreáticas fue levemente superior a centros inter-nacionales (23,7% vs 16-21,3%)7,28,29. Creemos que el elevado número de cirugías anuales que realizan estos Centros probablemente explica la diferencia, ya que se ha demostrado la influencia positiva del volumen quirúrgico en los resultados posoperatorios7,30,31.
+
+Dentro de los principales factores de riesgo descritos para el RHP para resecciones hepáticas y pancreáticas se encuentran el número y la severidad de las comorbilidades del paciente, la presencia de complicaciones posoperatorias y el tiempo de estadía hospitalaria4,6.
+
+Es interesante la presencia de leucocitos preoperatorios encontrados durante nuestra investigación como un factor asociado al RHP en el análisis univariable, ya que esto no había sido reportado previamente. No existe un análisis de parámetros de laboratorio preoperatorios en los trabajos previamente publicados, por lo que creemos que se deben realizar más estudios para analizar dicha asociación.
+
+En nuestro análisis multivariable sólo el tiempo de estadía hospitalaria se mantuvo como un factor de riesgo independiente asociado a la probabilidad de presentar RHP. Otros factores de riesgo descritos como las complicaciones posoperatorias si bien mostraron asociación en el análisis univariable, no lograron mantener su efecto al ajustar por variables confundentes. Pese a esto, creemos que es importante destacar que un 81,5% de los pacientes que reingresaron presentó algún tipo de complicación, aunque la mayoría de estas fue menor (Clavien I-II).
+
+Pese a la relevancia internacional del RHP como marcador de calidad en cirugía, hasta la fecha ha sido poco utilizado en nuestro país y sólo un estudio en cirugía colorrectal ha reportado este evento26. Dado el impacto del RHP en la morbimortalidad de los pacientes, consideramos necesario el reporte, seguimiento y análisis de este evento en los distintos centros de nuestro país. Mejorar el conocimiento del RHP en el escenario nacional podría permitir generar estrategias preventivas orientadas a nuestra población. Además, creemos que este evento podría convertirse en un marcador de calidad de los distintos centros nacionales, al reflejar de forma concreta los resultados quirúrgicos a corto plazo.
+
+Las principales limitaciones de nuestro trabajo radican en su diseño retrospectivo, ya que los resultados obtenidos dependen directamente de la calidad de los registros clínicos de las fichas analizadas. Pese a esto, el presente trabajo es el primer reporte nacional en analizar la re-hospitalización de pacientes sometidos a resecciones hepáticas o pancreáticas y creemos que nuestros resultados son susceptibles de ser incorporados en un metaánalisis que incluya un mayor número de pacientes, con el fin de obtener conclusiones que puedan ser generalizadas a la práctica clínica habitual.
+
+Conclusión
+
+La tasa de reingreso posterior a resecciones hepáticas o pancreáticas es elevada, incluso en centros de alto volumen. La estadía hospitalaria prolongada durante la intervención inicial es un factor de riesgo consistente en la literatura para la rehospitalización posterior a resecciones hepáticas o pancreáticas. Recomendamos el uso de este parámetro como un nuevo instrumento para la medición de la calidad de los resultados quirúrgicos en nuestro país.
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Financiación
+
+Este estudio fue financiado con fondos del Departamento de Cirugía Digestiva de la facultad de Medicina de la Pontificia Universidad Católica de Chile.

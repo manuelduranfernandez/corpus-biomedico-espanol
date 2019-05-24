@@ -1,0 +1,96 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262018000500432
+Análisis de variables relacionadas con la morbimortalidad de la anastomosis ileocólica después de hemicolectomía derecha
+
+Introducción
+
+La hemicolectomía derecha (HCD) es la tercera cirugía colónica más frecuente y debe formar parte del armamentario de todo cirujano.
+
+La HCD con confección de una anastomosis ileocólica es comúnmente realizada como tratamiento del cáncer de colon derecho, los cuales dan cuenta de aproximadamente de 40% de los cánceres colorrectales1, también en el tratamiento de patologías benignas tales como las enfermedades inflamatorias intestinales, enfermedad diverticular y endometriosis.
+
+Para realizar esta cirugía existen, principalmente, dos abordajes: el abierto y el laparoscópico2, siendo este último el de elección, sin embargo, no hay un estándar para realizar la reconstitución anastomótica3, existiendo diversas variantes técnicas relacionadas, tanto con el material de sutura con que se realiza la anastomosis, manual o mecánica4,5, como en su configuración, ya sea latero-lateral (LL)6, término-lateral (TL)7 o término-terminal (TT). Del mismo modo, las LL pueden ser isoperistálticas o anisoperistálticas y en el caso de las laparoscópicas la anastomosis puede ser intracorpórea8-10 o extra-corpórea11. Existen muchas combinaciones posibles entre las diversas características de confección anastomótica, dejando finalmente en manos del cirujano y su experiencia, qué tipo de anastomosis ileocólica realizar.
+
+Los factores de riesgo para filtración anastomótica son diferentes para cirugía de colon derecho e izquierdo; es así como la incidencia de esta complicación varía ampliamente entre 1,8 a 15,9% en la anastomosis colorrectal12 y 0 a 8,4% en la anastomosis ileocólica13.
+
+El objetivo principal es evaluar cuál es la mejor anastomosis ilecólica en términos de morbimortalidad. El objetivo secundario es realizar una evaluación comparativa de la evolución clínica posoperatoria según el tipo de configuración anastomótica.
+
+Pacientes y Método
+
+Corresponde a un estudio observacional analítico, cuya muestra corresponde a todos los pacientes a quienes se les realizó una resección del colon derecho en Clínica INDISA. Los criterios de inclusión fueron haber sido sometido a una hemicolectomía derecha con anastomosis primaria de cualquier etiología, durante el período comprendido entre el 1° de enero del año 2004 al 28 de febrero del año 2017. Los criterios de exclusión fueron pacientes menores de 14 años, resecciones parciales del ciego, presencia de ostomía proximal y datos incompletos.
+
+Se realizó una revisión retrospectiva de registros clínicos para construir una base de datos en una tabla Excel® con información codificada y anonimizada.
+
+Las variables a estudiar las dividimos en dos grupos, las relacionadas a la técnica quirúrgica y su configuración anastomótica, y las variables relacionadas con resultado de la intervención quirúrgica (Tabla 1), creando una matriz en la que se cruzaron las variables y analizaron cada una de ellas.
+
+Tabla 1 Variables analizadas en estudio 
+
+*ISO: Infección sitio operatorio.
+
+Para el análisis se utilizó estadística analítica y descriptiva mediante uso del software STATA 13.0. Para determinar la asociación o independencia de dos variables cualitativas con un cierto grado de significancia se utilizó la prueba χ2, considerando un valor alfa de significancia de 0,05 y para evaluar la magnitud de dicha asociación al encontrar diferencias estadísticamente significativas entre los cruces de variables, se calculó el Odds Ratio y su intervalo de confianza al 95%. Para variables continuas (cuantitativas) que distribuyen normal, se utilizó prueba de Mann-Whitney, mientras que para las que no distribuyen normal prueba de Wilcoxon.
+
+Este estudio cuenta con la aprobación del Comité de Bioética de la Universidad Andrés Bello, respetando los principios éticos de la Declaración de Helsinki14 y Taipéi15.
+
+Resultados
+
+Se incluyeron 216 pacientes, con una media de edad de 59,3 años (DS ± 18,1, rango 15-97 años), 56,9% fueron mujeres, la media de IMC fue de 25,18 (DS ± 4,08), el 82,4% corresponden a ASA 1 y 2, el IMC fue normal (20-25) en el 51,4% de los pacientes. Las indicaciones quirúrgicas malignas fueron 157 (72,7%) correspondiendo a adenocarcinoma de colon en 132 pacientes (61,1%), otros cánceres en 11 (5,1%) que incluyen linfomas colónicos, cáncer de ovario, renal y vesicular con compromiso colónico y tumores carcinoides en 14 (6,5%). Los diagnósticos benignos fueron 59 (27,3%), constituidos por enfermedad diverticular en 11 (5,1%), vólvulo cecal en 10 (4,6%), apendicitis agudas complicadas en 9 (4,1%), enfermedad de Crohn en 6 (2,8%), endometriosis y colitis isquémica en 4 cada una (1,9%), perforaciones en 6 (2,8%) y otros diagnósticos en 9 (4,1%) pacientes (hemorragia digestiva baja, invaginación intestinal, megacolon, inercia colónica, lipoma, síndrome de Ogilvie y tuberculosis colónica). Dentro de las comorbilidades destacar tabaquismo en un 33,8% de los pacientes, hipertensión arterial en 38,4%, diabetes mellitus tipo 2 en 14,8%, cardiopatía coronaria o ACV en 5,6% y antecedentes de patología respiratoria en 13,4% (Tabla 2).
+
+Tabla 2 Características basales 
+
+Los resultados referentes a técnica quirúrgica y configuración anastomótica se revelan en la Tabla 3, destacando que el abordaje abierto fue el de elección en el 58% de los pacientes, con sutura mecánica en un 66%, latero-lateral (LL) en el 80%, anisoperistáltica en el 71,3%, con confección de anastomosis extracorpórea en el 82% de las cirugías laparoscópicas no convertidas y el tipo de cirugía fue electiva en el 78,2% de los pacientes.
+
+Tabla 3 Resultados 
+
+*Corporeidad: Se refiere a si anastomosis fue extra o intracorpórea, solo para cirugías laparoscópicas no convertidas;
+
+**Reop: Reoperación;
+
+***OI: Obstrucción Intestinal Precoz;
+
+****ISO: Infección Sitio Operatorio.
+
+En las variables consideradas como resultado, destacar que la filtración anastomótica estuvo presente en 15 pacientes (6,9%), hubo 21 (9,7%) reoperaciones (consideradas dentro de los primeros 30 días posoperatorios), motivadas por filtración anastomótica en 12 (57,1%) casos, cirugías revisionales sin hallazgos significativos en 4 (19%), obstrucción intestinal precoz y hemoperitoneo en 2 casos (9,5%) cada una y evisceración en 1 (4,8%) paciente.
+
+La mortalidad de la serie fue de 9 pacientes (4,1%), el sangrado intraoperatorio (mayor a 500 ml) ocurrió en el 5,5% de los pacientes, la obstrucción intestinal precoz (dentro de la primera semana posoperatoria) en el 0,5% e infección del sitio operatorio en el 3,7%. Para las variables continuas la mediana de presentación de gases fue al tercer día, la mediana de aparición de tránsito intestinal al 4° día y la realimentación con sólidos al 5° día.
+
+Al cruzar las variables (Tabla 3) técnica quirúrgica y configuración anastomótica con aquellas definidas como resultado en la Tabla 1, destacan con significancia estadística las siguientes variables: 1) Reoperación y el tipo de sutura (p = 0,044), con un 2,7% (2/74) para anastomosis manual y un 13,4% (19/142) para anastomosis mecánica con un OR 3,4 (IC 95% 0,94-18,6), siendo de mayor riesgo de reoperación la sutura mecánica; 2) Mortalidad y urgencia (p = 0,001) siendo de un 12,7% (6/47) para pacientes de urgencia y un 1,7% (3/169) para pacientes electivos, con un OR 7,76 (IC 95% 1,56-49,29); 3) Tipo de abordaje y día de eliminación de gases (p = 0,004), con una mediana al tercer día posoperatorio para cirugía abierta y al segundo día para laparoscópica, de igual forma al cruzar con ingesta de sólidos (p = 0,024). Una mención aparte son los resultados relacionados con la eliminación de gases por ano, en que encontramos valores con significancia estadística al evaluarlo con tipo de abordaje (p = 0,004) (ya descrito recientemente), tipo de sutura (p = 0,008) con una mediana al segundo día con sutura manual y al tercer día con sutura mecánica, lateralidad (p < 0,001) con una mediana al segundo día para anastomosis TL y TT, en comparación con la LL que ocurre al tercer día, peristaltismo (p < 0,001), con una mediana al segundo día en la anastomosis isoperistáltica en comparación con el tercer día de la anisoperistáltica y tipo de cirugía (p = 0,030), siendo en electiva al segundo día y urgencia al tercero. En relación al tipo de configuración, merece destacar que la anastomosis isoperistáltica tiene valores de significancia estadística al comprarla con la anisoperistáltica en el día de eliminación de gases (p < 0,001), tránsito intestinal (deposiciones) (p = 0,009) e ingesta de sólidos (p = 0,005).
+
+A pesar de que en las siguientes variables no hubo significancia estadística, creemos son destacables de considerar, algunas tales como filtración anastomótica y tipo de sutura empleada en su confección (manual con 4,1% y mecánica 8,4%); de igual forma al evaluar mortalidad y sutura (manual 1,4% vs mecánica 5,6%); al evaluar el tipo de abordaje y hemorragia intraoperatoria (7,8% para abierto vs 2,3% para laparoscópico) e infección sitio operatorio (4,7% para abierto vs 2,3% para laparoscópico).
+
+Discusión
+
+En la literatura existen diversos estudios que analizan la confección de la anastomosis ileocólica, pero la mayoría en forma parcial, orientados algunos específicamente al tipo de sutura con la que se realiza la anastomosis4,5, otros en lo referente a la indicación quirúrgica3 y unos pocos evalúan la configuración en cuanto a su lateralidad7 y corporeidad10,11, incluso las dos series más grandes publicadas recientemente sobre hemicolectomía derecha y anastomosis ileocólica13,16, se centran específicamente en la FA, que se hace cargo de la mayor morbimortalidad en cirugía colorrectal. En nuestro estudio quisimos hacer un esfuerzo por ir más allá, al evaluar las diferentes técnicas quirúrgicas y configuraciones anastomóticas y compararlas con los resultados en términos de morbimortalidad y evolución clínica posoperatoria.
+
+En el tipo de abordaje, es aceptado que la laparoscopía es el estándar actual en el tratamiento del cáncer de colon, demostrado por varios estudios multicéntricos, prospectivos y aleatorizados en lo referente a complicaciones, tiempo de estadía hospitalaria y seguridad oncológica17-19. Encontramos que hubo diferencias estadísticamente significativas en relacion al día de expulsión de gases (p = 0,0048) y día de ingesta de sólidos (p = 0,0248), a favor de la laparoscopía por sobre la cirugía abierta. Hubo un 42% de cirugía realizadas por vía laparoscópica, que si bien no es alto, se explica ya que es una cohorte retrospectiva desde el 2004, época en que la cirugía laparoscópica colorrectal en Chile recién se iniciaba.
+
+La anastomosis mecánica es ampliamente aceptada en la literatura, por su simplicidad, reproducibilidad y seguridad, existiendo diversos estudios y metaanálisis que la comparan con la sutura manual específicamente en la anastomosis ileocólica, ocupando como parámetro de medición la presencia de filtración anastomótica. Es así como los resultados de metaanálisis de Cochrane20 en 2007 con 955 pacientes muestran un 6% de FA en anastomosis con sutura manual vs un 1,4% de FA en anastomosis mecánica (p = 0,01). Puleo3 en 2011 muestra su casuística de 999 pacientes con un 4,9% de FA en anastomosis con sutura manual vs un 2,5% de FA en anastomosis mecánica (p < 0,05) y la versión actual (2011) del mismo metaanális de Cochrane5 mencionado con 1.125 pacientes, revela FA en anastomosis manual de un 6,1% vs un 2,5% en anastomosis mecánica (p = 0,03 OR 0,48 IC 95% 0,24-0,95), concluyendo que la anastomosis ileocólica mecánica funcional se asocia a menor FA que la anastomosis manual, similar conclusión que en metaanáliss previo. Estos resultados son contrarios con los expuestos en el presente estudio, en que hubo un 4,1% de FA para anastomosis manual y un 8,4% para anastomosis mecánica (p = 0,521), sin embargo, estos resultados son similares a literatura más actualizada, como la que revela el grupo español ANACO12 en 2016 con 1.102 pacientes en que la FA en pacientes con anastomosis manual fue de un 6,2% y en anastomosis mecánica fue de un 9,4%. Similares resultados se encuentran en el trabajo colaborativo de la sociedad europea de coloproctología16 del 2017 con 3.208 pacientes, la casuística más grande presentada al respecto, en que la FA fue de 7,4% en anastomosis manuales y un 8,5% en anastomosis mecánicas. Esta controversia es lo que en parte justifica la realización de este estudio y motiva a investigaciones posteriores. Otro resultado que queremos destacar es que los pacientes con anastomosis mecánica tuvieron un mayor riesgo de reoperación (p = 0,044), con un OR 3,4 (IC 95% 0,94-18,6), es decir, los pacientes expuestos a sutura mecánica tiene 3,4 veces más chance de reoperación que los expuestos a sutura manual. Además, aquellos con anastomosis mecánica tienen más hemorragia intraoperatoria, un 7% al compararla con anastomosis manual en que fue un 2,7%, sin significancia estadística.
+
+En la lateralidad, el 80% fue LL, el 17% TL y apenas un 3% TT, resultados prácticamente iguales a los del estudio ANACO español, en que el 80,9%, 15,1% y 3,4% fueron LL, TL y TT, respectivamente. No encontramos resultados significativos en este dominio, sólo destacando que las anastomosis TL presentan menor FA (2,7%) que las LL (8%) (p = 0,400), sin embargo, debido al bajo número de pacientes en el grupo TL, no consideramos este hallazgo como conclusión. Este hallazgo es discordante con otros estudios7 en que muestran un 4,3% de FA para TL y un 0,9% para las LL (p = 0,04). No obstante, bibliografía reciente sugiere menor morbilidad para las anastomosis TL al considerar íleo, infección sitio operatorio y sangrado6. Indudablemente se requieren mayores estudios para poder tener una conclusión respecto a la lateralidad de la anastomosis.
+
+En el peristaltismo, destacar que la configuración isoperistáltica tiene mejores resultados en la recuperación posoperatoria, demostrándose por una expulsión de gases (p < 0,001), tránsito intestinal (p = 0,009) e ingesta de sólidos (p = 0,005) más precoz al compararla con la configuración anisoperistáltica.
+
+En la corporeidad de la anastomosis, que incluye sólo aquellas cirugías laparoscópicas no convertidas, la mayoría de los cirujanos locales prefieren realizarla extracorpórea (82%), siendo tanto ésta como la intracorpórea igual de seguras10 y a mediano-largo plazo con menor incidencia de hernia en laparotomía de Pfannenstiel en series pequeñas11,21. Metaanálisis recientes de estudios comparativos no randomizados22, muestran que la anastomosis intracorpórea en la hemicolectomía derecha laparoscópica se asocia con una reducción de la morbilidad a corto plazo y una menor duración de la estancia hospitalaria, lo que sugiere una recuperación más rápida.
+
+Al evaluar si la cirugía fue de urgencia o electiva, es importante destacar la diferencia existente en la mortalidad, de un 2,4% para electiva y un 10,6% para cirugías realizadas de urgencia (p = 0,001) con un OR 7,76 (IC 95% 1,56-49,29), es decir, los pacientes operados de urgencia tienen 7,76 chances más de morir que los pacientes operados en forma electiva. De la misma forma aquellos operados de urgencia presentan un 31,9% de reoperaciones si lo comparamos con el 3,6% de los electivos.
+
+Categorizando los diagnósticos de indicación quirúrgica en malignos y benignos, no encontramos diferencias estadísticamente significativas o algún resultado destacable a considerar para esta discusión.
+
+Estamos conscientes que nuestro estudio tiene limitaciones, dado que es unicéntrico y con un diseño retrospectivo, pero también fortalezas, como lo es el tamaño de la muestra, una revisión exhaustiva de fichas clínicas y el responder a una interrogante sin una respuesta sólida en la actualidad.
+
+Conclusión
+
+La anastomosis manual muestra menor probabilidad de necesitar una reintervención quirúrgica dentro de los primeros 30 días.
+
+La cirugía electiva tiene menor mortalidad que la realizada de urgencia.
+
+Recomendamos realizar la cirugía por vía laparoscópica, con anastomosis manual, isoperistáltica, término lateral y electiva, ya que tiene una recuperación más precoz.
+
+Es necesario crear un estudio multicéntrico, prospectivo y aleatorizado con un gran número de pacientes, para poder dar una respuesta más sólida a la elección del tipo de anastomosis.
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Financiamiento: Sin financiamiento.

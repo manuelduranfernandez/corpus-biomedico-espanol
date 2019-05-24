@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262015000100007
+CARACTERIZACIÓN DEL INFILTRADO LINFOCITARIO (CD3, CD4, CD8, CD45RO Y FOXP3) E INESTABILIDAD MICRO-SATELITAL EN PACIENTES CON CÁNCER COLORRECTAL
+
+Resumen
+
+Introducción: En el cáncer colorrectal (CCR), se sugiere que un mejor pronóstico podría asociarse a una respuesta inmune antitumoral (del huésped) y/o a la presencia de una alta inestabilidad microsatelital (MSI). Objetivo: Determinar si los niveles de expresión de los marcadores de linfocitos T (CD3/CD4/CD8/ CD45RO/FoxP3) y el estado de MSI se asocian a estadios metastásicos en pacientes con CCR. Material y Método: Estudio prospectivo de 109 pacientes con diagnóstico de CCR. El análisis de expresión de los marcadores CD3/CD4/CD8/CD45RO/FoxP3 fue realizado por inmunohistoquímica; los tumores fueron clasificados en negativo, débil e intenso. La MSI fue evaluada con siete marcadores amplificados desde ADN normal y tumoral; los tumores fueron agrupados en: MSS (estable)/MSI-baja y MSI-alta. El análisis estadístico fue realizado con el test exacto de Fischer. Resultados: Una intensa expresión de los marcadores CD3+, CD4+, CD8+ y CD45RO+, fue observada en el 29%, 28%, 12% y 86% de los tumores, respectivamente. El 16% de los tumores presentó MSI-alta. Los tumores que presentan una alta densidad de linfocitos T (CD3+, CD4+ y CD45RO+) se asocian a estadios tempranos I-II (p = 0,023; p = 0,030 y p = 0,003, respectivamente). Adicionalmente, se identificó una asociación estadística significativa entre los tumores con MSS/MSI-baja y una menor capacidad de reclutar linfocitos T citotóxicos CD8+ (p = 0,037) y totales CD3+ (p = 0,064). Conclusión: Existe una asociación entre altas densidades de linfocitos T CD3+, CD4+ y CD45RO+ y tumores con estadios no metastásicos. Además, tumores con MSS/MSI-baja se asocian a un menor reclutamiento de linfocitos T CD8+ y CD3+.
+
+Palabras clave: Cáncer colorrectal, infiltrado linfocitario, inestabilidad microsatelital.
+
+ 
+
+Introducción
+
+En Chile, el cáncer colorrectal (CCR) ha aumentado su mortalidad en más de un 100% en los últimos años1 lo que lamentablemente nos va acercando a los países desarrollados en donde esta enfermedad se encuentra dentro de las primeras tres causas de muerte por cáncer2. Una mayor incidencia y el diagnóstico tardío (estadios metastásicos) pueden explicar en parte esta mayor mortalidad3,4. La ausencia de un registro de tumores no nos permite confirmar esta mayor incidencia, sin embargo, es claro que en la mayor parte de los pacientes, el diagnóstico se hace en estadios metastásicos (III y IV de acuerdo a la clasificación TNM)5. En los últimos años se ha han logrado grandes avances en la caracterización molecular del CCR para tratar de explicar su agresividad, sin embargo, hay escasa información respecto a la respuesta del huésped frente al tumor. Desde el punto de vista molecular, se ha logrado caracterizar distintas vías del desarrollo del CCR tales como la inestabilidad microsatelital (MSI), la metilación (CIMP) y la inestabilidad cromosómica (CIN)6,7.
+
+La MSI se observa en aproximadamente el 15% de los casos de CCR, y es un reflejo de la incapacidad de la célula cancerosa de corregir las deleciones e inserciones en regiones del ADN que son repetitivas (microsatélites), debido a la ausencia de un sistema de reparación de ADN. En pacientes con CCR, el poseer una MSI-alta se relacionaría a mejor sobrevida a 5 años en comparación con los pacientes con tumores con microsatélites estables (MSS)8-10. Esta mejor sobrevida se ha relacionado a un mejor pronóstico por la presencia de infiltrado linfocitario en el tumor aún cuando no se sabe si este infiltrado contribuye directamente a través de una activación de una respuesta inmune antitumoral11.
+
+La mediación de la respuesta inflamatoria ha sido evaluada en varios tipos de tumores12. Esta respuesta inflamatoria es mediada por linfocitos y factores inmunoreguladores, por lo que el estudio de los linfocitos en la zona tumoral y peritumoral, además de los mediadores de la respuesta podría ser útil en la estimación del grado de respuesta de cada paciente13.
+
+En términos de respuesta del paciente, hay que distinguir la que depende de los linfocitos B y T, correspondiendo a estos últimos la serie CD3, CD4, además de la línea citotóxica CD8. Además hay mediadores, como FoxP3, un factor transcripcional que es expresado específicamente en células T reguladoras, las cuales poseen propiedades supresoras sobre células T efectoras como un importante control de la excesiva respuesta inmune14.
+
+En pacientes con CCR, la presencia de linfocitos T CD8 ha sido relacionada con estadios más tempranos, menor invasión tumoral y mejor sobrevida de los pacientes15. A su vez altos niveles de CD45RO han sido relacionados a menor invasión tumoral y mejor sobrevida específica en pacientes con CC16.
+
+La reacción inflamatoria/inmunológica está mediada por algunos marcadores biológicos, dentro de los cuales FOXP3, tendría un rol importante en la regulación de linfocitos T, lo cual ya se ha descrito en casos de cáncer de mama17 y gástrico18. Un aumento de la infiltración tumoral de células FoxP3 está asociado con resultados clínicos desfavorables, aunque también existe evidencia de un efecto antitumoral protector19,20.
+
+Varios estudios han demostrado que tumores con MSI-alta presentan altos niveles de infiltrado linfocitario, y entre las células que infiltran se encuentran los linfocitos T y B, células dendríticas, natural killers, macrófagos, y neutrófilos21-23. De todas estas células, las que poseen mayor significancia pronóstica serían los linfocitos T con actividad citotóxica (CD8+), ya que ellos son postulados como las células que controlarían la diseminación de las células cancerosas a distancia en el huésped24-26.
+
+El objetivo de este trabajo es analizar la posible asociación entre la respuesta inmune antitumoral y MSI en pacientes con estadios metastásicos de CCR.
+
+Material y Método
+
+Diseño del estudio
+
+Estudio de cohorte de pacientes con adenocarcinoma de colon o recto diagnosticados en Clínica Las Condes durante los años 2008-2013. Los criterios de ingreso fueron pacientes con adenocarcinoma de colon o recto, sometidos a tratamiento quirúrgico resectivo, además en los casos de pacientes con cáncer de recto, se incluyeron solamente los pacientes que no recibieron quimio-radioterapia preoperatoria. Cada paciente firmó un consentimiento informado el cual fue previamente aprobado por el comité de Bioética de Clínica Las Condes.
+
+Base de datos
+
+En el diseño de esta base de datos se consideraron los siguientes parámetros: edad de diagnóstico, género, localización del tumor, profundidad de invasión en la pared del colon, número de linfonodos comprometidos, número de linfonodos resecados, metástasis, localización de la metástasis, etapa tumoral, sobrevida, MSI y expresión de los marcadores de infiltrado linfocitario.
+
+La diferenciación del tumor y estadio se realizó de acuerdo a la clasificación de 2011 de la American Joint Committee on Cancer/Union for International Cancer Control (AJCC/UICC), que incorpora el TNM (tumor, linfonodos y metástasis).
+
+Análisis de inmunohistoquímica
+
+La evaluación de la expresión en el tumor de las proteínas CD3, CD4, CD8, CD45RO y FOXP3, fue realizada por inmunohistoquímica en microarreglos de tejidos fijados en formalina y embebidos en parafina. Los cortes histológicos fueron montados en portaobjetos con carga positiva y desparafinados. Los anticuerpos primarios utilizados fueron anti-CD3 (clone LN10, Novocastra, dilución 1:100), anti-CD4 (clone 4B12, Flex Dako), anti-CD8 (clone C8/144B, Flex Dako), anti-CD45RO (clone UCHL1, Dako, dilución 1:100) y anti-FOXP3 (clone ab22510, Abcam, dilución 1:100).
+
+La recuperación de la inmunoreactividad en PT link (Dako) se realizó durante 20 min a 95°C en una solución de alto pH del kit En Vision (Dako). La tinción se realizó de forma automatizada en el Autostainer 48 (Dako) usando el kit En Vision (Dako) según las instrucciones del fabricante. Para el contraste nuclear se utilizó hematoxilina de Mayer. La interpretación de la tinción de los anticuerpos se realizó considerando una escala de 0 a 4+. Posteriormente, se realizó una agrupación de los datos en 3 categorías: negativo (0), débil (1+, 2+) e intenso (3+, 4+).
+
+Análisis del estado de MSI
+
+El análisis de MSI en los tumores colorrectales se determinó mediante el estudio de siete marcadores microsatelitales recomendados por el National Cancer Institute (NCI): Bat-25, Bat-26, Bat-40, D2S123, D3S1029, D5S34619 y D17S25027. Cada marcador microsatelital fue amplificado por PCR a partir de ADN tumoral y ADN normal (obtenido desde sangre venosa periférica o colon normal) del mismo paciente, según las condiciones experimentales descritas en Wielandt et al28. Los tumores que presentan más de tres microsatélites inestables (con variación en el número de alelos y/o alteración en el patrón de migración) son considerados como tumores con MSI-alta, tumores con uno o dos microsatélites inestables son considerados como MSI-baja y los tumores que presentan todos los microsatélites normales se consideran MSS (estables)29.
+
+Análisis estadístico
+
+El análisis estadístico se realizó mediante test exacto de Fischer.
+
+Resultados
+
+Descripción clínica
+
+Se reclutaron un total de 109 pacientes (64 hombres y 45 mujeres) que cumplieron los criterios de inclusión. El promedio de edad en hombres fue de 62,4 años (rango 39 a 87 años) y en mujeres fue de 65,7 años (rango de 41 a 97 años) (Tabla 1).
+
+ 
+
+
+
+Figura 1. Sobrevida global de la serie.
+
+ 
+
+Tabla 1. Características clínicas e        histopatológicas de la serie general
+
+
+
+ 
+
+Según la localización anatómica, el 66% de los casos fue diagnosticado en el recto o colon izquierdo (colon descendente, sigmoides, unión rectosigmoidea y recto), y el 34% de los casos se localizó en el lado derecho (ciego, colon ascendente y transverso).
+
+Según la clasificación patológica TNM, el 59% de los casos fueron diagnosticados en estadios tempranos (estadios I y II en 17 y 47 pacientes, respectivamente), y el 41% en estadios tardíos con metástasis linfonodal y/o a distancia (estadios III y IV en 29 y 16 pacientes, respectivamente). Un 15% de los pacientes presentó metástasis a distancia. Estas se observaron en hígado (14), pulmón (8), peritoneo (6), ovario (2), mediastino (1), vejiga (1), óseo (1) y cerebro (1).
+
+Respecto de la diferenciación tumoral, un 2% presentó buena o buena a moderada diferenciación, un 85% moderada diferenciación y un 13% moderada a pobre o pobre diferenciación.
+
+Un 25% de los tumores presenta mucina (desde un 5% hasta un 80% de compromiso).
+
+El 94% presentó infiltrado linfocitario (desde leve a intenso), lo cual no se asoció a ningún marcador de infiltrado linfocitario. El 91% presentó bordes tumorales infiltrantes.
+
+El seguimiento promedio de la serie fue de 29,2 meses (rango: 1-78 meses). Hubo 10 pacientes que fallecieron, de ellos 8 fueron en casos en que la cirugía inicial fue de carácter paliativo. En los pacientes vivos operados con intención curativa se observaron 2 recidivas, uno de los pacientes con un tumor en estadio II que luego de 3 meses post-cirugía presentó metástasis en el hígado y el segundo paciente con un tumor en etapa III, que presentó metástasis en pulmón e hígado luego de 28 meses post-cirugía.
+
+Descripción molecular
+
+El análisis de las distintas subpoblaciones del infiltrado linfocitario peritumoral, con los marcadores de linfocitos T totales CD3+, cooperadores CD4+, citotóxicos CD8+ y de memoria CD45R0+, permitió clasificar los tumores en dos categorías: expresión baja e intensa. En ningún caso observamos ausencia de estos linfocitos. En los tumores, el 29%, 28%, 12% y 86% presentó una expresión intensa de cada uno de estos marcadores respectivamente, lo que equivale a una alta densidad celular. Distinto es el caso del marcador FoxP3, para el cual el 10% de los tumores presentó ausencia de linfocitos T regulatorios y el 90% presentó una baja densidad celular.
+
+Respecto al análisis de MSI, 92 casos (84%) presentaron microsatélites estables o inestabilidad baja (MSS/MSI baja) y 17 casos (16%) presentaron MSI-alta. La Tabla 2 resume los resultados para tumores en estadios tempranos (I y II) y avanzados (III y IV).
+
+ 
+
+Tabla 2. Caracterización del infiltrado linfocitario e inestabilidad microsatelital        según estadio tumoral
+
+
+
+ 
+
+La asociación entre los marcadores moleculares y los estadios tumorales demostró que los tumores que presentan una alta densidad de células T CD3+, CD4+ y CD45R0+ se asocian a tumores en estadios tempranos I y II (valores p = 0,023; p = 0,030 y p = 0,003, respectivamente). No se encontró asociación con el marcador CD8+ (p = 0,307), y tampoco con la MSI-alta (p = 0,209).
+
+Adicionalmente, se propuso identificar si entre los marcadores moleculares existía asociación estadística (Tabla 3), cuyo análisis reveló que los tumores con MSS/MSI-baja, poseen una menor capacidad de reclutar linfocitos T citotóxicos CD8+ (p = 0,037) y totales CD3+ (p = 0,064).
+
+ 
+
+Tabla 3. Asociación de factores de infiltrado linfocitario e inestabilidad microsatelital
+
+
+
+ 
+
+Discusión
+
+En pacientes con tumores sólidos, la heterogeneidad de la evolución clínica entre individuos no puede ser explicado solamente por la clasificación TNM, lo que ha llevado al desarrollo de nuevos métodos, entre los cuales se destaca el inmune-score, el cual clasifica las poblaciones de linfocitos T (CD3+, CD8+ y CD45RO+) localizados tanto en el centro del tumor como en el margen invasivo, generando un índice de 0 a 4 entre estas variables30.
+
+En el CCR, muchos estudios han demostrado el valor pronóstico de la caracterización de los distintos tipos celulares presentes en el infiltrado linfocitario tumoral. De esta manera, altas densidades de linfocitos T citotóxicos y de memoria en el tumor, se encuentran asociados a un considerable incremento en la tasa de sobrevida global a 5 años21,24,31, y estadios tempranos del CCR y ausencia de factores de invasión metastásica temprana (ej : invasión linfática, microembolos vasculares, invasión perineural)16. Adicionalmente, se ha descrito que el 95% de los pacientes con índice 4, según la clasificación del inmuno-score, no tienen recurrencia tumoral por 18 años, mientras que el 50% de los pacientes con índice 0 tienen recurrencia tumoral dentro de los 2 años30.
+
+En el presente estudio, se observa que los tumores que presentaron una alta densidad de linfocitos T CD3+, CD4+ y CD45RO+ se asocian significativamente a estadios tempranos de la progresión tumoral del CCR. Estos resultados sugieren que en etapas tempranas del CCR existe una respuesta inmune adaptativa antitumoral, que modifica el microambiente tumoral a través del reclutamiento de linfocitos T cooperadores y de memoria, impidiendo la diseminación de las células cancerosas32. En tanto, que a medida que el cáncer progresa, el tumor modifica su medioambiente, modificando la respuesta inmune anti-tumoral, a través de un menor reclutamiento de linfocitos T anti-tumorales, lo que le permite evadir la acción del sistema inmune, favoreciendo la diseminación de las células tumorales a linfonodos y a órganos a distancia33,34.
+
+Dentro de estos linfocitos, la subpoblación de linfocitos T citotóxicos CD8+, se asocia a un efecto antitumoral y una mejor sobrevida en pacientes con CCR24,25,32,35,36. En nuestro estudio no encontramos una asociación significativa entre este marcador y estadios tumorales tempranos, pero sí una tendencia entre tumores en estadios tempranos y una alta densidad de linfocitos T CD8+ (70%) (Tabla 2).
+
+La proteína de membrana CD45RO+ es un marcador compartido por distintos linajes del sistema inmune, entre ellos linfocitos T cooperadores, T citotóxicos, células B y macrófagos. En el presente estudio, se observa un grupo de tumores que presenta una alta densidad de linfocitos T de memoria (CD45RO+) y también una alta densidad de linfocitos T cooperadores (CD4+), lo que sugiere que estos linfocitos de memoria son derivados de linfocitos CD4+, los que al ser expuestos al antígeno, como sería el caso de una recurrencia, ellos se activarán como linfocitos T cooperadores iniciando una respuesta Th1 o Th2. También existe un grupo de tumores que presenta una alta densidad de linfocitos CD45RO+ pero con una baja densidad de linfocitos CD4+, en este caso no descartamos que un subgrupo de células de otro origen (linfocitos de memoria de otro linaje que no corresponde a T cooperadores) esté dando cuenta de este aumento. Para identificar el tipo celular inmune al cual corresponden, es necesario realizar dobles marcajes ya sea por inmunohistoquímica o citometría de flujo para identificar el subtipo celular.
+
+Respecto a MSI e infiltrado de linfocitos T en pacientes con CCR, se ha descrito una mayor densidad de infiltrado en pacientes con MSI-alta21-23. En este estudio se evidenció que la mitad de los pacientes con MSI-alta tuvieron una expresión intensa de CD3+, a diferencia de menos del 25% del grupo MSS/MSI-bajo (Tabla 3). La asociación entre la MSI-alta y el infiltrado linfocitario se explica por el genotipo hipermutador y la consecuente producción de nuevos antígenos (péptidos truncos) que pueden ser reconocidos por linfocitos que reconocen estos antígenos como extraños26,37. En pacientes con CCR, además se ha descrito que grupos con MSI-alta y mayor infiltrado de linfocitos T (CD3+ y CD8+), tendrían una mayor proporción de células en apoptosis, en comparación a grupos con MSS11.
+
+Cabe destacar que la presencia de una alta densidad de infiltrado linfocitario en tumores de pacientes con CCR se ha asociado a una mejor respuesta a quimioterapia con 5-FU38 y una respuesta diferencial a terapias con anticuerpos monoclonales (cetuximab y/o bevacizumab)39.
+
+En resumen, en este trabajo se observa que la presencia de altas densidades de linfocitos T (CD3+, CD4+ y CD45RO+) se asocia a estadios no metastásicos en pacientes con CCR, lo que en otros estudios también se ha correlacionado a mejor sobrevida de esos pacientes. No se encontró asociación entre el estadio tumoral y los marcadores CD8+, FoxP3+ y la MSI-alta. Sin embargo, se identificó que tumores con MSS/MSI-baja presentan un menor reclutamiento de linfocitos T citotóxicos CD8+ y totales CD3+.

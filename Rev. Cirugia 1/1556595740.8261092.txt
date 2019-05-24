@@ -1,0 +1,96 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262018000300212
+Aplicación de tres modelos pronósticos en cáncer de mama precoz
+
+Introducción
+
+El CM es una de las principales causas de muerte por cáncer en el mundo y el primero en mujeres chilenas. Mientras en Chile en el año 2000, el 43,1% de los CM se diagnosticaron en estadios I y II, el año 2009, el 60,8% de los casos fueron diagnosticados en esas etapas1. Este cambio epidemiológico, con una mayor incidencia de tumores pequeños, sin compromiso ganglionar y de bajo riesgo, implica un desafío para definir la oportunidad y el beneficio del tratamiento2,3. La terapia sistémica adyuvante ha demostrado mejorar la supervivencia de los pacientes con CM, con un mayor beneficio a mayor riesgo de la enfermedad; sin embargo, esta es acompañada por efectos secundarios que pueden afectar negativamente la calidad de vida4. En estadios precoces de la enfermedad, la evaluación del beneficio absoluto de la terapia sistémica es difícil e implica una evaluación del riesgo de recurrencia/mortalidad de la enfermedad y la relación beneficio/toxicidad de la terapia sistémica5. Algunos modelos pronósticos disponibles en internet, que requieren información clínica y patológica convencional, pueden ayudar en la evaluación de la relación riesgo/beneficio al decidir la terapia sistémica en pacientes con CM de bajo riesgo6–9.
+
+Mientras estos modelos han sido comparados en pacientes con CM en distintas etapas de la enfermedad10,11, su rol es especialmente relevante en la enfermedad de bajo riesgo.
+
+El objetivo de este estudio fue analizar el valor pronóstico estimado de tres modelos disponibles “online”, su correlación intramodelos y predicción de SG en CM T1N0M0.
+
+Métodos
+
+Analizamos las historias clínicas de pacientes con CM invasivo tratadas desde enero de 1997 a diciembre de 2003. Los criterios de inclusión fueron: 1) diámetro mayor del componente infiltrante menor o igual a 2 cm (T1); 2) ausencia de compromiso linfonodal (N0) y ausencia de metástasis (M0); 3) pacientes sometidos a mastectomía parcial, disección axilar o biopsia de ganglio linfático centinela y radioterapia adyuvante. La descripción de las pacientes y detalles del tratamiento se han publicado anteriormente11. Brevemente, la determinación del tamaño del tumor y la afectación linfonodal se determinaron a través de la histopatología (clasificación TNM patológica). Todos los pacientes fueron tratados en el Centro de Cáncer de la Pontificia Universidad Católica de Chile. A partir de los registros médicos se obtuvieron: edad, modo de detección e indicación de terapia adyuvante. Se evaluaron: el tamaño del tumor infiltrante, tipo histológico y grado histológico (GH) según la clasificación de Elston y Bloom12. El estudio de los receptores de estrógeno (RE) y progesterona (RP), valorado en porcentajes de 0-100%, y HER2 (receptor del factor de crecimiento epidérmico tipo 2) de + a + ++, fueron obtenidos mediante métodos inmunohistoquímicos. En el momento del análisis no realizábamos estudio de Ki67 (marcador de proliferación) como examen de rutina en estas pacientes, ni tampoco estudio de FISH (hibridación fluorescente in situ) para HER2.
+
+La cohorte fue seguida regularmente por al menos diez años a través de las visitas a la clínica y los datos de mortalidad se obtuvieron del Registro Civil de Chile (www.registrocivil.cl). La SG se calculó desde el momento del diagnóstico hasta la muerte.
+
+Modelos pronósticos
+
+El NPI es una herramienta basada principalmente en las características histológicas del tumor. Se calcula mediante la siguiente fórmula: NPI = 0,2 x [S]+ N +G, donde: S es el tamaño tumoral en centímetros, N es el número de nodos involucrados: 0 = 1 punto, 1-3 = 2 puntos, > 3 = 3 puntos y G es el grado del tumor: Grado I = 1 punto, grado 2 = 2 puntos y grado 3 = 3 puntos. Esta fórmula genera una puntuación numérica para clasificar a los pacientes en grupos de riesgo que se correlacionan con la SG a los 5 y 10 años7,8.
+
+AO (http://www.adjuvantonline.com) es otra herramienta que estima la SG a 10 años y, además, calcula el beneficio potencial de la terapia adyuvante para pacientes con CM. El AO deriva sus estimaciones de las características histológicas del tumor primario, así como características clínicas. Los datos incluyen: edad al momento de la presentación, estado de salud (comorbilidades), expresión de RE, GH, tamaño del tumor y número de linfonodos positivos. También el modelo es capaz de predecir el beneficio de la TE y/o de la QT en la sobrevida libre de enfermedad (SLE) y SG a los 10 años9. En este análisis utilizamos la versión AO 8. Además, AO permite evaluar el riesgo de mortalidad por otras causas, según las comorbilidades determinadas por el médico tratante. A fin de evaluar la utilidad de esta intervención, utilizamos dos modelos: uno con un valor de “problemas de salud promedio para su edad” para todas las pacientes, y otro con un valor asignado por el investigador subjetivamente de acuerdo con las comorbilidades de cada individuo.
+
+PREDICT utiliza variables similares, como la edad, el modo de detección, el tamaño del tumor, linfonodos positivos, grado de diferenciación y la expresión del RE; sin embargo, también considera el valor de Ki67 y de HER 2; ambos ausentes en el modelo AO. También estima la SG a los 5 y 10 años, con y sin terapia adyuvante.
+
+Análisis estadístico
+
+Para el análisis estadístico se utilizó el software SPSS 20.0. Utilizamos estadística descriptiva. La comparación, pruebas de hipótesis paramétricas y no paramétricas se hicieron según la determinación de la normalidad. Una p < 0,05 se consideró como estadísticamente significativa.
+
+Resultados
+
+Analizamos 125 pacientes con CM T1N0M0. Las características de la población estudiada se muestran en la Tabla 1. La mediana de edad fue de 55 años (35-80). La mayoría de los tumores fueron carcinomas ductales infiltrantes: 91/125 (72,8%) y RE positivo: 111/125 (88,8%). El 16% de las pacientes recibieron QT y 80% tamoxifeno como TE.
+
+Tabla 1 Características clínicas de 125 pacientes con cáncer de mama T1N0M0 
+
+RE+: Receptor de estrógeno positivo GH: grado histológico.
+
+*Sin información de motivo de consulta en 10 pacientes.
+
+**Sin datos de GH en 14 pacientes.
+
+Las estimaciones de beneficio de la QT y la TE no fueron significativamente diferentes según AO y PREDICT. La estimación de SG, en ausencia de tratamiento, fue superior en el NPI que en otros modelos (Tabla 2). Al estimar la SG con tratamiento, el modelo AO, asignando comorbilidades promedio para todo el grupo, estimó un valor de predicción de SG que fue el más cercano a lo realmente observado (diferencia de −0,3%) (Tabla 3).
+
+Tabla 2 Sobrevida global estimada a 10 años y beneficios del tratamiento adyuvante sistémico estimados por AO*, PREDICT y NPI en una cohorte de 125 pacientes con cáncer de mama T1N0M0 
+
+AO*:categoría de comorbilidad determinada según tratante. DS: desviación estándar.
+
+Tabla 3 Diferencias absolutas en la sobrevida global con tratamiento, según estimaciones de los modelos y la observada, en 125 pacientes con cáncer de mama T1N0M0. Seguimiento a 10 años 
+
+aComorbilidad determinada por tratante
+
+bcomorbilidad promedio (average).
+
+El análisis de correlación mostró una correlación moderada entre AO y PREDICT (r2 = 0,5) y ausencia de ella entre AO y NPI.
+
+En nuestra población, introduciendo al modelo AO una QT con un esquema llamado FAC (fluorouracilo, doxorrubicina y ciclofosfamida), el 26,4% (33/125) de los pacientes obtienen un beneficio absoluto estimado para la SG superior o igual al 2% y el 58,4% (73/125) una mejoría absoluta en SG superior al 1%. En los pacientes que recibieron QT, 50% (10/20) obtendrían un beneficio mayor al 2%. Por otro lado, el 18,4% (23/125) de las pacientes con un beneficio estimado en SG superior al 2% no recibieron QT11. Según AO, la mediana de la probabilidad de morir por CM a los 10 años en esta cohorte fue del 3% (del 0,7 al 27,9%). Un 9,6% (12/125) de las mujeres tienen un riesgo de morir por CM mayor al 10%. La mortalidad por otras causas, determinada por AO utilizando un puntaje de comorbilidad promedio, fue inferior a la mortalidad por otras causas determinada con una asignación subjetiva de riesgo por comorbilidades estimada por el investigador (4,4% vs 6,8%; respectivamente) (Tabla 4).
+
+Tabla 4 Estimados de sobrevida global, mortalidad por cáncer y mortalidad por otras causas a 10 años, según AO en 125 pacientes con cáncer de mama T1N0M0 
+
+aComorbilidad determinada por tratante
+
+bcomorbilidad promedio (average).
+
+La SG a 10 años en nuestra población fue de 91,2%. Once pacientes fallecieron, 4 de ellos a consecuencia del CM (sobrevida específica por enfermedad (SEE): 96,8%). Mientras que las estimaciones de SG en el grupo de pacientes fallecidos fueron inferiores a las estimaciones para el grupo total, estas diferencias no fueron estadísticamente significativas cuando se compara con el resto de los 114 pacientes que no desarrollan un evento fatal (Tabla 5).
+
+Tabla 5 Sobrevida global estimada según los modelos en 125 pacientes con cáncer de mama T1N0M0. Comparación de estimados entre pacientes vivos y fallecidos. Seguimiento a 10 años 
+
+aComorbilidad determinada por tratante
+
+bcomorbilidad promedio (average).
+
+Discusión
+
+Nuestro objetivo fue evaluar el valor pronóstico de tres modelos en línea, disponibles gratuitamente en internet, para determinar la supervivencia de pacientes con CM en etapa precoz (T1N0M0); un grupo en el cual la decisión acerca del uso de terapia sistémica adyuvante es compleja13. Estas recomendaciones se basan generalmente en una evaluación clínica de la probabilidad de recaída y muerte por CM, y en el beneficio potencial de terapias adyuvantes.
+
+La evaluación inicial de un paciente con CM incluye la etapificación de la enfermedad y para ello el sistema universalmente aceptado es el propuesto por la clasificación TNM del comité estadounidense conjunto sobre el cáncer (AJCC, por sus siglas en inglés)14 que usa variables anatómicas para esta determinación; a este se suma la evaluación de las características biológicas15,16 del tumor, lo que permite identificar pacientes con diferentes riesgos de mortalidad y recurrencia de la enfermedad. Los tumores pequeños de hasta 2 cm de diámetro (T1), sin afectación ganglionar (N0) y en la ausencia de enfermedad metastásica (M0) tienen un mejor pronóstico en comparación con los tumores en etapas avanzadas, logrando una tasa de supervivencia a 10 años que está por encima de 90%2,3. Sin embargo, este grupo de tumores de bajo riesgo es heterogéneo y la discusión sobre el tipo de cirugía, radioterapia o tratamiento sistémico ha sido larga y controversial2. La clasificación TNM es insuficiente para definir qué pacientes, dentro de este grupo de mejor pronóstico, son de alto riesgo y para los cuales se recomienda QT adyuvante.
+
+Además de factores anatómicos (tamaño tumoral, compromiso de linfonodos) otros factores biológicos influyen en la evolución del CM y su sensibilidad al tratamiento. Información histológica como la expresión del RE, del RP, HER2, el GH, y el índice de proliferación, ayudan a diferenciar distintos subtipos de la enfermedad15,16. Tumores RE positivos presentan, generalmente, mejor supervivencia en comparación con tumores RE negativo o HER2 positivo. Diferentes perfiles moleculares, que requieren el conocimiento y determinación genética de subtipos intrínsecos, identifican, además, diferentes tipos de CM, a veces con un correlato anátomo patológico; pero su alto costo y difícil acceso en la consulta habitual, limita el uso de estas clasificaciones moleculares16–18.
+
+En nuestra práctica clínica, actualmente utilizamos parámetros clínico-patológicos clásicos en la toma de decisiones. Al incluir estos parámetros en tres modelos pronósticos, todos ellos fueron capaces de estimar una SG similar a la observada a 10 años de seguimiento en pacientes con CM T1N0M0. Interesantemente, la estimación para SEE es muy cercana a lo observado (96,8% vs 97%; respectivamente).
+
+Sin embargo, en esta pequeña muestra, con sólo cuatro eventos fatales por CM, los modelos no discriminan de manera eficiente a los pacientes que fallecerán por la enfermedad.
+
+Aunque AO ofrece la oportunidad de asignar una puntuación a comorbilidades, intentando corregir el estimado de mortalidad por otras causas de muerte, en nuestra cohorte la adición de esta información no parece añadir eficiencia al modelo.
+
+Nuestro estudio tiene varias limitaciones. Se trata de un pequeño número de pacientes, algunos sin información clínico-patológica completa, en 21,6% de los tumores no tenemos información acerca de los receptores hormonales, ingresando esta información como desconocida cuando se introduce en los modelos. La utilización de información retrospectiva no revela las razones concretas que llevaron a la indicación o abstinencia de QT; en algunos casos la indicación médica podría ser rechazada por el paciente. AO tiene un margen de error mayor o igual a 2% en algunos subgrupos de pacientes, este error tiende a sobreestimar la SG. Además, el modelo no corrige sus resultados según el tipo histológico del tumor9. Algunos modelos predictivos y pronósticos están actualizándose y otros están en desarrollo en CM18,19.
+
+Los modelos pronósticos aplicados predicen de forma eficaz la SG y la SEE en pacientes con CM precoz, T1N0M0, pero no discriminan suficientemente pacientes con mal pronóstico dentro de este grupo.
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.

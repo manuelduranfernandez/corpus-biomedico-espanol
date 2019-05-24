@@ -1,0 +1,118 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262016000400005
+Criopreservación de células estromales derivadas del tejido adiposo: comparación de diferentes medios de criopreservación
+
+Cryopreservation. Adipose derived stromal cells. Stem cells.
+
+ 
+
+Introducción
+
+La obesidad y el sobrepeso han aumentado dramáticamente en los últimos años, lo que ha llevado a un incremento en los procedimientos para disminuir la grasa corporal. Si bien el tejido adiposo rutinariamente se ha manejado como material de desecho, cirujanos plásticos y otros investigadores han documentado su uso como fuente abundante y accesible de células estromales multipotenciales utilizables en medicina regenerativa1. Dichas células se caracterizan por presentar marcadores estromales positivos (> 90%) como CD13, CD73 y CD90, y marcadores hematopoyéticos negativos (< 2%) como CD11b y CD452. Diversos estudios han demostrado que estas mantienen su capacidad de diferenciación en múltiples tipos celulares incluyendo osteoblastos, condrocitos, adipocitos, miocitos y neuronas, luego de una expansión in vitro1,3-5.
+
+Las células estromales derivadas del tejido adiposo (CEDA) han probado ser candidatas adecuadas para muchas aplicaciones en medicina regenerativa e ingeniería de tejidos5, tales como defectos y trastornos óseos, enfermedades cardiovasculares, trastornos neurológicos, enfermedades autoinmunes, así como para mejorar el resultado del trasplante de médula ósea y de órganos sólidos6,7.
+
+Existe interés creciente en el almacenamiento y la preservación de estas células para su posterior aplicación clínica, para lo cual es importante que el método de criopreservación a utilizar logre mantener adecuadas tasas de la viabilidad y preservar el potencial de diferenciación de las CEDA luego de un ciclo de congelación8. La comprensión de las características biológicas durante el almacenamiento y posdescongelación de estas células es esencial en la investigación preclínica y clínica para asegurar la preservación de sus propiedades9. Por lo tanto, el desarrollo de protocolos efectivos de almacenamiento de CEDA aumentará su uso y su utilidad en la aplicación en ingeniería de tejidos.
+
+La criopreservación requiere de la utilización de productos químicos que cumplan con la función de ser agentes crioprotectores (CP), equipamiento de congelación y, obviamente, su almacenaje en nitrógeno líquido. Ha mostrado ser el protocolo más eficiente en cuanto a recuperación de células viables postalmacenamiento y es ampliamente utilizada. El medio ideal para criopreservar CEDA es aquel que reúna condiciones de atoxicidad y que logre una mayor tasa de viabilidad celular sin disminuir el potencial de diferenciación. Es así como la elección del CP o la composición de un medio óptimo de criopreservación es un área de intensa investigación en el campo de la criobiología, en la cual no hay consenso.
+
+Nuestra línea de trabajo está dirigida hacia la aplicación clínica de las CEDA para medicina regenerativa. Para esto, se deben generar protocolos que optimicen la tasa de viabilidad poscriopreservación sin necesidad de utilizar criopreservantes que contengan proteínas animales. El dimetilsulfóxido (DMSO) es uno de los CP más utilizados y de mejor rendimiento en cuanto a tasa de viabilidad poscriopreservación. Los resultados prometedores obtenidos con trehalosa en criopreservación de tejido adiposo y CEDA hacen suponer que la combinación de ambos optimizaría el proceso. La albúmina humana, por su parte, puede mejorar el control de pH y protegería a las CEDA contra el daño por congelación. Debido a lo anterior, creemos que la combinación de los diferentes medios de criopreservación mencionados previamente con nuestro medio de criopreservación de uso habitual (DMSO 10%), aumentaría la tasa de viabilidad poscriopreservación sin necesidad de utilizar CP que contengan proteínas animales.
+
+El objetivo de nuestro trabajo fue obtener células estromales humanas derivadas del tejido adiposo, medir y comparar las tasas de viabilidad justo antes e inmediatamente después de un ciclo de criopreservación con diferentes combinaciones de CP, de manera de obtener el mejor medio de criopreservación.
+
+Material y método
+
+Pacientes y muestra
+
+Se utilizó grasa fresca de tejido celular subcutáneo de la pared abdominal de 5 pacientes lipoaspiradas de manera electiva en el Hospital Clínico de la Universidad de Chile. Se utilizaron como criterios de inclusión pacientes de sexo femenino, entre 20 a 45 años de edad, con índice de masa corporal (IMC) inferior a 28 kg/m2 y sin comorbilidades asociadas. Se excluyeron pacientes de sexo masculino, con comorbilidades, IMC mayor a 28, que tomen medicamentos, fumadores y menores de 20 o mayores de 45 años de edad.
+
+Se obtuvo la autorización de cada paciente mediante un consentimiento informado escrito, aprobado por el comité de ética científico de la misma institución.
+
+El tamaño muestral se calculó mediante la siguiente fórmula, en la cual se considera que un grupo es su propio control10:
+
+
+
+Obtención de las células estromales derivadas del tejido adiposo
+
+Las muestras se obtuvieron al comienzo de la cirugía. Se transportaron en contenedores a 4 °C y se almacenaron a la misma temperatura, para ser procesadas dentro de las 6 h de ser extraídas de los pacientes. Se utilizaron 100 ml de grasa fresca y se lavaron con una solución tampón fosfato (PBS) a temperatura ambiente para remover eritrocitos y leucocitos.
+
+Se rescató el tejido adiposo sobrenadante y se resuspendió en un volumen equivalente de medio DMEM/F12 (Gibco, EE. UU.) con colagenasa tipo I 0,1% (Gibco, EE. UU.). La solución se incubó en un baño a 37 °C, con agitación continua durante 90 min Luego de esto, la solución se centrifugó a 600 G por 20 min a temperatura ambiente para separar los adipocitos maduros de la fracción vascular estromal (FVE). Se aspiró el sobrenadante, quedando el pellet que corresponde a la FVE que contiene las CEDA. La FVE se resuspendió en el medio de cultivo (DMEM/F12 + 10%SFB + gentamicina + ciprofloxacino [0,5 mg/100 ml] + voriconazol [50 μl/100 ml]) y se sembró en placas de cultivo de 100 mm de diámetro para expansión celular. Todo fue realizado en condiciones de esterilidad y con campanas de bioseguridad clase II del Laboratorio de Terapia Celular del Programa de Farmacología Molecular y Clínica, Instituto de Ciencias Biomédicas de la Facultad de Medicina, Universidad de Chile.
+
+Se expandieron las células realizando subcultivos (1:2) cada vez que se alcanzaba el 80% de confluencia.
+
+Caracterización de las células estromales derivadas del tejido adiposo
+
+Se realizó un panel de inmunofenotipificación mediante citometría de flujo en 3 muestras de CEDA de nuestro laboratorio, en el subcultivo número 3. Se consideraron 20.000 eventos por marcador, como control de calidad correspondiente a la utilización de estas células2,11.
+
+Proceso de criopreservación
+
+La criopreservación se llevó a cabo entre los subcultivos 3-4 (dentro de la fase exponencial de crecimiento). Una vez alcanzada la cantidad celular necesaria (4,5 a 5 millones de células, aproximadamente), se liberaron las células de la misma forma que para un subcultivo. Luego se realizaron recuentos con Trypan Blue en cámara de Neubauer, rescatándose una muestra de 0,5 × 106 células/ml para criopreservarla en un medio vehículo (DMEM/F12 con rojo fenol, Gibco, EE. UU.) con diferentes combinaciones de agentes criopreservantes. El control se realizó con medio vehículo sin CP. Las combinaciones de agentes criopreservantes utilizadas fueron las siguientes:
+
+DMSO 10% (1,5 M) (medio habitual).
+
+DMSO 10% (1,5 M) + trehalosa 7,6% (0,2 M).
+
+DMSO 10% (1,5 M) + albúmina humana 10%.
+
+DMSO 10% (1,5 M) + trehalosa 7,6% (0,2 M) + albúmina humana 10%.
+
+Se utilizó una técnica para llevar los criotubos a −80 °C de manera semicontrolada. Para este fin, se utilizó un receptáculo con isopropil alcohol que produce una disminución de la temperatura a una velocidad aproximada de 1 °C/min (Thermo Scientific Nalgene Mr. Frosty)12,13. Al día siguiente los criotubos se cambiaron a nitrógeno líquido para ser almacenados hasta su utilización. A las 4 semanas se descongelaron en un baño a 37 °C (1 min) y se evaluó la viabilidad.
+
+Evaluación de la viabilidad
+
+Se determinó la viabilidad de las CEDA con citometría de flujo cuantitativa antes y después de un ciclo de criopreservación. Luego de 4 semanas de criopreservación se descongelan los criotubos en un baño a 37 °C (1 a 1,5 min). Una vez descongelados, se lavan las células de CP con 3 ml de medio completo, se homogeneiza la muestra y se traspasa a tubos de 15 ml para centrifugar a 2.000 rpm por 10 min Se descarta el sobrenadante, se agrega 2 ml de medio completo y se resuspende. Se realiza conteo en cámara de Neubauer para utilizar la cantidad de células necesarias para cada ensayo.
+
+Luego se cargaron 3 tubos para citometría con 200 μl de suspensión celular (0,5 × 106 células/ml) por cada condición y paciente. Como controles se utilizaron células necróticas inducidas por metanol14 (un tubo) y células vivas no criopreservadas (un tubo) de cada paciente. Se utilizó el marcador ioduro de propidio (IP), mezclando la suspensión celular con 2 μl de IP antes de la adquisición de datos por el citómetro. La tinción celular con IP indica que se ha alterado la integridad de la membrana plasmática, por lo que su marcación con el colorante indica que las células se encuentran necróticas, distinguiéndose así de las células vivas. La citometría, por lo tanto, mostrará 2 poblaciones celulares: vivas (IP-negativas) y necróticas (IP-positivas). Las células se analizaron mediante un sistema de citometría de flujo Becton-Dickinson, considerando 40.000 eventos como significativos.
+
+La tasa de viabilidad obtenida mediante citometría de flujo con IP se calculó mediante la siguiente fórmula:
+
+
+
+Análisis estadístico
+
+Todos los datos se expresaron como promedio ± desviación estándar (promedio ± DS). El análisis estadístico se realizó comparando las diferentes condiciones de criopreservación entre sí, utilizando el test de ANOVA para comparaciones múltiples, seguido de un test post hoc no paramétrico (Tukey's Test), utilizando el programa inerSTAT 1.3. Se consideró un valor de p < 0,05 como estadísticamente significativo.
+
+Resultados
+
+Se obtuvieron células estromales derivadas del tejido adiposo lipoaspirado en los 5 pacientes que cumplieron con los criterios de inclusión. El panel de inmunofenotipificación fue compatible con CEDA (tabla 1).
+
+Tabla 1 Panel de inmunofenotipificación de 3 muestras de células estromales derivadas del tejido adiposo
+
+
+
+Se midió la viabilidad de las CEDA de cada paciente mediante citometría de flujo con IP en cada una de las condiciones estudiadas. En la figura 1 se observan ejemplos de histogramas obtenidos del control negativo (células necróticas), control positivo (células vivas), precriopreservación y poscriopreservación.
+
+
+
+Figura 1 Ejemplo de histogramas obtenido con IP por citometría de flujo; células de control negativo (metanol), control positivo (células vivas), previo a un ciclo de criopreservación, y posterior a este en alguna de las condiciones.
+
+El promedio de las tasas de viabilidad y mortalidad obtenidas con IP en las diferentes condiciones se observan en la figuras 2 y 3, respectivamente. Las tasas de viabilidad obtenidas en las diferentes condiciones fueron, respectivamente: 1) 61,88%; 2) 58,05%; 3) 66,09%, y 4) 68,08%. Las tasas de mortalidad obtenidas en las diferentes condiciones fueron, respectivamente: 1) 32,62%; 2) 35,76%; 3) 29,15%, y 4) 26,52%. Al analizar las tasas de viabilidad y mortalidad en cada condición de CP y comparándolas entre sí mediante ANOVA, se concluye que ningún medio tiene mejor rendimiento, ya que no hay diferencias significativas entre ellos (p = 0,50394).
+
+
+
+Figura 2 Tasas de viabilidad de las CEDA poscriopreservación (%) obtenidas mediante IP por citometría de flujo en las diferentes condiciones.
+
+
+
+Figura 3 Tasas de mortalidad de las CEDA poscriopreservación (%) obtenidas mediante IP por citometría de flujo en las diferentes condiciones.
+
+El análisis de la viabilidad mediante citometría de flujo con IP, previo y posterior a un ciclo de criopreservación, sugiere que ninguna condición estudiada es estadísticamente superior a las demás en cuanto a rendimiento.
+
+Discusión
+
+El medio ideal para criopreservar CEDA es aquel que sea no tóxico y que logre una mayor viabilidad celular sin disminuir el potencial de diferenciación. Está descrito que la combinación de CP en el medio de criopreservación podría lograr mayores tasas de vitalidad15.
+
+La optimización los resultados en el proceso de criopreservación de tejido adiposo16,17 y CEDA al agregar trehalosa no se vio reflejada en nuestros resultados. Es posible que el efecto sinérgico descrito para la trehalosa no se observe a concentraciones de DMSO 10%. De Rosa et al.18, al evaluar el efecto de diferentes CP sobre la viabilidad de CEDA, concluyeron que el efecto óptimo criopreservante se logra con DMSO 4%, trehalosa 6% y suero fetal bovino (SFB) 90%. Otro estudio, recientemente publicado demuestra que se obtienen mayores tasas de viabilidad al utilizar DMSO 5% comparado con trehalosa 0,25 M, y que no se obtienen mayores tasas al combinar DMSO 5% con diferentes concentraciones SFB, concluyendo que el CP ideal es DMSO 5%8. En nuestro caso, la razón de no lograr mejores tasas de vitalidad al combinar trehalosa con DMSO 10% probablemente radica en el hecho que el efecto final de ambos CP de disminuir la formación de hielo intracelular mediante distintos mecanismos es redundante.
+
+Una forma de optimizar la viabilidad posterior a un ciclo de criopreservación es agregando SFB a la solución de CP. Se han logrado tasas de viabilidad mayores al 80% cuando se usa SFB a concentraciones del 90%18 o del 95%19, en asociación a DMSO 4% + trehalosa 6% o DMSO 5%, respectivamente. El problema de utilizar SFB radica en la pérdida del principio alogénico, con el consiguiente riesgo de transmisión de enfermedades virales o por priones y la ocurrencia de rechazo inmunogénico.
+
+Estudios recientes han visto que al reemplazar el SFB por plasma humano autógeno (HP) en el protocolo de criopreservación (DMSO 5% + HP 95%) se logran tasas similares de viabilidad, todas mayores al 80%, analizadas con Trypan Blue19. El plasma humano autógeno tiene la desventaja de ser un medio no definido en cuanto a su composición y ser variable inter e intrapersonal, con respecto al sexo, edad, estados patológicos etc.20. El uso de plasma autógeno sería intercambiable por albúmina humana 5% como criopreservantes en asociación a DMSO 7,5%, en células madres derivadas de sangre periférica21. Esto nos hace suponer que ellos se aproximarían al medio ideal definido y libre de proteína animal. En nuestros resultados existe una mayor tasa de viabilidad poscriopreservación al agregar albúmina humana que, si bien no es significativa, muestra una tendencia que podría explicarse por el efecto de la albúmina mediante otro mecanismo, probablemente mejorando el control del pH22.
+
+La menor tasa de viabilidad a la descrita previamente, posterior a 4 semanas de criopreservación, no puede ser explicada por el tiempo de almacenamiento de las CEDA en nitrógeno líquido (aproximadamente −196 °C). Se ha observado que estas células mantienen tasas de viabilidad > 80% luego de 1 y 6 meses, cayendo solo al 70% al año de criopreservación18. Sin embargo, estas mantienen su capacidad de diferenciación y el fenotipo de los marcadores de superficie. Otro factor que podría haber influido en las tasas de viabilidad poscriopreservación obtenidas es la velocidad a la cual las células son congeladas. La velocidad controlada (1 °C/min) tiene mejores resultado en la criopreservación de células mamíferas23. El descenso controlado de la temperatura permite que se forme hielo extracelular mientras el agua supercooled (proceso mediante el cual se disminuye la temperatura de un líquido o gas bajo su punto de congelación sin llevarlo a estado sólido) se transporta fuera de la célula, logrando así la vitrificación del medio intracelular. A velocidades más lentas se genera daño, producto de un aumento de la concentración de solutos intracelulares a medida que el agua sale de la célula llegando a la deshidratación. Por el contrario, a velocidades más rápidas el agua no alcanza a salir de la célula y se genera hielo intracelular que produce la rotura de la membrana23. La utilización de un sistema semicontrolado o no automático podría exponer a las células a velocidades mayores o menores a la ideal durante el proceso de congelación, provocando una disminución en las tasas de viabilidad cuando se compara con sistemas automatizados de disminución de la temperatura.
+
+Si bien nuestro rendimiento en cuanto a viabilidad poscriopreservación es inferior al reportado por otros autores14,15, la evaluación de estas tasas habitualmente se realiza mediante una técnica poco precisa, como es la exclusión con Trypan Blue19,24. Se ha descrito que esta técnica tiende a sobreestimar la viabilidad; por ejemplo, un 90% de células descongeladas se excluyen con esta prueba (viables). Sin embargo, solo un 60% demuestra ser capaz de adherirse a sustrato a las 24 h24. La medición de la viabilidad utilizando una técnica más precisa como IP por citometría de flujo es una estrategia más adecuada para enfrentar esta interrogante, ya que mide la viabilidad evaluando la integridad de la membrana plasmática y nuclear, que nos informa la etapa final de la muerte celular, por lo que células inviables no impactan la mortalidad.
+
+Es así como podemos afirmar que la criopreservación de las CEDA en un medio que combine DMEM/F12 con DMSO 10% + trehalosa 0,2 M + albúmina humana 10% no resulta en una tasa de recuperación de células viables significativamente mayor que las congeladas solo con DMSO 10%, en lo cual pueden influir diversos factores, previamente discutidos.
+
+Llama la atención que aun utilizando diversas combinaciones de CP se obtuvieron tasas de vitalidad relativamente menores en todas las condiciones (60-70%) comparado a lo descrito en la literatura (alrededor de 85-95%)14,15,19. El desafío ahora es intentar esclarecer las variables que podrían haber influido en este proceso mediante estudios de criopreservación con un sistema de descenso automatizado de la temperatura, a través de la utilización de diferentes combinaciones de CP, ya sea disminuyendo la concentración de DMSO para evitar mecanismos redundantes o incorporando otros CP como la sericina, que han mostrado tasas de viabilidad de CEDA alentadoras poscriopreservación24. Además sería interesante conocer las características de las células descongeladas en cuanto a su capacidad de adherirse y expandirse en la placa, formar colonias y diferenciarse en diferentes tipos celulares.
+
+Conclusiones

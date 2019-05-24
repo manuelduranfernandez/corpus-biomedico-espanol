@@ -1,0 +1,146 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262017000100017
+Cuidado perioperatorio de pacientes portadores de dispositivos electrónicos cardíacos implantables
+
+ 
+
+Introducción
+
+Los trastornos de generación y/o conducción del impulso eléctrico del corazón determinan asincronía entre la contracción auricular y ventricular, pudiendo generar alteraciones hemodinámicas, disfunción ventricular, embolias sistémicas o muerte súbita. Estos trastornos se pueden presentar en variadas patologías tales como: enfermedad del nodo sinusal, bloqueo auriculoventricular, síndrome de bradicardia-taquicardia, cardiopatía coronaria, miocarditis, o insuficiencia cardíaca, entre otras, que pueden requerir estimulación cardíaca permanente a través de dispositivos implantables.
+
+En la práctica clínica, es cada vez más frecuente encontrar pacientes portadores de algún tipo de dispositivo electrónico cardíaco implantable (DECI), que incluyen los marcapasos (MP) y los cardiovertores-desfibriladores implantables (CDI)1. En América del Norte, por ejemplo, al menos 3 millones de pacientes tienen un DECI2, y en Estados Unidos anualmente se instalan 400.000 MP y 120.000 CDI aproximadamente3. En Chile se estima que se instalan más de 2.000 nuevos dispositivos al año4, número que ha ido creciendo, especialmente desde que estos se incorporaron en las Garantías Explícitas de Salud5,6.
+
+El aumento de pacientes portadores de estos dispositivos se debe a una población que tiende a envejecer, nuevas indicaciones para su uso y a un mayor desarrollo tecnológico3. En consecuencia, hoy nos vemos involucrados con mayor frecuencia en el cuidado perioperatorio de estos pacientes, que requieren un manejo adecuado para evitar posibles complicaciones1. A pesar de esto, habitualmente existe poco conocimiento, en el equipo quirúrgico y en los mismos pacientes, de las características de estos dispositivos7. Las recomendaciones internacionales señalan que el manejo perioperatorio debe ser realizado por el equipo tratante que habitualmente maneja el DECI7,8; sin embargo, muchas veces nos veremos enfrentados a situaciones donde no es posible el manejo perioperatorio especializado y multidisciplinario de estos dispositivos.
+
+En este artículo revisaremos las características básicas de los DECI, las complicaciones asociadas a su uso durante una cirugía y describiremos recomendaciones prácticas para el manejo perioperatorio de pacientes portadores de estos dispositivos9.
+
+Marcapasos
+
+Un MP es un dispositivo capaz de estimular eléctricamente el corazón, que consta de una fuente de energía (batería o pilas), de un sistema electrónico denominado cabezal del marcapasos (visible solo en los marcapasos externos o transitorios) y de guías y electrodos (endocavitarios, epicárdicos o percutáneos) que transmiten el estímulo directamente al corazón. Estos dispositivos incluyen los MP propiamente como tales y la terapia de resincronización cardíaca.
+
+La estimulación eléctrica que produce un MP puede ser unicameral (solo auricular o ventricular), bicameral (auricular y ventricular) o a múltiples cámaras (ejemplo: MP biventricular o de resincronización cardíaca)10 y pueden utilizar guías tanto unipolares como bipolares.11 Las guías bipolares son las más utilizadas en los últimos años, ya que tienen menor susceptibilidad a la interferencia electromagnética (IEM); en estas, el ánodo y el cátodo están presentes en la misma guía y la distancia entre ellos es corta, por lo que existe una menor distancia como antena captadora de IEM7,11,12. En la tabla 1 se describe la nomenclatura de los MP que especifica las modalidades de programación4,6,13.
+
+ 
+
+Tabla 1 Nomenclatura de los marcapasos, que describe la modalidad de programación
+
+
+
+Las 3 primeras letras describen las funciones antibradicardia y las 2 últimas describen las          funciones de programabilidad y antitaquicardia.Fuentes: León et al.4, Guía clínica trastorno          de generación del impulso cardíaco y conducción en personas de 15 años y más que          requieren       marcapaso6 y Bernstein et al.13.
+
+ 
+
+Las indicaciones para instalar un MP son realizadas por un equipo cardiológico, siendo las más comunes la bradicardia sintomática (incluidas las resultantes de una disfunción del nodo sinusal) y el bloqueo de la conducción auriculoventricular luego de la ablación del nodo auriculoventricular14. La instalación de un MP se puede realizar en forma temporal a través de electrodos o paletas externas, de una sonda MP de emergencia insertada por un acceso venoso central, o de manera permanente mediante una implantación intracardíaca15. En adelante nos referiremos a los MP de instalación intracardíaca.
+
+Cardiovertores-desfibriladores implantables
+
+Los CDI son dispositivos capaces de detectar arritmias ventriculares (taquicardia ventricular y fibrilación ventricular) y dar una descarga de desfibrilación. Actualmente se han convertido en una terapia definitiva en aquellos pacientes con alto riesgo de desarrollar arritmias malignas (profilaxis primaria: pacientes con miocardiopatía y fracción de eyección ventricular < 35%), y también para aquellos pacientes que han sobrevivido a arritmias malignas (profilaxis secundaria)7,16,17. Existe un código utilizado para identificar los CDI (tabla 2)4,13.
+
+ 
+
+Tabla 2 Código para identificar los cardiovertores-desfibriladores internos
+
+
+
+Fuentes: León et al.4 y Bernstein et al.13.
+
+ 
+
+Complicaciones del uso de dispositivos electrónicos cardíacos implantables en cirugía
+
+En el transcurso de una cirugía, los pacientes portadores de DECI pueden sufrir complicaciones asociadas a estos dispositivos, entre las que se describen las siguientes18,19:
+
+1) Daño o reprogramación del DECI.
+
+2) Consecuencias anatómicas asociadas al procedimiento quirúrgico, cuando este se realiza en una zona anatómica vecina al dispositivo: por ejemplo, neumotórax en toracotomías o cirugías cardíacas.
+
+3) Daño físico al DECI o a sus cables producto de traumatismo directo.
+
+4) Infección del dispositivo o de sus cables producto de una bacteriemia perioperatoria.
+
+5) Quemaduras de tejidos asociadas a la conducción a través de los cables producto de IEM.
+
+6) Complicaciones asociadas a falla en el retorno a las configuraciones preoperatorias del dispositivo.
+
+7) Complicaciones asociadas a maniobras o agentes vagotónicos (tales como opioides de acción rápida) que podrían aumentar el bloqueo de conducción, lo que podría determinar la abolición de cualquier ritmo cardíaco subyacente y transformar al paciente en un verdadero dependiente de MP.
+
+8) Alteraciones en el balance de fluidos, ácido-base y de electrolitos podrían alterar la función de los dispositivos y aumentar el riesgo de arritmias.
+
+De las complicaciones descritas, la más común y más ampliamente estudiada en la literatura es la relacionada con la IEM8, la cual revisaremos a continuación.
+
+Interferencia electromagnética
+
+La IEM es aquella señal eléctrica y/o magnética capaz de interferir con el normal funcionamiento de un DECI. Cualquier aparato que emita ondas de radiofrecuencia entre 0 y 109 Hz puede generar IEM e interferir en el adecuado funcionamiento del dispositivo7. Varios estudios descriptivos y reportes de casos sugieren que los siguientes procedimientos podrían estar asociados a IEM: electrocauterización (monopolar »> bipolar), radiofrecuencia ablativa y resonancia nuclear magnética (RNM)7. También se ha descrito IEM por litotripsia extracorpórea, radioterapia, monitores de potenciales evocados, estimuladores de nervio periférico o neuroestimulador (en bloqueos de nervio periférico), fasciculaciones, calofríos, desfibrilación externa y terapia electroconvulsiva7,19. Sin embargo, el potencial de las fuentes de IEM para alterar el comportamiento de los DECI modernos ha disminuido significativamente comparado con generaciones anteriores de dispositivos4.
+
+La IEM ingresa al MP o CDI mediante 2 mecanismos: conducción e irradiación. Por conducción, cuando la fuente electromagnética se encuentra en contacto directo con el cuerpo (como en el caso de la electrocauterización), y por irradiación, cuando el paciente se encuentra en un campo electromagnético y los electrodos del DECI actúan como antena de recepción de esas señales, sin contacto directo con la fuente, como sucede con la RNM20.
+
+Las posibles respuestas a una IEM incluyen4:
+
+- Interpretación de la IEM como señal intracardíaca, ocasionando inhibición o descarga de la estimulación eléctrica, dependiendo del modo programado.
+
+- Interpretación de la señal como «ruido», causando reversión temporal a estimulación asincrónica.
+
+- Interpretación de la IEM como una señal de programación, reprogramando el modo del MP o CDI.
+
+- Altos niveles de corriente atraviesan el dispositivo, lo que podría causar quemaduras térmicas en la interfaz electrodo-tejido. Esto podría aumentar los umbrales de estimulación y dañar a los circuitos del generador de pulso.
+
+- Descarga de shocks de CDI innecesarios o falla en reconocer la necesidad de desfibrilación.
+
+Cualquiera de estas respuestas puede resultar en morbilidad significativa o mortalidad debido a hipotensión, arritmias, daño al tejido cardíaco, isquemia miocárdica, y/o daño secundario potencial a otros órganos19.
+
+Recomendaciones de manejo
+
+Preoperatorio
+
+El manejo preoperatorio de estos pacientes se debe iniciar con una evaluación y optimización de las patologías asociadas. La evaluación preoperatoria debe identificar, en primer lugar, qué pacientes son usuarios de MP y/o CDI, lo que se puede lograr a través de la historia clínica, registro de fichas médicas, radiografías de tórax previas, electrocardiogramas y examen físico1,19. El siguiente paso es identificar el tipo de DECI, la marca, el modelo, la razón de la indicación y la fecha de implantación; antecedentes que se pueden obtener a través de tarjetas de información de los dispositivos, registros clínicos, solicitando evaluación por un cardiólogo o una radiografía de tórax en caso de no contar con lo anterior (figs. 1-3)1. Los MP deben haber sido revisados en el último año y los CDI en los últimos 6 meses, lo que incluye comprobar la carga restante de la batería (especialmente crítico en los MP), para asegurar el correcto funcionamiento de los dispositivos7. Es imprescindible una evaluación por el cardiólogo tratante previo al procedimiento quirúrgico, para un mejor manejo del dispositivo, los cuales también deben ser revisados por los técnicos de la marca respectiva. Sin embargo, cuando estas condiciones no son posibles de cumplir, el equipo quirúrgico debe estar preparado para obtener, por sí mismo, la mayor cantidad de información posible, realizando los pasos recomendados7. A continuación, es necesario determinar si el paciente es dependiente de estimulación; lo es si el registro del dispositivo señala que la carga de estimulación es mayor al 40%1. En ausencia de registros de interrogación al dispositivo, una historia de bradicardias sintomáticas, síncopes o ablación del nodo AV como causa de implantación del dispositivo habla de un paciente dependiente de MP, así como también un ECG que revele un ritmo predominante de estimulación (cada onda P o complejo QRS precedido por una espiga del MP)1,19.
+
+ 
+
+
+
+Figura 1 Radiografía de tórax de un marcapasos          bicameral. Se observa electrodo en aurícula derecha          (AD) y en ventrículo derecho (VD).
+
+ 
+
+
+
+Figura 2 Radiografía de tórax de un cardiovertor-         desfibrilador implantable unicameral, con ambas paletas          desfibriladoras (PD) ubicadas a lo largo del electrodo          del ventrículo derecho.
+
+ 
+
+
+
+Figura 3 Radiografía de tórax de un marcapasos          biventricular (terapia de resincronización cardíaca).          Se observa un electrodo en la aurícula derecha (AD),          en el seno coronario (SC) y en el ventrículo derecho (VD),          con segmentos radioopacos a lo largo del electrodo del          ventrículo derecho, que corresponden a las paletas          desfibriladoras (PD).
+
+ 
+
+En general, los pacientes portadores de MP uni o bicameral (son los más utilizados) no requieren exámenes preoperatorios específicos (radiografía de tórax, ecocardiograma, etc.)3. Sin embargo, pacientes con MP biventriculares podrían requerir una radiografía de tórax para documentar la posición del electrodo del seno coronario (fig. 3), especialmente en aquellos que eventualmente requieran la instalación de vías venosas centrales, ya que esto podría causar un desplazamiento del electrodo2,21. Por otra parte, un ECG de 12 derivaciones es necesario para todos los pacientes que serán sometidos a anestesia general20.
+
+Solicitar la interrogación del dispositivo y su reprogramación previo a una cirugía depende de la naturaleza del procedimiento quirúrgico, de si se utilizarán fuentes de IEM, del tipo de dispositivo y de la dependencia de la estimulación1. Se recomienda reprogramar el dispositivo en: a) todos los pacientes con CDI; b) procedimientos con potencial uso de fuentes de IEM, especialmente si esta se ubicará a menos de 15 cm del dispositivo o sobre el ombligo7; c) cirugía mayor en tórax o abdomen; d) pacientes que son dependientes de la estimulación; e) pacientes con miocardiopatía dilatada o miocardiopatía hipertrófica; f) niños, y g) aquellos dispositivos con sensores de ventilación-minuto, con el fin de evitar taquicardias inapropiadas por el uso de ventilación mecánica1,7,20. La reprogramación del dispositivo puede implicar apagar la función de control antitaquicardia de los CDI, convertir el modo de estimulación del MP a uno asincrónico, y/o desactivar características de modulación del ritmo. Pacientes que no cumplan con los criterios descritos, generalmente, no requieren reprogramación preoperatoria de los dispositivos18.
+
+Desde un punto de vista práctico, luego de advertir que un paciente es portador de un DECI, es imprescindible identificar el tipo de DECI y el motivo de la indicación, el último control del dispositivo, aquellos pacientes dependientes de estimulación y qué pacientes requerirán revisión y/o reprogramación del dispositivo.
+
+Intraoperatorio
+
+Los pacientes con DECI deben ser cuidadosamente monitorizados durante la cirugía a través de electrocardiografía continua (con filtro de artefactos desactivado para detectar las descargas del MP)3 y monitorización del pulso periférico (pletismografía u oximetría de pulso y/o línea arterial), con el fin de identificar alteraciones en el comportamiento del dispositivo y de la función cardíaca19,22. Las placas de desfibrilación/estimulación deben ser instaladas en el pecho del paciente en una configuración anterior-posterior para que, en caso que ocurra algún problema con el dispositivo, una estimulación o desfibrilación externa de soporte pueda ser administrada19. Se recomienda administrar profilaxis antibiótica de 30 a 60 min antes del inicio del procedimiento quirúrgico, habitualmente con cefazolina.
+
+En la tabla 3 se describe el manejo de las fuentes de IEM más frecuentes de encontrar durante el periodo perioperatorio2,8,19,22-26. El uso de electrocoagulador puede descargar totalmente la batería de un MP, especialmente cuando su carga es baja, originando falla de estimulación. Un neuroestimulador utiliza frecuencias (1-2 Hz) cercanas al límite normal alto de la frecuencia cardíaca, por lo que el estímulo generado por este podría ser censado como señal intracardíaca normal e inhibir el funcionamiento de un MP; frecuencias de 2 Hz (120 latidos por minuto) podrían inhibir completamente un MP, comparado con frecuencias menores (0,5 Hz: 30 latidos por minuto) que lo inhibirían solo parcialmente26-28.
+
+ 
+
+Tabla 3 Manejo de las potenciales fuentes de interferencia electromagnética (IEM)
+
+
+
+ 
+
+Magnetos
+
+Los magnetos se incorporaron inicialmente para producir un determinado comportamiento en el MP que demostrara la batería restante27. Actualmente, se utilizan solo para proteger a pacientes dependientes de MP de fuentes de IEM27,28. Su uso se justifica en pacientes en que la reprogramación formal no se consideró necesaria o no fue posible realizar, y en cirugías de urgencia; en tales casos, deben ser ubicados directamente sobre el generador de pulso del dispositivo para efectuar cambios1. En el caso de los MP, los magnetos podrían apagar cualquier modulación del ritmo y convertirlos en aparatos asincrónicos AOO, VOO, DOO (un ritmo prefijado, que no censa miopotenciales auriculares ni ventriculares), lo que previene la inhibición de la estimulación por IEM7. El ritmo de estimulación en el modo asincrónico depende de las configuraciones del aparato, antigüedad de la batería y características del fabricante. El ritmo asincrónico se mantiene hasta que los magnetos son retirados, tras lo cual el dispositivo vuelve a su configuración de base2.
+
+En el caso de los CDI, la aplicación de magnetos no afecta el modo de estimulación, sino que apaga la detección de arritmias y su terapia antiarrítmica. Es por esto que se requiere una reprogramación formal de estos dispositivos en caso que se requiera cambiar a modo asincrónico2. Algunos CDI vienen programados para no responder al uso de magnetos, por lo que su uso de rutina podría producir una falsa sensación de seguridad7.
+
+Postoperatorio
+
+Posterior a la cirugía es importante mantener monitorizado al paciente hasta que el dispositivo regrese a su configuración inicial7. Aquellos aparatos que requirieron una reprogramación formal para la cirugía deben ser configurados nuevamente a sus condiciones basales. En el caso de aquellos que no requirieron reprogramación y fueron sometidos a IEM, la mayoría de los fabricantes recomiendan una interrogación formal al DECI para asegurar niveles de batería óptimos y un funcionamiento adecuado1; también se recomienda para aquellos pacientes cuyas cirugías implicaron cambios hemodinámicos importantes (cirugías cardíacas, reparación de aneurismas aórticos, etc.)7. Sin embargo, aquellos pacientes cuyos dispositivos recibieron una interrogación preoperatoria apropiada, en quienes no se utilizó fuentes de IEM en pabellón, no requirieron transfusiones de sangre, no se requirió reprogramar el dispositivo en el perioperatorio y no hubo problemas del dispositivo durante la cirugía podrían no necesitar interrogación postoperatoria del DECI19.
+
+En resumen, el manejo de pacientes usuarios de DECI que serán sometidos a cirugía incluye una evaluación multidisciplinaria que involucra cirujanos, anestesiólogos y cardiólogos. Sin embargo, dado que en la realidad de nuestro país no siempre es posible esta aproximación, es deber del equipo quirúrgico y anestesiológico conocer las recomendaciones de manejo de estos pacientes y su implementación, especialmente aquellas enfocadas a minimizar la exposición de estos dispositivos a IEM, que pudiera ocurrir durante el procedimiento quirúrgico.

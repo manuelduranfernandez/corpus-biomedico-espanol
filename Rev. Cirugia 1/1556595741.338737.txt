@@ -1,0 +1,240 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262018000300291
+Manejo perioperatorio de pacientes usuarios de antiagregantes plaquetarios
+
+Introducción
+
+Actualmente, el uso de fármacos antiagregantes plaquetarios para la prevención primaria y secundaria de eventos cardiovasculares es una práctica común en la clínica habitual. La terapia antiagregante plaquetaria (TAP) ha disminuido significativamente la incidencia de eventos trombóticos, incluyendo el infarto agudo al miocardio (IAM) y accidente cerebro-vascular (ACV)1,2. Además, el uso de TAP dual otorga beneficios adicionales en pacientes con síndrome coronario agudo (SCA)3. En aquellos enfermos que se someten a angioplastía percutánea para instalación de endoprótesis vascular (stent), es crucial la administración de estos fármacos para la prevención de trombosis de la prótesis y futuros eventos cardiovasculares4-6.
+
+Los fármacos antiagregantes plaquetarios más utilizados en Chile son la aspirina o ácido acetilsalicílico (AAS) y las tienopiridinas, siendo el clopidogrel el más usado dentro de esta familia de fármacos.
+
+El número de usuarios de TAP continúa aumentando, al igual que lo que sucede con los fármacos anticoagulantes7, por lo que cirujanos y anestesiólogos se enfrentarán cada vez con mayor frecuencia a pacientes que requieran cirugías electivas o de urgencia y que están simultáneamente en tratamiento con alguno de estos fármacos. A pesar del beneficio previamente mencionado, estas drogas incrementan el riesgo de sangrado quirúrgico1,3. Por tanto, el equipo médico tratante debe balancear el riesgo de sangrado perioperatorio versus el riesgo de eventos trombóticos, asociado al mantenimiento y suspensión de estos fármacos, respectivamente8. La decisión en relación al manejo perioperatorio de TAP debe estar basada en el tipo de indicación médica que justifica el uso de estos medicamentos, ya sea profilaxis primaria o secundaria, el tipo de procedimiento quirúrgico, el riesgo de sangrado perioperatorio asociado a éste y el riesgo trombótico de cada paciente.
+
+El objetivo de esta revisión es entregar recomendaciones claras, precisas y basadas en la mejor evidencia disponible para el manejo perioperatorio de pacientes usuarios de fármacos antiagregantes plaquetarios.
+
+Fármacos antiagregantes plaquetarios
+
+Los fármacos disponibles para la TAP se pueden clasificar según su mecanismo de acción inhibidor de la enzima cicloxigenasa-1 (COX-1) y cicloxigenasa-2 (COX-2) como la aspirina, y en los antagonistas del receptor P2Y12 irreversibles (clopidogrel y prasugrel) y reversible (ticagrelor y cangrelor).
+
+1. Aspirina
+
+El AAS es el antiagregante plaquetario más usado a nivel mundial9. Produce inhibición irreversible de la enzima COX-1 y COX-2, disminuyendo la producción de tromboxano-A2, un potente activador de la agregación plaquetaria y vasoconstrictor10 y, de la prostaciclina (PGI2), que inhibe la agregación plaquetaria y tiene efecto vasodilatador. La aspirina vía oral es rápidamente absorbida desde el estómago e intestino delgado, y su efecto antiplaquetario comienza 60 min posterior a su ingesta. Posee vida media plasmática de 15-20 min, sin embargo, su efecto inhibitorio de la agregación plaquetaria se mantiene durante toda la vida de las plaquetas (7-10 días), dada la inhibición irreversible sobre COX-1 y COX-211. La dosis utilizada de AAS para profilaxis primaria de eventos cardiovasculares es 100 mg al día. En fenómenos trombóticos agudos, como IAM o ACV, la dosis recomendada es 500 mg y 250 mg, respectivamente10.
+
+2. Tienopiridinas
+
+Las tienopiridinas son un grupo de drogas anti-plaquetarias cuyo mecanismo de acción es la inhibición del receptor P2Y12 presente en la membrana de las plaquetas, evitando la agregación plaquetaria al impedir la unión de adenosina disfosfato (ADP) a este receptor12. La ticlopidina, una tienopiridina de primera generación, actualmente ha sido ampliamente remplazada por el clopidogrel, el cual no está asociado a discrasias sanguíneas, a diferencia de la ticlopidina10.
+
+El clopidogrel es una prodroga que se absorbe rápidamente por vía oral y posee un metabolismo hepático mediado por el complejo enzimático citocromo P450, transformando esta droga en un metabolito activo, el cual es el que actúa directamente sobre el receptor plaquetario. Dado que el clopidogrel es una prodroga, usualmente es necesaria una dosis de carga para lograr niveles terapéuticos13. El efecto antiagregante plaquetario comienza 2 h posterior a su ingesta. Dado su unión irreversible al receptor P2Y12, el efecto del clopidogrel se mantiene durante la vida plaquetaria (7-10 días), similar a la aspirina. Dado las variables farmacocinéticas y farmacodinámicas del clopidogrel se ha visto que un tercio de los pacientes tienen menor efecto antiagregante con las dosis habituales. Algunos factores que alteran la farmacología de este medicamento, incluyen: polimorfismos en transportadores involucrados en la absorción de esta droga (por ejemplo el receptor ABCB1), el hábito tabáquico, polimorfismos en el citocromo CYP2C19, interacciones farmacológicas con otras drogas (por ejemplo; inhibidores de bomba de protones), variables intrínsecas del funcionamiento plaquetario y otras condiciones clínicas, tales como la obesidad, insuficiencia renal, diabetes mellitus y la edad14.
+
+La dosis recomendada de clopidogrel en IAM es 600 mg de carga y luego 75 mg al día a permanencia. Otra opción es administrar una dosis de carga de 300 mg inicialmente y 300 mg previo a la angioplastía percutánea. En el ACV, la dosis sugerida de clopidogrel es 75 mg al día, una vez descartado ACV hemorrágico10.
+
+El prasugrel, una tienopiridina de tercera generación, ofrece ciertas ventajas sobre el clopidogrel. Posee un rápido comienzo de acción y un efecto antiagregante más confiable, dado que su metabolismo es menos dependiente del citocromo P450.
+
+Actualmente, nuevos fármacos capaces de inhibir el receptor P2Y12 de forma reversible están siendo investigados. De ellos destaca el cangrelor, que es un análogo de adenosin trifosfato (ATP) de presentación endovenosa, indicado en casos de angioplastía cuando el paciente no ha sido tratado con un antagonista de P2Y12 previo a este procedimiento. El ticagrelor tiene una presentación oral y es indicado en pacientes con SCA en doble TAP13,15. Sin embargo, al ser fármacos de uso reciente carecen de evidencia sólida para formular recomendaciones respecto a su manejo perioperatorio16.
+
+La Tabla 1 muestra un cuadro resumen del mecanismo de acción, tiempo a máximo nivel plasmático y vida media de eliminación de los fármacos antiagregantes plaquetarios.
+
+Tabla 1 Mecanismos de acción, tiempo a máximo nivel plasmático y vida media de eliminación de los fármacos antiagregantes plaquetarios 
+
+Adaptado de Ortel y cols16.
+
+¿Cuándo usar antiagregantes plaquetarios?
+
+Las plaquetas juegan un rol esencial en los procesos de trombosis y hemostasia. Estas células sanguíneas son la primera línea de defensa frente a una injuria vascular, formando un coágulo plaquetario mediante la agregación y adhesión plaquetaria12. Cuando una placa ateroesclerótica inestable se rompe, el desarrollo de un coágulo plaquetario en el sitio dañado provoca eventos trombóticos arteriales, isquemia y necrosis en los tejidos afectados. La TAP es un pilar esencial en la prevención y tratamiento de eventos cardiovasculares, como IAM y ACV.
+
+Como se mencionó anteriormente, la aspirina y el clopidogrel son los antiagregantes plaquetarios más utilizados actualmente en la práctica clínica chilena para prevención primaria y secundaria de eventos cardiovasculares. La prevención primaria está basada en el riesgo cardiovascular de cada paciente, el cual depende de factores como: sexo, diabetes mellitus, hipertensión arterial, dislipidemias, tabaquismo, obesidad, antecedentes familiares de enfermedad cardiovascular prematura, etc.17.
+
+Por otro lado, la prevención secundaria está basada en aquellos pacientes que ya han presentado algún evento cardiovascular, como por ejemplo IAM, ACV, accidente isquémico transitorio (AIT) o enfermedad arterial periférica18. En este grupo particular de pacientes, la aspirina ha demostrado disminuir significativamente el riesgo de eventos cardiovasculares en un 21%, como IAM no fatal, ACV no fatal y muerte cardiovascular19.
+
+Al comparar directamente la aspirina y clopidogrel, este último parece ser más efectivo en reducir el riesgo de ACV isquémico, IAM y muerte cardiovascular20.
+
+La TAP dual con aspirina y clopidogrel está recomendada en SCA con o sin requerimientos de angioplastía percutánea, enfermedad cardiovascular establecida y en pacientes que se someten a angioplastía percutánea con instalación de prótesis endovascular, dado su beneficio adicional en la prevención de trombosis del stent21.
+
+Sin embargo, la terapia dual no está recomendada de rutina en pacientes con ACV isquémico o cardioembólico, dado la falta de beneficio clínico demostrado22.
+
+Consecuencias e impacto de la suspensión de la terapia antiagregante plaquetaria
+
+La suspensión de aspirina en pacientes con enfermedad cardiovascular establecida conlleva a un riesgo 3 veces mayor de presentar SCA (odds ratio [OR] 3,14)23. Además, este riesgo es significativamente mayor en pacientes usuarios de stents coronarios (OR 89,78).
+
+Cuando la aspirina es descontinuada en el período perioperatorio, se agrega un riesgo adicional debido a la hipercoagulabilidad secundaria a la rotura tisular e incremento de la actividad plaquetaria en relación al estrés quirúrgico. La actividad protrombótica luego de la suspensión del AAS, también ocurre debido a un incremento en la producción de tromboxano A2 y disminución de la fibrinólisis24.
+
+Collet y cols encontraron que un gran porcentaje de los pacientes que presentan un SCA habían recientemente suspendido la TAP. De estos pacientes, la principal razón de suspensión de la TAP fue la realización de una cirugía electiva25.
+
+Burger y cols realizaron un metaanálisis de enfermos usuarios de bajas dosis de aspirina para prevención secundaria, encontrando que un 10,2% de los pacientes evolucionaban con un SCA posterior a la suspensión perioperatoria del fármaco26.
+
+Por otro lado, en pacientes usuarios de stents coronarios medicados, la descontinuación temprana del clopidogrel es un predictor independiente de trombosis tardía de stent (> 30 días), con una tasa de mortalidad asociada del 45%27. Al comparar los pacientes usuarios de stents no medicados versus stents medicados, la suspensión de clopidogrel en éstos últimos incrementa significativamente el riesgo de IAM y muerte cardiovascular (1,3% vs 4,9%)28.
+
+En resumen, en pacientes usuarios de stents coronarios la tasa de mortalidad asociada a la suspensión de la TAP depende del tipo de agente antiplaquetario descontinuado y del tiempo transcurrido entre la instalación del stent y la cirugía. ¿Cuándo suspender los antiagregantes plaquetarios en el período perioperatorio?
+
+En el manejo perioperatorio de la TAP se debe balancear el riesgo trombótico asociado a la suspensión de la terapia versus el riesgo hemorrágico asociado a la mantención del tratamiento. La Tabla 2 expone la estratificación del riesgo hemorrágico según el tipo de cirugía. La Tabla 3 muestra la clasificación del riesgo trombótico de cada paciente según su condición clínica.
+
+Tabla 2 Estratificación del riesgo hemorrágico según el tipo de cirugía 
+
+Adaptado de Sierra y cols.28.
+
+Tabla 3 Estratificación de riesgo trombótico según condición clínica del paciente 
+
+–. 
+
+			IAM
+
+–. 
+
+			Cirugías de revascularización coronaria
+
+–. 
+
+			Angioplastía percutánea
+
+–. 
+
+			Implante de un stent coronario no medicado
+
+–. 
+
+			ACV isquémico
+
+–. 
+
+			IAM
+
+–. 
+
+			Cirugía de revascularización coronaria
+
+–. 
+
+			Angioplastía percutánea
+
+–. 
+
+			Implante de un stent no medicado
+
+–. 
+
+			ACV isquémico
+
+Adaptado de Sierra y cols28.
+
+Conducta perioperatoria en cirugía electiva no cardiaca de pacientes usuarios de aspirina y clopidogrel
+
+La gran mayoría de los pacientes usuarios de TAP se encuentran en tratamiento con aspirina y/o clopidogrel, por lo que nos centraremos en las recomendaciones perioperatorias para este grupo de pacientes en particular.
+
+Pacientes con riesgo trombótico bajo:
+
+–. 
+
+			Riesgo hemorrágico bajo: mantener aspirina y suspender clopidogrel 5 días previos a la cirugía.
+
+–. 
+
+			Riesgo hemorrágico moderado-alto: suspender aspirina 5-7 días previos al procedimiento quirúrgico y clopidogrel 5 días antes de la cirugía29. La suspensión de este fármaco 7 días antes a la cirugía se debe a que diariamente se reponen un 10-12% de las plaquetas circulantes.
+
+Pacientes con riesgo trombótico moderado:
+
+–. 
+
+			Riesgo hemorrágico bajo-moderado: mantener aspirina y suspender clopidogrel 5 días previos a la intervención quirúrgica.
+
+–. 
+
+			Riesgo hemorrágico alto: suspender aspirina 5-7 días previos al procedimiento quirúrgico y clopidogrel 5 días antes de la cirugía30.
+
+En pacientes con riesgo trombótico alto se debe intentar posponer cirugías electivas hasta una situación de, al menos, riesgo trombótico moderado. Sin embargo, si el procedimento quirúrgico no es diferible se debe valorar el riesgo de sangrado quirúrgico:
+
+–. 
+
+			Riesgo hemorrágico bajo: mantener aspirina y clopidogrel.
+
+–. 
+
+			Riesgo hemorrágico moderado: si han transcurrido menos de 6 semanas de un evento trombótico agudo/implante de stent no medicado, o menos de 6 meses de la instalación de un stent medicado, la recomendación es mantener aspirina y clopidogrel. Sin embargo, si han transcurrido más de 6 semanas de un evento trombótico agudo/implante de stent no medicado, o más de 6 meses de la instalación de un stent medicado, la recomendación es mantener aspirina y suspender clopidogrel 3-5 días previos al procedimiento quirúrgico.
+
+–. 
+
+			Riesgo hemorrágico alto: mantener aspirina y suspender clopidogrel 5 días previos a la cirugía29,31. En estos pacientes se sugiere iniciar terapia puente con inhibidores de la glicoproteína IIb/IIIa (tirofiban) mientras el paciente no esté recibiendo clopidogrel. El tirofiban se debe iniciar a dosis de 0,1 mcg/kg/min y se debe suspender 6 h previo al procedimiento quirúrgico14,32.
+
+En cirugías de urgencia no cardiacas, en general no está justificado retrasar un procedimiento quirúrgico por el tratamiento antiagregante plaquetario. Sin embargo, en pacientes en tratamiento con clopidogrel que requieren una cirugía semi-urgente, como una cirugía para fractura de cadera, colecistitis aguda, patología oncológica complicada, etc., se evaluará en cada caso el riesgo versus beneficio de posponer la intervención quirúrgica 24-48 h.
+
+Conducta perioperatoria en pacientes con stent coronario para cirugías no cardiacas
+
+En pacientes sometidos a angioplastía percutánea con instalación de stent coronario y con TAP dual, la conducta perioperatoria para cirugías no cardiacas es la siguiente:
+
+–. 
+
+			Stent no medicados o Bare metal stent (BMS): en este grupo de pacientes se debe intentar posponer la cirugía electiva hasta 4-6 semanas posterior a la instalación del stent no medicado, ya que luego de este tiempo ocurre el proceso de endotelización del stent y, por tanto, el riesgo de estenosis disminuye notablemente. Posterior a este período, se sugiere suspender el clopidogrel 5 días previos al procedimiento quirúrgico y mantener la aspirina6.
+
+–. 
+
+			Stent medicados o Drug-eluting stent (DES): en estos pacientes se sugiere posponer la cirugía electiva hasta 12 meses posterior a la instalación del stent medicado, para luego suspender el clopidogrel 5 días previos a la intervención quirúrgica y mantener la aspirina6. A pesar de estas recomendaciones, estudios recientes muestran que incluso posterior a los 12 meses de TAP dual existe una incidencia de 3,5% de eventos cardiacos adversos cuando se suspenden estos antiagregantes plaquetarios entre 12-24 meses posteriores a la instalación del stent medicado30. En la última década han aparecido nuevos stents medicados de segunda y tercera generación, los cuales tienen menor riesgo de trombosis, mayor seguridad y eficacia respecto a los DES iniciales. Pese a lo anterior, las recomendaciones de la American Heart Association (AHA) sugieren que los usuarios de estos stents medicados nuevos se sometan a un procedimiento quirúrgico electivo 12 meses posterior a su instalación, similar a los usuarios de los DES de primera generación6,14.
+
+Conducta perioperatoria en cirugías cardiacas
+
+En procedimientos quirúrgicos cardiacos, específicamente en cirugías de revascularización miocárdica, el tiempo de suspensión de la TAP es controversial. Estudios prospectivos recientes han demostrado que la mantención de aspirina en este tipo de cirugía cardiaca disminuye la mortalidad general, con un leve incremento en el riesgo de sangrado perioperatorio, pero no asociado a aumento en la tasa de transfusiones de hemoderivados ni reintervenciones quirúrgicas33,34. Por lo tanto, se sugiere mantener aspirina en cirugías cardiacas de bypass coronario.
+
+Por otro lado, el uso de clopidogrel en el período perioperatorio de una cirugía de revascularización miocárdica se asocia a un incremento del riesgo de sangrado y necesidad de transfusión perioperatoria35. Por tanto, se recomienda suspender el clopidogrel 5 días previos a este tipo de cirugía.
+
+En relación al manejo perioperatorio de la TAP en cirugía cardiaca valvular existe poca evidencia en la literatura médica, por lo tanto no se pueden establecer recomendaciones claras con respecto al uso de antiagregantes plaquetarios en este tipo de procedimientos quirúrgicos36. Sugerimos evaluar el riesgo versus beneficio de la suspensión o mantención de la TAP caso a caso, idealmente a través de una interconsulta a cardiología.
+
+¿Cuándo reiniciar los antiagregantes plaquetarios en el postoperatorio?
+
+El tratamiento antiagregante plaquetario se debe reanudar en el postoperatorio lo antes posible una vez asegurada la hemostasia quirúrgica. Se sugiere reiniciar la aspirina desde las 6 h posteriores al procedimiento quirúrgico y el clopidogrel durante las primeras 24 h del postoperatorio. En pacientes con alto riesgo trombótico, se recomienda administrar una dosis de carga al reiniciar el tratamiento: 250 mg de aspirina y/o 300 mg de clopidogrel29.
+
+Hemorragia perioperatoria relacionada con el tratamiento con fármacos antiagregantes plaquetarios
+
+Si en el período intra y/o postoperatorio el paciente usuario de TAP presenta hemorragia grave, se recomienda realizar las siguientes intervenciones:
+
+–. 
+
+			Optimizar hemostasia quirúrgica si es posible.
+
+–. 
+
+			Descartar alteraciones de coagulación susceptibles de tratamiento, por lo que es necesario realizar exámenes de coagulación: tiempo de sangría, tiempo de protrombina, tiempo de tromboplastina parcial activada y recuento de plaquetas. Si está disponible, idealmente solicitar un tromboelastograma.
+
+–. 
+
+			Si la hemorragia finalmente se atribuye al efecto antiagregante plaquetario, se recomienda:
+
+No administrar la siguiente dosis horaria de TAP.
+
+Transfundir 1 unidad de plaquetas por cada 5-10 kg de peso del paciente, una vez eliminado el fármaco circulante del plasma (aspirina 20 min y clopidogrel 8 h).
+
+Evaluar la administración de algún fármaco prohemostático, como:
+
+■. 
+
+			Desmopresina (0,3 μg·kg−1 vía endovenosa durante 20-30 min).
+
+■. 
+
+			Ácido tranexámico (10 mg·kg−1 en bolo, seguido de infusión endovenosa continua de 1 mg·kg−1·h−1).
+
+■. 
+
+			Factor VII activado recombinante 90 μg·kg−1. Se puede repetir esta dosis en 2-3 h si persiste la hemorragia29. Sin embargo, hay que tener en consideración que el uso de Factor VII activado recombinante aumenta el riesgo de eventos tromboembólicos, sobretodo en pacientes ≥ 65 años y con el uso de dosis mayores de esta droga37.
+
+Cirugía traumatológica y anestesia regional
+
+Según recomendaciones de Llau y cols, la aspirina no contraindica la anestesia neuroaxial ni bloqueos nerviosos periféricos profundos y, por lo tanto, no es necesario suspenderla previo a estos procedimientos anestésicos regionales. Además, la aspirina puede mantenerse en pacientes con catéter peridural y/o de plexo nervioso, sin necesidad de suspenderla durante el período de tiempo en el cual el catéter está instalado o se planifica retirar. Sin embargo, en pacientes usuarios de clopidogrel, en los cuales se planifica administrar una anestesia neuroaxial y/o bloqueos nerviosos periféricos profundos, debe valorarse individualmente la conveniencia de suspender o no el fármaco, en función de la necesidad del procedimiento anestésico. Si es imprescindible realizar la anestesia regional, se debe suspender el clopidogrel 5-7 días previos a la intervención anestésica. En pacientes con riesgo trombótico moderado-alto, se recomienda valorar la sustitución del clopidogrel por aspirina (100 mg. vía oral).
+
+Respecto a las nuevas tienopiridinas, como el prasugrel y ticagrelor, estos deben suspenderse 7 días antes de la anestesia neuroaxial o bloqueo nervioso periférico profundo. A diferencia de la aspirina, las tienopiridinas no deben administrarse durante el período de tiempo en el cual el paciente tiene instalado un catéter peridural y/o de plexo nervioso o cuando se planifica su retiro38.
+
+Conclusiones
+
+La alta prevalencia de eventos cardiovasculares en la población general ha incrementado significativamente el uso de fármacos antiagregantes plaquetarios, por lo que el equipo quirúrgico se verá enfrentado cada vez con mayor frecuencia a pacientes que serán sometidos a algún tipo de cirugía y que concomitantemente estén en tratamiento con alguna de estas drogas. Actualmente existen procedimientos quirúrgicos de toda índole y con diferentes riesgos de sangrado, por lo que las decisiones en relación al manejo perioperatorio de estos fármacos deben ser adaptadas a cada paciente en particular.
+
+Los antiagregantes plaquetarios con mayor uso clínico en Chile son la aspirina y las tienopiridinas, siendo el clopidogrel el fármaco más utilizado dentro de este grupo. El enfrentamiento perioperatorio de estos fármacos está supeditado al riesgo trombótico individual de cada paciente y al riesgo hemorrágico de la cirugía a la cual será sometido, sugiriéndose seguir las recomendaciones expuestas en esta revisión en relación al período de tiempo establecido para la suspensión y reanudación de estas drogas en el período perioperatorio. En el caso particular de las cirugías cardiacas valvulares no existe evidencia suficiente para establecer recomendaciones claras respecto al manejo perioperatorio de estos fármacos, por lo que se sugiere una conducta dirigida a cada paciente en particular, evaluando el riesgo versus beneficio de suspender o no la terapia antiagregante plaquetaria, conducta que se debe tener en todas aquellas cirugías en que no existan recomendaciones basadas en la mejor evidencia existente.
+
+Esta revisión tuvo como objetivo definir el manejo perioperatorio de pacientes que están en tratamiento con fármacos antiagregantes plaquetarios, para establecer recomendaciones actualizadas y resumidas, a cirujanos y anestesiólogos tratantes, para tomar decisiones informadas al momento de planificar el manejo perioperatorio global de algún procedimiento quirúrgico.
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Financiación
+
+Los autores declaran no haber recibido ninguna financiación para la realización de este trabajo.

@@ -1,0 +1,178 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262015000300015
+PAUTAS DE CHEQUEO, PARTE II: QUOROM Y PRISMA
+
+Resumen
+
+Las revisiones sistemáticas (RS), especialmente las que incluyen meta-análisis, son los diseños que aportan el más alto nivel de evidencia en la actualidad. Sin embargo, al igual que los otros diseños de investigación pueden presentarse con reportes de baja calidad que merman el aporte que pueden realizar a los lectores, generando cuestionamientos acerca de su validez. Para enfrentar esta situación, diversos actores de las ciencias biomédicas desarrollaron a mediados de la década de 1990 la pauta QUORUM, constituida por 18 ítems agrupados en 6 dominios, con el objetivo de mejorar la calidad de los reportes de meta-análisis. En 2009 el mismo grupo de trabajo QUORUM publicó la pauta PRISMA como una evolución de la anterior, permitiendo realizar revisiones sistemáticas de ensayos clínicos aleatorizados y otros tipos de diseño, la que consta de 7 dominios con 27 ítems. Al igual que como con otras pautas de chequeo, su impacto en la práctica ha sido variable, pero sin duda aportan en la mejora del reporte. Este artículo describe ambos checklists para su uso por parte de los autores de la Revista Chilena de Cirugía, con el fin de lograr una mejora de sus artículos de una forma simple y eficiente.
+
+Palabras clave: Reporte de investigación, calidad metodológica, revisión sistemática, meta-análisis.
+
+ 
+
+Introducción
+
+En la actualidad existe una avalancha de información que se expresa en un creciente número de publicaciones en las diferentes áreas del conocimiento1. Las ciencias médicas y en lo particular la cirugía no son la excepción a este fenómeno. Se estima que para poder leer todo lo que se publica en una especialidad determinada deberíamos emplear alrededor de 19 h diarias los siete días de la semana2, lo cual resulta imposible.
+
+Es en este escenario que resulta indispensable saber dónde y cómo buscar las respuestas a las interrogantes que surgen en el día a día con nuestros pacientes, intentando acceder a la mejor evidencia disponible sobre un tema determinado que nos permita tomar no sólo correctas decisiones en nuestra práctica clínica, sino también en el menor tiempo posible3.
+
+Las revisiones sistemáticas de la literatura son un poderoso diseño de investigación que podría dar solución a esta problemática4. Sin embargo, si estas no son realizadas de forma objetiva, meticulosa y rigurosa; podrían ver afectada su validez tanto interna como externa5, haciéndolas inutilizables; otro problema que se ha identificado, que no sólo afecta a este tipo de diseño sino que es más bien un problema ligado a todos los diseños de investigación es la deficiente calidad de su reporte6.
+
+Lo anterior ha sido motivo de estudio por parte de la comunidad científica internacional7, y en un intento por sortear estas dificultades es que se han generado pautas de chequeo o checklists para el correcto reporte de los diferentes tipos de diseños de investigación en los diferentes escenarios clínicos8.
+
+Estos checklists han sido adoptados por importantes revistas a nivel internacional, demostrando un aumento en la calidad del reporte de algunos tipos de diseños de investigación, aun cuando en un porcentaje importante de estos la calidad metodológica (CM) siga siendo baja9. En Chile no existen experiencias al respecto, lo que podría estar limitando el mejoramiento de la CM de la investigación biomédica local10.
+
+Una forma de seguir mejorando la calidad de la investigación, específicamente su reporte, es utilizar estas pautas en la escritura de los manuscritos, lo que además redunda en la calidad e impacto de las revistas científicas. El objetivo de este segundo artículo de la serie es dar a conocer los checklists PRISMA y QUORUM revisiones sistemáticas (RS) con y sin meta-análisis (MA).
+
+QUOROM (Quality of Reports of Meta-analyses)
+
+Las RS se definen como la revisión de la evidencia disponible con el fin de dar respuesta a una pregunta específica, para lo cual se vale de métodos sistemáticos y específicos para identificar, seleccionar, evaluar críticamente, extraer y analizar los datos de los estudios primarios que se utilizan para la revisión11. Estas revisiones pueden o no incluir técnicas de MA, que no es otra cosa que la aplicación de técnicas estadísticas con el fin de combinar los datos de estos estudios primarios12 para obtener resultados de mejor precisión y validez. A pesar del creciente número de RS publicadas, no se habían especificado o regulado sus métodos, lo que en muchas ocasiones generó resultados ambiguos y contradictorios que poco ayudaban a esclarecer las preguntas que los generaban.
+
+Es por esta razón que en 1996 se generó el grupo QUOROM (Quality of Reporting of Meta-analysis) constituido por epidemiólogos, estadísticos, editores e investigadores, cuyo objetivo fue la generación de una herramienta para mejorar el reporte de los MA de ensayos clínicos aleatorizados (ECA). Estas normas recibieron el nombre de la declaración QUOROM13 y corresponden a una lista de recomendaciones y a un diagrama de flujo para facilitar la publicación de MA de buena calidad metodológica. La lista está compuesta por 18 ítems, estructurados en 6 dominios (título, resumen, introducción, material y método, resultados y discusión).
+
+Ítems de la lista de chequeo
+
+Título
+
+1. Título: En el título se debe identificar la comunicación como una revisión sistemática de ensayos clínicos aleatorizados (ECA) o meta-análisis.
+
+Resumen
+
+2. Formato estructurado: Incluyendo introducción, objetivo, material y método, resultado y conclusión.
+
+3. Objetivos: Señalar con claridad la pregunta clínica a la que se pretende dar respuesta mediante la revisión.
+
+4. Fuentes de datos: Indicar cuáles fueron las bases de datos y fuentes de información utilizadas para acceder a los artículos con que se dará respuesta a la pregunta de investigación.
+
+5. Métodos de revisión: Indicar cuáles fueron los criterios de selección para los artículos, métodos por los cuales se valoró la validez de estos, como se extrajeron los datos y características de los estudios. Todo lo anterior de forma detallada que permita la replicación de la búsqueda.
+
+6. Resultados: Indicar las características de los ECA incluidos y excluidos del estudio, así como los resultados cualitativos y cuantitativos incluyendo las estimaciones e intervalos de confianza (IC) de cada una de ellas, y los análisis de subgrupos si es que estos existiesen.
+
+7. Conclusión: Indicar las conclusiones que se obtuvieron de los resultados principales.
+
+Introducción
+
+8. Introducción: Indicar con detalle el problema clínico que origina la pregunta de investigación, indicando las controversias existentes en el tema. Explicitar cuáles son los fundamentos biológicos que fundamentan la intervención y finalmente cuál es la justificación de la revisión.
+
+Métodos
+
+9. Búsquedas: Indicar de forma exhaustiva cuáles fueron las fuentes desde donde se obtuvieron los estudios utilizados para la investigación (bases de datos, búsqueda manual, expertos, registros, etc.), así como las restricciones utilizadas durante la búsqueda: años considerados, estado de publicación (p ej. sólo artículos con texto completo o inclusión además de aquellos en que sólo se puede acceder al resumen), idioma de la publicación, etc.
+
+10. Selección: Indicar de forma clara cuáles fueron los criterios de selección, tanto de inclusión como de exclusión, utilizados en la elección de los artículos, los cuales deben ser descritos a priori, incluir: población de interés, intervención realizada e intervención con la cual se compararan los resultados o grupo de control, variable resultado principal, diseño del estudio considerado para la revisión. Los criterios serán también importantes para la formulación de la estrategia de búsqueda, la cual puede ser resumida con el ya conocido PICoR (pacientes, intervención, comparador y resultados).
+
+11. Valoración de la validez: Indicar cuáles fueron los métodos y criterios empleados para realizar la valoración como: condición de enmascaramiento, pérdida de seguimiento, valoración de la calidad metodológica (p. ej. utilización de escalas), riesgo de sesgos y sus hallazgos. Es importante documentar esta información ya que el incorporar estudios de diferente calidad tiende a sobre o sub estimar el efecto de la intervención.
+
+12. Extracción de datos: Identificar cuáles fueron el o los procesos empleados para la extracción de los datos a partir de los artículos originales (p ej. de forma independiente, por duplicado en una hoja diseñada para tales fines u otra).
+
+13. Características de los estudios: Indicar: diseño del artículo, características de los participantes, detalles de la intervención realizada, definición de las variables de resultados, y valoración de la heterogeneidad clínica de los resultados, se sugiere para tales fines la utilización de tablas.
+
+14. Síntesis cuantitativa de los datos: Identificar cuál fueron las principales medidas del efecto (p. ej. riesgo relativo), el método utilizado para la combinación de los resultados- indicando la prueba estadística utilizada con sus respectivos IC, cómo se trataron los resultados ausentes (p. ej. si se realizó o no imputación de los datos faltantes), cómo se valoró la heterogeneidad estadística y justificación de cualquier análisis adicional planificado con anterioridad y la valoración del sesgo de publicación si es que esto se realizó.
+
+ Resultados
+
+15. Diagrama de flujo: Describe todo el proceso de la revisión sistemática que va desde la identificación de los EC potencialmente relevantes, hasta su selección definitiva. Se deben indicar cuáles fueron los EC excluidos en las diferentes etapas de la RS y las respectivas justificaciones para su exclusión.
+
+16. Características de los estudios: Presentar los datos descriptivos para cada ensayo utilizado en la revisión (p. ej. edad, tamaño de la muestra, intervención, duración de la intervención, período de seguimiento, etc.).
+
+17. Síntesis cuantitativa de los datos: Informar del grado de valoración de la selección de los estudios y la validez de estos. Se debe presentar un resumen de los resultados para cada uno de los tratamientos o intervenciones realizados para la variable principal, si existiese más de una variable principal esto debe realizarse para cada una de ellas. Dentro de los resultados es importante entregar cada uno de los datos necesarios para calcular la magnitud del efecto e IC del análisis por intención de tratar (tablas tetracóricas, promedios y sus desviaciones estándar, etc.).
+
+Discusión
+
+18. Discusión: En este ítem se describen todos los hallazgos relevantes, se valoran las inferencias clínicas de estos hallazgos, en función de la validez interna y externa del estudio. Los resultados se deben interpretar teniendo en cuenta la totalidad de la evidencia disponible. Se deben describir los potenciales sesgos del proceso de revisión, discutir estrategias para evitarlos, y finalmente sugerir áreas de investigación futura para el tema estudiado.
+
+PRISMA (Preferred Reporting Items for Systematic Reviews)
+
+El grupo de trabajo QUOROM en el momento de su publicación estableció la necesidad de revisiones y actualizaciones periódicas al instrumento, en la medida que apareciera nueva evidencia14. Como consecuencia de una revisión y actualización de la declaración QUOROM se publicó en julio de 2009 la declaración PRISMA15 constituida por 27 ítems agrupados en 7 dominios (título, resumen, introducción, método, resultados, discusión y financiamiento), además de la modificación del diagrama de flujo hacia uno más detallado e informativo. El objetivo de esta herramienta es contribuir a mejorar la calidad y transparencia de la publicación de RS.
+
+Esta iniciativa se diferencia de su predecesora en algunos aspectos como son adoptar las definiciones de la Colaboración Cochrane en relación con RS y MA; y poseer una aplicabilidad más amplia, ya que no sólo se limita a RS de ECA, sino también a RS de otros tipos de estudios.
+
+Entre los puntos novedosos de la declaración PRISMA se encuentran:
+
+1) La existencia un protocolo previo a la RS.
+
+2) La diferenciación entre conducción y publicación de una RS.
+
+3) Evaluación del riesgo de sesgo en desmedro del concepto calidad.
+
+4) La importancia de los sesgos relacionados con la publicación.
+
+Ítems de la lista de chequeo14
+
+Título
+
+1. Título: Identificar en el título que la publicación corresponde a una RS, un MA o ambos, con el fin de facilitar su identificación por los usuarios y bases de datos.
+
+Resumen
+
+2. Resumen estructurado: Realizar un resumen estructurado que incluya, si es que corresponde: introducción, objetivos, bases de datos, criterios de elegibilidad, participantes e intervenciones, evaluación de los estudios y métodos utilizados para resumir los resultados, resultados, limitaciones del estudio, conclusiones e implicancias de los resultados principales y finalmente el número de registro de la RS.
+
+Introducción
+
+3. Justificación: Describir la razón del porqué de la RS, teniendo en cuenta la evidencia disponible sobre el tema.
+
+4. Objetivos: Plantear de forma clara la pregunta de investigación a la cual pretende dar respuesta la RS, para ello se recomienda plantearlo en relación a los Pacientes incluidos en el estudio, la Intervención que se pretende estudiar, el Comparador de la intervención según corresponda y los Resultados esperados (PICoR).
+
+Métodos
+
+5. Protocolo y registro: Indicar si existe un protocolo previo al estudio y si este puede ser accesado, además se debe indicar si la RS tiene un registro y si este existe, se debe entregar el número de este.
+
+6. Criterios de elegibilidad: Indicar las características de los estudios que serán incluidos como por ejemplo tipo de pacientes, cual fue la intervención, el comparador y el resultado, además de años de publicación, idioma, tipo de publicación u otra característica utilizada como criterio de elegibilidad y la justificación de porqué fueron elegidos.
+
+7. Fuentes de información: Indicar cuáles fueron las fuentes desde las cuales se obtuvo la información para llevar a cabo el estudio, además se debe informar cuál fue el período en el cual se realizó la búsqueda y cuál es la fecha de la última búsqueda realizada.
+
+8. Búsqueda: Presentar la estrategia de búsqueda utilizada para al menos una de las bases de datos, esta estrategia debe incluir los límites u otras herramientas utilizadas entregadas por la base de datos, con el fin de que la búsqueda sea reproducible.
+
+9. Selección de los estudios: Especificar cuál fue el proceso de selección de los artículos, por ejemplo en el título, resumen y texto completo.
+
+10. Proceso de extracción de los datos: Indicar cuáles fueron los métodos y procesos utilizados por los autores para la extracción de los datos desde los estudios primarios, por ejemplo: por duplicado, con formularios o plantillas diseñadas para el estudio, de forma independiente por los diferentes autores, etc.
+
+11. Lista de datos: Listar y definir cada una de las variables para las cuales se buscaron datos en los estudios primarios, además se debe indicar si existió alguna contracción, simplificación o modificación a las variables originales.
+
+12. Riesgo de sesgos de los estudios individuales: Indicar cuáles fueron las medidas implementadas para evaluar el riesgo de sesgo en los estudios originales, indicando si estas intervenciones fueron realizadas a nivel de los estudios o de los resultados de los estudios y cómo esta información fue utilizada en la síntesis o resumen de los datos.
+
+13. Medidas de resumen: Indicar cuáles fueron las principales medidas de resumen utilizadas, por ejemplo odd ratio o riesgos.
+
+14. Síntesis de resultados: Describir los métodos utilizados para manejar y combinar los resultados de los diferentes estudios, esta descripción debe incluir medidas de consistencia para cada uno de los MA realizados.
+
+15. Riesgo de sesgo entre los estudios: Especificar si existió alguna evaluación del riesgo de sesgo que pueda afectar la evidencia acumulada entre los estudios, por ejemplo sesgo de publicación o de comunicación selectiva, esto es importante ya que se tienden a publicar los estudios con resultados positivos, mientras los negativos no tienen la misma difusión.
+
+16. Análisis adicionales: Indicar si se realizaron otros análisis en el estudio, por ejemplo análisis de subgrupos u otros. Es importante señalar cuáles de estos análisis adicionales estaban considerados en el protocolo y cuales no.
+
+Resultados
+
+17. Selección de los estudios: Indicar cuál fue el total de estudios encontrados en la búsqueda y cuántos de ellos fueron excluidos en cada una de las diferentes etapas de la RS. Se recomienda para esto la realización de un diagrama de flujo que represente con claridad este proceso.
+
+18. Características de los estudios: Presentar las características extraídas para cada estudio, por ejemplo tamaño de la muestra, características demográficas, tiempo de seguimiento, PICoR, etc., se debe entregar además la bibliografía para poder acceder a los estudios.
+
+19. Riesgo de sesgo en los estudios: Presentar los datos relacionados con los riesgos de sesgo para cada estudio y si fuera posible para los resultados de cada estudio.
+
+20. Resultados de los estudios individuales: Presentar para cada uno de los datos extraídos de cada estudio individual el dato resumen para cada grupo de intervención, junto con la estimación del efecto de la intervención con su IC. Se recomienda presentarlo en forma gráfica a través de un diagrama de bosque o de efectos, mejor conocido como forest plot.
+
+21. Síntesis de los resultados: Presentar los resultados de todos los MA realizados con sus respectivos IC y medidas de consistencia.
+
+22. Riesgo de sesgo entre los estudios: Presentar los resultados de las evaluaciones realizadas para riesgo de sesgo entre los estudios realizados en la metodología (según lo planificado en el ítem 15).
+
+23. Análisis adicionales: Facilitar los resultados de todos los análisis adicionales que se desprendan de los estudios utilizados en el caso de que estos análisis hayan sido realizados (según lo planificado en el ítem 16).
+
+Discusión
+
+24. Resumen de la evidencia: Resumir los resultados principales, este resumen debe incluir las fortalezas que cada uno de estos resultados presenta para la evidencia, y se debe discutir acerca de la relevancia que estos resultados presentan para los diferentes estamentos como pueden ser prestadores en salud, usuarios y toma de decisiones en la salud pública.
+
+25. Limitaciones: Exponer y discutir de forma clara cuáles fueron las limitaciones que presentaron los estudios individuales utilizados en la RS, el estudio en sí y los resultados obtenidos, tanto desde el punto de vista de la revisión propiamente tal, pasando por las diferentes etapas de la metodología, como por ejemplo la imposibilidad de obtener todos los artículos, excluir diferentes idiomas, etc.
+
+26. Conclusiones: Interpretación global de los resultados obtenidos en el contexto de la evidencia disponible en ese momento y al escenario en el cual fue llevado a cabo el estudio. Se debe intentar dejar abiertas nuevas líneas de investigación o nuevas interrogantes respecto del tema para futuras investigaciones.
+
+Financiamiento
+
+27. Financiamiento: Indicar en este ítem si existieron o no fuentes de financiamiento para la RS, y si existieron otros tipos de apoyo, como por ejemplo aporte de datos. Indicar también cuál es el rol que presentan los financiadores dentro del diseño, ejecución e implementación y publicación de la RS.
+
+Discusión
+
+La calidad metodológica es un constructo complejo ya que se encuentra definida por múltiples factores, dentro de los cuales se encuentran: diseño, tamaño de la muestra, metodología, análisis realizados y calidad del reporte16. Esta última variable toma vital importancia al momento de difundir la información contenida en los artículos, ya que si la calidad del reporte es deficiente se corre el riesgo de que esta información no llegue a sus destinatarios o peor aun la información que llegue sea mal interpretada y genere errados cambios de conducta clínica para con sus pacientes17.
+
+Las alternativas disponibles para intentar mejorar la calidad metodológica de los mismos es amplia, y va desde algunas muy costosas como la formación de capital humano avanzado, hasta otras más menos costosas y más sencillas como la utilización de checklist para mejorar la presentación de los resultados de los manuscritos, como los presentados previamente10.
+
+Muchas revistas a nivel internacional han adoptado estas pautas logrando mejorar la calidad de los reportes. Sin embargo, la evidencia al respecto es contradictoria18,19, lo que puede estar influenciado por múltiples factores. En cualquier caso, la utilidad de estas herramientas cuando son utilizadas correctamente a lo largo de la preparación de los manuscritos es innegable. Por tanto, la controversia respecto a la utilidad de los checklists podría estar dada por una utilización errónea de las pautas; ya que muchas veces estas son usadas con posterioridad a la planificación y ejecución del estudio, por lo que a esas alturas ya son pocas las posibilidades de generar un reporte de buena calidad.
+
+Como se describe anteriormente, estas pautas evolucionan continuamente de acuerdo a la generación de nueva evidencia en el área de calidad metodológica, por lo que muchas de ellas publican actualizaciones cada cierta cantidad de años. En el caso de las pautas aquí expuestas, ocurre algo distinto ya que PRISMA es la evolución de QUORUM, esto se debió a que los cambios realizados entre una y otra versión fueron demasiado profundos15 y QUORUM está declarada como una pauta desactualizada. Sin embargo, se decidió incluir QUORUM en este artículo debido a que aún es recomendada para la preparación de RS en algunas revistas biomédicas y por tanto de utilidad.
+
+Aun cuando la publicación de RS en la Revista Chilena de Cirugía es escasa20, el conocimiento de estas pautas redunda en el mejoramiento de la calidad del reporte no sólo de las RS, sino que en general de todos los artículos, de las revistas y la utilidad de la investigación en el área.

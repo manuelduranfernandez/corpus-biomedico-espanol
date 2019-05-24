@@ -1,0 +1,192 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262018000100084
+Manejo perioperatorio de pacientes con tratamiento anticoagulante crónico
+
+Introducción
+
+Actualmente, la terapia anticoagulante (TAC) es ampliamente usada en la práctica clínica, ya sea como profilaxis primaria en pacientes con riesgo de presentar fenómenos tromboembólicos, o como tratamiento en pacientes que ya han presentado algún evento trombótico1. La enfermedad tromboembólica venosa constituye la principal causa de morbimortalidad prevenible en pacientes hospitalizados, siendo la segunda causa de muerte en aquellos con cáncer2. Además, la enfermedad trombótica arterial es la principal causa de muerte en Chile3. Dada la alta frecuencia de pacientes con riesgo cardiovascular elevado, que son intervenidos cada vez más mediante procedimientos quirúrgicos, los cirujanos y anestesiólogos se enfrentarán con mayor frecuencia a pacientes que se encuentran en tratamiento con alguna de estas terapias.
+
+Existen múltiples alternativas de TAC, destacando dos grandes grupos: terapia anticoagulante oral (TACO) y terapia anticoagulante parenteral (TACP). Dentro del primero, se encuentran los fármacos antagonistas de vitamina K (cumarínicos) y los nuevos anticoagulantes orales4,5. En el segundo, existen principalmente dos fármacos: heparina no fraccionada (HNF) y heparina de bajo peso molecular (HBPM). Cuando se decide usar o suspender TAC se debe balancear el riesgo de sangrado perioperatorio asociado a la terapia versus el riesgo tromboembólico relacionado con su suspensión6.
+
+El especialista debe enfrentarse a pacientes que requieren intervenciones quirúrgicas y que pueden estar en tratamiento con alguna de estas terapias. Por tanto, es fundamental que el tratante conozca cuáles fármacos anticoagulantes debe mantener o descontinuar frente a alguna cirugía; y al mismo tiempo cuándo y cómo hacerlo, de tal manera que no se eleve innecesariamente el riesgo hemorrágico o tromboembólico del paciente. El objetivo de esta revisión es entregar recomendaciones claras y precisas para el manejo perioperatorio de pacientes usuarios de TAC.
+
+Manejo perioperatorio de pacientes con tratamiento anticoagulante oral
+
+Antagonistas de vitamina K (cumarinicos)
+
+La warfarina y acenocumarol (Neosintrom®) son antagonistas de vitamina K que alteran la coagulación impidiendo la síntesis de factores procoagulantes dependientes de dicha vitamina: II, VII, IX y X. La warfarina tiene una vida media de 36-42 h y el acenocumarol, de 8-11 h1. Su efecto anticoagulante se mide con los exámenes tiempo de protrombina (TP) e international normalized ratio (INR). Estos fármacos se indican con esquemas de dosis individualizados para cada paciente, realizándose un control semanal del INR, el cual se considera en rango terapéutico con valores entre 2-37.
+
+¿Cuando suspender los antagonistas de vitamina K?
+
+En procedimientos quirúrgicos con bajo potencial de sangrado, como cirugía de cataratas, algunas intervenciones endoscópicas y procedimientos dermatologicos menores, el American College of Chest Physicians (ACCP) recomienda realizar las intervenciones sin suspender la TACO6.
+
+En cirugías con moderado-alto riesgo de sangrado, se recomienda suspender la warfarina 5 días previos a la cirugía y el acenocumarol, 2-3 días antes. Sin embargo, previamente se debe evaluar el riesgo tromboembólico del paciente5.
+
+En ciertos pacientes será necesario el uso de «terapia puente» cuando se suspenda dicho tratamiento. La terapia puente se refiere a la suspensión temporal de TACO, la cual es cambiada por anticoagulantes parenterals de corta acción, como HNF o HBPM. El ACCP divide a los pacientes en tres categorías según el riesgo de trombosis: alto (> 10%), moderado (5-10%) y bajo (< 5%), lo cual definirá la eventual necesidad de terapia puente6. En la Tabla 1 se especifica la estratificación del riesgo de trombosis según el ACCP y la eventual necesidad de terapia puente.
+
+Tabla 1 Estratificación del riesgo de trombosis según el ACCP y necesidad de terapia puente 
+
+Fuente: Douketis et al.6.
+
+ACCP: American College of Chest Physicians; ACV: Accidente cerebrovascular; AIT: accidente isquémico transitorio; DM: diabetes mellitus; HTA: hipertensión arterial. Score CHADS2 (total: 6 puntos): insuficiencia cardiaca congestiva (1 punto); hipertensión arterial (1 punto); age (edad) ≥ 75 años (1 punto); diabetes mellitus (1 punto); ACV o AIT previo (2 puntos).
+
+El ACCP recomienda considerar terapia puente en pacientes quirúrgicos de alto riesgo trombótico. En aquellos con riesgo trombótico moderado, se debe plantear el uso de terapia puente cuando el riesgo de sangrado quirúrgico es bajo, mientras que los pacientes de bajo riesgo trombótico no requieren de terapia puente6. En relación con esta, se prefiere el uso de HBPM. Attaya et al.9, evidenciaron una significativa mayor tasa de sangrado en pacientes con terapia puente con HNF versus HBPM (15,4% vs 5,4% respectivamente), sin diferencias significativas entre ambas en cuanto a complicaciones trombóticas.
+
+Una vez suspendida la TACO según lo recomendado, se sugiere controlar el INR el día previo a la cirugía. Si el INR es < 1,5 se puede proceder con cirugías electivas o de urgencia/emergencia sin mayores intervenciones farmacológicas o de otro tipo. En cambio, si el INR es > 1,5 se debe revertir la acción del fármaco anticoagulante de la siguiente forma:
+
+Cirugías electivas: se puede usar vitamina K oral o intravenosa, demorando 12-48 h en actuar, dependiendo de la vía de administración. Se debe preferir la vía intravenosa (Figura 1).
+
+Fuente: Eichinger10.
+
+Figura 1 Manejo perioperatorio de cumarinicos según el INR. 
+
+Cirugías de urgencia/emergencia o pacientes usuarios de TACO con sangrado masivo: se debe utilizar plasma fresco congelado (PFC) y/o complejo concentrado de protrombina (Octaplex®, Tabla 2). Se prefiere el uso de este último, dado que revierte la acción de la TACO de forma más rápida y eficaz comparado con el PFC10,11 (Figura 1).
+
+Tabla 2 Dosis de Octaplex® (25 U/ml) según el INR 
+
+Fuente: Eichinger10.
+
+La dosis unitaria no debe exceder las 3.000 U (120 ml de Octaplex®). INR: international normalized ratio.
+
+¿Cuándo reiniciar los antagonistas de vitamina K en el postoperatorio?
+
+La warfarina se reinicia 12-24 h posteriores a procedimientos quirúrgicos con bajo riesgo de sangrado postoperatorio y asegurando una adecuada hemostasia postoperatoria. Una vez reiniciada la TACO, se demora entre 5-10 días en lograr un INR en rango terapéutico. Por tanto, en pacientes con alto riesgo tromboembólico se recomienda el uso de terapia puente postoperatoria asociada a warfarina, realizándose traslape entre ambos fármacos hasta lograr un INR en rango óptimo6.
+
+Nuevos anticoagulantes orales
+
+Los nuevos anticoagulantes orales incluyen los inhibidores directos de trombina y los inhibidores del factor X activado (Xa). Actualmente, estos fármacos son ampliamente usados en clínica dado que no requieren monitorización rutinaria del efecto anticoagulante, presentan un efecto anticoagulante predecible y una eficacia similar a los anticoagulantes clásicos12. Sólo requieren monitorización en situaciones clínicas determinadas, como hemorragia aguda, sospecha de sobredosis o cirugía de urgencia/ emergencia13.
+
+Inhibidores directos de trombina
+
+Dabigatran. El dabigatran (Pradaxa®) actúa sobre trombina libre y ligada a fibrina, inhibiendo su acción de manera reversible13,14. Alcanza su pico plasmático de 1,25 a 2 h postadministración y tiene una vida media de 12-14 h15. Se elimina principalmente por vía renal, por lo que debe monitorizarse la función renal en usuarios de este fármaco, teniendo en cuenta el cambio de vida media según el aclaramiento de creatinina estimado (Tabla 3). Está contraindicado en pacientes con aclaramiento de creatinina < 30 ml*min-116. Su efecto anticoagulante se traduce en alteración no lineal del TP y tiempo de tromboplastina parcial activado (TTPA). Existen otros exámenes para monitorizar su efecto: tiempo de trombina, ecarina y Hemoclot thrombin inhibitors®, con poco uso en la práctica clínica15.
+
+Tabla 3 Vida media de dabigatrán según la función renal 
+
+Fuente: Eriksson et al.15 y Strangier et al.16.
+
+Inhibidores de factor X activado (Xa)
+
+Rivaroxaban (Xarelto®) y apixaban (Eliquis®). Los inhibidores del factor Xa actúan como bloqueadores reversibles de la función enzimática de este factor, limitando la conversión de protrombina a trombina17,18.
+
+Rivaroxaban. Se indica en dosis de 20 mg diarios para profilaxis y 15 mg cada 12 h para tratamiento de trombosis. El pico plasmático ocurre 2-4 h postadministración y tiene una vida media de 9-12 h15. Tiene un metabolismo principalmente hepático con solo 1/3 de eliminación vía renal, por lo que se encuentra contraindicado en pacientes con aclaramiento de creatinina < 15 ml*min−1. No hay estándares para la monitorización de rivaroxaban, sin embargo, se sabe que prolonga el TP, INR y TTPA linealmente y dosis dependiente. En procedimientos quirúrgicos con alto riesgo de sangrado, se puede medir la actividad antifactor Xa para asegurar la ausencia de su efecto anticoagulante previo a la cirugía14. Apixaban. Se indica en dosis de 2,5 mg cada 12 h para profilaxis y de 5 mg cada 12 h para el tratamiento de la trombosis. Alcanza su pico plasmático a las 2-3 h postingesta, con una vida media de 8-15 h y se elimina principalmente por vía hepática. No requiere monitorización de rutina, sin embargo, en cirugías con muy alto riesgo de sangrado puede medirse la actividad antifactor Xa12
+
+14, al igual que el rivaroxabán.
+
+La Tabla 4 resume la farmacocinética de los nuevos anticoagulantes orales.
+
+Tabla 4 Farmacocinética de los nuevos anticoagulantes orales 
+
+Fuente: Eriksson et al.15.
+
+¿Cuándo suspender los nuevos anticoagulantes orales en el preoperatorio?
+
+El dabigatrán en procedimientos quirúrgicos con bajo riesgo de sangrado se suspende 24-48 h previas a la cirugía, y 48-96 h previas a intervenciones quirúrgicas con alto riesgo hemorrágico, dependiendo del aclaramiento de creatinina estimado de cada paciente en particular14,19.
+
+El rivaroxabán y el apixaban se descontinúan 24-36 h antes de procedimientos con bajo riesgo de sangrado y 48 h previas a cirugías con alto riesgo hemorrágico14,20.
+
+El uso de terapia puente preoperatoria se reserva para pacientes usuarios de nuevos anticoagulantes orales con muy alto riesgo tromboembólico.
+
+La Tabla 5 resume el período de interrupción preoperatorio recomendado de los nuevos anticoagulantes orales, según la función renal y el riesgo de sangrado.
+
+Tabla 5 Interrupción (en horas) sugerida para nuevos anticoagulantes orales según la función renal y el riesgo de sangrado 
+
+Fuente: Levy et al.12, Lai et al.14 y Schulman et al.19.
+
+¿Cuándo reiniciar los nuevos anticoagulantes orales en el postoperatorio?
+
+En procedimientos quirúrgicos con bajo riesgo de sangrado los nuevos anticoagulantes orales se reinician 24 h después de la cirugía, y en aquellas intervenciones quirúrgicas con alto riesgo hemorrágico se reanudan 48-72 h posteriores al término de la cirugía (Tabla 6)14. El uso de terapia puente postoperatoria se reserva para pacientes con muy alto riesgo tromboembólico y/o con incapacidad de tomar fármacos por vía oral.
+
+Tabla 6 Reanudación (en horas) sugerida para los nuevos anticoagulantes orales según el riesgo de sangrado 
+
+Fuente: Eriksson et al.15.
+
+Reversión del efecto anticoagulante de los nuevos anticoagulantes orales
+
+Frente a un sangrado masivo y/o cirugías de urgencia, es necesaria una reversión rápida y eficaz del efecto anticoagulante de estos fármacos. El PFC es poco útil en estos casos, dado que se requieren dosis muy altas de este hemoderivado (30 ml*kg−1) y más de 24 h para lograr revertir el efecto anticoagulante de estos fármacos.
+
+Por lo anterior, están en pleno desarrollo antídotos específicos para revertir el efecto de los nuevos anticoagulantes orales. Actualmente, se dispone de dos agentes para la reversión del efecto de estos medicamentos:
+
+Idarucizumab: fragmento de anticuerpo monoclonal humanizado con alta afinidad por dabigatrán. En octubre de 2015 este fármaco fue aprobado por la Food and Drug Administration (FDA) como antídoto específico de este anticoagulante frente a hemorragias potencialmente mortales y/o cirugías de urgencia21.
+
+Andexanet alfa: derivado recombinante modificado del factor Xa, en desarrollo como agente de reversión directo de anticoagulantes inhibidores del factor Xa, como rivaroxaban y apixaban. En los estudios ANNEXA-A y ANNEXA-R este fármaco demostró una rápida y eficaz reversión del efecto anticoagulante de rivaroxaban y apixaban, sin presentar asociación con eventos adversos relevantes ni fenómenos trombóticos22,23.
+
+Manejo perioperatorio de pacientes con heparina
+
+La heparina es un anticoagulante parenteral indirecto, que actúa mediante la activación y potenciación de la antitrombina III (ATIII), la cual neutraliza la acción de la trombina (factor Ha) y el factorXa. Específicamente, se une a sitios de lisina de ATIII, produciendo un cambio conformacional en esta molécula, transformándola de un inhibidor de trombina lento a uno de acción rápida24,25. En clínica se utiliza para la profilaxis de la enfermedad tromboembólica y el tratamiento de la patología tromboembólica aguda24. Existen dos tipos de heparina: HNF y HBPM.
+
+Heparina no fraccionada
+
+La HNF es de mayor peso molecular. El complejo heparina-ATIII inhibe los factores Ha y Xa, siendo el primero 10 veces más sensible a la inhibición que el segundo. Tiene dos vías de administración: intravenosa y subcutánea. La primera tiene mayor biodisponibilidad y menor latencia, por lo que se utiliza en pacientes que necesitan un rápido efecto anticoagulante. La HNF subcutánea se reserva para trombo-profilaxis de pacientes hospitalizados que requieren reposo prolongado. Su excreción tiene dos vías de eliminación: una rápida y saturable, que depende de la unión a receptores endoteliales y macrófagos; y otra de eliminación renal, que es más lenta y corresponde al mayor porcentaje de excreción26. En dosis habituales, su efecto anticoagulante no es lineal y varía según el tipo de enfermedad tromboembólica, por lo que cuando se administra en infusión continua, las dosis deben ajustarse según la monitorización del efecto anticoagulante25. El consenso es monitorizar TTPA, el cual se controla aproximadamente 6 h después del primer bolo de HNF, para luego ajustar la dosis según el valor del examen. El rango anticoagulante terapéutico del TTPA es de 1,5-2,5 veces el control de laboratorio. La Tabla 7 presenta el nomograma de ajuste de dosis de HNF según valores de TTPA. Para el tratamiento de la enfermedad tromboembólica, la dosis de HNF es 80 U*kg−1 en bolo y luego 18 U*kg−1*h−1 en bomba de infusión continua (BIC). En caso de infarto agudo de miocardio, la dosis es 60 U*kg”1 en bolo y luego 12 U*kg−1*h−1 en BIC24.
+
+Tabla 7 Protocolo de ajuste de dosis de heparina no fraccionada 
+
+Fuente: Hirsh et al.26.
+
+Se diluyen 25.000 U de HNF en 250 ml de solución fisiológica, quedando una concentración de 100 U*ml f HNF: heparina no fraccionada; TTPK: tiempo de tromboplastina parcial con kaolín.
+
+¿Cuándo suspender la heparina no fraccionada?
+
+En pacientes usuarios de HNF en dosis terapéuticas, la infusión intravenosa debe suspenderse 4-5 h previas al procedimiento quirúrgico6-24. Por otro lado, en usuarios de HNF subcutánea en dosis profilácticas, usualmente utilizando 5.000 U cada 12 h, debe suspenderse 12 h antes de la cirugía26.
+
+¿Cuándo reiniciar la heparina no fraccionada en el postoperatorio?
+
+En procedimientos quirúrgicos con bajo riesgo de sangrado se reinicia 24 h posteriores a la cirugía. En aquellas cirugías con alto riesgo hemorrágico, debe reanudarse 48-72 h posteriores al procedimiento quirúrgico6.
+
+Heparina de bajo peso molecular
+
+Las HBPM son fármacos generados por la despolimerización química de la heparina, que resulta en fragmentos de un tercio del tamaño de HNF. Las HBPM tienen mayor capacidad de inhibir al factorXa que al lla, a diferencia de HNF. Con respecto a la farmacocinética, las HBPM tienen una vida media de 3-5 h y una relación dosis-respuesta más predecible que HNF27. Su eliminación es principalmente renal, por lo que su vida media se prolonga en pacientes con insuficiencia renal, no recomendandose usarla en aquellos con aclaramiento de creatinina < 30 ml*min−1. Se administra por vía subcutánea, en dosis ajustadas al peso del paciente en caso de utilizarla como TACP; o en dosis estándar cuando se usa como tromboprofilaxis, con la única excepción de la tinzaparina en pacientes con alto riesgo trombótico, en la cual esta dosis profilactica se ajusta por peso. No requiere monitorización de su efecto anticoagulante; sin embargo, algunos autores sugieren monitorizarlo en pacientes obesos, embarazadas y con falla renal25, en los cuales se mide la actividad antifactor Xa.
+
+Las HBPM más utilizadas en clínica, nombre comercial, peso molecular, dosis profiláctica y terapéutica recomendadas se resumen en la Tabla 8.
+
+Tabla 8 Tipos de heparina de bajo peso molecular, nombre comercial, peso molecular, dosis profiláctica y terapéutica recomendadas 
+
+Fuente: Hirsh et al.26.
+
+ETE: enfermedad tromboembólica; HBPM: heparina de bajo peso molecular.
+
+¿Cuándo suspender las heparinas de bajo peso molecular?
+
+Las HBPM en dosis de TACP deben descontinuarse 24 h antes del procedimiento quirúrgico. En aquellas HBPM utilizadas en 2 dosis diarias, debe omitirse la dosis de la noche previa a la cirugía; en cambio, en HBPM cuya administración es una vez al día, debe administrarse la mitad de la dosis de tratamiento 24 h antes del procedimiento quirúrgico.
+
+Las HBPM usadas en dosis profilacticas deben suspenderse 12 h previas a la cirugía6,24,27.
+
+¿Cuándo reiniciar las heparinas de bajo peso molecular en el postoperatorio?
+
+En cirugías de bajo riesgo de sangrado, las HBPM se reinician 24 h posteriores a la cirugía. En cirugías con alto riesgo hemorrágico, deben reanudarse 48-72 h después del procedimiento quirúrgico6.
+
+El estudio PROSPECT demostró que el reinicio precoz de las HBPM en dosis terapéuticas, antes de las 24 h postoperatorias, se asocia a un incremento significativo del riesgo de sangrado postoperatorio 2-4 veces mayor, comparado con placebo o HBPM en dosis profilácticas23,29. Por lo anterior, recomendamos reiniciar HBPM en dosis profilácticas para disminuir el riesgo de sangrado postoperatorio, para paulatinamente llegar a las dosis terapéuticas previas a la cirugía.
+
+Reversión del efecto anticoagulante de las heparinas
+
+El efecto de las heparinas se puede revertir con el uso de sulfato de protamina. Esta molécula tiene una vida media de 7 min y se une a la heparina plasmática formando una sal estable, neutralizando su efecto. La unión de heparina a protamina es dependiente de la longitud de la molécula de heparina, siendo mayor en aquellas heparinas de mayor longitud, por lo que la protamina tiene menor efecto en HBPM comparado con HNF.
+
+En las HNF, la dosis de protamina es proporcional a la dosis total de heparina utilizada, lo cual es más fácil de calcular para el bolo único (1 mg de protamina por cada 100 U de HNF).
+
+Para HNF en BIC, el cálculo de la dosis de protamina debe considerar el tiempo transcurrido desde el inicio de la BIC, ya que la vida media de la HNF en infusión es de entre 60-90 min. Una guía sugerida es la siguiente24:
+
+< 30 min de BIC: 1-1,5 mg de protamina intravenosa por cada 100 U de HNF.
+
+30-60 min de BIC: 0,5-0,75 mg de protamina intravenosa por cada 100 U de HNF.
+
+> 2 h de BIC: 0,25 mg de protamina intravenosa por cada 100 U de HNF.
+
+La dosis recomendada de protamina en HBPM es la siguiente:
+
+Enoxaparina: 1 mg de protamina intravenosa por cada 1 mg de enoxaparina.
+
+Dalteparina o tinzaparina: 1 mg de protamina intravenosa por cada 100 U de dalteparina o tinzaparina.
+
+El uso de protamina se reserva para casos en que se necesita reversión urgente del efecto anticoagulante, como cirugías de urgencia o una hemorragia importante. El riesgo de presentar reacciones adversas severas, como hipotensión arterial y bradicardia significativas, puede minimizarse administrando este fármaco lentamente por vía intravenosa24.
+
+Conclusiones
+
+La alta prevalencia de fenómenos tromboembólicos y eventos cardiovasculares en la población general ha masificado el uso de fármacos anticoagulantes, por lo que el equipo quirúrgico se verá enfrentado cada vez con mayor frecuencia a pacientes que serán intervenidos mediante algún tipo de cirugía y que estén en tratamiento con alguno de estos fármacos. Existen diversas opciones de TAC, como también procedimientos quirúrgicos de toda índole y diferente riesgo de sangrado, por lo que las decisiones en relación con el manejo perioperatorio de estos fármacos deben ser adaptadas a cada paciente en particular y siguiendo las recomendaciones expuestas en esta revisión, teniendo siempre en cuenta el riesgo-beneficio de suspender o no la TAC durante el período perioperatorio.
+
+Esta revisión tuvo como objetivo definir el manejo perioperatorio de pacientes que están en tratamiento con fármacos anticoagulantes orales y/o parenterales, para establecer, según la mejor evidencia disponible en la literatura médica, guías actualizadas y resumidas, destinadas a cirujanos y anestesiólogos tratantes para tomar decisiones informadas al momento de planificar el manejo perioperatorio de una cirugía electiva o de urgencia/emergencia.
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.

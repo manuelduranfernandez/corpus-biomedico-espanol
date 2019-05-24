@@ -1,0 +1,88 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262017000200006
+Factores predictivos de colecistitis aguda gangrenosa
+
+ 
+
+Introducción
+
+La colecistitis aguda se define como la inflamación aguda de la pared de la vesícula biliar. Sus potenciales complicaciones son la gangrena, el empiema y la perforación, dando como resultado patologías complejas como abscesos perivesiculares, fístulas, y peritonitis generalizadas1.
+
+La colecistitis aguda gangrenosa (CAG) es una complicación severa de la colecistitis aguda afectando entre el 2 y 20% de las mismas, tanto en la población en general como en adultos mayores, diabéticos e inmunocomprometidos1-5. Resulta del compromiso de la microcirculación de la pared vesicular secundario al aumento de la presión intraluminal causado por la obstrucción completa o parcial del conducto cístico6. El diagnóstico se basa en la anamnesis, examen físico, laboratorio y estudios por imágenes1,6. Comparada con la colecistitis aguda sin necrosis, el desarrollo de una CAG puede tener un impacto negativo en el resultado de la cirugía7.
+
+Estudios previos han sugerido que el diagnóstico precoz y tratamiento oportuno pueden disminuir el porcentaje de complicaciones6. Varios autores han tratado de identificar los factores de riesgo asociados a CAG con el fin de diferenciarlo de la colecistitis aguda no gangrenosa (CANG) y mejorar su manejo1,2,4,8,9. Aunque la literatura ha reportado que la edad avanzada, el antecedente de enfermedad coronaria y la leucocitosis están asociados a un riesgo aumentado de desarrollar CAG3,10,11, su valor predictivo es cuestionado12. En la actualidad no hay disponibles guías definidas para detectar estos pacientes y definir su conducta quirúrgica con rapidez13.
+
+El objetivo de este trabajo es determinar factores predictivos asociados a CAG para identificar los pacientes que requieren cirugía de urgencia.
+
+Material y métodos
+
+Se realizó una búsqueda retrospectiva de historias clínicas de todos los pacientes que fueron sometidos a colecistectomía (abierta o laparoscópica) con diagnóstico preoperatorio de colecistitis aguda luego de ser admitidos en el Servicio de Emergencias Médicas del Nuevo Hospital San Roque, entre enero de 2011 y diciembre de 20123. Se excluyeron aquellos pacientes sometidos a colecistectomía por otra causa como cólico biliar, litiasis vesicular programada, litiasis coledociana, o como parte de una cirugía mayor. También se descartaron los pacientes con anatomía patológica maligna.
+
+El protocolo diagnóstico de colecistitis aguda incluyó ecografía abdominal y pruebas de laboratorio realizadas en el momento de ingreso de los pacientes. La cirugía fue realizada en las primeras 24 h desde el ingreso.
+
+Se definió como colecistitis aguda al momento de la admisión a aquellos pacientes con dolor abdominal en hipocondrio derecho acompañado de leucocitosis mayor de 10.000/mm3 y/o diámetro de la pared vesicular mayor o igual a 4 mm según ecografía.
+
+Los criterios anatomopatológicos para definir CANG fueron la presencia de infiltrados de linfocitos y neutrófilos en la pared vesicular. En el caso de CAG, los criterios fueron la evidencia histológica de trombosis y oclusión vascular mural con compromiso parcial o total de la pared vesicular.
+
+Los factores de riesgo preoperatorios evaluados incluyeron: sexo, edad, diabetes, obesidad, vómitos, fiebre, recuento de glóbulos blancos (RGB), eritrosedimentación (VSG), aspartato aminotransferasa (AST), alanina aminotransferasa (ALT), fosfatasa alcalina (FAL), bilirrubina total (BT), amilasa y hallazgos ecográficos como diámetro de la pared vesicular y líquido perivesicular.
+
+Los pacientes fueron divididos en 2 grupos de acuerdo con el diagnóstico anatomopatológico: el grupo 1 incluyó pacientes con diagnóstico de CAG y el grupo 2, pacientes con diagnóstico de CANG. Las variables continuas se expresaron como media, desviación estándar, y mínimo y máximo, mientras que las categóricas se expresaron en porcentajes. Se llevó a cabo un análisis estadístico univariado con el diagnóstico anatomopatológico como variable dependiente, usando el t-test o el test de Wilcoxon para las variables continuas y chi-2 o prueba exacta de Fisher para las categóricas. A continuación se realizó un análisis estadístico multivariado utilizando el modelo logit. El software empleado fue Stata, versión 12.
+
+Resultados
+
+Un total de 183 pacientes con diagnóstico preoperatorio de colecistitis aguda fueron sometidos a colecistectomía durante enero de 2011 y diciembre de 2012. Todas las piezas quirúrgicas fueron analizadas por los patólogos, quienes confirmaron el diagnóstico de colecistitis aguda. De los 183 pacientes, 101 (55,1%) presentaron CAG. El tiempo de evolución promedio desde el inicio de los síntomas hasta la consulta fue de 68,45 h, con un mínimo de 2 y un máximo de 240 h.
+
+El análisis univariado demostró que los pacientes con CAG tenían un promedio de edad mayor comparado con aquellos con CANG (49 vs. 40,5). En nuestra serie, se observó que la CAG era significativamente más frecuente en pacientes masculinos comparada con la CANG (79,2% vs. 71%). También se determinó que la presencia de fiebre y de líquido perivesicular en las imágenes ecográficas era significativamente más frecuente en la CAG (19,7% vs. 4,9% y 12% vs. 3,8% respectivamente) (tabla 1).
+
+ 
+
+Tabla 1 Factores de riesgo: análisis univariado
+
+
+
+ALT: alanina aminotransferasa; AST: aspartato aminotransferasa; CAG: colecistitis          aguda gangrenosa; CANG: colecistitis aguda no gangrenosa; VSG: eritrosedimentación.
+
+ 
+
+El análisis multivariado determinó que en nuestro caso de estudio, las variables fiebre, diabetes, sexo masculino, glóbulos blancos, y eritrosedimentación se encuentran más frecuentemente asociadas a pacientes con CAG. En particular, en la razón de probabilidades (odds ratio) de que un paciente con fiebre presente CAG es 2,8 veces la razón de probabilidades de que un paciente sin fiebre presente CAG (p = 0,031). Asimismo, la razón de probabilidades de que un paciente diabético presente CAG es 5,1 veces la razón de probabilidades de que un paciente no diabético presente CAG (p = 0,092). Por otra parte, también podemos afirmar que la razón de probabilidades de que un paciente de sexo masculino presente CAG es 4 veces la razón de probabilidades de que un paciente de sexo femenino presente CAG (p = 0,001).
+
+Por último, se estableció que en nuestro caso de estudio la razón de probabilidades de CAG aumenta por cada unidad de incremento en el nivel de glóbulos blancos y en el nivel de eritrosedimentación. Específicamente, la razón de probabilidades de CAG aumenta un 10% por cada 1.000 unidades de incremento en el nivel de glóbulos blancos por mililitro (p = 0,031). Las tablas 2 y 3 describen nuestros resultados en mayor detalle. De manera similar, la razón de probabilidades de CAG aumenta un 2,1% por cada unidad de aumento en la tasa de eritrosedimentación (medida en mm/h) (p = 0,003).
+
+ 
+
+Tabla 2 Factores de riesgo: análisis multivariado
+
+
+
+ 
+
+Tabla 3 Porcentaje de cambio de odds ratio
+
+
+
+a - Por unidad de incremento en el factor de riesgo.
+
+ 
+
+Discusión
+
+Múltiples metaanálisis realizados acerca de la colecistitis aguda no han logrado identificar la CAG como una entidad diferente14,15. Mientras que su tratamiento es similar al de la CANG, la presencia de gangrena incrementa la morbimortalidad4,16.
+
+Se ha propuesto que las patologías que alteran la vascularización de la vesícula, como las enfermedades cardiovasculares y la diabetes, pueden ser consideradas como factores de riesgo para el desarrollo de CAG1,2,17-19. No obstante, contrastando esta propuesta, otras publicaciones no han identificado relación directa entre diabetes y CAG1-3,5,10. En nuestro estudio, la presencia de diabetes demostró incrementar en 5 veces la probabilidad de desarrollar CAG.
+
+Borzellino et al.20 plantearon la fiebre y la pared vesicular engrosada (>4 mm) como factores preoperatorios predictivos de CAG. El presente estudio coincidió al determinar que la presencia de fiebre aumenta casi 3 veces la probabilidad de desarrollar CAG. Sin embargo, no encontramos diferencias significativas en cuanto al grosor de la pared vesicular.
+
+Aydin et al.1 establecieron que el sexo masculino puede ser considerado como una variable independiente de la CAG. Nuestro análisis multivariado coincide con esta afirmación ya que determinó que el sexo masculino tiene una probabilidad 4 veces mayor de desarrollar CAG con respecto al sexo femenino.
+
+Varios autores reconocidos reportaron que la leucocitosis está asociada a la CAG1,2,10. El análisis univariado de este estudio estableció una leucocitosis media mayor en la CAG con respecto a la CANG (14.600 vs. 12.150), mientras que el análisis multivariado determinó que por cada 1.000 glóbulos blancos, aumenta un 10% la probabilidad de CAG.
+
+Los pacientes con CAG pueden presentar una elevación leve de las transaminasas y de la bilirrubina debido a la necrosis de los hepatocitos de la fosa vesicular como resultado del proceso de gangrena1,2,21. Nuestro estudio no demostró una diferencia significativa entre los valores de las transaminasas y la bilirrubina de los pacientes con CAG y CANG.
+
+Fagan et al.2 reportaron que la presencia de líquido perivesicular en las imágenes ecográficas predecía el desarrollo de CAG. De acuerdo con nuestro análisis univariado, encontramos que la presencia de líquido perivesicular es significativamente más frecuente en la CAG con respecto a la CANG (12% vs. 3,8%). Sin embargo, en el análisis multivariado no se logró establecer una relación independiente entre esta variable y la CAG.
+
+Contini et al.12 reportaron que la demora en la consulta era un criterio importante en el desarrollo de colecistitis aguda. En nuestro estudio, a pesar que no encontramos una asociación directa entre el tiempo de evolución y el desarrollo de CAG, creemos que puede ser un factor determinante de la alta frecuencia de CAG en nuestro grupo de pacientes.
+
+Este estudio tiene limitaciones. Entre ellas podemos destacar que solo incluimos pacientes de un único centro y que es un estudio retrospectivo, por lo que está sujeto a los problemas comunes de este tipo de trabajos. Asimismo, creemos que los resultados reportados pueden ser motivadores para el desarrollo de estudios prospectivos y multicéntricos.
+
+Conclusión
+
+En nuestro estudio, las variables sexo masculino, diabetes, fiebre, eritrosedimentación y glóbulos blancos fueron significativamente más frecuentes en los pacientes con CAG, por lo que podrían ser consideradas como factores predictivos independientes de esta patología.

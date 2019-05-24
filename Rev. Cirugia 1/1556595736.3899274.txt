@@ -1,0 +1,138 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262016000500015
+Pautas de chequeo, parte IV: STARD y CARE
+
+ 
+
+Introducción
+
+La práctica del modelo basado en la evidencia demanda como insumo principal investigación del mejor nivel de evidencia posible, por lo que los ensayos clínicos controlados y las revisiones sistemáticas aparecen como los diseños más deseados y relevantes para el modelo1. Sin embargo, estos diseños no siempre son los más adecuados o factibles de realizar, existiendo otros diseños que aportan información relevante para la práctica médica2.
+
+Un elemento esencial para el ejercicio de la medicina son las pruebas o tests diagnósticos, los que permiten determinar la presencia/ausencia y/o severidad de una determinada patología o condición3. Pero no todas las pruebas diagnósticas ofrecen el rendimiento necesario para ser utilizadas en las condiciones particulares de cada clínico, por lo que es necesario realizar estudios que permitan comprobar su precisión diagnóstica para ser utilizadas con seguridad4. Sin embargo, como ocurre frecuentemente con la investigación biomédica, la calidad de los reportes es muchas veces inadecuada5, por lo que surge la necesidad de contar con pautas que permitan mejorar los reportes de estudios sobre precisión diagnóstica6.
+
+Por otro lado, dada las particularidades de cada paciente, enfermedad y tratamiento, uno de los diseños más utilizados en la investigación biomédica y especialmente en cirugía es el reporte de caso7. A pesar que representa uno de los niveles más bajos de evidencia, los reportes de caso pueden aportar información relevante, especialmente en enfermedades raras y/o tratamientos noveles para los que no es posible implementar otros diseños metodológicos8. A pesar de su apariencia simple, los reportes de caso deben incluir elementos mínimos en su presentación, cuestión que no se cumple en la mayoría de los reportes9, por lo que se ha hecho necesaria la elaboración de pautas para mejorar esta situación10.
+
+Aunque la cantidad de estudios sobre precisión diagnóstica es escasa y los reportes de caso tienen un escaso valor para la medicina basada en la evidencia, es necesario contar con herramientas para mejorar la calidad de toda la investigación que se publica.
+
+El objetivo de este cuarto artículo de la serie es dar a conocer las pautas de chequeo STAndards for the Reporting of Diagnostic accuracy studies (STARD) para estudios sobre precisión de pruebas diagnósticas y Case Reports (CARE) para reportes de caso.
+
+STAndards for the Reporting of Diagnostic accuracy studies (STARD)
+
+Los estudios sobre precisión de pruebas diagnósticas evalúan uno o más tests que permiten la detección de una condición dada, generalmente una patología, lo que permitirá o complementará un diagnóstico, o modificará el tratamiento o seguimiento de dicha condición4. En esta clase de estudios, un conjunto de sujetos son evaluados por el test o prueba índice (en estudio) y por otra prueba que es considerada el estándar de referencia. Es importante tener claro que ese estándar puede estar compuesto por varias pruebas o incluso puede referirse al seguimiento del paciente con el fin de establecer la presencia de la condición (enfermedad) que miden estos tests6.
+
+Investigaciones a fines de la década de 1990 señalaron claramente que la calidad de los estudios sobre precisión de pruebas diagnósticas no cumplía con los estándares científicos adecuados, lo que generalmente se traducía en una sobreestimación de la precisión de nuevas pruebas diagnósticas, por lo que su uso en la práctica médica llevaría a errores diagnósticos y del manejo clínico de los pacientes4.
+
+Dado lo anterior, el grupo de pruebas diagnósticas y cribado (screening) de la Cochrane en el año 1999 comenzó con el trabajo de crear una pauta de chequeo para este tipo de estudios. Para esto se basaron en el modelo de trabajo que había realizado CONSORT11, incluyendo el aporte de epidemiólogos, estadísticos, editores e investigadores. El objetivo final fue la generación de una pauta que permitiera mejorar la calidad de reporte de los estudios sobre precisión de pruebas diagnósticas, así como facilitar la evaluación de la validez interna y externa de estos estudios por parte de los lectores.
+
+El resultado final fue la pauta STARD4,6, que incluye 25 ítems agrupados en 5 dominios (título/resumen/palabras clave, introducción, métodos, resultados, discusión).
+
+Ítems de la lista de chequeo
+
+Título / resumen / palabras clave
+
+1.       El título debe identificar que el estudio trata sobre precisión de pruebas diagnósticas. Se recomienda también el uso de las palabras clave: sensibilidad y especificidad, aunque esto no garantiza que el estudio vaya a ser correctamente reconocido como tal, por lo que se debe ser explícito también en el resumen del artículo.
+
+Introducción
+
+2. Pregunta u objetivos de investigación: se debe señalar claramente qué es lo que se está evaluando y qué tipo de pacientes o condiciones se incluyen en el estudio. Esto permitirá que el lector se haga una idea rápidamente de lo que trata el estudio.
+
+Métodos
+
+3. La población de estudio: indicar los criterios de inclusión y exclusión que se utilizaron, así como las condiciones y lugares donde se obtuvieron los datos. Es necesario ser precisos en estas descripciones, ya que permitirán al lector determinar si estos resultados son aplicables a sus condiciones.
+
+4.	Reclutamiento de los pacientes: describir la forma en que los participantes fueron incluidos en el estudio, por ejemplo: según síntomas, resultados de pruebas previas o por el hecho de haber recibido el test de referencia o el que está siendo evaluado.
+
+5. Obtención de la muestra: indicar si los participantes que cumplieron con los criterios del punto 3 y 4 fueron incluidos de manera consecutiva o si se realizó algún tipo de muestreo; si así fuese, este debe ser descrito.
+
+6.	Recolección de los datos: señalar si la recolección de datos fue planeada después de aplicados los tests (estudio retrospectivo) o antes de aplicarlos (estudio prospectivo). Esto permite identificar la presencia de sesgos y dificultades propias de uno u otro tipo de estudio.
+
+7.	La prueba de referencia y su racionalidad: los autores deben describir la prueba utilizada como referencia y justificar el por qué es adecuada para el estudio en concreto. Si se usan pruebas compuestas (múltiples pruebas) o seguimiento, deben describirse y justificarse por separado y en su conjunto.
+
+8. Especificaciones técnicas: se deben indicar los materiales y métodos utilizados en la realización de las pruebas de referencia e índice, también pueden proveerse referencias donde se describan en profundidad la forma en que los tests son aplicados.
+
+9.	Definición y racionalidad de la medición: describir y justificar el uso de las unidades de medida, puntos de corte o categorías que entreguen las pruebas de referencia e índice. Debe quedar claro si estas variables fueron definidas previa o posteriormente a la obtención de los resultados.
+
+10. Experiencia de los evaluadores: señalar la formación y expertiz de los evaluadores en el uso de la prueba de referencia e índice. Esto es más relevante en pruebas que involucran una mayor subjetividad como los exámenes imagenológicos.
+
+11.	Enmascaramiento de los evaluadores: se debe señalar si los evaluadores desconocían los resultados de la prueba de referencia y/o índice, así como entregar cualquier información relevante al respecto. El conocimiento de los resultados de la prueba de referencia puede inducir un sesgo diagnóstico que termine en una sobreestimación de la precisión diagnóstica de la prueba índice.
+
+12. Métodos estadísticos: describir los métodos para el cálculo o comparación de las medidas de precisión diagnóstica, así como los métodos para estimar la incertidumbre diagnóstica, por ejemplo los intervalos de confianza al 95%.
+
+13. Cálculo de reproducibilidad: indicar si se realizaron pruebas para determinar la confiabilidad intraobservador o estabilidad temporal, así como los métodos estadísticos asociados.
+
+Resultados
+
+14.	Marco temporal: dado que las pruebas están continuamente mejorándose, es necesario indicar las fechas de inicio y término de recolección de datos.
+
+15.	Caracterización de la población: describir las características clínicas y sociodemográficas de los participantes del estudio, al menos se deben incluir: edad, sexo y espectro de los síntomas presentes.
+
+16.	Inclusión de los pacientes: describir qué pacientes cumplieron con los criterios de selección y se realizaron las pruebas de referencia y/o índice, así como las razones por las que no se las realizaron. Es muy recomendable incluir un diagrama de flujo donde quede claro todo el proceso de inclusión de los pacientes.
+
+17.	Intervalo entre pruebas: se debe dejar claro cuánto tiempo transcurrió entre la aplicación de la prueba de referencia y la índice, así como la aplicación de cualquier intervención en ese intervalo, lo que podría afectar la condición evaluada y por tanto la precisión de la prueba índice.
+
+18.	Distribución de la severidad: se debe describir el espectro de la enfermedad presente en los pacientes incluidos en el estudio, tanto en los pacientes que tenían la condición evaluada, como quienes no la presentaban.
+
+19.	Tabulación cruzada referencia/índice: presentar un cruce de frecuencias entre los resultados de las pruebas de referencia e índice; además de presencia y ausencia, se deben indicar los resultados indeterminados y ausentes. En el caso de pruebas índices con medidas continuas, se debe mostrar la distribución para cada una de las categorías de la prueba de referencia.
+
+20. Eventos adversos: describir la presencia de cualquier hecho que ponga en duda la seguridad de la prueba; esto incluye los eventos adversos que ocurrieron durante el estudio, así como características de invasividad o riesgos asociados a la aplicación de la prueba índice.
+
+21.	Precisión diagnóstica: presentar la estimación de la incertidumbre diagnóstica. Esto incluye curvas ROC, medidas de sensibilidad, especificidad, valores predictivos y likelihood ratios, con sus respectivos intervalos de confianza al 95%. No se debe olvidar que estos resultados probablemente varíen en otras condiciones o poblaciones.
+
+22.	Datos indeterminados, perdidos y outliers: es necesario señalar de qué forma fueron manejados dichos resultados, indicando también diferencias de estos entre la prueba de referencia e índice.
+
+23. Estimación de la variabilidad: describir las variaciones en la precisión diagnóstica entre los distintos subgrupos, evaluadores y centros incluidos en el estudio. Es altamente recomendable que estos análisis sean planificados previo a la recolección de los datos.
+
+24. Estimación de la reproducibilidad: indicar los resultados de la confiabilidad intraobservador o estabilidad temporal, si es que estos se realizaron. Se recomienda estimar el coeficiente de variación e indicar los factores que afectan la reproducibilidad, por ejemplo el intervalo entre pruebas.
+
+Discusión
+
+25.	Aplicabilidad: los autores deben discutir sobre la validez interna y externa de estos resultados, así como las limitaciones metodológicas del estudio.
+
+CAse REports (CARE)
+
+Los reportes de caso representan uno de los diseños más prevalentes en la literatura biomédica, especialmente en las publicaciones quirúrgicas; en el caso de la REVISTA CHILENA DE CIRUGÍA corresponden al 89,9%7. En términos generales, un reporte de caso es un relato que describe un problema médico que afecta a uno o varios pacientes10. Aun cuando los reportes de caso representan uno de los niveles de evidencia más bajos, permiten la descripción de enfermedades o condiciones raras que no podrían ser abordadas con otros diseños, así como establecer hipótesis iniciales que serán evaluadas con diseños de investigación más potentes; además, pueden ser utilizados como una herramienta en la educación médica12.
+
+A pesar de representar un bajo nivel de evidencia y una relativa simpleza de elaboración, se ha comprobado que un porcentaje importante de los reportes de casos no proveen de toda la información relevante al caso9. Esta situación claramente les resta utilidad en la práctica clínica.
+
+Considerando lo anterior y las experiencias previas con otras pautas de chequeo4,11, un grupo de metodólogos, epidemiólogos, estadísticos y editores se reunió en torno al grupo CARE para desarrollar una pauta que permitiera mejorar la calidad de los reportes de caso. La elaboración consistió en tres etapas de acuerdo a la Guía para Desarrolladores de Guías de Reporte de Investigación en Salud13, incluyendo: revisión de la literatura, reunión de consenso, retroalimentación y pilotaje posterior a la reunión10.
+
+El resultado fue una pauta de 13 ítems, sin dominios declarados y que es de uso general para todos los ámbitos de la medicina.
+
+Ítems de la lista de chequeo
+
+1.	Título: este debe contener las palabras «informe de caso», así como lo más relevante o interesante del caso.
+
+2.	Palabras clave: referidas a los aspectos relevantes del caso, se recomienda usar de 2 a 5 palabras, preferentemente términos MeSH.
+
+3.	Resumen: aunque no es necesario que se presente en un formato estructurado, el resumen debe incluir una introducción que señale qué es lo que aporta el caso, la sintomatología y hallazgos clínicos relevantes, el diagnóstico, intervenciones y resultados, así como lo que se puede concluir del caso.
+
+4.	Introducción: al igual que en otros diseños, se debe presentar un resumen de los antecedentes y relevancia en referencia a la literatura médica pertinente.
+
+5.	Información del paciente: incluye toda la información inicial de la pesquisa del caso, incluyendo: datos demográficos (edad, sexo, origen étnico, profesión y otros), sintomatología y molestia principal, antecedentes médicos y familiares relevantes (dieta, estilo de vida, genética y otros), la presencia de otras enfermedades o condiciones concomitantes (incluyendo sus intervenciones previas y resultados).6.Hallazgos clínicos: debe incluir los hallazgos relevantes durante el examen físico.
+
+7. Calendario: para comunicar de mejor forma la secuencia de eventos en torno al caso, es necesaria la presentación de una tabla o figura con las fechas de los diagnósticos e intervenciones.
+
+8.	Evaluación diagnóstica: describir los métodos diagnósticos utilizados, incluir: el examen físico, así como los exámenes complementarios o imagenológicos, los problemas en la realización del diagnóstico (económicos, lingüísticos o culturales), el razonamiento para llegar al diagnóstico (incluyendo el diferencial) y el pronóstico cuando corresponda.
+
+9.	Intervención terapéutica: señalar el o los tipos de tratamientos utilizados (farmacológico, quirúrgico, preventivo, autocuidados y otros), la forma en que se administró el tratamiento (dosis, concentración, duración y otros) y los cambios que se realizaron en el tratamiento, con su respectiva justificación.
+
+10.	Seguimiento y resultados: describir los resultados desde la óptica del médico y del paciente, de las pruebas de seguimiento, cómo se dio y toleró la intervención, así como los eventos adversos o imprevistos.
+
+11.	Discusión: se deben mencionar los aspectos fuentes y las limitaciones en el manejo de este caso, la comparación con la literatura existente, conclusiones justificadas (incluida la evaluación de las posibles causas) y las lecciones que deja el caso.
+
+12.	Perspectiva del paciente: es relevante que el paciente pueda relatar su experiencia durante todo el proceso, por lo que se deben hacer esfuerzos para incluirla en el reporte del caso.
+
+13.	Consentimiento informado: mencionar si se obtuvo el consentimiento directo del paciente, de un cuidador o de un comité. Se debe facilitar el documento en caso de ser solicitado.
+
+Discusión
+
+La calidad metodológica es un constructo compuesto por múltiples ítems, dentro de los cuales la calidad del reporte tiene una importancia trascendental al momento de difundir los resultados de un estudio. De ella depende que la evidencia entregada en los artículos sea comprendida por los consumidores finales de literatura científica, quienes podrán realizar o no cambios en sus conductas clínicas tomando en cuenta la calidad de dicha evidencia14,15.
+
+Los checklists corresponden a una alternativa sencilla, útil y de bajo costo que pueden ayudar a mejorar la presentación de los resultados de las investigaciones científicas16. Lo anterior ha sido evidenciado por muchas revistas de nivel internacional, las cuales han adoptado estas pautas logrando incrementar la calidad de sus reportes, aunque no existe consenso al respecto17.
+
+En el caso de STARD, los estudios muestran que su uso significó una mejora en la calidad de los reportes de este tipo de diseños de investigación18. Sin embargo, estos estudios también indican que la mejora no fue significativa y que la calidad del reporte continúa siendo deficiente, principalmente en los criterios de inclusión, métodos de muestreo, reclutamiento de pacientes y enmascaramiento, que podrían ser objeto de mejoras a futuro19.
+
+Este escaso impacto podría deberse a la falta de adherencia al checklist STARD, por lo que de todas formas se recomienda su uso por parte de investigadores, editores y revisores de literatura biomédica18,19. En la otra vereda, algunos estudios no reportan ningún tipo de beneficio con el uso de STARD20, lo que podría ser el resultado de la falta de adherencia ya mencionada a esta y otras pautas21,22.
+
+Con respecto a CARE, su reciente publicación impide evaluar su impacto. Sin embargo, tal como ha ocurrido con otras pautas, la recomendación de su uso está plenamente justificada21,22.
+
+Es un hecho que las pautas de chequeo se han masificado, cubriendo hoy en día prácticamente la totalidad de los diseños de investigación; esto es, desde los ensayos clínicos, hasta los estudios de evaluaciones económicas23. Estos representan esfuerzos tendientes a mejorar la calidad de la investigación que no pueden ser ignorados.

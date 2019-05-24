@@ -1,0 +1,164 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262016000500006
+Tratamiento no quirúrgico en cáncer epidermoide de orofaringe avanzado: Análisis de resultados oncológicos en función del subsitio tumoral y fraccionamiento de radioterapia
+
+ 
+
+Introducción
+
+Los tumores malignos de cabeza y cuello representan un 3-5% de las neoplasias malignas. Si nos limitamos a los tumores de la vía aerodigestiva superior (VADS), el cáncer de orofaringe es el más frecuente y presenta los últimos años un alza en su incidencia relacionada al virus VPH, lo que tiene una particular relevancia para los próximos años1-5.
+
+El tratamiento clásico ha sido de tipo quirúrgico. Los últimos años hemos observado avances en la cirugía, especialmente por la introducción de las técnicas transoral robotic surgery (TORS)6-9y transoral laser microsurgery (TLS); sin embargo, estas técnicas no están en la actualidad disponibles en nuestro país para esta indicación. En pacientes operados con elementos de riesgo de recidiva locorregional es necesario agregar radioterapia adyuvante. Conocemos bien subgrupos de alto riesgo que se benefician de radioquimioterapia postoperatoria, como es el caso del margen quirúrgico positivo o compromiso ganglionar extracapsular10,11.
+
+La alternativa no quirúrgica se basa en la radioterapia. Numerosas series han comparado de manera retrospectiva la cirugía versus la radioterapia; esto puede resumirse en una importante revisión de 51 series y 6.400 pacientes, que comparó los resultados del tratamiento quirúrgico versus el tratamiento no quirúrgico, demostrando que la sobrevida global (SG) y el control tumoral son comparables; sin embargo, las complicaciones y secuelas son menores con radioterapia12. Todo esto hizo que muchos centros abandonaran la cirugía como tratamiento primario y la alternativa no quirúrgica se transformara en el standard of care13. Esta es la situación en nuestro centro.
+
+Se analizan nuestros resultados oncológicos del tratamiento conservador, no quirúrgico, con especial énfasis en caracterizar los resultados según el subsitio tumoral y el fraccionamiento de radioterapia.
+
+Material y método
+
+Se revisa la base de datos de los pacientes tratados con intención curativa en nuestro Instituto, que incluye el Servicio de Radioterapia de Hospital Naval y Clínica Reñaca —ambos de Viña del Mar—, desde el año 1998 hasta el año 2015. Nos limitamos a pacientes tratados con radioquimioterapia concomitante. Se excluyen los pacientes tratados a título pre o postoperatorio, los tratados con intención paliativa y los tratados con cetuximab sin quimioterapia.
+
+Un total de 87 pacientes cumplieron los criterios de inclusión. Todos fueron sometidos a radioquimioterapia con cisplatino semanal concomitante, en dosis de 40 mg/m2, con un mínimo de 5 veces durante el tratamiento.
+
+Para aquellos pacientes con enfermedad ganglionar residual luego de 3 meses tras radioquimioterapia, se indicó linfadenectomía radical modificada del hemicuello correspondiente, siendo lo más frecuente un vaciamiento supraomohioideo ipsilateral. Desde el año 2009, los pacientes con enfermedad residual en cuello 3 meses tras radioquimioterapia fueron sometidos a PET CT, aquellos con metabolismo aumentado fueron sometidos a cirugía, y el resto se mantuvo en simple observación.Hasta el año 2011 se propusieron como primera elección los fraccionamientos modificados, y dependiendo de las posibilidades de desplazamiento del paciente se recomendó fraccionamiento acelerado con boost concomitante (FABC) (4 semanas con una fracción al día y 2 semanas finales con bifraccionamiento) para una dosis total de 70,5 a 72 Gy sobre gross tumor volume (GTV); o hiperfraccionamiento (Hfx) (2 sesiones al día durante las 7 semanas de tratamiento) para una dosis de 74,4 a 76,8 Gy sobre el GTV. En ambos casos se indicó 50 Gy sobre el territorio ganglionar no comprometido. En el período de bifraccionamiento se exigió un mínimo de 6 h entre cada sesión. Desde el año 2012, basado en los resultados de RTOG 0129 y GORTEC 99-02, se recomendó como primera elección, al utilizar quimioterapia concomitante, el fraccionamiento convencional (FC), en dosis de 70 Gy en 35 fracciones14,15. Esto coincidió con la incorporación de la técnica intensity modulated radiotherapy (IMRT) como tratamiento estándar en nuestro centro. No revisaremos por separado los resultados con IMRT, ya que aún el número de pacientes tratados con esta técnica es bajo.
+
+La técnica IMRT realizada fue de tipo estática, step and shoot, llevada a cabo en un acelerador lineal Siemens Oncor, con treatment planning system (TPS) Prowess Panther IMRT. En la totalidad de los casos se utilizó fotones de 6 MV. Se prescribió 70 Gy sobre planning tumor volume, high dose (PTV HD) (correspondiendo al tumor primario y adenopatías comprometidas mayores a 2 cm de diámetro menor); 63 Gy sobre PTV intermedial dose (ID) (correspondiendo a territorio ganglionar grupo II bilateral y adenopatías comprometidas inferiores a 2 cm de diámetro menor), y 54-56 Gy sobre PTV low dose (LD) (correspondiendo a territorio ganglionar no comprometido infrahioideo y de grupo V [triángulo posterior]).
+
+Aquellos pacientes con tumores de amígdala, con hasta 1 cm de compromiso de paladar blando y/o hasta 1 cm de compromiso de base de lengua, con enfermedad ganglionar N0, N1 y N2a recibieron radioterapia de hemicuello ipsilateral exclusivo, con el objeto de evitar al máximo la xerostomía. Esto último ha sido ampliamente validado por otros grupos y por un panel de expertos16.
+
+Nuestra política de tratamiento fue evitar todo tipo de interrupciones de radioterapia; para esto se mantuvo un control clínico semanal y bisemanal (2 veces por semana) desde el inicio de la mucositis, para precozmente iniciar manejo analgésico agresivo con opiáceos y corticoides si fuese necesario. Una vez finalizado el tratamiento se mantuvieron controles semanales hasta finalizada la mucositis aguda clínicamente relevante. Utilizamos gastrostomía o sonda nasogástrica solo en caso de necesidad, y lo más tarde posible, con el objeto de reducir al máximo el período sin alimentación por boca para no afectar el reflejo de deglución, el cual puede aumentar el riesgo de neumopatía aspirativa, una complicación grave y frecuente. Previo inicio de la terapia indicamos control por odontólogo para eliminar todo foco séptico a este nivel. Indicamos colutorios con «solución mucositis» antes y después de las comidas. Este es un preparado realizado en la farmacia del Hospital Naval Almirante Nef que contiene lidocaína, bicarbonato de sodio y Hedera helix (English Ivy).
+
+Cuando el tumor primario se extendió más allá de un subsitio o más allá de la orofaringe, se consideró la ubicación del centro geométrico del tumor como el subsitio de origen del tumor.
+
+El análisis de supervivencia se basó en el método de Kaplan-Meier, utilizándose el test log-rank para el estudio comparativo. Se utilizó el programa SPSS 20.0 (SPSS Inc., Chicago, IL, EE. UU.).
+
+Resultados
+
+Ingresaron 87 pacientes, con una mediana de seguimiento de 120 meses y mediana de tiempo de participación de 57 meses. Las características basales de los pacientes se observan en la tabla 1.
+
+ 
+
+Tabla 1 Características de los pacientes con cáncer de orofaringe          del Instituto Oncológico incluidos en el estudio (1998-2013)
+
+
+
+ 
+
+No observamos diferencias en estadio según el subsitio (dato no presentado).
+
+Analizando los fraccionamientos, la mayor parte de los pacientes recibió FC, a pesar de que se recomendó, hasta el año 2011, la realización de fraccionamientos modificados, lo que traduce una dificultad en la práctica diaria habitual para la realización de más de una fracción al día.
+
+Solo 5 pacientes requirieron interrupción por más de una semana por toxicidad aguda. Dos pacientes fallecieron durante el tratamiento.
+
+Sobrevida global
+
+La SG del grupo completo a 2, 5 y 10 años fue de un 71, 61 y 43% respectivamente (fig. 1).
+
+ 
+
+
+
+Figura 1 Sobrevida global.
+
+ 
+
+La SG a 5 años, según subsitio, fue de 74% para logia amigdalina y 33% para paladar blando, base de lengua y pared faríngea posterior (fig. 2). El bajo número de pacientes en pared faríngea posterior no permite sacar conclusiones válidas, sin embargo, se reconoce este subsitio como de alto riesgo, en atención a la dificultad de alcanzar una dosis efectiva de al menos 70 Gy, en una zona de estrecha vecindad con la médula espinal.
+
+ 
+
+
+
+Figura 2 Sobrevida global según subsitio anatómico.
+
+ 
+
+Al comparar amígdala con el resto, se obtiene una diferencia estadísticamente significativa (p < 0,001). La mediana de sobrevida para amígdala no fue alcanzada, y para el resto fue de 22 meses (fig. 3).
+
+ 
+
+
+
+Figura 3 Sobrevida global.
+
+ 
+
+Al evaluar la SG en función del fraccionamiento, existe diferencia estadísticamente significativa a favor del Hfx, siendo las respectivas SG a 5 años de 53% para FC, 65% para FABC y de 80% para Hfx (p = 0,031) (fig. 4).
+
+ 
+
+
+
+Figura 4 Sobrevida global.
+
+ 
+
+Sobrevida libre de enfermedad
+
+Se observa una diferencia significativa en la sobrevida libre de enfermedad (SLE) en los diferentes subsitios, siendo a 5 años, 67% para amígdala y 33% para el resto, HR: 3,05 para otros subsitios (IC 95%: 1,7-5,5; p < 0,001) (fig. 5); lo mismo se observa de acuerdo al tipo de fraccionamiento utilizado (fig. 6), con beneficio para los fraccionamientos modificados, siendo el mayor beneficio para Hfx, con una SLE de 80% versus 46% en FC, HR: 0,51 (IC 95%: 0,28-0,91; p = 0,023).
+
+ 
+
+
+
+Figura 5 Sobrevida libre de enfermedad.
+
+ 
+
+
+
+Figura 6 Sobrevida libre de enfermedad.
+
+ 
+
+Destaca en nuestra serie un 23% de segundos cánceres primarios, siendo el de pulmón el más frecuente (40% del total de segundos primarios), seguido por el de laringe (20% del total).
+
+Sobrevida libre de recidiva local (en el primario)
+
+Al analizar la sobrevida libre de recidiva local (SLRL) a 5 años de acuerdo al subsitio, encontramos un 89% para amígdala, un 64% para base de lengua, y paladar blando y pared faríngea posterior no tuvieron recidivas a nivel primario, lo que alcanzó una diferencia estadísticamente significativa (p = 0,03) (fig. 7). No se presentaron recidivas locales en primario en los pacientes tratados con Hfx, y las sobrevidas a 5 años para FACB y FC fue de 92 y 77% respectivamente, sin alcanzar significación estadística (p = 0,068) (fig. 8). Al comparar FC versus modificado, se obtuvo sobrevidas a 5 años de 77 y 95% a favor de los modificados (p = 0,026).
+
+ 
+
+
+
+Figura 7 Sobrevida libre de recidiva local (primario).
+
+ 
+
+
+
+Figura 8 Sobrevida libre de recidiva local (primario).
+
+ 
+
+Sobrevida libre de recidiva regional (en cuello)
+
+La sobrevida libre de recidiva regional (SLRR) a 5 años según localización fue de 100, 94, 87 y 67% en paladar blando, amígdala, base de lengua y pared faríngea posterior, no alcanzando significación estadística (p = 0,074) (fig. 9). Según tipo de fraccionamiento, la mejor sobrevida fue obtenida en el grupo de FABC con un 96% a 5 años, seguida de Hfx con un 92%, y finalmente un 89% con FC, sin diferencia estadísticamente significativa (p = 0,656) (fig. 10).
+
+ 
+
+
+
+Figura 9 Sobrevida libre de recidiva ganglionar.
+
+ 
+
+
+
+Figura 10 Sobrevida libre de recidiva ganglionar.
+
+ 
+
+Discusión
+
+Un importante paso adelante en el conocimiento del cáncer de orofaringe ha sido reconocer la enfermedad VPH+ como una entidad distinta, que se presenta en sujetos más jóvenes, frecuentemente no relacionada con el alcohol ni el tabaco, de mayor linfotropismo, de manera que es frecuente ver pacientes con compromiso ganglionar metastásico importante sin un primario voluminoso. Se caracteriza además por una exquisita sensibilidad a la radioterapia, lo que en definitiva se traduce en un mejor pronóstico. La enfermedad VPH+ presenta de igual forma un menor riesgo de segundos primarios en VADS1-6,17,18. La no realización del estudio del VPH hasta el año 2012 representa una limitación importante de nuestro trabajo.
+
+Se han descrito avances significativos en la radioterapia, en particular la introducción de fraccionamientos modificados (Hfx y FACB), validados en estudios prospectivos, aleatorizados, con largo seguimiento, y en metaanálisis de pacientes individuales19-22. Datos recientes muestran que el beneficio máximo, sin un aumento en las secuelas, se encontraría solo en el Hfx23.
+
+La utilización de quimioterapia, preferentemente de tipo concomitante con la radioterapia, basada en cisplatino ha mejorado sustancialmente los resultados de la terapia no quirúrgica24. Por otro lado, la incorporación de una modalidad de radioterapia conformacional conocida como IMRT se ha reconocido ampliamente como terapia estándar. La IMRT permite evitar la utilización de electrones para cuello posterior (que ofrece una dosimetría errática y menos homogénea), minimizar la irradiación de parótidas y glándulas submaxilares, disminuir la dosis y volumen de mucosa de la cavidad oral irradiada, así como evitar inhomogeneidades en uniones de campo, entre otros beneficios25-29. La utilización de quimioterapia con nuevas drogas, en particular neoadyuvancia con taxanos, ha demostrado beneficios en esta localización por encima de los clásicos esquemas con 5FU y cisplatino30,31. Es importante destacar que el estándar sigue siendo la concomitancia exclusiva. Los 3 estudios que han analizado de manera prospectiva y aleatorizada, el rol de la quimioterapia neoadyuvante seguida de radioquimioterapia concomitante versus radioquimioterapia concomitante han sido negativos, esto es, no muestran un beneficio al hacer neoadyuvancia en términos de control de la enfermedad, y agregan una toxicidad no menor32-34. Estamos en espera del estudio italiano de Ghi35.Otra forma de optimizar los resultados se logra con el anticuerpo monoclonal anti-EGFR, cetuximab. Sabemos que al compararlo con radioterapia exclusiva, la asociación concomitante ofrece un beneficio con el uso del cetuximab del todo comparable al beneficio de la quimioterapia basada en cisplatino36,37, e interesantemente sin un aumento significativo de la toxicidad. Desafortunadamente, agregar cetuximab a la radioquimioterapia concomitante no ofrece beneficio alguno, como ha quedado demostrado recientemente en el estudio RTOG 052238. Si se confirma un beneficio equivalente en control locorregional (CLR) y SG de la radioterapia con cetuximab al beneficio de la radioterapia con quimioterapia y, a diferencia de lo que ocurre con esta, no se aumenta la morbilidad tardía, entonces la utilización de radioterapia con cetuximab puede transformarse en el nuevo estándar39,40. Sin embargo, nuestra experiencia y reportes recientes muestran que la toxicidad cutánea aguda de la asociación radioterapia cetuximab es no menor41.
+
+Nuestra serie presenta varios hallazgos, en nuestra opinión, relevantes. El primero de ellos es que claramente confirma un pronóstico superior en logia amigdalina por sobre el resto de los subsitios de orofaringe. Un 91% de CLR a 5 años se encuentra entre los mejores resultados publicados, y difícilmente puede ser mejorado con otro tipo de tratamiento, aun cuando reconocemos que la inclusión de un 11% de pacientes estadio I y II puede artificialmente mejorar los resultados. Estos resultados se obtienen a pesar de la utilización de monodroga con cisplatino y esquema semanal. La exclusión de las fluoropirimidinas que presentan una toxicidad compartida con la radioterapia, particularmente la mucositis aguda, permite que logremos mantener menos de un 10% de interrupciones del tratamiento por toxicidad aguda, lo que ha sido demostrado en numerosas publicaciones como un factor de mal pronóstico. Por otro lado, un CLR de solo un 50% en base de lengua deja un claro margen para mejorar en esta localización y, en este contexto, nuevos y distintos esquemas de tratamiento deben ser considerados. Agregar adyuvancia y/o neoadyuvancia no parece ser la vía correcta32-34. En nuestra opinión existe acá una posibilidad real de incorporar la cirugía, antes o después de la radioquimioterapia concomitante. Otro hallazgo relevante de nuestro estudio es una tendencia al beneficio de los fraccionamientos modificados, especialmente del Hfx versus la utilización de FC, lo que resulta contradictorio con los estudios de RTOG y GORTEC14,15, que concluyen que al utilizar quimioterapia concomitante, no hay beneficio de los fraccionamientos modificados versus el FC. Un sesgo importante en estos estudios aleatorizados está en que el brazo que recibió fraccionamiento modificado recibió una quimioterapia reducida, esto es, 2 ciclos en vez de 3 ciclos para el brazo de FC. Por otro lado, el fraccionamiento modificado fue en ambos estudios FABC, a pesar de que el mejor fraccionamiento modificado es el Hfx, como se ha demostrado recientemente22,23. Ambos estudios, además, no permitieron la utilización de IMRT, lo que hace difícil una correcta interpretación aplicable al manejo actual de estos pacientes, ya que IMRT es el estándar. Es importante precisar que a la inversa, si se utiliza Hfx, agregar quimioterapia concomitante sí ofrece un beneficio que alcanza significación estadística en CLR, sobrevida libre de recidiva y SG, aun cuando se produce mayor toxicidad aguda, especialmente de mucosas42.
+
+Otra limitación de nuestro estudio es el bajo número de pacientes tratados en un largo período de tiempo; sin embargo, hasta lo que conocemos, es el estudio con mayor número de pacientes tratados de manera no quirúrgica en Chile.
+
+El protocolo de tratamiento uniforme y consistente en todo el período de tiempo es una ventaja comparativa sobre otros estudios retrospectivos.
+
+Conclusiones

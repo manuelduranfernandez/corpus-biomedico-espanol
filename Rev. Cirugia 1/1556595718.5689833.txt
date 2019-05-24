@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262010000500003
+Rol de las características clínicas e histológicas como factores pronósticos para la sobrevida en pacientes con carcinoma de células escamosas de la cavidad oral
+
+Resumen
+
+Introducción:    El carcinoma de células escamosas de la cavidad oral (CCECO) es una patología    cuyo comportamiento es producto de interrelaciones con el huésped, esto es,    por el patrón de invasión (PI) histopatológica y la respuesta inflamatoria (RI).    El objetivo de este estudio es analizar las características clínicas e histopatológicas    como factores pronóstico, en términos de supervivencia (SV) en pacientes con    CCECO. Material y Método: Serie de casos. Se incluyeron pacientes    diagnosticados en el Hospital Regional de Talca y Hospital Base de Curicó entre    los años 1995 y 2006. Se revisaron las fichas clínicas y biopsias de 36 pacientes    con CCECO. Se determinó el Frente Invasivo Tumoral (FIT), evaluándose los parámetros    propuestos por el sistema de graduación de Bryne (PI y RI) y factores de importancia    clínica como localización topográfica de la lesión, edad y género, relacionándolos    con SV mediante curvas de Kaplan-Meier y Log Rank test. Posteriormente, se aplicó    una regresión de Cox para obtener un análisis multivariado y cálculo de RR.    Del total de casos    del estudio, 15 pacientes fallecieron por CCECO. Resultados: La mayor    SV se asoció a un bajo escore de PI y una alta RI respectivamente (RR 1,5).    La localización topográfica de la lesión se relacionó significativamente con    la SV, no así el grupo de edad. Conclusiones: Nuestros resultados sugieren    que la ubicación de la lesión es un factor importante en el pronóstico de la    enfermedad y que una respuesta inmune/inflamatoria adecuada, expresada en un    bajo escore de RI, mejora el pronóstico de SV en pacientes con CCECO.
+
+Palabras clave:    Carcinoma de células escamosas, cavidad oral, cáncer oral, pronóstico, supervivencia.
+
+ 
+
+Introducción
+
+El carcinoma de    células escamosas de cavidad oral (CCECO) es una neoplasia proveniente de los    tejidos epiteliales. Se inicia como una displasia epitelial, la cual prolifera    adquiriendo características malignas, destruyendo el tejido conjuntivo subyacente.    Los índices de supervivencia (SV) de esta neoplasia son bajos (50%), especialmente    si se compara con otras neoplasias1.
+
+Su evaluación pronostica    y terapéutica se ha basado principalmente en la clasificación clínica TNM2,    la que ha mostrado, incluso con la medicina moderna, una tasa de mortalidad    general alta. Según la literatura, características clínicas como la edad del    paciente y el sitio anatómico de la lesión también deben ser consideradas3,4.    Según la edad del paciente, factores de riesgo como el tabaco y el alcohol,    afectarían principalmente a adultos mayores debido a una prolongada exposición.    En jóvenes, se demuestra una disminución o ausencia de exposición a estos factores,    planteando cuestionamientos en la etiología de la enfermedad5, sugiriendo    mejores índices de SV en ellos. Además, su presentación varía ampliamente en    diferentes poblaciones, localizándose en diversos sitios de la cavidad oral,    lo que ha mostrado una gran variabilidad en su pronóstico, repercutiendo de    manera importante en la SV de los pacientes2,6,7.
+
+Actualmente, la    consideración de la biología tumoral, específicamente sus características histológicas,    ha sido utilizada para realizar un diagnóstico precoz del CCECO, teniendo un    papel fundamental en su pronóstico y SV8. Las características histológicas    del CCECO pueden diferir ampliamente de un área a otra dentro del mismo tumor,    por lo que se cree que la información pronostica más útil puede ser deducida    del frente de invasión tumoral (FIT), zona donde residen las células tumorales    más agresivas9, considerándose la región más representativa de la    neoplasia10.
+
+Con el propósito    de realizar una estimación más precisa acerca del comportamiento biológico de    esta neoplasia, Bryne et al11, publicaron el sistema de graduación    del FIT, en la cual, un pequeño número de variables histológicas son aplicadas    a la zona de interfase entre el tumor y el huésped, demostrando ser    útil en el pronóstico de la neoplasia12,13. El sistema de graduación    del FIT evalúa cuatro parámetros morfológicos, otorgándole a cada uno un escore    de 1 a 4, determinando el grado de malignidad para cada tumor (un alto escore    sugiere un tumor altamente indiferenciado)11. Los parámetros contemplan    grado de queratinización, polimorfismo nuclear, patrón de invasión y respuesta    inflamatoria, donde el patrón de invasión muestra la forma en que la neoplasia    se infiltra y desarrolla hacia los tejidos adyacentes, y la respuesta inflamatoria    refleja la reacción inmunológica del individuo contra la neoplasia.
+
+La relación inmunológica    funcional entre respuesta inflamatoria y desarrollo del cáncer no es nueva.    En 1863, Virchow, planteó la hipótesis que el origen del cáncer se encontraba    en zonas de reacción inflamatoria crónica, donde la conjunción de factores como    irritantes, daño tisular e inflamación desencadenaban una respuesta proliferativa    celular14. Por tanto, el comportamiento neoplásico será producto    de interrelaciones entre el huésped y el tumor15, donde el crecimiento    neoplásico está invariablemente relacionado con la presencia de células inflamatorias    en el sitio primario del tumor16. Diversos estudios han demostrado    que células inflamatorias contribuirían al proceso de invasión y metástasis    tumoral, lo que se relacionaría directamente en como infiltra la neoplasia según    el patrón de invasión. Sin embargo, el efecto real de la respuesta inflamatoria    local ante la invasión neoplásica aún es controversial17.
+
+El objetivo de    este estudio es analizar las características clínicas de edad y localización    tumoral, e histopatológicas de patrón de invasión neoplásico (PI) y respuesta    inflamatoria del huésped (RI), como factores pronósticos en términos de SV en    pacientes con CCECO diagnosticados en el Hospital Regional de Talca y Base de    Curicó entre los años 1995 y 2006.
+
+Material    y Método______________________
+
+Estudio de serie    de casos retrospectiva que incluyó a los pacientes diagnosticados con carcinoma    de células escamosas de la cavidad oral (CCECO) en los hospitales Regional de    Talca y Base de Curicó en el período enero de 1995 y diciembre de 2006.
+
+Protocolo    de estudio
+
+En relación al    análisis histopatológico, cada pieza histológica fue teñida con la técnica hematoxilina-eosina    (H&E) para, posteriormente ser observadas bajo un microscopio Cari Zeiss    0.25 (Germany). El examen microscópico fue realizado con aumentos de 10X y 40X    por un observador con conocimientos de análisis histopatológico, identificando    el frente tumoral en cada una de ellas. Para la valoración de la respuesta inflamatoria    local del huésped (RI) y el patrón de invasión (PI) en cada caso, se recurrió    al sistema de graduación propuesto por Bryne et al11, descrito en    la Tabla 1.
+
+La información    de las variables demográficas y clínicas fue obtenida desde las fichas clínicas    existentes en cada hospital. Se confeccionó una hoja de recogida de datos en    las que se registraron las características biodemográncas y clínicas de los    pacientes, el diagnóstico confirmatorio histopatológico de CCECO, las características    de las muestras histopatológicas de tamaño y estado de conservación adecuado    para el análisis posterior, los datos respecto de muerte y su etiología. Una    fuente adicional de registro fue la base de datos del Registro Civil e Identificación,    estableciéndose de manera fidedigna que el 100% de las muertes en nuestra muestra    se debió a CCECO.
+
+Variable    de interés
+
+La variable resultado    principal fue la SV de los pacientes, la que se trabajó de forma dicotómica    definiéndose: Grupo 1: Adultos menores de 65 años y Grupo 2: Adultos con edad    mayor o igual a 65 años la clasificación. La variable de respuesta en este estudio    se construyó con base en el tiempo transcurrido entre el momento del diagnóstico    de CCECO realizado por histopatología y la ocurrencia de la muerte, mientras    que la variable de censura se definió a partir de los pacientes que sobrevivieron    durante el período de estudio.
+
+En relación a la    ubicación del tumor primario, ésta se describió de acuerdo a la región topográfica    donde se encontró la mayor parte de la lesión.
+
+Plan de análisis
+
+Se realizó un análisis    exploratorio de los datos; posteriormente, se utilizó estadística descriptiva    con cálculo de porcentajes, medidas de tendencia central y dispersión (promedios    y desviación estándar; mediana y valores extremos). Posteriormente se confeccionaron    curvas de SV de Kaplan Meier y se aplicó Log Rank test para evaluar las diferencias    entre las curvas de SV Finalmente, se aplicó una regresión de Cox para obtener    un análisis multivariado y cálculo de riesgo relativo (RR) con sus respectivos    intervalos de confianza de 95%.
+
+Aspectos    éticos
+
+Se garantizó el    principio ético de confidencialidad a los pacientes codificándose sus nombres.    Este estudio contó con la aprobación del comité de ética de la Universidad de    Talca.
+
+Resultados____________________________
+
+En el período de    estudio fueron estudiados según este esquema 36 pacientes, sin registrarse pérdidas    de seguimiento. La edad promedio fue de 64,4 ± 10,9 años (39 a 89 años);    y el 86,2% de los pacientes (31 casos), era de género masculino.
+
+De la serie de    casos analizados, la SV global de los pacientes fue de 58,4%, mientras que la    mortalidad específica por CCECO fue de 41,6%. La curva de SV de Kaplan Meier    (Figura 1) muestra el comportamiento de los grupos definidos    por la variable sitio anatómico donde se localizaba la lesión, al análisis inferencial    de Log Rank se demuestra significación estadística para esta variable, el detalle    se presenta en Tabla 2.
+
+   
+
+   
+
+   
+
+ 
+
+Al analizar el    rol de la edad al momento del diagnóstico, se observa que los grupos contrastados    no presentan diferencias estadísticamente significativas respecto de la SV,    el detalle de estos datos se encuentra en la Tabla 3 y    se visualizan en la Figura 2.
+
+Los resultados    de los parámetros propuestos por Bryne, esto es, respuesta inflamatoria y patrón    de invasión se observan en la Tabla 4. La SV de los pacientes    según agrupamiento de PI en PI 1 y 2 y PI 3 y 4 son presentados en la Figura    3. Los resultados de SV respecto de la RI, se observan en la Figura    4.
+
+En relación al    análisis, como factores pronósticos por el método de Cox, los resultados se    observan en la Tabla 5.
+
+ 
+
+Discusión
+
+El CCECO actualmente    se reconoce como una patología de importancia, con una incidencia anual estimada    de 170.000 nuevos casos en todo el mundo5. Su diagnóstico temprano,    tiene un rol fundamental en su pronóstico y SV de los pacientes, mientras que    los diagnósticos en etapas avanzadas tienen altos niveles de mortalidad. En    la serie de casos analizados en este estudio, la SV global fue del 58,4%, en    concordancia con lo reportado en otros países desarrollados, con porcentajes    entre el 30% y 80%4, mientras que la mortalidad específica fue de    41,6%, similar a la tasa mundial, cercana al 50%2, demostrando que    estos valores de mortalidad son elevados para esta patología.
+
+Con el fin de entregar    una información pronostica más precisa en el curso del CCECO, se han desarrollado    nuevos sistemas de graduación histológica para definir el grado de malignidad    de una neoplasia, siendo el sistema de graduación histológica propuesto por    Bryne el que ha demostrado en conjunto tener un alto valor pronóstico6,10,11,18-21.    De los parámetros analizados en este sistema de graduación, los valores    patrón de invasión y respuesta inmune local han demostrado entregar información    pronostica para diversos tipos    de cánceres6'11'19'22,23. Junto    con ellos, indicadores clínicos, como el sitio de ubicación de la lesión primaria    y la edad del paciente son importantes para evaluar el pronóstico de sobrevida    de los enfermos de CCECO.
+
+En nuestro estudio    analizamos el valor pronóstico de indicadores clínicos como el sitio de lesión    y la edad del paciente, así como también indicadores histológicos como la respuesta    inflamatoria y el patrón de invasión.
+
+De los indicadores    clínicos analizados, sólo la localización de la lesión resultó relevante como    factor pronóstico, las lesiones ubicadas en el labio inferior presentaron una    mayor SV que las ubicadas en otras regiones, esto sugiere que condiciones como    las características del epitelio, la vascularización y el drenaje subyacente,    pueden estar implicadas en un mejor pronóstico de SV, esto es semejante a los    reportado en estudios anteriores24-26.
+
+Al evaluar el valor    pronóstico para la SV de los indicadores histológicos, observamos que sólo la    respuesta inflamatoria se relacionó con una mayor sobrevida (RR 1,519). Los    datos obtenidos para RI fueron semejantes a lo reportado para otros tipos de    cáncer primarios epiteliales27. Nuestros resultados se contraponen    a lo reportado por Muñoz-Guerra et al28 y Crissman et al29,    para quienes el único dato histológico de importancia en el pronóstico de SV    es el patrón de invasión.
+
+Según nuestros    resultados, los pacientes que muestran un PI escore 1 y 2 tienen mayor posibilidad    de sobrevivir (valor máximo 145 meses) que el PI escore 3 y 4 (valor máximo    115 meses). Bryne et al18, reportó SV a los 5 años del 70% y 30%    ante el patrón de invasión escore 3 y 4 respectivamente. Kademani et al30,    encontraron que las diferencias de SV entre los escore 1 y 4 son claramente    distinguibles, donde a los 5 años se encontró una SV de 80%, 54%, 41% y 29%    para los scores 1, 2, 3 y 4 respectivamente. Por tanto, neoplasias que invaden    como cordones sólidos presentan un mejor pronóstico en términos de sobrevida    que los casos con invasión en cordones pequeños o difusos, correlacionándose    directamente con un mayor riesgo de metástasis31. Esto se debe probablemente    a que las neoplasias al presentar una mayor difusión del patrón de invasión    (mayor escore), se infiltran el estroma más rápidamente e invaden los vasos    linfáticos con mayor frecuencia, representando una cohorte más agresiva32.
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+Al analizar la    respuesta inflamatoria local, se esperaba encontrar una menor SV en pacientes    con un bajo escore en respuesta inflamatoria (mayor respuesta), según lo reportado    previamente14'16,33, ya que el infiltrado inflamatorio    representa la respuesta del estroma en presencia de neoplasias malignas y son    considerados como una expresión de las interacciones entre el sistema inmune    del huésped y el tumor34, donde el número y tipos de células que    componen la respuesta inflamatoria corresponden de manera predominante a macrófagos,    linfocitos, células natural killer, eosinófilos y mastocitos, quienes    en conjunto están relacionados con la producción local de quimiocinas y otros    factores quimiotácticos que aumentan las respuestas en el tumor35.    En el cáncer de mama36, de cuello del útero37, gástrico38,    y cáncer de cabeza y cuello39, se ha encontrado una correlación positiva    entre un aumento de densidad del infiltrado inflamatorio y la progresión neoplásica.
+
+Se ha reportado    que la respuesta inflamatoria juega un papel importante en la regulación del    desarrollo y crecimiento de lesiones precancerosas orales, debido a que modula    el equilibrio entre el potencial inherente de crecimiento de la lesión precancerosa    y su inhibición40.

@@ -1,0 +1,86 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262018000500439
+Aplicabilidad del Colon Leakage Score como predictor de filtración anastomótica en cirugía de cáncer colorrectal
+
+Introducción
+
+La filtración anastomótica (FA) es un problema importante en cirugía colorrectal. Su incidencia varía ampliamente en las publicaciones entre un 1,8-15,9%, siendo el riesgo aún mayor en cirugía de recto, llegando hasta un 15-19%1,2.
+
+Las filtraciones pueden llevar a sepsis, reoperaciones y muerte. En pacientes oncológicos producen retardo en la quimioterapia, peor sobrevida y alta tasa de recurrencia3,4.
+
+Existen numerosos estudios sobre la identificación de factores de riesgo asociados a FA en cirugía de colon izquierdo y recto5-7, sin embargo, la principal dificultad para poder predecir esta complicación es su origen, que incluye un gran número de factores relacionados, por lo que la creación de un modelo predictivo que considere todos estos factores requiere una gran y detallada base de datos.
+
+En la literatura existen diversas escalas de predicción de FA, que incluyen los factores de riesgo asociados8-10. La aplicación de estas escalas podría predecir a qué pacientes se les debería realizar una anastomosis primaria con o sin ostoma derivativo. No existen trabajos nacionales en los cuales se haya aplicado alguno de estos scores.
+
+Hay una tendencia a crear un ostoma derivativo para contrarrestar las consecuencias de la fuga anastomótica y así poder disminuir las repercusiones sépticas secundarias11. En los casos de FA, este ostoma nos podría ayudar a realizar un manejo conservador mediante tratamientos percutáneos y endoscópicos o incluso, poder realizar una cirugía sin necesidad de desmantelar la anastomosis12. Sin embargo, sabemos que los ostomas innecesarios conducen a morbilidad13-15, alteraciones en la calidad de vida16 y aumento de los costos asociados a la atención en salud, esto sumado a que hasta un 30% de los ostomas temporales jamás serán reconstituidos17,18.
+
+La decisión de realizar un ostoma derivativo recae en el cirujano y su buen criterio clínico, no obstante, el advenimiento de los scores puede ayudar al cirujano a tomar una decisión con argumentos más objetivos.
+
+El objetivo principal de este estudio es aplicar el Colon Leakage Score (CLS) en los pacientes con cáncer colorrectal (CCR) sometidos a resección de colon izquierdo y recto para evaluar la utilidad clínica de éste como predictor de FA. El objetivo secundario es establecer valores de corte locales, así como la sensibilidad y especificidad para estos valores.
+
+Pacientes y Método
+
+Corresponde a un estudio de pruebas diagnósticas19-21, cuya muestra son pacientes consecutivos con CCR sometidos a resección de colon izquierdo y recto en Clínica INDISA. Los criterios de inclusión fueron haber sido sometido a una hemicolectomía izquierda, sigmoidectomía, resección anterior baja o ultrabaja con anastomosis primaria en contexto de CCR, durante el período comprendido entre el 1° de enero de 2004 y 31 de diciembre de 2016. Los criterios de exclusión fueron enfermedad recurrente y datos incompletos.
+
+Se realizó una revisión retrospectiva de registros clínicos para construir una base de datos. Los datos recopilados necesarios para calcular el CLS se incluyeron en tabla Excel® con información codificada y anonimizada.
+
+El CLS es una escala que incluye once factores de riesgo establecidos y conocidos de FA, cuyo puntaje va del 0 al 43 (Tabla 1).
+
+Tabla 1 Colon Leakage Score 
+
+Definimos FA a aquellos pacientes que en contexto de un posoperatorio anormal tengan salida de contenido intestinal por drenaje, pacientes reintervenidos en quienes se confirmó FA en el intraoperatorio o aquellos con tomografía computada que evidenció salida de contraste, colección o burbuja perianastomótica22, siendo la presencia de FA, en base a los criterios anteriormente mencionados, el gold standard del estudio.
+
+El valor predictivo y el valor de corte se evaluó mediante curva ROC (receiver operating characteristic curve)23, la cual permite determinar la exactitud diagnóstica de pruebas que utilizan escalas continuas, como es el caso del CLS.
+
+El área bajo la curva ROC [AUC (area under the curve)] refleja la capacidad discriminativa de la prueba (CLS) para predecir FA. De esta manera un AUC de 0,5-0,7; 0,7-0,9 y > 0,9 indican un poder predictivo bajo, moderado y alto, respectivamente. El punto de corte que determina la sensibilidad y especificidad más alta es aquel que presenta el mayor índice de Youden, que se calculó según la fórmula (sensibilidad + especificidad −1).
+
+Para el análisis estadístico se utilizó el software STATA en su versión 13,0.
+
+El cálculo del CLS fue realizado por un investigador independiente (NC) al investigador recopilador de datos (NM). El investigador independiente solo obtuvo acceso a las variables consideradas en el CLS desconociendo si hubo o no FA, es decir, realizando una comparación ciega entre la prueba y el gold standard.
+
+Además, se realizó un modelo de regresión lo gística para determinar la correlación entre CLS y diagnóstico de FA, dividiendo a los pacientes en dos grupos, aquellos con FA y sin FA.
+
+Este estudio cuenta con la aprobación del Comité de Bioética de la Universidad Andrés Bello, respetando los principios éticos de la Declaración de Helsinki24 y Taipéi25.
+
+Resultados
+
+De un total de 187 pacientes, se analizaron 180 pacientes intervenidos por cáncer colorrectal izquierdo (122 colon y 58 rectos) sin ostoma derivativo, excluyendo 7 pacientes por presentar datos incompletos (3,7%). Los valores de CLS de todos los pacientes se muestran en el gráfico de dispersión (Figura 1). Hubo FA en 12 de ellos (6,6%), siendo un 13,7% (8/58) para recto y 3,2% (4/122) para colon izquierdo (p = 0,008). En quienes no hubo FA la media de CLS fue de 6,94 (DS 2,97) y en quienes hubo FA la media fue de 11,5 (DS 3,63) (p < 0,0001). Si evaluamos el CLS por separado en colon y recto, la media fue de 6,43 (DS 2,69) y 8,94 (DS 3,57) respectivamente (p < 0,001). Al comparar las variables evaluadas en el CLS entre quienes hubo FA y no-FA (Tabla 2) se puede observar que hubo diferencia estadísticamente significativa (p < 0,05) en la media de edad, presencia de terapia neoadyuvante y distancia al margen anal.
+
+Figura 1 Gráfico de dispersión de los 180 pacientes y su respectivo CLS. Puntos azules pacientes sin filtración anastomótica. Puntos rojos pacientes con filtración anastomótica. 
+
+Tabla 2 Comparación entre pacientes con filtración anastomótica (FA) y aquellos sin filtración anastomótica (no-FA) 
+
+En la Curva ROC (Figura 2), el AUC para predicción de FA con el CLS fue de 0,829 (IC 95% 0,697-0,961), estableciendo un valor de corte óptimo en 11 utilizando un índice de Youden de 0,554, el que corresponde al punto más cercano al ángulo superior izquierdo de la curva ROC, con una sensibilidad de 67%, especificidad de 89%, LR+ de 5,895 y LR- de 0,376.
+
+Figura 2 Curva ROC para el Colon Leakage Score. 
+
+En el análisis de regresión logística, se revela que el OR para la predicción de FA utilizando el CLS es de 1,48 (IC 95% 1,22-1,79 p < 0,001).
+
+Discusión
+
+Es ampliamente conocido que la FA es una complicación que conduce a morbimortalidad, aumento en la estadía hospitalaria y costos asociados a la atención en salud. Evaluar el riesgo preoperatorio e intraoperatorio de FA es trascendental al tomar la decisión de realizar una ostomía desfuncionalizante, siendo el criterio del cirujano lo más utilizado actualmente. Sin embargo, el advenimiento de scores para objetivar el riesgo es una herramienta que facilita la toma de decisiones permitiendo tener argumentos más objetivos para la creación de un ostoma desfuncionalizante.
+
+Existen diferentes scores en la literatura, destacando dentro de ellos el CLS, DULK Score9 y el PROCOLE10. Descartamos utilizar el DULK Score, debido a que, en el diseño retrospectivo propuesto para el presente estudio, hay variables poco accesibles para poder establecer el puntaje y consideramos algunas de ellas subjetivas como la presencia de deterioro de condición clínica y dolor, además, del hecho que solo considera variables posoperatorias, lo que no colabora en la toma de decisiones pre o intraoperatorias. El PROCOLE es una excelente herramienta que considera factores de riesgo muy similares al CLS. Al igual que éste, se obtiene un valor de corte sobre el cual se debería realizar un ostoma derivativo, sin embargo, su reproducibilidad es menos práctica. Se utilizó el CLS, ya que es una herramienta objetiva, reproducible, con variables accesibles y conocidas ampliamente por los cirujanos, que, además, fue validado con una cohorte de 139 pacientes en los Países Bajos, estableciendo un valor de corte de 11 puntos. En una serie realizada en población China26 se obtuvo un valor de corte similar.
+
+Excluimos del análisis a pacientes con ostomas derivativos, ya que por una parte deja más homogénea nuestra muestra y por otra elimina un factor que alteraría el riesgo de filtración al proteger la anastomosis de la filtración. También se excluyeron pacientes operados de patología benigna como es el caso de la enfermedad diverticular y endometriosis, esto debido a que el CLS solo es aplicable a patología maligna al contener variables propias de ella, como lo es la presencia de neoadyuvancia.
+
+En nuestra muestra de 180 pacientes con cirugía por cáncer de colon izquierdo y recto, los resultados indican que el CLS es una herramienta que permite predecir el riesgo de FA con un AUC de 0,829 (IC 95% 0,697-0,961) y un OR de 1,48 (IC 95% 1,22-1,79 p < 0,001). El valor de corte de 11, basado en el índice de Youden (Tabla 3) nos permite identificar pacientes con alto riesgo de realizar FA con una sensibilidad de 67% y una especificidad de 89%, resultados similares a lo reportado en la literatura.
+
+Tabla 3 Sensibilidad y especificidad del Colon Leakage Score en predecir filtración anastomótica, utilizando índice de Youden (IY) para la curva ROC 
+
+Nuestro estudio tiene limitaciones, en lo referente a la muestra, ya que es de un solo Centro y, por otro lado, al diseño retrospectivo de éste. No obstante, en el trabajo original de Dekker, el CLS también se evaluó retrospectivamente. Dentro de las fortalezas, hay que destacar una pérdida mínima de pacientes, todos por ausencia de datos que era uno de los criterios de exclusión. Con esto se puede interpretar que las variables incluidas en el CLS son comúnmente utilizadas por los cirujanos y, por tanto, fáciles de recolectar de la ficha clínica.
+
+Conclusión
+
+El valor de corte del CLS de Clínica INDISA es de 11 puntos, similar a la literatura internacional y con cada punto que sube el CLS, sube en 1,48 veces el riesgo de presentar una FA. Dados estos resultados se concluye que ante un valor igual o mayor a 11 puntos se debería crear una ostomía de protección, hecho que genera un cambio en la práctica clínica local.
+
+El CLS es una herramienta que permite predecir el riesgo de FA en los pacientes intervenidos por CCR.
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Financiamiento: Sin financiamiento.

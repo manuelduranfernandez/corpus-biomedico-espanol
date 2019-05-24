@@ -1,0 +1,90 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262017000100006
+Utilidad del índice de presión arterial tobillo-tobillo en pacientes con trauma en extremidad inferior y signos blandos de lesión vascular
+
+ 
+
+Introducción
+
+Las lesiones de causa externa son una de las principales causas de morbimortalidad en Colombia; en 2014, más del 50% de defunciones fueron por traumas cerrados, penetrantes u ondas expansivas1,2. Las extremidades inferiores pueden verse afectadas, siendo esta lesión inadvertida o no, con riesgo de pérdida parcial o total del miembro lesionado si no se logra valorar rápida y detalladamente el miembro comprometido en búsqueda de lesiones nerviosas, vasculares o musculares. Un retraso en el diagnóstico y manejo de lesiones arteriales de 6 a 12 h está asociado con mal pronóstico3.
+
+La arteriografía es el patrón de oro en el diagnóstico de lesión vascular; sin embargo, el 95% de los estudios angiográficos solicitados en pacientes con trauma de extremidades son negativos, representando un gran costo como método inicial de abordaje4-6. Así, el enfoque diagnóstico del compromiso vascular inicia con el examen físico para determinar la presencia de signos duros y blandos de lesión vascular7. Los signos duros incluyen la ausencia de pulsos distales, sangrado activo, hematoma en expansión, isquemia distal, frémito y soplo; el hallazgo de estos indica manejo quirúrgico por la alta probabilidad de compromiso al flujo sanguíneo8. La sensibilidad y especificidad de los signos duros en trauma de extremidades están entre 92 y 95% para lesión vascular que requiere intervención quirúrgica, con un valor predictivo positivo de 95%9-11.
+
+Los signos blandos incluyen hematoma pequeño estable, déficit nervioso periférico, hipotensión inexplicable, trayecto vascular comprometido y antecedente de hemorragia en la herida quirúrgica12. En pacientes sin signos duros de lesión vascular pero con signos blandos, se recomienda el uso de imágenes no invasivas para definir la indicación de manejo quirúrgico, como la ecografía Doppler y la angiografía tomográfica computarizada13; sin embargo, estas técnicas son costosas y no siempre están disponibles en todos los centros en donde se atienden pacientes con potencial trauma vascular14.
+
+Una alternativa para la evaluación de posibles lesiones vasculares en pacientes con signos blandos que no presentan signos duros son los índices que comparan las presiones arteriales de las extremidades. El más utilizado es el índice de presión arterial tobillo-brazo (ITB); se obtiene al dividir la presión sistólica del tobillo en la extremidad lesionada sobre la presión sistólica tomada en la arteria braquial ipsilateral y se considera normal cuando es mayor a 0,9. La precisión del ITB para diagnosticar lesión arterial alcanza el 95%6,9, con sensibilidad de 72,5%, especificidad de 100%, valor predictivo positivo de 100% y valor predictivo negativo de 96% para lesión vascular8,9. Una vez se obtiene un ITB patológico, la conducta debe enfocarse a realizar angiografía y estudios complementarios; es por esta razón que permite un abordaje más dinámico de los pacientes con trauma vascular en extremidades inferiores. De esta manera, el ITB es económico, sencillo, rápido y sin complicaciones serias asociadas10,15-18.
+
+En ocasiones se presentan pacientes con afectación de las extremidades superior e inferior ipsilaterales, lo que hace imposible la realización del ITB; este fenómeno fue descrito por Esteban, Castillo y Valencia-Angel en 2012 en nuestra institución19-22. Desde esta perspectiva, se realizó el presente trabajo con el objetivo de establecer la utilidad del índice de presión arterial tobillo-tobillo (ITT) frente al ITB para el diagnóstico de trauma vascular en miembros inferiores en pacientes que solo presentan signos blandos.
+
+Material y método
+
+Este es un estudio de validación de tecnología diagnóstica tipo cohorte en donde se estudiaron pacientes adultos atendidos en el servicio de urgencias del Hospital Universitario de Santander (Bucaramanga, Colombia) entre 2012-2015, con trauma en una extremidad inferior pero sin signos duros de lesión vascular. A todos estos pacientes se les realizó de forma simultánea ITB e ITT. Todos los participantes dieron su consentimiento informado; el estudio fue aprobado previamente por el Comité de Ética e Investigación de la Universidad Industrial de Santander. El estudio siguió la normatividad nacional y las normas éticas planteadas por la Declaración de Helsinki (actualización de 2000).
+
+Se incluyeron 120 pacientes con base en un cálculo del tamaño de muestra para una prevalencia esperada de lesión vascular en este tipo de pacientes de 3,7%23, con nivel de confianza del 95% y precisión o error máximo permisible de 3,5%. Los criterios de inclusión implicaban que los pacientes no tuviesen inestabilidad hemodinámica, antecedentes de diabetes mellitus o enfermedad arterial oclusiva crónica, o de traumatismo múltiple, en quienes por razones técnicas no se pudiese realizar ITB o ITT, ni aquellos con compromiso en las 2 extremidades inferiores o cualquiera de los brazos. Se recolectó la información con las variables relativas a edad, sexo, mecanismo de lesión (contundente, cortopunzante o arma de fuego), localización de la herida, y presencia de signos blandos de lesión vascular.
+
+Las mediciones de ITB e ITT se realizaron con el paciente luego de 10 min en decúbito supino. La medición de la presión arterial en brazos y tobillos se hizo con esfigmógrafo calibrado y brazalete neumático. Se registró la presión arterial de cada uno de los brazos y tobillos, teniendo en cuenta un minuto de diferencia entre las mediciones. Se obtuvo tanto ITB como ITT en cada paciente. Se realizó una medición de control a las 6 h cuando el ITB era mayor a 0,9, teniendo en cuenta la misma metodología; si en alguna medición este ITB era inferior a 0,9, se llevó inmediatamente a cirugía.
+
+Las variables se informaron como proporciones o la mediana y recorrido intercuartil (RIQ) dado que las variables cuantitativas no tenían distribución normal. Se compararon paciente a paciente ITB frente a ITT, siendo la primera el referente fisiológico de referencia, por medio de regresión lineal simple. Para estimar los indicadores de rendimiento diagnóstico, incluyendo curva ROC, se tomó como referente la presencia de lesión vascular luego de cirugía; los pacientes que no se llevaron a esta se consideraron como negativos. El análisis se realizó con STATA SE 12.1 (StataCorp, College Station, Estados Unidos).
+
+Resultados
+
+Se estudiaron 120 pacientes; 111 (92,5%) eran hombres y 9 (7,5%) eran mujeres. La mediana de edad fue de 27 (RIQ 21 a 33) años. Un total de 64 (53,3%) pacientes sufrieron lesión de extremidad inferior derecha y 56 (46,6%) de la izquierda; 84 (70%) recibieron heridas por arma cortopunzante, 21 (17,5%) trauma contundente, 10 (8,3%) herida por arma de fuego y 5 (4,1%) cortocontundente.
+
+Cincuenta (41,6%) pacientes presentaron herida en trayecto vascular como signo blando de lesión vascular, 19 (15,8%) hematoma estable, 56 (46,6%) tenían antecedente de sangrado, 3 (2,5%) déficit neurológico y 3 (2,5%) pulso disminuido; 11 (9,1%) pacientes presentaron más de un signo blando.
+
+La mediana de presión arterial sistólica del tobillo de la pierna lesionada al ingreso fue de 135 mmHg (RIQ 120 a 140); a su vez, la mediana de presión arterial sistólica del brazo ipsilateral fue de 130 mmHg (120 y 150); 21 (17,5%) pacientes tuvieron ITB < 0,9 al ingreso, los cuales fueron llevados a intervención quirúrgica inmediata, encontrando lesión vascular en todos ellos. Dos (1,6%) pacientes adicionales tuvieron ITB < 0,9 en el control a las 6 h, quienes fueron llevados a cirugía, encontrando también lesión vascular; así, se encontraron 23 pacientes con lesión vascular (fig. 1). En la tabla 1 se aprecia la frecuencia de signos blandos de lesión vascular en la extremidad comprometida. Ninguno por sí mismo es indicador de lesión vascular.
+
+ 
+
+
+
+Figura 1 Flujograma de pacientes desde que fueron captados hasta el control a las 6 h.
+
+ 
+
+Tabla 1 Utilidad de los signos blandos para el diagnóstico de lesión vascular en miembros          inferiores
+
+
+
+ 
+
+La concordancia del ITB realizado en la primera evaluación con la presencia de lesiones vasculares fue de 98% (IC 95%: 0,94-0,99), con sensibilidad de 91% (IC 95%: 0,71-0,98), especificidad de 100% (IC 95%: 0,96-1,0), valor predictivo positivo de 100% (IC 95%: 0,83-1,0), valor predictivo negativo de 97% (IC 95%: 0,92-0,99) y Kappa de 0,940. El área bajo la curva ROC (fig. 2) fue de 0,979 (IC 95%: 0,944-1,000). No es posible estimar las razones de verosimilitud dado que no se presentaron falsos positivos.
+
+ 
+
+
+
+Figura 2 Análisis ROC de índice tobillo-brazo (IPA) e índice          tobillo-tobillo (ITT).
+
+ 
+
+La mediana de presión arterial sistólica del tobillo contralateral a la lesión fue de 120 mmHg (RIQ 120 a 150). El análisis de la curva ROC muestra que el área bajo la curva del ITT es de 0,979 (IC 95%: 0,944-1,000), siendo el mejor punto de corte el mismo del ITB, con los mismos indicadores de rendimiento diagnóstico, excepto el área bajo la curva ROC mencionados.
+
+Dado que el riesgo de enfermedad arterial oclusiva crónica es mayor entre las personas de 40 o más años de edad, se hizo análisis estratificado según ese criterio, sin que se encontraran diferencias respecto a la conclusión inicial sobre la equivalencia de las 2 pruebas para diferenciar los pacientes con lesión vascular de los que no la tienen (fig. 3). De hecho, los 2 falsos positivos en la primera medición se presentaron en personas menores de 40 años, por lo que los indicadores de rendimiento diagnóstico tanto de ITB como de ITT son similares entre las personas de 40 años o más: concordancia de 98% (IC 95%: 93-100%), sensibilidad de 89% (IC 95%: 65-99%), especificidad de 100% (IC 95%: 96-100%), valor predictivo positivo de 100% (IC 95%: 79-100%), valor predictivo negativo de 98% (IC 95%: 92-100%) y Kappa de 0,928. La única diferencia, no significativa, es en el área bajo la curva ROC: ITB 0,978 (IC 95%: 0,953-1,00) e ITT 0,973 (IC 95%: 0,940-1,000).
+
+ 
+
+
+
+Figura 3 Gráfica de dispersión de los índices tobillo-brazo y          tobillo-tobillo      según la edad.
+
+ 
+
+Discusión
+
+El trauma vascular periférico es una causa importante de morbimortalidad en Colombia, constituyéndose en un motivo de consulta frecuente en el servicio de urgencias7. El paciente con trauma en extremidades inferiores y sospecha de lesión vascular se debe abordar clínicamente con los signos duros y blandos. En caso de presentar algún signo duro de lesión vascular, el paciente debe ser intervenido quirúrgicamente de manera inmediata. En caso de presentar algún signo blando, se debe realizar el ITB para definir si el paciente requiere una imagen de estudio o si puede seguirse clínicamente5,9,11.
+
+Sin embargo, en ocasiones no es posible realizar el ITB cuando un paciente presenta politraumatismo que involucra el brazo y pierna ipsilaterales, o se encuentra inmovilizado por alguna lesión ósea, lo cual limita el examen físico. Es por esta razón que con este estudio planteamos un índice de presión arterial que involucre la extremidad inferior contralateral sana realizando las mediciones en los tobillos6,11,18. Así, el ITT surge como una herramienta que permite realizar el abordaje clínico inicial de los pacientes con trauma en extremidades inferiores y signos blandos de lesión vascular. Una posible debilidad del estudio es no haber realizado seguimiento a largo plazo de los pacientes, quienes pudiesen desarrollar alguna complicación de manifestación tardía y que requiriese solución quirúrgica, como es el caso de los aneurismas posteriores al trauma. Sin embargo, en el contexto de la valoración aguda, estos índices son de utilidad.
+
+Previamente no existe informe en la literatura sobre un punto de corte sugerido para el ITT. Todos los pacientes del presente estudio fueron abordados con el ITT y el ITB. Al comparar los resultados obtenidos con el ITB y el ITT se evidenció que tienen una correlación elevada, ante lo cual el punto de corte con más sensibilidad y especificidad es muy similar para los 2 índices.
+
+Al existir tal correlación entre el ITB y el ITT podemos comparar nuestro estudio con otras evaluaciones del ITB que existen en la literatura mundial, encontrando que tanto el punto de corte, como sensibilidad, especificidad, y valores predictivos positivo y negativo coinciden con aquellos evidenciados previamente8; sin embargo, nosotros utilizamos como prueba de referencia el ITB y no la arteriografía, evitando en nuestros pacientes la morbilidad asociada a la administración de medio de contraste5,11.
+
+El trauma penetrante es más frecuente en nuestro medio comparado con los Estados Unidos y Europa, donde el trauma cerrado prevalece en la población civil8,23. Este hallazgo tiene un papel importante en los resultados dado que tratamos con pacientes que tenían una alta probabilidad de lesión vascular que fue diagnosticada a tiempo con el abordaje clínico inicial asociado a la medición del ITB e ITT.
+
+Según nuestros hallazgos, el ITT es útil para valorar al paciente con trauma en extremidades inferiores y signos blandos de lesión vascular dado que cuenta con sensibilidad, especificidad y valores predictivos adecuados; por lo tanto, se presenta como una herramienta diagnóstica práctica en el abordaje diagnóstico de este tipo de pacientes.
+
+Dado que el riesgo de enfermedad arterial oclusiva crónica es mayor entre las personas de 40 o más años de edad, se hizo un análisis estratificado según ese criterio (pacientes de 40 o más años y pacientes menores de 40 años). En la gráfica de dispersión del ITB e ITT teniendo en cuenta estos 2 grupos de edad, no hay cambios en la conclusión inicial sobre la equivalencia de las 2 pruebas para diferenciar los pacientes con lesión vascular de los que no la tienen.
+
+En individuos sanos, la presión arterial sistólica del tobillo es 10-15 mmHg mayor que la presión sistólica braquial debido a la mayor resistencia vascular periférica en las arterias del tobillo5,11. En nuestro estudio todos los pacientes presentaron trauma en extremidades inferiores, por lo tanto, podríamos extrapolar los resultados de las extremidades superiores al tener en cuenta esa diferencia de presiones entre los miembros superior e inferior.
+
+De acuerdo a los resultados de este estudio, se recomienda el uso del ITT para definir el manejo de pacientes con signos blandos de lesión vascular teniendo en cuenta que este índice es tan representativo como el ITB, pero adicionalmente es útil en el paciente con compromiso de las extremidades superior e inferior ipsiltarales y en el paciente que se encuentra inmovilizado de las extremidades superiores.

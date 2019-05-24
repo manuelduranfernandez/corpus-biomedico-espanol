@@ -1,0 +1,76 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262017000600441
+Índice clínico de gravedad en pancreatitis aguda como predictor de mortalidad en pancreatitis aguda en el servicio de urgencias
+
+Introducción
+
+La pancreatitis aguda es un proceso inflamatorio que frecuentemente involucra tejidos peripancreáticos y puede involucrar órganos y sistemas distantes1 secundario a la activación intracelular inadecuada de enzimas proteolíticas y la activación de la cascada de fosfolipasa A2, elastasa y otros mediadores, con el incremento de migración de neutrófilos hacia el páncreas2-4.
+
+El proceso inflamatorio en la mayoría de los casos se autolimita, y solo cerca del 15% desarrollarán cuadros severos, con mortalidad del 30 al 50%5,6; debido a esto, las guías establecidas por el Colegio Americano de Gastroenterología (2006 y 2013) recomiendan la estratificación del riesgo temprano y la rápida determinación del estado hemodinámico y el inicio de la reanimación7.
+
+Se han desarrollado múltiples score de estratificación, entre ellos: Ranson, APACHE II, Glasgow, marcadores hematológicos, bioquímicos (procalcitonina, PCR, péptido activador del tripsinógeno urinario e interleucina 6), que ayudan a predecir la severidad y dictar la conducta terapéutica; sin embargo, tienen varias limitaciones, incluyendo el tiempo de estratificación (necesitando incluso algunos hasta 48 h para determinar la severidad), la cantidad de variables a evaluar y su disponibilidad en los servicios de urgencias8-11. El score Bedside Index of Severity in Acute Pancreatitis (BISAP) es específico para pancreatitis aguda y evalúa 5 variables (BUN, alteración del estado mental, SRIS, edad y derrame pleural); la mortalidad observada con mayor número de variables positivas va desde el 0,20% (puntaje de 0) hasta cerca del 22-27% (5 puntos); se ha comparado con otros scores de estratificación (Ranson, APACHE, Glasgow, CTIS), con resultados clínicos similares y ventajas operativas superiores, entre ellas la simplicidad y facilidad para aplicar y calcular en el servicio de urgencias, considerándose una herramienta útil y segura para la estratificación del riesgo de esta enfermedad de curso clínico dinámico12-17.
+
+Por lo anterior, el objetivo de este trabajo fue determinar el BISAP como predictor de mortalidad en pancreatitis aguda en el servicio de urgencias.
+
+Material y método
+
+Se realizó un estudio de cohorte, en pacientes con diagnóstico de pancreatitis aguda en el servicio de urgencias del Hospital General Regional 1 del Instituto Mexicano del Seguro Social Querétaro, México (diciembre del 2015-agosto del 2016).
+
+Se formaron 2 grupos de acuerdo con el puntaje de BISAP: alto riesgo (3-5 puntos) y bajo riesgo (0-2 puntos); los grupos fueron seguidos desde su internamiento en el servicio de urgencias, durante la estancia en el hospital y hasta su egreso.
+
+Se incluyeron pacientes mayores de 18 años, con estancia en el servicio de urgencias menor de 24 h, y con datos completos de valores de laboratorio y rayos X para el cálculo del score. Se excluyeron los pacientes referidos de otros centros con más de 24 h desde el inicio del tratamiento en el centro de origen y se eliminaron del estudio aquellos pacientes con encuestas incompletas.
+
+El tamaño de la muestra se calculó con la fórmula de porcentajes para dos poblaciones con nivel de confianza del 95% (Zalfa = 1,64), poder de la prueba del 80% (Zbeta = 0,84), prevalencia de mortalidad a las 24 h en el grupo de alto riesgo del 23% y en el grupo de bajo riesgo, del 1%. El total de la muestra para cada grupo fue de 23,76; no obstante, se trabajó con 111 pacientes de bajo riesgo y 23 de alto riesgo.
+
+La técnica muestral fue no aleatoria por cuota, empleando como marco muestral el listado de pacientes que ingresaron al servicio de urgencias y que cumplieron con los criterios de selección.
+
+Las variables estudiadas incluyeron: sexo, edad, padecimientos crónicos (diabetes tipo 2 e hipertensión arterial), mortalidad a las 24 h, mortalidad a los 7 días, y la aplicación al ingreso al servicio de urgencias del score BISAP. Se creó una base de datos electrónica. Este protocolo fue elaborado teniendo como base los principios éticos para la investigación médica en seres humanos, estipulados en la declaración de Helsinki, así como la aplicación de la carta de consentimiento informado.
+
+Los grupos de alto y de bajo riesgo determinados por la escala BISAP se definieron al ingreso al servicio de urgencias, fueron monitoreados durante su estancia hospitalaria y se evaluó la presencia de mortalidad a las 24 h y a los 7 días. El análisis estadístico incluyó la regresión logística simple para los dos lapsos de tiempo, y se calculó la probabilidad de la presencia de mortalidad (1/1 +e-y); como parte del análisis también se incluyeron promedio, desviación estándar, porcentajes, prueba de chi cuadrada y riesgo relativo.
+
+Los pacientes fueron manejados de acuerdo con las guías de práctica clínica en pancreatitis aguda.
+
+Resultados y discusión
+
+La gravedad de la pancreatitis aguda varía desde una enfermedad leve a grave. Generalmente los procesos inflamatorios leves se autolimitan y solo cerca del 15% de los casos desarrollan cuadros graves5. En este estudio predominó el sexo femenino en ambos grupos; esto se atribuye a los factores de riesgo asociados (p. ej., embarazo, obesidad y uso de hormonas anticonceptivas) para desarrollar patología biliar18, siendo esta última la principal causa de pancreatitis aguda, al igual que lo informado en la literatura nacional e internacional5.
+
+En el grupo de alto riesgo la edad promedio es de 64,61 años ±16,07, y en el grupo de bajo riesgo es de 45,97 años ± 17,80 (t = 4,64; p = 0,00). En ambos predominó el sexo femenino, sin embargo, estadísticamente no fue significativa la diferencia: 65,2% en alto riesgo y 57,7% en bajo riesgo (Chi2 =0,45; p = 0,50).
+
+La prevalencia de hipertensión en el grupo de alto riesgo (34,8%) fue mayor que la prevalencia en la población de bajo riesgo (13,5%); estadísticamente estos valores fueron significativos (Chi2 =6,02; p = 0,01). Contrario al comportamiento de la hipertensión, la diabetes no mostró diferencias estadísticamente significativas entre los grupos de alto riesgo (30,4%) y bajo riesgo (25,2%) (Chi2 =0,26; p = 0,60). Lo que la literatura señala es que la diabetes altera la secreción exocrina del páncreas principalmente por un aumento de la secreción de somatostatina, glucagón y polipéptido pancreático, hormonas que participan en dicha secreción; esto se observa más en pacientes insulinopénicos, y el grado de disfunción se correlaciona con el tiempo de evolución19. Se ha descrito en estudios que existe una mayor cantidad de fibrosis tanto en tejido exocrino como endocrino, que puede propiciar mayor riesgo de padecer pancreatitis aguda y crónica20; no obstante, habrá que recordar que lo que se estudia en este trabajo no es la prevalencia de la pancreatitis, lo que se estudia es la gravedad de la misma y su relación con la mortalidad.
+
+En este estudio, cuando se cataloga el score BISAP en bajo y alto riesgo, se identifica como factor de riesgo para mortalidad a las 24 h, lo cual coincide con los resultados descritos en la literatura internacional21. Esta información se presenta en la tabla 1.
+
+Tabla 1 BISAP al ingreso como factor de riesgo para mortalidad a las 24 h y a los 7 días 
+
+Una aportación de este trabajo es la estimación del grado del BISAP como factor de riesgo para mortalidad a los 7 días; en el grupo de alto riesgo la mortalidad a los 7 días es del 77,8% y en el grupo de bajo riesgo es del 8,2%, valores estadísticamente significativos. En la tabla 1 se presenta esta información. Al respecto se puede señalar que el aumento de la mortalidad está determinado por el curso clínico, el cual puede variar de una forma leve a una de grave con afectación no solo del órgano propiamente dicho, acompañándose de deterioro de la función de otros órganos y sistemas, condicionando disfunción orgánica múltiple y mayor riesgo de procesos infecciosos agregados, resultando en un mal pronóstico para la vida22,23.
+
+La regresión logística simple a partir del BISAP para estimar la mortalidad a las 24 h fue estadísticamente significativa; la ecuación de regresión señala y = -4,68 + 3,477 (BISAP) (Chi2 =13,91; p = 0,002). En la tabla 2 se presenta esta información.
+
+Tabla 2 BISAP al ingreso a urgencias como predictor de mortalidad a las 24 h 
+
+El cálculo de la probabilidad de morir a las 24 h a partir del BISAP de ingreso de alto riesgo fue del 22,7% (tabla 3).
+
+Tabla 3 Cálculo de la probabilidad de morir a las 24 h a partir del BISAP de ingreso 
+
+El modelo para predecir la mortalidad a los 7 días cuando el BISAP de ingreso se catalogó como de alto riesgo (3 a 5 puntos) o de bajo riesgo (0 a 2 puntos) es estadísticamente significativo; la ecuación de regresión señala y=-2,418 + 3,597 (BISAP) (Chi2 = 36,23; p = 0,002). En la tabla 4 se presenta la información respectiva.
+
+Tabla 4 BISAP al ingreso a urgencias como predictor de mortalidad a los 7 días de acuerdo con el puntaje 
+
+La probabilidad de morir a los 7 días en pacientes con pancreatitis cuando el BISAP de ingreso se catalogó como de alto riesgo (3 a 5 puntos) es del 76,5% (tabla 5).
+
+Tabla 5 Cálculo de la probabilidad de morir a los 7 días a partir del BISAP de ingreso 
+
+Conclusión
+
+Uno de los objetivos del servicio de urgencias es preservar la vida y limitar el daño a través de la identificación oportuna de pacientes con alto riesgo de mortalidad y de esta manera establecer un tratamiento intensivo que impacte en el curso clínico.
+
+En particular, el score BISAP es una herramienta adecuada para la estratificación del riesgo y la predicción de mortalidad a las 24 h y a los 7 días en pacientes atendidos por pancreatitis en el servicio de urgencias.
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informado. Los autores han obtenido el consentimiento informado de los pacientes y/o sujetos referidos en el artículo. Este documento obra en poder del autor de correspondencia.
+
+Disponible en Internet el 11 de julio de 2017

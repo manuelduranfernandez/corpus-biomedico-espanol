@@ -1,0 +1,160 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262016000500014
+Pautas de chequeo, parte III: STROBE y ARRIVE
+
+ 
+
+Introducción
+
+La realización de ensayos clínicos controlados, el diseño preferido de la medicina basada en la evidencia1, es en la mayor parte de los casos la parte final de un recorrido que comienza con otros tipos de estudios en el ámbito epidemiológico y de laboratorio. Estos otros tipos de estudios o diseños de investigación son los que aportan los insumos necesarios para testear una intervención controlada en seres humanos2, principalmente el sustento científico de la hipótesis a probar en dicho ensayo clínico. Por lo tanto, es importante que el progreso de una línea de investigación a través de diversos tipos de estudios considere criterios de calidad científica de excelencia a lo largo de todo el proceso3.
+
+En el ámbito epidemiológico, son los diseños observacionales analíticos los que permiten establecer relaciones entre variables clínicas y/o epidemiológicas de interés. Estas relaciones son las que guían las hipótesis de una parte importante de los ensayos clínicos2, pero además aportan datos relevantes para sustentar políticas de salud pública, como es el caso de la prevalencia en los estudios de corte transversal4.
+
+Por otro lado, en el ámbito del laboratorio es la investigación in vitro e in vivo con animales la que permite probar en las etapas iniciales de una línea de investigación la eficacia, eficiencia y seguridad de las intervenciones (farmacológicas, quirúrgicas, etc.) que luego serán testeadas con seres humanos por medio de ensayos clínicos en sus distintas fases5.
+
+Al igual que con los diseños de mayor nivel de evidencia, revisiones sistemáticas6 y ensayos clínicos1, los estudios observacionales analíticos y la experimentación con animales necesitan que el reporte de la investigación incluya elementos mínimos que garanticen su transparencia, replicabilidad y, en último término, la utilización de sus resultados y conclusiones3.
+
+El objetivo de este tercer artículo de la serie es dar a conocer las pautas de chequeo STROBE para estudios observacionales, y ARRIVE para investigación con animales.
+
+STrengthening the Reporting of OBservational studies in Epidemiology (STROBE)
+
+Una parte importante de los avances en el entendimiento de las enfermedades, por ejemplo el rol de diversos factores de riesgo, ha sido lograda a través de estudios observacionales analíticos2. Esto refuerza la idea que la práctica basada en la evidencia necesita más que solo ensayos clínicos controlados7.
+
+Si bien existen distintos tipos de diseños en la categoría de estudios observacionales, son 3 los más relevantes y prevalentes en la literatura biomédica: transversales, cohortes, y casos y controles2. Estos estudios permiten en general estimar la correlación que existe entre 2 variables, por ejemplo una enfermedad y un factor (de riesgo), pero en ningún caso pueden determinar causalidad8. A pesar de esto último, permiten orientar hipótesis que se comprobarán con diseños de mayor complejidad1.
+
+Sin embargo, no debe creerse que estos estudios sean simples de realizar y reportar. Por el contrario, tal como ha ocurrido con otros tipos de diseños1,6, la calidad de los reportes de estudios observacionales muestra que una proporción importante de los artículos publicados en las revistas de corriente principal carecen de elementos mínimos para evaluar y replicar adecuadamente esa investigación9, lo que les quita valor y dificulta su aplicabilidad.
+
+Al igual que con otras pautas de chequeo1,6, un grupo de epidemiólogos, estadísticos, editores e investigadores se reunió con el propósito de mejorar la calidad del reporte de estudios observacionales, formando en 2004 la iniciativa STROBE, tomando como base la experiencia CONSORT1. El objetivo del grupo fue elaborar una pauta que facilitara la comunicación adecuada de los estudios observacionales, enfocada en 3 diseños: transversales, cohortes, y casos y controles. El resultado final fue la pauta STROBE10, que incluye 22 ítems agrupados en 6 dominios (título y resumen, introducción, métodos, resultados, discusión, otra información).
+
+Ítems de la lista de chequeo10
+
+Título y resumen
+
+1.a Título: indique el diseño del estudio con un término de uso frecuente; puede ser en el título o resumen. Recuerde que esta pauta va enfocada a los diseños de corte transversal, casos y controles, y cohortes.
+
+1.b Resumen: Entregue una sinopsis informativa y equilibrada de lo que se ha hecho y lo que se ha encontrado.
+
+Introducción
+
+2. Contexto/fundamentos: explique las razones y el fundamento científico de la investigación que trata el artículo. Debe quedar claro por qué es importante lo que se investigó.
+
+3. Objetivos: indique los objetivos específicos (aunque generalmente solo se reporta el objetivo general), incluida cualquier hipótesis que guíe la realización de la investigación.
+
+Métodos
+
+4. Diseño del estudio: presente los elementos clave del diseño del estudio. Recuerde que esta pauta va enfocada a los diseños de corte transversal, casos y controles, y cohortes, por lo que debería entregar las características y justificación del diseño que ha utilizado.
+
+5. Contexto: describa el marco o condiciones en que se realizó el estudio, los lugares y las fechas relevantes, incluidos los períodos de reclutamiento, exposición, seguimiento y recolección de datos.
+
+6. Participantes: se debe describir la forma en que se seleccionaron de acuerdo al tipo de diseño de investigación. En los estudios transversales, proporcione los criterios de selección y las fuentes y métodos de selección de los participantes. En estudios de cohortes, proporcione los criterios de selección, las fuentes y el método de selección, así como los métodos de seguimiento. En los estudios pareados, proporcione los criterios para la formación de parejas y el número de participantes con y sin exposición. En estudios de casos y controles, proporcione los criterios de selección, así como las fuentes y el proceso diagnóstico de los casos, y en el de selección de los controles, proporcione las razones para la elección de casos y controles. En los estudios pareados, proporcione los criterios para la formación de las parejas y el número de controles por cada caso.
+
+7. Variables: defina claramente todas las variables de respuesta, exposiciones, predictoras, confusoras y modificadoras del efecto. Si procede, proporcione los criterios diagnósticos para cada una de ellas.
+
+8. Fuentes de datos/medidas: para cada variable de interés, proporcione las fuentes de datos y los detalles de los métodos de medición utilizados. Si hubiera más de un grupo, especifique la comparabilidad de los procesos de medición.
+
+9. Sesgos: especifique todas las medidas adoptadas para manejar los potenciales de sesgo.
+
+10. Tamaño de la muestra: explique cómo se determinó el tamaño de la muestra. Esto es muy relevante para la validez de los resultados, siendo importante considerar el nivel de confianza y la potencia estadística utilizada.
+
+11. Variables cuantitativas: explique cómo se trataron las variables cuantitativas en el análisis. En caso de haber agrupado variables, se debe especificar la razón de ello.
+
+12. Métodos estadísticos: se deben especificar: a) todos los métodos estadísticos, incluidos los empleados para controlar los factores de confusión; b) todos los métodos utilizados para analizar subgrupos e interacciones, y c) el tratamiento de los datos ausentes (missing data), en caso que existan en el estudio. En los estudios de cohortes explique cómo se afrontan las pérdidas en el seguimiento, si es que existieron. En los estudios de casos y controles explique cómo se aparearon casos y controles, si fue un estudio pareado. En los estudios transversales especifique cómo se tuvo en cuenta en el análisis la estrategia de muestreo, si es que se utilizó. Finalmente, es importante describir los análisis de sensibilidad utilizados en los puntos anteriores.
+
+Resultados
+
+13. Participantes: describa el número de participantes en cada fase del estudio; el grupo objetivos, quiénes cumplían los criterios de selección y los que finalmente fueron seleccionados, seguidos y analizados, así como las pérdidas en cada etapa, especialmente en el seguimiento. Una buena forma de resumir esta información es con un diagrama de flujo.
+
+14. Datos descriptivos: caracterice a los participantes en el estudio, informando sobre las exposiciones y los posibles factores de confusión. Indique el número de participantes con datos ausentes (perdidos/incompletos) en cada variable de interés. Entregue información del período de seguimiento (promedio y total).
+
+15. Datos de las variables: en estudios de cohortes describa el número de eventos positivos; en estudios de casos y controles describa el número de participantes en cada categoría de exposición; en estudios transversales describa el número de eventos resultado. En caso contrario, se deben entregar medidas resumen de la variable resultado.
+
+16. Resultados principales: proporcione estimaciones no ajustadas y, si procede, ajustadas por factores de confusión, así como su precisión (por ej., intervalos de confianza del 95%). Especifique los factores de confusión por los que se ajusta y las razones para incluirlos. Si categoriza variables continuas, describa los límites de los intervalos. Si fuera pertinente, junto a las estimaciones del riesgo relativo, agregue estimaciones del riesgo absoluto para un período de tiempo relevante.
+
+17. Otros análisis: describa otros análisis efectuados, tales como subgrupos, interacciones o sensibilidad.
+
+Discusión
+
+18. Resultados clave: resuma los resultados principales del estudio, siempre en función de los objetivos planteados en el punto 3.
+
+19. Limitaciones: discuta las limitaciones del estudio, teniendo en cuenta posibles fuentes de sesgo o de imprecisión en la obtención de los resultados. Discuta sobre la dirección y magnitud de los posibles sesgos, así como el efecto que tendrían en los resultados obtenidos.
+
+20. Interpretación: proporcione una interpretación global prudente de los resultados considerando objetivos, limitaciones, multiplicidad de análisis, resultados de estudios similares y otras pruebas empíricas relevantes.
+
+21. Generalización: discuta sobre la validez externa de los resultados, esto es, la posibilidad de generalizarlos a otras condiciones.
+
+Otra información
+
+22. Financiamiento: especifique la financiación y el papel de los patrocinadores del estudio y, si procede, del estudio previo en el que se basa el presente artículo.
+
+Animal Research: Reporting of In Vivo Experiments (ARRIVE)
+
+La experimentación con animales ha sido punto constante de críticas debido al maltrato que estaría asociado a un proceso que, generalmente, termina con el daño o la muerte del animal para realizar los análisis11. Sin embargo, muchos de los avances biomédicos han sido logrados en base a estudios en animales, que permiten cerrar la brecha entre la experimentación in vitro y con seres humanos12. Al igual que en humanos, la investigación con animales requiere de estándares científicos de calidad, desde el planteamiento de la hipótesis, hasta la publicación de los resultados en revistas de corriente principal13.
+
+Lamentablemente, en el caso de la literatura de estudios con animales, se ha comprobado que la calidad del reporte es inadecuada para una correcta valoración, replicación y utilización de los resultados14. Este último se ve especialmente agravado si consideramos que esta investigación mal reportada no solo desaprovecha recursos económicos y humanos, sino que además implica generalmente la muerte innecesaria de los animales que fueron objeto de la experimentación11.
+
+Tal como en otros tipos de investigación biomédica, considerando los problemas de la calidad de reporte y múltiples experiencias con pautas de chequeo, un grupo de científicos, estadísticos, editores y financiadores de investigación animal liderados por el National Centre for the Replacement, Refinement and Reduction of Animals in Research desarrolló la pauta ARRIVE para mejorar esta situación. La elaboración comenzó en 2009 e incluyó una reunión de trabajo presencial en la que se obtuvo un primer borrador de la pauta, seguida de un período de retroalimentación para perfeccionar la pauta, siendo publicada finalmente en 201013. La pauta contiene 20 ítems agrupados en 5 dominios (título y resumen, introducción, métodos, resultados, discusión).
+
+Ítems de la lista de chequeo13
+
+Título y resumen
+
+1. Título: debe dar una descripción tan exacta y concisa como sea posible sobre el contenido del artículo.
+
+2. Resumen: incluye los antecedentes y objetivos de la investigación, detalles de la especie y cepa de los animales utilizados, métodos relevantes, hallazgos principales y conclusiones del estudio.
+
+Introducción
+
+3. Antecedentes: presentar los antecedentes que permitan comprender la motivación y el contexto del estudio, así como las bases y el enfoque experimental. Explicar cómo y por qué la especie y el modelo animal utilizados permiten abordar los objetivos científicos y, cuando sea apropiado, la relevancia del estudio para la biología humana.
+
+4. Objetivos: describir claramente los objetivos primarios y secundarios del estudio o las hipótesis específicas que se van a probar.
+
+Métodos
+
+5. Declaración ética: indicar la naturaleza de los permisos del comité ético, leyes (en Chile la ley 20.380 regula la protección de animales) o decretos pertinentes, y las directrices nacionales o institucionales para el cuidado y uso de animales (aspectos bioéticos de la experimentación animal de CONICYT), bajo las que se realiza la investigación.
+
+6. Diseño del estudio: para cada experimento detallar: a) el número de grupos experimentales y control; b) cualquier medida adoptada para minimizar los efectos de sesgo al asignar los animales a los grupos de tratamiento (asignación aleatoria) y al evaluar los resultados (enmascaramiento), y c) la unidad experimental (animal, grupos o jaulas de animales). Los diagramas de flujo pueden ser útiles para ilustrar cómo se realizaron los diseños de estudio complejos.
+
+7. Procedimientos experimentales: para cada experimento y cada grupo experimental, incluidos los controles, proporcionar detalles precisos de todos los procedimientos efectuados. El cómo (formulación y dosis del tratamiento, el sitio y la vía de administración, anestesia y analgesia utilizadas [incluyendo la monitorización], procedimiento quirúrgico, el método de eutanasia, equipo especializado utilizado [incluyendo proveedores]); el cuándo (fecha y hora); el dónde (jaula de alojamiento, laboratorio, prueba del laberinto acuático, etc.), y el por qué (fundamentos para la elección del anestésico específico, la vía de administración, dosis del fármaco utilizado, etc.).
+
+8. Animales de experimentación: caracterizar a los animales utilizados, incluyendo especie, cepa, sexo, etapa de desarrollo (edad media o mediana de edad y rango u otra medida resumen) y peso (media o mediana más rango de peso u otra medida resumen); procedencia de los animales, nomenclatura internacional de la cepa, modificación genética (animal deficiente, transgénico, etc.), genotipo, estado de salud/inmune, si los animales han sido incluidos en estudios o recibido tratamientos anteriormente, procedimientos previos, etc.
+
+9. Alojamiento y manejo de los animales: proporcionar datos sobre el alojamiento (tipo de instalación, libre de patógenos específicos [LPE], tipo de jaula o habitáculo, material del lecho, número de animales por jaula, forma y material del tanque, etc. para peces); condiciones de cría (por ej., programa de reproducción, ciclo de luz/oscuridad, temperatura, calidad de agua, etc. para peces, el tipo de alimentación, el acceso a los alimentos y al agua, enriquecimiento ambiental); evaluaciones e intervenciones relacionadas con el bienestar que se llevaron a cabo antes, durante o después del experimento.
+
+10. Tamaño de la muestra: especificar el número total y por cada grupo experimental. Explicar cómo se determinó el número de animales total y para cada grupo experimental. Proporcionar detalles del cálculo del tamaño de la muestra empleado. Indicar el número de repeticiones independientes de cada experimento, si es que se realizaron.
+
+11. Asignación de animales a grupos experimentales: proporcionar detalles completos de la forma en que los animales fueron asignados a los distintos grupos experimentales, fuese distribución aleatoria o asignación específica. Describir el orden en el que los animales en los diferentes grupos experimentales fueron tratados y evaluados.
+
+12. Resultados experimentales: definir claramente los resultados primarios y secundarios a evaluar (muerte celular, marcadores moleculares, cambios de comportamiento, etc.).
+
+13. Métodos estadísticos: proporcionar detalles sobre los métodos estadísticos utilizados para cada análisis; especificar la unidad de análisis para cada grupo de datos (animal, grupo de animales, neurona individual, etc.); describir los métodos utilizados para los supuestos estadísticos de las pruebas utilizadas (independencia, normalidad, etc.).
+
+Resultados
+
+14. Datos basales: para cada grupo experimental, indicar las características relevantes y el estado de salud de los animales (peso, estado microbiológico, participación en estudios previos, etc.) antes de iniciar el tratamiento o prueba.
+
+15. Cantidades analizadas: indicar el número de animales de cada grupo incluido en cada análisis. Presentar números absolutos y no frecuencias; explicar pérdidas o exclusión de datos en el análisis.
+
+16. Resultados y estimación: indicar los resultados de cada análisis llevado a cabo con una medida de precisión (error estándar, intervalo de confianza, etc.).
+
+17. Eventos adversos: dar detalles de todos los eventos adversos importantes en cada grupo experimental, y las modificaciones realizadas a los protocolos con el fin de reducir los eventos adversos.
+
+Discusión
+
+18. Interpretación e implicaciones científicas: interpretar los resultados, teniendo en cuenta los objetivos y las hipótesis del estudio, la teoría actual y otros estudios pertinentes en la literatura. Comentar las limitaciones del estudio incluyendo cualquier fuente potencial de sesgo, cualquier limitación del modelo animal y la imprecisión asociada con los resultados. Describir cualquier implicación de los métodos experimentales o hallazgos para el reemplazo, refinamiento o reducción (las 3 R) del uso de los animales en investigación.
+
+19. Generalización/aplicabilidad: comentar la validez externa de los resultados y de qué forma se lograría, así como la relevancia para la biología humana.
+
+20. Financiamiento: listar todas las fuentes de financiación (incluyendo el número del proyecto) y su rol en el estudio.
+
+Discusión
+
+Como ya se ha mencionado en comunicaciones previas, la calidad del reporte de las publicaciones biomédicas es a menudo deficiente; por ende, es esperable que los estudios observacionales no escapen a esta condición. El informe deficiente de los resultados de una investigación dificulta la evaluación, no solo de las fortalezas de los estudios, sino también de sus debilidades y, por consiguiente, de la generalización de sus resultados1,6.
+
+La pauta de chequeo STROBE nace como un esfuerzo para mejorar dichas deficiencias en los estudios observacionales15, teniendo buena acogida por parte del mundo ligado a la investigación en el área de la salud, apareciendo incluso algunos derivados de esta propuesta para ser aplicados en áreas específicas de investigación; un ejemplo de esto es la variante STROBE-RDS16, específicamente diseñada para estudios con población que es difícil de alcanzar e incluir en estudios observacionales.
+
+A pesar de lo anterior, aún se observa una fuerte heterogeneidad con respecto a su uso por parte de autores y revistas, aunque estas últimas concuerdan en el potencial beneficio que podría tener STROBE, al igual que otros checklists, en la mejora de la calidad de publicación de los artículos17.
+
+En el último tiempo se han realizado estudios que demuestran este beneficio; sin embargo, su aplicación, aunque ha generado una mejora en la calidad del reporte, no ha logrado generar una mejora general en la calidad metodológica de los artículos, y esta continúa siendo subóptima17, lo cual reafirma la tesis de que la calidad metodológica es un constructo multidimensional, y que se debe intervenir en cada una de las aristas que la componen para obtener mejores resultados globales.
+
+Una de las áreas más controversiales de la ciencia es la investigación con animales. Esta presenta serias deficiencias en cuanto a su metodología, principalmente la reproducibilidad y reporte de sus resultados; es en este contexto que se ha generado la pauta ARRIVE13,18. Este checklist ha sido adoptado por numerosas revistas con el fin de mejorar la calidad, no tan solo del reporte, sino también de la forma de llevar la investigación en animales de experimentación. A pesar de las buenas intenciones que presenta esta iniciativa, su éxito ha sido limitado19, aunque su implementación ha sido reciente, por lo que es apresurado evaluar su impacto.
+
+Hoy por hoy, se ha vuelto importante no solo el fondo de la investigación, sino también la forma en que los resultados son presentados a los consumidores de literatura centífica; es en este escenario que los checklists se han masificado para los diferentes tipos de diseños20. Si bien no han logrado solucionar todo el problema relacionado con la calidad, son una alternativa sencilla para generar una mejora en el reporte de los resultados de la investigación biomédica.

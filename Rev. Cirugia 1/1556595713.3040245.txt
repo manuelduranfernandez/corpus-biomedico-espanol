@@ -1,0 +1,242 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262009000100011
+Diseño de una escala para la evaluación de calidad metodológica de estudios de pronóstico
+
+Resumen
+
+Introducción: Uno de los principales sistemas para calificar la calidad de las publicaciones científicas ha sido los niveles de evidencia. Para nuestro equipo de investigación el constructo calidad metodológica es un constructo multidimensional. Nuestro objetivo es diseñar una escala para determinar la calidad metodológica de los estudios referentes a pronóstico. Material y Método: Diseño de generación de escalas. En la primera etapa las fuentes de los ítems fueron entrevistas en profundidad a 5 profesionales con experiencia en investigación y la revisión de la literatura de los diferentes artículos acerca de evaluación de calidad metodológica de los estudios de pronóstico. En la segunda etapa se revisaron 121 estudios de pronóstico por 4 profesionales con experiencia en investigación. Además se analizó el número de publicaciones del autor y se calificó el nivel de evidencia de cada artículo según el centro de evidencia de Oxford. Posteriormente se realizó el análisis factorial y la generación de dominios e ítems de la escala. Resultados: Luego de le etapa de generación de ítems, se analizaron 120 artículos referentes a pronóstico. Un 66% de los artículos tienen diseño de cohorte (prospectiva o retrospectiva); un 45% son nivel de evidencia Ib y 39% son nivel de evidencia 4. Luego de la revisión de artículos se efectuó el análisis factorial escogiendo una matriz ortogonal. Se generó una escala (MinCir Pr) con un total de 25 Ítems, 6 dominios y un coeficiente de alfa de Cronbach de 0,89. Conclusiones: Se ha diseñado una escala para la evaluación de calidad metodológica de estudios de pronóstico (MinCir Pr) cumpliendo rigurosos pasos metodológicos y el criterio de multidimensionalidad de la calidad metodológica.
+
+Palabras clave: Estudios de pronóstico, diseño de escala, calidad metodológica.
+
+ 
+
+Introducción
+
+Durante muchos años las decisiones en salud se tomaron basadas en la experiencia de las personas. La medicina basada en evidencias (MBE) se inicia como una disciplina para mejorar la calidad de las decisiones en salud. La MBE tiene como objeto sistematizar la forma de obtener el mejor conocimiento médico.
+
+Uno de los aspectos más importantes de MBE es la evaluación de la calidad metodológica de los diferentes estudios. Uno de los principales sistemas para calificar la calidad de las publicaciones científicas ha sido los niveles de evidencia1, que evalúa aspectos como el diseño de investigación, el riesgo de sesgos y la homogeneidad entre otros.
+
+Existen guías para evaluación de diversos tipos de estudios realizadas por Evidence-Based Medicine Working Group y publicados en Journal of Ame-rican Medical Association (JAMA), que se han convertido en prueba de referencia o "gold standard" para evaluar calidad metodológica, éstas evalúan diversos aspectos sin puntuación numérica2-31. Recientemente, han aparecido recomendaciones para el reporte de estudios con diferente diseño: CONSORT (Consohdated Standarts of Reporting Triáis) para ensayos clínicos32 y STARD (Standarts for Reporting of Diagnostic Accuracy) para estudios de diagnóstico33; y se han utilizado estas recomendaciones como puntuaciones de evaluación de calidad metodológica. Sin embargo, éstas no fueron diseñadas para evaluación de calidad metodológica y no han sido validadas para tal fin.
+
+Para nuestro equipo de investigación el cons-tructo calidad metodológica es un constructo multi-dimensional. En ésta línea nuestro equipo diseñó un escore para comparar la calidad metodológica de estudios de terapia con diferente diseño de investigación que podría ser utilizado en revisiones sistemáticas. Este escore consta de 3 principales dominios: tipo de diseño de investigación, tamaño de la población a estudio con un ajuste si existe una justificación del tamaño de la muestra y metodología empleada34.
+
+Sin embargo, este escore no aplica al momento de evaluar estudios de pronóstico, diagnóstico, económicos, etc.
+
+Los estudios de pronóstico son cada vez más importantes en el mundo quirúrgico. Para los estudios de pronóstico el diseño de cohorte sería considerado "el mejor nivel de evidencia". Sin embargo, la conducción de un estudio de cohorte plantea un desafío para el mundo de la epidemiología clínica por múltiples factores, entre ellos la definición de la exposición, el tiempo y la calidad del seguimiento de los grupos y el costo.
+
+Nuestra hipótesis es que existen ítems y dominios que permiten diseñar una escala para evaluación de calidad metodológica en estudios de pronóstico. Nuestro objetivo es diseñar una escala para determinar la calidad metodológica de los estudios referentes a pronóstico; que nos permite una comparación de estudios con diferentes diseños y metodologías, de forma tal de poder realizar RSL en el ámbito del pronóstico, para poder de esta forma dar respuesta a interrogantes puntuales con un adecuado nivel de evidencia.
+
+Material y Método
+
+Diseño: Generación de escala. Este diseño tiene varias etapas:
+
+La primera etapa es la búsqueda de los diferentes ítems para la construcción de la escala (primer borrador). En ésta se utilizó metodología de investigación cualitativa.
+
+La segunda etapa se inicia con una aplicación del primer borrador de la escala, para luego realizar en análisis factorial. El análisis factorial es una técnica de reducción de dimensionalidad de los datos; su propósito último es buscar el número mínimo de dimensiones capaces de explicar el máximo de información contenida en los datos. En éste etapa se escogen los dominios de la escala y se realiza el análisis de confiabilidad (alfa de Cronbach).
+
+Población: En la primera etapa de la escala las fuentes de los ítems fueron entrevistas en profundidad a 5 profesionales con experiencia en investigación y la revisión de la literatura de los diferentes artículos acerca de evaluación de calidad metodológica1-37.
+
+En la segunda etapa la población fueron 121 estudios de pronóstico que fueron revisados por 4 profesionales con experiencia en investigación, diferentes a los participantes en la primera etapa. Además se analizó el número de publicaciones del autor y se calificó el nivel de evidencia de cada artículo según el centro de evidencia de Oxford1.
+
+Tamaño de la muestra: Para el tamaño de muestra en los estudios de generación de escalas existen varias recomendaciones. Una de estas hace mención a un intervalo de 5 a 10 mediciones por cada ítem de la escala38.
+
+El proceso matemático del análisis factorial y la rotación de matrices requiere un mínimo de 120 mediciones. Es por esto que elegimos este número de artículos39.
+
+Selección de artículos: Los criterios de inclusión para los diferentes artículos fueron:
+
+   Estudios registrados en la base de datos Medline, bajo el término libre "prognosis study".
+
+   No habrá restricción en el año, ni idioma de publicación.
+
+De los artículos inicialmente seleccionados se revisará el resumen y se excluirán los artículos no relacionados con pronóstico. Posteriormente, se buscarán los artículos en texto completo para su revisión.
+
+Selección de investigadores: Los criterios de inclusión para los investigadores participantes fueron:
+
+    Certificación de epidemiólogo clínico o bioesta-dístico.
+
+   Pertenecer a una unidad o centro de epidemiología clínica.
+
+   Aceptación de participación en el protocolo.
+
+Plan de análisis: Se utilizó metodología de investigación cualitativa en la primera etapa para el análisis de las entrevistas en profundidad. Este se realizó con el programa Atlas-Ti®.
+
+Se utilizó estadística descriptiva, con cálculo de medidas de tendencia central, dispersión y tendencia extrema; análisis divariado utilizando X2 de Pearson o test exacto de Fischer para variables categóricas y t-test, ANO VA y Kruskal Wallis para variables continuas. Los datos fueron analizados utilizando el programa Stata® 8.0.
+
+Aspectos éticos y de financiamiento: Este protocolo fue financiado por el proyecto DIUFRO No 120629 de la Dirección de Investigación y Desarrollo de la Universidad de La Frontera.
+
+Resultados
+
+La primera etapa se enfocó a la selección de posibles ítems de la escala. Las fuentes de ítems fueron las entrevistas en profundidad a 5 profesionales con experiencia en investigación y la revisión de la literatura de los diferentes artículos acerca de evaluación de calidad metodológica de los estudios de pronóstico.
+
+Después de obtener los ítems de éstas 2 fuentes (metodología cualitativa y la revisión de la literatura) se realizó una reunión de consenso del equipo de investigación para realizar un análisis de los diferentes ítems encontrados; tratando de excluir aquellos que evaluaran los mismos aspectos y optimizando la traducción al castellano (Tabla 1).
+
+Posteriormente, se procedió a buscar los artículos en texto completo, para lo cual se tuvo la colaboración de la Universidad de Emory (E.U.).
+
+Se contó para la lectura completa con 130 artículos de los cuales se excluyeron 940-170. Las causas de exclusión fueron:
+
+    Tres (3) artículos eran ensayos clínicos aleatorios que evaluaban terapia.
+
+    Tres (3) eran revisiones sistemáticas de artículos de terapia.
+
+   Dos (2) eran estudios de metodología cualitativa que no hacían evaluación de pronóstico en ninguno de sus aspectos.
+
+    1 (un) estudio era una prueba diagnóstica.
+
+En resumen, en esta primera etapa se analizaron 121 artículos relacionados con pronóstico, sin importar el diseño de investigación.
+
+Los artículos analizados tienen las siguientes características:
+
+    56 artículos (46%) no tienen hipótesis.
+
+   6 artículos (5%) no tienen objetivos.
+
+    83 artículos (68%) no mencionan el diseño de investigación utilizado.
+
+    118 artículos (97%) no poseen cálculo del tamaño de la muestra.
+
+  
+
+
+
+
+
+• 24 artículos (20%) no tienen criterios de inclusión.
+
+• 64 artículos (52%) no tienen criterios de exclusión.
+
+• 24 artículos (20%) no tienen una adecuada definición de la variable de exposición. 6 artículos (5%) no tienen definición de la variable de respuesta.
+
+• 84 artículos (69%) no consideran variables de confusión.
+
+• Con los datos presentados en 46 artículos (38%) no es posible calcular las medidas de riesgo o asociación.
+
+• 38 artículos (31%) no consideran modelos predictivos o de asociación.
+
+Los diseños de investigación de los estudios se describen en la Tabla 2.
+
+Los niveles de evidencia de los estudios se describen en la Tabla 3.
+
+
+
+  
+
+El promedio de artículos publicados por el autor fue de 36,56 ± 47,93 con una mediana de 17,5 y valores extremos de 1 y 309.
+
+Si analizamos a los autores de los artículos con nivel de evidencia 1 tenemos que el promedio de las publicaciones fue de 44,59 ± 57,30 en comparación con  los autores de los artículos con nivel de evidencia 2, y 4 cuyo promedio de publicaciones fue 27,86 ± 33,26; sin embargo, esta diferencia no es estadísticamente significativa (p = 0,0752).
+
+Se encontró asociación entre el diseño empleado en los estudios y la calificación de los niveles de evidencia (p = 000); con un coeficiente de correlación de 0,6607.
+
+Posteriormente, se realizó el análisis factorial donde se escogió una matriz ortogonal para la rotación de los factores. Con base en éste análisis se extrajo el número mínimo de dimensiones capaces de explicar el máximo de información contenida en los datos.
+
+Así tenemos los siguientes dominios e ítems:
+
+Dominio 1
+
+    Se define la variable de desenlace.
+
+   El método para medir la variable de desenlace es válido y confiable.
+
+    Se define las unidades de medida de la variable de desenlace.
+
+   Una adecuada proporción de la muestra tiene datos completos de la variable de desenlace.
+
+   El método y las unidades de medición de la/las variables de desenlace son los mismos para todos los pacientes.
+
+Dominio 2
+
+    Se define la variable de exposición.
+
+   El método para medir la variable de exposición es válido y confiable.
+
+    Se define las unidades de medida de la variable de exposición.
+
+   Una adecuada proporción de la muestra tiene datos completos de la variable de exposición.
+
+   El método y las unidades de medición de la/las variables de exposición son los mismos para todos los pacientes.
+
+Dominio 3
+
+    Se enuncia el porcentaje de pérdida de seguimiento.
+
+    Se describen las características de los sujetos perdidos.
+
+    Se hicieron esfuerzos por recolectar la información de los sujetos perdidos.
+
+   Las causas de pérdida de seguimiento son descritas.
+
+    Se analizaron las diferencias entre las características de los sujetos con pérdida de seguimiento y los que no.
+
+Dominio 4
+
+   Con los datos presentados es posible determinar las medidas de riesgo y asociación.
+
+    Se realizan modelos de asociación o predictivos.
+
+   El modelo elegido es adecuado según el diseño del estudio.
+
+   Las conclusiones del estudio son coherentes con el objetivo y la metodología empleadas.
+
+Dominio 5
+
+    Se enuncia claramente el diseño del estudio.
+
+    Considera variables de confusión.
+
+    Se definen adecuadamente las variables de confusión.
+
+   Los métodos para medir las variables de confusión son válidos y confiables.
+
+Dominio 6
+
+   Hay cálculo del tamaño de la muestra.
+
+    Se justifica el tamaño de la muestra.
+
+El resultado del cálculo del alfa de Cronbach es:
+
+Dominio 1: alfa de Cronbach de 0,95.
+
+Dominio 2: alfa de Cronbach de 0,95.
+
+Dominio 3: alfa de Cronbach de 0,88.
+
+Dominio 4: alfa de Cronbach de 0,82.
+
+Dominio 5: alfa de Cronbach de 0,75.
+
+Dominio 6: alfa de Cronbach de 0,94.
+
+Con esto tenemos una escala (MinCir Pr) con un total de 25 ítems, 6 dominios y un coeficiente de alfa de Cronbach de 0,89.
+
+Posteriormente, se decidió utilizar una puntuación dicotómica para la escala, utilizando 1 para el ítem que no fue cumplido por el artículo y 5 para el ítem que fue cumplido por el artículo.
+
+La escala (MinCir Pr) se describe en la Tabla 4.
+
+
+
+Discusión
+
+Hay un creciente número de revisiones sistemáticas que están siendo publicadas en las diferentes disciplinas médicas. Esto tiene la ventaja de contar con la información contenida en varios estudios del mismo tema de investigación.
+
+Sin embargo varios artículos se han referido a la inconsistente calidad de algunas revisiones sistemáticas171,172 y por tanto los errores de las conclusiones extraídas de éstas; que en algunas circunstancias regulan el quehacer médico.
+
+Dentro de los aspectos más importantes está la heterogeneidad y calidad de los estudios incluidos. Esta escala podría colaborar a resolver en parte éste problema al permitir evaluar numéricamente la calidad de los diferentes estudios e incluso poder sacar promedios ponderados por la calidad de cada trabajo de las diferentes variables, técnica utilizada por el equipo de trabajo en algunas de sus revisiones sistemáticas.
+
+Con respecto a la metodología de la escala, ésta cumplió varios pasos importantes en su proceso de diseño:
+
+   Extracción de posibles ítems con base en la experiencia de los autores y la literatura.
+
+   Revisión de los posibles ítems por un comité de expertos tratando de excluir aquellos que evaluaran los mismos aspectos y optimizando la traducción al castellano.
+
+   Aplicación del cuestionario inicial a 120 artículos de pronóstico.
+
+   Realización de análisis factorial para extraer ítems y dominios.
+
+    Cálculo de la consistencia interna.
+
+En cuanto a las descripción de los estudios incluidos llama la atención algunas cifras como el 68% de estudios que no mencionan el diseño de investigación, el 97% que no poseen cálculo del tamaño de la muestra, el 20% que no tienen criterio de inclusión y el 52% sin criterio de exclusión. Esto podría interpretarse como una baja calidad en la metodología empleada y llama la atención a los revisores y editores de las diferentes revistas científicas a mejorar sus estándares de publicación. Además esto puede reflejar una débil formación académica en metodología de investigación, lo cual es una realidad en Latinoamérica y motiva a diversos centros a diseñar programas para entrenamiento en éste aspecto.
+
+Un aspecto adicional que se midió fue el número de publicaciones del autor de cada artículo. En este aspecto no encontramos asociación significativamente estadística entre el promedio de artículos publicados de los autores con artículos nivel de evidencia 1 y los autores con artículos nivel de evidencia 2 y 4 (p = 0,0752). Esto puede ser explicado por algún sesgo en el número de publicaciones, ya que en muchos trabajos los autores son residentes o fellows y el staff o investigador principal no aparece como autor. Además cada vez hay un número creciente de publicaciones que no están indexadas en MEDLINE, que son muy importantes para las diferentes sociedades científicas donde publican investigadores de reconocida calidad.
+
+Además, ésta nueva escala cumple el criterio teórico de multidimensionalidad de la calidad metodológica, aspecto muy importante para nuestro grupo de investigación. La siguiente etapa será la validación de la escala.
+
+Conclusión

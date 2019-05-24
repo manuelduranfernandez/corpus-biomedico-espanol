@@ -1,0 +1,102 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262018000600544
+Prevalencia del síndrome de Burnout en los residentes de cirugía general de Chile y sus factores asociados
+
+Introducción
+
+El Síndrome de Burnout (SBO), corresponde a una respuesta al estrés laboral crónico conformado por actitudes y sentimientos negativos hacia las personas con las que se trabaja y hacia el propio rol profesional. Se caracteriza por la presencia de agotamiento emocional, despersonalización y baja realización personal. El agotamiento emocional es el elemento clave del síndrome, refiriéndose a que los sujetos se presentan emocionalmente agotados y sobrepasados en cuanto a sus recursos emocionales. La despersonalización o cinismo, involucra actitudes negativas, generando sentimientos distantes hacia otras personas. La baja realización personal se refiere a la disminución de los sentimientos de competencia y éxito, y a autoevaluarse negativamente, especialmente en lo laboral1.
+
+Los problemas derivados del estrés laboral crónico provocan accidentabilidad, ausentismo y baja productividad2,3, teniendo repercusión directa en el desempeño, calidad y seguridad en la atención de pacientes4.
+
+El SBO no sólo se presenta en los médicos en formación, sino que en todo el personal de salud. Así lo revelan estudios nacionales5-7. Referencias internacionales recientemente publicadas han descrito que más del 50% de los médicos han presentado SBO a lo largo de su carrera, siendo en gran parte durante el período de formación de médico o residente8,9. Específicamente en residentes de cirugía general la encuesta nacional norteamericana del año 2016, reveló una prevalencia de un 69% de SBO10.
+
+En Chile no existen estudios en residentes de cirugía general y es por esto que nos planteamos como objetivo principal determinar la prevalencia del SBO en ellos mediante la aplicación del Maslach Burnout Inventory - Human Service Survey (MBI-HSS) y como objetivos secundarios establecer las características sociodemográficas asociadas.
+
+Materiales y Método
+
+El diseño es un corte transversal (estudio de prevalencia), cuyo universo corresponde a todos los residentes de cirugía general de Chile. Consideramos como criterios de inclusión el estar cursando programa de formación en Cirugía General, responder encuesta voluntariamente durante el período julio de 2017 y, como criterio de exclusión, el haber respondido de forma incompleta. Se realizó un cálculo del tamaño muestral, mediante el empleo de una estimación de proporción considerando un número total de residentes en 252, con una confianza del 95%, precisión del 4% y proporción del 5%, obtuvimos un tamaño muestral necesario de 79 encuestados; considerando una pérdida del 15%, nuestra muestra ajustada a las pérdidas es de 93. El número total de residentes (252), lo obtuvimos considerando que existen 18 programas de formación, con un promedio de 14 residentes por cada programa. Esta cifra hubo que estimarla, debido a que no hay cifras oficiales al consultar a las sociedades correspondientes.
+
+Definimos como variable dependiente la presencia del SBO. Para poder evaluarlo, el instrumento utilizado fue el Maslach Burnout Inventory - Human Service Survey (MBI-HSS)11 cuya validez factorial está aceptada al español12 y en profesionales chilenos13,14. Este cuestionario consta de 22 ítems evaluados con una escala tipo Likert de 0 a 6 puntos (Tabla 1), está factorizado en 3 subescalas: agotamiento emocional (AE), despersonalización (D) y realización personal (RP), las que representan las tres dimensiones del síndrome. Cada subescala se divide en 3 grados (bajo, moderado y alto), según datos previamente validados. Los valores considerados para cada una de las subescalas son los siguientes, AE (bajo ≤ 18, moderado 19-26, alto ≥ 27), D (bajo ≤ 5, moderado 6-9, alto ≥ 10) y RP (bajo ≥ 34, moderado 29-33, alto ≤ 28). Se define el SBO, como grado alto en agotamiento emocional o despersonalización o en grado bajo de realización personal. Para la recolección de las encuestas se ocupó la plataforma web SurveyMonkey®, con la intención de externalizar las encuestas y garantizar el anonimato del encuestado. En esta misma línea, se destaca también que la encuesta no incluye nombre, RUT, ni fecha de nacimiento.
+
+Tabla 1 Cuestionario Burnout de Maslach (MBI) 
+
+Cada uno de los enunciados se valora en escala Likert de 0 a 6 puntos, correspondiendo 0 = nunca, 1 = alguna vez al año o menos, 2 = una vez al mes o menos, 3 = algunas veces al mes, 4 = una vez a la semana, 5 = varias veces a la semana, 6 = diariamente.
+
+Otras variables a evaluar fueron la edad, género, estado civil, la presencia de hijos y número de éstos, centro formador, año en curso, financiamiento y horas de jornada laboral.
+
+La estadística utilizada fue descriptiva y analítica. Las variables categóricas se expresaron en números y porcentajes con cálculo de χ2 y las continuas en medias ± DS, con aplicación de prueba de Mann-Whitney para variables que no distribuyen normal.
+
+Se realizó un modelo de regresión logística multivariable, incluyendo con un p < 0,05, con posterior cálculo de Odds Ratio e intervalos de confianza al 95%. El análisis de los datos se realizó con software STATA 13.0.
+
+Este estudio cuenta con la aprobación del Comité de Bioética de la Universidad Andrés Bello.
+
+Resultados
+
+Se obtuvieron un total de 117 respuestas, de las cuales 103 estaban completas (88%), siendo el género masculino el 67% de la muestra, con una media de edad de 29,6 ± 3,0, el 72% de los encuestados era soltero o conviviente, el 78% no tenía hijos y similar cifra realiza su residencia con algún tipo de financiamiento. El perfil biodemográfico completo se expresa en Tabla 2 y la presencia de SBO según centro formador en Tabla 3.
+
+Tabla 2 Variables estudiadas y presencia de síndrome de Burnout 
+
+*LGBT = lesbiana, gay, bisexual, transexual.
+
+**Otros = 8, 4 Servicio de salud, 1 institucional, 1 FORDIR y 2 no especifican.
+
+***RM= Región Metropolitana.
+
+Tabla 3 Presencia de síndrome de Burnout según centro formador 
+
+Aplicando el cuestionario MBI, el 72,81% de los encuestados presenta SBO, de los cuales el 26%, 27% y 19% tienen SBO en al menos una, dos y tres subescalas, respectivamente.
+
+En la subescala de agotamiento emocional y despersonalización el 52% y el 56% de los encuestados, respectivamente, presentan grado alto, mientras que el 30% presenta baja realización personal, que son precisamente, los criterios que definen el SBO (Tabla 4).
+
+Tabla 4 Presencia de síndrome de Burnout en subescalas de Maslach y grado de éste 
+
+Al dicotomizar la presencia de SBO y analizar las variables estudiadas mediante un modelo de regresión logística multivariable (Tabla 5), existe una diferencia estadísticamente significativa en la edad (p = 0,042) con un OR 0,8 (IC 95% 0,64-0,99) y el tener hijos (p = 0,045) con un OR 4,94 (IC 95% 1,03-23,52). No hubo diferencias significativas en lo referente al género, estado civil, universidad, año de residencia, financiamiento, ni tampoco al considerar Región Metropolitana vs otras regiones.
+
+Tabla 5 Modelo de regresión logística multivariable de factores asociados a síndrome de Burnout 
+
+Al analizar por subescalas (Tabla 6), vemos que en agotamiento emocional hay una diferencia estadísticamente significativa al analizar el género (p = 0,039), existiendo un mayor riesgo de desarrollar SBO en el género femenino RRR 5,32 (IC 95% 1,10-25,66). En la subescala de despersonalización no hay diferencias estadísticamente significativas en las variables analizadas y en la subescala de realización personal existe una diferencia estadísticamente significativa al evaluar ciudad donde se realiza la formación (p = 0,021), existiendo un mayor riesgo de desarrollar SBO en quienes realizan la especialidad en Región Metropolitana RRR 5,43 (iC 95% 1,12-26,37), con una baja realización personal.
+
+Tabla 6 Análisis por subescalas y factores asociados a presencia de síndrome de Burnout (sólo se muestran aquellos factores con significancia estadística) 
+
+*Sin diferencias estadísticamente significativas.
+
+Discusión
+
+El SBO es más frecuente en personas que desempeñan trabajos con alta carga laboral y responsabilidades, a quienes se les exige alto rendimiento y son sometidos a evaluaciones constantes. Estas características combinadas con algunos rasgos de personalidad, como tendencias perfeccionistas, excesiva tendencia al control con dificultad para delegar y alta competitividad, aumentan la probabilidad de sufrir SBO. Todas estas características mencionadas son comunes en residentes de especialidades médicas.
+
+De las tres dimensiones que conforman el SBO, la más afectada fue la despersonalización (56%), seguida del agotamiento emocional (52%) y baja realización personal con un (30%), estos datos son similares a otros trabajos reportados en literatura latinoamericana4,15 y que reflejan que las dos primeras son las que presentan mayor repercusión16.
+
+Identificamos a la edad como un factor protector (OR 0,8 IC 95% 0,649-0,991) de desarrollar SBO, la cual a su vez se correlaciona con el año de residencia. A mayor edad y año de residencia, menor SBO. Esta relación inversa se relaciona al desarrollo de madurez personal y profesional adquirida durante la formación.
+
+La presencia de hijos se relacionó como factor de riesgo a la presencia de SBO (OR 4,9 IC 95% 1,03723,520), esto es discordante con otras series en que asocian la presencia de hijos como soporte fuera del ambiente hospitalario17 y que incluso aquellos sin hijos tienen 1,5 veces más SBO que aquellos con hijos18.
+
+Llama la atención que el 80% de las mujeres presenten SBO en cualquier subescala (Tabla 1), independiente de no tener una diferencia significativa al compararlo con masculino y/o LBGT. Es una cifra preocupante, aunque concordante con la literatura internacional10. Este hallazgo se ve también en la dimensión de agotamiento emocional en que el 70% del género femenino presenta grado alto vs el 44% del género masculino (p = 0,023, RRR 5,32, IC 95% 1,10-25,66). Esta mayor vulnerabilidad, ya se ha revelado en otros estudios y se explicaría por el hecho de que al incorporarse al mercado laboral, ellas sufren de doble jornada debido a sus roles familiares, del hogar y social4, esto sumado a que las residentes quirúrgicas femeninas son más propensas que las residentes no quirúrgicas a percibir un sesgo estereotipado contra las mujeres19.
+
+No encontramos diferencias al evaluar el estado civil, así como tampoco al agruparlos en solteros y separados en un grupo, y convivientes y casados en otro, esto se contrasta con lo señalado por otras literaturas en que consideran la soltería como factor de riesgo de desarrollar SBO20, por el hecho de que los casados cuentan con una red de apoyo, que permitiría enfrentar mejor el estrés. Tampoco encontramos diferencias al evaluar el tipo de financiamiento ni tampoco al dicotomizarlos en con y sin financiamiento, ni tampoco cuanto al número de horas semanales dedicadas a la formación, sin embargo, nos llama la atención que el 40% declare dedicar más de 80 horas semanales a su residencia de cirugía general.
+
+Es importante destacar que dentro de los diagnósticos diferenciales de la presencia de SBO, se debe considerar la depresión21 y que incluso la presencia de SBO se ha identificado como factor de riesgo para desarrollarla en médicos residentes22, llegando sus síntomas muchas veces a superponerse23.
+
+Dentro de las fortalezas de nuestra investigación, queremos destacar que hasta el momento no existían datos oficiales relacionados con la prevalencia del SBO en residentes de cirugía de Chile. Consideramos que el realizar el esfuerzo de poder medirlo es el primer paso para luego prevenirlo y tratarlo. Dentro de las debilidades, está el hecho de no otorgar un resultado personal a los encuestados al finalizar el estudio, así como también el que nos hubiese gustado poder contar con una muestra de mayor tamaño, no obstante, se superó el número de encuestados calculados en el tamaño muestral. Precisamente el poder llegar con la encuesta a los residentes fue una de las dificultades que tuvimos. Hubo sedes (Tabla 3) en que lamentablemente el número de respuestas fue muy bajo y probablemente no es representativo de su realidad local.
+
+Fuera de los objetivos formales del trabajo, creemos que se pueden realizar dos tipos de intervenciones para disminuir esta problemática, por una parte, centradas en el individuo y por otra, relacionada a cambios estratégicos organizacionales o estructurales. En este último punto vale la pena destacar el reconocimiento de la existencia del Burnout y su impacto en la atención de los pacientes, uso del conocimiento de los factores asociados al Burnout (objetivo secundario del presente estudio) e impulsar políticas de prevención, detección precoz y apoyo al estudiante con SBO, lo que repercutirá en una mejor calidad de vida del educando y una mejor calidad de atención a los pacientes.
+
+Conclusión
+
+La prevalencia del síndrome de Burnout en becados de cirugía general de Chile es del 72,8%.
+
+En cuanto a los factores de riesgo, la edad es un factor protector; a medida que aumenta un año la edad, tienen 0,8 menos chances de tener SBO que los de menor edad. El tener hijos es un factor de riesgo importante; aquellos que tienen hijos tienen 4,94 veces más riesgo de tener SBO que aquellos que no los tienen.
+
+En el análisis por subescalas, en la dimensión de agotamiento emocional se muestra que el género femenino, tiene 5,32 veces más riesgo de tener SBO que género masculino o LBGT. En la subescala de realización personal al analizar la ciudad donde se realiza la especialidad (Región Metropolitana vs otras regiones), quienes la realizan en región metropolitana, tiene 5,43 veces más riesgo de desarrollar SBO que quienes la realizan en el resto del país.
+
+Responsabilidades éticas
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Derecho a la privacidad y consentimiento in formado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Financiamiento: Sin apoyo financiero.
+
+Agradecimientos:
+
+A cada uno de los residentes de cirugía general que respondieron esta encuesta.

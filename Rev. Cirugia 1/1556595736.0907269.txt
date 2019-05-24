@@ -1,0 +1,114 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262016000500005
+Evaluación de la microcirculación con sidestream dark field (SDF) Microscan® como método de monitorización en microcirugía en modelo porcino
+
+ 
+
+Introducción
+
+El reconocimiento de una falla en el colgajo microquirúrgico es fundamental, es cercana al 9% de los colgajos y está determinada principalmente por trombosis arterial o alteración del flujo venoso1. Es sabido que en casos de falla en el colgajo, una reoperación precoz permite la supervivencia del colgajo un 50% de las veces2. Esta tasa de salvataje se correlaciona con el tiempo transcurrido entre la trombosis anastomótica y la reintervención3.
+
+Además de la monitorización clínica han sido descritas varias otras técnicas y dispositivos, tales como Doppler implantable, near infrared spectroscopy (NIRS), microdiálisis, angiografía por fluorescencia y el sidestream dark field (SDF)4; sin embargo, aún existe debate con respecto a cuál técnica debe ser utilizada5.
+
+El SDF tiene la ventaja de permitir la observación directa de los glóbulos rojos en los capilares y vénulas, y así poder evaluar el flujo sanguíneo a través de estos.
+
+El objetivo de este estudio es evaluar la factibilidad de la monitorización microquirúrgica por medio de SDF en un modelo porcino y compararla con otros métodos.
+
+Material y método
+
+Se realizó un estudio experimental en el Laboratorio de Cirugía Experimental de la Pontificia Universidad Católica de Chile, aprobado por el Comité de Ética y Bienestar Animal (CEBA UC).
+
+En 8 cerdos, Sus scrofa domestica, 4 machos, de una mediana de 5,5 meses (rango, 5-6 meses) y 24 kg de peso (rango, 20-30), se diseñó y elevó un colgajo pectoral disecando y respetando la rama pectoral de los vasos toracoacromiales (fig. 1)6. Fue identificado y marcado un vaso perforante en la isla cutánea del colgajo con un Doppler sonido portátil. Posteriormente se instaló en esta área 2 dispositivos para evaluar la microcirculación: un Microscan® SDF y un NIRS. Se realizó oclusión venosa, arterial y vascular total usando un pinzamiento para oclusión arterial y venosa (AROSmicro™ Clamps, Newport Beach, CA, EE. UU.) durante 180 s respectivamente. Este procedimiento fue realizado sucesivamente y monitorizado con cada uno de los métodos. Simultáneamente se realizó una evaluación clínica, como fue estandarizado por Chen et al. (temperatura, color, llene capilar), y se evaluó la presencia de flujo en el vaso perforante con Doppler sonido durante las distintas fases del experimento: oclusión venosa, arterial y arteriovenosa7.
+
+ 
+
+
+
+Figura 1 a) Diseño de colgajo pectoral. b) Elevación del colgajo pectoral,          disección del pedículo. Flecha: rama pectoral de los vasos toracoacromiales.
+
+ 
+
+Mediciones
+
+Fueron utilizados los siguientes dispositivos:
+
+- NIRS: la saturación de oxígeno (SatO2) fue registrada por espectroscopia de manera continua. Un dispositivo sensor de piel fue instalado en el área del vaso perforante previamente identificado en el colgajo diseñado. Se realizó un registro basal durante un minuto antes de la oclusión vascular y se mantuvo durante esta. Una disminución de la SatO2 a un 50% de la basal se consideró diagnóstica de alteración de la microperfusión8,9. Se utilizó Spectra SatO2 Spot Check (model 300)®. Los resultados de estas mediciones fueron comparados con los obtenidos por SDF.
+
+- Microscan® SDF (fig. 2): la videomicroscopia de luz polarizada es una técnica que permite la evaluación no invasiva de la microcirculación. Esta consiste en un videomicroscopio portátil (Microscan®, Microvision Medical, Amsterdam, Holanda), que emite una luz polarizada de 550 nm. Esta luz es absorbida por la hemoglobina y reflejada por las otras estructuras, así la imagen que se obtiene es por contraste, y se visualiza el paso de los glóbulos rojos a través de la microcirculación. Estas imágenes de video son grabadas y analizadas. Se utilizó el microvascular flow index (MFI), indicador semicuantitativo que clasifica el patrón predominante de flujo en una de 4 categorías (0 flujo ausente, 1 flujo intermitente, 2 flujo enlentecido, y 3 flujo normal). Estos valores fueron validados para el análisis cuantitativo del flujo microcirculatorio10-12.
+
+ 
+
+ 
+
+Figura 2 a) Pieza de mano del SDF. b) Dispositivo de imagen del SDF.          c) Isla cutánea del colgajo pectoral siendo evaluada con SDF.
+
+ 
+
+- Doppler sonido: se evaluó los vasos perforantes identificados antes, durante y después de la oclusión. Se utilizó el Ultrasonic pocket 8 MHz Doppler SonoTrax Lite®.
+
+- Temperatura: se registró cada 10 s en la isla cutánea del colgajo durante todo el procedimiento. Fue realizado con un termómetro clínico infrarrojo Beurer JFT-90®.
+
+ 
+
+Análisis de resultados
+
+Se comparó la mediana de tiempo desde el momento en que fue realizada la oclusión vascular hasta el momento en que el cambio fue detectado por los distintos métodos.
+
+Las variables categóricas fueron expresadas en números y porcentajes. Las variables cuantitativas fueron reportadas como medianas y rangos. El análisis inferencial fue realizado utilizando el test de Mann-Whitney/Wilcoxon para variables cuantitativas y χ2 o test de Fisher para variables categóricas, según fuera apropiado. Se utilizó un nivel alfa de 5% para los test. Para el análisis de datos se utilizó el software SPSS®21.
+
+Resultados
+
+Usando Microscan® SDF se observó una disminución del MFI a los 51 s (59-62) después de la oclusión venosa y ausencia del flujo a los 92,5 s (85-105). Al realizar la oclusión arterial, el MFI disminuyó a los 3 s (1-5) y se observó una ausencia del flujo a los 9 s (2-32). En la oclusión vascular total, el MFI diminuyó a los 3,5 s (2-5) y el flujo fue ausente a los 8,5 s (3-15) (fig. 3). La diferencia entre los tiempos de ocurrencia de disminución del flujo microcirculatorio entre la oclusión venosa, arterial y vascular total fue estadísticamente significativa (p < 0,0001). El video muestra las imágenes obtenidas con Microscan® SDF en el estudio: https://vimeo.com/144580083.
+
+ 
+
+
+
+Figura 3 Aparición de cambios en índice de flujo microvascular (MFI)          en oclusión venosa, arterial y total. Es notorio que la aparición de          cambios en la microcirculación ocurre más tempranamente en la          oclusión arterial y vascular total. Las diferencias fueron estadísticamente          significativas (p < 0,005).FAAO: ausencia de flujo en oclusión arterial;          FAVO: ausencia de flujo en oclusión venosa; FAVTO: ausencia de          flujo en oclusión vascular total; FDAO: disminución del flujo en          oclusión arterial; FDVO: disminución del flujo en oclusión venosa;          FDVTO: disminución del flujo en oclusión vascular total.
+
+ 
+
+Al realizar las mediciones con NIRS se observó que en la oclusión venosa el porcentaje de disminución de la SatO2 a los 180 s fue 15,2 ± 5,3%, sin llegar al 50% de disminución (diagnóstico de alteración de la perfusión). En la oclusión arterial, el porcentaje de disminución de la SatO2 a los 180 s fue 23,9 ± 13,8%, llegando a un 50% en 2 de los colgajos. En la oclusión vascular total, la disminución de la SatO2 a los 180 s fue 23,85 ± 13,9%, logrando una reducción del 50% solo en 2 de las 8 mediciones.
+
+Al realizar la evaluación de los vasos perforantes con Doppler sonido se observó que la señal no desapareció durante la oclusión venosa, permaneciendo presente durante todo el procedimiento. Durante la oclusión arterial la señal Doppler desapareció a los 2 s (1-3) como mediana. Durante la oclusión vascular total la señal Doppler desapareció a los 2 s (1-5).
+
+Al realizar la evaluación de los cambios clínicos se obtuvo que cuando fue realizada la oclusión venosa se observó congestión a los 70 s (55-80), llene capilar acelerado (< 2 s) a los 60 s (50-90), y la temperatura se mantuvo estable durante el procedimiento (fig. 4). Al ser realizada la oclusión arterial no se observó congestión, se enlenteció el llene capilar (> 2 s) a los 42,5 s (35-80), palidez a los 67,5 s (55-110), y la temperatura se mantuvo sin cambios (fig. 5). Cuando fue realizada la oclusión vascular total se observó congestión a los 70 s (55-130), enlentecimiento del llene capilar (> 2 s) a los 75 s en solo un colgajo, palidez a los 65 s en un colgajo, y la temperatura se mantuvo estable durante la oclusión (fig. 6).
+
+ 
+
+
+
+Figura 4 Resumen de los resultados obtenidos en oclusión venosa.          Se observa que la alteración del flujo microcirculatorio          (disminución del MFI) ocurre previo a la aparición de          congestión y llene capilar acelerado.
+
+ 
+
+
+
+Figura 5 Resumen de los resultados obtenidos en oclusión arterial.          Se observa que la reducción y ausencia del MFI es previa a la disminución          de la SatO2 y a la aparición de los cambios clínicos          (llene capilar enlentecido, palidez), excepto la desaparición          de la señal Doppler, que fue más precoz.
+
+ 
+
+
+
+Figura 6 Resumen de los resultados obtenidos en oclusión vascular total.          Se observa que la reducción y ausencia del MFI es más precoz que la          disminución de la SatO2 y que la aparición de los cambios clínicos          (congestión, llene capilar acelerado, palidez), excepto la desaparición          de la señal Doppler, que fue más temprana.
+
+ 
+
+Discusión
+
+Se ha demostrado que una detección precoz de oclusión vascular aumenta significativamente la supervivencia de los colgajos microquirúrgicos cuando se asocia con una reoperación oportuna13,14, ya que la isquemia conduce a cambios metabólicos irreversibles dependiendo del tiempo transcurrido desde su aparición15,16.
+
+Considerando la reintervención precoz en casos de falla vascular, la tasa de pérdida de colgajos microquirúrgicos puede ser tan baja como de un 2 a un 5% en grandes series17.
+
+En la búsqueda de una herramienta que permita detectar tempranamente la falla de un colgajo, fue evaluado un método bien conocido de monitorización de la microcirculación, usado en medicina intensiva, y lo aplicamos a los colgajos microquirúrgicos.
+
+Este método es el Microscan® SDF, que permite evaluar de una manera no invasiva la microcirculación capilar, y permite tener una visualización directa, en tiempo real, del flujo sanguíneo, requiriendo un entrenamiento mínimo18-20.
+
+Luego de una oclusión venosa, arterial y total, el Microscan® SDF permite detectar cambios precoces en la microcirculación. Por otra parte, el NIRS ha sido utilizado como monitor no invasivo de la perfusión de colgajos por medio de la medición de la oxigenación, y permite detectar alteraciones del flujo previo a los cambios detectados por la observación clínica7,9,21. A pesar de eso, en este estudio se observó que el NIRS solo logró ser diagnóstico en 2 de los 8 colgajos con oclusión arterial y oclusión vascular total, y en ninguno de los colgajos sometidos a oclusión venosa, lo que pudiera ser atribuible al corto periodo de evaluación (180 s).
+
+Estos hallazgos sugieren que, en largos periodos de observación, el SDF no distinguiría entre oclusión arterial, venosa o total como etiología de la alteración de la microcirculación. Sin embargo, en la práctica clínica, una anomalía en la microcirculación debiera llevar a una reintervención temprana. Actualmente, la mayoría de los métodos de monitorización están siendo evaluados en base a la tasa de salvataje de colgajos, y dado que fue superior a otros métodos, debiera ser aplicable en la clínica logrando aumentar la supervivencia de los colgajos microquirúrgicos.
+
+Una vez validado el Microscan® SDF para la monitorización microquirúrgica, este podría ser apropiado para casos especiales, donde la experiencia del cirujano y la evaluación clínica fueran insuficientes para determinar la vitalidad de un colgajo, como por ejemplo en evaluaciones intraoperatorias en cirugías muy prolongadas, donde las condiciones del colgajo no permitan la evaluación clínica rutinaria de una manera confiable, o donde el colgajo ya haya sido reintervenido y no sea posible una evaluación clínica adecuada.
+
+Conclusión
+
+La monitorización en microcirugía por medio de la evaluación de la microcirculación con Microscan® SDF en un modelo porcino es posible y permite la detección de una disminución en el flujo microcirculatorio en la oclusión venosa, arterial y vascular total.
