@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000400003
+Gastos hospitalarios por neumonía neumocóccica invasora en adultos en un hospital general en Chile
+
+Resumen
+
+Las infecciones neumocócicas representan una gran carga de morbilidad y de gastos en salud en pacientes adultos pero no se dispone de datos que hayan evaluado su dimensión económica en Chile. Objetivo: Evaluar los gastos directos en un grupo de pacientes adultos hospitalizados por neumonía neumocóccica bacterémica en un hospital general y evaluar la sensibilidad de los códigos de egreso CIE 10 para capturar las infecciones por este patógeno. Métodos: Análisis de gastos por componentes de un grupo de pacientes atendidos por neumonía neumocóccica bacteriémica, actualización de gastos y conversión a US$. Resultados: Se rescató información de 59 pacientes atendidos entre el 2005-2010, con edad promedio de 71,9 años. El gasto promedio en sala fue de 2.756 US$, de 8.978 US$ en Unidades Críticas y de 6.025 US$ para el grupo total. Los gastos fueron mayores en Unidades Críticas (p < 0,001) y los pacientes en estas unidades (n = 31; 52,5% del total) generaron el 78,3% del gasto total observado. La mediana de gastos en sala fue de 1.558 US$ y de 3.993 US$ en el caso de Unidades Críticas. El 37,8% del gasto se originó por día-cama y 27,4% por medicamentos. No hubo diferencias por edad, co-morbilidades, scores de gravedad o mortalidad. Ningún código CIE 10 involucró bacteriemia por S. pneumoniae (Sensibilidad 0%) y sólo 2 casos fueron codificados como neumonía neumocóccica (3,4%). Conclusiones: El gasto promedio (aprox. 6.000 dólares americanos) y mediana (aprox. 2.400 dólares americanos) fueron elevados evidenciando la importancia económica de esta enfermedad. Los gastos fueron mayores en pacientes manejados en Unidades Críticas. La sensibilidad de los códigos CIE 10 fue baja para reconocer eventos de ENI en esta serie.
+
+Palabras clave: Neumonía neumocóccica; bacteriemia; adultos; gastos hospitalarios; costo de enfermedad; CIE.
+
+ 
+
+Introducción
+
+Las infecciones por Streptococcus pneumoniae representan un gran problema de salud pública y afectan a todos los grupos etarios1. Son causa de enfermedad neumocóccica invasora (ENI) como bacteriemias, meningitis o artritis, o formas localizadas como neumonía, bronquitis crónica reagudizada u otitis media aguda. Esta especie constituye uno de los principales agente de neumonía adquirida en la comunidad1-3. Además de su frecuencia, morbilidad, necesidad de consultas, antibioterapia y hospitalizaciones, las infecciones neumocóccicas pueden ocasionar la muerte, especialmente en personas mayores o con co-morbilidades2,4.
+
+Estas infecciones son en parte inmunoprevenibles gracias a la disponibilidad de vacunas conjugadas para lactantes y adultos mayores, las que ofrecen una mayor eficacia protectora para prevenir neumonía o enfermedad invasora que las antiguas vacunas polisacáridas5,6. El año 2011, Chile adoptó una estrategia de vacunación contra infecciones neumocóccicas en lactantes con una vacuna conjugada 10-valente aplicada a través de Programa Nacional de Inmunizaciones (PNI). A 5 años, esta estrategia ha permitido reducir la frecuencia de enfermedades invasoras y probablemente neumonía en los niños bajo dos años de edad, sin un claro impacto en el resto de la población pediátrica ni un efecto rebaño en la población adulta7. Desde la introducción de la vacuna en lactantes, la mayor parte de los aislados que recibe el Instituto de Salud Pública (ISP) de muestras de vigilancias de infecciones invasoras corresponden a pacientes sobre 15 años de edad (64% del total) evidenciando la morbilidad por este agente en adultos7.
+
+En adultos se aplica la vacuna 23-valente polisacárida en los > 65 años, una vacuna sin efecto protector contra neumonía y con un débil impacto en infecciones neumocóccicas invasoras.6 La baja cobertura lograda con esta vacuna y su eficacia sub-óptima permiten la continuidad de este agente como problema de salud pública en Chile en los adultos mayores. A la luz de la nueva evidencia sobre protección contra infecciones invasoras y no invasoras lograda con una vacuna conjugada en adultos mayores, se hace necesario revisar qué tipo de vacuna debemos aplicar en esta población. Sin embargo, para ello es necesario dimensionar la carga de enfermedad y la carga económica de las infecciones neumocóccicas en adultos en Chile. Para ello es preciso conocer datos de morbilidad, mortalidad, muertes prematuras, discapacidad permanente y gastos médicos directos e indirectos generados por este patógeno. Lamentablemente tenemos escasa información al respecto y limitantes para lograrla. Por ejemplo, carecemos de un sistema de vigilancia activo adecuado que permita medir la morbilidad ya que está supeditado a la toma de hemocultivos y/o antígenos urinarios para S. pneumoniae y a una buena infraestructura de laboratorios y recursos humanos a lo largo del país.
+
+Durante años, varias regiones de Chile no han reportado aislamiento de S. pneumoniae hacia el Instituto de Salud Pública (ISP) sugiriendo que la cultura de toma de hemocultivos es limitada o que hay restricciones presupuestarias que impiden aplicar este recurso7. Por otra parte, el seguro público de salud no ofrece subsidios económicos a la toma de antígenos urinarios, lo que limita su amplia aplicación y precisión diagnóstica en el estudio de los pacientes ingresados por neumonía no permitiendo conocer su etiología. Se ha propuesto, alternativamente, que la morbilidad hospitalizada podría ser reconocida a través de códigos de egreso CIE 10 pero este enfoque requiere ser validado. Estas limitantes impiden conocer también la mortalidad real por este patógeno, muertes prematuras o secuelas atribuibles. Tampoco existen estudios que hayan dimensionado la carga económica o al menos los gastos directos por estas infecciones en adultos en Chile. La falta de estudios sobre carga de enfermedad y carga económica en este segmento etario, contrasta con los estudios de enfermedad neumocóccica y su carga económica en niños que fueron efectuados con antelación a la decisión de incorporar la vacuna conjugada en esta población8,9.
+
+Para contribuir al conocimiento de la dimensión económica de las infecciones neumocóccicas, evaluamos los gastos hospitalarios directos en un grupo de pacientes adultos hospitalizados por neumonía neumocóccica bacteriémica en un hospital general y también exploramos la sensibilidad de los códigos CIE 10 para reconocer esta condición.
+
+Pacientes y Métodos
+
+Estudio retrospectivo aplicado a una serie de pacientes adultos que presentaron neumonía neumocóccica bacteriémica entre los años 2005-2010 y que fueron internados en el Hospital Militar de Santiago que actúa como hospital general. La serie completa ha sido publicada previamen-te4. Para cada caso se rescataron los gastos hospitalarios individuales desde el Departamento de Informática institucional. El grupo original estuvo compuesto por 60 eventos en 59 pacientes con 80% > 60 años y la mitad sobre 75 años. El 76,3% tenía alguna co-morbilidad4.
+
+Se efectuó la sumatoria de gastos hospitalarios facturados según componente (días cama, fármacos, insumos, laboratorio, estudio por imágenes y otros, incluyendo este último evaluaciones kinésicas, interconsultas médicas, procedimientos clínicos en sala, ecocardiografía, electrocardiogramas, etc.). EL hospital aplica el arancel del seguro público de salud (FONASA) nivel 3. Los gastos se actualizaron a junio de 2015 usando la calculadora del índice de precios del consumidor del Instituto Nacional de Estadísticas (disponible online en: http://encina.ine. cl/calculadora/). Posteriormente se realizó la conversión de gastos a dólares americanos (US$) según paridad cambiaria a junio del 2015 (1 US$ = 629,99 CLP).
+
+Se aplicó un análisis comparativo de gastos entre pacientes manejados en sala versus Unidad de Pacientes Críticos (UPC), sobrevivientes versus fallecidos, rangos de grupo etario y score de gravedad (CURB 65 y CAP PIRO)10,11. La comparación se efectuó con pruebas no paramétricas debido a la distribución no Gaussiana de los gastos.
+
+Se avaluó también si los códigos de egresos hospitalarios por CIE 10 representaron apropiadamente la infección padecida por el paciente, ya que la neumonía neumocóccica bacteriémica no tiene un código específico al respecto. En su versión actual el código A40.3 denota septicemia debida a Streptococcus pneumoniae y J13 una neumonía debida a Streptococcus pneumoniae. Se buscó específicamente el porcentaje de egresos considerados en el código A40.3.
+
+El estudio fue aprobado por el Comité de Ética del Hospital Militar de Santiago.
+
+Resultados
+
+Se pudo rescatar información de gastos hospitalarios en 59 de 60 pacientes del estudio inicial, correspondiendo 28 (47,5%) de ellos a ingresos en sala general y 31 (52,5%) a UPC. La edad promedio fue de 71,9 años (rango 20 a 96). El grupo total implicó gastos por US$ 355.480 actualizados a junio de 2015, siendo los componentes más importantes del gasto los del día cama (37,8%) y medicamentos (27,4%) (Tabla 1). En seis pacientes, no se registraron gastos por estudios de imágenes a pesar de que éstos sí se efectuaron (período 2007-2008), revelando errores en la facturación de los gastos. De ellos, todos tuvieron hospitalizaciones cortas (< 6 días) y cuatro fallecieron.
+
+ 
+
+Tabla 1. Gastos hospitalarios (en dólares americanos) en neumonía neumocóccica        bacteriémica según unidad de estadía y valor total. Hospital Militar, Santiago, Chile,        2006-2010
+
+
+
+ 
+
+El análisis por unidad de hospitalización reveló diferencias importantes (Tabla 1). A pesar que sólo 52,5% de los pacientes de esta serie se hospitalizó en la UPC, el gasto de ellos alcanzó a 78,3% del total observado (278.310 de 355.480 dólares americanos). La contribución del componente día cama y medicamentos siguió siendo relevante en cada subgrupo analizado (Sala o UPC).
+
+El histograma de gastos por componentes y gasto total reveló que las curvas eran asimétricas positivas, no teniendo una distribución normal (datos no mostrados, test de Shapiro Wilk p < 0,00001). En consecuencia, la presentación de datos y análisis se hizo con pruebas no paramétricas. Así, las diferencias observadas por componentes para pacientes hospitalizados en sala o UPC fueron todas significativas por la prueba de MannWhitney (Tabla 1).
+
+El gasto promedio por paciente en UPC fue significativamente superior al gasto por paciente en sala (8.978 US$; IC95 787-34.360 versus 2.756 US$; IC95 282-8.519) (Figura 1). Para el grupo total el gasto promedio fue de 6.025 US$ (IC95 439-28.836). Debido a la asimetría de la curva de datos, éstos se analizaron también según la mediana. Así, la mitad de los pacientes en sala tuvieron gastos totales ≥ 1.558 US$ y ≥ 3.993 US$ en el caso de UPC (Tabla 1).
+
+ 
+
+
+
+Figura 1. Diagrama de gastos hospitalarios en pacientes con neumonía        neumocóccica bacteriémica según unidad de hospitalización.
+
+ 
+
+El análisis por categorías de edad o por presencia o ausencia de co-morbilidades no reveló diferencias significativas en el gasto total o componentes del gasto. Tampoco por diferentes puntajes de gravedad (CURB 65 o CAP PIRO) o mortalidad (datos no mostrados).
+
+La estadía hospitalaria estuvo significativamente asociada a un mayor gasto hospitalario tanto para pacientes en sala como en UPC (Figura 2).
+
+ 
+
+
+
+Figura 2. Correlación entre estadía hospitalaria y gastos totales para        pacientes manejados en sala o UPC. En cada panel se representa la curva        de regresión y el IC95.
+
+ 
+
+De los 59 casos analizados en esta serie, ningún egreso fue catalogado bajo el código correspondiente a septicemia neumocóccica (A40.3). El diagnóstico más común fue neumonía (n = 39; 66,1%), incluyendo dos casos de neumonía neumocóccica (3,4% del total de la serie). El segundo diagnóstico más frecuente fue septicemia no especificada (n = 7; 11,9%). Una variedad de diferentes condiciones no pulmonares o no infecciosas completó el listado (datos no mostrados). De esta manera, la sensibilidad de la codificación de egresos para septicemia por S. pneumoniae fue de 0%. Asimismo, por cada egreso por neumonía neumocóccica ocurrieron 29 eventos de neumonía neumocóccica bacteriémica y por cada egreso por septicemia no especificada se registraron 8,4 eventos de ENI.
+
+Discusión
+
+Este trabajo entrega por primera vez, una estimación de los gastos hospitalarios por ENI asociada a bacteriemia en pacientes adultos en Chile. Aunque la evaluación sólo dimensionó gastos directos, se pudo observar que su magnitud fue importante, especialmente para aquellos pacientes que ingresaron a UPC. El gasto fue proporcional a la duración de la hospitalización debido a su importante participación porcentual en el gasto.
+
+El gasto promedio global en este trabajo (6.000 US$) fue bastante similar a lo reportado en un estudio multicéntrico de una década en Corea del Sur con cerca de la mitad de los casos debido a neumonía bacteriémica (7.450 US$) y cercano a lo registrado en un estudio en Colombia (4.768 US$)12,13. En perspectiva, los gastos hospitalarios fueron inferiores a los observados en nuestro centro durante la primera ola de la pandemia de influenza A H1N1 200914 y a bacteremias por catéter venoso central, pero superiores a los gastos de pacientes con sepsis en UCI, absceso tubo-ovárico o con algunas infecciones parasitarias en adultos, resaltando la importancia económica de esta enfermedad (Tabla 2)15-18. Además, nuestro gasto promedio fue superior en cuatro veces al gasto promedio observado en un conjunto de pacientes pediátricos con ENI en Chile a mediados del 2000 (6.025 US$ vs 1.056 US$), indicando un mayor gasto en adultos que en niños afectados por la misma condición8.
+
+ 
+
+Tabla 2. Gastos hospitalarios por paciente en        dólares americanos para algunas condiciones        infecciosas en adultos en Chile. Valores      actualizados a junio de 2015
+
+
+
+ 
+
+Los resultados de este trabajo son necesarios y útiles para calcular la carga económica de las ENI en adultos en Chile. Sin embargo, requieren ser complementados con datos sobre la real frecuencia de esta infección y de otras formas de infección neumocóccica como la neumonía, muchas de las cuales son de manejo ambulatorio. Conjuran contra este propósito, la ausencia de técnicas diagnósticas sensibles y universales en el subsistema público de salud, la falta de subsidios estatales para acceder al diagnóstico mediante herramientas de mayor rendimiento, las limitaciones presupuestarias en hospitales que restringen la solicitud de algunos estudios y la cultura médica de manejar los casos en forma empírica, en lugar de efectuar una búsqueda etiológica, especialmente en hospitales. Como hemos visto, la pesquisa a través de egresos hospitalarios tampoco ofrece soluciones a este impedimento. Así, parecemos conocer al gasto directo en un subgrupo de pacientes pero no de todas las formas posibles de infección y puesto que carecemos de datos sobre la incidencia poblacional de las infecciones neumocóccicas en adultos, no podemos calcular el gasto global, lo que hace necesario efectuar mayores estudios al respecto.
+
+Los datos de carga económica permiten, juntos a los de carga de enfermedad, efectuar evaluaciones de costo-efectividad de posibles estrategias preventivas, como la incorporación de la vacuna 13-valente conjugada en reemplazo de la 23-valente polisacárida en adultos mayores, la que tiene un mayor costo de adquisición pero una mayor eficacia en formas localizadas e invasoras.5,6 Recientemente, un grupo de investigadores nacionales comunicó que el reemplazo de la vacuna 23-valente por la 13-valente en adultos mayores, resulta ser una estrategia costo-efectiva dominante con ahorro de recursos y mayor número de neumonías ambulatorias u hospitalizadas y muertes prevenidas19. El escrutinio de esa investigación, no permite conocer con exactitud cuál fue el monto de los gastos directos considerados en este estudio o si éstos fueron cercanos a los identificados en nuestro trabajo.
+
+Se debe comentar que no todo el gasto estimado en nuestro trabajo puede ser prevenido mediante la aplicación de una vacuna conjugada 13-valente, a pesar de su eficacia reportada de 75% para ENI en adultos5. Ello porque no todos los serotipos están presentes en la vacuna y porque en Chile la cobertura más alta lograda con la vacuna 23-valente polisacárida en adultos mayores no ha sobrepasado el 5% del grupo respectivo según nuestros cálculos (la población estimada > 65 años según el INE al 2012 era de 1.659.670 personas y las dosis totales administradas ese año en el mismo grupo fueron 70.075 dosis)20. Por lo tanto, cualquier decisión sobre un reemplazo en el tipo de vacuna administrada en adultos mayores en Chile, debe lidiar con su mayor costo de adquisición y con el desafío de aumentar las coberturas poblacionales de la vacuna. Además, la duración de la protección conferida por la vacuna conjugada en adultos no ha sido aún claramente establecida, desconociéndose si es necesario aplicar una dosis de refuerzo.
+
+Este trabajo tiene varias limitaciones que es necesario precisar. En primer lugar, los gastos en salud vienen de un solo centro hospitalario los que pueden variar si se incluyen otros lugares o modalidades de manejo. Además, sólo estiman los gastos de la forma más frecuente de ENI en adultos, pero no la forma localizada más frecuente que es la neumonía neumocóccica y los estudios en niños en Chile, han al menos establecido menores costos para esta forma más frecuente. Por otra parte, los cálculos fueron realizados de acuerdo a los valores establecidos por el seguro público de salud, que reconocidamente ha sido criticado por no cubrir los costos reales de las prestaciones de salud y, por lo tanto, nuestras estimaciones podrían ser muy inferiores al costo real21. A pesar de estas limitaciones, este trabajo entrega por primera datos económicos sobre el gasto directo (no consideró gastos indirectos) para la forma más frecuente de ENI en adultos y sus diferencias de acuerdo al tipo de unidad de hospitalización.
+
+En conclusión, se pudo estimar el gasto directo generado por atenciones de salud en pacientes adultos hospitalizados por neumonía neumocóccica bacteriémica, la forma más frecuente de ENI en un hospital general en Chile, alcanzado un gasto promedio de aproximadamente 6.000 US$. Se pudo observar también que los gastos fueron mayores en pacientes manejados en UPC y en casos de estadía prolongada, debido al peso del día-cama en la estructura de los gastos. Los resultados de este trabajo son necesarios pero no suficientes, para evaluar la carga económica de las infecciones neumocóccicas en adultos en Chile y avanzar en el posible cambio de la actual vacuna polisacárida 23-valente por una 13-valente conjugada de mayor eficacia en este grupo. Finalmente, la estimación de la morbilidad de ENI en adultos mediante egresos hospitalarios podría llevar a una subestimación importante por su baja sensibilidad.
+
+Agradecimientos. A la Unidad de Bioestadística y al Departamento de Informática del Hospital Militar de Santiago.

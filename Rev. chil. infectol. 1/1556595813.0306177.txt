@@ -1,0 +1,60 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000300326
+Condición inmunológica y virológica de los pacientes adultos con infección por VIH al inicio de la terapia anti-retroviral en el Hospital Carlos van Buren. Comparación de los períodos 2013 y 2015
+
+Introducción
+
+El advenimiento de la terapia combinada anti-retroviral (TARV) en 1996 para los pacientes con infección por el virus de la inmunodeficiencia humana (VIH) ha causado una significativa disminución en la morbimortalidad por esta enfermedad1. El inicio precoz de la TARV produce una rápida caída de la carga viral (CV) en los pacientes infectados, disminuyendo el riesgo de transmisión2,3. La extensión de la TARV a todos los pacientes infectados, independiente de su recuento de linfocitos T CD4, podrían resultar en una menor incidencia y prevalencia de VIH en la población4,5. Sin embargo, la realidad actual en nuestro país y también en países desarrollados, es que muchos pacientes son diagnosticados en forma tardía, con bajos recuentos de LT CD4, altas CV y en estadios avanzados de la enfermedad6.
+
+El cambio propuesto en la Guía GES de VIH del 2013, con respecto a la del 2010, ya no exige dos determinaciones de LT CD4 inferiores a 350 céls/mm3 para el inicio de terapia en un paciente asintomático7.
+
+El objetivo de este estudio fue medir el impacto del inicio de la TARV en el recuento de LT CD4 y CV al año de seguimiento, entre los pacientes que iniciaron TARV en el Programa de VIH en el Hospital Carlos van Buren de Valparaíso (HCVB) en el año 2013 y 2015, pre y post-aplicación de la Guía GES de VIH 2013.
+
+Método
+
+Estudio descriptivo que incorporó a todos los pacientes que iniciaron TARV durante el año 2013 y 2015, en el HCVB, centro de derivación de los pacientes con infección por VIH del Servicio de Salud Valparaíso-San Antonio. La Unidad de VIH tiene más de 2.000 pacientes en control. Los datos de los pacientes se obtuvieron mediante la revisión de cartolas clínicas, previa autorización de la Dirección de dicho centro. Los datos obtenidos fueron registrados en una base de datos creada con el programa Microsoft Excel, bajo codificación de la identidad de los pacientes. Para la variable edad se utilizaron medidas de resumen. La variable recuento de LT CD4, fue dicotomizada en pacientes con recuento de LT CD4 mayor y menor a 200 céls/mm3; y la variable CV al año de seguimiento fue dicotomizada en CV detectable o indetectable.
+
+Se utilizó estadística paramétrica bajo la premisa de la teoría central del límite. El análisis de la diferencia entre variables cualitativas se realizó mediante la prueba de χ2, y se utilizó T de student para el análisis de variables cuantitativas entre ambos grupos. La información fue analizada utilizando el Software Stata 14.0.
+
+Las muestras para recuento de LT CD4 y CV se procesaron en el Laboratorio de Microbiología y Medicina Molecular del Hospital de Enfermedades Infecciosas Dr. Lucio Córdova. La CV se informó como indetectable con resultado < 40 copias/ml.
+
+Se definió operacionalmente paciente activo, a aquel que mantuvo sus controles médicos y/o retiro de fármacos a lo menos seis meses, y abandono, a aquel que en un período de seis meses o más, se ausentó del retiro de fármacos.
+
+Resultados
+
+Durante los períodos analizados, 78 y 100 pacientes iniciaron terapia en el año 2013 y 2015; respectivamente. Las características basales de los pacientes se describen en la Tabla 1.
+
+Tabla 1 Características basales de los pacientes en ambos grupos 
+
+*Media de edad expresada en años cumplidos al momento del Inicio de la terapia anti-retroviral (TARV).
+
+**Media de linfocitos T CD4/mm3 al inicio de TARV
+
+De los pacientes que iniciaron TARV en el año 2013, 64 (82%) eran de sexo masculino, y 14 (18%) de sexo femenino, con una media de edad de 38 años (RIC 31-43). En el año 2015, 85 (85%) de los pacientes eran de sexo masculino, y 15 (15%) de sexo femenino, con una media de edad de 34 años (RIC 25-44). El grupo de pacientes que ingresaron en 2013 a control, fue significativamente de edad mayor que el grupo de pacientes del año 2015 (p = 0,009).
+
+En 2013, 48 (61,5%) pacientes iniciaron TARV con un recuento de LT CD4 >200 céls/mm3; mientras que en 2015, sólo 55% de los pacientes tuvo un recuento de LT CD4 >200 céls/mm3 al momento de iniciar la TARV. Al comparar los valores absolutos de LT CD4 en ambos grupos, no se encontró una diferencia significativa (p = 0,31).
+
+En el primer grupo, al año de seguimiento, 43 (55%) pacientes tuvieron una CV indetectable; mientras que en el segundo grupo, esta meta se logró en 72% de los casos (Gráfico 1). Esta diferencia fue estadísticamente significativa (p = 0,001).
+
+Gráfico 1 Cascada de atención en pacientes ingresados al Programa VIH en los años 2013 y 2015 en HCVB. 
+
+En cuanto al seguimiento de los pacientes, en 2013, 64 (82%) de los pacientes permanecía activo en sus controles, cinco (6,4%) fueron trasladados a otro centro de salud, seis (7,7%) abandonaron TARV o perdieron seguimiento y tres (3,8%) fallecieron. En los pacientes que iniciaron TARV durante el año 2015, 94 (94%) de ellos permaneció activo en sus controles al año de seguimiento, sólo un paciente (1%) fue trasladado, tres (3%) presentaron abandono de terapia o pérdida de seguimiento, y dos (2%) fallecieron.
+
+Discusión
+
+Los resultados de nuestro estudio muestran que los pacientes que iniciaron TARV en el año 2015 lograron una CV indetectable al año de terapia en mayor proporción que los que la iniciaron en 2013. Esto podría relacionarse con un mayor seguimiento, reflejado en el porcentaje de pacientes que permanecía activo en sus controles en el segundo período.
+
+Se ha demostrado que uno de los factores que determina el éxito en los pacientes en TARV es su adherencia, la que puede mejorarse con el seguimiento realizado por un equipo multidisciplinario8. Desde el año 2014, el Programa de VIH del HCVB incorporó entre sus profesionales a una psicóloga y una químico farmacéutico (QF) a su equipo, con el objetivo de optimizar la adherencia y manejar las interacciones farmacológicas y posibles reacciones adversas de los pacientes en TARV.
+
+Si bien no se puede atribuir causalidad directa al hecho de haber logrado mejores resultados virológicos en el grupo del 2015 con la incorporación del equipo multidisciplinario y a un manejo distinto apoyado por la Guía Clínica GES-VIH 2013, sí se demuestra una tendencia a una mayor frecuencia de indetectabilidad y menor abandono en este último grupo. Otros factores que pudieron influir, como la tolerancia a los medicamentos y la presencia de co-morbilidades, no fueron registrados.
+
+Existen estudios que demuestran mejores resultados en pacientes con infección por VIH tratados por un equipo multidisciplinario. Saberi y cols. publicaron una revisión sistemática que concluyó que la participación de los QF en el tratamiento de los pacientes con infección por VIH, tiene un impacto positivo en la adherencia a la terapia9. Esto se asocia a mejores resultados clínicos, mayor probabilidad de lograr una CV indetectable, menos resistencia a los fármacos anti-retrovirales, y una disminución del riesgo de transmitir la infección10.
+
+No obstante, nuestros datos muestran que aún se mantiene una alta proporción de pacientes que inicia TARV con LT CD4 < 200 céls/mm3, incluso más en el año 2015 en comparación al 2013, lo que se relaciona principalmente a un diagnóstico en etapas avanzadas de la enfermedad. Existen pocos datos a nivel nacional y menos a nivel regional respecto al recuento de LT CD4 y CV del ingreso de los pacientes. Wilson y cols. reportaron que tras 10 años de seguimiento de TARV en la Fundación Arriarán, con 121 pacientes estudiados, 59,5% de los pacientes iniciaba TARV con recuento de CD4 < 200 céls/mm3, con una mediana de CD4 de 176 céls/mm3 y una CV de 60.078 copias/ml11. Beltrán y cols., de la Cohorte Chilena de SIDA, mostró que en el período 2011-2015, 42% de los pacientes, 3.494 en total, tenía LT CD4 < 200 céls/mm3 al momento de iniciar la TARV12.
+
+Conocer la realidad local de los Servicios de Salud permite mejorar los programas de atención, incrementando la pesquisa, control y adherencia al tratamiento. Seguir estos indicadores puede ser una herramienta de comparación entre distintos centros. Cortés y cols. dieron a conocer un modelo de atención cascada para el paciente con infección por VIH en el cual destacó la gran heterogeneidad de los centros participantes (tres de Santiago y dos de regiones)13.
+
+Dentro de las limitaciones de nuestro estudio sabemos que describe una situación local, por lo que sus resultados no se pueden extrapolar a otros centros. Además se basa principalmente en resultados de laboratorio y no clínicos, como podrían ser la frecuencia de hospitalizaciones o coinfecciones que presentaron los pacientes durante su seguimiento.
+
+En conclusión, este estudio enfatiza la importancia de cada etapa en el manejo del paciente con infección por VIH: desde su diagnóstico, que sigue siendo tardío en una proporción importante, la decisión del inicio precoz de TARV y su seguimiento activo por un equipo de profesionales de distintas áreas de la salud. Esto finalmente llevará a mejores resultados clínicos y virológicos de nuestros pacientes.
+
+No hubo fuentes externas de financiamiento.

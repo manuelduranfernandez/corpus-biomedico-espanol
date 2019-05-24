@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182012000600007
+Comparación de adenosina deaminasa y detección de anticuerpos anti-antígeno A60 para el diagnóstico de meningitis tuberculosa
+
+Resumen
+
+Antecedentes: El diagnóstico    de meningitis tuberculosa (MTBC) se ve limitado por la ausencia de técnicas    diagnósticas rápidas y precisas en líquido cefalorraquídeo    (LCR). En este estudio evaluamos la respuesta inmunoló-gica de anticuerpos    anti-antígeno A60 de Mycobacterium tuberculosis en LCR en    comparación a la determinación de adenosina deaminasa (ADA). Métodos:    Un total de 63 muestras de LCR fueron estudiadas mediante ELISA indirecto para    detección de IgG, IgM e IgA anti-A60. Estas muestras incluyeron 17    casos de MTBC confirmada y 46 controles con otras infecciones. Resultados:    Los títulos de IgG, IgM e IgA anti A-60 resultaron significativamente    superiores en casos de MTBC versus controles (p > 0,01). El anticuerpo    con mej or poder discriminatorio resultó IgM, con    un área bajo la curva ROC de 0,928 (95%IC 0,8340,978), comparado a 0,863    (95% IC: 0,752-0,936) para ADA (p =    NS). La sensibilidad de IgM anti-A60 (nivel de corte > 0,06 U/ml) fue    de 94,1% versus 88,2% para ADA (nivel de corte > 6,2 U/ml), p = NS.    Ambos IgM anti-A60 y ADA presentaron la misma especificidad baja-moderada    (80,4%). Dos casos de MMTBC fueron correctamente identificados por IgM anti-A60    pero no por ALDA. Conclusión: La detección de anticuerpos    anti-A60 (IgM) puede ser de ayuda en el diagnostico de MTBC en forma complementaria    a la determinación de ALDA. La baja especificidad de ambos tests    constituye su principal limitante
+
+Palabras clave: Meningitis tuberculosa; tuberculosis; antígeno A-60.
+
+
+
+Introducción
+
+La meningitis tuberculosa (MTBC)    es una enfermedad aún prevalente en países en desarrollo; sin    embargo, en las últimas décadas su incidencia también se    ha incrementado en países industrializados en relación a la epidemia    de VIH1. Tiene una alta morbi-mortalidad que sólo puede    ser evitada mediante el rápido inicio de tratamiento correcto2.    No obstante, con frecuencia la administración de terapias antituberculosas    es tardía debido a que la forma de presentación clínica    y las alteraciones del LCR son inespecíficas, sumado a que no existen    tests diagnósticos rápidos suficientemente sensibles y específicos3.    La baciloscopia tiene baja sensibilidad en LCR y el cultivo de micobacterias    es muy lento (30 a 60 días) y, si bien la determinación de adenosina    deaminasa (ADA) es una herramienta de uso común en el proceso diagnóstico    de la MTBC, también presenta resultados variables de sensibilidad y especificidad    (rango 58-83% y 71-95%, respectivamente, en diferentes estudios)45.    Por otra parte, los nuevos tests diagnósticos basados en amplificación    de ácidos nucleicos (RPC) para M. tuberculosis en LCR, además    de ser de mayor costo y complejidad técnica, también están    limitados por una baja y variable sensibilidad    (50-60%), por lo que tampoco permiten excluir una meningitis con seguridad6.
+
+De acuerdo a varias publicaciones, la respuesta inflamatoria de M. tuberculosis en el sistema nervioso central se caracteriza por síntesis intratecal de inmunoglobulinas (Ig) oligoclonales detectables en LCR durante la infección meníngea7,8. Numerosos componentes antigénicos de las micobacterias tal como ESAT-6, 14 kDA, MPT63, 19kDA, MPT64, 38 kDA y A60 han sido caracterizados para detección mediante técnicas de inmunoensayo y serología en el diagnóstico de tuberculosis pulmonar y extra-pulmonar9-11. El rango de detección en LCR para diferentes antígenos de M. tuberculosis en pacientes cursando MTBC varía de 60 a 100% en las distintas series, con importantes diferencias entre los casos individuales, técnicas de detección de anticuerpos únicos o múltiples, momento de toma de muestra en el curso de la enfermedad, status VIH del paciente y método de definición del estándar de oro (diagnóstico clínico versus cultivo)12-15.
+
+El complejo A60 representa una    fracción importante del total de antígenos de M. tuberculosis    y la mayoría de los anticuerpos circulantes en sangre y LCR de pacientes    cursando tuberculosis están dirigidos contra A6016. Sin embargo,    el rendimiento diagnóstico de los anticuerpos anti-A60    en la MTBC ha sido variable en los estudios publicados8,17-19.    La sensibilidad reportada ha sido inconsistente, con valores desde 50% para    detección de IgG e IgA anti-A60 en pacientes inmunocompetentes hasta    100% de detección para IgG, aun en estadios precoces de la enfermedad20,21.
+
+En ese contexto, el objetivo del presente estudio fue determinar el rendimiento diagnóstico de tres clases de anticuerpos anti-A60 (IgG, IgM e IgA) en el diagnóstico precoz de la MTBC, y evaluar si pudiesen constituir un aporte al tradicional uso de ADA en LCR.
+
+Métodos
+
+Selección de muestras: Este estudio se realizó en forma retrospectiva analizando las muestras de LCR que hubiesen sido obtenidas durante el proceso diagnóstico de rutina en pacientes adultos ingresados por fiebre y con sospecha clínica de meningitis infecciosa entre noviembre de 2002 y diciembre de 2004 en el Hospital de Enfermedades Infecciosas Dr. Lucio Córdova y Hospital Clínico de la Pontificia Universidad Católica, en Santiago, Chile. De éstas, se excluyeron las muestras de LCR en que se hubiese confirmado meningitis bacteriana aguda por tinción de Gram o cultivo bacteriano positivo.
+
+Análisis de LCR: El LCR fue estudiado mediante análisis citoquímico, recuento diferencial de leucocitos, ADA, tinción de Gram y cultivo corriente, tinción de tinta china, cultivo de hongos, tinción de Ziehl Neelsen, cultivo para M. tuberculosis, RPC para M. tuberculosis (Roche, Amplicor®), RCR para virus herpes simplex 1 y 2 (Roche, Amplicor®) y VDRL. La actividad de ADA en LCR se determinó a 37°C de acuerdo al método de Guisti y Galanti. Los resultados se expresaron en UI/mL.
+
+Definición de caso: Los casos se definieron como aquellas muestras de LCR tomadas por sospecha clínica de meningitis infecciosa y cultivo de micobacteria o RPC paraM. tuberculosis positiva en LCR. Se incluyeron tanto casos confirmados mediante cultivo como por RPC debido a que datos históricos sugieren que sólo 25%-70% de los pacientes con diagnóstico de MTBC tienen diagnóstico confirmado mediante cultivo22.
+
+Grupo control: Se definió    como aquellas muestras de LCR tomadas por sospecha clínica de meningitis    infecciosa en los cuales se descartaron MTBC y meningitis bacteriana aguda (Gram    y cultivo corriente negativos). Incluyeron los siguientes grupos de diagnósticos:    • Meningo-encefalitis herpética: LCR con aumento de celularidad    de predominio mononuclear y RPC en LCR    positiva para VHS 1 ó 2. Estudio bacteriológico negativo.
+
+• Meningitis aséptica: LCR con aumento de celularidad de predominio mononuclear y resultados negativos en todas las tinciones, cultivos y estudio molecular.
+
+• Meningitis criptocóccica: LCR con aumento de celularidad de predominio mononuclear y cultivo de LCR positivo para Cryptococcus neoformans. Resto del estudio bacteriológico y molecular negativo.
+
+• Síndrome febril no meníngeo: casos en los cuales se realizó punción lumbar como parte de estudio de un síndrome febril y cefalea, en los cuales el análisis de LCR resultó normal, incluyendo los cultivos y el estudio molecular.
+
+Test de ELISA: Las muestras de LCR fueron procesadas en el Laboratorio de Microbiología de la Pontificia Universidad Católica de Chile por un operador ciego al diagnóstico. Las muestras fueron congeladas a -20°C hasta el procesamiento, de manera a disminuir la variabilidad inter-ensayo. El test de ELISA se llevó a cabo de acuerdo a las recomendaciones del fabricante (ANDA TB® Anda Biologicals, Strasbourg, France). En breve, 100 mL de cada muestra de LCR se diluye 1:20 y se deposita en un pocillo de microtitulación cuya superficie se encuentra recubierta por antígeno A60 purificado. Luego se incuba por 1 hora a 37°C, tras lo cual se lava 5 veces con tampón de lavado. 100 mL de esta solución se añaden al conjugado correspondiente (anti IgG, anti IgM y anti IgA) y se incuba por 30 minutos a 37°C. Posteriormente se agregan 100 mL de la solución sustrato y se incuba por 15 minutos exactos, protegido de la luz. La reacción es detenida con ácido sulfúrico. La lectura de absorbancia se realiza a 450 nm y cada valor es expresado como una densidad óptica (DO). Para cada determinación se elaboró una curva de calibración, con calibradores positivos, negativos y controles.
+
+Análisis estadístico: Fue realizado en SPSS V10.0 y MedCalc® Software empleando T test para variables continuas y Mann-Whitney para análisis de datos no-paramétricos. Los resultados se expresan como DO promedio e Intervalo de Confianza de 95% CI. El rendimiento diagnostico del test, la selección de los puntos de corte y la comparación de ELISA con ALDA fue realizada mediante análisis de curva ROC (Receiver Operating Characteristic).
+
+Resultados
+
+En total se recolectaron 63 muestras    de LCR en el período del estudio. El grupo de MMTBC confirmada incluyó    17 casos (12 confirmados por cultivo de micobacterias positivo y 5 por RPC de    M. tuberculosis positivo en LCR). El análisis de LCR reveló    en los casos de MTBC una glucosa promedio    de 48,7 mg/dl (rango 13-100), recuento de leucocitos promedio de 144 céls/mm3    (rango 5-380) y promedio de proteínas de 29,2 g/l (rango 1-82).    El grupo control incluyó 46 casos: 21 casos de meningoencefalitis herpética,    9 casos de meningitis aséptica, 6 casos de meningitis criptocóccica    y 10 casos de síndrome febril no meníngeo. El análisis    de LCR del grupo control reveló una glucosa promedio de 55,2 mg/dl (rango    0-100), recuento de leucocitos promedio de 79 céls/mm3    (rango 0-360) y de proteínas de 15,4 g/l (rango 1-128).
+
+El valor de ADA en LCR fue analizado    para todos los grupos de pacientes. El promedio de ADA en el grupo MTBC fue    de 17,42 UI/ml [95% IC: 10,1-24,7] y de 4,07 UI/ml para el grupo    control [95% IC: 2,62-5,62], p < 0,0001. El área bajo    la curva ROC para el diagnostico de MTBC    mediante test de ADA fue de 0,863 (95% IC 0,752-0,936), con 88,2% de sensibilidad    y 80,4% de especificidad con un valor de    corte de ADA > 6,2. Se obtuvieron 9 resultados falsamente positivos con este    corte, incluyendo 4 casos en meningitis criptocóccica (Figura    1). Al excluir los casos de meningitis criptocóccica la especificidad    de ADA subió a 94,4% (95% IC 81,3-99,3), manteniendo el mismo nivel    de corte de ADA (> 6,2).
+
+
+
+
+
+Figura 1. Valores de ADA    (IU/ ml) en LCR en grupo meningitis tuberculosa (MTBC) (n = 17) y cada uno de    los subgrupos del grupo Control (meningitis her-pética (n = 21),    meningitis crip-tocóccica (n = 6), no meningitis (n = 10), meningitis    aséptica (n = 9). VHS: virus herpex simplex; MTBC: meningitis tuberculosa;    MC: meningitis criptocócica; NoM: no meningitis; MA: meningitis aséptica.
+
+ 
+
+Los valores promedios de DO para    IgG, IgM e IgA anti-A60 en el grupo MTBC fueron significativamente superiores    que en el grupo control (IgG: 0,198 versus 0,137, p = 0,002; IgM: 0,187    versus 0,055, p < 0,0001; IgA:    0,287 versus 0,088, p < 0,0001). Al analizar con respecto    a los subgrupos de pacientes del grupo control encontramos una sobreposición    significativa entre los valores promedios de las Ig anti-A60 en pacientes    con meningitis criptocócica y MTBC, en particular para los valores de    IgG (IgG promedio 0,198 versus 0,217, respectivamente, p = NS). El mej    or poder discriminatorio para el diagnostico de MMTBC se obtuvo con IgM anti-A60,    con un área bajo la curva ROC de    0,928 (95% IC 0,834-0,978), 94,1% de    sensibilidad y 80,4% de especificidad para un valor de corte > 0,06, tal    como se muestra en la Tabla 1.
+
+ 
+
+Tabla 1.    Rendimiento diagnostico de ADA y anticuerpos anti-A60 en LCR para el diagnóstico    de meningitis tuberculosa
+
+
+
+ 
+
+ Los valores de DO para IgM anti-A60    en subgrupos diagnósticos individuales están graficados en la    Figura 2. Un resultado falsamente negativo para IgM anti-A60    se obtuvo en un paciente cursando MTBC confirmada por cultivo, con un ADA en    LCR de 14.
+
+
+
+
+
+Figura 2. Valores de la    densidad óptica (DO) de IgM anti-A60 en el grupo meningitis tuberculosa    (MTBC) (n = 17) y cada uno de los subgrupos del grupo Control (meningitis herpética    (n = 21), meningitis criptocóccica (n = 6), no meningitis (n = 10), meningitis    aséptica (n = 9). VHS: virus herpex simplex; MTBC: meningitis tuberculosa;    MC: meningitis criptocócica; NoM: no meningitis; MA: meningitis aséptica.
+
+ 
+
+El análisis pareado mediante    curvas ROC para ambas técnicas diagnósticas en LCR (ADA e IgM    anti-A60) sugiere una leve mejor rendimiento diagnóstico para IgM,    aunque esto no alcanzó significancia estadística (p = NS), tal    como se observa en la Figura 3.
+
+
+
+
+
+Figura 3. Análisis    pareado de curvas ROC en el rendimiento diagnostico de ADA y de IgM anti-A60    en LCR en el diagnostico de la meningitis tuberculosa.
+
+ 
+
+En forma secundaria analizamos    sólo los casos de MTBC confirmados por cultivo (n = 12). El valor promedio    de ADA en LCR resultó de 18,83 (95% IC 10,9-26,8). La    sensibilidad de ADA mejoró a 100% (95% IC 73,5100) y la especificidad    a 82,6% (95% IC 68,6-92,2), con un valor de corte > 6,7. El área    bajo la curva ROC para ADA mejoró    a 0,933, [95% IC 0,835-0,982], p = 0,001. El rendimiento diagnóstico    de IgM anti-A60 no se modificó significativamente al analizar sólo    los casos con cultivo positivo, con un área bajo la curva ROC en 0,929,    [95% IC 0,83-0,98], p = 0,001.
+
+Discusión
+
+El presente estudio sugiere que la detección de inmuno-globulina anti-A60 puede ser una herramienta diagnóstica comparable a ADA en el diagnóstico de MTBC. El rendimiento diagnóstico de IgM anti-A60 (sensibilidad de 94,1% y especificidad de 80,4%) resultó incluso superior a lo reportado en numerosos estudios para la RPC de M. tuberculosis en LCR3,6,23. Este hallazgo pudiese explicarse por la gran antigenicidad deM. tuberculosis que resulta en la producción de anticuerpos detectables mediante ELISA pese a que la carga misma de antígenos micobacterianos sea muy baja en la muestra de LCR8,24.
+
+El test de ADA en LCR entregó dos resultados falsamente negativos, en casos que sí fueron detectados correctamente por IgM anti-A60. Estos casos correspondieron a MTBC confirmada por RPC, no por cultivo, lo que pudiese reflejar una muy baja carga micobacteriana en la muestra de LCR, o menos probablemente, corresponder a resultados falsamente positivos de la RPC para M. tuberculosis.
+
+En el presente estudio, IgM anti-A60 detectó correctamente una mayor proporción de casos de MTBC que las otras clases de inmunoglobulinas. En la tuberculosis pulmonar post primaria, se han descrito títulos altos de IgG y títulos bajos de IgM en plasma, mientras que títulos elevados de IgM sugerirían reactivación de una infección antigua16,25. En MTBC, la mayoría de los estudios publicados ha incluido sólo IgG anti-A60. Pocos reportes existen sobre las tres clases de anticuerpos. De éstos, dos encontraron un rendimiento global bajo para IgM en LCR en relación a IgG e IgA18,20, mientras que un tercer estudio encontró que en suero y en LCR la positividad de IgM anti-A60 era mayor que la de IgG en MTBC y en tuberculosis espinal19. Diferentes estadios de la infección tuberculosa podrían en parte explicar estas discrepancias.
+
+La especificidad de la IgM anti-A60 no resultó superior a la de ALDA, encontrándose falsos positivos en un número pequeño de muestras del grupo control. Reportes de inmu-nodiagnóstico de alta especificidad mediante anti-A60 han sido descritos exclusivamente en ausencia de infecciones en grupo control12. Los anticuerpos anti-antígeno A60 no son especie-específico y pueden ser detectados en otras infecciones por micobacterias atípicas y en lepra, habiéndose también reportado reacciones cruzadas con Corynebacteria y Nocardia sp16.
+
+Valores de ADA y de anti-A60 elevados se concentraron particularmente en los casos de meningitis criptocóccica del grupo control. No existe evidencia de que Cryptococcus sp. pueda compartir antígenos con M. tuberculosis; sin embargo, algunos autores han sugerido que pudiese existir respuesta inmunológica compartida. Este hecho pudiese también representar infección tuberculosa antigua, efecto de vacunación BCG o uso de test cutáneo de tuberculina (PPD) y persistencia de anticuerpos medibles26,27. La meningitis criptocóccica puede ser rápidamente descartada mediante tinción con tinta China, con una alta sensibilidad y especificidad en relación al estándar de oro (cultivo de hongos). Por lo tanto, en la práctica clínica sería recomendable excluir meningitis criptocóccica en todos los casos de sospecha de MTBC, de manera a incrementar la especificidad tanto de ADA como de anti-A60.
+
+En el presente estudio se excluyó la meningitis bacteriana aguda del grupo control debido a que en la práctica clínica estos casos son rápidamente diagnosticados y son más bien las meningitis a líquido claro y las meningitis crónicas las que pueden compartir con MTBC la forma de presentación clínica y alteraciones de LCR, complicando el diagnóstico. Sin embargo, es importante recordar que otras situaciones clínicas como la meningitis bacteriana aguda parcialmente tratada, que no fue incluida en este estudio, pueden constituir parte del diagnóstico diferencial de la MTBC28.
+
+Como principal limitante del    presente estudio no se incluyeron pacientes cursando tuberculosis en otras localizaciones    (extra-meníngeas) ni se tuvo acceso a historia clínica que    permitiese evaluar el antecedente de infección tuberculosa pasada, vacunación    BCG o la presencia de co-infección    con VIH. Se desconoce si los anticuerpos anti-A60 en LCR pudiesen variar    en esas circunstancias. No está claro tampoco en qué momento de    la infección meníngea las inmunoglobulinas anti-A60 se hacen    detec-tables en LCR ni cuánto tiempo persisten luego de que la MTBC    es tratada. La capa lipídica de la micobacteria que protege las glicoproteínas    de la pared celular puede ser lisada bajo la acción de fármacos    antituberculosos, liberando nuevos epítopes que son nuevos estímulos    inmunológicos. Esto ha sido mostrado en estudios en que bajo tratamiento    antituberculoso algunos pacientes presentan inicialmente un aumento de los anticuerpos    monoclonales u oligoclonales contra nuevos antígenos26,29.    Por otra parte, en la tuberculosis pulmonar estudios han mostrado que bajo terapia    antituberculosa los niveles de IgG séricos disminuyen16. Se    desconoce la situación específica de la duración y persistencia    de anticuerpos anti-A60 bajo tratamiento, lo cual pudiese ser de interés    en lugares donde el tratamiento antituberculoso se inicia en forma empírica,    antes de tener confirmación diagnóstica.
+
+En conclusión, los resultados del presente estudio sugieren que IgM anti-A60 en LCR pudiese servir de método diagnóstico complementario en el diagnóstico de la MTBC. Dado que no existe un método único que sea sensible y especifico, la combinación de diferentes pruebas puede ser necesaria para configurar correctamente este diagnóstico. Estudios prospectivos y a mayor escala serían necesarios para confirmar estos hallazgos.

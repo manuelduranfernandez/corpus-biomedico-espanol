@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000300239
+Factores predictores de mortalidad intrahospitalaria en pacientes adultos con infecciones por Klebsiella pneumoniae resistente a carbapenémicos y colistín: un estudio de cohorte retrospectivo
+
+Introducción
+
+La emergencia de β-lactamasas que hidrolizan carbapenémicos ha traído como consecuencia la aparición de bacilos gramnegativos multi-resistentes1-3. Dentro de ellos, el grupo denominado Klebsiella pneumoniae productoras de carbapenemasas (KPC) es el de mayor relevancia clínica dentro de la clase A de carbapenemasas y sus múltiples variantes enzimáticas pueden ser transmitidas a diferentes especies como Escherichia coli, Pseudomonas aeruginosa, Salmonella spp, Serratia spp y Enterobacter spp4-6. En dicho escenario, la emergencia de KPC resistentes a colistín representa un problema particularmente difícil de resolver dada las limitadas opciones terapéuticas actuales7-9. Un estudio reciente mostró, en pacientes adultos con infecciones bacteriémicas por KPC de alto riesgo, un riesgo menor de mortalidad en aquellos pacientes que recibieron una estrategia de tratamiento antimicrobiano combinado comparado con aquellos que recibieron monoterapia10. Más aún, estudios observacionales han descrito resultados prometedores con terapias que incluyen una estrategia de tratamiento con dos carbapenémicos en pacientes con cepas KPC11-14. Dicha estrategia se basa en el uso de ertapenem como un sustrato suicida de las carbapenemasas, debido a la elevada afinidad de dicho fármaco por estas enzimas15,16. Se desconoce el impacto de ambas estrategias en pacientes adultos con KPC resistente a colistín.
+
+La mortalidad intrahospitalaria reportada asociada a infecciones por KPC resistentes a colistín varía, pero puede llegar a ser de 50%3. Los factores de riesgo para, tanto colonización como infección por este tipo de microorganismo, incluyen la diabetes mellitus, inmunosupresión, el trasplante de órganos sólidos, la carga basal de co-morbilidad y la presencia de dispositivos tales como catéteres venosos centrales y ventilación mecánica invasiva3,17.
+
+En nuestro medio se desconoce la proporción de pacientes colonizados que posteriormente desarrollan una infección por KPC resistente a colistín, así como su impacto en eventos clínicamente relevantes. Más aún, no conocemos si en nuestro ámbito los factores de riesgo para desarrollar esta infección y para un pronóstico desfavorable tienen un rol similar a los previamente descritos en la literatura médica.
+
+En consecuencia, diseñamos un estudio para evaluar la incidencia de mortalidad intrahospitalaria en pacientes que desarrollan una infección por KPC resistente a colistín y sus potenciales factores de riesgo asociados.
+
+Material y Método
+
+Diseño y población
+
+Estudio de cohorte, retrospectivo, basado en el registro electrónico de un hospital universitario de tercer nivel de la ciudad de Buenos Aires, Argentina. La base de datos electrónica cuenta con información relevante a las características basales de los pacientes, así como resultados de laboratorio, estudios complementarios, terapéuticas instauradas y evolución clínica. Se seleccionaron pacientes adultos colonizados por KPC resistente a colistín y se incluyeron en el análisis final aquellos pacientes internados en cualquier sector del hospital que hubieran presentado un episodio de infección clínica por dicha bacteria.
+
+La detección de colonización por KPC en nuestro hospital se realiza de manera sistemática (rastreo primario semanal mandatorio en pacientes internados en unidades de cuidados críticos) o bien por el aislamiento de dicha bacteria en cultivos de muestras clínicas (por ejemplo, orina) que no sean considerados por el médico tratante como patológicos. El diagnóstico de colonización por KPC se basa entonces en las características clínicas y los resultados de laboratorio de cada paciente (por ejemplo, los hemocultivos son considerados infección en todos los casos) y fue revisada durante la recolección retrospectiva de los datos por un observador independiente de la atención del paciente. Los métodos realizados fueron basados en cultivos que exhibieran resistencia a antimicrobianos carbapenémicos y polimixinas en forma simultánea y en reacción de polimerasa en cadena (RPC) realizada a partir de muestras tomadas por hisopado anal. Se emplearon medios de cultivo cromógenos para la caracterización de las bacterias aisladas. Aquellas cepas que presentaron una concentración inhibitoria mínima > 1 μg/mL para meropenem e imipenem se consideraron sospechosas de presentar resistencia mediada por KPC. Luego, fueron subsecuentemente testeadas por métodos de amplificación de genes específicos por RPC a fin de detectar la codificación genética de dichas β-lactamasas. Para evaluar resistencia a colistín, se utilizaron métodos microdilucionales. La definición de infección clínica quedó a discreción del médico tratante. El período de inclusión fue del 1 de enero de 2016 al 1 de enero de 2017.
+
+El presente estudio fue aprobado por el Comité de Ética institucional (protocolo 3422), se llevó adelante de acuerdo con la declaración de Helsinki y es reportado según las guías STROBE.
+
+Variables
+
+La exposición principal fue definida como la ocurrencia de bacteriemia por KPC resistente a colistín, independiente del foco inicial infeccioso. Otros potenciales predictores considerados fueron la presencia de shock séptico, el retraso del tratamiento, el tratamiento empírico inicial adecuado y el tratamiento combinado. Se evaluó particularmente si aquellos pacientes tratados con fármacos carbapenémicos habían recibido terapia con una estrategia que empleara dos carbapenémicos, utilizando meropenem o imipenem combinado con ertapenem. Fueron medidas, además, variables basales como la edad, la carga de co-morbilidad, si los pacientes se encontraban institucionalizados, la presencia de enfermedad oncológica activa al momento de la internación, el requerimiento de procedimientos invasivos (acceso venoso central, catéter vesical), la presencia de shock séptico y la necesidad de tratamiento en una unidad de cuidados intensivos. El evento primario fue la mortalidad intrahospitalaria por todas las causas. Otro evento de interés fue la insuficiencia renal aguda con requerimiento de diálisis durante el tratamiento.
+
+Seguimiento
+
+Los pacientes se siguieron retrospectivamente desde el momento del primer cultivo positivo para KPC resistente a colistín hasta la fecha de alta o de muerte intrahospitalaria.
+
+Análisis estadístico
+
+Las variables cuantitativas continuas se resumieron como media y desviación estándar o como mediana e intervalo intercuartil según la distribución observada. Las proporciones se resumieron utilizando porcentajes. Para evaluar la distribución de las variables continuas entre aquellos pacientes que presentaron mortalidad intrahospitalaria por todas las causas y aquellos que no lo hicieron, utilizamos el test de student para muestras no pareadas o el test de Wilcoxon dependiendo de la distribución. Para aquellas variables binarias, utilizamos el test exacto de Fisher. Finalmente, para evaluar potenciales predictores utilizamos múltiples modelos univariados de regresión logística exacta. Para resolver los casos de cuasi-separación (debidos, en general, al bajo número de pacientes y eventos en nuestra cohorte) utilizamos el método de Firth para estimar coeficientes en modelos de regresión logística18. Finalmente, para evaluar la robustez de nuestros hallazgos también evaluamos la asociación entre la presencia de bacteriemia y mortalidad intrahospitalaria utilizando un modelo generalizado lineal con log link, distribución de Poisson y estimación de errores estándar robustos. Dicho modelo permite estimar la razón de tasas de incidencia de mortalidad para pacientes con bacteriemia en comparación a aquellos sin la misma.
+
+Utilizamos un valor de p de 0,05 para declarar significancia estadística y todos los valores reportados fueron generados usando pruebas a dos colas. Utilizamos STATA v. 14.1 para todos los análisis.
+
+Resultados
+
+Durante el período de 12 meses de enrolamiento, 42 pacientes internados en el Hospital Italiano de Buenos Aires se encontraron colonizados por KPC resistente a colistín, de los cuales 18 presentaron una infección clínica y fueron incluidos en el análisis de este estudio (Figura 1). En consecuencia, 42,9% de los pacientes colonizados por KPC resistentes a colistín presentaron una infección clínicamente evidente. Casi la mitad de ellos (n = 8, 44%) presentó una infección bacteriémica.
+
+Figura 1 Flujo de pacientes incluidos en el estudio KPCRC: Klebsiella pneumoniae resistente a carbapenémicos y colistín. 
+
+Globalmente, los pacientes que presentaron infección por KPC fueron de mediana edad, con predominio de varones y con una carga de co-morbilidad moderada según el score de Charlson (Tabla 1). La mitad de los pacientes se encontraban inmuno suprimidos y las enfermedades neoplásicas estaban presentes en 27,8% de ellos. El foco infeccioso más frecuentemente identificado fue el intra-abdominal (27,8%). Todos los pacientes requirieron al menos una medida invasiva de tratamiento y fueron tratados con un esquema antimicrobiano combinado, que incluyó en casi todos los casos un carbapenémico y en más de la mitad el uso de tigeciclina. Entre los pacientes tratados con carbapenémicos, tres recibieron tratamiento con estrategia de terapia combinada con dos carbapenémicos (Tabla 1). Llamativamente, los tres pacientes presentaban bacteriemia y shock séptico.
+
+Tabla 1 Características basales de los pacientes hospitalizados que cursaron con infección por KPC resistente a colistín incluidos en este estudio 
+
+1Las proporciones se compararon utilizando el test exacto de Fisher y las medianas con Wilcoxon.
+
+La mortalidad intrahospitalaria asociada a a una infección clínicamente relevante fue 38,9% (Tabla 1). En total, siete (38,9%) de los pacientes que cursaron con infección clínica por KPC resistente a colistín fallecieron durante la hospitalización. El grupo de pacientes que falleció correspondía a varones, en promedio más añosos, que presentaron bacteriemia, injuria renal aguda e inestabilidad hemodinámica más frecuentemente al momento de la presentación, comparados con el grupo que no experimentó mortalidad intrahospitalaria. Además, fueron tratados más frecuentemente con esquemas combinados que incluyeran tigeciclina (Tabla 1).
+
+Entre las variables evaluadas usando regresión logística univariada, la injuria renal aguda al momento del diagnóstico (OR: 25,0 intervalo de confianza (IC): 1,80-346,69, p = 0,02) y la presencia de shock séptico (OR: 25,03, IC: 1,14-550,50, p = 0,04) predicen la mortalidad intrahospitalaria en los pacientes adultos hospitalizados cursando con infección por KPC resistente a colistín (Tabla 2). Tanto la inmunosupresión, como la presencia de bacteriemia o el tratamiento con esquemas que incluyen tigeciclina impresionan asociarse a desenlaces clínicos desfavorables, pero no superaron el umbral de significancia estadística pre-especificado. Finalmente, la terapia combinada con carbapenémicos tampoco se asoció significativamente a la mortalidad intrahospitalaria.
+
+Tabla 2 Potenciales predictores de mortalidad intrahospitalaria en pacientes adultos con infección por KPC resistente a colistín 
+
+IC: intervalo de confianza, KPC: Klebsiella productora de carbapenemasas.
+
+1.Modelo de regresión logística exacta univariado. Para el caso de shock séptico utilizamos el método de Firth modificado debido a la presencia de cuasi-separación.
+
+En el análisis considerando el tiempo a mortalidad, el riesgo de mortalidad en el grupo de pacientes con bacteriemia fue 5,89 veces mayor que en el grupo sin bacteriemia, durante el período del estudio (razón de tasas de incidencia (IRR): 5,89, intervalo de confianza (IC) del 95% 1,01 – 34,15) (Tabla 1, apéndice suplementario).
+
+Discusión
+
+Nuestro estudio muestra que, entre los pacientes adultos con infección por KPC resistente a colistín, la mortalidad intrahospitalaria es un evento sumamente frecuente y de particular preocupación en vistas de la creciente incidencia de infecciones por bacterias multi-resistentes2. Evidencia, además, el potencial rol que poseen la bacteriemia, la injuria renal aguda y el shock séptico como predictores de mortalidad intrahospitalaria en dichos pacientes. Más aún, en nuestra cohorte, la estrategia de terapia con dos carbapenémicos no se asoció con un cambio significativo en la mortalidad intrahospitalaria comparado con la terapéutica con un carbapenémico. Dicho hallazgo debe ser tomado con cautela, debido a la presencia de múltiples factores no ajustados. Por ejemplo, la totalidad de los pacientes tratados con terapia con dos carbapenemes presentaba bacteriemia y shock séptico, pudiendo actuar dichas variables como potenciales confundidores de la asociación con mortalidad (ejemplo clásico de la denominada confusión por indicación). Más aún, la ausencia de terapéutica estándar condiciona las comparaciones por la alta variabilidad en la práctica clínica inducida posiblemente por la gravedad basal de la infección.
+
+Estos resultados confirman algunos hallazgos previos en poblaciones distintas a la que conforma nuestra cohorte retrospectiva. El uso de esquemas que incluyen tigeciclina en infecciones bacteriémicas ha sido descrito previamente como predictor de mayor mortalidad19,20, así como el retraso en la instauración de tratamiento antimicrobiano, particularmente en aquellos pacientes que reúnen criterios de sepsis19. Sin embargo, nuestro trabajo es el primero en confirmar la vigencia de dichos hallazgos en una población de pacientes con infecciones por KPC resistente a colistín.
+
+El uso de tigeciclina merece un apartado especial ya que como se ha mencionado previamente, si bien se han reportado eventos desfavorables durante su uso en distintas poblaciones19,21, en el caso de infecciones por KPC el impacto de estos hallazgos debería ser evaluado en el contexto del escaso número de esquemas antimicrobianos alternativos. En relación a esto último, es de notar el rol potencial de nuevos fármacos como ceftazidima/avibactam en el tratamiento de infecciones graves por KPC resistentes a colistín, ya sea solos o combinados, para el caso de cepas sensibles a los mismos, en vistas de los prometedores resultados que han mostrado diversas investigaciones previas22-24.
+
+Más aún, los factores de riesgo presentes en nuestro estudio para mortalidad intrahospitalaria en pacientes con infecciones con KPC resistentes a colistín son similares a los previamente reportados para infecciones por KPC sensibles a polimixinas3. Tanto la presencia de shock séptico y el score de APACHE II alto al comienzo de la infección como el tratamiento inicial inadecuado, son potenciales predictores de eventos desfavorables en la población de pacientes con KPC sensibles a colistín3. La similitud con los hallazgos de nuestro estudio es esperable debido a que los grupos de pacientes expuestos a ambas infecciones comparten similitudes clínicas y demográficas, así como en términos de la elevada tasa de mortalidad asociada.
+
+Numerosas limitaciones deben ser tenidas en cuenta a la hora de analizar los resultados de nuestro trabajo. En primer lugar, debido al número de pacientes incluidos, puede no haber sido observada la presencia de asociaciones entre factores de riesgo potencialmente relevantes y mortalidad intrahospitalaria por falta de poder estadístico. A su vez, el reducido tamaño muestral, hace más probable que las asociaciones observadas estén sobreestimadas y que los errores estándar y los consiguientes intervalos de confianza estimados sean sumamente amplios. En segundo lugar, el hecho de que el diseño haya sido retrospectivo, limita nuestra capacidad de medir variables a solamente aquellas registradas en la base de datos electrónica, pudiendo no estar computados otros factores de riesgo de interés para mortalidad intrahospitalaria. Más aún, es posible que exista un potencial sub-registro de algunos predictores de mortalidad de interés (por ejemplo, institucionalización, inmunosupresión, cáncer, presencia de procedimientos invasivos), o bien una clasificación errónea de los pacientes, pudiendo condicionar una desviación de nuestros hallazgos hacia la hipótesis nula. Tercero, el hecho de que nuestro estudio haya sido realizado en un solo centro limita la variedad de cepas de KPC resistente a colistín a aquellas pertenecientes a nuestro hospital, pudiendo no ser extrapolables los resultados observados, por ejemplo, en términos de eficacia terapéutica antimicrobiana. Esto tiene potencial interés dado que el grado específico en que cada cepa particular de KPC resistente a colistín condiciona la respuesta a antimicrobianos se desconoce25. Por último, debido al limitado número de eventos observados, no fue posible la construcción de un modelo de regresión multivariado que pudiera ajustar resultados por múltiples co-variables potencialmente confusoras de nuestros hallazgos.
+
+En conclusión, la infección por KPC resistente a colistín en pacientes previamente colonizados es un evento frecuente, así como también la mortalidad intrahospitalaria asociada a dicha infección. La presencia de tanto insuficiencia renal aguda como shock séptico durante el episodio infeccioso impresionan ser factores de riesgo para los eventos clínicos desfavorables. Futuros estudios deberían confirmar nuestros hallazgos, así como evaluar el rol de la presencia de bacteriemia, inmunosupresión, el uso de esquemas con tigeciclina y la estrategia de tratamiento con dos carbapenémicos en este escenario clínico.
+
+Realizado en coordinación entre el Hospital Italiano de Buenos Aires sede Central y Hospital Italiano de San Justo “Agustín Rocca”, Ciudad Autónoma de Buenos Aires y Buenos Aires, Argentina.
+
+No hubo fuente de financiamiento.
+
+Abreviaturas
+
+APACHE II
+
+Acute Physiology and Chronic Health disease Classification System II
+
+IC
+
+intervalo de confianza
+
+IRR
+
+Incidence Rate Ratio, razón de tasas de incidencia
+
+KPC
+
+Klebsiella pneumoniae productora de carbapenemasas
+
+RPC
+
+Reacción de polimerasa en cadena
+
+STROBE statement
+
+STrengthening the Reporting of OBservational studies in Epidemiology.

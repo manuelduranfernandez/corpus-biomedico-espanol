@@ -1,0 +1,148 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182014000200005
+Detección precoz de infección por citomegalovirus en pacientes sometidos a trasplante alogéneico de precursores hematopoyéticos por reacción de polimerasa en cadena cuantitativa en tiempo real
+
+Resumen
+
+Introducción: La antigenemia pp65 (antigenemia) ha sido utilizada para monitorizar viremia de citomegalovirus (CMV) en pacientes sometidos a trasplantes alogeneicos de precursores hematopoiéticos (TPHa). Recientemente, la reacción de polimerasa en cadena cuantitativa en tiempo real (en inglés RT-qPCR) se ha usado como una mejor aproximación al diagnóstico de infección por CMV. El objetivo de este estudio fue evaluar la correlación de viremia por CMV a través de RT-qPCR con antigenemia, en pacientes que han recibido TPHa. Material y Métodos: Estudio prospectivo, observacional, de los pacientes sometidos a TPHa durante 10 meses. Se realizó RT-qPCR de CMV en sangre total semanalmente desde el día +7 al+100 después del trasplante y antigenemia en forma simultánea desde el prendimiento hasta el día +100. Se evaluó la concordancia entre ambos ensayos. Resultados: Dieciocho pacientes fueron incluidos. En 120 muestras simultáneas, 96 fueron concordantes por ambos métodos (80%). El coeficiente Kappa fue 0,583. En los casos no concordantes, el 42% se encontraba en terapia antiviral. Trece pacientes (72%) desarrollaron infección por CMV (20 episodios). En 17 episodios, ambos ensayos fueron positivos. La carga viral fue detectable 1-2 semanas antes que la antigenemia en 45% de los episodios. Conclusión: Existe una buena correlación entre ambas técnicas y la RT-qPCR detecta más precozmente que la antigenemia las reactivaciones de CMV, especialmente en pacientes neutropénicos.
+
+Palabras clave: Citomegalovirus; reacción de polimerasa en cadena cuantitativa en tiempo real; antigenemia; trasplante de precursores hematopoiéticos, viremia.
+
+ 
+
+Introducción
+
+La infección por citomegalovirus (CMV) es una de las mayores causas de morbilidad y mortalidad en pacientes inmunocomprometidos, especialmente en trasplante de precursores hematopoyéticos alogénicos (TPHa)1.
+
+Actualmente no existe consenso en cuál prueba de laboratorio debe ser utilizada como estándar de oro para el diagnóstico de infección por CMV antes del inicio de la enfermedad sintomática. Básicamente existen dos técnicas para monitorizar la ocurrencia de viremia en estos pacientes: la antigenemia pp65, que detecta a través de inmunofluorescencia una fosfoproteína de CMV en el núcleo de leucocitos neutrófilos, cuando el virus se encuentra en replicación activa y, alternativamente, la reacción de polimerasa en cadena cuantitativa en tiempo real (en inglés RT-qPCR) que amplifica y cuantifica un gen de CMV en sangre total o plasma2.
+
+La antigenemia se ha usado por varios años y hay experiencia en su uso e interpretación del significado clínico de sus resultados, pero requiere de leucocitos para un buen rendimiento del ensayo, condición que no siempre es posible en TPHa.
+
+La RT-qPCR es más rápida y sensible, especialmente cuando la carga viral (CV) se realiza en sangre total comparada con plasma3-6.
+
+En la práctica clínica, se han utilizado dos estrategias principales para prevenir la enfermedad por CMV. La primera es la profilaxis universal (se indica ganciclovir al receptor en riesgo de infección por CMV desde el prendimiento hasta el día +100 después del TPHa). La segunda estrategia, la más utilizada, es la terapia anticipada "preemptive therapy", donde sólo se indican antivirales cuando hay evidencias de laboratorio de replicación viral3, esto basado en la observación que la presencia de viremia aumenta el riesgo de enfermedad por CMV4.
+
+Múltiples estudios que comparan antigenemia y RT-qPCR para monitoreo de infección por CMV han mostrado que existe una correlación significativa entre ambos ensayos46-9. Un estudio de Sia y cols.10, mostró que hay una relación entre CV y desarrollo de enfermedad por CMV, detectando viremia por ensayo molecular 14 días antes que la antigenemia.
+
+Estos hallazgos son especialmente importantes en TPHa; diversas publicaciones muestran que los receptores de este tipo de trasplante pueden tener enfermedad por CMV sin antigenemia positiva11,12 durante períodos con y sin neutropenia. La técnica de RT-qPCR para CMV podría resolver este punto, pero se recomienda que los centros de trasplante evalúen las distintas técnicas disponibles y establezcan sus propios puntos de corte, antes de implementar un protocolo de cambio de una a otra técnica en pacientes sometidos a TPHa13.
+
+El objetivo de este estudio fue evaluar la correlación de viremia por CMV a través de RT-qPCR con antigenemia, en pacientes que han recibido un TPHa.
+
+Nuestra hipótesis es que existe una concordancia, al menos aceptable14, entre ambos ensayos de laboratorio y que la RT-qPCR permite una detección más temprana de la infección por CMV que la antigenemia, lo que facilitaría el inicio precoz de tratamiento y una menor frecuencia de enfermedad por CMV.
+
+Material y Métodos
+
+Población estudiada
+
+Se incluyeron en forma consecutiva todos los pacientes que se sometieron a TPHa, con IgG positiva de CMV (ya fuese el donante y/o el receptor) en el Hospital Clínico de la Pontificia Universidad Católica de Chile (PUC), entre noviembre de 2010 y agosto de 2011. Se solicitó previamente consentimiento informado a los pacientes adultos y los tutores de pacientes pediátricos, en un formato aprobado por el Comité de Ética en Investigación de la Escuela de Medicina, PUC. Para niños sobre 7 años, se les solicitó además un asentimiento antes del inicio del estudio.
+
+Pruebas de laboratorio
+
+Se realizó RT-qPCR en sangre total semanalmente desde el día +7 después del trasplante hasta el prendimiento. Posteriormente se realizó en forma simultánea RT-qPCR y antigenemias en forma semanal hasta el día +100 después del transplante15. Ambas técnicas fueron realizadas en el Laboratorio de Infectología y Virología Molecular de la Escuela de Medicina de la PUC de Chile. La técnica de antigenemia se realizó de acuerdo a lo descrito por Landry M y cols.16, considerando un ensayo positivo la presencia de uno o más núcleos fluorescentes en 200.000 leucocitos. Se realizó el ensayo sólo en pacientes con recuento de leucocitos ≥ 1.000 céls/ml para conservar la confiabilidad de éste. Para la CV por reacción de polimerasa en cadena (RPC), se realizó la extracción por el equipo MagnaPure® ROCHE, siguiendo las instrucciones del fabricante según protocolo (ácido nucleico total o ADN). La amplificación se hizo en tiempo real con partidores y sondas incluidos en el ensayo de TibMol Biol- ROCHE®.
+
+El umbral de detección de CMV fue de 200 copias/mL. El rango de detección lineal fue entre 500 copias/mL y 20 millones de copias/mL y los valores obtenidos entre 200 y 500 copias/mL se reportaron como positivos, pero sin un valor cuantificable.
+
+Seguimiento clínico: los síntomas, signos, esquemas de profilaxis y terapias se obtuvieron de la ficha clínica.
+
+Definiciones6
+
+- Reactivación por CMV: corresponde a la detección de viremia por CMV a través de antigenemia y/o RT-qPCR en un paciente con o sin síntomas.
+
+- Infección por CMV: fue la presencia de antigenemia positiva en un paciente asintomático.
+
+- Síndrome CMV: se definió como una antigenemia positiva en un paciente con fiebre.
+
+- Enfermedad por CMV: antigenemia y/o RT-qPCR positivos en un paciente con fiebre y compromiso de un órgano blanco.
+
+- Prendimiento post TPHa: presencia de recuento absoluto de neutrófilos ≥ 500 céls/ml posterior al TPHa.
+
+Terapia
+
+Como estudio observacional, la terapia era indicada por el médico tratante utilizando los resultados de la antigenemia según criterio del médico clínico y del período posterior al trasplante en que se encontraba cada paciente. La RT-qPCR positiva no determinaba tratamiento anticipado, pero los resultados se reportaban al especialista. Sólo en los casos de enfermedad citomegálica, se trató a los pacientes que presentaban RT-qPCR positiva, aunque la antigenemia fuera negativa.
+
+Diseño
+
+Estudio prospectivo observacional.
+
+Análisis estadístico
+
+El número de pacientes estimados a reclutar fue de 16, con un promedio de 10 muestras sanguíneas por cada uno. Dado que no existe un estándar de oro para el diagnóstico de infección por CMV, se evaluó la concordancia entre antigenemia y RT-qPCR mediante coeficiente kappa. Se utilizó la expresión cualitativa de la concordancia descrita por Cerda y cols14. Los parámetros demográficos fueron evaluados por estadísticas descriptivas. Se usaron porcentajes en las variables categóricas y desviación estándar en variables continuas.
+
+Resultados
+
+Se incorporó al estudio un total de dieciocho pacientes con TPHa, ingresando en forma consecutiva en un período de 10 meses. Cuatro de ellos fallecieron antes de completar el período de observación. Un paciente falleció por recaida de la leucemia y tres pacientes fallecieron cursando una neumonía. Sólo en uno de éstos se confirmó CMV como etiología y causa de muerte, el mes posterior al trasplante. Doce pacientes eran ≥ 18 años. El promedio de edad fue de 22,7 años (rango 1-48 años). Doce pacientes eran hombres. Catorce pacientes (78%) recibieron un injerto de donante no relacionado (11 de ellos de sangre de cordón umbilical). Dieciseis pacientes requirieron trasplante por enfermedades hematológicas malignas. Los 18 pacientes recibieron profilaxis antiviral con aciclovir. Las reactivaciones de CMV fueron tratadas con ganciclovir o valganciclovir. El diagnóstico basal de cada paciente y la fuente del injerto se presentan en la Tabla 1.
+
+ 
+
+Tabla 1. Características basales de los pacientes y reactivación de CMV
+
+ 
+
+Análisis por resultados de las pruebas de CMV
+
+De un total de 18 pacientes, se procesaron 186 muestras de sangre para antigenemia y 151 muestras para RT-qPCR. Se obtuvo un promedio de 10,3 muestras de antigenemia y 8,4 muestras de RT-qPCR por paciente. Fueron 120 las muestras pareadas entre antigenemia y RT-qPCR. De esas 120 muestras simultáneas, 96 fueron concordantes entre ambos métodos (80%) y 36 fueron positivas por ambas técnicas (Tabla 2). El coeficiente kappa fue de 0,583 [IC95% 0,435-0,732] (fuerza de concordancia moderada).
+
+ 
+
+Tabla 2. Muestras para detección de CMV por antigenemia y reacción de polimerasa en cadena
+
+ 
+
+La mayoría de las muestras positivas por RT-qPCR (61%) estaban en rango no cuantificable (entre 200 - < 500 copias/mL), por lo que no se pudo encontrar un punto de corte de CV para considerar inicio de terapia. No se encontró una correlación entre altos niveles de antigenemia y altos niveles de RT-qPCR (Tabla 3).
+
+ 
+
+Tabla 3. Correlación entre diferentes niveles de antigenemia y carga viral de CMV obtenidas de muestras positivas concomitantes
+
+ 
+
+Se realizó el coeficiente de correlación de Pearson entre las variables log10 antigenemia y log10 carga viral con las 14 muestras que estaban sobre las 500 copias/ mL (correlación lineal) y tenían antigenemias positivas pareadas (Figura 1).
+
+ 
+
+Figura 1. Concordancia entre antigenemia y carga viral de CMV por reacción de polimerasa en cadena en tiempo real. Coeficiente de correlación de Pearson. Concordancia entre log10 antigenemia CMV y log10 carga viral de CMV por RT-qPCR con las 14 muestras que se encontraban sobre 500 copias/mL y tenían antigenemias positivas concomitantes. (r= +0,267, p = 0,357). Nota: ambas variables poseen una distribución normal.
+
+ 
+
+Análisis de los resultados discrepantes
+
+Un total de 24 de 120 muestras (20%) presentaron discrepancias entre antigenemia y RT-qPCR. Doce muestras tenían antigenemias positivas con RT-qPCR negativas.
+
+Cuatro de estas discordancias ocurrieron en pacientes que estaban en terapia antiviral al momento de la muestra. Tres se interpretaron como antigenemias falsamente positivas. Estos pacientes no presentaron signos o síntomas de infección por CMV y no necesitaron ser tratados con antivirales (dos pacientes tuvieron una célula positiva en 200.000 leucocitos y un paciente tuvo dos células positivas en 200.000 leucocitos). Cinco muestras fueron interpretadas como RT-qPCR falsamente negativas (todos estos casos tuvieron menos de tres células positivas en 200.000 leucocitos). Uno de estos pacientes fue el único caso que presentó reactivación por CMV diagnosticada por antigenemia y no por RT-qPCR. Esto ocurrió en el día +82 post trasplante, el paciente estuvo asintomático y tenía bajo nivel de antigenemia ( tres células positivas en 200.000 leucocitos).
+
+Doce casos presentaron RT-qPCR positivas con antigenemias negativas. Seis casos ocurrieron en pacientes que estaban en terapia antiviral al momento de la muestra. Dos casos fueron interpretados como RT-qPCR falsamente positivas (estos pacientes no tenían síntomas, sus antigenemias fueron siempre negativas y no necesitaron tratamiento antiviral hasta el día +100). Las CVs fueron 4.800 y 9.200 copias/mL respectivamente y las CVs subsecuentes negativas. En cuatro casos las antigenemias se interpretaron como falsamente negativas por asociarse a manifestaciones clínicas compatibles con síndrome o enfermedad por CMV. En tres de estos pacientes la RT-qPCR fue positiva una a dos semanas antes de la antigenemia y en uno de ellos la RT-qPCR fue positiva en sangre y lavado bronco-alveolar, asociado a falla respiratoria, pero con antigenemia negativa. Este caso fue interpretado y tratado como enfermedad pulmonar por CMV y fue uno de los pacientes que falleció antes del día +100.
+
+En suma, se observaron 10 casos de resultados discordantes que estaban recibiendo ganciclovir (42% de todas las discordancias), tanto en el grupo de antigenemia positiva- RT-qPCR negativa como en el grupo RT-qPCR positiva-antigenemia negativa.
+
+Análisis de los episodios de infección
+
+Trece pacientes (72%) tuvieron 20 episodios de infección por CMV, todos diagnosticados por antigenemia y tratados con ganciclovir. Diecisiete de los 20 episodios tenían antigenemia y RT-qPCR positivas concomitantes. De éstas, 14 fueron pacientes asintomáticos, uno tuvo síntomas sistémicos (fiebre) y dos presentaron enfermedad por CMV. De estos dos casos, uno tuvo diarrea prolongada al día +70 después del trasplante, con una biopsia compatible con colitis por CMV ("inclusiones citoplasmáticas" y RPC de CMV positiva en tejido) y el otro paciente tuvo neumonia y RPC CMV positiva en lavado bronco-alveolar y sangre al día +50 después del trasplante. Ambos presentaron RT-qPCR positiva en sangre una semana antes que la antigenemia (ambas con < 500 copias/mL).
+
+Los tres episodios no concordantes fueron: un paciente/ un episodio con antigenemia negativa, pero RT-qPCR positiva (con < 500 copias/mL) en sangre y lavado bronco-alveolar. Los otros dos episodios ocurrieron en un paciente que siempre fue asintomático, tuvo antigenemias bajas (dos y tres células positivas por 200.000 leucocitos) y RT-qPCR negativas.
+
+La RT-qPCR de CMV fue positiva una o dos semanas antes que la antigenemia en 45% de los episodios.
+
+De los 18 pacientes reclutados, seis presentaron enfermedad de injerto contra hospedero (cutánea, hepática e intestinal). De ellos, dos hicieron infección por CMV y uno presentó una posible neumonía por Aspergillus sp.
+
+La Figura 2 muestra los valores de RT-qPCR y antigenemia de CMV en cuatro pacientes del estudio.
+
+ 
+
+ 
+
+Conclusión
+
+La infección por CMV es frecuentemente responsable de morbilidad y mortalidad en pacientes sometidos a TPHa. En nuestra cohorte, 72% de los pacientes presentaron infección por CMV, similar a lo descrito en otras publicaciones17,18 y en 15% se manifestó como enfermedad por CMV. Este alto porcentaje de reactivaciones se debe a que en nuestro centro, 60% de los pacientes tienen un alto riesgo de reactivación por CMV (60% de los injertos fueron de sangre de cordón umbilical) y en 40% el riesgo es moderado (donante y/o receptor positivo). Algunos pacientes también hicieron otras complicaciones como enfermedad de injerto contra hospedero o neumonía fúngica, empeorando su pronóstico.
+
+Durante años, la antigenemia pp65 ha sido utilizada para la detección de infección por CMV en nuestra institución. Sin embargo, este recurso no puede ser utilizado como examen de referencia diagnóstica; siendo un examen que se realiza con observación de leucocitos polimorfonucleares, no permite la monitorización de replicación de CMV antes del prendimiento medular, la que retrasa el diagnóstico en pacientes con granulocitopenias prolongadas. Otras desventajas son que su procesamiento es laborioso y que requiere un tecnólogo experimentado para su lectura e interpretación4,7,16,19. La necesidad de un procesamiento inmediato, hace difícil su almacenamiento y transporte desde lugares remotos, donde la prueba no está disponible8,16. Múltiples estudios han mostrado la utilidad de detectar infección por CMV a través de RT-qPCR. Este ensayo, comparado con la antigenemia, tiene varias ventajas; puede ser realizado en pacientes neutropénicos4,6,7,15,19, es más rápido de procesar y la estabilidad de la muestra favorece el almacenamiento y transporte desde y hacia otros hospitales.
+
+En el presente estudio, se evaluó la correlación de viremia por CMV a través de RT-qPCR con antigenemia, en pacientes sometidos a TPHa. Debido a que la sensibilidad y especificidad de la RT-qPCR de CMV no puede ser estimada -en ausencia de un estándar de oro para el diagnóstico de esta infección-, se utilizó el coeficiente kappa para evaluar la concordancia con la antigenemia. Nuestro estudio obtuvo una concordancia kappa de 0,583 entre RT-qPCR y antigenemia (moderada fuerza de concordancia), superando lo planteado en nuestra primera hipótesis y a lo descrito en otras publicaciones17,20. La RT-qPCR fue positiva en algunos casos en que la antigenemia fue negativa o en que ésta no podía realizarse (pacientes intensamente neutropénicos). Estos hallazgos muestran que la RT-qPCR puede ser especialmente útil en las primeras semanas después del TPHa, cuando aún no ha ocurrido el prendimiento medular. Utilizando los resultados de la RT-qPCR, 45% de los episodos de infección podrían haberse diagnosticado y tratado una a dos semanas antes de la positivizacion de la antigenemia. Este hallazgo confirma nuestra segunda hipótesis que la RT-qPCR permite una detección más temprana de la infección por CMV en comparación con la antigenemia, hallazgo también descrito en otras publicaciones10,20,21.
+
+En este estudio, una importante proporción de las discordancias entre ambos exámenes (10/24; 42%) ocurrieron durante el uso de terapia antiviral. Como Choi y cols.7 describieron, la exposición a terapia antiviral es un factor que influye significativamente en los resultados discrepantes. En estos casos, la RT-qPCR de CMV y la antigenemia parecen disminuir con distintas velocidades.
+
+No pudimos determinar valores de corte de la RT-qPCR para inicio de tratamiento, debido a que las cargas virales encontradas estaban bajo el umbral lineal de detección. No obstante, los hallazgos sugieren que cualquier carga viral positiva (≥ 200 copias/ml), independiente de su valor cuantificado, representa infección y debe ser tratada en estos pacientes.
+
+En conclusión, la concordancia entre las dos técnicas y la detección más precoz de viremia con CV comparada con antigenemia, valida la utilidad de la RT-qPCR en TPHa como un mejor ensayo en el diagnóstico y manejo precoz de infección por CMV en estos pacientes.
+
+Es importante destacar la falta de estandarización de los resultados de la CV y de la antigenemia con respecto a un estándar internacional al momento de realizar este estudio, lo cual impidió comparar los resultados obtenidos con los de otros centros. En los últimos años, los esfuerzos han permitido la aparición de un estándar de la Organización Mundial de la Salud para la CV de CMV que ha permitido la incorporación al mercado de exámenes IVD ("in vitro diagnostic products") que entregan resultados en unidades internacionales22, lo que conducirá a la realización de estudios prospectivos, colaborativos entre centros, de manera de obtener el seguimiento de un mayor número de pacientes y de esta manera establecer puntos de corte de la CV que indiquen la necesidad de inicio de terapia.
+
+Agradecimientos. A María Wiestruck, Marcela Contreras, Bruno Nervi y Verónica Jara por incorporar sus pacientes al estudio.

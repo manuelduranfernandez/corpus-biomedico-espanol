@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000100010
+Investigación de la transformación de Streptococcus pneumoniae en el laboratorio, y el nacimiento de la genética bacteriana y la biología molecular
+
+Resumen
+
+La virulencia de Streptococcus pneumoniae para el ratón depende de la producción de una cápsula con poli-sacáridos que envuelve a la bacteria, y la protege contra la fagocitosis. Los neumococos capsulados generan colonias lisas y brillantes llamadas L, pero con frecuencia aparecen cepas mutantes, que han perdido la capacidad de sintetizar la cápsula, son avirulentas y rugosas, denominadas R. En 1928, el bacteriólogo R. F. Griffith descubrió la transformación bacteriana, hecho trascendental en la historia de la genética, puesto que los determinantes hereditarios podían ser transferidos de una bacteria a otra, suceso que propició el reconocimiento subsecuente del ácido desoxirribonucleico (ADN) como el responsable de la herencia. Después de un análisis químico sistemático, realizado por O. T. Avery y cols., en un lapso de 10 años, se obtuvo una evidencia fuerte y convincente que el ADN era el "principio transformante". En 1953, J. D. Watson y F. H. C. Crick por medio de una síntesis brillante, modelaron la información química disponible, junto con los datos obtenidos por la radiografía de difracción con rayos-X, y propusieron una estructura de doble hélice y simétrica, que podría explicar las propiedades del material genético, y acarreaba la información necesaria para dirigir los procesos químicos celulares y la auto- replicación. Se hace una revisión sobre el nacimiento y rápido desarrollo de la genética bacteriana y la biología molecular.
+
+Palabras clave: Streptococcus pneumoniae, virulencia, transformación bacteriana, ácido desoxirribonucleico.
+
+ 
+
+"Nada es más satisfactorio para la mente, que ser capaz      de seguir un descubrimiento desde sus orígenes, hasta su      desarrollo y aplicación más reciente"
+
+Louis Pasteur, 1878
+
+ 
+
+Se descubre la transformación de Streptococcus pneumoniae
+
+En 1928, el bacteriólogo inglés Frederick Griffith, realizó experimentos de laboratorio con dos cepas de Streptococcus pneumoniae, agente ya conocido por causar neumonías, bacteriemia grave y meningitis1. Una de las cepas, cuando crecía en un medio sólido enriquecido con gelosa-sangre, producía colonias rugosas pequeñas (Figura 1A), al examinarlas a través de la luz reflejada. Esta cepa serotipo-II fue llamada R. La otra cepa serotipo-III formaba colonias brillantes y lisas L (Figura 1C). Habiendo comparado la morfología microscópica de las dos cepas, se observó una diferencia clara: la cepa-L se veía rodeada por una cápsula gruesa y viscosa (Figura 1D), mientras la cepa-R carecía de ella (Figura 1B). Por separado, las cepas R y L fueron suspendidas dentro de tubos con medio líquido, que luego se utilizó para ser inoculado por vía subcutánea, en ratoncillos de laboratorio. La cepa L, virulenta, produjo bacteriemia, neumonía y muerte, es decir, la cápsula le confería protección contra la fagocitosis y la bacteria se multiplicaba en la sangre y los pulmones del ratón. Por lo contrario, la cepa R, sin cápsula, era fagocitada rápidamente impidiendo su multiplicación; en consecuencia, evitaba la enfermedad y el ratón sobrevivía1.
+
+ 
+
+
+
+Figura 1. Dos cepas distintas de Streptococcus        pneumoniae. (A y B) Serotipo II, rugosa sin cápsula,        avirulenta. (C y D) Serotipo III, colonias lisas,        diplococos envueltos por una cápsula birrefrigente,        es virulenta y letal para el ratón. Tinción azul de        metileno x 1.000.
+
+ 
+
+En otros experimentos, Griffith observó que los ratoncillos inyectados con una cantidad pequeña del cultivo R (serotipo II), junto con un inóculo grande de la cepa L (serotipo III), previamente inactivada por calor, morían frecuentemente por la infección. Sin embargo, en la sangre obtenida por punción cardíaca de los animales moribundos se recuperaba sólo el neumococo tipo L en cultivo puro. Eso le hizo pensar que no todas las células de la cepa L habían muerto, y fue necesario repetir el experimento. Después de haber obtenido el mismo resultado, concluyó que las bacterias muertas L, habían conservado cierta capacidad para transmitir su aptitud de producir cápsulas-viscosas, y esa capacidad transformadora se transmitió a los descendientes de la cepa R. Algún tipo de información o sustancia química procedente de células L, muertas, literalmente "transformaba" las bacterias R, haciéndolas virulentas y generadoras de cápsulas (Figura 2)2,4.
+
+ 
+
+
+
+Figura 2. F. Griffith (izquierda) Investigador talentoso y austero. Inyectó los      neumococos muertos de la cepa L, junto con bacterias vivas, avirulentas cepa      R, pero los ratones murieron. Hipotetizó entonces, la existencia de un "principio      transformador", que podía ser transferido de una bacteria a otra modificando la      virulencia y otras propiedades de los neumococos.
+
+ 
+
+Las conclusiones de Griffith fueron sorprendentes, otros investigadores confirmaron los mismos resultados, y no pasó mucho tiempo para que los resultados de Griffith hubiesen sido replicados in vitro, o sea, fuera del cuerpo del animal. Evidentemente, alguna sustancia presente en las bacterias muertas actuaba como un regulador potente de las células bacterianas vivas, pero ¿Cuáles eran esas sustancias?
+
+Identificación química de la sustancia transformadora
+
+Tres investigadores del Instituto Rockefeller de Nueva York, E.U.A., después de una labor ardua durante 10 años, identificaron la sustancia transformadora de los neumococos. Estos científicos, O. T. Avery, C. Mc Leod y M. Mc Carty (Figura 3) separaron cuidadosamente tres componentes químicos diferentes a partir de los extractos purificados de la cepa L y luego, los probaron para determinar la capacidad de transformación. Primeramente probaron la cápsula viscosa (polisacárido), pero las pruebas no modificaron las células de la cepa R. Al hacerlo con las proteínas diversas de la cepa L, los resultados fueron igualmente negativos. Después de un proceso de purificación técnicamente complicado, la sustancia transformadora se encontró en la preparación "44" polimerizada y viscosa, la cual se llamó ácido-dexosirribonucleico (ADN)5. Por otro lado, el componente de la cápsula bacteriana fue identificado como un polisacárido no-nitrogenado, constituido por unidades de glucosa y ácido glucurónico unidas linealmente por ligaduras glicosídicas (del carbohidrato serotipo III). En el reporte de 1944 se lee:
+
+ 
+
+
+
+Figura 3. O. T. Avery y cols. fraccionaron los extractos químicos obtenidos        del neumococo L en busca del "principio transformador" habiéndose probado        el polisacárido capsular, y luego las proteínas obtuvieron resultados negativos.        La fracción 44 fue purificada identificada como ácido desoxirribonucleico,        y poseía el poder transformante, postulado por Griffith. Además purificaron        el polisacárido capsular y afinaron el conocimiento referente a su estructura        química, en colaboración con M. Heidelberger.
+
+ 
+
+"Hasta donde los autores conocen... un ácido nucleico del tipo de la desoxirribosa, no había sido recuperado, hasta ahora, de los neumococos ni había sido inducida, experimentalmente, una transformación específica in vitro, por una sustancia química definida. Si, no obstante, la sustancia aislada y biológicamente activa... como... el ácido desoxirribonucleico, prueba actualmente ser el principio transformador, como nos sugiere fuertemente la evidencia obtenida, entonces los ácidos nucleicos de este tipo, deben ser considerados no sólo estructuralmente importantes, si no también funcionalmente activos para determinar los procesos bioquímicos, y las propiedades de las células neumocóccicas"5.
+
+ADN: Estructura y función
+
+Los químicos, ya sabían que el ADN era una macro-molécula, y se habían identificado tres componentes principales: el grupo fosfato; la otra unidad fue un sacárido de cinco carbonos, llamado desoxirribosa. La tercera unidad, era alguna de cuatro bases nitrogenadas: la adenina (A) y la guanina (G), constan de dos anillos fusionados y se denominan purinas; la timina (T) y la citosina (C) tienen un solo anillo y se le llaman pirimidinas. Los análisis químicos del ADN obtenidos de levaduras, bacterias y médula ósea, demostraron que las unidades del fosfato y la desoxirribosa se encuentran, aproximadamente siempre en la misma proporción. Además, aunque la proporción de las bases nitrogenadas sea diferente en cada organismo vivo analizado, ciertos pares se encuentran siempre en proporciones aproximadamente iguales A-T y G-C (Figura 4).
+
+ 
+
+
+
+Figura 4. Una molécula de desoxirribosa y otra de        fosfato, ligadas con una base nitrogenada se llama        nucleótido. El ADN está formado por cuatro nucleótidos        diferentes, aunque la proporción de las bases sea        distinta en cada organismo analizado, pero las bases        pareadas A-T y G-C, se hallan siempre en proporción        aproximadamente igual.
+
+ 
+
+Un modelo estructural del ADN
+
+En la revista Nature, de abril de 1953, el biólogo americano J. D. Watson y el biofísico inglés F. H. C. Crick enunciaron: "Deseamos sugerir una estructura para la sal del ácido desoxirribonucleico (ADN) con características nuevas, y son de interés biológico considerable".
+
+Previamente, el cristalógrafo H. F Wilkins, estudiaba el ordenamiento espacial de los átomos en los cristales, bombardeándolos con rayos-X (Figura 5A). De este modo, al examinar el ADN cristalizado, encontró tres ordenamientos espaciales o periodicidades, eran 3,4 A0, 20 A0 y 34 A0, y se preguntó ¿Por qué la pauta de difracción es tan repetitiva? Parecía todo como un rompecabezas, de difícil interpretación6.
+
+ 
+
+
+
+Figura 5. A) Wilkins, con una imagen de difracción de rayos-X, generada        por el ADN-cristalizado (cortesía del autor). B) La naturaleza helicoidal del        ADN ha sido comparada con una escalera de caracol.
+
+ 
+
+De manera ingeniosa y creativa, Watson y Crick revisaron las estructuras químicas conocidas y el tamaño relativo de las purinas y pirimidinas, luego ordenaron linealmente los nucleótidos (base-azúcar-fosfato), modelándolos con metal y alambres, y forjaron el modelo molecular más probable. El eje de cada cadena estaba formado por azúcar-fosfato, pero al emparejar los nucleótidos, demostraron que la base A sólo podía enlazarse con T, mediante dos puentes débiles de hidrógeno, y la unión G-C se aseguraba por tres puentes de hidrógeno. Cuando un par de nucleótidos se unía, el ancho de la distancia era 20 A0. Finalmente, propusieron que la escalera molecular estaba enrollada como hélice doble (Figuras 5B y 6A y B) y escribieron: "si el ADN es depositario de la herencia, debe ser capaz de hacer las reproducciones exactas o copias de si mismo" y añadieron... "No ha escapado a nuestra atención que las dos parejas específicas postuladas anteriormente A-T, G-C, indican un mecanismo posible para la copia del material genético"7.
+
+ 
+
+
+
+Figura 6. A) Watson y Crick propusieron que los nucleótidos se ordenaban        longitudinalmente, formándose dos cadenas largas y enrolladas en hélices        con el eje principal de azúcar-fosfato. Ambas, están enlazadas por las bases        en puntos interiores, con puentes de hidrógeno. B) La distancia entre bases        sucesivas era 3,4 A0, y al duplicarse se generan dos moléculas del        ADN-idénticas (abajo).
+
+ 
+
+Dos investigadores talentosos y creativos
+
+Frederick Griffith nació en Hale, Inglaterra y estudió genética y salud pública en la Universidad de Liverpool. Trabajó en el Thompson Yates Laboratory y con la Royal Commission on Tuberculosis. Griffith creía que el progreso de las Ciencias Médicas y de la Infectología, sólo vendría, tras un conocimiento más preciso acerca de los microorganismos patógenos. El gobierno del Reino Unido destinaba escaso dinero para la investigación en esa época, cuando la guerra parecía inminente, y Fred trabajó en un laboratorio pequeño con pocos recursos. Sin embargo, su mente de observador fino, más la mucha motivación y el amor por su labor como bacteriólogo, le ayudaron a sobresalir y publicar sus experimentos, bien diseñados. Murió en 1941, mientras trabajaba en el laboratorio junto con su amigo el bacteriólogo W. M. Scott, durante un bombardeo alemán en la Segunda Guerra Mundial (Obituario del Lancet, 3 de mayo de 1941).
+
+Oswald Theodore Avery, nació en 1877 en Halifax, Nova Scotia en Canadá, y durante la niñez se mudó a Nueva York, E.U.A., donde pasó casi toda su vida fructífera. Eligió la carrera de medicina, habiéndose graduado en la Universidad de Columbia en 1904, y luego, se especializó en Bacteriología. Laboró primero en un laboratorio para el control microbiológico de los lacticinios. En 1906 ingresó al Laboratorio Hoagland de Brooklyn y junto con el director Benjamin White trabajaron en extraer las "toxinas" del bacilo tuberculoso, y así publicaron tres estudios pequeños. De ese modo, se forjó el interés del Dr. Avery hacia la relación entre las propiedades de las bacterias y su composición química. En 1913, Avery se unió al Servicio de Neumonía del Instituto Rockefeller, y llegó a ser un experto reconocido en el tema de los neumococos. Más tarde colaboró con Michael Heidelberger habiendo logrado la purificación de los carbohidratos capsulares y la estructura química, contribuyeron así al fortalecimiento de la inmunoquímica cuantitativa, que había de servir como base sólida para el desarrollo ulterior de las vacunas antineumocóccicas polivalentes. A la edad de 70 años, famoso y laureado, se retiró a Nashville, Tennessee, donde murió en 19558. El médico B. White, escribió: "Las peculiaridades del neumococo, han generado una ganancia enorme para los investigadores e inversionistas, quienes se atrevieron a gastar su tiempo y creatividad en esta tarea, habiéndose logrado acumular un vasto acerbo de conocimientos duros, para deleite de los científicos, y con mucho beneficio para toda la humanidad" (White B. The biology of pneumococcus: the bacteriological, biochemical, and immunological characters of Diplococcus pneumoniae. New York: Commonweath Fund 1938: xv-xvii).
+
+Comentarios
+
+Un modelo científico se fundamenta en la observación cuidadosa, o el buen diseño de los experimentos9. Griffith, estudió la virulencia comparada de dos cepas de neumococo, y postuló la existencia de una "sustancia transformante" desconocida. Trabajó en un laboratorio minúsculo y con pocos recursos técnicos, pero la calidad alta de sus resultados, le han hecho acreedor al reconocimiento universal, bien merecido, de todos los microbiólogos8, 9.
+
+Avery trabajó en un laboratorio bien equipado, además de su gran preparación como médico bacteriólogo y líder del grupo, eso le permitió demostrar que el principio transformante del neumococo era el ADN, y en colaboración con M. Heidelberger logró también aislar e identificar el polisacárido cápsular, responsable de la virulencia10. Con esas investigaciones, se abrió la puerta para el avance de la genética bacteriana, y se preparó el terreno para la fabricación ulterior para las vacunas antineumocóccicas de polisacáridos. Wilkins tomó una radiografía del ADN cristalizado y midió la periodicidad macromolecular, pero la construcción de la estructura compleja parecía insoluble. Entonces, el genial dúo Watson y Crick recogieron los conocimientos acumulados por la investigación físico-química previa y la cristalografía por difracción con rayos-X, y con pocos alambres y láminas metálicas, forjaron el modelo de la doble hélice enrollada como escalera de caracol. El modelo propuesto ha resistido los embates del tiempo y con su trabajo creativo e innovador, arrancó la carrera de la biología molecular, que ha generado muchos beneficios para la ciencia médica, y el diagnóstico fino de las enfermedades infecciosas, en particular11-14.
+
+Agradecimientos: Doy gracias especialmente a tres amigos generosos y gentiles, quienes con gran paciencia y fortaleza de ánimo, contestaron mis dudas y les añadieron comentarios esmerados, ellos son: William Hayes F. R. S, Profesor de Genética y Biología Molecular en la Universidad de Edinburgh, Escocia; Everett Mendelsohn, Prof. History of Science, Harvard University; y Tera Hayasi, Prof. Cellular Biochemistry and Bacterial Physiology, Columbia University, N. Y. USA, El Lic. C. C. Miguel Iván Olvera Macías colaboró también en el desarrollo de las imágenes y en la búsqueda difícil de referencias originales.

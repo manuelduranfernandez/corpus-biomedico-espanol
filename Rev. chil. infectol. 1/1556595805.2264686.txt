@@ -1,0 +1,110 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000100006
+Características asociadas a la consulta pre viaje en turistas que visitan Cusco, Perú
+
+Resumen
+
+Introducción: El turismo internacional continúa aumentando, siendo la medicina preventiva un pilar importante, como las consultas pre viaje (CPV). Objetivo: Determinar las características del turista asociadas a CPV en turistas que visitan Cusco. Materiales y Métodos: Estudio analítico transversal, de análisis de datos secundarios, a partir de una base de datos generada por encuesta aplicada a turistas extranjeros que visitaron el Cusco, en la sala de espera del aeropuerto. La variable principal fue haber tenido CPV en el país de residencia del turista. La zona de residencia se categorizó según la salubridad/riesgo de los turistas para adquirir enfermedades-infectocontagiosas como la diarrea del viajero durante su estadía. Estas y otras variables fueron analizadas y se obtuvieron estadísticos de asociación con los modelos lineales generalizados. Resultados: De los 1.827 turistas, 875 (48%) fueron hombres, con mediana de edad de 33 años (rango 18-88 años). El 42% tuvo una CPV. En el análisis multivariado, se encontró que estuvo asociado a una menor frecuencia de CPV el sexo masculino (RPa: 0,84; IC 95%: 0,750,94%), y a una mayor frecuencia de CPV el haber nacido (RPa: 1,77; IC 95%: 1,39-2,27) y residir en una zona de bajo riesgo para adquirir enfermedades infecciosas (RPa: 1,95; IC 95%: 1,26-3,00), ajustado por el antecedente de una enfermedad. Discusión: El sexo, la zona de nacimiento y residencia del turista (según riesgo de adquirir enfermedades infecciosas) son factores asociados a tener una CPV. Estos hallazgos pueden servir a las instituciones de salud y gubernamentales que atienden a turistas que vienen a nuestro país.
+
+Palabras clave: Viajeros, consulta pre viaje, asesoramiento médico, Cusco.
+
+ 
+
+Introducción
+
+Las migraciones internacionales se han incrementado, especialmente en los últimos 25 años1,2 y se estima que la cantidad de viajes de larga distancia continuará en aumento3,4. Es así que a nivel mundial en el año 2013 se alcanzó la cifra de 1.123.200.395 viajes realizados por turistas internacionales5. En el 2013, el Perú tuvo 3.164.000 arribos internacionales5, con una tasa de crecimiento anual del 8,5%6; sobre todo en la ciudad de Cusco, que es el principal destino turístico nacional7 y cuya tasa de crecimiento media anual del turismo receptor es 15,2%8. Adicionalmente, entre los principales emisores de turistas hacia el Perú, 29% proceden de Chile y Estados Unidos de América (E.U.A,) (15%), entre otros7.
+
+Mundialmente 15 a 70% de los viajeros experimentan problemas de salud8,9, y de dichos problemas, la diarrea del viajero (DV) es el más frecuente -con una incidencia estimada de 20 a 70%10-, afectando anualmente a millones de personas11,12. Ante esta realidad, la medicina del viajero a través de la Consulta Pre-Viaje (CPV) aparece como una alternativa para enfrentar dicha problemática y prevenir y mitigar sus consecuencias agudas y crónicas.
+
+La CPV promueve la reducción de riesgos inherentes al viaje a través de medidas preventivas y conductas saludables, destacándose entre lo más importante las inmunizaciones, que en el caso de la DV son relativamente poco efectivas (por ej.: vacuna para cólera)13,14. Sin embargo, existen cifras variables de la realización de CPV: tan bajas como 8% en países en vías de desarrollo15 y hasta 52% en países desarrollados16. Estudios realizados en Cusco, Perú, aportan datos primarios de este tema9, así como otros estudios que se realizaron en países en vías de desarrollo, que se enfocan en la descripción de las características de la población y en encontrar las fuentes a partir de los cuales los viajeros reciben información para las CPV15,17; sin embargo, no se han encontrado estudios que evalúen la asociación entre la CPV y otros factores importantes para ésta. El objetivo del estudio fue determinar las características del turista que se asocian a la CPV en visitantes de Cusco, Perú.
+
+Materiales y Métodos
+
+Diseño y muestra del estudio
+
+Se realizó un estudio analítico de corte transversal, mediante el análisis de una base de datos generados a partir de una encuesta auto-aplicada a turistas extranjeros y a nacionales residentes en el exterior, que visitan Cusco. Los criterios de inclusión y exclusión se muestran en el árbol de selección (Figura 1). El muestreo fue de tipo no probabilístico censal.
+
+ 
+
+
+
+Figura 1. Árbol de selección de los turistas encuestados en el Aeropuerto        Internacional de Cusco, Perú.
+
+ 
+
+Variables
+
+La variable principal fue CPV: variable dicotómica en términos de tener o no la CPV antes de viajar al Perú, obtenida mediante la pregunta si es que había realizado una consulta médica para la preparación de su viaje.
+
+Se definió la zona de residencia y de nacimiento según el riesgo para la adquisición de diarrea del viajero, la cual representa la enfermedad infecto-contagiosa más frecuente para los turistas. Esto fue obtenido a partir de revisiones del tema que dividen a los países en tres categorías (según su nivel de desarrollo y condiciones de salubridad)18, clasificándolo como zona de bajo riesgo (ZBR: Países de Europa occidental, E.U.A., Canadá, Australia, Japón y Nueva Zelandia) o de alto riesgo (ZAR: Países de África, Latinoamérica y el sur de Asia). No se tomaron en cuenta las personas que residían en zonas de riesgo intermedio, por ser muy pocas (n: 94; 6,0%) y por no ser zonas de residencia que habitualmente tienen los turistas que visitan el Perú.
+
+La asociación fue ajustada con variables demográficas; dichas variables secundarias fueron obtenidas de la base de datos inicial: género (masculino o femenino), edad, zona de nacimiento (según zona de riesgo), el padecer alguna enfermedad gastrointestinal (según el auto-reporte del diagnóstico por un especialista) y el haber viajado internacionalmente 6 meses antes.
+
+Procedimientos del estudio
+
+Se contó con una base de datos a partir de una encuesta validada en la Maestría en Investigación Epidemiológica en la Universidad Peruana Cayetano Heredia (UPCH). Dicha encuesta fue aprobada por el Comité de Ética de la misma Universidad. Esta base se elaboró a partir de las encuestas tomadas en la sala de espera del Aeropuerto Internacional Velasco Astete de Cusco, cuando los turistas habían terminado su viaje por el Cusco. Una vez realizado el control de calidad de los datos, se procedió al análisis de los mismos.
+
+Análisis estadístico
+
+El análisis estadístico fue realizado usando el programa estadístico Stata versión 11,1 para Windows (StataCorp LP, College Station, TX, USA). Se calculó una potencia estadística de 95%. Las variables cualitativas fueron descritas a través de frecuencias y porcentajes. Para analizar la normalidad de la variable cuantitativa edad se utilizó la prueba de Shapiro Wilk, para luego describirla a través de mediana y rango (por ser de distribución no normal).
+
+En el análisis bivariado y multivariado se usaron modelos lineales generalizados, con familia binomial y función de enlace log. Además, se usó como medida de asociación la razón de prevalencias cruda (RPc) y razón de prevalencia ajustada (RPa). Se trabajó con un nivel de significancia estadística p < 0,05.
+
+Ética de la investigación
+
+Se tomaron en cuenta los preceptos éticos para el desarrollo de la investigación. En la primera página de la encuesta, se invitó a los turistas a participar en el estudio primario y se indicó que los datos coleccionados serían utilizados en un estudio secundario cuyo tema sería la CPV. Los turistas que aceptaron participar dieron su consentimiento verbalmente.
+
+Resultados
+
+Se realizaron 1.921 encuestas a turistas, de los cuales se excluyeron a 6 (0,003%) por ser menores de 18 años y a 88 (0,05%) por ser turistas residentes de Perú que viajaron a Cusco. Fueron seleccionados 1.827 turistas (Figura 1), 875 (48,3%) fueron de sexo masculino y la mediana de la edad fue de 33 años (rango de 18-88 años). El 42,2% de los encuestados tuvo una CPV. Respecto a la zona de residencia, 1.448 (90,5%) residían en una ZBR. Otras características de los turistas se muestran en la Tabla 1.
+
+ 
+
+Tabla 1. Características de los turistas que        visitaron Cusco, 2012
+
+
+
+*Mediana y rango. **Según riesgo de adquirir        enfermedades infecciosas visitando al país como        turista.
+
+ 
+
+En el análisis bivariado se encontró que el sexo (p < 0,001), la zona de nacimiento (p < 0,001), la zona de residencia (p < 0,001) y el padecer una enfermedad gastrointestinal (auto-reporte del diagnóstico hecho por una especialista) (p = 0,003) estuvo asociado al haber realizado una CPV (Tabla 2).
+
+ 
+
+Tabla 2. Análisis bivariado de las características del turista y su viaje      asociados a la Consulta Pre Viaje
+
+
+
+CPV: Consulta Pre Viaje. *Mediana y rangos. **Según riesgo de adquirir      enfermedades infecciosas. RPc (razón de prevalencia cruda), IC 95%      (intervalo de confianza al 95%) con modelos lineales generalizados, usando      familia binomial y función de enlace log.
+
+ 
+
+En el análisis multivariado, se encontró que el sexo masculino estuvo asociado a una menor frecuencia de CPV (RPa: 0,84; IC 95%: 0,75-0,94%, valor p: 0,002), mientras que a una mayor frecuencia de CPV el haber nacido (RPa: 1,77; IC 95%: 1,39-2,27, valor p < 0,001) y el residir en una zona de bajo riesgo para adquirir enfermedades infecciosas (RPa: 1,95; IC 95%: 1,26-3,00, valor p: 0,002), ajustado por el padecer de enfermedad gastrointestinal (Tabla 3).
+
+ 
+
+Tabla 3. Análisis multivariado de los factores        asociados a tener Consulta Pre Viaje
+
+
+
+*Según riesgo de adquirir enfermedades infecciosas.        RPa (razón de prevalencia ajustada), IC 95%        (intervalo de confianza al 95%) con modelos lineales        generalizados, usando familia binomial y función de        enlace log.
+
+ 
+
+Discusión
+
+El incremento en el número de viajes realizados por turistas a nivel mundial, incluyendo América Latina5 -así como los problemas de salud inherentes a éstos- han permitido establecer a la medicina del viajero como un campo de especialidad19,20, siendo una disciplina de carácter interdisciplinario y de índole netamente preventiva12,21,22, la cual afortunadamente ha ido en aumento en América Latina, especialmente en la última década, tanto en actividades preventivas como en la formación médica23-27.
+
+En nuestro estudio encontramos que 42,2% de los turistas tuvo una CPV, siendo una cifra comparable a la de otro estudio piloto de 600 viajeros, donde se alcanzó a 52%16. Este hallazgo puede estar relacionado a la existencia de barreras para tener una CPV, como las consideraciones financieras, barreras del lenguaje, creencias de salud, falta de interés por el cuidado propio, el miedo a las autoridades de migración, entre otras1.
+
+En el análisis multivariado se encontró que los hombres tienen menor frecuencia de CPV, lo cual es respaldado por otros estudios9. Esto puede ser explicado por la menor preocupación del tema preventivo, aunado a que el sexo femenino tiene mayores cuidados higiénico-preventivos, y está consciente de la existencia de riesgos inherentes al viaje que van a realizar y por ello busca informarse de estos riesgos, así como, opciones para tratar de prevenirlos a través de diferentes medios13. Además existen estudios que refieren que las mujeres tienen mayor frecuencia de consultas médicas y uso de servicios de salud con propósitos preventivos28-30. Este resultado es importante para conocer una característica epidemiológica muy importante en los turistas que podrían estar más expuestos a riesgos durante el viaje, esto es, el ser turista hombre, por lo que las políticas de información deberían estar más enfocadas en este grupo.
+
+Además, el lugar donde nació y donde reside el turista estuvo muy asociado al aumento de CPV. Respecto a esto, los turistas que residen en los países considerados como desarrollados pudiesen tener un mayor conocimiento sobre los riesgos a los que están expuestos durante los viajes. Esto puede deberse a múltiples factores, como el desarrollo de la medicina del viajero en los países del primer mundo (sobre todo Europa y Norteamérica anglosajona). Además, los residentes de estos países tienen mejores medidas higiénico-preventivas18, así como la costumbre de buscar consejería médica y, en general, mejores medidas para el cuidado de su salud.
+
+Lamentablemente, los turistas que han nacido o residen en zonas de alto riesgo para enfermedades infecto-contagiosas como la diarrea del viajero, no realizan CPV (77,7 y 84,7%, respectivamente), lo cual pone de manifiesto que debe implementarse la medicina del viajero -u otras estrategias preventivas- en dichos países, aunado a una mejor educación a la población y a una cultura preventiva en lo que respecta a los viajes internacionales.
+
+Entre las limitaciones del estudio se tuvo el sesgo de selección. Esto fue debido a que es un análisis de datos secundarios, que a su vez fue obtenido por un muestreo no aleatorio; esto no permite hacer inferencias de los resultados a otras poblaciones o usar de manera concluyente los intervalos de confianza. A pesar de esto, los resultados son importantes por tener una potencia estadística adecuada y el haber sido realizado en turistas de múltiples países de residencia, lo que genera un primer reporte importante para esta área de investigación preventiva, más aún en la ausencia de suficientes estudios al respecto en la región24.
+
+A partir de los datos obtenidos en el estudio, se concluye que el género, la zona de nacimiento y de residencia del turista están asociados a la consulta pre-viaje. Esto es importante, pues permite caracterizar a los turistas que tendrán una CPV lo cual manifiesta su preocupación por el cuidado preventivo de su salud frente a las enfermedades que pueden adquirir en las zonas a las que viajan, evitando que al regresar contagien a las personas de sus países de origen30 contribuyendo esto al cuidado de la salud pública. Esto genera resultados iniciales válidos para el diseño de políticas de salud que permitan proteger a los turistas y a nuestras poblaciones en general, de los riesgos inherentes a los movimientos migratorios generados por el turismo, que como es ya bien sabido parecen incrementarse año tras año.
+
+Agradecimientos. Este artículo fue preparado como parte de las actividades del primer Grupo de Investigación de las SOCEM's (GIS), ofrecida conjuntamente con la Asociación Médica de Investigación y Servicios en Salud (AMISS) y la Sociedad Científica de Estudiantes de Medicina de la Universidad Ricardo Palma (SOCEMURP). Este trabajo estuvo considerado entre los diez mejores trabajos del XXVII Congreso Científico Nacional (CCN)-Chiclayo-Perú; expuesto por el autor Aleksandar Cvetkovic-Vega. Los autores están agradecidos por el apoyo al personal de CORPAC (Corporación Peruana de Aviación Comercial) del Aeropuerto Internacional en Cusco por su apoyo durante el desarrollo de la encuesta.

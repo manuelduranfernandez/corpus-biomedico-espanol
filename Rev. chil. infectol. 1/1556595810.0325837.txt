@@ -1,0 +1,96 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000400326
+Evaluación de test rápidos y diseño de una estrategia para la detección y caracterización de carbapenemasas en cepas de bacilos gramnegativos
+
+Introducción
+
+Las bacterias multi-resistentes constituyen en la actualidad un problema grave en el mundo, tanto por las escasas alternativas terapéuticas como por su diseminación entre pacientes en las instituciones de salud y en la comunidad.
+
+En América Latina, el problema es especialmente relevante en enterobacterias productoras de β-lactamasas de espectro extendido (BLEE), Acinetobacter baumannii multi-resistente y Pseudomonas aeruginosa resistente a carbapenémicos.
+
+La situación respecto a los bacilos gramnegativos productores de carbapenemasas (BPC) es variable para los distintos países. Grecia e Italia destacan en Europa por la presencia endémica de BPC1, mientras que en América Latina, Brasil, Colombia y Argentina poseen las prevalencias más altas2,3. Países como Chile, en que el primer caso descrito fue en marzo de 2012 en un hospital de Santiago en un paciente procedente de Italia4, presentan hasta este momento, sólo casos autóctonos esporádicos en distintos centros del país5.
+
+Los BPC están implicados comúnmente en infecciones en pacientes graves, hospitalizados en unidades de cuidados intensivos, con antecedentes de uso de antimicrobianos6, y son asociadas con altas tasas de mortalidad (40-50%)7. Existe consenso que para mantener baja la prevalencia de BPC es clave prevenir la diseminación en el hospital8. Por esta razón, la detección y confirmación rápida de pacientes portadores permite implementar protocolos de aislamiento precoz.
+
+Actualmente, la detección de BPC es compleja y su confirmación requiere al menos dos días por los métodos convencionales. Además, el surgimiento de varios test, tanto fenotípicos como genotípicos, dificulta la decisión de cuál es el mejor método. Se han descrito al menos tres test fenotípicos basados en la hidrólisis del anillo β-lactámico del carbapenémico. El primero de ellos, Carba NP diseñado para la detección de carbapenemasas en enterobacterias, usa como tampón de lisis el B-PERII9. Blue-Carba, útil en la detección de enterobacterias, Pseudomonas sp y Acinetobacter sp usa como indicador el azul de bromotimol10. Y CarbAcineto NP diseñado para mejorar la detección de las carbapenemasas tipo OXA, usa como tampón una solución de NaCl que permite evidenciar mejor los cambios leves de pH11.
+
+En el último tiempo, se han comercializado varios test moleculares basados en reacción de polimerasa en cadena (RPC) múltiple en tiempo real que amplifican los genes asociados a carbapenemasas validados para realizar vigilancia directamente desde la tórula rectal: hyplex SuperBug ID (AmplexDiagnostics GmbH, Gars-Bahnhof, Germany)12, Check-Direct CPE® assay (Check-Points, Wageningen, The Netherlands)13 y Xpert® Carba-R kit, comercializado por Cepheid (Sunnyvale, CA, USA) como test IVD (In Vitro Diagnostics Use), aprobado por la Comunidad Europea-CE14,15. Por otra parte, existen pocas evaluaciones para el uso de estos sistemas en forma directa sobre la colonia bacteriana16,17.
+
+El objetivo de este trabajo fue realizar una evaluación de test rápidos fenotípicos y genotípicos y proponer una estrategia para la detección y caracterización de carbapenemasas en cepas de bacilos gramnegativo.
+
+Material y Método
+
+Los aislados fueron recolectados entre el año 2007 y 2014 y almacenados a −20 °C. Previo a su uso fueron descongelados y sembrados en agar sangre TSS (Trypcase Soy agar + 5% sheep blood, bioMérieux®SA. Marcy l’Etoile, France) con dos traspasos sucesivos, previo a su procesamiento.
+
+Se utilizó un total de 39 aislados productores y ocho no productores de carbapenemasas. De los productores, 20 eran Klebsiella pneumoniae, 4 Serratia marcescens, 6 A. baumannii, 3 Enterobacter cloacae, 2 Escherichia coli, 1 Pseudomonas fluorescens, 1 Citrobacter amalonaticus, 1 Morganella morganii y 1 Citrobacter freundii. Los no productores correspondían a aislados de K. pneumoniae. El tipo de enzima presente en cada cepa y sus perfiles de susceptibilidad a carbapenémicos se muestran en la Tabla 1.
+
+Tabla 1 Tipo de enzima presente en cada cepa y sus perfiles de susceptibilidad a carbapenémicos 
+
+N/A: no aplica. CPM: carbapenemasas.
+
+De las 20 K. pneumoniae, cinco correspondieron a controles de calidad externo enviados por el Colegio de Patólogos Americanos (CAP), 10 aislados clínicos de pacientes y cinco cepas de vigilancia; C. amalonaticus, M. morganii y C. freundii, todas eran cepas de control de calidad externo CAP; S. marcescens correspondieron a dos cepas de control de calidad externo CAP y dos cepas de pacientes; Acinetobacter baumannii, todas cepas de pacientes; E. cloacae, dos cepas de control de calidad externo CAP y una cepa de paciente; E. coli, una cepa de control de calidad externo CAP y una cepa de paciente; y P. fluorescens, correspondió a una cepa aislada de paciente.
+
+La caracterización y confirmación molecular de las carbapenemasas se realizó por RPC convencional en gel de agarosa utilizando los partidores y metodología referenciada en la Tabla 2.
+
+Tabla 2 Secuencia de los oligonucleótidos utilizados para la RPC en la detección de β-lactamasas 
+
+Tm: Temperatura de melting; Pb: pares de bases; F: forward; R: reverse; A: forward; B: reverse; S: sentido (forward); AS: anti-sentido (reverse).
+
+Los test fenotípicos realizados fueron el test de Carba NP, CarbAcineto NP y Test Blue-Carba.
+
+El test de Carba NP se realizó siguiendo las recomendaciones CLSI 20169. Brevemente, se prepararon dos tubos Eppendorf (A y B) con 100 μl de B-PER II, a los que se les adicionó tres a cinco colonias recolectadas con asa de 1 μl. Se agregaron 100 μl de la solución rojo fenol/ZnSO4 pH 7,8 (rojo fenol 0,5%, ZnSO4 0,1 M, agua purificada c.s.p) al tubo A, y 100 μl de una solución preparada en el momento de 500 μl de rojo fenol/ZnSO4 con 6 mg de imipenem (Tienam®, MSD) al tubo B, cuidando de agitar ambos tubos. Se incubaron a 35°C y se evaluaron a los 15 min y dos horas. Se interpretó como test positivo (cepa productora de carbapenemasa) un cambio de color de rojo a naranjo o amarillo del tubo B, mientras que la mantención de color rojo se interpretó como negativo. Un cambio de color en el tubo A invalidaba el test.
+
+El test CarbAcineto NP se realizó siguiendo las recomendaciones de Dortet y cols.11. Se prepararon dos tubos Eppendorf que contenían 100 μl de una solución de NaCl (5 molar) cada uno, a los que se les agregó un asa completa de 10 μl de la cepa a evaluar. A un tubo se le adicionó 100 μl de rojo fenol/ZnSO4 (rojo fenol 0,5%, ZnSO4 0,1 M, agua purificada c.s.p), mientras que al otro tubo 100 μl de la mezcla de 500 μl de rojo fenol/ZnSO4 con 6 mg de imipenem (Tienam®, MSD). Se incubaron a 35 °C y se evaluaron a los 15 min y dos horas. Se interpretó como test positivo (cepa productora de carbapenemasa) si el tubo con imipenem viraba de color rojo a amarillo o naranjo, y como test negativo si mantenía su color. Un cambio de color en el tubo sin antimicrobiano invalidaba el test. Si el resultado era positivo a los 15 min, el test se detenía.
+
+El test Blue-Carba se realizó siguiendo las recomendaciones de Pires y cols.10. Se depositó una asada de la cepa en estudio en dos celdas de una placa de poliestireno de 96 pocillos. A una celda se le adicionó 100 μl de azul de bromotimol, mientras que a la otra se le agregó 100 μl de la mezcla de 1 ml del reactivo anterior con 6 mg de imipenem (Tienam®,MSD) La placa fue incubada a 35°C en agitación (100 rpm). Se evaluó a los 15 min y dos horas. Se interpretó como test positivo cualquier diferencia de color entre ambas celdas. Si el resultado fue positivo a los 15 min, no se continuó con el test.
+
+Tanto para los test fenotípicos como genotípicos se utilizó como control positivo K. pneumoniae ATCC 1705 y como control negativo K. pneumoniae ATCC 1706.
+
+El test Xpert® Carba-R (Cepheid, Sunnyvale, CA, USA) es un test molecular rápido basado en RPC múltiple en tiempo real, completamente automatizado, que en 58 min detecta las secuencias genéticas de blaKPC, blaNDM, blaVIM, blaOXA-48 y blaIMP-1. Si bien el test fue elaborado para uso directo de la tórula con la muestra, en este estudio se utilizó un asa de 10 μl para recolectar directamente las colonias, las que se disolvieron en el reactivo para la muestra Xpert® Carba-R (incluido en el kit). Luego de ser agitado, se traspasó 1,7 ml al cartridge Xpert® Carba-R y se cargó en la plataforma GeneXpert®. Todos los reactivos necesarios para realizar el RPC en tiempo real están incluidos en el cartridge18.
+
+Para determinar el límite de detección se utilizaron tres diluciones que contenían 600, 900 y 1.200 ufc/ml de aislados productores de carbapenemasas. Para cada familia de carbapenemasa (KPC, NDM, VIM, OXA-48, IMP-1) las determinaciones se realizaron en duplicado. Las concentraciones se obtuvieron a partir de una solución McFarland 0,5 (1,5 × 108 ufc/ml), con la que se hicieron diluciones seriadas como se observa en la Figura 1.
+
+Figura 1 Protocolo de diluciones de los aislados para inoculación de los cartuchos para determinar el límite de detección. SF: Suero fisiológico (NaCl 9‰). 
+
+De cada una de las diluciones finales (600, 900 y 1.200 ufc/ml) se extrajo 100 μl que se depositaron en los 5 ml de reactivo para la muestra Xpert® Carba-R, a partir de lo cual se realizó el procedimiento según las instrucciones del fabricante. Además, se sembró la dilución 1,5 × 102 ufc/ml en dos placas de agar sangre (500 μl por placa) y se cuantificó el número de colonias a las 24 h con el objetivo de comprobar la presencia de bacterias en la solución y que la concentración fuese la correcta.
+
+Resultados
+
+Para la evaluación de los test fenotípicos (Carba NP, CarbAcineto NP, Blue-Carba) se utilizó como test de referencia la RPC convencional. Los resultados expresados en porcentaje y número de test positivos en las cepas estudiadas, diferenciadas por cada familia de enzima, se observan en la Tabla 3. Destaca que los tres test fenotípicos y Xpert® Carba-R tienen buena capacidad de detección de las carbapenemasas KPC, NDM, OXA-48, IMP, VIM-2 y VIM-27, independiente del género y especie bacteriana. No ocurrió lo mismo con las enzimas tipo OXA-23, 51, 58 en A. baumannii en que ningún test fenotípico pudo detectarlas en su totalidad; Xpert® Carba-R no fue realizado para este tipo de enzimas, ya que el test no está diseñado para estos genes. En OXA-370 y SME se obtuvieron buenos resultados con los test fenotípicos con excepción de Carba NP.
+
+Tabla 3 Resultados expresados en porcentaje y número de test positivos en las cepas estudiadas, diferenciadas por cada familia de enzima 
+
+*Resultado dudoso. N/A: No aplica porque test declara no detectar estas enzimas.
+
+El análisis de la sensibilidad y especificidad de los tres test fenotípicos se muestra en la Tabla 4, donde la mayor sensibilidad y especificidad la obtuvo el test CarbAcineto NP con 87,2 y 100%, respectivamente. Blue-Carba mostró una sensibilidad intermedia (84,6%) y la menor especificidad (87,5%), mientras que Carba NP mostró la menor sensibilidad (79,5%) con una especificidad de 100%.
+
+Tabla 4 Sensibilidad y especificidad para los test fenotípicos en comparación con el método de referencia (RPC convencional) 
+
+Los límites de detección para KPC y NDM fueron de 40,8 ufc/reacción y para VIM de 30,6 ufc/reacción. No se pudo determinar con exactitud los límites de detección para OXA-48 e IMP, pero se puede deducir que para OXA-48 es menor a 20,4 y para IMP es mayor a 40,8 ufc/reacción (Tabla 5).
+
+Tabla 5 Límites de detección encontrados para Xpert® Carba-R para cada familia de enzima 
+
+Figura 2 Algoritmo propuesto para la detección rápida mediante test fenotípicos y confirmatorio por test moleculares. *Considere siempre la epidemiología local. **Resultado aplicable sólo para carbapenemasas KPC, NDM, IMP, VIM y OXA-48. #CPC-IAAS: Comité de Prevención y Control de Infecciones Asociadas a la Atención de Salud. 
+
+La verificación de las diluciones por siembra de la suspensión 1,5 ×102 ufc/ml mostró una desviación de 18% del esperado teórico (150 ufc).
+
+Discusión
+
+Este trabajo permitió comparar diferentes test fenotípicos para la detección de BPC y validar un test genotípico (Xpert® Carba-R) para su uso directo de colonia. En base a los resultados encontrados, se planteó una estrategia rápida y eficiente de detección y confirmación de BPC.
+
+Los test fenotípicos basados en el cambio de pH que se genera al romper el anillo β-lactámico por carbapenemasas, y evidenciados con cambios de color de la solución, han demostrado ser más rápidos, simples y menos costosos de realizar, además de más específicos y sensibles que otros test fenotípicos como el test de Hodge modificado9.
+
+Nuestros resultados de los test fenotípicos orientan en la elección del test CarbAcineto NP ya que muestra una mayor, aunque discreta, sensibilidad y especificidad en comparación con Carba NP. En cuanto al test Blue-Carba, éste puede dar diferencias poco claras entre los colores de la celda con imipenem y sin imipenem del mismo aislado. Esto puede llevar a falsos positivos y negativos en la interpretación. Además, algunos test claramente positivos a los 15 min se tornaban indeterminados a las dos horas.
+
+Un problema transversal a todos los test evaluados en este trabajo fue la difícil detección de la familia de las OXA. De los seis aislados que presentaban OXA-23, OXA-51 y/o OXA-58, que correspondían a A. baumannii, cinco no fueron detectados por alguno de los tres test, mientras que el sexto fue detectado sólo por Carba NP y CarbAcineto NP (Tabla 4). Por su parte, para el RPC en tiempo real automatizado Xpert® Carba-R, los falsos negativos corresponden a SME, OXA 23, OXA 51 y OXA 58, los que no pueden ser detectados por el diseño del test.
+
+El algoritmo propuesto se inicia con la realización de un test fenotípico (CarbAcineto NP o Carba NP) en todos los aislados de bacilos gramnegativos con susceptibilidad disminuida a los carbapenémicos. Estos test entregan un primer resultado en 15 min y un segundo resultado en dos horas.
+
+En caso de ser positivo el test fenotípico, nuestra propuesta es realizar Xpert® Carba-R directo de la colonia, para obtener la caracterización del tipo de carbapenemasa dentro de una hora para dar aviso oportuno al Comité de Prevención y Control de Infecciones Asociadas a la Atención de Salud.
+
+Otros trabajos han evaluado y propuesto algoritmos para la detección y caracterización molecular de BPC17,19. En común podemos destacar el uso en combinación de test fenotípicos y genotípicos, con el fin de disminuir costos y aumentar sensibilidad y especificidad. Boran y cols., encontraron que el uso secuencial de CARB screen y Check-MDR Carba (Check-Points, Wageningen, The Netherlands) tenía una sensibilidad y especificidad de 97,3 y 99,6%, respectivamente17. Por otro lado, Maurer y cols., obtuvieron buenos resultados utilizando un tamizaje en puntos de corte de disco < 25 mm para meropenem y como test confirmatorio discos combinados de ertapenem (o meropenem) con ácido fenilborónico y ácido etilendiamino tetracético19.
+
+La principal limitación de este trabajo fue el bajo número de cepas evaluadas, tanto productoras como no productoras de carbapenemasas, lo que está en concordancia con la realidad epidemiológica actual del país20.
+
+El principal aporte de este trabajo es que se valida un test rápido para realizar la confirmación y caracterización molecular de BPC de manera directa desde la colonia frente a una cepa con test fenotípico positivo, de modo de poder aplicar las medidas de control específicas para cada caso.
+
+Fuente de financiamiento: Fondo SENTRY Laboratorio de Microbiología, Departamento de Laboratorios Clínicos.

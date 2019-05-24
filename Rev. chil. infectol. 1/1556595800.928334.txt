@@ -1,0 +1,148 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182014000600001
+Enfermedad meningocóccica en la Región Metropolitana de Chile y su correlación con factores ambientales
+
+Resumen
+
+Introducción: La enfermedad meningocóccica (EM) constituye un problema de salud pública mundial debido a su alta morbi-mortalidad. La mayor cantidad de casos ocurre en África subsahariana, donde existe un marcado patrón estacional en la estación seca. Objetivos: Describir la morbilidad de la EM en la Región Metropolitana (RM) de Chile y explorar si existe correlación entre el número de casos con PM 10, PM 2,5 humedad relativa (HR), temperatura y pólenes ambientales totales. Materiales y Métodos: Estudio ecológico tipo series de tiempo, análisis estadístico con R 3.0.1, gráficos con Excel 2013. Resultados: En el período 2010-2013 se notificaron 234 casos de EM en la RM, con una tendencia al alza. Se observa un patrón estacional con aumento de casos entre agosto y octubre y una disminución entre marzo y abril. No existe correlación con los niveles de PM 10 ni de PM 2,5. Se describe una correlación positiva leve con la HR y negativa leve con la temperatura. Existe correlación moderada positiva con los niveles de pólenes totales ambientales. Discusión: El hacinamiento y las infecciones virales de invierno podrían explicar el aumento de casos de EM y la correlación leve con la HR y la temperatura. La correlación moderada con los pólenes podría explicarse por un efecto de irritación de la vía aérea superior. Conclusiones: Se requieren más estudios epidemiológicos cuyos diseños permitan una mayor inferencia causal.
+
+Palabras clave: Enfermedad meningocóccica, PM 10, PM 2,5, humedad relativa, temperatura, pólenes.
+
+ 
+
+Introducción
+
+La enfermedad meningocóccica (EM) constituye un problema de salud pública mundial, debido a la alta morbi-mortalidad que provoca en todos los grupos de población. Anualmente se producen en el mundo entre 0,5 y 1,2 millones de nuevos casos con una letalidad promedio de 10%; la mayoría de los casos se producen durante los meses de invierno y principios de la primavera1.
+
+La EM es endémica en muchos países con incidencias acumuladas entre 1 y 5 por 100.000 habitantes. En Chile la incidencia acumulada de EM en 2012 llegó a 0,8 por 100.000 habitantes, con una letalidad de 25%, variando según serogrupo: W 27% y B 13%. La mayor letalidad se presentó en los adultos de 20-59 años (41%)2.
+
+Neisseria meningitidis, el agente causal de la EM, es una bacteria aeróbica diplococo gramnegativa que se clasifica de acuerdo a una tipificación serológica basada en la composición de la cápsula de polisacáridos. Se ha reportado un total de 13 serogrupos, de los cuales seis (A, B, C, W, X e Y) provocan casi la totalidad de los casos graves de EM3.
+
+El reservorio N. meningitidis es humano. Se ha comprobado además, que en períodos no epidémicos entre 5 y 15% de la población es portadora asintomática, siendo la nasofaringe la ubicación más frecuente. Sin embargo, en períodos epidémicos la portabilidad podría llegar en la población hasta 45%. La transmisión ocurre mediante contacto directo con secreciones respiratorias; la gran mayoría de los casos ocurre por exposición a portadores asintomáticos y muy pocos (< 5%) por el contacto directo con enfermos. El período de incubación es de 2 a 10 días4.
+
+Clínicamente las manifestaciones más frecuentes son la meningitis y la septicemia. Un cuadro característico importante, aunque menos frecuente es el síndrome de Waterhouse-Friderichsen, acompañado de coagulación intravascular diseminada y necrosis hemorrágica suprarenal masiva. Otros cuadros clínicos incluyen: neumonía, artritis, pericarditis, conjuntivitis y uretritis5. Entre 11 y 15% de los sobrevivientes queda con secuelas asociadas, tales como hipoacusia, trastornos neurológicos, amputaciones de dedos o miembros y cicatrices4.
+
+Neisseria meningitidis tiene alta capacidad para evadir el sistema inmune a través de variaciones antigénicas de su cápsula y de proteínas de su membrana externa. Su patogenicidad está dada por la cápsula, la que permite resistir la fagocitosis, además de una potente endotoxina causante de la sepsis. La inmunidad para la EM invasora es dependiente de IgG y en los portadores existe inmunidad de mucosas a través de IgA, la cual previene la invasión del epitelio. La inmunidad celular y la producción de citoquinas en relación a la EM y la portación no es del todo conocida6.
+
+Existen factores de riesgo relacionados con el agente, el hospedero y el ambiente. Las cepas no capsuladas de N. meningitidis son menos virulentas que las capsuladas. Las personas con déficit persistente de la vía común del complemento, asplenia anatómica o funcional, antecedentes de infección viral reciente, enfermedades crónicas, hacinamiento domiciliario, tabaquismo activo y/o pasivo y nivel socioeconómico bajo, presentan un riesgo aumentado de EM. De igual manera sucede con el personal de laboratorio que trabaja en forma habitual con muestras clínicas y cepas de N. meningitidis7.
+
+La mayoría de los casos de EM en el orbe recae en un área geográfica denominada "el cinturón de la meningitis"s, la que se extiende desde Senegal a Etiopía entre los 10° y 15° de latitud norte. Esta región también se denomina Sahel, la cual es una zona eco-climática y bio-geográfica de transición entre el desierto del Sahara por el norte y la sabana sudanesa en el sur y desde el océano Atlántico al Mar Rojo. Allí, la temporada de meningitis, epidémica o no, se presenta desde febrero a mayo, durante la estación seca dominada por los vientos cálidos y secos (el "Harmattan"), que transportan el polvo del desierto desde el noreste hasta el golfo de Guinea; este aire extremadamente seco combinado con una alta carga de polvo mineral que persiste durante varias semanas podría aumentar la susceptibilidad del hospedero al irritar la mucosa respiratoria y así facilitar la invasión de N. meningitidis9. En la misma área geográfica, entre mayo y octubre, cuando la humedad del aire es alta debido al monzón, no se registran casos de meningitis; por esto se considera a la alta humedad del aire un factor trascendental en el control de la temporada de EM9. Otro estudio relacionado con factores ambientales, encontró que, con posterioridad a la llegada de polvo del Sahara a Barcelona, el riesgo de presentar EM aumentaba (OR = 1,392; IC 95% 1,152-1,681)10.
+
+Las características que presenta la EM en Chile incluyen la baja endemia y una estacionalidad en los meses fríos. Durante 2012 las regiones más afectadas por EM fueron la Metropolitana y la de Valparaíso. La medida de control implementada por el gobierno, a propósito del aumento de la morbi-mortalidad por EM, fue la vacunación contra los serogrupos A/C/Y/W en población de 9 meses a 4 años de edad11.
+
+No existen estudios nacionales acerca de factores ambientales que se correlacionen con la incidencia de EM, por lo cual resulta importante explorar el comportamiento estacional de la EM en Chile y correlacionar el número de casos con diversos factores ambientales, lo que podría aportar a la comprensión de la historia natural de la enfermedad.
+
+El objetivo general de este estudio fue determinar la tendencia y patrón de estacionalidad de la EM y su relación con diversos factores ambientales en la Región Metropolitana (RM) entre 2010 y 2013. Los objetivos específicos fueron describir la morbilidad por EM, su tendencia y estacionalidad en la RM entre 2010 y 2013 y explorar si existe correlación entre el número de casos mensuales de EM y los factores ambientales: material particulado 10 (en inglés particulate matter-PM 10), material particulado 2,5 (PM 2,5), humedad relativa del ambiente (HR), temperatura ambiental (temp) y pólenes totales ambientales (pólenes).
+
+Materiales y Métodos
+
+Se realizó un estudio ecológico, tipo series de tiempo, comparando datos agregados mensuales de EM con datos de los factores ambientales seleccionados. El número de casos mensuales se obtuvo sumando los casos notificados por ocurrencia semanal de los seis Servicios de Salud de la RM (Norte, Occidente, Central, Oriente, Sur y Sur Oriente) publicados por el Departamento de Estadísticas e Información de Salud del Ministerio de Salud (DEIS-MINSAL). La cantidad de PM 10 y PM 2,5 se obtuvo promediando las mediciones diarias de las 11 estaciones de monitoreo de la RM (comunas de Puente Alto, Cerrillos, Cerro Navia, El Bosque, Independencia, La Florida, Las Condes, Pudahuel, Quilicura, Santiago y Talagante), las que son publicadas por el Sistema de Información Nacional de Calidad del Aire del Ministerio del Medio Ambiente (SINCA-MMA). La HR y temperatura ambiental se obtuvieron promediando las mediciones horarias de las 11 estaciones de monitoreo SINCA-MMA. Los niveles de pólenes totales ambientales se obtuvieron promediando las mediciones semanales de la estación en Santiago de la red de monitoreo polínico de la Fundación de Aerobiolo-gía Medio Ambiente y Salud (FUNDAMAS), ubicada en Clínica Servet (comuna de Providencia).
+
+Se utilizó el programa Excel 2013 para tabular los datos, sumar los casos mensuales, promediar los valores de las variables independientes y realizar gráficos de series temporales y de dispersión. Se utilizó el programa R 3.0.1 para calcular coeficientes de correlación de Pearson (r), coeficientes de determinación (r2) y valores "p".
+
+Resultados
+
+Casos de enfermedad meningocóccica
+
+En el período 2010-2013 se registraron en la RM 234 casos de EM, con una tendencia al aumento de éstos. En 2010 ocurrieron 42 casos, 46 casos en 2011, 73 en 2012 y 70 en 2013. En los últimos tres años existe un patrón estacional, donde los casos aumentan entre agosto y octubre y disminuyen entre marzo y abril.
+
+PM 10 y PM 2,5
+
+Los contaminantes ambientales PM 10 y PM 2,5 presentan un patrón estacional con niveles máximos entre abril y junio y valores mínimos entre octubre y febrero. Tanto los cénit como los nadires de ambas partículas no coinciden con la curva de casos de EM (Figuras 1 y 2). En los correlogramas se aprecia una dispersión total de puntos (Figuras 3 y 4), por lo cual estas variables no se correlacionan con el número de casos de EM (r PM 10: -0,0793, p: 0,5921; r PM 2,5: 0,0588, p: 0,6915).
+
+ 
+
+
+
+Figura 1. Casos de enfermedad meningocóccica y niveles de PM 10. Región Metropolitana          2010-2013. Fuente: Elaboración propia con datos DEIS-MINSAL y SINCA-MMA.
+
+ 
+
+
+
+Figura 2. Casos de enfermedad meningocóccica y niveles de PM 2,5. Región Metropolitana          2010-2013. Fuente: Elaboración propia con datos DEIS-MINSAL y SINCA-MMA.
+
+ 
+
+
+
+Figura 3. Correlograma entre los casos de enfermedad          meningocóccica (y) y niveles de MP 10(x). Fuente: Elaboración          propia con datos DEIS-MINSAL y SINCA-MMA.
+
+ 
+
+
+
+Figura 4. Correlograma entre los casos de enfermedad          meningocóccica (y) y niveles de MP 2,5 (x). Fuente: Elaboración          propia con datos DEIS-MINSAL y SINCA-MMA.
+
+ 
+
+Humedad relativa y temperatura ambiental
+
+Como es bien conocido, la temperatura ambiental en Chile es mayor entre enero y marzo y menor entre julio y agosto; lo opuesto ocurre con la humedad relativa del ambiente. Se puede apreciar, especialmente en los últimos dos años, que los casos de EM aumentan cuando la temperatura disminuye y la HR aumenta. Sin embargo, los cénit de casos no coinciden del todo con los cénit de HR ni con el nadir de la temperatura ambiental (Figuras 5 y 6). El correlograma de casos con HR muestra una dispersión de puntos con una tendencia leve a formar una lineal positiva (Figura 7), el correlograma de casos con temperatura muestra algo similar a la HR, pero con tendencia a formar una lineal negativa (Figura 8). Los coeficientes de correlación de ambas variables son bajos pero estadísticamente significativos (r HR = 0,3447, p = 0,0164; r temp = -0,3978, p = 0,0051). Es así que la variable temperatura ambiental podría explicar casi el 16% y la HR casi el 12% de la variabilidad de los casos de EM.
+
+ 
+
+
+
+Figura 5. Casos de enfermedad meningocóccica y humedad relativa (HR). Región          Metropolitana 2010-2013. Fuente: Elaboración propia con datos DEIS-MINSAL y SINCA-MMA.
+
+ 
+
+
+
+Figura 6. Casos de enfermedad meningocóccica y temperatura ambiental. Región Metropolitana          2010-2013. Fuente: Elaboración propia con datos DEIS-MINSAL y SINCA-MMA.
+
+ 
+
+
+
+Figura 7. Correlograma entre los casos de enfermedad          meningocóccica y humedad relativa (x). Fuente:          Elaboración propia con datos DEIS-MINSAL y SINCA-MMA.
+
+ 
+
+
+
+Figura 8. Correlograma entre los casos de enfermedad          meningocóccica (y) y temperatura ambiental (x). Fuente:          Elaboración propia con datos DEIS-MINSAL y SINCA-MMA.
+
+ 
+
+Pólenes
+
+Los pólenes totales ambientales corresponden a la suma de los granos por m3 del polen de 26 especies de árboles, 10 especies de malezas y gramíneas (pastos). Éstos tienen un cénit marcado entre agosto y octubre. El cenit de pólenes totales es casi coincidente con el cénit de casos (Figura 9). El correlograma de esta variable con el número de casos de EM muestra una dispersión con una línea de tendencia que no se ajusta bien a una lineal, sino más bien a una logarítmica (Figura 10). Al correlacionar los casos de EM con el logaritmo natural de los pólenes totales, la dispersión de puntos muestra una tendencia moderada a formar una lineal positiva (Figura 11). El coeficiente de correlación es moderado y estadísticamente significativo (r pólenes: 0,5212, p: 0,0001). Es así que los pólenes totales podrían explicar el 27% de la variabilidad de casos de EM en la RM.
+
+ 
+
+
+
+Figura 9. Casos de enfermedad meningocóccica y niveles de pólenes totales. Región          Metropolitana 2010-2013. Fuente: Elaboración propia con datos DEIS-MINSAL y FUNDAMAS.
+
+ 
+
+
+
+Figura 10. Correlograma entre casos de enfermedad          meningocóccica (y) y pólenes totales (x). Fuente:          Elaboración propia con datos DEIS-MINSAL y FUNDAMAS.
+
+ 
+
+
+
+Figura 11. Correlograma entre los casos de enfermedad          meningocóccica (y) y el ln de pólenes totales (x). Fuente:          Elaboración propia con datos DEIS-MINSAL y FUNDAMAS.
+
+ 
+
+Discusión
+
+La incidencia de la EM en la RM tiene un comportamiento estacional con un aumento a fines de invierno y principio de la primavera (agosto-octubre) y una menor incidencia hacia fines del verano y principio del otoño (marzo-abril). Estudios de series temporales en diferentes latitudes muestran un patrón estacional similar al de la RM; por ej.; en el sur de Brasil la mayor cantidad de casos se produce cada año entre junio y agosto12, en España la incidencia es mayor en el invierno y primavera13 al igual que en India14. Este patrón se podría deber a que en invierno las personas conviven más tiempo en recintos cerrados, aumentando el riesgo de contagio, además de que en esta estación son más frecuentes las infecciones virales y el hacinamiento domiciliario los que se han descrito como factores de riesgo para la EM9. Se ha descrito en Canadá que tres semanas posteriores al pico de influenza aumenta el riesgo de EM invasora (OR: 2,46; IC 95% 1,34-4,48), el mismo fenómeno ocurre después del pico de virus respiratorio sincicial (OR: 4,41; IC 95% 1,14-16,32). El mecanismo fisiopatológico de esta asociación no se conoce del todo; estudios plantean que las infecciones virales de la vía aérea superior mejoran la adherencia de N. meningitidis al epitelio respiratorio15. La correlación leve encontrada en este estudio entre el número de casos de EM y la HR y la temperatura ambiental, podría ser explicada en forma indirecta por el efecto del hacinamiento y las infecciones virales propias del invierno en la población chilena.
+
+Si bien, como se mencionó en la introducción, la mayor cantidad de los casos a nivel mundial se presentan en el llamado cinturón de la meningitis, en aquella región, la gran cantidad de polvo mineral proveniente del Sahara, hace que la mayor incidencia de casos (más de 200.000 por temporada) ocurra durante la estación seca entre febrero y abril. Este polvo podría irritar la vía respiratoria alta y así aumentaría la susceptibilidad del hospedero para la invasión de N. meningitidis al torrente sanguíneo9. En el caso de la RM no existe correlación entre el PM 10 ni el PM 2,5 y los casos de EM. Sin embargo, nuestra realidad no es comparable a lo que sucede en África subsahariana con las partículas ambientales, pues allí los niveles de polvo pueden llegar hasta un máximo de 800 g/m3, mientras que el máximo nivel de PM 10 registrado en el período en la RM fue de 270 μg/m3 (0,00027 g/m3). En nuestro país por lo tanto, los niveles de PM 10 podrían no ser suficientes para provocar una irritación significativa de la vía aérea superior que afecte la continuidad del epitelio y permita al microorganismo ingresar al torrente sanguíneo.
+
+La correlación moderada existente entre los casos de EM y el nivel de pólenes totales ambientales encontrada en el presente estudio, podría ser explicada por un efecto irritante de la vía aérea superior por estos aero-alérgenos en personas susceptibles. Se ha descrito a los pólenes como uno de los agentes causales, tanto de rinitis como de faringitis estacional16,17. Un estudio nacional en población pediátrica atópica (n: 408) demostró alrededor de 8% de sensibilidad al polen de plátano oriental (Platanus orientalis) mediante una prueba cutánea de hipersensibilidad inmediata (prick-test)18; en población general, la prevalencia de rino-conjuntivitis alérgica es de 20% y de éstos, 35% presenta alergia al polen de plátano oriental19 (el principal de la polinosis durante septiembre-octubre en la RM). Esto nos indica que existe una proporción importante de personas susceptibles a desarrollar reacciones alérgicas, incluidas las de la vía aérea superior, a causa de pólenes ambientales. Algunos estudios plantean que existe una relación entre las enfermedades alérgicas y las infecciosas; en efecto, un estudio transversal realizado en Taiwán, con población entre 10 y 18 años de edad (n: 8.723), demostró que la prevalencia de enfermedades infecciosas fue significativamente mayor en quienes presentaban síntomas de enfermedad atópica (asma, rinitis alérgica, dermatitis alérgica), describiéndose que 0,3% de este subgrupo había sido hospitalizado por meningitis o encefalitis (pero sin establecer etiología)20. Otro estudio mexicano de casos y controles (n: 320) reportó que en niños preescolares que presentaban antecedentes de atopía, el riesgo de infecciones respiratorias altas recurrentes era mayor (OR: 10,5; p: 0,001)21.
+
+A pesar de la escasa literatura científica al respecto, la correlación encontrada entre el nivel de pólenes y la cantidad de casos de EM podría no ser una asociación espuria, no sólo por la significancia estadística sino también por la plausibilidad biológica. Para demostrar esto se requieren otro tipo de estudios epidemiológicos cuyos diseños permitan una mayor inferencia causal y que desde el punto de vista de la salud pública puedan aportar más conocimiento de la historia natural de la EM e identificación de una posible población vulnerable a la cual aplicar intervenciones preventivas. Sin embargo, los estudios ecológicos son una buena aproximación descriptiva a los fenómenos de salud que ocurren a nivel poblacional y nos permiten plantear nuevas hipótesis. Si se comprobase la hipótesis de los pólenes ambientales como factor de riesgo para presentar EM, se podrían crear modelos predictores multivariados, ampliar las medidas de salud pública de prevención primaria como las vacunaciones a personas susceptibles e influir en las políticas de forestación urbana.
+
+Este estudio presenta las limitaciones propias de un estudio ecológico, principalmente debido al uso de fuentes de datos secundarias la cual suele ser más incompleta y con más errores que la de las recolectadas en estudios con datos primarios, además no se pueden hacer inferencias a nivel individual ni tampoco establecer relaciones causales. Sería deseable en futuras investigaciones comparar la exposición a través de estudios caso-control o el riesgo de la enfermedad a través de estudios de cohortes en poblaciones específicas expuestas a diversos factores ambientales, como la humedad relativa, la temperatura ambiental o los niveles de pólenes, que pudieran incidir en el aumento de la morbi-mortalidad por EM en Chile. Considerando por supuesto, las posibles variables que confunden, tanto biológicas como ambientales.
+
+Conclusiones
+
+Concluimos que la EM en la RM presenta un patrón estacional con un mayor número de casos a fines del invierno y principio de primavera y una disminución a fines del verano y principio del otoño. Los niveles de PM 10 y PM 2,5 no se correlacionan con el número de casos de EM. La correlación leve existente con los factores climáticos HR y temperatura ambiental podría ser explicada a través de un efecto indirecto de los virus respiratorios estacionales y el hacinamiento. La correlación moderada existente con los niveles de pólenes del ambiente podría ser explicada por un efecto de irritación de la vía aérea superior por parte de estos aero-alérgenos, aumentando así la susceptibilidad del hospedero a experimentar una invasión por el microorganismo. Se requieren futuros estudios epidemiológicos cuyos diseños permitan conocer la asociación entre la EM y factores ambientales para comprender de mejor manera la historia natural de la enfermedad y promover políticas públicas preventivas.
+
+Agradecimientos: A Mercedes López Nitsche, Programa de Inmunología, Instituto de Ciencias Biomédicas (ICBM), Facultad de Medicina, Universidad de Chile.

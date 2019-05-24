@@ -1,0 +1,94 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000200004
+Impacto de la infección nosocomial en un hospital de Bogotá (Colombia): efectos en mortalidad y costos
+
+Resumen
+
+Introducción: Las    infecciones asociadas a la atención en salud (IAAS) están relacionadas    con un incremento en los costos de hospitalización y un mayor riesgo    de mortalidad. Objetivo: Establecer los costos y la mortalidad asociados    a la presentación IAAS en una institución de cuarto nivel. Métodos:    Se hizo una selección pareada de pacientes con IAAS y sin IAAS para calcular    el costo por medio de costeo directo y emparejamiento. Los costos fueron calculados    en pesos colombianos y convertidos a dólares estadounidenses según    la tasa de cambio de 2008. Resultados: Se incluyeron 187 pacientes con    IAAS y 276 pacientes sin IAAS. La tasa de IAAS fue de 1,8% La mediana del costo    de hospitalización en los pacientes con IAAS fue US$ 6.329 (95% CI US$    5.527-7.934) y en los no infectados de US$1,207 (95% CI US$ 974-1.495).    Los pacientes con IAAS presentaron mayor tiempo de estancia hospitalaria, con    una diferencia de 16 días respecto a los no infectados (21 días    (IC 95% 18-24) vs 5 días (IC 95% 5-6)). Se encontró una    mortalidad atribuible de 26,4%. Conclusiones: Las IAAS son eventos adversos    a la atención, que se asocian con mayor mortalidad y generación    de costos extra.
+
+Palabras clave: Análisis    de costos, mortalidad, infección hospitalaria.
+
+ 
+
+Introducción
+
+Las infecciones asociadas a la    atención en salud (IAAS) son eventos adversos prevenibles. Diferentes    estudios han demostrado que las IAAS son causa de un incremento en los días    de hospitalización, mayor uso de ayudas diagnósticas, consumo    de medicamentos y riesgo de mortalidad1,2.
+
+Los estudios publicados han evaluado    principalmente el costo y mortalidad atribuible a infecciones asociadas a dispositivos    invasores en el contexto de la unidad de cuidado intensivo (UCI), lo cual no    permite evaluar el impacto total de las IAAS ya que una gran proporción    de éstas se presenta en salas generales y no siempre asociadas a dispositivos3-6.    El conocimiento del impacto de las IAAS en general así como por tipo,    es útil, especialmente en nuestro medio donde los recursos para la salud    son limitados, para optimizar las intervenciones dirigidas a su prevención.
+
+Dado el vacío del conocimiento    del impacto de las IAAS en nuestro país, se consideró determinar    el costo y la mortalidad atribuible a todos los tipos de IAAS, así como    los costos diferenciales por tipo de IAAS.
+
+Métodos
+
+Este estudio fue realizado en    el Hospital Universitario Clínica San Rafael, institución de carácter    privado, el cual cuenta con 395 camas y    cinco UCI (UCI coronaria, UCI médico-quirúrgica, UCI cardiovascular,    UCI pediátrica, UCI neonatal).
+
+Se realizó un diseño    de casos y controles. El cálculo del tamaño de la muestra se realizó    a partir de la mortalidad atribuible a IAAS. Para obtener un poder del 90% se    calculó un tamaño de muestra de 196 pacientes con IAAS y 196 sin    IAAS. Para alcanzar el tamaño de la muestra, se incluyó la totalidad    de pacientes diagnosticados con IAAS del año 2008 de acuerdo a las definiciones    de los CDC (Centers for Diseases Control and Prevention, 2008, (7) ). La selección    de los controles se realizó de forma pareada por diagnóstico de    ingreso, edad, patologías concomitantes, gravedad e intervenciones.
+
+Los pacientes remitidos de otras    instituciones fueron excluidos del estudio. A los pacientes seleccionados, se    les registró información demográfica, diagnóstico    principal de ingreso, patologías asociadas, fecha de ingreso y egreso    de la institución, requerimiento de UCI, tipo de IAAS presentada, número    de IAAS presentadas, aislamiento microbiológico y estado al egreso.
+
+Los costos fueron medidos en    pesos colombianos del año 2008 y convertidos a dólares según    la tasa de cambio del 04 de septiembre de 2008 (1 dólar = 1.992,59 pesos    colombiano). Se utilizó el método de costo directo, con cálculo    de costos fijos y variables según la perspectiva del prestador. Como    costos variables se definieron: el costo día-cama (US$ 82,2), enfermería    (asignación de enfermera exclusiva    para pacientes aislados), valoración médica diaria, laboratorios,    imágenes diagnósticas, interconsultas por especialista y medicamentos.    Adicionalmente, se discriminó el costo de la hospitalización en    UCI, el costo de antimicrobianos y el de otros medicamentos para servicios UCI    y no UCI. Los costos de administración fueron considerados fijos (secretaria,    auditoría, computador, dirección, mensajería). Los costos    de los servicios prestados fueron de acuerdo al manual tarifario SOAT 2008.
+
+Los costos derivados de las complicaciones    presentadas durante la hospitalización fueron asumidos por el pagador.
+
+El análisis de costos    no se realizó desde la perspectiva de la sociedad, por lo que no se incluyó    en éste el costo de incapacidades laborales, años de vida perdidos    ni demandas judiciales.
+
+El análisis de las variables    de costos, estancia y mortalidad se realizó con estadística no    paramétrica, dado que la distribución de las variables continuas    no fue normal. El valor atribuible a la IAAS se obtuvo de la diferencia entre    las medianas de los costos de pacientes con IAAS y sin IAAS. La información    se llevó a una base plana (Excel 2007 y se analizó con el paquete    estadístico Stata 9.0 (StataCorp, College Station, TX).
+
+Resultados
+
+Se incluyeron 187 pacientes con    233 IAAS y 276 pacientes sin IAAS. Los pacientes presentaron 91 diagnósticos    de ingreso diferentes. Para el análisis estadístico se agruparon    los diagnósticos en 13 grupos según el tipo de patología    y la similitud de procedimientos médico-quirúrgicos realizados.    Las características demográficas se describen en la Tabla    1.
+
+ 
+
+Tabla 1. Características    demográficas de pacientes con y sin IAAS.        Hospital Universitario Clínica San Rafael, Bogotá, Colombia
+
+
+
+ 
+
+Los servicios que más    aportaron pacientes con IAAS fueron los pertenecientes a las especialidades    quirúrgicas (63,6%), en comparación a los de las especialidades    médicas (36,4%). Los tipos de infección más frecuentes    fueron: neumonía (17,3%), infección del sitio quirúrgico    (ISQ) órgano espacio (16,8%) e infección de vías urinarias    (14,6%). La presentación de más de una IAAS durante el mismo período    de hospitalización se encontró en 37 (19,1%) de los pacientes.    La identificación del agente microbiológico se obtuvo en 57,2%    de los casos. Los microorganismos aislados con mayor frecuencia fueron bacilos    gramnegativos (78,5%), seguidos de cocáceas grampositivas    (18,7%) y hongos (8,4%). En 16,8% de los    pacientes con aislamiento microbiológico, se documentó infección    por más de un microorganismo. Los desenlaces de los pacientes con y sin    IAAS se muestran en las Tablas 2 y 3.
+
+ 
+
+Tabla 2. Comparación    de desenlaces en pacientes con y sin IAAS. Hospital Universitario        Clínica San Rafael, Bogotá, Colombia
+
+
+
+ 
+
+Tabla 3. Comparación    de costos (medianas e IC 95% en US$) de pisos y UCI1 de        pacientes con y sin IAAS2. Hospital Universitario Clínica    San Rafael, Bogotá, Colombia.
+
+
+
+ 
+
+Los pacientes con IAAS tuvieron    un exceso de 16 días de estancia respecto a los no infectados.
+
+El requerimiento de hospitalización    en UCI se presentó en 54,5% de los pacientes infectados, con un exceso    de cinco días de estancia comparado con los pacientes sin IAAS que también    requirieron UCI. La mortalidad en el grupo de pacientes infectados fue de 31,6%    en comparación a los no infectados que fue de 5,1%, con una mortalidad    atribuible de 26,4%
+
+La mediana del costo total de    hospitalización en los pacientes infectados fue US$ 6.329 y la media    US$ 13.006, en comparación a los no infectados cuya mediana de costos    fue US$ 1.207 (19% del valor de los infectados y la media US$ 2.600 (41% del    valor de los infectados). La mediana del    costo de antimicrobianos en pacientes infectados fue de US$132,5 y la media    US$417, comparado con la mediana de los no infectados que fue US$ 4,7 y la media    US$ 52 (2,67% y 12% del costo de los antimicrobianos de los infectados respectivamente).
+
+Dado que algunos pacientes presentaron    más de una IAAS durante su hospitalización, se realizó    un análisis separado según el número de infecciones para    evitar confundir los resultados del costo atribuible a la IAAS. Los costos,    la duración de la hospitalización, el requerimiento de hospitalización    en UCI y la mortalidad fueron mayores en aquellos pacientes con tres IAAS. (Mediana    de costos tres IAAS US$ 23.088, media US$    27.710; costos de dos IAAS mediana US$ 15.198,8 media US$ 24.706; costos de    una IAAS mediana US$ 5.571,4, media US$ 10.754).
+
+En el análisis de costos    por IAAS (evento individual), los costos atribuibles más altos se documentaron    en bacteriemia asociada a catéter US$15.855 (US$ 6.810-US$ 45.956),    bacteriemia US$15.310 (US$ 6.294-US$ 49.544) e ISQ órgano espacio    US$7.988 (US$ 2.352-US$ 45.586) (Tabla 4).
+
+ 
+
+Tabla 4. Costos    (medianas e IC 95% en US$) atribuibles por tipo de IAAS. Hospital        Universitario Clínica San Rafael, Bogotá, Colombia
+
+
+
+ 
+
+Discusión
+
+Los análisis de costos    de las IAAS son complejos por la variabilidad en la relación de costos    directos e indirectos originados en la atención en salud. No obstante,    estudios como éste permiten tener una aproximación del impacto    económico y social de este evento relacionado con la atención    en salud. Nuestro estudio demuestra que las IAAS siguen siendo un problema serio,    asociadas a exceso de días de hospitalización y uso de recursos    de alta complejidad y a una mayor mortalidad. La metodología empleada,    permitió controlar las principales variables que pudieran afectar el    cálculo del costo de las IAAS como fue el control por gravedad de la    enfermedad de base, edad, diagnósticos de ingreso y co-morbilidades.
+
+La mortalidad atribuible a las    IAAS en nuestro estudio fue de 26,4%. Los estudios realizados para evaluar el    impacto de las IAAS han encontrado datos variables respecto a la mortalidad    atribuible según el tipo de IAAS y el microorganismo causal. El estudio    realizado por M. Borges en Brasil, encontró una mortalidad atribuible    de 45% a las bacteriemias por Staphylococcus aureus*. Laupland K, en    su estudio de bacteriemias en Canadá documentó una mortalidad    atribuible de 16%3. La mortalidad atribuible a bacteriemias por Acinetobacter    baumannii multiresistente en el estudio de NY Lee fue de 21,8%6.    La mortalidad atribuible a candidemias fue de 24%9. Los estudios    realizados en neumonía asociada a ventilación mecánica    (NAVM), documentaron una mortalidad atribuible variable, de 16%10    y 7,3%11. Respecto a las ISQ, un estudio que evaluó el impacto    de la ISQ profunda en cirugía de fémur, no encontró una    diferencia estadísticamente significativa en la mortalidad de los pacientes    infectados respecto a los no infectados12, a diferencia del estudio    de Coello R, que en su estudio de impacto de las ISQ en Inglaterra, sólo    encontró como factor de riesgo para mortalidad la ISQ de prótesis    de cadera2. El estudio de Coskun D, que evaluó ISQ en esternotomías,    documentó una mortalidad de 19,2% en los pacientes con ISQ profunda respecto    a los de ISQ superficial y no infectados13.
+
+El exceso de costos atribuible    a las IAAS en general fue de US$ 5.122. Los costos atribuibles por tipo de infección    fueron similares a los reportados por las UCI de Canadá (US$ 12.321,    20% mayor)3 y Bélgica (US$ 17.836, 15% menor)14    en el caso de bacteriemias, menor a la reportada por bacteriemia por S. aureus    (US$ 82.818, 81% menor)8, mayor a la reportada por bacteriemia por    A. baumannii multiresistente (US$ 3.758, 75% mayor)6 y menor    a la atribuible a NAVM (US$ 11.89710, US$ 11.1001, 90%    menor) posiblemente porque en el estudio este no fue el único tipo de    neumonía incluido. Respecto al costo atribuible a ISQ, los costos fueron    mayores que los reportados en la literatura (US$ 2.2001, US$ 3.740,5813,    72% y 53% mayor, respectivamente). En el estudio el exceso de costos se presentó    principalmente por los costos de la hospitalización en UCI y el consumo    de antimicrobianos.
+
+El exceso de días de estancia    hospitalaria atribuible a IAAS fue de 16 días, la que fue menor a la    encontrada en los estudios de ISQ esternal (21 y 35 días)13,    NAVM (25 días)10, bacteriemia (21 días14,    25 días8) e infecciones micóticas invasoras (21 días15).
+
+El presente estudio, similar    a algunos estudios observacionales, puede presentar factores de confusión    no controlados debido a la recolección de datos de manera retrospectiva.
+
+En conclusión, las IAAS    se asocian con un exceso de costos, prolongación de estancia hospitalaria    y mortalidad. Los resultados del estudio respecto al impacto de las IAAS son    consistentes con lo publicado en otros países. Debe optimizarse las intervenciones    dirigidas al control de las IAAS para garantizar una atención segura    a los pacientes y mejorar el rendimiento de los recursos de los hospitales.

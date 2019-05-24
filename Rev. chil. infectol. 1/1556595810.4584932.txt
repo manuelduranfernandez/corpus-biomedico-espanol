@@ -1,0 +1,30 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000400413
+¿Se debe revisar la determinación de la CIM de colistín en Acinetobacter baumannii?
+
+Introducción
+
+La emergencia de infecciones asociadas a la atención de salud (IAAS) por cepas de Acinetobacter baumannii extensivamente resistentes (XDR, por su sigla en inglés) constituye un gran problema, ya que sólo presentan susceptibilidad in vitro a colistín1. Sin embargo, la determinación de la concentración inhibitoria mínima (CIM) mediante microdilución tiene el problema que colistín se adhiere a las paredes de las microplacas de policarbonato, afectando los valores de las CIM2. Existe un debate abierto en si se debe corregir este fenómeno adicionando Tween-80 (0,002 %)3, con estudios que apoyan4 y otros que rechazan esta indicación5, basado en el potencial efecto sinérgico entre el surfactante y colistín. En este trabajo de investigación se evaluó el efecto de la metodología empleada en la determinación de la CIM de colistín sobre cepas del complejo A. baumannii (CAB).
+
+Materiales y Método
+
+Se estudiaron 32 aislados de origen hospitalario del CAB, catalogados previamente como resistentes a colistín mediante microdilución en caldo6. Se determinó la CIM de colistín siguiendo recomendaciones del CLSI, con los siguientes métodos: microdilución en caldo en ausencia [MCS]6 y en presencia de Tween-80 (0,002%) [MCT]3; y macrodilución en caldo usando tubos de borosilicato [MCTB]7. El punto de corte para definir resistencia fue una CIM ≥ 4 μg/mL6. Como cepa control, se utilizó Pseudomonas aeruginosa ATCC® 27853 (rango de CIM de 0,5 a 4 μg/mL). Adicionalmente, se estudió el efecto del surfactante sobre la viabilidad del aislado A. baumannii A-436 (CIM de 4 μg/mL) monitoreando su crecimiento (mediante DO600) en caldo Müller-Hinton con Tween-80 (0,002%) y en caldo Müller-Hinton con Tween-80 (0,002%) adicionado de 2 μg/mL de colistín (concentración subinhibitoria).
+
+Resultados
+
+La CIM varió entre 4-64 μg/mL para MCS, 1-32 μg/mL para MCT y 0,5-64 μg/mL para MCTB. Al comparar con el método MCS, se encontró que 12,5% (4/32) y 18,8% (6/32) de las cepas varió de categoría resistente a susceptible al usar MCT y MCTB; respectivamente; y la CIM50 y CIM90 disminuyeron de 64 a 8 y 16 μg/mL con el método MCT y a 8 y 32 μg/mL con MCTB. Además, en más de 60% de los aislados la CIM disminuyó en ≥ 2 diluciones con los métodos MCT y MCTB.
+
+El crecimiento de A. baumannii no fue afectado en presencia Tween-80 y Tween-80 adicionado de una concentración subinhibitoria de colistín, no observándose diferencias con respecto al crecimiento en ausencia de surfactante.
+
+Discusión
+
+Comparando los métodos, los valores de CIM obtenidos por MCT y MCTB se asemejan más entre sí, que con los obtenidos por MCS. Sumado al hecho que la adición de Tween-80 no afectó la viabilidad de A. baumannii, indicaría que las CIM obtenidas por MCTB y MCT serían más certeras que aquellas obtenidas por microdilución convencional en caldo [MCS]4. No obstante, el CLSI no incorpora Tween-80 como coadyuvante para la determinación de CIM por microdilución, como sí lo hace en el caso del antibacteriano glucopéptido telavancina6.
+
+Por otro lado, se han planteado dos principales mecanismos de resistencia a colistín, uno de ellos por sustitución del lipopolisacárido (LPS) por fosfolípidos (mutación de genes lpx)8, y otro por adición de fosfoetanolamina al lípido A del LPS, ya sea por mutación del gen pmrB8 o por adquisición de un plásmido portador de mcr-19. En este sentido, sería necesario constatar en futuras investigaciones el tipo de mecanismo de resistencia presente en aislados clínicos chilenos.
+
+Podemos concluir que es necesario profundizar el estudio de la correcta determinación de la CIM de colistín sobre cepas del CAB, debido a que la metodología actual podría estar informando aislados falsamente resistentes. Esto lleva a descartar colistín, que in vitro mostraría ser activo, y sería el único antimicrobiano para tratar infecciones por cepas XDR de esta bacteria.
+
+Financiamiento: Proyectos FONDECYT N°1130838 y N°3150286 y Beca de Magíster N° 22140977 a XVM, de la Comisión Nacional de Investigación Científica y Tecnológica de Chile (CONICYT).
+
+Agradecimientos
+
+A Sergio Vargas y Daniela Gutiérrez del Hospital de Urgencia Asistencia Pública; Francisco Silva, Marcela Cifuentes y Boris Barrera del Hospital Clínico de la Universidad de Chile y Patricia García del Hospital Clínico de la Universidad Católica, quienes proveyeron gentilmente las cepas incluidas en este estudio.

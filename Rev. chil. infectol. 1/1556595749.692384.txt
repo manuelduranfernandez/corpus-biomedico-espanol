@@ -1,0 +1,134 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182002000100003
+Biología molecular en Infectología: Parte I: Desarrollo y metodologías
+
+INTRODUCCIÓN 
+
+ 
+
+ La biología molecular es una disciplina de la bioquímica    que estudia, entre otras, las moléculas de ácidos nucleicos, el    ácido desoxirribonu-cleico (ADN) y el ácido ribonucleico (ARN).    Los orígenes de la biología molecular se pueden rastrear hasta    el siglo pasado pero históricamente se considera la descripción    de la estructura de doble hebra del ADN como el origen de esta disciplina.1    Los avances más relevantes de la biología molecular se muestran    en la Tabla 1. Se observa que a partir de la descripción    de Watson y Crick se produjo una creciente acumulación de descubrimientos,    especialmente en la década de 1960, que nos permiten hoy tener las herramientas    necesarias para estudiar agentes infecciosos a nivel molecular.2 
+
+ 
+
+Hitos en el desarrollo de la biología molecular 
+
+ 
+
+ El aislamiento de la molécula de ADN se realizó    por primera vez en 1869, a partir de núcleos aislados de linfocitos humanos    y se denominó "nucleina".3 Diez    años más tarde Koseel demostró que la nucleina estaba compuesta    por 4 bases orgánicas, adenina, guanina, timina y citosina y, en 1924,    Fuegel desarrolló un marcador químico para demostrar por microscopia    de luz que el ADN estaba en el núcleo de todas las células de    distintas especies.3 En 1944 Avery, MacLeod y McCarty    demostraron que en el ADN estaba la información responsable de la herencia.4    Sin embargo, este descubrimiento no tuvo mayor impacto en su época ya    que en ese momento se creía que el contenido de las cuatro bases era    similar en todas las moléculas de ADN y por lo tanto no explicaba la    diversidad genética.3 En 1950 Chargaff demostró    que la composición química del ADN variaba enormemente entre un    organismo y otro, y que a pesar de ello, siempre existía una concentración    molar equivalente entre adenina - timina y citosina - guanina.5    En 1953, basándose en este descubrimiento y utilizando datos de difracción    de rayos X, Watson y Crick propusieron el modelo de doble hebra para la estructura    del ADN.1,6 En este modelo las    bases nitrogenadas de cada hebra forman una cadena unidas por grupos fosfatos    externos e internamente las bases interactúan con bases complementarias    (adenina - timina y citosina -guanina) de la otra hebra a través de enlaces    de hidrógeno. El descubrimiento de Watson y Crick permitió conocer    la estructura del ADN y comprender el mecanismo de la herencia, en el que cada    hebra sirve de molde para su propia replicación (replicación semiconservativa)    y es considerado como el inicio de la biología molecular.6    En 1960, Kronberg aisló y purificó la enzima responsable de la    replicación del ADN, la ADN polimerasa.7    El descubrimiento de esta enzima permitió definir elementos críticos    para la síntesis de la molécula de ADN, en particular el sitio    de inicio de la síntesis formado por ADN de doble hebra. Este descubrimiento    es la base para todos los métodos de síntesis de ADN in vitro    como la reacción de polimerasa en cadena. Ese mismo año, Doty    et al8 descubrieron las propiedades de hibridación    del ADN. Contrariamente a lo pensado en esa época, que la separación    por calor del ADN doble hebra (denaturación) era un fenómeno irreversible,    estos investigadores observaron que si el ADN denaturado era llevado a 65o    C, se volvía a formar ADN doble hebra. Estos autores denominaron    este fenómeno renaturación o hibridación del ADN8    y incluso demostraron que podía ocurrir entre moléculas de ADN    y ARN con una sensibilidad de 1:100.000. El descubrimiento de Doty et al sentó    las bases para todos los métodos de hibridación utilizados actualmente    con la única diferencia de que en los métodos actuales se introduce    un fragmento de hebra simple, denominado "sonda", el que al estar    en una concentración mayor al ADN doble hebra y producirse la renaturación,    forma un híbrido "sonda:ADN".7    En 1962, Arber aisló y purificó enzimas que cortaban el ADN en    secuencias específicas.9 Estas enzimas tenían    la particularidad de reconocer secuencias palindrómicas en el genoma    y cortar ambas hebras. La función de estas enzimas es proteger a las    bacterias de infecciones virales degradando el ADN viral.10    La utilización de estas enzimas en análisis de ADN permitió    cortar esta gran molécula en fragmentos mas pequeños y específicos    y así estudiarla en regiones discretas. Posteriormente, el descubrimiento    de enzimas con capacidad de unir fragmentos de ADN, la ADN ligasa11    dio origen a moléculas de ADN recombinante. Al combinar el corte con    enzimas de restricción en dos moléculas diferentes y reunir los    fragmentos generados utilizando la ADN ligasa, se crearon las primeras moléculas    de ADN recombinante dando origen a la ingeniería genética.11
+
+ 
+
+Tabla 1. Principales avances de la biología    molecular
+
+
+
+
+
+
+
+ 
+
+ 
+
+Figura 1. Método de secuenciación de Maxam y Gilbert.    La secuencia (CTGCATGGGCGGC-ATGAACCG) será la utilizada como templado,    el partidor (CTCGAT) definirá la región a amplificar, los reactivos    dNTP son los cuatro deoxinucleótidos (dATP, dCTP, dGTP, dTTP) utilizados    en la reacción de secuenciación, los reactivos ddATP, ddCTP, ddGTP,    ddTTP son los cuatro dideoxinucleótidos que se incorporan en forma única    en cada tubo de reacción y que bloquean la extension de la reacción    de secuenciación al no permitir la incorporación de nuevos dNTP.
+
+En 1975, Southern12 desarrolló un método    para fijar ADN digerido por enzimas de restricción a un soporte sólido    y realizar en él, la hibridación con sondas específicas.    Esta técnica se basa en la separación del ADN por migración    electroforética a través de un polímero, usualmente agarosa,    y posteriormente transferirlo y fijarlo a una membrana de nitrocelulosa. La    técnica desarrollada se llamó Southern-blot y la extensión    de esta metodología a ARN se denominó Northern-blot y a    proteínas, Western-blot.7 Otras variaciones    de este método, que no utilizan la separación electroforética,    se denominan dot-blot o slot-blot.7    Entre 1975 y 1977 dos grupos, Sanger et al13 y    Maxam y Gilbert,7 desarrollaron métodos de    secuenciación del ADN. Ambos métodos difieren en que uno permite    leer el código genético rompiendo la molécula de ADN en    nucleótidos específicos y el otro, incorporando nucleótidos    que bloquean la extensión de la síntesis de ADN7    (Figura 1) Este último método es el más    utilizado actualmente, en particular, en los métodos de secuenciación    automática.
+
+ 
+
+ 
+
+Figura 2. Reacción de polimerasa en cadena.    Cada hebra de ADN (templado) sirve como molde para la amplificación y    sólo la región comprendida entre ambos partidores será    amplificada en forma exponencial. Cada ciclo se divide en tres etapas: denaturación,    alineamiento y extensión, al final de las cuales se generan nuevos templados    los que son utilizados en el ciclo siguiente.
+
+ En 1985, Mullis reunió algunas de las metodo-logías    mencionadas para realizar síntesis de ADN in vitro en forma exponencial,    denominando este método reacción de polimerasa en cadena (en inglés    Polymerase Chain Reaction: PCR*).14    Esta metodología es considerada como una revolución dentro la    biología molecular ya que con la amplificación exponencial es    posible el análisis de moléculas de ADN o ARN, a partir de mínimas    cantidades de muestras. 
+
+ 
+
+Métodos de biología molecular  
+
+ 
+
+Reacción de polimerasa en cadena 
+
+ 
+
+ El método de PCR se basa en ciclos de amplificación        exponencial de un fragmento especifico de ADN. Este fragmento está determinado        por secuencias introducidas en la reacción, denominadas "partidores",        y a partir de los cuales la enzima ADN polimerasa, realiza la síntesis        exponencial (Figura 2). Cada ciclo de amplificación        consta de tres etapas: denaturación, alineamiento y extensión.        La denaturación se realiza a 95o C y la separación        conseguida permitirá que cada hebra sirva como molde o templado para        la síntesis de una nueva molécula de ADN. El tiempo de denaturación        depende del largo del templado, y generalmente dura entre 30 segundos y 1 minuto.        Debido a que al comienzo de la amplificación es necesario separar todo        el ADN de la muestra analizada, inicialmente se realiza una incubación        de 5 minutos a 95o C por una sola vez. Después de la denaturación        sigue la etapa de alineamiento entre el ADN templado y los partidores. Esta        etapa se basa en el principio de la renaturación de Doty et al8        ya que ocurre al llevar la reacción a 45o C - 60o C.        Sin embargo, dado que los partidores están en mayor concentración        que el templado, se favorecerá el alineamiento entre templado: partidor        por sobre templado: templado. El ADN doble hebra formado (templado: partidor)        definirá el sitio de acción de la ADN polimerasa o extensión,        etapa en la cual esta enzima unirá nucleótidos libres en forma        complementaria a la secuencia del templado. La extensión ocurre a 72o        C que es la temperatura de máxima eficiencia de la enzima y el        tiempo de la extensión dependerá de la distancia de los partidores        entre sí. En general se ha calculado que la ADN polimerasa es capaz de        incorporar 60 nucleótidos por segundo a 70o C,15        por lo que un minuto es tiempo suficiente para incorporar alrededor de 1.000        pares de bases. Ya que se ocupan dos partidores en la reacción, uno para        cada hebra, y que estos quedan a una distancia de entrecruzamiento durante la        síntesis de ADN, el segmento definido será amplificado en forma        exponencial (Figura 2). Esto significa que en cada ciclo        de amplificación se producirá una número de copias equivalente        al exponente del número de hebras de ADN templado. Así por ejemplo,        si al momento de iniciarse la amplificación sólo hay una molécula        de ADN doble hebra (2 templados), después de 30 ciclos de amplificación        se habrán generado 230 copias de ADN. Este número corresponde        a 1,097,736,000 copias del segmento flanqueado por los partidores. El elemento        mas crítico de la amplificación por PCR es el alineamiento. Dado        que este fenómeno se basa en la complementariedad entre las bases nitrogenadas        del templado y del partidor, ésta es una unión alterada por varios        factores, entre otros la temperatura (Figura 3). La figura        muestra el impacto de la variación de 5o C con relación        a la cantidad de templado en la especificidad de la reacción. La importancia        de la amplificación por PCR en Infectología se basa en que con        esta magnitud de amplificación es posible el análisis de moléculas        de ADN o ARN, a partir de mínimas cantidades de muestras. Así        por ejemplo, si consideramos que una bacteria contiene 1 fg (10-9        g) de ADN, la amplificación por PCR permitirá generar alrededor        de 0,1 µg (10-6 g) de una región especifica de ADN bacteriano.        En la práctica, este método permite identificar secuencias presentes        entre 10 y 50 copias en una muestra clínica y sin condiciones especiales        de mantención. Aunque la PCR permite la amplificación de ácidos        nucleicos, la visualización del producto amplificado requiere de otras        metodologías posteriores a la amplifi-cación. El método        más utilizado es la electroforesis de agarosa, técnica descrita        por Southern12 en el que el producto, sometido        a corriente eléctrica, migrará de acuerdo a su tamaño.        Sin embargo, este es un método indirecto, porque sólo indica el        tamaño del amplificado. La visualización directa requiere de métodos        que "lean" la secuencia del amplificado. Entre estos métodos        están cortes con enzimas de restricción, hibridación con        sondas específicas (Southern-blot) o secuenciación del        producto de PCR. El corte con enzima de restricción consiste en incubar        el producto con enzimas de restricción que reconozcan secuencias palindrómicas        dentro del producto amplificado y luego visualizarlo por electroforesis. Después        de la digestión se observarán dos fragmentos, los que sumados        equivaldrán al fragmento del producto sin digestión. La hibridación        con sondas es el más utilizado en los kits comerciales y aunque        tradicionalmente consiste en la técnica de Southern-blot, en los        métodos comerciales se utiliza el formato ELISA, en el que la sonda esta        fijada en los pocillos de la microplaca (Figura 4). La        secuenciación (ver más adelante) sólo se ocupa como método        de referencia. Uno de los mayores problemas de la amplificación por PCR        es la inhibición, esto porque existen numerosos factores que anulan la        actividad de la ADN polimerasa.16 En general la        proporción de inhibición reportado es de alrededor del 5%, sin        embargo, esta varía desde 3% para muestras de sangre periférica        hasta 18,5% para muestras de anatomía patológica (tejido fijado        en formalina e incluido en parafina) (Tabla 2). Una variación        y automatización de la PCR es la amplificación en tiempo real        o Light-Cycler System. Esta tecnología desarrollada en 199617,        18 se basa en la emisión de fluorescencia durante        la extensión de la ADN polimerasa,19 lo        cual permite el monitoreo continuo en cada ciclo de amplificación (Figura        5). Dado que la cantidad de fluorescencia emitida es proporcional a la cantidad        de amplificación, este método es ideal para la cuantificación        de ADN y ARN. Además una vez generado el producto, es posible monitorear        su secuencia dado que la cinética de denaturación / renaturación        del producto es secuencia dependiente y por lo tanto no son necesarios métodos        adicionales para su visualización.19 En        este método también es posible introducir sondas específicas        para confirmar el producto amplificado lo cual aumenta su especificidad. Dado        que este sistema utiliza tubos capilares, cada etapa de amplificación        es significa-tivamente más corta que en la amplificación convencional,        reduciendo el tiempo total de amplificación a sólo 30 minutos.20
+
+
+
+  
+
+Figura 3. Efecto de la temperatura de alineamiento    en la especificidad de la reacción de polimerasa en cadena. La amplificación    se realizó para citomegalovirus (100 copias) en tres condiciones de alineamiento    (63, 65 y 68° C). Se observa que a mayor temperatura desaparecen las amplificaciones    inespecíficas, quedando sólo la banda específica de citomegalovirus.
+
+
+
+ 
+
+Figura 4. Hibridación en microplaca tipo ELISA.    Este método de confirmación de la reacción de polimerasa    en cadena se basa en etapa 1: unión de la sonda marcada con biotina (B)    al pocillo de ELISA a traves de streptoavidina (S), etapa 2: hibridación,    del producto amplificado marcado con digoxigenina (D) a la sonda, etapa 3: inmunodetección    del producto amplificado por anticuerpos antidigoxigenina conjugados con fosfatasa    alcalina (E) y etapa 4: revelado, en el que se agrega un sustrato el cual precipita    generando un color que es visualizado por lectura espectrofotométrica.    (Cortesía BIOS-Chile I.G.S.A.) 
+
+Amplificación isotérmica  
+
+ 
+
+ La amplificación isotérmica consiste en convertir,    en forma cíclica, una molécula de ARN a ADN doble hebra y a partir    de ella, realizar la transcripción a ARN, el cual sirve de templado para    un nuevo ciclo de amplificación21,22    (Figura 6). En la amplificación isotérmica    se requieren dos partidores, que definen el ARN mensajero a amplificar, y uno    además contiene una secuencia denominada "promotora" para la    enzima que realiza la transcripción (ARN polimerasa). Además de    la ARN polimerasa participan otras dos enzimas, la transcriptasa reversa y la    ARNasa H (Figura 6). Este método sólo amplifica    ARN y su principal aplicación clínica está en el diagnóstico    de agentes infecciosos23,24 y    la cuantificación de la carga viral de virus ARN (VHB, VHC y VHI).25,26    La cuantificación de ARN se realiza co-amplificando el ARN de la muestra    en forma conjunta con calibradores internos o ARN de concentración conocida    y se mide mediante electroquimio-luminiscencia.27
+
+Tabla 2. Inhibiciones en amplificación    por reacción de polimerasa en cadena
+
+
+
+
+
+
+
+ 
+
+ 
+
+ Figura 5. Método de amplificación en tiempo real.    Este sistema se caracteriza por la presencia de una sonda doblemente marcada    en 5` con un fluoróforo de reporte y en 3` con un fluoróforo de    ocultamiento (etapa 1). Durante la extensión, la ADN polimerasa hidroliza    esta sonda liberando el fluoróforo de reporte (etapa 2). La cantidad    de fluoróforo liberado es proporcional a la cantidad de producto de PCR    amplificado.
+
+
+
+ 
+
+Figura 6. Método de amplificación isotérmica.    En este método, el proceso comienza con la hibridación entre el    ARN en estudio y el partidor 1, que contiene el sitio promotor para la ARN polimerasa    (etapa 1). A partir de esta hibridación, la transcriptasa reversa genera    una hebra simple de ADN, denominado ADN copia (cADN), creando un híbrido    ARN: cADN (etapa 2). El ARN de este híbrido es degradado por la ARNasa    H, quedando el cADN hebra simple, el cual se une al partidor 2 (etapa 3). A    partir de este partidor y por acción de la transcriptasa reversa se produce    la hebra complementaria generando ADN doble hebra. A partir del sitio promotor    contenido en el partidor 1, se realiza la transcripción a ARN por la    ARN polimerasa (etapa 4) generando múltiples templados de ARN, los cuales    son utilizados como templados para repetir el proceso. 
+
+ 
+
+Hibridación de ADN ramificado 
+
+(Branched DNA) 
+
+ 
+
+ La metodología de hibridación con ADN ramificado    o branched DNA (bDNA) se basa en hibridaciones consecutivas de sondas    que reconocen por una parte la secuencia de ADN o ARN en estudio y por otra,    secuencias introducidas a la reacción para amplificar la señal    de hibridación (Figura 7).28    En este método la visualización del ADN blanco no depende de un    proceso enzimático, como en la reacción de polimerasa en cadena,    sino de la amplificación de la señal de hibridación. Esta    metodología es altamente reproducible y se utiliza clínicamente    en la cuantificación de carga génica en pacientes portadores del    VIH, VHB y VHC.30, 31 
+
+cDNA microarray 
+
+ La tecnología de cDNA microarray se basa    en la incorporación en un chip, similar al utilizado en computación,    de 5.000 a 8.000 sondas que representan la totalidad de los genes expresados    por un microorganismo.32,33 De    este modo se puede identificar los patrones de expresión bacteriana de    acuerdo a distintas condiciones fisiológicas o patológicas. El    principio de cDNA microarray es la hibridación, pero a    diferencia de los métodos tradicionales, se utilizan múltiples    sondas, las que unidas a un sistema cuantitativo de análisis, permiten    identificar patrones de expresión génica.33    Esta metodología, aunque aún se encuentra a nivel experimental,    tiene una proyección tan importante en clínica como la PCR.
+
+
+
+
+
+Figura 7. Método de ADN ramificado (branched    DNA) para cuantificación de ácidos nucleicos. El proceso comienza    con la hibridación de las sondas de captura a una fase sólida.    A continuación se produce la reacción de hibridación entre    las sondas de captura y el ADN o ARN en estudio, lo cual es seguido de la introducción    de la sonda de amplificación que contiene múltiples sitios para    las sondas de revelado. Estas últimas están conjugadas con moléculas    quimioluminiscentes de modo que la cantidad de luz emitida es proporcional a    la cantidad de ADN o ARN hibridado.
+
+
+
+Figura 8. Potenciales aplicaciones clínicas    de la secuenciación de genomas de microorganismos 
+
+ 
+
+Secuenciación 
+
+ 
+
+ Los métodos de secuenciación permiten "leer"    el código genético de un microorganismo. Las principales aplicaciones    de la secuenciación en Infectología están en la identificación    de nuevos patógenos, la caracterización de brotes epidémicos    y la identificación de patrones genéticos que determinan la resistencia    a terapia.34 Específicamente, la resistencia    de la transcrip-tasa reversa y proteasa a fármacos antivirales en pacientes    VIH,35 resistencia a ganciclovir en citomegalovirus36    y resistencia a rifampicina en Mycobacterium tuberculosis,37    son algunas las aplicaciones clínicas más importantes de la secuenciación.    Finalmente la secuenciación ha permitido conocer el genoma completo de    microorganismos tales como Neisseria menin-gitidis,38    M. tuberculosis,39 Clostridium perfrin-gens,40 Streptococcus pyogenes41 y Helicobacter pylori.42 La posibilidad de analizar el    genoma completo de micro-organismos está permitiendo estudiar las interacciones    microorganismo-huésped y con la ayuda de herramientas computacionales    (bioinformática) desarrollar nuevos agentes terapéuticos y vacunas.43
+
+ 
+
+RESUMEN 
+
+ 
+
+ El origen de la biología molecular se puede rastrear    hasta fines del siglo XIX; sin embargo, el descubrimiento de la estructura del    ADN se considera como el inicio de esta disciplina. Los avances producidos por    la biología molecular en la década del ´60 nos permiten contar    hoy con herramientas para el estudio de microorga-nismos a nivel molecular.    En particular, el descubrimiento de la ADN polimerasa y las propiedades de hibridación    del ADN son algunos de los descubrimientos que aplicados hoy día en la    reacción de polimerasa en cadena, la amplificación isotérmica    y la hibridación con ADN ramificado, se han transformado en herramientas    útiles en el diagnóstico y cuantificación de agentes infecciosos.    Finalmente la secuenciación de genomas bacterianos completos permitirá    el desarrollo de nuevos métodos para el diagnóstico y tratamiento    de enfermedades infecciosas.
+
+* Nota del Editor: PCR sigla utilizada    en este artículo y universalizada en la literatura científica    aunque en español se había acuñado con anterioridad con    otra acepción indicada en el listado de abreviaturas de esta publicación.  

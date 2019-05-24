@@ -1,0 +1,96 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000300001
+Evaluación in silico de una epidemia de influenza aviar AH5N1 con transmisión humano-humano: efecto de las medidas sanitarias en Valencia, Venezuela, 2012
+
+ 
+
+Introducción
+
+Los brotes de influenza aviar por la cepa AH5N1 reportados recientemente en diferentes partes del mundo, en especial en Asia, constituyen un recordatorio estricto de la amenaza de una pandemia, la cual causaría una enorme morbi-mortalidad y costos económicos considerables, especialmente en las zonas más desasistidas de los países expuestos debido a los factores de riesgo como estados de salud y nutrición deficientes así como los limitados recursos para vigilancia y asistencia de salud disponibles en ellos1.
+
+En la actualidad, la influenza aviar AH5N1, constituye una de las mayores preocupaciones en salud pública dado su considerable potencial pandémico2. Las pandemias de influenza ocurren en ciclos de 20 a 30 años. La gran pandemia de influenza "Española" de 1918-19, (cepa AH1N1) causó 40 a 50 millones de muertes en todo el mundo. En 1957 ocurrió la influenza "Asiática", (cepa AH2N2), en 1968 la influenza "Hong Kong", (cepa AH3N2) y en 1977 la influenza "Rusa", (cepa AH1N1)3. En las más recientes se usaron vacunas, la intervención considerada más importante para la época en reducir la morbilidad y la mortalidad, pero éstas se implementaron tardíamente sin los beneficios esperados, generando dudas sobre su uso durante las epidemias y planteando la potencialidad de otras medidas sanitarias como el aislamiento individual (distanciamiento social) y de grupos de alto riesgo1,4.
+
+Actualmente el riesgo de una pandemia es alto dado el reporte de casos animales y humanos en diferentes áreas. Los casos humanos ofrecen la oportunidad para una mutación viral y su transformación en una cepa pandémica1 . En 1997, la cepa aviar AH5N1 apareció en Hong Kong con casos y mortalidad humana. Reapareció en 2003 en aves de corral en Vietnam, Indonesia y Tailandia con potencial extensión al resto de Asia, Europa y África5. En mayo de 2005, el virus AH5N1 mató más de 6.000 aves migratorias en China occidental5.
+
+La epidemia de síndrome respiratorio agudo grave (SARS, del inglés) del 2002-2003 es un buen punto de referencia en costos y consecuencias sociales de las pandemias virales respiratorias ya que alcanzó los $50.000 millones en pérdidas en el mundo, causando problemas sociales y alarma pública considerables, incluso en zonas y países donde no se produjeron casos. Se cerraron hospitales, colegios y algunas fronteras. Miles de personas se pusieron en cuarentena de forma voluntaria o impuesta. El impedimento de viaje a determinadas zonas y el uso generalizado de mascarillas quirúrgicas fueron desproporcionados en comparación con el riesgo. Tanto los pacientes como los grupos étnicos se enfrentaron a la discriminación3.
+
+Los virus de influenza pertenecen a la familia Orthomyxoviridae que comprende virus ARN. Su denominación surge de las proteínas hemaglutinina (H) y neuraminidasa (N) presentes en la superficie viral5. Mutaciones en una o ambas proteínas hace que ninguna persona posee inmunidad pudiendo surgir una pandemia cuando simultáneamente el virus adquiere la capacidad de transmitirse de persona a persona3.
+
+Las aves acuáticas salvajes son el reservorio y portador asintomático de todos los subtipos de virus de influenza A5-9, con la excepción del subtipo H1N35,6. La infección de estas aves con el virus AH5N1 ha sido limitada y ocasional10 variando su mortalidad11. El virus AH5N1 ha sido aislado de cerdos12, sugiriendo el paso de patos a cerdos por cohabitación, lo cual es preocupante, ya que los cerdos actúan como recipientes de recombinación de virus de la influenza humana y aviar13. Adicionalmente, el virus sobrevive en carnes de aves crudas y puede transmitirse a través de la carne congelada14 además de encontrarse dentro y fuera de los huevos.
+
+La infección con AH5N1 en humanos es poco frecuente y se asocia al contacto directo o cercano con aves de corral infectadas. Produce fiebre, tos, dificultad respiratoria aguda, disnea, dolor abdominal y diarrea. Las complicaciones más frecuentes son neumonía, insuficiencia respiratoria, insuficiencia metabólica, alteración mental, convulsiones, fallo multiorgánico y muerte15. La mortalidad humana reportada alcanza hasta 64,10%16, con alta incidencia de neumonía (61%) y de casos con un requerimiento de cuidados intensivos de hasta 51%4.
+
+Venezuela es una comprobada área de migración y permanencia de cerca de 153 especies de aves acuáticas en estrecha relación con las actividades de poblaciones humanas. Cerca de 60% de las especies son consideradas de alto riesgo y casi 60% son migratorias. El Estado Carabobo y el Lago de Valencia constituyen una de las áreas con más especies de aves17. La Red Mundial de Vigilancia Epidemiológica de Influenza Aviar en Aves Silvestres (GAINS, siglas en inglés) ya ha detectado 25 especies de aves acuáticas propensas a contraer y a dispersar el virus AH5N1 en las costas y humedales venezolanos18. La ciudad de Valencia, capital estatal, se ubica en las cercanías del lago epónimo, posee condiciones propicias para que las aves con potencial diseminador del virus AH5N1 entren en contacto con otros animales de corral y con la población humana, condiciones propicias para el inicio de la epidemia aviar, lo que unido a la potencial transmisión humano-humano, es el objetivo del presente estudio.
+
+Para reducir al mínimo la repercusión de una pandemia, es preciso elaborar con anticipación la planificación y ejecución de actividades que permitan identificar los efectos, daños y comportamiento poblacional, así como las posibles estrategias preventivas, medidas sanitarias, tratamientos específicos y sus potenciales efectos. Una forma de cumplir estos objetivos es el uso de herramientas de simulación epidemiológica que aplicando modelos matemáticos poblacionales permiten simular escenarios de desastres19 o epidemias20 y de intervención en ellos aportando datos relevantes para la planificación de estrategias tendientes a reducir su impacto; tal es el caso de simuladores específicos de epidemias de influenza como InfluSim, QuickFlu y EpiDyNet21-23.
+
+En el presente estudio se evaluó in silico el impacto de una epidemia del virus de la influenza aviar altamente patógena AH5N1 sobre la población de la ciudad de Valencia, Estado Carabobo, Venezuela, para el año 2012, en un escenario de carácter pandémico, es decir, asumiendo una transmisión humano a humano con un número de reproducción básico reportado (Ho = 2,5) para casos humanos y de los resultados de las medidas sanitarias conocidas para tal situación.
+
+Materiales y Métodos
+
+Se trata de una investigación descriptiva, experimental, transeccional, in silico.
+
+Características geográficas de la ciudad de Valencia
+
+La ciudad de Valencia, se ubica geográficamente en 68°07' y 67°48' O y 10°14' y 9°49' N, cuenta con 623 km2, su temperatura media anual es de 26,7 °C, la precipitación promedio anual es de 1.138,2 mm con el período lluvioso de mayo a noviembre y un máximo en el mes de agosto19,24.
+
+Programa de simulación
+
+InfluSim v1.1 es un modelo determinístico com-partamental basado en un sistema de 1.081 ecuaciones diferenciales creado por Eichner y cols., (2007)21-23. El simulador extiende el modelo dinámico SEIR (Suscep-tibles-Expuestos-Infectados-Recuperados) clásico con los parámetros clínicos y demográficos relevantes para la planificación de intervenciones para una pandemia21-23 así como los postulados de modelaje estático25. Permite generar cursos temporales y valores acumulativos de casos de influenza, visitas ambulatorias, dosis aplicadas de tratamiento antiviral, hospitalizaciones, muertes y días de trabajo perdidos debido a la enfermedad y sus costos21-23,25. Reproduce la dinámica de infección de la gripe pandémica ofreciendo gran reproducibilidad, por cuanto se basa en un modelo determinístico, con alto rendimiento computacional a pesar del complejo sistema de ecuaciones diferenciales que utiliza para obtener las soluciones y operatividad21-23. La interfase del usuario del simulador InfluSim se presenta en las Figuras 1 y 2.
+
+  
+
+ Figura 1. Interfase del usuario de InfluSim v1.1. Panel para definiciones de los parámetros del modelo generales, enfermedad, contagiosidad, tratamiento y distanciamiento social, este último desplegado para definir el aislamiento parcial, reducción general de contactos así como el día de cierre de los colegios y eventos de asistencia masiva.  
+
+   
+
+Figura 2. Interfase del usuario de InfluSim v1.1. Panel de resultados gráficos sobre infección, recursos, valores acumulados y costos. Se desplegó el panel gráfico correspondiente al curso temporal de la epidemia en días (panel superior) con las curvas de las cantidades diarias de casos susceptibles, expuestos, asintomáticos, enfermos moderados y severos, muertes e inmunes cuyos valores numéricos diarios aparecen listados en el panel inferior. El cursor vertical indica los valores del día 104 de la epidemia, las curvas se diferencian por colores. 
+
+El modelo se ajustó a las características poblacionales de la ciudad de Valencia y de la cepa de AH5N1 para evaluar el curso temporal del número de individuos susceptibles, expuestos, asintomáticos, enfermos moderados (hospitalizados sin soporte ventilatorio), graves (con soporte ventilatorio), muertos e inmunes, el costo económico por días laborables perdidos, consultas, hospitalizaciones, tratamiento antiviral y totales, así como momento máximo y duración de una epidemia en cinco escenarios: sin intervención sanitaria (SI); tratamiento antiviral masivo (AV); aislamiento social en 20% (AS); cierre de 20% de los colegios (CC) y reducción de 50% de los eventos de reunión masiva de personas. Finalmente, se contrastó los requerimientos calculados para la atención pública durante la epidemia con la capacidad instalada de atención sanitaria en la ciudad para el año 2012, año del que se dispone de cifras epidemiológicas completas26.
+
+Parámetros de simulación
+
+Población de Valencia: Población menor (menores de 15 años): 206.351 (24,87%), Población económicamente productiva (15-64 años): 571.785 (68,09%), Población mayor (mayores de 64 años): 51.720 (6,23%) para un total de 829.856 habitantes26.
+
+Porcentaje de riesgo: Población menor (menores de 15 años): 6%, Población económicamente productiva (15-64 años): 14%, Población mayor (mayores de 64 años): 47%21-23,26-28.
+
+Contagiosidad: Medido por el coeficiente R0 (con valor para cepas pandémicas entre 2 y 3). El valor usado fue 2,5 y una contagiosidad relativa de 90%21-23,25,27,29-32.
+
+Costos (año 2012): Canasta Básica Familiar BsF. 26.576,00 (US$ 200,00); Salario Mínimo BsF. 4.251,00 (US$ 85,02); Canasta Básica Familiar Semanal BsF. 6.644 (US$ 132,88); Costo de Antivirales (Oseltamivir) BsF. 5.000,00 (US$ 100,00) por 10 días de tratamiento21-23,25,26,33-38.
+
+Enfermedad: Duraciones promedios, gravedad de la enfermedad, fracción de casos hospitalizados/casos graves, tasa de letalidad global: 64,1%; 56% para niños, 42% para pacientes trabajadores y 64% para los ancianos16,21-23.
+
+Análisis estadístico
+
+Los resultados de los escenarios de simulación se presentan como tablas. Los valores porcentuales de los diferentes escenarios se compararon mediante el cálculo del valor z39 y la prueba de χ2 para las tablas de contingencia, considerándose como significativos valores de z > 1,96 (p < 0,05).
+
+Resultados
+
+La Tabla 1 presenta los valores comparativos de los cinco escenarios epidémicos evaluados en torno al número de casos de la enfermedad. Al realizar las comparaciones se evidenció que no existen diferencias estadísticamente significativas entre la ausencia de intervención sanitaria y los resultados obtenidos por medidas como el tratamiento antiviral o el cierre de 20% de los contactos en colegios. Sin embargo, la reducción de 20% en los contactos en la población general sí produjo una reducción significativa de hasta 68% en los números de casos, así como en el retardo del pico máximo de la epidemia en 58% para la reducción de 20% de los contactos en la población general a 27% en el caso de la reducción de 50% en los eventos multitudinarios.
+
+  Tabla 1. Día de máximo número de casos, casos moderados, graves y muertes en epidemia de influenza aviar AH5N1, en Valencia, Venezuela, 2010, en cinco escenarios teóricos*, expresados como valores absolutos y porcentaje de cambio en relación a los valores de SI
+
+
+
+ 
+
+Resultados similares en estas intervenciones se aprecian al evaluar las semanas laborales perdidas, en consulta médica o en hospitalización en los escenarios de epidemia (Tabla 2), siendo las intervenciones más efectivas nuevamente la reducción de 20% de los contactos en la población general y la reducción del 50% en los eventos multitudinarios. De igual forma, al analizar las pérdidas monetarias generadas por cada escenario epidémico, nuevamente la reducción de 20% de los contactos en la población general y la reducción de 50% en los eventos multitudinarios reducen significativamente los costos durante el tiempo de duración de la epidemia (Tabla 3).
+
+  Tabla 2. Semanas laborales perdidas, en consulta médica o en hospitalización en epidemia de influenza aviar AH5N1 en Valencia, Venezuela, 2010, en cinco escenarios teóricos*, expresados como valores absolutos y porcentaje de cambio en relación a los valores de SI  
+
+ 
+
+  Tabla 3. Costo en dÃ³lares por dÃ­as laborales perdidos, consultas mÃ©dicas o por hospitalizaciÃ³n  	  en epidemia de influenza aviar subtipo AH5N1 en Valencia, Venezuela, 2010, en  	  cinco escenarios teÃ³ricos*, expresados como valores absolutos y porcentaje de cambio     en relaciÃ³n a los valores de SIT   
+
+ 
+
+Discusión
+
+En el presente estudio se utilizó el Programa de simulación InfluSim versión 1.1 para modelar una epidemia de virus influenza aviar altamente patógeno, subtipo AH5N1, en la población de la Ciudad de Valencia, Estado Carabobo, Venezuela. Usando los parámetros demográficos del Censo Oficial del año 2012, se generaron por primera vez, a nuestro entender, estimados del día de máximo número de casos, enfermos moderados, graves, expuestos y muertes, así como de los costos materiales de dicha epidemia en los cinco escenarios propuestos: sin intervención sanitaria; tratamiento antiviral; reducción de 20% del contacto general en la población; cerrando 20% de los colegios e instituciones educativas y reduciendo en 50% las reuniones públicas masivas.
+
+Los resultados arrojan cifras devastadoras para la población en todos los escenarios. En el caso de ausencia de medidas sanitarias, se generaron más de 28.000 casos graves con requerimiento de hospitalización y cuidados urgentes especiales, la gran mayoría de éstos con ventilación asistida. En este modelo, el resultado de muertes directas es de 1.173 casos para aproximadamente 200 días de epidemia; sin embargo, el desproporcionado número de casos graves que no podrían recibir atención crítica respiratoria adecuada por el colapso de todo el sistema de salud, no sólo regional sino nacional, produciría un número considerablemente mayor de defunciones a expensas de las cifras de casos graves (4), pudiendo llegar conser-vadoramente a 50% de los casos graves lo que representa cerca de 14.000 muertes. La disponibilidad de camas para cuidados intensivos en la ciudad y el Estado Carabobo de la cual es su capital, no sobrepasa de 90 incluyendo la red de instituciones públicas y privadas, a lo que habría que añadir el impacto directo de la enfermedad en el grupo de más alto riesgo que corresponde al del propio equipo de salud, el cual se vería considerablemente reducido por la misma enfermedad y/o deserción, fenómeno ya descrito en otras epidemias23,25,27,29,31,32.
+
+Al evaluar por separado las estrategias de intervención sanitaria, la más eficiente fue la reducción en los contactos generales en la población. En el presente estudio se probó una reducción de 20% en estos contactos poblacionales lo cual redujo en 56% el número de muertes y en más de 68% los casos graves y moderados retardando en 58% el pico epidémico. Esta medida conocida como distancia-miento social22,29,30,32,37,38, se pone en práctica solicitando a la población permanecer en sus hogares y reducir a lo estrictamente necesario los contactos con otras personas. Una medida similar como es la restricción de reuniones públicas aporta resultados parecidos pero con aproximadamente 10% menor en su eficiencia. Es probable que la combinación aporte un efecto sinérgico22,23,25,27. Estos resultados concuerdan parcialmente con reportes previos22,23,25,27,29 en los que evaluaciones in silico de epidemias de influenza han resultado en mejores controles mediante la combinación del distanciamiento social con el tratamiento antiviral, con un índice de reproducción viral R0 < 1,8 y con una cobertura considerable del tratamiento antiviral iniciado muy tempranamente. Estas condiciones difícilmente podrían darse en la población de estudio ya que el R0 usado fue de 2,5 basado en los promedios reportados en epidemias previas21-23,25,27,29-32 y se suma a la falta de disponibilidad inmediata del antiviral.
+
+Desde el punto de vista del número de consultas y de hospitalizaciones, así como de sus costos, las cifras son desalentadoras en todos los escenarios, con un impacto negativo considerable en la economía familiar, regional y nacional.
+
+El tratamiento con medicación antiviral no mostró ser eficiente en alguno de los escenarios en los que se incluyó, lo cual contrasta con la efectividad reportada del inhibidor de la neuramidinasa incluido en el modelo (oseltamivir). Una explicación de estos resultados son las condiciones aditivas para el uso eficiente del antiviral durante la epidemia, entre las que se encuentran la necesidad de iniciar el tratamiento en menos de tres días después de la infección, lograr la mayor cobertura en la fuente de la epidemia, disponibilidad suficiente de la medicación para todos los grupos de alto riesgo y sospecha de contactos y ausencia de resistencia31,32,38,40.

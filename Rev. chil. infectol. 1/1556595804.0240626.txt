@@ -1,0 +1,92 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000600002
+Quinolonas: Perspectivas actuales y mecanismos de resistencia
+
+Resumen
+
+Las quinolonas son un grupo de antimicrobianos sintéticos de amplio espectro, cuyo objetivo es la síntesis del ADN. Inhiben directamente su replicación al interactuar con dos enzimas; ADN girasa y topoisomerasa IV. Se han utilizado ampliamente para el tratamiento de infecciones intra y extra-hospitalarias, en el campo de la agricultura y en el procesamiento de alimentos, lo que hace que el incremento de resistencia a quinolonas sea un problema cada vez más frecuente, asociado a la constante exposición de diversos microorganismos. La resistencia puede alcanzarse mediante tres mecanismos no excluyentes entre sí; a través de mutaciones cromosómicas en genes codificantes que afectan las regiones determinantes de resistencia a quinolonas de ADN girasa y topoisomerasa IV, al reducir las concentraciones intracitoplásmicas de quinolonas de manera activa o pasiva y por genes de resistencia a quinolonas mediados por plásmidos [genes de resistencia a quinolonas determinates de qnr, gen variante de la aminoglucósido acetil transferasa (AAC(6’)-lb-cr) y genes codificadores de bombas de eflujo (qepAy oqxAB)]. El futuro de las quinolonas es incierto; sin embargo, mientras continúen empleándose para el manejo de infecciones en el ser humano, el incremento de resistencia a quinolonas debe permanecer como un área de importancia primaria para la investigación.
+
+Palabras clave: Quinolonas, fluoroquinolonas, resistencia antimicrobiana a fármacos, infecciones bacterianas, ADN girasa, topoisomerasa IV.
+
+ 
+
+Introducción
+
+Las quinolonas son un grupo de antimicrobianos sintéticos de amplio espectro, cuyo "blanco" es la síntesis del ADN. Se han utilizado ampliamente para el tratamiento de infecciones intra y extra-hospitalarias, convirtiéndose en un recurso de suma importancia para países en vías de desarrollo debido a la gran disponibilidad de genéricos que reducen drásticamente el costo del tratamiento1. Su efectividad se debe a su alta biodisponibilidad, nivel de seguridad y forma de administración que puede ser tanto enteral como parenteral2. Sin embargo, se han usado indiscriminadamente en el campo de la agricultura y en el procesamiento de alimentos, lo que hace que el incremento de resistencia a quinolonas sea un problema cada vez más frecuente asociado a la constante exposición de diversos microorganismos34.
+
+Antecedentes históricos y propiedades químicas
+
+El término "quinolona" se usa en un sentido genérico para referirse a la clase de inhibidores de la síntesis del ADN que incluyen; naftiridonas, quinolonas, isotiazol quinolonas, quinazolinas y agentes relacionados5.
+
+El cribado de análogos sintéticos de quinina en búsqueda de nuevos fármacos antimaláricos, condujo al descubrimiento de la 7-cloroquinolina. La investigación de compuestos similares, como 1,8 naftiridonas, resultó en el descubrimiento del ácido nalidíxico (1-etil-7-metil-4-oxo-1,8-naftiridina-3-ácido carboxílico) en 1962, convirtiéndose en la primera quinolona sintética con actividad antimicrobiana, especialmente para el tratamiento de infecciones de vías urinarias no complicadas6. Esto llevó al desarrollo de otros antimicrobianos basados en el anillo 4-quinolona, como el ácido oxolínico, cinoxacina y flumequina, usados clínicamente para tratar infecciones causadas por bacterias gramnegativas7-9.
+
+A través de los años, el ácido nalidíxico ha sido modificado con el objetivo de obtener un espectro más amplio de cobertura antimicrobiana, dando origen a las primeras fluoroquinolonas. Éstas poseen un átomo de flúor unido al anillo de quinolona en la posición C-6, mejorando la actividad contra bacterias gramnegativas y grampositivas10. La tercera generación presentó sustituciones de piperazina o pirrolidina en la posición C-7 y de un grupo metoxi en la posición C-8, mejorando la actividad contra bacterias grampositivas y anaerobias. Posteriormente, la cuarta generación presentó múltiples cambios en búsqueda de la mejor combinación entre seguridad y eficacia. Dichos cambios incluyeron la adición de ciclopropil en la posición C-1 y un grupo metoxi en C-8, además, se substituyó el átomo de flúor en C-6 y piperazina o pirrolidina en C-7, por lo que se les nombró des-fluoroquinolonas11,12. Existen autores que consideran una quinta generación, con delafloxacina como el único fármaco perteneciente a este grupo.
+
+Clasificación y espectro de actividad
+
+De acuerdo a su espectro de actividad, las quinolonas se clasifican dentro de cuatro distintas generaciones (Tabla 1).
+
+ 
+
+Tabla 1. Generaciones de quinolonas, representantes y espectro de actividad
+
+
+
+ 
+
+Mecanismo de acción
+
+El blanco específico de las quinolonas es interferir en la síntesis del ADN, conduciendo a muerte celular bacteriana mediante la fragmentación cromosómica13. Penetran la pared celular a través de porinas, inhibiendo directamente la replicación bacteriana al interactuar con dos enzimas; ADN girasa (proteína tetramérica compuesta por dos pares de subunidades A y B, codificadas por los genes GyrA y GyrB)14 y topoisomerasa IV (proteína tetramérica compuesta por dos pares de subunidades A y B, codificados por los genes ParC y ParE)15, las cuales son necesarias para realizar el superenrollamiento del ADN. Específicamente, ADN girasa es el blanco primario en bacterias gramnegativas, mientras que topoisomerasa IV lo es en bacterias grampositivas. Algunas quinolonas con espectro de actividad y potencia mejorada, parecen tener como blanco ambas enzimas16.
+
+Farmacocinética y farmacodinamia
+
+La mayoría de las quinolonas se encuentran disponibles de forma oral e intravenosa. La biodisponibilidad, sin importar el modo de administración, es la misma (70-90%)17, aunque la administración vía oral suele verse afectada por la ingesta simultánea de alimentos, antiácidos que contengan magnesio (Mg), aluminio (Al), calcio (Ca) y/o sucralfato, así como multivitamínicos que contengan hierro (Fe) y/o zinc (Zn). En adultos tienen una vida media de 1,5 a 16 h y volúmenes de distribución mayores a 1,5 L/kg17-19, siendo las de cuarta generación las que alcanzan los valores más altos. Son metabolizadas en el hígado por medio del citocromo p450, aunque algunas también pueden ser metabolizadas por la glucoronidasa o por conjugación de sulfatos20. Todas las quinolonas se eliminan vía hepática o renal, las hidrofílicas como levo-floxacina y ofloxacina se eliminan por el riñón mientras que las lipofílicas como esparfloxacina, gatifloxacina y moxifloxacina lo hacen a través del hígado21.
+
+En proporciones por encima de la concentración inhibitoria mínima (CIM), todas las fluoroquinolonas exhiben tanto efecto post-antibiótico como actividad bactericida dependiente de concentración. Además de actuar sobre la ADN girasa y topoisomerasa IV, algunas fluoroquinolo-nas como ciprofloxacina y fleoroxacina también actúan en la membrana celular bacteriana20, desintegrando las membranas interna y externa, cuando se encuentran en altas concentraciones. Hipotéticamente lo logran a través de la acción de agentes quelantes que remueven cationes, predominantemente iones de Mg. Esto conlleva un incremento de ~35% en la hidrofobicidad celular y en la sensibilidad hacia la lisis mediada por dodecilsulfato sódico y otros detergentes22.
+
+Aplicaciones clínicas
+
+Entre las indicaciones para el uso de quinolonas se encuentran las siguientes; infecciones del tracto urinario (ITU) no complicadas (principalmente cuando existe resistencia contra el tratamiento de primera línea), ITU complicadas, prostatitis bacteriana crónica, infecciones de transmisión sexual (ITS) e infecciones pélvicas. También se ha documentado su eficacia para el manejo de infecciones cutáneas, osteo-articulares y del tracto gastrointestinal, como quimioprofilaxis en pacientes neutropénicos, post-quirúrgicos y cirróticos con riesgo de desarrollar peritonitis bacteriana espontánea23,24. Además, son consideradas como alternativa a los agentes de primera línea para el manejo de infecciones bacterianas del tracto respiratorio, como sinusitis, neumonía adquirida en la comunidad y bronquitis crónica complicada en pacientes inmunocomprometidos25.
+
+Efectos adversos
+
+El uso de quinolonas conlleva una serie de efectos adversos, dentro de los cuales la mayoría son leves pero frecuentes, mientras que otros son inusuales pero graves y han causado el retiro de múltiples fármacos.
+
+Se puede presentar afección gastrointestinal (náusea, vómito y diarrea en 2 a 10% de los casos) y dérmica (foto-toxicidad, eritema, prurito y urticaria en 2,5 a 10%) como las reacciones adversas más frecuentes, aunque también se han reportado condrotoxicidad (1,5%, pefloxacina 14%), tendinitis (0,4%, pefloxacina 2,7%), afección en el sistema nervioso central (0,2 a 2%), cardiovascular (2,9%), hematológico (0,02%) y hepático (2 a 3%, gre-pafloxacina 12 a 16%), dependiendo de las propiedades del agente y de las características del paciente11. Dentro de dichas propiedades y características, se ha asociado el uso de esparfloxacina y grepafloxacina con alargamiento del segmento QTc (3%)26; la administración conjunta con anti-inflamatorios no esteroideos (AINE’s) al desarrollo de toxicidad ocular (perforaciones corneales, neuropatía óptica y hemorragias de retina en 3,3%)22-27; el uso de levofloxacina y ciprofloxacina con la aparición de diarrea asociada a Clostridium difficile (2,2%)28; la administración de moxifloxacina y ciprofloxacina a reacciones de hipersensibilidad inmediata (< 1%)29 y además, los pacientes con condiciones médicas pre-existentes o que se encuentren con tratamiento concomitante pueden tener mayor riesgo de presentar reacciones adversas neuropsiquiátricas30.
+
+Perspectivas actuales
+
+La resistencia hacia antimicrobianos es una de las mayores preocupaciones que existen en medicina en todo el mundo, con patógenos altamente resistentes de múltiples especies difíciles de tratar. Incluso con las guías actuales, cuyo objetivo es preservar la eficacia de los antimicrobianos, la resistencia a quinolonas sigue ocurriendo en rangos que se incrementa en numerosas especies bacterianas y su uso varía alrededor del mundo. Grecia es el mayor usuario de quinolonas y tiene la mayor incidencia de aislados de Escherichia coli resistente a quinolonas, mientras que Suecia tiene la menor tasa de consumo y la menor incidencia de resistencia31. En Estados Unidos de América, un incremento de 40% en el uso de quinolonas ocasionó que se duplicara la tasa de resistencia hacia ciprofloxacina contra bacilos gramnegativos aislados en Unidades de Cuidados Intensivos. En España, el incremento de resistencia a quinolonas ha tenido como resultado que se evite su uso como tratamiento de primera línea para las ITU desde la década de 1990’s. En África, India y Vietnam, se ha observado un incremento en la resistencia hacia quinolonas para el tratamiento de ciertas cepas de Salmonella Typhi, mientras que en Finlandia se ha reportado un incremento en la CIM de ciprofloxacina en aislados de Salmonella enterica de viajeros que habían ido hacia el sudeste de Asia32.
+
+También existen diferencias dependiendo de la procedencia de las cepas, de las manifestaciones clínicas y de las co-morbilidades del paciente. Por ejemplo; las tasas de resistencia hacia quinolonas van desde 2,2 a 69% para cepas aisladas de pacientes con ITUs no complicadas adquiridas en la comunidad y hasta 98% para cepas de pacientes con ITUs complicadas. Respecto a las ITUs adquiridas en el hospital, la resistencia hacia quinolonas va de 6,3 a 62% en cepas gramnegativas, 20% en S. aureus sensible a meticilina (SASM) y 100% en S. aureus resistente a meticilina (SARM). En general, los uropatógenos provenientes de pacientes admitidos en hospitales son menos sensibles al uso de quinolonas que las de aquellos que se encuentran en la comunidad y aunque la resistencia hacia quinolonas en Norte América es menos frecuente que en Asia y Europa, las elevadas tasas de migración convierten a la región en una zona altamente vulnerable, y, por lo tanto, el conocimiento de los mecanismos mediante los cuales éstas se desarrollan adquiere relevancia33.
+
+Mecanismos de resistencia
+
+La resistencia puede alcanzarse mediante tres mecanismos no exclusivos:
+
+• A través de mutaciones cromosómicas en genes codificantes, al reducir las concentraciones intracito-plásmicas de quinolonas y por genes de resistencia a quinolonas mediados por plásmidos (PMQR, por sus siglas en inglés).
+
+• Las mutaciones cromosómicas afectan las regiones determinantes de resistencia a quinolonas (QRDR, por sus siglas en inglés) de ADN girasa (GyrA y GyrB) y topoisomerasa IV (ParC y ParE)3. Se dan por errores de transcripción durante la replicación cromosómica y ocurren en rangos tan altos como 1 en 106 a 109 en bacterias silvestres34. Las mutaciones en gyrA, el gen que codifica las subunidades A de ADN girasa, conforman el mecanismo que con mayor frecuencia se encuentra involucrado en la resistencia a quinolonas entre las bacterias gramnegativas35.
+
+• La reducción de la concentración intracelular de quinolonas se da principalmente por dos mecanismos; pasivamente, mediante reducción de la permeabilidad por "downregulation" de proteínas extra-membranales que forman canales y activamente, mediante sobreexpresión de sistemas de eflujo multidroga pertenecientes a la superfamilia de división de resistencia-nodulación (DRN), AcrAB-TolC36. Estos últimos reducen la acumulación de quinolonas en el citoplasma, proporcionando el tiempo suficiente para que la bacteria se adapte y adquiera resistencia37.
+
+• Actualmente se encuentran descritos tres tipos de genes de resistencia a quinolonas mediados por plás-midos (PMQR), cuyas variaciones se han reportado en diferentes patógenos alrededor del mundo; genes de resistencia a quinolonas determinates de qnr, gen variante de la aminoglucósido acetil transferasa (AAC(6’)-lb-cr) y genes codificadores de bombas de eflujo (qepA y oqxAB)4,38,39.
+
+a) Los qnr, son genes transferibles que confieren baja resistencia, tanto a quinolonas como a fluoroquinolonas. Se han identificado con claridad cinco familias: qnrA, qnrB, qnrC, qnrD y qnrS40,41; sin embargo, en 2013, Pons y cols., describieron una sexta familia de qnr’s: los qnrCV42. Estos genes codifican para la formación de una proteína de 218 aminoácidos de repetición de pentapéptidos, la cual protege a ADN girasa y a topoisomerasa IV de la inhibición de las quinolonas mediante la reducción de la disponibilidad de los blancos holoenzima de ADN43-45. La presencia de genes qnr puede aumentar el número de mutaciones que causan resistencia a quinolonas; además, suelen combinarse con otros genes dentro del mismo plásmido, generando resistencia cruzada entre quinolonas y otros antimicrobianos a los que no se era previamente resistente39.
+
+b) En 2006, Robicsek y cols., describieron, por primera vez, el gen aac(6')-Ib-cr, una nueva variante de la aminoglucósido acetiltransferasa o Aac(6')-Ib, responsable de la resistencia de cepas de enterobac-terias hacia amikacina, kanamicina y tobramicina. Este gen produce una N-acetilación en el sustituto de piperazinil en algunas fluoroquinolonas, incluyendo norfloxacina y ciprofloxacina, lo que reduce su actividad antimicrobiana45. La enzima Aac(6')-Ib-cr se distingue de Aac(6')-Ib por la presencia de dos mutaciones puntuales en la misma; Trp102→Arg y Asp179→Tyr46, ambas responsables de la reducción de la susceptibilidad (dos a tres veces mayor) de algunas fluoroquinolonas, sumando este efecto a otros mecanismos codificados por plásmidos45. En 2013, Silva-Sánchez y otros concluyeron que la prevalencia de genes PMQR (qnr, aac(6')-Ib-cr y qepA) en cepas de enterobacterias (K. pneumoniae, E. coli, E. cloacae) en pacientes pediátricos en México era de 32,1%47.
+
+c) El gen qepA codifica para generar una bomba de eflujo tipo QepA que confiere resistencia a quinolo-nas hidrofílicas como norfloxacina, ciprofloxacina y enrofloxacina por medio del sistema similar a la súperfamilia de bombas de eflujo tipo facilitador mayor (MFS, por sus siglas en inglés). Este gen se identificó en plásmidos pHPA de E. coli C316 y en el plásmido pIP1206 de E. coli 1450, aislados en Japón y en Bélgica, respectivamente48,49. Así mismo, OqxAB también es un plásmido codificador para bombas de eflujo, siendo identificado recientemente como uno de los PMQR. OqxAB es codificado por los genes oqxA y oqxB, localizados en un plásmido de 52kb designado pOLA52 que confiere resistencia para múltiples agentes, incluyendo las fluoroquinolonas50. En comparación con otros mecanismos de resistencia mediados por plásmidos, se conoce muy poco sobre la prevalencia de OqxAB y su contribución con la resistencia a diferentes antimicrobianos.
+
+En la Tabla 2 se resumen los principales mecanismos de resistencia a quinolonas.
+
+ 
+
+Tabla 2. Mecanismos de resistencia a quinolonas y sus características
+
+
+
+ 
+
+Conclusiones
+
+La velocidad con que se desarrollan nuevos fármacos se encuentra por debajo de aquella con la que se desarrollan nuevas resistencias, haciendo que el futuro de las quinolonas sea incierto. Por lo tanto, el uso indiscriminado de antimicrobianos es una práctica que atañe al interés de toda la comunidad científica, puesto que los microorganismos adquieren y modifican constantemente sus mecanismos de defensa y el incremento de resistencias merma cada vez más nuestros recursos terapéuticos para el manejo de infecciones en el ser humano. Es necesario concientizar al personal de salud sobre la importancia de realizar investigación en tales áreas y de mejorar el apego hacia las guías de práctica clínica que permitan prolongar la utilidad de las quinolonas y de otros antimicrobianos.

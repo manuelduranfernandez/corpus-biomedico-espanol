@@ -1,0 +1,78 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000400314
+Eritrosedimentación extremadamente elevada en una población de adultos en la ciudad de Buenos Aires
+
+Introducción
+
+La velocidad de eritrosedimentación (VHS) es un test de laboratorio frecuentemente utilizado en la práctica clínica como indicador de reactante de fase aguda1,2. La respuesta de fase aguda es un importante fenómeno fisiopatológico en el que se reemplazan los mecanismos homeostáticos normales. Las proteínas de fase aguda son un grupo heterogéneo de proteínas que acompañan a los estados inflamatorios, tanto agudos como crónicos y cuya concentración plasmática suele aumentar en respuesta a esos estados3. La VHS es una forma indirecta de medir los reactantes de fase aguda. La misma mide la distancia que los eritrocitos recorren al caer durante un tiempo determinado (generalmente una hora) por la influencia de la gravedad. Dicha relación se ve afectada por la viscosidad del plasma, la cual aumenta al aumentar la cantidad de dichas proteínas4. Asimismo, se ve afectada por otros factores como la edad, género, anemia, peso corporal y tasa de filtrado glomerular5,8.
+
+Debido a su baja especificidad, la utilización de la VHS como herramienta diagnóstica ha sido discutida9. Sin embargo, una VHS extremadamente elevada, definida como mayor o igual a 100 mm/h, está asociada a una tasa baja de falsos positivos y a un valor predictor positivo de 90% para enfermedades graves subyacentes como enfermedades infecciosas, enfermedades del colágeno o enfermedades oncológicas1,9. Actualmente existen otros test de reactantes de fase aguda como la proteína C reactiva (PCR); sin embargo, la VHS continúa siendo un test económico, rápido y simple de realizar9. En la literatura científica se ha reportado que valores de VHS mayores a 100 mm/h se han asociado principalmente a enfermedades infecciosas (33%), neoplasias malignas e insuficiencia renal crónica (17%, ambas) y enfermedades inflamatorias (14%)10. En los ámbitos de formación académica de médicos internistas, es frecuente que la VHS se considere un estudio de laboratorio de rutina imprescindible en todo paciente que se interna en un hospital. Es frecuente que un valor mayor a 100 mm/h se asocie con un grupo de patologías específicas como la infección por Mycobacterium tuberculosis, el mieloma múltiple, la arteritis de la temporal y otras etiologías inflamatorias.
+
+Si bien existen trabajos que evaluaron los diagnósticos subyacentes asociados a una VHS extremadamente elevada en otros medios, no existen en nuestro país estudios en grandes poblaciones. El objetivo del presente trabajo es analizar un grupo numeroso de pacientes para determinar tanto los diagnósticos subyacentes como las características que se asocian con valores de VHS mayores a 100 mm/h en nuestro medio. Conocer cuáles son dichas etiologías, puede contribuir a la evaluación diagnóstica de un paciente con esta patología. Más aún, la clasificación de las etiologías basada en distintos criterios (por ejemplo, por grupos etarios) puede contribuir a entender si existen diferencias significativas según qué población de pacientes se esté evaluando.
+
+Pacientes y Métodos
+
+Se realizó un estudio tipo observacional, de corte transversal, transversal, con colección retrospectiva de datos, en pacientes adultos con al menos un valor de VHS mayor o igual a 100 mm/h registrado en el laboratorio entre enero de 2002 y agosto de 2014 en el Hospital Italiano de Buenos Aires (HIBA). El estudio fue evaluado y aprobado por el Comité institucional de Ética de Protocolos de Investigación. El HIBA es un centro de derivación de alta complejidad de la Ciudad Autónoma de Buenos Aires. Cuenta con un repositorio único de la información de todos los pacientes atendidos en el hospital. El mismo se centraliza en la historia clínica electrónica (HCE) orientada a problemas. Los problemas, co-morbilidades, resultados de laboratorio, prescripciones, así como de procedimientos realizados se almacenan y codifican utilizando un vocabulario controlado.
+
+Como estrategia de búsqueda de los pacientes potencialmente elegibles se generó una lista de pacientes de 18 años o más, con al menos un valor de VHS igual o mayor a 100 mm/h registrado en la HCE. Todas las mediciones de VHS se realizaron con el método automatizado ALI-FAX. Del grupo de pacientes potencialmente elegibles, se tomó una muestra aleatoria que constituyó la base para el análisis. Se incluyeron los pacientes con al menos un laboratorio con VHS igual o mayor a 100 mm/h. Se excluyeron los pacientes con registros incompletos en la HCE que no permitían conocer si se había realizado una evaluación diagnóstica de dicho parámetro, por ejemplo, pacientes a quienes se les realizó exámenes de laboratorio en el hospital pero tenían seguimiento médico en otra institución.
+
+Las variables registradas se obtuvieron a través de revisión de la HCE y fueron almacenadas en formularios estructurados. Médicos entrenados para tal fin revisaron sistemáticamente todas las historias clínicas de los pacientes incluidos. De éstos se recolectaron los siguientes datos: edad, género, co-morbilidades asociadas a aumento de VHS (anemia, sobrepeso e insuficiencia renal crónica), circunstancia en la cual fue solicitado el estudio de laboratorio (internado o ambulatorio). Por último, se determinó el diagnóstico subyacente al momento que se realizó la medición de VHS.
+
+Los diagnósticos se agruparon en diferentes categorías: enfermedades infecciosas, malignidad, autoinmune o inflamatoria, insuficiencia renal, misceláneas, combinaciones o indeterminada. Se definió como indeterminado aquel caso en que luego de investigaciones médicas pertinentes no se arribó a un diagnóstico certero. A su vez, cada categoría se dividió en subcategorías acorde a los diagnósticos individuales más frecuentes reportados en la literatura médica. Como objetivo secundario, se analizaron individualmente los casos con VHS elevada por encima de 140 mm/h con el fin de evaluar si las etiologías en este subgrupo eran distintas.
+
+Para el objetivo primario de estimar la frecuencia de cada causa de VHS, se realizó en cálculo de muestra para lograr 33% de causas infecciosas según publicaciones previas10. Considerando un nivel de confianza de 95% y considerando un intervalo de confianza esperado entre 30 y 36% se requirió incluir 730 pacientes. Considerando que hasta 30% de los pacientes podrían tener HCE incompleta, se decidió revisar 940 historias. El cálculo de muestra se realizó utilizando el software Power and Precision versión 4.1.
+
+Las variables cuantitativas se reportaron como mediana y respectivo rango intercuartil (RIC), mientras que las categóricas se reportaron como proporciones. El análisis estadístico se realizó con el software STATA versión 14.
+
+Figura 1 Diagrama de flujo. HCE: Historia clínica electrónica. 
+
+Resultados
+
+Durante el período evaluado se registraron 3.495 pacientes mayores de 18 años con VHS mayor a 100 mm/h. Se realizó un muestreo aleatorio de 940 registros cuyas HCE fueron revisadas. Se excluyeron 61 pacientes por presentar la HCE incompleta, por lo que se analizaron finalmente 879 registros.
+
+La Tabla 1 muestra las características demográficas y clínicas basales de los pacientes incluidos. La mediana de edad fue de 69 años (RIC 55-79), la mayor parte de los pacientes eran mujeres (57,1%) y la mayoría de las determinaciones de VHS se solicitaron de forma ambulatoria. La mediana de los valores de VHS fue 111 mm/h (RIC 105-120). De los pacientes con VHS elevada, 109 (12,4%) pacientes tenían registrado al menos una medición de PCR. La mediana de los valores de PCR fue de 68 mg/L (RIC 21,5-152).
+
+Tabla 1 Características socio-demográficas de la población 
+
+(1)Mediana (rango intercuartil).
+
+La etiología más frecuente de VHS extremadamente elevada fueron las enfermedades infecciosas (41,6%), seguidas de malignidad (21,6%) y enfermedades autoinmunes/inflamatorias (12,9%) (Tabla 2). En los pacientes internados, las enfermedades infecciosas persistieron como el diagnóstico más frecuente. Sin embargo, en pacientes ambulatorios se observó más frecuentemente la etiología maligna. En ambos géneros, la causa más frecuente fueron las enfermedades infecciosas. En las mujeres, la segunda causa en frecuencia fue tanto la etiología autoinmune o inflamatoria como la malignidad. En cambio, en los hombres la segunda causa en frecuencia fue exclusivamente la malignidad (Tabla 2). De todas las causas, el diagnóstico más frecuente fue el de neumonía (11,4%), seguido por causa indeterminada (5,9%) (Tabla 3).
+
+Tabla 2 Diagnósticos más frecuentes agrupados por categoría 
+
+Tabla 3 Diagnósticos más frecuentes por causas individuales 
+
+RMR: polimialgia reumática
+
+Clasificando a los diagnósticos según grupo etario (Tabla 4), se observó que en mayores de 40 años el diagnóstico más frecuente fueron las enfermedades infecciosas, seguido por malignidad y enfermedades autoinmunes o inflamatorias respetando el orden observado en la población general. En cambio, en los pacientes entre 18 y 40 años, si bien el diagnóstico más frecuente también fueron las infecciosas, la segunda causa fue la autoinmune o inflamatoria y la etiología maligna ocupó el tercer lugar.
+
+Tabla 4 Diagnósticos según grupo etario 
+
+La Tabla 5 muestra específicamente las causas infecciosas de VHS extremadamente elevada. De éstas, el diagnóstico de neumonía fue el más frecuente (27,5%).
+
+Tabla 5 Causas infecciosas de VHS elevada 
+
+Criptocosis; diverticulitis; empiema por actinomicosis; bronquitis aguda; empiema pleural con fístula pleuro-cutánea; infección aguda por virus de hepatitis B; quiste pancreático infectado; mediastinitis y paludismo. Se registró un solo caso de cada una de estas etiologías.
+
+(1)De las artritis sépticas dos casos ocurrieron en prótesis de cadera.
+
+(2)Uno de los casos presentó diagnóstico concomitante de neumonía intrahospitalaria e infección a piel y tejidos blandos.
+
+Se hallaron 16 pacientes (1,8%) con VHS mayor o igual a 140 mm/h. El 56,2% de dichos pacientes se encontraba internado al momento del resultado; a diferencia de la población total, la causa más frecuente de VHS mayor o igual a 140 mm/h fue la de malignidad (43,7%) superando a la etiología infecciosa (Material suplementario Tabla 1 y 2).
+
+Discusión
+
+En el presente estudio, hemos descrito las causas más frecuentes de VHS extremadamente elevada en una población de pacientes adultos, tanto del ámbito hospitalario como ambulatorio. Reportamos como principal causa las enfermedades infecciosas, seguidas de malignidad y enfermedades inflamatorias/autoinmunes. En 5,9% de los pacientes, y luego de una serie de estudios diagnósticos, la causa permaneció como indeterminada.
+
+La VHS es un test de laboratorio frecuentemente utilizado en la práctica clínica como indicador de reactante de fase aguda1,2. Se han publicado varios estudios en lo referente a etiologías de este hallazgo; sin embargo, la mayoría datan de al menos 10 años y corresponden a otros medios epidemiológicos. Esto, sin duda presenta una limitación a la hora de comparar nuestros resultados con los de otros estudios. A pesar de que en los últimos años han ganado protagonismo otros test diagnósticos como el uso de la procalcitonina o PCR en la evaluación de estados inflamatorios, la VHS continúa siendo un estudio frecuentemente utilizado en la práctica clínica actual. Su bajo costo y uso difundido lo hace un estudio relativamente fácil de realizar en distintos centros.
+
+Si bien en comparación con la literatura médica existente, la población de este estudio puede diferir (menor proporción de población afro-americana, por ejemplo)10, algunos hallazgos son concordantes con los estudios previos. En las series de Fincher y cols.10, y Yousuf y cols.1, la causa más frecuente de VHS extremadamente elevada también fue las enfermedades infecciosas. Si bien un estudio realizado en Sudáfrica encontró resultados similares, se reportó un elevado aislamiento de M. tuberculosis2, lo cual probablemente se deba a una alta prevalencia de pacientes con virus de la inmunodeficiencia humana (VIH), lo que no sucede en nuestra población. Encontramos en nuestro estudio un número elevado de pacientes mayores de 65 años. Este dato difiere de estudios publicados previamente en los que la edad media de la población es menor (Severini y cols.11 y Yousuf y cols.1); probablemente esto se deba a que la población consultante que predomina en nuestro centro es añosa.
+
+El presente estudio cuenta con una serie de limitaciones. En primer lugar, se trata de un análisis de bases de datos secundarias con una potencial amenaza a la validez de las mediciones. Sin embargo, el sistema informatizado de la historia clínica y la posibilidad de contar con registros completos probablemente hayan disminuido este riesgo. En segundo lugar, se trata de un estudio realizado en un centro de alta complejidad y de pacientes del ámbito privado, pudiendo representar esto una amenaza a la validez externa. Por otro lado, la población del presente estudio difiere en ciertas características con estudios previos, por ejemplo, por la baja prevalencia de población afro-americana en nuestro medio. Sin embargo, la población del hospital se conforma por pacientes del plan de salud del HIBA y obras sociales (cobertura médica destinada a trabajadores) de todo el país. Si bien el hospital corresponde al ámbito privado, al ser centro de derivación de todo el país, representa una mayor heterogeneidad de pacientes haciendo los resultados más generalizables. Por último, dado que se trata de un estudio esencialmente descriptivo de diagnósticos asociados a un parámetro de laboratorio, es probable que no tenga un impacto directo en las conductas clínicas habituales. Sin embargo, los hallazgos reportados pueden constituir una herramienta adicional para la interpretación de los pacientes con esta característica en su laboratorio.
+
+A su vez, este estudio presenta diversas fortalezas. En primer lugar, en comparación con otras series, este estudio ha incluido un conjunto numeroso de pacientes cercano a los mil sujetos. En segundo lugar, hemos podido sub-clasificar las causas bajo distintos criterios: ambulatorios versus internados, por grupo etario y género. Es de destacar que, por ejemplo, en pacientes ambulatorios, la causa más frecuente de VHS elevada ha sido la etiología maligna, o bien, en mujeres las causas autoinmunes y malignidad compartieron el segundo puesto. En tercer lugar, este estudio pone de manifiesto cómo a partir de una idea sencilla y en un ámbito de formación académica como una residencia, se puede lograr realizar un trabajo de investigación que aporte nuevos conocimientos al campo de la medicina interna.
+
+En conclusión, presentamos los hallazgos de las causas más frecuentes de VHS elevada en una población numerosa de adultos en un hospital de alta complejidad. Si bien globalmente la causa más frecuente fue las enfermedades infecciosas, los diagnósticos pueden variar según se trate de pacientes ambulatorios, internados o dependiendo del género y grupo etario. Esta información puede ser de utilidad para numerosos médicos que utilizan habitualmente esta prueba de laboratorio tan difundida.
+
+Establecimiento donde se realizó el trabajo: Hospital Italiano de Buenos Aires. Los autores declaran no tener conflictos de interés.
+
+El trabajo ha sido realizado por un grupo de residentes del Hospital Italiano de Buenos Aires sin financiamiento económico.

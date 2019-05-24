@@ -1,0 +1,144 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182014000600005
+Evaluación de un sistema automatizado de siembra de orinas para urocultivos
+
+Resumen
+
+Introducción: Los sistemas automatizados han facilitado el flujo de trabajo, mejorado la estandarización, la trazabilidad, disminuido el error humano y la carga de trabajo en los laboratorios. A pesar de que la microbiología ha permanecido poco automatizada, en los últimos años han aparecido nuevas herramientas para la automatización de la etapa pre analítica. Objetivos: Evaluar el desempeño de un sistema automatizado de siembra de urocultivos y la concordancia con la siembra manual convencional en el recuento semicuantitativo de colonias. Materiales y Métodos: 495 muestras de orinas fueron sembradas según nuestro protocolo habitual y comparadas con las placas de CPS® obtenidas con PREVI™ Isola en cuanto a positividad/negatividad, muestras polimicrobianas, especies de bacterias aisladas, recuentos y necesidad de resembrar. Resultados: Hubo concordancia en 98,97% de los positivos y negativos, en 99,39% de las muestras polimicrobianas, en 99,76% de las especies aisladas y en 98,56% de los recuentos. La necesidad de resiembra disminuyo de 12,1% a un 1,1% usando este sistema automatizado. Discusión: El desempeño de PREVI™ Isola fue el esperado, mejorando el aislamiento bacteriano y el tiempo requerido y representa una buena herramienta para la automatización de laboratorios.
+
+Palabras clave: Urocultivo, siembra, automatización, Previ Isola, microbiología.
+
+ 
+
+Introducción
+
+La automatización de los laboratorios nació como una solución a la sobrecarga de trabajo producida por una creciente solicitud de exámenes médicos1. Los beneficios de la incorporación de nuevas tecnologías en los procesos han sido muchos; aumentar la productividad, disminuir los costos, mejorar la estandarización, la reproducibilidad y la trazabilidad a través de la conexión a sistemas informáticos. Esto ha contribuido a tener un sistema más eficiente y seguro para el paciente1. El concepto de automatización ha ido evolucionando y actualmente pretende integrar las distintas áreas de trabajo bajo el concepto de "Total LaboratoryAutomatiori"2. El objetivo final es lograr la comunicación entre los distintos sistemas de automatización, de manera de potenciar los beneficios de cada sistema mediante la integración.
+
+Los laboratorios de microbiología han experimentado un aumento similar en la carga de trabajo al resto de las áreas de laboratorio pero, dada su complejidad, el desarrollo e incorporación de nuevas tecnologías han sido más lentos2-4. Se sabe que la etapa pre analítica ocupa una parte importante de la carga de trabajo, la inoculación de las muestras en placas de agar consume el 25% del tiempo del personal dedicado a la recepción y procesamiento inicial de las muestras5. Actualmente existen equipos con distintos grados de automatización
+
+para la siembra de muestras que se comunican con el sistema informático, seleccionan los medios de cultivo, inoculan, siembran, y etiquetan las placas obtenidas. Sistemas como WASP® (Walk Away Specimen Processor) de Copan Diagnostics, InoqulA™ de BD Kiestra™ y PREVI™ Isola de BioMerieux permiten usar distintos tipos de muestras, utilizan diferentes metodologías de siembra. Han demostrado que son más reproducibles que la siembra manual, que permiten obtener un mayor número de colonias aisladas y además disminuyen la carga de trabajo2,5-8. La elección del sistema va a depender de los requerimientos de cada laboratorio, tipo y número de muestras procesadas, compatibilidad con el sistema informático, entre otros5,9.
+
+En nuestro país no se ha evaluado la implementación de estos sistemas pre analíticos en el área de microbiología, por lo que el objetivo de este trabajo es evaluar el desempeño de un sistema automatizado de siembra de urocultivos y la concordancia con la siembra manual convencional en el recuento semicuantitativo de colonias.
+
+Materiales y Métodos
+
+Se realizó una comparación de manera prospectiva entre las placas de urocultivo obtenidas por nuestro método habitual de siembra y las obtenidas por el sistema PREVI™ Isola, de bioMerieux. Durante 10 días se recolectaron orinas seleccionadas al azar, provenientes desde las tomas de muestra ambulatoria al laboratorio de microbiología del Departamento de Laboratorios Clínicos de la Red de Salud UC. La toma de muestra fue realizada en frasco estéril sin preservante.
+
+A diario se realizó la siembra de las orinas recolectadas, según el protocolo habitual del laboratorio, que consiste de la siembra de 1 μL con asa calibrada en una biplaca de agar chromID®CPS®/Columbia CNA + 5% de sangre de cordero según recomendaciones del Cumitech de siembra con dos medios de cultivo12. CPS® es un medio cromogénico selectivo que permite la identificación rápida de Escherichia coli, Proteus spp, Enterococcus spp, Klebsiella, Enterobacter, Serratia y Citrobacter, mientras el medio Columbia CNA es un medio selectivo para fastidiosos, que permite además la detección de hemolisis. En paralelo se sembró en una placa de agar chromID™ CPS® con el sistema automatizado de pipeta y cepillo de PREVI™ Isola, que mediante comunicación con el sistema informático selecciona las placas, inocula 10 μL con una pipeta, esparce con una peineta y etiqueta las placas obtenidas. El número de muestras procesadas alcanza las 180 placas/h según lo reportado por el fabricante. Se usó medios diferentes con ambos sistemas debido a que el equipo siembra 10 μΕ de muestra, no permite siembra de biplacas con 1 μL como se hace de manera habitual y además no existe una lectura semi cuantitativa validada para este tipo de placas, pero sí para las de agar CPS®. Las placas se incubaron durante 18 h a 35°C. Al día siguiente fueron ingresadas a la rutina del laboratorio y evaluadas en conjunto con el sedimento u orina completa, en los casos en que éste se había solicitado.
+
+Recuento e identificación de las colonias en los urocultivos
+
+• Recuento método manual: el recuento de colonias en las biplacas de siembra manual se realiza multiplicando el N° de colonias obtenidas por cien.
+
+• Recuento sistema automatizado: distintos autores han validado una lectura del recuento de colonias para PREVI™ Isola, dado que el volumen y el método de siembra es diferente1,7,10. Esta se realiza en base al número de cuadrantes con desarrollo de colonias, como se observa en la Figura 1. Los rangos obtenidos con esta metodología son: < 10.000 ufc/ml, 10.000 a 50.000 ufc/ml, 50.000-100.000 ufc/ml y > 100.000 ufc/ml.
+
+ 
+
+
+
+Figura 1. Siembra obtenida y recuento para placas sembradas con PREVI™          Isola. El recuento semi cuantitativo se realiza dividiendo la placa en ocho          zonas y observando las áreas con crecimiento de colonias. La zona de          inoculación corresponde a la línea entre las áreas 8 y 1, a partir del          cual se distribuye la muestra. La interpretación del recuento semi cuantitativo          se realiza observando hasta que zona hubo desarrollo de colonias, en el          ejemplo de la foto el crecimiento correspondía a > 1 00.000 ufc/mL.
+
+ 
+
+• Identificación de especie: se realizó con el sistema habitual del laboratorio, que consiste en el uso de espectrometría de masa, MALDI-TOF MS (Bruker Daltonics, Bremen, Alemania).
+
+Interpretación de resultados de los urocultivos
+
+Independiente del método de siembra utilizado, cuando una muestra es obtenida por segunda micción, recolector o sonda a permanencia, se considera según las recomendaciones internacionales12:
+
+Urocultivo positivo : el hallazgo de un microorganismo en un recuento ≥ 10.000 ufc/mL con un sedimento urinario con al menos 10 leucocitos/uL o el hallazgo de dos microorganismos en que alguno de ellos presente un predominio claro con un recuento ≥ 100.000 con al menos 10 leucocitos/uL.
+
+Urocultivo negativo: todo recuento menor a 10.000 ufc/mL.
+
+Muestras polimicrobianas: la presencia de tres o más microorganismos, independiente del número de leucocitos.
+
+Frente al caso de obtener un recuento significativo (> 10.000 ufc/ml) sin colonias aisladas, se realiza una resiembra del cultivo para obtener colonias aisladas y realizar un estudio de identificación y susceptibilidad confiables.
+
+Comparación de resultados
+
+Para el análisis estadístico y la evaluación de la concordancia entre ambos métodos se utilizó el programa ©2013 GraphPad Software (GraphPad QuickCalcs). Se obtuvo el porcentaje de concordancias observadas y el valor de Kappa (κ) para evaluar la concordancia entre: resultados negativos y positivos; entre muestras polimicrobianas y no polimicrobianas; entre los tres resultados (positivos, negativos y muestras polimicrobianas); y entre rango de recuentos. El porcentaje de concordancias observadas corresponde a:
+
+(N° concordancias observadas/N° resultados) x 100
+
+Para kappa (κ) se estableció como meta un valor > 0,81, es decir, una concordancia casi perfecta en todos los cálculos11-13. Este autor propone para la interpretación de kappa seis rangos, que se observan en la Tabla 1, en que el nivel más alto de concordancia es el de la concordancia casi perfecta.
+
+ 
+
+Tabla 1. Rangos para interpretación de Kappa          usados para la comparación de resultados          obtenidos con ambos sistemas de siembra
+
+
+
+ 
+
+Los resultados esperados para las comparaciones fueron:
+
+- Recuento de colonias: porcentaje de concordancias observadas ≥ 90%, tanto en urocultivos considerados positivos (10.000-100.000 ufc/ml), como negativos.
+
+- Muestras polimicrobianas: porcentaje de concordancias observadas ≥ 98%, definidos como la presencia de tres o más microorganismos:
+
+- Microorganismos recuperados: porcentaje de concordancias observadas ≥ 98% (recuperación de las mismas especies).
+
+- Necesidad de resiembra desde la placa: disminución de la necesidad de resiembra para obtener colonias aisladas y poder realizar una adecuada identificación y susceptibilidad a los antimicrobianos. El análisis estadístico de la comparación entre ambos métodos se realizó mediante test de X2.
+
+En el caso de muestras discordantes (para resultados positivos, negativos o muestras polimicrobianas) se consideró el resultado del sedimento urinario en el análisis.
+
+Resultados
+
+Se obtuvieron 495 orinas provenientes de segunda micción, recolector y cateterismo vesical. De este total, 18,4% (n: 91) fueron positivas, 2% (n: 10) fueron muestras polimicrobianas y 394 (n: 79,6%) fueron negativas. De los urocultivos positivos, 84,6% (77/91) presentaron recuentos altos (> 100.000 ufc/mL) y 15,4% (14/91) presentaron recuento entre 10.000 y 100.000 ufc/mL.
+
+Los microrganismos identificados en los urocultivos positivos fueron: E. coli en 69 muestras (75,8%), Klebsiella pneumoniae en 7 (7,7%), Enterococcus faecalis en 7 (7,7%), Streptococcus agalactiae en 5 (5,5%), Proteus mirabilis en 2 (2,2%) y Comamonas spp en una muestra (1,1%).
+
+La comparación entre ambos sistemas de siembra se observa en la Tabla 2. Del total de 495 muestras analizadas, 490 fueron concordantes en resultados positivos, negativos y muestras polimicrobianas (98,99%). Esto corresponde a una correlación casi perfecta, con un valor de κ de 0,969, IC 95% 0,943-0,996 y valor-p de 0,013.
+
+ 
+
+Tabla 2. Comparación de los resultados obtenidos con siembra       convencional y PREVI™ Isola
+
+
+
+ 
+
+Considerando sólo los urocultivos positivos y negativos (Tabla 3), el porcentaje de resultados concordante también es casi perfecto (483/485 = 99,59%) con un κ de 0,986, IC 95% 0,967-1,005 y valor-p 0,010. Del mismo modo, la concordancia entre urocultivos con y sin muestras polimicrobianas (Tabla 4) fue de 99, 39% (492/495), con un valor κ casi perfecto, pero menor que en los resultados anteriores, esto es, 0,821, IC 95% 0,6211,020 y valor p de 0,102.
+
+ 
+
+Tabla 3. Comparación de los resultados obtenidos con siembra          convencional y PREVI™ Isola en el subgrupo de los positivos y negativos
+
+
+
+ 
+
+Tabla 4. Comparación de los resultados obtenidos con siembra          convencional y PREVI™ Isola, para el subgrupo de las muestras polimicrobianas
+
+
+
+ 
+
+Adicionalmente se calculó la concordancia entre el recuento obtenido por el método de siembra convencional y los rangos obtenidos por la siembra automatizada (Tabla 5) en aquellos urocultivos positivos y negativos (n: 485). Se obtuvo una concordancia de 98,97% (480/485) con un valor de κ de 0,967; IC 0,939-0,995 y valor-p de 0,014. Todos los urocultivos negativos (394/394) y 98,7% (76/77) de los urocultivos positivos con recuentos > 100.00 ufc/mL fueron concordantes. Entre los urocultivos con recuentos entre 10.000 y 100.000 (n: 15) hubo 10 concordancias. Las muestras con recuentos discordantes se muestran en la Tabla 6, donde se observa que la siembra manual obtiene recuentos más altos que la siembra automatizada, resultando dos muestras negativas por el método automatizado y con bajo recuento en el sistema convencional. Esta Tabla muestra también los resultados de los sedimentos urinarios, en caso de encontrarse disponibles. Hubo dos muestras (muestra N° 3 y N° 5) que hubiesen sido informados como negativas por PREVI™ Isola en las que no se disponía de sedimento urinario. En el caso de las muestras N° 1 y N° 2 destaca que en ambos casos el recuento de leucocitos y la presencia de bacterias en el sedimento urinario fue escaso, correspondiendo en ambos a E. faecalis. El caso N° 4, también presentó al sedimento un escaso número de bacterias, pero abundantes leucocitos.
+
+ 
+
+Tabla 5. Comparación de los recuentos obtenidos con siembra convencional          y PREVI™ Isola. Se categorizaron los recuentos convencionales para poder     tabular y comparar los datos obtenidos con ambos métodos
+
+
+
+ 
+
+Tabla 6. Descripción de las discordancias observadas en los recuentos
+
+
+
+ 
+
+En cuanto a los microorganismos aislados, en 90 de 91 (99,76%) hubo coincidencia en los microorganismos. La discordancia fue en una muestra en que se obtuvo E. coli y S. aureus, ambos en un recuento de > 100.000/ ml ufc, por el método convencional, mientras que por el método automatizado sólo hubo desarrollo de E. coli en > 100.000 ufc/ml.
+
+El número de resiembras que fue necesario realizar para obtener colonias aisladas fue significativamente menor en el sistema automatizado (1/91) en comparación con el método convencional (11/91), lo que corresponde a 1,1 y 12,1% respectivamente.
+
+Discusión
+
+Este trabajo muestra la primera evaluación de un sistema automatizado para la siembra de muestras microbiológicas en Chile. Este sistema permite la siembra de distintas muestras líquidas en placas de agar, pero dado que en nuestro laboratorio la principal carga de trabajo son los urocultivos se decidió evaluar solamente estas muestras. Los resultados obtenidos reflejan una excelente concordancia entre el sistema de siembra manual y el automatizado en términos de resultados positivos de los urocultivos y sus recuentos, resultados negativos y muestras polimicrobianas. Además de las ventajas previamente descritas en la introducción, este sistema permite disminuir en forma significativa las resiembras para obtener colonias aisladas, con lo que disminuye el tiempo de entrega de los resultados y el costo asociado a la re-siembra; sin embargo, dado que los laboratorios de microbiología de Chile siembran más de una muestra de orina por placa y en este estudio se ocupa una placa por paciente pues el equipo no permite hacerlo de otra forma, se debe considerar el aumento en el consumo de medios de cultivos.
+
+En las discordancias entre recuentos es importante destacar que éstas se presentan con recuentos bajos de N° de colonias y, en los casos en que se dispuso de sedimento, se confirmó una escasa cantidad de bacterias y leucocitos, con excepción de la muestra N° 4, en que probablemente la diferencia en el recuento no hubiese cambiado la conducta médica.
+
+Una limitación del estudio es las diferencias en los medios de cultivo utilizados con ambos métodos. Sin embargo, se obtuvo una alta concordancia en los parámetros evaluados, salvo en una muestra en que además de E. coli se recuperó S. aureus en el medio con agar Columbia CNA + 5% de sangre de cordero. Dado que ambos métodos obtienen resultados comparables utilizando sólo un medio CPS®, el uso de sólo este medio podría representar una buena alternativa de siembra con una disminución de los costos, lo que debe ser evaluado en el futuro.
+
+En este estudio no se evaluaron algunos potenciales beneficios del uso de un sistema automatizado como son la disminución del tiempo necesario para la siembra que sí ha sido evaluado en otros estudios1,10, lo que sería de cercano a 20%. Otro beneficio que ofrecería la implementación de un sistema automatizado es la disminución del error asociado a la identificación de las muestras y mejorar la estandarización. Estos elementos y la alta concordancia obtenida entre los dos sistemas de siembra, asociado a una menor necesidad de resiembra, nos indica que el sistema automatizado PREVI™ Isola representa una buena alternativa para la automatización de las siembras de orina.

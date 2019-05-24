@@ -1,0 +1,88 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000500002
+Detección de virus parainfluenza en pacientes inmunocomprometidos e inmunocompetentes atendidos en un hospital terciario de la Ciudad de São Paulo, Brasil
+
+Resumen
+
+Se evaluó la infección por virus parainfluenza (VPI) en pacientes con infecciones leves y graves mediante RPC en tiempo real. Se analizó un total de 1.067 muestras: 233 provenían de pacientes ambulatorios adultos receptores de trasplantes renales, 129 de niños con cardiopatía congénita, 381 de pacientes receptores de trasplantes de precursores hematopoyéticos adultos y 324 de pacientes hospitalizados con sospecha de influenza A (H1N1) pdm09. Se detectó VPI en 74 muestras (6,9%). Siendo VPI-3 el virus más frecuente (60,8%), se observó un mayor riesgo para los adultos mayores (p = 0,018) y para aquellos que fueron receptores de precursores hematopoyéticos. Son necesarios estudios adicionales para entender el papel del VPI en pacientes de riesgo para desarrollar enfermedad grave.
+
+Palabras clave: Virus parainfluenza, RPC-TR en tiempo real, infección viral, pacientes inmunocomprometidos.
+
+ 
+
+Introducción
+
+El virus parainfluenza (VPI) es un agente prevalente de infecciones respiratorias y se clasifica en cuatro tipos1. Este virus es una causa importante de morbilidad en pacientes inmunocomprometidos, pacientes con co-morbilidades previas y en pacientes pediátricos. Los brotes de VPI son comunes en escuelas y unidades de trasplante de precursores hematopoyéticos (TPH)2-4.
+
+Después de la aparición de la gripe A (H1N1) pdm09, el número de hospitalizaciones por infecciones respiratorias aumentó drásticamente; los datos indican que otros tipos de virus podrían ser agentes causales de estas complicaciones respiratorias graves en pacientes hospitalizados5,6.
+
+Este estudio tiene como objetivo evaluar la detección de los cuatro tipos de VPI en pacientes ambulatorios receptores de trasplantes de riñón, niños con co-morbili-dades y adultos hospitalizados con infección respiratoria aguda grave (IRAG), todos ellos atendidos en hospitales terciarios de la ciudad de São Paulo, Brasil.
+
+Pacientes y Métodos
+
+Este estudio se realizó de forma retrospectiva en el Hospital São Paulo de la Universidad Federal de São Paulo durante los años 2002 a 2012. Se obtuvo un total de 1.067 muestras provenientes de cuatro grupos de pacientes con síntomas respiratorios graves o leves:
+
+• 233 pacientes ambulatorios adultos receptores de trasplante de riñón (TR).     • 129 niños ambulatorios con enfermedad cardíaca congénita (ECC).     • 381 pacientes hospitalizados adultos receptores de trasplante de precursores hematopoyéticos (TPH).     • 324 pacientes hospitalizados con sospecha de gripe A (H1N1) pdm09, en este grupo se dividieron en niños ≤ 12 años de edad 36% (116/324) y adultos o > 12 años 53% (173/324).
+
+Los criterios de inclusión fueron la presencia de probable enfermedad respiratoria de etiología viral, hasta 7 días del inicio de los síntomas y la sospecha de H1N1 grave con diagnóstico clínico de IRAG. Se obtuvo datos demográficos, epidemiológicos y clínicos (tos, coriza, faringodinia/odinofagia, estornudos, mialgia, escalofríos, dolor de cabeza y fiebre). Todos los procedimientos realizados tuvieron la aprobación del Comité de Ética (CEP 0981/2010) del Hospital São Paulo y todos los pacientes dieron su consentimiento informado.
+
+La toma de muestra fue realizada por lavado nasal o hisopado; todas las muestras fueron transportadas al Laboratorio de Virología Clínica y refrigeradas a una temperatura de 4 °C para el posterior análisis de virus respiratorios. Las muestras fueron procesadas utilizando protocolos publicados anteriormente7.
+
+La RT-qPCR (RPC en tiempo real) para los cuatro tipos de VPI se realizó utilizando partidores específicos descritos por van de Pol, 20078; para el VPI-3 se utilizó partidores y sondas específicas para este de acuerdo a Kim, 20119. Las curvas estándares específicas para determinar el límite de detección se llevó a cabo mediante la clonación de los productos de VPI RPC usando kit comercial (TOPO PCR Cloning, Life Technologies, Carlsbad, USA®). Los valores de Ct £ 37 para el control endógeno (RNasa P) y £ 39 fueron considerados como positivo; este criterio se utilizó para los cuatro tipos de VPI. La técnica para la detección de VPI se realizó en un solo paso, siguiendo el protocolo recomendado para el kit comercial AgPath ID One Step RT-PCR (Life Technologies®, Carlsbad, E.U.A.).
+
+Las muestras obtenidas de los pacientes hospitalizados con sospecha de infección por H1N1 se analizaron de acuerdo con el protocolo descrito anteriormente23. También fueron analizados otros virus respiratorios: metapneumovirus (MPVh), adenovirus (ADV), y rinovirus (RVH)5.
+
+Para el análisis estadístico se utilizó variables categóricas el test de χ2 y el test exacto de Fisher. Se utilizó además la prueba de Levene que es una prueba estadística inferencial utilizada para evaluar la igualdad de las varianzas para una variable calculada para dos o más grupos. El programa utilizado para los análisis estadísticos fue el OpenEpi versión 2.3.1. Para todas las pruebas se consideró un valor de 5% (p < 0,05) como significativo.
+
+Resultados
+
+El VPI fue detectado durante los dos años que duró el estudio, en especial en otoño. De las 1.067 muestras analizadas, 70% (710/1015) eran adultos y 52,2% (530) de sexo masculino, la edad media de los adultos fue de 42 años (mediana 41, rango 13-91 años), y la edad media de los niños fue de 3 años (mediana de 1, rango 1-12 años).
+
+El VPI se detectó en 6,9% (74/1067) de las muestras y VPI-3 en 4,2% (45/1067).
+
+La Tabla 1 muestra la frecuencia de VPI (p = 0,341) y la distribución de edad de los cuatro grupos estudiados (p = 0,081). La comparación de VPI entre los pacientes con TPH y TR arrojó una diferencia estadística significativa de 7,9% (30/381) y 4,3% (10/233), respectivamente (p < 0,005).
+
+ 
+
+Tabla 1. Detección de VPI entre los cuatro grupos de pacientes          con síntomas respiratorios graves o leves estudiados (n: 1.067)
+
+
+
+ 
+
+La comparación entre los adultos hospitalizados con sospecha de infección por H1N1 (en ausencia de condiciones inmunosupresores conocidas) fue de 4,6% (7/151) y pacientes con TR o TPH (inmunocomprometidos) de 6,5% (40/616); no se observó diferencias estadísticamente significativas respecto de las muestras positivas obtenidas para VPI (p = 0,506). El análisis de la edad realizado con la prueba de Levene en cada uno de estos grupos mostró una tendencia (p = 0,068), donde el VPI se observó principalmente en el intervalo de edad entre 13-29 años para los individuos inmunocompetentes y el intervalo de 40-60 años para los inmunosuprimidos.
+
+De los 324 pacientes con sospecha de infección por H1N1, 25 pacientes (7,7%) presentaron muestras positivas para el VPI, siendo 18 (10,3%) niños y 7 (6,1%) adultos; esta diferencia no fue estadísticamente significativa (p = 0,296). En este grupo de pacientes el virus influenza (A H1N1 de 2009, H3N2 y B) fue detectado en 23% de las muestras.
+
+En el análisis de las infecciones por VPI en niños (edad media de tres años, con una mediana de un año) la tasa de positividad fue de 10,4% (18/173) para niños hospitalizados con sospecha de infección por H1N1 (sin co-morbilidades) y 7,0% (9/129) para los niños con cardiopatía coronaria (p = 0,407).
+
+VPI-3 fue la infección más detectada, con mayor porcentaje (72,3%) en adultos en comparación con los niños (40,7%) (p = 0,056). La media y la mediana de edad de VPI-1 fue de 18 y 5 años; para VPI-2 fue de 29 y 15 años; para VPI-3 de 34 y 38 y para VPI-4 de 14 y 5 años.
+
+El análisis de la variación entre los grupos de edad y tipos de VPI mostró una asociación significativa entre el tipo de VPI y la edad (p = 0,018), un mayor porcentaje (35,6%) de ocurrencias de se observó para VPI-3 en adultos con edades entre 40 y 60 años en comparación con los otros grupos de edad (Figura 1).
+
+ 
+
+
+
+Figura 1. Intervalos de edad en pacientes con los cuatro tipos de virus parainfluenza (VPI).
+
+ 
+
+La tasa de detección de más de un virus respiratorio fue de 32,4% (24/74), siendo rinovirus humano, virus de la gripe estacional humana y adenovirus los que muestran las tasas más altas. No existe asociación entre la detección de los tipos de VPI y la detección concomitante de otros virus respiratorios (p = 0,071).
+
+Discusión
+
+Después de la pandemia de (H1N1) pdm09, la vigilancia de los casos de síndrome respiratorio aumentó considerablemente, y la demanda de servicios de diagnóstico contribuyó en el aumento de la detección de VPI en pacientes inmunocompetentes e inmunocomprometidos5. La tasa de detección de VPI en el presente estudio fue de 6,9%; otros estudios realizados en Brasil mostraron una tasa de positividad de 3,3% a 10,3%10,11. Estas diferencias observadas en la tasa de detección se debe quizás, al tipo de pacientes (niños hospitalizados o pacientes adultos con trasplante de precursores hematopoyéticos) y las metodologías utilizadas en los otros estudios (inmunofluorescencia y cultivo de células) que poseen una menor sensibilidad en comparación con la RPC en tiempo real12.
+
+Se observó que el VPI circula principalmente entre otoño y primavera, con pocos casos detectados en verano. Este patrón también se observó en un estudio realizado en otra ciudad del Estado de São Paulo13. A pesar de la mayor circulación en otoño (marzo-junio) y en invierno (junio-septiembre), no se observó un patrón estacional específico lo que podría influir de alguna manera en el diagnóstico. La positividad entre los grupos fue similar, excepto para el grupo de adultos receptores de trasplante de riñón (4,3%). Estos resultados son discordantes con el estudio de Lo y cols., año 201314, que describe a los pacientes adultos con trasplante de precursores hema-topoyéticos como el principal grupo de riesgo entre los pacientes inmunocomprometidos.
+
+Puesto que los niños son más vulnerables a las infecciones respiratorias que los adultos sanos15, esto podría haber influido en la segunda mayor tasa de positividad 7,7% (25/324) obtenido para los pacientes hospitalizados con sospecha de gripe A (H1N1) pdm09. Las muestras positivas se detectaron principalmente en los niños 72,0% (18/25), con una edad promedio de dos años 94,4% (17/18). Otro estudio realizado por Comach y cols., en el año 201216 en Venezuela, con pacientes tratados por el síndrome respiratorio agudo grave, encontró que los niños bajo cinco años de edad presentan más positividad para el VPI que niños mayores.
+
+Durante la pandemia y el período inmediato post pandemia de los años 2009 y 2010, se detectó VPI en 7,7% (25/324) de los pacientes que no presentaron condiciones pre-existentes y que fueron hospitalizados con IRAG. En otros estudios, la frecuencia de los casos graves de VPI varió de 3,8% (3/79) a 36,0% (36/100). No se encontró asociación estadística para estos grupos de individuos inmunocompetentes, que tenían entre 13 y 29 años (p = 0,068). Aunque el hecho de que, durante la pandemia, los adultos más jóvenes presentaron mayor riesgo de desarrollar una infección más grave que la gripe A (H1N1) pdm09, una mayor tasa de hospitalización podría contribuir a la comprensión de las otras etiologías6.
+
+En el caso de pacientes inmunocomprometidos, no se encontró asociación entre los diferentes grupos de edad (p = 0,068), a pesar de la mayor incidencia entre los grupos de 40 a 60 años. Otros estudios mostraron asociación estadística entre este grupo de edad y la infección de virus respiratorios17.
+
+El VPI-3 fue el tipo más detectado (aunque no asociado estadísticamente), siendo similar a otros estudios. Una encuesta realizada por el MMinisterio de Salud de Brasil con datos de laboratorios de referencia para la vigilancia de los virus respiratorios, confirma los resultados del presente estudio, donde el VPI-3 fue el tipo más común, seguido del VPI-2 y el VPI-118. Una posibilidad para explicar la mayor frecuencia de VPI-3 fue la aparición de brotes durante el período del estudio; al respecto hay algunos informes en la literatura médica que describen los brotes en unidades de pacientes inmunocomprometidos19,20.
+
+Machado y cols., 200310 en Brasil, determinaron una positividad de 10% de VIP para pacientes receptores de trasplante de precursores hematopoyéticos, utilizando técnicas de inmunofluorescencia directa, pero no detectaron VPI-4. Miall y cols., en el año 201221 en Reino Unido, detectaron VPI-4 en un paciente de sexo masculino de 21 años después de un trasplante de precursores hematopoyéticos, diagnóstico que fue confirmado por técnicas moleculares. La detección de VPI-4 en el presente estudio indica la necesidad de aplicar pruebas de diagnóstico más sensibles para VPI-4. La técnica de RPC-TR es importante para la detección de los cuatro tipos de VPI, considerando los estudios que reportan solamente la detección de VPI-1, -2, y -3 ya que utilizan técnicas menos sensibles22.
+
+En conclusión, los datos obtenidos en el presente estudio demuestran una mayor tasa de detección de VPI-3 en todos los grupos, especialmente en los adultos mayores hospitalizados y aquellos bajo el programa de trasplante de precursores hematopoyéticos. Actualmente no hay terapias disponibles para el tratamiento de la infección por VPI y la prevención sigue siendo la mejor manera de tratar esta enfermedad. Se necesitan más estudios para comprender el papel de VPI en pacientes de riesgo que pueden desarrollar cuadros clínicos más graves.

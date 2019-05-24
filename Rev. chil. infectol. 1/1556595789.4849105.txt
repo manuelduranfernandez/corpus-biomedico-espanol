@@ -1,0 +1,190 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182011000500008
+Uso de cultivo cuantitativo de aspirado endotraqueal para el diagnóstico de neumonía asociada a ventilación mecánica en pediatría: estudio prospectivo, analítico
+
+Resumen
+
+Introducción: La neumonía asociada a ventilación mecánica (NAVM) presenta una importante dificultad en su diagnóstico ya que no existe un patrón de referencia. Objetivo: Evaluar el uso del recuento cuantitativo de aspirado endotraqueal como método diagnóstico de NAVM en pediatría, obteniendo puntos de cortes con una sensibilidad y especificidad aceptables. Materiales y Métodos: Estudio analítico, prospectivo, que incluyó pacientes bajo 15 años de edad, conectados a ventilación mecánica en unidades de cuidados intensivos del Hospital Luis Calvo Mackenna. Se clasificaron en casos y controles según criterios de NNIS. Resultados: Durante 21 meses se enrolaron 43 pacientes cuya edad promedio fue de 16 meses. Se tomaron muestras de aspirado endotraqueal para cultivos cuantitativos. Los principales microorganismos aislados fueron Staphylococcus aureus (34,5%) y bacilos gramnegativos no fermentadores (24,1%). Para las muestras con recuento mayor 106 ufc se obtuvo una sensibilidad de 88%, especificidad de 70%, VPP de 82% y VPN de 79%. Discusión: El cultivo cuantitativo de aspiración endotraqueal constituye un método diagnóstico confiable para NAVM en pediatría cuando se obtienen recuentos mayores a 106 ufc.
+
+Palabras clave: Neumonía, neumonía nosocomial, ventilación mecánica, aspirado endotraqueal.
+
+ 
+
+Introducción
+
+La neumonía asociada a ventilación mecánica (NAVM) es una complicación que ocurre en ~3 al 10% de los pacientes ventilados por más de 48 horas en UCI pediatricas1, con una incidencia adicional para cada día de ventilación mecánica de 1%2.
+
+El Sistema Nacional de Vigilancia de Infecciones Nosocomiales de E.U.A. (en inglés National Nosocomial Infection Surveillance System-NNIS) el año 2004 reportó una tasa de NAVM de 2,9/1.000 días de ventilación mecánica3. En Chile, la tasa promedio de NAVM en UCI pediátricas el año 2007 fue de 5/1.000 días de ventilación mecánica, y en el Hospital Luis Calvo Mackenna fue de 10,6/1.000 días de ventilación mecánica para el mismo año4.
+
+Su importancia radica en ser la infección intrahospita-laria más frecuente en pacientes sometidos a ventilación mecánica, causada en general por microorganismos resistentes a tratamientos antimicrobianos de primera línea5.
+
+Esta patología aumenta la morbilidad, mortalidad y prolonga significativamente la estadía hospitalaria5-7. La mortalidad atribuible a NAVM es difícil de cuantificar, pero se estima en la literatura internacional que aumenta la mortalidad sobre la condición de base del paciente en 30%7. De este modo, estrategias que busquen un diagnóstico preciso y un tratamiento antimicrobiano eficaz son metas de vital importancia para mejorar su pronóstico.
+
+Los criterios clínicos y radiológicos que se emplean para el diagnóstico de NAVM tienen una precisión limi-tada8. Esto se debe a que en pacientes críticos se presentan diversos diagnósticos diferenciales que son difíciles de descartar en un primer momento, como el síndrome de distrés respiratorio agudo, edema pulmonar o hemorragia pulmonar, entre otros. Esta limitación determina el sobrediagnóstico de NAVM y la exposición innecesaria a antimicrobianos, fomentando la aparición y aumento de resistencia antimicrobiana, además de una alteración significativa de la microbiota normal del paciente9.
+
+En contraste a esto, el inicio tardío o inadecuado de un tratamiento antimicrobiano aumenta en forma significativa la mortalidad hospitalaria7,10. Actualmente, se recomienda el inicio inmediato de tratamiento antimicrobiano de amplio espectro, en pacientes con neumonía grave (según normas actuales vigentes), previo toma de una muestra de secreción endotraqueal para cultivo y de esta forma, realizar terapias de "de-escalación".
+
+Esta consiste en el ajuste del tratamiento antimicrobiano según el informe microbiológico, lo que ha demostrado en múltiples estudios resultados satisfactorios en relación al pronóstico de este tipo de pacientes5,11.
+
+Para mejorar el diagnóstico de NAVM han surgido numerosas técnicas microbiológicas, ampliamente estudiadas en el paciente adulto2. La diversidad existente se explica por las limitaciones en sensibilidad y especificidad que tienen cada una de ellas y por la búsqueda de opciones no invasoras sobre aquellas que implican procedimientos invasores o semi-invasores.
+
+Dentro de las técnicas invasoras se encuentran la fibrobroncoscopia, utilizada mediante cepillo protegido y para lavado bronco-alveolar, y la biopsia pulmonar de uso escaso y restringido por sus potenciales complicaciones. Entre las técnicas no invasoras se cuenta tanto con la técnica de cepillo protegido y lavado bronco-alveolar aplicado en forma no invasora, es decir, a ciegas; el cultivo simple de aspirado endotraqueal y finalmente, el cultivo cuantitativo de aspirado endotraqueal.
+
+Hoy en día se reconoce en la literatura científica la ausencia de un patrón de referencia (estándar de oro) para el diagnóstico de NAVM12. Actualmente es aceptado utilizar como criterios de referencia (verdaderos positivos) a aquellos casos de neumonía con presencia de hemocultivos, cultivos de líquido pleural o tejido positivo, o mediante estudio histológico pulmonar que confirme la infección pulmonar6. Sin embargo, la utilización de hemocultivos está limitada por su baja positividad, los cultivos pleurales se pueden realizar sólo en presencia de efusión pleural que es una complicación infrecuente, y el estudio histológico con biopsia pulmonar es una técnica invasora de utilización excepcional.
+
+Las recomendaciones diagnósticas específicas actuales para pacientes adultos con sospecha de NAVM, son2:
+
+ Uso de técnicas cuantitativas sobre las cualitativas, basadas en la capacidad de este enfoque de racionalizar el uso de antimicrobianos.
+
+ Uso de técnicas no invasoras sobre invasoras, específicamente el cultivo cuantitativo de aspirado endo-traqueal, debido al menor costo, facilidad operativa e impacto similar sobre el pronóstico, en relación a las técnicas cuantitativas invasoras13.
+
+El uso de cultivo cuantitativo en adultos con recuentos mayores a 105 para el diagnóstico clínico de rutina, se considera aceptable en ausencia de disponibilidad de lavado bronco-alveolar 814.
+
+En Pediatría no se han desarrollado estudios que permitan seleccionar una estrategia sobre otra, de acuerdo a su impacto pronóstico sobre el paciente, y sólo se cuenta con experiencia preliminar en el uso de métodos cuantitativos de diagnóstico extrapolando los valores utilizados en adultos.
+
+Por otra parte, la dificultad técnica en la realización de estudios broncoscópicos2, la escasa disponibilidad de especialistas con experiencia y de equipos, constituyen limitaciones importantes en el diagnóstico mediante procedimientos invasores en pediatría. Todas estas consideraciones hacen recomendable, en pacientes pediátricos, la utilización de métodos no invasores en el diagnóstico de NAVM.
+
+Específicamente, en cuanto al diagnóstico microbio-lógico de NAVM, la conveniencia de su uso demostrada en pacientes adultos lo hace igualmente recomendable en niños.
+
+No disponemos, al momento de diseñar este estudio, de información sobre estudios nacionales o internacionales que hayan evaluado el uso de diferentes puntos de corte para cultivos cuantitativos de aspirado endotraqueal, obtenidos de forma no invasora en niños. Sólo es posible, por ahora, extrapolar la experiencia acumulada en los estudios publicados en pacientes adultos y difundida a través del "Consenso de NAVM en el paciente adulto"2 en nuestro país.
+
+El objetivo de este trabajo es evaluar el uso de aspirado endotraqueal con recuento cuantitativo, obteniendo puntos de cortes, con una sensibilidad y especificidad aceptables, que permitan apoyar el diagnóstico de esta patología en niños.
+
+Pacientes y Métodos
+
+Se realizó un estudio de tipo analítico, prospectivo. Se incluyeron a pacientes bajo 15 años de edad, conectados a ventilación mecánica durante más de 48 horas, que se encontraban internados en Unidades de Cuidados Intensivos Neonatal, Pediátrica y Cardiológica del Hospital Luis Calvo Mackenna (HLCM) durante el período comprendido entre mayo de 2006 y enero de 2008.
+
+Criterios de exclusión: Se excluyó a pacientes con evidencia clínica, radiológica o microbiológica de una infección pulmonar previa a la conexión a ventilación mecánica o dentro de las 48 horas de su inicio. Además, se excluyó a pacientes con modificación del tratamiento antimicrobiano dentro de las 72 horas previo al diagnóstico de NAVM y a pacientes con traqueostomía. Este protocolo fue previamente aprobado por el Comité de Ética del HLCM.
+
+Durante este período de 21 meses, se enroló a todos los pacientes con más de 48 horas de ventilación mecánica invasora que cumplieran criterios clínicos y radiológicos para el diagnóstico de neumonía asociada a ventilación mecánica y se clasificaron en dos grupos:   Neumonía probable. Cumplían sólo criterios clínicos y radiológicos de NAVM establecidos por el NNIS15, (Tabla 1) para neumonía nosocomial en pacientes pediátricos.
+
+  
+
+ 
+
+ Neumonía demostrada. Cumplían criterios clínicos, radiológicos y de laboratorio establecidos por el NNIS15 (Tabla 1) para neumonía nosocomial en pacientes pediátricos y aceptados en la literatura médica como patrón de oro.
+
+Además se reclutó un grupo control, en ventilación mecánica invasora por más de 48 hrs, sin criterios clínicos, radiológicos ni de laboratorio compatibles con el diagnóstico de NAVM según clasificación NNIS15 para neumonía nosocomial.
+
+A estos tres grupos de pacientes se les tomó una muestra de secreción traqueal, obtenida en forma estéril, utilizando un catéter de aspiración introducida por el tubo endotraqueal y conectando el otro extremo del catéter a un colector o trampa estéril apropiada. Las muestras fueron procesadas de inmediato en el laboratorio de Microbiología del HLCM. El procesamiento de la muestra se realizó en una cabina de bioseguridad, se diluyó la muestra a la mitad con suero fisiológico (NaCl 9%o) estéril, se agitó en vórtex para obtener una muestra homogénea, se extrajeron 100 ¡xL de muestra para diluir 1:100, se sembraron las muestras en agar sangre y agar McConkey y se incubaron en una atmósfera aeróbica a 35°C hasta 72 horas. Se procesaron como cultivo cuantitativo con recuento de colonias. Los recuentos de colonias < 103 ufc se interpretaron como negativos.
+
+El análisis estadístico se realizó utilizando prueba de X2 con p-value < 0,05. Se obtuvieron sensibilidad, especificidad, valor predictor positivo (VPP) y valor predictor negativo (VPN) para diferentes valores de corte de recuento cuantitativo.
+
+Resultados
+
+En el período de estudio se reclutó un total de 43 pacientes, de los cuales 51% correspondieron al sexo femenino. El promedio de edad fue de 16 meses, con un rango de 0-168 meses (14 años), con una mediana de 3 meses.
+
+Del total de pacientes, el motivo de ingreso principal a las UCIs fue por malformaciones cardiacas en 51%, malformación de vía aérea superior en 15%, malformaciones digestivas 15% y causas respiratorias en 12% (excluyendo neumonía como motivo de ingreso).
+
+Considerando los motivos de conexión a ventilación mecánica, 54% correspondió a pacientes post-quirúrgicos, 49% por insuficiencia respiratoria y 7% por compromiso de conciencia. El promedio de días en ventilación mecánica al momento de la toma de muestra fue de 19 días (2-56 días) para el total de los pacientes ingresados al estudio.
+
+De la totalidad de los pacientes con cultivos traqueales positivos, casos y controles (n: 29), el microorganismo aislado con mayor frecuencia fue Staphylococcus aureus en 34,5% de los casos, bacilos gramnegativos no fermentadores en 24,1% (Acinetobacter baumannii y Pseudomonas aeruginosa), Escherichia coli en 13,8%, Klebsiella pneumoniae en 10%, y Staphylococcus epi-dermidis, Streptococcus pneumoniae, Streptococcus mitis, Moraxella catarrhalis y Enterobacter cloacae en 3,4% cada uno (Tabla 2). Del total de los microorganismos aislados, 60% fue resistente a antimicrobianos de primera línea en el antibiograma obtenido. Tras el informe de antibiograma de los cultivos, 60% de los pacientes con cultivos positivos tuvo inicio o cambio en su tratamiento antimicrobiano.-
+
+  
+
+ 
+
+En el protocolo, al total de 43 pacientes se los clasificó en tres grupos: neumonía probable (n: 22), neumonía demostrada (n: 3) y grupo control (n: 18).
+
+Sin embargo, se encontraron pacientes del grupo control con cultivos positivos con recuentos > 106 ufc, así como también un número de casos (neumonía probable) con cultivos negativos. A la luz de los resultados obtenidos, se encontró la siguiente distribución:
+
+
+
+Según esta nueva distribución, obtuvimos cuatro grupos:
+
+ neumonía probable o demostrada con cultivo cuantitativo de secreción endotraqueal positivo;
+
+ neumonía probable o demostrada con cultivo cuantitativo de secreción endotraqueal negativo;
+
+ controles con cultivo cuantitativo secreción endotra-queal negativo;
+
+ controles con cultivo cuantitativo secreción endotra-queal positivo.
+
+Análisis de los cuatro grupos (Tabla 3)
+
+a. Neumonía probable o demostrada con cultivo cuantitativo de secreción endotraqueal positivo
+
+En este grupo hubo 22 pacientes, cuya edad promedio fue 23 meses (0-168 meses), siendo 82% lactantes bajo 7 meses de edad.
+
+Los motivos de ingreso más frecuentes fueron: malformaciones cardíacas (41%), malformaciones de vía aérea (18%) e insuficiencia respiratoria (18%).
+
+Las causas más relevantes de necesidad de conexión a ventilación mecánica fueron insuficiencia respiratoria (50%) y causa quirúrgica (45%).
+
+El promedio de días de ventilación mecánica al momento de la toma del cultivo traqueal fue de 24 días (2-90 días).
+
+  
+
+ 
+
+Criterios clínicos: 86% presentó fiebre, 86% alteración en el recuento de leucocitos, 77% aumentó sus requerimientos de oxígeno y 54% presentó alteraciones en las características de las secreciones traqueales.
+
+Criterios radiológicos: 72% presentó infiltrado pulmonar, 40% consolidación pulmonar y 4,5% cavitación.
+
+Tres de ellos se catalogaron como patrón de oro (neumonía demostrada) ya que cumplían con criterios clínicos, radiológicos y de laboratorio. Los tres pacientes tenían hemocultivos positivos al mismo microorganismo aislado en secreción traqueal (Escherichia coli, Klebsiella pneumoniae y bacilo gramnegativo no fermentador, respectivamente). Dos de los tres pacientes tuvieron cultivo de líquido pleural positivo al mismo microorganismo que el aislado en hemocultivo y secreción traqueal (E. coli y bacilo gramnegativo no fermentador). No se realizó histología o necropsia a alguno de ellos.
+
+En este grupo de pacientes, el promedio de recuento del cultivo cuantitativo fue 105 ufc (100.000 a 4 millones ufc). Los microorganismos aislados fueron: S. aureus (36%), bacilo gramnegativo no fermentador (A. baumannii o P. aeruginosa) (31%), E. coli (9%), K. pneumoniae (9%), S. pneumoniae (5%) S. mitis y M. catarrhalis (5%). Un 63% de los microorganismos aislados fue resistente a antimicrobiano de primera línea, de acuerdo al antibio-grama. Considerando el informe del antibiograma del cultivo de secreción traqueal, en 63% de los pacientes se realizó modificación en su esquema antimicrobiano. En los casos restantes, se mantuvo el tratamiento empírico dado que se ajustaba al resultado obtenido.
+
+b. Neumonía probable o demostrada con cultivo cuantitativo de secreción endotraqueal negativo
+
+En este grupo hubo tres pacientes, cuya edad promedio fue 9,3 meses (2-24 meses).
+
+Los motivos de ingreso de los tres pacientes fueron malformación cardiaca, malformación pulmonar y síndrome hipotónico, respectivamente.
+
+Las causas de conexión a ventilación mecánica se debieron a causa quirúrgica, compromiso de conciencia e insuficiencia respiratoria.
+
+El promedio de días de ventilación mecánica al momento de la toma del cultivo traqueal fue de 7 días (2-16 días).
+
+Criterios clínicos: todos presentaron fiebre, uno presentó alteración del recuento de leucocitos, otro un aumento de requerimientos de oxígeno y el tercero presentó alteraciones en las características de las secreciones traqueales.
+
+Criterios radiológicos: todos presentaron infiltrado pulmonar y dos, consolidación pulmonar.
+
+Ninguno de estos pacientes presentó criterios de laboratorio.
+
+c. Control con cultivo cuantitativo secreción endotraqueal negativo
+
+En este grupo hubo un total de 11 pacientes, cuya edad promedio fue 7,5 meses (0-60 meses).
+
+El motivo de ingreso más frecuente fue debido a malformaciones cardiacas en 45% de los casos.
+
+Las causas más relevantes de necesidad de conexión a ventilación mecánica fueron: quirúrgica (46%), insuficiencia respiratoria (46%) y compromiso de conciencia (9%).
+
+El promedio de días de ventilación mecánica al momento de la toma del cultivo traqueal fue de 9 días (2-35 días).
+
+Ninguno de estos pacientes cumplía el número de criterios clínicos, radiológicos ni de laboratorio para clasificarlo como NAVM según clasificación NNIS.
+
+d. Control con cultivo cuantitativo de secreción endotraqueal positivo
+
+En este grupo hubo un total de siete pacientes, cuya edad promedio fue 3,6 meses (0-9 meses).
+
+El motivo de ingreso más frecuente fue debido a malformaciones cardiacas (86%).
+
+La causa más relevante de conexión a ventilación mecánica fue, en 86%, por causa quirúrgica.
+
+El promedio de días de ventilación mecánica al momento de la toma del cultivo traqueal fue de 22,4 días (4-84 días).
+
+Criterios clínicos: sólo un paciente tenía alteración del recuento de leucocitos por infección en otro parénquima. Ninguno de estos pacientes cumplía criterios para clasificarlo como neumonía asociada a ventilación mecánica según clasificación NNIS.
+
+En este grupo de pacientes los recuentos del cultivos cuantitativos fueron inferiores a 106 ufc para tres pacientes y mayor o igual a 106 ufc en cuatro pacientes.
+
+Los microorganismos aislados fueron: S. aureus (29%), E. coli (29%) y K. pneumoniae, S. epidermidis y E. cloacae, (14% c/u). Un 57% de los microorganismos aislados fue resistente. Los principales encontrados fueron S. aureus resistente a meticilina (SARM) (n: 7/10), bacilo gramnegativo no fermentador resistente (n: 2/7), E. coli BLEE positiva (n: 4/4) y K. pneumoniae resistente (n: 1/3).
+
+Análisis estadístico
+
+En relación a los resultados, considerando como punto de corte para cultivo cuantitativo de secreción traqueal mayor a 105 ufc, se obtuvo una sensibilidad de 88%, especificidad de 61%, VPP de 76% y VPN de 79%. Sin embargo, al considerar como recuento significativo un punto de corte mayor a 106 ufc (se excluyeron tres pacientes del grupo de control con cultivo positivo menor a este valor) la especificidad asciende a 70% y el VPP a 82%. De esta forma, al evaluar el odds ratio (OR) para punto de corte mayor a 105 ufc, éste es de 11,5 (2,06-73,8, con un 95% confianza según serie Cornfield) y para un valor mayor a 106 ufc es de 16,3 (2,65-16,7, con un 95% confianza según serie Cornfield). El riesgo relativo obtenido para pacientes con cultivo cuantitativo de secreción traqueal mayor a 105 ufc es de 3,54 (1,27 a 9,86, con 95% confianza según serie Taylor) y con un recuento mayor a 106 ufc es de 3,8 (1,3-10,54, con un 95% confianza serie Taylor). Es decir, si se considera un valor de corte para cultivo cuantitativo de secreción traqueal > 106 ufc, ascienden en forma significativa la especificidad, el VPP y el riesgo relativo asociado a NAVM.
+
+Discusión
+
+La NAVM en niños ocurre en alrededor de 3 a 10% de los pacientes ventilados por más de 48 horas, basado en la literatura científica internacional1.
+
+Durante el período evaluado, se registraron 22 casos de NAVM, con un promedio de edad de la población total de 16 meses. Prácticamente la totalidad de los pacientes que cumplían con criterios de NNIS para NAVM, con la excepción de tres, tenían menos de 60 meses de edad. Esto podría deberse a que, además de ser un grupo etáreo inmunológicamente susceptible, se trabajó con pacientes en unidad de cuidados intensivo neonatal y cardiológica (el HLCM es un centro de derivación nacional de cardio-patías congénitas). La razón por sexo de estos pacientes fue de 1:1.
+
+Las etiologías más prevalentes de NAVM en UCI cardiovascular, neonatal y pediátrica del HLCM, fueron S. aureus (34,5%) y bacilos gramnegativos no fermentadores (A. baumannii y P. aeruginosa) (24,1%), cifras comparables a lo descrito en la literatura internacional y nacional con P. aeruginosa en primer lugar, seguido de S. aureus para UCI pediátrica (21,2 y 18,2%, respectivamente)1,4. De los pacientes con cultivo positivo, 60% fue por microorganismos resistentes a antimicrobianos de primera línea. Esta información microbiológica nos permite una orientación respecto al esquema antimicrobiano empírico que podría iniciarse en pacientes con sospecha de NAVM en nuestro medio. Además, permitió el inicio y/o cambio de tratamiento antimicrobiano.
+
+La principal causa de conexión a ventilación mecánica en la población estudiada fue quirúrgica y en segundo lugar insuficiencia respiratoria, no debida a neumonía. La patología de base más importante en los pacientes con NAVM fue la cardiopatía congénita (9/22 pacientes correspondientes al grupo A). Esto se explica porque se trata de un hospital de referencia para resolución quirúrgica de cardiopatías congénitas, patología que de por sí predispone al desarrollo de complicaciones respiratorias y que requiere mayor tiempo de conexión a ventilación mecánica con la consecuente mayor incidencia de NAVM.
+
+De acuerdo al análisis estadístico realizado, encontramos que el cultivo cuantitativo de secreción traqueal podría ser útil para el diagnóstico de pacientes que cumplen con criterios clínicos, radiológicos y de laboratorio de NAVM (sensibilidad de 88% y VPP de 82%) y permitiría iniciar o ajustar el tratamiento antimicrobiano de manera confiable.
+
+Se encontró que el punto de corte de ufc utilizado en adultos para el diagnóstico de NAVM es similar al de niños. Para un valor de corte > 106 ufc se encontró una sensibilidad 88%, especificidad 70%, VPN 79% y VPP 82%, RR 3,8 y OR 16,3, lo que se considera significativo para establecer el diagnóstico de NAVM.
+
+Sin embargo, es importante destacar que hubo tres pacientes del grupo control que no cumplieron criterios clínicos, radiológicos ni de laboratorio, pero que tuvieron cultivo endotraqueal cuantitativo positivo con un recuento significativo (> 106 ufc). Estos pacientes tenían más días de ventilación mecánica al momento de la toma de muestra de aspirado endotraqueal, en relación a aquellos del grupo control con cultivo negativo (22,4 días vs 9 días, respectivamente). Esta diferencia se podría atribuir a una colonización de la vía aérea por microorganismos resistentes en pacientes con mayor número de días en ventilación mecánica y no corresponder a infección. Por lo tanto, es fundamental considerar la condición clínica del paciente y los criterios establecidos por NNIS, utilizando el cultivo como un elemento de apoyo al diagnóstico.
+
+Dentro de las limitaciones del estudio se encuentra el tamaño de muestra. A futuro sería de utilidad aumentar el número de pacientes con un estudio multicéntrico para otorgarle mayor validez a este método en el diagnóstico de NAVM. De esta manera, se espera introducir en la práctica clínica un método no invasor y confiable para el diagnóstico de NAVM en pacientes pediátricos, que permita disminuir los costos y morbimortalidad asociada a un tratamiento antimicrobiano inadecuado.

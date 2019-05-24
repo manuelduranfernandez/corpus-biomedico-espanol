@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000200117
+Hemocultivos en recién nacidos: optimizando la toma de muestra y su rendimiento
+
+Introducción
+
+La sepsis es una de las patologías más importantes en recién nacidos (RN) hospitalizados en Unidades de Neonatología considerando su frecuencia y alta morbimortalidad. El diagnóstico clínico es difícil debido a que presenta una manifestación inespecífica y los métodos de detección utilizados no cuentan con un rendimiento óptimo. Por esto, el equipo médico habitualmente indica un tratamiento antimicrobiano empírico y precoz ante su sospecha, lo que se traduce en un uso excesivo de antimicrobianos.
+
+A pesar del advenimiento de técnicas moleculares para la detección de bacterias y virus en sangre, el estándar de oro para el diagnóstico de sepsis neonatal sigue siendo el hemocultivo (HC)1,2. Este método tiene la ventaja de poseer una alta especificidad, permite la identificación del microorganismo y realizar el estudio de susceptibilidad de éste. Sin embargo, presenta desventajas como la latencia en el resultado, que alcanza entre 24 a 72 h, o la difícil interpretación si se aísla Staphylococcus coagulasa-negativa (SCN). SCN es el microorganismo más frecuentemente aislado en sepsis neonatal tardía, con incidencias que fluctúan entre 29 y 50%3-5, pero a su vez, también es el más frecuente en muestras contaminadas, alcanzando una tasa de falsos positivos de hasta 17% en RN bajo 12 semanas de vida, lo que se traduce en un gran desafío para el médico tratante, quien tiene que distinguir entre sepsis y contaminación1,6-8.
+
+Sin lugar a dudas, la principal desventaja de esta técnica microbiológica es su baja sensibilidad (hasta 60% de los RN con sepsis clínica tienen HC negativos) y esto se puede deber a varias razones:
+
+volumen insuficiente de sangre extraída,
+
+baja carga de microorganismos en bacteriemias en este tipo de paciente (bacteriemia de bajo nivel definidas como < 4 ufc/ml),
+
+presencia de microorganismos fastidiosos o anaerobios y
+
+la obtención de la muestra en el RN con posterioridad a la administración de antimicrobiano en la madre9.
+
+Existe muy poca información en la literatura médica, en cuanto al volumen necesario de sangre a tomar, incluso recomendaciones contradictorias en relación al porcentaje de sangre de la volemia10, número de frascos, sitio y momento de la extracción de la muestra de HC en Neonatología. Por esta razón, el Comité de Infecciones Neonatales de la Sociedad Chilena de Infectología, se propuso profundizar en el tema para intentar aclarar al máximo las interrogantes y sugerir una pauta de estudio en este tipo de paciente.
+
+Clasificación de los hemocultivos
+
+El HC o cultivo microbiológico de la sangre se puede clasificar según el tipo de paciente (neonatal, pediátrico, adulto), el tipo de toma de muestra (centrales o periféricos); tipo de microorganismo (bacterias aerobias, anaerobias, fastidiosas o micobacterias) y según la metodología de los distintos sistemas de HC. Existen sistemas convencionales (manuales), sistemas semi-automatizados (lisis-centrifugación) o sistemas automatizados como BACTEC o BacT/Alert, entre otros.
+
+Los sistemas manuales tienen la desventaja en relación al automatizado, de tener un mayor riesgo de contaminación al manipular las botellas para realizar los procedimientos de tinción, son más laboriosos ya que requieren de un sub-cultivo para detectar el desarrollo bacteriano/fúngico, lo que origina resultados en plazos más largos.
+
+Los semi-automatizados o de lisis centrifugación también son laboriosos, requieren manipulación, son de alto costo y a pesar que permiten la recuperación de bacterias intracelulares, no han mostrado mejor sensibilidad que los sistemas automatizados11-13.
+
+Los sistemas automatizados consisten básicamente en botellas con diversos medios de cultivo (aeróbicos, anaeróbicos, hongos, micobacterias y con resinas que captan antimicrobianos) que se incuban en equipos que agitan constantemente las muestras y poseen métodos de detección de productos del metabolismo bacteriano (CO2). Mediante sistemas radiométricos, colorimétricos o fluorométricos continuos, se determina un umbral de producción de CO2 considerado como positividad del hemocultivo. Las botellas se retiran del equipo y se les realiza una tinción de Gram que permite un informe preliminar y precoz respecto de la forma, afinidad tintorial y disposición de los microrganismos en desarrollo. Esta técnica ha permitido aumentar la velocidad de detección del agente en desarrollo, disminuir el tiempo de respuesta y aumentar la sensibilidad de los HC. Por otra parte, ha disminuido la carga de trabajo en el laboratorio, la contaminación cruzada y ha aumentado el espectro de microorganismos detectados. Este método permite mejorar la capacidad diagnóstica en bacteriemias y por ende, un uso más racional de la terapia antimicrobiana14.
+
+Volumen de sangre
+
+Múltiples estudios han confirmado que en adultos la variable más crítica para optimizar el rendimiento del HC es el volumen de sangre. Hasta hace un tiempo, se pensaba que los pacientes pediátricos que cursaban con bacteriemias tenían recuentos bacterianos altos, esto basado en las bacteriemias neonatales causadas por Escherichia coli15 por lo que eran aceptados volúmenes pequeños, inferiores a 1 ml. Sin embargo, datos de Schelonka y cols.16, demostraron que volúmenes de 0,5 ml no eran capaces de detectar bacteriemias de bajo nivel definidas como aquellas menores a 4 ufc/ml. Hoy se sabe que alrededor de 25% de las bacteriemias en lactantes tienen un recuento menor a 4 ufc/ml y dos tercios de los lactantes bajo dos meses de edad tienen recuentos menores de 10 ufc/ml17. Si los sistemas automatizados pueden detectar hasta 1 ufc/ml, entonces hay que tomar al menos 1 ml de sangre e inocular una botella de hemocultivos aeróbica pediátrica. En conclusión, si se toma un volumen adecuado de muestra, se podría aumentar la positividad al doble16.
+
+Relación sangre/medio de cultivo
+
+Además del volumen de sangre, la actividad bactericida de ésta disminuye en sí el rendimiento de los HC. Es importante tener presente que la sangre tiene un poder bactericida relacionado a la inmunidad innata (complemento, actividad fagocítica de los leucocitos y lisozimas) sumado al efecto que pudiese tener el uso de antimicrobianos en la madre, previo al parto.
+
+La recomendación es mantener una relación de al menos 1:5 entre la muestra y el volumen de medio de cultivo; esta dilución permite neutralizar las propiedades bactericidas de la sangre y de los agentes antibacterianos que puedan estar presentes en la muestra. En el caso de los sistemas automatizados pediátricos, las botellas están diseñadas para mantener la relación 1:5 con volúmenes menores de sangre11.
+
+Elección del medio de cultivo
+
+El cultivo en medio anaeróbico además del aeróbico no aumenta el rendimiento de los HC en la población pediátrica en general18. Podría existir un mayor riesgo de bacteriemia por anaerobios en los pacientes con sepsis de foco abdominal u oral, con mordeduras de animales, inmunocomprometidos o con úlceras de decúbito19,20 por lo que se podrían considerar en este grupo.
+
+El cultivo en botella anaeróbica en RN está recomendado para situaciones especiales como, antecedentes de rotura prolongada de membranas (RPM), corioamnionitis materna, sepsis de origen abdominal (enterocolitis necrosante) o sepsis nosocomial tras cirugía abdominal21. Un estudio de la década de los noventa reportó incidencias variables de bacteriemia por anaerobios en neonatos entre 1,8 y 12,5% con los factores predisponentes previamente descritos, siendo más frecuente el aislamiento de Bacteroides spp22. Por otra parte, un estudio reciente, retrospectivo, describe que 33,9% de las bacteriemias pesquisadas en pacientes bajo 28 días de vida se aíslan sólo en frascos de HC anaeróbicos y no en los aeróbicos, por lo que tendrían mayor rendimiento en la pesquisa de microorganismos no necesariamente anaerobios facultativos. El único anaerobio facultativo estricto encontrado fue Clostridium symbiosum en un HC23.
+
+Yaacobi y cols., evaluaron, mediante un estudio prospectivo, el rendimiento de los HC utilizando dos botellas con 0,5 ml de sangre (aeróbico y anaeróbico) comparado con inocular 1ml de sangre en una botella de HC aeróbico en RN con sospecha de sepsis. El rendimiento global fue de 10,2% y mayor en el grupo de dos muestras de 0,5 ml, pero los microrganismos aislados en el frasco anaeróbico fueron predominantemente agentes aeróbicos, lo que sugiere que el rendimiento aumentaría, pero no queda claro si fue por la toma de dos frascos de HC o por el medio anaeróbico24.
+
+A la fecha, no hay estudios comparativos entre cultivos aeróbicos y anaeróbicos con poder suficiente para recomendar el uso de HC anaeróbicos en todos los RN, pero se sugiere considerarlo en aquellos con factores de riesgo para infección por anaerobios, sobre todo en aquellos con antecedentes de RPM, corioamnionitis y patología abdominal quirúrgica. El volumen mínimo a sembrar debe ser también de 1 ml.
+
+Número de hemocultivos
+
+Existe escasa información sobre el número de HC necesarios a tomar en RN y sobre todo en RN de muy bajo peso de nacimiento (definidos como aquellos bajo 1.500 g), donde el principal riesgo de la extracción de sangre es la anemia secundaria con necesidad de transfusiones frecuentes. A su vez, en toda edad se recomienda la toma de HC de al menos dos sitios distintos.
+
+Como Comité recomendamos tomar al menos dos HC de 1 ml cada uno extraídos de sitios diferentes. Esto permite diferenciar una contaminación de la real bacteriemia en el caso de aislar SCN. La presencia de SCN en dos botellas de HC tomadas de sitios distintos permite diferenciar la contaminación con infección. En el caso de no poder tomar dos HC por las condiciones del paciente, se puede tomar un hemocultivo, pero con al menos 1 ml de sangre25.
+
+Frente a la sospecha de infección de torrente sanguíneo asociada a catéter venoso central (ITS/CVC), importante causa de infección asociada a atención de salud en UCI neonatal, el diagnóstico se hace más complejo. Clásicamente se ha definido ITS/CVC como:
+
+Presencia de manifestaciones clínicas sugerentes o evidentes de ITS/CVC con un cultivo de punta de CVC con un recuento significativo (>15 ufc/ml) asociado a la presencia de un HC periférico positivo al mismo microorganismo.
+
+Un HC cuantitativo con un mismo microorganismo obtenido desde el CVC y punción periférica con una relación ≥ 3:1, respectivamente.
+
+Un tiempo diferencial de positividad de ≥ 2 h (se identifica 2 h antes en el CVC que en el HC periférico) en HC automatizados.
+
+Para realizar este diagnóstico se necesita de la recolección de más de una muestra de HC en la mayoría de los casos.
+
+Según un estudio realizado en nuestro país por Acuña y cols., quienes compararon el rendimiento de HC cuantitativo y tiempo diferencial de positividad, se pudo demostrar que este último presenta una mayor sensibilidad (24 vs 75%) para el diagnóstico de ITS/CVC en niños, comprobando que este método representa una mejor alternativa26.
+
+En el caso de CVC con doble lumen, se ha intentado evaluar el rol de métodos alternativos como HC de ambos lúmenes y ver el diferencial en cuanto al recuento o tiempo; sin embargo, este procedimiento tiene una baja sensibilidad y bajo valor predictor positivo, por lo que aún no está validado27,28.
+
+En algunos centros extranjeros se ha implementado la modalidad de tomar 0,5 ml de cada lumen del CVC e inocular en un solo frasco de HC aeróbico pediátrico para así optimizar el diagnóstico, practica no validada aún en ensayos clínicos, pero que pareciera ser adecuado en el caso de RN de muy bajo peso de nacimiento, donde la importancia radica en el diagnóstico de la infección y no cuál es el lumen infectado (información no publicada).
+
+La principal dificultad en el diagnóstico en este grupo de pacientes, nuevamente es el volumen de sangre. Se ha visto que la adherencia a la recomendación de obtener HC pareados es de sólo 58%29, por lo que el médico tratante debe trabajar sobre un diagnóstico presuntivo, lo que implica prolongación innecesaria de antibioterapia y retraso en el diagnóstico de otra etiología.
+
+Sitio de obtención de la muestra
+
+Vasos umbilicales
+
+Se puede tomar hemocultivos tanto de la vena como de la arteria umbilical.
+
+La vena tiene mayor probabilidad de contaminación que la arteria umbilical, riesgo que disminuiría si al momento del parto este vaso es doblemente clampeado y preparado adecuadamente30-32.
+
+Existe antigua evidencia que la utilización de sangre de arteria umbilical para la toma de HC otorga buenos resultados. Pourcyrous M y cols., realizaron un estudio prospectivo en 282 RN con 318 hemocultivos pareados: sangre periférica vs catéter de arteria umbilical, describiendo una tasa de contaminación: 1,3% en vena periférica y de 0,9% en sangre de arteria umbilical. Hubo 13 pares de HC concordantes (mismo microorganismo) y sólo 2 pares de HC discordantes. Esto plantea que en RN hospitalizados la obtención de muestra para HC desde catéter de arteria umbilical recién instalado puede ser una alternativa30.
+
+Hemocultivos de cordón
+
+La obtención de una muestra de hemocultivos a través de cordón umbilical permite tomar un volumen de sangre significativamente mayor ya que esto no produciría anemia en el RN. La sangre del cordón umbilical pasa a través de la membrana del trofoblasto, la que se define como una membrana semipermeable, que separa la circulación materna y fetal. Por lo tanto, la sangre en el cordón umbilical es sangre fetal y es idéntica a la sangre del feto.
+
+Así el volumen es fácilmente accesible, permitiendo un aumento de la sensibilidad de los HC. La técnica de recolección de HC de cordón es crítica, pues existe alto riesgo de contaminación post parto vaginal33,34.
+
+Los principales beneficios que ofrece esta técnica son:
+
+Obtención inmediata de la muestra, sin retrasar el diagnóstico y permitiendo rápidamente el inicio de antimicrobianos empíricos en niños con sospecha de sepsis precoz.
+
+Obtención de volúmenes adecuados.
+
+Una menor tasa de transfusiones en el RN, al reducir los volúmenes extraídos, especialmente en RN de pretérmino.
+
+Es un método no invasor, no traumático e indoloro para el RN.
+
+Implica menos tiempo y menor costo34,35.
+
+Meena y cols., analizaron la utilidad de los HC de cordón en 40 RN con factores de riesgo para sepsis, es decir, prematuridad, rotura de membranas de > 24 h, líquido amniótico de mal olor, fiebre materna, tactos vaginales frecuentes, asfixia neonatal y peso de nacimiento < 2.500 g. La técnica utilizada en este estudio fue la siguiente: una vez que nació el RN, el cordón umbilical fue clampeado en el extremo placentario y en el extremo umbilical, cortando el cordón entre los clamps. Se realizó una desinfección del extremo placentario con alcohol 70° y se recolectó una muestra de sangre de 2 ml, que fueron sembrados en una botella de HC aeróbico. La sensibilidad de este método en este estudio fue de 100% con una especificidad de 94,9% en comparación con los HC tomados en vena periférica34. Por otra parte, existen otros reportes que describen una sensibilidad un poco menor, cercanas a 80%, con especificidad de 91,4% comparadas con HC tomados por vía periférica36.
+
+La principal limitación de la toma de muestra del cordón umbilical es la contaminación y a pesar de que hay métodos para disminuir este riesgo, hasta el momento no hay recomendaciones que incluyan meta-análisis o estudios caso-controles que lo avalen37. Se deben realizar más experiencias al respecto debido a que impresiona ser una técnica que aumenta la tasa de aislamiento del microrganismo sin mayor morbilidad para el RN con sospecha de sepsis precoz.
+
+Antiséptico a emplear
+
+Además del aseo de la piel, retirando materia orgánica, el uso de antiséptico disminuye la probabilidad de contaminación de las muestras para HC. En las unidades neonatales, habitualmente se dispone de alcohol y clorhexidina como antisépticos para la práctica clínica, y muy ocasionalmente povidona yodada. Estos antisépticos difieren en varios aspectos y poseen ventajas o desventajas que están ampliamente expuestas en un documento de nuestra Sociedad Científica38.
+
+Un estudio comparativo evaluó eficacia de clorhexidina 1% versus povidona iodada al 10% en evitar contaminación en la toma de muestras venosas de hemocultivos en UCI neonatal, siendo menor en el grupo de clorhexidina (0 vs 2,9%, p = 0,026)39.
+
+Debemos recordar que clorhexidina posee alta acción germicida pero la de base acuosa requiere de tres minutos antes de iniciar el procedimiento y la de base alcohólica (0,5 a 2%) requiere al menos 30 segundos; a diferencia del alcohol 70% cuyo efecto bactericida se inicia en 15 segundos. Para ambos antisépticos debe existir precaución respecto de emplear altas cantidades pues resultan irritantes para la piel en particular del recién nacido de muy bajo peso, debiendo seleccionarse el que este normado en cada institución.
+
+Tiempo de positividad de los hemocultivos
+
+El determinar el tiempo de positividad de los HC en cada unidad es fundamental para conocer el tiempo en el que se espera tener un HC positivo en un paciente que se sospecha sepsis y después de cuántas horas poder suspender los antimicrobianos iniciados en forma empírica, con tranquilidad. Por otra parte, permite diferenciar las infecciones de la contaminación.
+
+Recientemente se describió que el tiempo promedio de positividad de HC tomados en 826 RN con sospecha de sepsis precoz admitidos en UCIN fue de 21,1 h. Ellos concluyen que no se requerirían más de tres días de incubación al usar el sistema BacT/ALERT 3D 6040.
+
+Interpretación del aislamiento de Staphylococcus coagulasa negativa
+
+Un aspecto relevante en la interpretación de HC y dado que SCN es uno de los principales agentes aislados, como Comité Consultivo proponemos adherir el esquema presentado en la Figura 1, a fin evitar falsas interpretaciones y mal uso de antimicrobianos37.
+
+Figura 1 Algoritmo para interpretar hemocultivos positivos para Staphylococcus coagulasa negativo (SCN). Tomado de Polin R, Denson S, Brady M. Epidemiology and diagnosis of health care-associated infections in the NICU. Pediatrics 2012;129:e1104-9. 
+
+Finalmente, debido a las numerosas dificultades en la toma e interpretación de los hemocultivos, examen solicitado frecuentemente en las unidades neonatales, dejamos una tabla resumen de las recomendaciones para la obtención de HC en el RN (Tabla1).
+
+Tabla 1 Resumen de recomendaciones para a obtención de hemocultivos en recién nacidos. Comité Consultivo de Infecciones Neonatales - Sociedad Chilena de Infectología. 

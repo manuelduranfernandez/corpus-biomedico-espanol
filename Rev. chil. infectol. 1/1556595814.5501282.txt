@@ -1,0 +1,238 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000600642
+Estimaciones poblacionales sobre VIH en Chile 2017 SPECTRUM, ONUSIDA
+
+Antecedentes
+
+Un aspecto fundamental para el enfrentamiento de la infección por VIH y el desarrollo de estrategias de atención y prevención, eficaces y eficientes, se refiere al conocimiento del comportamiento de la epidemia y a la generación de información específica de la infección a través del tiempo. En este contexto, se han desplegado diversos esfuerzos destinados a la vigilancia de la infección por VIH y las infecciones de transmisión sexual (ITS). A nivel internacional, los procesos de reporte vinculados a los progresos realizados en la aplicación del compromiso anual GAM (Monitoreo Global del Sida, por sus siglas en inglés), ha contribuido a aumentar y mejorar la calidad de la información disponible.
+
+Chile, además de participar en estos y otros reportes sistemáticos, ha impulsado durante los últimos años una serie de estrategias destinadas a conocer la situación de la epidemia y a monitorear los problemas, avances y logros en el trabajo realizado, entre las que destacan la implementación de un sistema de notificación obligatoria en línea, un sistema informático único de registro, actividades de monitoreo del programa nacional y estudios en distintas poblaciones. A pesar de los esfuerzos, sigue resultando complejo la generación de datos poblacionales que permitan conocer la magnitud y las características de la epidemia del VIH, lo que en el caso chileno se acrecienta por el carácter concentrado de ésta y las limitantes metodológicas existentes para conocer el universo de poblaciones de mayor vulnerabilidad y riesgo de adquirir VIH y para acceder a ellas, como es el caso de los hombres que tienen sexo con hombres (HSH) y la población trans.
+
+En este escenario, una respuesta bien planificada en torno a la situación de la infección por VIH, requiere información precisa sobre las características de la epidemia a lo largo del tiempo. Los modelos matemáticos suelen ser la forma más adecuada para describir científicamente epidemias como la del VIH y el impacto de la respuesta en salud pública que se ha instalado para ello; no obstante, resulta complejo dimensionar el número exacto de personas que han adquirido la infección o el número de nuevas infecciones por el VIH en un país. Es así que ONUSIDA y sus asociados han apoyado el desarrollo del Módulo Impacto del Sida en el programa informático Spectrum con el objetivo de ayudar a los países a dimensionar la epidemia del VIH1.
+
+El software Spectrum, utiliza información de vigilancia, encuestas y de los programas relacionados al VIH, junto con datos demográficos, para generar tendencias históricas y proyecciones a corto plazo de los principales indicadores. Indicadores de este tipo como son: el número de personas que tienen la infección por VIH, número de nuevas infecciones, número de mujeres embarazadas infectadas por el VIH, mortalidad por Sida y la cobertura del tratamiento, son útiles para evaluar las tendencias, el impacto global de la respuesta a la epidemia y para planificar las necesidades futuras de salud pública, de atención y de tratamiento1.
+
+La herramienta de ajuste a datos de programa (FPD) como parte de Spectrum, presentada por primera vez en 2014, se desarrolló como una función de ajuste de curva alternativa al Paquete de Estimaciones y Proyecciones (EPP) para países con epidemias concentradas y sólidos registros vitales y datos de vigilancia de casos de infectados por VIH, como es el caso de Chile. Antes de 2014, la mayoría de estos países utilizó EPP para estimar la incidencia nacional a partir de las curvas de vigilancia y encuestas poblacionales que medían la seroprevalencia de VIH en poblaciones claves y de mayor riesgo de exposición al VIH (como las trabajadoras sexuales, los hombres homosexuales, otros HSH y personas que se inyectan drogas) y en mujeres gestantes en control prenatal. Las estimaciones derivadas del EPP han estado sujetas a crítica, donde los datos de prevalencia entre las poblaciones clave no están disponibles o no son representativos de toda la nación, haciendo que las estimaciones no sean precisas. Dado este proceso, donde los datos son inestables, esta metodología de estimaciones y proyecciones no es la alternativa óptima para representar la tendencia de los datos. En países con epidemias de muy bajo nivel, donde no se dispone de información sobre prevalencia de infección por VIH en poblaciones clave o de mayor vulnerabilidad y riesgo, la estimación de incidencia de VIH usando EPP no es recomendable2.
+
+Es así, que la herramienta FPD fue diseñada por ONUSIDA como alternativa para modelar información usando datos más robustos obtenidos de los sistemas de vigilancia de VIH, datos de las estadísticas vitales (mortalidad), datos originados de la atención clínica de pacientes con VIH (como el recuento de linfocitos T CD4(+)s: LT CD4), datos de atención en mujeres embarazadas con infección por VIH y de niños y niñas (NNA) infectados2. Esta herramienta es la que se utilizó para el modelamiento chileno.
+
+Los resultados de las estimaciones de Spectrum se remiten a ONUSIDA en forma paralela con el informe GAM que todos los países envían anualmente. ONUSIDA recopila las estimaciones de cada país, revisando y contrastando los procesos que se realizaron en Spectrum en el país. Luego, se desarrollan estimaciones globales de la epidemia de VIH y su repuesta3 las que son publicadas y cuya última actualización es la del año 2017.
+
+Método
+
+Antecedentes del proceso de estimaciones
+
+De acuerdo a las directrices ONUSIDA, Chile a través del Ministerio de Salud, representado por el Programa Nacional de Prevención y Control del VIH/SIDA e ITS y el Departamento de Epidemiología, desarrolla anualmente procesos de estimaciones relacionados a la epidemia del VIH, basadas en los datos demográficos actualizados existentes en el país, así como en las estadísticas generadas a partir de registros programáticos y de vigilancia.
+
+El último proceso de actualización de las estimaciones sobre la infección por VIH en el país, se inició en febrero y finalizó en mayo de 2018. Para ello, se contó con la participación de representantes del tema del Ministerio de Salud y de la asesoría de la sede de ONUSIDA en Ginebra. De esta forma, y de acuerdo a las necesidades determinadas por las herramientas estadísticas que se utilizaron, se desarrollaron reuniones para la preparación de los datos y conferencias virtuales con la sede de ONUSIDA en Ginebra en las que se procedió a completar la información del paquete estadístico, para luego realizar calibraciones y proyecciones que permitieron la generación de los resultados para el año 2017.
+
+Preparación de los datos para las estimaciones
+
+Para el procesamiento de las estimaciones, el software requiere el ingreso de información específica del país en relación al VIH. El detalle de esta información se desglosa a continuación.
+
+Definición de la epidemia
+
+El primer paso fue definir el tipo de epidemia del país. En el caso de Chile se trata de una epidemia concentrada, que de acuerdo a definición de ONUSIDA, la prevalencia en mujeres embarazadas se estima por debajo de 1%, pero algunos grupos de alto riesgo tienen una prevalencia superior a 5% como los hombres que tienen sexo con hombres (HSH).
+
+Información demográfica
+
+La información demográfica requerida fue:
+
+Población inicial (1970) por edad y sexo.
+
+Tasa global de fecundidad por año.
+
+Distribución de la fertilidad por edades.
+
+Índice de masculinidad al nacer.
+
+Esperanza de vida al margen del Sida al nacer, por sexo.
+
+Tasas de mortalidad de la tabla de vida.
+
+Migración.
+
+Para la estimación chilena, al igual que en el resto de los países, se usan los datos proyectados por las Naciones Unidas, que se elaboran a partir de datos iniciales de cada país y son publicados en The World Population Prospects. Esta información se encuentra incluida en una base de datos de Spectrum y se utiliza para las estimaciones.
+
+Información programática
+
+Específicamente el software Spectrum requiere el ingreso de información hasta el año 2017 (para el presente ejercicio) y la proyección hasta el 2021 sobre:
+
+Prevención de transmisión madre-hijo (PTMI). Número de mujeres que:
+
+Antes del año 2012 (opción B): accedieron a profilaxis triple a partir de las 14 semanas.
+
+Desde el 2011 en adelante (opción B+) iniciaron TAR antes del embarazo.
+
+Desde el 2012 en adelante (opción B+) iniciaron TAR durante el embarazo actual antes de las 14 semanas.
+
+Tratamiento anti-retroviral (TAR) en adultos:
+
+N° de adultos que reciben TAR, total y por sexo.
+
+Mediana del recuento de LT CD4 al iniciar TAR.
+
+Tratamiento (TAR) infantil:
+
+N° de niños que recibe TAR.
+
+Todos los datos que se refieren a TAR se ingresan a Spectrum hasta el 2017, con información real, considerando los registros públicos y privados recolectados por el Programa Nacional de Prevención y Control del VIH/SIDA e ITS del MINSAL. Para realizar las proyecciones desde el año 2018 hasta el 2021 se usaron modelos de series temporales, a excepción del número de tratamientos infantiles, que se mantuvo el mismo dato del 2017 hasta el 2021.
+
+Necesidad de cotrimoxazol
+
+Esta información no se ingresa, porque en el país no se dispone como un registro agregado.
+
+Elegibilidad para el tratamiento
+
+Adultos
+
+El umbral del recuento de LT CD4 que se consideró para la elegibilidad de tratamiento fue:
+
+–. 
+
+			200 céls/mm3 desde el año 1970-2008.
+
+–. 
+
+			350 céls/mm3 desde el año 2009-2017.
+
+–. 
+
+			Toda persona diagnosticada con la infección por VIH (“Test and treat”) para lo proyectado 2018-2021, según las recomendaciones de la OMS (2015).
+
+Entre los grupos de población infectados por VIH y que son elegibles para recibir tratamiento, independientemente del recuento de LT CD4, se consideró:
+
+En la Tabla 1, se detalla la población que se debe tratar independiente del recuento de LT CD4, el año en que se modificaron las directrices para incluir a dicho grupo de población y el porcentaje estimado de personas con infección por VIH en ese grupo como proporción de todos los adultos infectados con el VIH. Spectrum ofrece estimaciones por defecto para la mayoría de los países. Para el caso de Chile, se usó lo pre-determinado por Spectrum en relación a la proporción estimada de VIH por grupo de población.
+
+Tabla 1 Poblaciones que requieren TAR, independiente del recuento de LT CD4. Chile 
+
+Fuente: Spectrum, 2017
+
+Como “otras poblaciones” fueron definidas personas con:
+
+Enfermedad oportunista de etapa C
+
+Manifestaciones de etapa B
+
+Co-infección VIH-VHB con HBsAg(+)
+
+Co-infección VIH-VHC
+
+Cáncer que requiera tratamiento oncológico inmunosupresor
+
+Deterioro neurocognitivo clínicamente significativo
+
+Nefropatías asociadas a VIH
+
+Riesgo cardiovascular elevado
+
+Edad mayor a 50 años
+
+Niños (NNA)
+
+Existen tres componentes para definir la elegibilidad para tratamiento en los niños: la edad, el recuento de LT CD4 y el porcentaje de LT CD4.
+
+Edad por debajo de la cual todos los niños con infección por VIH deben recibir tratamiento. Se considera 12 meses desde el 2007-2021.
+
+Recuento de LT CD4. La elegibilidad para los niños también puede depender del recuento de LT CD4. Si el niño ya es elegible debido a la edad, entonces el inicio del tratamiento no depende del nivel de LT CD4. Si el niño está por encima de la edad de elegibilidad, entonces, ésta puede determinarse por el recuento de LT CD4.
+
+Los valores de LT CD4 por edad que se consideraron desde el 2010 en adelante fueron:
+
+< 11 meses: 750 céls/mm3
+
+12-35 meses: 750 céls/mm3
+
+35-59 meses: 750 céls/mm3
+
+≥ 5 años: 350 céls/mm3
+
+Porcentaje de LT CD4. Para los niños (NNA) muy pequeños, la elegibilidad con frecuencia se basa en el porcentaje de LT CD4 más que en el recuento de LT CD4, por lo cual se ingresaron al modelo los umbrales de elegibilidad por porcentaje de LT CD4.
+
+Los valores por edad considerados desde el 1987-2021 fueron:
+
+< 11 meses: 25%.
+
+12-35 meses: 25%.
+
+35-59 meses: 25%.
+
+> 5 años: 15%.
+
+Información sobre incidencia
+
+Para la estimación de la incidencia, se alimentó al software con los nuevos casos confirmados por el Instituto de Salud Pública (ISP), considerando los datos desde el 1987 al 2017.
+
+Información sobre mortalidad
+
+Se ingresó la información de mortalidad, según los registros vitales aportados por el Departamento de Estadísticas e Información en Salud (DEIS), cuyas causas de muerte asociadas a Sida, de acuerdo a la Clasificación Internacional de Enfermedades-CIE10, se encuentran bajo los códigos B20 al B24. Los datos ingresados en Spectrum fueron de los años 1997 a 2015 (último año disponible al momento de realizar el ejercicio).
+
+Además, se incluyó la información sobre el sub registro de mortalidad por Sida calculada por el Departamento de Epidemiología, aplicando la metodología de redistribución proporcional a los códigos de mortalidad mal definidos.
+
+Principales resultados
+
+Población infectada con VIH
+
+De acuerdo a las estimaciones, en el año 2017 el número de personas con infección por VIH en Chile de todos los grupos de edad, fue de 67.000 (58.000-76.000)* (Figura 1). Esta cifra reflejó un aumento de alrededor de 18.000 casos con respecto al año 2013, lo que significa un aumento porcentual del 37%. Considerando a las personas de 15 y más años, donde se enfocan principalmente las estimaciones, el número estimado fue de 66.000 personas. (Tabla 2).
+
+Figura 1 Estimación de personas infectadas con el VIH, todas las edades. Chile 2000-2017. 
+
+Tabla 2 Número de personas estimadas infectadas con VIH según edades. Chile 2013-2017 
+
+Fuente: Estimaciones Spectrum Chile, 2017.
+
+En todos los años analizados la población de menores de 15 años contagiados con el virus se estima como inferior a 500 casos.
+
+Según sexo, se estimó que para el año 2017, las mujeres de 15 y más años fueron 17.000 (15.000-19.000) y los hombres de 15 y más años 49.000 (42.000-57.000) personas, lo que significó una distribución porcentual de 74% hombres y 26% mujeres. Esta distribución porcentual se mantiene estable en la estimación de los últimos cinco años (2013-2017).
+
+En cuanto a la prevalencia de VIH en personas de 15 a 49 años, se estima para el año 2017 en 0,6% (0,5-0,6%). Para hombres fue de 0,8 (0,7-0,9%) y para mujeres de 0,3% (0,3-0,4%). A través de los años, se observa un aumento paulatino de la prevalencia, pasando de 0,4% en el año 2013 a 0,6% el 2017.
+
+Incidencia
+
+El año 2017 se estimó un total de 6.000 (4.800-7.100) nuevas infecciones en el país. La evolución temporal del número de nuevas infecciones, presentó un aumento sostenido desde el año 2013 hasta el 2017, lo que representó 43% de aumento (Figura 2 y Tabla 3). Para el caso de los menores de 15 años se estimaron menos de 100 casos.
+
+Figura 2 Estimación de nuevas infecciones de VIH, todas las edades. Chile 2000-2017. 
+
+Tabla 3 Número de nuevas infecciones estimadas por VIH, en todas las edades. Chile año 2013-2017 
+
+Fuente: Estimaciones Spectrum Chile, 2017.
+
+Según sexo, en mujeres de 15 y más años se estimaron 1.700 (1.400-2.100) nuevas infecciones y en hombres de este mismo grupo de edad, se estimó un total de 4.000 (3.200-5.200) nuevos casos el año 2017.
+
+La incidencia total del año 2017 se estimó en 0,33 (0,27-0,39) por mil habitantes.
+
+Muertes por Sida
+
+Considerando que la diferencia entre las muertes estimadas (870 casos el 2016) sobrepasa en 54% a las muertes identificadas realmente en Chile (566 casos el 2016, última cifra disponible al momento de este informe), el estimador número de muertes por esta causa genera dudas respecto a la capacidad del paquete de estimaciones para generar esta información, dada la reconocida calidad de los registros de mortalidad del país y la cobertura de TAR garantizada por ley (GES). Por tanto, estas estimaciones no se consideran como válidas para nuestro país y se asume que el valor real, es el entregado por los datos del registro de mortalidad nacional (566 muertes el año 2016).
+
+Tratamiento anti-retroviral
+
+Niños y mujeres embarazadas
+
+Las estimaciones permiten generar proyecciones sobre las personas con infección por VIH y que requieren recibir tratamiento. Los registros reales de personas en TAR indican que en el año 2017 se asignaron 150 terapias pediátricas, lo que significó una cobertura estimada de 65% (53-80%).
+
+En el caso de las mujeres embarazadas que requieren TAR por protocolo de prevención de la transmisión materno infantil, las proyecciones arrojaron un valor < 500 (< 500 - < 500). Según los registros nacionales, durante el año 2017 las mujeres gestantes que accedieron a protocolo como prevención de la TV, fueron 270; por tanto, la cobertura estimada de este protocolo en gestantes con infección por VIH es mayor: 95% (86% > 95%)
+
+Adultos
+
+Según el criterio de elegibilidad vigente en nuestro país hasta el año 2017 (CD4 < 350 céls/mm3, la población de 15 y más años que se encuentra en tratamiento hasta el año 2017 es de 38.900 personas. La estimación de cobertura de TAR alcanzada ese año, al considerar el criterio de LT CD4 < 350 céls/mm3 fue de 58% (51-67%).
+
+Discusión
+
+El proceso de estimaciones realizado anualmente, representa un aporte para el país, al permitir contar con información aproximada sobre el comportamiento y la distribución de la infección por VIH en Chile, la que constituye un valioso insumo para la planificación y el monitoreo de las estrategias que se implementen, así como para optimizar la focalización de las mismas y aumentar la pertinencia y el impacto de la Respuesta Nacional a esta epidemia. De igual forma, las estimaciones nacionales contribuyen en alimentar los registros regionales e internacionales, posibilitando los procesos de monitoreo que se efectúan periódicamente a nivel mundial.
+
+En este sentido, según las estimaciones nacionales, las personas contagiadas actualmente con VIH han aumentado en los últimos años, estimándose que al año 2017 ascenderían a 67.000 casos. Esta situación resulta esperable ya que la transmisión del VIH continua en el país sumándose nuevos casos a los ya existentes, dado el incremento en la sobrevida por el impacto de los TAR. Por otra parte, la cifra proyectada para el 2017 estaría dando cuenta de una brecha en el diagnóstico de la infección y de la sub-notificación, ya que los casos reportados al Sistema de Vigilancia Epidemiológica del VIH desde el inicio de la epidemia llegan a 43.3868.
+
+En cuanto a la distribución etaria del VIH, las estimaciones confirman que se trata de una epidemia adulta, con un número de niños seropositivos que no supera los 500 casos. En cuanto al sexo, y si bien las proyecciones presentaron una mayor proporción de mujeres que los registros de notificación del país, la epidemia se concentra en hombres. Según el Sistema de Vigilancia, el año 2017 existió una relación de 5,9 hombres por cada mujer, observándose un aumento tanto en la tasa de hombres como de mujeres con respecto a los años anteriores8.
+
+En relación a las TAR, su requerimiento seguirá incrementándose, sobre todo al aplicarse el nuevo criterio que determina el tratamiento de todos los casos diagnosticados, según la actualización del GES, por lo que aumentar la cobertura de tratamiento representa un desafío para el país.
+
+Considerando la utilidad de las estimaciones y de las mejoras constantes a los paquetes estadísticos que se utilizan para generarlas, debe reiterarse su carácter de estimaciones, por lo que es esperable que se produzcan algunas diferencias con la información manejada a nivel nacional, como ocurre con la mortalidad, donde los registros chilenos tienen una vasta trayectoria que avala la calidad de los datos y que presenta una estabilidad de las defunciones por Sida en los últimos años. Además, las estimaciones que se realizan cada año, no son comparables con las realizadas en años anteriores con otras versiones del software, dada la actualización permanente de éste por parte de ONUSIDA.
+
+Es así, que el país presentó un sostenido aumento de las estimaciones en comparación a versiones anteriores del software; esto debido a que el año 2017 se incluyó la información del número y distribución de las confirmaciones por VIH realizadas por el Instituto de Salud Pública. Esta información fue utilizada como “proxy” del total de personas infectadas conocidas por el sistema de salud chileno.
+
+El aumento de las infecciones por VIH estimadas, es coherente con lo informado según la vigilancia epidemiológica de las Infecciones de Transmisión Sexual, que muestra que sífilis es la ITS de mayor tasa de notificación que, a su vez, experimentó un aumento el año 2017 al igual que la infección por VIH. Así mismo, desde el 2015 en adelante, se presentó un aumento de la tasa de gonorrea. Además, en todas las ITS bajo vigilancia, el riesgo de los hombres supera al de las mujeres y se concentró en el grupo de 15 a 39 años, lo que da cuenta de un perfil de riesgo de las personas de mayor vulnerabilidad.
+
+Considerando que las ITS aumentan la capacidad de infección del VIH9, que la menor edad está fuertemente asociada con múltiples ITS10 y que existe insuficiente uso de condón en nuestro país11, es necesario generar acciones específicas y que impacten, permitiendo asentar conductas de sexo seguro y consulta precoz ante el riesgo de infección, para así, asegurar el tratamiento oportuno y el control de la transmisión de la infección.
+
+En este escenario epidemiológico, además, es fundamental mantener activa y reforzar periódicamente la importancia de la vigilancia epidemiológica y la notificación de casos de forma oportuna y con calidad en todos los niveles involucrados, con el objetivo de contar con información veraz que permita la toma de decisiones en salud pública.
+
+*Entre paréntesis se indican el límite inferior y el límite superior estimado. Los valores fueron redondeados para efecto de la publicación de las estimaciones.

@@ -1,0 +1,92 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000200133
+Análisis de letalidad en pacientes con diagnóstico de tuberculosis en un centro de alta complejidad en Cali, Colombia
+
+Introducción
+
+La tuberculosis (TBC) es considerada la novena causa de muerte en el mundo y la primera por un único agente infeccioso. Para el año 2016, la TBC afectó cerca de 10,4 millones de personas en el mundo, con un estimado de 1,3 millones de muertes entre los pacientes seronegativos para VIH, y un adicional de 374.000 muertes de pacientes con infección por VIH (letalidad de 15%)1. La mayor prevalencia de esta enfermedad se encuentra en los países en vías de desarrollo; más de 95% de los casos y muertes a nivel mundial se presentan en esos países2. Para 2016, en Colombia, la incidencia de TBC fue de 25,3 casos por cada 100.000 habitantes, y la tasa de mortalidad de 2,1%3. En el Valle del Cauca la incidencia de TBC fue de 36 por cada 100.000 habitantes para el mismo año, siendo uno de los departamentos del país con más reporte de casos, con una tasa de mortalidad de 3,5%4.
+
+La TBC es una enfermedad prevenible, curable y tratable. Se han creado estrategias mundiales para el control de la enfermedad. Una de ellas es el tratamiento acortado estrictamente supervisado (TAES) el que propone un diagnóstico temprano y tratamiento simplificado5. De esta manera, la TBC debería ser diagnosticada e inicialmente tratada en centros de salud de primer nivel de atención; sin embargo, debido múltiples factores, los pacientes son diagnosticados en un estadio avanzado de la enfermedad requiriendo manejo en instituciones de salud de III° y IV° nivel de complejidad.
+
+Se han realizado múltiples estudios para determinar los factores que aumentan el riesgo de mortalidad asociado a la TBC. Así, se ha establecido que la co-infección por el virus de la inmunodeficiencia humana (VIH)4,6,7, ser mayor de 65 años7, la TBC multi-drogo resistente (TBC-MDR) y el bajo peso al momento del diagnóstico8,9, son factores de riesgo de muerte durante el curso de la enfermedad. Un estudio realizado en Medellín, Colombia durante el 2012, demostró que el retraso diagnóstico y la mala adherencia al tratamiento estaba asociada a muerte por TBC10.
+
+La Fundación Valle del Lili (FVL) es un centro de alta complejidad y de referencia en el suroccidente colombiano, que recibe aproximadamente 15 pacientes mensuales con diagnóstico de TBC. Son escasos los estudios que analizan la mortalidad en pacientes con TBC, por lo que se desea determinar la letalidad, las características sociodemográficas, clínicas y causas de muerte, atribuible o asociada, de los pacientes que fallecen durante el tratamiento antituberculoso.
+
+Materiales y Métodos
+
+Se realizó un estudio analítico de cohorte retrospectiva, entre febrero de 2007 y noviembre de 2016. Los datos se obtuvieron a partir del registro institucional de micobacterias de la FVL, que recolecta de manera prospectiva todos los casos de TBC y micobacterias no TBC de la institución, y analiza variables sociodemográficas, clínicas, de laboratorio y resultados al tratamiento. Se revisaron 900 casos, se excluyeron pacientes con micobacterias no tuberculosas y aquellos sin seguimiento clínico, quedando un total de 787 registros (Figura 1), de los cuales se tomaron pacientes que hubieran iniciado tratamiento antituberculoso y que hubiesen fallecido por cualquier causa durante el tratamiento.
+
+Figura 1 Diagrama de flujo de pacientes ingresados al estudio. MBNTBC: Micobacterias no tuberculosas. *Durante tratamiento anti-tuberculosis. 
+
+Definiciones
+
+Se definió como TBC pulmonar a todo caso bacteriológicamente confirmado o clínicamente diagnosticado de TBC, que compromete el parénquima pulmonar o el árbol traqueo bronquial; y como TBC extrapulmonar a aquellos casos en los que se evidenció infección en órganos diferentes al pulmón. La TBC miliar y la TBC extrapulmonar con compromiso pulmonar se clasificaron como TBC pulmonar. Se definió TBC diseminada en aquellos casos en que se presentó TBC extrapulmonar con compromiso de más de dos órganos. En los casos en los que se identificó resistencia conjunta a isoniacida y rifampicina se determinó como TBC-MDR11. Aquellos pacientes en que se diagnosticó la TBC después de 30 días de iniciarse los síntomas se clasificaron como retraso diagnóstico12. Se definió muerte temprana si el paciente fallecía durante los primeros 30 días después del diagnóstico de TBC. Se definió muerte atribuible a TBC si la enfermedad tenía una relación directa con la muerte del paciente; y muerte asociada si a pesar del diagnóstico confirmado de TBC, el paciente muere por un evento de salud diferente.
+
+Todos los casos de mortalidad fueron evaluados por el Comité de Vigilancia Epidemiológica institucional, que revisa los casos de muerte asociados a un evento de interés en salud pública. Todas las muertes ocurrieron en la institución, donde se llenó el certificado de defunción. Las causas de muerte se definieron según lo estipulado en el certificado de defunción de cada paciente, siguiendo las guías del Instituto de Medicina Legal y Ciencias Forenses de Colombia.
+
+Análisis estadístico
+
+Se realizó un análisis bivariado; las variables categóricas se presentaron como proporciones. Se realizó un análisis exploratorio para evaluar cuáles variables de exposición pudieran estar asociadas a muerte temprana (< 30 días). Se realizaron las pruebas estadísticas de x2 o test exacto de Fisher según correspondiera, y se consideró como significante un valor de p < 0,05. Además, se calculó odds ratio (OR) como medida de asociación para comparar los dos grupos y su intervalo de confianza (IC 95%). Finalmente, se calculó la letalidad para cada año, tomando como numerador los casos de muerte en pacientes con diagnóstico de TBC y como denominador el total de pacientes con TBC en cada año para los casos a partir de 2011, debido a que los casos antes de esta fecha se recolectaron de manera retrospectiva y no se cuenta con la totalidad de los casos. Los años de vida potencialmente perdidos por la enfermedad se calcularon con la sumatoria del número de muertos por TBC por la diferencia entre la edad a la muerte y la esperanza de vida nacional, que es 65 años en hombres y 70 años en mujeres. Los análisis se hicieron con el paquete estadístico Stata® (Stata Corp, 2011, Stata 12 Base Reference Manual, College Station, TX, USA).
+
+Este estudio se acoge a las declaraciones de la CIOMS, a los acuerdos internacionales de investigación en humanos y fue aprobado por el Comité de Ética en Investigación Biomédica institucional, según el Acta No. 14 del 13 de junio de 2013.
+
+Resultados
+
+Durante el período de estudio se caracterizaron 69 pacientes que fallecieron mientras recibían tratamiento antituberculoso. La mediana del tiempo diagnósticomuerte fue de 14 días (RIC: 5-71). El 59% (n: 41) fueron hombres, el promedio de la edad fue de 51,9 años (± 20,6); 32% (n: 22) tenían edad superior a 65 años. Sólo 57% de los registros tenían consignado el dato de índice de masa corporal (IMC), en los que se encontró que 31% fueron clasificados con bajo peso al momento del diagnóstico. Con respecto a las co-morbilidades, 77% de los pacientes presentaba al menos una co-morbilidad, siendo la co-infección con VIH la más frecuente en 23% (n: 16), seguida de cáncer y diabetes mellitus, ambas en 16% (n: 11). Ocho pacientes (12%) recibieron tratamiento antituberculoso previo. En 51% (n: 35) de los pacientes se diagnosticó la TBC después de 30 días de iniciados los síntomas.
+
+El tipo de TBC más frecuentemente diagnosticada fue la pulmonar con 75% (n: 52) de los casos; de éstas, 72% fueron bacteriológicamente confirmadas, 23 casos por baciloscopia y/o cultivo positivo y 14 casos por una prueba de biología molecular (reacción de polimerasa en cadena-RPC) positiva. Respecto a los hallazgos radiográficos en pacientes con TBC pulmonar, 21% (n: 11) presentaron infiltrados intersticiales y 12% (n: 6) infiltrados alveolares. Cincuenta por ciento de los pacientes (n: 26), presentaron más de dos hallazgos radiográficos pulmonares, siendo la asociación más común efusión pleural e infiltrados intersticiales (n: 10).
+
+Diecisiete pacientes (25%) presentaron TBC extrapulmonar; los principales sistemas comprometidos fueron las meninges y SNC en 23% (n: 4), seguido por el tracto gastrointestinal y peritoneal y la pleura en 18% (n; 3), respectivamente. Tres pacientes presentaron TBC diseminada, dos con compromiso meníngeo y de tracto gastrointestinal; y uno con compromiso pericárdico y pleural (Tabla 1).
+
+Tabla 1 Características sociodemográficas y antecedentes de los pacientes fallecidos por tuberculosis (n: 69) 
+
+*Promedio ± DS.
+
+**Mediana (RIC). TGI: tuberculosis gastrointestinal.
+
+Al comparar las variables de exposición con el desenlace definido como muerte temprana (menor a 30 días del diagnóstico), se encontró que la edad avanzada (> 65 años) se asoció a muerte temprana (p < 0,001; OR = 20,13 IC = [2,49-867,6]). Otros factores de riesgo como retraso diagnóstico, presencia de co-morbilidades o aislamiento de TBC MDR no tuvieron asociación alguna estadísticamente significativa (Tabla 2).
+
+Tabla 2 Análisis bivariado de los factores asociados a muerte precoz versus muerte tardía en pacientes con tuberculosis 
+
+*MDR: Multi-drogo-resistente.
+
+Con respecto a las causas de muerte de los pacientes, la principal fue choque séptico (n: 44; 64%), seguido de insuficiencia respiratoria (n: 9; 13%) y meningoencefalitis tuberculosa (n: 7; 10%). El 61% (n: 42) de las muertes fueron atribuibles a TBC, específicamente por neumonía grave por TBC (n: 29), síndrome de dificultad respiratoria (SDR) por TBC (n: 67) y meningoencefalitis tuberculosa (n: 10) (Tabla 3).
+
+Tabla 3 Análisis de causas de muerte (n: 69) 
+
+*Colangitis, peritonitis primaria. SDR: síndrome de dificultad respiratoria.
+
+De los pacientes con co-infección TBC e infección por VIH (n: 16), nueve (56%) murieron por choque séptico, de los cuales cinco fueron debido a TBC pulmonar. De los seis pacientes con meningoencefalitis tuberculosa, tres tenían co-infección TBC e infección por VIH.
+
+Se calculó la letalidad anual por TBC del año 2011 al 2016 (Figura 2); la letalidad promedio para todo el período de tiempo analizado fue de 8,8%. Durante 2016 se presentó la letalidad más alta (14,7%), mientras que en 2012 se presentó la más baja con 2,6%. Los años de vida potencialmente perdidos por la enfermedad fueron 15,8 años.
+
+Figura 2 Letalidad anual en pacientes con diagnóstico de tuberculosis entre 2011 y 2016. 
+
+Discusión
+
+Este es el primer estudio que caracteriza los pacientes que fallecen durante el tratamiento antituberculoso en un centro de alta complejidad en el suroccidente colombiano. La letalidad por TBC en nuestro estudio (8,8%) fue superior a la reportada en otros estudios13,14; esto podría explicarse porque en nuestra institución se atienden pacientes con patologías que requieren atención en un nivel de alta complejidad y presentan mayor probabilidad de fallecer.
+
+La mayoría de pacientes era de sexo masculino, con una edad media de 51 años y con TBC pulmonar; estos hallazgos son similares a lo reportado en estudios africanos y europeos9,15. La edad es variable en diferentes estudios realizados en instituciones de alta complejidad16,17. Con respecto al tipo de , la meningoencefalitis tuberculosa fue la más frecuente, la que se ha asociado a mayor mortalidad18,19.
+
+La mitad de los pacientes tuvo retraso en el diagnóstico de la TBC, situación que se asocia a mayor mortalidad y complicaciones16,20. El retardo en el diagnóstico (más de 30 días desde el inicio de los síntomas), puede explicarse debido a que los pacientes incluidos fueron, en su mayoría, de difícil diagnóstico y con co-morbilidades que enmascararon la presentación clínica de la TBC, situación que refleja una debilidad del sistema de salud en la identificación oportuna del paciente con TBC activa.
+
+Se sabe que el estado nutricional es determinante en el desenlace de los pacientes con TBC, siendo un factor de riesgo de mortalidad8,9. Dada la naturaleza retrospectiva de nuestro estudio, sólo fue posible recuperar el dato de IMC como variable indicadora del estado nutricional, en 56% de los registros, encontrando que la mayoría de los pacientes evaluados presentaron peso inadecuado, ya fuera sobre peso o bajo peso.
+
+Nuestros hallazgos con respecto a las co-morbilidades son coherentes con lo reportado en la literatura científica, donde la principal causa de muerte en pacientes con TBC es la co-infección con SIDA y las complicaciones derivadas como otras infecciones oportunistas1,21,22 Se encontró en este estudio concomitancia entre TBC y cáncer en 16% de los pacientes; este hallazgo cada vez es más frecuente en la literatura médica, especialmente en cáncer de pulmón, lo que demuestra la necesidad de tamizar la infección latente por TBC de los pacientes con cáncer y evaluar la presencia de malignidad en pacientes con diagnóstico de TBC en zonas endémicas19,23.
+
+La mayoría de los pacientes del estudio presentó muerte temprana, es decir, en menos de 30 días desde el diagnóstico de TBC. Encontramos que la edad avanzada (> 65 años) tiene una asociación estadísticamente significativa con muerte temprana, lo que puede explicarse porque son pacientes con más co-morbilidades que la población más joven que hace presenten cuadros más graves de la enfermedad. A diferencia de lo reportado en otras investigaciones en las que se demostró que TBC extrapulmonar eleva el riesgo de muerte temprana24,21,25, al igual que la TBC MDR y co-infección TBC y SIDA6,26,27; en nuestro estudio no se encontraron asociaciones con estas variables. Esto puede deberse a que el tamaño de muestra es pequeño y a que la mayoría fueron pacientes de alta complejidad.
+
+Los resultados de las unidades de análisis del Comité de Vigilancia Epidemiológica institucional, clasificaron como causa primaria de muerte complicaciones derivadas de TBC, como choque séptico e insuficiencia respiratoria en un gran número de pacientes; esto reitera que los pacientes ingresaban a la institución en estadios avanzados de la enfermedad, lo que refleja la falta de oportunidad en el diagnóstico y en el tratamiento temprano, hallazgos superiores comparados con otros estudios17. Mientras que la otra mitad de los pacientes murió por causas asociadas a las complicaciones de la co-morbilidad de base y, por lo tanto, no se consideraron como muertes evitables.
+
+Dentro de las limitaciones del estudio podemos mencionar la recolección retrospectiva de la información; sin embargo, se realizaron validaciones duplicadas a todos los registros comparándolos con las fuentes de datos primarias como la historia clínica, registros de laboratorio y del Comité de Vigilancia Epidemiológica.
+
+Conclusiones
+
+La TBC es una patología con letalidad elevada a pesar de los avances en el manejo. Los pacientes que fallecen por TBC en nuestra población presentaron co-morbilidades graves e ingresaron en un estadio avanzado de la enfermedad, lo que demuestra que no se está realizando un diagnóstico oportuno de la enfermedad. La edad avanzada (> 65 años) se asoció a muerte temprana (< 30 días). El principal mecanismo fisiopatológico de muerte por TBC en nuestra población fue el choque séptico secundario a neumonía tuberculosa grave.
+
+Institución donde se realizó el estudio: Fundación Valle del Lili.
+
+Fuente de financiación: Centro de investigaciones clínicas Fundación Valle del Lili-Universidad Icesi, Cali Colombia.
+
+Agradecimientos
+
+Manifestamos nuestros agradecimientos al CIC de la Fundación Valle del Lili por el apoyo metodológico y logístico en el desarrollo de esta investigación. A los integrantes del grupo de investigación clínica en TBC (GITB)-Universidad ICESI/FVL, por los aportes en la recolección y verificación de la información. Arteaga A; Bohorge J; Correa D; Criollo B; De Paz D; García MC; Guarin N+; Fernández L; León JG; Hidalgo A; Hurtado J; Martínez L; Martínez W; Moncada P; Montaño I; Moreno K; Monroy K; Múnera G; Munevar E; Orozco C; Patiño J; Pedroza L; Pérez P; Potes L; Restrepo A; Rivas A; Rodríguez JF; Sanabria F; Salguero L; Sotomayor A; Rojas V; Rosso F; Valencia J; Velásquez M; Vélez JD; Toala A.

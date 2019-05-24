@@ -1,0 +1,164 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000100001
+Factores asociados a nefrotoxicidad por polimixina B en un hospital universitario de Neiva, Colombia. 2011-2015
+
+Resumen
+
+Introducción: El surgimiento de infecciones graves causadas por bacilos gramnegativos multi-resistentes (BGN-MR), sumado a la carencia de nuevas opciones terapéuticas efectivas, ha llevado a retomar el uso de polimixina B, a pesar de su perfil de nefrotoxicidad. Objetivo: Determinar la incidencia y factores relacionados con el desarrollo de nefrotoxicidad asociada al uso de polimixina B, en pacientes adultos con infecciones causadas por BGN-MR. Materiales y Métodos: Estudio observacional, analítico, tipo cohorte histórica, con un análisis de casos y controles anidado, realizado en un hospital universitario de tercer nivel de Colombia entre 2011 y 2015, en pacientes que recibieron polimixina B intravenosa por más de 48 h. Resultados: De 139 pacientes incluidos en el estudio, 61 (44%) desarrollaron falla renal aguda por criterios AKIN. Los factores de riesgo independientes para nefrotoxicidad fueron: dosis diaria de polimixina B (OR 2,19; IC 95% 1,04-4,64), días de estancia en UCI (OR 1,03; IC 95% 1,00-1,06), presencia de infección nosocomial (OR 6,43; IC 95% 2,12-19,47) y requerimiento de fármacos vasopresores (OR 5,38; IC 95%: 2,40-12,07). Conclusión: La tasa de nefrotoxicidad observada en pacientes que recibieron polimixina B es considerable; su origen probablemente multifactorial y agravada por estado crítico de pacientes con infecciones nosocomiales por BGN-MR.
+
+Palabras clave: Injuria renal, polimixina B, bacilos gramnegativos multi-resistentes.
+
+ 
+
+Introducción
+
+Las infecciones asociadas a la atención en salud (IAAS), causadas por bacilos gramnegativos multi-resistentes (BGN-MR), representan un gran problema de salud pública mundial1. En Estados Unidos de América, cada año se reportan dos millones de casos de infecciones causadas por especies multi-resistentes, determinando alrededor de 23.000 muertes2. En hospitales de Latinoamérica y el Caribe, estos microorganismos representan una tasa mayor al 50% de las IAAS en Unidades de Cuidado Intensivo (UCI)3. En Colombia, la tasa de resistencia de Acinetobacter spp a carbapenémicos supera el 50%, mientras Pseudomonas aeruginosa evidencia tasas de resistencia a imipenem alrededor de 22%. La diseminación exitosa de especies multi-resistentes entre hospitales colombianos en los últimos 10 años, aunado a las pocas opciones terapéuticas disponibles, ha tenido un gran impacto sobre la morbi-mortalidad4. En nuestra institución, en los últimos años, la tasa de resistencia a carbapenémicos en aislados provenientes de UCI de Acinetobacter spp, P. aeruginosa y Klebsiella pneumoniae corresponde a 78, 33 y 11%, respectivamente5,6.
+
+Las opciones de tratamiento antimicrobiano para BGN-MR, son bastante limitadas y casi restringidas a polimixina B, colistín, fosfomicina y tigeciclina; así como combinaciones de las opciones anteriores con altas dosis de carbapenémicos y aminoglucósidos. Para la fecha de nuestro estudio (antes de 2015), ceftazidime/avibactam y ceftolozane/tazobactam, no se encontraban disponibles en nuestro medio.
+
+El uso clínico extendido de polimixina B fue abandonado poco después de su introducción en la década de 1950 debido, entre otras razones, a las altas tasas de nefrotoxicidad, diferencias en la dosificación, perfil farmacocinético y famacodinámico (PK/PD-por sus siglas en inglés) incierto y la disponibilidad de opciones terapéuticas más seguras. No obstante, en la última década, ante el surgimiento y alta tasa de mortalidad en infecciones invasoras causadas por BGN-MR, polimixina B, en monoterapia o en combinación con otros antimicrobianos activos contra BGN-MR, permanece como el principal antimicrobiano usado para agentes de este tipo en nuestro medio1,7,8.
+
+Históricamente, la falla renal asociada al uso de polimixina B fluctúa entre 14 y 60%8-13. No obstante, estudios recientes con polimixina B sugieren un panorama más favorable, mostrando que la incidencia de nefrotoxicidad es menos común, menos grave y principalmente reversible al descontinuar la terapia antimicrobiana. En Colombia y Latinoamérica, los datos de experiencias clínicas con el uso de polimixina B son escasos1415. Así, en el presente estudio nos propusimos encontrar los factores clínicos asociados a nefrotoxicidad por criterios AKIN (en inglés Acute Kidney Injury Network) en pacientes que reciben terapia con polimixina B intravenosa por más de 48 h.
+
+Materiales y Métodos
+
+Diseño
+
+Se realizó un estudio observacional, analítico, retrospectivo, tipo cohorte histórica, con un análisis de casos y controles anidado. Dicha cohorte fue conformada por todos aquellos pacientes internados en el Hospital Universitario de Neiva, Colombia, que hubieran recibido polimixina B parenteral en el período comprendido entre 1 enero de 2011 y 30 junio de 2015, con el diagnóstico de infección por BGN-MR. Se les midieron las concentraciones séricas de creatinina al inicio, a los siete días y al final del tratamiento.
+
+Se consideraron como casos aquellos que presentaron falla renal según criterios AKIN de definición y de gravedad de la disfunción renal aguda16 y como controles aquellos que no desarrollaron falla renal durante o al final de tratamiento con polimixina B. El presente estudio fue aprobado por el Comité local de Ética e investigación, según acta N° 002-002 del 24/02/15.
+
+Población
+
+Se incluyeron todos los pacientes hospitalizados mayores de 18 años que recibieron polimixina B intravenosa, en monoterapia o en terapia combinada con otros antimicrobianos, por más de 48 h. Se excluyeron pacientes en terapia dialítica antes del inicio de polimixina B.
+
+Las dosis y el uso de polimixina B, fueron regulados por el Departamento de Infectología, según la guía institucional de manejo de antimicrobianos. La dosis empleada fue de 15.000 a 25.000 UI/kg/día.
+
+Se usaron otros fármacos nefrotóxicos concomitantes como vancomicina, amikacina, medio de contraste endovenoso, dipirona y anfotericina B deoxicolato (detalle en Resultados).
+
+Mediciones y variables
+
+Los datos demográficos y las características clínicas de los pacientes se obtuvieron de las historias clínicas. Se registraron de cada paciente las variables socio-demográficas y parámetros de laboratorio.
+
+La revisión de historias clínicas fue realizada por tres médicos del Hospital Universitario de Neiva. El ingreso de los datos se realizó por dos operadores independientes, con posterior conciliación de los datos por el investigador principal, a fin de detectar valores erróneos e información faltante.
+
+Análisis estadístico
+
+La información se ingresó en un programa estadístico electrónico computarizado (Stata versión 12). El análisis se hizo con base en la evaluación de los factores de riesgo asociados a la nefrotoxicidad por polimixina B y se compararon los grupos con y sin falla renal, de acuerdo a los valores de creatininemia realizada a los siete días, o al final de tratamiento en aquellos sin medición de creatininemia a los siete días. Las variables cuantitativas continuas se resumieron utilizando mediana e intervalo intercuartílico (RQI) según la distribución observada, mientras que las variables cualitativas se resumieron utilizando proporciones. El análisis bivariado para evaluar la asociación de las principales co-variables con la ocurrencia de falla renal, se llevó acabo realizando contrastes o comparaciones de proporciones para las variables cualitativas, mediante los test de χ2 o exacto de Fisher, según el caso, y para las variables cuantitativas se determinó inicialmente su patrón de distribución mediante métodos gráficos y el test de Kolmogorov-Smirnov y se realizaron pruebas de contraste de hipótesis para la diferencia de medias como la t student o la U de Mann-Withney-Wilcoxon, así como también las diferencias de rangos y medianas. Para identificar variables asociadas a la presencia de falla renal se estimaron Odds Ratio y coeficientes de correlación de Spearman para las no paramétricas, con sus respectivos intervalos de confianza para cada variable. Por último, se realizó un análisis multivariado utilizando un modelo de regresión logística donde se incluyeron variables clínicas consideradas a priori asociadas al evento, así como también aquellas variables asociadas al mismo en el análisis bivariado. Se tomó como nivel de significancia estadística el valor de p < 0,05.
+
+Resultados
+
+Se revisaron 486 registros clínicos de pacientes; 347 fueron excluidos (142 no se encontraron en archivo central, 93 con registros clínicos y de laboratorio incompletos y 112 por criterios de exclusión). En total 139 registros de igual número de pacientes cumplieron con los criterios seleccionados.
+
+Las características socio-demográficas y las co-morbilidades de los que desarrollaron falla renal y los que no presentaron falla renal, se presentan en la Tabla 1.
+
+ 
+
+Tabla 1. Características socio-demográficas, clínicas y parámetros de laboratorio        de pacientes que recibieron polimixina B 
+
+
+
+ 
+
+Entre los pacientes evaluados, 110 (79%) tuvieron alguna co-morbilidad, con predominio de patologías abdominales en aquellos que presentaron falla renal (p = 0,026).
+
+ 
+
+
+
+Figura 1. Uso concomitante de antimicrobianos.
+
+ 
+
+El servicio donde más se prescribió polimixina B, en aquellos pacientes que presentaron falla renal, fue UCI (81,9%) (p < 0,001).
+
+Las IAAS tuvieron una frecuencia de 90,1% en aquellos que presentaron falla renal (p < 0,001).
+
+El uso de un fármaco vasopresor y la presencia de shock fueron factores estadísticamente significativos en aquellos que presentaron falla renal (p < 0,001).
+
+De acuerdo con los criterios AKIN, 61 pacientes (44%) presentaron falla renal siendo los criterios I y II de la clasificación AKIN los de mayor frecuencia (p < 0,001).
+
+La mediana de días de tratamiento con polimixina B fue de 14 días en pacientes que no desarrollaron falla renal (RIQ 10-20), en comparación con 11 días (RIQ 8-15) de los que sí presentaron falla renal (p = 0,013) (Tabla 1).
+
+Fue significativo (p < 0,001) el incremento en la tasa de mortalidad de los pacientes que desarrollaron falla renal (58%) frente a los que no la desarrollaron (25%).
+
+Otros efectos adversos asociados a polimixina B fueron: reacciones cutáneas e hiperpigmentación (14%), flebitis química (5%) y neurotoxicidad reportada en un paciente (0,72%).
+
+Otros antimicrobianos de uso concomitante con polimixina B fueron carbapenémicos en 44 (31,6%), glicilciclinas 44 (31,6%) y cefalosporinas en 42 casos (30,2%).
+
+Con relación a agentes nefrotóxicos se identificó el uso de vasopresor en 64 ocasiones (46,0%) siendo estadísticamente significativo (p = < 0,001) para el desarrollo de nefrotoxicidad (Figura 2). Diez y nueve pacientes (13,6%) habían tenido exposición previa a polimixina B (p = 0,045).
+
+ 
+
+
+
+Figura 2. Uso de otros agentes nefrotóxicos.
+
+ 
+
+Los factores de riesgo asociados a variables categóricas se describen en la Tabla 2. De forma interesante, la toma de cultivo de control (cuyo resultado podría interpretarse como un equivalente a resolución microbiológica de infección o relevante para orientar su manejo) se asoció como factor protector de falla renal (OR 0,43; IC 95% 0,21-0,91).
+
+ 
+
+Tabla 2. Factores de riesgo asociados a variables categóricas
+
+
+
+ 
+
+Los pacientes que presentaron falla renal tuvieron 4,1 veces más riesgo de morir durante la estancia hospitalaria (OR 4,11; IC 95% 1,87-9,10). Se encontró una correlación (Tabla 3) entre la gravedad de la falla renal según criterios AKIN y el valor de creatininemia basal (Rho: 0,17; IC 95% 0,00-0,33), con significación estadística (p = 0,02).
+
+ 
+
+Tabla 3. Factores de riesgo asociados a variables continuas
+
+
+
+ 
+
+En el análisis multivariado se encontraron como factores de riesgo independiente para falla renal: la dosis diaria de polimixina B por cada millón de unidades (OR 2,19; IC 95% 1,04-4,64), estancia en días en UCI (OR 1,03; IC 95% 1,00-1,06), presencia de IAAS (OR 6,43; IC 95% 2,12-19,47) y el uso de un fármaco vasopresor (OR 5,38; IC 95% 2,40-12,07) (Tabla 4).
+
+ 
+
+Tabla 4. Regresión logística para falla renal
+
+
+
+ 
+
+Discusión
+
+Nuestro estudio encontró una alta tasa de nefrotoxicidad (44%) asociada al uso de polimixina B. La frecuencia de nefrotoxicidad observada se encuentra dentro de los rangos ampliamente reportados en la literatura médica (14-60%)9,10,12,14-16.
+
+Confirmando los hallazgos previamente descritos por Oliveira, y cols.17, quienes reportaron que la nefrotoxicidad por polimixina B estaba asociada independientemente con el aumento de la mortalidad, nuestro estudio demostró un exceso de mortalidad en pacientes que desarrollaron falla renal aguda por polimixina B.
+
+Estudios recientes sugieren que la frecuencia en intensidad de nefrotoxicidad por polimixina B es variable. Las políticas implantadas en nuestra institución -a través de guías de manejo clínico de antimicrobianos- son importantes para garantizar la seguridad de la administración de polimixina B. La recomendación institucional establece una dosificación entre 15.000-25.000 Ul/kg/día y una frecuencia de administración no menor a 12 h.
+
+Lo anterior está en línea con el estudio de Ouderkirk y cols., quienes emplearon esquemas de dosificación similares. No obstante, en dicho estudio se reportaron tasas de nefrotoxicidad más bajas (14%) comparadas con la nuestra y no se encontró asociación entre la dosis diaria de polimixina B y falla renal, en oposición a nuestro estudio10.
+
+En el presente estudio, el valor de creatininemia basal fue asociado con mayor riesgo de nefrotoxicidad según la escala de AKIN, lo cual ha sido previamente comunicado por Bahlis y cols. y Akajagbor y cols.15,18, quienes documentaron en sus estudios mayor nefrotoxicidad en pacientes con creatininemia anormal al inicio del tratamiento.
+
+Abdelraouf y cols., describieron en su estudio que la dosificación cada seis horas podría tener implicaciones para la gravedad y la aparición de nefrotoxicidad más temprana asociada con polimixina B y que la dosificación una vez al día con la misma dosis diaria total, retrasaría la aparición de nefrotoxicidad sin afectar la actividad bactericida de fármaco.
+
+Un interesante punto se desprendería de nuestros resultados, donde se observó que con infusiones cada 12 h puede desarrollarse falla renal, lo que sugiere un conjunto de eventos que van más allá de este aspecto9.
+
+Finalmente, por medio de la regresión logística, se determinó que las IAAS, el uso de un fármaco vasopresor, la estancia prolongada en UCI y la dosis diaria de polimixina B aumentaron el riesgo para falla renal.
+
+Maldonado y cols. y Restrepo y cols., describen a las IAAS como el efecto adverso más frecuente durante el cuidado del paciente y uno de los principales factores relacionados con morbilidad y mortalidad en pacientes hospitalizados; encontrándose una prevalencia de 10,1 a 15,5 por 100 pacientes en los países en desarrollo19,20. En nuestra institución, el comportamiento de la tasa anual de IAAS osciló entre 1,9 y 6,0 x 100 egresos hospitalarios durante el período de estudio21,6.
+
+El modelo de regresión logística mostró una fuerte asociación de falla renal con la dosis diaria equivalente de polimixina B mayor a 15.000/UI/kg/día, en forma similar a lo encontrado por Rigatto MH y cols., Tuon FF y cols. y Elias y cols, quienes demostraron la fuerte asociación entre dosis de 15.000-20.000 UI/kg/día y el riesgo de nefrotoxicidad11,22,23.
+
+La principal fortaleza de nuestro estudio consiste en el importante número de pacientes evaluado, que permitió identificar factores independientes asociados a la nefro-toxicidad por polimixina B.
+
+Además, midió la tasa de falla renal aguda en una cohorte real y, por último, es el primer estudio sobre este aspecto que se realiza en Colombia, contribuyendo a la generación de conocimiento de utilidad para la elaboración y actualización de las guías de práctica clínica, que pretenden mejorar la calidad en la atención en salud y promover la seguridad del paciente.
+
+Entre las limitaciones del estudio se resalta que, por el diseño de casos y controles anidado en una cohorte histórica, se excluyó una importante proporción de las historias clínicas o registros potenciales por datos de laboratorio incompletos, como las concentraciones séricas de creatinina a los siete días, de los que faltaron 34 registros; siendo un primer sesgo de información y selección.
+
+En el diseño del instrumento de recolección de variables no se tuvo en cuenta la clasificación de la escala de Charlson, medidas antropométricas como índice de masa corporal (IMC), peso y otros parámetros de laboratorio como albúmina. Adicionalmente la escala de Apache y SOFA (Sequential Organ Failure Assessment por su sigla en inglés), determinantes de gravedad de la enfermedad, fueron variables importantes no incluidas en nuestro estudio, por las características del diseño.
+
+Conclusión
+
+La incidencia de nefrotoxicidad asociada a polimixina B en Colombia es superior a la reportada en estudios recientes provenientes de E.U.A., aunque similar a experiencias latinoamericanas, como la de Brasil. Sin embargo, con respecto a la relación entre nefrotoxicidad y la administración de polimixina B, ésta ocurre en pacientes con infecciones graves por BGN-MR, que presentan además otros factores de riesgo para injuria renal como shock, co-morbilidades o uso de un fármaco vasopresor. Del mismo modo, las dosis de polimixina B superiores a 15.000UI/kg/día, creatininemia basal elevada (falla renal previa) y adquisición de IAAS, son factores de riesgo fuertemente asociados con falla renal.
+
+La aparición de injuria renal aguda no limita el uso de polimixina B a pesar de su perfil de nefrotoxicidad, por la carencia de nuevas opciones terapéuticas efectivas contra las infecciones graves por BGN-MR. Se requieren estudios adicionales con polimixina B, con pacientes internados en servicios diferentes a la UCI. De igual manera, en el escenario clínico se deben tomar en consideración los resultados de los estudios de PK/PD para maximizar la eficacia y disminuir la toxicidad del fármaco.
+
+Agradecimientos. A Juan Carlos Aristizabal MSc. Asesor Estadístico, Epidemiólogo de la Universidad Javeriana, Cali, Colombia y Miguel Pinzón, Residente de Anestesiología, Especialista en Epidemiologia, por su disposición y colaboración para el desarrollo del presente estudio.

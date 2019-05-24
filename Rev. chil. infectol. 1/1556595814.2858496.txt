@@ -1,0 +1,96 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000500574
+Evaluación del Aspergillus lateral flow device para el diagnóstico de aspergilosis invasora, experiencia en un hospital universitario
+
+Introducción
+
+La incidencia de enfermedad fúngica invasora (EFI) ha aumentado en los últimos años1. Estudios internacionales muestran una incidencia de hasta 13% de aspergilosis invasora (AI) en pacientes de riesgo2. En nuestro medio, en un estudio prospectivo de etiología de neutropenia febril en pacientes adultos portadores de leucemia aguda y linfoma, EFI fue el responsable de 20% de estos episodios, siendo AI la etiología predominante3. En general, en la mayoría de las series se describe que Aspergillus fumigatus es la especie más frecuentemente identificada4 y entre los factores de riesgo más comunes destacan la presencia de neutropenia profunda y prolongada, tanto en pacientes en quimioterapia por patología maligna hematológica como receptores de trasplantes de precursores hematopoyéticos y el uso prolongado de corticosteroides o inmunosupresores en receptores de trasplante de órganos sólidos o por enfermedad inflamatoria. A pesar de los avances en el diagnóstico y la terapia antifúngica, la mortalidad asociada sigue siendo elevada1.
+
+Como en otras EFI, el diagnóstico de AI es difícil, requiriendo evidencia histológica de infiltración de tejidos o cultivo positivo para Aspergillus desde un sitio estéril5, resultando clínicamente desafiante obtener muestras de tejido por biopsia en pacientes habitualmente trombocitopénicos. Tanto la visualización directa del hongo como el cultivo presentan una sensibilidad menor a 50%, y si bien las técnicas de biología molecular ya están estandarizadas6, aún no están incluidas como criterio diagnóstico según el consenso vigente de EORTC/MSG5,7 y requieren de laboratorios de mayor complejidad, dificultando su implementación de manera rutinaria. En este contexto, los marcadores serológicos han surgido como una herramienta de gran utilidad, en especial la determinación de galactomanano (GM) en suero y/o lavado bronco alveolar (LBA), que ha sido incorporada en los criterios diagnósticos de AI de EORTC/MSG5. La sensibilidad del GM varía entre 58 y 64%8, requiere de personal entrenado, es de alto costo y tiene tiempos de entrega de resultados variables, de varias horas a días. Además, en pacientes en que se vigila la emergencia precoz de infección por Aspergillus spp., se sugiere su determinación dos a tres veces por semana, lo que implica altos costos del proceso de vigilancia.
+
+Durante el año 2008 se describió el desarrollo de una inmunocromatografía específica para la detección de antígenos liberados durante el crecimiento activo de Aspergillus conocido como Aspergillus lateral flow device (LFD)9 mediante el uso de un anticuerpo monoclonal Mab JF5 del tipo IgG, específico para una glicoproteína de 40 kDa secretada durante el crecimiento activo de Aspergillus. Este test puede realizarse en muestras de suero o LBA y su lectura se efectúa a los 5 min.
+
+El objetivo de este trabajo fue evaluar el rendimiento diagnóstico de LFD en muestras de suero y/o LBA de pacientes adultos que habían sido sometidos a proceso diagnóstico por sospecha de AI.
+
+Material y Métodos
+
+Muestras y pacientes
+
+Estudio de corte transversal, en el que se identificaron muestras de suero y LBA, congeladas a −20°C, que habían sido procesadas para la determinación de GM entre los años 2012 y 2015 en el laboratorio de microbiología de la Red de Salud UC-CHRISTUS, correspondientes a pacientes mayores de 15 años internados en el Hospital Clínico de la misma Red, a quienes su médico tratante solicitara el examen por vigilancia, sospecha o seguimiento de AI. Se procedió a revisar las fichas clínicas de los casos, se registraron las variables demográficas, enfermedad de base, estudio imagenológico, resultados de GM, así como los resultados de estudio microbiológico e histológico en la medida que estaban disponibles. Los casos fueron clasificados como episodios de AI probada, probable, posible o ausencia de ésta, según criterios EORTC/MSG5.
+
+Aspergillus lateral flow device
+
+A las muestras seleccionadas se les realizo el test de LFD segun instrucciones del fabricante (OLM Diagnostics ®). En breve, en el caso de muestras de suero, 50 μl de muestra fueron calentadas a 50ºC con 100 μL de tampon para luego ser centrifugadas a 14.000 g durante cinco minutos. Cien μL del sobrenadante fueron depositados en la tira inmunocromatografica la que fue leida a los cinco minutos (Figura 1). En el caso de muestras de LBA, las muestras fueron depositadas directamente en la tira. Cada muestra fue leida por tres observadores independientes.
+
+Figura 1 Lectura de resultado de LFD de dos muestras distintas, se pueden apreciar hasta dos bandas, la banda de control (identificado con flecha sólida negra) y luego una segunda banda (identificado con flecha sin relleno), cualquier intensidad se debe interpretar positiva. En la imagen, a izquierda resultado positivo y a derecha resultado negativo (ausencia de banda). 
+
+Galactomanano
+
+Las muestras seleccionadas habían sido procesadas en el laboratorio para la detección de GM (Platelia™ Aspergillus, Bio-Rad) según instrucciones del fabricante. Se consideró como positivo un índice mayor a 0,5 tanto para muestras de suero como para LBA.
+
+Análisis y pruebas estadísticas
+
+Con los datos anteriores se calculó la sensibilidad, especificidad y likelihood ratio (LR) positivo y negativo para el LFD. Se determinó además la concordancia entre los resultados del LFD y GM calculándose el índice de Kappa. Para el análisis estadístico se utilizaron las pruebas de χ2 cuadrado y Fisher test según corresponda, mediante programa estadístico OpenEpi y GraphPad software.
+
+Este proyecto fue aprobado por el Comité de Ética de la Facultad de Medicina de la Pontificia Universidad Católica de Chile (Número de protocolo 141203005, enero de 2015).
+
+Resultados
+
+Se analizó un total de 142 muestras (113 sueros y 29 LBA) de 98 pacientes cuya edad fue de 50 ± 18 años, con un predominio del sexo masculino (60,2%). El 43,8% de los pacientes presentaba como enfermedad de base una neoplasia hematológica siendo más frecuente la leucemia mieloide aguda (31,6%). Los factores de riesgo para el desarrollo de AI fueron neutropenia profunda (. 100 neutrófilos/ mm3) en 31,6% y uso de terapia inmunosupresora no corticoesteroidal en 27,5% (Tabla 1).
+
+Tabla 1 Características de 98 pacientes cuyas muestras de suero o lavado broncoalveolar habían sido utilizadas previamente para determinación de galactomamano por vigilancia, sospecha o seguimiento de aspergilosis invasora, que fueron sometidas a prueba de lateral flow device 
+
+RAN: recuento absoluto de neutrófilos.
+
+En el grupo de pacientes neutropénicos, el diagnóstico de EFI se realizó, en promedio, a los 10 días de iniciado el cuadro de neutropenia. De los pacientes incluidos, ocho tenían un cultivo positivo para Aspergillus, siendo Aspergillus sección Fumigati el más frecuentemente aislado, en cinco de ellos (62,5%), Aspergillus sección Flavi en dos (25%) y Aspergillus sección Terrei en un paciente (12,5%).
+
+Aplicando los criterios EORTC/MSG5, de las 142 muestras incluidas, ocho correspondían a AI probada (5,6%), 59 a AI probable (41,5%), 18 a AI posible (12,7%) y 57 a ausencia de AI (40,1%).
+
+Los resultados obtenidos por LFD se muestran en la Tabla 2. De las 142 muestras analizadas, LFD fue positivo en 88 (61,9%) y negativo en 53 (37,4%), no pudiendo interpretarse en uno (0,7%).
+
+Tabla 2 Resultados de lateral flow device de las 142 muestras, 113 de suero y 29 de lavado bronco-alveolar, agrupadas según categoría diagnóstica de aspergilosis invasora 
+
+Según criterios EORTC/MSG5. AI: aspergilosis invasora. LBA: lavado bronco-alveolar.
+
+Al analizar los resultados del LFD por tipo de muestra, observamos que, de las 113 muestras de suero analizadas, LFD fue positivo en 66 (58,4%), negativo en 46 (40,7%) no pudiendo interpretarse en una muestra (0,8%). Por otra parte, al comparar los resultados de LFD entre pacientes neutropénicos versus no neutropénicos, observamos que en las muestras de suero LFD fue positivo en 48/77 (62,3%) vs 18/36 (50%) p = 0,049, respectivamente.
+
+Para el cálculo de sensibilidad, especificidad y LR se excluyeron las muestras de casos clasificados como AI posible y las muestras no interpretables. Los resultados por tipo de muestra se presentan en la Tabla 3. La sensibilidad y especificidad global fueron de 73,1 y 50%, respectivamente. Al analizar según tipo de muestra obtuvimos una sensibilidad y especificidad de 70,9% y 53,5% para muestras de suero mientras que para LBA fueron de 83,3% y 38,5%.
+
+Tabla 3 Sensibilidad, especificidad y likelihood ratio (LR) de lateral flow device en 123 muestras de suero y lavado bronco-alveolar*
+
+					 
+
+*Se excluyen 18 casos de aspergilosis posible y un caso con resultado lateral flow device no interpretable.
+
+Por otro lado, al analizar los resultados según tipo de paciente observamos una sensibilidad y especificidad de 70,7% y 45,8% para muestras de suero de pacientes neutropénicos y en cambio de 73,7% y 54,2% para muestras de pacientes no neutropénicos.
+
+Al comparar los resultados de LFD con GM del total de muestras, obtuvimos una concordancia general entre ambos métodos de 62,4% (54,1%-69,9%). El índice de concordancia Kappa calculado fue de 0,202 (0,03682-0,3669), considerado como un acuerdo mediano (Tabla 4). Al realizar esta comparación sólo en el grupo de pacientes neutropénicos se observó una concordancia de 66,2% (42,2%-69,3%) con un índice de Kappa de 0,28 (0,079-0,496), mientras que en las muestras correspondientes a pacientes no neutropénicos la concordancia fue de 56,2% (42,2%-69,3%) con un índice Kappa de 0,066 (-0,2-0,34), es decir la concordancia fue igual al azar.
+
+Tabla 4 Concordancia de resultado positivo y negativo de lateral flow device vs galactomanano en 142 muestras de suero y lavado bronco-alveolar 
+
+LFD: lateral flow device.
+
+GM: galactomanano.
+
+Discusión
+
+En este estudio se evaluó el rendimiento de LFD en pacientes adultos, tanto para muestras de suero como LBA, que habían sido evaluados por vigilancia, sospecha o seguimiento de AI, constatando una sensibilidad de 73,1%, especificidad de 50% y una concordancia mediana con GM, evidenciando un leve mejor desempeño en pacientes neutropénicos que no-neutropénicos.
+
+Diversos estudios publicados en la literatura han evaluado el desempeño de esta prueba con resultados generales satisfactorios. En un estudio del Reino Unido, que incluyó 103 adultos con patología hemato-oncológica en alto riesgo de AI, con ocho casos de AI probada, 14 probable, 22 posible y 59 sin AI, se describe una sensibilidad de 81% con una especificidad de 98%10. Por otro lado, un estudio experimental en modelos animales de AI que compara las pruebas LFD con GMN y β-D-glucano en suero, demuestra la mayor precocidad de LFD en evidenciar AI11. Por su parte, Hoenigl y cols., publicaron resultados de LFD para muestras de LBA en pacientes con cáncer hematológico y receptores de órganos sólidos reportando sensibilidades de 80 a 100%, con especificidades de 81 a 98% y valores predictores positivo y negativo de 71 y 100%, respectivamente12.
+
+Si bien en nuestro estudio observamos un desempeño global comparable a lo publicado en términos de sensibilidad, destaca la baja especificidad observada, en especial para muestras de LBA. Ahora bien, en un estudio multicéntrico publicado por Eigl y cols., en que se evaluó el rendimiento diagnóstico de LFD en 149 muestras de LBA de pacientes críticos con patología pulmonar o cardiaca y pacientes hemato-oncológicos en cuatro centros en Austria y Alemania, se describe una especificidad de 54%, que resulta más cercana a la observada en nuestro estudio13.
+
+Respecto a la concordancia mediana a pobre entre GM y LFD presentada en los resultados de nuestra serie, contrastan con un estudio chileno publicado por Álvarez en que se evaluó la concordancia entre GM y LFD en 29 muestras de suero y LBA, que incluía solo tres muestras con GM negativo, constatando una concordancia de resultado de ambas pruebas en 100% de los casos14. Esta diferencia respecto a la menor concordancia observada en nuestro estudio, podría estar explicada por el bajo número de muestras con resultado de GM negativo, grupo de muestras que presentaron el mayor número de discordancias en nuestra serie. Al revisar las discordancias entre LFD y GM de nuestros casos, en los 27 en que se obtuvo un resultado de LFD positivos con GM negativo, el promedio de GM obtenido fue de 0,1 (0,01-0,43), muy por debajo del punto de corte. En cinco de estos casos se tenía medición de β-D-glucano, habiendo resultado negativo en cuatro de ellos. El único resultado positivo presentaba una concentración de 326 pg/mL y correspondía a un paciente con diagnóstico de infección fúngica por Fusarium sp. por lo que el resultado positivo de LFD podría corresponder a una reacción cruzada con este hongo. Por otro lado, en el caso de las muestras con resultados de LFD negativo con GM positivo, el promedio del GM fue de 1,6 (0,5-9,9). A pesar de estas situaciones, dada la complejidad del diagnóstico de AI, consideramos que la concordancia entre ambos resultados no sería necesariamente el parámetro único o más relevante para definir el desempeño de este test.
+
+Factores que pudiesen influir en el desempeño de LFD han sido planteados en algunos trabajos. Uno de los factores es la subjetividad de la interpretación del resultado; según el fabricante, toda línea debe ser considerada positiva. Debemos aclarar que, durante nuestra experiencia, el test no contaba con controles por lo que no se pudo determinar la presencia de marcas muy tenues o inespecíficas. En un estudio de Held y cols., se utilizaron muestras séricas de sujetos sanos para poder establecer una línea de positividad, la cual fue cotejada con sujetos receptores de trasplante hematopoyético que desarrollaron EFI en el período de seguimiento del estudio antes y después del trasplante15. Este paso podría disminuir la interpretación de resultados inespecíficos como positivos, pero introduce subjetividad en el análisis de los resultados. Otro factor, similar a lo descrito para GM, es que el uso de antifúngicos podría disminuir la sensibilidad de la prueba16 aumentando el número de resultados falsamente negativos. Sin embargo, faltan mayores estudios que evalúen este aspecto o si, eventualmente, LDF tendría alguna utilidad en el seguimiento de la respuesta terapéutica de los pacientes con EFI. Otra consideración a tener presente para explicar el menor desempeño al esperado es haber procesado muestras congeladas por más de seis meses; dos estudios han utilizado muestras conservadas en similares condiciones hasta por seis años16,17 sin afectar el desempeño observado.
+
+Este año se ha publicado interesantes resultados de un estudio austriaco con muestras de LBA de 23 pacientes con cáncer hematológico y cinco pacientes críticos en que se evaluó una nueva versión de LFD (OLM Diagnostics®) y se comparó con el prototipo utilizado en nuestro estudio, observando una mayor sensibilidad y especificidad: 71 y 100% con la nueva versión vs. 64 y 64% con el prototipo previo18.
+
+En la medida que el test se encuentre disponible para uso rutinario, se deberá establecer su incorporación en los protocolos diagnósticos de AI. Considerando sus características en cuanto al breve tiempo de obtención de resultados, baja demanda de recursos y eventuales bajos costos, podría plantearse su uso como parte de una vigilancia más intensiva que la que es posible realizar con GM en la actualidad. Este tipo de estrategia deberá ser evaluada en un estudio diseñado para este fin.
+
+Esta experiencia nos permite señalar que LFD es un test de fácil realización no requiriendo de un laboratorio de gran complejidad. No obstante, el procesamiento de las muestras de suero necesita de un paso de centrifugación y calentamiento, lo cual limita su uso como prueba al lado de la cama del paciente (“point of care testing”). Otro aspecto a señalar es la importancia de mejorar la estandarización de la lectura del resultado para aquellos que presentan dificultad en la interpretación, a fin de eliminar la subjetividad del evaluador. La existencia de una nueva versión de LFD plantea el desafío de conocer si el rendimiento en muestras de suero o de otro tipo y en diferentes grupos de pacientes se logra replicar el beneficio observado en LBA18, para lo que se requerirán nuevos estudios que respondan estas preguntas.
+
+En conclusión, los resultados obtenidos en este trabajo sugieren una adecuada sensibilidad del test lo que podría otorgarle un valor como prueba de cribado para AI en pacientes de alto riesgo. Sin embargo, dada la baja especificidad, de considerarse su uso en la práctica clínica, todo resultado positivo deberá ser confirmado con otras pruebas diagnósticas.
+
+Previo a su incorporación, se hace necesario contar con más información proveniente de nuevos estudios que permitan establecer la validación de esta prueba en un rol de cribado, definir su rendimiento en estrategia de vigilancia o para el seguimiento de casos de AI en terapia antifúngica, establecer su rol en diferentes grupos de pacientes y conocer su aporte en la potenciación del proceso diagnóstico con el uso combinado de exámenes serológicos y de biología molecular, entre otros.
+
+Fuente de financiamiento: Donación de Aspergillus lateral flow (Olm Diagnostics) por parte de Pfizer.

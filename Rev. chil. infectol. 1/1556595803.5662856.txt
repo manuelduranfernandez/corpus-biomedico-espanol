@@ -1,0 +1,74 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000500005
+Utilización de espectrometría de masas para la identificación precoz de hemocultivos positivos: Validación de un algoritmo local
+
+Resumen
+
+Espectrometría de masas     (EM) es utilizada en identificación de hemocultivo positivo (HMP),     constituyendo un aporte en el manejo clínico de paciente séptico.     El protocolo de identificación     directa es ultra laborioso, interrumpiendo el flujo de trabajo normal del     laboratorio. Con el objetivo de hacer identificación rápida,     utilizamos EM a partir de placas de agar sangre con incubación breve     (4 a 6 h), comparando resultados con el método convencional en HMP.     Se trabajó 145 frascos de HMP, identificando correctamente por método     acortado 79% de los microorganismos. El rendimiento fue mejor en frascos     sin carbón activado y en la identificación de bacilos gramnegativo.     Con esta información, diseñamos algoritmo para la identificación     precoz de hemocultivo positivo mediante EM, procesando a ciegas a las 4 a     6 h de incubación, lo que permite adelantar el diagnóstico     en 12-16 h respecto del método tradicional, sin aumentar los costos     ni la carga de trabajo, ya que no se utiliza protocolo de extracción.
+
+Palabras clave: Espectrometría     de masas, hemocultivos, diagnóstico de laboratorio.
+
+ 
+
+Introducción
+
+El análisis proteómico     de microorganismos por espectrometría de masas (EM) es una metodología     confiable, económica y rápida, que muestra resultados promisorios     al compararlo con métodos convencionales (MC). Se ha publicado reportes     que indican que la EM puede ser utilizada con buenos resultados en la identificación     a partir de muestra directa, con protocolos publicados para urocultivo y     hemocultivo, destacando el aporte que esto significa en el manejo clínico     del paciente séptico1-5. Sin embargo, la aplicación     de los protocolos publicados para hemocultivo resulta laboriosa e interrumpe     el flujo normal de trabajo de un laboratorio, ya que en el momento en que     un hemocultivo da alarma de positivo, debe haber un profesional disponible     para realizar la secuencia completa de concentración-centrifugación,     lavado y re suspensión de pellet que indica el procedimiento,     lo que no siempre existe en la práctica diaria.
+
+En nuestro centro aplicamos     el protocolo Sepsytiper (Bruker) el año 2012 en 39 muestras de hemocultivo     positivo (Bact/alert, BioMerieux), logrando 74% de diagnóstico directo,     que se veía fuertemente reducido si el frasco de hemocultivo tenía     carbón activado (datos presentados en el XVI Congreso Chileno de Tecnología     Médica). Dado que este resultado no resultó satisfactorio,     se mantuvo el método convencional de identificación (incubación     por 18 h en placas y luego identificación por EM a partir de colonias).     Durante el primer semestre de 2014, estudiamos en paralelo los frascos de     hemocultivo positivo, por método convencional, comparando con el rendimiento     de realizar una identificación a ciegas por EM a partir de placas     incubadas durante 4 a 6 h (sin colonias visibles), con el objetivo de conocer     la correlación     entre ambos métodos, según el tipo de frasco y el tipo de microorganismo.     En base a la información obtenida, establecimos un flujograma de trabajo     que permite adelantar el diagnóstico de los hemocultivos positivos     en 12 a 16 h.
+
+Material y Método
+
+Se incluyó en el estudio     las muestras de hemocultivo positivo detectados por equipo Bact/alert, entre     el 1 de enero y 30 de junio de 2014. Los frascos detectados como positivos     por este equipo fueron procesados según un protocolo rutinario de     hemocultivo (observación de tinción de Gram con informe inmediato     al tratante, inoculación en placa de agar sangre, McConkey y PVX y     realización de identificación por EM a las 18 h, cuando se     obtienen colonias visibles y antibiograma directo en placa de agar Mueller-Hinton,     según la orientación inicial de la tinción de Gram).     En paralelo, se realizó la identificación a ciegas desde el     inóculo en la placa de agar sangre, por Vitek MS (BioMerieux).     Se registró para     cada hemocultivo positivo, la hora de procesamiento a ciegas (4 a 6 post     inoculación), realizando un arrastre con un asa del área inoculada     en la placa, cargando dos pocillos de la placa de identificación de     Vitek MS. La identificación obtenida precozmente fue corroborada posteriormente (a     las 18 h) por Vitek MS o Vitek 2 Compact (BioMerieux). Los resultados de     ambos procesos fueron comparados en relación al resultado de identificación.     Se tomó en cuenta el tipo de frasco y el tipo de microorganismo detectado.     Se consideró identificación correcta un nivel de identificación     por Vitek MS > 95% en género y especie, concordante con la identificación     convencional. Valores menores se consideraron correctos en género     si correspondían efectivamente al género identificado por MC.
+
+Resultados
+
+Durante el período que     duró el estudio hubo 165 frascos de hemocultivo positivos en nuestro     laboratorio, de los cuales se trabajó en paralelo 145. En relación     al tipo de frasco, 51% de los frascos trabajados tenían carbón     activado. Se logró la identificación correcta por método     acortado en 115 (79,3%), siendo 66% para frascos con carbón y 93%     para frascos sin carbón (Tabla 1). La identificación de bacilos     gramnegativo fue de 86%, cocáceas grampositivo 79% y levaduras     57% (Tabla 2). La distribución de especies identificadas se muestra     en las Tablas 3 a 5. La mayor parte de las identificaciones fueron con 99,9%     de confiabilidad, excepto en Staphylococcus coagulasa negativa, en que la identificación tendió a ser con valores de certeza alrededor de 96%, y en el caso de Achromobacter spp, Enterobacter spp y Streptococcus grupo viridans, la identificación por EM fue correcta a nivel de género, pero no permitió diferenciar entre especies. En los casos en que hubo discordancia (n: 2), la identificación precoz por EM dio un porcentaje de confianza bajo (menor de 73 y 76%) y no pudo corroborarse posteriormente. Se trató en ambos casos, de bacilos grampositivo, posibles contaminantes. En base a estos resultados, se definió un algoritmo de trabajo que se presenta en la Figura 1, el que incluye algunas consideraciones especiales a tener en cuenta al momento de informar.
+
+ 
+
+Tabla 1. Rendimiento de Identificación precoz, según tipo de frasco
+
+
+
+ 
+
+Tabla 2. Rendimiento identificación precoz según tipo de microorganismo
+
+
+
+ 
+
+Tabla 3. Correlación de Identificación de Cocaceas Gram positivo        por método tradicional vs precoz
+
+
+
+ 
+
+Tabla 4. Correlación       de Identificación de        Bacilos Gram negativo por método tradicional              vs precoz
+
+
+
+ 
+
+Tabla 5. Correlación       de identificación de        levaduras por método tradicional vs       precoz
+
+
+
+ 
+
+
+
+Figura 1. Algoritmo propuesto para el diagnóstico microbiológico empleando        espectrometría de masa precoz en hemocultivos.
+
+ 
+
+Discusión
+
+Este trabajo muestra que es     posible utilizar la metodología de EM, sin tener que recurrir a protocolos     que entorpecen el flujo normal de trabajo en el laboratorio, con buenos resultados.     Creemos que es un aporte para el manejo clínico, como lo han demostrado     diversos estudios de impacto en el uso apropiado y oportuno de antimicrobianos     en pacientes con sepsis4,5, ya que nos permite adelantar la identificación     12 a 16 h respecto de la identificación tradicional, con una identificación     correcta en 4 de 5 casos (el caso restante queda sin identificación).     Cabe destacar que los mejores resultados se logran con bacilos gramnegativo,     y cuando se trata de un frasco de hemocultivo que no contiene carbón     activado, lo que concuerda con datos publicados6-8. Aunque     no era un objetivo planteado inicialmente, se observó que había     mejores resultados si la identificación se realizaba a las 5 ó 6     h, en comparación con 4 h. La mediana de horas en que se hizo la identificación     acortada fue 5. Sin embargo, en el peor de los casos, se puede intentar a     las 4 h, y si no se obtiene una identificación confiable, se puede     repetir unas horas después, o esperar a tener colonias visibles, según     los MC. Con la aplicación de este algoritmo, se logra adelantar la     identificación sin aumentar los costos ni la carga de trabajo del     laboratorio, aunque es necesario considerar que para obtener la máxima     eficiencia de este sistema de trabajo, se requiere un laboratorio de microbiología     que funcione las 24 h del día, todos los días.
+
+En el grupo de muestras estudiadas,     hubo dos casos en que la identificación por método acortado     no fue igual al método tradicional (1,7%). Ambos casos se trató de     microorganismos no habituales, en que Vitek MS los identificó con     baja discriminación. En microorganismos habituales, no hay discordancias.     Es destacable que cultivos mixtos no son identificados y en levaduras hubo     un menor rendimiento, que puede obedecer a una baja presencia de Candida     albicans en el grupo de muestras de este estudio, y una muestra mixta     con dos levaduras diferentes, ambos factores que     reducen el rendimiento9.
+
+Al analizar el rendimiento de     esta metodología según tipo de microorganismo (grampositivo     o gramnegativo), se observa que bacilos gramnegativo presentaron mejor rendimiento     que cocáceas grampositivo (86 y 79%, respectivamente). En 9 de 10     casos en que no se logró identificar precozmente un bacilo gramnegativo,     y en 10 de 13 casos en que no se logró identificar precozmente una     cocácea grampositivo, se trataba de frascos con carbón activado.     Esto fue más notorio en Escherichia coli, ya que de 45 cepas,     24 fueron obtenidas en frasco con carbón activado, y seis de éstos     no pudieron ser identificados precozmente.
+
+Cabe destacar en cuanto a resultados     de antibiograma, que con el estado actual de la tecnología en el laboratorio     de microbiología, aún es necesario esperar los tiempos convencionales     para contar con resultados de susceptibilidad a antimicrobianos, por lo que     una identificación del microorganismo     en forma precoz, es un elemento que aporta a la decisión terapéutica,     en base a las sensibilidades locales conocidas.
+
+Al momento de la redacción     de este artículo, sólo hemos encontrado un trabajo que aborda     este enfoque metodológico (identificación de hemocultivo positivo     mediante EM luego de un corto período de incubación en medio     sólido), con resultados comparables a los obtenidos por nosotros10.

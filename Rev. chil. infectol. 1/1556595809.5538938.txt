@@ -1,0 +1,132 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000300003
+Incidencia y factores de riesgo para bacteriemia en pacientes pediátricos con quemaduras en un Centro de Atención Especializado en México
+
+Resumen
+
+Introducción: Los eventos de bacteriemia son causa frecuente de mortalidad en pacientes con quemaduras y pueden originarse en heridas infectadas, por translocación bacteriana de microorganismos endógenos, por dispositivos invasores o por soluciones intravenosas contaminadas. Objetivo: Cuantificar la incidencia de bacteriemia en pacientes pediátricos con quemaduras e identificar los factores de riesgo. Material y Métodos: Estudio de cohorte prospectivo, en población pediátrica con quemaduras del Hospital Civil de Guadalajara "Dr. Juan I. Menchaca". En pacientes con manifestaciones clínicas de sepsis se diagnosticó bacteriemia mediante cultivos de sangre. Se indagaron factores de riesgo con análisis multivariado con regresión de Cox. Resultados: Se incluyeron en la cohorte 260 pacientes, mediana de edad 3 años. La incidencia de bacteriemia fue de 9,6 eventos por 1.000 días paciente. Las bacterias más frecuentes aisladas fueron enterobacterias (41,9%), Staphylococcus aureus (22,6%) y Pseudomonas aeruginosa (22,6%). Los factores asociados a bacteriemia fueron: quemaduras ≥ 20% de superficie corporal quemada (HR 11,06; IC 95% 4,8-25,4), quemaduras de segundo grado profundo o mayores (HR 6,9; IC 95% 2,0-23,3) y haber tenido dos o menos desbridamientos (HR 26,4; IC 95% 8,0-87,7). Conclusiones: Pacientes con quemaduras más extensas y profundas, con menor número de desbridamientos presentan mayor riesgo de bacteriemia.
+
+Palabras clave: Bacteriemia, quemaduras, unidad de quemados, factores de riesgo.
+
+ 
+
+Introducción
+
+El 74,6% de los pacientes pediátricos que sufren quemaduras tienen menos de 5 años de edad y el principal sitio de ocurrencia de los accidentes es el hogar; las causas más frecuentes son líquidos calientes en niños bajo 4 años y fuego directo en los mayores1,2. Los eventos infecciosos son una de las complicaciones más frecuentes2,3.
+
+El tratamiento integral de los pacientes con quemaduras, que incluye reanimación hídrica, manejo ventilatorio oportuno, desbridamiento temprana de la herida, soporte nutricional y control de las infecciones, ha permitido lograr tasas de supervivencia de hasta 94,8%1,4. En México, entre los años 1979 y 2007, la tasa de mortalidad debida a quemaduras disminuyó 69% (desde 2,32/100 000 a 0,72/100 000)5, siendo los pacientes más afectados aquellos que presentaron quemaduras de tercer grado (OR 1,5 p = 0,003) y/o con extensión mayor a 49% de superficie corporal quemada (SCQ) (OR 3,3 p = 0,001)6.
+
+Después del daño térmico, la superficie de las lesiones son estériles; en las siguientes horas se colonizan por microorganismos endógenos procedentes de la piel, el tracto gastrointestinal o de la vía respiratoria. En los pacientes hospitalizados la colonización puede adquirirse del ambiente hospitalario o de manos del personal de salud y puede involucrar microorganismos multi-resistentes. Staphylococcus aureus, Pseudomonas aeruginosa y especies de enterobacterias son los microorganismos más identificados1,4,7,8.
+
+Las infecciones del torrente sanguíneo pueden originarse en dispositivos invasores como catéteres venosos centrales (CVC), por translocación bacteriana del tracto digestivo o respiratorio y por administración de soluciones intravenosas contaminadas. Diez y siete por ciento de los eventos de bacteriemia son secundarios al desbridamiento quirúrgico de la quemadura; la relevancia clínica de estos eventos es incierta4,9.
+
+La presencia del síndrome de respuesta inflamatoria sistémica (SRIS) ha sido la estrategia tradicional para identificar eventos de sepsis, pero este síndrome se puede presentar hasta en 85% de los pacientes con quemaduras. The American Burn Association (ABA) sugiere establecer el diagnóstico clínico de sepsis si se presentan tres o más de las siguientes condiciones: temperatura > 39 °C o < 36,5 °C, taquicardia progresiva, taquipnea progresiva, trombocitopenia, hiperglicemia e intolerancia a la vía oral1,4,10; la exactitud de estos criterios para el diagnóstico de sepsis confirmada con hemocultivos es limitada: sensibilidad 78,2% y especificidad 49,5%11.
+
+El objetivo de este estudio fue cuantificar la incidencia de bacteriemia en pacientes pediátricos con quemaduras e identificar los factores de riesgo.
+
+Material y Métodos
+
+Se efectuó un estudio de cohorte, prospectivo, en el Hospital Civil de Guadalajara "Dr. Juan. I. Menchaca" (HCGJIM) de la ciudad de Guadalajara, Jalisco, México. La institución otorga servicios de salud a población abierta de escasos recursos económicos. La Unidad de Atención a Niños con Quemaduras cuenta con ocho habitaciones aisladas y un quirófano para el aseo y/o desbridamientos de las quemaduras y para la inserción de dispositivos intravasculares.
+
+Se realiza reanimación hídrica a pacientes con quemaduras ≥ 10% de superficie corporal quemada (SCQ), el cálculo de los líquidos se lleva a cabo con la fórmula de Galveston, la extensión de la lesión se evalúa con la tabla de Lund-Browder y la profundidad mediante observación directa por los cirujanos plásticos. No se indican antimicrobianos sistémicos profilácticos.
+
+Con posterioridad a la limpieza o desbridamiento de las heridas, se colocan sobre las lesiones antisépticos locales (Estericide®) y apósitos con plata micronizada en gel (Silvasorb®) o en parche (Acticoat®). El cambio de apósitos se realiza cada tres a siete días, según las indicaciones del producto utilizado.
+
+Período de estudio: 18 de mayo de 2014 a 12 de julio de 2016. Se incluyeron en la cohorte todos los pacientes ingresados a la Unidad de Atención a Niños con Quemaduras, excepto los procedentes de otros hospitales, que tuvieron hemocultivos positivos a su ingreso y/o que ya se conocían con diagnóstico de bacteriemia.
+
+El cálculo del tamaño de la muestra de 260 pacientes se realizó con la finalidad de identificar factores de riesgo con Hazard Ratio (HR) ≥ 2,9, se utilizó un α 0,05 y β 0,2.
+
+Definiciones
+
+Sepsis clínica se diagnosticó si se presentaron tres o más de las siguientes condiciones: temperatura > 39 °C o < 36,5 °C, taquicardia progresiva, taquipnea progresiva, trombocitopenia después del tercer día de la quemadura, hiperglicemia o intolerancia a la vía oral10.
+
+En pacientes con criterio clínico de sepsis se obtuvo mediante técnica aséptica12, dos o más muestras de sangre igual o mayor a 2 ml y se inocularon en frascos de hemocultivo (BacT/ALERT PF Pediatric FAN®). Se monitorizó el crecimiento microbiano en sistema automatizado Bact/ALERT®3D durante siete días. Los cultivos detectados positivos fueron resembrados en agar sangre y McConkey. La prueba se catalogó como positiva si existió crecimiento de bacterias o levaduras en uno o más frascos, excepto si las bacterias fueron Staphylococcus coagulasa negativa, en cuyo caso se requirieron dos o más frascos con crecimiento microbiano. De las bacterias aisladas se identificó género y especie con sistema automatizado VITEK® 2.
+
+En pacientes con CVC, uno de los hemocultivos fue obtenido a través del catéter y uno o más de venas periféricas en sitios sin heridas; el diagnóstico de bacteriemia se estableció si ambos cultivos (central y periférico) mostraron crecimiento del mismo microorganismo o si existió crecimiento de bacterias o levaduras sólo en el cultivo de vena periférica, excepto si fueron Staphylococcus coagulasa negativa (en estos eventos se requirió que ambos frascos presentaran el mismo crecimiento microbiano). En pacientes en quienes sólo la muestra obtenida de catéter fue positiva se diagnosticó colonización del catéter.
+
+Al ingreso de cada paciente se registró la edad, género, uso de antimicrobianos profilácticos y extensión, profundidad y agente causal de la quemadura. Durante su estancia se monitorizó la utilización de dispositivos o procedimientos invasores: CVC, catéter urinario y ventilación mecánica. A su egreso se cuantificaron los días quemadura/hospitalización, días quemadura/desbridamiento y el número de desbridamientos.
+
+Análisis estadístico
+
+Se estimó la densidad de incidencia de bacteriemia para el total de pacientes y para subgrupos formados según la presencia o ausencia de los factores estudiados. De las variables cualitativas se estimaron frecuencias y porcentajes, la búsqueda de asociación con la variable dependiente se evaluó con riesgo relativo e intervalos de confianza al 95% en el programa open-epi (http://www.openepi.com/Menu/OE_Menu.htm). De las variables cuantitativas se calculó mediana y rangos. La búsqueda de asociación con la variable dependiente se realizó mediante análisis bi-variado con regresión de Cox. Las variables que presentaron valor de p < 0,2 se incluyeron en análisis multivariado con regresión de Cox en programa IBM SPSS Statistics Versión 20.
+
+El proyecto fue aprobado por los Comités de Ética e Investigación del HCGJIM con registro 1362/14.
+
+Resultados
+
+Se incluyeron en la cohorte 260 pacientes, mediana de edad de 3 años (mínima 0,16, máxima 15), 49,6% (n: 129) fueron de género femenino y 50,4% (n: 131) masculino.
+
+La mediana de SCQ para el total de pacientes fue de 10% (mínima 1, máxima 60), en 79,2% (n: 206) la SCQ fue menor a 20% y sólo 3,8% (n: 10) tuvieron SCQ mayor a 40%.
+
+Presentaron quemaduras de segundo grado superficial 43,5% (n: 113), segundo grado profundo 42,7 % (n: 111) y de tercer grado 13,8% (n: 36). Los agentes causantes de las quemaduras fueron: líquidos calientes (70,8%, n: 184), fuego (20,8%, n: 54), electricidad (5,4%, n: 14) y quemadura por contacto (3%, n: 8).
+
+Antes de su ingreso a la unidad, 9,6% (n: 25) de los pacientes recibieron antimicrobianos profilácticos, los más utilizados (64%) fueron cefalosporinas en monoterapia o en combinación con aminoglucósidos o vancomicina.
+
+La mediana del tiempo entre la quemadura y el ingreso fue de un día (mínimo 0, máximo 16); 98,5% (n: 256) se sometieron a uno o más desbridamientos quirúrgicos, la mediana de tiempo entre la quemadura y el primer desbridamiento quirúrgico fue de dos días (mínima 0, máxima 15), la mediana de desbridamientos por paciente fue de dos intervenciones (mínima 0, máxima 14).
+
+Se colocó CVC a 10% (n: 26) de los pacientes, catéter urinario en 24,6% (n: 47) y conexión a ventilación mecánica en 1,9% (n: 5).
+
+Los pacientes acumularon 3.007 días de estancia hospitalaria (mediana 8, mínimo 1, máximo 108).
+
+Treinta y cuatro por ciento (n: 89) presentó sepsis clínica, de los cuales 32,6% (n: 29) tuvieron hemocultivos positivos; la densidad de incidencia de bacteriemia fue de 9,6 eventos por 1.000 días paciente (IC 95% 6,6-13,7).
+
+Las bacterias aisladas fueron enterobacterias 41,9% (n: 13), Staphylococcus spp. 25,8% (n: 8), P. aeruginosa 22,6% (n: 7), Streptoccoccus pyogenes 6,5% (n: 2) y Enterococcus faecalis 3,2% (n: 1); dos eventos de bacteriemia fueron polimicrobianos (Tabla 1).
+
+ 
+
+Tabla 1. Microorganismos aislados de sangre       en pacientes pediátricos con quemaduras
+
+
+
+ 
+
+La incidencia de bacteriemia en función de variables demográficas, clínicas e intervenciones invasoras se enlistan en la Tabla 2. Para cada variable se estimó riesgo relativo (RR) e intervalos de confianza al 95% (IC 95%). Se observó asociación significativa de los eventos de bacteriemia con quemaduras ≥ 20% de SCQ, haber tenido dos o menos desbridamientos, la presencia de CVC y catéter urinario (Tabla 2). La extensión de la quemadura y el total de desbridamientos examinados como variables cuantitativas también fueron significativas (Tabla 3).
+
+ 
+
+Tabla 2. Incidencia de bacteriemia en pacientes pediátricos con       quemaduras en función de variables demográficas, clínicas e       intervenciones invasoras
+
+
+
+ 
+
+Tabla 3. Análisis bi-variado de variables cuantitativas e IC al 95%
+
+
+
+ 
+
+Las variables que presentaron valor de p < 0,2 se incluyeron en análisis multivariado con regresión de Cox; para obtener el modelo final se introdujo el total de las variables que cumplían el criterio y se excluyeron paso a paso, en función de su significancia estadística o la influencia que tenían para otras variables dentro del modelo. Los factores de riesgo identificados mediante análisis multivariado se enlistan en la Tabla 4.
+
+ 
+
+Tabla 4. Análisis multivariado (regresión de Cox) de variables        asociadas a bacteriemia
+
+
+
+ 
+
+En la cohorte sólo se registró una muerte, la cual fue secundaria a choque séptico por Klebsiella pneumoniae resistente a antimicrobianos de primera elección (cefalotina-amikacina); dos pacientes con quemaduras > 40% de SCQ fueron trasladados a Shriner’s Hospitals for Children-Galveston
+
+Discusión
+
+De manera similar a lo reportado en diferentes estudios, la principal causa de quemaduras en niños atendidos en HCGJIM fueron líquidos calientes (70,8%) y fuego (20,8%)1,2,7. La incidencia de bacteriemia fue de 9,6 eventos por 1.000 días paciente, y las bacterias más identificadas fueron enterobacterias, P. aeruginosa y S. aureus.
+
+Se ha propuesto que los eventos de bacteriemia que se presentan después del desbridamiento quirúrgico de las heridas pueden ser transitorios y es incierta su trascendencia clínica9. En nuestra cohorte, seis eventos de bacteriemia se presentaron en las 72 h posteriores al primer desbridamiento; todos los pacientes recibieron tratamiento antimicrobiano debido a la presencia de sepsis clínica. Ramos GE y cols.9, demostraron mediante cultivos de sangre y secreción de herida simultáneos, que 17% de los procedimientos de desbridamiento se asocian a bacteriemia, con tendencia a ser más frecuentes en quemaduras mayores (RR 3,78; IC 95% 0,93-15,3). Otras fuentes de infecciones del torrente sanguíneo son las manos de personal médico, la colonización de catéteres y la translocación bacteriana favorecida por hipoperfusión intestinal7.
+
+Devrim I y cols.13, observaron diferencia en la etiología de bacteriemia en niños con quemaduras en función del tiempo posterior al daño térmico; en la primera semana, 90% de los eventos fueron causados por cocáceas gram-positivas, mientras después de la segunda semana las bacterias prevalentes fueron bacilos gramnegativos (42,8%). En este estudio, la mediana de tiempo de presentación de bacteriemia fue de 7 días (mínimo 2, máxima 31) y no se identificó diferencia en la etiología según el tiempo posterior a la quemadura (p 0,39).
+
+En los microorganismos aislados en el presente estudio fue infrecuente la resistencia a antimicrobianos de primera elección, 85,7% de los aislados de S. aureus fueron sensibles a meticilina, sólo una cepa de P. aeruginosa fue multi-resistente y 92,3% de las enterobacterias fueron sensibles a amikacina, piperacilina/tazobactam, cefalosporinas y meropenem. En semejante forma a lo observado en nuestro estudio, Hassen y cols.7, identificaron que las bacterias prevalentes en infecciones nosocomiales en niños con quemaduras fueron S. aureus (30,4%), P. aeruginosa (23,8%) y Enterobacter cloacae (16%), y más de 88% de estas cepas fueron sensibles a antibacterianos de primera línea.
+
+En nuestro estudio se observó que la extensión de la quemadura ≥ 20% de SCQ incrementa diez veces el riesgo de bacteriemia, y las quemaduras de segundo grado profundo y/o de tercer grado incrementan el riesgo 5,9 veces. Es probable que la extensión y la profundidad de la quemadura sean proporcionales a la respuesta inmunológica que, en una fase temprana, se caracteriza por un estado pro inflamatorio (incremento de interleukina 1, interleukina 6, factor de necrosis tumoral e interferón gamma) seguido de una fase antiinflamatoria y activación permanente del sistema del complemento, con pobre capacidad fagocítica y de adherencia de macrófagos y neutrófilos que en conjunto promueven un estado de inmunosupresión1.
+
+Rodgers GL y cols.3, en una observación similar a nuestros resultados, advirtieron que la lesión por inhalación (p < 0,0001), las quemaduras > 30% SCQ (p < 0,0001) y lesiones de espesor total (p < 0,0001) incrementan el riesgo de infección en niños con quemaduras. Hassen y cols.7, indicaron que las consecuencias de las quemaduras están relacionadas con su extensión, y que las lesiones > 20% de SCQ se asocian con mayor riesgo de infección y de muerte. Vyles D y cols.14, estimaron que la presencia de CVC (p 0,03) y las quemaduras de segundo (p 0,03) y tercer grado (p 0,04) son predictores de infección bacteriana en niños febriles con quemaduras.
+
+Estudios previos han identificado que el desbridamiento temprano de la quemadura elimina el estímulo inflamatorio y modifica el riesgo de sepsis1,15. En esta investigación, el promedio de tiempo entre la quemadura y el primer desbridamiento no fue diferente entre pacientes con y sin bacteriemia (2,2 días vs 2,5 días, p 0,55); sin embargo, en el análisis multivariado se observó que los pacientes con quemaduras > 20% de SCQ y de segundo grado profundo o mayores, que tuvieron dos o menos desbridamientos, presentaron mayor probabilidad de bacteriemia.
+
+En el presente estudio, 9,6% (n: 25) de los pacientes recibieron antimicrobianos profilácticos por vía sistémica antes de ingresar a la cohorte; sin embargo, de manera semejante a lo reportado por Barajas-Nava y cols.16, no se cuantificó diferencia en la ocurrencia de bacteriemia en pacientes con y sin antimicrobianos. Rosanova y cols.17, observaron que el uso de antimicrobianos profilácticos en niños con quemaduras incrementa el riesgo de infecciones (RR 5,22; IC 95% 1,26-21,63).
+
+La baja mortalidad (0,3 8%) cuantificada en este estudio es probable que se deba a que la mayoría de pacientes de la cohorte presentaron quemaduras con menos de 20% de SCQ o de segundo grado superficial; Cuenca-Pardo y cols.2, en estudio realizado en Magdalena de las Salinas, México, reportaron una mortalidad mayor de 0,87%.
+
+Las limitaciones de este estudio son un tamaño de muestra insuficiente para subgrupos de pacientes con quemaduras de tercer grado o de extensión mayor a 40%. Debido a que no se contó con cultivos cuantitativos de piel, no fue posible establecer asociación de los eventos de bacteriemia con infección probada de la herida; los diagnósticos de infección de la herida (n: 4) se realizaron mediante observación y sólo en un caso existió infección concomitante de piel y el torrente sanguíneo.
+
+Conclusiones

@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000700006
+Prevalencia de interacciones medicamentosas con fármacos anti-retrovirales en Buenos Aires, Argentina
+
+Resumen
+
+Introducción: Los fármacos anti-retrovirales (ARVs) tienen un alto potencial de interaccionar farmacológicamente con otros medicamentos. Sin embargo, los datos sobre la prevalencia y los factores de riesgo para la presencia de interacciones medicamentosas clínicamente significativas (IMCS) con ARVs en países latinoamericanos son limitados. Objetivo: Evaluar la prevalencia y los factores de riesgo para estas IMCS en dos centros de atención ambulatoria en Buenos Aires, Argentina. Métodos: Estudio transversal y descriptivo (septiembre-noviembre de 2012). Se evaluó la presencia de medicación concomitante en pacientes infectados por VIH bajo tratamiento ARV. Para evaluar la presencia de IMCS se utilizó la base de datos de interacciones de la Universidad de Liverpool (www.hiv-druginteractions.org). Resultados: Se incluyeron 217 pacientes. Sexo masculino: 64% (IC 95: 57-70). Mediana de edad (IQR): 41 (36-48). Presencia de co-morbilidades: 19%. Tratamiento ARV basado en INNTI: 48%, basado en IP: 50% y basado en INNTI más IP: 2%. Mediana de linfocitos T-CD4 (IQR): 402 céls/ml (235-588). Carga viral < 50 copias/ml: 78%. El 64% (IC 95: 57-70) de los pacientes tenían > 1 medicación concomitante: antimicrobianos (40%), fármacos cardiovasculares (25%) y gastrointestinales (22%). De los pacientes que presentaban medicación concomitante 68 (49%) tenían > 1 IMCS y sólo tres (2%) presentaban una asociación contraindicada. Además, dos pacientes tenían una IMCS entre ARVs. En el análisis multivariado, el número de medicamentos concomitantes y el uso psicofármacos se asociaron con una mayor chance de presentar IMCS. Conclusiones: La presencia de medicación concomitante e IMCS fue común en nuestra población. En este contexto, la formación de profesionales de la salud en la detección de interacciones medicamentosas es de suma importancia para un manejo adecuado de pacientes con infección por VIH que reciban tratamiento ARV.
+
+Palabras clave: VIH, interacciones medicamentosas, medicación concomitante, tratamiento anti-retroviral.
+
+ 
+
+Introducción
+
+Las interacciones medicamentosas que involucran fármacos anti-retrovirales (ARVs) son frecuentes en la atención médica de pacientes con infección por VIH. Esto puede ser explicado por el uso frecuente de medicación concomitante en ellos, ya sea para la prevención o el tratamiento de infecciones oportunistas o para el tratamiento de diversas co-morbilidades tales como dislipemia, diabetes mellitus, enfermedades psiquiátricas, hepatitis virales, etc.1.
+
+Por otra parte, la mayoría de los fármacos ARVs son metabolizadas por el citocromo P450 (CYP450) y, a su vez, pueden inhibirlo y/o inducirlo, lo cual implica un riesgo de interacciones medicamentosas cuando se las utiliza en forma concomitante con otros fármacos que se metabolicen, inhiban o induzcan al CYP450. La isoenzima del CYP450 implicada en la mayoría de interacciones clínicamente significativas es CYP3A4. Los inhibidores no nucleósidos de la transcriptasa inversa (INNTI) se comportan mayormente como inductores del CYP3A4/CYP2B6 y los inhibidores de proteasa (IP) como inhibidores del CYP3A4. Sin embargo, en algunas ocasiones pueden producirse interacciones mediadas por otras isoenzimas como CYP2C9 o 2C19. En este sentido, cabe destacar que ritonavir, por ejemplo, se comporta como inductor de estas últimas isoenzimas, y efavirenz/etravirina se comportan como inhibidores, justo lo contrario del efecto que ejercen sobre el CYP3A4. Debido a este perfil inhibidor e inductor del citocromo P450 y sus diferentes isoenzimas, las interacciones medicamentosas con ARVs suelen ser complejas y a veces impredecibles1-3. La presencia de interacciones medicamentosas involucrando ARVs puede generar un riesgo aumentado de toxicidad o de fallo terapéutico según dicha interacción eleve o disminuya las concentraciones plasmáticas de los fármacos concomitantes o de los ARVs. Se han realizado varios estudios donde se evaluó la prevalencia de interacciones clínicamente significativas (IMCS) en pacientes con infección por VIH, la mayoría de ellos en países desarrollados. En estos estudios, la prevalencia de IMCS osciló entre 27 y 40%3. Al momento actual, no se dispone de datos sobre la prevalencia de IMCS provenientes de países latinoamericanos. Todas las familias de ARVs pueden estar involucradas en IMCS. Sin embargo, aquellas metabolizadas por el citocromo P450 como los IP y INNTI, son las más frecuentemente afectadas. Entre los factores de riesgo para IMCS se destacan un tratamiento ARV basado en IPs, o INNTIs, el número de medicaciones concomitantes, la co-infección con el virus de la hepatitis C y el abuso de sustancias2-5. Los objetivos del presente estudio fueron evaluar la prevalencia y los factores de riesgo para IMCS en dos centros de atención ambulatoria de pacientes con infección por VIH, en un hospital público y una clínica privada de la ciudad de Buenos Aires, Argentina.
+
+Métodos
+
+Estudio transversal y descriptivo (septiembre a noviembre de 2012). Se evaluó la presencia de medicación concomitante mediante el uso de una encuesta en pacientes infectados por el VIH, bajo tratamiento ARV, que asistieron a la consulta médica ambulatoria durante el período de estudio. Un oficial administrativo del servicio seleccionó al azar los pacientes a quienes se les realizaría la encuesta durante la consulta médica. Posteriormente, uno de los investigadores evaluó en forma independiente cada encuesta y buscó la presencia de IMCS entre la medicación concomitante y los ARVs mediante la base de datos de interacciones de la Universidad de Liverpool (www.hiv-druginteractions.org). De acuerdo a la misma, se definieron las IMCS como aquellas interacciones que:
+
+• Requieren monitoreo cercano o cambios en la posología para minimizar consecuencias clínicas y
+
+• las asociaciones contraindicadas o no recomendadas por riesgo de eventos adversos serios o fallo terapéutico.
+
+En caso de detectarse una IMCS se notificaba inmediatamente al médico tratante.
+
+Para investigar la presencia de factores de riesgo para IMCS se utilizó regresión logística. Todos los valores p reportados son de dos colas. Se consideró como estadísticamente significativo a un valor de p < 0,05. Se evaluó además la relación entre las IMCS con potencial de reducir de las concentraciones plasmáticas de los ARVs y la eficacia virológica. Para este último análisis, sólo se incluyeron pacientes que habían recibido tratamiento ARV por más de seis meses a la fecha del estudio.
+
+Resultados
+
+Se incluyó un total de 217 pacientes. El 64% (IC 95: 57-70) de los pacientes era de sexo masculino. La mediana de edad fue de 41 años (IQR 36-48) y la mediana de años desde el diagnóstico del VIH al momento de la evaluación fue de 6 (IQR 2-12).
+
+Treinta y seis por ciento de los casos presentaba enfermedad marcadora de SIDA previa o concomitante. Se observó la presencia de co-morbilidades en 19% de los casos; 7 y 15% presentaban co-infección con VHB y VHC, respectivamente.
+
+Con respecto al tratamiento ARV, se observó lo siguiente: tratamiento basado en INNTI: 48% (EFV n: 84; NVP n: 9; ETR n: 1), basado en IP: 50% (ATV n: 55, LPV n: 43, FPV n: 10) y basado en INNTI más IP: 2%. La mediana linfocitos T-CD4 (IQR) fue de 402 céls/ml (235-588), y 78% tenían carga viral < 50 copias/ml al momento de la consulta.
+
+Sesenta y cuatro por ciento (IC 95: 57-70) de los pacientes tenía > 1 medicación concomitante (mediana de 2 por paciente). Los medicamentos concomitantes más frecuentemente observados fueron: antimicrobianos (40%), fármacos cardiovasculares (25%), gastrointestinales (22%), vitaminas (22%) y psicofármacos (21%). Comparando entre diferentes grupos etarios, los sujetos sobre 50 años tenían mayor uso de fármacos cardiovasculares (50 vs 17%; p < 0,01) y menor uso de antimicrobianos (22 vs 46%; p = 0,01).
+
+De los pacientes que tenían medicación concomitante, 68 (49%) presentaban al menos una IMCS y sólo tres (2%) una asociación contraindicada (Figuras 1 y 2). Las IMCS más frecuentemente observadas involucraban a ARVs con antimicrobianos, psicofármacos y fármacos cardiovasculares. La Tabla 1 muestra en detalle todas las IMCS observadas en el estudio.
+
+ 
+
+
+
+Figura 1. Diagrama de flujo de la prevalencia de medicación          concomitante e interacciones medicamentosas clínicamente significativas.
+
+ 
+
+
+
+Figura 2. Prevalencia de interacciones medicamentosas por tipo          de medicación concomitante.
+
+ 
+
+Tabla 1. Descripción de las interacciones          medicamentosas clínicamente significativas          en pacientes con medicación concomitante (n: 68)
+
+
+
+ 
+
+Además, dos pacientes tenían una IMCS entre ARVs: atazanavir sin potenciar + tenofovir; y atazanavir potenciado + efavirenz. Veintinueve por ciento de las IMCS tenían una potencial reducción de las concentraciones plasmáticas de los ARVs entre las cuales se observaron con mayor frecuencia a: efavirenz + rifampicina (n: 11), atazanavir + ranitidina u omeprazol (n: 3), IP/INNTI + anticonvulsivante (n: 3). Pese a ello, la presencia de este tipo de interacciones medicamentosas no se asoció con un mayor riesgo de fracaso virológico.
+
+En el análisis multivariado, el número de medicamentos concomitantes y el uso de psicofármacos se asociaron con un mayor riesgo de presentar IMCS (Tabla 2). No se observaron diferencias significativas entre el uso de INNTI e IP.
+
+ 
+
+Tabla 2. Factores de riesgo para interacciones medicamentosas clínicamente          significativas en pacientes con concomitante
+
+
+
+ 
+
+Discusión
+
+El uso de medicación concomitante y la presencia de IMCS fueron frecuentemente observados en nuestra población, similar a lo descripto en otros estudios.
+
+Los pacientes que presentaron mayor riesgo de IMCS fueron aquellos con mayor número de medicaciones concomitantes y los que utilizaban psicofármacos.
+
+Algunos estudios sugieren que los tratamientos ARVs basados en IPs tendrían un mayor riesgo de IMCS que el resto de los ARVs2, y otros en que los esquemas basados en inhibidores de integrasa tendrían un menor riesgo4. En nuestro estudio no se observó una diferencia significativa en la prevalencia de IMCS comparando esquemas ARVs basados IPs o INNTIs.
+
+No se pudo incluir en este análisis a los inhibidores de integrasa debido al bajo número de pacientes contemplados en el estudio que recibían esta familia de ARVs.
+
+Es importante destacar que sólo se observó 2% de asociaciones contraindicadas. Más allá de esta baja prevalencia, es muy importante la detección de las mismas ya que en algunos casos pueden causar una elevada morbi-mortalidad.
+
+Entre las asociaciones contraindicadas observadas en nuestro estudio, se encontró el uso concomitante de ergotamina para el tratamiento de migraña en un paciente que recibía efavirenz. Al igual que con el uso de inhibidores de proteasa, esta interacción medicamentosa puede producir un cuadro conocido como ergotismo agudo, caracterizado por una vasoconstricción grave con riesgo de isquemia, principalmente de miembros inferiores, que en casos extremos pueden causar necrosis extensa. Las otras asociaciones contraindicadas y observadas en nuestro estudio fueron el uso concomitante de simvastatina con lopinavir/ritonavir y omeprazol con atazanavir no potenciado. Simvastatina, junto con lovastatina, se metaboliza principalmente por el CYP3A4, el que es fuertemente inhibido por los IP. Esto provoca el incremento de las concentraciones plasmáticas de estas estatinas con el consecuente riesgo de rabdomiolisis y hepatoxicidad. Se han reportado varios casos en la literatura médica de rabdomiolisis, incluso complicados con insuficiencia renal y coagulación intravascular diseminada, y en algunos casos riesgo de muerte6,7.
+
+Distinto es el caso del uso concomitante de esquemas que incluyan atazanavir en forma concomitante con antiácidos, ranitidina o inhibidores de la bomba de protones (ej. omeprazol). En estos casos, no existe riesgo de toxicidad por aumento de concentraciones de fármaco, sino, por el contrario, el aumento del pH gástrico producido por ranitidina y omeprazol disminuye el área bajo la curva (AUC) de atazanavir en 20 y 75%, respectivamente8. Este descenso de las concentraciones plasmáticas de atazanavir puede incrementar el riesgo de fallo virológico, principalmente en aquellos pacientes con exposición previa a IP y/o uso concomitante de tenofovir.
+
+En nuestro estudio se observó 14,5% de pacientes con interacciones que podrían disminuir las concentraciones plasmáticas de los ARVs, siendo más frecuentemente observada el uso concomitante de efavirenz y rifampicina. Los estudios que reportan datos sobre la influencia de las interacciones medicamentosas en la eficacia virológica son escasos y contradictorios5,9-12. En un estudio prospectivo que comprendió seis meses de seguimiento de pacientes con SIDA bajo terapia ARV, no se observó una diferencia significativa en la incidencia de fallo virológico entre pacientes que presentaban o no interacciones que reducían las concentraciones plasmáticas de los ARVs5. Por el contrario, en otro estudio se evaluó la prevalencia de fallo virológico en una cohorte de pacientes con infección por VIH en tratamiento con antiepilépticos inductores del citocromo P450 (Ej. fenitoína, carbamazepina y fenobarbital), en comparación con antiepilépticos no inductores del citocromo P450. Se observó una prevalencia más alta de fallo virológico en aquellos pacientes bajo tratamiento con antiepilépticos inductores, tanto en pacientes con antecedentes de fallo virológico previo como en aquellos que recibían su primer tratamiento ARVs9,10.
+
+Interacción de efavirenz y rifampicina. En este caso, puede observarse una reducción en las concentraciones plasmáticas de efavirenz, hasta en 30% del AUC, por la inducción enzimática del CYP450 (principalmente CYP2B6) producida por rifampicina. Para contrarrestar esta reducción de las concentraciones plasmáticas, la FDA recomienda aumentar la dosis de efavirenz a 800 mg en pacientes con peso mayor o igual a 50 kg. Sin embargo, diferentes estudios clínicos demostraron que el uso concomitante de estos fármacos no afectaría la eficacia virológica. De acuerdo a esto, la mayoría de las sociedades científicas internacionales no recomiendan dicho ajuste de dosis13.
+
+Todo lo anteriormente expuesto demuestra que no todas las interacciones medicamentosas tienen la misma relevancia clínica. Esto depende principalmente de los márgenes terapéuticos y de seguridad de los fármacos involucrados y de variaciones interindividuales, como la edad, condición clínica y factores genéticos. Con respecto a este último punto, existen los llamados polimorfismos de nucleótido único (single nucleotide polymorphism, o SNP) que pueden producir variabilidad de la expresión de transportadores, enzimas metabolizadoras y/o receptores, alterando de esta forma el metabolismo de los medicamentos involucrados. Con la importante excepción de CYP3A4, la mayoría de las isoenzimas del CYP450 se encuentran codificadas por genes polimórficos, y la variabilidad de su expresión se puede asociar con una alteración en su actividad metabólica y como consecuencia de ello, un impacto clínico14.
+
+A pesar de la alta prevalencia de interacciones medicamentosas reportada en los estudios descriptos previamente, existe un bajo nivel de reconocimiento de las mismas por parte de la mayoría de los médicos asistenciales de pacientes con infección por VIH, tanto en el ámbito hospitalario como en la atención ambulatoria12,15. En nuestro estudio no se evaluó el reconocimiento de las mismas por parte de los médicos tratantes. Sin embargo, cabe mencionar que, en la mayoría de los casos, la presencia de medicación concomitante fue detectada al realizar la encuesta para el presente estudio, lo cual pone en manifiesto que el uso de medicación concomitante no había sido evaluado por los médicos tratantes en consultas previas, ni había sido reportado espontáneamente por los pacientes.
+
+Dada la complejidad y las consecuencias de las IMCS, la formación de profesionales de la salud en la detección temprana de interacciones medicamentosas es de suma importancia para un manejo adecuado de pacientes con infección por VIH que reciben tratamiento ARV. Es fundamental tener conocimiento en cada consulta de los medicamentos concomitantes que reciben los pacientes, sin omitir fármacos de venta libre ni hierbas medicinales. Se deben utilizar todos los recursos disponibles (base de datos, guías de tratamientos, etc.) para identificar a las interacciones clínicamente significativas. La implementación de sistemas informáticos de registros de las prescripciones puede facilitar esta tarea, advirtiendo al médico tratante cuando se identifica una interacción medicamentosa con ARVs mediante el uso de alarmas11.
+
+El manejo de las interacciones medicamentosas depende de una serie de factores, entre los cuales se encuentran las implicancias clínicas de la interacción, la disponibilidad de alternativas terapéuticas, la conveniencia del paciente, y el costo. Las estrategias para el manejo de las interacciones medicamentosas incluyen: el ajuste de la frecuencia de administración o de la dosis de los fármacos implicados, y/o la sustitución de uno de los fármacos por otro con un menor riesgo de interacción farmacológica.

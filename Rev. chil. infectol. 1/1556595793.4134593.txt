@@ -1,0 +1,126 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182012000600005
+Procalcitonina para el diagnóstico de la sepsis tardía en recién nacidos de muy bajo peso de nacimiento
+
+Resumen
+
+La procalcitonina (PCT) ha sido    descrita como un marcador especifico de infecciones bacterianas. Objetivos:    Comparar el valor predictor de la PCT, Proteína C reactiva (PCR) y recuento    de leucocitos (RL) en el diagnostico de sepsis tardía en recién    nacidos de muy bajo peso (RNMBP). Métodos: Estudio prospectivo.    Niveles de PCT, PCR y RL fueron determinados en 53 RNMBP con sospecha clínica    de sepsis. 25 presentaron sepsis confirmada por hemocultivo, 28 sepsis clínica    (hemocultivo negativo). Resultados: Los niveles de PCT fueron significativamente    mas elevados (p < 0,05) en los RNMBP con sepsis confirmada (3,0 ng/ml) comparados    a aquellos con sepsis clínica (0,4 ng/ml) La PCT presentó el área    mas alta bajo la curva ROC 0,83 (95%IC 0,7-0,92) (p = 0,0001) comparada    a la PCR 0,51 (95%IC 0,37-0,65) y el RL 0,53 (95%IC 0,38-0,66) para    el diagnóstico de sepsis. Un valor de corte de PCT de 0,9 ng/ml presentó    una sensibilidad y especificidad de 88 y 72% respectivamente para el diagnóstico    de sepsis, con un valor predictor negativo de 87%. Conclusiones: La medición    de la PCT podria ser un biomarcador de mayor utilidad que la PCR y el RL en    el diagnóstico de la sepsis tardía en RNMBP.
+
+Palabras clave:    Procalcitonina, sepsis, recién nacidos, biomarcadores.
+
+ 
+
+Introducción
+
+La sepsis neonatal tardía    (SNT), definida como la sepsis que se presenta después de las 72 horas    de vida, es una causa importante de morbilidad y mortalidad en los recién    nacidos de muy bajo peso (RN-MBP). De acuerdo a la red neonatal del National    Institute of Child Health and Human Development de los Estados Unidos de América    (E.U.A.), la incidencia de sepsis tardía en RNMBP es de 21%, valor diez    veces superior a la incidencia de sepsis precoz. Por otro lado, la mortalidad    es tres veces mayor en aquellos RNMBP que presentan una SNT comparados a aquellos    que evolucionan sin sepsis1. Este grupo de recién nacidos    (RN) presenta un déficit en la inmunidad humoral y celular. Al nacer    prematuramente, reciben menos inmunoglobulinas transplacentarias y además    una función de complemento y fagocitosis deficiente en relación    a los RN a término. Junto a lo anterior, el uso de catéteres centrales,    la ventilación mecánica, estadías hospitalarias prolongadas    y el empleo de algunos medicamentos como corticoesteroides, bloqueadores H2    y cefalosporinas, hacen de los RNMBP un grupo altamente susceptible a las infecciones.    El diagnóstico de la sepsis neonatal es un desafío para el médico    clínico, dada la naturaleza no específica de los signos y síntomas    de la sepsis en RN prematuros. Como consecuencia de lo anterior, el sobreuso    de antimicrobianos es una situación frecuente en    las unidades de neonatología creando un ambiente para la emergencia de    resistencia bacteriana y un potencial pronóstico desfavorable2.    También, en la mayoría de los casos los resultados microbiológicos    estarán disponibles a las 48-72 horas, por lo que la identificación    precoz de los casos infectados es reconocida como uno de los mayores problemas    en los RNMBP.
+
+A pesar de que en la literatura científica aparecen propuestas de usar parámetros fisiológicos, índices hematológicos o perfiles de citoquinas al momento de la sospecha de la sepsis a fin de identificar con certeza aquellos RNMBP infectados, hoy en día no es posible realizar una recomendación de un test exclusivo para el diagnóstico de esta condición3-7.
+
+La procalcitonina (PCT), ha sido    descrita como un marcador específico de infecciones bacterianas. La PCT    es un propéptido de la hormona calcitonina constituido por 116 aminoácidos,    desprovisto de actividad hormonal y de producción extra-tiroidea,    que se eleva rápidamente en pacientes con infecciones bacterianas. Esta    respuesta se ha relacionado con la gravedad de la infección, ya que en    infecciones graves puede alcanzar concentraciones entre 10 y 1.000 ng/mL, niveles    que decrecen rápidamente después de una terapia antimicrobiana    adecuada. En individuos sanos, los valores séricos de PCT son casi in-detectables    (0,033 ± 0,003 ng/ml) ascendiendo levemente en infecciones virales, trauma    o cirugía. En voluntarios se ha    observado que aparece en la sangre después de tres horas de la inyección    de endotoxina, alcanzando concentraciones máximas a las seis horas, pudiendo    permanecer elevada por 24 horas8-10.
+
+El nacimiento, la adaptación extrauterina y la colonización bacteriana intestinal estimulan una reacción de fase aguda con liberación de PCT, por lo que en RN normales las concentraciones de PCT llegan a valores pico a la 24 h de vida (1,0-2,5 ng/ml) alcanzando valores normales a las 72 horas11-12.
+
+En adultos críticamente enfermos, la PCT se ha utilizado en la diferenciación entre síndrome de respuesta inflamatoria sistémica de origen no infeccioso y la sepsis, para determinar la progresión del síndrome séptico, evaluar la respuesta al tratamiento y estimar pronóstico13-15. Una estrategia terapéutica basada en la medición de los niveles de PCT ha logrado reducir el sobreuso de antimicrobianos en infecciones respiratorias bajas y en pacientes sépticos en UCI16-17.
+
+Por lo heterogéneo de los estudios de la PCT en RN, en términos del momento en su determinación, la población estudiada -RN a término o prematuros- y los valores óptimos de corte obtenidos, la utilidad y las ventajas de la PCT como biomarcador de sepsis en RN es aún objeto de debate.
+
+El objetivo de la presente investigación fue comparar la utilidad de la PCT con la proteína C reactiva (PCR) y el recuento de leucocitos (RL) como predictor de sepsis neonatal tardía en una cohorte de RNMBP.
+
+Pacientes y    Métodos
+
+Estudio prospectivo, observacional,    realizado en la Unidad de Neonatología del Hospital Guillermo Grant Benavente,    Concepción, durante 18 meses. Este trabajo fue aprobado por el comité    ético científico de nuestro hospital. Para ser elegibles en el    estudio los RN debieron cumplir con los siguientes criterios: Edad gestacional    menor a 32 semanas y/o peso de nacimiento menor a 1. 500 gr, ser mayores a 72    horas de vida y no haber recibido antimicrobianos las 48 horas precedentes.    Después de obtener el consentimiento informado, los recién nacidos    elegibles fueron enrolados y monitoreados por signos clínicos de sepsis.    Tres o más de los siguientes criterios fueron requeridos para iniciar    una evaluación por sepsis: inestabilidad térmica definida como    T° < 36,5 o > 37,5° C en dos tomas consecutivas; disfunción    cardiovascular definida como taquicardia persistente (> 180 lpm), bradicardia    (< 80 lpm), perfusión periférica disminuida, hipotensión    arterial (< 2DS para la edad gestacional); disfunción respiratoria    manifestada como aumento del soporte ven-tilatorio, requerimientos de oxígeno,    taquipnea > a 70 rpm o aparición de apneas; disfunción gastrointestinal    definida como distensión abdominal    asociada a vómitos aumento de residuo gástrico o deposiciones    con sangre; anomalías en los exámenes bioquímicos de laboratorio    acidosis meta-bólica, hiperglicemia; exámenes hematológicos    anormales (leucocitosis > 15.000/mm3 o leucopenia < 5.000/mm3,    trombocitopenia < 100.000/mm3).
+
+Los criterios de exclusión fueron presencia de malformaciones incompatibles con la vida y ausencia de consentimiento informado.
+
+Definiciones: Sepsis tardía se definió como el aislamiento de microorganismos patógenos de uno o más sitios normalmente estériles obtenidos después de las 72 horas de vida. Para Staphylococcus coagulasa negativa la presencia de dos hemocultivos positivos o un hemocultivo positivo y signos clínicos de sepsis se consideraron como sepsis tardía.
+
+Ensayos: Una vez que la    infección fue sospechada se realizó toma de dos hemocultivos,    RL, PCR y PCT. Los hemocultivos fueron procesados por el laboratorio de microbiología    del Hospital Guillermo Grant Benavente usando el sistema BACTEC® (Becton    Dickinson MD E.U.A.). Una vez obtenidas las muestras para medición de    PCT, fueron centrifugadas a 1.500 rpm por 15 minutos y el suero aliquotado fue    almacenado a -20° C hasta el momento del ensayo. La medición    de PCT se realizó por ensayo inmunoluminométrico (LUMI test PCT    Brahms Diagnostica Berlín Alemania) cuyo limite de detección se    sitúa en 0,5 ng/mL. La medición de PCR se hizo por turbidimetria    (Behring BN2 Marburg Alemania). El RL se realizó por el sistema Coulter    STKS (Beckmann Coulter, E.U.A.)
+
+Análisis estadístico:    Los valores son expresados en mediana (rango). La comparación entre los    grupos se realizó con el test de Mann-Whitney U. La eficacia diagnóstica    de los diferentes marcadores para el diagnóstico de sepsis tardía    se calculó a través de una curva ROC (receiver operating characteristic).    Se calculó la sensibilidad especificidad y valores predictor positivo    y negativo para cada marcador. Un valor p < a 0.05 fue considerado como estadísticamente    significativo. El análisis estadístico se realizo con el programa    SSPS 12 (SPSS Inc .Chicago, Ill, E.U.A.).
+
+Resultados
+
+Cincuenta y tres RNMBP con peso    y la edad gestacio-nal promedio de 980 (580-1.570) y 30 semanas de edad    gestacional (23-35 sem) fueron evaluados por posible sepsis tardía    al día 9 (3-40) de vida. Veinticinco RNMBP presentaron sepsis con    hemocultivo positivo, con una incidencia    de 20,8% y hubo 28 sepsis clínica con hemocul-tivo negativo; no existieron    diferencias estadísticamente significativas en las características    demográficas y edad de inclusión al estudio entre ambos grupos    (Tabla 1).
+
+ 
+
+Tabla 1.    Características de los RNMBP incluidos en el estudio
+
+
+
+ 
+
+De los 25 recién nacidos    infectados, 100% presentaron sepsis, 3 (12,5%) meningitis y 1(4%) paciente neumonía.    Diecinueve infecciones fueron causadas por microorganismos grampositivos; de    éstos, fue más frecuente Staphylococcus aureus resistente    a meticilina. Seis casos correspondieron a sepsis por bacilos gramnegativos    (Tabla 2). No se aislaron hongos.
+
+ 
+
+Tabla 2.    Microorganismos aislados de sangre en 25 recién nacidos
+
+
+
+Siete (13%) de los 53 pacientes fallecieron, todos pertenecientes al grupo de RNMBP con hemocultivos positivos. Seis fallecieron de falla multiorgánica y uno de hemorragia intracerebral masiva. Cuatro de los fallecidos presentaron una sepsis por bacilos gramnegativos (Pseudomonas aeuruginosa 2, Klebsiella pneumoniae 1, Enterobacter cloacae 1).
+
+Los niveles plasmáticos    de PCT fueron significativamente más elevados (p = 0,003) en los recién    nacidos con sepsis confirmada (3,0 ng/ml) comparados a aquellos recién    nacidos con sepsis clínica (0,4 ng/ml). No existió diferencia    estadísticamente significativa en los valores de la PCR y en el RL entre    ambos grupos (Tabla 3).
+
+ 
+
+Tabla 3.    Valores de procalcitonina (PCT), proteína C reactiva (PCR) y recuento    de leucocitos (RL) Valores expresados en mediana (rango)
+
+
+
+ 
+
+Al categorizar los pacientes según el microorganismo aislado en el hemocultivo, observamos que los niveles de PCT fueron significativamente más elevados (p = 0,001) en aquellos RNMBP con sepsis secundaria a infección por bacilos gramnegativos (73,0 ng/ml) en comparación a infecciones por grampositivos (2,0 ng/ml). Las concentraciones de la PCR y RL no arrojaron diferencias significativas. Los niveles de PCT y de la PCR fueron más elevados en los RNMBP fallecidos al compararlos con los sobrevivientes 15,0 vs 1,0 ng /ml, (p = 0,006) y 113,5 vs 47 mg/L (p = 0,017), respectivamente.
+
+Se evaluó la eficacia    diagnóstica de la PCT, PCR y RL para el diagnóstico de sepsis    mediante la curva ROC. La PCT presentó el área más alta    bajo la curva (IC 95%) comparada a los otros marcadores: PCT 0,83 (0,70-0,92)    p = 0,0001 vs PCR 0,51 (0,37 -0,65) p = 0,9 vs RL 0,53 (0,38-0,66)    p = 0,73 (Figuras 1-3).
+
+
+
+
+
+Figura    1.    Curva ROC de la PCT para el diagnóstico de sepsis. AUC 0,83 (IC95% 0,76-0,92)    p = 0,0001.
+
+ 
+
+
+
+Figura    2. Curva ROC de la PCR para el diagnóstico de sepsis AUC 0,51    (95%IC 0,36-0,65) p = 0,90.
+
+ 
+
+
+
+Figura 3. Curva ROC del    RL para el diagnóstico de sepsis AUC 0,53 95%IC 0,38-0,66) p = 0,73.
+
+ 
+
+Los puntos de corte óptimos    obtenidos a partir de la curva ROC, para la PCT fueron 0,9 ng/ ml con una sensibilidad    de 88% especificidad 71,4% y un valor predictor negativo de 87%. El LH ratio    positivo fue de 3,0 y el LHR negativo fue de 0,17 (Tabla 4).
+
+ 
+
+Tabla 4.    Precisión diagnóstica de la procalcitonina (valor de corte 0,9    ng/ml), proteína C reactiva    (valor de corte 111 mg/L) y recuento de leucocitos (valor de corte 11,2 x 103).    Resultados expresados como porcentaje (95% IC)
+
+
+
+ 
+
+Discusión
+
+En este estudio, la medición    de PCT aparece como un marcador superior a la PCR y el RL en el diagnóstico    de sepsis tardía en RNMBP cuando se utiliza el hemocultivo como "estándar    de oro" de infección.
+
+Nuestros hallazgos son concordantes    con Vazzalar, que en 67 RNMBP estableció que los niveles de PCT fueron    significativamente superiores en los pacientes infectados (5,47 ng/ml) en relación    a los no infectados (0,43 ng/ ml). Con un valor de corte de 0,5 ng/ml la PCT    obtiene una sensibilidad de 97% en relación al 73% de la PCR18.    Jacquot reportó un valor de corte de la PCT en 0,6 ng/ml en 73 RNMBP    siendo el valor predictor para diagnóstico de sepsis tardía de    la PCT superior a la PCR (área bajo la curva ROC 0,88 vs 0,77)    alcanzando una sensibilidad de 100% y un valor predictor negativo de 100%. Los    autores concluyen que un valor inferior a este punto de corte podría    excluir una sepsis tardía. Finalmente, un estudio multicentrico italiano    demostró que un nivel plasmático de PCT > 2,4 ng/ml alcanza    una sensibilidad de 65% y especificidad de 84% para el diagnostico de sepsis    tardía en RNMBP19-20.
+
+Como nuestra observación, otros autores han descrito concentraciones de PCT superiores en RNMBP infectados por microorganismos gramnegativos al compararlos con infecciones por S. coagulasa negativa (7,6 vs 0,76 ng/ ml y 9,36 vs 2,69 ng/mL), respectivamente. Lo anterior podría ser explicado por estímulo del lipopolisacarido de las bacterias gramnegativas asociado al compromiso multisistémico que acompaña este tipo de infecciones21-23.
+
+El valor de corte ideal para la PCT es objeto de discusión. En pacientes pediátricos, el umbral para el diagnóstico de infecciones bacterianas se ha estimado entre 0,5 y 2,0 ng/ml, dependiendo del estudio y del tipo de pacientes reclutados (sala de emergencia o unidad de cuidados intensivos). En RN a término y pre-término se han reportados valores de corte de 0,6 a 2,3 ng/ml con sensibilidades que van desde de 97 a 69%24.
+
+Una fortaleza de nuestro estudio    fue que la medición de la PCT, realizada después de las 72 h de    vida, permitió obviar el aumento fisiológico de los niveles de    PCT que se producen las primeras 48h en RN normales, y, a diferencia de otros    reportes en la literatura médica, estudiamos un grupo homogéneo    de RNMBP con sospecha clínica de sepsis nosocomial. En este sentido,    una revisión sistemática y meta-análisis reciente de    16estudios que incluyeron 1.959 RN, ha demostrado que el uso de la PCT en RN    es más útil en el diagnóstico de la sepsis tardía    con un área bajo la curva de 0,95 comparada a RN con sepsis antes de    las 72 h de vida, que presentó un área bajo la curva de 0,7825.
+
+Las quimioquinas y citoquinas han sido extensivamente estudiadas en la década pasada como biomarcadores de sepsis en RN. De esta importante categoría de mediadores, la citoquina pro-inflamatoria IL-6, la citoquina anti-inflamatoria IL-10 y la quimioquina IL-8 serían de potencial utilidad, incluso superior a Ia PCT, según algunos estudios, para el diagnóstico precoz de la sepsis y para predecir la gravedad de la infección al momento de la presentación de la sepsis26-27.
+
+A pesar de sus propiedades favorables, el uso de estos mediadores no ha sido integrado a la práctica clínica diaria. Sus costos elevados, una metodología no automatizada y laboriosa para su medición, han sido los mayores obstáculos que han impedido la evolución de las citoquinas como test diagnósticos de rutina de infección en las unidades de neonatología28.
+
+Algunas limitaciones de nuestro trabajo la constituyen el escaso número de pacientes incluidos y su carácter unicéntrico. Al utilizar como "estándar de oro" de infección el hemocultivo, es posible que algunos casos de verdadera infección del torrente sanguíneo no hayan sido confirmados por cultivos sanguíneos falsamente negativos debido a factores como el uso de antimicrobianos intra-parto, extracción de volúmenes pequeños de sangre, lugar inadecuado para la extracción. Finalmente, el ensayo para la medición de PCT que se utilizó en este estudio y en la mayoría de las experiencias publicadas, es un ensayo inmunoluminométrico manual cuyo nivel de sensibilidad reportado es de 0,5 ng/ml, considerando que este valor excede 10 veces los valores normales descritos para la PCT. Con este ensayo, aumentos moderados de la PCT pueden no ser detectados, de tal modo que pacientes con bacteriemias podrían tener niveles de PCT en el rango indeterminado. Al momento de realizar este estudio no existía otro método disponible de medición de la PCT en nuestro país.
+
+La aparición reciente    de ensayos para la PCT automatizados y    ultrasensibles -sensibilidad de 0,06 ng/ml-(Kryptor® BRAHMS o VIDAS®-bioMérieux)    permitiría mejorar el diagnostico de este grupo de pacientes con niveles    indeterminados de PCT y validar un valor de corte que ayude a reducir el uso    innecesario de antimicrobianos en la UCI neonatal29-30.
+
+Conclusiones

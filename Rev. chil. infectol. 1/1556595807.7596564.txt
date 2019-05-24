@@ -1,0 +1,112 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000600001
+Los días de exposición a nutrición parenteral aumentan el riesgo de bacteriemia asociada a catéter venoso central
+
+Resumen
+
+Antecedentes: Las complicaciones infecciosas asociadas a dispositivos vasculares centrales tienen impacto en morbi-mortalidad y costos. Diferentes factores de riesgo han sido identificados en las ITS/CVC, incluyendo la nutrición parenteral total (NPT). Objetivo: Determinar si la NPT y el tiempo de exposición constituyen factores de riesgo para desarrollar ITS/CVC. Pacientes y Método: Estudio de cohortes de diseño prospectivo, de pacientes adultos con catéter venoso central (CVC) convencional, internados en el Hospital Militar entre los años 2010 y 2015 y que estuvieron expuestos o no expuestos a NPT, calculando el riesgo relativo (RR) y la distribución porcentual de las ITS/CVC a diferentes intervalos de exposición de NPT con análisis de coeficiente de correlación y cálculo de Odds Ratio (OR). Resultados: Durante el período de estudio se registraron 51 eventos de ITS/CVC en pacientes adultos con CVC, de los cuales 27 estuvieron expuestos a NPT y 24 no. Incidencia de 6,3 por 1.000 días en expuestos a NPT vs 1,2 en no expuestos (RR de 5,4; IC 95 3,6 a 8,2). La proporción de pacientes con ITS/CVC aumentó a medida que aumentaba la exposición a NPT (coeficiente correlación r = +0,91), siendo significativa para exposiciones ≥ 7 días (OR 2,8; IC 95 1,04-7,4; p < 0,05). Conclusiones: La exposición a NPT aumenta el riesgo de ITS/CVC en pacientes adultos hospitalizados respecto a aquellos pacientes que no reciben NPT, además este riesgo aumenta con el tiempo de exposición.
+
+Palabras clave: Nutrición parenteral total; cateterización venosa central, bacteriemia, factores de riesgo, estudio de cohortes, riesgo relativo.
+
+ 
+
+Introducción
+
+Los catéteres venosos centrales (CVC) son dispositivos que permiten el acceso al torrente sanguíneo del paciente a nivel central, con el objetivo de realizar monitorización hemodinámica, administración de fluidos, hemoderivados, medicamentos o nutrición parenteral1. Se estima que 80% de los pacientes hospitalizados han llevado en algún momento un catéter vascular, tanto central como periférico2.
+
+Las complicaciones asociadas a estos dispositivos centrales son principalmente mecánicas e infecciosas. Las infecciosas pueden ser causada por agentes que se introducen al torrente sanguíneo (ITS) por vía extra-luminal a través del sitio de inserción del dispositivo, principalmente aquellos propios de la piel, o por vía intraluminal por contaminación de las conexiones y puertos de accesos, o través de la infusión de soluciones contaminadas, lo que es menos frecuente3. Este tipo de complicación tiene gran relevancia por su impacto en la morbi-mortalidad de los pacientes y por los costos asociados. La sobre-estadía hospitalaria es uno de los ítems que más contribuye a los excesos de costos provocada por las infecciones del torrente sanguíneo asociadas a catéter venoso central (ITS/CVC), la que es equivalente a la provocada por las infecciones del sitio quirúrgico y que se sitúa en un rango de 7 a 21 días4-6. Por otra parte, la mortalidad atribuible a las ITS/CVC oscila entre 23 y 35%5. De acuerdo a la literatura médica internacional, los costos asociados a esta infección, pueden ir desde US$ 3,061 a 40,000 por cada evento5. A nivel nacional se ha estudiado que el costo por evento es de $ 3.854.796 (US$7,783) donde 94,5% de esta cifra se asocia a la sobre-estadía hospitalaria6. A estos costos monetarios, se les debe agregar los costos personales, los cuales muchas veces son incalculables; entre ellos se destaca interrupción del progreso clínico del paciente7, retardo del alta, imposibilidad de reinserción laboral oportuna, costos familiares y psicológicos.
+
+Diferentes factores de riesgo han sido identificados en las ITS/CVC e incluyen hospitalización prolongada antes de instalar el CVC, permanencia del CVC, colonización en el sitio de inserción del CVC, instalación del CVC en la vena yugular interna o en la vena femoral en adultos, neutropenia, prematurez, sub-dotación de RRHH de enfermería en UCI, cuidados sub-óptimos del CVC (por ejemplo, manipulación excesiva), transfusión de hemoderivados y nutrición parenteral total (NPT)8. Así, por ejemplo, Kudsk en la década de los 90, comparó la prevalencia de complicaciones sépticas en un grupo de pacientes traumatológicos que recibieron NPT con otro que recibió alimentación enteral. El grupo que recibió NPT tuvo una mayor incidencia de sepsis por catéter (13,3 vs 1,9%, p = 0,04)9.
+
+La NPT se ha ido expandiendo en el último tiempo, principalmente en pacientes en situación crítica. En el Hospital Militar la situación no ha sido distinta. La administración de este tipo de nutrición aumentó en 200% aproximadamente, en 4 años (2010-2013) (datos no publicados). La NPT está indicada en pacientes cuyo tracto gastrointestinal no es utilizable para la administración, digestión o absorción de nutrientes, durante un período superior a 5-7 días o cuando el tubo digestivo es utilizable, pero se desea mantener en reposo por razones terapéuticas10.
+
+Tuvimos interés en explorar si la administración de NPT constituye un factor de riesgo para desarrollar ITS/ CVC en nuestros pacientes. Identificar su participación es de gran importancia por ser un procedimiento en expansión y por la naturaleza modificable y prevenible de ella. Además, desconocemos estudios previos en Chile que hayan evaluado la participación de la NPT en el riesgo de ITS/CVC.
+
+Pacientes y Métodos
+
+Diseño del estudio
+
+Estudio de cohortes, comparativo, prospectivo. Para ello se utilizaron los datos de vigilancia activa de la cohorte de pacientes expuestos a CVC que se desarrolla en el Hospital Militar por la Unidad de Infecciones Asociadas a la Atención de Salud (IAAS) desde hace varios años. Específicamente, se analizaron los datos de los años 2010 al 2015 y separaron según estuvieran expuestos o no expuestos a NPT.
+
+Tipos de NPT
+
+En este trabajo se incluyeron dos tipos de NPT: nutrición parenteral magistral, que corresponde a NPT individualizada con componente ajustados a los requerimientos del paciente, de indicación exclusiva por el médico nutriólogo, cuya preparación es gestionada desde el servicio de farmacia para su obtención en laboratorios externos y la nutrición parenteral pre llenada, que corresponde a un tipo de NPT estándar, disponibles en dos presentaciones (de dos cámaras que contiene hidratos de carbono, aminoácidos y electrolitos y la de tres cámaras que incluye hidratos de carbono, aminoácidos, electrolitos y lípidos)11. En ambos casos, éstas son complementadas con vitaminas y oligoelementos, de acuerdo a las necesidades del paciente. Tanto la NPT magistral como la prellenada son de alta osmolaridad, mayor a 700-900 mOsm/L12,13 y por ello deben ser administradas por un acceso vascular central por el daño al endotelio vascular que provocan.
+
+Definiciones, criterios de inclusión y riesgo relativo
+
+Se consideró como infección aquellos casos con tiempo diferencial de hemocultivos automatizados significativo, es decir, con un crecimiento de la muestra del lumen del CVC al menos dos horas antes que la muestra periférica o un recuento de > 15 ufc en el cultivo de la punta de catéter en presencia de la misma bacteria en sangre. Sólo se incluyeron pacientes de servicios de adultos correspondientes a UCI, UTI, UCI cardiovascular, medicina, cirugía y quimioterapia. Se excluyeron pacientes pediátricos y pacientes adultos con ITS asociada a otro tipo de catéteres (subcutáneos o de reservorio en el caso de pacientes en quimioterapia, catéteres tunelizados en el caso de pacientes de diálisis o catéteres de arteria pulmonar en el caso de pacientes de UCI). Los días de exposición se obtuvieron de los registros de la Unidad de IAAS en forma separada para aquellos expuestos y no expuestos a NPT. La exposición a NPT se consideró finalizada el día de diagnóstico de la ITS/CVC. Se calculó la tasa de incidencia acumulada para ambas cohortes y se procedió a calcular el riesgo relativo (RR) y el intervalo de confianza respectivo.
+
+Tiempo de exposición como factor de riesgo de ITS/CVC
+
+Para evaluar si el tiempo de exposición a NPT aumenta el riesgo de ITS/CVC, se incluyó el total de pacientes expuestos a NPT durante los años 2010-2015 y se calculó el porcentaje de pacientes que presentaron ITS/CVC a diferentes intervalos excluyentes de exposición debido a la evidencia de su participación como factor de riesgo14,15. Esta variable se categorizó en diferentes extensiones, de acuerdo a lo documentado en reportes previos12,15. El tiempo como riesgo, se analizó mediante el cálculo del porcentaje de pacientes que presentaron ITS/CVC para las diferentes categorías progresivas de exposición y mediante la prueba de correlación de Pearson entre tiempo de exposición y tasa porcentual de ITS.
+
+Comparación de diferentes variables en pacientes con ITS/CVC expuestos y no expuestos a NPT
+
+Para explorar potenciales factores asociados a una mayor necesidad de NPT se compararon las frecuencias para cada grupo de diferentes co-morbilidades, morbilidad aguda (trauma, cirugía y tipo de ella), antecedentes de hospitalización reciente o traslado, variables asociadas al manejo (UPC, insulina, CVC en posición femoral), complicaciones (fístula digestiva, ventilación mecánica, hipotensión diastólica, fármacos vasoactivos) y de laboratorio (hipoalbuminemia). Las frecuencias se compararon mediante tablas tetracóricas, calculando el valor de X2 y razón de disparidad (Odds Ratio).
+
+El Comité de Ética del Hospital Militar aprobó el presente trabajo.
+
+Resultados
+
+Estudio de incidencia en cohortes
+
+Durante el período de estudio (2010-2015) se registraron 51 eventos de ITS/CVC en 45 pacientes adultos con CVC. Veinticuatro de estos eventos ocurrieron en 20 pacientes expuestos a NPT y 27 entre 25 pacientes no expuestos a NPT. Cuatro pacientes presentaron nuevos eventos de ITS por CVC en este estudio (dos en cada grupo). La tasa de incidencia global en los expuestos a NPT para el período 2010-2015 fue de 6,3 eventos por 1.000 días (24 eventos en 3. 817 días de exposición) (Tabla 1). La tasa correspondiente para los no expuestos fue de 1,2 eventos por 1.000 (27 en 23.214 días). El riesgo relativo calculado fue de 5,4 (IC 95 3,6 a 8,2). Además, durante todo el período analizado, la tasa de incidencia de ITS/ CVC en pacientes expuestos a NPT fue mayor que la tasa observada en pacientes sin NPT (Tabla 1). El RR osciló entre 1,6 y 42,2 (Tabla 1).
+
+ 
+
+Tabla 1. Tasas de incidencia de ITS/CVC en pacientes con y sin exposición a NPT,          Hospital Militar de Santiago, 2010-2015
+
+
+
+ 
+
+Evaluación del tiempo de exposición como factor de riesgo
+
+La proporción de pacientes con ITS/CVC aumentó a medida que aumentaba el intervalo de exposición. Así, la frecuencia de ITS fue 2,9% en el grupo de < 7 días, de 7,0% en el intervalo 7 a 14 días, 6,4% en el de 15 a 28 días y de 14,3% en el > 28 días (Tabla 2). Este incremento tuvo un coeficiente de correlación de Pearson de +0,91 pero no llegó a ser significativo (Figura 1).
+
+ 
+
+Tabla 2. Frecuencia y porcentaje de pacientes con ITS/CVC según      diferentes          categorías de exposición a NPT, Hospital Militar de Santiago, 2010-2013
+
+
+
+ 
+
+
+
+Figura 1. Correlación entre tiempo de exposición a NPT y desarrollo de ITS.          Las líneas punteadas representan el IC 95. ITS/CVC: Infección del torrente          sanguíneo asociada a catéter venoso central. NPT: Nutrición parenteral total.
+
+ 
+
+Para corroborar que el tiempo de exposición constituye un factor de riesgo, agrupamos los casos observados entre los expuestos a NPT en dos categorías excluyentes y se analizó la distribución observada (Tabla 3). Sólo 2,9% de los expuestos por menos de 7 días presentaron ITS/CVC. En contraste, 7,7% de los expuestos por ≥ 7 días presentaron infección (OR 2,8; IC 95 1,04-7,4; p < 0,05).
+
+ 
+
+Tabla 3. Distribución de eventos ITS/CVC según dos categorías de          exposición, Hospital Militar de Santiago, 2010-2015          (Sólo primer evento considerado)
+
+
+
+ 
+
+Comparación de diferentes variables en pacientes con ITS/CVC expuestos y no expuestos a NPT
+
+Las ITS/CVC en pacientes expuestos y no expuestos a NPT se dieron en grupos comparables para la mayor parte de las variables exploradas: género, edad, co-morbilidades crónicas, traslado u hospitalización reciente, manejo en UPC y tipo de recursos intensivos aplicados, posición de CVC y duración del CVC (Tabla 4). No obstante, los grupos difirieron en una mayor frecuencia de intervenciones quirúrgicas en el grupo expuesto a NPT, especialmente las de tipo abdominal (OR 6,1; IC 95 1,5-24) (Tabla 4).
+
+ 
+
+Tabla 4. Distribución de diferentes parámetros en pacientes con          ITS/CVC expuestos y no expuestos a NPT.          Hospital Militar de Santiago, 2010-2015
+
+
+
+ 
+
+Discusión
+
+Nuestros resultados demuestran que la exposición a NPT aumenta el riesgo de ITS/CVC en pacientes adultos hospitalizados respecto a aquellos pacientes que no reciben NPT. La magnitud de este riesgo es de unas siete veces mayor. Además, nuestra investigación indica que el riesgo aumenta con el tiempo de exposición, siendo más elevado y significativo en pacientes que reciben NPT por siete días o más. Estos resultados, son concordantes con los reportados por Kudsk en 19929 en un grupo de pacientes con traumatismo abdominal, donde los pacientes con NPT tuvieron mayor incidencia de ITS que el grupo con nutrición enteral (13,3 vs 1,9%, p < 0,04) y con otros estudios que muestran que uno de los factores de riesgo para ITS/CVC es la duración de la NPT14,16. Por ejemplo, se ha determinado que la duración de la NPT por más de 14 días puede llegar a incrementar hasta cinco veces el riesgo de adquirir una ITS/CVC, lo que está en línea con el doble de riesgo luego de una semana de exposición como señala nuestro trabajo12. Asimismo, Aguilella17 observó que existe un aumento del riesgo de infección a medida que aumenta el número de días, puesto que primero se produce la colonización del CVC y luego la bacteriemia, lo que sugiere un tiempo de latencia antes de manifestarse clínicamente la infección; esto coincide con nuestros resultados ya que existe una correlación de Pearson positiva entre el número de dias de exposición y el porcentaje de ITS. De esta manera, nuestros datos sugieren que limitar la duración de la NPT es una forma de prevenir las ITS/CVC y que se deben asegurar esfuerzos para evaluar periódicamente el posible cambio a nutrición enteral18.
+
+Otra forma de reducir el riesgo de ITS/CVC asociado a NPT es mediante la creación de equipos dedicados de terapia intravenosa en las instituciones de salud. Estos equipos han documentado tener impacto en la reducción de ITS/CVC al contar con profesionales especializados que velan por una instalación y manejo seguro de los dispositivos vasculares y facilitan la identificación de variaciones en las prácticas de enfermería relacionados con el acceso vascular; principalmente en presencia de NPT19. En el año 2003, Brunelle demostró que los equipos de terapia intravenosa bien consolidados pueden disminuir la frecuencia de ITS/CVC hasta en 57,8% en un período de seis años19. En dicha investigación, el equipo de terapia intravenosa asumía la responsabilidad completa del CVC dedicándose al manejo integral de éste, proporcionando educación continua al personal, revisando políticas relacionadas con la infusión y procedimientos y ayudando en la obtención del acceso vascular, mejorando así los resultados en el paciente. La introducción de equipos nutricionales también ha documentado beneficios en la prevención de ITS. Así fue demostrado en el año 2014, en un estudio polaco con una reorganización de la terapia nutricional a través de la conformación de un equipo multidisciplinario especializado en esta materia, incluyendo estrategias como educación y motivación de personal que instala CVC y maneja NPT, vigilancia de todos los cateterismos centrales, manipulación limitada de los accesos vasculares centrales y efectuada sólo por personal capacitado y autorizado y control de las complicaciones relacionadas con la terapia nutricional20. Esta estrategia permitió una reducción de más de ocho veces en la incidencia de ITS/CVC en siete años de seguimiento, además de la reducción de la duración media de la NP de 76 dias a 20 días (p > 0,001) junto a otros beneficios como la menor incidencia de trastornos metabólicos20.
+
+Se pudo observar que los pacientes expuestos a NPT no difieren en sus características generales respecto a los que no han estado expuestos a esta intervención, excepto por su mayor frecuencia de antecedentes quirúrgicos abdominales, lo que es explicado por la disfunción del tubo digestivo. Lamentablemente, este hecho limita la posibilidad de poder acortar sustantivamente la duración de la NPT y así, es difícil equilibrar el riesgo de ITS/ CVC.
+
+Nuestro trabajo está limitado por su bajo número de muestra. Sólo 20 pacientes con 24 eventos de ITS/CVC asociadas a pacientes con exposición a NPT pudieron ser identificados en seis años de vigilancia, impidiendo un mayor poder estadístico para precisar los intervalos de confianza. Ello obedece a la baja incidencia de estas infecciones en nuestro hospital por un conjunto de medidas preventivas con tasas menores a 3 casos por 1.000 días de exposición para pacientes adultos con CVC. Otra limitación reside en la no incorporación de cultivos desde el lumen utilizado en NPT debido a problemas de costo y de volumen sanguíneo ya que, en nuestro hospital, el estudio de ITS por CVC implica un volumen final de 60 mL. La incorporación de los lúmenes de la NPT aumentaría en 20 mL la sangre total extraída. Además, se reconoce que la NPT contaminada como causa de bacteriemia es muy infrecuente, se asocia a brotes y a agentes infrecuentes por lo que puede ser identificada por medios alternativos de vigilancia. En cualquier caso, el no incorporar estos cultivos subestima el riesgo asociado a NPT ya que podría omitir más casos, pero sólo en el grupo expuesto y de esta manera no anula nuestras observaciones centrales.
+
+En conclusión, mediante un estudio de incidencia en cohortes pudimos confirmar que la administración de NPT aumenta el riesgo de ITS/CVC en aquellos pacientes que reciben esta terapia y que además este riesgo va aumentando a medida que aumentan los días de exposición. Los pacientes expuestos a NPT no difieren, en general, de los pacientes no expuestos a NPT y CVC; sin embargo, la imposibilidad de utilizar el tubo digestivo hace que los pacientes con nutrición parenteral estén asociados significativamente a aquellos pacientes con intervenciones quirúrgicas abdominales.

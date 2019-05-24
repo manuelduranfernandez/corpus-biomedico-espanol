@@ -1,0 +1,116 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182014000500001
+Caracterización de los mecanismos de resistencia a azoles en aislados clínicos chilenos de Candida albicans
+
+Resumen
+
+Introducción: Candida albicans es una levadura comensal capaz de causar una infección oportunista en hospederos susceptibles denominada candidiasis, que puede ser superficial o sistémica. En Chile, los antifúngicos más utilizados para el tratamiento de las candidiasis son los azoles. En un estudio previo en nuestro centro, se detectó que 2,1 y 1,6% de cepas clínicas de C. albicans fueron resistentes a fluconazol y voriconazol, respectivamente. Objetivo: Caracterizar los mecanismos de resistencia involucrados en la resistencia a azoles en cepas clínicas chilenas. Metodología: Según los criterios del Clinical Laboratory Standards Institute (CLSI) M27-S3, se seleccionaron ocho cepas resistentes, nueve cepas susceptibles dosis dependiente (SDD) y 10 cepas sensibles (n: 27), aisladas de flujo vaginal y orina. Se evaluó la presencia de mutaciones en la región 408-488 del gen ERG11 por secuenciación y la expresión relativa del gen ERG11 y de los genes de bombas de eflujo CDR1, CDR2 y MDR1 por RPC en tiempo real cuantitativa (q-PCR). Resultados: No se encontraron mutaciones en el gen ERG11 y la sobre-expresión de éste sólo se presentó en 12,5% de las cepas resistentes (1/8). El mecanismo prevalente en la cepas resistentes fue la sobre-expresión de bombas de eflujo encontrándose en 62,5% de las cepas resistentes (5/8). Conclusión: El estudio de la expresión bombas de eflujo por q-PCR podría ser una herramienta diagnóstica útil para la detección temprana de resistencia a azoles en C. albicans.
+
+Palabras clave: Candida albicans, resistencia, azoles, bombas de eflujo, ERG11, CDR1, CDR2, MDR1.
+
+ 
+
+Introducción
+
+Las micosis son infecciones producidas por hongos patógenos u oportunistas, siendo los agentes más comúnmente aislados en todo el mundo las levaduras del género Candida (72,8 casos/millón de habitantes cada año)1. Las especies de Candida son hongos comensales que colonizan el tracto gastrointestinal y génito-urinario en 30 a 60% de los seres humanos; sin embargo, bajo condiciones de inmunosupresión pueden causar infecciones oportunistas denominadas candidiasis2,3. Se ha descrito que la candidiasis sistémica alcanza una mortalidad en Chile de 35% y una incidencia en América Latina de 0,37 casos cada 1.000 pacientes-día45. Si bien se han descrito más de 200 especies de Candida asociadas a infecciones en el ser humano, la especie más común es Candida albicans, que representa en Chile hasta 44,6% de las infecciones fúngicas causadas por levaduras3,6-8.
+
+Los antifúngicos son compuestos, naturales o sintéticos, que pueden producir modificaciones en estructuras básicas de la célula fúngica inhibiendo su desarrollo y alterando su viabilidad5. Actualmente, existen varias familias de antifúngicos disponibles en el mercado siendo una de los más comunes los azoles, que inhiben la enzima 14α-lanosterol-desmetilasa, afectando la biosíntesis de ergosterol, un importante componente de la membrana plasmática fúngica9. En nuestro país, el tratamiento antifúngico de primera línea indicado para las infecciones fúngicas superficiales y sistémicas es fluconazol, un triazol de primera generación; en el último tiempo, se han ido incorporando las equinocandinas, principalmente para el tratamiento de candidiasis sistémica10-13.
+
+Con el incremento paulatino de población de riesgo y el mayor uso de antifúngicos, se ha observado un aumento en las concentraciones inhibitorias mínimas (CIMs) de las cepas de Candida spp, lo cual podría asociarse a falla terapéutica14-17. En Chile se han encontrado cepas con susceptibilidad disminuida a azoles, especialmente de pacientes ambulatorios, probablemente asociado al uso frecuente de antifúngicos para el tratamiento de infecciones superficiales, como la candidiasis vulvo-vaginal1819. Al menos 75% de las mujeres adultas ha experimentado un episodio de candidiasis vulvo-vaginal y 5 a 8% presenta un cuadro denominado candidiasis vulvo-vaginal recurrente, el cual se ha asociado a falla terapéutica, condición clínica en la que pueden aislarse cepas resistentes20.
+
+A nivel molecular, diversos mecanismos de resistencia a azoles han sido descritos en C. albicans, como mutaciones puntuales en la región 405-488 del gen que codifica para la enzima "blanco" del fármaco ERG11, como por ejemplo G464S, R467K y I471T, y/o sobre-expresión de este gen21-23.
+
+Otros mecanismos estudiados son la sobre-expresión de bombas de eflujo como CDR1, CDR2 y MDR121,24-26. Las bombas CDR1 y CDR2 son transportadores del tipo ABC y MDR1 es una bomba del tipo MFS anti-porte (transporta dos solutos hacia distintos lados de la membrana plasmática de la célula fúngica), que utiliza un gradiente de protones (H+) para translocar moléculas. Estos mecanismos podrían estar involucrados en la resistencia, tanto a azoles como a otros antifúngicos, ya que la sobre-expresión de estas bombas no permite la acumulación del fármaco en el compartimiento intracelular.
+
+Dado que en Chile se desconoce la prevalencia de los mecanismos moleculares de resistencia a azoles, el objetivo de este trabajo es de caracterizar los mecanismos de resistencia a fluconazol y voriconazol.
+
+Materiales y Métodos
+
+Cepas clínicas
+
+En este estudio se utilizaron cepas de C. albicans de origen génito-urinario (flujo vaginal y orina), obtenidas de pacientes ambulatorios de Clínica Dávila (Santiago, Chile). Los aislados fueron identificados por métodos convencionales como tubo germinal, microcultivo, agar cromogénico (CHRO Magar Candida) y API 32C (Biomerieux), según fuera requerido.
+
+Las pruebas de susceptibilidad antifúngica a fluconazol y voriconazol se realizaron según el estándar establecido por el Clinical Laboratory Standards Institute (CLSI), documento M27-A327. Para el estudio se seleccionó un total de 27 cepas, de las cuales ocho eran resistentes, nueve cepas sensibles dosis dependiente (SDD) y 10 cepas sensibles, según puntos de corte clínicos del CLSI (Tabla 1). Como control se utilizó la cepa de referencia de C. albicans ATCC SC5314 la que es sensible a todos los antifúngicos testeados. El uso de estas cepas fue aprobado por el Comité de Ética de Clínica Dávila.
+
+ 
+
+Tabla 1. Caracterización de las cepas de Candida albicans utilizadas en este estudio
+
+ 
+
+Secuenciación de la región 405-488 del gen ERG11
+
+Las levaduras fueron sembradas en medio de YPD a 37°C con agitación, hasta alcanzar la fase exponencial y se realizó la extracción de ADN genómico mediante el sistema comercial High Pure PCR Template Preparation Kit® (Roche) de acuerdo a las instrucciones del fabricante. Luego se amplificó por reacción de polimerasa en cadena (RPC) la región 405-488 del gen ERG11 (Gene ID: 3641571). Cada reacción estuvo compuesta por tampón de RPC 1X, MgCl2 2 mM, dNTP 0,2 mM, Taq polimerasa Biolasa (Bioline®) 5 U y partidores 0,2 μM (Tabla 2), 10 μL de templado de ADN genómico y se completó el volumen a 50 μL con agua bidestilada.
+
+ 
+
+Tabla 2. Partidores utilizados para la amplificación de la región 405-488 del gen ERG11 mediante RPC
+
+ 
+
+La amplificación se realizó usando un programa con una desnaturalización inicial a 95°C durante 5 min y 35 ciclos de desnaturalización a 95°C durante 30 seg, apareamiento a 56°C durante 30 seg y extensión 72°C durante 30 seg, Finalmente, se realizó una extensión a 72°C durante 10 min. Los productos de RPC se purificaron usando el sistema comercial High Pure PCR Product Purification Kit® (Roche) y se enviaron a secuenciar a la empresa especializada Macrogen® (Corea del Sur).
+
+Una vez secuenciadas las muestras, se depuraron las secuencias usando el programa Contig Express de Vector NTI® Advance 11.0 (Invitrogen) y se alinearon usando Clustal W, tomando como gen de referencia ERG11 de C. albicans ATCC SC5314 (Gene ID: 3641571) con el programa Molecular Evolutionary Genetic Analysis (MEGA) 5.1.
+
+Extracción de ácido ribonucleico de C. albicans
+
+Las cepas fueron crecidas en medio YPD a 37°C con agitación constante durante 4 h. La extracción de ARN se realizó usando el sistema comercial RNeasy Mini Kit® (Qiagen) previa lisis con perlas de vidrio. Las muestras de ARN fueron tratadas con DNasa I (Fermentas) para evitar contaminación con ADN genómico. La reacción de retro-transcripción se realizó usando ImPromII Reverse Transcription System® (Promega) de acuerdo instrucciones del fabricante para 1 μg de ARN.
+
+Expresión transcripcional de genes por RPC en tiempo real cuantitativa (en inglés q-PCR)
+
+El diseño de los partidores se realizó utilizando el programa Primer Express® (Applied Biosystem). Los partidores utilizados para evaluar la expresión de ERG11, CDR1, CDR2yMDR1 se detallan en la Tabla 3. Se utilizó como gen de referencia ACT1.
+
+ 
+
+Tabla 3. Partidores utilizados para la cuantificación relativa de los genes ERG11, CDR2, CDR2 y MDR1 mediante q-PCR
+
+ 
+
+Los ensayos de q-PCR se llevaron a cabo en un equipo StepOne® (Applied Biosystem) con el sistema Fast SYBR Master Mix® (Applied Biosystem). Cada reacción de q-PCR contenía Fast SYBR Green Mix® 1x, partidores 0,5 μM, 2 μL de ADNc y se completó el volumen a 20 μL con agua bidestilada.
+
+El programa de amplificación utilizado consistió en una desnaturalización inicial a 95°C durante 20 seg y 40 ciclos de desnaturalización a 95°C durante 2 seg, apareamiento a 55°C durante 30 seg y una extensión 60°C durante 30 seg con colección de datos. La expresión relativa de los genes se determinó usando el método del delta-delta CT (cycle threshold) o ΔΔCT.
+
+Análisis estadístico
+
+Los datos obtenidos para las cepas resistentes y susceptibles se expresaron como promedio ± desviación estándar y se analizaron mediante test t-student para datos no pareados, considerando una significancia p < 0,05. Los gráficos se realizaron con el programa Graph Pad Prism® 5 y con la asesoría de un estadístico.
+
+Resultados
+
+Mutaciones en la región 405-488 del gen ERG11
+
+No se encontraron sustituciones aminoacídicas en las cepas testeadas. Se detectaron 10 mutaciones sinónimas en la región secuenciadas; sin embargo, éstas se encontraron distribuidas tanto en las cepas resistentes como susceptibles, descartándose una posible relación con la resistencia a los azoles (dato no publicado).
+
+Expresión transcripcional relativa del gen ERG11 y bombas de eflujo
+
+La cuantificación de la expresión relativa del gen ERG11 en las cepas clínicas mostró que en las cepas resistentes la expresión promedio fue de 1,7 ± 0,7 veces, mientras que en las cepas susceptibles fue de 1,4 ± 0,3 respecto al control ATCC. No se encontró diferencia estadísticamente significativa en la expresión de ERG11 (p: 0,621) (Figura 1).
+
+ 
+
+ 
+
+También se cuantificó la expresión relativa de los genes que codifican para las bombas de eflujo CDR1, CDR2 y MDR1. En la expresión de CDR1 se encontró una expresión relativa de 3,0 ± 1,0 veces en cepas resistentes, mientras que en las cepas susceptibles fue de 0,4 ± 0,1 veces, encontrándose diferencia estadísticamente significativa (p: 0,016) (Figura 2A-B).
+
+ 
+
+ 
+
+En el estudio de CDR2 encontramos que el grupo resistente presentaba una expresión promedio de 26 ± 9 veces, mientras que el grupo susceptible 7 ± 2 veces. Si bien se observó un alta variabilidad en la cuantificación de este gen en los grupos estudiados (sensible versus resistente), esta diferencia era estadísticamente significativa entre los dos grupos (p: 0,021) (Figura 2C-D).
+
+Finalmente, en la expresión de MDR1 se observó que, en las cepas resistentes al antifúngico, la expresión fue de 2,0 ± 0,6 veces y en cepas sensibles fue de 0,7 ± 0,1 veces, encontrándose diferencia estadísticamente significativa entre ambos (p: 0,006) (Figura 2 E-F).
+
+La sobre-expresión de ERG11 se encontró sólo en 12,5% (1/8) de las cepas resistentes, mientras que la sobre-expresión de bombas de eflujo estuvo presente en 62,5% (5/8) de las cepas resistentes. No hubo diferencia en la expresión de estos genes entre cepas SDD y cepas susceptibles (dato no publicado).
+
+Discusión
+
+Se ha descrito con anterioridad que la resistencia a azoles es un fenómeno multifactorial, donde están involucrados varios mecanismos de resistencia operando de manera única o en conjunto15,28,29. La prevalencia real de cada uno de éstos no es completamente conocida.
+
+En este trabajo, la secuenciación de la región 405488 del gen ERG11 no mostró sustituciones a nivel de aminoácidos en las cepas testeadas; sin embargo, no podemos descartar la presencia de mutaciones en otras regiones como 105-165 y 266-28730,31 que pudiesen estar involucradas en la resistencia de las cepas analizadas, para lo cual, se requiere la secuenciación del gen ERG11 completo.
+
+En relación a la cuantificación del gen ERG11, se observó que sólo en una de las cepas resistentes, la cepa 6A, aislada de flujo vaginal de una paciente (Tabla 1), hubo un aumento considerable de la expresión del gen en comparación a las demás cepas. En general, el grupo de cepas resistentes no presentó un aumento en la expresión de este gen en relación al grupo de cepas sensibles, por lo cual, este no es el mecanismo predominante en cepas resistentes. Algunos autores han descrito una sobre-expresión inducida del gen ERG11, donde la exposición previa de Candida a fluconazol produce este fenómeno; en este caso, la sobre-regulación de este gen sería un mecanismo de resistencia adaptativo presente sólo cuando la célula está en presencia de azoles32,33. No podemos descartar el uso de fluconazol, en la paciente de la cual fue aislada la cepa.
+
+Respecto a la cuantificación de bombas de eflujo, a pesar de la variabilidad de expresión entre los grupos, se observaron diferencias significativas en todas las bombas testeadas entre las cepas resistentes y aquellas sensibles a los azoles. Se observó sobre-expresión de las bombas testeadas en más de la mitad de las cepas resistentes, lo que se correlaciona con la resistencia fenotípica de las cepas testeadas (Figura 2).
+
+Estos resultados son coherentes con estudios previos que han descrito que uno de los mecanismos principalmente detectados en cepas resistentes a azoles son las bombas de eflujo15,34,35. Cabe señalar que la mayoría de los trabajos citados corresponden a estudios de aislados orofaríngeos de paciente inmunosuprimidos lo que difiere de nuestro trabajo en que las cepas testeadas provienen de muestras de flujo vaginal y orina en pacientes ambulatorios (Tabla 1), con lo que se puede inferir que los mecanismos de resistencia no se relacionarían con el origen del aislado y que pueden encontrarse en cepas resistentes en la comunidad18.
+
+En C. albicans, la resistencia en un proceso multifactorial, lo cual se refleja en la cepa 6A, altamente resistente a azoles que, además de presentar una sobre-expresión de ERG11, presenta una sobre-expresión de los genes de bombas de eflujo CDR1 y CDR2. En este proceso, una presión selectiva como la presencia del antifúngico, permite que las células adquieran un fenotipo resistente en el cual varios mecanismos pueden contribuir35,36. Este estudio muestra que en cepas locales de C. albicans, el mecanismo predominante sería la sobre-expresión de bombas de eflujo; sin embargo, se requiere un mayor número de cepas para validar estos resultados preliminares, permitiendo establecer puntos de corte para diferenciar cepas sensibles de resistentes y detectar de manera precoz la resistencia a azoles. La cuantificación de la expresión de estos genes constituye una herramienta diagnóstica útil para detectar resistencia a azoles a nivel molecular.
+
+Agradecimientos: A Paula Daza N., Directora de Docencia, Desarrollo y Comunicaciones de Clínica Dávila, por fomentar el desarrollo de trabajos científicos en dicha institución. Al proyecto UCH 0717, de la Universidad de Chile, por permitir la compra de equipamiento necesario para este estudio y al proyecto Fondecyt 11110160.

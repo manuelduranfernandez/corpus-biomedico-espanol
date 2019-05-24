@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000700004
+Estudio de costo de las infecciones del torrente sanguíneo asociadas a catéter vascular central en pacientes adultos en Chile
+
+Resumen
+
+Antecedentes: Las infecciones asociadas a la atención en salud (IAAS) son eventos adversos frecuentes que determinan aumento de la morbi-mortalidad y de los costos hospitalarios. La infección del torrente sanguíneo asociado a catéter vascular central (ITS/CVC) es una de las localizaciones que causa mayores costos. Objetivo: Cuantificar el costo de las ITS/CVC en el Hospital Militar de Santiago en el año 2013. Material y Método: El estudio se realizó en un hospital de alta complejidad, utilizando la metodología comparativa del Protocolo OPS. Los casos se identificaron desde los registros de vigilancia epidemiológica y los controles desde pacientes hospitalizados durante el mismo período, pareados por servicio, edad y sexo. Los indicadores económicos seleccionados fueron el exceso de días de hospitalización, de consumo de antimicrobianos en dosis diaria definida (DDD) y de cultivos. Las comparaciones se hicieron mediante pruebas no paramétricas. Resultados: Se evaluaron 10 casos de ITS/CVC con sus respectivos controles. La estadía adicional promedio hospitalaria fue de 20,3 días por paciente (40 vs 20,3 días; p < 0,05), el consumo de antimicrobianos fue superior en los casos (mediana DDD 36 vs 10,5; p < 0,05) y hubo una tendencia a un mayor número de cultivos por paciente (9 vs 5; p: 0,057). El gasto adicional alcanzó los 38 millones de pesos chilenos (USD 72.869) para el grupo total y USD 7.286 por paciente. Conclusiones: Las ITS/CVC representaron para el año 2013 en nuestro hospital un exceso de días de hospitalización, consumo de antimicrobianos y gastos adicionales (USD 7.286 por evento).
+
+Palabras clave: Infecciones asociadas a catéteres vasculares, análisis de costo, bacteriemia.
+
+ 
+
+Introducción
+
+Las infecciones asociadas a la atención en salud (IAAS) representan eventos adversos frecuentes en el ámbito hospitalario que generan un aumento de la morbi-mortalidad, estadía hospitalaria, mayor uso de antimicrobianos y/o intervenciones quirúrgicas, además de una mayor carga económica para los establecimientos de salud, el paciente afectado y su familia.
+
+La infección del torrente sanguíneo asociada a catéter venoso central (ITS/CVC) es una de las localizaciones que provoca mayor mortalidad, con una tasa atribuible estimada de 35%1, junto a un exceso de estadía hospitalaria equivalente a la provocada por las infecciones del sitio quirúrgico, que bordea los 10 días adicionales y genera mayores costos2. Estudios norteamericanos revelan que la sobre-estadía hospitalaria en el caso de infecciones del torrente sanguíneo va desde 7 a 21 días y la mortalidad estimada asociada referida es de 23,8% con un costo medio en el rango de US$ 3.061 a 40.000 por cada infección en esta localización1,3. El alto costo de estas infecciones en países desarrollados hace que la intervención basada en programas de eficacia mínima sea rentable1,3. En forma más cercana, un reporte de Argentina habla de una tasa de (ITS/CVC) en servicios de cuidados intensivo de 44,6 por 1.000 días de dispositivos, con una mortalidad atribuible de 25% y 12 días adicionales de estancia hospitalaria4.
+
+La información sobre costos asociados a ITS/CVC en hospitales nacionales es escasa y proveniente de estudios realizados hace más de una década, por lo que se hace necesaria una actualización al respecto, especialmente si se considera que los costos pueden haberse reducido por tratamientos más eficaces o menores costos en antimicrobianos o insumos5,6. Un trabajo previo en Chile efectuado en el año 2003, indica que de seis IAAS analizadas, las de torrente sanguíneo y de sitio quirúrgico fueron las que más aumentaron la estadía hospitalaria y que el consumo de antimicrobianos de todas ellas aumentó entre dos y cuatro veces respecto a grupos controles5.
+
+El contar con información de costos y uso de recursos hospitalarios es de gran utilidad para estimar el beneficio de los programas de intervención en prevención de IAAS y su impacto en términos económicos5 y sólo se han efectuado unas pocas evaluaciones sobre este tema en Chile. Estos antecedentes determinaron la necesidad de efectuar un estudio cuyo objetivo fue cuantificar el costo de las ITS/CVC en un hospital de referencia.
+
+Material y Método
+
+El estudio se realizó en un hospital de alta complejidad de Santiago de Chile, utilizando la metodología comparativa propuesta por la OPS en el año 1999, en el protocolo para determinar el costo de la infección intrahospitalaria7.
+
+La selección de casos con ITS/CVC se realizó mediante la revisión de los registros de vigilancia epidemiológica de IAAS del año 2013. Se seleccionaron como casos los pacientes que cumplieron las definiciones locales y que consideran como ITS/CVC a:
+
+• Pacientes que cursan con una bacteriemia por un agente aislado en un hemocultivo de arrastre desde el lumen del CVC y que crece al menos dos horas antes que el mismo agente identificado en un hemocultivo periférico en un sistema automatizado o
+
+• Pacientes con hemocultivos periféricos que demuestran el mismo agente que el identificado en el cultivo de punta de catéter con recuento mayor o igual a 15 ufc8.
+
+Sólo se incluyeron eventos de servicios de pacientes adultos correspondientes a la Unidad de Cuidados Intensivos (UCI), Intermedio (UTI), Coronaria (UCI coronaria) y al Servicio de Cirugía. Ello permitió reclutar un total de 10 infecciones. En forma paralela se seleccionaron 10 pacientes al azar que actuaron como controles.
+
+La obtención de estos controles fue realizada incluyendo pacientes hospitalizados durante el mismo período que el caso infectado, los que además fueron pareados por servicio, edad (± 10 años) y género. Sin embargo, no fue posible parear los casos por diagnóstico, dado el bajo número de pacientes con CVC que en general maneja el hospital. Cuando se contó con más de un control para un determinado caso se realizó randomización por números al azar y se corroboró que el control obtenido no calificara como caso.
+
+Se seleccionaron como indicadores económicos el exceso de días de hospitalización, exceso de uso de antimicrobianos (en dosis diaria definida: DDD) y el exceso de cultivos entre pacientes con ITS/CVC y pacientes sin ITS/CVC. Los gastos en el hospital se organizan por prestaciones y no por paquetes asociados a diagnóstico.
+
+El costo del día cama fue obtenido del costeo de prestaciones de la dirección comercial del establecimiento de salud y la paridad cambiaria aplicada para convertir los valores en moneda local (pesos chilenos) a USD fue la del mes de diciembre del año 2013.
+
+El análisis de los resultados se realizó a través del programa estadístico Statgraphics Centurión y por tratarse de un estudio con muestra pequeña se aplicó la prueba W de Mann-Whitney (comparación no paramétrica para variables continuas entre dos grupos), considerando un valor significativo p < 0,05. El trabajo fue aprobado por el Comité de Ética del Hospital Militar de Santiago.
+
+Resultados
+
+Se evaluaron 10 casos de ITS/CVC con sus respectivos controles con una concordancia de 100% en las variables seleccionadas.
+
+La estadía hospitalaria promedio fue de 40,3 días para el grupo con infección y de 20 días para el grupo control, determinando un exceso de 20,3 días por paciente. La sobre-estadía, en mediana, fue también mayor en los casos con respecto a los controles (36,5 vs 19 días), con una diferencia estadísticamente significativa (p: 0,03) (Tabla 1).
+
+ 
+
+Tabla 1. Comparación de estadía hospitalaria, consumo de antimicrobianos y          número de cultivos entre pacientes con ITS/CVC y grupo control.          Hospital Militar de Santiago, 2013
+
+
+
+*Diferencia significativa (p < 0,05).
+
+ 
+
+Los pacientes que cursaron con ITS tuvieron una mayor prescripción de antimicrobianos respecto a los controles, con una diferencia estadísticamente significativa (mediana de diferencia 26,5 DDD y diferencia promedio 24,4 DDD; p: 0,02 (Tabla 1).
+
+Se observó una tendencia a obtener un mayor número de cultivos microbiológicos en los casos con respecto a los controles (p: 0,057) (Tabla 1).
+
+El cálculo de los costos por hospitalización, considerando la contribución de los días en salas generales y en Unidades Críticas o semi-críticas, demostró un valor en exceso de $ 36.400.000, equivalente a USD 68.812 (Tabla 2). Esta cifra representó 94,5% del exceso de costos calculados con este protocolo. Respecto al uso de antimicrobianos, la diferencia alcanzó cerca de los 2 millones de pesos (3.689 USD) (Tabla 2) y contribuyó al 5% del exceso de costos. Las diferencias en consumo de antimicrobianos estuvieron determinadas por el mayor uso de ceftriaxona, quinolonas, carbapenémicos, piperacilina/tazobactam, metronidazol, vancomicina y amikacina (Tabla 3). Por su parte, los cultivos representaron 0,5% de la diferencia en gastos, con un valor cercano a 200 mil pesos chilenos (368 USD) (Tabla 2). El gasto total por evento en exceso fue de 7.286 USD (3.854.796 pesos chilenos).
+
+ 
+
+Tabla 2. Cálculo del exceso de costo por concepto de días de hospitalización en          pacientes con ITS/CVC respecto a controles.
+
+
+
+*A diciembre de 2013; paridad cambiaria 1 USD = 529 CLP.
+
+ 
+
+Tabla 3. Distribución del consumo de antimicrobianos en pacientes con ITS/CVC y          grupo control, Hospital Militar de Santiago, 2013
+
+
+
+*Cifras estimadas con los costos de antimicrobianos en el Hospital Militar de Santiago          de acuerdo a la presentación y las Dosis Diarias Definidas (DDD) para cada uno.          Valor del dólar en la fecha del cálculo $529.
+
+ 
+
+Discusión
+
+Las ITS/CVC representaron para el Hospital Militar de Santiago un exceso cercano a 20 días de hospitalización adicional por paciente afectado en el año 2013, un mayor consumo de antimicrobianos y un gasto adicional para el grupo, cercano a los 40 millones de pesos (72.869 USD) y de .7.000 USD por paciente. En una revisión sistemática, se demostró que los costos anuales totales para las ITS/ CVC, infecciones de sitio quirúrgico, neumonía asociada a ventilación mecánica, diarrea por Clostridium difficile e infección urinaria por catéter, alcanzaron los 9,8 billones de USD anuales en los E.U.A. siendo las ITS/CVC las más costosas de todas ellas9. Si se considera que en el año 2012 se registraron en Chile 608 eventos de ITS/CVC en pacientes adultos10, se puede estimar con nuestros datos que ese año se generaron gastos adicionales de aproximadamente 4.300.000 USD por este tipo de IAAS en nuestro país. Actualmente, el salario promedio de una enfermera de IAAS en Chile alcanza los 24.000 USD (datos no mostrados) anuales por lo que por cada 3,3 ITS/ CVC prevenidas por hospital, se compensa totalmente su salario, sin contar el beneficio de su contrato en la prevención de otras IAAS. Debido a que la vigilancia epidemiológica y los programas de control de IAAS han demostrado ser eficaces y/o costo-efectivos en numerosas experiencias11-13 y que en el caso de las ITS/CVC estos programas han permitido reducir entre 33 y 75% la tasa de infecciones en estudios controlados8, se establece claramente la necesidad de fortalecer estas intervenciones por su alto impacto en calidad, reducción de morbilidad, mortalidad y costos. Al respecto, la tasa de ITS/CVC en adultos en Chile se redujo desde una tasa de 3,7 eventos por 1.000 días el año 2000 a 2,3 eventos por 1.000 días en el 2009, representando una disminución de 38% en un período de 10 años10.
+
+Nuestro cálculo del gasto en exceso por evento de ITS/CVS (aproximadamente 7.200 USD) se ubica en el rango inferior a lo encontrado en literatura científica extranjera: 3.600 a 40.000 USD por evento de bacteriemia en un reporte1,3, 34.000 y 45.000 USD en otros reportes2,9. Las diferencias en gastos adicionales por evento de ITS/CVC en adultos son probablemente explicadas por los menores costos de hospitalización en Chile, la ausencia de casos complicados en la serie que hubiesen requerido intervenciones mayores como endocarditis y porque el Hospital Militar utiliza una estructura de cobros basada en los valores establecidos por el seguro en salud público chileno, que reconocidamente subestima los costos reales de las prestaciones en salud14. No obstante, el valor adicional estimado por evento es inferior a los cerca de 20.000 USD obtenido en una evaluación efectuada en Valparaíso en Chile el año 19996. La diferencia puede ser en parte explicada por la mayor diferencia en estadía hospitalaria obtenida en ese trabajo respecto al actual (56 días versus 20 días promedio en nuestro trabajo) y en consumo de antimicrobianos (diferencias promedios de 38 vs 24 DDD).
+
+Las cifras de gasto adicional por evento de ITS/CVC en diferentes estudios latinoamericanos desarrollados en el período 1999-2001 en una iniciativa de la OPS, demostraron valores de 603 USD en un hospital en Ecuador, 1.350 USD en otro, 2.619 USD en Argentina y 20.620 USD en Valparaíso, Chile6,15-17. Estos resultados indican la importancia de evaluar localmente el impacto de las infecciones nosocomiales y actualizar sus valores. Además, la cifra obtenida previamente en Chile a fines de los 90, se ubica fuera de la tendencia central observada entonces y de lo demostrado en este trabajo.
+
+En relación al exceso promedio de días de hospitalización y consumo de antimicrobianos, nuestras cifras son similares a las encontradas previamente en Chile por Brenner y cols., en un estudio efectuado el año 2003, las cuales son casi el doble en los pacientes con IAAS respecto a los controles sin IAAS5. Cabe resaltar que el estudio citado no entrega datos de costo, a diferencia del actual, por lo que este estudio permite avanzar en el conocimiento del impacto económico al menos para este tipo de IAAS.
+
+El mayor consumo de antimicrobianos registrados, no implica que cada uno de ellos sea utilizado directamente en el manejo de la ITS. Los datos representan tendencias usadas por los médicos y bien pueden expresar, por ejemplo, la necesidad de terapias antimicrobianas para focos de infección abdominal (metronidazol + quinolonas) que pueden aumentar a su vez el riesgo de ITS/CVC.
+
+La sobre-estadía hospitalaria de nuestro trabajo fue similar a la reportada por Jarvis y cols.3, que reportaron un exceso de 7 a 21 días de hospitalización por esta causa, superior a la publicada por Rosenthal y cols.4, y Digiovine y cols., quienes reportaron un exceso de 12 y 10 días, respectivamente2, e inferior a la de Nercelles y cols., en Chile en los 90 (56 días)6.
+
+Se debe recalcar que la ocupación de camas por este tipo de infecciones genera dificultades para el ingreso de pacientes en listas de espera en los hospitales públicos, lo que amplifica las repercusiones sociales de esta complicación. De la misma manera, la gran deuda de los hospitales públicos chilenos, que en el año 2013 superaba los 103.948 millones de pesos y que a fines de 2015 llegaría a los 200.000 millones de pesos18,19, podría limitar la compra de antimicrobianos adicionales por las restricciones que impone el acreedor para que no se incremente la deuda pendiente. Desde la vereda opuesta, el aumento de gastos por ITS/CVC estimula el cuestionamiento del paciente, familiares o del seguro de salud involucrado, al valor de la cuenta final de la hospitalización, lo que en algunos casos alcanza la ribera judicial y posterga la recuperación de los recursos gastados en la atención del paciente. Todos estos elementos, hacen que el gasto en exceso por ITS/CVC u otras IAAS, pueda implicar una oportunidad de pérdida para la compra de equipos, remodelación de áreas deficientes, contratación de personal calificado, compra de insumos de mejor calidad u otras inversiones, influyendo en un ciclo pernicioso.
+
+Este trabajo tiene limitaciones que es necesario precisar y que incluye el reducido número de casos identificado; sin embargo, logra demostrar diferencias significativas que están en línea con lo registrado en otras publicaciones. Los gastos facturados por el Hospital Militar de Santiago están basados en los valores determinados por el seguro público de salud de Chile, cifras que como se comentó, han sido cuestionadas por estar por debajo de los costos reales. Asimismo, no se hizo una distinción por el tipo de microorganismo involucrado en las ITS/CVC, pudiendo existir diferencias entre agentes más virulentos, resistentes o marcadores de una condición terminal, factores que pueden influir en la matriz de cálculo. La ausencia de casos con complicaciones mayores como endocarditis, hace que los gastos sean más limitados. El protocolo de la OPS no incluye gastos indirectos por ausentismo laboral, subsidios, invalidez o muerte por lo que estos aspectos no fueron integrados al análisis. A pesar de estos reparos, este estudio aporta al conocimiento de la dimensión económica de las IAAS y utiliza un protocolo común aplicado en varios países.
+
+En conclusión, las ITS/CVC observadas en nuestro hospital en pacientes adultos en el año 2013, representaron días de hospitalización extra y consumo adicional de antimicrobianos junto a un mayor gasto económico según lo estimado por el protocolo de la OPS aplicado. La magnitud de este mayor gasto, que bordeó los 38 millones de pesos (USD 72.869) y los 7.286 USD por evento fue relevante por sus implicancias económicas, lo que se suma al mayor sufrimiento personal o familiar generada por este tipo de infecciones.

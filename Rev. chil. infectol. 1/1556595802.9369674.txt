@@ -1,0 +1,158 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000400001
+Consumo de antimicrobianos en la Unidad de Terapia Intensiva del Hospital Dr. Guillermo Rawson-San Juan, Argentina
+
+Resumen
+
+Introducción: El uso racional de antibióticos (ATB) implica conocer su utilización y variaciones de prescripción en el tiempo. Objetivo: Describir y analizar el uso de ATB en la unidad de terapia intensiva (UTI) de adultos del Hospital Guillermo Rawson (HGR). Material y Método: Estudio observacional, descriptivo, longitudinal, retrospectivo 2008-2011. Se consultaron registros de Farmacia y Estadísticas. Se usó la clasificación ATC, se analizó el Grupo J01, se asignaron las DDD vía oral o parenteral. Procesamiento: Excel 2007. Unidad de medida: N° DDD/100 camas-día, para cada ATB/año y promedio de uso. Resultados y Discusión: En los cuatro años se dispensaron 48 medicamentos diferentes (33 principios activos). El consumo promedio de ATB fue 177,07 DDD/100 camas-día y la distribución por año creciente fue 183,10; 165,90; 180,94; 178,34. Promedio de DDD/100 camas-día para los grupos terapéuticos más utilizados: penicilinas (57,10), otros antibacterianos β-lactámicos (48,01), otros antibacterianos (21,07), trimetoprim y sulfonamidas (19,54), quinolonas (15,64), macrólidos/azálidas y lincosamidas (6,53), aminoglucósidos (5,65) y tetraciclinas (3,53). Hubo cambios en el consumo sin patrón claro de aumento o disminución. Conclusiones: Se describieron los ATB utilizados en UTI y su variación de uso entre 2008-2011. Los ATB más utilizados fueron penicilinas y otros β-lactámicos. En 2008 se dispensó la mayor cantidad de ATB. El conocimiento de estos patrones de consumo será de utilidad para desarrollar una política antimicrobiana consensuada y fundamentada en beneficio de los pacientes.
+
+Palabras clave: Antibacterianos, utilización de medicamentos, Dosis Diaria Definida, Unidad de Cuidados Intensivos.
+
+ 
+
+Introducción
+
+Uno de los objetivos más perseguidos por los profesionales sanitarios en la actualidad, es el uso racional del medicamento, preconizado por la OMS, ya que de él se desprenden importantes consecuencias clínicas, sociales y económicas. La base principal para conseguirlo está constituida por el conocimiento de la utilización de los medicamentos y el análisis de sus variaciones a lo largo del tiempo, particularmente de aquellos grupos terapéuticos de gran consumo y en los que aparecen innovaciones terapéuticas. En este sentido, uno de los grupos de medicamentos de mayor interés es el de los antimicrobianos, sobre los que se debe desarrollar una importante labor de vigilancia epidemiológica1-3.
+
+Hay estudios que indican el aumento del número de pacientes hospitalizados con tratamiento antimicrobiano4-6 por lo que éstos representan un grupo farmacoterapéutico que amerita ser estudiado. La prescripción de antimicrobianos en los pacientes críticos es una de las estrategias terapéuticas más frecuentemente empleadas en las Unidades de Cuidados Intensivos7-9 debido a las patologías propias del paciente y al riesgo de infecciones intrahospitalarías. El uso adecuado de estos medicamentos influye en la evolución clínica de los pacientes, en la resistencia bacteriana y en los costos en salud7,8,10.
+
+Además, desde hace unos años existe una gran preocupación por el incremento de la resistencia a los antimicrobianos. Desde diversas instituciones y organismos de salud se han propuesto diferentes estrategias para tratar de controlar y reducir este aumento. Dentro del ámbito hospitalario se han sugerido: la monitorización del consumo de antimicrobianos, el estudio de los hábitos de prescripción y el análisis de las tendencias de la resistencia de diferentes microorganismos, como estrategias eficaces para prevenir este problema3,11. Una vez que se conoce el perfil de uso de los antimicrobianos, deben implementarse políticas para evitar la selección de cepas multi-resistentes que comprometan su eficacia2.
+
+Los estudios de utilización de medicamentos (EUM) permiten conocer las características del uso de los mismos poniendo énfasis en la comercialización, la distribución, la prescripción y el uso de medicamentos en una sociedad, con acento especial en las consecuencias médicas, sociales y económicas resultantes. Los Servicios de Farmacia (SF) hospitalarios son lugares estratégicos desde donde plantear EUM y profundizar así sobre la utilización de grupos terapéuticos considerados de interés o relevancia por sus consecuencias clínicas (eficacia y seguridad) o económicas en los pacientes12. Además, es importante realizar estudios locales para definir un problema, de manera de tomar decisiones en salud pública acordes a la realidad de un determinado lugar. Por lo descripto anteriormente, desde el SF del Hospital Guillermo Rawson (HGR) en conjunto con docentes-investigadores y alumnos de la Universidad Católica de Cuyo (ambas instituciones de la ciudad de San Juan, Argentina) se planteó la preocupación sobre el tipo antimicrobianos dispensados a la Unidad de Terapia Intensiva (UTI) de adultos como primera aproximación para analizar las características de su uso en una etapa posterior.
+
+El HGR brinda asistencia sanitaria especializada en un área de cobertura de 600.000 habitantes de la provincia de San Juan. El gobierno califica a esta institución con el máximo nivel de Atención Médica (Grado VIII) y el más alto en Complejidad Hospitalaria (Grado IV), por realizar enseñanza, adiestramiento e investigación en todas las disciplinas, contar con las especialidades más complejas, tanto en consulta, internación, diagnóstico y tratamiento13. El hospital es polivalente y atiende pacientes de todas las edades. Sin embargo, la UTI sólo recibe pacientes adultos.
+
+Por lo expuesto, el objetivo de este trabajo es describir y analizar las características del consumo de antimicrobianos en la UTI de adultos del HGR, entre los años 2008 y 2011.
+
+Material y Método
+
+Tipo de estudio: Observacional, descriptivo, longitudinal y retrospectivo.
+
+Período: enero de 2008 a diciembre de 2011.
+
+Lugar: UTI de adultos del HGR, con 9 camas promedio disponibles al año (rango: 8-10). El porcentaje promedio de ocupación durante los años estudiados fue de 77,05 (rango: 70,8-80,4).
+
+Fuente de datos: registros informáticos de dispensación del SF a la UTI y de promedio de camas disponibles y porcentaje de ocupación del Servicio de Estadísticas.
+
+Registro y procesamiento de los datos: los medicamentos dispensados se clasificaron según el Código ATC propuesto por la OMS14, y se seleccionaron para su análisis aquellos pertenecientes al Grupo J01 (antibacterianos de uso sistèmico). A los antibacterianos que cumplieron con los criterios de inclusión se les asignaron sus respectivas DDD para vía oral (O) o parenteral (P) según lo especificado en el Código ATC/DDD 2013, versión disponible en línea al momento de la realización de este trabajo14,15.
+
+Se corroboró que en esta última actualización no hubiera cambios entre 2008 y 2011 en las DDD de los principios activos involucrados.
+
+En la UTI, el sistema de dispensación de medicamentos es por prescripciones individuales, más un botiquín a cargo del servicio de enfermería. En la institución no hay Comité de Farmacia y Terapéutica, ni política de restricción para el uso de antimicrobianos. Tampoco existen protocolos para el uso de antimicrobianos.
+
+En el caso de antimicrobianos β-lactámicos en combinación con un inhibidor de β-lactamasa, se empleó la DDD de la penicilina correspondiente (ampicilina, amoxicilina y piperacilina). Para cotrimoxazol se realizó el cálculo empleando la DDD correspondiente a trimetoprim debido a que no se encontró DDD para sulfametoxazol vía parenteral.
+
+Las unidades internacionales de penicilina G sódica, fenoximetilpenicilina y penicilina benzatínica se convirtieron a gramos según lo sugerido por Valsecia16.
+
+A partir de los datos brutos de consumo (ampollas, comprimidos, etc.), se calcularon los gramos de cada principio activo dispensado en cada año. Luego se determinó el N° DDD/100 camas-día (DDD/100c-d), el cual se utilizó como unidad de consumo, y se analizaron los medicamentos por grupo terapéutico-farmacológico (tercer nivel ATC). La fórmula empleada fue:
+
+
+
+Por otra parte, se calculó el porcentaje de cambio, incremento o detrimento, respecto al año anterior (añoant) empleando la siguiente fórmula:
+
+
+
+Para procesar los datos se empleó una planilla de cálculos (Microsoft Office XP).
+
+Por último, en este estudio se emplean los términos "antibióticos" y "antimicrobianos" de manera indistinta, aunque desde el punto de vista metodológico se señala la necesidad de su diferenciación desde el punto de vista de la clasificación ATC17.
+
+Resultados
+
+Todos los resultados se expresan en N0 DDD/100c-d y se muestran por períodos en el siguiente orden 2008, 2009, 2010, 2011.
+
+En este estudio se incluyeron 48 medicamentos diferentes* correspondientes a 33 ingredientes farmacéuticos activos. El número de antimicrobianos diferentes fue de 35 (2008), 33 (2009), 33 (2010) y 36 (2011).
+
+El consumo promedio de antimicrobianos en los cuatro años fue de 177,07 DDD/100 c-d y se distribuyó por año del siguiente modo: 183,10 (2008); 165,90 (2009); 180,94 (2010); 178,34 (2011).
+
+El análisis del consumo anual de antimicrobianos, el promedio correspondiente a los cuatro años y su desviación estándar se presentan en la Tabla 1.
+
+ 
+
+Tabla 1. Uso anual de antimicrobianos expresados como N° DDD/100c-d y          promedio de los cuatro años del estudio
+
+
+
+ 
+
+Para observar la fluctuación en la dispensación de antimicrobianos, en la Figura 1 se presentan el N° DDD/100c-d por año, según grupo terapéutico de 3er Nivel del Código ATC.
+
+ 
+
+
+
+Figura 1. DDD/100 camas-día por año de estudio.
+
+ 
+
+De manera individual, los antimicrobianos más utilizados y que representan, aproximadamente, el 50% de las DDD corresponden a: ampicilina/sulbactam, cotrimoxazol, imipenem-cilastatin y vancomicina. Los antimicrobianos que abarcan el 80% de las dosis usadas se presenta en la Tabla 2 mientras que el porcentaje de cambio de cada grupo terapéutico respecto al año anterior se presenta en la Tabla 3.
+
+ 
+
+Tabla 2. Los 11 antimicrobianos que corresponden al 80% de las          dosis usadas en el período de estudio
+
+
+
+ 
+
+Tabla 3. Porcentaje de cambioa respecto al año anterior por grupo terapéutico
+
+
+
+ 
+
+A fin de visualizar con más detalles los grupos cuya dispensación varió a lo largo de estos cuatro años, se presenta el porcentaje de cambio en la Figura 2. El eje de las ordenadas se ajustó para poder apreciar la variación de los antimicrobianos, excluyendo la representación del cambio de los aminoglucósidos cuya variación fue muy grande entre los años 2009 y 2010.
+
+ 
+
+
+
+Figura 2. Porcentaje de cambio de DDD por grupo de antimicrobianos.
+
+ 
+
+Discusión
+
+Cabe destacar que este es el primer estudio realizado en la provincia para conocer el perfil de uso de antimicrobianos en la UTI del HGR. Además, la posibilidad de recopilar datos de cuatro años permitió determinar los antimicrobianos más utilizados, lo cual se espera que influya directamente en la gestión de su suministro y sea determinante para la toma de decisiones, para futuras políticas y protocolos de uso.
+
+Asumiendo que el cálculo de las DDD hospitalarias indica el número de pacientes que se encuentran expuestos a un tratamiento antimicrobiano por cada 100 camas y día, el valor promedio obtenido (177,07/100c-d) señala que cada paciente recibe aproximadamente dos dosis diarias de antimicrobianos durante su estancia en la UTI. Este valor coincide con lo expresado por Hermosilla Nájera et al., que informan una DDD/100c-d de 176,16 para una UTI con 9 camas18.
+
+Un estudio de utilización de antimicrobianos que involucraba a 46 hospitales de Cataluña durante los años 2007-2009, señaló que en las UCIs la DDD/100c-d osciló entre 121,36 y 179,38. El valor más alto correspondía, en el año 2007, a las UCIs de hospitales universitarios con más de 500 camas y el valor disminuyó a 164,93 para el año 200919. Asimismo, un estudio alemán vinculó los valores de DDD/100c-d más elevados a hospitales universitarios (139,8 DDD/100c-d) y de más de 800 camas (126,5 DDD/100c-d)20.
+
+Entre los antimicrobianos de uso sistèmico, los tres grupos terapéuticos más utilizados en la UTI de adultos del HGR fueron, de mayor a menor, los siguientes: penicilinas (J01C), otros antibacterianos β-lactámicos (J01D), trimetoprim y sulfonamidas (J01E).
+
+En el análisis individual y calculando el promedio en el tiempo del estudio, los cinco antimicrobianos más usados fueron: ampicilina/sulbactam (35,15); cotrimoxazol (19,54); imipenemcilastatin (15,74); vancomicina (15,20) y meropenem (13,97). Shankar y cois.21, estudiaron los medicamentos más utilizados en una UTI de un hospital universitario en Nepal; el grupo de los antimicrobianos arrojó un valor de DDD/100c-d de 118,2. De estos antimicrobianos, el más utilizado fue ampicilina (sin inhibidor de β-lactamasa) cuya DDD/100c-d fue de 35,7. Contrariamente, en la UTI de dos hospitales en India cefoperazona y metronidazol fueron los antimicrobianos más empleados22,23. Un estudio de prevalencia que evaluó el uso de antimicrobianos en 68 UCIs de Latinoamérica entre 2008 y 2010, encontró que los antimicrobianos más usados fueron los carbapenems (imipenem o meropenem), seguidos por vancomicina, coincidiendo con tres de los cinco antimicrobianos más utilizados en la UTI del HGR. Sin embargo, este estudio no empleó la DDD como unidad de medida ni evaluó las tendencias de uso a lo largo de esos años9.
+
+Cabe destacar, además, que en ninguno de los estudios antes señalados se menciona un empleo tan elevado de trimetoprim y sulfonamidas. En el caso de la UTI del HGR, el elevado valor se podría justificar por la adaptación de la metodología de estudio. Al no encontrar un valor de DDD para sulfametoxazol por vía parenteral, todos los cálculos se refieren al valor de trimetoprim y ello podría estar sobreestimando el valor de DDD/100c-d obtenido.
+
+Wirtz y cols.24, analizaron la tendencia de uso de antimicrobianos en la población de ocho países latinoamericanos a partir de datos de las ventas. Estos autores encontraron que el grupo de las penicilinas fue el más utilizado en todos los países estudiados seguido por los macrólidos/azálidas y lincosamidas. En este trabajo el elevado consumo de macrólidos/azálidas se justifica por el uso de azitromicina por parte de la población ambulatoria, situación que no ocurre en los pacientes hospitalizados en UCI.
+
+Los antimicrobianos menos utilizados fueron: cefalexina (0,19); fenoximetilpenicilina (0,12); penicilinabenzatínica (0,08) y cefotaxima (0,05). De todos aquellos antimicrobianos cuya DDD/100c-d fue menor a uno, para cefazolina, cotrimoxazol-O, fenoximetilpenicilina y cefotaxima la distribución siguió un patrón irregular y sólo se entregó en uno de los años estudiados.
+
+Si bien se detectaron cambios en el consumo durante los cuatro años, no se observó un patrón claro de aumento o disminución, fluctuando de año a año siendo que el número de camas disponibles y los porcentajes de ocupación fueron similares. Un estudio realizado en un hospital universitario de Brasil, que evaluó el perfil de consumo de antimicrobianos durante 6 años, demostró que la UTI presentaba una tendencia positiva al aumento en el uso de antimicrobianos en relación a otros servicios como obstetricia5. Por otra parte, también se demostró una tendencia al incremento en el uso de antimicrobianos en la UTI, en un estudio que analizó el consumo de estos fármacos a lo largo de cinco años en un hospital español1.
+
+El análisis del porcentaje de cambio por grupo terapéutico no muestra tendencia alguna en los grupos estudiados. Fluctúan entre aumentos y disminuciones sin patrones claros, tal como se observa en la Figura 2. Dentro de los cambios más notorios, se destaca la disminución en el uso de vancomicina en el año 2009, aumentando nuevamente en el año 2010. Por lo tanto, no se puede adjudicar esa caída a una política de restricción en su uso. Tampoco se pueden explicar los grandes cambios en el consumo de aminoglucósidos ni el marcado aumento de tigeciclina en el 2011 respecto al año anterior. Se desconoce, también, la variación en el personal del equipo de salud de esta unidad que pudiera estar afectando la prescripción de antimicrobianos.
+
+Según datos del Servicio de Infectología, el total de infecciones hospitalarias fue de 237 casos. Respecto al tipo de infecciones, las dos más frecuentes fueron neumonía (98 casos) e infección primaria de la sangre (51 casos). También se reportaron infecciones del tracto respiratorio inferior y del sistema nervioso central con más de 30 casos cada una. En el total de infecciones se aislaron 67 microorganismos. Los cinco patógenos más frecuentemente aislados fueron: Acinetobacter spp (n: 40), Acinetobacter baumannii (n: 39), Pseudomonas aeruginosa (n: 31), Klebsiella pneumoniae (n: 27) y Staphylococcus aureus (n: 21). El elevado consumo de penicilinas asociadas a un inhibidor de β-lactamasas (ampicilina/sulbactam) podría asociarse a la actividad que presenta sulbactam sobre cepas de Acinetobacter25.
+
+El uso de las DDD y el valor calculado N° DDD/100c-d permitió hacer comparaciones entre los años estudiados, sin que los resultados se vean afectados por los cambios de precios o de presentaciones comerciales. También, el uso de esta unidad da una idea sobre la proporción de población tratada, es decir número medio de pacientes tratados en un día15 permitiendo comparaciones internacionales, como las realizadas con los hospitales españoles18,19.
+
+Sin embargo, debe quedar claro que la DDD es una unidad de medida que no refleja necesariamente la dosis diaria recomendada o prescrita, ya que éstas deben basarse en características individuales (edad, peso) y en consideraciones farmacocinéticas, especialmente en pacientes críticos. Los datos de consumo expresados en DDD sólo proporcionan una estimación aproximada y no una fotografía exacta de su utilización real15.
+
+Entre las limitaciones del estudio se puede señalar que no refleja el uso de estos medicamentos en combinaciones o esquemas terapéuticos. Tampoco evalúa la calidad de la prescripción, el cumplimiento de las Guías Clínicas o se lo asocia indicadores de infecciones intrahospitalarias10,26. A diferencia de otros estudios6,27 este trabajo no evalúa los costos del uso de antimicrobianos. En nuestro trabajo se midieron todos los antimicrobianos entregados por el SF sin discriminar si eran de uso restringido o semi-restringido como lo hacen Mclntosh y cois.28, ni se evaluó el uso según las vías de administración29. Tampoco, se asoció el perfil de uso al perfil de resistencia antimicrobiana30.
+
+A futuro, sería de utilidad diseñar un estudio que permita estudiar los patrones de prescripción de los antimicrobianos y conocer las indicaciones en las que éstos se están utilizando a fin de poder identificar situaciones que ameriten intervenciones de mejora.
+
+Conclusiones
+
+Este estudio pretende servir como punto de partida para profundizar sobre la utilización de algunos grupos o antimicrobianos específicos y también para implementar actividades o estrategias que contribuyan al uso racional de los mismos.
+
+El trabajo permitió identificar los antimicrobianos que se utilizan en la UTI de HGR y describir su patrón de uso a lo largo de cuatro años. Los valores de DDD/100c-d son elevados (entre 165 y 183) aunque coinciden con algunos encontrados en bibliografía internacional.
+
+El grupo terapéutico más utilizado, el de penicilinas, resulta acorde a las tendencias de uso de antimicrobianos en Latinoamérica. Mientras que tres de los fármacos más utilizados (imipenem, meropenem y vancomicina) también son coincidentes con el uso de antimicrobianos en UTIs de la región.
+
+El conocimiento de las tendencias de uso de estos medicamentos servirá de base para desarrollar un correcto manejo de los antimicrobianos proporcionando fundamentos para el desarrollo de una política antimicrobiana consensuada y fundamentada que se refleje en la mejor atención posible en el cuidado de la salud de los pacientes.
+
+Agradecimientos. A los alumnos en Prácticas de la Carrera de Farmacia de la U.C. Cuyo: Mora MP, Rodríguez D, Orellano M y Grvac E, que tomaron datos en el período 2008, 2009 y al profesor responsable de la asignatura que las asesoró.
+
+Notas
+
+* Se consideró medicamento al conformado por un ingrediente farmacéutico activo, en una determinada concentración y forma farmacéutica. Se consideraron iguales aquellos que cumplían con lo anterior aunque sus presentaciones comerciales difirieran en tamaño.

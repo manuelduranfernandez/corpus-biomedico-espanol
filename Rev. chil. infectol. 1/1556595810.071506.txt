@@ -1,0 +1,86 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000400333
+Evaluación de la técnica Xpert® MTB/RIF para la detección de Mycobacterium tuberculosis complex en muestras extra-pulmonares
+
+Introducción
+
+La tuberculosis (TBC) es una enfermedad infectocontagiosa de distribución mundial producida por Mycobacterium tuberculosis complex (MTBc). Se estima que un tercio de la población mundial está infectada y cada año se diagnostican aproximadamente 9 millones de casos nuevos, con cerca de 1,4 millones de muertes anuales1. A pesar de que en las últimas décadas se ha observado una disminución sostenida del número de casos, en Chile la TBC continúa siendo un importante problema de salud pública, con tasas de incidencia de 13 casos × 100.000 habitantes, valor que se ha mantenido invariable durante los últimos cuatro años2. Además, se ha observado un aumento de los casos de TBC multi-resistente (TBC-MR), con al menos resistencia a rifampicina e isoniacida, asociado fundamentalmente a pacientes crónicos tratados anteriormente3.
+
+La TBC en su forma pulmonar es de gran importancia por su frecuencia y porque constituye la principal fuente de contagio. La TBC extra-pulmonar es menos frecuente; sin embargo, puede alcanzar a 15% del total de casos4, siendo mayor en países de alta incidencia y en población infectada con VIH, en la que puede alcanzar a 40%5. En Chile, la proporción de TBC extra-pulmonar alcanza a 26,2% de los casos totales [Comunicación personal de Tania Herrera, Jefe Programa Nacional de TBC 2012].
+
+El cultivo microbiológico sigue considerándose el estándar de oro para el diagnóstico de TBC en todas sus formas; sin embargo, es muy lento, obteniéndose resultados tras 15 días y hasta 8 semanas de incubación de las muestras clínicas. La baciloscopia, por otro lado, es un método de fácil implementación, de bajo costo y rápido, pero con baja sensibilidad analítica6. Tomando en cuenta estos antecedentes, la detección rápida de MTBc y de resistencia a rifampicina en pacientes con TBC, sería de gran utilidad, considerando que la precocidad en el diagnóstico tiene gran impacto en el manejo, pronóstico y evolución de la enfermedad, además de contribuir a la disminución de la transmisión de la infección persona-persona y consecuentemente a la expansion de la TBC resistente a rifampicina. La detección de MTBc por técnicas moleculares es de gran utilidad porque ha permitido un diagnóstico más rápido respecto del cultivo y más sensible con respecto a la baciloscopia, desarrollándose en los últimos años, varias pruebas diagnósticas7–12. Una de estas es el ensayo Xpert® MTB/RIF, que se realiza en el sistema GeneXpert® (Cepheid, Sunnyvale, CA). La técnica Xpert® MTB/RIF permite detectar simultáneamente MTBc y resistencia a rifampicina por reacción de polimerasa en cadena (RPC) en tiempo real automatizado, en menos de tres horas. Esta técnica amplifica una secuencia específica de 81 pares de bases del gen rpoB que codifica para una subunidad de la ARN polimerasa9,12,13 y utiliza sondas del tipo “molecular beacons’’ para detectar el producto de la amplificación y la presencia de mutaciones en el mismo. La prueba Xpert® MTB/RIF entrega cuatro resultados semi-cuantitativos posibles, de acuerdo al ciclo umbral de amplificación (cycle threshold, CT), el que muestra una relación logarítmica lineal con la cantidad de ADN presente en las muestras clínicas, estableciendo los siguientes rangos: “Muy escasa cantidad” (CT > 28), “Escasa cantidad” (CT entre 22-28), “Moderada cantidad” (CT entre 16-22) y “Elevada cantidad” (CT < 16) para la presencia de MTBc. Esta técnica ha demostrado tener sensibilidad y especificidad muy elevada para muestras respiratorias en relación a otros métodos14–17, siendo el método recomendado por la OMS pues además detecta resistencia a rifampicina18. Sin embargo, ha sido validado y aprobado por la Food and Drugs Administration (FDA) en los Estados Unidos de América sólo para muestras respiratorias. Diversos estudios han evaluado su desempeño con muestras extra-pulmonares, pero han mostrado sensibilidades variables19–21. En un estudio realizado en 341 muestras extra-pulmonares se reportó una sensibilidad de 95% y especificidad de 100%, superando a la prueba Cobas Taqman® MTB21; sin embargo, se han reportado sensibilidades más bajas, del orden de 77,3 a 53%17,20. Basada en una revisión sistemática, la OMS recomienda actualmente como test inicial Xpert® MTB/RIF para diagnóstico de TBC extra-pulmonar, incluida TBC meníngea. Los resultados de este meta-análisis mostraron sensibilidades variables según el tipo de muestra: ganglios linfáticos 83,1% (95% IC 71,4-90,7%) versus cultivo y 81,2% (95% CI 72,4-87,7%) versus estándar de oro combinado; líquido cefalorraquídeo (LCR) 80,5% (95% IC 59,0-92,2%) versus cultivo y 62,8% (95% IC 47,7-75,8%) versus estándar de oro combinado y en líquido pleural 46,4% (95% IC 26,3-67,8%) versus cultivo y 21,4% (95% IC 8,8-33,9%) versus estándar de oro combinado. La especificidad fue consistentemente mayor a 98,7% en los distintos tipos de muestras22.
+
+El objetivo de este estudio fue determinar el rendimiento diagnóstico de la prueba Xpert® MTB/RIF en la detección del MTBc en muestras extra-pulmonares en comparación con el cultivo tradicional y un método molecular alternativo, previamente validado.
+
+Material y Método
+
+Muestras
+
+Se analizaron 50 muestras extra-pulmonares (distintas de expectoración; secreción bronquial y LBA) de orina, tejidos, LCR, líquido sinovial y líquido peritoneal, provenientes de 50 pacientes con sospecha de TBC. Las muestras provenían de distintos centros hospitalarios del país y fueron recibidas en el Laboratorio de Microbiología de la Red de Salud UC-CHRISTUS entre julio de 2010 y enero de 2013.
+
+Las muestras fueron obtenidas en frascos estériles según procedimientos estándares (orina de segunda micción, tejidos obtenidos desde procedimientos quirúrgicos, LCR por punción lumbar, líquido sinovial por punción articular y líquido peritoneal por punción o cirugía) y conservadas desde su recolección hasta el procesamiento refrigeradas a 4 °C y protegidas de la luz. Las muestras fueron analizadas en forma consecutiva, entre julio de 2010 y junio de 2011 en forma primaria por una prueba de reacción de la polimerasa en cadena en tiempo real (q-RPC), y desde julio de 2011 hasta el fin de estudio (enero de 2013) en forma simultánea. De las 50 muestras, 25 fueron definidas como positivas para MTBc en base a q-RPC positiva y/o cultivo de micobacterias en medio líquido y/o sólido positivo. Las 25 restantes fueron definidas como negativas por q-RPC negativa y/o cultivo micobacteriano negativo (Tabla 1A y 1B).
+
+Tabla 1A Muestras extra-pulmonares definidas positivas 
+
+---: No realizado. LCR: líquido cefalorraquídeo.
+
+Tabla 1B Muestras extra-pulmonares definidas negativas 
+
+---: No realizado. LCR: liquido cefalorraquídeo.
+
+Métodos
+
+Estándar de oro combinado: El q-RPC (COBAS® TaqMan® MTB) fue realizado con una sonda Taqman en la plataforma de RPC tiempo real StepOne® (Applied Biosystems), que había sido verificado en la versión previa (AMPLICOR®, Roche) en muestras extra-pulmonares23. Para el cultivo en medio líquido se utilizó medio Middlebrook 7H9 el cual fue incubado a 35 °C en el sistema BACTEC MGIT 960® (BD Microbiology Systems) donde la producción de CO2 se detecta fluorométricamente en el tubo MGIT (Mycobacteria Growth Indicator Tube). Para el cultivo en medio sólido se utilizó el medio Lowenstein-Jensen incubado a 35 °C. En el caso que un cultivo líquido resultara positivo se realizó tinción de Ziehl Neelsen, tinción de Gram y resiembra en medio sólido de Lowenstein-Jensen para el aislamiento de las colonias. Una vez que las colonias estaban desarrolladas en medio sólido (a partir de siembra inicial o resiembra desde medio líquido), se derivó al Laboratorio Nacional de Referencia del Instituto de Salud Pública de Chile, para la confirmación de la especie de MTBc por medio de métodos moleculares o bioquímicos y para el estudio de susceptibilidad por el método de las proporciones de Canetti, Rist y Grosset.
+
+GeneXpert®MTB/RIF: Todas las muestras fueron procesadas en el Laboratorio de Microbiología de la Pontificia Universidad Católica de Chile. La prueba Xpert® MTB/RIF fue realizada en las 50 muestras de acuerdo a las instrucciones del fabricante para el procesamiento de muestras.
+
+LCR, líquido peritoneal y líquido sinovial: Se colocó 1 ml de líquido en un tubo con 2 ml de solución de lisis GeneXpert® (relación 2:1 v/v) y se incubó 10-12 min a temperatura ambiente agitando vigorosamente 10-20 veces. Posteriormente, se cargó 2 ml de la mezcla en el cartucho que fue introducido en la plataforma GeneXpert® para su análisis.
+
+Orina: 20-50 ml de orina se centrifugaron a 3.000 rpm por 30 min en tubos cónicos de 50 ml y centrífuga refrigerada. Se descartó el sobrenadante, dejando 1 ml en cual se resuspendió el pellet. Posteriormente la muestra fue tratada durante 10-12 min con la solución de lisis Xpert® MTB/RIF en una relación 2:1 v/v y este volumen depositado en el cartucho GeneXpert.
+
+Tejidos: Los tejidos fueron macerados en un mortero estéril con 1 ml de solución salina fisiológica (NaCl 9%o). Luego se colocó la muestra en un tubo de vidrio con 2 ml de la solución de lisis y se continuó el análisis de la misma manera antes mencionada.
+
+Resultados
+
+Todas las muestras definidas como positivas (25 de 25) tuvieron un resultado positivo por la técnica Xpert® MTB/RIF. De las 25 definidas como negativas, 24 tuvieron un resultado negativo y una de ellas un resultado positivo por Xpert® MTB/RIF (Tabla 1A y 1B). Las muestras fueron ensayadas una vez por cada método. De acuerdo a estos datos se obtuvo una concordancia entre Xpert® MTB/RIF y el estándar de oro combinado de 100% para las muestras positivas y de 96% para las muestras negativas. La tasa de concordancia global (ʎ) fue de 98%. El índice kappa (κ) fue de 0,96 lo cual corresponde a una concordancia casi perfecta entre Xpert® MTB/RIF y el estándar de oro combinado, de acuerdo a los criterios de Landis y Koch (1977)24 (Tabla 2).
+
+Tabla 2 Tabla de concordancia entre el examen GeneXpert® MTB y el q-RPC/Cultivo 
+
+Tasa de concordancia (ʎ) = (25 + 24/50) × 100 = 98%. Índice kappa (κ) = ʎ - Pe / 1 - Pe = 0,96 (Pe = 0,5).
+
+Solamente a 18 de las 25 muestras positivas se les realizó baciloscopia y 12 de ellas tuvieron un resultado negativo. Se observa que la prueba Xpert® MTB/RIF fue capaz de detectar los 12 casos de TB extra-pulmonar con baciloscopia negativa.
+
+A 19 de las 25 muestras positivas se les realizó cultivo micobacteriano y tres de ellas tuvieron un cultivo negativo. La prueba Xpert® MTB/RIF fue capaz de detectar los tres casos de TBC extra-pulmonar con cultivo negativo.
+
+Se estudió la asociación entre la carga bacteriana (representada por los días transcurridos hasta la positividad del cultivo micobacteriano en medio líquido) y el resultado semi-cuantitativo entregado por la prueba Xpert® MTB/RIF. Si bien el promedio de días hasta la positividad de las muestras con resultado “Muy escasa cantidad” (13,6 ± 2,8 días) es mayor que el de las muestras con resultado “Escasa cantidad” y “Moderada cantidad” (10,6 ± 1,6 días), esta diferencia no es estadísticamente significativa (p > 0,05) (Figura 1). Sin embargo, se observó que existen diferencias significativas en el promedio de días hasta la positividad de muestras de tejido óseo, tejido ganglionar y tejido pulmonar, siendo el tejido óseo el que tuvo el mayor valor y el tejido ganglionar el de menor valor (Figura 2A). Al analizar el promedio de CT para cada tipo de muestra no se observaron diferencias significativas (Figura 2A), aunque el promedio de CT para muestras de LCR fue mayor que para ganglios y orina (Figura 2B).
+
+Figura 1 Promedio de días hasta la positividad del cultivo para las muestras diagnosticadas por Xpert®MTB/RIF con Muy escasa, Escasa y Mediana cantidad. Prueba de Student; NS: no significativo (p > 0,05). 
+
+Figura 2 Relación entre el tipo de muestra y el promedio de días hasta la positividad del cultivo (A) y el valor de CT proporcionado por la prueba Xpert® MTB/RIF (B). Prueba de Student; *p < 0,05; NS: no significativo (p > 0,05). 
+
+Discusión
+
+Si bien, la mayoría de las muestras recibidas en nuestro laboratorio para análisis de MTBc son muestras extra-pulmonares (orina, LCR y tejidos), un análisis preliminar en muestras de orina con baciloscopia positiva directamente por Xpert® MTB/RIF había resultado poco favorable, ya que los resultados fueron negativos debido a la presencia de inhibidores de la RPC en la muestra de orina. Por esta razón, era necesario eliminar los inhibidores de las muestras de orina para poder analizarlas. Efectivamente, el método utilizado para procesar las orinas demostró ser capaz de eliminar los inhibidores.
+
+El método Xpert® MTB/RIF ha demostrado en el presente estudio tener una sensibilidad similar al q-RPC para detectar MTBc en muestras extra-pulmonares consideradas en conjunto. Dado el escaso número de muestras de orina y LCR, la sensibilidad del método Xpert® MTB/RIF no pudo determinarse diferenciada por tipo de muestra.
+
+La muestra que resultó negativa por q-RPC y positiva por Xpert® MTB/RIF correspondía a un paciente con clínica sugerente de TBC multisistémica con histología compatible con MTBc osteoarticular, que posterior al tratamiento antituberculoso evolucionó con excelente respuesta clínica y mejoría de los parámetros inflamatorios, por lo que el resultado no concordante se debe probablemente a que la sensibilidad del método Xpert® MTB/RIF es mayor que la del q-RPC y los otros métodos utilizados.
+
+En un artículo recientemente publicado25, se determinó que las muestras de contenido gástrico y LCR no presentaron alteración del límite de detección determinado en ellas respecto al determinado en solución salina, mientras que las muestras de tejido y deposición sí fueron afectadas por el tipo de matriz, indicando que la prueba Xpert® MTB/RIF tendría una menor sensibilidad en este tipo de muestras.
+
+En otro trabajo fue reportada una mayor sensibilidad de la técnica Xpert® MTB/RIF en muestras de tejido ganglionar, deposición y líquidos no estériles como la orina26, lo que es contradictorio con el trabajo mencionado inicialmente. Esto demuestra que la sensibilidad de esta técnica es variable en el amplio espectro de muestras extra-pulmonares.
+
+En lo que respecta a nuestro trabajo, 17 de las 24 muestras positivas fueron de tejido y todas fueron detectadas correctamente por la prueba Xpert® MTB/RIF lo que demuestra una buena sensibilidad del método, aun en este tipo de matriz. Con respecto a las diferencias en los días hasta la positividad entre los distintos tipos de tejido (óseo, pulmonar y ganglionar) podrían explicarse no sólo por la baja carga bacteriana en el tejido óseo sino además por la consistencia de este tipo de tejido el que suele ser difícil de homogeneizar. Es necesario considerar también que los resultados positivos por Xpert® MTB/RIF con cultivo negativo pueden explicarse por la baja carga bacteriana, pero también por la labilidad de M. tuberculosis en muestras extra-pulmonares, si no se conserva la muestra refrigerada o si no es sembrada antes de 4 h.
+
+El tiempo de realización de la prueba Xpert® MTB/RIF es notoriamente inferior al promedio de días hasta la positividad del cultivo observado para las muestras de este estudio el cual está alrededor de 12,1 días.
+
+En resumen, Xpert® MTB/RIF mostró para muestras extra-pulmonares una excelente concordancia con otras RPC previamente validadas en nuestro laboratorio (precaución con LCR y orina, por el bajo número de muestras analizadas).
+
+Recientemente la Organización Mundial de la salud ha recomendado el uso de Xpert® MTB/RIF para el diagnóstico de tuberculosis meníngea, incluso en reemplazo del cultivo, especialmente si la muestra es escasa; para otras muestras se considera falta aún evidencia para hacer esta recomendación27.
+
+Los métodos de amplificación génica representan una reducción sustancial en el tiempo de diagnóstico, permitiendo de esa manera tomar decisiones tempranamente respecto del inicio del tratamiento; sin embargo, es necesario tener en consideración que un resultado negativo no permitiría excluir o descartar el diagnóstico de TBC, especialmente cuando la sospecha clínica es alta y el paciente es de algo riesgo28.
+
+Proyecto financiado por Fondos Departamentales Concursables del Departamento de Laboratorios Clínicos.
+
+Agradecimientos
+
+Al personal del laboratorio de Microbiología de la PUC por su colaboración en la realización de este trabajo. Agradecemos al Programa SENTRY por proporcionar fondos que fueron destinados a la realización de este trabajo.

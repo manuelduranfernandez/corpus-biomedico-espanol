@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182014000600007
+Detección de serinocarbapenemasas de clase A y otros mecanismos de resistencia enzimática a β-lactámicos en cepas de enterobacterias con susceptibilidad disminuida a carbapenémicos, aisladas de pacientes de un hospital universitario de Santiago, Chile
+
+Resumen
+
+Introducción: La emergencia de resistencia a β-lactámicos por carbapenemasas en enterobacterias tiene gran importancia clínica. El objetivo de este estudio fue caracterizar genotípica y fenotípicamente la resistencia enzimática a β-lactámicos en enterobacterias con susceptibilidad disminuida a carbapenémicos, en cepas aisladas de pacientes de un hospital universitario de Santiago. Metodología: Durante abril-septiembre 2010, en el Hospital Clínico de la Universidad de Chile se recolectaron 23 aislados. Se detectaron serinocarbapenemasas clase A (SME, IMI, NMC, GES y KPC) mediante RPC. Se empleó el test de Hodge modificado y acido fenil-borónico (APB) para la detección fenotípica de serinocarbapenemasas. Se detectó la presencia de β-lactamasas de espectro extendido según CLSI y AmpC y MBL mediante tabletas comerciales. Resultados: 18 cepas (78,26%) correspondieron a Klebsiella pneumoniae y 5 cepas (21,74%) a Enterobacter cloacae. Todas las RPC para serinocarbapenemasas fueron negativas, en tanto, el test de Hodge fue positivo para 3/23 cepas, todas E. cloacae. Una cepa de K. pneumoniae fue positiva para APB. Se detectó BLEE en 14/23 cepas, AmpC en 5/23 cepas y no se detectó MBL. Conclusiones: En las cepas estudiadas no se detectaron serinocarbapenemasas clase A. Probablemente los mecanismos que explican la susceptibilidad disminuida a carbapenémicos, involucran resistencia enzimática, combinados con cambios en la permeabilidad de la membrana bacteriana.
+
+Palabras clave: Carbapenemasas, carbapenémicos, resistencia β-lactámicos, enterobacterias, vigilancia activa.
+
+Comentario Editorial en pág. 689
+
+Introducción
+
+La resistencia antimicrobiana es un problema creciente con impacto múltiple en la atención sanitaria ya que prolonga la duración de la enfermedad infecciosa, los tratamientos y la estadía hospitalaria; así mismo, aumenta las interacciones farmacológicas, los costos asistenciales, la carga económica sobre las familias y la sociedad y el riesgo de muerte1,2.
+
+En los últimos años, ha sido especialmente relevante la resistencia antimicrobiana mediada por β-lactamasas: β-lactamasas de espectro extendido (BLEE) y β-lactamasas AmpC, a las cuales se ha agregado la emergencia de carbapenemasas. Estas últimas enzimas, relevantes ya que son capaces de hidrolizar todos los β-lactámicos, incluyendo carbapenémicos, con limitadas opciones terapéuticas5, se transfieren fácilmente de un organismo a otro y su prevalencia es cada vez mayor en aislados clínicos2-4.
+
+En Chile, la menor susceptibilidad a carbapenémicos en enterobacterias, se encuentra en las cepas aisladas en las unidades de cuidados intensivos, principalmente en Klebsiella pneumoniae. La susceptibilidad de este agente a ertapenem en pacientes hospitalizados es de 75%. Por otra parte, los aislados de Escherichia coli aún tienen un buen nivel de susceptibilidad a carbapenémicos, sobre 99%; sin embargo, se ha observado una disminución en la sensibilidad y cada vez con mayor frecuencia, aparecen aislados no susceptibles, especialmente en urocultivos de pacientes hospitalizados (0,9% de resistencia a ertapenem). La susceptibilidad de E. coli a cefalosporinas, en pacientes ambulatorios ha disminuido en forma importante, mostrando una susceptibilidad a cefalotina de 62,4% y a cefotaxima de 92,2%6.
+
+La resistencia a carbapenémicos en enterobacterias puede relacionarse con la producción de carbapenemasas, o a la producción de cefalosporinasas, como BLEE y/o AmpC, en combinación con una disminución de la permeabilidad de la membrana externa, debido a una pérdida, modificación y/o disminución de la expresión de porinas y/o a la sobreexpresión de bombas de expulsión7-9.
+
+Las carbapenemasas son β-lactamasas que, además de degradar carbapenémicos, hidrolizan prácticamente todos los β-lactámicos; su espectro de hidrólisis de β-lactámicos es tan amplio, que hasta el día de hoy, no ha sido igualado por otras enzimas9. Según su naturaleza, se pueden clasificar en cuatro clases: A, B, C y D. Las clases A, C y D incluyen β-lactamasas con serina en su sitio activo, mientras que las β-lactamasas de clase B, corresponden a metalo-enzimas dependientes de zinc9-11.
+
+Las carbapenemasas de clase A parecieran ser la clase más diversa y ampliamente distribuida, ya que los genes que las codifican se han encontrado en varios phyla bacterianos, tales como Actinobacteria, Bacteroidetes, Cianobacteria, Firmicutes y Proteobacteria9. La resistencia mediada por serinocarbapenemasas es cada vez más frecuente, y hoy en día se está produciendo una diseminación mundial de cepas con este mecanismo de resistencia9,12-17.
+
+En los últimos años se han descrito enterobacterias productoras de carbapenemasas de clase A de tipo IMI, SME, NMC, GES y KPC9. Las carbapenemasas IMI SME y NMC están codificadas en el cromosoma, mientras que las carbapenemasas de tipo KPC y GES están codificadas en plasmidios, lo que las hace fácilmente transferibles9,18. La rápida diseminación de estas enzimas ha limitado considerablemente la elección de antimicrobianos y constituye una seria amenaza de infecciones por entero-bacterias panresistentes18. En las enterobacterias también se han detectado otras carbapenemasas como las metalo-β-lactamasas (MBL) de tipo IMP, VIM y SPM9,10.
+
+De las serinocarbapenemasas descritas, la enzima KPC ha tenido una diseminación más rápida en los últimos años. En áreas endémicas de carbapenemasas, más de un tercio de las K. pneumoniae posee el gen blaKPC7. La presencia mundial de uno de los clones de K. pneumoniae ST258, indica que la mayor parte de la diseminación es clonal19, y, gran parte del éxito en su diseminación radica en su asociación a transposones, especialmente al transposón Tn440119.
+
+A la fecha, no existe un consenso sobre la mejor manera de realizar un diagnóstico sencillo de la presencia de carbapenemasas, ya que la mayoría de los estudios utiliza la detección de los genes que codifican para las distintas enzimas, mediante reacción de polimerasa en cadena (RPC), lo cual es costoso y laborioso, ya que requiere la utilización de múltiples partidores según el número de genes que se desee detectar20-22.
+
+El Clinical Laboratory Standards Institute (CLSI) ha recomendado realizar el test de Hodge modificado en todas las cepas de enterobacterias con susceptibilidad disminuida a carbapenémicos23. Sin bien, la sensibilidad de este test es buena, presenta falsos positivos en casos de alta prevalencia de enzimas tipo BLEE o AmpC con hiperproducción.
+
+Estudios en Argentina han mostrado que en cepas con sospecha de resistencia a carbapenémicos, el test de Hodge tiene hasta 25% de falsos positivos, por lo que se han diseñando nuevos protocolos para mejorar la especificidad de estos ensayos24. Una de las propuestas, es utilizar compuestos derivados del ácido borónico, el cual tiene la capacidad de inhibir la acción de las serinocarbapenemasas. En cepas productoras de serinocarbapenemasas, se determinó que una disminución en la concentración inhibitoria mínima (CIM) de tres diluciones de imipenem combinado con ácido borónico, frente a la CIM para imipenem no combinado, tiene una sensibilidad y especificidad cercanas a 100%25. Lo mismo ocurre al aplicar este principio a técnicas de susceptibilidad por difusión en las que un aumento en el halo de inhibición de 4 mm, en un sensidisco de imipenem/borónico, frente a otro de imipenem, sería el mejor predictor de la presencia de una serinocarbapenemasa25. Cabe aclarar, que estos ensayos se han realizado con cepas circulantes a nivel local, por lo que sus resultados podrían no ser aplicables a otras regiones geográficas, donde el tipo de enzimas de las cepas resistentes puede variar o tener expresiones distintas.
+
+Debido a estos antecedentes, el conocimiento de la epidemiología local y la caracterización de la resistencia, se ha convertido en una necesidad imperiosa, que es muy importante de considerar al indicar terapia empírica.
+
+El objetivo de este estudio fue caracterizar genotípica y fenotípicamente la resistencia enzimática a β-lactámicos en enterobacterias con susceptibilidad disminuida a carbapenémicos en cepas aisladas de pacientes de un hospital universitario de Santiago, Chile, durante el año 2010, con especial énfasis en la detección de serinocarbapenemasas de clase A de los tipos SME, IMI, NMC, GES y KPC. Así mismo, se evaluó fenotípicamente la presencia de otras enzimas, como MBL, BLEE y AmpC, que expliquen esta susceptibilidad disminuida a carbapenémicos.
+
+Materiales y Métodos
+
+Durante el periodo de estudio se aislaron 1.524 enterobacterias provenientes de pacientes hospitalizados, de las cuales se incluyeron en este estudio 23 cepas (18 K. pneumoniae y 5 E. cloacae) que presentaron susceptibilidad intermedia o resistente por lo menos a uno de los siguientes carbapenémicos: ertapenem (ERP), imipenem (IMP) o meropenem (MRP). Las cepas se recolectaron en forma prospectiva entre los meses de abril y septiembre de 2010 y provenían de pacientes internados (una cepa por paciente, la primera cepa aislada) en el Hospital Clínico de la Universidad de Chile. De cada uno de los aislados, se consignó la fecha de aislamiento y el tipo de muestra.
+
+La identificación de los aislados y el estudio de susceptibilidad a los antimicrobianos se realizó utilizando el equipo VITEK® 2 (bioMerieux). La identificación de las cepas fue corroborada con las pruebas bioquímicas convencionales y la determinación de la susceptibilidad in vitro por el método de difusión de Kirby Bauer con las recomendaciones del CLSI 200919. Se utilizó la recomendación del CLSI 2009, ya que en el periodo de recolección de las cepas éste era el vigente en nuestro hospital.
+
+Detección fenotípica de serinocarbapenemasas de clase A
+
+Se empleó el test de Hodge modificado con los discos de ERP e IMP y el método con ácido 3-aminofenilborónico (APB) propuesto por Pasterán y cols.24, para detectar fenotípicamente la presencia de estas enzimas; esté último, sólo se realizó en cepas de K. pneumoniae. Se emplearon como controles las cepas E. coli ATCC 25922, K. pneumoniae ATCC BAA 1705 y K. pneumoniae ATCC 700603.
+
+Detección genotípica de las serinocarbapenamasas de clase A
+
+La detección de los genes que codifican para las serinocarbapenemasas de clase A de los tipos KPC, GES, IMI, NMC y SME se realizó mediante RPC utilizando los oligonucleótidos reportadas por Queenan y Bush (2007)26. Las amplificaciones se llevaron a cabo en un volumen final de 50 μL utilizando 25,75 μL de H20 dd, 10 μL de RPC buffer 5x (Promega®), 6 μL de MgCl2 25 mM (Promega®), 1 μL dNTPs 10 mM, 1 μL de cada partidor, 0,25 μL GoTaq flexi ADN polimerase (Promega®) y de ADN. El programa de amplificación utilizado fue: 1 ciclo de 94o por 10 min; 35 ciclos de 94oC para la denaturación y 72oC para la extensión, la temperatura de annealing para KPC, GES y SME fue de 50oC; en cambio para IMI y NMC fue de 52 y 56oC, respectivamente. Los productos de la RPC fueron visualizados por electroforesis en gel de agarosa al 1% y teñidos en solución de TAE 0,5X con bromuro de etidio durante 15 min. Los geles fueron observados en un transiluminador de luz UV (Spectroline UC 312-R) y fotografiados en un sistema de captura Kodak (EDAS 2009 KODAK, Software KODAK 1D3.6). Se utilizó como estándar de peso molecular ADN ladder de 1Kb (New England Biolabs®).
+
+Detección fenotípica de BLEE, AmpC y MBL
+
+La detección de las enzimas BLEE se realizó empleando el método de disco combinado, de acuerdo con las recomendaciones del CLSI 2009. Para la detección de AmpC y MBL se utilizaron las tabletas comerciales de Rosco Diagnostica® AmpC Confirmative ID Pack y Carbapenemases/Metallo-B-Lactamase Confirmative ID Pack®, respectivamente, siguiendo las instrucciones del fabricante.
+
+Resultados
+
+De las 23 cepas de enterobacterias con susceptibilidad disminuida a carbapenémicos aisladas durante el período abril-septiembre de 2010, 18 cepas correspondieron a K. pneumoniae y 5 a E. cloacae. Las muestras clínicas de las cuales se aislaron estas cepas fueron: urocultivo (14/23), hemocultivo (3/23), cultivo de punta de catéter (3/23) y secreciones respiratorias (3/23).
+
+El estudio de susceptibilidad de los aislados clínicos evidencia resistencia a varios antimicrobianos. El 100% (23/23) de las cepas fue resistente a nitrofurantoína, cefalosporinas de primera generación (cefalotina y cefazolina) y cefoxitina. El 95,7% (22/23 cepas) fueron no susceptibles a cefotaxima, ceftazidima o ciprofloxacina; 91,4% (21/23) no susceptible a amikacina; (87%) 20/23 a gentamicina; y (78,3%) 18/23 no susceptibles a cotrimoxazol. En cuanto a los carbapenémicos, 100% de los aislados fue no susceptible a ertapenem, siendo 87% (20/23) resistentes y 13% restante intermedio (3/23), el 8,7% (2/23) y 4,3% (1/23) fueron resistentes a meropenem e imipenem, respectivamente (Figura 1).
+
+ 
+
+
+
+Figura 1. Susceptibilidad de enterobacterias con susceptibilidad disminuida a carbapenémicos          aislados de pacientes hospitalizados del Hospital Clínico de la Universidad de Chile.          abril-septiembre      2010 (n = 23). F: Nitrofurantoína, CIP: ciprofloxacino, AN: amikacina,          GM: gentamicina, SXT: trimetropinsulfametoxazol, CF: cefalotina, CZ: cefazolina, FOX:          cefoxitina,      CTX: cefotaxima, CAZ: ceftzidima, ERT: ertapenem, MER: meropenem, IMP: imipenem.
+
+ 
+
+En cuanto a la detección fenotípica de serinocarbapenemasas de clase A, el test de Hodge con ertapenem e imipenem fue positivo para 3/23 cepas, las 3 E. cloacae; sin embargo, sólo una de ellas fue positiva para ambos carbapenémicos. Por su parte, la prueba con ácido borónico con el disco de ertapenem fue positiva en 1/18 cepas analizadas y correspondió a K. pneumoniae. La detección genotípica de KPC, GES, NMC, SME e IMI mediante RPC fue negativa para todas las cepas en estudio.
+
+Respecto a la detección fenotípica de BLEE en los aislados, 14/23 cepas (60,8%) fueron positivas, (13 K. pneumoniae y 1 E.cloacae); ésta última cepa presentó test de Hodge con meropenem positivo. La detección fenotípica de AmpC mediante las tabletas de Rosco Diagnóstica® resultó positiva para 5/23 (21,7%) cepas, todas correspondientes a E. cloacae. Finalmente, no se detectó la presencia de MBL mediante el test Carbapenemases/Metallo-B-Lactamase Confirmative ID Pack en las enterobacterias estudiadas (Tabla 1).
+
+ 
+
+Tabla 1. Resultados de test fenotípicos y genotípicos en cepas de enterobacterias       con susceptibilidad disminuida a carbapenémicos, aisladas de pacientes internados       en el Hospital Clínico de la Universidad de Chile. Abril-septiembre 2010
+
+
+
+ 
+
+Discusión
+
+Durante el período (año 2010) ninguno de los aislados analizados presentó genes que codifican serinocarbapenemasas de clase A de los tipos KPC, GES, IMI, NMC y SME mediante RPC, si bien 87% de las cepas eran resistentes al ertapenem.
+
+Por otro lado, es necesario tener presente que las cepas incluidas en este estudio fueron seleccionadas con los puntos de corte del CLSI 2009, que eran más altos para carbapenémicos que los utilizados actualmente; y que la presencia de carbapenemasas no siempre define resistencia a carbapenémicos, pudiendo mostrar incluso un fenotipo susceptible a ellos11.
+
+Hasta el año en que se realizó este estudio, no se habían detectado enterobacterias productoras de carbapenamasas en nuestro país, a pesar de la vigilancia realizada en diversos centros asistenciales incluido el nuestro28. En Chile, sólo en marzo del 2012 se detectó la primera serinocarbapenemasa de tipo KPC en un caso importado29, en abril se detectó el primer caso autóctono de KPC, y en junio del mismo año, se notificó la presencia de la cepa epidémica K. pneumoniae KPC-2 ST25832.
+
+Respecto a la detección fenotípica de serinocarbapenemasas, en nuestro estudio 3/23 cepas analizadas, presentaron el test de Hodge positivo, y una cepa de K. pneumoniae dio positivo la prueba con ácido borónico (Tabla 1). Sin embargo, estos resultados fueron considerados falsamente positivos, teniendo en cuenta que en nuestras cepas no se detectaron los genes que codifican para serinocarbapenemasas. Además, en la literatura científica, se describe que el test de Hodge puede arrojar resultados erróneos como consecuencia de la producción de BLEE acoplado a la perdida de porinas, especialmente en áreas geográficas en la cuales existe una alta prevalencia de BLEE30.
+
+Las pruebas para detectar MBL también fueron negativas; no obstante, se debe mantener su búsqueda, ya que han aumentado en forma importante y se han asociado a brotes con diseminación clonal11,31. En el año 2008 se detectó en Suecia por primera vez una enterobacteria productora de NDM-1 en un paciente indio proveniente de Nueva Delhi. Desde mediados del año 2010 se han detectado enterobacterias productoras de esta metalo-enzima en todos los continentes y en junio 2013 ya se detectó en Argentina32.
+
+La presencia de BLEE se encontró en 14/23 (60,8%) de las cepas. Estos datos son similares a los encontrados en otros estudios, donde la prevalencia de BLEE en enterobacterias con susceptibilidad disminuida a carbapenémicos es de alrededor de 50%6,28. La mayoría de las cepas BLEE positivas (13/14) se asociaron a K. pneumoniae. Solo se detectó AmpC en cepas de E. cloacae, situación que es prevalente. En este estudio, sólo una cepa de E. cloacae presentó ambas enzimas. Estos resultados son consistentes con otros estudios9,33. La resistencia en K. pneumoniae, se asoció a BLEE; sin embargo, la ausencia de AmpC, podría estar subestimada, ya que en este estudio no se buscaron AmpC plasmidiales, siendo la CMY-2 en particular, prevalente a nivel mundial, tanto en cepas de pacientes hospitalizados como en ambulatorios34,35. Por otra parte, E. cloacae se asocia principalmente a sobrexpresión de AmpC, aunque es posible encontrar cepas con BLEE y AmpC simultáneamente.
+
+Respecto del estudio de los mecanismos de resistencia a carbapenémicos, entre las limitantes, es necesario señalar que en este estudio, no se realizó la detección de carbapenemasas de tipo OXA, cierre de porinas y bombas de expulsión; mecanismos de resistencia cada vez más frecuentes en enterobacterias. En este sentido, se han descrito aislados clínicos de K. pneumoniae y E. cloacae resistentes a ertapemen debido a la ausencia o reducción en la expresión de las porinas OmpK35 y OmpK36 y OmpC y OmpF, respectivamente, en combinación con la producción de β-lactamasas como BLEE, AmpC, CTXM-2 y OXA-4833,36,37. En contraste, la alteración en las bombas de expulsión no es frecuente y su rol en la resistencia a carbapenémicos en estos dos agentes es menor37.
+
+La aparición de enterobacterias resistentes a carbapenémicos, constituye un serio problema de salud pública que afecta a todo tipo de instituciones y a la comunidad en general. Este estudio constituye un aporte a dilucidar los mecanismos involucrados en la susceptibilidad disminuida a los carbapenémicos, problema emergente que cada día cobra más importancia. Hasta noviembre 2013 sólo, se han confirmado 18 aislados portadores de KPC en Chile: K. pneumoniae, una cepa de E. coli y una de K. oxytoca38, por lo que probablemente los mecanismos que explican la susceptibilidad disminuida a carbapenémicos, involucran mecanismos de resistencia enzimática a β-lactámicos evidenciados en este estudio combinados con cambios en la permeabilidad de la membrana bacteriana (pérdida, modificación y/o disminución de la expresión de porinas) y/o hiperexpresión de bombas de flujo33,36,37,39.
+
+Además, las enterobacterias productoras de carbape-nemasas pueden dar un bajo nivel de resistencia e incluso susceptibilidad a carbapenémicos in vitro11, por lo que representan un desafío clínico, diagnóstico y terapéutico. Por este motivo, se debe continuar con la vigilancia activa de estas enzimas en cualquier aislado de enterobacterias con susceptibilidad disminuida a cualquier carbapenémico. Conocer nuestra realidad local, permite tomar las medidas adecuadas y estar alertas ante la llegada de nuevas carbapenemasas.
+
+Agradecimientos. Los autores agradecen a Helia Bello, Gerardo González y Sergio Mella de la Universidad de Concepción, su colaboración en este estudio.

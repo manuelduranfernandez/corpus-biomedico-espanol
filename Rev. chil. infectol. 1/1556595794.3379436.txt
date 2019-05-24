@@ -1,0 +1,32 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182012000700023
+Escala de predicción de infecciones postcirugía cardíaca en pediatría
+
+Rev Chilena Infectol 2012; 29 (6): 691
+
+REVISTA DE REVISTAS
+
+ 
+
+Escala de predicción de infecciones postcirugía cardíaca en pediatría.
+
+Bedside prediction rule for infections after pediatric cardiac surgery. Algra SO, Driessen MM, Shadenberg A W, Shouten AN, Haas F, Bollen CW, et al. Intensive Care Med 2012; 38: 474-81.
+
+ 
+
+Las infecciones asociadas a cirugía cardíaca son una complicación frecuente en pediatría, con una incidencia entre 16-31%. Éstas retrasan la recuperación postquirúr-gica, causando significativa morbilidad, prolongan los días de estadía en UCI y de hospitalización total. Las más frecuentes son las infecciones del sitio quirúrgico (ISQ) y las infecciones de torrente sanguíneo (ITS).
+
+Actualmente se reconocen factores de riesgo peri-operatorios, pero no necesariamente determinan cuáles pacientes son los que tienen mayor riesgo. En el caso de las infecciones post-operatorias la pregunta es ¿cuáles son las medidas de prevención necesarias y en qué pacientes?
+
+Objetivo: Desarrollar una escala de predicción para estimar el riesgo de infección durante la estadía hospitalaria a las 48 h post-operatorias.
+
+Método: Se realizó un análisis retrospectivo de todas las cirugías cardíacas con CEC en niños bajo los 18 años de edad, entre los años 2006-2009, en un hospital de niños en Holanda. Se excluyeron los pacientes que fallecieron durante la cirugía o dentro de las 48 h siguientes, si los registros clínicos estaban incompletos o si habían iniciado antimicrobianos en el período pre-operatorio debido a una ITS. Todos los procedimientos fueron realizados por el mismo equipo de cirujanos y anestesistas. Se incluyeron en el análisis sólo variables reconocidas como factores de riesgo, que podían obtenerse al lado de la cama del paciente: < 6 meses de edad, admisión pre-operatoria en UCI, complejidad de la cirugía (categorizada en 3 grupos), cirugía cardíaca previa con CEC, duración de cirugía > 3 h, duración de CEC > 2 h, temperatura nasofaríngea < 25°C, uso de inótropos, intubación endotraqueal, esternón abierto, estadía en UCI > 48 h post-cirugía, transfusión de GR > 50 ml/kg y glicemia > 1 g/l en el post-operatorio. El outcome primario fue la incidencia de infecciones que se presentaron desde las 48 h de la cirugía hasta el alta hospitalaria, definidas por los criterios del CDC, 2008. Para el análisis estadístico, las variables fueron evaluadas para la asociación con ISQ con Q2 de Pearson o test exacto de Fisher. Las variables con p > 0,15 en el análisis univariado se usaron en el modelo de regresión logística. La elección para el modelo final fue basada en un balance entre una alta área bajo la curva y la utilidad clínica. El potencial discriminatorio del modelo final fue evaluado usando la curva ROC. Todos los pacientes fueron categorizados de acuerdo a su puntaje y se calcularon los correspondientes valores predictivos positivos y negativos.
+
+Resultados: Durante el período de estudio se realizaron 426 cirugías y se analizaron 412 (364 pacientes). Se presentaron infecciones en 102 procedimientos, con una incidencia de 25% (IC95% 2-29). La mediana de inicio de las infecciones fue de 7 días después de la cirugía. De todas las infecciones, 72 (57%) fueron probadas con cultivos o RPC. Los dos tipos de infecciones más comunes fueron ISQ con 33 casos (26%) e ITS con 32 (25%). La mayoría de las ISQ fueron incisionales (n = 24) tanto superficiales como profundas y nueve fueron mediastinitis o pleuritis. La mayoría fueron causadas por S. aureus (71%). El principal agente de ITS fue Staphylococcus coagulasa negativo (44%).
+
+El análisis univariado entre los grupos con y sin infección estableció que la duración de la cirugía y de la CEC, así como el uso de inótropos, la duración de la intubación endotraqueal y la estadía en UCI fueron co-lineales. Nueve variables se sometieron al análisis multivariado. Finalmente, tres variables permanecieron en el modelo de predicción final: edad < 6 meses, estadía en UCI y esternón abierto > 48 h. Este modelo tuvo un área bajo la curva-ROC de 0,78. Al usarlo sólo con las infecciones probadas se redujo el área bajo la curva-ROC a 0,72.
+
+La escala asignó un punto en caso de edad < 6 meses, un punto para esternón abierto > 48 h y cuatro puntos para estadía en UCI > 48 h. Así, aquel paciente con puntaje cero tuvo un 6,6% de riesgo de infección y en contraste, un paciente con puntaje máximo de seis, tuvo un riesgo de 57% de desarrollar una infección. En cuanto al valor predictivo, con puntaje máximo el VPP fue de 57,4%. Sin embargo, 80% de los pacientes con puntaje de < 5 no llegaron a infectarse. Por el contrario, los niños con puntaje > 1 tuvieron un 37% de riesgo de infectarse. Sin embargo, 93% de los pacientes con puntaje cero no se infectaron.
+
+Discusión: Este estudio confirma que las infecciones son una complicación común en los niños que enfrentan una cirugía cardíaca. Los autores proponen un nuevo sistema de puntaje, a aplicar al lado de la cama del paciente, con tres simples variables para predecir infección post-cirugía cardíaca en niños. Barker y cols.1, proponen una escala con resultados similares, pero con variables más complejas que no permiten aplicarla al lado del paciente. Las limitaciones del estudio son la heterogeneidad de las infecciones que se incluyeron, no se evaluó un factor de riesgo específico para cada tipo de infección y la falta de validación externa. La utilidad de esta comunicación está dada principalmente por la facilidad en su aplicación y la reproducibilidad a nivel local. La identificación de pacientes pediátricos con mayor riesgo de desarrollar infecciones post-cirugía cardíaca permite reforzar las medidas de prevención en este grupo y ante situaciones dudosas de infección, en pacientes con puntaje máximo, iniciar tratamiento antimicrobiano y evaluar su continuidad según la evolución clínica y los hallazgos microbiológicos.
+
+Mirta Acuña     Hospital Roberto del Río

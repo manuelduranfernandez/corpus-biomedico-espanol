@@ -1,0 +1,210 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000200176
+Viremia en plasma como factor asociado a gravedad en la infección por el virus del dengue: revisión sistemática de la literatura
+
+Introducción
+
+El dengue es en la actualidad la arbovirosis más importante a nivel global. Esta enfermedad es causada por los cuatro serotipos del virus del dengue y transmitida a los seres humanos por los vectores Aedes aegypti y Aedes albopictus, especies con una amplia distribución mundial, principalmente entre las latitudes 35N y 35S1–3. Según la Organización Mundial de la Salud, se estima que esta entidad provoca de 50 a 100 millones de casos de enfermedad al año en el mundo4, siendo el continente americano una de las regiones más afectadas, con un incremento alarmante en el número de casos en los últimos años con posterioridad al fracaso del programa de erradicación de A. aegypti a finales de la década de 19705. Los países del continente con mayor actividad del virus en las últimas décadas han sido, en primer lugar Brasil, seguido de Colombia, Cuba, Ecuador, Perú y Venezuela, mientras que sólo dos, Uruguay y Chile continental, han permanecido sin transmisión indígena del virus6,7.
+
+En Colombia, el dengue se considera una entidad endemo-epidémica en regiones por debajo de los 1.800 metros sobre el nivel del mar, lo que lleva a que una importante proporción de la población se encuentre en riesgo8. Para el año 2015 se reportaron 94.916 casos de dengue en el país, de los cuales 1,4% correspondió a dengue grave (DG). Por su parte, el Departamento de Santander reportó 8,8% del total, ubicándose tercero en la lista de departamentos con más casos de esta enfermedad9.
+
+A pesar de que la mayoría de infecciones por el virus del dengue resultan en una enfermedad febril auto-limitada, conocida como la forma clásica o dengue clásico (DC), su presentación clínica es variable, pudiendo manifestarse en formas más graves como el dengue hemorrágico o el síndrome de choque por dengue, escenarios caracterizados por defectos en la hemostasia y fuga de plasma10. Esta condición de DG a menudo resulta fatal de no manejarse la fuga de líquido plasmático de manera oportuna por lo que el diagnóstico adecuado de esta entidad se convierte en una prioridad en el contexto actual, en el que otras infecciones virales transmitidas por mosquitos adquieren una importancia cada vez mayor11,12.
+
+Sin embargo, el diagnóstico convencional de infección por el virus del dengue resulta insuficiente para determinar si el paciente presentará una forma grave de la enfermedad13,14. Derivado de esta dificultad, múltiples estudios han evaluado marcadores de gravedad con el propósito de determinar qué pacientes tienen mayor probabilidad de padecer esta condición. Dentro de los factores asociados a gravedad de la enfermedad se han relacionado la primoinfección por el serotipo 3 del virus15, la actividad de distintos tipos de HLA (A-03, A-24, A-33, B-57)16–18, las infecciones secundarias por otro serotipo distinto al causante de la primoinfección15, niveles elevados de bio-marcadores séricos como las citoquinas (ST2, TRAIL, FNTα, IL-1beta, IFN-gamma, IL-4, IL-6, IL-13, IL-7 y GM-CSF)19–21, viremia prolongada22, niveles elevados de antígeno NS1 en sangre23 y una carga viral en sangre elevada24–29, entre otros. Con respecto a este último, su asociación con las formas graves de la enfermedad no ha sido completamente aceptada, pues existen estudios en los que no se ha hallado una relación directa entre la carga viral en sangre y el desarrollo de DG30–35. Por ende, la discusión sobre este factor y su mecanismo fisiopatológico en el dengue continúa abierta. A esto se debe agregar que hasta la fecha en la literatura científica no existe publicación alguna que recopile los resultados de los estudios realizados en esta área.
+
+Dado el contexto y la plausibilidad biológica de que la viremia sea un factor influyente en la gravedad de la enfermedad se considera necesaria la realización de la presente revisión, la que tiene el propósito de brindar una visión global y actualizada acerca de los hallazgos publicados con respecto a la relación entre la viremia del dengue y la presentación clínica de sus formas graves, tema controvertido, pero de gran importancia para el estudio del fenómeno del DG.
+
+Metodología
+
+Criterios de elegibilidad
+
+Se consideraron para su inclusión en la revisión estudios que evaluaran la relación entre la carga viral en plasma (representada como el número de copias de ARN viral/mL) y las manifestaciones clínicas y la gravedad de la enfermedad en pacientes con diagnóstico confirmado de dengue.
+
+Por otra parte, fueron descartados para su selección los estudios que evaluaran formas graves del dengue sin incluir factores asociados, estudios que describieran factores relacionados a gravedad en dengue sin incluir la carga viral, investigaciones realizadas en modelos animales, artículos de revisión y finalmente aquellos escritos en otro idioma distinto al inglés, español o portugués.
+
+Estrategia de búsqueda
+
+Se realizó una búsqueda de la literatura científica utilizando las bases de datos Scopus, EBSCOhost, SpringerLink, Lilacs y Scielo en el tiempo comprendido entre el 27 de junio y el 24 de julio de 2016, utilizando los siguientes términos (líneas) de búsqueda: dengue virus AND viremia AND severity como primera línea, dengue virus AND viral load AND severity como segunda y dengue virus AND viral burden AND severity como tercera línea.
+
+Evaluación y recolección de los estudios
+
+Se realizó una revisión general de los resultados de la búsqueda inicial, evaluando cada publicación por su título y seleccionando aquellas que mostraran una relación directa o indirecta con el objetivo del estudio. Posteriormente, se efectuó una revisión individual de los resúmenes, seleccionando los que cumplían los criterios de inclusión y exclusión definidos. Finalmente, las listas de referencias de los artículos evaluados fueron valoradas manualmente para la inclusión de otros estudios pertinentes no encontrados en la búsqueda.
+
+Resultados
+
+La revisión de la literatura científica identificó 80 artículos aptos para ser incluidos en el manuscrito, siendo 35, 33 y 12 resultados de cada línea de búsqueda, respectivamente. Se aplicó un filtro manual a partir de la revisión de los resúmenes encontrando que 58 referencias no ofrecían información útil relacionada al objetivo principal del estudio.
+
+A posteriori se procedió a descargar los artículos para su evaluación completa, siendo descartados dos en esta fase por cumplir otros criterios de exclusión (Figura 1). Finalmente fueron seleccionadas 20 referencias (Tabla 1) de las cuales se descargó los artículos para su revisión completa. Los estudios incluidos fueron publicados entre los años 1981 y 2016; éstos evaluaron el impacto que tienen las características de la viremia (magnitud, valores pico, duración y valores post-defervescencia) en las manifestaciones de la enfermedad, específicamente aquellas relacionadas con el DG.
+
+Figura 1 Proceso de selección de los estudios. 
+
+Tabla 1 Descripción general de los artículos incluidos en la revisión 
+
+–. 
+
+			Duración de la viremia
+
+–. 
+
+			Títulos al ingreso y convalecencia
+
+–. 
+
+			Títulos máximos
+
+–. 
+
+			Duración
+
+–. 
+
+			Títulos promedio
+
+–. 
+
+			Títulos a los días 2, 3 y 4
+
+–. 
+
+			Títulos máximos
+
+–. 
+
+			Títulos promedio
+
+–. 
+
+			Títulos post-defervescencia
+
+–. 
+
+			Títulos promedio
+
+–. 
+
+			Títulos en fase febril temprana
+
+–. 
+
+			Títulos según el tipo de infección
+
+–. 
+
+			Títulos pre-y post-defervescencia
+
+–. 
+
+			Duración de la viremia
+
+–. 
+
+			Títulos promedio posterior a la admisión hospitalaria
+
+–. 
+
+			Duración de la viremia
+
+–. 
+
+			Títulos máximos
+
+–. 
+
+			Títulos pre-y post-defervescencia
+
+–. 
+
+			Duración de la viremia
+
+–. 
+
+			Niveles de carga viral, IFNα, IFNγ e IL-10
+
+–. 
+
+			Títulos máximos
+
+–. 
+
+			Tiempo de aparición de títulos máximos
+
+–. 
+
+			Títulos al 5° día de la enfermedad
+
+–. 
+
+			Tiempo hasta la desaparición de la viremia
+
+–. 
+
+			Títulos promedio en plasma
+
+–. 
+
+			Niveles de ARN viral al interior de células mononucleares en sangre periférica
+
+–. 
+
+			Títulos promedio
+
+–. 
+
+			Títulos promedio
+
+–. 
+
+			Títulos según el día de la enfermedad
+
+–. 
+
+			Títulos post-defervescencia
+
+–. 
+
+			Títulos promedio
+
+–. 
+
+			Títulos post-defervescencia
+
+–. 
+
+			Títulos promedio
+
+–. 
+
+			Títulos post-defervescencia
+
+*DC: Dengue clásico, DG: Dengue grave, DSA: Dengue con signos de alarma, DI: Dengue forma intermedia entre DC/DG.
+
+El número total de pacientes incluidos fue de 2.642, con un predominio del género masculino (54%) y una edad promedio de 26 años (DE ± 5,9), siendo siete estudios realizados en población pediátrica (edad promedio 7,7 años; DE ± 2,2)24,25,29,30,33,35,36.
+
+Las investigaciones fueron realizadas en países endémicos, principalmente de Asia (75%) -específicamente del Sudeste asiático (65%)- y el continente americano (20%). Asimismo, la mayoría de la población evaluada provino de países asiáticos (71%). Del total, fueron evaluados 830 casos (31%) de DG, 1.082 casos (41%) de DC y 405 (15%) de dengue con signos de alarma (DSA) o de una forma intermedia del mismo, definida como una elevación del hematocrito entre 15-20%, evidencia de efusión pleural menor a 1 mm en la radiografía de tórax en decúbito lateral o recuento plaquetario mayor de 100.000/mm3 a pesar de cumplir criterios para fuga de plasma. Finalmente, en 13% de los individuos no fue disponible la información de esta condición24.
+
+Por otra parte, en la mayoría de estudios se determinó el serotipo causal de la infección, siendo prevalente el serotipo DENV-2 (48,3%), además de ser el más asociado a gravedad, seguido por el DENV1 (31,6%), DENV3 (17,6%) y finalmente el DENV1 (2,4%).
+
+En relación a los desenlaces evaluados, siete artículos estudiaron la duración de la viremia26,30,33,34,36–38, 14 la magnitud de la misma24,26,28–30,32,33,35–37,39–41, cinco los títulos máximos24,25,32,37,42, seis evaluaron los niveles post-defervescencia22,26,35,38,40,41 y cuatro relacionaron la carga viral con indicadores de gravedad como la trombocitopenia, hemoconcentración y fuga de plasma24,29,35,43. Por otra parte, a partir de los estudios que la evaluaron se reportó una duración promedio de la viremia de 5,9 días, siendo de 6,2 días en los pacientes con DSA y de 5,8 en aquellos con DC.
+
+Respecto a la correlación entre las características de la viremia y el DG, diez estudios (cinco realizados en población pediátrica) concluyeron que en pacientes con DG o DSA presentaban concentraciones del virus en plasma superiores o una duración más prolongada, llegando a ser detectable hasta varios días posteriores a la defervescencia, en comparación de aquellos con la forma clásica de la enfermedad22,24–26,28,29,36,38,40,41. Sumado a esto, un estudio a pesar de descartar una correlación directa con el estatus de DG, asoció los niveles elevados de viremia con marcadores de gravedad como la trombocitopenia35. Contrario a esto, dos estudios evidenciaron una correlación negativa entre estas dos variables específicamente tomando los títulos promedio de la viremia, los cuales fueron superiores en los pacientes con DC39,44.
+
+Finalmente, siete estudios descartaron una relación entre las características de la carga viral y la gravedad de la enfermedad. Cabe destacar que seis de estos últimos tuvieron un predominio de casos causados por un serotipo distinto al DENV2, principalmente DENV1 y DENV3, y más aún, dos de estos artículos sólo incluyeron casos con serotipos distintos al DENV232–34,37,42,43,45.
+
+Discusión
+
+La amplia variedad de presentaciones clínicas del dengue representa un reto para el personal de salud en zonas endémicas, pues aún se carece de medios suficientes para la identificación temprana de los pacientes cuya progresión clínica requerirá de intervención posterior46. En este contexto, los estudios han dejado ver que múltiples factores, incluyendo el serotipo infectante, la inmunidad del individuo y la carga viral, pueden aportar a la gravedad de la enfermedad; a pesar de esto, la fisiopatología y los factores asociados al desarrollo dengue grave todavía no se comprenden del todo41,43,45,47. Por su parte, la carga viral ha sido ampliamente estudiada por su posibilidad como factor asociado a gravedad en el contexto de la amplificación dependiente de anticuerpos (ADA), proceso en el cual la presencia de anticuerpos derivados de una infección previa fracasan neutralizando el serotipo de la infección secundaria y llevan, por el contrario, a un incremento en la entrada de las partículas virales al interior de las células del sistema inmune con receptores Fc en su membrana (principalmente macrófagos y monocitos), lo que favorece la replicación del virus y una elevación de sus concentraciones tisulares y en sangre, todo esto asociado a una respuesta inmune más intensa y liberación importante de mediadores vasoactivos48,49.
+
+A pesar de esta plausibilidad, aún no existe un consenso acerca de las implicaciones de la viremia en el desarrollo del DG, por lo que la investigación en esta área es activa. Esto se vio reflejado en el número de publicaciones encontradas acerca de este fenómeno, las que en su gran mayoría concuerdan en que la carga viral cumple un papel de importancia en la gravedad del dengue. Sin embargo, los hallazgos varían respecto a la relación establecida, siendo las variables asociadas a formas graves de la enfermedad con mayor evidencia la magnitud de la viremia temprana24,26,36,40, el valor de los títulos pico24,25 y la duración de la misma posterior a la defervescencia22,36,38,40,41. Por una parte, los mayores títulos encontrados en pacientes con DG pueden justificarse por la hipótesis de la ADA, pues múltiples estudios han encontrado asociaciones significativas entre la infección secundaria y la gravedad de la enfermedad25,40,49–52. A pesar de esto, se tiene certeza que existen una variedad de factores virales, genéticos e inmunológicos que favorecen el desarrollo de esta condición, por lo que la infección secundaria por sí misma no determina la progresión a DG45,47,53,54.
+
+De manera similar, el hallazgo de persistencia de la viremia posterior a la defervescencia en el DG tiene implicaciones en el estudio de la fisiopatología de la enfermedad. Para explicar este fenómeno se han planteado varias hipótesis; por una parte, se cree que proviene de la liberación residual de ARN viral derivado de un mayor volumen de células infectadas durante el periodo febril. De manera alternativa, se ha postulado que puede deberse a replicación viral persistente durante la defervescencia, pues existe evidencia sobre el aislamiento viral en periodos tardíos de la enfermedad en pacientes con DG por el serotipo 3 22,26. Otra posibilidad evaluada consiste en la diferencia en la efectividad de la eliminación del virus durante la defervescencia en pacientes con la forma grave de la enfermedad y las implicaciones que tienen el tipo de infección, el serotipo infectante y la respuesta de células T sobre este factor, siendo la eliminación más rápida durante la infección secundaria pero menos eficiente en infecciones por el serotipo 1 del virus y en los casos de disfunción de linfocitos T, en los cuales la apoptosis masiva de clones de células T específicas para el dengue puede aportar a la eliminación más lenta del virus34,42,55–57. Relacionado a esto, se ha reportado que en casi la totalidad de pacientes con DG en los que persiste la viremia posterior a la defervescencia, el ARN viral en plasma se encuentra asociado de manera importante a complejos inmunes circulantes, lo que puede jugar un rol de importancia en la fisiopatología de la infección grave22,23,58,59.
+
+Por otra parte, algunos estudios correlacionaron la carga viral con marcadores de gravedad específicos como la trombocitopenia24,37,43, hemoconcentración24 y fuga de plasma24,29. Con respecto al primero, dentro de los potenciales mecanismos de la trombocitopenia asociados al virus se incluyen la trombopoyesis alterada, asociada a la infección de los megacariocitos por el virus llevando a una reducción en sus recuentos y los de sus precursores en la médula ósea60,61, y la destrucción periférica de plaquetas, esta última relacionada tanto a la presencia de anticuerpos antiplaquetarios como a la activación de las mismas al interactuar con células endoteliales infectadas por el virus o al ser infectadas por el virus mismo62–64. En esta última condición se ha evidenciado que el virus puede provocar disfunción mitocondrial y activación de la cascada de apoptosis de las caspasas por medio de su interacción con la molécula de adhesión DC-SIGN (dendritic cell-specific intercellular adhesion molecule-3-grabbing non-integrin)65.
+
+A pesar de todo esto, no se encontró unanimidad con respecto a los resultados de los estudios incluidos, pues, pese a que la mayoría concluyó que los niveles de viremia en plasma y su duración se correlacionaron de alguna forma con el grado de gravedad del dengue, hubo otros que no hallaron asociaciones significativas en este sentido30,32–34,37.
+
+Estos resultados podrían asociarse al mecanismo de determinación de la viremia30, ya que en el aislamiento viral pueden interferir la presencia de anticuerpos o complejos inmunes en plasma, o a la edad de los pacientes evaluados33, pues en otras infecciones virales se han evidenciado diferencias en la respuesta inmune del hospedero y las formas clínicas de la enfermedad entre la población pediátrica y adulta66,67.
+
+No obstante, debido al origen multifactorial del DG, se podría explicar el desarrollo de esta condición aún con niveles de viremia característicos de los casos de DC. Por tanto, y a pesar de que podrían haber estudios de este tema no considerados por la presente revisión, se puede postular que aunque la cinética y magnitud de la carga viral juegan un papel de importancia en la gravedad de la enfermedad, títulos elevados o prolongados del virus en plasma no resultan indispensables para el desarrollo de DG en un individuo, jugando los factores inmunológicos y genéticos del hospedero junto con las características del virus un rol determinante en estos casos33,41,43,68,69.
+
+Se requieren más estudios en esta área de investigación basados en distintas poblaciones para entender el mecanismo y las condiciones en las cuales la carga viral puede determinar el desarrollo de DG, todo esto contribuyendo al reconocimiento temprano de la gravedad de la enfermedad y al control del fenómeno del dengue en el mundo.
+
+La realización del presente trabajo no requirió financiamiento

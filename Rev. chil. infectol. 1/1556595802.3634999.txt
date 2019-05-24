@@ -1,0 +1,42 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000200018
+Identificación rápida de patógenos en hemocultivos pediátricos por FilmArray
+
+Revista    de Revistas
+
+ 
+
+Identificación    rápida de patógenos en hemocultivos pediátricos por FilmArray 
+
+Rapid identification of pathogens from pediatric blood      cultures by use of the FilmArray blood culture identification panel.
+
+ 
+
+Zheng X, Polanco W, Carter    D, Shulman S. J Clin Microbiol 2014; 52: 4368-71
+
+Correspondencia    a:
+
+Las infecciones del torrente sanguíneo (ITS) están asociadas a una alta mortalidad, por lo que la rápida identificación del microorganismo causante y su susceptibilidad puede mejorar su pronóstico. En 2013, la FDA autorizó una RPC múltiple automatizada, FilmArray (BCID: Blood Culture Identification), para identificación rápida de hemocultivos (BioFireDiangostics, Salt Lake City, UT). Identifica patógenos comunes, incluyendo siete géneros/especies de bacterias gram positivas, diez de bacterias gram negativas y cinco especies de Candida; así como tres genes de resistencia. El tiempo requerido es de dos minutos de procesamiento manual y una hora de procesamiento instrumental (que incluye aislamiento, amplificación y detección de ADN), acortando el tiempo de identificación a uno a dos días.
+
+Sin embargo, la demostración del rendimiento clínico de este ensayo, está limitado a frascos BD Bactec Plus aeróbicos/F en pacientes adultos. El objetivo de este estudio fue evaluar el rendimiento de este test en muestras pediátricas, comparándolo con los resultados del sistema convencional: sub cultivos/identificación y susceptibilidad utilizando métodos fenotípicos.
+
+Método: Este estudio fue realizado en 2013 durante ocho meses, en un hospital pediátrico en Chicago, E.U.A. Cada hemocultivo incluyó BactecPeds Plus/F y Bactec estándar anaeróbico/F (BectonDickinson, Cockeysville, MD). Todos los frascos fueron incubados en equipo Bactec FX. El ensayo FilmArray BCID fue realizado después de realizar tinción de Gram en las botellas positivas. El resultado fue comparado con los obtenidos por el método tradicional con el equipo MicroScan (Siemens). Se incluyó para el análisis un aislado por paciente. Para resolver las discrepancias se utilizó MALDI-TOF MS y secuenciamiento 16s rARN.
+
+Resultados: Se incluyeron 166 hemocultivos positivos de 138 pacientes. De los 188 microorganismos analizados, FilmArray identificó 168 (89,4%). De los 20 en que falló su detección, 13 (65%) eran microorganismos para los cuales no estaba diseñado: seis especies grampositivas, seis gramnegativas y una Candida sp.
+
+De las 122 bacterias grampositivas,    identificó 112 (91,8%); de las 116 consideradas a ser detectadas, 112    (96,6%) fueron correctamente identificadas, incluyendo S. pyogenes, S. agalactiae,    S. pneumoniae, S. aureus, Staphylococcus coagulasa negativa y Enterococcus.    El BCID falló en la identificación de S. hominis y Enterococcus    faecium (mezclado con bacilos gramnegativos, correctamente identificado)    y Streptococcus viridans (mezclado con S. capitis, correctamente    identificado como coagulasa negativa). El BCID no identificó bacterias    no incluidas en el diseño del ensayo: Peptostreptococcus spp.,    Rothia mucilaginosa, Corynebacterium spp., Bacillus spp., Staphylococcus    pettenkoferi y Staphylococcus saccharoltycus. La resistencia a la    oxacilina, por detección del gen mec A, fue correctamente identificada    en cepas de Staphylococcus, incluyendo Staphylococcus aureus sensibles    y resistentes a meticilina y Staphylococcus    coagulasa negativa resistentes y sensibles a oxacilina. Comparado con los test    de susceptibilidad, BCID identificó correctamente un Enterococcus    positivo y 11 negativos para Van A o Van B.
+
+Para 58 bacilos gramnegativos, FilmArray BCID identificó correctamente 50 (86,2%). De los 52 microorganismos incluidos en el diseño del ensayo, identificó 50 (96,6%): E. coli, K. pneumoniae, E. cloacae, P. aeruginosa, S. marcescens, A. baumannii, H. influenzae, P. mirabilis, C. freundii, Salmonella sp., y P. agglomerans. Los bacilos gramnegativos que el BCID no identificó, correspondieron a agentes no incluidos en el diseño del test: S. maltophilia, Capnocitophaga spp., P. melaninogenica, H. parainfluenzae y H. alvei.
+
+BCID identificó correctamente seis de ocho hemocultivos con especies de Candida, incluyendo C. glabrata, C. parapsilosis, C. tropicalis, C. albicans. No identificó a C. lusitaniae, para la cual no está diseñado y falló en detectar una C. glabrata presente en una mezcla con Enterococcus, el cual fue correctamente identificado.
+
+En 20 hemocultivos creció más de un microorganismo: en dos crecieron bacterias para los cuales el test no estaba diseñado; para las 18 muestras restantes identificó correctamente nueve (50%).
+
+Discusión: La detección temprana de microorganismos en ITS por técnicas moleculares rápidas ha disminuido el tiempo en el inicio de una terapia antimicrobiana apropiada con disminución de la mortalidad, estadía hospitalaria y costos asociados a salud. MALDI-TOF MS ha mostrado ser un método rápido para la identificación de patógenos desde frascos de hemocultivos positivos, entregando una amplia gama de detección de agentes y es costo-efectivo. Otro método disponible es la plataforma automatizada Verigeneblood culture system, diseñada en forma separada para uso en formato de microarray para la detección de agentes grampositivos y negativos, con tiempos de detección de 2 y 2,5 h. Este método permite la detección de algunos genes de resistencia incluyendo carbapenemasas (KPC, NDM, VIM, IMP, OXA) y BLEE (CTX-M). En cambio, BCID FilmArray trabaja con paneles combinados.
+
+Actualmente no hay estudios que evalúen BCID en medios cultivos y pacientes pediátricos. Este estudio demostró la precisión de FilmArray BCID y su utilidad en la identificación rápida de agentes patógenos desde hemocultivos pediátricos, con una reducción del tiempo comparado con métodos manuales, además de su facilidad de uso que ayudará a los laboratorios a utilizarlo las 24 h del día, mejorando así el cuidado del paciente.
+
+ 
+
+Andrea Sakurada        Hospital Clínico Universidad de Chile        Clínica Tabancura
+
+ 

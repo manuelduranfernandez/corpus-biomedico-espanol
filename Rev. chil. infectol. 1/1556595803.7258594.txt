@@ -1,0 +1,150 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000500010
+Factores pronósticos en adultos hospitalizados por neumonía causada por Legionella pneumophila
+
+Resumen
+
+Introducción: La     legionelosis es una enfermedad bacteriana multisistémica, causante     de neumonías con mortalidad elevada en pacientes con comorbilidad     e ingresos en Unidad de Cuidados Intensivos (UCI). Objetivo: Determinar     factores pronósticos de mortalidad o ingreso en UCI. Material y     Métodos: Estudio de seguimiento retrospectivo de pacientes diagnosticados     de neumonía por Legionella pneumophila en Complexo Hospitalario     Universitario de A Coruña (España). Período 2000-2013     (n = 240), con análisis de regresión logística multivariada. Resultados: La     edad media fue 57,2 ± 15,4 años, 88,3% fueron hombres. La puntuación     media de comorbilidad (score Charlson) fue 2,3 ± 2,3. Existe clara     estacionalidad. La clínica predominante fue fiebre (92,5%),     tos seca (38,1%) y disnea (33,9%). El 29,7% presentó aclaramiento     de creatinina < 60 mL/min/1,73 m2 y el 58,3% sodio < 135     mEq/l. Un 16,3% ingresó en UCI, precisando ventilación mecánica     invasiva el 10,8%. La mortalidad global fue 4,6% y de 23,1% en ingresados     en UCI. Variables asociadas para predecir ingreso en UCI fueron menor edad     (OR = 0,96), hepatopatía (OR = 7,13), disnea (OR = 4,33), síndrome     confusional (OR = 5,86) y lactato deshidrogenasa elevada (OR = 1,002). Las     variables asociadas a mortalidad intrahospitalaria fueron índice de     Charlson (OR = 1,70), ventilación mecánica invasiva (OR = 31,44)     y cifras elevadas de lactato deshidrogenasa (OR = 1,002). Discusión: Pacientes     jóvenes, con hepatopatía, disnea o confusión tienen     más probabilidad de ingresar en UCI. Comorbilidad, ventilación     mecánica y lactato deshidrogenasa elevada se asocian a mortalidad.
+
+Palabras clave: Legionella       pneumophila; Unidad de Cuidados Intensivos; mortalidad intrahospitalaria;       co-morbilidad; lactato deshidrogenasa.
+
+ 
+
+Introducción
+
+La legionelosis es una enfermedad     bacteriana aguda multisistémica, causada, en más de 85% de     los casos, por el bacilo gramnegativo Legionella pneumophila serogrupo     11-3, con manifestaciones clínicas y epidemiológicas     diferentes: la enfermedad del legionario y la fiebre de Pontiac. Generalmente     aparece como caso aislado, pero puede presentarse como epidemias. Legionella     pneumophila es una especie ubicua, acuática, que crece de forma óptima     con una temperatura ambiental de 35 a 37°C. El origen más frecuente     es la eliminación de aerosoles producidos por torres de refrigeración     e instalaciones de agua caliente4. Legionella spp es la     causa de 2-15% de las neumonías en Europa y E.U.A., aunque se     cree que puede estar sub-diagnosticada1.
+
+La incidencia de neumonía     por L. pneumophila es mayor en Europa que en América del Sur,     donde el patógeno atípico más frecuente, tras Mycoplasma     pneumoniae, es Chlamydia pneumoniae5,6. En cambio,     se ha reportado L. pneumophila como la segunda causa de neumonías graves     en una muestra estudiada en Santiago de Chile7. En España     se ha descrito un incremento de la incidencia de neumonías adquiridas     en la comunidad por Legionella spp;     la mayoría de los casos ha ocurrido de forma aislada y sólo     una fracción formó parte de brotes8.
+
+El crecimiento óptimo     de L. pneumophila con una temperatura ambiental de 35 a 37°C favorece     que los casos de legionelosis aumenten a finales de verano y principios de     otoño, y posiblemente sea la causa de que la enfermedad en España     sea de mayor prevalencia en la zona mediterránea que en el área     norte9.
+
+Las manifestaciones clínicas     de la legionelosis son variadas: fiebre alta, anorexia, malestar general,     mialgias, síntomas digestivos (diarrea, vómitos, dolor abdominal),     respiratorios (tos seca, disnea, expectoración) o neurológicos     (disminución del estado de conciencia, delirio, síndrome confusional,     cefalea). Es frecuente la insuficiencia renal y la afectación hepática,     que suelen mejorar una vez superada la infección10.
+
+La enfermedad afecta en especial     a hombres de edad media, en particular a pacientes fumadores y/o con enfermedades     crónicas.     Se le concibe como una enfermedad oportunista, por esta preferencia por pacientes     con co-morbilidad.
+
+La tasa de incidencia en España     se estima en torno a 7,8 casos por millón de habitantes, aunque se     cree que estas cifras pueden estar sub-valoradas, debido a que puede     manifestarse como un cuadro respiratorio leve que muchas veces no es investigado.     Según la Red Nacional de Vigilancia Epidemiológica del Instituto     de Salud Carlos III, la tasa de incidencia en el año 2009 fue de 2,89     por 100.000 habitantes11.
+
+La legionelosis es la segunda     causa de neumonía grave, que ingresa a la UCI, tras la neumonía     neumocóccica, y la mortalidad de los pacientes ingresados en esta     unidad ronda el 30%, siendo en algún estudio hasta 60%2,4,11-22.
+
+Con el objetivo de determinar     las características de los pacientes diagnosticados de neumonía     por L. pneumophila en el Complexo Hospitalario Universitario de A     Coruña (CHUAC), y las variables asociadas a la necesidad de ingreso     a la UCI y la mortalidad intra-hospitalaria se realizó este estudio,     que contó con la autorización del Comité de Ética     de Galicia (Código 2014/197).
+
+Material y Métodos
+
+Pacientes
+
+Se estudiaron de forma retrospectiva     todos los pacientes diagnosticados como neumonía por L. pneumophila en     el CHUAC desde enero de 2000 a diciembre de 2013, con ficha epidemiológica     en el Servicio de Medicina Preventiva y Salud Pública del CHUAC. El     diagnóstico había sido confirmado por determinación     de antígeno de L. pneumophila en orina (inmunocromatografía     de membrana Binax NOW para L. pneumophila serogrupo 1, con una sensibilidad     aproximada de 97% en orina concentrada, y una especificidad de 97%)23 y     hallazgos clínico-radiológicos compatibles con neumonía,     según los criterios diagnósticos aprobados por la Sociedad     Española de Neumología y Cirugía Torácica (SEPAR)8.
+
+Variables estudiadas
+
+Demográficas: edad,     sexo, procedencia (Ciudad de A Coruña y Área Metropolitana,     o fuera del área).
+
+Co-morbilidad: Para     el estudio de la co-morbilidad se utilizó el índice de     co-morbilidad de Charlson que contiene 19 categorías de co-morbilidad24,     estudiándose además el consumo excesivo de alcohol, consumo     de tabaco actual, uso de corticosteroides sistémicos y antimicrobianos     previos al diagnóstico. Se estimó además el filtrado     glomerular (eGFR) calculado a través de la creatininemia utilizando     la ecuación MDRD (Modification of Diet in Renal Disease), según     la fórmula eGFR estimado = 175 x (creatinina sérica)-1,154     x (edad)-0,203 x (0,742 si mujer) x (1,212 si raza negra)25.
+
+Datos clínicos
+
+Fecha de inicio de los primeros     síntomas, fecha de primera asistencia, servicio de ingreso, manifestaciones     clínicas (fiebre, tos, disnea, cefalea, dolor costal, expectoración,     dolor abdominal, diarrea, vómitos, confusión mental, malestar     general), origen de la infección (comunitario o nosocomial cuando     el ingreso fue al menos 10 días antes del inicio de los síntomas).     Evolución: ingreso o no en UCI durante la hospitalización,     necesidad de ventilación mecánica invasora (VMI) durante la     estancia en UCI, y letalidad en el hospital.
+
+Hallazgos radiográficos:         afectación uni o multilobular al ingreso
+
+Hallazgos analíticos: sodio     plasmático, transaminasa glutámico-oxalacética (GOT),     gammaglutamil transpeptidasa (GGT), fosfatasa alcalina sérica,     uremia, creatininemia al ingreso, recuento de leucocitos, aclaramiento     de creatinina (MDRD), lactato deshidrogenasa (LDH) sérica, creatinfosfoquinasa     (CPK) sérica, presión parcial de oxígeno arterial (PaO2),     proteína C reactiva sérica (PCR).
+
+Tratamiento antimicrobiano       administrado en el diagnóstico y previo a la asistencia hospitalaria: β-lactámicos,       macrólidos, aminoglucósidos, quinolonas y otros menos frecuentes.
+
+Análisis estadístico
+
+Se realizó un estudio     descriptivo de las variables incluidas en el estudio, las variables cuantitativas     se expresan como media ± DE, las variables cualitativas como valor     absoluto y porcentaje con la estimación de su intervalo de confianza     de 95%. Se estudió la asociación entre variables cualitativas     con el test de χ2 y en las variables cuantitativas, realizándose     la comparación de medias, tras la comprobación de la normalidad     con el test de Kolmogorov-Smirnov, con el test T de Student o U de Mann-Whitney,     según procediera. Se realizó un análisis de regresión     logística para determinar qué variables se asocian con los     eventos de interés (mortalidad intra-hospitalaria e ingreso a     la unidad de cuidados intensivos). El análisis estadístico     se realizó con los programas SPSS v19.0 y Epidat 3.1.
+
+Resultados
+
+Durante el período de     estudio se identificaron 240 casos con diagnóstico de neumonía     por L. pneumophila, atendidos en el CHUAC desde enero de 2000 a diciembre     de 2013. Sólo 4 (1,7%) de estos casos estudiados presentaron un origen     nosocomial, siendo el resto neumonías adquiridas en la comunidad.     En todos los casos analizados, L. pneumophila fue el único     microorganismo detectado como causante de la neumonía, no habiéndose     efectuado un estudio sistemático de otras etiologías.
+
+La distribución estacional     a lo largo de los años estudiados se muestra en la Figura     1, donde     se objetivó un predominio de casos entre los meses de julio y noviembre.
+
+ 
+
+
+
+Figura 1. Distribución     de los pacientes según mes de diagnóstico.        Período 2000-2013.
+
+ 
+
+Las características de     la cohorte estudiada se describen en la Tabla 1. Existió un predominio     de hombres sobre mujeres (88,3 vs 11,7%), con una media de edad de 57,2 ± 15,4     años, y una mediana de 54,5 años. La mediana del índice     de Charlson fue de 2. Las manifestaciones clínicas más frecuentes     fueron: fiebre (92,5%), tos (38,1%) y disnea (33,9%). La mediana de la temperatura     al ingreso era de 39°C. La mayoría presentaba una afectación     unilobular en la radiografía (82,5%) y 50,3% tuvo valores de PaO2 menores     de 60 mmHg respirando aire ambiental. El 29,7% presentaba una creatininemia     menor de 60 mL/min/1,73 m2, y 58,3% tuvo valores de sodio menores     de 135 mEq/L.
+
+ 
+
+Tabla 1. Características       generales de la cohorte de pacientes hospitalizados por        neumonía       por Legionella pneumophila. Complexo Hospitalario Universitario       de A        Coruña, España, 2000-2013
+
+
+
+ 
+
+El 21,4% recibió tratamiento     antimicrobiano previo a acudir a urgencias, requiriendo 16,3% el ingreso     en UCI durante la hospitalización.
+
+Fallecieron 11 pacientes en     el período del estudio, de lo que se infiere una tasa de letalidad     hospitalaria de 4,6%.
+
+La utilización de antimicrobiano     previo (Tablas 2 y 3) incrementó el riesgo de ingreso a UCI y disminuyó el     riesgo de mortalidad, como se puede objetivar por los OR calculados, aunque     sin alcanzar diferencias significativas. Tras el diagnóstico, 67,8%     de los pacientes fue tratado con quinolonas     llamadas "respiratorias".
+
+ 
+
+Tabla 2.       Características generales de la cohorte de pacientes hospitalizados       por        neumonía por Legionella pneumophila según la necesidad   o no de ingreso a la UCI        durante el seguimiento. Complexo Hospitalario Universitario de A Coruña,   España,        2000-2013
+
+
+
+ 
+
+Tabla 3.       Características generales de la cohorte de pacientes hospitalizados       por        neumonía por Legionella pneumophila según la presencia   o no de muerte durante el        seguimiento. Complexo Hospitalario Universitario de A Coruña, España,   2000-2013
+
+
+
+ 
+
+En el análisis bivariado     las variables que se asociaron significativamente con el ingreso a UCI (Tabla     2) fueron: la presencia de disnea, el síndrome confusional agudo,     la afectación radiológica multilobular, el menor aclaramiento     de creatinina y los valores de LDH sérica elevados. Los pacientes     que ingresaron en UCI presentaron disnea (64,1%), en comparación con     28,4% de los que no ingresaron. A su vez el síndrome confusional agudo     fue más frecuente entre los que ingresaron que los     que no lo hicieron (15,4 vs 5,5%), así como la afectación radiológica     multilobular (33,3 vs 14,2%). El aclaramiento de creatinina fue significativamente     menor en los pacientes que ingresaron, en comparación con los que     no lo hicieron (36,7 ± 17,7 (mL/min/1,73 m2) vs 77,0 ± 30,6     (mL/min/1,73 m2). El 59,0% de los que ingresaron a UCI tenía     insuficiencia renal (GFR menor de 60 mL/ min/1,73 m2) en comparación     con 24,0% de los que no lo hicieron. A su vez, los pacientes que ingresaron     a UCI tuvieron valores de LDH sérica significativamente más elevados     que los que no lo requirieron (1.304,8 ± 1.996,9 U/L vs 555,8 ± 281,2     U/L).
+
+A pesar que el índice     de Charlson en su conjunto no fue significativamente diferente entre los     que ingresaron o no a la UCI, dentro de las enfermedades que tiene en consideración     dicho score, la presencia de hepatopatía crónica tuvo mayor     prevalencia en los pacientes que ingresaron a UCI, en comparación     con los que no lo requirieron (10,3 vs 2,5%). La hipoxemia también     tuvo mayor prevalencia en los pacientes que ingresaron a UCI, sin     alcanzar diferencia estadísticamente     significativa (56,3 vs 49,0%).
+
+Tras ajustar un modelo multivariado     de regresión logística, para predecir las variables asociadas     al ingreso a UCI, las variables que tuvieron un efecto independiente para     predecir el ingreso en UCI fueron: la menor edad (OR: 0,96), hepatopatía     crónica (OR: 7,13), presencia de disnea (OR: 4,33), el síndrome     confusional agudo (OR: 5,86), afectación radiológica multilobular     (OR: 2,64) y los valores de LDH sérica elevados (OR: 1,002) (Tabla     2).
+
+Como previamente hemos comentado,     la letalidad en el hospital resultó de 4,6% (95% IC 1,7-7,4).     Las variables de ingreso significativamente asociadas a mortalidad en el     análisis bivariado (Tabla 3) fueron la co-morbilidad de Charlson,     la presencia de fiebre, disnea, el aclaramiento de creatinina bajo, LDH sérica     elevada, ingreso a la UCI y ventilación mecánica invasora.     Los pacientes que fallecieron presentaban un score de Charlson más     elevado que los que no lo hicieron (3,7 vs 2,2). Aunque no hubo diferencia     estadísticamente significativa en la temperatura al ingreso, la presencia     auto-declarada de fiebre fue menos frecuente en los pacientes fallecidos     (72,7 vs 94,3%). Por otra parte, la     presencia de disnea fue claramente mayor en los que fallecieron que en los     que no (90,9 vs 31,0%). A su vez el aclaramiento de creatinina fue menor     en los que fallecieron que en los que no (36,7 ± 17,7 mL/min/1,73     m2 vs 77,0 ± 30,6     mL/min/1,73 m2) y la LDH sérica fue más elevada.     De los pacientes que fallecidos, 81,8% había ingresado a la UCI, en     comparación con los no fallecidos, de los que sólo ingresó 13,1%.     La misma tendencia se objetiva con la ventilación mecánica     invasora. A pesar de no existir diferencias significativas, los pacientes     fallecidos eran mayores (64,5 ± 15,0 años vs 56,7 ± 15,3     años).
+
+Tras ajustar un modelo multivariado     de regresión logística, las variables que mantuvieron un efecto     independiente para predecir la mortalidad fueron: el índice de co-morbilidad     de Charlson (OR: 1,70), la necesidad de ventilación mecánica     invasora (OR: 31,44) y los valores elevados     de LDH sérica     (OR: 1,002) (Tabla 3). 
+
+Discusión
+
+La incidencia de la neumonía     por L. pneumophila en España se mantiene estable en los últimos     años, tras un aumento inicial     a partir de 1997, atribuible al uso más frecuente de la detección     en orina de antígeno específico de L. pneumophila serogrupo     1, que ha favorecido el diagnóstico de las infecciones por esta bacteria.     En nuestro estudio se observa la misma tendencia, y hay mayor número     de casos en verano y principios de otoño, similar a lo descrito en     otros estudios12 y en la literatura médica. A lo largo     del período estudiado por nosotros no se detectaron brotes.
+
+Las manifestaciones clínicas     más frecuentes en este estudio fueron: fiebre elevada, tos seca y     disnea, hallazgos consistentes con las publicaciones revisadas13.     El 21,4% de los pacientes había recibido tratamiento antimicrobiano     previo al ingreso, una cifra mayor que la reflejada en otros estudios13.     Esta exposición previa a antimicrobianos no la hemos podido asociar     con la necesidad de ingreso en UCI o mortalidad aunque otros autores sí la     relacionan12.
+
+En nuestra serie, 16,3% de los     pacientes necesitó ingreso en UCI a lo largo de su estancia hospitalaria,     una cifra similar a otros reportes12,31. Algunos autores19 encontraron     que la duración de los síntomas antes del ingreso se asocia     a necesidad de ingreso en UCI. En nuestra serie, la demora entre el inicio     de los síntomas y la solicitud de asistencia en nuestro hospital no     se asoció con el ingreso en UCI ni con la mortalidad.
+
+Hemos encontrado pocos trabajos     que estudien factores predictores del ingreso a la UCI en esta patología.     En nuestra serie, la edad avanzada se asoció a menor probabilidad     de ingreso a la UCI. Esto puede explicarse por la mayor co-morbilidad     de los pacientes mayores, que con frecuencia no los hace subsidiarios de     atención en unidades de pacientes críticos. A su vez, la presencia     de disnea y alteración del nivel de conciencia en la admisión     al hospital se asociaron en forma independiente para predecir el ingreso     a la UCI. Estos pacientes necesitan con mayor frecuencia ventilación     mecánica invasora. En otros estudios se han encontrado resultados     equiparables26, como se expresa en la Tabla 4.
+
+ 
+
+Tabla 4.       Factores pronósticos de ingreso a UCI o mortalidad en pacientes        hospitalizados por neumonía por Legionella pneumophila. Complexo   Hospitalario        Universitario de A Coruña, España, 2000-2013
+
+
+
+ 
+
+En diferentes publicaciones     realizadas en Chile se pone igualmente de manifiesto cómo en neumonías     adquiridas en la comunidad, la edad y la co-morbilidad incrementan la     probabilidad de ingreso en UCI y de mortalidad27,28.
+
+En cuanto a las co-morbilidades,     no se encontró relación con el índice de co-morbilidad     de Charlson y la posibilidad de ingreso en UCI, pero la existencia de hepatopatía     crónica sí incrementó dicha posibilidad de ingreso.
+
+Las concentraciones plasmáticas     elevadas de LDH resultaron ser un factor pronóstico, tanto de ingreso     en UCI como de mortalidad. Esto se podría interpretar como marcador     de inflamación y destrucción tisular, por lo que estaría     más elevado en pacientes graves o quienes fallecerán, quienes     experimentan una mayor afectación sistémica por la infección.
+
+Aunque se han descrito concentraciones     plasmáticas de LDH más elevadas en formas más graves     de legione-losis29,30 y también como factor predictor     de neumonía por L. pneumophila31, no hemos encontrado     estudios que hallasen una relación significativa de la LDH sérica     con un peor pronóstico. No obstante, hay estudios en pacientes con     neumonía por virus influenza H1N1 en los que las concentraciones plasmáticas     elevadas de LDH sérica sí se han relacionado con la mortalidad     en estos pacientes32.
+
+En nuestra casuística,     la tasa de letalidad fue 4,6%, cifra similar a la de la mayoría de     los estudios revisados, aunque es mayor en pacientes ingresados en UCI (23,1%).     La mortalidad que hemos encontrado en otras publicaciones varía entre     1 y 33,3%, y la mortalidad en UCI entre 4 y 61,7%2,12-22,33-37,     datos recogidos en la Tabla 5. Estas diferencias se deben a que en algunos     de estos estudios, los pacientes reunían condiciones particulares,     tales como ser receptores de trasplante de órgano sólido, o     se comparaban por franjas de edad o por casos adquiridos en la comunidad     o nosocomiales.
+
+ 
+
+Tabla 5.       Mortalidad general y admisión a la UCI de pacientes hospitalizados       por        neumonía por Legionella pneumophila. Complexo Hospitalario Universitario   de A        Coruña, España, 2000-2013
+
+
+
+ 
+
+En cuanto al índice de     co-morbilidad de Charlson, hemos encontrado que es una variable independiente     y predictora de mortalidad en el hospital, al igual que en otros estudios2.     Una neumonía por Legionella en el contexto de un paciente con     mucha co-morbilidad va a tener mayor mortalidad, debido a las enfermedades     acompañantes. En nuestros casos, el aclaramiento de creatinina es     una variable predictora de mortalidad en el análisis univariado, aunque     no en el multivariado. Sin embargo, la disfunción renal aguda es más     frecuente en los pacientes que fallecen o ingresan a la UCI, lo que hace     pensar en una afectación renal mayor por la infección. La LDH     sérica se ha descrito en algún estudio como buen marcador de     daño renal agudo38.
+
+Entre las limitaciones del estudio     se deben señalar las propias de las series retrospectivas con sesgos     de información realizadas en un solo centro. La concomitancia con     otros microorganismos no fue analizada, lo que podría generar también     un sesgo de información, aunque la consistencia de los resultados     del estudio con otras publicaciones no parece afectar la validez externa.     Por otra parte, la utilización de antimicrobianos previos con los     eventos de interés (ingreso en UCI o mortalidad) no llegó a     alcanzar significación estadística por el reducido número     de eventos.
+
+Este estudio pone de manifiesto     la estacionalidad de la infección, la frecuencia de fiebre elevada     incluso en ausencia de síntomas respiratorios, así como la     probabilidad de ingreso en UCI aumentada en pacientes jóvenes, con     hepatopatía crónica, disnea o confusión y, finalmente,     describimos que la mortalidad se asocia a la co-morbilidad, la necesidad     de ventilación mecánica y cifras elevadas de LDH sérica.

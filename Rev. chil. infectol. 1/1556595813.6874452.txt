@@ -1,0 +1,22 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000400453
+Primera comunicación en Chile de la detección del gen mcr-1 en un aislado clínico de Escherichia coli resistente a colistín
+
+Introducción
+
+Colistín, antimicrobiano de la familia de las polimixinas, fue aislado inicialmente en los años 40 a partir de Paenibacillus polymyxa subsp. colistinus. La aparición frecuente de efectos adversos junto con la disponibilidad de nuevos antimicrobianos llevó a que se descontinuara su uso. Sin embargo, la diseminación de aislados multi-resistentes de enterobacterias y bacilos no fermentadores ha llevado al resurgimiento de dicho antibacteriano, representando en muchos casos la última línea de tratamiento. La resistencia adquirida a colistín se explica por diversas mutaciones a nivel cromosomal que derivan en una modificación del lipopolisacárido de la pared bacteriana1. Durante el año 2016 se describe por primera vez la resistencia asociada a un gen plasmidial, denominado mcr-1, en aislados de Escherichia coli y Klebsiella pneumoniae2. Este gen codifica para una fosfoetanolamina transferasa, cuyo efecto es la modificación del lípido A de la membrana externa. La relevancia de este hallazgo radica en su potencial capacidad de diseminación horizontal. La presencia de este gen ha sido reportada en distintas especies de enterobacterias en diversos países del mundo (incluida Latinoamérica3–6). Hasta la fecha, no había sido descrita en nuestro país.
+
+El objetivo de este estudio fue detectar la presencia del gen mcr-1 en aislados clínicos de bacilos gramnegativos con resistencia fenotípica a colistín
+
+Método
+
+Se analizaron todas las cepas de bacilos gramnegativos resistentes a colistín provenientes de muestras clínicas recibidas en el Laboratorio de Microbiología de la Pontificia Universidad Católica de Chile, entre los años 2013 y 2017. Se definió como resistencia una concentración inhibitoria mínima (CIM) ≥ 4 μg/mL7 determinada mediante microdilución en caldo (Sensititre™, TREK Diagnostics). Se analizaron un total de 13 aislados correspondientes a cinco Acinetobacter baumannii, tres E. coli, cuatro K. pneumoniae y un aislado de P. aeruginosa; se incluyó además una cepa con resistencia intrínseca (P. mirabilis ATCC 7002) y otra sensible (K. pneumoniae ATCC 46113). Los 13 aislados clínicos provenían de muestras de orina (8), herida (2), aspirado endotraqueal (2) y líquido peritoneal (1). A las cepas incluidas en el estudio se les realizó una reacción de polimerasa en cadena (RPC) utilizando los partidores descritos por Liu y cols. 2016 (CLR5-F: 5′-CGGTCAGTCCGTTTGTTC-3′ y CLR5-R 5′-CTTGGTCGGTCTGTA GGG-3′) con un producto de RPC esperado de 309 pb. Los productos amplificados fueron posteriormente secuenciados en el Laboratorio de Biología Molecular del Servicio de Laboratorios Clínicos de la Red de Salud UC-CHRISTUS, mediante electroforesis capilar en un analizador genético ABI Prism 310 (Applied Biosystems, Foster City, CA). El resultado fue analizado mediante BLAST.
+
+Resultados
+
+De las 13 cepas estudiadas se observó amplificación de una banda del tamaño esperado en sólo un aislado de E. coli. El producto amplificado fue posteriormente secuenciado y analizado con el programa BLAST correspondiendo al gen mcr-1 de E. coli con un 100% de identidad. Esta cepa provenía de una muestra de orina de un paciente de origen ambulatorio recibida en el año 2016. Junto a una CIM elevada a colistín (CIM = 8 μg/mL) esta cepa presentó resistencia a ciprofloxacina y cotrimoxazol, siendo sensible a betalactámicos, aminoglucósidos y nitrofurantoína.
+
+Discusión
+
+Si bien mcr-1 ha sido descrito en Argentina3, Venezuela4, Ecuador5 y Brasil6, este es la primera comunicación de un aislado con este mecanismo de resistencia en Chile. Desde su primera descripción en 2016, mcr-1 se ha detectado en los cinco continentes, en seres humanos, animales, alimentos y en el ambiente8. Esto refleja su gran capacidad de diseminación dada su localización en un plasmidio transferible9. Por esta razón, es necesario conocer la prevalencia de este mecanismo plasmidial de resistencia en nuestro medio, para lo cual recomendamos estudiar este gen y las variantes de mcr descritas en la literatura especializada (mcr 1-5)10 en todos los aislados clínicos de bacilos gramnegativos resistentes a colistín.
+
+Fuente de financiamiento: Fondos departamentales.

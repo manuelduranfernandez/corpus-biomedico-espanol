@@ -1,0 +1,94 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000100001
+Parámetros farmacocinéticos de gentamicina en recién nacidos de término: ¿Es necesario monitorizar en forma sistemática sus concentraciones plasmáticas?
+
+Resumen
+
+Introducción: Gentamicina es utilizada como tratamiento empírico en la sepsis neonatal. El monitoreo de su concentración plasmática es una práctica frecuente. La relación entre la concentración plasmática máxima (Cmax) y la concentración inhibitoria mínima (Cmax/ CIM) es el parámetro que mejor predice la eficacia. Objetivo: Determinar los parámetros farmacocinéticos (FC) de gentamicina en recién nacidos (RN) de termino. Material y Métodos: Se incluyeron RN de término, sin enfermedad crítica, en tratamiento con gentamicina (4 mg/kg/24 h) en los que se realizó monitoreo de su concentración plasmática. Se determinaron: clearence de eliminación (Cl), vida media de eliminación (t½) y volumen de distribución (Vd). Se estimó la Cmax/CIM, considerando una CIM de 1 μg/mL para Escherichia coli. Resultados: Participaron 13 RN. La media de Cmax fue 8,19 μg/mL y de Cmin 0,73 μg/mL. La media de los parámetros farmacocinéticos fue: Cl 0,26 mL/h, Vd 0,54 L/kg, t½ 6,8 h. La razón Cmáx/CIM fue ≥ 8 en 6 de los 13 RN. Conclusiones: Los parámetros FC de gentamicina en RN de término, sin enfermedad crítica, son predecibles. La posología habitual no permitió obtener valores de Cmax/CIM > 8 en todos los casos. Es necesario revisar la necesidad de monitorizar su concentración plasmática en forma sistemática y la posología de gentamicina en este grupo de pacientes.
+
+Palabras clave: Gentamicina, recién nacido, parámetros farmacocinéticos.
+
+ 
+
+Introducción
+
+La sepsis neonatal es una importante causa de morbi-mortalidad en los recién nacidos (RN)1. Los microorganismos más frecuentes son Streptococcus agalactiae (Streptococcus β hemolítico del grupo B y Escherichia coli2,3.
+
+En Uruguay, en el tratamiento empírico de la sepsis neonatal precoz se utilizan los antimicrobianos incluidos en las recomendaciones del Centers for Disease Control and Prevention de Atlanta, Georgia, E.U.A., esto es la combinación de gentamicina más ampicilina4,5.
+
+Al igual que otros aminoglucósidos (AG), gentamicina presenta una acción bactericida rápida, concentración dependiente, frente a bacilos gramnegativos aerobios tales como E. coli y Klebsiella pneumoniae6. Se ha descrito un efecto bactericida residual cuando sus concentraciones plasmáticas se encuentran por debajo de la concentración inhibitoria mínima (CIM) del patógeno5. Este efecto denominado "efecto post-antibiótico" (EPA) prolonga la duración de su acción antimicrobiana. Se estima que el EPA in vivo para gentamicina frente a E. coli varía entre 3 y 5 h6,7.
+
+Sus características farmacocinéticas están determinadas por su elevada hidrosolubilidad. Atraviesa escasamente las membranas biológicas, se distribuye en el líquido extracelular (LEC) y se elimina por vía renal. Su volumen de distribución es similar al del LEC y su vida media de eliminación depende del grado de maduración del filtrado glomerular y la secreción tubular8,9. Es esperable que cuando no existen modificaciones en el LEC o en la función renal, los parámetros farmacocinéticos (FC) se mantengan estables. A diferencia de los RN de pretérmino, con mayor porcentaje de agua extracelular e inmadurez de la función renal, los RN de término que se encuentran en una situación clínica estable, es probable que presenten escasa variabilidad de los parámetros FC de los AG. La FC de gentamicina ha sido caracterizada en RN críticamente enfermos, tanto pretérminos como términos10,11. En el RN de término con estabilidad fisiológica ha sido escasamente estudiada.
+
+La nefrotoxicidad y ototoxicidad constituyen los principales efectos adversos. Tanto la nefrotoxicidad como la ototoxicidad se relacionan con concentraciones valle persistentemente elevadas y especialmente con la acumulación del AG en células cocleares, vestibulares y tubulares renales12,13. En RN que no reciben otros fármacos nefrotóxicos u ototóxicos, en forma concomitante, estas complicaciones son inusuales, leves y transitorias14.
+
+En la práctica clínica, la monitorización de las concentraciones plasmáticas pico (Cmax) y valle (Cmin), es habitualmente utilizada para individualizar el tratamiento (dosis, intervalo). En el Servicio de Neonatologia del Centro Hospitalario Pereira Rossell (CHPR) se realiza monitoreo plasmático de gentamicina en forma sistemática. Se recomiendan niveles pico de 5 a10 μg/mL y valle inferiores a 2 μg/mL15.
+
+Los parámetros duales, farmacocinéticos-farmacodinámicos (FC/FD) son los predictores más apropiados de eficacia del tratamiento antimicrobiano. En el caso de gentamicina, la relación entre su Cmax y la CIM es el parámetro dual que mejor predice su eficacia antimicrobiana16-18. En función de esto, se recomiendan regímenes de gentamicina en monodosis diaria15-21. En el Servicio de Neonatología del CHPR se utiliza el régimen posológico de gentamicina recomendado en el Manual NEOFAX® 2011, de 4 mg/kg/día cada 24 h11.
+
+En función de estas consideraciones, surgen las siguientes interrogantes en los RN de término tratados con gentamicina, sin enfermedad crítica: ¿Cuáles son los parámetros FC de gentamicina? ¿Son similares a los descriptos en la literatura científica? El régimen posológico habitualmente utilizado ¿permite alcanzar el parámetro dual recomendado? ¿Es necesario mantener la práctica de monitoreo plasmático sistemático en estos RN?
+
+El objetivo del presente estudio fue determinar los parámetros FC de gentamicina en RN de término, sin enfermedad crítica, internados en el Servicio de Recién Nacidos del CHPR.
+
+Metodología
+
+Para la realización de este estudio se obtuvo una muestra por conveniencia de 13 RN siguiendo las recomendaciones de la Food and Drug Administration de E.U.A.22.
+
+El estudio fue descriptivo y retrospectivo. Se incluyeron RN de término, sin enfermedad crítica, internados en el Servicio de Neonatología del CHPR entre el 1° de abril de 2014 y el 30 de junio de 2014, en tratamiento con gentamicina por vía intravenosa, independientemente del motivo de la indicación.
+
+Definiciones: RN de término: aquel cuyo nacimiento se produjo entre 37 semanas y 41 semanas 6 días de edad gestacional. RN sin enfermedad crítica: aquel que no requería uso de presión positiva en vía aérea, apoyo inotrópico y sí presentaba diuresis espontánea.
+
+El pesaje se realizó en todos los casos al momento del nacimiento con la misma balanza electrónica Seca 354®.
+
+En todos los casos, se administró gentamicina mediante bomba de infusión en 30 min a una dosis de 4 mg/kg/día. Para el cálculo de la dosis se consideró el peso al nacer.
+
+Las muestras para el monitoreo plasmático de gentamicina fueron obtenidas, para el nivel pico (Cmáx) una hora luego de finalizada la infusión de la segunda dosis y para el nivel valle (Cmin) 30 min previos a la administración de la tercera dosis. El valor de la dosificación plasmática fue obtenido a partir de las historias clínicas.
+
+La dosificación de gentamicina fue realizada en el Laboratorio del CHPR mediante EMIT® GENTAMICIN PLUS ASSAY23.
+
+Se calcularon los siguientes parámetros FC asumiendo un modelo de distribución mono-compartimental: clearence de eliminación (Cl), vida media plasmática de eliminación (t½) y volumen de distribución (Vd)24.
+
+Se utilizaron las siguientes fórmulas25,26:
+
+Cl = ln2 x Vd/t½     t½ = ln2/Ke (Ke = constante de eliminación del fármaco)     Ke = lnCmax-lnCmin/delta T (delta T: intervalo entre Cmax y Cmin)     Vd = Dosis (mg/kg)/Cmax (mg/lt)
+
+En cada caso, se calculó el valor del parámetro FC/ FD Cmax/CIM. Considerando que en la Unidad Neonatal del CHPR la CIM de E. coli aislada de niños con sepsis es ≤ 1 μg/ml, para el cálculo de Cmax/CIM se asumió un valor de CIM de 1 μg/mL y una relación Cmax/CIM recomendada u óptima mayor o igual a 8. En el laboratorio de microbiología del CHPR la CIM de E. coli se determina por software automatizado Vytek®.
+
+En la descripción de los parámetros FC, del peso y edad gestacional se utilizan la media y el desvío estándar. El estudio fue aprobado por el Comité de Ética del CHPR.
+
+Resultados
+
+En la Tabla 1 se muestran las características de los 13 RN incluidos (7 varones), los valores de Cmax y Cmin hallados y los parámetros FC calculados.
+
+ 
+
+Tabla 1. Parámetros farmacocinéticos de gentamicina en RN de término:       características de los RN, Cmax, Cmin, parámetros hallados (n: 13)
+
+
+
+EG: edad gestacional. PN: peso al nacer.
+
+ 
+
+El promedio del peso al nacer fue 3.502 g (± 514 g) y de la edad gestacional 39,15 semanas (± 0,98).
+
+Los 13 pacientes iniciaron tratamiento por presencia de factores de riesgo para sepsis neonatal. Ninguno presentó clínica compatible con sepsis y en todos ellos, los hemocultivos no mostraron desarrollo bacteriano.
+
+La media de la Cmax fue 8,19 μg/mL (rango 4,2-10,0 μg/mL). En 12 de los 13 RN la Cmax hallada estaba en el rango terapéutico de referencia (5-10 μg/mL). La media de la Cmin fue 0,73 μg/mL. En todos los casos la Cmin fue inferior a 2 μg/mL. En esta serie el Vd fue 0,54 L/kg (± 0,15 L/kg). El Cl fue 0,26 ml/h (± 0,06 mL/h) y la t/ 6,8 h (± 1,38 h).
+
+Se alcanzó una relación Cmáx/CIM ≥ 6 11 RN, ≥ 8 en 6 RN y ≥ 10 en 1 RN (Tabla 1).
+
+Discusión
+
+Este trabajo presenta algunas limitaciones pre analíticas derivadas de la falta de supervisión directa de la dosis administrada y el momento exacto de extracción de la muestra, elementos fundamentales a la hora de interpretar los resultados. Independientemente de ello, los parámetros obtenidos (Cl, Vd. y t½) se encuentran dentro de los valores observados a partir de las estimaciones farmacocinéticas poblacionales16,27. Esto permite afirmar que en el Servicio de Neonatalogía del CHPR el equipo cumple con las recomendaciones en relación al monitoreo de este antimicrobiano en forma adecuada, requisito básico de la calidad asistencial. Otra limitación fue considerar para la estimación de la dosis el peso al nacer y no el peso al momento de la administración. En este grupo etario ocurren variaciones diarias de peso, lo que impide conocer la dosis por kg de peso exacta recibida.
+
+A pesar de esto, se observó que en los RN de término no críticamente enfermos asistidos en esta Unidad, los parámetros FC de la gentamicina son similares a los comunicados a nivel internacional. Agarwal y cols., encontraron en 41 RN de término valores de t½ entre 5 y 6 h y de Cl entre 0,13 y 0,14 mL/h, similares a los hallados en esta serie. Las concentraciones plasmáticas halladas también fueron similares a las comunicadas por otros autores16,28,29.
+
+Esto permite afirmar que en este grupo de pacientes, estables, sin cambios sustanciales en el LEC ni en la función renal, el comportamiento farmacocinético de gentamicina es predecible. Por tanto, es necesario reflexionar sobre la necesidad de monitorizar las concentraciones plasmáticas de gentamicina en forma sistemática en este grupo de RN. Es probable que el mismo no aporte información adicional para guiar el tratamiento. Indicar el monitoreo plasmático cuando realmente es necesario previene complicaciones derivadas de punciones reiteradas y disminuye los costos derivados del uso innecesario de este recurso paraclínico30. Esta predictibilidad de los parámetros FC se pierde en RN críticamente enfermos. En ellos, múltiples factores pueden alterar la FC de gentamicina: asistencia ventilatoria mecánica, fallo cardíaco, sobrehidratación, insuficiencia renal. Esto determina variabilidad en el Cl, Vd y t½. En esta situación, el monitoreo de las concentraciones plasmáticas se vuelve esencial para individualizar la dosis31,32.
+
+En este trabajo se pudo observar el comportamiento de las concentraciones plasmáticas de gentamicina en RN de término, en especial de la Cmax que es la principal determinante de la erradicación microbiológica16-18. El parámetro dual Cmax/CIM alcanzó el valor de 8 en 50% de los RN estudiados. Si bien no existe consenso sobre el valor objetivo del mismo, la mayoría de los autores recomiendan valores entre 8 y 1012-14. /Arenas y cols., estudiaron los parámetros FC en niños críticamente enfermos y observaron que era necesario utilizar dosis de 8 mg/kg de gentamicina para asegurar que 100% de los niños alcancen el valor de Cmax/CIM de 8. En este cálculo utilizaron una CIM de 2 μg/mL. A las 24 h de vida, con dosis de 6 mg/kg, menos de 5% alcanzaba dicho valor de Cmax/CIM, mientras que con dosis de 7 mg/kg, 70% lo alcanzaba. Además, en dicho estudio 10 a 15% de los RN presentaron concentraciones valle superiores a 2 μg/mL a las 24 h con dosis de 5 mg/kg. La inclusión de RN críticamente enfermos puede explicar este último hallazgo. Esto no fue observado en esta serie con dosis de 4 mg/kg33. Es necesario considerar que la determinación del parámetro dual Cmax/CIM, depende de la susceptibilidad de E. coli a gentamicina y que en nuestro medio no se observan cepas de E. coli con CIM mayores a 1 μg/mL.
+
+En función de estos resultados, es necesario revisar la posología de este antimicrobiano en esta población. Se deberían utilizar dosis mayores de gentamicina con el objetivo de lograr Cmax más elevadas. Este aumento de dosis planteado resulta plausible respecto al riesgo de efectos adversos, dado que el valor valle no superó la concentración de 2 μg/mL en ninguno de los RN y podría realizarse sin necesidad de aumentar el monitoreo plasmático de gentamicina, en función de los valores de los parámetros FC hallados. Considerando el valor promedio del Vd estimado en este grupo de RN de término no críticamente enfermos, y aplicando las fórmulas de de Vd y Ke descriptas en la metodología, se requeriría una dosis de 4,5 mg/kg/24 h, para alcanzar una Cmax de 8 μg/mL y de 5,5 mg/kg para obtener una Cmax de 10 μg/ mL. Con estas dosis se alcanzarían Cmin promedio de 0,77 μg/mL y 0,95 μg/mL, respectivamente. En ambas situaciones no se superaría el valor de 2 μg/mL, concentración de riesgo para nefro y ototoxicidad. A partir de estos resultados para alcanzar una relación Cmax/CIM > 10, en este grupo de pacientes sería necesario administrara una dosis de gentamicina de 5,5 mg/kg/día. Futuros estudios son necesarios para evaluar la eficacia y toxicidad de estas dosis en esta población.
+
+Conclusiones
+
+Los parámetros FC de gentamicina en RN de término sin enfermedad crítica son predecibles. La posología habitual no permitió obtener valores de Cmax/CIM > 8 en todos los casos. Es necesario revisar la necesidad de monitorización plasmática sistemática y la posología de gentamicina en este grupo de pacientes.

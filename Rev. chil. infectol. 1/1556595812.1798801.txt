@@ -1,0 +1,114 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000200147
+Genes qnr en Enterobacteriaceae aisladas en un hospital de Venezuela
+
+Introducción
+
+Las quinolonas son un grupo de antimicrobianos sintéticos que ejercen su actividad bactericida uniéndose a las topoisomerasas bacterianas e inhibiendo su función1. Las primeras quinolonas (ácido nalidíxico, cinoxacina y ácido oxolínico), fueron introducidas en la década de los 60’ para tratar infecciones urinarias causadas por bacilos gramnegativos. La adición de un sustituyente fluoruro al anillo principal de las quinolonas, dio origen a las fluoroquinolonas, las que presentan un amplio espectro de actividad antibacteriana y ha permitido agruparlas en generaciones, tomando en cuenta su época de aparición y su espectro antibacteriano2,3.
+
+Desde la introducción de las fluoroquinolonas, la resistencia de las enterobacterias a estos agentes se ha hecho frecuente en todo el mundo3. Dicha resistencia, normalmente es producto de alteraciones cromosómicas, aunque también se ha asociado a la captación de genes mediante transferencia de plásmidos4,5. La resistencia codificada en el cromosoma ocurre por mutaciones en ciertas regiones de las topoisomerasas (ADN girasa y topoisomerasa IV), denominadas regiones determinantes de la resistencia a quinolonas o QRDRs (del inglés “quinolone resistance determining regions’”)4.
+
+La resistencia a quinolonas mediada por plásmidos (RQMP), ha sido reportada en diversas partes del mundo6,7,8. El primer reporte se confirmó en 1998 en una cepa clínica de Klebsiella pneumoniae, aislada de un cultivo de orina en Birmingham, Alabama (E.U.A.). El gen responsable de la resistencia adquirida se denominó qnr, el que codifica para una proteína denominada Qnr que actúa uniéndose y protegiendo a la girasa y a la topoisomerasa IV de la acción de las quinolonas3,5.
+
+Se han descrito, al menos, seis variantes del gen qnr (qnrA, qnrB, qnrS, qnrC, qnrD y qnrVC) cuyas secuencias nucleotídicas difieren en 40%5,9. La RQMP también puede ser codificada por otros genes entre los que destacan, el gen acc(6’)-Ib-cr, que codifica una variante aminoglucósido acetiltransferasa, capaz de inactivar ciprofloxacina a través de la acetilación de su sustituyente piperazinil; y los genes oqxAB y qepA, que codifican bombas que expulsan quinolonas10.
+
+La resistencia a quinolonas relacionada a mutaciones cromosómicas va a conferir a las bacterias que las presenten resistencia de alto nivel a estos antimicrobianos, mientras que el grupo de genes pertenecientes a la RQMP, van a codificar determinantes de resistencia que inducen aumentos de la concentración inhibitoria mínima (CIM), que no alcanzan los puntos de corte considerados como resistentes, facilitando la selección de mutantes con mayores niveles de resistencia a nivel cromosomal4,10.
+
+Los genes qnr han sido reportados en enterobacterias como K. pneumoniae, Citrobacter freundii, Enterobacter spp., Escherichia coli, Providencia stuartii y Salmonella spp., aisladas de muestras clínicas11,12.
+
+En los últimos años, en Venezuela, se ha observado un incremento en los porcentajes de resistencia a quinolonas, específicamente a ciprofloxacina. En el Estado Mérida, fue reportado 4,7% de genes qnrB, en un estudio realizado en 127 cepas de Salmonella enterica13.
+
+Debido al elevado porcentaje de cepas resistentes reportado en los últimos años, y que dicha resistencia puede estar codificada por plásmidos transferibles, las que pueden ser portadoras de otros determinantes de resistencia, se propuso el siguiente trabajo de investigación: Evaluar fenotípicamente la resistencia a quinolonas y la presencia de los genes qnrA, qnrB y qnrS, así como su capacidad de transferencia, en cepas de enterobacterias aisladas de pacientes asistidos en los servicios médicos del Servicio Autónomo Hospital Universitario “Antonio Patricio de Alcalá” (SAHUAPA), de la ciudad de Cumaná, Estado Sucre, Venezuela.
+
+Material y Método
+
+Cepas bacterianas e identificación bioquímica
+
+Se evaluaron 104 cepas no duplicadas de enterobacterias recolectadas durante el período de enero a junio de 2014 de pacientes estudiados en el Laboratorio de Bacteriología del SAHUAPA. La caracterización bioquímica de las cepas se realizó mediante los protocolos de identificación convencionales para bacterias gramnegativas fermentadoras y no fermentadoras de lactosa14,15.
+
+Evaluación de susceptibilidad antimicrobiana
+
+Se determinó la susceptibilidad a los antimicrobianos de acuerdo al método de difusión con discos, siguiendo los lineamientos establecidos por el Instituto de Estándares de Laboratorios Clínicos (CLSI)16. Se ensayaron los siguientes antimicrobianos: ciprofloxacina (5 μg), ácido nalidíxico (30 μg), levofloxacina (5 μg) y norfloxacina (10 μg). Con la finalidad de evaluar resistencia asociada, se emplearon discos de cefotaxima (30 μg), ceftazidima (30 μg), cefepima (30 μg), aztreonam (30 μg), imipenem (10 μg), meropenem (10 μg), gentamicina (10 μg) y amikacina (10 μg), todos de la marca Oxoid.
+
+Detección de los genes qnrA, qnrB y qnrS mediante reacción de polimerasa en cadena (RPC)
+
+La extracción de ADN genómico se llevó a cabo mediante el kit de purificación Wizard Genomic DNA (Promega), siguiendo las especificaciones del fabricante. Para llevar a cabo la reacción de polimerasa en cadena (RPC), se empleó 12,5 μl de la Master Mix PCR (Promega), 2,5 μl de los oligonucleótidos respectivos qnrA17 (F 5’-TCAGCAAGAGGATTTCTCA-3’ y R 5’ - GGCAGCACTATTACTCCCA −3’),qnrB18 (F 5’- GATCGTGAAAGCCAGAAAGG-3’ y R 5’-ACGATGCCTGGTAGTTGTCC-3’), qnrS19 (F 5’- ACGACATTCGTCAACTGCAA −3’ y R 5’-TAAATTGGCACCCTGTAGGC-3’), 1 μl de ADN genómico bacteriano y 6,5 μl de agua destilada estéril libre de nucleasas, para un volumen total de reacción de 25 μΙ La desnaturalización inicial se llevó a cabo a 94°C durante 4 min, con 30 ciclos repetidos de desnaturalización a 94°C por 45 seg, hibridación a 53 °C por 45 seg y extensión a 72 °C durante 60 seg, con un ciclo de extensión final a 72 °C por 5 min, utilizando un termociclador Master Cycler17,18. Los productos de amplificación se sometieron a electroforesis en gel de agarosa al 1%, luego se tiñeron con bromuro de etidio (0,5 μg/ml) en tampón TBE 1X durante 30 min a 10 V/cm. Para estimar el tamaño de los fragmentos de ADN resultantes, se utilizó un marcador de tamaño molecular 1 Kb Plus (Invitrogen). Finalmente fueron observados por transiluminación con luz ultravioleta y fotografiados.
+
+Conjugación bacteriana
+
+El proceso se realizó empleando la técnica sobre filtro19. Como receptora se empleó la cepa E. coli J62-2 (F-, his-, pro-, trp-, lac-, rif+). Se seleccionaron transconjugantes en placas de agar tripticasa de soya (TSA) que contenían rifampicina (100 μg/ml; Pfizer) y ciprofloxacina (0,06 μg/ml; Pfizer)18,20. La resistencia transferida a la cepa receptora se verificó por el método de difusión con discos, según los lineamientos establecidos por el CLSI16, ensayando la misma galería de antimicrobianos empleados con las cepas clínicas.
+
+Verificación de los determinantes transferidos
+
+A las cepas clínicas que amplificaron para el gen qnr, y sus respectivas trans-conjugantes se les realizó extracción de ADN plasmídico, empleando el kit de purificación FavorPrep (Favorgen), según las especificaciones del fabricante. Con el propósito de constatar la ubicación plasmídica de dichos genes, se realizó una nueva RPC, atendiendo a las mismas condiciones descritas con anterioridad.
+
+Control de calidad
+
+Se emplearon las siguientes cepas: E. coli ATCC® 25922, como control de discos de antimicrobianos. Como control positivo de RPC, se empleó un lisado de la cepa K. pneumoniae UAB1, la que presenta el gen qnrA, la cepa K. pneumoniae 168 como control positivo para el gen qnrB y la cepa K. pneumoniae 66 como control positivo para qnrS. Las cepas fueron donadas por el Laboratorio de Biología de Plásmidos de la Universidad Central de Venezuela (UCV).
+
+Análisis de datos
+
+El análisis de los resultados se realizó mediante estadística descriptiva, empleando porcentajes de frecuencias, para ello, se elaboraron tablas y figuras de los datos obtenidos mediante el programa estadístico SPSS versión 11.521.
+
+Resultados
+
+De las 104 enterobacterias recolectadas en el presente estudio, se identificaron 11 especies, siendo E. coli la más frecuente (55,8%), seguida por K. pneumoniae (24,0%); se presentaron en menor frecuencia Klebsiella oxytoca, Enterobacter aerogenes, C. freundii, Proteus vulgaris y Pantoea agglomerans (datos no mostrados).
+
+Las pruebas de susceptibilidad antimicrobiana ante las quinolonas, de las cepas de E. coli y K. pneumoniae (las aisladas en mayor número), revelaron elevados porcentajes de resistencia a todas las quinolonas ensayadas. Escherichia coli presentó 72,4 y 67,2% de resistencia a ácido nalidíxico y ciprofloxacina, respectivamente, mientras que 60,0% de las cepas de K. pneumoniae, mostraron resistencia al ácido nalidíxico y 56,0% a ciprofloxacina.
+
+Se observaron elevados porcentajes de resistencia a los β-lactámicos ensayados, mientras que aminoglucósidos y carbapenémicos se mostraron como una buena opción terapéutica ante las cepas estudiadas (Figura 1).
+
+Figura 1 Susceptibilidad antimicrobiana en cepas de Escherichia coli y Klebsiella pneumoniae, aisladas de pacientes asistidos en el Servicio Autónomo Hospital Universitario “Antonio Patricio de Alcalá”, Cumaná, estado Sucre. Enero - junio de 2014. NA: ácido nalidíxico, CIP: ciprofloxacina, LVX: levofloxacina, NOR: norfloxacina, CAZ: ceftazidima, CTX: cefotaxima, ATM: aztreonam, FEP: cefepime, IMP: imipenem, MEM: meropenem, AK: amikacina, GM: gentamicina. S: sensible, I: intermedio, R: resistente. 
+
+Los resultados de la RPC revelaron la presencia de genes qnrA y qnrB; 33,6% (35/104) presentaron el gen qnrB (460 pb) y 0,9% (1/104) el gen qnrA (625 pb). No se demostró co-existencia de los genes estudiados (Figura 2). El gen qnrB, se presentó con mayor frecuencia en E. coli (45,7%) y K. pneumoniae (37,1%). Mientras que, qnrA sólo se detectó en una cepa de P. vulgaris (Tabla 1). Del total de cepas con el gen qnrB, 60,0% presentaba fenotipo NAR/CIPR, 14,2% NAS/CIPS y 11,4% NAI/CIPS. Otros fenotipos se observaron en menor frecuencia (Tabla 2). La cepa portadora de qnrA mostró fenotipo NAR/CIPR.
+
+Figura 2 Productos de la amplificación del gen qnr en enterobacterias aisladas en muestras de pacientes asistidos en los diferentes servicios del Hospital Universitario “Antonio Patricio de Alcalá”, Cumaná, estado Sucre. Enero - junio de 2014. A: gen qnrB. 1: marcador de tamaño molecular 1 Kb Plus (Invitrogen), 2: control positivo qnr168, 3: control negativo Escherichia.coli J62-2, 4 al 17: cepas clínicas. B: gen qnrA. 1: Marcador de tamaño molecular 1 Kb Plus (Invitrogen), 2: control positivo Klebsiella pneumoniae UAB1, 3:control negativo E. coli J62-2, 4: cepa 194.2, 5 al 8: cepas clínicas sin amplificados. 
+
+Tabla 1 Distribución porcentual de la presencia de genes qnr en enterobacterias aisladas de pacientes atendidos en los diferentes servicios del Hospital Universitario “Antonio Patricio de Alcalá”, Cumaná, estado Sucre. Enero - junio de 2014 
+
+Tabla 2 Fenotipos de susceptibilidad antimicrobiana al ácido nalidíxico y ciprofloxacina en cepas portadoras de genes qnr 
+
+NA: ácido nalidixico, CIP: ciprofloxacina, S: sensible, I: intermedio, R: resistente, n: número, %: porcentaje.
+
+Del total de cepas portadoras del gen qnr, 23 lograron transferir plásmidos mediante el proceso de conjugación bacteriana. Se obtuvieron 22 trans-conjugantes a partir de cepas clínicas portadoras de qnrB y una de la portadora qnrA. La susceptibilidad de las cepas trans-conjugantes a quinolonas demostró que 15 presentaban sensibilidad intermedia a ácido nalidíxico. No se observó resistencia a ciprofloxacina, levofloxacina ni norfloxacina. Por otra parte, en 13 cepas trans-conjugantes, se determinó resistencia a uno o más antimicrobianos β-lactámicos, como cefotaxima, ceftazidima y aztreonan. Sólo una cepa trans-conjugante fue resistente a aminoglucósidos ensayados. No se observó resistencia a carbapenémicos (Tabla 3).
+
+Tabla 3 Perfil de resistencia antimicrobiana de cepas clínicas portadoras del gen qnr y sus respectivas transconjugantes 
+
+T: transconjugante. EC: E. coli, KP: K. pneumoniae, MM: M. morganii, ECL: E. cloacae, PV: P vulgaris, CF: C. freundii, NA: ácido nalidíxico, CIP: ciprofloxacina, LVX: levafloxacina, NOR: norfloxacina,CAZ: ceftazidima CTX: cefotaxima, ATM: aztreonam, FEP: cefepime, IMP: imipenem, MEM: meropenem, AK: amikacina, GM: gentamicina, I: intermedio, NR: no resistente.
+
+En las cepas trans-conjugantes se confirmó la presencia del gen qnr por RPC. Se amplificó el gen qnrB en 20 cepas trans-conjugantes; en dos cepas no se logró detectar la presencia del gen, asi como en la trans-conjugante obtenida de la portadora qnrA (Figura 3).
+
+Figura 3 Productos de la amplificación del gen qnr en cepas transconjugantes. A: gen qnrB. 1: marcador de tamaño molecular 1 Kb Plus (Invltrogen), 2: control positivo qnr168, 3: control negativo Escherichia coli J62-2, 4: cepa T7, 5: cepa T33.2, 6: cepa T60.2, 7: cepa T74.1, 8: cepa T74.2, 9: cepa T95, 10: cepa T101, 11: cepa T117, 12: cepa T121.1, 13: cepa T125, 14:cepa T130, 15: cepa T147, 16: cepa T153.1, 17: cepa T153.2, 18: cepa T153.3, 19: cepa T156.1, 20: cepa T180, 21: cepa T181, 22: cepa T194.1, 23: cepa T202, 24:cepa T228.1, 25: cepa T232. B: gen qnrA. 1: marcador de tamaño molecular 1 Kb Plus Invitrogen, 2: control positivo Klebsiella pneumoniae UAB1, 3: control negativo E. coli J62-2, 4: cepa T194.2 no amplificó. 
+
+Discusión
+
+La aplicación de quinolonas de manera indiscriminada en el campo de la salud, la agricultura y el procesamiento de alimentos, ha incidido en el incremento de los porcentajes de resistencia a estos antimicrobianos, especialmente en miembros de la familia Enterobacteriaceae, lo que puede deberse a la presencia de mecanismos que han sido localizados, ya sea a en el cromosoma y/o en plásmidos22.
+
+En Latinoamérica, la resistencia a quinolonas ha sido reportada por diversos autores23-25. En el hospital donde se efectuó este estudio, la susceptibilidad antimicrobiana a quinolonas ha sido poco documentada, Guzmán y Alonso26, describieron 14,0% de cepas de K. pneumoniae resistentes a ciprofloxacina. Posteriormente, Guzmán y cols.27, reportaron 14,8% de cepas de enterobacterias resistentes a ciprofloxacina, denotando que estos valores son inferiores a los obtenidos en este estudio, lo que permite inferir que en los últimos años en el centro hospitalario se han seleccionado y diseminado determinantes de resistencia a quinolonas, favorecidos probablemente por el uso indiscriminado de estos antimicrobianos.
+
+Ha de destacarse que en esta investigación se evidenció que la resistencia de las cepas estudiadas no se limitó a quinolonas, sino también a otras familias de antimicrobianos como β-lactámicos y aminoglucósidos, situación que puede deberse a que estas cepas con frecuencia portan múltiples genes de resistencia plasmídicos de manera simultánea28,29.
+
+La elevada frecuencia de genes qnr detectados, revela que en el centro asistencial se encuentran circulando determinantes de resistencia a quinolonas diferentes a los originados por mutaciones cromosomales, que es el mecanismo que con más frecuencia se asocia la resistencia a estos antimicrobianos. Por otra parte, la presencia del gen qnr en seis especies de enterobacterias, indica que estos genes presentan una distribución amplia entre los diferentes géneros bacterianos.
+
+La frecuencia del gen qnrB, encontrada en este estudio es mayor a la reportada por otros investigadores en el país30,31. Mientras que la baja frecuencia del gen qnrA, observada en esta investigación, sí concuerda con lo reportado por otros autores en la región8,32. El predominio del gen qnrB con respecto al qnrA, evidenciado en esta investigación, se encuentra dentro de lo esperado, ya que los estudios de frecuencia de genes qnr en varios países de Latinoamérica indican que los alelos de los genes qnrB son más frecuentes33-35.
+
+Los resultados indican que los genes qnr pueden estar albergados en cepas con patrones de susceptibilidad a quinolonas variables, siendo de gran importancia el hecho que en cepas sensibles a dichos antimicrobianos (NAS/CIPS) se demostró la presencia del gen qnrB. Este hallazgo revela que las cepas portadoras del gen son categorizadas como sensibles en el laboratorio microbiológico; por consiguiente, las quinolonas se considerarían como una opción terapéutica a nivel clínico. Sin embargo, el uso de estos agentes contra este tipo de cepas, además de representar un posible fracaso terapéutico, va a aportar la presión antimicrobiana necesaria para que se seleccionen cepas con mutaciones cromosómicas8,36,37. Los resultados obtenidos en este estudio sugieren la necesidad de regularizar los tratamientos antimicrobianos con quinolonas, a fin de minimizar la aparición de este tipo de cepas.
+
+A través del proceso de conjugación, se pudo comprobar la capacidad de transferencia que presentan los plásmidos albergados en las enterobacterias portadoras de qnr, para establecerse en la célula receptora, independientemente del género original en el que se encontraban. Lo cual deja en evidencia el amplio rango de hospedador de estos plásmidos y representa desde el punto de vista clínico y epidemiológico un hallazgo importante, debido a que refleja la facilidad con que se estarían diseminando los genes qnr entre las bacterias que cohabitan el centro hospitalario. Este hecho complica la utilización de quinolonas como opción terapéutica contra este tipo de microorganismos.
+
+Las 15 cepas trans-conjugantes con susceptibilidad intermedia a quinolonas constituyen un hallazgo importante, ya que este patrón de resistencia ha sido asociado con la presencia de genes qnr38,39. Al confirmar la presencia del gen qnr en las cepas trans-conjugantes, y analizar los fenotipos de susceptibilidad que presentaban, se encontró que existe concordancia con lo postulado por algunos investigadores4,40, quienes señalan que las proteínas Qnr confieren resistencia al ácido nalidíxico más no a las fluoroquinolonas. Este hecho se pudo apreciar, ya que las trans-conjugantes carecen de mutaciones y, por tanto, el fenotipo observado de cepas con sensibilidad disminuida al ácido nalidíxico y sensibles a ciprofloxacina, es sólo producto de la acción del gen qnr sin inteferencias de otros mecanismos.
+
+La capacidad de transferencia de plásmidos portadores de genes qnr, ha sido documentada por diversos autores en el ámbito internacional18,41,42. En Venezuela, no se han reportado investigaciones relacionadas con la transferencia de genes qnr; el presente estudio representaría la primera evidencia sobre la transferencia de resistencia a quinolonas mediada por plásmidos.
+
+La localización de los genes qnr en elementos genéticos móviles, que a su vez transportan otros genes de resistencia, favorece la extensa diseminación de los mismos a otros aislados clínicos4,41,42. La presencia de qnr y la resistencia a β-lactámicos observada en las cepas trans-conjugantes, sugiere que los genes que codifican para ambos mecanismos, pueden transferirse y expresarse de manera conjunta en las cepas que los albergan. Al respecto, algunos autores28,29,39 han descrito que los genes qnr se transmiten de forma conjunta, en la mayoría de los casos, con genes que codifican enzimas de resistencia a β-lactámicos. En consecuencia, el empleo de las quinolonas y/o β-lactámicos en pacientes con este tipo de cepas, permitirían la selección de dichas cepas, por encontrarse estos genes localizados en el mismo elemento genético.
+
+De igual forma, se comprobó en una cepa trasconjugante, resistencia a aminoglucósidos, la que también expresó resistencia a cefalosporinas (cefotaxima, ceftazidima) y aztreonan. La resistencia a aminoglucósidos con frecuencia se ha observado en combinación con otros antimicrobianos como quinolonas y β-lactámicos10,28,29,42. Sin embargo, en este estudio, la baja transferencia de determinantes de resistencia a aminoglucósidos, sugiere que los genes que codifican resistencia a estos agentes se encontraban insertados en plásmidos no transferidos, o que en las cepas clínicas resistentes a aminoglucósidos estén presentes otros mecanismos de resistencia no codificados en plásmidos, como pudieran ser una disminución de la acumulación intracelular del antimicrobiano o la alteración del sitio diana43.
+
+La transmisibilidad de los plásmidos, en especial, aquellos que codifican mecanismos de resistencia a quinolonas, desde el punto de vista epidemiológico es de gran interés, ya que facilita la diseminación del mecanismo entre patógenos en un centro hospitalario determinado. En el SAHUAPA, quedó demostrada la existencia no sólo de mecanismos de resistencia a quinolonas mediadas por plásmidos, sino también a β-lactámicos y aminoglucósidos, los que pueden ser transferidos simultáneamente por conjugación asegurando la diseminación de los determinantes de resistencia y originando la aparición de cepas con resistencia a múltiples antimicrobianos.
+
+Por todo lo antes expuesto, la elevada frecuencia de genes qnr, encontrada en esta investigación, representa una situación preocupante en el SAHUAPA, ya que los genes qnr localizados en plásmidos transferibles, tienen la capacidad de diseminarse en el centro hospitalario. Adicionalmente, la presencia de cepas portadoras de estos genes, pero con sensibilidad a quinolonas, constituye un problema clínico, debido a que podrían considerarse a las quinolonas como terapia antimicrobiana y, por consiguiente, facilitar la selección de cepas con mutaciones a nivel cromosómico, lo que complica la aplicación de tratamientos con quinolonas en pacientes con infecciones por enterobacterias. Por lo tanto, es necesario que las autoridades sanitarias apliquen vigilancia epidemiológica y control de infecciones, a fin de minimizar la aparición y diseminación de estas cepas.
+
+Esta investigación fue parcialmente financiada por el proyecto Misión Ciencia (G-2007001442).
+
+Agradecimientos
+
+Al Laboratorio de Biología de Plásmidos de la Universidad Central de Venezuela (UCV), por donar las cepas control empleadas en esta investigación.

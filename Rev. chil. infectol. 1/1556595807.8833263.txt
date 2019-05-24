@@ -1,0 +1,136 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000600004
+Factores asociados a infecciones urinarias producidas por enterobacterias productoras de β-lactamasas de espectro extendido: una cohorte prospectiva
+
+Resumen
+
+Introducción: La infección del tracto urinario (ITU) por microorganismos productores de β-lactamasas de espectro extendido (BLEE) es un problema infectológico creciente. Objetivo: Determinar factores de riesgo predisponentes a infecciones por microorganismos productores de BLEE. Pacientes y Método: Cohorte prospectiva de pacientes > 18 años ingresados al Servicio de Medicina Interna del Hospital Naval Almirante Nef de Viña del Mar desde febrero a noviembre de 2011 con diagnóstico de ITU confirmado en un urocultivo. Se excluyeron pacientes con urocultivos polimicrobianos. El análisis se hizo mediante una regresión logística múltiple. Resultados: Se analizaron 249 pacientes, 35 (14%) presentaron un microorganismo productor de BLEE. El 71% fueron mujeres y la edad promedio 70,7 ± 16,9 años. El antecedente de hospitalización en los últimos tres meses o el vivir institucionalizado (p = 0,027), la infección por bacteria productora de BLEE previa (p < 0,001), el uso de antimicrobianos recientes (p = 0,013) y el antecedente de cáncer metastásico (p = 0,007) se asociaron a la producción de BLEE. Discusión: Los factores encontrados en la presente cohorte están de acuerdo a lo descrito en otras poblaciones. Esta herramienta ofrece asistencia para el médico clínico en la selección de la antibioterapia más apropiada. Es necesario validar este modelo previo a su implementación.
+
+Palabras clave: Infección del tracto urinario, p-lactamasas de espectro extendido, factores de riesgo.
+
+ 
+
+Introducción
+
+Las β-lactamasas de espectro extendido (BLEE) son enzimas que hidrolizan y generan resistencia a la mayoría de los β-lactámicos, incluyendo a penicilinas, cefalosporinas de primera, segunda, tercera generación, monobactámicos, pero no a los carbapenémicos1. Han sido descritas en forma exclusiva en microorganismos gramnegativos, principalmente en Klebsiella pneumoniae, Klebsiella oxytoca y Escherichia coli, pero también en los géneros Acinetobacter, Burkholderia, Citrobacter, Enterobacter, Morganella, Proteus, Pseudomonas, Salmonella, Serratia y Shigella.
+
+Han sido descritas muchas β-lactamasas, clasificadas de acuerdo a su estructura molecular (Clasificación de Ambler)2 o por similitud funcional (Clasificación de Bush-Jacoby-Medeiros)3, codificadas por genes cromosómicos o genes en elementos móviles (plasmidios o trasposones). Algunas mutaciones descritas incluyen los genes TEM, SHV4, CTX-M5, PER-1, VEB-1 y BES-16.
+
+Desde que fueron descritos por primera vez a inicios de los años ochenta, los microorganismos productores de BLEE han ido tomando cada vez una mayor relevancia en la práctica clínica debido al aumento sostenido de su prevalencia7, y por el aumento importante de BLEE en microorganismos provenientes de la comunidad8 convirtiéndola así en un importante problema epidemiológico. Por otro lado, las sepsis producidas por estos microorganismos presentan mayor mortalidad que las producidas por cepas no productoras de BLEE9,10, describiéndose el inicio tardío de un antimicrobiano adecuado como el principal factor de riesgo relacionado con la mortalidad11.
+
+En sepsis donde se aíslan estos microorganismos, el foco que con mayor frecuencia se identifica es el urinario10-12 generando infecciones que presentan una mayor dificultad en el tratamiento y una estadía hospitalaria más prolongada14,15 que las infecciones del tracto urinario (ITU) producidas por patógenos no productores de BLEE. El tratamiento en estos casos se dificulta ya que estas bacterias presentan resistencia a la mayoría de los antimicrobianos que se utilizan de forma empírica en el tratamiento de las ITU, como son las cefalosporinas y quinolonas16. El tratamiento de elección en estos casos es el uso de carbapenémicos, recomendación que se basa principalmente en el resultado de resistencia observada in vitro1. Existe un ensayo clínico que evaluó el tratamiento empírico de ceftriaxona en las pielonefritis agudas no complicadas, existiendo malos resultados clínicos y de laboratorio en un tercio de los pacientes en que se aisló como agente causal a un microorganismo productor de BLEE17. Ya que la confirmación bacteriológica demora unas 48 h y aun cuando se han hecho esfuerzos por conocer factores de riesgo de producción de microorganismos productores de BLEE, no existe un modelo que permita identificar de forma temprana a pacientes con alta probabilidad de tener infecciones por estos microorganismos.
+
+Por lo anterior, se ha tratado de identificar factores de riesgo de presentar ITU por microorganismos productores de BLEE provenientes de la comunidad, describiéndose la enfermedad prostática, la infección urinaria recurrente15, la edad avanzada, diabetes mellitus, el uso de catéter vesical, ITU recurrente13 y el uso previo de antimicrobianos, como β-lactámicos15, cefuroxima oral18, aminopenicilinas, fluorquinolonas y cefalosporinas13.
+
+El presente trabajo tiene el objetivo determinar factores de riesgo que permitan al médico clínico la identificación precoz de las ITU provenientes de la comunidad producidas por microorganismos productores de BLEE, sin tener que esperar su confirmación bacteriológica.
+
+Pacientes y Método
+
+Diseño del estudio
+
+El presente estudio corresponde a una cohorte prospectiva observacional de pacientes ingresados con diagnóstico de ITU al Hospital Naval Almirante Nef, Viña del Mar, Chile, entre febrero y noviembre de 2011. El Hospital Naval Almirante Nef es un centro de alta complejidad, considerado el más importante del Sistema de Salud Naval chileno. Cuenta con 360 camas distribuidas en las distintas especialidades médicas y quirúrgicas, además de unidad de paciente crítico, pabellones y policlínicos adosados. El centro tiene además funciones docentes como campo clínico de universidades de la región.
+
+Pacientes
+
+Se incluyeron pacientes con diagnóstico de ITU provenientes de la comunidad, en todas sus formas, y que fueran certificadas mediante urocultivo con crecimiento mayor a 105 ufc/mL. No se incluyeron en este estudio a pacientes embarazadas, a pacientes bajo 18 años de edad, urocultivos polimicrobianos y aquellos con sospecha de ITU nosocomial, entendida como tal a aquella infección detectada luego del tercer día de hospitalización o hasta 10 días después del alta hospitalaria.
+
+Se realizó un análisis diario de los registros de ingreso y de las fichas clínicas de los pacientes internados durante el período de estudio. Los pacientes que cumplían los criterios de inclusión fueron seguidos diariamente en su evolución. En la visita inicial se registraron diversas variables clínicas, demográficas y de laboratorio que fueron consideradas para el análisis inferencial posterior, mientras que en visitas posteriores se evaluaron los resultados del urocultivo y las características de la hospitalización, puntualmente el tiempo de estadía y el desenlace del episodio (supervivencia o muerte).
+
+Para el registro de variables clínicas se incluyó el Índice de Co-morbilidades de Charlson18, el lugar de residencia (domicilio particular, institución), antecedente de infección por microorganismo productor de BLEE, infección urinaria recurrente, antibioprofilaxis, uso de cranberry, biopsia prostática, cirugía ginecológica o urológica recientes, cistoscopia, uso de sonda Foley, cateterismo intermitente, hospitalización reciente, hospitalización previa en unidad de cuidados intensivos, uso de pañal, incontinencia urinaria o anal, uso de corticosteroides sistémicos, postración y uso de antimicrobianos recientes. Se consideró hospitalización reciente a aquel evento ocurrido en menos de seis meses del actual episodio y uso de antimicrobiano reciente al utilizado hasta tres meses antes del evento actual.
+
+Análisis estadístico
+
+Se utilizaron, en primera instancia, medias, desviación estándar, frecuencias absolutas y relativas para el análisis descriptivo. Para el análisis inferencial se utilizaron las pruebas T de Student o de Mann Whitney para la comparación de medias según las características de distribución y varianzas de los datos obtenidos, y el test Exacto de Fisher para la evaluación de variables cualitativas. La búsqueda de factores asociados a infección a microorganismo productor de BLEE se hizo mediante una regresión logística múltiple con principio de máxima verosimilitud. Para el diseño del modelo se utilizó el método intro. Se consideró para inclusión al modelo multivariado final a toda variable que mostrara algún grado de asociación con el resultado final en el análisis bivariado (p < 0,15), y el modelo final fue desarrollado con niveles de significancia estándar (p < 0,05). Todos los modelos generados consideraron la presencia de potenciales interacciones entre variables independientes durante su generación y se verificó el supuesto de linealidad en todos los casos. Se seleccionó al mejor modelo multivariado en base al cumplimiento de los supuestos arriba indicados y a su capacidad explicativa evaluada mediante el Pseudo R2. La capacidad diagnóstica del modelo final fue evaluada a través de curvas de características de receptor-operador (ROC) y la bondad de ajuste fue explorada con la prueba de Hosmer y Lemeshow.
+
+Resultados
+
+Un total de 255 pacientes ingresaron durante el período de observación. Se excluyeron seis enfermos, todos por presentar urocultivos polimicrobianos.
+
+Características de los pacientes
+
+La cohorte fue compuesta por 249 pacientes. La edad promedio fue 70,7 ± 16,9 años y 71,5% de ellos fueron del género femenino. La mediana del índice de Charlson fue de 2 (Rango intercuartil, RIC: 0 a 4) puntos.
+
+Las co-morbilidades más frecuentes fueron infección urinaria recurrente, incontinencia de orina o fecal, demencia y diabetes mellitus.
+
+Un 19% de los pacientes había utilizado antimicrobianos durante los tres meses previos a la hospitalización, 15% cumplieron con el criterio de hospitalización reciente y 11,2% había presentado una infección a microorganismos productores de BLEE antes de la infección urinaria actual. Se detallan mayores características de los pacientes en las Tablas 1 y 2.
+
+ 
+
+Tabla 1. Características de los pacientes
+
+
+
+ 
+
+Tabla 2. Laboratorio general de ingreso
+
+
+
+ 
+
+El microorganismo más frecuentemente aislado como causal de la infección urinaria fue Escherichia coli (80,7% de los casos), seguida por Klebsiella pneumoniae (4,8%) y Pseudomonas aeruginosa (4%) (Tabla 3).
+
+ 
+
+Tabla 3. Microbiología de las infecciones urinarias
+
+
+
+ 
+
+Factores asociados
+
+Treinta y cinco pacientes (17%, IC95%: 12,5-22,1%) presentaron una infección por un microorganismo productor de BLEE. Múltiples variables se asociaron a esto último en el análisis bivariado de tamizaje. Las más relevantes fueron el antecedente de infección previa a microorganismo productor de BLEE (OR: 9,5 IC 95% 4-22,6; p < 0,001), la hospitalización en los últimos seis meses (OR: 7,4 IC 95% 3,3-16,3; p < 0,001), el antecedente de cáncer metastásico (OR: 6,8 IC 95%: 1,6-28; p < 0,01), vivir institucionalizado (OR: 3,4 IC 95% 1,0910,63; p = 0,035) y el haber utilizado antimicrobianos durante los últimos tres meses (OR: 4,8 IC 95%: 2,2-10,3; p < 0,001). La única característica del laboratorio que se asoció a presentar una infección por microorganismos productores de BLEE fue el nitrógeno ureico expresado como su concentración en mg/dL (OR: 1,02 IC 95% 1-1,04, p = 0,094). No obstante, la última asociación no alcanzó significancia estadística.
+
+Sin embargo, sólo cuatro factores mantuvieron la significancia estadística al ser analizados mediante regresión logística múltiple en la predicción de microorganismos productores de BLEE. Estos fueron: el antecedente de una infección por un microorganismo productor de BLEE (p < 0,001), el uso reciente de antimicrobianos (p = 0,013), el vivir en una residencia o haber sido hospitalizado recientemente (p = 0,027) y el antecedente de presentar un cáncer metastásico (p = 0,007) (Tabla 4).
+
+ 
+
+Tabla 4. Modelo multivariado final
+
+
+
+ 
+
+
+
+Figura 1. Curva ROC del modelo multivariado. Área bajo la curva ROC: 0,813.
+
+ 
+
+
+
+Figura 2. Hospitalizacion y BLEE. Mann Whitney U p < 0,001.
+
+ 
+
+Estas características explicaron 24% de la variabilidad del resultado BLEE (Pseudo R2 = 24%) y tuvieron un área bajo la curva ROC de 0,813 (IC 95% 0,73 a 0,89) que fue estadísticamente significativa (p < 0,001) (Figura 1). Lo estimado por el modelo no difirió importantemente de lo predicho, con un valor p = 0,44 en la prueba de Hosmer y Lemeshow.
+
+β-lactamasas de espectro extendido y hospitalización
+
+La estadía hospitalaria mediana de los pacientes ingresados fue de 10 (RIC: 7 a 18) días. Los pacientes que no presentaban BLEE en sus urocultivos tuvieron estadías de nueve (RIC 7 a 17) días, mientras que entre quienes sí presentaron BLEE la estadía mediana fue de 15 (RIC 11 a 26) días. Estas diferencias fueron estadísticamente significativas (Mann Whitney U p < 0,001) (Figura 2).
+
+Un total de 9 (3,7%) pacientes fallecieron durante la hospitalización. El presentar BLEE en los urocultivos no se asoció significativamente a mortalidad entre los pacientes evaluados (OR: 0,75 IC 95%: 0,09-6,22; p = 0,79).
+
+Discusión
+
+La infección por microorganismos productores de BLEE fue un fenómeno muy frecuente en la muestra estudiada, 17% (IC 95%: 12,1-22,5%) de los casos correspondieron a infecciones de esta índole. Esta cifra está dentro de lo esperable en base a estudios previos, si bien la frecuencia es muy variable en la literatura médica con variaciones regionales marcadas19. El estudio SMART que reunió 6.156 cultivos de infecciones intra-abdominales por bacilos gramnegativos en 28 países, incluido Latinoamérica, mostró una prevalencia en el caso de microorganismos productores de BLEE de 17% para K. pneumoniae y 10% para E. coli20.
+
+Las variables que mejor se asociaron a tener una infección causada por microorganismos productores de BLEE fueron el haber tenido una infección a patógeno productor de BLEE previa, el antecedente de uso reciente de antimicrobianos, el vivir en una residencia o haber sido hospitalizado recientemente y el antecedente de presentar un cáncer metastásico.
+
+El antecedente de infección por cepas BLEE (+) no está mayormente descrito en la literatura médica. Reflejaría la susceptibilidad individual de una persona a presentar colonización por BLEE. Tampoco está descrita su relación con cáncer metastásico, pero podría ser atribuíble al estado de inmunosupresión que acompaña a las enfermedades neoplásicas avanzadas con la consiguiente tendencia a mayor exposición a antimicrobianos, si bien no existió evidencia estadística de interacción entre estas últimas co-variables. Por el contrario, varios estudios han examinado la asociación entre antimicrobianos y la producción de BLEE. La mayoría indica como la clase de antimicrobiano más importante asociada a la producción de BLEE a las cefalosporinas de tercera generación21,22. Esta asociación ha sido representada más claramente en los estudios de intervención dirigidos a reducir el uso de cefalosporinas, derivando en la reducción de la incidencia de K. pneumoniae productora de BLEE14,17. Esta claridad sobre el mayor riesgo de producir infección por BLEE al utilizar cefalosporinas de tercera generación no se encuentra en el uso previo de otros antmicrobianos de uso común como los β-lactámicos combinados con inhibidor de β-lactamasas, si bien los resultados son dispares23,24. Esta diferencia observada puede ser explicada por las diferencias geográficas de ambos estudios y las diferencias en el diseño de los estudios. El uso de fluorquinolonas también se ha identificado como factor de riesgo independiente de producir sepsis por E. coli productoras de BLEE13. El fuerte impacto de las quinolonas sobre la microbiota intestinal facultativa de bacilos gramnegativos, podría jugar un rol en la selección de microorganismos productores de BLEE mediante mecanismos no del todo conocidos25.
+
+Aun cuando el uso de antimicrobianos previos ha sido identificado en un gran número de estudios como factor de riesgo para tener infección por microorganismo productor de BLEE, la definición del tiempo previo no está del todo clara. Un estudio reciente que evaluó el tiempo previo de uso de antimicrobianos a infección por K. pneumoniae productora de BLEE, mostró que el uso previo de cefalosporinas de tercera generación y cefepime fue factor de riesgo independiente de la definición usada (30, 60 o 90 días previo al evento); en cambio esta variable no fue independiente del tiempo cuando se trató de fluorquinolonas ni ampicilina/sulbactam26. En otro estudio, se encontró que la exposición a antimicrobianos, incluso un año antes del evento, era factor de riesgo para desarrollar infección por microorganismo productor de BLEE27. Según la definición establecida para este trabajo, se consideró el uso de antimicrobianos los tres meses previos al evento actual; sin embargo, la mayoría de los pacientes con uso de antimicrobiano previo lo recibió dentro de los últimos 30 días (percentil 25-75 entre los días 1 y 29 previos al diagnóstico de ITU).
+
+Una publicación previa describe un puntaje predictor validado de infecciones por enterobacterias productoras de BLEE. La última identificó como factores de riesgo a las variables de hospitalización reciente (< 12 meses), índice de Charlson, uso reciente de antimicrobiano (≤ 3 meses, β-lactámicos o fluroquinolonas), cateterización urinaria reciente y edad (≥ 70 años)28. Sus hallazgos son muy similares a los del presente estudio.
+
+La principal utilidad de predecir una infección por BLEE es que la cobertura antimicrobiana inapropiada durante la fase empírica en espera de los cultivos se asocia a mayor mortalidad en pacientes con infecciones graves por BLEE11,29-33. El uso de un modelo predictor puede entregar una información útil para la toma de decisiones, más aún con variables de fácil acceso en la clínica, teniendo en cuenta el de-escalamiento terapéutico una vez obtenidos los cultivos.
+
+Fortalezas y limitaciones
+
+El presente trabajo presenta varias fortalezas y limitaciones que deben ser destacadas. Entre las primeras, cabe mencionar que el diseño de cohorte prospectiva es el diseño óptimo para la evaluación de factores de riesgo en salud34, permitiendo la exclusión de sesgos tales como de memoria y recuerdo que frecuentemente limitan las estimaciones accesibles mediante otros métodos retrospectivos. La utilización de técnicas de análisis multivariante permite además controlar sesgos de confusión, así como integrar múltiples factores en una ecuación final que brinda apreciaciones globales útiles para los pacientes. La calidad del modelo propuesto fue evaluada con estadísticos post-estimación, los que tuvieron un rendimiento aceptable. Sin embargo, debe considerarse que el coeficiente de determinancia apreciado fue bajo (24%), por lo que es recomendable utilizar herramientas complementarias en la toma de decisión sobre el antimicrobiano más pertinente para cada paciente en particular. Por otra parte, debe considerarse que en el presente trabajo no se analizaron por separado las diferentes clases de antimicrobianos, por lo que no se puede concluir sobre el peso específico de cada uno de ellos en la probabilidad final de producir infección por BLEE.
+
+Síntesis
+
+En conclusión, la infección urinaria causada por microorganismos productores de β-lactamasas de espectro extendido fue un fenómeno frecuente en este estudio.
+
+Existen factores asociados a su aparición, los más relevantes son el antecedente de infección urinaria causada por un microorganismo productor de BLEE, el uso de reciente de antimicrobianos, el antecedente de hospitalización reciente o vivir institucionalizado (o en una residencia) y presentar un cáncer metastásico. Lo anteriormente descrito concuerda con lo apreciado en la literatura científica internacional. Es necesario realizar un estudio de validación previo a su implementación para asistir el quehacer del médico clínico al enfrentarse a pacientes con una infección urinaria y evaluar potenciales factores acompañantes que mejoren la capacidad predictora del presente modelo.

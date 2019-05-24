@@ -1,0 +1,46 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000300329
+Estudio de susceptibilidad a cefalosporinas de primera generación en enterobacterias aisladas de urocultivo, según criterios CLSI y EUCAST
+
+Introducción
+
+Las infecciones del tracto urinario (ITU) son causadas principalmente por enterobacterias, siendo las más frecuentes Escherichia coli, Klebsiella pneumoniae y Proteus mirabilis1. Clínicamente, pueden categorizarse en ITU complicadas y no complicadas, siendo estas últimas aquellas que afectan individuos sanos sin anomalías estructurales o neurológicas de la vía urinaria2,3. En nuestro medio, la ITU no complicada es tratada habitualmente en forma ambulatoria con antimicrobianos orales, frecuentemente cefadroxilo, con buenos resultados clínicos4,5.
+
+El estudio de susceptibilidad y consecuente informe del antibiograma se realiza en la mayor parte de los laboratorios de nuestro país en base a los puntos de corte de Clinical Laboratory Standards Institute (CLSI). A partir de 2015, CLSI recomienda el uso de cefazolina como sustituto para determinar la susceptibilidad a cefalosporinas orales de primera generación en cepas de enterobacterias en ITU no complicada. Sin embargo, se aclara que no se dispone de información para predecir desde cefazolina, la susceptibilidad a cefadroxilo. Hasta ese año, existía también un punto de corte para cefalotina para realizar este estudio, que sí permitía informar susceptibilidad o resistencia a cefadroxilo6. Sin embargo, a partir de 2016 sólo existen puntos de interpretación de cefazolina7. En nuestro medio, este cambio implica un desafío, ya que en muchos centros está implementado el estudio con cefalotina. Además, no existe en CLSI puntos de corte para la interpretación directa de cefadroxilo, aunque sí se dispone de criterios según los estándares europeos (European Committee on Antimicrobial Susceptibility Testing, EUCAST)8.
+
+Nuestro objetivo fue conocer las diferencias en la susceptibilidad a cefalosporinas orales en cepas de E. coli, K. pneumoniae y Proteus spp. de origen urinario, según si se utiliza cefazolina o cefalotina, mediante difusión en disco y microdilución automatizada. Además, se estudió la correlación entre cefazolina, cefalotina y cefadroxilo, evaluando este último según los puntos de corte EUCAST. Esto con el fin de establecer una estrategia de rutina en los laboratorios clínicos para informar las cefalosporinas orales, incluyendo cefadroxilo, en el antibiograma de enterobacterias aisladas de muestras urinarias.
+
+Método
+
+En una primera etapa se seleccionaron 52 cepas de enterobacterias, no productoras de BLEE, aisladas de urocultivos en el laboratorio de Microbiología de Clínica Las Condes, entre mayo y junio de 2016. El número de cepas de enterobacterias incluidas fueron E. coli = 32 (61,5%), K. pneumoniae = 12 (23%) y Proteus spp. = 8 (15,3%). Las cepas fueron estudiadas con cefalotina y cefazolina, por método de difusión en disco (Kirby-Bauer (K-B)) y determinación automatizada de CIM por Vitek XL (BioMerieux®), utilizando la tarjeta AST N250 para cefalotina y AST N249 para cefazolina. Se registró la medición del halo (mm) y de la CIM (μg/ml), categorizando el resultado en sensible, intermedio o resistente, según los puntos de corte de CLSI 2015 para cada cepa6. Se estableció la concordancia categórica de susceptibilidad de los diferentes métodos, según la especie bacteriana, así como el porcentaje de error mayor y error menor, de acuerdo a las recomendaciones de Cumitech 31A para verificación y validación de procedimientos en Laboratorios Clínicos de Microbiología9.
+
+En una segunda etapa, se estudió la susceptibilidad por difusión a cefadroxilo a un subgrupo, seleccionando en forma aleatoria 23 cepas de E.coli incluidas en la primera etapa, realizando los análisis de concordancia categórica y porcentaje de error, según las recomendaciones ya mencionadas.
+
+Resultados
+
+De las 32 cepas de E. coli estudiadas, se obtuvo 47% de susceptibilidad a cefalotina por difusión en disco y 0% de susceptibilidad, con 91% de cepas con sensibilidad intermedia por Vitek XL®. Para cefazolina, la susceptibilidad de E. coli fue de 94% por difusión y 97% por Vitek XL® (Tabla 1). La concordancia categórica entre cefalotina y cefazolina por Vitek XL fue de 0%, con 90% de error menor. Al comparar cefalotina y cefazolina por difusión en disco, se obtuvo una concordancia categórica de 50%, con 40% de error menor y 9% de error mayor. En las 12 cepas de K. pneumoniae no hubo resistencia por ninguno de los métodos. En las ocho cepas de Proteus spp., hubo una cepa resistente por todos los métodos, sin presentar discordancia entre los antimicrobianos utilizados ni los métodos (Tabla 2).
+
+Tabla 1 Susceptibilidad de cepas de Escherichia colia cefazolina, cefalotina y cefadroxilo, según el método utilizado 
+
+*Cepas estudiadas en segunda etapa. S: sensible; I: susceptibilidad intermedia; R: resistente.
+
+Tabla 2 Análisis de concordancia entre susceptibilidad a cefalotina y cefazolina, según el método utilizado y el microorganismo 
+
+CC: Concordancia categórica. K-B: Método Kirby Bauer (difusión en disco).
+
+En la segunda etapa del estudio, la susceptibilidad a cefalotina, cefazolina y cefadroxilo mediante difusión en disco de las 23 cepas de E.coli analizadas, fue de 48, 96 y 100%; respectivamente (Tabla 1).
+
+Se obtuvo una concordancia categórica entre cefazolina y cefadroxilo de 95,6% con 1 error mayor. Al comparar los resultados de cefalotina y cefadroxilo, se obtuvo una concordancia categórica de 47,8%, con 4 errores mayores (17,4%). (Tabla 3).
+
+Tabla 3 Análisis de concordancia entre cefalotina y cefazolina vs cefadroxilo, en 23 cepas de E. coli estudiadas por difusión 
+
+Discusión
+
+El uso de cefalosporinas orales de primera generación, como cefadroxilo, es una de las alternativas empíricas más utilizadas en el tratamiento de ITU no complicadas4,5,10. La determinación en el laboratorio de susceptibilidad a cefalosporinas orales de primera generación mediante el uso de cefalotina, restringe la opción terapéutica de cefadroxilo en la ITU por E. coli. Según los criterios CLSI 2015, la mayor parte de las cepas resulta con resistencia intermedia o resistente a cefalotina, siendo sensibles a cefazolina, lo que se refleja en la baja concordancia categórica obtenida en ambas metodologías. Esta situación no se evidencia con K. pneumoniae y Proteus spp., dada su alta concordancia con cefazolina, independientemente del método de estudio utilizado.
+
+En vista de los resultados presentados, el principal problema se da en cepas de E.coli con la metodología disponible, ya que solamente podemos determinar susceptibilidad a cefazolina, y CLSI específicamente indica que no existen suficientes estudios para permitir extrapolar los resultados de cefazolina a cefadroxilo. Debido a esto, realizamos una segunda etapa del estudio, para evaluar el comportamiento, mediante difusión en disco, a un subgrupo de cepas de E.coli utilizadas en la primera etapa frente a cefadroxilo, evaluando la categoría de sensible o resistente según EUCAST 2016 (no se hizo evaluación por CIM, puesto que no se dispone de puntos de corte por método de dilución tanto en CLSI como en EUCAST para este antimicrobiano).
+
+Los resultados obtenidos en esta etapa, permiten considerar que el estudio de cefazolina sería un buen predictor para cefadroxilo en nuestro medio. Por este motivo creemos que en los laboratorios de microbiología debiera hacerse el cambio y estudiar cefalosporinas de primera generación (orales o no) con cefazolina según lo establecido por CLSI 2016, o cefadroxilo según EUCAST 2016. Resulta importante actualizar las tarjetas de sistemas automatizados o incorporar procedimientos de laboratorio distintos que permitan el estudio de la susceptibilidad de cefalosporinas de primera generación, a través de cefazolina o cefadroxilo, de manera de recuperar esta alternativa terapéutica en el antibiograma.
+
+Nuestro estudio tiene varias limitaciones. En primer lugar, la obtención de CIM no fue realizada por método de microdilución, el cual corresponde al método de referencia5. Por otra parte, el tamaño muestral es pequeño, por lo que pensamos que sería conveniente ampliar el número de cepas a estudiar, de tal manera de obtener información contundente para implementar los cambios necesarios en los laboratorios clínicos.
+
+Sin financiamiento.

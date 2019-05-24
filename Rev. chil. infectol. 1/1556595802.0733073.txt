@@ -1,0 +1,146 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000200008
+Seguimiento farmacoterapéutico de pacientes chilenos con infección por VIH/SIDA hospitalizados en un centro de alta complejidad durante un período de un año
+
+Resumen
+
+Introducción: El    seguimiento farmacoterapéutico, consiste en la detección, prevención    y resolución de los problemas relacionados con los medicamentos (PRM),    en forma continua, sistematizada y documentada. Un PRM es un problema de salud    vinculado con la farmacoterapia, que interfiere o puede interferir con los resultados    de salud esperados en el paciente. Objetivo y Métodos: Realizar    un seguimiento farmacoterapéutico a pacientes hospitalizados con infección    por VIH/SIDA del Hospital San Juan de Dios, a través de un estudio prospectivo    de un año (enero a diciembre 2012). Resultados: El 88,6% (93/105)    de los pacientes se encontraba en etapa SIDA, con una mediana de linfocitos    TCD4+ de 29 céls/mm3 y una carga viral de 107.000 copias ARN/mL. El 16,2% de los pacientes ingresó a una unidad de paciente crítico.    Se detectaron 296 PRM (2,8 PRM por paciente); el 72% de los PRM (n: 213) estuvieron    asociados a seguridad del tratamiento, objetivándose 94 reacciones adversas,    19 eventos con necesidad de ajustes de dosis y seis interacciones con repercusión    clínica negativa; 23,3% (n: 69) a la necesidad de incorporar o eliminar    algún fármaco y 4,7 % (n: 14) a problemas asociados a efectividad.    Se observó una relación estadísticamente significativa    al asociar el N° de PRM con la unidad    de pacientes críticos y uso de más de seis fármacos. Conclusión:    Los resultados permiten concluir que los pacientes hospitalizados presentan    problemas relacionados al uso de medicamentos, principalmente asociado    a toxicidad, encontrándose como factores de riesgo para el desarrollo    de éstos la permanencia en una unidad de paciente crítico y el    uso concomitante de más de seis fármacos.
+
+Palabras clave: Farmacovigilancia,    seguimiento farmacoterapéutico, problemas relacionados a medicamentos.
+
+ 
+
+Introducción
+
+El seguimiento farmacoterapéutico    (SFT) consiste en la detección, prevención y resolución    de los problemas relacionados con los medicamentos (PRM), en forma continuada,    sistematizada y documentada. Un PRM es un problema de salud vinculado con la    farmacoterapia, que interfiere o puede interferir con los resultados de salud    esperados en el paciente. Una de las funciones que cumple el químico    farmacéutico en los equipos multidisciplinarios es promover el uso adecuado    de los medicamentos.
+
+El SFT aborda de manera global    todos los problemas de salud y los medicamentos que utiliza el paciente, centrándose    en la valoración de la necesidad, efectividad y seguridad de la farmacoterapia.    En este sentido, los pacientes con problemas de salud como es la infección    por VIH/SIDA, constituyen un grupo con una mayor probabilidad de presentar PRM.
+
+La clasificación de los    PRM se fundamenta en los tres requisitos básicos de una farmacoterapia;    que sea necesaria, efectiva y segura. A partir de las cuales el Tercer Consenso    de Granada establece seis tipos o categorías de PRM, tal como se muestra    a continuación:
+
+ 
+
+
+
+ 
+
+Del mismo modo, estos PRM pueden      ser clasificados como reales o potenciales. Un PRM real es aquel que se ha manifestado      clínicamente en el paciente, produciendo un problema de salud; un PRM      potencial es aquel que, sin haberse manifestado todavía, tiene la posibilidad      de presentarse provocando el problema de salud.
+
+Objetivos
+
+• Realizar un seguimiento    farmacoterapéutico (SFT) a pacientes con infección por VIH/SIDA    hospitalizados.
+
+• Caracterizar demográficamente    a los pacientes ingresados, de acuerdo a género, edad, etapa clínica,    y unidad de ingreso al momento de la hospitalización.
+
+• Detectar, identificar    y clasificar los problemas relacionados al uso de medicamentos y sus intervenciones    en pacientes con infección por VIH/SIDA hospitalizados.
+
+Métodos
+
+Se realizó un estudio    prospectivo de 365 días (enero a diciembre 2012) para la detección    de PRM en pacientes con infección por VIH/SIDA internados en el Hospital    San Juan de Dios (Santiago, Chile). Se elaboró una ficha de seguimiento    y se realizaron al menos dos visitas semanales, una de las cuales era en compañía    del equipo de Infectología. Durante estas visitas se corroboraron datos    de los fármacos, la dosificación de cada uno de ellos y posibles    reacciones adversas e interacciones.
+
+El trabajo no precisó    ser presentado al Comité de Ética del hospital por deberse a funciones    propias del farmacéutico clínico dentro del establecimiento.
+
+Métodos de reclutamiento
+
+Se incluyeron a todos los pacientes    con infección por VIH/SIDA confirmados y/o con clara sospecha clínica    (serología para VIH reactiva con detección de antígeno    p24, más presencia de una infección oportunista), ingresados en    las unidades de Medicina Agudo, Neurología o unidad de Paciente Critico    (UPC) del Hospital San Juan de Dios, excluyendo del trabajo a pacientes cuyo    egreso fuera menor a siete días (fallecimiento o alta precoz), lo que    impedía contar con al menos dos evaluaciones en conjunto con el equipo    de infectología.
+
+Análisis estadístico
+
+Con los datos obtenidos se realizó    un análisis estadístico univariado y multivariado para determinar    la correlación entre diversas variables y el número de PRM a través    de un modelo quasipoisson, usando el método de máxima verosimilitud    restringida con el software R 3.1.0
+
+Resultados
+
+Ciento once pacientes fueron    ingresados al estudio, de los cuales, seis pacientes fueron retirados al no    cumplir con los criterios de inclusión (por egreso menor a 7 días    desde el ingreso). El 88,6% (93/105) de los pacientes ingresados se encontraba    en etapa SIDA, con una mediana de linfocitos TCD4+ de 29 céls/mm3    y una carga viral de 107.000 copias ARN/mL. El 16,2% (n: 17) ingresó    a UPC. La caracterización demográfica y clínica de los    pacientes se incluye en la Tabla 1.
+
+ 
+
+Tabla 1. Características demográfica e inmunológicas pacientes en seguimiento.        Estudio de farmacovigilancia en pacientes con infección por VIH/SIDA.        Hospital San Juan de Dios, enero-diciembre de 2012 (n: 105)
+
+
+
+ 
+
+El 47% (n: 49) de los ingresos    se enmarcaron en el contexto del debut de su enfermedad. Dentro de los motivos    de hospitalización, 64,7% correspondían a infecciones oportunistas,    siendo la más frecuente la neumonía por Pneumocystis jiroveci    (PCP), seguido del diagnostico de tuberculosis (no meníngea) y toxoplasmosis    cerebral (28,5%, 18,8% y 15,5%, respectivamente). El 20% de los pacientes ingresados    falleció durante el trascurso de su hospitalización.
+
+Durante el estudio fueron detectados    296 problemas asociados a la farmacoterapia, lo que equivale a 2,8 PRM por paciente.    De éstos, 69,9% correspondieron a PRM reales y 30,1% correspondieron    a PRM potenciales. (Figura 1).
+
+ 
+
+
+
+Figura 1. Distribución tipos de PRM encontrados (n: 269).
+
+ 
+
+El 72 % de los PRM (n: 213) fueron    problemas asociados a seguridad, ya fuera toxicidad o eventos adversos, 23,3%    (n: 69) estuvieron relacionados con la necesidad de incorporar o eliminar algún    fármaco (PRM de necesidad) y 4,7 % (n: 14) debido a problemas asociados    a efectividad (PRM de efectividad) (Figura 1).
+
+De los pacientes ingresados,    77,5% presentó algún problema de farmacoterapia durante el estudio;    32,6% de ellos (n: 28) presentaron un PRM, 14% (n: 12) presentaron dos PRM,    18,6% (n: 16) presentaron tres PRM y 34,9 %30 (n: 30) restante presentaron cuatro    o más PRM.
+
+No se observaron diferencias    estadísticamente significativas al comparar los grupos según distribución    por sexo.
+
+Al describir los PRM detectados,    pudimos observar que: 
+
+• De los problemas asociado a la seguridad (PRM seguridad):      49,3% (n: 105) involucró reacciones adversas, de las cuales 94 se objetivaron      en el paciente, 39,4% (n: 84) de estos problemas se asociaron a interacciones      farmacológica y sólo 7,14% (n: 6) de ellas tuvo repercusión      clínica negativa. Se realizaron 19 ajuste de dosis ya fuese por alteración      de la función hepática, renal o según peso de los fármacos      involucrados; tres de estos ajustes fueron a causa de interacciones. 
+
+En las        Tablas 2 y 3 se describen con detalle las        RAM reales detectadas y las interacciones con repercusión clínica        negativa. 
+
+ 
+
+Tabla 2. Descripción    de reacciones adversas a medicamentos reales observadas.        Estudio de farmacovigilancia en pacientes con infección por VIH/SIDA.    Hospital        San Juan de Dios, enero-diciembre de 2012. (n: 94)
+
+
+
+ 
+
+Tabla 3. Descripción    de interacciones farmacológicas con repercusión clínica    negativa.        Estudio de farmacovigilancia en pacientes con infección por VIH/SIDA.    Hospital San        Juan de Dios, enero-diciembre de 2012. (n: 6)
+
+
+
+ 
+
+• Sobre los problemas asociados    a la efectividad (PRM efectividad) de los tratamientos, éstos involucraron    principalmente interacciones de carácter farmacocinético,    es decir, afectarían las concentraciones plasmáticas de algunos    de los fármacos involucrados en 64,3% (n: 9) y en 35,7% (n: 5) por necesidad    de cambio de formulación dada la indicación médica de instalar    una sonda nasogástrica (Tabla 4).
+
+ 
+
+Tabla 4. Interacciones farmacológicas potenciales detectadas. Estudio de        farmacovigilancia en pacientes con infección por VIH/SIDA. Hospital San Juan de Dios,        enero-diciembre de 2012. (n: 9)
+
+
+
+ 
+
+• De los problemas asociados    a la necesidad (PRM necesidad), destaca 44,9% (n: 31) generado por necesidad    de inicio precoz de tratamiento anti-retroviral, 15,9% (n: 11) inicio de    profilaxis para PCP y 11,6% (n: 8) por necesidad de transfusión de eritrocitos    por anemia, entre otros.
+
+Finalmente, se observó    que existe una relación entre el número de PRM y ciertas variables:
+
+• Unidad de ingreso:    Los pacientes que ingresan a una unidad de medicina agudo poseen 63% menos riesgo    de presentar un PRM adicional comparado con aquellos que ingresan a una UPC    según el análisis univariado y 54% menos riesgo en el análisis    multivariado.
+
+• Número de fármacos:    En el análisis multivariado los pacientes que reciben entre cuatro y seis fármacos    concomitantes tienen 2,7 veces más riesgo de presentar un PRM adicional    en comparación a aquellos que reciben como máximo tres fármacos,    riesgo que aumenta hasta 5,5 veces si éste recibe más de seis    fármacos en forma concomitante.
+
+• Edad y sexo: No    se logró establecer diferencia estadística significativa en los    modelos.
+
+Discusión
+
+En la caracterización    demográfica predominó el sexo masculino (79%), lo que concuerda    con lo informado en la literatura médica2. Por otra parte,    la mediana de linfocitos T CD4+ observada, de 29 céls/mm3,    presenta diferencia significativa con lo informado en la Cohorte Chilena de    SIDA del año 2007; al respecto, los pacientes de nuestro estudio representan    a aquellos que son diagnosticados en un ambiente hospitalario y no el universo    (ambulatorios + hospitalizados) como es informado en la evaluación nacional2.    Así, 47% correspondían a pacientes que se diagnosticaron en el    debut de su enfermedad. Estos datos sugieren que a pesar de todos los esfuerzos    por difusión y promoción de la prevención y diagnóstico    precoz del VIH/SIDA, sigue realizándose el diagnostico en etapas tardías    de la enfermedad.
+
+Mayores y mejores estrategias    para evitar "oportunidades perdidas" en el diagnóstico, tal como: ofrecimiento    de la prueba de VIH en pacientes con o sin sospecha y concientizar tanto a la    comunidad médica como a la población general de las características    clínicas-epidemiológica del VIH/SIDA, deben ser consideradas    como posibles políticas públicas para reducir el ingreso de pacientes con inmunosupresión    intensa e infecciones oportunistas.
+
+Se detectaron 296 PRM, de los    cuales 132 correspondieron a PRM reales relacionados con la seguridad. Este    valor es alto y puede ser causa de que la mayor cantidad de PRM en pacientes    con infección por VIH, es atribuida a RAM e interacciones3-7.    Sin embargo, no es posible comparar los datos entregados por este estudio con    otras fuentes, ya que no existen reportes referentes a la incidencia de PRM    en paciente seropositivos para VIH. Los datos entregados en la literatura médica    indican el porcentaje de cada subtipo de PRM, o bien los analizan por separado,    es decir, los estudian como reacciones adversas, interacciones, errores de prescripción,    etc.; no los engloban en un concepto común. Una revisión reciente    observó un bajo número de artículos científicos    vinculados a estudios prospectivos y observacionales, dejando de manifiesto    la necesidad de poner mayor atención en la identificación y determinación    con precisión de los problemas asociados a los medicamentos8.
+
+Los PRM son frecuentes en pacientes    bajo tratamiento anti-retroviral, encontrándose en el ámbito    ambulatorio problemas asociados a la adherencia al tratamiento y seguridad,    vinculados al tratamiento anti-retroviral (interacciones, impacto metabólico)9-10.    Esto difiere en el ambiente hospitalario donde los problemas se centran principalmente    en la seguridad del tratamiento, tales como la tolerancia y seguridad de la    terapia antiretroviral, la complejidad    añadida por otros tratamientos concomitantes y las interacciones entre    fármacos6-7,11. Algunos estudios reportan una alta prevalencia    de las interacciones farmacológicas como principal causa de errores de    medicación y PRM en pacientes con infección por VIH, con porcentajes    que oscilan entre 21,77 y 80%8,12.
+
+Con referencia a los efectos    adversos pesquisados en este estudio, la reacción adversa más    frecuente fue hematológica. Del total de RAM hematológicas, 13,8    y 3,2% de los pacientes presentaron leucopenia con el uso de ganciclovir parenteral    y zidovudina, respectivamente, y algún grado de anemia en 2,1 y 7,4%    de ellos. Si bien la anemia es una complicación común y seria    de la infección por VIH y de su tratamiento, sus causas suelen ser multifactoriales    (inmunológicas, virológicas y características propias de    los pacientes); su incidencia en pacientes infectados por VIH al momento de    su admisión en el centro hospitalario varía de 63 a 95%13-15.    Otros estudios han publicado una incidencia de anemia asociada a AZT que oscilan    entre 10 y 35% 17-20, en nuestro estudio hemos encontrado una    baja incidencia de anemia asociada a este fármaco; sin embargo, la mayoría    de los pacientes que ingresa a hospitalizarse, como los estudios señalan,    lo hacen con una anemia de base que repercute en preferir como base del tratamiento    anti-retroviral análogos nucleosídicos con menor riesgo    de toxicidad hematológica como abacavir o tenofovir.
+
+En este estudio no se detectaron    errores de medicación en la prescripción de anti-retrovirales.    La presencia de subespecialistas y la asignación de la prescripción    de estos fármacos a infectólogos, reduce la incidencia de una    inadecuada prescripción. Nuestro centro de estudio es un hospital de    alta complejidad que cuenta con dotación de subespecialistas para el    manejo y control de pacientes infectados por VIH/SIDA. No obstante, en otros    países y en algunas otras ciudades chilenas la prescripción de    esta familia terapéutica recae en manos de médicos no subespecialistas,    encontrándose en variadas publicaciones que los errores de medicación    suelen ser frecuentes en pacientes hospitalizados -hasta 35% de errores-,    entre ellos el más común es la omisión (65%); otros son    dosis insuficiente, sobredosis, duplicación de terapia, programación    incorrecta y/o terapia inadecua-da21-22. Si bien se señala    que los errores son subsanados rápidamente durante las primeras 48 h    de la admisión, se requieren intervenciones para proteger a los pacientes    y prevenir complicaciones derivadas de los errores de medicación asociados    a los anti-retrovirales23.
+
+Con respecto a las interacciones    detectadas, algunos estudios les asignan una gran importancia debido a que reportan    una alta prevalencia de ellas, como también por la gravedad que revisten24-27.    Si bien en nuestro estudio hemos observado una baja prevalencia de interacciones    potenciales y reales, la integración de un químico farmacéutico    al equipo médico tratante y en rondas clínicas, puede optimizar    la farmacoterapia permitiendo disminuir y/o evitar la aparición de éstas,    antes de la prescripción de los fármacos.
+
+En nuestro análisis, un    tercio de los PRM detectados corresponden al grupo de pacientes admitidos en    una UPC; creemos que es importante ahondar más en futuros trabajos en    este grupo de pacientes donde el número de eventos adversos, interacciones    y problemas de efectividad puede resultar mayores, debido a las alteraciones    de las propiedades farmacocinéticas y/o farmacodinámicas de los    fármacos sumando a esto, las características fisiopatológicas    de los pacientes críticos.
+
+Tanto en el análisis univariado    como en el multivariado, el aumentar el número de fármacos    utilizados y el ingreso a UPC presentaron una asociación con significancia    estadística a favor del aumento de riesgo de presentar un PRM adicional.    Una mayor prescripción de fármacos podría aumentar la complejidad    de la posología, incrementando la probabilidad de desarrollar una interacción    farmacológica y/o aumentar la complejidad del tratamiento de una patología    concomitante (tuberculosis, meningitis criptocóccica). Por otro lado,    la complejidad de la unidad de ingreso juega un rol importante. Una UPC atiende    pacientes que pueden cursar descompensaciones orgánicas e hidroelectrolíticas    importantes, además de requerir el uso    de procedimientos invasores y fármacos vasoactivos que aumentan la complejidad    del manejo farmacoterapeutico de dicho paciente.
+
+Conclusiones
+
+Los pacientes con infección    por VIH/SIDA internados presentan problemas asociados al uso de medicamentos,    ya sea por necesidad, toxicidad o eficacia de los tratamiento recibidos.
+
+Al relacionar el número    de PRM con ciertas variables, se observaron factores que aumentan el riesgo    de presentar un PRM. En este análisis, los pacientes que poseían    entre cuatro y seis o más de seis prescripciones tuvieron hasta 5,5 veces    más riesgo de desarrollar un PRM adicional, en comparación a aquellos    que poseían como máximo tres fármacos. Por otra parte,    el ingresar a una unidad de agudos o neurológica redujo en aproximadamente    50% (0,46 y 0,54 RTi, respectivamente) el riesgo de presentar un PRM adicional    en comparación a una UPC.
+
+La integración del químico    farmacéutico al equipo de trabajo en labores clínicas, permite    optimizar la farmacoterapia, identificando en forma precoz los problemas relacionados    a medicamentos.

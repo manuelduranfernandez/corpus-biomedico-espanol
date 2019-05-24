@@ -1,0 +1,114 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000600634
+Evaluación de la densidad mineral ósea en niños con infección vertical por VIH
+
+Introducción
+
+La terapia anti-retroviral de gran actividad (TARGA) mejora la supervivencia y el crecimiento de los niños con infección por el virus de inmunodeficiencia humana (VIH). Sin embargo, su uso puede estar asociado a cambios adversos en la composición corporal, el metabolismo y la mineralización ósea1.
+
+En adultos se ha observado que la disminución de la densidad mineral ósea (DMO) es más común en los pacientes con infección por VIH que en la población general, lo que hace que este grupo sea más susceptible a fracturas2. Paccout y cols.3, en un meta-análisis, encontraron una prevalencia de 15% de osteoporosis y 52% de osteopenia en adultos infectados por el VIH. En los niños con con esta infección, existen pocos estudios que evalúen la DMO y no hay datos chilenos1,4–6.
+
+Los mecanismos sugeridos para el desarrollo del compromiso óseo son la existencia de una inflamación crónica, viremia incontrolada, la promoción de la apoptosis osteoblástica y la proliferación de los osteoclastos producidos por la enfermedad y anti-retrovirales (ARV) usados7, la deficiencia de vitamina D (principalmente en pacientes con infección perinatal por VIH)2, toxicidad mitocondrial8, pérdida de peso, retraso del crecimiento9 y pubertad tardía10.
+
+Durante la infancia y la adolescencia, la masa ósea aumenta junto al crecimiento longitudinal y los cambios en el tamaño y la forma del esqueleto. A los 18 años de edad, se alcanza al menos 90% de la masa ósea máxima y al final de la tercera década de vida, la adquisición es completa11. Teniendo en cuenta que la masa ósea es un importante predictor de fracturas y osteoporosis en la vida adulta, es muy importante lograr una masa ósea adecuada antes de llegar a la edad adulta.
+
+Objetivo
+
+Evaluar la DMO de pacientes pediátricos con infección vertical por VIH y su relación con factores de riesgo (TARGA, el estado inmunológico, la etapa de la enfermedad, las concentraciones plasmáticas de vitamina D en sangre y la ingesta de calcio).
+
+Materiales y Métodos
+
+Sujetos de estudio
+
+Los participantes del estudio fueron 53 niños y adolescentes con infección por VIH adquirida por transmisión vertical, de ambos sexos, con edades comprendidas entre 8 y 18 años, en control en cinco hospitales pediátricos de Santiago de Chile. Los criterios de exclusión fueron: enfermedades que podrían afectar la masa ósea, tales como trastornos endocrinos, insuficiencia renal o hepática y uso de medicamentos como corticosteroides o anticonvulsivantes.
+
+Parámetros a evaluar
+
+A partir de los registros médicos se recopiló información sobre la edad, la etapa clínica de los pacientes según el Centro para el Control y Prevención de Enfermedades (CDC)12, la duración de la enfermedad, inicio de TARGA, la carga viral (copias ARN/ml), concentración de linfocitos T CD4 (céls/mm3) y su porcentaje, concentración plasmática de 25-hidroxivitamina D, fosfatasa alcalina, calcio y fósforo. La deficiencia de vitamina D se definió como una concentración < 20 ng/ml.
+
+La antropometría se realizó el mismo día que la densitometría ósea (DEXA). El peso se midió con ropa interior en una balanza Secca digital (sensibilidad 10 g y capacidad: 200 kg) y la talla en un estadiómetro (sensibilidad: 1 mm). Se determinó el índice de masa corporal (IMC) para cada sujeto dividiendo el peso en kilogramos por la estatura al cuadrado (kg/m2).
+
+Los niños fueron evaluados nutricionalmente por z-score de IMC de acuerdo con las tablas OMS/FAO13. Se consideró eutrófico un IMC entre −0,9 y + 0,9 DE, sobrepeso entre ≥ +1 y < +1,9DE, obeso ≥ +2DE, riesgo desnutrir ≤ −1 y > −1,9DE y desnutrición ≤ −2DE. Talla baja se definió como T/E ≤ −2DE.
+
+Densidad mineral ósea
+
+La DMO de cuerpo total se midió por densitómetro DEXA Lunar Prodigy. Todos los participantes se evaluaron según protocolos estándar en el mismo equipo calibrado cada dos días. Se examinó la columna lumbar (L1-L4) y el cuello femoral. El contenido mineral óseo (CMO) se informó en gramos, mientras que la DMO (excluyendo la cabeza) en g/cm2 y puntajes z. Las puntuaciones z de DMO se basaron en National Health y Nutrition Examination Survey III14 ajustado por edad y sexo. Se consideró normal una puntuación z > -IDE.
+
+Encuesta nutricional
+
+Se realizó registro de ingesta por medio de recordatorio de 24 h repetido tres veces (dos días de semana y un día de fin de semana). Se obtuvieron así las cantidades diarias ingeridas (en gramos); posteriormente a eso, se cuantifican nutrientes, con el programa Food processor SQL. Se calculó el porcentaje de adecuación dietaria recomendado por la ingesta dietaria de referencia (RDI)15 para cada uno de los nutrientes. El uso de multivitamínicos también fue registrado.
+
+Análisis estadístico
+
+Los datos se expresaron como promedio y desviación estándar o mediana y rangos según la distribución de las variables cuantitativas evaluada en forma gráfica con gráficos de densidad de Kernell y la prueba de Shapiro-Wilks. Para evaluar las diferencias entre grupos se usaron el test Mann-Whitney o el test t-Student según la distribución de la variable, y la prueba de χ2. Se estudió la correlación entre variables mediante la correlación de Pearson o Spearman según distribución.
+
+Finalmente, se realizaron modelos de regresión lineal considerando como variable respuesta la DMO y la asociación principal con los tipos de terapia antiretroviral (TARV) (en años de tratamiento con el medicamento X). En una primera instancia se estudiaron aquellas variables que podrían explicar la DMO, mediante una estrategia backward obteniendo de esta forma un modelo basal con las variables cuyo valor p fuera menor que 0,2. Luego, se estimó la asociación bivariada entre la DMO y los diferentes tratamientos; y en última instancia se ajustó este modelo con las variables obtenidas en el modelo basal, considerándose estadísticamente significativo un p < 0,05. Para los análisis se utilizó el programa Stata SE 11.2.
+
+Aspectos éticos
+
+Previo al inicio del estudio se obtuvo el consentimiento informado por escrito de los padres o sus cuidadores. El estudio fue aprobado por el Comité de Ética del Servicio Metropolitano de Salud Norte.
+
+Resultados
+
+Se estudiaron 53 niños infectados verticalmente por el VIH, con mediana de edad 13,6 años (8-18,5) de quienes 54,7% eran mujeres. Del total, 32,1% se encontraban con sobrepeso u obesidad, sólo 11,3% en riesgo a desnutrir y 18,9% tenía talla baja (Tabla 1). No se encontraron diferencias significativas entre hombres y mujeres al analizar las variables antropométricas (Tabla 1).
+
+Tabla 1 Características de los pacientes infectados por el VIH, tratamientos utilizados y severidad de la enfermedad 
+
+T/E, Talla/edad; TARV, terapia antiretroviral; PI, inhibidores de las proteasas; NRTI, nucleósidos inhibidores de transcriptasa reversa; NNRTI, no nucleósidos inhibidores de la transcriptasa reversa; CDC, Centros para el Control de Enfermedades;
+
+*Test Mann-Whitney;
+
+**Test chicuadrado.
+
+La mayoría de los pacientes estaba en etapas avanzadas de la enfermedad (89% B y C) al momento del estudio, principalmente en el grupo de las mujeres (93,1% etapas B y C). En general, los pacientes se encontraban con un buen estado inmunológico y virológico. La mayoría presentaba una ausencia o moderada presencia de inmunosupresión (≈ 90% del grupo) y una carga viral indetectable (58%) (Tabla 1).
+
+El tiempo de uso de TARGA fue de 9,3 ± 4,6 años, sin diferencia entre sexos. El promedio de tiempo de uso fue mayor en el caso de los inhibidores nucleósidos de la transcriptasa reversa (INTR) y menor en el de los inhibidores de las proteasas (IP) (Tabla 1). El 85% de los pacientes recibió INTR; los más comúnmente utilizados fueron lamivudina (83%) y zidovudina (72%). El fumarato de disoproxilo de tenofovir (TDF) se usó sólo en 5,6% de los pacientes. Setenta y cuatro por ciento de los niños usó inhibidores no nucleósidos de la transcriptasa reversa (INNTR) siendo efavirenz el más frecuente (49%) y luego nevirapina (32%). Los IP se usaron en 53% de los pacientes, siendo la más frecuente combinación lopinavir/ritonavir (LOP/rtv) (43,3%).
+
+En cuanto al consumo de macronutrientes, 46% de los pacientes cumplía más de 90% de las recomendaciones para calorías de la RDI15 y 100% cumplía los requerimientos de proteínas. La ingesta de calcio fue baja, sólo 11% de los individuos consumía más de 90% de las RDI y nadie cumplía las recomendaciones de consumo de vitamina D. Además, se observó que 33,3% de los niños presentaban deficiencia en las concentraciones plasmáticas de vitamina D (menor a 20 ng/ml) (Tabla 2).
+
+Tabla 2 Valores de densitometría, niveles plasmáticos e ingesta de los pacientes infectados por el VIH 
+
+DMO, densitometría ósea; CMO, contenido mineral óseo; RDI, ingesta dietaria de referencia
+
+*Test Mann-Whitney;
+
+**Test chi-cuadrado.
+
+Al analizar los resultados de la DMO no hubo diferencias entre sexos en cuanto al compromiso ni en la columna, cadera ni cuerpo total (Tabla 2). El porcentaje de pacientes con DMO ≤ −2 SD en columna, cadera y cuerpo entero fue de 11,5%, 5,8% y 3,8% respectivamente, siendo la columna la más comprometida (Tabla 2).
+
+Al comparar a los pacientes según estado nutricional (riesgo a desnutrir versus normo o sobrepeso) no se observó diferencia significativa ni en DMO ni contenido mineral óseo en la columna ni la cadera. Cuando se comparó la TARV, se observó que los individuos que usaron IP presentaron una significativa menor DMO en cadera, fémur y cuerpo entero en comparación con el grupo que no los utilizó (p < 0,01).
+
+Se observó correlación entre DMO y variables como z IMC, z T/E, gravedad de la enfermedad, años de tratamiento, TARGA usada y calcio plasmático.
+
+En la construcción del modelo basal se probaron todas las variables que pudieran estar asociadas al z DMO de cadera, columna y cuerpo total, quedando finalmente determinado por las variables, z T/E, z IMC, clasificación actual de la enfermedad, masa magra/talla, masa magra de extremidades/talla y calcio plasmático. En el análisis bivariado con los tratamientos usados se observó que los IP tenían una asociación negativa sobre DMO de columna, cadera y cuerpo entero y los INTR influían sólo en la DMO de la columna. Al introducir el modelo basal se observó que todos los tratamientos perdieron significancia excepto los IP (Tabla 3).
+
+Tabla 3 Resultados de modelo bivariado para los tratamientos antirretrovirales y modelo final ajustado con las variables obtenidas a través del modelo basal 
+
+DMO, densitometría ósea; B, modelos basal, z T/E + z IMC + clasificación actual de la enfermedad + masa magra/talla + masa magra de extremidades/talla + calcio plasmático; ME, músculo de extremidades; R2, R cuadrado o coeficiente de determinación; IP, inhibidores de las proteasas; NRTI, nucleósidos de la transcriptasa reversa; NNRTI, no nucleósidos de la transcriptasa reversa; R2 aj, R2 ajustado para el número de predictores en el modelo;
+
+*Variables con p < 0,2 con estrategia backward.
+
+Discusión
+
+El principal hallazgo de este estudio fue que los niños y adolescentes con infección vertical por VIH presentaron un compromiso de la DMO si se comparan con los datos obtenidos de sujetos sanos de la misma edad cronológica del NHANES III14 y que los IP, son el único TARV que mantiene una asociación con DMO, al ajustar por variables del modelo basal. Estos hallazgos ya han sido documentados en otros estudios en niños infectados a nivel mundial4,6,15,16,18. Sin embargo, es difícil comparar resultados entre estudios ya que hay diferencias en los densitómetros usados, poblaciones de referencia, gravedad de la enfermedad y uso de TARV.
+
+Lamentablemente no tenemos tablas de referencia de DMO para niños sanos en nuestro país; el único estudio chileno fue el de Blanco y cols.19 que estudio la DMO en adolescentes de 16-17 años sanos donde 21% de los adolescentes presentó una DMO de cuerpo total bajo −1DE y las mujeres tenían mayor compromiso óseo.
+
+Dos de los pacientes (4,6%) habían presentado fracturas durante la evolución de la enfermedad, uno presentó fractura en una pierna y antebrazo en distinto período y otro paciente en una pierna. En el análisis actual ambos presentaron una DMO baja de columna, cadera (-2,5 −2,1 y −1,2 −1,4, respectivamente) y el paciente con antecedentes de más de una fractura tenía además compromiso del cuerpo entero (DMO −2). Este último paciente cumpliría con los requisitos de osteoporosis dados por ISCD 2013 para diagnosticar esta enfermedad en niños20. En adultos existen bastantes antecedentes que demuestran el mayor riesgo de fracturas en pacientes con infección por VIH2,3; en niños, sin embargo, la información es menor. Siberry y cols.21, en un estudio multicéntrico, prospectivo, entre los años 2004 y 2007, no encontraron una mayor incidencia de fracturas en niños con infección por VIH en comparación con niños expuestos al VIH pero no infectados. Estos resultados fueron luego comparados con la incidencia de fracturas en un segundo estudio realizado entre los años 2008 y 201422. En éste, los autores sí observaron un mayor riesgo de fracturas comparado con el primer estudio, incluso después de ajustar por edad, sugiriendo que el riesgo de fracturas podría estar incrementado también en los niños.
+
+El compromiso óseo secundario a esta enfermedad y la TARV usada afectan toda la composición del hueso. Yin y cols.23, en adultos jóvenes infectados verticalmente o en la adolescencia temprana, encontraron que no sólo impide alcanzar la masa ósea máxima, sino que además adelgaza el hueso cortical y la microestructura ósea trabecular es anormal, lo que provoca una resistencia ósea reducida. Estudios en animales e in vitro han sugerido que estas alteraciones en la estructura son múltiples y podrían deberse a un aumento de la actividad de los osteoclastos por incremento del receptor del factor NF kB, aumento de la remodelación ósea asociado a la producción de IL624,25, disminución de la diferenciación a osteoblastos desde la célula stem cell mesenquimática, junto a una disminución de los factores de transcripción de los osteoblastos y de IGF-1 producido por la interferencia de proteínas específicas del virus25.
+
+Al evaluar los factores asociados a una menor DMO, se observó una asociación negativa con el zT/E, tiempo y gravedad de la enfermedad. Este hallazgo ya ha sido descrito en diversas poblaciones4,25 y se debería al efecto de la enfermedad y TARV sobre el metabolismo óseo por mecanismos antes descritos, lo que irían progresando en el tiempo.
+
+La carga viral y el estado inmunológico actual no se asociaron a los cambios de DMO. Estos índices cambian rápidamente dependiendo del tratamiento, mientras que los cambios en el hueso son más lentos y requieren meses para ser detectados26.
+
+Los años con TARGA muestran una asociación negativa con la DMO. En adultos la iniciación del TARV está asociada con una pérdida de 2 a 6% de la DMO en las primeras 96 semanas de tratamiento27 y tienen dos a cuatro veces más riesgo de osteoporosis que los pacientes expuestos al VIH, pero no infectados28. En este estudio, si bien los años de TARV tienen un efecto deletéreo sobre la DMO, son los IP los que causan mayor repercusión, concordando con otros estudios en población infantil4,6,16,17. En la población estudiada, 53% de los pacientes recibió un IP dentro de su tratamiento, siendo LOP/rtv el más frecuentemente usado. Ritonavir altera la expresión génica, la cual induciría una actividad inflamatoria local con la consecuente reducción en la actividad de los osteoblastos18 y la exposición a la asociación de LOP/rtv produce además una disminución en la actividad de las fosfatasas alcalinas de los osteoblatos, así como una disminución en los depósitos de calcio y un aumento en la actividad osteoclástica2. Por otro lado, 12% de los pacientes que recibieron LOP/rtv recibieron además stavudina y 10% tenofovir, los que se consideran moduladores de la disminución de la masa ósea2 lo que aumentaría más el riesgo.
+
+No se observó correlación entre las concentraciones plasmáticas de vitamina D y la DMO, probablemente porque fue sólo una medida en el tiempo y ésta no da información sobre las concentraciones plasmáticas promedio que han tenido los pacientes durante su enfermedad. Es relevante que 33% de estos niños y adolescentes presentan concentraciones plasmáticas de vitamina D inferiores a 20 ng/dl. Estudios en distintas poblaciones con infección por VIH han reportado altas tasas de deficiencia de esta vitamina, que van de 23 a 92%1,2,29,30. Pérez y cols.31, en población de hombres chilenos infectados, encontraron concentraciones plasmáticas bajas de esta vitamina en 94% de los pacientes. Ellos plantean que la alta deficiencia en estos pacientes podría deberse a una alteración de 1α-hidroxilación que disminuye la producción y acción del metabolito activo de la vitamina D, a pesar de concentraciones plasmáticas de vitamina D normales y a que algunos ARV, tales como IP y efavirenz, suprimen la actividad de 25 y 1α-hidroxilasa o activan la destrucción de 25-OHD y 1,25-hidroxivitamina D332. Este es un hallazgo que debe considerarse ya que la deficiencia de vitamina D no sólo se ha asociado a una menor DMO en estos pacientes, sino que también se ha asociado a una progresión de la enfermedad, falla del TARV y muerte33.
+
+Asociado a lo anterior, si bien no se encontró asociación entre el consumo de calcio y vitamina D con DMO, Overtone y cols.34, demostraron que la suplementación de calcio y vitamina D en el primer año después de iniciado la TARV minimizó la pérdida de DMO. En nuestro estudio, sólo 11% de los niños cumplen con más de 90% de las recomendaciones de consumo de calcio según edad y nadie cubre los requerimientos de vitamina D. Esto no se diferencia de lo que ocurre en el país, donde, salvo los menores de 4 años, más de 90% de los sujetos de todas las edades, no alcanzan a ingerir los requerimientos de estos nutrientes35.
+
+Este estudio tiene limitaciones. Primero, es un estudio transversal y, por lo tanto, incapaz de evaluar el cambio de la masa ósea durante el período de tratamiento. Por consiguiente, se hace necesario un estudio longitudinal prospectivo para ver los cambios en el tiempo. Segundo, muchos adolescentes han recibido varios esquemas de TARV durante su enfermedad, por lo que nuestra capacidad para evaluar el impacto de los medicamentos específicos fue limitada, si bien pudimos determinar que hubo una asociación entre las distintas familias de ARV y DMO. En tercer lugar, hay variables importantes que afectan el compromiso óseo que no se midieron en este estudio, como el desarrollo puberal y cuantía de ejercicio. Durante la adolescencia, las hormonas sexuales interfieren en la antropometría y composición corporal y aumentan directamente la masa ósea. La infección por VIH/SIDA es una enfermedad crónica en que el retraso en el desarrollo puberal puede ocurrir con frecuencia, por lo que la edad cronológica puede ser mayor que la edad biológica y se hace necesario no sólo comparar por edad a los pacientes sino además, por estadio puberal36,37. Por otro lado, la actividad física es un factor ambiental importante que influye positivamente en la acumulación de masa ósea, principalmente durante la pubertad38. Otro de los puntos a considerar dentro de estas limitaciones es el hecho que 18% de nuestra población presentaba talla baja y se sabe que el DEXA no es el mejor método para evaluar DMO en estos pacientes ya que determina la cantidad de hueso dividida por el área de estudio; de esta manera, también se toma en cuenta el espesor y tamaño del hueso, lo que llevaría a que pacientes con talla baja tengan valores de densitometría baja siendo realmente normal. En estos pacientes estaría indicada la densitometría volumétrica, ya que, a diferencia del método anterior, determina la masa ósea que está contenida en un determinado quantum de volumen de hueso y no se ve influenciada por el tamaño del hueso39. Sin embargo, esta técnica está poco disponible en Chile, su costo es mayor y produce mayor irradiación que el DEXA tradicional39.
+
+En conclusión, este estudio muestra que los niños y adolescentes con infección por VIH tendrían una DMO más baja por edad en comparación con los datos de NHANES III. La gravedad de la enfermedad, el compromiso de la talla, z IMC, los años de TARV, principalmente el uso de IP, están relacionados con este problema. Estudios han demostrado que estos pacientes, en la edad adulta, tienen más riesgo de osteoporosis y fracturas por lo que en la niñez es necesario tratar de obtener la máxima masa ósea. Para esto, es necesario constituir un equipo multidisciplinario de profesionales (infectólogo, pediatra y/o nutriólogo, nutricionista, endocrinólogo, enfermera, asistente social, etc) que realicen controles frecuentes según edad (lactantes mensualmente y en pacientes mayores, según evolución), que aseguren un estado nutricional adecuado a lo largo de toda la enfermedad, un control estricto de las consecuencias de TARV, estimular la realización de mayor actividad física (deportes, horas de juego al aire libre, evitar el uso de pantallas) y la ingesta adecuada de calcio y vitamina D. En este último punto, recomendamos que estos pacientes se controlen con concentraciones plasmáticas de 25 hidroxi-vitamina D al menos una vez al año para identificar y tratar a pacientes con deficiencia. Está pendiente evaluar cuál es el rango más adecuado de vitamina D para estos pacientes y si es necesaria la suplementación.
+
+Fuente de financiamiento: código del proyecto FAI MED-002-12.

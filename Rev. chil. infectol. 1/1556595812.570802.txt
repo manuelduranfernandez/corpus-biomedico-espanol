@@ -1,0 +1,118 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000300233
+Epidemiología y factores de riesgo de internación prolongada en niños con leucemia y bacteriemia. Estudio de cohorte
+
+Introducción
+
+Las enfermedades oncológicas constituyen una de las causas más importantes de muerte en niños de países en desarrollo. En Argentina, según estadísticas del Ministerio de Salud, el cáncer representó la principal causa de muerte en los niños sobre un año de edad para el año 20151.
+
+La leucemia linfoblástica aguda (LLA) y leucemia mieloblástica aguda (LMA) constituyen las enfermedades oncológicas más frecuente en niños, seguida de los tumores de sistema nervioso central (SNC) y los linfomas2.
+
+El cáncer y la toxicidad del tratamiento sobre la médula ósea y las mucosas predisponen al paciente a presentar complicaciones infecciosas que generan gran morbimortalidad en estos pacientes3.
+
+La bacteriemia constituye una complicacion frecuente en los niños con cáncer, la que se asocia a mayor gravedad, internación prolongada y mortalidad4.
+
+La internación prolongada condiciona mayor morbilidad y riesgo de adquisición de infecciones nosocomiales por lo que otros autores han estudiado factores asociados a prolongación de la internación en los pacientes con cáncer5,6.
+
+Se realiza este estudio de cohorte para evaluar la epidemiología de los episodios de bacteriemia en los niños con leucemia y hemocultivos positivos e identificar los factores asociados a prolongación de la internación.
+
+Material y Métodos
+
+Se realizó un estudio de cohorte retrospectivo.
+
+El Hospital de Pediatría Profesor Dr. Juan P Garrahan (HPDJPG) es un centro de atención de tercer nivel, cuenta con más de 600 camas de internación, cuatro unidades de cuidados intensivos (UCI), una unidad de cuidados intensivos neonatales y una unidad de trasplante de células progenitoras hematopoyéticas. Se internan niños desde el área de emergencias y consultorios externos donde los pacientes consultan en forma espontánea o derivados de otras instituciones de todo el país. Se atienden en este centro aproximadamente un tercio de los niños con cáncer de la Argentina.
+
+A partir de la base de datos del laboratorio de microbiología del hospital se identificaron los niños con hemocultivos positivos y diagnóstico de leucemia. Se incluyeron todos los niños bajo 16 años de edad, con diagnóstico de LLA o LMA internados en el HPDJPG entre 1 de enero de 2015 y el 31 de diciembre de 2016 con hemocultivos positivos. Se excluyeron los pacientes con microorganismos en hemocultivos considerados contaminantes (por ejemplo Staphylococcus coagulasa negativa, Micrococcus sp, Corynebacterium sp no asociado a catéter) y los pacientes con diagnóstico inicial de leucemia aguda pero que en el momento de la bacteriemia hubieran recibido un trasplante de precursores hematopoyéticos. No se incluyeron en el análisis los pacientes que fallecieron antes de las dos semanas de internación para evitar sesgos en los resultados y conclusiones.
+
+Los hemocultivos fueron procesados mediante el sistema automatizado Bact/Alert 3D y posteriormente tipificados mediante pruebas microbiológicas convencionales y automatizadas, siguiendo los protocolos de trabajo vigentes en el laboratorio de microbiología. Ante el cultivo positivo en BactAlert, se realizó la caracterización morfológica mediante tinción de Gram, identificación por MALDI-TOF (Vitek MS) y sensibilidad por Vitek 2 Compact. La sensibilidad antimicrobiana se interpretó según las guías CLSI7.
+
+En todos los casos se realizó estudio para la detección de virus respiratorios en secreciones nasofaríngeas. Se realizó inmunofluorescencia indirecta para detección de virus respiratorio sincicial, adenovirus, virus parainfluenza 1,2 y 3, influenza A y B y reacción de polimerasa en cadena (RPC) para influenza A y B y adenovirus.
+
+A partir de la revisión de las historias clínicas informatizadas, se registraron en una base de datos las antecedentes demográficos (sexo, edad, lugar de origen), epidemiológicos (antecedentes de colonización con algún microorganismo multi-resistente), catéter venoso central (CVC) o periférico, internación y características de la internación, uso previo de antimicrobianos, tipo y duración de los antimicrobianos recibidos, quimioterapia recibida en los últimos 30 días, fármaco quimioterápico utilizado, dosis y tiempo transcurrido hasta la bacteriemia, características clínicas (tipo de leucemia, estadio de la enfermedad, recaída o no, motivo de internación, foco clínico de infección al ingreso y en el momento de la bacteriemia, insuficiencia renal, insuficiencia hepática, coagulopatía co-existentes, identificación de co-infecciones virales en el momento de la bacteriemia, recuento absoluto de neutrofilos al momento de la bacteriemia, días de duración de la neutropenia) y evolutivas de los pacientes (duración de la internación, duración de los antimicrobianos, requerimientos de cuidados intensivos, cura o recaída microbiológica).
+
+Se compararon las características de los pacientes con internaciones de menor o mayor de 14 días. Se estimaron las frecuencias y porcentajes de las variables categóricas y la mediana y rango intercuartilo (RIC) de las continuas. Se realizó un análisis bivariado utilizando según la distribución de las variables test de t o de Wilcoxon Ranksumm para las variables continuas, y test de χ2 para las categóricas. Se construyó un modelo de regresión logística con las variables clínicamente significativas y las que presentaran significancia estadística en el análisis bivariado. La fuerza de la asociación se estimó con odds ratio (OR), su intervalo de confianza de 95% (IC95%) y valor de p. Se consideró estadísticamente significativo con p < 0,05. Se utilizó Stata 13.
+
+El estudio fue aprobado por el Comité de Investigación del hospital.
+
+Definiciones
+
+Neutropenia: recuento absoluto de neutrófilos (RAN) < 500 células/mm3.
+
+Neutropenia profunda: RAN < 100 células/mm3.
+
+Multi-resistencia: resistencia comprobada al menos a dos grupos de antimicrobianos además de las resistencias naturales de la bacteria en estudio.
+
+Resultados
+
+Se incluyeron 121 pacientes. Eran varones 62 (51%) y la mediana de edad fue 59 meses (RIC 35-79). Veinticinco eran mayores de 12 años (21%).
+
+La enfermedad de base fue LLA en 81 pacientes (67%) y LMA en 40 (33%). Tenían catéter de larga permanencia en el momento de la bacteriemia 96 niños (79%), neutropenia 94 (78%), neutropenia grave 79 (65%). La mediana de días transcurridos desde el inicio de la última quimioterapia hasta el momento de la bacteriemia fue de 11 días (RIC 5-13). La mediana de duración de la internación en todos los pacientes incluidos fue de 16 días (RIC 11-30).
+
+Presentaban algún foco clínico de infección en el momento de la bacteriemia 63 pacientes (52%); 35 (29%) fueron bacteriemias asociadas a catéter. Se consideró bacteriemia primaria en 23 niños (19%) (Tabla 1).
+
+Tabla 1 Caracterísiticas demográficas y clínicas de 121 niños con leucemia y bacteriemia 
+
+aRIC: rango intercuartilo.
+
+bCVC: catéter venoso central.
+
+En esta cohorte de pacientes con leucemia y hemocultivos positivos, se identificaron en 55 casos (45%) enterobacterias, 28 (23%) Staphylococcus coagulasa negativa, 19 (16%) Streptococcus spp. grupo viridans, ocho (7%) Pseudomonas aeruginosa y otros 11 (9%).
+
+Se identificaron 8 pacientes (7%) con bacilos gramnegativos productores de β-lactamasas de espectro extendido (BLEE) y en seis casos (5%) bacterias multiresistentes (Figura 1).
+
+Figura 1 Hallazgos micro-biológicos en sangre en 121 pacientes pediátricos con leucemia y bacteriemia. *Otras enterobacterias: Serratia marcescens n: 1, Proteus mirabillis n: 1, Salmonella spp. no typhi n: 1, Aeromonas sobria n: 1, Campylobacter jejuni n: 1. 
+
+Tuvieron co-infección viral dentro de las 48 h de documentación de la bacteriemia 14 pacientes (12%).
+
+La mediana de duración de la fiebre fue de 3 días (RIC 1-5) y de la internación 12 días (RIC 10-14).
+
+La internación fue menor de 14 días en 71 pacientes (59%) e igual o mayor en 50 (41%).
+
+En el análisis bivariado, la neutropenia al ingreso (OR 1,49; IC95% 1,26-1,78; p 0,02), la neutropenia profunda (OR 1,6; IC95% 1,3-1,7; p < 0,01), el tiempo menor de una semana desde el inicio de la última quimioterapia (OR 2,38; IC95% 1,02-5,52; p 0,04), la bacteriemia asociada a catéter (OR 3,51; IC95% 1,54-7,96; p 0,003) y la co-infección viral (OR 3,76; IC95% 1,16-12,11; p 0,027) se asociaron estadísticamente a la internación igual o mayor a 14 días (Tabla 2).
+
+Tabla 2 Características clínicas epidemiológicas y evolutivas de 121 pacientes con leucemia según tuvieran internación menor o mayor/igual a 14 días 
+
+aCVC catéter venoso central.
+
+bUnidad de Cuidados Intensivos.
+
+En el análisis multivariado (Tabla 3), ajustado por la edad mayor a 12 años, neutropenia, tiempo menor a una semana desde el inicio de la ultima quimioterapia, la sepsis y el ingreso a UCI, tuvieron mayor riesgo de presentar una internación igual o mayor a 14 días, los pacientes que presentaron bacteriemia asociada a catéter (OR 21,73; IC95% 1,2-43,20; p 0,04), neutropenia profunda al ingreso (OR 1,75; IC95% 1,82-1,28; p 0,03) y co-infección viral (OR 27,42; IC95% 2,88-260,83; p 0,004).
+
+Tabla 3 Análisis multivariado. Factores de riesgo asociados a internación mayor a 14 días en 121 pacientes pediátricos con leucemia 
+
+Discusión
+
+Las enfermedades oncohematológicas constituyen una de las principales causas de morbi-mortalidad en pediatría. En los últimos años, diversos factores han modificado la epidemiología de las complicaciones en los pacientes oncológicos: aumento en la sobrevida, mayor uso de catéteres de larga permanencia, nuevos tratamientos quimioterápicos con neutropenias más intensas y prolongadas8.
+
+En los niños con cáncer y fiebre, la predicción de la duración de la neutropenia, el estadio de la enfermedad de base, las co-morbilidades asociadas y la presencia de determinados focos clínicos, permiten identificar a aquellos pacientes con mayor riesgo de bacteriemia y mortalidad4,9.
+
+La frecuencia reportada de hemocultivos positivos en niños con cáncer es variable en la literatura científica. Se reporta que hasta 30% de los pacientes internados con neutropenia febril de alto riesgo tendrá hemocultivos positivos10. En un trabajo realizado en el Hospital Garra-han, se reportó 23% de bacteriemia en niños admitidos con neutropenia febril. En esa serie el microorganismo más frecuente fue Staphylococcus coagulasa negativa11.
+
+En el trabajo aquí presentado, las enterobacterias fueron los microorganismos más frecuentemente detectados. En la última década se describe a universalmente un aumento de las infecciones por bacilos gramnegativos, en especial de aquellos con aumento de la resistencia a antimicrobianos. Un estudio multicéntrico realizado en Argentina en adultos con enfermedad oncohematológica concluyó en el predominio de las bacteriemias por bacilos gramnegativos en pacientes con y sin neutropenia12. La frecuencia de presentación de bacilos gramnegativos multi-resistentes es variable segun cada centro. En el estudio presentado las bacterias con resistencia probada a más de dos grupos de antimicrobianos (multi-resistentes) fue sólo de 5%.
+
+La internación prolongada afecta negativamente la calidad de vida de estos pacientes, además de aumentar el riesgo de morbilidad y los costos de la enfermedad oncohematológica13. Es por ello que se consideró como outcome principal en este estudio la internación igual o mayor a 14 días.
+
+La mediana de días de internación en nuestra cohorte fue superior a la reportada en otros estudios que también analizan la duración de la internación en niños con cáncer. Probablemente, la prolongación de la internación esté relacionada con que todos los pacientes incluidos en este estudio tuvieron hemocultivos positivos, representando al grupo de pacientes de mayor gravedad6,14. Un estudio realizado en México en niños con bacteriemia y neutropenia febril reportó una mediana de 19 días de internación, similar a lo reportada en nuestro estudio5.
+
+Basu y cols., evaluaron los factores de riesgo de internación prolongada en niños con enfermedad oncohematológica, e identificaron que los pacientes con LMA y múltiples tumores vs LLA y los que presentaban alguna co-morbilidad al ingreso, tenían mayor riesgo de internación prolongada6. Otro estudio también relacionó la duración de la internación con el tipo de enfermedad de base. Los pacientes con leucemia permanecen más tiempo internados, en especial aquellos con LMA15. Nuestra cohorte estuvo compuesta en su totalidad por niños con LLA y LMA. No se encontró asociación entre el tipo de leucemia y la internación prolongada. Sin embargo, la neutropenia profunda al ingreso, en estrecha relación con el tipo de quimioterapia recibida y la enfermedad subya cente, se asoció con mayor duración de la internación en nuestro estudio.
+
+Las bacteriemias relacionadas a catéter representan una causa importante de morbilidad y mortalidad, posponiendo en algunos casos la realización del tratamiento de la enfermedad de base y prolongando los días de internación16. En la cohorte analizada, se encontró asociación en el modelo multivariado entre la duración de la internación mayor a 14 días y la bacteriemia asociada a CVC.
+
+Varias publicaciones exploran las infecciones por virus respiratorios en niños con cáncer. La frecuencia reportada de identificación de virus respiratorios en niños internados con neutropenia febril es alta17,18. Sin embargo, su rol como factor de mal pronóstico es discutido en la literatura científica. En un estudio publicado en 2016 que incluyó niños con neutropenia febril, se identificó que la infección por virus respiratorios, solos o en co-infección con otros virus no condicionó peor pronóstico19. Durante la pandemia de 2009 se observó mayor morbimortalidad en los pacientes afectados por influenza H1N1 en términos de hipoxemia y requerimientos de ingreso a UCI20. En aquellos pacientes que presentan co-infección bacteriana se observan mayores requerimientos de UCI y valores de proteína C reactiva más elevados que en los que presentan infección virus-virus. En el estudio aquí presentado, la co-infección viral se asoció a la internación prolongada mayor de 14 días.
+
+Entre los niños con leucemia y hemocultivos positivos se encuentran pacientes gravemente enfermos con alto riesgo de mortalidad y otros con bacteriemia secundaria a infecciones menos críticas. Una limitante de este trabajo es que no pudo ajustarse en el modelo multivariado la duración de la internación al score de gravedad de los pacientes al momento de la bacteriemia ya que no fue registrado al inicio. Se requieren estudios prospectivos que incorporen esta variable al análisis.
+
+Por otro lado, no se encontró asociación en este estudio entre la internación prolongada y la bacteriemia por bacterias multi-resistentes o Pseudomonas aeruginosa, descritas en otros estudios21. Sin embargo, esta falta de asociación estadística puede deberse a falta de poder de la muestra.
+
+Las principales fortalezas de este estudio residen en la identificación microbiológica de las bacterias aisladas en hemocultivos utilizada para la incorporación de los pacientes a esta cohorte. Si bien la epidemiología de las bacteriemias en niños con cáncer es variable en cada centro, la evolución, duración de la internación y pronóstico serán mas comparables según los microorganismos identificados. Es fundamental conocer la epidemiología de las infecciones en los pacientes con cáncer y fiebre para adecuar los tratamientos empíricos recomendados en cada institución.
+
+Conocer la epidemiología de este tipo de infecciones graves en niños con cáncer, e identificar los factores de riesgo asociados a la prolongación de la internación permitirá la administración más racional de los recursos sanitarios y la mejora en la calidad de atención de estos pacientes.
+
+Conclusiones
+
+En esta cohorte de niños internados con leucemia aguda (LLA o LMA) bajo tratamiento quimioterápico y hemocultivos positivos, predominaron las infecciones por enterobacterias.
+
+La bacteriemia asociada a catéter, la neutropenia profunda al ingreso y la co-infección viral se asociaron significativamente con una internación mayor a 14 días.
+
+Se requieren estudios prospectivos que evalúen los factores asociados a la internación prolongada en estos pacientes para poder administrar en forma adecuada los recursos en salud.
+
+El presenta estudio no tuvo fuente de financiamiento externa.

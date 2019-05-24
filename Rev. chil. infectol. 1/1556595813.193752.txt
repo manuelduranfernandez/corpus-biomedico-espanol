@@ -1,0 +1,62 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000400358
+Evolución temporal de los egresos hospitalarios por enfermedades infecciosas en Chile, 2004-2014
+
+Introducción
+
+Predecir los nuevos desafíos en Salud Pública, así como dar prioridad a aquellos problemas que causen mayor impacto en salud son fundamentales en tiempos en que las enfermedades infecciosas (EI) no desisten en ser protagonistas de la escena. El surgimiento de nuevos agentes patógenos o la reaparición de unos ya existentes, causando brotes de enfermedades e inclusive epidemias de gran impacto en salud, las hacen considerar como importantes productoras de morbilidad y mortalidad en el transcurso de la historia1. En la actualidad se ha controlado o eliminado algunas de las enfermedades infecciosas que fueron causantes de alta morbi-mortalidad en Chile y el mundo, gracias a la generación de terapias antimicrobianas y vacunas efectivas para el control de determinados microorganismos reduciendo su prevalencia2,3.
+
+Establecer el perfil epidemiológico de cada una de las enfermedades infecciosas es una de las estrategias necesarias para controlar o reducir el impacto de éstas.
+
+El objetivo de este estudio fue describir la tendencia temporal de episodios de hospitalización con diagnóstico principal de enfermedades infecciosas incluyendo las parasitarias con tasas mayores a 10 por 100.000 habitantes en Chile entre los años 2004 y 2014.
+
+Material y Método
+
+Estudio descriptivo de los eventos de hospitalización por enfermedades infecciosas, incluyendo las parasitarias, ocurridas durante los años 2004 a 2014. Los registros corresponden a los egresos hospitalarios ocurridos en Chile, disponibles en las bases de datos públicas del Departamento de Estadísticas e Información en Salud (DEIS) del Ministerio de Salud de Chile4. Estos registros cuentan con todos los episodios de hospitalización que se han producido, codificado según la décima versión de Clasificación Internacional de Enfermedades (CIE-10). Se utilizaron los registros con codificación A00 - B99, que incluyen a todas aquellas de origen infeccioso o clasificadas como parasitarias. Para los cálculos de tasas se utilizó como denominador, las proyecciones censales elaboradas por el Instituto Nacional de Estadísticas (INE) de Chile5. Se incluyeron en el análisis las enfermedades infecciosas con tasas mayores a 10 por 100.000 habitantes en Chile entre los años 2004 y 2014. Se calcularon las tasas brutas y específicas por sexo y por grupos de edad en decenios. Para la obtención de tasas ajustadas se estandarizó por método directo, según los datos de las perspectivas de la población mundial desarrollado por el Departamento de Asuntos Económicos y Sociales de las Naciones Unidas (UN) al año 20156.
+
+Para evaluar la tendencia temporal de los episodios de hospitalización se utilizó el modelo de regresión de Poisson, bajo el supuesto de que la evolución lineal de las tasas de eventos de hospitalización para cada grupo de enfermedades es la misma para todos los grupos de edad. Como medida de resumen se utilizó el cálculo del Porcentaje de Cambio Anual (PCA) de la tasa de eventos de hospitalización. Los modelos se ajustaron por sexo y edad. Las bases de datos fueron analizadas con el software Stata 13.0.
+
+Consideraciones éticas
+
+Este análisis involucra una fuente de información que utiliza datos anónimos de uso público. Los registros no cuentan con variable alguna que permita identificar a los casos por lo que no se solicitó autorización por Comité de Ética Científico (CEC).
+
+Resultados
+
+Durante el período estudiado, se registraron 506.279 eventos de hospitalización por enfermedad infecciosa, con tasas de 318,7 por 100.000 habitantes durante el año 2004 y de 225,3 por 100.000 habitantes el año 2014.
+
+Las enfermedades que en el período analizado tuvieron tasas mayores a 10 por 100.000 habitantes fueron: “Enfermedades Infecciosas Intestinales” (A00-A09), “Tuberculosis” (A15-A19), “Otras Enfermedades Bacterianas” (A30-A49), “Infecciones Virales Caracterizadas por Lesiones de la Piel y de las Membranas Mucosas” (B00-B09) y “Otras Enfermedades Virales” (B25-B34).
+
+La Tabla 1 muestra las tasas brutas y ajustadas para todos los eventos de hospitalización a causa de enfermedades infecciosas, período 2004-2014. Se observa que la tasa bruta del total de causas de enfermedades infecciosas (A00-B99) ha descendido sostenidamente. En el año 2004 fue de 305,5 por 100.000 habitantes, mientras que en el año 2014 fue de 217,0 por 100.000 habitantes.
+
+Tabla 1 Tasas brutas y ajustada de eventos de hospitalización por grupo específico de causas y del total de causas por enfermedades infecciosas en Chile por 100.000 habitantes, 2004-2014 
+
+La distribución temporal de los eventos de hospitalización se muestra en la Figura 1. Las mayores tasas de eventos de hospitalización se presentan en la categoría de “enfermedades infecciosas intestinales”, con tasas de 181,8 por 100.000 habitantes para el año 2004 con un descenso a 115,5 por 100.000 habitantes para el año 2014. La categoría de “otras enfermedades bacterianas” ocupa el segundo lugar con tasas de hospitalización de 43,5 por 100.000 habitantes para el año 2004 y de 43,9 por 100.000 habitantes para el año 2014.
+
+Figura 1 Tendencia Temporal de la tasa de egreso por enfermedades infecciosas y parasitarias (A00-B99). 
+
+La Tabla 2 muestra los resultados del modelo de regresión de Poisson. Los egresos hospitalarios por “Enfermedades Infecciosas y Parasitarias” (A00-B99) han disminuido, PCA de −4% (RTI = 0,96, IC95%: [0,95-0,97]). Las mujeres muestran menos episodios que los hombres. La magnitud de las tasas según grupos etarios, es mayor en el grupo de 0 a 9 años, siendo superado únicamente por el grupo de 80 años y más, en 33%.
+
+Tabla 2 Modelo de regresión de Poisson, para la estimación de la razón de tasa de hospitalización por enfermedades infecciosas en población chilena, 2004-2014 ajustado por sexo, edad y tiempo 
+
+RTI: Razón de tasa de incidencia. PCA: Porcentaje de cambio anual.
+
+La categoría de “Enfermedades Infecciosas Intestinales” (A00-A09) presentó una disminución promedio de 5% de PCA (RTI = 0,95, IC95%: [0,94-0,96]); el ser mujer aumentó en 2% los episodios de hospitalización por estas causas.
+
+La tuberculosis, expresada en tasas (A15-A19) tuvo una reducción promedio de PCA de 6% (RTI = 0,94, IC95%: [0,94-0,95]). La magnitud de las tasas de tuberculosis aumentó con la edad, siendo mayor en la población de 80 años y más.
+
+El grupo de “Otras Enfermedades Bacterianas” (A30-A49) no presenta modificaciones en su tendencia.
+
+Las “Infecciones Virales Caracterizadas por Lesiones de la Piel y de las Membranas Mucosas” (B00-B09) presentaron una reducción promedio de 3% de PCA (RTI = 0,97, IC95%: [(0,96 - 0,97)]), mientras que para el grupo de “Otras Enfermedades Virales” se observó una reducción de 4% de PCA (RTI = 0,96, IC95%: [(0,96 −0,97)]). Para ambos grupos de enfermedades, las mujeres presentan menos episodios que los hombres.
+
+Discusión
+
+Las enfermedades de origen infeccioso presentan una tendencia decreciente en los años analizados, tendencia vista desde 1990 en adelante7. La implementación de diversas estrategias en salud durante ese período como la inclusión de nuevas vacunas en el Programa Nacional de Inmunizaciones (PNI), ha permitido reducir las tasas de incidencia de EI prevenibles como la parotiditis, rubéola o infecciones invasoras por Haemophilus influenzae tipo b7.
+
+Los episodios de egreso hospitalario por “Enfermedades Infecciosas y Parasitarias” (A00-B99) presentan una disminución durante el período estudiado, siendo más frecuentes en los adultos de 80 años y más, seguidos del grupo de 0 a 9 años, grupos más susceptibles a contraer infecciones y en los que se ha observado mayor morbilidad8. Si bien no existen publicaciones nacionales de tasas de egresos por causas infecciosas, un análisis epidemiológico de los últimos 50 años respecto de la notificación de enfermedades transmisibles y boletines electrónicos del Ministerio de Salud entre los años 1950 y 2003 muestran también un descenso gradual en la incidencia9. La tuberculosis, que presentaba tasas de incidencia de 60,4 por 100.000 habitantes el año 1982, mostró una reducción a 19,4 por 100.000 habitantes en año 20039. Este estudio muestra una tendencia a la reducción con un PCA de 6%; no obstante, las enfermedades infecciosas siguen siendo una importante causa de eventos de hospitalización. Situación similar se observa en otros países de Latinoamérica como Colombia con tasas de incidencia de egresos hospitalarios por tuberculosis de 22 por 100.000 habitantes el año 1985 y de 5,6 por 100.000 habitantes el año 199710. La Organización Mundial de la Salud, ha propuesto acabar con la epidemia de la tuberculosis como meta para el 2035. De acuerdo a la meta propuesta por la OMS, Chile ha logrado reducir en 50% la incidencia y prevalencia de tuberculosis como meta a alcanzar al año 201511; según los datos de este estudio continúan descendiendo.
+
+El grupo con tasas más elevadas en este análisis fueron las enfermedades infecciosas intestinales alcanzando una tasa de eventos de hospitalización de 115,5 por 100.000 habitantes el año 2014, aunque presentan una tendencia decreciente (PCA: −5%). Es importante considerar que gran parte de los agentes causantes de infecciones intestinales son microorganismos zoonóticos12, siendo ésta una de las razones que explicarían sus altas tasas, que representan cerca de 50% del total de casos de origen infeccioso12. Se han observado tasas similares en otros países de Latinoamérica, como en Colombia donde la enfermedad diarreica aguda representa la segunda causa más común de morbilidad, con incidencia de 110 casos por 100.000 habitantes13. En Perú durante el año 2014, las “Enfermedades Infecciosas Intestinales” (A00-A09) ocuparon el noveno lugar como causa de hospitalización, que correspondió a 1,5% de la totalidad de eventos, observándose que la incidencia muestra una lenta tendencia al descenso, notoriamente más evidente en niños bajo 5 años de edad14.
+
+“Otras Enfermedades Bacterianas” no presentan reducciones significativas durante el período; un motivo podría corresponder a variaciones propias de los microorganismos que afectan a la población, presentándose continuamente nuevos serogrupos o serovariedades15. Directamente relacionado a esto, la no disponibilidad de vacunas frente a algunos de estos agentes hacen que las tasas de morbilidad tanto en Chile como en el mundo permanezcan sin variación en el tiempo15.
+
+La descripción de los grupos de enfermedades infecciosas más frecuentes, a partir de una fuente de datos como las de egresos hospitalarios, nos permite tener una visión aproximada de las tasas de dichas enfermedades en la población general durante un tiempo determinado. Sin embargo, este tipo de análisis tiene como limitaciones el que sólo se consideren eventos de hospitalización y que, por lo tanto, no incluye necesariamente a todos los casos ocurridos en la población. Establecer el perfil y la tendencia de las enfermedades que frecuentemente producen eventos de hospitalización es fundamental para idear estrategias en salud pública, que permitan reducir la morbilidad en la población, así como destinar los recursos necesarios de atención en salud o establecer planes que contribuyan a la reducción de las tasas o a la mejora de aquellos programas en funcionamiento.
+
+No hubo financiamiento ajeno a los autores.

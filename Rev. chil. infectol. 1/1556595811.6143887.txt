@@ -1,0 +1,110 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000100029
+Caracterización molecular y patrón de susceptibilidad antimicrobiana de Escherichia coli productora de β-lactamasas de espectro extendido en infección del tracto urinario adquirida en la comunidad
+
+Introducción
+
+Las infecciones del tracto urinario adquiridas en la comunidad (ITUac) son causa frecuente de visitas al médico, tanto en población adulta como en la pediátrica. En México, en el año 2016, se reportaron más de cuatro millones de estas infecciones y en el Estado de Oaxaca, más de 100.0001, teniendo como principal agente etiológico, en ambos casos, a Escherichia coli.
+
+Prescribir empíricamente antimicrobianos en las ITUac es una práctica común; sin embargo, la resistencia bacteriana a antimicrobianos ha incrementado globalmente, disminuyendo la tasa de efectividad del tratamiento empírico. Uno de los mecanismos de mayor impacto en el desarrollo de la multi-resistencia en bacterias como E es la producción de β-lactamasas de espectro extendido (BLEE). Estas enzimas son capaces de conferir a las bacterias resistencia contra penicilinas, cefalosporinas de primera, segunda y tercera generación y a monobactámicos (aztreonam); sin embargo, son sensibles a cefamicinas y carbapenémicos e inhibidas por moléculas como el ácido clavulánico. Desafortunadamente, las cepas productoras de estas enzimas son también resistentes a otros antimicrobianos, reduciendo considerablemente las opciones de tratamiento disponibles. A la fecha, se han identificado más de 200 tipos de BLEE, codificadas por diferentes genes conocidos como genes bla, siendo los más frecuentes TEM, SHV y CTX-M.
+
+Antaño, los procesos infecciosos causados por las bacterias productoras de BLEE se acotaban a infecciones asociadas al cuidado de la salud, principalmente con bacterias portadoras de los genes TEM y SHV. Sin embargo, desde la descripción en Europa, a finales de los años noventa, de cepas productoras de BLEE causando infecciones en la comunidad (IC), el número de casos reportados a nivel mundial se ha incrementado y México no es la excepción2,3. Este aumento en el número de casos de IC va de la mano con el aumento en el número de aislados tipo CTX-M, principalmente del subtipo CTX-M-15, la cepa más frecuentemente descrita en diversos centros epidemiológicos del mundo. Los primeros casos de cepas CTX-M en México fueron reportados en el año 20104.
+
+Los objetivos de este estudio fueron:
+
+Determinar la prevalencia de infecciones del tracto urinario en la comunidad causadas por cepas de E productoras de BLEE identificadas en un laboratorio privado de la ciudad de Oaxaca, México.
+
+Determinar la susceptibilidad antimicrobiana de estas cepas y
+
+Describir el perfil genético de los tipos de BLEE presentes en estas cepas.
+
+Materiales y Métodos
+
+Sujetos
+
+Se incluyeron 1.422 pacientes adultos (995 mujeres y 427 hombres) con indicación de urocultivo por impresión diagnóstica de ITUac y no relacionada a la atención de la salud.
+
+Aislamientos bacterianos
+
+De julio a diciembre de 2016 se inocularon 1.422 muestras de orinas de los pacientes que acudieron a Laboratorios Galindo SC en la ciudad de Oaxaca, México. Las muestras de orina fueron recolectadas a partir del chorro medio de la micción, bajo técnica estéril, sembradas antes de cumplirse una hora desde su recolección, en agar sangre y agar McConkey, utilizando una asa calibrada estéril de 10 µL. Las placas fueron incubadas a 35 ± 2 °C por 16 a 18 h. Aquellas muestras que presentaron crecimiento bacteriano ≥ 100.000 ufc/mL fueron considerados como posibles casos de infección del tracto urinario (ITU) y fueron incluidas para estudio genético y de susceptibilidad antimicrobiana. La identificación de las bacterias gramnegativas causantes de estas infecciones fue realizada utilizando las galerías API®/ID32 (bioMériux, Francia). Las cepas que fueron identificadas como E. coli fueron conservadas en caldo BHI conteniendo glicerol al 15% a - 70 °C hasta su análisis molecular.
+
+Pruebas de susceptibilidad a antimicrobianos
+
+La determinación de la susceptibilidad de las cepas de E. coli a 16 diferentes antimicrobianos, incluyendo cuatro cefalosporinas, se realizó mediante el método de Kirby Bauer, siguiendo las sugerencias del Clinical Laboratory Standards Institute (CLSI)5. Brevemente, a partir de un cultivo fresco de la cepa, se realizó una suspensión la cual se ajustó a la escala 0,5 de Mc Farland y fue inoculada en agar Mueller Hinton para, posteriormente, ser incubada en condiciones aeróbicas a 35 ± 2 °C por 16 a 18 h. De acuerdo al tamaño del halo de inhibición, y a criterios definidos por el CLSI, las cepas fueron catalogadas como sensibles o resistentes (En esta última clasificación se incluyeron cepas definitivamente resistentes, así como con resistencia intermedia). Los antimicrobianos incluidos en el estudio fueron: amoxicilina/ácido clavulánico, cefepime, cefotaxima, cefoxitina, ceftazidima, ceftriaxona, ciprofloxacina, fosfomicina, gentamicina, imipenem, meropenem, nitrofurantoína, norfloxacina, piperacilina, tetraciclina y cotrimoxazol.
+
+Identificación fenotípica de cepas productoras de BLEE
+
+Se realizó antibiograma a todos los cultivos positivos para E. coli. Con el objetivo de realizar un tamizaje inicial para identificar la presencia de cepas productoras de BLEE, se realizó la prueba del doble disco, colocando en el centro del agar un disco conteniendo amoxicilina (20 µg) con ácido clavulánico (10 µg) y alrededor de éste, a 2,5 cm, discos de cefotaxima (30 µg), ceftazidima (30 µg), cefepime (30 µg) y ceftriaxona (30 µg). A aquellas cepas que tuvieron efecto sinérgico alrededor del disco central les fue realizada la prueba de combinación de discos, utilizando cefotaxima (30 µg) y ceftazidima (30 µg) y ambos antimicrobianos con ácido clavulánico (10 µg), de acuerdo a lo sugerido por el CLSI6. Un halo de inhibición ≥ 5 mm en alguno de los discos conteniendo ácido clavulánico comparado con el producido en los discos que no lo contienen, confirma la presencia de cepas productoras de BLEE.
+
+Identificación genotípica de cepas productoras de BLEE
+
+El ADN de las cepas productoras de BLEE se obtuvo mediante el método de ebullición, para lo cual se tomaron 1-2 colonias en estudio, las que fueron resuspendidas en 1 mL de agua libre de nucleasas. El ADN obtenido (2 µL) fue utilizado para determinar la presencia de los genes blaCTX-M, blaSHV y blaTEM utilizando la técnica de reacción de polimerasa en cadena (RPC). La secuencia de los iniciadores específicos utilizados en este estudio y las condiciones de la reacción han sido descritas anteriormente7, siendo el tamaño de los productos de amplificación esperados para los genes blaCTX-M, blaSHV y blaTEM, de 590, 214 y 847 pares de bases, respectivamente. Con el objetivo de confirmar la presencia de genes blaCTX-M, 15 productos de RPC seleccionados al azar, con un peso molecular similar al esperado para este gen, fueron purificados usando las columnas Wizard PCR preps DNA purification system (Promega) y secuenciadas en forma bidireccional en el Laboratorio Central ADN de la ciudad de Morelia, México. Las secuencias de nucleótidos obtenidas fueron comparadas contra las descritas previamente en la literatura internacional (GenBank database http://www.ncbi.nlm.nih.gov/).
+
+Análisis estadístico
+
+Las variables se expresan mediante sus frecuencias relativas en porcentaje (%). Para explorar las posibles asociaciones estadísticas se utilizó la prueba exacta de Fisher, y la significancia estadística se estableció en valor de p < 0,05.
+
+Resultados
+
+Características de la población en estudio
+
+La edad y sexo de los pacientes cuyas muestras fueron incluidas en este estudio se describen en la Tabla 1. Del total de 1.422 muestras de orinas sembradas por sospecha de una ITU, en 340 de ellas (23,9%) se aislaron bacterias en concentraciones ≥ 100.000 ufc/mL. En 288 cultivos (84,7%) se aisló a E. coli, siendo el principal agente causal de las ITU objeto de este estudio. La relación mujeres : hombres infectadas con E. coli fue de 3,4:1.
+
+Tabla 1 Características de los pacientes incluidos en el estudio 
+
+En 90 cepas de 288 aisladas (31,3%) se produjo un efecto sinérgico en el agar Mueller Hinton en la presencia de discos conteniendo ácido clavulánico y discos con cefalosporinas de tercera generación, sugiriendo la producción de BLEE. El 100% de estas cepas fueron confirmadas como productoras de estas enzimas mediante el método de combinación de discos. La relación mujeres : hombres infectadas con E. coli productoras de BLEE fue de 1,4:1; sin embargo, el porcentaje de hombres infectados por estas cepas fue mayor que el porcentaje de mujeres (Tabla 2).
+
+Tabla 2 Pacientes con cultivos positivos a E. coli productoras de BLEE 
+
+Susceptibilidad antimicrobiana de las cepas de Escherichia coli
+
+La susceptibilidad de las 288 cepas de E. coli uropatógenas a los antimicrobianos analizados presenta tasas muy variadas, que van desde 100% de susceptibilidad a carbapenémicos (imipenem y meropenem) hasta tasas muy bajas a piperacilina, de 22,2% (64/288); a tetraciclina, de 26,7% (77/288) y a cotrimoxazol de 38,1% (110/288). El resto de los antimicrobianos estudiados presentan las siguientes tasas de susceptibilidad en orden ascendente: ciprofloxacina y norfloxacina, 46,5% (134/288); amoxicilina/clavulanato, 48,6% (140/288); gentamicina, 52,1% (150/288); cefepime, cefotaxima, ceftazidima y ceftriaxona, de 68,7% (198/288); cefoxitina, de 78,5% (226/288); nitrofurantoína, de 82,6% (238/288) y fosfomicina, de 88,2% (254/288).
+
+Comparativamente, las cepas productoras de BLEE tuvieron una menor susceptibilidad contra todos los antimicrobianos estudiados que las cepas no productoras de estas enzimas, especialmente a fluoroquinolonas y aminoglucósidos, amoxicilina/ácido clavulánico, piperacilina y tetraciclina (p < 0,0001); adicionalmente, se obtuvieron diferencias estadísticamente significativas para el resto de los antimicrobianos estudiados (Tabla 3).
+
+Tabla 3 Patrones de susceptibilidad de las cepas de E. coli productoras y no productoras de -lactamasas de espectro extendido. Porcentajes de susceptibilidad a los distintos antimicrobianos según cepas BLEE y no BLEE 
+
+Caracterización de las β-lactamasas de espectro extendido
+
+De las 90 cepas que fueron confirmadas como productoras de BLEE, 86 de ellas (95,6%) fueron positivas para el gen blaCTX-M (Figura 1); 16 (17,8%), para el gen blaTEM (Figura 2); ninguna para blaSHV y cuatro resultaron negativas para los tres genes analizados (4,4%), lo que sugiere la presencia de otro gen menos común productor de BLEE, como blaOXA o blaTLA-1. Del total de las cepas positivas para los genes bla analizados, las 16 que resultaron positivas para el gen blaTEM también tenían la presencia de blaCTX-M (Tabla 4).
+
+Figura 1 Electroforesis de los productos de RPC en gel de agarosa al 2%. Línea M Marcador 100 pb. Línea 1 control negativo. Líneas 2 - 7, 9, 10: muestras positivas para gen blaCTX-M. Línea 8: muestra negativa para gen blaCTX-M. 
+
+Figura 2 Electroforesis de los productos de RPC en gel de agarosa al 2%. Línea M Marcador 100 pb. Línea 1 control negativo. Líneas 5 y 7: muestras positivas para gen blaTEM. Líneas 2 - 4, 6 y 8 - 10: muestra negativa para gen blaTEM. 
+
+Tabla 4 Caracterización molecular de las cepas de E coli productoras de β-lactamasas de espectro extendido 
+
+En cuanto a las cepas portadoras de CTX-M, 100% (15/15) de los productos analizados presentaron una secuencia de nucleótidos similar en más de 99% a los genes CTX-M-15 publicados en la literatura científica.
+
+Discusión
+
+La resistencia a los antimicrobianos ya es considerada un problema de salud pública mundial. Dentro de la gran gama de mecanismos de resistencia desarrollados por las bacterias, uno de los que más destaca dentro de los bacilos gramnegativos es la producción de BLEE.
+
+En este estudio se demostró que del total de ITUac causadas por E. coli, la prevalencia de las cepas productoras de BLEE como agente causal de estas infecciones en la población de pacientes atendidos es de 31,3%. Debido a la sensibilidad del método de doble disco para identificar las cepas productoras de BLEE, 89,5% de acuerdo a Giriyapur y col8, esta cifra pudiera ser en realidad ligeramente mayor a lo reportado.
+
+Del total de pacientes infectados con cepas productoras de BLEE, los varones presentan porcentajes de infección mayores que las mujeres (57,6% vs 23,4%), resultados similares a los reportados en otros estudios9. Ese hallazgo posiblemente se deba a la naturaleza de las ITU en el sexo masculino, ya que estas infecciones en los hombres se asocian a enfermedades subyacentes y múltiples episodios de tratamiento antimicrobiano previos, factores que aumentan el riesgo de desarrollo de infecciones por estas cepas.
+
+Los datos de la prevalencia de cepas productoras de BLEE como causa de ITUac obtenidos en este estudio, son superiores a los reportados por otros investigadores en otros estados de la República Mexicana, como es el caso de Sonora, donde se obtuvo una prevalencia de 14,4%3; en Guerrero, de 21%10 y en Ciudad de México de 18,7%11. La gran mayoría de las ITU son ocasionadas por cepas que forman parte de la microbiota fecal propia del paciente, habiéndose demostrado que aquellos pacientes con baja concentración fecal de cepas productoras de BLEE no desarrollan ITU por estas bacterias y aquellos con altas concentraciones presentan hasta 13 veces mayor riesgo de desarrollarlas12. La alta prevalencia de cepas productoras de BLEE causantes de ITU en este estudio posiblemente se deba a la alta prevalencia de colonización fecal por estas cepas en la población de la ciudad de Oaxaca, la que supera el 55% (datos no mostrados).
+
+En la actualidad, las cepas bacterianas causantes de ITU presentan altos niveles de resistencia contra un importante número de β-lactámicos, cefalosporinas, quinolonas y sulfas utilizados de manera rutinaria en su tratamiento. Los resultados obtenidos en este estudio confirman esta premisa en la ciudad de Oaxaca, México. De acuerdo a lo sugerido por la Infectious Diseases Society of America (IDSA), para poder considerar un antimicrobiano como tratamiento empírico, el punto de corte recomendado de resistencia debe ser igual o menor a 20%13. Con base a estas sugerencias y a los resultados obtenidos in vitro en la población estudiada, los antimicrobianos de elección en el tratamiento empírico de las ITU en nuestra área geográfica se limitarían solamente a fosfomicina, nitrofurantoína y carbapenémicos. Pese a que los resultados de este trabajo son posiblemente una muy certera aproximación de los patrones de resistencia/susceptibilidad antimicrobiana de E. coli uropatógena en la región, no podemos sugerir el uso de estos antimicrobianos en base a un trabajo unicéntrico.
+
+Uno de los mayores problemas en el tratamiento de pacientes infectados con cepas productoras de BLEE es su multi-resistencia a antimicrobianos. Como ha sido demostrado con anterioridad14,15, estos microorganismos no sólo son resistentes a cefalosporinas, penicilinas y monobactámicos, características básicas de las cepas BLEE, ya que, adicionalmente a esta resistencia, un número importante de estas cepas son también resistentes a otros antimicrobianos como quinolonas, aminoglucósidos, tetraciclinas y cotrimoxazol. Como ha sido confirmado en este estudio, las cepas productoras de BLEE presentan niveles de susceptibilidad estadísticamente inferiores a las presentadas por las cepas no productoras de estas enzimas contra los antimicrobianos estudiados. Esta diferencia era de esperarse, pues como se reporta en diferentes estudios, en la resistencia inherente a las cepas productoras de BLEE está involucrado un plásmido, el que pudiera también mediar la resistencia contra otras clases de antimicrobianos16,17.
+
+La sensibilidad de E. coli uropatógena a ciprofloxacina, norfloxacina, gentamicina y amoxicilina/ácido clavulánico, antimicrobianos de amplio uso en nuestro medio en el tratamiento empírico contra las ITU, es relativamente baja en nuestro entorno, con una prevalencia, en las cepas no productoras de BLEE, de 63,6% a los dos primeros antimicrobianos; de 59,6% al tercero y de 67,7% al último. Estos resultados in vitro sugieren que aproximadamente uno de cada tres tratamientos contra ITU causadas por E. coli con estos antimicrobianos pudieran no erradicar la infección a las dosis recomendadas de estos fármacos. Sin embargo, esta situación se complica aún más cuando se trata de una infección por cepas productoras de BLEE, en las que sólo una de cada 10 es sensible a fluoroquinolonas y dos de cada 10 son sensibles a gentamicina y a la combinación de amoxicilina con ácido clavulánico. De acuerdo a lo sugerido por Paterson y cols., en la alta resistencia de E. coli a ciprofloxacina y norfloxacina pudiera contribuir el aumento en el uso de nuevas quinolonas como levofloxacina y gatifloxacina, en el tratamiento de enfermedades respiratorias18.
+
+Aunque las diferencias en la sensibilidad de nitrofurantoína y cefoxitina no son tan marcadas entre las cepas de E. coli productoras y las no productoras de BLEE, como en el caso de fluoquinolonas y aminoglucósidos (71,1% contra 87,9%, respectivamente en caso de nitrofurantoína y 66,7% contra 83,8% en caso de cefoxitina), sí tienen una significancia estadística y clínica, pues mientras el porcentaje de resistencia en las cepas no productoras de BLEE es menor a lo sugerido por la IDSA, cumpliendo los criterios para ser utilizado como tratamiento empírico, en caso de las ITU por cepas productoras de estas enzimas, el porcentaje excede lo recomendado, descartando ambos antimicrobianos como tratamiento empírico.
+
+Una de las principales causas en el aumento del número de ITUac causadas por E. coli parece ser el aumento en la propagación del gen blaCTX-M, fenómeno que inició a mediados de los años 1990 y es actualmente conocido como la pandemia CTX-M. Hoy en día, la mayoría de estas infecciones a nivel mundial son causadas por cepas con este gen, particularmente el subtipo CTX-M-15. En contraste a otros tipos de CTX-M, CTX-M-15 es también capaz de hidrolizar ceftazidima19. La situación de las cepas causantes de ITU en el presente estudio, en cuanto al gen bla que codifica la producción de las BLEE, es un reflejo de la situación mundial. De las 90 cepas de E. coli productoras de BLEE estudiadas, 86 de ellas (95,6%) son portadoras de CTX-M, y de éstas, la totalidad (15/15) de los productos de RPC analizados son del subtipo CTX-M-15. Este último resultado denota que, por lo menos en esta zona del país y en pacientes con ITUac este subtipo de BLEE es el más común, situación similar a lo que acontece en el resto del mundo.
+
+El motivo por el cual las cepas portadoras del subtipo CTX-M son cepas predominantes en las ITU se desconoce a ciencia cierta; sin embargo, se ha sugerido que este tipo de cepas pudiera presentar una alta capacidad de diseminación, quizás debido a una mayor tasa de transmisión de su plásmido de resistencia, o alguna ventaja ecológica sobre otros subtipos de BLEE, que le permitan permanecer en diferentes nichos ambientales20. Como punto a favor de la teoría de una ventaja ecológica de estas cepas, se ha demostrado que las cepas CTX-M son ya el principal tipo de BLEE aislado en casos de colonización fecal21 y han sido aislados en diferentes ambientes22-24.
+
+En resumen, este estudio comprobó que la pandemia CTX-M se ha extendido a nuestra localidad y E. coli productora de BLEE es una etiología importante de la totalidad de ITUac. Como se ha demostrado en otros estudios, la presencia de estas cepas disminuye considerablemente las opciones de tratamiento empírico, reduciéndose en nuestro medio, en base a los resultados obtenidos en este trabajo, a solamente fosfomicina y carbapenémicos.
+
+Sin embargo; es importante reiterar que los resultados descritos en este trabajo reflejan solamente la realidad de nuestra población estudiada; antes de sugerir el uso de estos antimicrobianos como la base del tratamiento empírico de las ITUac es necesario validar estos resultados mediante estudios epidemiológicos loco-regionales más extensos, incluyendo la susceptibilidad que presentan otras enterobacterias causantes de ITUac contras los antimicrobianos disponibles en la zona.
+
+Con el objetivo de implementar estrategias de control enfocadas a detener la propagación de estas cepas, es necesario el conocimiento más a fondo de su epidemiología, incluyendo la identificación de sus posibles reservorios y mecanismos de transmisión.
+
+Fuente de financiamiento: Propia del autor.
+
+Agradecimientos
+
+A Norma Eréndira Rivera e Ignacio Alfredo Valerio Morales por la revisión y sugerencias realizadas a este manuscrito.

@@ -1,0 +1,138 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000600563
+Susceptibilidad de enterobacterias a piperacilina/tazobactam en un hospital pediátrico de Chile
+
+Introducción
+
+Las enterobacterias (Enterobacteriaceae) son un grupo ubicuo de bacilos gramnegativos, responsables de infecciones graves en el ser humano1. Las infecciones causadas por enterobacterias multi-resistentes son cada vez más frecuentes en Latinoamérica y representan un problema serio de salud debido a que se asocian a mayor morbimortalidad y costos2,3. Por lo que es de suma importancia desarrollar estrategias destinadas a disminuir su prevalencia.
+
+En Chile, entre los años 2004 y 2007, en cepas obtenidas de bacteriemias de población adulta, se describió una tasa de cepas productoras de β-lactamasas de espectro extendido (BLEE) en Escherichia coli, Klebsiella pneumoniae y Proteus spp, de 9,8%. La caracterización molecular de estas cepas evidenció una prevalencia de 96% de CTX-M, 62% de TEM y 28% de GES. Un 79% de las cepas estudiadas tenía más de una BLEE4.
+
+Según el reporte del grupo colaborativo de resistencia bacteriana del año 20 1 25, en la población pediátrica chilena la resistencia a cefalosporinas de tercera generación en E. coli correspondió a 34,3% en urocultivos de población ambulatoria, 11,4% en hospitalizados y hasta 7,6% en hemocultivos. En el caso de K. pneumoniae, se reportó una resistencia a cefotaxima entre 37,4 y 28,1% en cepas de pacientes hospitalizados.
+
+En nuestra realidad como hospital pediátrico, Acuña y cols., comunicaron una tasa de cepas productoras de BLEE de 23,4% en un análisis retrospectivo de pacientes con bacteriemias por E. coli y Klebsiella spp, durante el año 20116.
+
+Piperacilina es un antimicrobiano de la familia de las ureidopenicilinas que se utiliza en conjunto con un inhibidor de la β-lactamasa (tazobactam). Tiene un amplio espectro de actividad, que incluye bacilos gramnegativos fermentadores y no fermentadores de glucosa, como Pseudomonas aeruginosa.
+
+En conjunto con otras medidas, que incluyen restricción de uso de cefalosporinas y carbapenémicos, se ha propuesto el uso de piperacilina/tazobactam (PIP/TAZO) en el tratamiento empírico de algunas infecciones pediátricas para disminuir significativamente el uso de otros antimicrobianos y la incidencia de infecciones por K. pneumoniae productoras de BLEE7,8.
+
+El año 2006, la FDA aprobó el uso de PIP/TAZO en población pediátrica para el tratamiento de apendicitis e infecciones intra-abdominales en pacientes mayores de 2 meses9. Pero ya desde hace algunos años, se utiliza bajo recomendación de expertos en protocolos de manejo de pacientes pediátricos con neutropenia febril a nivel mundial10.
+
+Hasta el término del presente estudio, la población atendida en el Hospital Roberto del Río (HRRIO) no fue expuesta a PIP/TAZO, ya que no formaba parte del arsenal terapéutico, principalmente debido a la tardía aprobación por la FDA para uso en pediatría, la restricción del uso a grupos etarios mayores a 2 meses y el hecho de no formar parte de los antimicrobianos para el manejo de la neutropenia febril según el protocolo nacional utilizado localmente11.
+
+El año 2012 se observó una susceptibilidad a K. pneumoniae de 79,4% a PIP/TAZO en hospitales pediátricos de Chile5 pero, según nuestro conocimiento, a la fecha no existen datos publicados respecto a la susceptibilidad de otras enterobacterias a PIP/TAZO en esta población. Por lo que su uso en pediatría como terapia empírica es controversial.
+
+El objetivo de esta investigación fue determinar la susceptibilidad in vitro a PIP/TAZO en cepas obtenidas de infecciones por enterobacterias en un hospital pediátrico de Chile.
+
+Metodología
+
+Estudio descriptivo prospectivo, basado en análisis microbiológico y de datos clínicos de los pacientes con aislamiento de enterobacterias entre el 1 de enero de 2013 y el 27 de agosto de 2014.
+
+El estudio fue realizado en el HRRIO, ubicado en Santiago de Chile, hospital de alta complejidad donde se atienden pacientes de diversas comunas del área norte de la Región Metropolitana y de distintas regiones del norte de Chile, como parte del programa de referencia nacional de enfermedades complejas pediátricas. Este centro asistencial cuenta con 203 camas, 154 de ellas son básicas y 49 camas de manejo de pacientes críticos. El hospital también cuenta con un consultorio adosado de especialidades y una Unidad de Emergencia. El estudio incluye aislados de todos los servicios clínicos mencionados.
+
+Criterios de inclusión
+
+Cepas de enterobacterias provenientes de diferentes servicios, tanto ambulatorios como hospitalizados, de pacientes bajo 15 años de edad. Según recomendaciones de CLSI, se consideró la primera cepa aislada por paciente para informe acumulado de estudios de susceptibilidad12. Se incluyó en el estudio aislados de líquidos estériles, urocultivos obtenidos por segundo chorro con recuento de colonias mayor a 100.000 UFC/ml o por cateterismo vesical con recuento de colonias mayor a 10.000 UFC/ ml, cultivos de punta de catéter, secreciones de herida operatoria y cultivos de abscesos o tejidos. También se consideraron cultivos tomados en pabellón como parte relevante de un proceso infeccioso, por ejemplo: biopsia en quemados.
+
+Criterios de exclusión
+
+Se excluyeron del análisis las cepas interpretadas clínicamente como contaminación, o provenientes de cultivos de vigilancia epidemiológica, o aisladas en orina obtenidas por recolector dada la alta tasa de contaminación a nivel local y aquellas provenientes de pacientes con fibrosis quística, por representar una población especial con múltiples factores de riesgo de resistencia antimicrobiana que pudiesen representar un sesgo de selección hacia una mayor resistencia.
+
+Recolección de datos
+
+Los datos microbiológicos se obtuvieron a partir de resultados positivos a enterobacterias registrados en el software de gestión de información microbiológica (Kernmic®). Se revisaron los registros clínicos de los pacientes con aislamiento de enterobacterias a partir de las fichas clínicas, en el período seleccionado, recolectando las siguientes variables clínicas: sexo, edad, antecedente de uso de PIP/TAZO y unidad de procedencia. En el caso de aislados resistentes, se registró el tipo de infección causada y el uso reciente de antimicrobianos. Los datos se registraron en Excel® para su posterior análisis.
+
+Estudio microbiológico
+
+La identificación de microorganismos se realizó mediante método automatizado (Vitek2 compactTM, bioMerieux) definiendo por este mismo método la susceptibilidad antimicrobiana utilizando tarjeta AST-N250MR.
+
+Las cepas identificadas como enterobacterias se mantuvieron congeladas a -20 °C, y posteriormente se realizó estudio de susceptibilidad a PIP/TAZO con E-test® utilizando los puntos de corte establecidos por la CLSI 2014 y los respectivos controles. Este método permite obtener concentración inhibitoria mínima para definir la susceptibilidad antimicrobiana. Decidimos utilizar E test® además de VITEK 2, debido a que en el año 2010 bioMerieux realizara una alerta sobre falsas sensibilidades y resistencias entregadas por sistema Vitek2 compact™ en E. coli, y que en el 2011 se extendiera a otras enterobacterias.
+
+El estudio de cepas productoras de BLEE fue realizada de acuerdo estándar CLSI 2014, con pruebas confirmatorias.
+
+En el caso de cepas de Enterobacter y Citrobacter resistentes a cefotaxima, se definió la presencia de BLEE por método de difusión en agar Müller-Hinton utilizando inhibidor de amoxicilina/ácido clavulánico con discos de cefotaxima y ceftazidima.
+
+Análisis estadístico
+
+Se realizó un análisis exploratorio y descriptivo de los datos y se reportan tablas con frecuencias absolutas y relativas para la descripción de las variables estudiadas. La susceptibilidad global de enterobacterias se reporta junto al intervalo de confianza de 95%, al igual que la susceptibilidad por microorganismo cuando ésta fue distinta a 100%. De acuerdo al análisis de la literatura científica, se realizó una estimación del tamaño muestral de 110 cepas, considerando una susceptibilidad antimicrobiana esperada de 90%, con un nivel de confianza 95% y un error de 5%5. Se consideró un valor de p < 0,05 como diferencia estadística significativa.
+
+Este trabajo contó con la aprobación del Director del HHRIO y Comité de Ética de la Investigación del Servicio de Salud Metropolitano Norte.
+
+Resultados
+
+En el período descrito se analizó un total de 180 cepas obtenidas de forma no probabilística. Se excluyeron 17 cepas, de las cuales siete fueron interpretadas clínicamente como contaminación, seis fueron obtenidas de pacientes con fibrosis quística y cuatro cepas repetidas. Las 163 cepas restantes provinieron de 153 pacientes.
+
+Sólo nueve pacientes presentaron más de un aislamiento. Cada cepa estuvo separada por más de dos semanas y con aislamiento de distinto microorganismo patógeno.
+
+La edad promedio fue de 4 años y 15 días (DE: 3 años y 5 meses). La muestra estuvo representada principalmente por el sexo femenino, con 115 casos (70,6%). Ninguno de los pacientes presentaba antecedente de uso de PIP/TAZO.
+
+Focos de origen de las cepas y tipos de muestras obtenidas en el estudio
+
+Destacamos 136 casos de infecciones del tracto urinario, con 130 cepas aisladas en urocultivo (62,3% obtenidas por cateterismo vesical) y seis en hemocultivos. Además, identificamos 26 cepas de enterobacterias en hemocultivos provenientes de siete casos de bacteriemia primaria, siete casos de infección respiratoria baja, seis casos de infección intra-abdominal, cinco casos de infección de catéter venoso central y un caso de infección del sistema nervioso central (esta última además con cultivo positivo en líquido cefalorraquídeo). Y finalmente hubo un caso de otitis con aislamiento de Enterobacter cloacae en secreción timpánica obtenida por punción.
+
+La susceptibilidad general en enterobacterias a PIP/ TAZO, por método de gradiente (E-test®), fue de 95,1% (IC 95% = 90,5 a 97,6) (155 casos). Se encontró susceptibilidad intermedia de 1,8% (3 casos) (Tabla 1). Se observó resistencia a PIP/TAZO en cinco cepas (3,1%), correspondientes a: dos aislados de Citrobacter freundii, un E. cloacae, una E. coli productora de BLEE y una K. pneumoniae productora de BLEE. En el caso de K. pneumoniae, además fue resistente a carbapenémicos, pero se descartó producción de carbapenemasas por confirmación en el laboratorio de referencia nacional (ISP).
+
+Tabla 1 Susceptibilidad por microorganismo a piperacilina/tazobactam 
+
+*Definida según puntos de corte de CLSI 2014 (M100-S24).
+
+En la correlación clínico-microbiológica se pudo observar que la susceptibilidad de enterobacterias aisladas en pacientes ambulatorios asistentes a nuestra institución fue de 97,4%, donde no hubo casos de susceptibilidad intermedia. Se identificó sólo dos aislados resistentes a PIP/TAZO correspondientes a dos cepas de C. freundii provenientes del policlínico de nefrología. La primera cepa proveniente de una paciente de sexo femenino, de un año de edad, cursando infección del tracto urinario bajo, con antecedente de vejiga neurogénica y espina bífida, usuaria de uroprofilaxis con cefadroxilo y antecedentes de uso reciente de cotrimoxazol y nitrofurantoína. La segunda provenía de una escolar de 6 años, de sexo femenino, también cursando infección del tracto urinario bajo, con antecedente de vejiga neurogénica, episodios recurrentes de infecciones urinarias y uso reciente de cefadroxilo y gentamicina.
+
+La susceptibilidad a PIP/TAZO de enterobacterias provenientes de pacientes hospitalizados fue de 92,9% y susceptibilidad intermedia 3,5%. En este subgrupo se aislaron tres cepas resistentes: un E. cloacae en hemocultivo proveniente de una lactante de 5 meses, de sexo femenino, hospitalizada en UCI, quien cursaba con neumonía asociada a ventilación mecánica, y con el antecedente de un cuadro séptico reciente por virus respiratorio sincicial y terapia antimicrobiana en los 30 días previos (penicilina y cefotaxima). Y otras dos cepas en hemocultivos provenientes de un mismo paciente de 5 años de edad, de sexo masculino, hospitalizado en pediatría general, en dos episodios distintos separados por cinco meses; el primer aislado correspondió a una K. pneumoniae productora de BLEE, en el contexto de una bacteriemia primaria y el segundo aislado fue E. coli productora de BLEE, secundaria a infección intra-abdominal. Dentro de los antecedentes de este paciente destacaban múltiples factores de riesgo de cepas productoras de BLEE6: traslado reciente desde otro centro hospitalario, portación de Enterococcus resistente a vancomicina (VanB), insuficiencia renal crónica en peritoneo diálisis y uso reciente de cefalosporinas y quinolonas.
+
+Dentro de los pacientes hospitalizados, la resistencia a PIP/TAZO fue mayor en pacientes con antecedentes de estadía en UCI, pero sin alcanzar significancia estadística (Tabla 2).
+
+Tabla 2 Susceptibilidad a piperacilina/tazobactam según unidad 
+
+Al comparar los tipos de muestras, se observó una menor susceptibilidad de las enterobacterias a PIP/TAZO en hemocultivos (84,4%) versus los urocultivos (97,7%), diferencia estadísticamente significativa (Tabla 3).
+
+Tabla 3 Susceptibilidad a piperacilina/tazobactam comparada entre tipo de muestras 
+
+*Diferencia estadísticamente significativa. S= Susceptible, I=Susceptibilidad intermedia, R=Resistente.
+
+Con respecto a susceptibilidad a otros antimicrobianos, hubo 11 aislados de microorganismos resistentes a cefalosporinas de tercera generación, que incluyeron nueve microorganismos productores de BLEE.
+
+De los 11 casos, ocho microorganismos eran susceptibles a PIP/TAZO y de los tres casos resistentes, uno era además resistente a carbapenémicos, siendo descartada la producción de carbapenemasas por laboratorio de referencia (ISP). En este grupo no se observó resistencia in vitro a amikacina.
+
+Se observó 100% de correlación en la susceptibilidad a PIP/TAZO en E. coli y K. pneumoniae cuando la prueba de BLEE fue negativa (Tabla 4).
+
+Tabla 4 Susceptibilidad a piperacilina/tazobactam de acuerdo a presencia de BLEE expresados en número total y porcentajes 
+
+S = Susceptible, I = Susceptibilidad intermedia, R = Resistente. Se excluye del análisis las cepas de C. freundii, E. aerogenes, E. cloacae, M. morganii y Serratia spp dado a que son productoras de β-lactamasas tipo AmpC cromosómicas y, por ende, resistente a cefalosporinas de tercera generación.
+
+Discusión
+
+Este estudio representa el primer reporte de susceptibilidad en enterobacterias a PIP/TAZO en población pediátrica chilena.
+
+Existe una alta susceptibilidad a PIP/TAZO en enterobacterias de la población pediátrica atendida en HRRÍO, durante el período de estudio, tanto ambulatoria como hospitalizada. Este hallazgo puede ser debido a que esta población no había sido expuesta a presión selectiva por este antimicrobiano y por la baja circulación de microorganismos productores de BLEE.
+
+Nuestros hallazgos sostienen el uso empírico de PIP/TAZO en casos de infecciones causadas por enterobacterías, pero debido al intervalo de confianza observado, PIP/TAZO debiese ser utilizado con precaución en infecciones graves, especialmente en presencia de factores de riesgo de resistencia antimicrobiana.
+
+Esta última aseveración ha sido estudiada en el ámbito de los adultos. Tamma y Rodríguez-Baño13 recopilaron el resultado de mortalidad a 30 días de siete estudios observacionales que compararon el uso de carbapenémicos y β-lactámicos asociados a un inhibidor de β-lactamasa, concluyendo que pese a que la mayoría de ellos no demuestra inferioridad de PIP/TAZO parece razonable utilizarlo en pacientes con infecciones de baja a moderada gravedad. En el caso de pacientes gravemente enfermos, con una alta carga de inoculo bacteriano, recomendaron uso de carbapenémicos en infecciones graves por enterobacterias productoras de BLEE.
+
+La muestra estuvo representada en su mayoría por cultivos de orina y particularmente por aislados de E. coli, siendo ésta la especie patógena prevalente en infecciones pediátricas causadas por microorganismos del género Enterobacteriaceae.
+
+En población adulta de nuestro país, según reportes del año 20125, se observó una buena susceptibilidad (> 90%) de E. coli a PIP/TAZO, lo que se correlaciona con lo observado en nuestro estudio. Pero en el caso de K. pneumoniae aisladas en población adulta hospitalizada, éstas presentaron una baja susceptibilidad a PIP/TAZO (44,6%) comparada a lo observado en nuestra muestra (93,3% n = 14).
+
+Figura 1 Resumen de los resultados. 
+
+Al comparar con los resultados en población pediátrica publicados por el grupo colaborativo de susceptibilidad de Chile5, en nuestro estudio se observó una mayor susceptibilidad de K. pneumoniae a PIP/TAZO proveniente de pacientes hospitalizados (93,3 versus 79,4%). Es importante considerar que el número de cepas de K. pneumoniae provenientes de pacientes hospitalizados que analizamos fue pequeño (n = 15). Además, se observó una mayor susceptibilidad en las cepas de E. coli (99,1 versus 86,5%) y K. pneumoniae (95 versus 66,2%), en comparación a datos obtenidos de población adulta de Latinoamérica, del año 201114. Cifras que al igual que nuestro estudio fueron obtenidas de la población intra-hospitalaria y ambulatoria.
+
+Figura 2 Distribución de las cepas según concentración inhibitoria mínima a piperacilina/tazobactam. Puntos de corte CLSI 2014. Sensible: ≤ 16/4, Intermedio: 32/4-64/4, Resistente: ≥ 128/4. 
+
+En el presente estudio, resultaron susceptibles todas las cepas de E. aerogenes, K. oxytoca, M. morganii, P. mirabilis y Serratia spp. Debido al insuficiente tamaño muestral de estas especies, se sugiere un estudio detallado por cepas para tener una mejor aproximación a la susceptibilidad a PIP/TAZO y presencia de mecanismos de resistencia específico (BLEE).
+
+Al realizar un análisis de los subgrupos de enterobacterias según su mecanismo de resistencia, destaca que no hubo casos de resistencia a PIP/TAZO en cepas BLEE negativas (Tabla 4).
+
+También es importante considerar que, si bien el número de aislados de enterobacterias resistentes a cefalosporinas de tercera generación fue pequeño (n = 11), en este grupo se observó una susceptibilidad in vitro de 100% para amikacina y una susceptibilidad aceptable para PIP/TAZO (73,7%) por lo que estos antimicrobianos representan una alternativa de tratamiento antes de escalar a carbapenémicos, sobre todo si se dispone de antibiograma al momento de tomar decisiones.
+
+Según la publicación de Fica y cols. (2014)15 las cepas productoras de BLEE, debiesen ser susceptibles a la inhibición por tazobactam, y los casos resistentes pudiesen explicarse por disminución de la permeabilidad, aumento relativo de enzimas BLEE o por la presencia de enzimas SHV. Una de las limitaciones de nuestro estudio radica en que no se realizaron mayores análisis de mecanismos de resistencia específicos.
+
+Debido a que no hubo casos de resistencia a amikacina en el subgrupo de enterobacterias productoras de BLEE, resulta importante destacar el valor terapéutico de este antimicrobiano en infecciones resistentes a cefalosporinas. Lo que se condice con lo observado por el grupo colaborativo5.
+
+En resumen, en pacientes pediátricos en nuestra institución, PIP/TAZO presentó una susceptibilidad aceptable (73,7%) en microorganismos resistentes a cefalosporinas de tercera generación, por lo que es una alternativa de tratamiento de estas infecciones, sobre todo cuando el antibiograma compruebe su susceptibilidad. Pero se necesita un número mayor de cepas para dar robustez a los resultados y promover su uso empírico en este tipo de microorganismos resistentes.
+
+Estudio financiado con recursos propios del hospital que están incluidos en la rutina microbiológica y parcialmente por el laboratorio farmacéutico Pfizer, que aportó tiras epsilométricas para determinar CIM de piperacilina/tazobactam.
+
+Agradecimientos.
+
+A los Tecnólogos Médicos y personal del laboratorio de microbiología Hospital Roberto del Río y Doctor German Esparza.
