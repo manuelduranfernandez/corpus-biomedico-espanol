@@ -1,0 +1,156 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000100003
+Cambios clínicos y epidemiológicos de candidemias en pacientes adultos desde 2000 a 2013
+
+Resumen
+
+Introducción: Las infecciones invasoras por Candida spp. se describen cada vez con mayor frecuencia. Objetivo: Precisar datos epidemiológicos de candidemia en nuestro hospital en los últimos años. Metodología: Estudio retrospectivo de pacientes adultos de un hospital universitario en Santiago, Chile, con un o más episodios de candidemia, acaecidas desde enero de 2000 a diciembre de 2013. Resultados: Se identificaron 120 episodios de candidemia, incidencia anual 0,4 casos x 1.000 egresos, 53,3% pacientes masculinos, 58,3% > 60 años y 77,5% presentaban al menos una co-morbilidad. Candida albicans fue la especie más frecuente (55%), seguida por C. glabrata (18,3%), C. tropicalis (11,7%) y C. parapsilosis (9,2%). Los tiempos de incubación e identificación fueron más prolongados para C. glabrata. Al comparar el período 2000-2006 vs 2007-2013, aumentó la frecuencia de C. parapsilosis entre las C. no-albicans y el uso de equinocandinas. Los pacientes con C. albicans presentaban puntaje APACHE-II más elevado, mayor requerimiento de ventilación mecánica invasora, mayor asociación a CVC y menor tiempo de incubación respecto C. no-albicans. La mortalidad a 30 días fue de 31,7%. Conclusiones: Durante este período de 14 años observamos predominio de C. albicans y en el período reciente incremento de C. parapsilosis con disminución de C. glabrata, una disminución de mortalidad global y atribuible junto a mayor uso de equinocandinas.
+
+Palabras clave: Candidemia, candida, equinocandinas, fluconazol.
+
+ 
+
+Introducción
+
+Las infecciones invasoras por Candida spp. se han descrito cada vez con mayor frecuencia1, con una incidencia publicada de candidemia de hasta 7 casos por 1.000 egresos2,3, especialmente en pacientes críticos e inmunocomprometidos. Es el agente identificado en 5 a 10% de los hemocultivos positivos, llegando a ubicarse en varios centros entre los tres patógenos más frecuentemente reconocidos como causa de infección del torrente sanguíneo2,3.
+
+A pesar de avances en el laboratorio micológico y en el arsenal de fármacos antifúngicos, la candidisis invasora y la candidemia aún constituyen un desafío diagnóstico y terapéutico, asociándose a mortalidad entre 54 y 72% de los casos4,5.
+
+En 2013 fue publicado el resultado de un estudio epidemiológico de 672 episodios de candidemia provenientes de 20 centros de 7 países latinoamericanos, incluido Chile, que mostró una incidencia global de 1,18 casos por 1.000 egresos, siendo C. albicans la especie más frecuentemente identificada en la mayoría de los países -con excepción de Colombia y Venezuela- seguida de C. parapsilosis y C. tropicalis, con una mortalidad de 41%6. Si bien esta información resulta de gran utilidad para definir estrategias comunes para la región, no debe reemplazar el conocimiento de la epidemiología local de cada centro que puede dar luces sobre condiciones particulares que requieran intervenciones específicas.
+
+El objetivo del presente estudio fue caracterizar la epidemiología de las candidemias en nuestro hospital, en frecuencia de las diferentes especies, factores asociados a su presentación y objetivar variaciones en la mortalidad de los episodios considerando las nuevas terapias disponibles.
+
+Material y Método
+
+Estudio retrospectivo de pacientes adultos internados en el Hospital Clínico y la Clínica UC de la Red de Salud UC-CHRISTUS. Este centro universitario de nivel terciario, localizado en la ciudad de Santiago, cuenta con 468 camas, de las cuales 94 (20%) son unidades de paciente crítico (UPC) de pacientes adultos.
+
+Se incluyeron pacientes mayores de 15 años de edad con uno o más episodios documentados de candidemia, desde el 1 de enero de 2000 al 31 de diciembre de 2013.
+
+La pesquisa de los pacientes se efectuó a partir del registro del laboratorio de microbiología de hemocultivos positivos para Candida spp. Se procedió a revisar las fichas, registrando los datos de interés de la hospitalización correspondiente al episodio: aspectos demográficos, microbiológicos y clínicos, incluyendo gravedad medida por puntaje APACHE-II7, terapia empleada y desenlace de la hospitalización.
+
+Se registró el tiempo de incubación, definido como las horas desde la obtención de la muestra hasta establecerse la positividad del hemocultivo, tiempo de identificación entendido como las horas transcurridas desde la obtención de la muestra de hemocultivo hasta la identificación de especie y tiempo de procesamiento considerado como la diferencia entre ambos.
+
+Los hemocultivos fueron procesados con el sistema BacT/Alert® (BioMérieux, Marcy-l'Étoile, Francia) y la identificación definitiva se realizó con API 32C® (BioMérieux, Marcy-l'Étoile, Francia) entre 2000 a 2010, y desde 2011 con el sistema MALDI-TOF® (Bruker). La susceptibilidad a los antifúngicos se realizó mediante la técnica de E-Test® (epsilometría) o microdilución en agar (Sensititre® YeastOne MCS Diagnostics).
+
+Para el cálculo de incidencia se usó como denominador el número de egresos hospitalarios de pacientes > 15 años de edad durante el período de tiempo incluido.
+
+Se definió candidemia asociada a CVC como:
+
+• Desarrollo de la misma especie de Candida spp tanto desde el hemocultivos de catéter como del hemocultivo periféricos.
+
+• Hemocultivo de catéter positivo asociado a cuadro séptico en ausencia de otro foco infeccioso concomitante y
+
+• Cultivo de la punta del CVC y hemocultivo positivo para la misma especie de Candida.
+
+Se registró la mortalidad, por cualquier causa, a los 30 días del episodio de candidemia y se utilizó como definición de mortalidad atribuible a candidemia si el evento de candidemia fue el responsable de la descompensación final del paciente, según los registros de la ficha clínica. Se utilizó como definición de fracaso de tratamiento la necesidad de cambio de antifúngico por persistencia de fiebre por más de 72 h o la persistencia de hemocultivos positivos a las 48 h de iniciarse el antifúngico.
+
+Los datos fueron recolectados en una ficha diseñada para el estudio y luego se generó una base de datos en programa Microsoft Excel®. Los resultados de las variables nominales se expresaron en porcentajes y de las numéricas en promedio ± desviación estándar. Para el cálculo de los intervalos de confianza se usó el nivel de 95%. Para el análisis estadístico de los datos se utilizó la prueba de χ2 para las variables categóricas y t-student para las continuas, considerándose una diferencia estadísticamente significativa valor p < 0,05.
+
+Este estudio contó con la aprobación del Comité de Ética de Investigación de la Facultad de Medicina de la Pontificia Universidad Católica de Chile (Proyecto 13474, aprobado el 16 de enero de 2014).
+
+Resultados
+
+Se identificaron 120 episodios de candidemia en 120 pacientes distintos, correspondiendo a una incidencia de 0,4 (0,17-0,55) casos x 1.000 egresos hospitalarios (Figura 1). Sesenta y cuatro pacientes (53,3%) eran de género masculino, correspondiendo 70 (58,3%) a mayores de 60 años y 93 (77,5%) presentaban al menos una co-morbilidad, siendo las más frecuentes: enfermedad cardiovascular, diabetes mellitus y patología hemato-oncológica.
+
+ 
+
+
+
+Figura 1. Incidencia anual de episodios de candidemia global y según especie        desde el 2000 al 2013.
+
+ 
+
+Candida albicans fue la especie más frecuentemente identificada, seguida por C. glabrata, C. tropicalis, C. parapsilosis y en menor frecuencia C. krusei, C. guillier-mondi, C. kefyr y C. lusitaniae (Tabla 1).
+
+ 
+
+Tabla 1. Características demográficas,        co-morbilidades y especie identificada en 120        pacientes con episodios de candidemia
+
+
+
+ 
+
+La duración de la estadía hospitalaria previo al episodio fue de 18 ± 12,7 días.
+
+Factores de riesgo para candidemia
+
+Los más frecuentes fueron el uso de antibacterianos en 104 casos (86,7%), por un período de 17 ± 13,1 días; la presencia de CVC en 65 pacientes (54,2%) por un período de 13,2 ± 10 días; cirugía reciente en los 30 días previos en 57 episodios (47,5%) destacando la cirugía abdominal (n: 29), torácica (n: 10) y traumatológica (n: 9). Entre otros factores de riesgo se encontró que 51 casos (42,5%) estaban en ventilación mecánica invasora (VMI), 48 (40%) presentaban insuficiencia renal aguda o crónica y 45 (37,5%) estaban recibiendo nutrición parenteral central (NPTC), en promedio por 11,9 días (± 11 días) (Tabla 2).
+
+ 
+
+Tabla 2. Factores de riesgo, características de episodios, tiempos de identificación        y terapia antifúngica en 120 episodios de candidemia en general y por cada especie
+
+
+
+ 
+
+Presentación clínica
+
+Sesenta y ocho pacientes (56,7%) se encontraba en UPC, ya fuese unidades de intensivo o intermedio, al momento de presentarse el episodio de candidemia. El puntaje APACHE-II de los pacientes tuvo una mediana de 17 (rango de 4-39), siendo frecuente la fiebre y la hipotensión arterial con requerimiento de apoyo con fármacos vasoactivos. En 51 pacientes (42,5%) se documentó aislamiento simultáneo de Candida spp en otro sitio (en 36 de un sitio, 15 de dos sitios y 2 de tres sitios) siendo más frecuente en orina 29 (24,2%) y vía aérea 26 (21,7%) interpretados como colonización y en 14 (11,7%) se documentó adicionalmente una infección profunda por Candida spp en abscesos de tejidos blandos (n: 3), endocarditis (n: 2), osteomielitis (n: 2), mediastinitis (n: 2), tromboflebitis (n: 2), colecciones pancreáticas (n: 2) y peritonitis asociada a peritoneo-diálisis (n: 1).
+
+Tiempo en confirmar el diagnóstico microbiológico
+
+El promedio de tiempo de incubación fue de 56,1 ± 35,1 h, siendo el período más breve para C. albicans y el más prolongado para C. glabrata (34,5 ± 18,3 h vs 87,2 ± 46,3 h; p < 0,001) y el tiempo de identificación fue de 104,2 ± 56,7 h, siendo el menor tiempo para C. albicans y el más prolongado para C. glabrata (68,5 ± 23,4 h vs 174,2 ± 48,8 h; p < 0,001). El tiempo de procesamiento fue de 54.9 ± 7,8 h, que disminuyó en aproximadamente 7 h (47,3 ± 14 h, p = 0,2) con el uso de MALDI-TOF.
+
+Susceptibilidad in vitro
+
+La sensibilidad a fluconazol fue de 100% para los aislados de C. albicans, C tropicalis y C. parapsilosis; en cambio, fue de 59% para C. glabrata y 57% para las otras especies. Candida krusei resultó resistente a fluconazol en 100% de las cepas, en concordancia con su descrita resistencia natural. La totalidad de las cepas fueron sensibles a equinocandinas.
+
+Tratamiento antifúngico
+
+Como terapia de primera línea, en 75 casos (62,5%) se prescribió fluconazol, en 21 casos (17,5%) se indicó equinocandinas (caspofungina en 18 y anidulafungina en 3), en 18 (15%) anfotericina B (uno con formulación lipídica) y hubo cinco casos (4,2%) que no recibieron tratamiento antifúngico, de los cuales tres fallecieron. El promedio de uso de terapia antifúngica fue de 19,7 ± 14,8 días y de estadía hospitalaria fue de 43,4 ± 31 días, con una mortalidad a 30 días de 31,7% (Tabla 2).
+
+ 
+
+Tabla 3. Comparación de 62 candidemias del período A        (años 2000-2006)    vs 58 del período B (años 2007-2013)
+
+
+
+ 
+
+Variaciones inter-especies de Candidas
+
+Al comparar los 66 episodios de candidemia por C. albicans vs los 54 casos causados por especies no-albicans, destacan algunas diferencias que no alcanzaron significancia estadística: los pacientes con C. albicans eran de mayor edad (64,4 ± 14,9 vs 60,3 ± 16,1 años; p = 0,17), presentaban más días de hospitalización previos al episodio de candidemia (19,4 ± 14 vs 16,6 ± 10,9 días; p = 0,28), mayor frecuencia de estadía en UPC al momento del diagnóstico de la candidemia (62,1 vs 51,9%; p = 0,08) y mayor mortalidad (36,9% vs 29,6%; p = 0,2). En cambio, sí hubo diferencia estadísticamente significativa en: el menor tiempo de identificación (68,5 ± 23,4 h vs 140,5 ± 57,5 h; p = < 0,001), la mayor necesidad de VMI (50,8 vs 33,3%; p = 0,03), puntaje APACHE-II más elevado (18,6 ± 1,78 vs 16,1 ± 1,83; p = 0,02) y más casos asociados a CVC (60 vs 48,1%; p = 0,05). Al comparar tratamientos se usó más fluconazol como primera línea en C. albicans que no-albicans (72,3% vs 54,5%, p = 0,03), y se asoció a menor fracaso como tratamiento de primera línea (25,5 vs 60%; p < 0,01).
+
+Variaciones en el tiempo
+
+Al analizar dos intervalos de tiempo, 62 casos del período A (del año 2000 a 2006) vs 58 del período B (del año 2007 a 2013) (Tabla 3), C. albicans fue la especie predominante en ambos períodos pero en el período B disminuyó C. glabrata como especie más frecuente en no-albicans pasando a predominar C. parapsilosis. Al comparar el tratamiento de primera línea, fluconazol fue el antifúngico más utilizado en ambos períodos, pero con disminución significativa en el período B (70,1 vs 48,3%, p = 0,01) y aumentó significativamente el uso de equinocandinas (4,8 vs. 43,1%, p = 0,01). En cuanto a mortalidad global a 30 días, disminuyó en el período B (37,1 vs 27,5%, p = 0,17), con diferencia estadísticamente significativa en mortalidad atribuible a candidemia (25,8 vs 8,6%, p = 0,01).
+
+Análisis del desenlace
+
+Comparando los 38 pacientes fallecidos vs los 82 sobrevivientes (Tabla 4), destaca en los primeros más frecuencia de pacientes mayores de 60 años (71,1 vs 52,4%, p = 0,04) y de estadía en UPC al momento del diagnóstico (73,7 vs 48,8%, p = 0,01), mayor uso de VMI (65,6 vs 30,5%, p = 0,01) y de insuficiencia renal aguda (68,4 vs 26,8%, p = 0,001). No existió diferencia significativa en la especie responsable del episodio de candidemia entre ambos grupos: C. albicans (57,9 vs 53,7%, p = 0,2), C. glabrata (42,8 vs 42,1%, p = 0,6) y C. tropicalis (28,6 vs 26,3%, p = 0,5) y C. parapsilosis (35,7 vs 15,8%, p = 0,1). Hubo similar tiempo de incubación e identificación de especie en ambos grupos, menor frecuencia de candidemia asociada a CVC entre los fallecidos. Por otra parte, hubo mayor concomitancia de cultivos positivos simultáneos de diferentes sitios para Candida spp. (50 vs 39%, p = 0,001) y estadía más prolongada en UPC en los fallecidos comparados con los sobrevivientes (28,8 ± 21,7 vs 16,5 ± 14,3 días, p = 0,001). En ambos grupos, fluconazol fue el antifúngico más frecuentemente indicado como terapia de primera línea. En los fallecidos hubo más casos con tratamiento antifúngico inicial inadecuado, es decir, el antifúngico prescrito no tenía actividad según el antifungigrama, diferencia que no fue estadísticamente significativa. En cambio, sí se evidenció una significativa mayor necesidad de cambio de tratamiento por fracaso en el grupo de pacientes fallecidos respecto a los sobrevivientes (60 vs 30,6%, p = 0,02).
+
+ 
+
+Tabla 4. Comparación de las características de 38 pacientes fallecidos vs 82      pacientes sobrevivientes al episodio de candidemia
+
+
+
+ 
+
+Discusión
+
+Los 120 episodios de candidemia incluidos en este estudio, correspondiente a un período de 14 años, es la serie más grande de un solo centro publicada hasta ahora en nuestro país, con una incidencia anual de 0,4 casos por 1.000 egresos. Hubo predominio de C. albicans durante todo el período y variaciones en el tiempo de C. no-albicans, con disminución de C. glabrata e incremento de C. parapsilosis.
+
+La incidencia de candidemia en nuestro centro resultó menor a la publicada en estudios epidemiológicos, tanto de países de Latinoamérica como de otros continentes6,9,10. Respecto a los datos latinoamericanos reportados por Nucci y cols.6, es necesario hacer presente que incluyen datos pediátricos y neonatales por lo que no son totalmente comparables con los nuestros. Al igual que en el estudio latinoamericano, en nuestro estudio, C. albicans fue la especie más frecuentemente aislada6, hecho que ya había sido publicado por autores de nuestra institución11. En una revisión reciente de Guinea sobre la tendencia global de especies causantes de candidemia, se evidencia que, en la mayoría de los países, C. albicans es la especie más frecuentemente identificada, pero con variaciones en la frecuencia de las especies no-albicans más relevantes; así, en E.U.A. y países del norte de Europa predomina C. glabrata mientras que en España y Brasil lo es C. parapsilosis, con baja frecuencia de C. glabrata, planteándose la hipótesis que esto fuera consecuencia de clima, uso de antifúngicos o procedimientos de manejo de CVC12.
+
+En nuestros resultados observamos el interesante cambio de predominio de C. glabrata en no-albicans hasta el período reciente en que C. parapsilosis predomina como la especie no-albicans más frecuente, coincidiendo con datos epidemiológicos de la región para el período 2008-20106. Durante el período de estudio no hubo hallazgos inesperados en la susceptibilidad a azoles, tal como se reportó previamente en una serie de nuestro centro13 ni se identificó resistencia a equinocandinas; esto no resta argumentos para mantener la vigilancia futura sobre cambios en el perfil de susceptibilidad, especialmente en la medida que siga aumentando la prescripción de equinocandinas.
+
+Este estudio permite caracterizar los episodios de candidemia en los pacientes adultos de nuestro hospital, la mitad de los cuales se presentan en individuos mayores de 60 años, con elevada frecuencia de co-morbilidades y de factores de riesgo tradicionales. En su mayoría, la candidemia representó un evento tardío dentro de la tercera semana de hospitalización y más de la mitad de los casos se encontraban en UPC al momento del diagnóstico. Todos estos aspectos son similares a lo antes publicado en la literatura internacional2,8,10.
+
+En los resultados queda evidenciado que los tiempos de incubación fueron menores para C. albicans y C. tropicalis, mientras que fueron más prolongados para C. glabrata. Esta característica había sido comunicada por Lai CC y cols., quienes señalaron que el tiempo de positividad del hemocultivo, desde el inicio de la incubación, era más prolongado para C. glabrata y menor para C. tropicalis, C albicans y C parapsilosis. En su análisis, para un punto de corte de tiempo de positividad prolongado superior a 27,7 h, presentaba una sensibilidad diagnóstica para C. glabrata de 93,9%, especificidad 66,4%, valor predictor positivo (VPP) 39,2% y valor predictor negativo (VPN) de 97,9%14. Si bien este punto de corte no es planteable para los tiempos reportados en nuestro estudio, podría ser materia de un nuevo análisis con mayor número de cepas que permita validar un punto de corte aplicable localmente. La relación entre horas de positividad de hemocultivos de muestras de sangre periférica y la asociación de candidemia a CVC fue publicada en 2008 por Ben Ami y cols., quienes definieron con un punto de corte ≤ 30 h. una sensibilidad de 100%, especificidad de 51,4%, VPP 41,9% y VPN 100% para el diagnóstico definitivo de candidemia asociada a CVC15. Recientemente Stempel JM y cols. relacionaron el tiempo de reporte de hemocultivo positivo con la fuente de la candidemia concluyendo que si el tiempo era < 48 h tenía especificidad de 92% y VPP de 76% para candidemia por C. glabrata asociada a CVC16.
+
+Con el propósito de acortar los tiempos diagnósticos, constatamos el beneficio de la incorporación de MALDI-TOF en la identificación de especie. Este nuevo recurso permite la correcta identificación de especie superando a Vitek II17, y aún es posible esperar mayores beneficios si se usa directamente la sangre de la botella del frasco de hemocultivo logrando identificación en 30 min; con ello se alcanza una concordancia con los métodos tradicionales de 96% para C. albicans y 86% para C. no-albicans17,18.
+
+Considerando los aspectos de tiempo de positividad e identificación, es relevante comentar su impacto clínico porque si las decisiones de tratamiento antifúngico se postergan hasta contar con la información completa se incrementa el riesgo de mortalidad del episodio19,20. Garey y cols., publicaron datos de mortalidad en pacientes con candidemia según el momento de inicio de la terapia antifúngica respecto al momento de la toma de hemocultivo que evidenciaba la candidemia, observando una mortalidad de 15% si el tratamiento antifúngico se iniciaba el mismo día de la toma del hemocultivo mientras que la cifra superaba el 40% si la terapia se instauraba tres o más días después20. Este resultado pasa a ser un argumento poderoso para iniciar una terapia antifúngica empírica ante la sospecha diagnóstica, a la espera de confirmar la infección sanguínea. Lo que puede demorar entre 34 y 87 h según la especie, de acuerdo a nuestros resultados. Lamentablemente, no contamos con nuestro dato de la diferencia de horas entre la toma de muestra de hemocultivos e inicio de antifúngicos para relacionar con mortalidad.
+
+Al comparar candidemias por C. albicans vs no albicans, las primeras presentan mayor gravedad clínica, con mayor frecuencia fueron diagnosticadas en pacientes en UPC, mayor score APACHE II y mayor necesidad de VMI, concordante con los datos reportados en la literatura21.
+
+La mortalidad global fue 31,6%, lo que es menor a otras series, incluyendo la serie latinoamericana cuya mortalidad en adultos fue de 48,9%6. No encontramos diferencia significativa en la mortalidad por especie; sin embargo, llama la atención un valor mayor de mortalidad para candidemia por C. parapsilosis lo que es contrario a las diferentes series publicadas. No tenemos una explicación específica para este dato, pero podría estar influido por el número de cepas incluidas; sin duda se hace necesario vigilar esta situación de manera prospectiva. C. tropicalis fue la segunda especie por frecuencia en mortalidad dentro del grupo no-albicans, lo que se acerca a lo referido en publicaciones internacionales recientes22,23.
+
+Dentro de los factores estudiados en los pacientes que fallecieron destacó una mayor edad, la mayor frecuencia de estadía en UPC al momento del diagnóstico, mayor necesidad de VMI, falla renal aguda, mayor frecuencia de colonización y fracaso a tratamiento de primera línea. Un estudio italiano recientemente publicado con 270 casos de candidemia, con predominio de C. albicans y mortalidad de 35%, confirma varias de estas características que se asociaron de manera independiente a mortalidad como mayor edad, hospitalización en UPC, falla renal aguda pero también identifica como factores asociados la infección por C. albicans comparado con otras especies, shock séptico, neumonía, cáncer de órganos sólidos y enfermedad pulmonar crónica y constata que el tratamiento antifúngico adecuado se asocia a bajo riesgo de mortalidad24.
+
+Se debe destacar el cambio de antifúngicos prescritos con el curso de los años, aumentando el uso de equinocandinas y disminuyendo el de fluconazol y anfotericina-B. Es plausible considerar que este factor podría haber colaborado en la disminución de la mortalidad a 30 días y atribuible reportada en nuestro estudio, similar a lo publicado en revisiones sistemáticas23.
+
+Nuestro estudio presenta algunas limitaciones; la más importante es su diseño retrospectivo. Tampoco es posible extrapolar estos resultados a otros centros chilenos de complejidad similar pero, posiblemente hay ciertos aspectos comunes a otros centros, los que también pueden haber experimentado cambios epidemiológicos durante los últimos años. Otra limitación es la falta de una mejor definición para candidemia asociada a CVC, el impacto de su retiro en el desenlace, la falta de registro de inicio de antifúngicos y la no inclusión de la producción de bio-película en los análisis de resultados por especie, ya que ha sido señalada cada vez con mayor frecuencia el último tiempo como un factor que impacta en el pronóstico25.
+
+En resumen, esta es la serie de casos de candidemia más grande publicada en nuestro país donde C. albicans es la especie predominante y dentro del grupo no-albicans, C. parapsilosis experimenta un incremento en el tiempo logrando desplazar a C. glabrata como especie predominante. La mortalidad es menor a la publicada en otras series, demostrándose disminución a través del tiempo, período en el que se observa mayor uso de equinocandinas.

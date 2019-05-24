@@ -1,0 +1,216 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000100062
+Neutropenia febril en niños con cáncer: manejo en el servicio de emergencias
+
+Introducción
+
+Los niños con cáncer que reciben tratamiento con fármacos antineoplásicos/citotóxicos experimentan neutropenia como una consecuencia directa del mismo. Aproximadamente un tercio de estos niños desarrollan fiebre durante el período neutropénico, o tres episodios de neutropenia febril por año1. La fiebre en el contexto de neutropenia secundaria a mielosupresión por medicamentos quimioterapéuticos es una complicación que puede amenazar la vida y requiere de atención inmediata. Su importancia radica en que este grupo de pacientes tiene un riesgo muy elevado para desarrollar enfermedades bacterianas invasoras, tanto así que el riesgo de morbilidad y mortalidad se correlaciona directamente con la intensidad y duración de la neutropenia2, la fiebre puede ser el único indicador de enfermedad bacteriana grave3.
+
+De acuerdo al Registro Oncopediátrico Hospitalario de Argentina, entre los años 2000 y 2005 se diagnosticaron 7.621 casos de cáncer en niños en ese país. Esta enfermedad representó la primera causa de muerte entre los 5 y 15 años de edad. En Chile, datos del Programa Infantil Nacional de Drogas Antineoplásicas (PINDA) estiman una incidencia de 12 a 14 casos por cada 100.000 niños bajo 15 años de edad, lo que, extrapolado a toda la población, hace esperar 500 a 600 casos nuevos por año en el país4.
+
+La mortalidad asociada a neutropenia febril en pediatría se sitúa alrededor de 2-3% si los pacientes reciben tratamiento antimicrobiano4, mientras que se ha reportado mortalidad de hasta 50% en pacientes que no recibieron antibioterapia durante las primeras 48 h de iniciado el cuadro5. Datos de mortalidad en Estados Unidos de América (E.U.A.) son muy similares a los que se reportan en América Latina, siendo la mayor parte de estudios provenientes de Chile y Argentina6,7.
+
+Algunos factores que influyen sobre la mortalidad son el tipo de malignidad (hematológica vs tumores sólidos), así como el tipo de infección y el microorganismo causal (bacilos gramnegativos vs cocáceas grampositivas)5.
+
+Además de la morbilidad y mortalidad que afectan a estos pacientes, la neutropenia febril supone un alto costo en cuanto a su atención, especialmente porque con frecuencia implican hospitalizaciones prolongadas secundarias a complicaciones asociadas5. Sólo en el año 2012 hubo 108.419 hospitalizaciones por neutropenia relacionada con cáncer en E.U.A., de las cuales 16.859 fueron niños, con un costo total de $2.700 millones de dólares para el sistema de salud estadounidense8. Afortunadamente, está bien establecido que el tratamiento antimicrobiano oportuno disminuye la mortalidad por una infección bacteriana seria de forma considerable9. Por otro lado, el retraso para la administración de antimicrobianos se ha correlacionado con peor pronóstico10.
+
+Por estas razones, es de suma importancia que el médico conozca bien el manejo del niño con cáncer que se presenta con fiebre al servicio de emergencias y en el que se documenta neutropenia en el hemograma. La presente revisión bibliográfica tiene como objetivo principal contribuir a la continua reducción de la mortalidad asociada con esta condición, mediante un enfoque centrado en estratificación de riesgo y antibioterapia temprana de amplio espectro, basada en la evidencia y con énfasis en la población de Latinoamérica. La neutropenia febril en el paciente receptor de trasplante de precursores hematopoyéticos es un tema amplio que se sale del alcance de esta revisión y, por lo tanto, la presente se limitará a abarcar la neutropenia febril en el paciente pediátrico con cáncer y quimioterapia.
+
+Definiciones
+
+A pesar de que la definición varía según los autores, tradicionalmente neutropenia se define como un recuento absoluto de neutrófilos circulantes < 1.500/µL, y se diagnostica mediante el hemograma con diferencial11,5:
+
+Según la intensidad, la neutropenia se puede clasificar en leve (1.000-1.500 neutrófilos absolutos/µL), moderada (500-1.000 neutrófilos absolutos/µL), grave (< 500 neutrófilos absolutos/µL), y profunda (< 100 neutrófilos absolutos/µL)4. La Sociedad Americana de Enfermedades Infecciosas (IDSA) define fiebre en pacientes neutropénicos como una medición única de temperatura oral por encima de 38 ˚C por más de una hora3,5. Para efectos de esta revisión, la neutropenia febril se va a definir como fiebre ≥ 38 ˚C en dos mediciones o ≥ 38,5 ˚C en una medición, sumado a un recuento de neutrófilos absolutos menor de 1.000/µL, ya que es por debajo de este número que hay aumento del riesgo de infección clínicamente significativa4,12.
+
+Manejo en el entorno de emergencias
+
+Antes de confirmarse la presencia de neutropenia
+
+En todo niño que se presenta al servicio de emergencias se debe realizar una valoración rápida y sistemática, con el propósito de reconocer condiciones graves que ameriten intervención inmediata, como insuficiencia respiratoria y shock, que puedan progresar eventualmente a la muerte. El modelo de evaluación recomendado por la Asociación Americana del Corazón para todo paciente potencialmente grave consiste en una evaluación general, y consta de la observación del estado general, el color de la piel, y el esfuerzo respiratorio durante los primeros segundos del encuentro con el paciente, seguido de una evaluación primaria (valoración de la vía aérea, respiración, y circulación (ABC) para evaluar la función neurológica y cardiovascular)13.
+
+Una buena apariencia o nivel de conciencia refleja una adecuada ventilación, oxigenación, perfusión cerebral, homeostasis, y función del sistema nervioso central. Por otro lado, una apariencia general anormal establece que el niño se encuentra gravemente enfermo (sin importar la causa). En cualquier niño con una apariencia general preocupante (pobre tono muscular, letargo, somnolencia, llanto inconsolable, mirada perdida, llanto débil o amortiguado) se deben iniciar medidas inmediatamente para aumentar la oxigenación, ventilación y perfusión. Dicho lo anterior, en muchos niños la fiebre puede ser la única manifestación de enfermedad grave en pacientes inmunocomprometidos por quimioterapia, y niños que inicialmente poseen un buen estado general rápidamente pueden llegar a deteriorarse13.
+
+Una vez que se establece que el paciente no requiere de intervención inmediata alguna y se documenta la presencia de fiebre, se debe proceder a determinar el recuento de neutrófilos absoluto. Si se cuenta con un hemograma del mismo día, es válido utilizar el valor de neutrófilos absolutos de ese hemograma para evitar retrasos en el inicio de la terapia. Además, si es posible, se debe comparar con otros hemogramas previos recientes2,4.
+
+En pacientes que reciben quimioterapia, se debe tomar en cuenta cuándo fue la última sesión para valorar el nadir de mielosupresión2. Cada esquema de quimioterapia tiene su propio nadir; sin embargo, en términos generales, el período de mayor riesgo para el desarrollo de neutropenia es 7-10 días luego de la última dosis de quimioterapia, y la recuperación suele ser 5 días después del mismo. A pesar de esto, es importante recalcar que el tipo de quimioterapéutico, así como el régimen de quimioterapia utilizado, conllevan diferentes riesgos de mielotoxicidad entre ellos y, por lo tanto, también así varía el riesgo de desarrollar neutropenia. Por ejemplo, los ciclos de quimioterapia para tumores sólidos suelen causar períodos más cortos de neutropenia en comparación con los ciclos para malignidades hematológicas5. Se ha observado que, de los pacientes con tumores sólidos, sólo 10-50% desarrollan fiebre y neutropenia en al menos un ciclo de quimioterapia, mientras que más de 80% de los pacientes con malignidades hematológicas desarrollan fiebre y neutropenia en al menos un ciclo de quimioterapia3.
+
+Luego de confirmarse la presencia de neutropenia
+
+Desde sus inicios, el manejo de la neutropenia febril en el paciente con cáncer ha dado énfasis a la identificación de los pacientes lo más pronto posible, triage rápido y antibioterapia durante los primeros 60 min del ingreso1. Dicha estrategia ha hecho que la mortalidad disminuya desde 30 hasta 1% en países desarrollados en el último siglo14. A grandes rasgos, el manejo en el entorno de emergencias del niño con cáncer, neutropenia y fiebre se podría resumir en los siguientes pasos15:
+
+Búsqueda de posible foco infeccioso.
+
+Exámenes de laboratorio.
+
+Estratificación de riesgo.
+
+Terapia antimicrobiana y adyuvante.
+
+Búsqueda de foco infeccioso
+
+A pesar de que generalmente la fiebre en estos niños es secundaria a una condición infecciosa benigna (por ejemplo, una virosis), hasta 20% pueden tener una infección bacteriana grave16-18 (Tabla 1).
+
+Tabla 1 Probables etiologías según la condición de fondo del paciente2,14
+
+						 
+
+Uno de los aspectos más importantes para el manejo del paciente es la búsqueda de la “puerta de entrada” de agentes infecciosos al torrente sanguíneo. Para ponerlo en perspectiva, esto es el doble de riesgo que tienen los neonatos febriles16-18. Debido a que la reacción inflamatoria del paciente con neutropenia febril es escasa o está ausente, no focaliza adecuadamente las infecciones4. Entre los posibles focos de entrada que se deben investigar están: vía respiratoria, tracto genitourinario, piel, tracto gastrointestinal, y catéteres venosos, por lo que se debe realizar una historia clínica y examen físico minuciosos para identificar el foco de infección más probable.
+
+En el año 2010 el Comité Nacional de Infectología Pediátrica en Argentina publicó datos sobre la epidemiología de la neutropenia febril en la primera década de este siglo, destacando un aumento en el aislamiento de bacterias cocáceas grampositivas e infecciones polimicrobianas, asociado a una disminución de las especies gramnegativas4,19. Interesantemente, a partir del año 2012 ha habido un aumento en los reportes de infección por bacilos gramnegativos, así como de los episodios de bacteriemia por microorganismos multi-resistentes20,21. Estas tendencias pueden deberse a muchos factores, entre los cuales se incluyen la introducción de nuevos tratamientos quimioterapéuticos, neutropenias de mayor intensidad y duración, presión de selección bacteriana por el uso de profilaxis antimicrobiana, mayor uso de catéteres venosos centrales, y prolongación de la estancia hospitalaria4.
+
+La prevalencia relativa de distintos patógenos varía entre los países, e incluso entre los centros hospitalarios en una misma ciudad, por lo que es altamente recomendable realizar una vigilancia epidemiológica en forma estricta de los microorganismos identificados y de sus patrones de susceptibilidad a antimicrobianos, para realizar una terapia empírica racional y acorde a la realidad institucional4.
+
+Los virus respiratorios son la causa más común de fiebre en niños inmunocompetentes, y son una causa importante de fiebre en niños neutropénicos. Entre los virus que más frecuentemente afectan niños con neutropenia febril se encuentran virus respiratorio sincicial, influenza, adenovirus, parainfluenza, y metapneumovirus humano4. Un estudio reciente efectuado por Torres y cols., sobre 1.044 episodios de neutropenia febril en 525 niños, encontró al menos un virus respiratorio en 46% de los pacientes mediante detección de ácidos nucleicos con reacción de polimerasa en cadena22. De manera similar, Söderman y cols., evaluaron 87 episodios de neutropenia febril encontrando un virus respiratorio en 45% de los pacientes; ambas experiencias encontraron incidencias similares a las de otros estudios23.
+
+Muchos niños con patología oncohematológica tienen catéteres intravasculares permanentes, cuyo uso repetido aumenta el riesgo de colonización y bacteriemia. En estos niños particularmente, las infecciones de catéter pueden ser indolentes y solamente manifestarse como fiebre de bajo grado, por varios días. A pesar de esto, siempre se debe examinar minuciosamente el sitio de inserción del dispositivo y obtener hemocultivos a través del catéter2.
+
+Cualquier lesión en la piel debe estudiarse (vesículas, excoriaciones, celulitis). A su vez, es importante tomar en cuenta que un paciente neutropénico puede no montar una respuesta inflamatoria evidente, y más bien puede presentar un mínimo eritema, exudados o dolor en los sitios afectados, o no tener signos inflamatorios del todo2. Siempre se debe examinar detenidamente la mucosa oral y rectal en búsqueda de aftas, mucositis, úlceras bucales, fisuras o celulitis perianal2.
+
+Cabe mencionar que las infecciones invasoras por hongos son una causa importante de morbimortalidad en pacientes neutropénicos, llegando a tener una mortalidad hasta 30%24. Estas generalmente suelen presentarse más tardíamente dentro de los episodios de neutropenia febril. Entre los agentes más frecuentes se encuentran Candida spp. y Aspergillus spp4. Así, se debe sospechar infección por hongos, particularmente Aspergillus spp, en pacientes con fiebre persistente (≥ 96 h) o recurrente, que no haya respondido a antimicrobianos de amplio espectro25.
+
+Otros potenciales causantes de la fiebre en estos pacientes incluyen transfusión de productos sanguíneos, fármacos citostáticos, la enfermedad neoplásica como tal, y mucositis, entre otras. Dado que estas causas no requieren de tratamiento antimicrobiano, se podría inferir que en algunos casos probablemente existe un sobre-tratamiento anti-infeccioso en niños con neutropenia febril17.
+
+Exámenes de laboratorio
+
+Cultivos sanguíneos. En todo paciente con cáncer y neutropenia febril, se debe tomar cultivos de sangre por punción periférica (y de catéter central, en caso que lo hubiese)25. Se recomienda obtener al menos dos muestras de punciones venosas diferentes, separadas cada una por 20 min, con un volumen entre 2-5 mL cada uno, en preescolares y escolares, y 10 mL en adolescentes4. Solamente en 10-30% de los pacientes se hace logra un diagnóstico microbiológico por este método16.
+
+Exámenes de orina. En la medida de lo posible, se tomará también una muestra de orina para urocultivo. La forma recomendada para su obtención es con la técnica de chorro medio cuando la muestra se pueda recolectar de forma rápida, ya que el cateterismo vesical está contraindicado en estos pacientes. Es importante mencionar que la recolección de la muestra de orina no debería atrasar el inicio de la antibioterapia25. Téngase presente que la mayoría de los pacientes con neutropenia profunda no va a presentar piuria, aunque sí tenga infección urinaria4.
+
+Marcadores de inflamación. El papel de la proteína C-reactiva (PCR) es controversial. A pesar de que se utiliza frecuentemente en estos pacientes para detectar la presencia de infección bacteriana grave, con frecuencia no se eleva en forma significativa hasta 36-72 h de iniciada la infección26,27. La PCR es un marcador poco específico (a pesar de ser muy sensible), dado que otras condiciones como la misma neoplasia o un daño tisular lo podrían aumentar26.
+
+En comparación con la PCR, la procalcitonina (PCT) tiene la ventaja de que alcanza su valor máximo a las 6 h del estímulo infeccioso, y es un marcador muy específico, aunque poco sensible, capaz de diferenciar entre infección viral y bacteriana27. A pesar de que se ha estudiado de forma extensa en adultos, existen pocos estudios en niños, y con resultados controversiales. Se realizó un meta-análisis en el año 2012 de 10 estudios prospectivos que evaluaban la eficacia de la PCT por sí sola y en comparación con la PCR. Concluyeron que ambas tienen una eficacia similar para diagnosticar sepsis bacteriana en pacientes neutropénicos febriles. Sin embargo, la PCR era más sensible y la PCT más específica26. Otro estudio más reciente, llevado a cabo por Hemming y cols., en 27 pacientes con 48 episodios de neutropenia febril no mostró un beneficio definitivo de la PCT28.
+
+Hasta muy recientemente, la medición de otros marcadores inflamatorios como interleuquina (IL) -6 y -8 contaba con muy pocos estudios que evaluaran su eficacia, por lo que su valor diagnóstico aún está por determinarse16,26.
+
+Exámenes según sintomatología específica
+
+Cultivo de heces
+
+Se debe tomar una muestra de heces en niños con diarrea o signos que sugieren enteritis. También se recomienda realizar test para búsqueda de toxina A y B de Clostridium difficile en los niños con diarrea4 y tinciones para la pesquisa de coccidios: Cryptosporidium y Microsporidium.
+
+Estudio microbiológico de líquido cefalorraquídeo
+
+Se recomienda efectuar en todo niño con sospecha de infección del sistema nervioso central4. Siempre obtener tres muestras para análisis citoquímico, bacteriológico (tinción de Gram directa y cultivo) y estudios ulteriores que pudieran ser necesarios.
+
+Radiografía de tórax
+
+La radiografía de tórax solamente se debe obtener en pacientes sintomáticos; se ha constatado que en niños asintomáticos respiratorios la incidencia de neumonía es de < 5%25.
+
+Ultrasonido y tomografía computarizada
+
+El ultrasonido abdominal es una herramienta importante para el diagnóstico de enterocolitis neutropénica, también conocida como tiflitis. Esta entidad se observa principalmente en pacientes inmunocomprometidos por la quimioterapia, en receptores de trasplante de órganos, o con diagnóstico de síndrome de inmunodeficiencia adquirida (SIDA). Se presenta como consecuencia del daño a la mucosa intestinal causado por los agentes quimioterapéuticos que, junto con el estado de inmunosupresión del paciente, permiten la invasión intramural de microorganismos (bacterias gramnegativas, cocáceas grampositivas, hongos y virus). Los síntomas más importantes que deberían hacer sospechar esta condición en un paciente con recuento de neutrófilos < 1.000/µL incluyen: dolor abdominal, fiebre y diarrea, siendo también frecuentes las náuseas, vómitos y distensión abdominal29. La tomografía computada (TC) es una alternativa no invasora con mayor sensibilidad que el ultrasonido abdominal, ya que con ella se puede delimitar el engrosamiento de la pared intestinal, así como del ciego y colon, y permite observar una neumatosis intestinal, inflamación pericolónica y masas inflamatorias. La principal desventaja sobre el ultrasonido es que la TC expone el paciente a radiación importante, por lo que su beneficio se debería sopesar con el riesgo potencial de la radiación29.
+
+Detección de virus respiratorios
+
+El papel y la importancia de las técnicas de inmunofluorescencia, detección de antígenos virales, biología molecular para detectar virus respiratorios en pacientes neutropénicos febriles aún no ha sido definido por completo. En el estudio anteriormente mencionado por Torres y cols., a pesar de que 65% del total de niños se clasificó como de alto riesgo para infección bacteriana grave, en todos los que se detectó un virus respiratorio hubo una evolución favorable en términos de: días de hospitalización, requerimiento de ventilación mecánica, días de fiebre, días de neutropenia y necesidad de cuidado intensivo, de manera similar con aquellos en quienes no se detectó virus respiratorio22. Esto puede sugerir que la evaluación sistemática de virus respiratorios al ingreso podría ser una herramienta valiosa en el abordaje de estos pacientes; sin embargo, se requieren más estudios para definir si es necesario internar a pacientes con neutropenia febril en quienes se detecta un virus respiratorio.
+
+Detección de infección por hongos
+
+La pesquisa de estas infecciones se debe considerar en los pacientes con fiebre persistente por 96 h o más. Se debe dar consideración cuidadosa a los hallazgos clínicos, radiológicos y de laboratorio para identificar patógenos fúngicos. El estudio de elección para la identificación de enfermedad fúngica de forma temprana en pacientes de alto riesgo es la TC torácica de alta resolución, donde se puede observar tempranamente una imagen de macronódulo rodeado de tejido con apariencia en vidrio esmerilado (conocido como el signo del halo). Cabe mencionar que este hallazgo no es cien por ciento consistente en pediatría, aunado al hecho de que, si se atrasa la realización de la tomografía unos cuantos días, los hallazgos pueden ser poco específicos14.
+
+Además, del estudio radiológico, está recomendada la detección de galactomanano para la búsqueda de infección fúngica invasora, particularmente aquella causada por Aspergillus spp. Este test se debería tomar dos veces por semana de forma secuencial, y ha demostrado tener una sensibilidad de 76% en detección sanguínea, y 78-82% en su detección en especímenes de lavado broncoalveolar14.
+
+Evaluación del riesgo
+
+Está bien establecido que no todos los niños con neutropenia febril tienen el mismo riesgo de morbilidad y mortalidad; en los últimos años se han hecho esfuerzos para distinguir entre pacientes de bajo riesgo (que se podrían manejar de forma ambulatoria) y de alto riesgo (que ameritan manejos más enérgicos)12,16. La internación obligada de estos pacientes, a pesar de que ha mejorado dramáticamente su sobrevida, resulta en hospitalización prolongada de más de 75% de niños, sin tener una infección grave y los expone a efectos adversos de los antimicrobianos, desarrollo de resistencia bacteriana, infecciones nosocomiales, disminución de la calidad de vida, y alto costo económico para las instituciones16,17.
+
+Todo esto ha hecho que cada vez más se tome en consideración el riesgo que tiene un niño neutropénico de realmente tener una infección bacteriana como causa de su fiebre, así como la posibilidad de realizar un manejo más selectivo, incluyendo ciclos de antimicrobianos más cortos, egreso temprano, o inclusive manejo ambulatorio con antimicrobianos orales3,14. El asunto crítico lleva a desarrollar herramientas adecuadas que logren identificar a aquellos pacientes con alto o bajo riesgo por enfermedad bacteriana invasora3.
+
+Por esta razón, se han creado los conceptos de Risk Prediction Models (RPM) y Clinical Decision Rules (CDR)14,16. Los primeros toman en cuenta datos clínicos, biomarcadores, información microbiológica y epidemiológica para predecir el riesgo de que ocurra un evento en el transcurso de la enfermedad (por ejemplo, muerte). Entre los parámetros que tradicionalmente se han utilizado en los RPM están: temperatura, recuento de leucocitos, PCR cuantitativa, procalcitonina, IL-8, signos de infección viral, recuento absoluto de monocitos. Los segundos analizan el riesgo predicho por el RPM y toman una decisión basada en dicho riesgo (por ejemplo, internar al paciente, cambiar a antimicrobianos orales, suspender antimicrobianos, etc.). La CDR ideal debería utilizar parámetros claramente definidos, fáciles de obtener, y sin diferencias de interpretación entre observadores16.
+
+Hasta la fecha se han desarrollado múltiples esquemas de estratificación de riesgo14,25. De interés para la población pediátrica latinoamericana, en el año 2001 Santolaya6 y cols., publicaron un estudio prospectivo multicéntrico con 447 episodios de neutropenia febril en Chile, identificando cinco parámetros clínicos y de laboratorio que se asociaron de forma independiente con infección bacteriana invasora con una sensibilidad de 90% y especificidad de 65%. Estos cinco parámetros son (Tabla 2): 1) PCR ≥ 90 mg/L; 2) hipotensión arterial; 3) recaída de leucemia; 4) plaquetas ≤ 50.000/µL; 5) ≤ 7 días desde la última quimioterapia; siendo los dos más fuertemente asociados la PCR elevada y la presencia de hipotensión arterial. Con estos parámetros, se propuso un RPM para predecir el riesgo de infección bacteriana invasora, en tanto que un niño tiene alto riesgo si tiene dos o más factores de riesgo, o un solo factor de riesgo si este es la PCR, hipotensión arterial, o recaída de leucemia.
+
+Tabla 2 Parámetros clínicos y de laboratorio asociados con sepsis grave, infección bacteriana invasora, mortalidad y estancia hospitalaria prolongada6,30,32
+
+						 
+
+Posteriormente, en el año 2008 Santolaya30 y cols., publicaron otro estudio con 601 episodios de neutropenia febril, donde identificaron tres variables independientemente asociadas con sepsis grave no aparente clínicamente durante las primeras 24 h de hospitalización (Tabla 2): 1) edad ≥ 12 años; 2) PCR ≥ 90 mg/L (también encontrada en el estudio anterior) y 3) IL-8 ≥ 300 pg/mL.
+
+A su vez, en 2005 Basu31 y cols., realizaron un análisis retrospectivo de 12.446 pacientes pediátricos con cáncer y neutropenia febril, identificando varios factores de riesgo asociados con un aumento de la mortalidad y de la estancia hospitalaria (Tabla 2): 1) raza no-blanca; 2) edad < 1 año o > 12 años; 3) leucemia mielocítica (tres veces más riesgo de mortalidad y estancia prolongada que leucemia linfocítica); 4) presencia de más de una neoplasia; 5) presencia de bacteriemia o septicemia; 6) complicaciones asociadas (neumonía, infección fúngica invasora) y 7) hipotensión arterial. En un estudio de validación por Santolaya32 y cols., en 2013, se propuso incorporar un modelo de predicción de sepsis en el abordaje inicial que incluye todas las variables anteriores, recalcando que se requiere validación prospectiva en diferentes escenarios pediátricos.
+
+Por otra parte, en el mismo estudio de Basu31 y cols., se encontró que ciertos tipos de cáncer conllevan menor riesgo de mortalidad que leucemia linfocítica aguda (Tabla 3): linfoma de Hodgkin, osteosarcoma, sarcoma de Ewing y rabdomiosarcoma.
+
+Tabla 3 Neoplasias asociadas con menor o mayor riesgo de mortalidad y estancia hospitalaria prolongada en comparación con leucemia linfocítica32
+
+						 
+
+La Sociedad Latinoamericana de Infectología Pediátrica describe varios factores relacionados con bajo riesgo de infección bacteriana invasora en niños con neutropenia febril (Tabla 4): 1) neutropenia con duración esperada < 7 días; 2) ausencia de catéter venoso central; 3) evidencia temprana de recuperación medular (> 100 monocitos/µL); 4) ausencia de datos de compromiso del sistema nervioso central; 5) temperatura < 39 ˚C al ingreso; 6) ausencia de dolor abdominal y 7) buen estado general al ingreso4. A su vez, se pueden considerar como pacientes de bajo riesgo aquellos que no tengan ninguno de los factores de alto riesgo, anteriormente mencionados25.
+
+Tabla 4 Factores relacionados con bajo riesgo de infección bacteriana invasora en niños con neutropenia febril4
+
+						 
+
+En adultos, la clasificación formal de pacientes de bajo riesgo se realiza mediante el “Multinational Association for Supportive Care in Cancer Risk-Index Score” o “MASSC score”. Sin embargo, este índice no es extrapolable a la población pediátrica3.
+
+En esencia, la mayoría de los CDR validados en la actualidad tienen sensibilidades bajas-moderadas (59-100%) y especificidades muy variables (19-100%). A nivel mundial los estudios en los cuales son basados suelen tener la desventaja de que entre ellos hay variaciones en los criterios de inclusión, definición específica de neutropenia febril, y los resultados medidos. Por lo tanto, ninguno de estos se puede recomendar como el definitivo para la estratificación de riesgo, ya que ninguno de ellos es más efectivo o confiable que los otros33. A su vez, es importante mencionar que a la hora de derivar las CDR's a diferentes poblaciones, generalmente se sobrestima su efectividad, por lo que constantemente se están realizando estudios de validación, tanto geográfica como temporal, ya que las diferencias en factores como prácticas locales, sistemas y abordajes alteran cómo se comportan las CDR's.
+
+Tratamiento antimicrobiano
+
+En el año 2011, la Sociedad Latinoamericana de Infectología Pediátrica y en el 2013 (actualizada en 2017), la Sociedad Americana de Oncología Clínica publicaron guías de manejo para neutropenia febril en niños con cáncer. Ambas concuerdan en que los pacientes de alto riesgo deben internarse y recibir tratamiento antimicrobiano intravenoso empírico de amplio espectro. A su vez, en pacientes de bajo riesgo se puede considerar el tratamiento intrahospitalario abreviado o el ambulatorio4,25.
+
+Importancia del tiempo para inicio del tratamiento
+
+Desde las primeras guías publicadas en 1996 se enfatiza la iniciación de los antimicrobianos durante los primeros 60 min desde que el paciente ingresó al servicio de emergencias, medida estándar que la mayoría de centros utilizan como meta1. Esto tiene una importancia enorme, ya que el retraso para la administración de los antimicrobianos se ha correlacionado con peor pronóstico, mientras que el inicio rápido se ha relacionado con mejor pronóstico9,10. Sin embargo, a pesar de esfuerzos constantes para cumplir con esta cuota, se ha visto un alargamiento progresivo del tiempo para la administración de los antimicrobianos, tanto así que > 50% de los departamentos de emergencias en E.U.A. tienen un tiempo para la administración de antimicrobianos de > 60 min9,34.
+
+En respuesta a lo anterior, varios centros en el mundo han implementado proyectos para el mejoramiento de la calidad, creando equipos multidisciplinarios y protocolos internos para disminuir el tiempo para la administración de antimicrobianos1,9. Entre estas medidas están:
+
+A todos los pacientes oncohematológicos (con o sin catéter central) se les brinda un distintivo naranja brillante llamado “Fast-Pass” al finalizar un ciclo de quimioterapia. Éste sirve para brindar al personal de seguridad y a los médicos/enfermeras de triage una alerta visual al llegar el paciente al centro, y además contiene información importante como el tamaño apropiado de la aguja para abordar al catéter venoso central, la fecha de la última quimioterapia, los últimos resultados de laboratorios, etc.
+
+Se realiza educación al personal de emergencias prehospitalarias y a los médicos para recolectar datos importantes cuando se refiera a un paciente en quien se sospecha neutropenia febril, tales como la fecha de la última quimioterapia, el resultado del último hemograma, y qué antibioterapia empírica utilizar.
+
+Se realizan talleres de educación a todo el personal de enfermería de emergencias para el acceso a los catéteres intravasculares permanentes, ya que en manos de personal no entrenado puede haber retrasos de hasta una hora en su acceso.
+
+Se acuerda con el personal de farmacia dar prioridad al despacho de antimicrobianos para pacientes oncológicos. Algunos centros tienen los antimicrobianos en los carros de paro.
+
+Con estas medidas, en el Children's Hospital de Boston, Massachusetts, se logró disminuir el tiempo para la administración de antimicrobianos en pacientes neutropénicos de 99 min a 49 min1. También, en el servicio de emergencias del Children's of Alabama, Birmingham, el tiempo para administración de antimicrobianos disminuyó de 96,9 min a 64,3 min luego de la aplicación de un protocolo, y el porcentaje de pacientes que recibió antimicrobianos en los primeros 60 min aumentó de 35 a 51,4%35.
+
+Manejo inicial del paciente de alto riesgo
+
+El tratamiento empírico en estos pacientes debe ser intrahospitalario y enérgico. La elección del agente antimicrobiano depende de varios factores, incluyendo características del paciente, presentación clínica, infraestructura local, acceso a los fármacos, epidemiología local y patrones de resistencia4,25. En términos generales, la cobertura debe abarcar actividad contra bacterias grampositivas y gramnegativas (incluyendo Pseudomonas aeruginosa)2,4,25. Se han realizado múltiples estudios, tanto con monoterapia como con terapia combinada para el tratamiento empírico de la neutropenia febril, y tomando en cuenta que los resultados de eficacia han sido muy similares, y los efectos adversos relacionados con la terapia combinada (por ejemplo, la potencial nefrotoxicidad de los aminoglucósidos), las guías de manejo recomiendan la monoterapia como primera elección4,14,25.
+
+El esquema empírico inicial recomendado por las guías latinoamericanas y norteamericanas es la monoterapia con un β-lactámico con actividad anti-Pseudomonas como piperacilina/tazobactam, ticarcilina/ ácido clavulánico, cefepime o ceftazidima. Otra opción de primera línea son los carbapenémicos como imipenem y meropenem4,25. Con ninguno de los anteriores se ha visto diferencia en mortalidad, falla terapéutica, o efectos adversos. Un estudio reciente por Sano36 y cols., en 105 niños con 434 episodios de neutropenia febril, comparó el uso de piperacilina/tazobactam con meropenem como tratamiento empírico, encontrando eficacias similares y ninguna diferencia en la mortalidad.
+
+Como se mencionó anteriormente, existe controversia respecto al beneficio de agregar un aminoglucósido a la cobertura frente a la potencial nefrotoxicidad de esta clase de antimicrobianos4. Se han realizado tres meta-análisis que comparan monoterapia con terapia combinada; sin embargo, dos de ellos han sido en adultos. El realizado en niños concluyó que la terapia combinada con aminoglucósido no mejoró los resultados clínicos en comparación con la monoterapia36. Por lo tanto, la recomendación actual es agregarlo solamente en los siguientes dos casos: sospecha de infección asociada a catéter venoso central e infección documentada por P. aeruginosa4.
+
+Se recomienda agregar un glicopéptido como vancomicina a la terapia en los siguientes casos: sospecha de infección asociada a catéter venoso central, infección de piel y tejidos blandos en áreas con alta incidencia de infección por S. aureus resistente a meticilina, infección osteoarticular, evidencia de septicemia por cocáceas grampositivos, e infección en los últimos tres meses por Streptococcus pneumoniae resistente a cefalosporinas de tercera generación4.
+
+En el caso de la tiflitis, el tratamiento se basa en la reposición enérgica de líquidos, corrección de los trastornos hidroelectrolíticos, reposo gástrico, y tratamiento antimicrobiano de amplio espectro. Este último debería tener actividad contra bacterias grampositivas (incluyendo Enterococcus spp.), bacilos gramnegativos, y especies anaerobias estrictas, y generalmente se recomienda monoterapia con un β-lactámico como meropenem, piperacilina/tazobactam o imipenem. En algunos casos, especialmente en pacientes con sospecha de patógenos resistentes, se recomienda la biterapia con ceftazidima o cefepime más metronidazol. En pacientes con datos de peritonismo, perforación intestinal, sangrado incontrolable, y coagulopatía está indicado el tratamiento quirúrgico29.
+
+Manejo inicial del paciente de bajo riesgo
+
+En estos pacientes se puede considerar el manejo ambulatorio siempre y cuando se cuente con las siguientes condiciones: que el hospital disponga de personal entrenado y capacidad de respuesta las 24 h del día los 7 días de la semana, y que exista adecuada educación a la población sobre signos de alarma para consultar o reconsultar4. Existen varios estudios que evalúan la eficacia y seguridad del tratamiento ambulatorio para pacientes neutropénicos febriles de bajo riesgo. El primero fue realizado por Mullen37 y cols., en 1999, donde no se encontró diferencia en porcentaje de falla terapéutica entre ceftriaxona parenteral versus ciprofloxacina oral12. En el 2011 se publicó el primer meta-análisis que incluyó 7 estudios con un total de 907 niños con neutropenia febril; allí se demuestra que el manejo ambulatorio es una alternativa segura y similarmente eficaz para tratamiento de niños neutropénicos febriles de bajo riesgo.
+
+Si se decide dar tratamiento oral ambulatorio, las opciones recomendadas son: fluoroquinolonas como monoterapia o junto con amoxicilina/ácido clavulánico, o cefixime25.
+
+En caso de internarse el paciente, el tratamiento recomendado es con ceftriaxona, sola o en conjunto con amikacina. A diferencia de los pacientes de alto riesgo, la posibilidad de tener una infección por P. aeruginosa es mínima (< 5%), por lo que no se recomienda utilizar terapia con acción anti-Pseudomonas. Luego de que se estabiliza al paciente, la terapia debe ser guiada de forma individualizada según el microorganismo aislado14.
+
+¿Cuándo suspender o añadir antimicrobianos?
+
+Cuando se inició con cobertura doble se puede suspender el aminoglucósido o glicopéptido luego de 24-72 h si no hay indicación microbiológica clara para continuar. Si se inició con monoterapia, en caso de niños clínicamente inestables o en centros con alta incidencia de patógenos resistentes se recomienda añadir otro agente contra bacilos gramnegativos y contra anaerobios estrictos25.
+
+Se puede suspender la antibioterapia cuando se cumpla con las siguientes condiciones: 1) los hemocultivos vayan negativos luego de 48 h; 2) el paciente haya cursado afebril por al menos 24 h (pacientes de bajo riesgo) y 48 h (pacientes de alto riesgo) y 3) haya evidencia de recuperación hematológica: monocitos ≥ 100/ µL (pacientes de bajo riesgo), y ≥ 500/µL (pacientes de alto riesgo)4,25.
+
+En pacientes hospitalizados que han presentado fiebre recurrente o persistente durante al menos 96 h a pesar de tratamiento antimicrobiano de amplio espectro, se recomienda iniciar tratamiento antifúngico empírico con anfotericina B liposomal o caspofungina. Esta recomendación se basa principalmente en estudios realizados en adultos; sin embargo, ante la ausencia de datos específicos para la población pediátrica, la misma se extrapola a niños dado que en adultos sí se ha demostrado un beneficio claro. Los antifúngicos se deberían continuar hasta la resolución de la neutropenia4,25.
+
+Uso profiláctico de antivirales
+
+A la fecha no existen estudios controlados que comparen el uso de antivirales de forma profiláctica con placebo en niños que reciben quimioterapia. En el caso de pacientes inmunocomprometidos, se recomienda la profilaxis con oseltamivir para la prevención de la infección por el virus influenza, ya que éste se asocia con alto riesgo de morbimortalidad. El uso de este fármaco se asocia con una eficacia de 55% y se recomienda de forma profiláctica en las siguientes situaciones, durante la presencia de influenza en la comunidad4:
+
+Durante las primeras dos semanas de administrada la vacuna contra influenza.
+
+Si hay contraindicación para la vacunación contra influenza.
+
+Si hay familiares o personas con las que conviven que no se encuentran inmunizados.
+
+Para el control de brotes en sitios donde cohabitan niños de alto riesgo y que se encuentren en contacto con personas no inmunizadas.
+
+Cuando las cepas circulantes son diferentes a las vacunales de ese año.
+
+Conclusiones
+
+La fiebre en el paciente oncohematológico con neutropenia es una condición que requiere de atención inmediata, ya que estos pacientes tienen un riesgo real de presentar enfermedades bacterianas graves, así como una real amenaza para la vida. Una vez identificados, estos pacientes deben recibir tratamiento antimicrobiano lo más pronto posible, ya sea oral como paciente ambulatorio, o intravenoso como paciente hospitalizado, dependiendo de la estratificación de riesgo que se realizó. A pesar de los avances que se han realizado en cuanto a estratificación de riesgo, se requiere aún más investigación en esta área, así como en el papel de los biomarcadores para la misma.
+
+No hubo fuente de financiamiento externa.
+
+Agradecimientos
+
+A Kattia Camacho pediatra infectóloga de nuestro hospital, por su revisión crítica del presente trabajo.

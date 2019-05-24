@@ -1,0 +1,170 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000200003
+Epidemiología y pronóstico de pacientes con infección del torrente sanguíneo en 10 hospitales de Colombia
+
+Resumen
+
+Introducción: Conocer la epidemiología y etiología regional de las infecciones del torrente sanguíneo permite orientar una terapia antimicrobiana inicial empírica mejorando el resultado final del episodio. Objetivo: Describir los aspectos epidemiológicos, microbiológicos y factores asociados a la mortalidad de pacientes con infección del torrente sanguíneo en hospitales colombianos. Métodos: Sub-análisis de cohorte prospectivo de 375 pacientes consecutivos en 10 hospitales de Colombia con diagnóstico de infección del torrente sanguíneo, hospitalizados entre 1 de septiembre de 2007 y 29 de febrero de 2008. Resultados: Los microorganismos más frecuentemente aislados fueron los bacilos gramnegativos en 54% de los pacientes; seguidos por las cocáceas grampositivas en 38,4%. La fuente de infección fue secundaria a un foco conocido en 67%, desconocido en 24% y asociada a catéter intravascular en 9%. Los microorganismos más frecuentemente aislados fueron: Escherichia coli 46%, Staphylococcus coagulasa negativa 16%, Klebsiella pneumoniae 8,9% y Staphylococcus aureus 7,8%. Staphylococcus aureus fue sensible a meticilina en 82% de los pacientes (46/56). La mortalidad global fue de 25%. Los factores asociados con mayor mortalidad fueron: edad, puntaje SOFA y puntaje APACHE II. Conclusiones: En nuestro estudio, los microorganismos más frecuentemente aislados en pacientes que cursaron con bacteriemia fueron los bacilos gramnegativos, a diferencia de lo reportado en países desarrollados. La mortalidad general es alta y los factores asociados con riesgo de muerte fueron: la edad y los mayores puntajes de gravedad.
+
+Palabras clave: Infección del torrente sanguíneo, bacteriemia, mortalidad asociada a la bacteriemia, bacteriemia adquirida en la comunidad, bacteriemia nosocomial.
+
+ 
+
+Introducción
+
+La infección del torrente sanguíneo (ITOS) identifica una condición clínica grave que empeora el pronóstico de la sepsis porque aumenta el tiempo de estadía hospitalaria, los costos de atención1,2 y la mortalidad general3,4. Específicamente, se considera que la mortalidad atribuible a la ITOS en la sepsis varía entre 7 y 40%, según la población estudiada3,4.
+
+Se han realizado diversos estudios epidemiológicos de la ITOS en los Estados Unidos de América (E.U.A.) y Europa, con pacientes registrados en bases de datos nacionales o en programas de vigilancia activa4,5. Se estima que en E.U.A. se presentan entre 575.000 y 677.000 episodios de ITOS por año con 79.000 a 94.000 muertes por esta causa; y en Europa un millón doscientos mil episodios de ITOS con 157.000 muertes por año6. La mortalidad reportada varía, en general, entre 13,6 y 45%4,7-10. A través de los años se ha observado un incremento en la incidencia de ITOS y también un cambio en el tipo de microorganismos predominante, que inicialmente fueron bacilos gramnegativos y ahora son las cocáceas grampositivas11-14. Igualmente, se han encontrado más microorganismos multi-resistentes a partir de los años 9015,16 y un aumento de la ITOS asociada a catéteres intravasculares14,17,18.
+
+En Latinoamérica, aunque no existe el mismo volumen de información, se han realizado estudios epidemiológicos de bacteriemia en programas de vigilancia nacional en Brasil (SCOPE)19, o a partir del programa internacional de vigilancia de resistencia antimicrobiana SENTRY20. También se han realizado estudios retrospectivos21,22, prospectivos de un solo centro23,24 o en poblaciones específicas de infecciones nosocomiales o pacientes hospitalizados en UCI25,26. La mortalidad cruda está entre 28,8 y 40%19,22 y la mortalidad atribuible entre 17 y 37,8%2,22,24. En la mayoría de los estudios de Latinoamérica mencionados los microorganismos predominantes son bacilos gramnegativos, que representan entre 52 y 60% de los casos19,27,28; pero en otros estudios, realizados en un solo centro en Argentina, predominaron las cocáceas grampositivas, entre 51,4 y 65,5%22,29.
+
+El objetivo de este estudio es describir las características epidemiológicas y microbiológicas, así como determinar los factores asociados a mortalidad, en pacientes con diagnóstico de ITOS detectados en los servicios de urgencias, salas generales y UCIs de diez hospitales de Colombia.
+
+Métodos
+
+Diseño y población de estudio
+
+El presente es un sub-análisis de un estudio de cohorte prospectivo multicéntrico adelantado entre 1 de septiembre de 2007 y 29 de febrero de 2008, cuyo objetivo primario fue describir los aspectos epidemiológicos generales de los pacientes con diagnóstico de sepsis en diez hospitales de varias ciudades de Colombia30. Los pacientes incluidos procedían de los servicios de urgencias, unidades de cuidado intensivo y salas generales de diez hospitales generales y universitarios (dos públicos y ocho privados) en cuatro ciudades de Colombia. Se consideraron elegibles todos aquellos con edad mayor o igual a 18 años y diagnóstico probable o confirmado de infección en los registros médicos, o presencia de cambios en la temperatura (> 38 °C o < 36 °C) o hipotensión arterial sin una causa específica. El criterio de inclusión definitivo para esta sub-cohorte fue la presencia de bacteriemia/fungemia asociada a infección según los criterios del CDC31. Los criterios de exclusión fueron la no aceptación a participar en el estudio, tamizaje después de 24 h de la sospecha de infección, 48 o más horas de hospitalización en otra institución inmediatamente antes de la hospitalización actual, imposibilidad para seguimiento a 28 días, alta antes de 24 h de hospitalización, cambio de diagnóstico a enfermedad no infecciosa durante la hospitalización, o si había sido previamente reclutado en el estudio. El protocolo fue aprobado por el Comité de Ética de cada institución y se solicitó consentimiento informado verbal en todos los hospitales, salvo en uno donde se pidió consentimiento escrito.
+
+En las áreas de reclutamiento de los hospitales, todos los pacientes fueron activamente tamizados por personal entrenado para detectar la presencia de infección, pero la solicitud de hemocultivos se dejó a discreción de los médicos tratantes en cada centro. Las muestras de he-mocultivos fueron tomadas de vena periférica y a través del catéter venoso central (en los casos con sospecha de bacteriemia asociada a catéter), con al menos 10 mL de sangre para cada botella y se procesaron usando el sistema automatizado para cultivos de sangre BACTEC 9240 (Becton Dickinson Diagnostic Instrument System, Sparks, Md.). La gravedad de la enfermedad fue evaluada con el puntaje APACHE II32 y la frecuencia y la magnitud de la disfunción de órganos con el SOFA33, ambos medidos en las primeras 24 h después del reclutamiento del paciente. Los pacientes se clasificaron en los siguientes grupos: infección sin sepsis (es decir, sin ninguna anormalidad en signos vitales o pruebas de laboratorio), con sepsis (al menos una variable clínica o de laboratorio alterada) pero sin disfunción de órganos, sepsis grave sin choque y choque séptico. La sepsis grave fue definida por falla de órganos que cumplía al menos uno de los siguientes: PaO2/FiO2 < 300, gasto urinario < 0,5 mL/kg/h por dos horas o más o creatininemia > 2,0 mg/dL, INR > 1,5 o plaquetas < 100,000/mm3, bilirrubinemia total > 2,0 mg/dL y lactato sanguíneo > 18 mg/dl (2 mmol/L). El choque séptico se definió como sepsis con presión arterial sistólica menor de 90 mmHg a pesar de la resucitación apropiada con líquidos y con necesidad de vasopresores30. También se registraron las co-morbilidades, cualquier reporte microbiológico y antibiograma durante los primeros siete días después del reclutamiento, la necesidad de admisión a la UCI y el estado vital al egreso del hospital. Para los pacientes egresados antes de 28 días su estado vital fue confirmado por llamada telefónica o control por consulta externa.
+
+Definiciones
+
+Infección del torrente sanguíneo: bacteriemia/fungemia asociada a infección según los criterios del CDC. Debía cumplir al menos uno de los siguientes criterios:
+
+• Crecimiento de una bacteria reconocida (cualquier bacilo gramnegativo, Staphylococcus aureus, Streptococcus pneumoniae, Streptococcus sp., Enterococcus sp, etc.) en al menos un hemocultivo.
+
+• Al menos uno de los siguientes signos o síntomas sin otra causa definida: temperatura corporal > 38 °C o < 36 °C, presión arterial sistólica < 90 mm Hg o una disminución > 40 mm Hg en valores previos o escalofríos.
+
+• Microorganismos comunes en la piel (difteroides, Bacillus sp., Propionibacterium sp., Staphylococcus coagulasa negativa o Micrococcus) cultivados de dos o más hemocultivos tomados en muestras diferentes31.
+
+Infección del torrente sanguíneo adquirida en la comunidad: ITOS con hemocultivos positivos tomados a la admisión al hospital o en las primeras 48 h de la hospitalización.
+
+Infección del torrente sanguíneo adquirida en salas del hospital: ITOS con hemocultivos positivos tomados después de 48 h de hospitalización en salas generales.
+
+Infección del torrente sanguíneo adquirida en la UCI: hemocultivos positivos tomados después de 48 h de hospitalización en la UCI.
+
+Infección del torrente sanguíneo secundaria: si el microorganismo aislado de hemocultivo fuese el mismo obtenido de otro sitio específico.
+
+Bacteriemia/fungemia asociada a catéter venoso central (CVC): aislamiento de microorganismo a partir de catéter arterial o venoso central y al menos un hemocultivo positivo de muestra obtenida de una vena periférica. No debiera existir otra fuente aparente de la infección diferente del catéter y cumplir al menos uno de:
+
+• Cultivo positivo, cuantitativo (> = 103 ufc) o semi-cuantitativo (> 15 ufc), en un segmento del catéter con aislamiento del mismo microorganismo en sangre periférica.
+
+• Tiempo diferencial: crecimiento microbiano en muestras de catéter al menos dos horas antes del crecimiento en muestras de sangre periférica31.
+
+Infección del torrente sanguíneo de foco desconocido: ITOS sin infección en otro sitio evidente.
+
+Infección del torrente sanguíneo polimicrobiana: episodio de ITOS con aislamiento de dos o más microorganismos diferentes.
+
+Resistencia a antimicrobianos: multi-resistencia (MDR), resistencia para tres o más grupos de antimicrobianos; ampliamente resistente (XDR), resistencia a más de tres grupos de antimicrobianos pero sensibles al menos a un grupo diferente; panresistencia (PDR), resistencia era para todos los grupos de antimicrobianos34.
+
+Desenlaces
+
+El desenlace primario fue la mortalidad a los 28 días; otros desenlaces evaluados fueron estadía hospitalaria, admisión a la UCI, frecuencia y desarrollo de sepsis, sepsis grave y choque séptico dentro de la primera semana a partir de la toma de muestra del hemocultivo.
+
+Análisis estadístico
+
+Los datos se presentan como medias y desviación estándar, medianas y rangos intercuartílicos (RIC) o proporciones, según el tipo de variables y su distribución. La comparación entre grupos se hizo para las variables continuas por medio de la prueba t de Student o U de Mann-Whitney, según la distribución de los datos y para las variables dicotômicas con la prueba de X2. Con base en la literatura médica disponible y las investigaciones previas de nuestro grupo30,35-37, se consideraron los siguientes factores como potencialmente relacionados con mortalidad: edad, sexo, puntajes SOFA y APACHE II, sitio de adquisición de la infección (comunidad versus hospital), clasificación de los hemocultivos (grampositivos, gramnegativos, polimicrobianos u hongos) y co-morbilidades: trauma o cirugía durante los últimos 30 días, inmunosupresión (trasplante de órganos, uso crónico de corticosteroides, antecedente de neoplasia o infección por VIH/SIDA), insuficiencia renal crónica, insuficiencia cardiaca congestiva, diabetes mellitus, enfermedad pulmonar obstructiva crónica, cirrosis, drogadicción o alcoholismo. Las anteriores variables se analizaron por medio de un modelo de regresión logística múltiple con la mortalidad a los 28 días como variable dependiente. Se evaluó el supuesto de linealidad entre las variables continuas y la mortalidad por medio de un modelo no paramétrico de regresión local ponderada38. Para determinar la presencia de multi-colinealidad se calculó el factor de inflación de la varianza (VIF) y se consideró relevante un valor superior a 10. Se evaluó la presencia de interacción entre edad y las co-morbilidades por medio de la prueba de razón de verosimilitud (LR test), considerando significativo un valor de p menor de 0,10. Los resultados finales del modelo logístico se presentan como OR con intervalos de confianza de 95%. Todos los análisis estadísticos se realizaron con STATA (versión 12.0; StataCorp, Colle-geStation, Texas 77845 USA).
+
+Resultados
+
+Características de los pacientes
+
+Para la cohorte original fue evaluado un total de 4.082 pacientes y se reclutaron 2.681 con diagnóstico de infección o sepsis; se tomaron hemocultivos a 1.040 pacientes, de quienes ingresaron al estudio cuando estaban en el servicio de urgencias 43,4% (n: 451/1.040), en las salas médicas 22,1% (n: 230/1.040), en las salas de hospitalización de cirugía 2% (n: 21/1.040) y en UCI 32% (n: 338/1.040). La fuente de la infección fue respiratoria en 25% (n: 256/1.040), urinaria en 22,6% (n: 235/1.040) y piel y tejidos blandos en 13% (n: 133/1.040). Tenían al menos una co-morbilidad 731 pacientes (71,3%) y las más frecuentes fueron: trauma y cirugía 26% (n: 270/1.040), diabetes mellitus 18% (n: 187/1.040), falla renal crónica 13,4% (n: 139/1.040), neoplasia 11,7% (n: 122/1.040), EPOC 10,8% (n: 112/1.020) e inmunosupresión 10,8% (n: 112/1.040).
+
+Los hemocultivos fueron positivos en 36% de los pacientes con sepsis (n: 375/1.040).
+
+Con un promedio mensual de 240 camas ocupadas por institución, la incidencia estimada de ITOS en los hospitales participantes fue de 31,25 infecciones por cada 1.000 hospitalizaciones. Así mismo, aunque la mayoría de hemocultivos se solicitaron en pacientes admitidos por urgencias (n: 451; 43%), los pacientes de los servicios de salas de cirugías, UCI y salas médicas tuvieron mayor frecuencia de bacteriemia comparados con los que ingresaron por el servicio de urgencias (67; 42; 41 y 26,8%, respectivamente). Entre los pacientes con hemocultivos positivos, al menos una co-morbilidad se detectó en 74,1%; las más frecuentes fueron trauma o cirugía (29,6%), diabetes mellitus (20,3%) y falla renal crónica 16,3% (Tabla 1).
+
+ 
+
+Tabla 1. Características clínicas de los pacientes con diagnóstico de sepsis          y hemocultivos positivos
+
+
+
+ICC: insuficiencia cardíaca congestiva. EPOC: enfermedad pulmonar obstructiva          crónica. IRC: insuficiencia renal crónica. UCI: unidad de cuidados intensivos.          *Los datos se presentan como media (± desviación estándar), mediana (rango          intercuartílico) o número absoluto (%). El total de co-morbilidades es mayor a 100%          porque algunos pacientes tienen más de una.
+
+ 
+
+Microbiología y fuente de la infección
+
+Los microorganismos más frecuentemente aislados fueron bacilos gramnegativos en 204 pacientes (54%) Los cuatro microorganismos más comunes fueron Escherichia coli en 22,7% (n: 85/375), S. aureus en15% (n: 56/375), Klebsiella pneumoniae en 12% (n: 45/375) y S. coagulasa negativa en 9% (n: 34/375). La ITOS por hongos se presentó en 7 pacientes (1,8%). En 20 pacientes (5%) la ITOS fue polimicrobiana.
+
+La ITOS fue secundaria en 67% de los pacientes, tuvo fuente desconocida en 24% y fue asociada a catéter intravascular en 9% (Tabla 2).
+
+ 
+
+Tabla 2. Tipo de microorganismo aislado de acuerdo con el probable origen          de la bacteriemia en pacientes con infección del torrente sanguíneo
+
+
+
+Los datos se presentan como número absoluto/(%).
+
+ 
+
+En las ITOS secundarias el foco más frecuente fue el urinario (35%; n: 90), seguido por el respiratorio (25%; n: 65), piel y tejidos blandos (18%; n: 45) y abdominal (15%; n: 39).
+
+Susceptibilidad antimicrobiana
+
+Staphylococcus aureus fue sensible a meticilina en 82% de los pacientes (46/56); de las diez cepas de S. aureus resistentes a meticilina aislados, seis fueron adquiridas en la comunidad y cuatro en el hospital.
+
+Las enterobacterias fueron sensibles a todos los antimicrobianos evaluados en 46% (n: 94/204). De las enterobacterias adquiridas en la comunidad con resistencia al menos a un antimicrobiano, 29% de las cepas (n: 20/69) fueron resistentes a quinolonas y 12% (n: 8/69) lo fueron a aminoglucósidos. De las enterobacterias resistentes de origen nosocomial, 17% (n: 7/41) exhibió resistencia a quinolonas y 15% (n: 6/41) a aminoglucósidos. Sólo hubo tres casos de resistencia a carbapenémicos, todos en enterobacterias adquiridas en el hospital, y no se recolectó información acerca de BLEE en los cultivos. De acuerdo con la clasificación propuesta por Souli34, 17,3% (n: 65/375) fueron microorganismos multi-resistentes, sólo dos casos (una cepa de E. coli y una de K. pneumoniae, ambas adquiridas en el hospital) fueron ampliamente resistentes y ninguna ITOS fue causada por cepas pan-resistentes.
+
+Sitio de adquisición y evolución clínica
+
+Fueron adquiridas en la comunidad 53% de las ITOS (n: 200), en salas generales 41% (n: 155) y en UCI 5% (n: 20).
+
+Los microorganismos más frecuentes para las ITOS adquiridas en la comunidad fueron: E. coli (n: 64; 32%), S. aureus (n: 28; 14%), K. pneumoniae (n: 21; 10%), S. coagulasa negativa (n: 19; 9%) y hongos (n: 3; 1,5%).
+
+Para las ITOS adquiridas en el hospital, fueron más frecuentes S. aureus (n: 26; 17%), K. pneumoniae (n: 24; 15%), E. coli (n: 21; 13%) y S. coagulasa negativa (n: 14; 9%) y para las adquiridas en la UCI, K. pneumoniae (n: 4; 20%), E. coli (n: 2; 10%), S. aureus (n: 2; 10%) y S. coagulasa negativa (n: 2; 10%).
+
+Las ITOS causadas por hongos -seis casos fueron por Candida albicans y uno por Candida glabrata- fueron adquirida en la comunidad por dos pacientes y en el hospital por cinco (Tabla 2).
+
+Para las ITOS adquiridas en el hospital, la mediana de tiempo de adquisición fue a los 8 días (RIC: 5-15) del ingreso a las salas generales y a los 4 días (RIC: 3-5,5) del ingreso a UCI. La mediana de estadía hospitalaria fue mayor para los pacientes con fungemia y bacteriemia polimicrobiana: 21 (10-64) y 20 (12-42) días, respectivamente, comparadas con las bacteriemias por cocáceas grampositivas [17 (10-31) días] y los bacilos gramnegativos [15 (9-24) días].
+
+El choque séptico se presentó en 28,6% (n: 2/7) de los pacientes con ITOS por hongos, en 20% (n: 4/20) de la infección polimicrobiana, en 20% (n: 41/204) de la infección por bacilos gramnegativos y en 13,9% (n: 20/144) de las infecciones por cocáceas grampositivas. Los pacientes que adquirieron la ITOS en la comunidad o en las salas generales de hospitalización requirieron traslado a UCI, de acuerdo con la clasificación de la bacteriemia, con las siguientes frecuencias: polimicrobiana 35% (n: 7/20), por hongos 28% (n: 2/7), por bacilos gramnegativos 9% (n: 19/294) y cocáceas grampositivas 7% (n: 10/144). De acuerdo con la gravedad de la sepsis, fue trasladado a la UCI 18% (n: 12/67) de los pacientes con choque séptico, 9% (n: 24/251) de los que tenían sepsis grave y 4% de los que tenían sepsis. La mortalidad general fue de 25% y, de acuerdo con el tipo de microorganismo, fue mayor para la bacteriemia polimicrobiana (40%, n: 8/20) que para los bacilos gramnegativos y cocáceas grampositivas (25 y 23,6%, respectivamente) (Tabla 3).
+
+ 
+
+Tabla 3. Evolución clínica y desenlace de infecciones del torrente sanguíneo según          lugar de adquisición de la infección y grupos de microorganismos*
+
+
+
+*Los datos se presentan como mediana (rango intercuartílico) o número absoluto/(%).
+
+ 
+
+Factores asociados a mortalidad
+
+Tanto en el análisis univariado como en el multivariado, los factores significativamente asociados con mortalidad fueron: la edad (OR = 1,02; IC 95% = 1,00-1,04, por cada año), el puntaje SOFA (OR = 1,25; IC 95% = 1,14-1,38, por cada punto) y el puntaje APACHE II (OR = 1,06; IC 95% = 1,01-1,12, por cada punto) (Tabla 4).
+
+ 
+
+Tabla 4. Factores asociados con mortalidad a los 28 días en pacientes con          infección del torrente multivariado
+
+
+
+*Trasplante, Esteroides, Neoplasia y VIH. **IRC, ICC, DM, EPOC, Cirrosis,          Drogadicción o alcoholismo.
+
+ 
+
+Discusión
+
+En este estudio multicéntrico, prospectivo, realizado en diez hospitales de cuatro ciudades de Colombia, entre 1 de septiembre de 2007 y 29 de febrero de 2008, los hemocultivos fueron positivos en 36% de los pacientes con diagnóstico de sepsis.
+
+Los microorganismos más frecuentemente aislados fueron los bacilos gramnegativos (54%).
+
+La magnitud de la disfunción de órganos y el estado fisiológico agudo, más no el tipo de microorganismos o el sitio de adquisición de la infección, fueron los determinantes primarios de muerte en nuestra cohorte.
+
+El predominio de bacilos gramnegativos en nuestro estudio es similar al de otros estudios latinoamericanos19,27,28 y a estudios más antiguos realizados en países desarrollados9,15,17. Sólo dos estudios en Argentina han encontrado mayor frecuencia de cocáceas grampositivas: uno que incluyó niños, con mayor frecuencia de infecciones respiratorias y de S. pneumoniae22 y el otro incluyó solamente ITOS adquiridas en la comunidad29. En cuanto a la distribución de los microorganismos, existe similitud con un estudio realizado en E.U.A., entre 1975 y 197717, en el que las cuatro especies microbianas más frecuentes fueron E. coli, S. aureus, S. pneumonie y K. pneumoniae. En el estudio argentino de ITOS adquiridas en la comunidad la distribución de los tres primeros microorganismos es similar29.
+
+La sensibilidad de S. aureus a meticilina en nuestros pacientes es alta (82%)- similar a la de otros estudios latinoamericanos (86-88,3%)- y es mucho menor en los países desarrollados (43%). Lo anterior pudiera estar relacionado con la frecuencia menor de ITOS asociadas a catéter en nuestros pacientes, comparada con los resultados en los países desarrollados (9 vs 23%)11,14,17.
+
+La mortalidad de nuestra cohorte es ligeramente más alta que la encontrada en estudios recientes realizados en países desarrollados donde oscila entre 20 y 22%9,11,14; pero, es mucho menor que en los otros estudios latinoamericanos que describen una letalidad entre 28 y 40%19,22. En nuestros pacientes, la mortalidad fue mayor para las infecciones polimicrobianas, las ITOS adquiridas en la UCI y cuando está asociada al choque séptico, lo cual pudiera explicarse por la mayor gravedad de estos pacientes. A diferencia de la mayoría de los estudios11,18,39,40, nosotros no encontramos diferencias al comparar la mortalidad para las ITOS adquiridas en el hospital respecto a las adquiridas en la comunidad. De acuerdo con el microorganismo causante, la mortalidad en nuestro estudio fue similar para las ITOS por bacilos gramnegativos o por cocáceas grampositivas; mientras en series antiguas la mortalidad ha sido mayor para los bacilos gramnegativos18,41,42. Con respecto a los factores de pronóstico, en otros estudios también se ha encontrado la edad como factor significativamente asociado a mortalidad11,14,18,22,43,44 y los valores de las escalas de APACHE II y SOFA se han evaluado específicamente en pacientes de UCI45,46.
+
+Es muy llamativo que los resultados de nuestro estudio son muy semejantes a los hallazgos de hace más de 30 años en los países desarrollados, específicamente en cuanto a las especies microbianas predominantes, distribución de los mismos microorganismos y menor frecuencia de las ITOS asociadas a catéteres intravasculares9,14,17. Estos hallazgos pudieran estar relacionados con los cambios que se han dado en la atención en salud en los países desarrollados a través de los años, lo cual se ha dado más tardíamente en Latinoamérica. En Norteamérica y Europa se han realizado estudios poblacionales que demuestran el grave problema de salud pública que genera esta condición6. Por otra parte, los cambios observados con el transcurrir de los años en los países desarrollados descritos arriba14 demuestran que es necesario renovar los estudios epidemiológicos en todas las latitudes. Por un lado, es importante conocer los microorganismos y los factores asociados, tanto a la adquisición de la infección como a la mortalidad, para ayudar al médico clínico en la toma de decisiones sobre el diagnóstico y manejo inicial. Por otra parte, también es necesario conocer la epidemiología de cada región para poder desarrollar políticas y programas de prevención, dado que está demostrado que las ITOS aumentan la estadía hospitalaria y los costos de manera importante3,47,48.
+
+Dentro de las limitaciones de la investigación se debe considerar que es un sub-análisis de un estudio general de la epidemiología de la sepsis30; por lo cual algunos factores importantes para las ITOS como el uso adecuado de antimicrobianos (antes y después de la infección), la ventilación mecánica o los dispositivos intravasculares de larga duración no se evaluaron. Así mismo, la solicitud de hemocultivos no se hizo de rutina en toda la población de estudio sino que se dejó a criterio de los médicos tratantes, por lo que es probable que nuestros estimadores de frecuencia y gravedad no reflejen con exactitud la magnitud del problema.
+
+Entre las ventajas que tiene nuestro estudio está su carácter prospectivo y multicéntrico, con seguimiento clínico y evolución directa de los pacientes lo cual evita el ingreso de falsas bacteriemias. De acuerdo con nuestra revisión de la literatura científica, este sería el primer estudio de estas características en Latinoamérica.
+
+Es necesario realizar estudios prospectivos multicéntricos que ayuden a evaluar de una manera actual y real las características epidemiológicas de las infecciones bacterianas y fúngicas agudas, para desarrollar las políticas de salud pública y los programas de prevención adecuados para este problema.

@@ -1,0 +1,282 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000300284
+Situación epidemiológica de sífilis (CIE 10: A50-A53.9). Chile, 2016
+
+Antecedentes
+
+Las infecciones de transmisión sexual (ITS) son una de las principales causas de enfermedad aguda, infertilidad, discapacidad a largo plazo y muerte en el mundo1. Además, considerando su rol facilitador de la transmisión sexual del virus de la inmunodeficiencia humana (VIH), tienen un impacto en las economías nacionales e individuales2.
+
+La sífilis, provocada por Treponema pallidum, y ampliamente distribuida en el mundo, varía su incidencia en función de la ubicación geográfica, el género y el nivel socio económico1, siendo más importante en países de menores recursos2. Es adquirida principalmente a través de contacto sexual y por vía trans-placentaria, pero también puede adquirirse por transfusión de sangre humana contaminada y por inoculación accidental directa.
+
+La historia natural de la infección se caracteriza por presentar etapas según tiempo de infección, en etapas tempranas se presenta la sífilis primaria, la secundaria y la latente precoz, mientras que la sífilis avanzada se presenta en etapas latente tardía y sífilis terciaria3. La sífilis primaria y secundaria se caracterizan por presentar altas concentraciones de espiroquetas circulantes, y por tanto, son los períodos de mayor probabilidad de transmisión4.
+
+Durante las fases tempranas de la infección, los síntomas comunes incluyen la aparición de una llaga llamada “chancro” en el lugar de la inoculación. Incluso sin tratamiento, las lesiones primarias y secundarias se resuelven y la infección entra en una etapa latente. La enfermedad también puede progresar a una cantidad de manifestaciones tardías -es la sífilis terciaria-que incluyen complicaciones cardiovasculares, úlceras gomosas y neurológicas.
+
+Además, la sífilis es una de varias enfermedades ulcerativas que aumentan el riesgo de adquisición y transmisión del VIH a través de varios mecanismos5.
+
+La transmisión de madre a hijo puede ocurrir en cualquier etapa del embarazo y puede desencadenar aborto, muerte fetal, mortalidad neonatal, trabajo de parto prematuro, bajo peso al nacer y clínica de sífilis congénita.
+
+La sífilis puede convertirse en una enfermedad crónica; no obstante, el diagnóstico precoz permite un tratamiento exitoso reduciendo las complicaciones y secuelas de la infección1.
+
+El diagnóstico de sífilis se basa en sus manifestaciones semiológicas, las pruebas de laboratorio y a veces radiología. Las pruebas de laboratorio para el diagnóstico de la sífilis incluyen métodos de detección directa e indirecta (microscopia, prueba directa de anticuerpos fluorescentes y prueba de amplificación de ácido nucleico), serología (treponémica y pruebas no treponémicas), y el examen de fluidos cerebroespinales6.
+
+Para curar la sífilis, la guía de la Organización Mundial de la Salud (OMS) del año 2016 recomienda encarecidamente una dosis única de penicilina benzatina intramuscular, el tratamiento más efectivo y más barato en comparación con los esquema de antimicrobianos orales2.
+
+En el año 2012, la OMS estimó que existían 357 millones de casos nuevos de ITS curables entre adultos de 15 a 49 años en todo el mundo; de éstos, 5,6 millones habrían sido casos de sífilis, cuya tasa de incidencia por sexo fue de 1,5 casos por mil mujeres y 1,5 por mil hombres. Los 18 millones de casos prevalentes estimados de sífilis en el 2012 se traducen en una prevalencia global de 0,5% para hombres y mujeres entre 15 a 49 años. Con relación a la transmisión vertical, en el año 2012 se estimó que ocurrieron 143.000 muertes fetales tempranas o muertes fetales, 62.000 muertes neonatales y 44.000 recién nacidos prematuros o de bajo peso al nacer2.
+
+En Chile, la sífilis, en todas sus formas, es una infección de vigilancia universal según el Decreto Supremo N° 158/2004. El médico tratante debe notificar diariamente los casos según se establece en la definición de caso4.
+
+El propósito de la vigilancia epidemiológica es entregar información que permita orientar la toma de decisiones y la planificación de estrategias de prevención y control; en este sentido, el objetivo de este informe es describir la tendencia y el comportamiento de los casos de sífilis notificados en Chile hasta el año 2016.
+
+Método
+
+El presente informe es un análisis de tipo descriptivo de los casos confirmados de sífilis en Chile (código CIE-10: A50-A53.9) hasta el año 2016 (año estadístico). Para su elaboración se utilizó la información proveniente de:
+
+Base de datos de Enfermedades de Notificación Obligatoria (ENO) dependiente del Departamento de Epidemiología del Ministerio de Salud de Chile (MINSAL) y del Departamento de Estadísticas e Información en Salud (DEIS). Esta información se encuentra validada hasta el año 2014, la del año 2015 y 2016 corresponde a información provisoria.
+
+Base de datos de defunciones obtenidas desde DEIS del MINSAL, disponibles hasta el año 2014.
+
+Base de datos de egresos hospitalarios obtenidas desde el DEIS del MINSAL, disponibles hasta el año 2014.
+
+Para el análisis de la co-infección con VIH, se trabajó con la base de casos de infección por VIH notificados en el sistema en línea: aquellos casos que cuentan con el recuento de linfocitos T CD4+ y la etapa clínica. A partir de la base de casos de sífilis en el período 2012-2016, se cruzó con la base completa de casos de infección por VIH notificados desde 1984.
+
+Se presentan indicadores descriptivos para el análisis por tiempo, lugar, persona (sexo, edad, clasificación de la infección por CIE-10) y determinantes sociales (nacionalidad y pertenencia a pueblos originarios). Se calcularon porcentajes, medianas y tasas; estas últimas se amplificaron por cien mil habitantes (habs.) utilizando las proyecciones de población del Instituto Nacional de Estadística (INE) del año 2012. Se usaron gráficos y tablas para presentar los resultados utilizando el software Microsoft Excel. Para el análisis de la información territorial, se elaboraron cartografías utilizando el software ArcGIS 10.0.
+
+Se definió como caso de sífilis según etapa CIE-10 descrita en la circular vigente5.
+
+En relación a la Ley N° 20.584 que “Regula los derechos y deberes que tienen las personas con respecto a las acciones vinculadas a su atención en salud”, este informe no vulnera la mencionada ley, debido a que utiliza datos del MINSAL, los cuales se recogen dando cumplimiento a su rol según las siguientes leyes previas: DFL N° 1/2005 del MINSAL y Ley N° 19.628 sobre datos sensibles.
+
+Resultados
+
+Situación epidemiológica
+
+A partir del año 2000, se observó una tendencia a la baja de la tasa de notificación hasta el año 2007 donde alcanzó una tasa de 17,9 casos por cien mil habs., luego comenzó un aumento paulatino, que en los últimos cinco años se mantuvo relativamente estable entre 22 y 24 casos por cien mil habs. El año 2016 se notificaron 4.147 casos, lo que representó 5% menos de casos con respecto a la mediana del quinquenio anterior (4.340 casos), mostrando una tasa de 22,8 por cien mil habs. (Figura 1 y anexo Tabla 1).
+
+Fuente: Dpto. Epidemiología, DEIS. DIPLAS. Ministerio de Salud de Chile.
+
+Figura 1 Tasa de notificación de sífilis. Chile 2000-2016*. *Años 201 5, 2016 Datos provisorios. 
+
+Tabla 1 Casos y tasas de sífilis. Chile 2000-2016*
+
+						 
+
+Fuente: Base de datos ENO.DEIS. Dpto. Epidemiología, MINSAL, Chile.
+
+*2015 y 2016, datos provisorios. Tasas por cien mil habs.
+
+En el quinquenio 2012-2016, el grupo de 15 a 49 años representó 80% del total de casos de sífilis, concentrándose el mayor riesgo entre los 20 y 34 años, quienes presentaron las mayores tasas nacionales. En general, todos los grupos quinquenales de edad mostraron estabilización de sus tasas en los últimos cinco años (Figura 2, anexo, Tabla 2). La mediana de edad de los casos de sífilis para el período fue de 33 años.
+
+Fuente: Base de datos ENO.DEIS. Dpto. Epidemiología, MINSAL, Chile.
+
+Figura 2 Tasas de sífilis según grupos de edad. Chile 2012-2016*. *2015 y 2016. Datos provisorios. 
+
+Tabla 2 Tasas de sífilis según grupos de quinquenales de edad. Chile 2012-2016*
+
+						 
+
+Fuente: Depto. Epidemiología, DEIS. DIPLAS-Ministerio de Salud de Chile.
+
+*2016 datos provisorios. Tasas por cien mil habs.
+
+En el quinquenio estudiado, los pacientes bajo 14 años de edad representaron entre 1,1 y 0,7% del total de casos. Aquellos bajo 5 años mostraron una disminución paulatina en el número de casos notificados, pasando de 39 casos en el año 2012 a 25 notificados el 2016.
+
+Desde el año 2007, la tasa de sífilis era mayor en mujeres que en hombres, dado predominantemente por el grupo entre 15 y 34 años. Se observa que en el tiempo esta tendencia cambió, presentándose un ascenso progresivo de las tasas de hombres que desde el año 2009 superó a la tasa de mujeres. Esta situación se atribuyó fundamentalmente a un mayor aumento de la tasa en el grupo de hombres entre 20 y 49 años (Figura 3).
+
+Fuente: Base de datos ENO.DEIS. Dpto. Epidemiología, MINSAL, Chile.
+
+Figura 3 Tasas de sífilis según sexo. Chile 2007-2016*. *2015-2016, datos provisorios. 
+
+En el quinquenio 2012-2016, los hombres mostraron el mayor riesgo de infección por sífilis, superando en todo el período a las mujeres, brecha que aumentó el año 2016 representando una diferencia de 43% entre las tasas de ambos sexos. Los hombres, representaron 63% del total de casos, con una relación de 1,7 hombres por cada mujer el año 2016 (anexo Tabla 3).
+
+Tabla 3 Casos y tasas de sífilis según sexo. Chile 2012-2016*
+
+						 
+
+Fuente: Depto. Epidemiología, DEIS. DIPLAS-Ministerio de Salud de Chile.
+
+*2016 datos provisorios. Tasas por cien mil habs.
+
+Las mayores tasas en hombres se encontraron entre los 20 y 34 años. Específicamente, los mayores riesgos se presentaron en el grupo de 20 a 29 años. Se observan curvas ascendentes en el grupo de hombres de 15 a 49 años desde el año 2007 al 2016; este último año muestra el mayor aumento con respecto a los anteriores (21% en relación al año 2015). Las mujeres, al igual que los hombres, mostraron su mayor riesgo entre los 20 y 34 años. No obstante, se observó que en los últimos tres años las tasas disminuyeron entre los 15 y 49 años y se destaca que, a pesar de esta baja, la tasa del grupo de 15 a 19 años superó a la del grupo 35 a 39 años, durante el año 2016 (Figuras 4a y 4b).
+
+Fuente: Base de datos ENO. DEIS. Departamento Epidemiología, MINSAL, Chile.
+
+Figura 4 a: Tasas de sífilis en hombres según grupo de edad. Chile 2007-2016*. b: Tasas de sífilis en mujeres según grupo de edad. Chile 2007-2016*. *2015-2016. Datos provisorios. 
+
+En el grupo de adolescentes (15 a 19 años), se observó durante todo el período estudiado que las mujeres superaron el riesgo de los hombres; sin embargo, en el año 2012 esta distancia comenzó a estrecharse, debido a una leve disminución de la tasa de mujeres y un aumento de la tasa de hombres. En el año 2016, la tasas entre los adolescentes en ambos sexos son similares (Figura 4a y 4b).
+
+En relación a la clasificación del tipo de sífilis, en el quinquenio 2012-2016, 51% fue notificado como sífilis precoz (A51), 29% se notificó como sífilis tardía (A52) y 0,8% como sífilis congénita (A50). Destaca que 60% de los casos de sífilis precoz se notificaron en hombres. Se observó un aumento paulatino según distribución porcentual de la sífilis tardía a través de los años estudiados y una disminución de la sífilis congénita.
+
+La sífilis primaria y la secundaria concentran 46% de los casos entre el 2012 y 2016, cifra relevante dado que, como se expresara antes, éstas son las formas de mayor transmisibilidad de la infección.
+
+Co-infección con VIH
+
+En los últimos cinco años, 10% de las personas que se notificaron con sífilis presentaron una infección por VIH, porcentaje que se mantuvo relativamente estable hasta el año 2015. El año 2016 ocurrió un incremento alcanzando la co-infección con VIH a 17%. El 95% de los co-infectados fueron hombres, y de estos, 64% se concentró en el grupo de edad entre 20 y 34 años.
+
+Hasta el año 2015, alrededor de 60% de los casos notificados por estas dos ITS tuvieron como primer evento de ocurrencia la infección por VIH. El año 2016, esta proporción aumentó a 74% de casos que comenzaron con una infección por VIH y que posteriormente fueron notificados por sífilis.
+
+Dinámica espacial
+
+Según distribución geográfica, en el último quinquenio las mayores tasas de notificación se presentaron en las regiones del norte y centro del país (Figura 5 y anexo Tabla 4). Las regiones de Tarapacá, Antofagasta y Valparaíso muestran los mayores riesgos.
+
+Figura 5 Tasa *de sífilis, según región de notificación. Chile, 2012-2016. 
+
+Tabla 4 Tasas de sífilis según regiones. Chile 2012-2016*
+
+						 
+
+Fuente: Base de datos ENO.DEIS. Dpto. Epidemiología, MINSAL, Chile.
+
+*2015 y 2016, datos provisorios. Tasas por cien mil habs.
+
+Destaca que, a partir del año 2012, la Región de Arica y Parinacota comenzó a mostrar una disminución sostenida de las tasas de sífilis, presentando valores entre 45,4 por cien mil habs. en el 2012 y 17,7 por cien mil habs. en el año 2016.
+
+En el año 2016, la Región de Tarapacá presentó la mayor tasa nacional, doblando a la tasa del país. Le siguen las regiones de Valparaíso, Antofagasta, Los Lagos, Metropolitana y Coquimbo, todas sobrepasando la tasa de Chile de 22,8 por cien mil habs. (anexo, Tabla 3). Se destaca que la Región de Los Ríos superó en 1,5 veces el número de casos esperados, según la mediana del quinquenio anterior.
+
+Sífilis congénita
+
+Las mujeres gestantes representaron 23% del total de casos de sífilis notificados en mujeres en el período de estudio, con una mediana de 441 gestantes anuales, observándose una disminución en el número total de casos notificados el año 2016 (n = 357) en relación al 2012 (n = 481) (Figura 6).
+
+Fuente: Base de datos ENO. DEIS. Dpto. Epidemiología, MINSAL, Chile.
+
+Figura 6 Casos de sífilis en gestantes y sífilis congénita. Chile 2012-2016*. *2015 y 2016. Datos provisorios. 
+
+Según edad, en el año 2016, 52% de las gestantes notificadas pertenecieron al grupo de 20 a 29 años. En los últimos tres años (2014-2016), del total de mujeres notificadas en el grupo de 15 a 19 años, 40% de ellas estaban embarazadas. Similar a lo ocurrido en el grupo de 20 a 24 entre quienes 37% se notificó en condición de gestación. Según etapa, 68% de las gestantes se notificó en etapas latentes y 14% en etapa primaria o secundaria. Según la categoría de tiempo, 48% fue notificado en etapas precoces y 32% en etapa tardía.
+
+La sífilis congénita, según año de nacimiento de los niños, mostró una disminución progresiva del número de casos desde el año 2012 (n = 39) al 2016 (n = 24). A partir del año 2010 la tasa de sífilis congénita se mantuvo estable en 0,2 casos de sífilis congénita por mil nacidos vivos corregidos (NVC) hasta el 2013. Los años 2014 a 2016 la tasa fue de 0,1 por mil NVC (anexo, Tabla 5).
+
+Tabla 5 Casos y tasas de sífilis congénita. Chile 2012-2016*
+
+						 
+
+Fuente: Base de datos ENO.DEIS. Dpto. Epidemiología, MINSAL, Chile.
+
+*Información en validación.
+
+**Tasa por mil RNVC.
+
+En el año 2016, la mayor tasa de sífilis congénita se encuentra en la Región de Los Lagos (0,4 por mil NVC). Las regiones de Antofagasta, Valparaíso, Metropolitana, Maule, Bío Bío y Araucanía muestran tasas entre 0,1 y 0,2 casos por mil NVC.
+
+Determinantes sociales
+
+Nacionalidad
+
+En el quinquenio 2012-2016, 3,0% del total de casos de sífilis se notificaron en personas extranjeras, siendo 51% de sexo masculino. El año 2016 el porcentaje de extranjeros notificados representó 4,9% del total.
+
+El mayor porcentaje de casos notificados en migrantes se encuentra en las regiones Metropolitana (52%), Antofagasta (23%) y Tarapacá (12%).
+
+Según ubicación del país de nacionalidad, 89% proviene de América del Sur y 8% de América Central.
+
+Pertenencia a pueblos originarios
+
+Se observó una relativa estabilidad de los casos que declaran pertenencia a pueblos originarios. Del total de notificaciones en el quinquenio, 0,2% (n = 53) de los casos declaró pertenecer a un pueblo originario, con una mediana de 8 casos anuales. De éstos, 24 casos declararon ser mapuche y 24 casos aymara, los otros 5 pertenecieron a otros pueblos. El 57% de los notificados fueron hombres.
+
+Las personas que declaran pertenecer al pueblo aymara se notifican en las regiones de Arica y Parinacota, Tarapacá y Metropolitana. Por su parte, todos los casos que se identifican como pueblo mapuche se notificaron en las regiones del sur de Chile (desde Bío Bío a Aysén), excepto uno declarado en la región de Arica y Parinacota.
+
+Mortalidad
+
+Para el período 2000-2014, se presentaron 70 fallecidos por sífilis, con una tasa de mortalidad relativamente estable hasta el año 2012, entre 0,02 y 0,04 por cien mil habs. El año 2013 experimentó un leve aumento hasta 0,06 por cien mil habs (Figura 7 y anexo Tabla 6).
+
+Figura 7 Tasa de mortalidad por sífilis. Chile 2000-2014. Año 2014, último año con datos de mortalidad disponibles. Fuente: Base de mortalidad. Dpto. de Estadísticas e Información en Salud (DEIS). Ministerio de Salud de Chile. 
+
+Tabla 6 Mortalidad por sífilis. Chile 2000-2014 
+
+Fuente: Base de mortalidad.DEIS. MINSAL, Chile.
+
+Desde el año 2000 al 2004, 52% de muertes se concentraron en lactantes bajo 1 año de edad, todos ellos fallecidos por sífilis congénita (n = 11). Durante los años 2005, 2008, 2009 y 2014 no se registraron muertes en pacientes bajo 5 años por esta causa. Mientras que, en los años 2007, 2010 y 2011 fallecieron dos lactantes cada año por sífilis congénita, y los años 2012 y 2013 falleció un niño cada año.
+
+En los últimos cinco años (2010-2014) se registraron 34 muertes por sífilis; 35% de las muertes correspondió a neurosífilis y 18% a sífilis congénita. En los últimos tres años aumentaron las defunciones por sífilis tardías.
+
+Con relación a la edad de muerte en este período, 76% se concentró en los mayores de 50 años y 15% corresponde a pacientes bajo 5 años de edad.
+
+Según distribución territorial, las tasas acumuladas más elevadas del quinquenio se encuentran en la Región de Valparaíso (0,8 por cien mil habs.), seguida de la Región de Atacama (0,7 por cien mil habs.), Coquimbo y Los Lagos (ambas con 0,4 por cien mil habs.). Las muertes por sífilis congénita ocurrieron en las regiones de Coquimbo (2 casos) y Metropolitana (4 casos).
+
+Egresos hospitalarios
+
+La tasa de egresos hospitalarios por sífilis en el período 2010 a 2014 aumentó de 1,5 (2010) a 2,4 (2014) casos hospitalizados por cien mil habs., representando 0,02% del total de egresos. Los hombres hospitalizados por esta causa concentraron el 65%. Del total de egresos por esta infección, en el año 2014 la sífilis congénita representa el 55%, porcentaje estable en los últimos cinco años. El 26% de los hospitalizados correspondió a sífilis tardías y 16% corresponde a neurosífilis.
+
+Discusión
+
+Según los resultados de la vigilancia, en los últimos años la sífilis mostró una estabilización de las tasas de notificación, concentrada en población de 20 a 34 años, con un aumento específico en la tasa en hombres.
+
+El año 2017, en Chile se documentó un aumento de la tasa de gonorrea, focalizada en población de 15 a 29 años7. Considerando que comparten el mismo mecanismo de trasmisión con sífilis, se debería esperar un aumento de esta y otras ITS en el país; no obstante, según los resultados de este informe, se visualiza una estabilización de la tasa en el tiempo. En relación a las edades, sífilis se concentra en el grupo de 20 a 34 años. Esta situación se podría atribuir a factores como la sub-notificación de casos de sífilis y/o la falta de pesquisa. En este contexto, cabe destacar que, según nuestros resultados, la sífilis se notificó en 29% en etapas tardías, y que este porcentaje va en aumento con los años. Por consecuencia, el diagnóstico se desplaza a grupos etarios mayores.
+
+Si no se trata, la infección sifilítica puede durar décadas y, por tanto, continuar con la transmisión. La importancia epidemiológica de la sífilis primaria y secundaria reside en que son las etapas más tempranas de la infección, y por tanto, reflejan la enfermedad sintomática siendo un indicador de infección reciente8 y además son la de mayor transmisibilidad. En Chile, 46% de los casos se notificó en estas etapas de mayor riesgo.
+
+La sífilis no se propaga homogéneamente dentro de la población, los hombres que tienen sexo con hombres (HSH), se encuentran más afectados por la sífilis5,9, al igual que de otras ITS10. Según estudios internacionales entre los 20 y 29 años se presentan los mayores incrementos en las infecciones por sífilis. Además, la sífilis también complica el curso clínico de la infección por VIH al aumentar la carga viral11. A su vez, se asocia con una mayor tasa de fracaso del tratamiento en personas infectadas por VIH. En Estados Unidos de América (E.U.A.) y en Europa del Este se documentó un aumento en los casos de sífilis a lo largo del tiempo. En la mayoría de los estudios que iniciaron la recolección de datos entre 1998 y 2000, los casos de sífilis estuvieron en su punto más bajo durante este período, pero mostraron un aumento a partir del año 20009. Entre los HSH de los E.U.A. y Europa del Este, los aumentos en los casos de sífilis fueron mayores en las personas seropositivas para VIH, aumentando así las co-infecciones por VIH/sífilis. En Chile desde el año 2009 se observó un incremento progresivo en la tasa de sífilis en hombres, que el año 2016 mostró un brusco aumento. Por su parte, se observó que la co-infección con VIH aumentó de 10 a 17% el año 2016, destacándose que 95% de ellos fue en hombres, y de éstos, 74% de los casos co-infectados tuvieron como primer evento el diagnóstico de infección por VIH. Si bien, no se recoge la variable sobre prácticas de riesgo, esta información podría orientar a que estos casos pertenecerían a población HSH, y dado a que el evento de VIH fue el inicial, estas personas que conocen su estado serológico no estarían usando el condón para prevenir co-infecciones, con todas las complicaciones que ello implica.
+
+El motivo del aumento de los casos de sífilis entre estos HSH es desconocido, varios estudios sugieren que el uso del condón está disminuyendo en este grupo12. La reducción en el uso del condón se debe, en parte, al aumento en las conductas sero-adaptativas, como la sero-ordenación (selección de una pareja sexual que informa el mismo estado de VIH) y sero-posicionamiento (elección de una posición sexual según el estado serológico de la pareja). Estos comportamientos pueden reducir el riesgo de transmisión del VIH entre HSH sexualmente activos; sin embargo, no ofrecen protección alguna contra la sífilis y otras ITS, y de hecho, pueden aumentar inadvertidamente el riesgo de transmisión de la sífilis9.
+
+Si bien el uso de condón es una de las principales medidas de prevención de las ITS, en nuestro país la declaración de su uso siempre en los últimos 12 meses es muy bajo (10%)13.
+
+Considerando que la sífilis genera importantes complicaciones, que la co infección aumenta la capacidad de infección del VIH y a su vez, la sífilis también complica el curso clínico de la infección por VIH, sumado a que existe un bajo uso de condón en nuestro país, es necesario generar acciones específicas y que impacten, permitiendo asentar conductas de sexo seguro y consulta precoz ante el riesgo de infección, para así, asegurar el tratamiento oportuno y el control de la transmisión de la infección. Además, dado el nuevo escenario epidemiológico en relación a la distribución por sexos, se propone una estrategia integral para la promoción de una vida sexual sana y segura que incluya niveles de intervención dirigidos al individuo y comunitario, bajo una mirada bio-psicosocial y con un enfoque diferencial hacia determinados grupos sociales/comunitarios, enmarcado en un trabajo colaborativo que involucre a los distintos actores del Estado. En este contexto, es que, la prevención de las ITS se incorporó como objetivo prioritario en la Estrategia Nacional de Salud para el período 2010-2020.
+
+En relación a la transmisión vertical de la sífilis, se observó una tendencia a la disminución tanto del número de casos en mujeres gestantes como en niños con sífilis congénita. Del total de egresos por esta infección, el año 2014 la sífilis congénita representó 55%, porcentaje estable en los últimos cinco años, dando cuenta de la gravedad e importancia de la infección en este grupo de edad. Si bien las muertes por esta causa han disminuido, éstas se pueden evitar; por tanto, es un punto crítico que sigue siendo un desafío para la Salud Pública en Chile.
+
+Dado que el manejo adecuado de las mujeres gestantes con sífilis ha demostrado, según la evidencia científica, ser una de las intervenciones más costo efectiva para evitar la transmisión vertical, la legislación chilena ha considerado la detección y el tratamiento oportuno para esta infección. En Chile se realiza el examen de VDRL a las mujeres embarazadas desde la década de los años 50, estrategia que se ha optimizado a través del tiempo, mediante su incorporación en normas técnicas, pasando de la toma de un VDRL en 1976, a dos en la normativa del año 1980. En el año 2006, este examen se incorporó a la Ley de Medicina Preventiva, adicionándose un tercer VDRL durante el último trimestre de la gestación. Actualmente, las normas establecen el testeo a las mujeres durante el parto y a las puérperas de aborto y mortinato.
+
+A inicio del año 2000 se implementó la Estrategia Nacional de Eliminación de la Sífilis Congénita, en la cual se aborda la triada de la prevención de la sífilis en la mujer embarazada, la atención oportuna y la vigilancia de casos. En 2009, la Organización Panamericana de la Salud (OPS) puso en marcha la iniciativa regional para reducir la tasa de sífilis congénita en las Américas a cifras menores a 0,5 casos por 1.000 nacidos14. En este contexto, Chile asumió el compromiso adscribiendo a la “Iniciativa de Eliminación de la Transmisión Materno Infantil del VIH y la Sífilis en Latinoamérica”15.
+
+A pesar de los avances presentados, Chile continúa con desafíos en relación a sífilis, siendo éstos la prevención en mujeres en edad fértil, la mejoría en los procesos clínicos (testeo, seguimiento y auditoría de los casos) y la oportunidad de la información para la adopción de medidas correctivas y toma de decisiones15.
+
+Se debe tener presente que la infección por sífilis en menores de edad, donde se descarte la trasmisión vertical, debe alertar al equipo de salud, ya que puede ser producto de abuso o violación sexual, el que debe ser denunciado según se establece en Ley N° 19.696 Código procesal penal, Ley N° 20.207 delitos sexuales contra menores, Ley N° 19.617 delito de violación y la Guía Clínica de Abuso Sexual (MINSAL).
+
+Como poblaciones más vulnerables se incluye a las personas pertenecientes a pueblos originarios y a los migrantes. Según este análisis, estas poblaciones presentan una baja proporción con relación al total. Sin embargo, la población migrante ha ido en aumento, especialmente marcada el año 2016. En este contexto, es importante considerar las barreras de acceso que pudieran presentar estos grupos en la atención de salud, particularmente en los ámbitos de salud sexual y reproductiva. Entre otros factores, esto podría explicarse por una menor adscripción a un sistema previsional de salud, ya que 15,7% no está adscrito a alguno de ellos, comparado con 2,7% de la población nacional16,17.
+
+El aumento de los casos de sífilis notificados en migrantes en el año 2016 (4,9%) es coherente considerando que los flujos migratorios en Chile han aumentado durante los últimos años, duplicándose el porcentaje desde el CENSO del 2002 (1,2%), hasta representar en el año 2016 el 4% (n = 737.046) de la población total, según las estimaciones del Departamento de Extranjería y Migración del Ministerio del Interior (DEM). Según distribución de residencia de la población migrante, las regiones de Tarapacá y Antofagasta presentan el mayor porcentaje de extranjeros respecto de su población y a su vez, la Región Metropolitana (RM) concentra cerca de 70% del total de migrantes en Chile según CASEN 201516. Estas son las regiones que concentran la mayor cantidad de casos de sífilis. Considerando que la migración es un tema relevante en el escenario nacional, para definir si esta población tiene mayor riesgo, se requieren de estudios específicos.
+
+En relación a la declaración de pertenencia a pueblos originarios, se puede advertir que existe escaso registro de esta variable, teniendo en cuenta que la población de pueblos indígenas es de 1.585.680 de acuerdo a CASEN 2015. Este notorio sub-registro es coincidente con el alto número de registros nulos en los años 2008 y 2009 (DEIS, 2016), misma situación que se advierte en otros registros sanitarios que poseen la variable de pertenencia a pueblos indígenas.
+
+En este contexto, según lo propuesto por la OMS, se busca eliminar las inequidades en salud a través de acciones multisectoriales18. Es necesario considerar que las personas pertenecientes a pueblos originarios como migrantes representan un desafío para el sector salud en el abordaje con enfoque de determinantes sociales (DSS) de derechos e interculturalidad. Es así que, en respuesta a esta necesidad, el MINSAL implementó el Programa Especial de Salud y Pueblos Indígenas desde el año 2000 y en el año 2006 publica la Política de Salud y Pueblos Indígenas19. Además, ha desarrollado una estrategia nacional de mejoramiento del registro de la variable de pertenencia a pueblos indígenas. En relación a los migrantes, a partir de 2014 el MINSAL ha desarrollado una serie de acciones tendientes a disminuir las barreras de acceso. En el año 2016, destaca el Decreto N° 67 que permite incorporar al sistema de salud a la población de mayor vulnerabilidad, personas migrantes indocumentadas o sin visa de residencia y carentes de recursos20. Actualmente, el MINSAL se encuentra desarrollando la “Política de Salud de Migrantes Internacionales”.
+
+Para el diagnóstico de la sífilis, es fundamental determinar la etapa de la infección según se establece en la circular4, la definición y notificación del caso debe realizarse con los antecedentes clínicos, epidemiológicos y de laboratorio, con el fin de conocer la etapa de la infección, y con ello contar con la información necesaria para caracterizar esta ITS y tomar medidas en salud pública pertinentes.
+
+Como conclusión, en los últimos 5 años la tasa global de sífilis del país se mantuvo relativamente estable. En relación con la edad, el mayor riesgo se encontró en el grupo de 20 a 34 años.
+
+Desde el año 2009 los hombres comenzaron a mostrar tasas superiores a la de las mujeres, el año 2016 ocurrió un aumento de esta brecha entre sexos, establecido por un aumento de la tasa en hombres y una disminución en la de mujeres.
+
+Esta patología se concentra en el grupo de hombres que tienen sexo con hombres (HSH) al igual que de otras ITS.
+
+Según distribución geográfica, en el año 2016 las mayores tasas de notificación se presentaron en las regiones del extremo norte y centro del país, siendo las de mayor riesgo Tarapacá, Antofagasta y Valparaíso.
+
+La sífilis congénita mostró una disminución progresiva del número de casos desde el año 2012 (n = 39) al 2016 (n = 24), cuya tasa fue de 0,1 por mil nacidos vivos.
+
+Dentro de las limitaciones para la elaboración de este informe, cabe destacar que se trabaja a partir de las notificaciones obligatorias en todo el país; no obstante, podría existir sub-notificación de casos, lo que limita conocer la realidad de la infección. Además, existen deficiencias en la calidad de los datos ingresados en el sistema informático de notificación ENO (Enfermedad de Notificación Obligatoria), especialmente en la codificación CIE-10 de la sífilis. Para disminuir la sub-notificación y mejorar la calidad de la información, las Secretaria Regional Ministerial (SEREMI) de Salud trabajan en el refuerzo constante de la vigilancia en la red de epidemiología. Por otra parte, dado que el Boletín de Notificación Obligatoria es estándar para todas las enfermedades incluidas en el Decreto N°158, no se cuenta con mayores antecedentes que permitan análisis específicos de la situación epidemiológica, como son las conductas y comportamientos de riesgo.
+
+Recomendaciones
+
+En la actualidad, se encuentran disponibles en el sitio web del Ministerio de Salud, la siguiente normativa, para vigilancia, manejo y control:
+
+Circular B51/24 del 23/05/2013. “Vigilancia epidemiológica de sífilis y gonorrea”. Disponible en: http://epi.minsal.cl/wp-content/uploads/2016/05/CIRCULAR_24_SIFILIS_GONORREA_2013.pdf
+
+
+
+“Norma general técnica de profilaxis, diagnóstico y tratamiento de las ITS”, Disponible en: http://diprece.minsal.cl/wrdprss_minsal/wp-content/uploads/2014/11/NORMA-GRAL.-TECNICA-N%C2%B0-187-DE-PROFILAXIS-DIAGNOSTICO-Y-TRATAMIENTO-DE-LAS-ITS.pdf
+
+
+
+Decreto 206 del 2005. Reglamento sobre Infecciones de transmisión sexual. Disponible en: http://diprece.minsal.cl/wrdprss_minsal/wp-content/uploads/2015/01/REGLAMENTO-206-Infecciones-de-Transmision-Sexual.pdf
+
+
+
+“Norma conjunta de la prevención vertical del VIH y la sífilis. Disponible en: http://diprece.minsal.cl/wrdprss_minsal/wp-content/uploads/2015/01/NORMA-DE-PTV-VIH-SIFILIS.pdf
+
+
+
+Otros documentos disponibles en: http://diprece.minsal.cl/programas-de-salud/programa-vih-sida-e-its/informacion-al-profesional-vih-sida-e-its/
+
+
+
+Prevención
+
+La prevención y el control de las ITS, incluida la sífilis, contempla acciones destinadas a la población y al sistema de salud, con el objetivo de disminuir la incidencia de casos nuevos y cortar la cadena de transmisión.
+
+A nivel poblacional, la medida más eficiente que permite la prevención de la adquisición de las ITS por vía sexual es el uso correcto y consistente del condón en todas las relaciones sexuales. Es necesario considerar en los mensajes educativos la incorporación de medidas preventivas acordes a las prácticas de sexo oral y anal.
+
+Al sistema de salud van dirigidas las estrategias destinadas a regular la atención del caso índice y sus parejas, con el objetivo de otorgar un diagnóstico precoz, tratamiento oportuno y corte de la cadena de transmisión.
+
+Al diagnosticar un caso de sífilis, el profesional de salud debe hacer todos los esfuerzos que permitan tratar a todos los contactos sexuales declarados por el caso índice, para cortar la cadena de trasmisión y prevenir la reinfección. La información y educación al usuario es fundamental para lograr adherencia al tratamiento, la adopción de medidas para el autocuidado y la concurrencia de los contactos sexuales.
+
+Agradecimientos
+
+A todas las personas que son parte de la red epidemiológica de vigilancia de sífilis, del Instituto de Salud Pública, de los Programas de ITS en las SEREMIS, de los Servicios de Salud, de los establecimientos de salud públicos y privados y de los laboratorios, quienes construyen y fortalecen esta vigilancia.
+
+©Departamento de Epidemiología http://epi.minsal.cl

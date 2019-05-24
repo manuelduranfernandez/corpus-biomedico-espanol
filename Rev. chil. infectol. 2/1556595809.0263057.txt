@@ -1,0 +1,202 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000200001
+Estrategias para reducir infecciones, uso de antimicrobianos y sus efectos en una unidad de neonatología
+
+Resumen
+
+Introducción: La sepsis tardía sigue siendo una causa importante de morbilidad y mortalidad en las unidades de cuidados intensivos neonatales. El uso de vancomicina y otros antimicrobianos de amplio espectro es frecuente y se asocia a la aparición de agentes resistentes, infecciones por bacilos gramnegativos, infecciones por hongos y una mayor morbimortalidad. Objetivo: Evaluar el impacto de cinco protocolos de intervención para reducir la incidencia de infecciones y promover el uso racional de antimicrobianos. Pacientes y Método: Análisis retrospectivo pre (control) y post intervenciones. Se revisaron todos los episodios de infecciones con cultivos positivos (sangre, orina, tráquea y líquido cefalorraquídeo) en pacientes hospitalizados entre enero de 2012 y junio de 2014. Resultados: Después de la intervención, hubo una disminución significativa en las infecciones tardías de 14,3 a 8,5 por 1.000 RNV (p < 0,01); con disminución de la sepsis tardía de 5,7 a 2,8 por 1.000 RNV, sin alcanzar significancia estadística. Hubo una disminución significativa del uso de vancomicina y de cefalosporinas de tercera generación, así como la desaparición de infecciones por Candida spp. La mortalidad y la estadía hospitalaria fueron similares en ambos períodos. Conclusión: Al incorporar estas intervenciones, se logró una disminución significativa de las infecciones tardías y de los costos asociados al uso de antimicrobianos.
+
+Palabras clave: Sepsis tardía, control infecciones, bacterias multi-resistentes, recién nacido, cuidados intensivos neonatales.
+
+ 
+
+Introducción
+
+La sepsis tardía sigue siendo una causa importante de morbilidad y mortalidad en las unidades de cuidados intensivos neonatales. Su incidencia varía entre los distintos países, alcanzando hasta 16/1.000 recién nacidos vivos (RNV) y 20% en los recién nacidos de muy bajo peso de nacimiento1-3.
+
+La gran mayoría corresponden a infecciones asociadas a la atención de salud cuando los RN han permanecido hospitalizados desde su nacimiento. Por esto mismo, debe ser objetivo de cada unidad, su prevención y reducción en forma activa y duradera.
+
+Los factores asociados a su incidencia son múltiples; sin embargo, los más importantes son el grado de complejidad de las unidades neonatales y la existencia de un programa de control de infecciones que apoye en la vigilancia de los problemas y supervise las estrategias que propicien cambios.
+
+Existe evidencia que las infecciones aumentan el riesgo de muerte (2 a 2,6 veces), empeoran el pronóstico neurológico (1,4 a 4,8 veces), prolongan la estadía hospitalaria (de 9 a 27 días más, en promedio) y aumentan los costos de hospitalización significativamente, en especial en el grupo de recién nacidos de bajo peso de nacimiento-RNBPN4-7.
+
+Entre los agentes causales se encuentran las bacterias grampositivas, como Staphylococcus coagulasa negativa (SCoN), el agente más frecuente en prácticamente todos los hospitales, alcanzando en algunos centros más de 50% de las infecciones7. Los bacilos gramnegativos (BGN), representan como grupo la segunda frecuencia, destacando por la alta mortalidad, hasta 50%, entre los afectados. En algunos centros, los BGN pueden ocupar el primer lugar en infecciones, como ha ocurrido en los últimos cinco años en nuestra unidad, donde han alcanzado a 60% de éstas.
+
+Por otro lado, los antimicrobianos destacan entre los fármacos más utilizados en las unidades de neonatología. Ampicilina, gentamicina, vancomicina y cefotaxima han ocupado los primeros lugares, incluso por sobre las vitaminas y el fierro8. En nuestra unidad, hasta el año 2013, 80% de los antimicrobianos indicados correspondían a cefotaxima y vancomicina. Desde el año 2000 varios estudios han demostrado una fuerte asociación entre uso de antimicrobianos por más de cinco días durante los primeros días de vida y un aumento de la morbi-mortalidad, sepsis tardía y enterocolitis necrosante9-11.
+
+Asimismo, ha sido ampliamente documentado que en forma secundaria a esta práctica han aumentado los agentes bacterianos resistentes12-15, las infecciones más agresivas por BGN y las infecciones causadas por hongos (10%)12,16-19, Asociado a esto se ha producido una mayor morbi-mortalidad12,19 y un mayor gasto económico destinado al cuidado de estos pacientes20.
+
+La preocupación por este tema se extiende desde las unidades neonatales hasta las diferentes disciplinas de la medicina del adulto, con un interés común destinado a un uso adecuado de los antimicrobianos. Con este fin, se han desarrollado protocolos de uso racional de antimicrobianos en distintos centros21-23, y se han promovido recomendaciones internacionales para lograr este propósito24,25. En el año 2012, la Sociedad Americana de Epidemiologia de la Salud (Society for Healthcare Epidemiology of America, SHEA), Sociedad Americana de Enfermedades Infecciosas (Infectious Diseases Society of America, IDSA) y la Sociedad Pediátrica de Enfermedades Infecciosas de América (Pediatric Infectious Diseases Society of America-PIDS) también publicaron recomendaciones relacionadas a este tema26.
+
+Una de las estrategias implementadas con éxito en el control de infecciones en neonatología ha sido la incorporación de "bundles". Esto corresponde a un conjunto de intervenciones, que cuando son ejecutadas juntas, tienen mejor resultados que cuando se realizan en forma individual, y su efectividad se basa en evidencia científica. En las unidades de neonatología de alta complejidad, donde se realizan procedimientos invasores como parte de la terapia, son de especial ayuda en la reducción de las infecciones asociadas a la atención de salud4,27-29.
+
+Con todos estos antecedentes, parece importante que cada centro conozca su realidad microbiológica, agentes causales de infección más comunes, patrones de resistencia antimicrobiana, protocolos terapéuticos actualizados y tenga claramente identificados los problemas donde sea posible intervenir. De esta manera, se podrían implementar estrategias destinadas al control de infecciones y al uso racional de antimicrobianos.
+
+El objetivo primario de este estudio fue cuantificar la magnitud y las características microbiológicas (bacterias y hongos) de las infecciones tardías en una unidad de neonatología, antes y después de la implementación de cinco intervenciones recomendadas para reducir las infecciones asociadas a la atención de salud y promover el uso racional de antimicrobianos. Como objetivos secundarios, se planteó evaluar el efecto de estas estrategias en mortalidad, tasas de infecciones asociadas a la atención de salud (IAAS), cantidad y tipo de antimicrobianos usados, duración de la estadía hospitalaria y costos asociados al uso de antimicrobianos.
+
+Materiales y Métodos
+
+Se revisaron los registros de todos los pacientes con cultivos positivos obtenidos, a raíz de una sospecha clínica de infección, entre enero de 2012 y julio de 2014. Se incluyeron hemocultivos, urocultivos, cultivo de LCR, cultivo de secreción traqueal y de cualquier otro sitio normalmente estéril. Se revisaron las fichas clínicas y exámenes de laboratorio para evaluar las características de los cultivos y antibiogramas. La información clínica fue clasificada de acuerdo a las siguientes definiciones:
+
+• Infección tardía: Cuadro clínico y/o exámenes de laboratorio generales compatibles con un proceso infeccioso y presencia de al menos un cultivo positivo de orina, líquido cefalorraquídeo, secreción traqueal y/o cualquier otro sitio estéril, y que hubiera recibido tratamiento antimicrobiano por al menos siete días. Como requisito esencial el cuadro infeccioso se debió haber presentado después de las 72 h y antes de los 3 meses de vida del paciente. Dentro de las infecciones tardías, se incluyó la sepsis tardía, cuando el cultivo positivo correspondía a un hemocultivo.
+
+• Sepsis tardía: Cuadro clínico y/o exámenes de laboratorio compatibles con un proceso infeccioso, con al menos un hemocultivo positivo (bacteriemia) y tratado por al menos 7 días con antimicrobianos, que se presentó después de las 72 h y antes de los tres meses de vida del paciente.
+
+La incidencia de sepsis en recién nacidos se expresó por 1.000 recién nacidos vivos-RNV y en porcentajes, de manera de poder comparar con referencias internacionales.
+
+Se excluyeron aquellos episodios en que el cultivo fue considerado contaminación, ya fuese porque no hubo correlato clínico ni de laboratorio y porque fue aislado tardíamente en un solo hemocultivo o si se obtuvo uro-cultivo con un recuento bajo de colonias.
+
+Para la implementación de estrategias de cambio, se realizó durante el primer semestre de 2013, educación del personal de salud para incorporar cinco intervenciones orientadas a reducir la frecuencia de infecciones. Esta educación se hizo a través de charlas educativas, dos reuniones clínicas generales y en forma personalizada a cada grupo de enfermeras del servicio. Todas las medidas se implementaron progresivamente para asegurar una correcta adherencia a éstas y la evaluación de su ejecución se hizo aplicando pautas de cotejo.
+
+Las intervenciones propuestas fueron orientadas al uso racional de antimicrobianos, incorporación de "bundles" o guías de manejo para procedimientos asociados a dispositivos, y estandarización del diagnóstico microbiológico de neumonía asociada a ventilación mecánica (NAVM).
+
+En relación al uso de antimicrobianos fueron propuestas cuatro intervenciones:
+
+• Cambiar el esquema antimicrobiano empírico para manejo de sepsis tardía de "vancomicina-cefotaxima" a "cloxacilina-amikacina".
+
+• Ajuste precoz del tratamiento antimicrobiano en cuanto se dispusiera del antibiograma.
+
+• Suspensión precoz de los tratamientos antimicrobianos (a las 36 h al descartar una sepsis precoz y, a las 48 h, habiéndose descartado sepsis tardía).
+
+•    Uso restrictivo de cefotaxima y de vancomicina.
+
+Cefotaxima fue reservada exclusivamente para pacientes con meningitis por BGN o en aquellos recién nacidos con hemocultivo positivo a BGN, en quienes no se pudo descartar compromiso meníngeo. Vancomicina fue reservada para uso sólo en pacientes graves, con compromiso hemodinámico y/o con cultivo previo positivo a Staphylococcus aureus resistente a meticilina (SARM) o SCoN durante su estadía hospitalaria. En estos pacientes, la terapia empírica inicial fue vancomicina y amikacina.
+
+La quinta intervención fue la incorporación de "bundles" o guías clínicas que fueron revisadas y adoptadas para inserción de catéter venoso central (CVC), instalación de catéter urinario permanente (CUP) y manejo de tubo endotraqueal (técnica de intubación estéril, aspiración de boca previa aspiración del tubo).
+
+Además, se estandarizó la incorporación del cultivo de secreción traqueal cuantitativo con el objetivo de mejorar el diagnóstico de neumonía asociada a ventilación mecánica (NAVM). Después de revisar las publicaciones descritas en relación a la toma de muestra de secreción traqueal y diagnóstico de NAVM30-32, se estableció que la muestra debía tomarse con técnica estéril aplicando previamente 1 ml de NaCl 1%o estéril y luego realizar una sola aspiración. Esta muestra se cultiva y procesa en forma cuantitativa. Se estableció como diagnóstico de NAVM un recuento igual o superior a 106 por ml de cultivo de agente único, asociado a clínica sugerente de neumonía (deterioro ventilatorio sin otra causa aparente) y radiografía con cambios compatibles.
+
+Todos estos procedimientos fueron ampliamente difundidos entre el personal médico, enfermería y paramédico de la unidad.
+
+Se incluyeron en el análisis todos los pacientes infectados entre enero de 2012 y julio de 2014 y se establecieron dos períodos de observación; el primero, pre intervención, entre el 1 de enero de 2012 y el 31 de diciembre de 2012 y el segundo, post intervención, entre el 1 de agosto de 2013 y el 31 de julio de 2014.
+
+Se analizó la información clínica de los pacientes fallecidos para determinar aquellas muertes relacionadas directamente a la infección. Se consideró que la infección fue causal de muerte, cuando ésta se produjo durante las 24 h de diagnóstico de la infección por imposibilidad de estabilizar al paciente a pesar de una terapia adecuada y/o el paciente falleció con cultivos persistentemente positivos, a pesar de tratamiento considerado apropiado.
+
+Los resultados obtenidos se analizaron comparativamente con: t de student y test exacto de Fisher cuando correspondía.
+
+El estudio fue aprobado por el Comité de Ética de la Facultad de Medicina de la Pontificia Universidad Católica de Chile, proyecto N° 15-187.
+
+Resultados
+
+En el período comprendido en este estudio (excluyendo el primer semestre de 2013 período de intervención), hubo 4.445 RNV en la maternidad, de los cuales 625 (14%) requirieron hospitalización. Dentro de este grupo, 83 (13%) de ellos pesaron menos de 1.500 g (recién nacidos de muy bajo peso de nacimiento-RNMBPN).
+
+Después de implementar las intervenciones propuestas y alcanzando una cobertura de 100% del personal de la unidad, se dio inicio al segundo período de observación.
+
+De esta manera se analizaron y compararon los resultados de número de infecciones y sus etiologías pre intervención (primer período) y post intervención (segundo período) observados en los pacientes nacidos en el hospital y que se internaron en el Servicio de Neonatología.
+
+La Tabla 1 muestra las características generales de los 4.445 pacientes en ambos períodos. No hubo diferencias estadísticamente significativas en peso de nacimiento, uso de nutrición parenteral, mortalidad ni días de hospitalización. Durante el período posterior a la intervención, se hospitalizaron más pacientes y de menor edad gestacional. Los menores de 1.500 g, considerados de mayor riesgo para infección, tendieron a disminuir, sin alcanzar significancia estadística. En relación al uso de procedimientos invasores, se pudo constatar un leve aumento de los pacientes que requirieron ECMO (6 más en el segundo período), una disminución en la cantidad de pacientes invadidos con catéteres centrales y ventilación mecánica, con un descenso importante en los días de uso de éstos.
+
+ 
+
+Tabla 1. Características generales de todos los de los RN          hospitalizados en los períodos pre y post intervención
+
+
+
+ 
+
+La Tabla 2 muestra las infecciones y características de los pacientes infectados antes y después de la intervención. No hubo diferencias significativas en peso de nacimiento ni edad gestacional. En el período post intervención, la edad promedio de diagnóstico de la infección fue reducida en 10 días respecto al primer grupo evaluado.
+
+ 
+
+Tabla 2. Características de los 34 RN infectados en período          pre y post intervención 
+
+
+
+ 
+
+Durante todo el período del estudio, se confirmó un total de 50 episodios de infección en 34 RN, afectando a 19,5% de los niños bajo 1.500 g. El 1,6% de los pacientes hospitalizados (n: 10), presentó al menos un episodio de infección tardía. El 38% de los casos correspondió a bacteriemias, es decir sepsis tardía, con una tasa estimada de 4,3 por 1.000 RNV.
+
+Después de instaurar las cinco intervenciones, disminuyeron los episodios de infección, los RN infectados y las bacteriemias. Hubo una caída (33%) en los episodios de infección con una tasa equivalente de 14,3 a 8,5/1.000 RNV (p < 0,01). Se observó un descenso significativo en el número de casos de bacteriemia o sepsis tardía, desde 4,5 a 1,2%; sin embargo, al ajustar por el número de RN por año, la reducción en la sepsis tardía no alcanza significancia estadística (de 5,7 a 2,9/1.000 RNV). Las infecciones en el grupo de menos de 1.500 g disminuyeron de 20,9 a 17,9%.
+
+Hubo una reducción en el número de infecciones del tracto sanguíneo asociadas al uso de CVC, pero ésta no fue significativa.
+
+No hubo cambios en los días de hospitalización, brotes epidémicos ni muertes atribuibles directamente a una infección.
+
+La Tabla 3 muestra la presencia de factores de riesgo en los pacientes infectados durante ambos períodos de estudio. No se observaron diferencias en uso de nutrición parenteral, uso previo de antimicrobianos por más de cinco días, ni en cirugías antes del episodio. Disminuyeron significativamente el uso de cefotaxima y carbapenémicos, no así de vancomicina. Si bien se observó una baja en el número de pacientes ventilados, con catéteres centrales y con catéteres urinarios, esto no fue significativo ni se acompañó de una baja en las infecciones asociadas a atención de salud.
+
+ 
+
+Tabla 3. Factores de riesgo en RN infectados en períodos          pre y post intervención
+
+
+
+ 
+
+La Figura 1 muestra la tendencia de uso de los distintos antimicrobianos y el porcentaje de ajuste óptimo de éstos desde el año 2011 al 2014. El uso de antimicrobianos de amplio espectro, incluyendo vancomicina y cefotaxima disminuyó significativamente como resultado de su indicación restrictiva, sin aumento de las infecciones ni de la mortalidad. Como era esperable, aumentó el uso de cloxacilina y piperazilina/tazobactam, antimicrobianos que antes no se utilizaban. También aumentó significativamente el uso de amikacina. El ajuste adecuado de antimicrobianos según el antibiograma, es decir, la selección del fármaco más apropiado, según espectro y actividad in vitro mejoró significativamente, logrando un ajuste óptimo en 90% de los episodios. Este ajuste se realizó al momento de conocer la susceptibilidad antimicrobiana, alrededor de las 72 h del cultivo.
+
+ 
+
+
+
+Figura 1. Tendencia de los antimicrobianos utilizados y porcentaje de          ajuste adecuado entre los años 2011 y 2014.
+
+ 
+
+Al analizar la frecuencia de los agentes causales de infección (Figura 2), no hubo diferencias significativas entre ambos períodos, aunque se observó una tendencia al aumento de las infecciones por BGN, que fueron como grupo los más frecuentemente identificados. SCoN fue el agente causal único (25%) más importante, aunque no alcanzó incidencias tan altas como las reportadas en la literatura científica. Las infecciones por Candida spp, alcanzaron a 3% antes de la intervención, desapareciendo por completo en el período posterior.
+
+ 
+
+
+
+Figura 2. Distribución de los agentes causales de infección.
+
+ 
+
+Las bacteriemias durante el primer período, fueron causadas, en 42% de los casos, por SCoN; en cambio, durante el período posterior a la intervención, este agente sólo causó 27% de las bacteriemias, predominando como agentes etiológicos los BGN (63%). Tanto las infecciones urinarias y las neumonías fueron causadas predominantemente por BGN en ambos períodos analizados.
+
+Analizando los patrones de susceptibilidad, se encontró que 98% de los BGN fueron susceptibles a amikacina, porcentaje significativamente mayor que a cefalosporinas de tercera generación, piperazilina/tazobactam e incluso carbapenémicos. No se aisló SARM ni Enterococcus faecalis resistente a ampicilina.
+
+En relación a la aplicación de los "bundles", la adherencia aumentó progresivamente alcanzando a 100% en la instalación y manejo de catéteres urinarias, aspiración de vía aérea e instalación de CVC. La mantención del tubo endotraqueal en condiciones estériles durante la desconexión y aspiración de éste alcanzó a 70% de adhesión. Si bien dentro de los "bundles" que se instauraron no se incluyó específicamente la revisión diaria de la indicación de mantener el dispositivo, se constató una baja en los días totales de CVC, CUP y VM.
+
+Como centro de referencia y derivación nacional, en el mismo período se recibieron 255 RN desde otros centros, que fueron trasladados por gravedad y/o para manejo avanzado. Un 10,2% de estos pacientes tenían menos de 1.500 g. Este subgrupo de pacientes fue analizado separadamente, dada la importancia que reviste en cuanto a número y a las diferencias que puedan existir en manejo y agentes infecciosos en sus centros de origen.
+
+Este grupo no presentó diferencias significativas en peso de nacimiento, edad gestacional, número de menores de 1.500 g, edad de ingreso, motivo de ingreso, estadía hospitalaria ni mortalidad. De todos los trasladados, hubo 32 RN que se infectaron (12,5%) y 36 episodios de infección. No hubo diferencias significativas ni en el número de RN infectados ni en total de infecciones antes y después de la intervención, a pesar de que en el segundo período, los pacientes infectados fueron de mayor riesgo al ser de menor peso y edad gestacional.
+
+Por último, al evaluar los costos económicos asociados al uso de antimicrobianos considerando el costo de la cantidad total de frascos de antimicrobianos utilizados en la unidad, durante el segundo período de observación se produjo una reducción significativa de los gastos relacionados al uso de antimicrobianos, desde un valor estimado de 280 a 50 dólares por episodio de infección, como se observa en la Figura 3.
+
+ 
+
+
+
+Figura 3. Gasto en frascos de antimicrobianos en UCIN.
+
+ 
+
+Discusión
+
+El objetivo primario de este estudio fue cuantificar la magnitud de las infecciones que afectan tardíamente al RN y distinguir las características microbiológicas de éstas, antes y después de implementar una serie de intervenciones destinadas a reducir las IAAS y mejorar el uso racional de antimicrobianos.
+
+A nivel mundial, en las Unidades de Cuidados Intensivos de neonatología, tanto las infecciones como el amplio uso de antimicrobianos, se han convertido en un problema, debido no sólo a la morbi-mortalidad asociada a la infección, sino también las consecuencias que el uso de antimicrobianos implica. Para enfrentar este problema, en el año 2012, la IDSA, SHEA y PIDS, crearon el término "antibiotics stewardship", que involucra a todo el conjunto de intervenciones destinadas a medir y mejorar el uso apropiado de antimicrobianos26, logrando los mejores resultados terapéuticos posibles y reduciendo al mínimo los efectos adversos, los costos y la presión selectiva que origina la resistencia. En nuestro país, existen escasas recomendaciones en relación al uso racional de antimicrobianos en neonatología33 y este trabajo intenta mostrar la factibilidad de instaurar medidas que apunten a un conocimiento sistemático de la realidad microbiológica y de situaciones de riesgo, para reducir el uso de antimicrobianos de amplio espectro, sin que esto aumente la morbi-mortalidad.
+
+En este estudio, las infecciones afectaron a casi 5% de los RN hospitalizados y a cerca de 20% de aquellos bajo 1.500 g de peso, valores semejantes a lo descrito en la literatura médica.
+
+Después de un período de entrenamiento y difusión de prácticas orientadas al control de infecciones neonatales, se logró una disminución de las infecciones tardías en los RN, de 7,4 a 3,9% y especialmente de las bacteriemias, de 4,5 a 1,2%, sin cambios significativos en la mortalidad. Al analizar la tasa de "sepsis tardías" ajustadas por el número de RN en cada período, esta disminución no se alcanzó significancia estadística, probablemente por el bajo número de casos observados en cada uno de los grupos.
+
+Al igual que lo descrito en estudios previos11-13, disminuyeron considerablemente las infecciones por Candida spp, en concomitancia con el menor uso de cefalosporinas de tercera generación y la sepsis tardía. No se analizaron los datos en relación a la incidencia de enterocolitis necrosante, lo que podría ser evaluado posteriormente de forma prospectiva.
+
+Al analizar los datos obtenidos, pudimos determinar los agentes infecciosos que con mayor frecuencia afectan a nuestros pacientes y sus patrones de susceptibilidad, lo que permite ofrecer una terapia empírica más acorde y acotada a la realidad institucional.
+
+Al igual que en la literatura internacional, SCoN fue el agente causal de sepsis tardía más frecuentemente aislado. Se ha descrito que las infecciones que produce son generalmente larvadas, poco sintomáticas y pueden tener un curso fulminante sólo en 1% de los episodios. Además, a pesar de ser resistente a meticilina in vitro, se ha descrito una buena respuesta clínica al tratamiento con oxacilina cuando es asociada a remoción de dispositivos34,35. Por otro lado, se ha descrito una fuerte asociación entre colonización y bacteriemias por BGN y uso previo de vancomicina empírica14,15, terapia habitualmente utilizada en unidades neonatales. Por todo esto, se han desarrollado protocolos de uso restrictivo de vancomicina21,22,33, limitando su indicación a pacientes graves y/o con cultivos positivos a SARM, demostrando que es posible una disminución significativa de su indicación y utilización, sin aumento de la morbi-mortalidad.
+
+Aunque SCoN fue el más frecuentemente aislado, los BGN juegan un rol predominante en las infecciones de nuestra unidad. Las infecciones por levaduras que tenían una alta incidencia (10% durante el 2011), disminuyeron hasta prácticamente desaparecer durante los años 2013 y 2014.
+
+Este trabajo demuestra que es factible aplicar protocolos de uso restrictivo de vancomicina y limitarlo a pacientes graves e inestables o frente al aislamiento de SCoN, sin que esto aumentara la morbi-mortalidad.
+
+Dentro de las intervenciones realizadas, se analizó el cambio del esquema empírico de segunda línea a amikacina y cloxacilina. El iniciar una terapia empírica con cloxacilina no se asoció a un aumento en la mortalidad, a pesar del aislamiento de SCoN y, la cobertura con amikacina parece ser apropiada, pues casi 99% de los BGN son sensibles a ella. Actualmente ésta es la terapia empírica que utilizamos en nuestro centro y si bien cada unidad tiene agentes que son más frecuentes y patrones de susceptibilidad propios, se podría evaluar el uso de este esquema si la incidencia de SARM es baja.
+
+Vale la pena recalcar que en esta unidad no se utiliza profilaxis para hongos, práctica que se ha promovido para centros con prevalencias altas de infecciones por Candida spp. Pensamos que la ausencia de infecciones por levaduras puede efectivamente ser una consecuencia positiva de la limitación de antimicrobianos de amplio espectro, como ha sido demostrado en estudios anteriores1617.
+
+En referencia al uso de antimicrobianos se logró disminuir el uso de cefalosporinas de tercera generación y vancomicina en forma significativa, intervención que también se reflejó en una reducción de 80% en los gastos asociados al uso de antimicrobianos. Dado que en neo-natología y pediatría no se utiliza el DDD (dosis diaria definida) para evaluar uso de antimicrobianos, se hizo un cálculo estimado de los costos económicos asociados a los antimicrobianos utilizados en cada período, considerando los frascos de antimicrobianos utilizados por episodio de infección y el costo de éstos, demostrando una baja importante en el gasto asociado a ellos.
+
+La incorporación de "bundles" no incidió en cambios significativos en las infecciones asociadas a atención de salud; sin embargo, el cambio de las prácticas de trabajo incidió en una mejor comprensión por parte del personal de los conceptos de calidad de la atención ya que se logró su cumplimiento en casi 100% de las veces.
+
+El diagnóstico de NAVM aumentó al doble, lo que podría ser explicado por un aumento real en la incidencia o por un mejor diagnóstico. El uso de cultivo de secreción traqueal cuantitativo se incorporó como herramienta diagnóstica en 100% de los casos, lo que permitió un mejor diagnóstico y la elección del tratamiento antimicrobiano apropiado de acuerdo a la susceptibilidad del agente causal aislado.
+
+Por otro lado, el análisis diferenciado de los pacientes trasladados aportó información valiosa, ya que estos pacientes fueron expuestos a microorganismos y manejos iniciales diferentes. En ellos, la disminución de las infecciones tampoco fue significativa, lo que pudiese hacer pensar que estas medidas sirven cuando se establecen precozmente y como parte de un manejo estandarizado de los pacientes. Llama la atención que en este grupo de pacientes se aíslan bacterias que no se encuentran en los pacientes locales, como Stenotrophomonas maltophilia, SARM y Enterococcus faecalis resistente a ampicilina, así como una mayor incidencia de infecciones causadas por levaduras.
+
+Esta información es de gran importancia, porque implica una terapia empírica más enérgica y un fuerte control de las medidas de aislamiento para disminuir la posibilidad de que estos agentes se extiendan al resto de los pacientes.
+
+Después de todo el período de estudio, las intervenciones se han mantenido en el tiempo, reforzándose en forma periódica y evaluando su cumplimiento; esto ha permitido establecer un sistema de vigilancia de todas las infecciones, microorganismos y patrones de susceptibilidad de la unidad e intervenir de la mejor manera frente a cada caso.
+
+Este estudio tiene la limitante de contar un bajo número de casos, lo que dificulta encontrar diferencias significativas en los parámetros estudiados y realizar ajustes por riesgo adecuados en ambos períodos de tiempo. Además, es retrospectivo, si bien el análisis de las poblaciones, antes y después de la intervención, no muestra diferencias significativas que pudiesen explicar los resultados, probablemente un estudio prospectivo y aleatorizado, pudiese obviar este inconveniente. Sin embargo, el haber involucrado a todos las partes responsables del cuidado de los pacientes y el haber mantenido la estrategia con buena adherencia hace factible que estas nuevas conductas perduren en el tiempo. El haberlo realizado en un solo centro, con datos obtenidos en un registro clínico y de laboratorio computarizados, permite que los resultados obtenidos sean confiables.
+
+Cada unidad debería conocer y analizar su epidemiología local, agentes causales de infección y patrones de susceptibilidad antimicrobiana. Frente a una baja incidencia de SCoN resistente a meticilina, es factible limitar el uso de vancomicina e iniciar tratamiento empírico con cloxacilina y ajustar el esquema terapéutico según el resultado de cultivos y antibiograma. Para cubrir BGN, si la sensibilidad a amikacina es alta, debería considerarse como terapia empírica de elección. Esta intervención puede lograr un mejor control de las infecciones y un uso más apropiado de los antimicrobianos. Será necesario contar con nuevos estudios que incorporen un mayor número de casos para poder establecer si estas prácticas son igualmente efectivas en otros centros.

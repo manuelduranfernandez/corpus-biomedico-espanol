@@ -1,0 +1,172 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000100049
+Análisis genético de las mutaciones presentes en las poblaciones virales en pacientes con infección por VIH-1 en Ecuador
+
+Introducción
+
+Los anti-retrovirales (ARV) deben administrarse de por vida en los pacientes con SIDA y existen una serie de factores que pueden producir un impacto negativo en el éxito del tratamiento. El desarrollo de cepas virales resistentes es una de las principales razones del fracaso de la terapia ARV1, debido a que si se acumulan mutaciones de resistencia a muchas clases de fármacos se limita el número de alternativas de regímenes terapéuticos y el éxito virológico de las terapias siguientes.
+
+Se dispone de métodos genotípicos y fenotípicos para determinar la resistencia ARV. El ensayo genotípico es la técnica más difundida, más rápida, de menor complejidad técnica, menor costo económico y presenta la ventaja adicional de que las mutaciones que se detectan pueden preceder a las resistencias fenotípicas1.
+
+En Ecuador, según los últimos datos oficiales, existen alrededor de 29.000 pacientes infectados con VIH2 y se dispone de un arsenal de 15 fármacos ARV diferentes. Los fármacos de primera línea recomendados por el programa de VIH/SIDA en el país son dos inhibidores de la transcriptasa reversa análogos de nucleósidos (ITRAN) y un inhibidor de la transcriptasa reversa no análogo nucleósido (ITRNAN), siendo el esquema más utilizado tenofovir (TDF)/emtricitabina (FTC)/efavirenz (EFV)3. Según reportes del Ministerio de Salud, a fines del año 2014 existían alrededor de 6.765 pacientes con tratamiento ARV y se estima que cada año, alrededor de 300 pacientes necesitan un cambio en la terapia4.
+
+Las guías internacionales actuales de tratamiento ARV incluyen el empleo de las pruebas de resistencia con el fin de guiar a los médicos en la toma adecuada de decisiones respecto a los regímenes de tratamiento en cada caso5; estas pruebas desafortunadamente no están disponibles de forma estable en Ecuador.
+
+Por ello nos trazamos los siguientes objetivos: Determinar las mutaciones que confieren resistencia a los ARV presentes en las poblaciones virales, así como los niveles de resistencia y las variantes genéticas del VIH-1, en una población de pacientes ecuatorianos con fallo a la terapia ARV.
+
+Materiales y Métodos
+
+Se realizó un estudio observacional, descriptivo, de corte transversal. El universo del estudio estuvo constituido por todas las muestras de plasma de los pacientes con infección por VIH-1 recibidas en el Laboratorio de Virología del Instituto Nacional de Investigación en Salud Pública “Leopoldo Izquieta Pérez” (INSPI), Guayaquil, junto a su respectiva ficha de datos epidemiológicos, como parte del diagnóstico y seguimiento del Programa Nacional de Control y Prevención del VIH/SIDA. El período de estudio abarcó desde mayo de 2013 a diciembre de 2015. La muestra quedó comprendida por 101 plasmas de pacientes que cumplieron los criterios de inclusión.
+
+Los criterios de inclusión fueron: muestras de plasma que tuvieran como mínimo 1 mL, que hubieran estado conservadas a -80 °C y cuya carga viral (CV) previa fuese mayor a 2.000 copias/mL para las muestras recibidas entre mayo de 2013 y febrero de 2014 (74 plasmas) o 20.000 copias/mL para las muestras recibidas luego de febrero de 2014 (27 plasmas). La pirosecuenciación 454 se descontinuó y se emplearon los reactivos disponibles en el mercado compatibles con el secuenciador utilizado; por esta razón se emplearon dos versiones (2.0 y 3.0) del sistema de pirosecuenciación 454, con diferentes sensibilidades (20.000 y 2.000 copias/mL). Las muestras corresponden a pacientes con el antecedente de haber sido tratados con ARV y tener fallo a la terapia ARV (virológico, clínico o inmunológico, según lo definido en la literatura médica)6.
+
+El criterio considerado como CV mínima se seleccionó en base al límite de detección de la técnica empleada, a pesar de que puede haber pacientes con fallo a la terapia ARV y carga viral < 2.000 copias ARN/mL.
+
+Las muestras de plasma procesadas provenían de las clínicas de SIDA de diferentes hospitales de las provincias de Pichincha, Guayas, Esmeraldas, Los Ríos y El Oro. El presente estudio forma parte de los resultados del proyecto INSPI–ESPOL “Epidemiología Molecular del VIH-1 en el Ecuador”, auspiciado por SENESCYT. Veintisiete de las muestras incluidas en el presente estudio forman parte de una publicación reciente en Revista Cubana de Medicina Tropical7.
+
+El estudio contó con la aprobación del Comité Científico institucional.
+
+Experimentos realizados
+
+La pirosecuenciación se seleccionó como parte de un proyecto de investigación, en el que se consideró esta metodología como prominente y apoyado por la sencillez del software para el análisis de los datos en el momento de su diseño experimental.
+
+Las muestras fueron procesadas a través del sistema de pirosecuenciación 454 de ROCHE para el gen pol del VIH-1. A continuación se describe brevemente la metodología empleada.
+
+La extracción del ARN del VIH se realizó con el estuche High Pure Viral Nucleic Acid Large Volume (Roche, EUA), siguiendo las recomendaciones del fabricante. Luego se procedió a la transcripción reversa, síntesis de ADN complementario, generación de amplicones, purificación de los productos de la reacción de polimerasa en cadena (RPC), cuantificación de los productos purificados de RPC, elaboración de la librería de amplicones, RPC en emulsión, recuperación de las perlas con los productos de RPC obtenidos, cuantificación de las perlas recuperadas y la secuenciación, utilizando las especificaciones detalladas en el manual GS Junior Training (Roche)8 y las instrucciones del fabricante (Roche)9,10.
+
+En 27 muestras se utilizó la versión 2.0 que permite la detección de fragmentos del gen pol que codifican para la transcriptasa reversa (TR) y la proteasa (PR) con un límite de detección de 20.000 copias/mL11, en el resto de las muestras (74 plasmas) se utilizó la versión 3.0 en la que además de los fragmentos anteriores se detecta el fragmento que codifica la integrasa (IN) y posee un límite de detección de 2.000 copias/mL12.
+
+Las secuencias resultantes fueron editadas automáticamente por el software DeepChek 1.3 (Advanced Biological Laboratories).
+
+Análisis de la resistencia
+
+Para la clasificación de la resistencia se siguió el algoritmo de Stanford, versión 7.0 (27/2/2014), http://hivdb.stanford.edu/pages/documentPage/drm.html) y para el análisis de las mutaciones se incluyeron aquellas internacionalmente reconocidas y en la región de la PR sólo se incluyeron las mutaciones mayores13. Las secuencias fueron ingresadas al software DeepCheck-HIV algorithms entre julio y diciembre de 2015. Los niveles de resistencia definidos por el DeepChek-HIV algorithms v1.3 para la base de datos de Stanford (v7.0- 27/2/2014) fueron: categoría susceptible (S), resistencia intermedia (RI) y la resistencia alta (RA). Los niveles de resistencia a los tres grupos de medicamentos se calcularon mediante la determinación del promedio del porcentaje de RA, RI y S de cada medicamento individual que pertenece a cada clase de ARV. Se consideró que las muestras de los pacientes tenían resistencia cuando presentaron RI o RA. Se clasificó como resistencia a todos los fármacos de una clase (del inglés full class resistance o FCR) cuando no existía ningún ARV sensible a la clase en cuestión14. La multi-resistencia o resistencia a todas las clases de fármacos estudiados (del inglés multidrug resistance o MDR) se definió como los virus resistentes a todos los medicamentos de las tres clases, pudiendo encontrarse un solo medicamento de una clase sensible14.
+
+Análisis estadístico
+
+Se determinaron las frecuencias absolutas y relativas de las variables estudiadas. Las variables incluyeron las mutaciones que confieren resistencia a los ARV en las poblaciones virales minoritarias, en las poblaciones mayoritarias y en su conjunto.
+
+Se define como poblaciones mayoritarias virales aquellas que están presentes en más de 20% de los virus analizados y poblaciones minoritarias virales como aquellas que están presentes en el rango de 1 a 20% de los virus analizados en una muestra.
+
+Los datos recogidos abarcaron las siguientes variables de estudio: edad (en años cumplidos), sexo (femenino o masculino), preferencia sexual (heterosexual, homosexual o bisexual), terapia anti-retroviral (medicamentos, número de terapias), valor de la última CV y valor del último recuento de linfocitos (LT) T CD4+. Las variables cuantitativas continuas (edad, CV y recuento de LT CD4) fueron analizadas también a través de la mediana, considerando los valores del 1er y 3er cuartil. El análisis entre los niveles de resistencia o mutaciones y el antecedente del empleo de ARV se realizó considerando solamente a los pacientes con el dato del tipo de terapia ARV utilizada.
+
+Se realizó una regresión logística para buscar la posible asociación entre los subtipos y las mutaciones encontradas.
+
+Resultados
+
+Las características de la muestra estudiada se pueden apreciar en la Tabla 1.
+
+Tabla 1 Datos recogidos del total de pacientes estudiados según la ficha personal 
+
+*Porcentaje de adultos. Abreviaturas: NA: No aplica, Q: cuartil.
+
+Niveles de resistencia a los medicamentos anti-retrovirales
+
+De forma general, los niveles de resistencia a los ARV fueron mayores en las poblaciones virales minoritarias al compararlos con los niveles de resistencia de las poblaciones virales mayoritarias.
+
+Los niveles de resistencia de los virus frente a los ITRNAN y los inhibidores de proteasa (IP) fueron los más altos en ambas poblaciones virales de las muestras de los adultos, (mayoritarias 34,9 y 29,1%, y minoritarias 47,7 y 68,6%, respectivamente, Figura 1 A), particularmente para los medicamentos efavirenz (EFV) y nevirapina (NVP) en el grupo de los ITRNAN, y para atazanavir (ATZ)/potenciado con ritonavir (/r), lopinavir (LPV/r), nelfinavir (NFV), fosamprenavir (FPV/r), indinavir (IDV/r) y saquinavir (SQV/r) (Figura 1 B).
+
+Figura 1 Niveles de resistencia a los ITRAN, ITRNAN e IP en poblaciones mayoritarias y minoritarias de VIH-1 en pacientes adultos (A y B) y niños (C y D). Abreviaturas: ABC: Abacavir, AZT: zidovudina, ATV: atazanavir, DRV: darunavir, d4T: estavudina, ddC: zalcitabina, ddI: didanosina, DTG: dolutegravir, EFV: efavirenz, ETR: etravirine, EVG: elvitegravir, FTC: emtricitabina, FPV: fosamprenavir, IDV: indinavir, LPV: lopinavir, NFV: nelfinavir, NVP: nevirapina, RA: resistencia alta, RAL: raltegravir, RI: resistencia intermedia, RPV: rilpivirina, S: susceptible, SQV: saquinavir, TDF: tenofovir, TPR: tipranavir, 3TC: lamivudina, /R: potenciado con ritonavir. 
+
+En poblaciones virales mayoritarias de los adultos, se encontraron con FCR dos muestras (2,3%) a los ITRAN, 12 (13,9%) a ITRNAN, ninguna a IP y dos a inhibidores de la integrasa IN (3,1%). En poblaciones minoritarias, se encontraron cuatro muestras con FCR a los ITRAN (4,7%), 16 a los ITRNAN (18,6%), cinco a los IP (5,8%) y dos a IIN (3,1%); adicionalmente, una muestra (1,2%) tuvo MDR (sin incluir a IIN).
+
+En las poblaciones virales mayoritarias de los niños, se encontró una elevada resistencia a los IP (46,7%). La resistencia a los IIN (33,3%), debe ser analizada cuidadosamente pues sólo tres niños tuvieron virus analizados en la región de la IN y uno de ellos (en el que se desconoce el antecedente de empleo de este grupo de medicamentos) presentó resistencia a los IIN. Los medicamentos con mayores niveles de resistencia en poblaciones mayoritarias fueron los IP (exceptuando DRV/r y tripanavir (TPR/r), elvitegravir (EVG) y dolutegravir (DTG) (Figura 1 C). En poblaciones virales minoritarias se encontró que los niveles de resistencia a todas las clases de medicamentos ARV fueron altos, particularmente para los medicamentos EFV, NVP (40,0%) y los IP (Figura 1 D). En poblaciones minoritarias se encontraron tres muestras con FCR a los ITRNAN, uno a los ITRAN y tres a los IP; mientras que en las poblaciones virales mayoritarias se encontró una muestra con FCR a cada una de las clases de ARV estudiadas. Se detectaron virus MDR en poblaciones minoritarias en un niño de un año de edad.
+
+Análisis de mutaciones que confieren resistencia a anti-retroviral en los genes de la transcriptasa reversa, proteasa viral e integrasa
+
+Provenientes de los adultos, se encontraron muestras con un total de 23 mutaciones en el gen de la TR que confieren resistencia a los ARV, 11 de ellas a uno o varios de los medicamentos de la familia de los ITRAN y 12 mutaciones a uno o varios de los medicamentos de la familia de los ITRNAN. Además, se detectaron nueve mutaciones mayores, que confieren resistencia a uno o varios de los medicamentos de la familia de los IP (Figura 2 A).
+
+
+
+Figura 2 Porcentaje de pacientes adultos con poblaciones de VIH-1 con mutaciones que confieren resistencia a los ARV en poblaciones minoritarias (< 20%) y mayoritarias (> 20%). A: adultos y B: niños. Abreviatura: IIN: inhibidores de integrasa. 
+
+Figura 3 Porcentaje de resistencia a los antiretrovirales en poblaciones minoritarias y mayoritarias de VIH-1 según ARV utilizados previamente en pacientes adultos (A: 3 o más esquemas terapéuticos, B: 2 esquemas terapéuticos, C: 1 esquema terapéutico, D: se desconoce cuántos esquemas terapéuticos han utilizado y E: Niveles de resistencia a los ARV y tratamiento previo con ese ARV). Abreviaturas: ABC: Abacavir, AZT: zidovudina, ATV: atazanavir, DRV: darunavir, d4T: estavudina, ddC: zalcitabina, ddI: didanosina, DTG: dolutegravir, EFV: efavirenz, ETR: etravirine, EVG: elvitegravir, FTC: Emtricitabina, FPV: fosamprenavir, IDV: indinavir, LPV: lopinavir, NFV: nelfinavir, NVP: nevirapina, RA: resistencia alta, RAL: raltegravir, RI: resistencia intermedia, RPV: rilpivirina, S: susceptible, SQV: saquinavir, TDF: tenofovir, TPR: tripanavir, 3TC: lamivudina, /R: potenciado con ritonavir. 
+
+Las mutaciones más frecuentes encontradas en la región de la TR que confieren resistencia a los ITRAN y los ITRNAN, fueron: M184V/I (18,6%), K101E/P/H (17,4%) y K103N/S (25,6%, Figura 4 A). Entre las mutaciones primarias asociadas a resistencia en la región de la PR prevalentes, se encontraron: D30N (22,1%), M46L/I (27,9%), I54L/M (18,6%), V82T/F/A/S/L (25,6%) y L90M (36%).
+
+Figura 4 Porcentaje de resistencia a los antiretrovirales en poblaciones minoritarias y mayoritarias de VIH-1 según ARV utilizados previamente en pacientes niños (A: 3 esquemas terapéuticos, B: 2 esquemas terapéuticos, C: 1 esquema terapéutico, D: se desconoce cuántos esquemas terapéuticos han utilizado y E: Niveles de resistencia a los ARV y tratamiento previo con ese ARV). Abreviaturas: ABC: Abacavir, AZT: zidovudina, ATV: atazanavir, DRV: darunavir, d4T: estavudina, ddC: zalcitabina, ddI: didanosina, DTG: dolutegravir, EFV: efavirenz, ETR: etravirine, EVG: elvitegravir, FTC: Emtricitabina, FPV: fosamprenavir, IDV: indinavir, LPV: lopinavir, NFV: nelfinavir, NVP: nevirapina, RA: resistencia alta, RAL: raltegravir, RI: resistencia intermedia, RPV: rilpivirina, S: susceptible, SQV: saquinavir, TDF: tenofovir, TPR: tripanavir, 3TC: lamivudina, /R: potenciado con ritonavir. 
+
+Se detectaron diferencias en la frecuencia de mutaciones que confieren resistencia en poblaciones virales minoritarias y mayoritarias. Por ejemplo, en poblaciones mayoritarias se hallaron mutaciones menos frecuentes, pero de gran importancia como la M41L, K70R, L74V, T215F/Y, K219Q/E, L100I, V106A/M, E138Q/A/G/K/r, V179L, Y188L/C/H, G190A/S y P225H.
+
+En las muestras provenientes de niños, la mutación detectada con mayor frecuencia en poblaciones virales mayoritarias en la región de la PR fue la L90M (33,3%), mientras que en la región de la TR fue la K103N/S (13,3%) y en la región de la IN la N155H (6,7%). En poblaciones minoritarias virales las mutaciones más detectadas fueron M46L/I (25,7%), I50V/L (20,0%) en la región de la PR y la F77L (20,0%), K103N/S en la región de la TR (20,0%, Figura 2 B).
+
+La frecuencia de mutaciones que confieren resistencia encontradas en poblaciones mayoritarias (> 20%) es menor a la frecuencia de mutaciones en población minoritarias (1-20%) (Figura 2 A y B).
+
+Niveles de resistencia a los medicamentos anti-retrovirales, mutaciones y su relación con el tratamiento empleado
+
+Se emplearon 17 esquemas terapéuticos en 61 pacientes adultos (Tabla 2). El tiempo de tratamiento ARV de los pacientes adultos fue variado (mediana del tiempo de inicio del tratamiento ARV: 54 meses, 1er IQ: 44 meses-3er IQ: 120 meses).
+
+Tabla 2 Esquemas terapéuticos ARV empleados en una población de adultos y niños en Ecuador 
+
+Abreviaturas: ABC: abacavir, AZT: zidovudina, DRV: darunavir, d4T: estavudina, DDI: didanosina, EFV: efavirenz, FTC: emtricitabina, LPV: lopinavir, NFV: nelfinavir, RAL: raltegravir, TDF: tenofovir, 3TC: lamivudina, /R: potenciado con ritonavir.
+
+Se emplearon ocho esquemas terapéuticos en 12 niños (Tabla 2). El tiempo de tratamiento ARV de los pacientes fue mayor a cuatro años en la mayoría de los casos (mediana del tiempo de inicio del tratamiento ARV: 56 meses, 1er IQ: 34 meses-3er IQ: 97 meses). No se encontró relación en cuanto al tiempo de tratamiento y la presencia de resistencia a los ARV en adultos ni en niños (datos no mostrados).
+
+De forma general, los pacientes que tuvieron un mayor número de esquemas terapéuticos presentaron mayores niveles de resistencia a los ARV, tanto en poblaciones virales mayoritarias como en las minoritarias (Figuras 3 y 4). Se detectaron algunas excepciones, en los adultos: los niveles de resistencia en los ITRNAN en las poblaciones virales mayoritarias de los pacientes con dos esquemas, fue superior a la de los pacientes con tres esquemas. Los niveles de resistencia a los IP en poblaciones virales minoritarias de pacientes que habían utilizado un solo esquema de tratamiento o que se desconocía cuantos esquemas terapéuticos habían utilizado, fueron muy altos (74,3 y 68%, respectivamente) (Figura 3 A, B y C). En los niños, la excepción encontrada: en poblaciones virales minoritarias de pacientes con dos esquemas los niveles de resistencia a los ITRNAN fue el mayor (100%, Figura 4 A, B, C y D).
+
+El empleo de varios esquemas terapéuticos ARV y su relación con la resistencia a los fármacos tuvo una distribución similar en poblaciones virales minoritarias y mayoritarias, teniendo en esta última una menor proporción de virus resistentes (Figura 3 y 4 A, B, C y D). No se obtuvieron los datos del tratamiento ARV empleado en 25 pacientes adultos (Figura 3 D) y tres niños (Figura 4 D).
+
+El 98% de los pacientes adultos utilizó ITRAN, 79% recibió ITRNAN, 46% IP y 8% se trató con IN; siendo los medicamentos más utilizados FTC (75%), TDF (75%), EFV (77%), LPV/r (44%) y RAL (8%). Todos los niños habían utilizado ITRAN, 75% ITRNAN e IP; siendo los medicamentos más utilizados 3TC (100%), AZT (83,3%), EFV (75%) y LPV/r (58,3%).
+
+Al analizar la resistencia en poblaciones mayoritarias y minoritarias con respecto al antecedente del uso de cada uno de los ARV, se encontró que, de forma general, los pacientes con el antecedente de tomar medicamentos tenían virus con mayores valores de resistencia al medicamento empleado (Figura 3 y 4 E). Los niños presentaron poblaciones virales con mayores niveles de resistencia a los medicamentos ABC, DDI, DRV/r, LPV/r y NFV habiendo sido estos medicamentos utilizados en menor medida (Figura 4 E). La concordancia entre la presencia de mutaciones que confieren resistencia a los ARV y el antecedente de uso de ARV fue alta para los IP (73%) y para los ITRNAN (59,6%), siendo menor para los ITRAN (41,7%) y los IIN (20%).
+
+Otras variables estudiadas
+
+La mediana de LTCD4+ fue baja (Tabla 1). Los recuentos de LTCD4+ menores a 200/mm3 o carga viral mayor a 100.000 copias ARN/mL no se asociaron a mayores niveles de resistencia de forma general y para ambas poblaciones (datos no mostrados).
+
+Los pacientes con LTCD4+ menores a 200/mm3 o elevados niveles de CV (> 100.000 copias ARN/mL) tuvieron virus con elevados niveles de resistencia para IP y para ITRNAN (65,9 y 59,1% para recuentos de LTCD4+ bajos y 54,3 y 43,5% para elevados niveles de CV, respectivamente). De forma general, la mayor parte de las poblaciones virales estudiadas en la región de la TR (76,2%) y en la región de la PR (85,1%) fueron subtipo B, mientras que en la región de la IN fueron subtipo no B (54,5%), fundamentalmente CRF25_cpx (53,4%). No se encontraron resultados de subtipos virales en las muestras provenientes de cinco pacientes en la región de la TI, en cuatro casos de la región de la PR y en 46 de la región de la IN.
+
+Los otros subtipos encontrados en la región de la TR fueron: CRF28_BF (8,9%), CRF02_AG (3,0%), CRF29_ BF y CRF12_BF (2,0%), CRF07_BC, CRF42_BF y CRF36_cpx (1,0%). En la región de la PR, los subtipos no B fueron CRF02_AG (4,0%), CRF07_BC (3,0%), subtipo F2 (2,0%), CRF34_01B y CRF17_BF (1,0%). En la región de la IN el otro subtipo no B detectado fue F1 (1,0%).
+
+Los virus tipificados, exceptuando cinco casos, fueron subtipo B o formas recombinantes con subtipo B en alguna de las regiones secuenciadas. No se encontró asociación entre los subtipos y las mutaciones encontradas (p > 0,05).
+
+Discusión
+
+La pirosecuenciación permite la detección de cuasiespecies minoritarias con capacidad discriminatoria para detectar variantes virales que representan tan sólo 1% de la población15. Usando esta técnica, se han encontrado variantes de VIH resistentes a los ARV en poblaciones virales menores a 20% de aquellos pacientes con fallo a la terapia16. Las cuasi-especies pudieran emerger como poblaciones mayoritarias de virus después del inicio de la terapia de rescate en pacientes previamente tratados17.
+
+La interpretación de las pruebas de resistencia que describen poblaciones virales minoritarias, si bien no es un criterio establecido para determinar qué medicamento ARV indicará el médico de asistencia a un paciente, puede orientar al médico sobre cuál puede ser la evolución de las poblaciones virales circulantes en el paciente y la potencialidad de desarrollar resistencia a algunos medicamentos.
+
+Desafortunadamente, esta tecnología (pirosecuenciacion 454) fue descontinuada y solo se contó con acceso limitado a los reactivos. En la actualidad existen otras tecnologías que permiten la detección de poblaciones virales minoritarias.
+
+En el estudio realizado se encontraron diferencias en la frecuencia de las mutaciones en las poblaciones virales estudiadas. Existe un grupo de mutaciones que son frecuentes en las poblaciones minoritarias y que, por su relevancia al relacionarse con la resistencia a determinados medicamentos, probablemente constituirá un problema para estos pacientes17,18.
+
+Los resultados de la CV elevada y de recuentos bajos de LTCD4+ en pacientes tratados indican un fallo a la terapia de largo tiempo de evolución19. Los pacientes que porten virus con resistencia a todos los medicamentos de un grupo (FCR) o a todos ellos (MDR) en poblaciones minoritarias tendrán opciones terapéuticas seriamente comprometidas en un futuro, lo que indica un fallo de terapia de larga evolución, lo que conduce a la acumulación de mutaciones de resistencia14. El principal objetivo del tratamiento ARV es prolongar la vida de los pacientes con una calidad adecuada y al realizar pruebas de resistencia el tratamiento se enfoca de forma óptima para lograr este objetivo.
+
+Los elevados niveles de resistencia a IP y a ITRNAN, pudieran corresponder a la alta sensibilidad de la pirosecuenciación para las poblaciones minoritarias virales, a tratamientos ARV de larga duración con estos medicamentos o a la falta de adherencia adecuada con los ARV20. Las razones más comunes del fallo virológico en pacientes con tratamientos ARV son la adherencia inadecuada a los medicamentos, la infección con otra cepa viral, la inestabilidad en el acceso a algunos medicamentos, la supresión virológica incompleta en pacientes tratados con medicamentos de baja barrera genética, los factores farmacocinéticos y la transmisión de variantes minoritarias resistentes en pacientes con fallo a la terapia de primera línea21. Debido a estas razones, es esencial determinar las causas que condujeron al fallo virológico en pacientes tratados, para poder determinar cuál será la estrategia terapéutica a seguir con estos pacientes, teniendo en consideración que el tratamiento ARV debe ser lo suficientemente potente como para suprimir los niveles de replicación viral y a su vez deben tener una barrera genética lo suficientemente alta como para evitar un rebote virológico21.
+
+En Ecuador, no se conoce cuál ha sido el comportamiento de la resistencia, debido a que no hay estudios previos publicados. El tamaño de la muestra estudiada en la actual investigación no permite realizar una valoración de la resistencia a los ARV en pacientes con fallo a la terapia en el país y la falta de algunos datos en las fichas de datos no permite llegar a otras conclusiones. El presente estudio constituye un estudio piloto en el cual se puede apreciar algunos de los problemas relacionados con la resistencia a los ARV en una muestra de la población con VIH de Ecuador y llamar la atención de las autoridades de salud sobre la importancia de realizar de forma estable pruebas de resistencia a los ARV.
+
+En Minais Gerais, Brasil, la presencia de mutaciones que confieren resistencia ha tenido un comportamiento diferente para cada grupo de ARV durante un análisis de tendencia de 10 años, aumentando para los ITRNAN, disminuyendo para los IP y manteniéndose similar para los ITRAN. En dicho estudio se encontraron predictores de resistencia a cada grupo de medicamentos diferentes22. Otro estudio en Belém, Pará, Brasil, encontró frecuencias de mutaciones mayores de 20% y hasta 80%23. No se conoce cuál ha sido la prevalencia de la resistencia a los ARV en Ecuador, por lo que se desconoce cuál ha sido el comportamiento de ésta en el tiempo. En Europa, los pacientes con falla virológica, en 1997 eran 74,2% y en 2012 eran sólo 5,1%; de estas muestras, 77,9% tenía resistencia, siendo la resistencia a los ITRAN la más frecuente (70,3%)24.
+
+Niveles de resistencia a los medicamentos anti-retrovirales y su relación con el tratamiento empleado
+
+La variedad de esquemas terapéuticos utilizados en los pacientes analizados pudiera ser considerado como un manejo terapéutico inadecuado. Entre las posibles causas de este manejo se pueden encontrar el no tener implementado estudios de resistencia para el adecuado tratamiento ARV, una incorrecta indicación médica de los ARV o las combinaciones inadecuadas de éstos, además de una pobre adherencia de los pacientes a los tratamientos.
+
+Los pacientes estudiados con una mayor cantidad de esquemas terapéuticos tuvieron niveles de resistencia mayores. En pacientes con evidencia de fallo a la terapia, si se mantiene la misma combinación por tiempo prolongado, van acumulándose otras mutaciones que incrementan los niveles de resistencia19.
+
+Las guías de tratamiento de la OMS en el año 2015 recomiendan como terapia de primera línea para países con bajos recursos, la combinación TDF+3TC o FTC+ EFV para adultos y adolescentes, mientras que para los niños ABC o AZT+3TC+LPV/r o EFV según la edad25. Estas mismas guías sugieren que como el monitoreo de la CV no está generalmente disponible, el primer régimen pudiera ser cambiado cuando el paciente experimente fallo inmunológico o clínico. En la “Guía de atención integral para adultos y adolescentes con infección por VIH/sida” de Ecuador, se recomienda como tratamiento de primera línea el TDF+FTC+EFV, en concordancia con las recomendaciones de la OMS, y en caso de existir alguna contraindicación dos ITRAN + un ITRNAN o dos ITIAN + un IP3.
+
+Subtipos
+
+La región sudamericana ha sido considerada como una zona donde el subtipo B es mayoritario; dentro de este subtipo, la prevalencia de mutaciones que confieren resistencia es de 44,1-72%26. La relevancia de conocer el subtipo viral es que algunos subtipos han sido relacionados con algunas vías de transmisión; por ejemplo, el subtipo B se asocia con los hombres que tienen sexo con hombres, así como algunas formas recombinantes con el uso de drogas intravenosas27,28. Además, se han descrito mutaciones que generan resistencia en algunos subtipos y no en otros (la 30 y la 90 para IP, la 106 para ITRNAN, etc.)29. Recientemente se describió una forma recombinante con rápida progresión a SIDA, como es el caso del CRF19_cpx, presente en la epidemia cubana30,31. Las diferencias encontradas en el presente estudio dado lo pequeña y variado de la muestra no se establecieron de forma significativa.
+
+La mayoría de los subtipos virales detectados fueron B y formas recombinantes de B en la región de la TR y la PR, lo que concuerda para el estándar de América30,32 y en la región que codifica para la IN fue el CRF25_cpx.
+
+El subtipo CRF25_cpx está constituido por fragmentos de subtipos A, G y fragmentos sin clasificar; no existen reportes previos de una alta prevalencia de este subtipo en la región que codifica la IN. La región de la IN del subtipo CRF25_cpx se encuentra codificada por un recombinante de subtipo G y fragmentos sin clasificar mayoritariamente, por lo que la amplia clasificación de este segmento de gen en CRF25_cpx se puede tratar de un artefacto del software empleado para analizar las secuencias. Estudios filogenéticos posteriores de las secuencias de estos pacientes serán necesarios para una clasificación eficiente.
+
+Niños
+
+El seguimiento de los niños infectados por VIH se hace más complejo, pues este grupo poblacional requiere que se analicen muestras seriadas a partir del nacimiento y de sus madres antes de comenzar el tratamiento ARV, en el parto y luego de este, además de que la adherencia depende de los padres y luego de los adolescentes. Las opciones terapéuticas en los niños son limitadas pues no todos los medicamentos tienen formulaciones pediátricas y existe el inconveniente de la transmisión de cepas resistentes de la madre al feto33,34. Los estudios de resistencia en población pediátrica son necesarios, tanto para aquellos niños tratados con falla a la terapia, como en aquellos que se comenzarán a tratar, para iniciar una terapia de primera línea altamente efectiva33,34.
+
+Para realizar un estudio con el objetivo de conocer los mutantes virales y su asociación con los niveles de resistencias a los ARV, es necesario realizar un análisis a un mayor número de muestras, contando con los datos clínicos, terapéuticos y epidemiológicos de todos ellos. Este estudio permitiría además que se conozcan los subtipos y variantes genéticas del VIH-1 que circulan en Ecuador, así como su posible relación con datos epidemiológicos.
+
+La determinación de mutaciones que confieren resistencia a los ARV es un problema que debe resolverse en todos aquellos países que incluyan dentro de sus prioridades de salud el tratamiento y control de la epidemia de VIH.
+
+Podemos concluir que se obtuvieron los datos de resistencia a ARV en una población de 101 pacientes con VIH-1 en Ecuador. Se encontró un alto número de mutaciones asociadas a resistencia tanto en la PR como en la TR; lo que traduce la aparición en un futuro/presente de resistencia en estos pacientes. La forma genética causante de la infección por VIH-1 detectada en este estudio fue la B en la región de la TR y la PR, mientras que para la IN fue el CRF25_cpx. El estudio confirma la importancia de la realización de las pruebas de determinación de resistencia ARV en pacientes con fallo a la terapia. El estudio de todos los pacientes con fallo a la terapia permitirá evaluar la relevancia de la frecuencia de resistencia a los ARV y hacer, en consecuencia, otras sugerencias a las autoridades de salud ecuatorianas. Se propone realizar el seguimiento de los pacientes con mutaciones en poblaciones minoritarias para evaluar la evolución de la resistencia.
+
+El presente estudio se realizó en el Instituto Nacional de Investigación en Salud Pública “Leopoldo Izquieta Pérez”, Ecuador.
+
+Fuente de financiamiento: SENESCYT, a través del proyecto INSPI–ESPOL titulado “Epidemiología Molecular del VIH-1 en el Ecuador”.
+
+Agradecimientos
+
+A los médicos del Hospital de Infectología de Guayaquil, Tomás Rodríguez, Francisco Andino, Julián Cuesta y Dora Hasang por su invaluable ayuda en la recopilación de datos faltantes de las fichas epidemiológicas, así como en el envío de muestras de pacientes con fallo a la terapia.

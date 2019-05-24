@@ -1,0 +1,174 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182017000500431
+Epidemiología, especies, resistencia antifúngica y evolución de las candidemias en un hospital universitario de Buenos Aires, Argentina, durante 16 años
+
+Introducción
+
+La candidiasis es la micosis oportunista de mayor incidencia en todo el mundo. Las levaduras del género Candida se ubican en el cuarto lugar entre todos los microorganismos aislados en los hemocultivos de los pacientes internados1. La incidencia de esta infección micótica y la participación de cada una de sus especies varían cuando se consideran distintos lugares geográficos1-3. La información bibliográfica del tema se origina mayoritariamente en el hemisferio norte, particularmente en Estados Unidos de América (E.U.A) y Europa; es menor el número de los estudios epidemiológicos realizados en América Latina1,4-11. El estudio que tiene la casuística más grande de la región fue realizado en 20 centros médicos en siete países de Latinoamérica y la incidencia fue de 1,18/1.000 ingresos (de 0,33 en Chile a 1,96 en Colombia)3. Estas incidencias son mayores a las comunicadas por algunas investigaciones norteamericanas (0,28-0,42 casos/1.000 ingresos)12,13 y europeas (0,20-0,38/1.000 ingresos)14.
+
+Cualquier especie de Candida puede estar involucrada, pero más de 90% de los episodios son ocasionados por cuatro de ellas: C. albicans, C. parapsilosis, C. tropicalis y C. glabrata10,11,15,16. Candida albicans es la responsable de 40-60% de los episodios en todo el mundo17,18 y fue la especie predominante en un estudio argentino multicéntrico en el que participaron instituciones de todo el país22. Sin embargo, se han demostrado diferencias entre las distintas regiones del mundo en la incidencia y la distribución de las especies causantes del otro 50% de los casos. En América Latina, C. parapsilosis y C. tropicalis ocupan el segundo y tercer lugar, respectivamente17,19, Candida parapsilosis también se ubica como segundo agente etiológico más frecuente en el sur de Europa y algunos países de Asia12. Candida glabrata es la segunda especie en frecuencia aislada en numerosas unidades de cuidados intensivos de E.U.A.15. La incidencia de C. glabrata en Sudamérica es relativamente baja (4-7%)3,19, con excepción de Chile10, aunque parecería estar incrementándose20,21.
+
+La distribución de las especies de Candida no sólo varía con la región geográfica, sino también con la edad de los pacientes y el ambiente donde ellos se encuentran internados8,21. El conocimiento de cuáles son las especies prevalentes en un hospital es importante por la resistencia a los antifúngicos, particularmente a fluconazol, fármaco que puede ser ineficaz para el tratamiento de episodios ocasionados por C. krusei, C. glabrata, C. guilliermondii o C. rugosa22.
+
+Los objetivos del presente trabajo fueron conocer la epidemiología de las candidemias en un hospital universitario durante un período de 16 años, establecer las especies involucradas e identificar si hubo variaciones a través del período en las especies, los grupos etarios de los pacientes afectados, la sensibilidad antifúngica a fluconazol y la evolución de los pacientes.
+
+Materiales y Método
+
+Se realizó un estudio retrospectivo en el Hospital de Clínicas José de San Martín de la Universidad de Buenos Aires.
+
+Se identificaron desde los laboratorios de Micología y Bacteriología todos los hemocultivos con desarrollo de Candida spp. desde el 1 de enero de 1998 al 31 de diciembre de 2013. A partir de la identificación del hemocultivo con Candida se analizaron las historias clínicas.
+
+Los hemocultivos fueron procesados por métodos automatizados BacT/ALERT® 3D (bioMèrieux, Francia)23 o por la técnica de lisis-centrifugación24. La identificación de las levaduras se realizó por métodos morfológicos, siembra en agar cromogénico, pruebas bioquímicas25 y/o utilización de equipos comerciales: API 20 C®, API ID32 C26.
+
+El estudio de la sensibilidad de los aislados de Candida se realizó por difusión. La lectura se realizó en forma manual en mm de halo de inhibición. De 2001 a 2007 se pudo obtener el valor en µg/ml correspondientes por la lectura con láser del equipo BIOMIC22. Durante el período en estudio se utilizaron los puntos de corte sugeridos por CLSI27 para interpretar la sensibilidad realizada por difusión para fluconazol. Se consideró ≥ 19 mm (equivalente a ≤ 8 µg/ml) como sensible, entre 13 y 18 mm (equivalente a 16-32 µg/ml) como intermedio o dosis dependiente y ≤ 12 mm (correspondiente a ≥ 64 µg/ml) como resistente a fluconazol. Se realizaron también estudios de sensibilidad para voriconazol, anfotericina B y caspofungina para algunos aislados, pero por ser escaso el número de cepas estudiadas, no se analizaron en este estudio.
+
+Un episodio de candidemia fue definido como el aislamiento de Candida sp en por lo menos un hemocultivo. Todos los hemocultivos con desarrollo de Candida sp con posterioridad a los 30 días del primero fueron considerados un nuevo episodio.
+
+Fueron registradas las siguientes variables extraídas de las historias clínicas: la edad, el género, el área de internación en el momento de la toma del hemocultivo, la fecha del hemocultivo, el tiempo transcurrido entre la internación del paciente y la candidemia, las co-morbilidades del paciente, el uso previo de antimicrobianos (tipo, tiempo y número), el uso de catéter venoso central (CVC), los antecedentes quirúrgicos, la administración de alimentación parenteral, el uso de corticosteroides o quimioterapia, presencia de neutropenia, diagnóstico de micosis anteriores y administración previa de antifúngicos. Se registraron los siguientes datos clínicos: temperatura > 38 °C cutánea, el fondo de ojo con lesión candidiásica, otro foco profundo atribuible a un impacto embólico por Candida, el uso de ventilación mecánica (VM), el uso de inotrópicos, la puntuación con el score de APACHE II y cualquier otro síntoma clínicamente relevante.
+
+Se recabaron de los hemocultivos la especie, el número, la sensibilidad in vitro a fluconazol y las puntas de catéteres con desarrollo de Candida sp. En relación a los tratamientos, se tomaron en consideración el tiempo de inicio de los mismos, el fármaco indicado, los cambios de antifúngicos y el retiro del CVC.
+
+Se consignó la evolución de los pacientes y en el caso del fallecimiento, el tiempo transcurrido entre éste y el primer hemocultivo positivo.
+
+Se registró el número de egresos hospitalarios y de días-paciente. Se investigó el fluconazol entregado para el tratamiento de los pacientes en el hospital por año y por sala de internación.
+
+Análisis estadístico: Todos los datos se vertieron en una ficha, para luego ser cargados en una base de datos y analizados en el programa SPSS (IBM SPSS Statistics 20). Las variables continuas se expresaron en promedio, mediana y modo; las variables categóricas se expresaron en porcentajes y fueron analizadas usando el test de χ2 o la prueba exacta de Fisher. Se consideró estadísticamente significativo una p < 0,05 y una correlación > 0,5. Se introdujeron en el análisis multivariado las variables que en el análisis univariado tuvieron una p ≤ 0,05. El análisis estadístico se realizó utilizando el programa IBM SPSS Statistics 20, Epidat 3.1 y las funciones estadísticas de Microsoft Excel 2007.
+
+Resultados
+
+Durante los 16 años analizados se identificaron 374 episodios de candidemias en 365 pacientes. Hubo ocho pacientes con dos o más episodios: cinco pacientes presentaron dos episodios ocasionados por la misma especie, con un intervalo de tiempo entre los episodios de 91 a 288 días, dos pacientes tuvieron dos episodios ocasionados por diferente especie de Candida con intervalos de 55 y 58 días cada uno y hubo un paciente con tres episodios, el primero causado por C. parapsilosis, 38 días después un segundo episodio por C. albicans y C. tropicalis y el último episodio 92 días después del segundo debido a C. tropicalis.
+
+Tasas de incidencia
+
+Se diagnosticaron, en promedio, 23 episodios por año (de 16 a 37). La incidencia promedio de episodios de candidemia/1.000 egresos hospitalarios fue de 2,21/1.000 egresos (entre 1,50 y 3,82) (Gráfico 1) y de 0,28/1.000 días-paciente (entre 0,19 y 0,49). Se observó un aumento estadísticamente significativo de la incidencia por 1.000 egresos con el curso de los años y pasó de 1,96 en el primer período (1998-2005) a 2,25 en el segundo período (2006-2013) (p: 0,023). El aumento también fue significativo en los episodios/1.000 días-paciente que pasó de 0,25 a 0,32 (p: 0,013). El 55,9% de los episodios se registró en varones.
+
+Gráfico 1 Curva de la incidencia de los episodios de candidemias por año/1000 egresos de 1998 a 2013. 
+
+Distribución según edad
+
+Los episodios de candidemias se diagnosticaron desde el día 0 de nacimiento hasta los 98 años de vida. De los 353 episodios en los que se registró la edad de los pacientes, 19 (5,4%) fueron en neonatos (menores a 1 mes de vida), 6 (1,7%) en lactantes de 1 mes a 2 años, 23 (6,5%) en niños mayores (entre 2 y 18 años), 119 (31,8%) en adultos (19 a 64 años) y 186 (52,7%) en adultos mayores de 64 años. El promedio de edad entre los pacientes con edad medida en días (neonatos y lactantes) fue de 26 días (0 a 510 días), con una moda y una mediana de 20 días. De los pacientes con edad medida en años, la edad promedio fue de 62,5 años (de 2 a 98 años), mediana 69 y moda 80 años. El grupo de adultos mayores de 64 años fue predominante (52,7% de los episodios); en ellos, el promedio de edad fue de 78,6 años, mediana de 79 y la moda de 80 años. El Departamento de Estadística del hospital, registra la edad de internación de los pacientes desde 2004. Al analizar la incidencia de candidemias por edad desde 2004 a 2008 y 2009-2013, el grupo de los mayores de 64 años mostró aumento significativo de la incidencia/1.000 egresos (p: 0,0007) (Tabla 1).
+
+Tabla 1 Incidencia de candidemias según grupo etario en dos períodos: 2004-2008 y 2009-2013 
+
+Especies de Candida aisladas
+
+Para no dispersar la información se hizo el análisis de las candidemias divididas en seis grupos: C. albicans (40,9%), C. parapsilosis (21,7%), C. tropicalis (15,5%), C. glabrata (13,9%), otras especies de Candida (5,1%) y candidemias multi-especies (más de una especie de Candida en el mismo episodio clínico dentro del mes) (2,9%). Candida albicans continúa siendo la especie predominante, pero pasó de representar 62,5% en 1998 a 45,2% en 2013; C. parapsilosis, C. tropicalis y C. glabrata oscilaron de 12,5 a 34,8% la primera, de 0 a 31,2% la segunda y de 0 a 26,9% la última (Tabla 2).
+
+Tabla 2 Especies de Candida de los episodios de candidemia 
+
+Frecuencia de especies según sector de internación
+
+No hubo diferencias significativas en la frecuencia de especies según sala de internación. La distribución porcentual de las especies se mantuvo en las salas de internación, con C. albicans en primer lugar y C. parapsilosis en el segundo. Pero en el Servicio de Cirugía, el tercer lugar lo ocupó C. glabrata y en Clínica Médica C. tropicalis.
+
+Frecuencia de especies según edades
+
+Con respecto a la relación entre la edad y las especies, en los neonatos, los adultos y los adultos mayores, el primer lugar fue ocupado por C. albicans, pero en los lactantes y niños mayores predominó C. parapsilosis (Tabla 3). Si se observa la distribución desde las especies, C. glabrata no fue aislada en lactantes, y tuvo un porcentual idéntico (44,9%) en adultos y adultos mayores.
+
+Tabla 3 Especies de Candida de los episodios según el grupo de edad de los pacientes 
+
+Impacto de la prescripción de fluconazol
+
+Desde 2004, el Departamento de Farmacia tiene el registro informático de fluconazol despachado (en cápsulas, suspensión oral o para administración endovenosa). La suma total de fluconazol entregado fue de 3.915.249 mg, con un promedio de 391.515 mg de fluconazol por año. La dosis diaria definida (DDD) de fluconazol es 0,2 g/100 egresos. La DDD varió entre 14,68 g y 22,07 g; la mayor DDD fue en 2010 con 23,56 g. La co-variación entre la entrega de fluconazol con los episodios de candidemia por C. glabrata fue de 0,73: a medida que se incrementó la entrega de fluconazol aumentaron los episodios por C. glabrata. No se encontró co-variación entre la entrega de fluconazol y las candidemias debidas a C. albicans (0,09), C. tropicalis (0,28) y episodios multi-especies (-0,39). Hubo una ligera co-variación con otras especies de Candida (0,60) y la mayor co-variación, superando a C. glabrata, fue con C. parapsilosis (0,77).
+
+Lugar de adquisición de la candidemia
+
+De los 374 episodios de candidemias, en 36 no se pudo establecer el tiempo entre la internación del paciente y el hemocultivo con desarrollo de Candida sp. Seis pacientes tuvieron hemocultivos positivos cuando eran pacientes externos: tres pacientes nunca se internaron, dos se internaron en las siguientes 24 h y un paciente al tercer día del hemocultivo positivo. En 24 pacientes el hemocultivo positivo se obtuvo el día de ingreso, en 19 en el primer día y en seis en el segundo día de la internación. Estos 55 episodios deben ser considerados extra-nosocomiales y representan 15% de los episodios El resto corresponde a las candidemias nosocomiales. El espacio de tiempo transcurrido entre el día de ingreso al hospital y la candidemia (para los episodios nosocomiales) fue de 31 días en promedio (entre 2 y 365 días, con una mediana de 20 y una moda de 10 días).
+
+El 44,2% de los episodios de candidemia se diagnosticó cuando el paciente se encontraba en Terapia Intensiva, 36,1% en Clínica Médica, 14,4% en el Servicio de Cirugía y 3,7% eran pacientes externos.
+
+Co-morbilidades
+
+Predominaron los tumores sólidos (23,8%), seguidos por diabetes mellitus (16,4%), insuficiencia renal crónica (14,5%), enfermedades gastrointestinales (13,3%) y enfermedades onco-hematológicas (10,6%). Veintiocho por ciento de los pacientes recibía inotrópicos y 29% se encontraba con asistencia respiratoria mecánica.
+
+Factores de riesgo para candidemia
+
+Dentro de los factores de riesgo, 71% tenía un CVC y 90% había recibido antimicrobianos (de éstos, 50,2% fueron tratados con uno a dos antimicrobianos, 40,7% de tres a cuatro, 8,6% de cinco a seis y 0,4% más de siete antimicrobianos). El 53,7% había tenido cirugías previas (44% de ellas fue cirugía abdominal).
+
+Expresión clínica
+
+En 72% de los episodios se constató fiebre. Ocho por ciento presentó compromiso de órganos sólidos, y de ellos, el más frecuente fue abdominal (46%). Acompañaron al episodio de candidemia otros síntomas como hipotensión arterial, escalofríos, deterioro del sensorio.
+
+Evaluación de susceptibilidad in vitro
+
+La sensibilidad a fluconazol, expresada en µg/ml, fue de 0 a 165 µg/ml, mediana de 1 µg/ml y moda 0 µg/ml. La sensibilidad expresada por mm de halo de inhibición fue de 0 a 53 mm, con una mediana de 31 mm y una moda de 30 mm. Sobre 302 aislados estudiados, 16 (5,3%) fueron resistentes, 19 (6,3%) intermedio o SDD y 267 (88,4%) sensibles a fluconazol. No hubo diferencias significativas en el porcentaje de sensibilidad a fluconazol a través de los años (p: 0,311) ni al analizarla en dos períodos de tiempo (p: 0,398) (primer período: 1998-2005, segundo período: 2006-2013). La resistencia global a fluconazol fue 5,3%, pero por especie fue: 0% para C. albicans, y 50% para C. pelliculosa, 16,7% para C. famata, 12,8% para C. glabrata, 7,5% para C. parapsilosis y 3,7% para C. tropicalis. Si se incluyen los aislados dosis-dependientes dentro de las resistentes, la resistencia general sube de 5,3 a 11,6%, la de C. glabrata de 12,8 a 29,8%, C. parapsilosis de 7,5 a 14,9%, C. tropicalis de 3,7 a 5,6% y C. albicans de 0 a 0,8% (Tabla 4).
+
+Tabla 4 Sensibilidad al fluconazol por especie de Candida 
+
+Ref: intermedias o SDD (sensibilidad dosis dependiente): 13 a 18 mm o 16 a 32 μg/ml; resistente: ≤ 12 mm o ≥ 64 μg/ml; sensible: ≥ 19 mm o ≤ 8 μg/ml
+
+No hubo correlación estadística entre los mg de fluconazol entregados por el Departamento de Farmacia del hospital y la aparición de aislados intermedios o resistentes a fluconazol (coeficiente de co-variación: 0,20). No se encontró asociación significativa entre el grupo etario y la sensibilidad antifúngica (p: 0,787) ni con la sala de internación (p = 0,379). Dentro de la distribución de los aislados resistentes, 45,7% se encontraba en Clínica Médica y 34,3% en UTI.
+
+Terapia antifúngica empleada
+
+El 74% de los pacientes recibió tratamiento. Ocho enfermos (3,3%) ya estaban en tratamiento cuando se les tomó el hemocultivo, 22 (9,3%) lo iniciaron el día de la toma del hemocultivo, 54 (22,9%) un día posterior a la toma del hemocultivo, 70 (29,7%) a los dos días, 41 (17,4%) al tercer día, 18 (7,6%) al cuarto, 13 (5,5%) al quinto y 10 (4,2%) más allá del quinto día.
+
+El 70,3% inició el tratamiento con fluconazol, 25% con anfotericina B desoxicolato, 3,3% con equinocandinas y 1,4% con anfotericinas en asociaciones lipídicas. Veintidós por ciento de los pacientes cambiaron a un segundo esquema terapéutico por buena evolución clínica o efectos adversos (de anfotericina B desoxicolato a fluconazol) o por falta de respuesta clínica (de fluconazol o anfotericina B desoxicolato a equinocandinas o anfotericinas lipídicas). En los primeros 12 años (de 1998 a 2009) sólo se usó fluconazol o anfotericina B desoxicolato.
+
+El tratamiento inicial instituido cambió significativamente (p: 0,000) entre el primer período (1998-2005) y el segundo período (2006-2013). Durante el segundo período se disminuyó en 52% el uso de anfotericina B desoxicolato, que pasó de representar 34,2 a 17,9% del total siendo reemplazado por un incremento en el uso de fluconazol (73,7%), la indicación de equinocandinas (5,8%) y de anfotericinas lipídicas (2,6%). El tiempo promedio de tratamiento fue 14 días (1 a 42 días).
+
+En el momento del diagnóstico 235 (63%) de los pacientes tenían colocado un CVC. El CVC fue retirado en 191 (81%). En 62 de ellos el retiro del CVC fue el mismo día de la toma del hemocultivo.
+
+Mortalidad asociada
+
+Se registró el fallecimiento de 179 pacientes (47,9%). De los 333 pacientes en los que se conoce la edad, 45,9% falleció. La letalidad fue 26,3% en neonatos, 40% en lactantes, 18,2% en niños mayores, 31,5% en adultos y 60,8% en los adultos mayores. La diferencia de mortalidad fue estadísticamente significativa (p: 0,008) entre los pacientes mayores de 18 años y los menores de esa edad con un riesgo de fallecer para los primeros, superior a tres veces (OR: 3,1, IC 95%: 1,5-6,4). La diferencia también fue significativa al evaluar la mortalidad de los adultos mayores versus los otros grupos etarios: vs los adultos (p: 0,000, OR 4,7, IC 95%: 2,9-7,7), los niños mayores (p: 0,001, OR 4,99, IC 95%: 2,7-21,5) o los neonatos (p: 0,004, OR:4,3, IC 95%: 1,5-12,6).
+
+El fallecimiento ocurrió en promedio a los 10,8 días del hemocultivo positivo (entre 0 y 30 días), la moda fue de un día. Uno de cada tres decesos (32,5%) ocurrió entre el hemocultivo y los cuatro días posteriores al mismo, pero el fallecimiento ocurrió a los 13,4 días en promedio en los pacientes tratados y a los 3,1 días en los no tratados.
+
+Fue significativa la diferencia de mortalidad según la sala de internación en la que se encontraba el paciente: fue 27,6% en los que se encontraban en Clínica Médica, 37,3% de los que estaban en el Servicio de Cirugía y 63,8% de los que se encontraban en Terapia Intensiva (p: 0,000).
+
+Cuando se analizó la evolución de los pacientes teniendo en cuenta el grupo etario y la sala donde se encontraban hospitalizados, se observó que dentro de los pacientes internados en UTI, los adultos mayores tuvieron una mortalidad mayor en comparación con los neonatos (p: 0,000, OR 11,6, IC 95% 3,6-37,6), los niños mayores (p: 0,01, OR 7,4, IC 95% 1,6-36,6) y los adultos (p: 0,003, OR 3,8, IC 95% 1,6-8,9). La mala evolución también se registró en los adultos mayores en comparación con los adultos < 64 años, tanto para los que estaban internados en Clínica Médica (p: 0,02, OR 2,7, IC 95% 1,1-6,4) como los que estaban en el Servicio de Cirugía (p: 0,0061, OR 7,3, IC 95% 1,66-32).
+
+Se había indicado tratamiento a 71,4% de los pacientes que fallecieron. De los pacientes que recibieron fluconazol como fármaco inicial de tratamiento, falleció el 66,7% de los que fueron tratados ≤ 2 días y 29,2% de los que lo recibieron por un lapso de 8 a 15 días.
+
+Mortalidad y catéter venoso central
+
+Tuvieron mayor mortalidad los pacientes a los que no se les retiró el CVC (61,4%) en comparación de aquellos a los que sí se les retiró (41,9%) (p: 0,019).
+
+Al analizar sólo los pacientes con CVC colocado en el momento del diagnóstico y que recibieron tratamiento (201 episodios), falleció el 92,9% a los que no se les retiró el CVC y 41,2% a los que sí se les retiró el CVC (p: 0,000). Hubo tendencia (pero no diferencia significativa) a la sobrevida en los pacientes en los que el CVC fue retirado entre el primer y segundo día (62,1% de sobrevida), entre el tercer y cuarto día (58,1%) o luego del quinto día (56% de sobrevida) (p: 0,811).
+
+Análisis multivariado y mortalidad
+
+En el análisis multivariado de regresión logística binaria, los únicos factores de riesgo de mortalidad fueron la edad mayor de 64 años y estar internado en terapia intensiva. No fueron variables independientes para la mortalidad la especie de Candida responsable del episodio, la presencia de otros focos profundos, el antifúngico con la que se inició el tratamiento, la demora en la institución del mismo, el retiro del CVC, que el paciente se encontrara en VM, recibiera inotrópicos o estuviera neutropénico.
+
+No hubo diferencia significativa de mortalidad global a través de los años (p: 0,482) ni al analizarlo en dos períodos de tiempo.
+
+Discusión
+
+La incidencia de candidemias varía según la región; en algunos países se ha estabilizado o disminuido28-31 pero en otros continúa en aumento32-36. En nuestra institución, la incidencia ha aumentado, tanto medida con la tasa por 1.000/egresos como con la tasa por 1.000 días-paciente, y el incremento fue estadísticamente significativo entre los primeros ocho años y los posteriores. La incidencia global del hospital de 2,21/1.000 egresos supera en un punto a la de Latinoamérica (1,18/1.000)3 y a la del resto de los hospitales de la ciudad de Buenos Aires (1,15/1000)8. Ligeramente inferior a 2,63 reportada en un hospital de Perú11, pero muy superior a 0,4 comunicada en Chile10. Una explicación podría hallarse a que su población añosa es alta, y con ello aumenta la incidencia, o porque al ser un hospital universitario hay un mayor esfuerzo en la realización de diagnósticos de certeza, pero esta explicación tiene una respuesta abierta.
+
+La mayoría de las candidemias ocurren en pacientes internados, pero uno de los cambios observados en nuestra institución fue el aumento de las candidemias extra-nosocomiales37,38 al igual que lo notificado en otras partes del mundo. Estas pueden clasificarse en asociadas a los cuidados de la salud o de la comunidad. Las primeras se dan en los pacientes externos o hasta las primeras 48 h de hospitalización en personas que reciben asistencia médica por otra causa. Los factores de riesgo asociados en nuestros pacientes no difieren de los presentados en los episodios de candidemias intrahospitalarias, por lo que estos episodios estuvieron asociados a los cuidados de la salud.
+
+Coincidiendo con lo comunicado por otros autores, salvo algunas excepciones39C. albicans representó la especie predominante de la casuística del hospital en los últimos 16 años, pero ha ido disminuyendo al igual que en muchas otras regiones por el aumento proporcional de las especies no albicans2,15,18. La distribución de las especies diferentes a C. albicans varía ampliamente. Candida parapsilosis es la especie predominante luego de C. albicans en Argentina8,40,41 y en otros países de América Latina3,7,11,32, en contraposición a lo notificado en países desarrollados, donde se mantiene sin cambios a través de los años en frecuencia de 12%15. En nuestro hospital, C. parapsilosis ha tenido variaciones a través de los años con un promedio de 21,4%. Candida parapsilosis se encuentra en la piel (en las manos del personal de salud), es productora de biopelículas y su incidencia se asocia a la instalación de CVC y al manejo inadecuado de los mismos.
+
+En los países industrializados, el segundo lugar, luego de C. albicans, es ocupado por C. glabrata36, generalmente explicado por la presión ejercida por el uso de fluconazol, tanto en profilaxis como en tratamiento. La casuística del hospital muestra una incidencia general de C. glabrata que duplica la notificada por los hospitales de la ciudad de Buenos Aires (6%)8 y otros hospitales de América Latina (6,3%)3, con un promedio general de estos 16 años de 13,9%. Esta incidencia podría explicarse porque esa especie aumenta a medida que incrementa la edad de los pacientes42-45. En nuestra casuística fue estadísticamente significativo el incremento de las candidemias totales en los adultos mayores, pero C. glabrata no tuvo mayor incidencia en ese grupo etario (11,8%) que en otros (neonatos: 10,5%, niños mayores 13%, adultos 18,5%) con la excepción de los lactantes en quienes no se aisló C. glabrata.
+
+Se halló asociación entre los mg de fluconazol despachados por la farmacia y los episodios de candidemia por C. glabrata, con un coeficiente de co-variación positiva mayor a 0,5 (0,73). El incremento de C. glabrata, aunque no siempre, está asociado al uso de fluconazol; esta es una de las razones encontradas generalmente para explicar el aumento de su incidencia y así como de otras especies con menor sensibilidad a fluconazol46. Candida glabrata desarrolla resistencia a fluconazol y su uso para profilaxis y tratamiento empírico favorece la eliminación de especies sensibles quedando sin tratamiento especies poco o nada sensibles, que finalmente aumentan su incidencia32,47. En Brasil, la incidencia de las especies de Candida en las instituciones privadas es diferente a la casuística de las instituciones públicas, con mayor exposición a fluconazol y menor sensibilidad antifúngica de los aislados47. En nuestra casuística fue mayor el coeficiente de co-variación entre C. parapsilosis y los mg dispensados de fluconazol (0,77). Existen algunas comunicaciones que la resistencia al fluconazol se ha notificado especialmente relacionada a C. parapsilosis39 con frecuencia de 26,8% de los aislados. La explicación encontrada por nosotros para esta asociación parecería ser sólo un incremento de C. parapsilosis relacionado a otros factores (no analizados en este trabajo) como el cumplimiento no siempre adecuado de las medidas universales para el control de infecciones (lavado de manos, manejo de catéteres, aislamientos de contacto, etc.).
+
+Los antecedentes mórbidos y factores de riesgo reportados en otras series no varían sustancialmente de los de nuestra institución3,9,10,11,15,33 remarcándose la presencia de CVC y el uso de antimicrobianos. La presencia de CVC se describe en alrededor de 80% de los pacientes con candidemia48, aunque no siempre se puede confirmar que el CVC sea el origen de la candidemia.
+
+Con respecto al tratamiento, las guías sugerían anfotericina B desoxicolato para el paciente inestable o fluconazol para el paciente estable que no hubiera recibido fluconazol previamente49. Con la aparición de nuevos antifúngicos fungicidas y con baja toxicidad, las guías actuales indican no utilizar anfotericina B desoxicolato sino instituir en su lugar equinocandinas50, con lo que se mejoraría la evolución de los pacientes15,32 aunque hay casuísticas que, pese a la introducción de las equinocandinas, no se ha modificado la mortalidad de los pacientes33. El uso de equinocandinas se sustenta en estudios prospectivos de asignación aleatoria51 y meta-análisis52. Se debería iniciar el tratamiento con una equinocandina en todos los pacientes y luego, con el paciente estable y la identificación de la especie, des-escalar a fluconazol53-56.
+
+Una de las dudas existentes en el uso de equinocandinas como antifúngicos para el inicio del tratamiento de las candidemias, es la menor sensibilidad de C. parapsilosis frente a ellas57. Esto es especialmente importante en nuestra región donde C. parapsilosis es la segunda especie recuperada, aunque la sensibilidad in vitro disminuida no parece tener impacto en la evolución clínica de los pacientes58; este grupo de antifúngicos debe ser considerado de primera línea en el tratamiento54.
+
+Una publicación de Chile10 muestra que C. glabrata fue la especie predominante entre 2000-2006 representando 25,8% de los aislados y C. parapsilosis sólo 3,2% (casuística que se asemeja más a las comunicadas por E.U.A.15 que por países de Latinoamérica3), pero en el período 2007-2013 notifican un aumento de C. parapsilosis a 17,2% y una disminución de C. glabrata a 10,3%. Habría que preguntarse si la modificación del porcentaje de las especies tiene como explicación el notable incremento en el segundo período de equinocandinas en el tratamiento que pasó de 4,8 a 43,1%. Si ésta fuera la causa, este reporte se constituye en una alerta importante para Latinoamérica que deberá extremar la vigilancia de la sensibilidad antifúngica de las especies involucradas en las candidemias. Las equinocandinas están disponibles en Argentina desde el año 2002, pero su elevado costo ha demorado su indicación en nuestros hospitales, lo que se corrobora en nuestra casuística, que recién en 2012 comenzó a emplearse.
+
+El mantenimiento del CVC en estos pacientes se asocia a candidemias persistentes59 y el retiro dentro de las 48 h aparece como un factor protector en la candidemia primaria, pero no en la secundaria a otro foco60; el retiro del CVC es una fuerte recomendación de las guías de tratamiento61. Algunos investigadores no concuerdan con el retiro temprano62, ya que se podría, con un antifúngico que penetre en la biopelícula (como anfotericina B liposomal o equinocandinas), tener una conducta conservadora del CVC en los primeros días si el paciente se encuentra estable y no presenta candidemia persistente. En nuestra población, observamos que tuvieron mayor sobrevida los pacientes, que teniendo CVC en el momento del diagnóstico y que recibieron tratamiento, el CVC fue retirado. Se podía evaluar una conducta conservadora del CVC en los primeros días de la candidemia, siempre y cuando la conservación del CVC sea necesaria y se utilicen fármacos antifúngicos que atraviesen la biopelícula del CVC3.
+
+Las diferencias en la sensibilidad in vitro se comprobaron, según se esperaba, en las diversas especies, C. albicans tuvo sólo un aislado resistente a fluconazol y C. glabrata casi uno de cada tres.
+
+La mortalidad global de nuestra casuística fue comparable a otros estudios semejantes3,9,11,38,63-65, es mayor a la que se debería tener6,10,15,28,34,60 y no ha disminuido. Lo más importante para mejorar la evolución de los pacientes es llegar a un diagnóstico temprano. Las variables que se asocian con la mala evolución de los episodios de candidemia son APACHE II alto, la edad avanzada y tratamiento con corticosteroides, entre otros10,11,32,33,60,65,66. En coincidencia con esto, nuestra casuística muestra que la peor evolución estuvo relacionada con la edad avanzada y pacientes que se encontraban en UTI y no hallamos otro factor independiente alguno, relacionado a la mala evolución.
+
+Conclusiones
+
+El Hospital de Clínicas “José de San Martín” tiene una alta incidencia de candidemias, que supera a las reportadas por los hospitales de la ciudad de Buenos Aires y de otras ciudades de América Latina. La incidencia muestra un incremento a través de los años, es mayor en los adultos mayores y esta población es la que tiene además peor evolución.
+
+La incidencia de C. glabrata también duplica a la notificada en la región.
+
+A pesar de que es una patología fundamentalmente intrahospitalaria, que se diagnostica entre los 10 y los 20 días de internación, debe ser tenida en cuenta en los diagnósticos diferenciales al ingreso del paciente, especialmente en los adultos mayores.
+
+Los factores de riesgo más frecuentes son la antibioticoterapia previa y la presencia de CVC.
+
+La mortalidad que aún presenta debe ser reducida, por un diagnóstico más precoz y la optimización del tratamiento. Este deberá incluir el retiro del CVC y uso de antifúngicos fungicidas.
+
+El trabajo no tuvo financiamiento.
+
+Editorial relacionada en pág. 429

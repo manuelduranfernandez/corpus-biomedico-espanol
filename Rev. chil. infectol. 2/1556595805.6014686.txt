@@ -1,0 +1,420 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000100020
+Consenso chileno de prevención, diagnóstico y tratamiento de la diarrea asociada a Clostridium difficile
+
+Resumen
+
+Introducción: La diarrea asociada a Clostridium difficile (DACD) ha adquirido gran relevancia debido al aumento en su incidencia, gravedad, capacidad de recurrencia y carga económica asociada. Contar con una guía de consenso local es fundamental para mejorar su manejo. Objetivo: Elaborar un consenso multidisciplinara y basado en la evidencia en la prevención, diagnóstico y tratamiento de la DACD. Métodos: Se convocó a un panel de expertos en el área de enfermedades infecciosas, gastroenterología, medicina basada en la evidencia y metodología de consenso. El panel realizó una revisión estructurada de la literatura científica publicada en DACD evaluando el nivel de la evidencia y recomendación utilizando el sistema GRADE. Una técnica de Delfi modificada de tres rondas fue utilizada para alcanzar un consenso entre los expertos. Resultados: Se estableció un grupo de 16 expertos, 12 de ellos respondieron 18 preguntas de relevancia clínica. Los niveles de acuerdo alcanzados por el panel de 16 expertos fueron de 79% en la primera ronda y 100% en la segunda y tercera ronda. Las principales recomendaciones en prevención son: restricción del uso de inhibidores de la bomba de protones, profilaxis primaria con probióticos en usuarios de antimicrobianos de corto plazo, educación del personal de salud, aislamiento de contacto en pacientes hospitalizados con DACD y aseo de las habitaciones expuestas a C. difficile con productos en base a cloro o peróxido de hidrógeno. En el diagnóstico se recomienda: el uso de técnicas basadas en biología molecular y como alternativa algoritmos en base a glutamato deshidrogenasa. Con respecto al tratamiento, se recomienda el uso de metronidazol oral en DACD leve-moderada y vancomicina oral en DACD grave. El tratamiento de la primera recurrencia es con los mismos antimicrobianos de acuerdo a la gravedad, considerando en la segunda recurrencia y posteriores terapia prolongada con vancomicina, rifaximina o trasplante de microbiota fecal. Conclusión: Se presenta el primer consenso chileno en prevención, diagnóstico y tratamiento de DACD, paso trascendental en mejorar los estándares locales en el manejo de esta enfermedad.
+
+Palabras clave: Clostridium difficile, guía práctica, revisión, consenso, medicina basada en la evidencia, prevención y control, diagnóstico, tratamiento.
+
+ 
+
+Presentación
+
+Un común interés de dos sociedades científicas chilenas: Sociedad Chilena de Gastroenterología y Sociedad Chilena de Infectología en abordar la infección y enfermedad causada por Clostridium difficile, les ha llevado a preparar este documento, basado en la mejor evidencia científica disponible a la fecha (año 2015).
+
+Con el afán de no olvidar las distintas miradas que merece el tema, trabajaron en su preparación especialistas en Gastroenterología, Infectología (de adultos y niños), Microbiología y médicos y enfermeras expertos en Infecciones Asociadas a la Atención de Salud, que laboran en los ámbitos: hospitalario público y privado, universitario y en los laboratorios de referencia nacional
+
+Para su mayor difusión, este consenso se publica en forma simultánea en Revista Chilena de Gastroenterología y Revista Chilena de Infectología, y en las páginas web de ambas sociedades médicas.
+
+Santiago, enero de 2016
+
+ 
+
+Introducción
+
+Clostridium difficile es un bacilo grampositivo, anaerobio estricto y cuyo principal mecanismo patogénico radica en dos exotoxinas, toxina A o enterotoxina y toxina B o citotoxina. Ambas, a través de diversos efectos en el epitelio del colon, producen un cuadro diarreico de variable intensidad que abarca desde una diarrea leve auto-limitada hasta una infección fulminante que puede comprometer la vida del paciente1. Actualmente, la diarrea asociada a C. difficile (DACD) es una de las más importantes infecciones asociadas a la atención de salud (IAAS)2 y la principal causa identificable de diarrea asociada a antimicrobianos3. Por otro lado, C. difficile es capaz de producir esporas ante condiciones desfavorables, las que soportan las adversidades del medio ambiente y son resistentes a todos los antimicrobianos conocidos45. Así, C. difficile tiene el potencial para producir cuadros recurrentes y brotes intrahospitalarios, los cuales son un gran desafío para los médicos tratantes, instituciones hospitalarias y sistemas de salud6.
+
+La epidemiología de la DACD ha mostrado importantes cambios en los últimos 15 años, consistentes en un aumento de la incidencia, gravedad y recurrencia, en parte secundarios a la aparición de cepas epidémicas de C. difficile7,8. Esto se ha traducido en un alarmante incremento de la carga económica asociada a esta infección en países de Norteamérica y Europa9. En Latinoamérica y Chile en particular, si bien no existen datos poblacionales sobre la incidencia de DACD10, se ha observado un aumento de los brotes epidémicos; así, el año 2010 se detectaron seis brotes hospitalarios, los cuales se incrementaron a 31 el año 201211.
+
+Ante este cambiante y desafiante escenario, en la última década han surgido importantes avances en la prevención, diagnóstico y tratamiento de la DACD12. Éstos han sido resumidos en guías clínicas de importantes sociedades científicas internacionales13-15. En la región, tanto en el resto de Latinoamérica como en Chile, no existen a la fecha consensos para el manejo de esta importante IAAS. El objetivo de este trabajo es, a través de un panel de expertos, responder preguntas relevantes sobre el tema, basándose en la mejor evidencia disponible y así obtener un consenso que contribuya a mejorar el manejo de los pacientes con DACD.
+
+Materiales y Métodos
+
+Participantes y recolección de la evidencia
+
+Bajo el patrocinio de la Sociedad Chilena de Infectología (www.sochinf.cl) y la Sociedad Chilena de Gastroenterología (www.sociedadgastro.cl), en junio de 2013, el comité organizador del consenso convocó a un panel multidisciplinario de expertos consistente en médicos especialistas en enfermedades infecciosas y gastroenterología, enfermeras del área de IAAS, así como expertos en medicina basada en la evidencia y en metodología cuantitativa para alcanzar consenso. El comité organizador generó inicialmente, 19 preguntas relevantes para nuestro medio con respecto a factores de riesgo, prevención, clasificación, diagnóstico y tratamiento. Para responderlas, un miembro del comité organizador (RC) realizó búsquedas centralizadas para cada pregunta en la base de datos PubMed®. Doce expertos fueron seleccionados por su interés clínico y/o científico en el área de DACD, quienes respondieron a las preguntas. Cada experto sintetizó la evidencia y respondió una o dos preguntas, dando lugar a un manuscrito con una recomendación. Los niveles de la evidencia (Tabla 1) y recomendación (Tabla 2) fueron graduados utilizando el sistema GRADE16-18. El nivel de la evidencia fue considerado alto, moderado, bajo o muy bajo. En términos generales, evidencia de alta calidad es aquella derivada de dos o más estudios randomizados, bien diseñados, con resultados consistentes y precisos (intervalos de confianza pequeños). La evidencia derivada de estudios observacionales, estudios con resultados inconsistentes e imprecisos, o afirmaciones derivadas de la opinión de expertos corresponde a evidencia de baja o muy baja calidad. Evidencia de moderada calidad puede provenir de estudios randomizados u observacionales, dependiendo del riesgo de sesgo, magnitud del efecto, precisión y consistencia de sus resultados. El nivel de recomendación fue considerado fuerte o débil basado en tres aspectos: calidad de la evidencia, relación riesgo/beneficio y costos asociados a la intervención.
+
+ 
+
+Tabla 1. Niveles de evidencia de acuerdo al diseño del estudio (adaptado de          Borghero F, Brignardello R, Carrasco A, et al. "Manual Metodológico:      Desarrollo          de guías de práctica clínica" 1a Edición 2014, MINSAL, Gobierno de Chile)
+
+
+
+ 
+
+Tabla 2. Nivel de recomendación de acuerdo a la evidencia disponible. (Adaptado          de Broghero F, Brignardello R, Carrasco A, et al. "Manual Metodológico: Desarrollo          de guías de práctica clínica" 1a Edición 2014, MINSAL, Gobierno de Chile)
+
+
+
+ 
+
+Generación del consenso
+
+Para alcanzar consenso en las respuestas, se utilizó el método de Delfi de tres rondas, modificado19. Un manuscrito inicial con las recomendaciones de cada experto fue compilado por el comité y distribuido al panel completo (16 integrantes, incluyendo a quienes respondieron a las preguntas más los expertos en medicina basada en evidencia y en metodología de investigación cuantitativa para alcanzar consenso) para una primera evaluación. Una escala tipo Likert (1, totalmente en desacuerdo; 2, desacuerdo; 3, incierto o con objeciones; 4, de acuerdo; 5, totalmente de acuerdo) fue usada para establecer el grado de acuerdo con la recomendación. En caso de desacuerdo o presentar objeciones (p.ej.: puntaje igual o menor a 3), los panelistas debieron realizar comentarios y proponer cambios. Los comentarios fueron enviados a cada experto para su confirmación o reformulación. Las recomendaciones fueron revisadas en una segunda y tercera ronda hasta alcanzar un grado de acuerdo igual o mayor a 4 en la escala de Likert. Durante la última ronda de votación, dos preguntas fueron reformuladas en su enfoque debido a la escasa evidencia disponible. Una de ellas fue el rol de los probióticos en el tratamiento de la DACD, la cual originalmente buscaba evaluar los efectos inmediatos de estos en la DACD, independientemente de su rol en la prevención. Sin embargo, la mayoría de los estudios evalúan como outcome el efecto de los probióticos en prevenir la recurrencia. Por este motivo, esta pregunta fue fusionada y reformulada como el rol en la prevención primaria y secundaria de DACD de los probióticos. La otra pregunta reestructurada fue aquella que se refiere al rol del trasplante de microbiota fecal (TMF) en la DACD, la cual abordaba su rol en la primera recurrencia. Sin embargo, dado que la mayoría de la evidencia actual evalúa el efecto del TMF después de la segunda recurrencia, esta pregunta se cambió y centró en esta etapa de la enfermedad. Así, el documento que se presenta contiene 18 preguntas definitivas, como fruto del proceso de refinamiento, y que finalmente fueron consideradas de relevancia clínica para el manejo de la DACD por el panel de expertos. Las recomendaciones y sus fundamentos son presentados a continuación y resumidos en la Tabla 3.
+
+ 
+
+Tabla 3. Resumen de las recomendaciones, nivel de evidencia y nivel de recomendación
+
+Prevención
+
+1. Se sugiere utilizar con precaución medicamentos tipo inhibidores de la bomba de protones-IBP, especialmente en pacientes hospitalizados con uso concomitante de antimicrobianos. El uso de IBP se asocia a un aumento leve pero consistente de la incidencia y recurrencia de diarrea asociada a Clostridium difficile-DACD, por lo que la indicación de estos fármacos debe ser racionalizada y basada en la evidencia (Nivel de evidencia: Baja, nivel de recomendación: Débil)
+
+2.1. Se recomienda el uso de probióticos como prevención primaria de DACD en pacientes que usan tratamiento antimicrobiano de corto plazo (Nivel de evidencia: Alta, nivel de recomendación: Fuerte). Este beneficio es menos claro sobre 65 años de edad y en la prevención secundaria de DACD (DACD recurrente). (Nivel de evidencia: Moderada, nivel de recomendación: Débil). El panel recomienda en contra del uso preventivo de probióticos en pacientes inmunosuprimidos o gravemente debilitados (Nivel de evidencia: Baja, nivel de recomendación: Fuerte*)
+
+2.2. Se sugiere no usar prebióticos para la prevención de DACD (Nivel de evidencia: Moderada, nivel de recomendación: Débil)
+
+3. Se recomienda la capacitación del personal de salud en la prevención de DACD. Esta medida es de bajo costo y tiene un impacto positivo en la disminución de la tasa de DACD intrahospitalaria (Nivel de evidencia: Baja, nivel de recomendación: Fuerte*)
+
+4. Se recomienda el aislamiento de contacto de todos los pacientes hospitalizados con DACD. El aislamiento de contacto debe ser realizado preferentemente en pieza individual, o en su defecto, en cohorte que incluya uso de baño exclusivo, y debe prolongarse al menos 48 h después que el paciente presenta deposiciones formadas (Nivel de evidencia: Baja, nivel de recomendación: Fuerte**)
+
+5. Considerando los costos, se sugiere el uso de productos clorados en alta concentración (5.000 ppm) como la primera elección para el aseo de habitaciones expuestas a C. difficile. Peróxido de hidrógeno constituye una excelente alternativa en instituciones con menos limitantes económicas y menor presión asistencial (Nivel de evidencia: Moderada, nivel de recomendación: Débil***)
+
+Diagnóstico
+
+6.1. Se recomienda no utilizar enzimo-inmuno-ensayo-EIA para la detección de toxinas de C. difficile en deposiciones como método diagnóstico de DACD. Este tipo de exámenes presentan un bajo rendimiento y constituyen una alternativa sub-óptima, por lo que no se recomienda como único test. Repetirlos durante el mismo episodio no mejora su rendimiento (Nivel de evidencia: Moderada, nivel de recomendación: Fuerte)
+
+6.2. Se sugiere no utilizar EIA para detección de glutamato deshidrogenasa-GDH en deposiciones como método diagnóstico de DACD. Este examen es una alternativa subóptima cuando es utilizado como único test, dada su baja especificidad. Este examen podría ser utilizado como tamizaje inicial dentro de un algoritmo diagnóstico, dada su alta sensibilidad (Nivel de evidencia: Moderada, nivel de recomendación: Débil****)
+
+6.3. Se recomienda como método diagnóstico de elección la amplificación de genes que codifican toxinas de C. difficile en deposiciones mediante reacción de polimerasa en cadena-RPC u otras técnicas equivalentes, dada su alta sensibilidad y especificidad. Este examen no debe ser realizado en pacientes sin un cuadro clínico compatible (Nivel de evidencia: Moderada, nivel de recomendación: Fuerte)
+
+Tratamiento
+
+7. Para el diagnóstico de DACD grave se sugiere utilizar los siguientes criterios: edad mayor a 65 años, inmunosupresión, leucocitosis > 15.000/mm3, hipoalbuminemia < 3 g/dL, creatininemia > 1,5 mg/dL o incremento de la creatininemia 50% sobre el valor basal (Nivel de evidencia: Moderada, nivel de recomendación: Débil). Similarmente, para el diagnóstico de DACD grave complicada sugerimos utilizar los criterios detallados a continuación: cambio del estado mental, íleo, megacolon, shock, aumento de lactato sérico > 2,2 mmol/L u hospitalización en UCI (Nivel de evidencia: Muy baja, nivel de recomendación: Débil)
+
+8.1. La terapia recomendada para un primer episodio de DACD leve-moderado es metronidazol 500 mg cada 8 h durante 10 a 14 días por vía oral. No se recomienda la prolongación de la terapia por plazos superiores a 14 días si hay respuesta clínica (Nivel de evidencia: Moderada, nivel de recomendación: Fuerte)
+
+8.2. Se recomienda el uso de vancomicina 125 mg cada 6 h por vía oral por 10 días en cuadros de DACD grave. Si no hay respuesta clínica a los 3 a 5 días, se recomienda incrementar la dosis de vancomicina a 250 mg cada 6 h por vía oral (Nivel de evidencia: Moderada, nivel de recomendación: Fuerte)
+
+8.3. El tratamiento antimicrobiano recomendado para la DACD grave complicada es vancomicina oral 250 mg o 500 mg cada 6 h asociado a metronidazol intravenoso 500 mg cada 8 h. En caso necesario, vancomicina puede ser administrada por sonda enteral, ileostomías o colostomías. En caso de íleo, agregar vancomicina en enemas 500 mg en 100 cc de solución salina fisiológica (NaCl 9%o) cada 4 a 6 h (Nivel de evidencia: Muy baja, nivel de recomendación: Débil)
+
+9.1. Para tratar la primera recurrencia de DACD se sugiere usar el mismo antimicrobiano utilizado en el episodio inicial, ajustado según la gravedad de la recurrencia (Nivel de evidencia: Baja calidad, nivel de recomendación: Débil)
+
+9.2. Se sugiere tratar la primera recurrencia de DACD por el mismo plazo que el primer episodio (Nivel de evidencia: Muy baja, nivel de recomendación: Débil)
+
+10.1. Se sugiere usar vancomicina por plazos prolongados en dosis decreciente o en pulsos como tratamiento de la segunda recurrencia de DACD (Nivel de evidencia: Baja, nivel de recomendación: Débil)
+
+10.2. En pacientes con tercera recurrencia de DACD se sugiere, como alternativa de tratamiento, un curso de vancomicina de 14 días seguido de rifaximina por 4 semanas, 400 mg cada 8 h vía oral (Nivel de evidencia: Moderada, nivel de recomendación: Débil)
+
+10.3. En pacientes cursando tres o más recurrencias de DACD se sugiere, como alternativa de tratamiento, el trasplante de microbiota fecal. Esta alternativa podría plantearse incluso antes de la tercera recurrencia en casos seleccionados, moderados o graves, sin respuesta clínica adecuada a la semana o a las 48 h de evolución, respectivamente (Nivel de evidencia: Moderada, nivel de recomendación: Débil)
+
+*Recomendación basada en evidencia de baja calidad, sólo estudios observacionales. A pesar de esto, la recomendación es fuerte porque la relación riesgo/beneficio/costo es muy satisfactoria. **Recomendación basada en evidencia de baja calidad, sólo estudios observacionales. A pesar de esto, la recomendación es fuerte porque la evidencia es consistente y la relación riesgo/beneficio/costo es muy satisfactoria. ***Recomendación basada en evidencia de moderada calidad (estudios observacionales con resultados consistentes y al menos uno de ellos con gran magnitud de efecto, reducción de riesgo de contagio cercana a 50%). A pesar de esto, la recomendación es débil porque existen múltiples alternativas disponibles y la alternativa propuesta como primera opción depende de los recursos disponibles. ****Recomendación basada en estudios diagnósticos que no comparan directamente este examen con exámenes de amplificación génica, pero con resultados consistentes (usando como estándar de oro el cultivo) y precisos. La recomendación es débil en contra porque este examen podría ser utilizado en un algoritmo diagnóstico.
+
+ 
+
+Resultados
+
+El uso de inhibidores de la bomba de protones (IBP) ¿es un factor de riesgo para DACD?
+
+Declaración del consenso
+
+Se sugiere utilizar con precaución medicamentos IBP, especialmente en pacientes hospitalizados con uso concomitante de antimicrobianos. El uso de IBP se asocia a un aumento leve pero consistente de la incidencia y recurrencia de DACD, por lo que la indicación de estos fármacos debe ser racionalizada y basada en la evidencia (Nivel de evidencia: Baja, nivel de recomendación: Débil).
+
+Racionalidad: Los IBP son eficaces para el tratamiento de múltiples trastornos ácido-pépticos digestivos. Constituyen uno de los grupos de fármacos de mayor prescripción en el mundo20 y su consumo ha aumentado de manera significativa. Su uso ha sido asociado a efectos adversos, entre los que se cuenta la DACD21.
+
+Existe controversia con respecto a la plausibilidad fisiopatológica de la relación entre el uso de IBP y mayor riesgo de DACD. Las esporas de C. difficile son resistentes al ácido gástrico, por lo tanto su viabilidad no es alterada por cambios en éste22; sin embargo, se ha observado que el aumento del pH gástrico permitiría la proliferación de las formas vegetativas de C. difficile en el estómago, lo cual facilitaría la colonización de segmentos distales del tubo digestivo23. Esto último no ha sido replicado en estudios in vitro con aspirados de contenido gástrico de pacientes hospitalizados; se ha observado que esporas de C. difficile son incapaces de germinar, independiente del uso de IBP24. Por otro lado, estudios in vitro han sugerido que los IBP podrían alterar la microbiota intestinal normal, lo cual constituye un factor facilitador para la colonización y proliferación de C. difficile en el colon25. Un estudio reciente correlacionó la exposición a IBP con un aumento de hasta 120 veces en la expresión de gen de la toxina A (tcdA) en C. difficile biotipo 001, lo que también se verifica, pero en menor medida, para el gen de toxina B (tcdB) y de toxina binaria (cdtB), efecto que sería independiente del pH26.
+
+El papel de la terapia de supresión ácida gástrica como factor de riesgo para DACD ha ganado mucho interés recientemente; en consecuencia, múltiples revisiones sistemáticas la han evaluado27-32. Cuatro de estas revisiones evaluaron específicamente la asociación entre uso de IBP y DACD29-32, aunque todas ellas han mostrado una significativa heterogeneidad entre los estudios. El meta-análisis realizado por Tleyje y cols.32, ha incluido el mayor número de estudios y posee la mejor calidad metodológica. Los autores incluyeron 37 estudios caso-control y 14 estudios de cohorte efectuados en Norteamérica, Europa y Asia. Ocho estudios incluyeron sólo pacientes con DACD adquirida en la comunidad, 37 sólo pacientes con DACD intrahospitalaria y 8 incluyeron ambos grupos. La mayoría de los estudios no estableció la duración ni la dosis de IBP y fueron de moderada calidad metodológica. El odds ratio (OR) para los estudios caso-control fue de 1,7 (Intervalo de confianza (IC) 95% 1,42-2,03) y para estudios de cohorte 1,64 (IC 95% 1,30-2,08). En general, el OR fue mayor en los estudios que evaluaron el uso de IBP a través de registros médicos que en los de auto-reporte. A pesar de este aumento en términos relativos, la importancia clínica de estos hallazgos ha sido cuestionada. Basados en datos previamente reportados33, los autores del meta-análisis señalan que con una incidencia de DACD de 42 casos/1.000 admisiones en pacientes hospitalizados expuestos a antimicrobianos y de 5,4 casos/1.000 admisiones en pacientes hospitalizados no expuestos a antimicrobianos, el número necesario para causar daño (NNH, por las siglas en inglés de number needed to harm) para el uso de IBP, sería de 50 (IC 95% 31-97) y 367 (IC 95% 226-718), respectivamente. Para la población general, el NNH a un año sería de 3.925 (IC 95% 2.4127.698) con una incidencia de 48 casos/100.000 personas/año33. De esta forma, se concluye que, si bien los estudios muestran una asociación consistente entre el uso de IBP y mayor riesgo de un primer episodio de DACD, ésta sería clínicamente relevante en pacientes hospitalizados y con uso concomitante de antimicrobianos.
+
+La asociación entre DACD recurrente y uso de IBP es controversial. Kwok y cols., en un meta-análisis de 42 estudios, encontraron tres estudios que evaluaron esta asociación30. El OR para DACD recurrente con el uso de IBP fue de 2,51 (IC 95% 1,16-5,44). Sin embargo, un reciente meta-análisis de Freedberg y cols.34, evaluó específicamente el riesgo de recurrencia en pacientes hospitalizados en tratamiento por DACD y uso concomitante de IBP. Los autores identificaron 894 pacientes con DACD, no encontrando un riesgo aumentado de recurrencia en pacientes expuestos a IBP durante el tratamiento de la DACD, comparado con los no expuestos a IBP (Hazard ratio (HR) 0,82; IC 95% 0,58-1,16). A pesar de estos datos, dado que la probabilidad de presentar nuevos episodios de DACD aumenta progresivamente después de cada episodio35, cualquier efecto asociado con los IBP en pacientes con DACD previa podría ser clínicamente importante.
+
+¿Son útiles los probióticos y/o prebióticos en la prevención primaria y secundaria de la DACD?
+
+Declaración del consenso
+
+Se recomienda la indicación de probióticos como prevención primaria de DACD en pacientes que usan tratamiento antimicrobiano de corto plazo. (Nivel de evidencia: Alta, nivel de recomendación: Fuerte). Este beneficio es menos claro en pacientes sobre 65 años de edad y en la prevención secundaria (DACD recurrente) (Nivel de evidencia: Moderada, nivel de recomendación: Débil). El panel recomienda en contra del uso preventivo de probióticos en pacientes inmunosuprimidos o gravemente debilitados (Nivel de evidencia: Baja, nivel de recomendación: Fuerte*).
+
+Racionalidad: El uso de antimicrobianos causa cambios en la microbiota intestinal que pueden llevar a una disminución de la resistencia a la colonización por patógenos como C. difficile36. Los probióticos se definen como microorganismos vivos que, cuando se administran en cantidades adecuadas, confieren beneficios a la salud del hospedero a través del restablecimiento del balance de la microbiota gastrointestinal37. Algunos potenciales mecanismos en la prevención de DACD de los probióticos son: exclusión competitiva de C. difficile, actividad metabólica antibacteriana, preservación de la función de la barrera epitelial intestinal y estimulación del sistema inmune innato y adaptativo38.
+
+Múltiples revisiones sistemáticas han evaluado el efecto de los probióticos en la prevención primaria de DACD en usuarios de antimicrobianos. Éstas han establecido una disminución del riesgo relativo (RR) entre 47 y 71%39-43. El meta-análisis de Goldenberg y cols., ha incluido el mayor número de estudios a la fecha39: 31 estudios clínicos randomizados de moderada calidad metodológica con un total de 4.492 participantes39. Los estudios mostraron una heterogeneidad estadísticamente no significativa. En esta revisión se observó que los probióticos reducen en 64% el riesgo de presentar DACD en usuarios de antimicrobianos (RR 0,36; IC 95% 0,26-0,51). Así, el número necesario para tratar (NNT) fue de 29 (IC 95% 22-43). Los resultados fueron similares en subgrupos de adultos y niños, así como en dosis bajas y altas. Además, el uso de probióticos en pacientes usuarios de antimicrobianos demostró disminuir otros eventos adversos atribuidos a éstos, como dolor abdominal, fiebre, flatulencia y alteraciones del gusto, en 20% (RR 0,80; IC 95% 0,86-0,95), así como los episodios de diarrea asociada a antimicrobianos con estudio negativo para C. difficile (RR 0,60; IC 95% 0,49-0,72). Un meta-análisis de Johnson y cols.42, evaluó específicamente la prevención primaria de DACD, concluyendo que los probióticos utilizados con este fin disminuyen significativamente el riesgo (RR 0,39; IC 95% 0,19-0,79).
+
+Un reciente estudio clínico randomizado de Allen y cols., que incluyó 2.941 pacientes sobre 65 años, usuarios de antimicrobianos, no observó un beneficio en la prevención de DACD con el uso de probióticos44. Sin embargo, este estudio a pesar de haber sido bien diseñado, tuvo una baja incidencia de DACD, por lo que probablemente el tamaño de muestra fue insuficiente para demostrar el beneficio.
+
+En prevención secundaria, definida como aquella que busca evitar un segundo o posterior(es) episodio(s) de DACD, con o sin el uso concomitante de antimicrobianos, la evidencia es controversial. Mc Farland y cols.45, comprobaron que los probióticos eran efectivos en disminuir las recurrencias con un RR de 0,53 (p < 0,05), mientras que Surawicz y cols.46, sólo encontraron una tendencia a la reducción con un RR de 0,33 (p: 0,05), observando un efecto beneficioso sobre la recurrencia sólo en el subgrupo en que se administró Saccharomyces boulardii y dosis altas de vancomicina. El tamaño de muestra en este estudio fue pequeño para sacar una conclusión definitiva. Una revisión sistemática de Cochrane en el año 200847, que incluyó cuatro estudios, encontró que en sólo uno de ellos se demostró significativamente menos recurrencia de DACD en los pacientes que usaron probióticos (S. boulardii)45 y no en los otros tres48-50.
+
+Con respecto al tipo de probióticos, tanto en estudios de prevención primaria como secundaria, han sido utilizadas múltiples especies de bacterias y hongos. Goldenberg y cols.39, analizaron específicamente este punto encontrando una diferencia a favor de Lactobacillus acidophilus + Lactobacillus casei (RR 0,21; IC 95% 0,11-0,42) versus Lactobacillus rhamnosus (RR 0,63; IC 95% 0,3-1,3), al igual que Johnston y cols.40, quienes además observaron que S. boulardii disminuye el riesgo de DACD en 61% (RR 0,39; IC 95% 0,19-0,82). Por otra parte, Mc Farland y cols.51, describieron eficacia significativa en la prevención de diarrea asociada a antimicrobianos con S. boulardii y L. rhamnosus. En un estudio previo del mismo grupo52 se observó beneficio a favor del uso de S. boulardii con un OR de 0,29 (IC 95% 0,10-0,84) para la prevención primaria de DACD. Esta heterogeneidad de los estudios impide hacer en la actualidad una recomendación de un probiótico sobre otro. A esto se agrega que las dosis y duración del tratamiento con probióticos son variables a través de los estudios. En general, su administración se extiende desde el inicio del tratamiento antimicrobiano hasta una semana después de finalizado éste39.
+
+A pesar de la evidencia favorable para el uso de probióticos en la prevención primaria de DACD, es importante considerar que varios reportes de casos han alertado sobre potenciales efectos adversos graves como fungemia o bacteriemia secundaria al uso de probióticos, en especial en pacientes inmunocomprometidos o gravemente debilitados53-58.
+
+¿Son útiles los prebióticos en la prevención de la DACD?
+
+Declaración del consenso
+
+Se sugiere no usar prebióticos para la prevención de DACD (Nivel de evidencia: Moderada, nivel de recomendación: Débil).
+
+Racionalidad: Los prebióticos son ingredientes fermentados selectivamente, que permiten cambios específicos en la composición y/o actividad de la microbiota gastrointestinal y que confieren beneficios al hospedero que los consume59. Sólo dos estudios controlados y randomizados publicados por Lewis y cols.60,61, analizaron el efecto de la oligofructosa como prebiótico en DACD. El primero evaluó la eficacia en reducir los episodios de diarrea asociada a antimicrobianos, incluyendo DACD, no encontrando diferencias estadísticamente significativas al ser comparado con placebo60. El segundo estudio evaluó la eficacia en recurrencia de DACD61, demostrando una reducción significativa de nuevos episodios en pacientes que utilizaron oligofructosa junto con el tratamiento estándar para DACD (8,3% de recurrencia en el grupo de oligofructosa vs 34,3% en el grupo placebo, p < 0,001)61. Ambos estudios tienen un pequeño número de pacientes y presentan resultados controversiales lo que impide recomendar este tipo de fármacos en la prevención de DACD.
+
+¿Es útil la capacitación del personal de salud para evitar la transmisión intrahospitalaria de DACD?
+
+Declaración del consenso
+
+Se recomienda la capacitación del personal de salud en la prevención de DACD. Esta medida es de bajo costo y tiene un impacto positivo al disminuir el riesgo de DACD intrahospitalaria (Nivel de evidencia: Baja, nivel de recomendación: Fuerte**).
+
+Racionalidad: El vehículo de transmisión de C. difficile son las esporas, las que tienen la capacidad de persistir en el ambiente intrahospitalario y producir su diseminación, en ocasiones a través del personal de salud62,63. Aún así, la evidencia muestra que, tanto el personal médico como no médico, tiene un nivel de conocimiento y conductas heterogéneas en relación a las medidas de prevención de la DACD, incluyendo la higiene de manos.
+
+Eckstein y cols.64, evaluaron el efecto de la idoneidad y nivel de experiencia en las prácticas de limpieza y desinfección sobre tasas de esporulación en el ambiente hospitalario. Los resultados mostraron que las habitaciones que habían sido limpiadas por el grupo de expertos que dominaban cada una de las prácticas de limpieza estudiadas obtuvieron el menor número de cultivos ambientales positivos post limpieza. Kirkland y cols.65, evaluaron el impacto de un programa de higiene de manos en la tasa de infecciones por Staphylococcus aureus resistente a meticilina (SARM) y C. difficile. Éste involucró capacitación certificada a través de módulos de aprendizaje electrónico y videos, donde el personal debía demostrar competencias. Observaron un incremento significativo del personal de salud capacitado, desde 83 a 94%, además de una reducción significativa de la tasa de infecciones por SARM; sin embargo, las tasas de DACD se mantuvieron sin cambios. Susuki y cols.66, sometieron, en un estudio controlado, a una cohorte prospectiva de médicos, detectados usando inapropiadamente carbapenémicos, a actividades dirigidas de educación sobre el uso racional de antimicrobianos. Con posterioridad a dos años de intervención, observaron una reducción en la frecuencia de DACD de 0,47 a 0,11 casos/1.000 pacientes-días (p < 0,001).
+
+¿Está indicado el aislamiento de contacto de los pacientes con DACD, para evitar la transmisión intrahospitalaria?
+
+Declaración del consenso
+
+Se recomienda el aislamiento de contacto de todos los pacientes hospitalizados con DACD. El aislamiento de contacto debe ser realizado preferentemente en pieza individual o, en su defecto, en una cohorte que incluya uso de baño exclusivo. El aislamiento debe prolongarse, al menos, hasta 48 h después que el paciente presente deposiciones formadas (Nivel de evidencia: Baja, nivel de recomendación: Fuerte***).
+
+Racionalidad: Múltiples intervenciones y estrategias son necesarias para reducir la tasa de IAAS. Dado el mecanismo de transmisión de C. difficile, el aislamiento de contacto resulta una medida racional63. Sin embargo, pocos estudios han evaluado la efectividad de esta intervención, lo cual se explica, en parte, por las limitantes éticas que existen para la realización de estudios intervencionales en el campo de la prevención de infecciones67. La mayoría de los estudios evalúan la efectividad en la reducción de la tasa de infecciones antes y después de la intervención, considerando varias medidas aplicadas en conjunto, como son el lavado de manos, uso de guantes y delantal, y el aislamiento de contacto.
+
+Salgado y cols.68, estudiaron el efecto de implementar múltiples medidas de prevención en pacientes con DACD y su ambiente, en un hospital universitario de Estados Unidos de América (E.U.A.), en el escenario de un brote de DACD. Las medidas incluyeron aislamiento de contacto en pieza individual, limpieza con cloro de las habitaciones y lavado de manos con agua y jabón del personal que atendía pacientes con DACD. La tasa máxima de DACD antes de la implementación de estas medidas fue de 5,53 casos/1.000 pacientes-día, la cual se redujo en forma estadísticamente significativa a 1,84 casos/1.000 pacientes-día luego de la intervención (p < 0,0001). Esta tasa se mantuvo baja hasta 36 meses después de finalizado el brote. Similares resultados han sido observados en otros estudios de evaluación, antes y después de la intervención, tanto en aislamiento individual como en cohortes69,70.
+
+De esta forma, guías clínicas y consensos13,14,71,72 concuerdan en las siguientes recomendaciones:
+
+• Es preferible el aislamiento de contacto en pieza individual de pacientes con DACD, si existe disponibilidad de éstas.
+
+• En caso de no contar con habitación individual, se recomienda realizar aislamiento de cohorte proporcionando un inodoro exclusivo.
+
+• En caso de brote o alcanzarse una tasa mayor de DACD, implementar aislamiento de cohorte.
+
+• El lavado de manos con agua y jabón de los trabajadores de salud que atienden al paciente con DACD y visitantes, antes y después de tener contacto con el paciente o su unidad. El personal de salud debe además usar delantal y guantes desechables. La aplicación de esta última medida para visitantes es controvertida73.
+
+• Para pacientes con incontinencia fecal, es preferible el aislamiento en pieza individual.
+
+El plazo necesario para mantener un aislamiento no es claro; sin embargo, la mayoría de los expertos concuerdan que debería prolongarse al menos hasta 48 h después que el paciente presente deposiciones formadas. Debe considerarse prolongar el aislamiento, incluso hasta el alta del paciente, en caso que las medidas habituales de prevención no logren controlar un brote71.
+
+¿Qué soluciones desinfectantes deben emplearse para el aseo de la unidad del paciente con DACD?
+
+Declaración del consenso
+
+Considerando los costos, se sugiere el uso de productos clorados en alta concentración (5.000 p.p.m.) como la primera elección para el aseo de habitaciones expuestas a C. difficile. Peróxido de hidrógeno constituye una excelente alternativa en instituciones con menos limitantes económicas y menor presión asistencial (Nivel de evidencia: Moderada, nivel de recomendación: Débil****).
+
+Racionalidad: La capacidad de C. difficile de producir esporas, las que pueden persistir en diversas superficies y lugares de los centros de salud, resalta la necesidad de contar con métodos y productos que permitan inactivar o eliminar estas esporas. La elección de productos para la descontaminación de habitaciones en hospitales donde se atiende a pacientes con DACD podría influir en la prevalencia y distribución de la contaminación ambiental y la consiguiente colonización de pacientes.
+
+Existen estudios que han evaluado el uso de agentes de limpieza en habitaciones expuestas a C. difficile y su efecto en el número de esporas ambientales después de su aplicación. Otros han evaluado la capacidad de estos productos de reducir el riesgo de recurrencia y propagación de C. difficile.
+
+Un estudio clínico randomizado (ECR) prospectivo de Doan y cols.74, comparó ocho métodos de desinfección terminal de habitaciones contaminadas con esporas de C. difficile. Los productos incluidos fueron hipoclorito de sodio, peróxido de hidrógeno, amonio cuaternario de quinta generación, ozono seco, vapor seco a alta temperatura, limpieza a vapor y ácido peracético. Los productos más eficaces fueron peróxido de hidrógeno con 2,303 reducciones logarítmicas, seguido de agentes liberadores de cloro en una concentración de 1.000 ppm, con 2,223 reducciones logarítmicas y ácido peracético con 2,134 reducciones logarítmicas. Estos mismos resultados fueron replicados en el estudio de Lawley y cols.75, mediante el uso de un modelo murino de transmisión de esporas, concluyendo que los desinfectantes con ingredientes activos oxidantes como el peróxido de hidrógeno son eficaces para evitar la transmisión de esporas.
+
+Una revisión sistemática de Macleod-Glover y cols.76, evaluó la eficacia de los productos de limpieza disponibles en la comunidad en centros de rehabilitación geriátrica. Se observó que productos con alta concentración de cloro (5.000 ppm) eran eficaces contra esporas de C. difficile; no así, concentraciones menores, que no lograron erradicarlas. El uso de peróxido de hidrógeno tuvo resultados contradictorios; sin embargo, la mayoría de los estudios no reportó la concentración utilizada. El uso de otros agentes, como aplicación exclusiva de detergente o alcohol isopropílico al 70% no mostró beneficio. Cabe destacar que la exposición a agentes con poca efectividad aumenta la capacidad de esporulación de C. difficile comparada con la no exposición a agentes de limpieza, lo cual resalta la necesidad de utilizar agentes efectivos contra las esporas77.
+
+Hacek y cols.78, evaluaron en tres hospitales de San Diego, E.U.A., que tenían incidencias de C. difficile en aumento, la sustitución de amonio cuaternario por solución clorada en la desinfección terminal de habitaciones de pacientes con C. difficile. Tras este cambio, se observó una reducción de 48% en la incidencia de DACD (IC 95% 36-58%; p < 0,0001) la que se sostuvo en el tiempo.
+
+Barbut y cols.79, comparando en dos hospitales franceses la efectividad de peróxido de hidrógeno vs hipoclorito para desinfección de habitaciones que habían sido usadas por pacientes con C. difficile, mostraron una disminución de la contaminación con esporas de 50% para hipoclorito y de 91% para peróxido de hidrógeno (p < 0,005).
+
+Si bien este último dato favorece el uso de peróxido de hidrógeno por sobre hipoclorito, el costo del primero es considerablemente mayor, a lo cual se suma la necesidad de bloqueo de habitaciones para su aplicación por al menos 2 a 3 h, factor importante en instituciones con alta presión asistencial.
+
+Es importante considerar que las soluciones cloradas deben ser preparadas diariamente, con instrucciones precisas y supervisión, para que la dilución sea la correcta.
+
+¿Cuál es el mejor uso de los métodos diagnósticos para DACD?
+
+¿Enzimo-inmuno-análisis (EIA) para detección de toxinas?
+
+Recomendación del consenso
+
+Se recomienda no utilizar EIA para detección de toxinas de C. difficile en deposiciones como método diagnóstico de DACD. Este tipo de exámenes presentan un bajo rendimiento y constituyen una alternativa sub-óptima, por lo que no se recomienda como único test. Repetirlos durante el mismo episodio no mejora su rendimiento. (Nivel de evidencia: Moderada, nivel de recomendación: Fuerte).
+
+Racionalidad: Los EIA para la detección de toxina A o de toxinas A y B de C. difficile en deposiciones son metodologías de bajo costo y poco laboriosas, por lo que constituyen una herramienta ampliamente utilizada en los laboratorios clínicos de países en desarrollo. Sin embargo, múltiples estudios clínicos y meta-análisis en la última década han demostrado un bajo rendimiento de estos ensayos.
+
+Crobach y cols.80, realizaron un revisión sistemática de 43 estudios en que se evaluó el rendimiento de distintos EIA para la detección de toxinas de C. difficile, comparado con test de citotoxicidad y cultivo anaerobio toxigénico como estándares de referencia. La sensibilidad y especificidad de los EIA, cuando se compararon con test de citotoxicidad, varió entre 31-99 y 65-100%, respectivamente. Cuando el estándar de referencia utilizado fue el cultivo anaerobio toxigénico la sensibilidad se redujo a 32-79%, con una especificidad entre 84 y 100%. Otro meta-análisis realizado por Planche y cols.81, concluyó en una sensibilidad de 75-95% y una especificidad de 83-98%. Cuando se ha comparado el rendimiento de EIA con métodos de amplificación de ácidos nucleicos y test para detección de glutamato deshidrogenasa, la sensibilidad de estos últimos es consistentemente superior80-86. Cabe destacar que múltiples estudios han establecido que la repetición de EIA para detección de toxinas durante un mismo episodio de DACD no mejora su rendimiento y aumenta los costos87-90.
+
+¿EIA para detección de glutamato deshidrogenasa (GDH)?
+
+Recomendación del consenso
+
+Se sugiere no utilizar EIA para detección de GDH en deposiciones como método diagnóstico de DACD. Este examen es una alternativa sub-óptima cuando es utilizado como único test, dada su baja especificidad. Este examen podría ser utilizado como tamizaje inicial dentro de un algoritmo diagnóstico, dada su alta sensibilidad (Nivel de evidencia: Moderada, nivel de recomendación: Débil*****).
+
+Racionalidad: GDH es una enzima producida por todas las cepas de C. difficile, toxigénicas y no toxigénicas. Dada esta condición, presenta una menor especificidad que los test de EIA para detección de toxinas y de amplificación de ácidos nucleicos, con cifras que varían entre 75 y 97%, según los estudios publicados, por lo que no es recomendado como herramienta única de diagnóstico para DACD80.
+
+Un meta-análisis realizado por Shetty y cols., comunicó cifras de sensibilidad para este test entre 80 y 100%, observándose una significativa heterogeneidad entre los estudios, particularmente en relación al estándar de referencia utilizado. Dentro de este meta-análisis hay tres estudios que comparan EIA para GDH con el cultivo anaeróbico toxigénico observándose una sensibilidad mayor a 90%91.
+
+Dada su alta sensibilidad este test posee un alto valor predictor negativo, descrito entre 96-100%, cuyo valor no varía significativamente entre prevalencias de 5 a 20%80.
+
+Por lo señalado, el EIA para GDH podría ser utilizado como elemento de descarte en un algoritmo diagnóstico de DACD. Así un resultado negativo permite descartar DACD; sin embargo, un resultado positivo debe ser confirmado con test más específicos, como ensayo molecular para la detección de genes de toxina o, en su defecto, EIA para detección de toxinas.
+
+¿Ensayo molecular para detección de genes de toxinas?
+
+Recomendación del consenso
+
+Se recomienda como método diagnóstico de elección la amplificación de genes que codifican toxinas de C. difficile en deposiciones mediante RPC (reacción de polimerasa en cadena) u otras técnicas equivalentes, dada su alta sensibilidad y especificidad. Este examen no debe ser realizado en pacientes sin un cuadro clínico compatible. (Nivel de evidencia: Moderada, nivel de recomendación: Fuerte).
+
+Racionalidad: La amplificación de ácidos nucleicos de genes de toxina de C. difficile en deposiciones a través de RPC u otras técnicas, son herramientas altamente sensibles y rápidas para el diagnóstico; sin embargo, no es utilizado ampliamente en los laboratorios clínicos de países en desarrollo, principalmente por el alto costo asociado a su implementación y uso.
+
+En el meta-análisis de Deshpande y cols.92, el que incluyó 19 estudios, se observó una sensibilidad de 90% (IC 95% 88-91%), especificidad de 96% (IC 95% 96-97%), con una alta heterogeneidad entre los estudios. Resultados similares se observaron en el meta-análisis de O’Horo y cols.93, el que demostró una sensibilidad de 92% (IC 95% 91-94%) y especificidad de 94% (IC 95% 94-95%) con moderada heterogeneidad en los estudios analizados. A pesar de la heterogeneidad observada, la superioridad del desempeño de este test es constante en la mayoría de los estudios y demuestran que la RPC tiene un alto grado de precisión. Este alto rendimiento fue observado también en un estudio local que comparó RPC para tcdB y EIA para toxina A y B contra cultivo toxigénico85.
+
+Algunos estudios han mostrado que en poblaciones de baja prevalencia de DACD -esto es menor a 10%- el valor predictor positivo VPP puede ser tan sólo de 71% (IC 95% 64-77%)92. Por este motivo, para evitar falsos positivos, es importante realizar este test sólo en pacientes con expresión clínica de DACD, es decir, tres o más deposiciones líquidas en 24 h en el contexto clínico adecuado84. Excepciones a esta regla son: pacientes graves con íleo o megacolon en quienes si la sospecha es alta, podría ser utilizada en deposiciones sólidas o hisopado rectal, informando de esta situación especial al laboratorio14.
+
+A pesar de estas limitaciones, esta técnica es el mejor test diagnóstico de DACD que existe en la actualidad, teniendo en consideración su buen rendimiento y rapidez en el diagnóstico.
+
+¿Cómo se clasifica la gravedad de la DACD?
+
+Recomendación del consenso
+
+Para el diagnóstico de DACD grave se sugiere utilizar los siguientes criterios: edad mayor a 65 años, inmunosupresión, leucocitosis ≥ 15.000/mm3, hipoalbuminemia < 3 g/dL, creatininemia ≥ 1,5 mg/dL o incremento de la creatininemia 50% sobre el valor basal (Nivel de evidencia: Moderada, nivel de recomendación: Débil). De manera similar, para el diagnóstico de DACD grave complicada sugerimos utilizar los criterios detallados a continuación: cambio del estado mental, íleo, megacolon, shock, aumento de lactato sérico ≥ 2,2 mmol/L u hospitalización en UCI (Nivel de evidencia: Muy baja, nivel de recomendación: Débil).
+
+Racionalidad: Por consenso y con fines de investigación y vigilancia, una DACD grave se define como aquella en la cual el paciente presenta cualquiera de los siguientes criterios:
+
+• Necesita hospitalización en Unidad de Cuidados Intensivos (UCI)     • Es sometido a colectomía o     • Fallece dentro de los 30 días posteriores al diagnóstico94.
+
+Sin embargo, dado que estos criterios corresponden a eventos tardíos que es deseable prevenir, se han evaluado variables clínicas o de laboratorio que logren predecir un curso adverso o falta de respuesta a tratamiento y de esta forma clasificar precozmente los pacientes según su gravedad.
+
+Una revisión sistemática95 analizó los factores de riesgo asociados a mal pronóstico en pacientes hospitalizados con DACD. Se identificaron 26 estudios y en la mayoría, el evento evaluado fue mortalidad por todas las causas a 30-90 días. La mortalidad varió de 3,5 a 38% y los factores clínicos asociados a mal pronóstico fueron: mayor edad, uso de corticosteroides, leucocitosis, aumento de la creatininemia e hipoalbuminemia. Si bien en esta revisión sistemática no se establecen valores de corte, la mayoría de los estudios individuales incluidos señalan que la edad > 65 años, leucocitosis ≥ 15.000/mm3, creatininemia ≥ 1,5 mg/dL; aumento de creatininemia sobre 50% o mayor al basal y albuminemia < 3 g/dL, predicen un curso grave. Otras revisiones sistemáticas coinciden con estos factores pronósticos variando levemente los valores96. Los puntos de corte más arriba señalados han sido ampliamente aceptados y utilizados en guías clínicas para clasificar los pacientes como graves13-15. Un cuadro de DACD que no cumple con estos criterios es clasificado como leve-moderado.
+
+Dada la ausencia de marcadores clínicos individuales que predigan exactamente la gravedad, se han desarrollado múltiples índices pronósticos para DACD grave. Éstos fueron analizados en una revisión sistemática en que se observó un bajo rendimiento de estos índices con un VPP de 25-50% y exactitud diagnóstica de 69-72%97. Además, algunos de ellos requieren imágenes o colonoscopia para su cálculo por lo cual no se recomienda su uso98.
+
+La DACD grave complicada (ver más arriba los criterios empleados en su definición) ha sido asociada en series de casos a una alta tasa de colectomía y mayor mortalidad99-101. Además, su desarrollo podría asociarse a menores concentraciones de antimicrobianos en el colon100,102-104 por lo que amerita un abordaje terapéutico diferente. La clasificación de los pacientes con DACD según gravedad se resume en la Tabla 4.
+
+ 
+
+Tabla 4. Clasificación de los pacientes con diarrea asociada a Clostridium difficile          (DACD) según gravedad
+
+
+
+UCI: Unidad de Cuidados Intensivos.
+
+ 
+
+¿Cuál es el tratamiento recomendado para un primer episodio de DACD?
+
+En cuadro leve-moderado: ¿metronidazol o vancomicina?
+
+Recomendación del consenso
+
+La terapia recomendada para un primer episodio de DACD leve-moderado es metronidazol 500 mg cada 8 h durante 10 a 14 días por vía oral. No se recomienda la prolongación de la terapia por plazos superiores a 14 días si hay respuesta clínica (Nivel de evidencia: Moderada, nivel de recomendación: Fuerte).
+
+Racionalidad: Hay escasos estudios que evalúen la efectividad de la terapia con metronidazol comparada con vancomicina en cuadros leves-moderados. Sólo cinco estudios evalúan directamente esta pregunta en forma prospectiva11,105-107 y sólo uno utiliza la estratificación de gravedad como criterio diferenciador106, no encontrándose diferencias significativas en los casos leve-moderados en la mayoría de los estudios. Sólo un estudio que comparó tolevamer (un polímero que neutraliza toxinas in vitro) versus metronidazol y vancomicina, encontró una mayor eficacia en el grupo tratado con vancomicina (81,1% comparado con metronidazol 72,7%)108. En una revisión sistemática se observó que la tasa de respuesta al tratamiento es similar para ambas terapias109. En pacientes con patologías hemato-oncológicas se ha evaluado en forma retrospectiva la efectividad de metronidazol comparada con vancomicina, y en condiciones de enfermedad leve-moderada no se encontraron diferencias significativas, por lo que se sigue recomendando el uso de metronidazol como terapia de primera línea110.
+
+Si no hay respuesta clínica a los 3 a 5 días, se recomienda cambiar a vancomicina 125 mg cada 6 h por vía oral111,112. En caso de una respuesta adecuada, la terapia con metronidazol no debería prolongarse más de 14 días, dado el riesgo de neuropatía periférica y que una vez resuelta la inflamación de la mucosa colónica, la concentración de este fármaco en el colon disminuye sustancialmente113.
+
+En cuadro grave: ¿metronidazol o vancomicina?
+
+Recomendación del consenso
+
+Se recomienda el uso de vancomicina 125 mg cada 6 h por vía oral por 10 días en cuadros de DACD grave. Si no hay respuesta clínica a los 3 a 5 días, se recomienda incrementar la dosis de vancomicina a 250 mg cada 6 hpor vía oral (Nivel de evidencia: Moderada, nivel de recomendación: Fuerte).
+
+Racionalidad: Revisiones sistemáticas no han mostrado diferencias significativas a favor de metronidazol versus vancomicina en pacientes graves114,115. Sin embargo, en un estudio de Zar y cols.106, se observó que vancomicina era significativamente superior a metronidazol en el escenario de pacientes con infección grave (efectividad de 97 vs 76%, respectivamente; p: 0,02). Este estudio, tiene ciertas limitaciones en cuanto a que la definición de gravedad fue basada en criterios no validados. Sin embargo, no hay estudios de mejor calidad metodológica que aborden esta pregunta. Un estudio analizó en forma retrospectiva los predictores de falla de respuesta a terapia con metronidazol, encontrando que una albuminemia inferior a 2,5 g/dL y la estadía previa o al momento del diagnóstico, en una unidad de cuidados intensivos, incrementa la posibilidad de falla al tratamiento con un OR de 11,7 (IC 95% 4,0 a 31,6) y 4,1 (IC 95% 1,3 a 12,2), respectivamente. Cuando se combinan ambas condiciones, la posibilidad de falla es de 80%116. En un análisis retrospectivo, se observó que la duración de los síntomas puede ser levemente superior en pacientes tratados con metronidazol comparado con los tratados vancomicina (4,6 vs 3 días; p < 0,01)117. Por este motivo y dada la ominosa evolución que pueden tener los pacientes con criterios de gravedad, la recomendación es usar en estos pacientes vancomicina 125 mg cada 6 h por vía oral por 10 días. Si no hay respuesta clínica a los 3 a 5 días, se recomienda incrementar la dosis de vancomicina a 250 mg cada 6 h por vía oral, pudiendo incluso llegar a 500 mg cada 6 h.
+
+En pacientes con enfermedad inflamatoria intestinal, con reactivación moderada a grave, que requiere hospitalización, no hay estudios prospectivos que evalúen esta terapia118. Sin embargo, en un análisis retrospectivo se observó una menor tasa de colectomía en aquellos tratados con vancomicina vía oral versus metronidazol119,120. Por esto, el umbral para tratar estos pacientes con vancomicina debe ser bajo.
+
+En un cuadro de DACD grave complicado: ¿monoterapia (con metronidazol o vancomicina) o tratamiento biasociado?
+
+Recomendación del consenso
+
+El tratamiento antimicrobiano recomendado para la DACD grave complicada es vancomicina oral 250 mg o 500 mg cada 6 h asociado a metronidazol intravenoso 500 mg cada 8 h. En caso necesario, vancomicina puede ser administrada por sonda enteral, ileostomías o colostomías. En caso de íleo, agregar vancomicina en enemas 500 mg en 100 cc de solución salina fisiológica (NaCl 9%%) cada 4 a 6 h (Nivel de evidencia: Muy baja, nivel de recomendación: Débil).
+
+Racionalidad: La DACD grave complicada o fulminante se caracteriza por un rápido deterioro del estado general, náuseas, vómitos, deshidratación, compromiso neurológico, taquicardia, shock séptico con disfunción multiorgánica secundaria, con frecuente necesidad de vasopresores, pudiendo llegar al megacolon tóxico y perforación colónica.
+
+El tratamiento antimicrobiano óptimo de la DACD complicada no está bien definido debido a que existen pocos casos, son complejos y a menudo son excluidos de grandes estudios. El problema en estos pacientes es asegurar la llegada de vancomicina al colon, no su efectividad, ya que con frecuencia estos pacientes tienen náuseas, vómitos, íleo y/o megacolon. Además, la llegada de metronidazol al lumen colónico también es variable, aunque está demostrado que ésta es mayor cuando el colon está más inflamado113,115,121,122. Estos argumentos obran a favor de usar terapia asociada con vancomicina y metronidazol de manera de cubrir y superar las variables farmacocinéticas presentes en este grupo de pacientes. Un reciente estudio retrospectivo mostró una mortalidad de 15,9% con terapia biasociada versus 36,4% en monoterapia con vancomicina en pacientes críticamente enfermos (p: 0,03)123. Para garantizar la llegada de vancomicina al lumen colónico en casos complicados, puede ser administrada por sonda naso-gástrica, naso-yeyunal, ileostomías o colostomía102-104. Si falla o la evolución es desfavorable, se debe evaluar rápidamente la necesidad de colectomía101,124. En situaciones de íleo se recomienda agregar vancomicina en enemas 500 mg en 100 cc de solución salina fisiológica (NaCl 9%o) cada 4 a 6 h103.
+
+¿Cuál es el tratamiento recomendado para una primera recurrencia de DACD?
+
+¿Usar el mismo antimicrobiano inicial vs cambio de antimicrobiano?
+
+Recomendación del consenso
+
+Para tratar la primera recurrencia de DACD se sugiere usar el mismo antimicrobiano utilizado en el episodio inicial, ajustado según la gravedad de la recurrencia (Nivel de evidencia: Baja calidad, nivel de recomendación: Débil).
+
+Racionalidad: La recurrencia en DACD se define como la reaparición de la diarrea hasta ocho semanas después del episodio inicial, habiendo existido respuesta clínica94. El diagnóstico debe ser corroborado por estudio microbiológico en deposiciones, como en el primer episodio. Las tasas de respuestas iniciales para tratar la primera recurrencia son altas para los diferentes esquemas antimicrobianos (metronidazol, vancomicina y fidaxomicina)125. En un estudio de asignación aleatoria, doble ciego, que incluyó 629 pacientes y comparó fidaxomicina contra vancomicina e incluyó 629 pacientes, hubo un episodio previo de DACD en 17,1%. La tasa de respuesta al tratamiento por intención de tratar fue similar entre ambos grupos, 87% para fidaxomicina y 88,9% para vancomicina126. En un estudio caso-control con 463 pacientes hospitalizados con una primera recurrencia, el análisis de subgrupos mostró que ni el tratamiento antimicrobiano del primer episodio (metronidazol o vancomicina) ni el tratamiento de la primera recurrencia estuvieron asociados a una mayor probabilidad de presentar una segunda recurrencia (HR 0,68; IC 95% 0,32-1,46; p: 0,32)127.
+
+De manera similar al tratamiento de un primer episodio, en pacientes con una recurrencia grave, se debe usar vancomicina, independiente del antimicrobiano usado inicialmente.
+
+¿Usar el mismo plazo de tratamiento vs plazo más prolongado?
+
+Recomendación del consenso
+
+Se sugiere tratar la primera recurrencia de DACD por el mismo plazo que el primer episodio (Nivel de evidencia: Muy baja, nivel de recomendación: Débil).
+
+Racionalidad: El tratamiento de la DACD recurrente es un verdadero desafío dado que no existe uniformidad en los estudios sobre cuál tratamiento es más efectivo, apreciándose además considerable variabilidad en la dosis y duración del tratamiento. Aunque la duración del tratamiento puede ser estratificada según la gravedad como se realiza en el primer episodio de DACD, no existen estudios de asignación aleatoria, controlados, que comparen un esquema de tratamiento antimicrobiano con una duración de 10 versus 14 días en pacientes con una primera recurrencia de DACD. Además, las revisiones no han sido uniformes al momento de sugerir la duración de metronidazol, vancomicina o fidaxomicina en la DACD recurrente, con algoritmos que van de 10 a 14 días14,128-132. Pepin y cols., demostraron en un estudio que incluyó 463 pacientes con un primer episodio de recurrencia por DACD, que metronidazol no era inferior a vancomicina. Sin embargo, en ambos grupos se incluyeron pacientes tratados por períodos de 10 y 14 días127. En un estudio que incluyó 128 pacientes con un primer episodio recurrente de DACD, fidaxomicina por 10 días fue similar a vancomicina en lograr una respuesta clínica, aunque fue superior en prevenir un segundo episodio de recurrencia dentro de 28 días133, sin poder determinar si estos resultados pueden extrapolarse a una duración del tratamiento de 14 días. Recientemente, otro estudio demostró que en comparación con vancomicina, fidaxomicina disminuye de manera significativa los episodios de recurrencia en aquellos pacientes que requieren antimicrobianos concomitantes por otras infecciones. Nuevamente se comparan ambos antimicrobianos por un período de 10 días sin poder extrapolar estos resultados a 14 días134. Con esta evidencia, aunque no existen estudios de asignación aleatoria, controlados, que hayan comparado una duración del tratamiento de la primera recurrencia por 10 ó 14 días, parece razonable elegir la opción de usar un tratamiento por 14 días. Esta sugerencia se basa en la incrementada probabilidad de presentar recurrencias con episodios repetidos de DACD, lo que hace fundamental tratar de optimizar al máximo el tratamiento.
+
+Respecto al tratamiento de la segunda y siguientes recurrencias de DACD, ¿es útil usar vancomicina por plazos prolongados?
+
+Recomendación del consenso
+
+Se sugiere usar vancomicina por plazos prolongados en dosis decreciente o en pulsos como tratamiento de la segunda recurrencia de DACD (Nivel de evidencia: Baja, nivel de recomendación: Débil).
+
+Racionalidad: La recurrencia de DACD es un problema significativo, ya que todos los esquemas terapéuticos tienen altas tasas de recurrencia, que oscilan entre 20 y 50%, siendo mayor a medida que se repiten los cuadros48,125,133. Se han descrito múltiples estrategias terapéuticas, dentro de las cuales se encuentra el uso de dosis decrecientes o en pulso de vancomicina usadas en períodos prolongados, de 20 a 35 días. El año 1985, Tedesco y cols., describieron la utilidad de estas dosis decrecientes por período de 21 días en pacientes que tenían colitis pseudomembranosa asociada a uso de antimicrobiano y lograron demostrar que, después de este esquema, los pacientes no presentaron nuevas recurrencias135. En la literatura médica no hay esquemas de reducción de dosis ni un tiempo estandarizado para este descenso. En el año 2002, un estudio de Mcfarland y cols., observó a una cohorte de 163 pacientes que participaban en la rama placebo de dos estudios de asignación aleatoria, doble ciego, con episodios recurrentes de DACD y que fueron seguidos por dos meses según sus distintos esquemas terapéuticos. Esta observación mostró las distintas alternativas usadas y la tasa de curación y recurrencia de cada una136. El esquema prolongado con vancomicina más utilizado, que incluye una dosis decreciente y luego en pulso, se detalla en la Tabla 6137.
+
+ 
+
+Tabla 5. Manejo de las recurrencias de diarrea asociada a Clostridium difficile
+
+
+
+ 
+
+Tabla 6. Esquema propuesto de vancomicina oral en          dosis decreciente y en pulsos, para ser ensayado en          segundas recurrencias o posteriores*
+
+
+
+*Adaptado de Kelly CP and Lamont JT137.
+
+ 
+
+¿Es útil el uso de rifaximina?
+
+Recomendación del consenso
+
+En pacientes con tercera recurrencia de DACD se sugiere, como alternativa de tratamiento, un curso de vancomicina de 14 días seguido de rifaximina por 4 semanas, 400 mg cada 8 h vía oral (Nivel de evidencia: Moderada, nivel de recomendación: Débil).
+
+Racionalidad: Rifaximina es un análogo semi-sintético de rifampicina, antimicrobiano de amplio espectro, al que la adición de un anillo benzonidazólico le otorga la característica de ser no absorbible (< 1% de absorción) y ha sido aprobado por la Food and Drug Administration (FDA) de E.U.A., para el tratamiento de diarreas del viajero causadas por cepas no invasoras de Escherichia coli. Su mecanismo de acción es inhibición de la síntesis de ARN por unión a las subunidad B de la ARN polimerasa. Su espectro de acción incluye, dentro de los anaerobios estrictos, a Clostridium spp y C. difficile con concentraciones inhibitorias mínimas (CIM) muy bajas de 0,78 μg/ml138,139.
+
+Este fármaco se usa principalmente en Italia, desde 1987, en encefalopatía hepática y profilaxis quirúrgica. En los últimos años se ha volcado el interés a su posible utilidad en el tratamiento de DACD. En el año 2011, una revisión sistemática de Cochrane115 comparó vancomicina con distintos otros fármacos. De los 15 ECR, en sólo uno de ellos, de Boero y cols.140, con un número de 10 pacientes, comparó vancomicina con rifaximina no encontrando diferencia estadísticamente significativa para tasa de curación clínica y respuesta bacteriológica. A pesar de ser un estudio de pocos pacientes, no se observó inferioridad.
+
+Garey y cols., en el 2011, en vista de que en series no controladas se había mostrado disminución de las recurrencias con el uso de rifaximina siguiendo terapias habituales, diseñó un ECR doble ciego comparando placebo vs rifaximina al término de una terapia estándar con vancomicina mostrando que las recurrencias con placebo fueron 49 vs 21% con rifaximina141. Reportes de casos, revisiones bibliográficas y estudios no controlados129 142-148 coinciden en la utilidad en el uso de rifaximina en recurrencias. La dosis utilizada en los estudios es de 400 mg c/8 h vía oral por 28 días siguiendo a un curso habitual de vancomicina oral.
+
+¿Usar antimicrobianos vs trasplante de microbiota fecal (TMF)?
+
+Recomendación del consenso
+
+En pacientes cursando tres o más recurrencias de DACD se sugiere, como alternativa de tratamiento, el TMF. Esta alternativa podría plantearse incluso antes de la tercera recurrencia en casos seleccionados, moderados o graves sin respuesta clínica adecuada, a la semana o a las 48 h de evolución, respectivamente (Nivel de evidencia: Moderada, nivel de recomendación: Débil).
+
+Racionalidad: El uso de TMF ha adquirido gran relevancia en los últimos años, principalmente en el área de DACD recurrente. Un ECR comparó tres terapias para el tratamiento de la DACD recurrente: vancomicina oral por 4-5 días seguida de lavado intestinal con polietilenglicol oral y posterior TMF por vía duodenal; un régimen estándar de vancomicina oral por 14 días y un régimen estándar de vancomicina oral con lavado intestinal. Se distribuyeron en forma aleatoria 43 pacientes; 17 pacientes a TMF, 13 al régimen estándar de vancomicina y 13 pacientes al régimen estándar de vancomicina con lavado intestinal. El objetivo primario era la curación sin recurrencia a la semana 10 después de iniciada la terapia. El 81% de los pacientes sometidos a TMF curó después de la primera infusión comparados con 31% de los pacientes que recibieron vancomicina estándar y 23% de los pacientes que recibieron vancomicina asociada a lavado intestinal. Sólo se reportaron efectos menores inmediatos (diarrea y dolor abdominal cólico), no se reportaron casos fatales ni infecciones sistémicas149. La administración por sonda naso-gástrica parecer ser igual de efectiva que la administración por colonoscopia150. En el 2011, una revisión sistemática de 317 casos de DACD recurrente reportó una curación de 92%; la mayoría de los TMF se realizaron mediante colonoscopia (75%)151. Revisiones sistemáticas posteriores han confirmado los hallazgos152-154. Un grupo de expertos internacional en TMF (Fecal Transplantation Work Group) ha propuesto como principal indicación para el tratamiento de la enfermedad por C. difficile el haber presentado tres episodios leves a moderados con falla a un tratamiento de retirada de 6-8 semanas con vancomicina u otro antimicrobiano alternativo, o dos episodios graves que requieran hospitalización o estén asociados a morbilidad significativa. Podría considerarse como tratamiento en la primera recurrencia si el episodio es moderado y no responde a una semana con terapia estándar o un episodio grave sin respuesta a terapia estándar a las 48 h155.
+
+Discusión
+
+La DACD se ha transformado en una de las principales IAAS, conduciendo a una alta carga de morbilidad para los pacientes afectados e importantes costos económicos para los recintos hospitalarios7. Múltiples guías internacionales han abarcado el problema, logrando mejorar el conocimiento de la enfermedad y el manejo de estos pacientes13-15. En Chile también se ha observado un aumento de los brotes de DACD en los últimos años11; sin embargo, a la fecha no existen guías clínicas locales, basadas en la evidencia, que abarquen aspectos de prevención, diagnóstico y tratamiento de la DACD. El propósito de esta revisión sistemática es dar respuesta a preguntas clínicamente relevantes desde una mirada multidisciplinaria que incluye expertos en medicina basada en la evidencia, enfermedades infecciosas, gastroenterólogos y enfermeras expertas en el área de IAAS, lo cual constituye una fortaleza de este consenso. Nuestra revisión permite además conocer las limitaciones que existen actualmente en el campo de la DACD, las cuales se hacen más evidentes al revelar los escasos datos y estudios que tenemos en nuestro medio. Así pudimos observar la falta o escasez de estudios en las siguientes áreas:
+
+• Estudios epidemiológicos bien diseñados para conocer la realidad nacional de la DACD en el ámbito ambulatorio y hospitalario.     • Estudios que evalúen medidas de prevención que se ajusten a la realidad de nuestros hospitales y recursos económicos.     • Marcadores fidedignos de gravedad.     • Estudios de validación de herramientas diagnósticas que se ajusten a la incidencia local de la DACD.     • Estudios de terapia que consideren la realidad económica de nuestro país.
+
+Sin embargo, esta exhaustiva revisión nos permite establecer el estado de manejo actual de la DACD y así progresar en el cuidado de nuestros pacientes y mejorar los estándares de prevención hospitalaria.
+
+Nuestro análisis basado en la evidencia tiene la fortaleza además de utilizar el método Delfi para lograr un consenso entre expertos, permitiendo alcanzar acuerdo en tópicos con insuficiente evidencia que avale la intervención médica evaluada.
+
+Las principales recomendaciones de nuestro consenso coinciden en gran parte con las declaraciones de otros consensos internacionales13-15.
+
+En el área de prevención se destaca la necesidad de restringir el uso de IBP sobre todo en pacientes hospitalizados que utilizan antimicrobianos, los que presentan un riesgo incrementado de desarrollar DACD con el uso concomitante de estos fármacos.
+
+En este sentido, otra medida de prevención de suma importancia no abarcada en este consenso, es el uso racional de antimicrobianos ya que estos son el principal factor de riesgo modificable para el desarrollo de DACD. Acortar el tiempo de duración y el número de antimicrobianos utilizados son medidas que también ayudan en el control de la DACD156.
+
+La mayoría de las guías clínicas no recomiendan el uso de probióticos para la prevención de la DACD; sin embargo, nuestra revisión muestra que estos fármacos son útiles en la prevención primaria de DACD en usuarios de antimicrobianos por corto plazo. Aún así, se destaca que en pacientes sobre 65 años de edad y en prevención secundaria (es decir para prevenir la recurrencia) no hay un efecto claro de estos fármacos. Por lo tanto, en estos pacientes al igual que en aquellos inmunocomprometidos o gravemente debilitados, en quienes existe riesgo de bacteriemia o fungemia, el uso de probióticos no es recomendable.
+
+Con respecto a las medidas de prevención intrahospi-talarias como son la capacitación del personal de salud, el aislamiento de contacto o en cohortes de pacientes con DACD y el aseo de las salas expuestas a C. difficile con productos de limpieza en base a cloro o peróxido de hidrógeno, si bien la evidencia no es categórica, es racional su implementación para reducir las tasas de DACD y otras IAAS.
+
+Cabe destacar que el aislamiento de contacto incluye medidas como el lavado de manos con agua y jabón, uso de pechera y guantes desechables, medidas que se incluyen en la mayoría de los trabajos revisados.
+
+Con respecto al diagnóstico de DACD, las técnicas basadas en amplificación de ácidos nucleicos, principalmente en base a RPC, son las técnicas de elección, dada su alta sensibilidad y exactitud. Sin embargo, no se debe olvidar que deben ser aplicadas en pacientes con cuadro clínico compatible para evitar falsos positivos o la detección de portadores de C. difficile. Esta recomendación es concordante con guías clínicas internacionales más recientes15. En caso de no contar con estas técnicas el uso de algoritmos basados en EIA para GDH son una alternativa.
+
+Finalmente, con respecto al manejo de pacientes con un primer episodio de DACD el tratamiento debe ser basado en la clasificación del paciente según gravedad. Para esta clasificación nos basamos en los principales factores pronósticos de evolución desfavorable y falla en la respuesta al tratamiento. Si bien, estos criterios varían en las diferentes guías, nuestra propuesta incluye un espectro más amplio de criterios para evitar el sub-tratamiento de pacientes potencialmente graves. Los criterios propuestos por nuestro consenso son resumidos en la Tabla 4.
+
+Para el manejo del primer episodio de DACD, basados en nuestra revisión proponemos un algoritmo de manej o el cual se detalla en la Figura 1. Nuestra propuesta coincide con las guías clínicas más recientes.
+
+ 
+
+
+
+Figura 1. Algoritmo de manejo del primer episodio de diarrea asociada a Clostridium difficile (DACD).
+
+ 
+
+En cuanto a la recurrencia, al igual que en otras revisiones, recomendamos que la primera recurrencia sea manejada igual que el primer episodio basado en la gravedad del paciente. La segunda recurrencia debe ser manejada con vancomicina en dosis decreciente y en pulso, como se muestra en la Tabla 6. En la tercera y posteriores recurrencias, el TMF ha mostrado ser una opción segura y efectiva. La principal limitante para la aplicación de esta terapia es la reticencia en su uso por parte de médicos y pacientes dadas las características del tratamiento y la obtención de un donante. Sin embargo, el mayor conocimiento de esta terapia, así como la creación de bancos de deposiciones, podrían sobrepasar estas limitantes.
+
+El uso de rifaximina, luego de un curso de vancomicina, podría ser una alternativa en la tercera recurrencia. El manejo de la DACD recurrente se resume en la Tabla 5.
+
+En conclusión, presentamos el primer consenso chileno en el manejo de la DACD que abarca aspectos de prevención, diagnóstico y tratamiento. La difusión y aplicación de esta guía clínica debería impactar en un mejor manejo de los pacientes con DACD y fomentar la investigación en esta importante y costosa enfermedad.
+
+Notas
+
+* Recomendación basada en evidencia de baja calidad (sólo reporte de casos). A pesar de esto, la recomendación es fuerte por que las implicancias para los pacientes son graves, por lo que la relación riesgo/beneficio/costo no es satisfactoria.
+
+** Recomendación basada en evidencia de baja calidad, sólo estudios observacionales. A pesar de esto, la recomendación es fuerte porque la relación riesgo/beneficio/costo es muy satisfactoria.
+
+*** Recomendación basada en evidencia de baja calidad, sólo estudios observacionales. A pesar de esto, la recomendación es fuerte porque la evidencia es consistente y la relación riesgo/beneficio/costo es muy satisfactoria. 
+
+**** Recomendación basada en evidencia de moderada calidad (estudios observacionales con resultados consistentes y al menos uno de ellos con gran magnitud de efecto, reducción de riesgo de contagio cercana a 50%). A pesar de esto, la recomendación es débil porque existen múltiples alternativas disponibles y la alternativa propuesta como primera opción depende de los recursos disponibles.
+
+ ***** Recomendación basada en estudios diagnósticos que no comparan directamente este examen con exámenes de amplificación génica, pero con resultados consistentes (usando como estándar de oro el cultivo) y precisos. La recomendación es débil en contra porque este examen podría ser utilizado en un algoritmo diagnóstico.

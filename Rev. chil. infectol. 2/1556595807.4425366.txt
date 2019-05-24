@@ -1,0 +1,122 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000500006
+Relación clonal y detección del gen blaKPC en cepas de Klebsiella pneumoniae resistentes a carbapenémicos, en un hospital de Venezuela
+
+Resumen
+
+Con el objetivo de estudiar la relación clonal y detección del gen blaKPC en aislados clínicos de Klebsiella pneumoniae resistentes a carbapenémicos, se analizaron 22 cepas clínicas de K. pneumoniae con resistencia a imipenem y/o meropenem, aisladas en el laboratorio de bacteriología del Hospital Universitario "Antonio patricio de Alcalá" (HUAPA) de la ciudad de cumaná, Estado Sucre, Venezuela, durante un período de cinco años continuos. Se determinó la susceptibilidad a diversos antimicrobianos, y se detectó la presencia de carbapenemasas por los métodos de Hodge modificado, sinergia con ácido fenil borónico y combinación de discos. La detección del gen blaKPC se llevó a cabo mediante la técnica de reacción de polimerasa en cadena y la determinación de la relación clonal se realizó por electroforesis de campo pulsado. Se encontraron elevados porcentajes de resistencia antimicrobiana, cinco cepas resultaron negativas, al menos, a un método fenotípico y todas portaban el gen blaKPC. Se observó diseminación de clones únicamente en la Unidad de cuidados Intensivos (UCI), mientras que, en otros servicios, se halló policlonalidad. Se concluye que el gen blaKPC se encuentra presente en cepas de K. pneumoniae resistentes a carbapenémicos aisladas en el HUAPA y que hubo diseminación clonal sólo en UCI.
+
+Palabras clave: Klebsiella pneumoniae, KPC, electroforesis de campo pulsado.
+
+ 
+
+Introducción
+
+El empleo frecuente de carbapenémicos en las últimas dos décadas, sumado a la transmisibilidad de determinantes de resistencia mediada por elementos genéticos móviles como plásmidos o transposones, ha contribuido con la emergencia de enterobacterias resistentes a carbapenémicos. Actualmente estas bacterias se consideran un problema de salud pública mundial1,2.
+
+La resistencia a carbapenémicos puede ocurrir cuando un aislado produce una β-lactamasa tipo AmpC o una β-lactamasa de espectro extendido (BLEE), en combinación con pérdida de porinas; sin embargo, la producción de enzimas hidrolizantes de carbapenémicos (carbapenemasas) es el principal mecanismo de resistencia13. En los últimos años, ha venido incrementándose en el mundo el reporte de enterobacterias productoras de carbapenemasas, principalmente Klebsiella pneumoniae4,5.
+
+Las carbapenemasas clase A, grupo 2f, de acuerdo a la clasificación funcional6, son enzimas monoméricas que se denominan serino-carbapenemasas debido a que poseen un residuo de serina en su sitio activo. Estas enzimas son capaces de hidrolizar penicilinas, cefalosporinas, carbapenémicos y monobactámicos, y la inhibición con ácido clavulánico, tazobactam o sulbactam es variable. Dentro de las serino-carbapenemasas, las KPC, del inglés "Klebsiella pneumoniae carbapenemase" son las más frecuentemente encontradas en todo el mundo y se han aislado principalmente en K. pneumoniae1. La primera cepa de K. pneumoniae productora de KPC fue aislada en 1996 en Carolina del Norte, E.U.A.8, posteriormente, se han reportado en otros países como china9, Francia10 y colombia11, entre otros. Las serino-carbapenemasas KPC están codificadas por el gen plasmídico blaKPC. Este gen está localizado principalmente en el elemento transponible Tn4401, que facilita la transferencia entre plásmidos de bacterias de la misma o diferente especie4,10,12; actualmente existen reportes de este gen en otras localizaciones13,14. En Latinoamérica el primer reporte de K. pneumoniae con el gen blaKPC fue en colombia en el año 200611. En Venezuela, el gen se encontró por primera vez en caracas, en cepas de K. pneumoniae y Enterobacter cloacae aisladas durante los años 2009 y 201015. En Cumaná, la primera KPC informada, se encontró en una cepa de K. pneumoniae aislada en 2009 en una paciente internada en la Unidad de cuidados Intensivos del Hospital Universitario "Antonio patricio de Alcalá" (HUAPA)16.
+
+En las instituciones de salud donde han sido reportados brotes de K. pneumoniae productoras de KPC, se ha encontrado, generalmente, la diseminación de un único clon; es por ello que además de la detección del gen, es necesaria la realización de estudios de tipificación molecular, utilizando técnicas como la electroforesis en campo pulsado (ECT), técnica estándar de referencia para la tipificación molecular de la mayoría de las bacterias de importancia clínica, por su elevado poder de discriminación y excelente reproducibilidad3,11,18.
+
+Aunado a su capacidad de causar brotes, las bacterias productoras de carbapenemasa KPC han sido asociadas con alto porcentaje de falla terapéutica y tasas de mortalidad de hasta 50%, principalmente en pacientes inmunocomprometidos y hospitalizados por largos períodos en unidades de cuidados intensivos1,1. Por todas las razones antes descritas, se realizó esta investigación con el objetivo de evaluar la relación clonal, a través del método de ECP, y la presencia del gen blaKPC en aislados clínicos de K. pneumoniae resistentes a carbapenémicos, en el HUAPA, Cumaná, Estado Sucre, Venezuela.
+
+Material y Método
+
+Cepas bacterianas
+
+para la presente investigación se incluyeron 22 cepas no duplicadas de K. pneumoniae con resistencia o resistencia intermedia a imipenem y/o meropenem, aisladas a partir de diferentes muestras clínicas recibidas para cultivos, en el laboratorio de bacteriología del HUAPA, durante un período de cinco años continuos, comprendido entre junio de 2009 y junio de 2014. Las cepas fueron conservadas por el personal del mencionado laboratorio, en tubos con agar Luria Bertani a temperatura ambiente y fueron referidas al Laboratorio de Genética Molecular del Instituto de Biomedicina y Ciencias Aplicadas Dra. "Susan Tai", a fin de realizar investigación molecular de resistencia a carbapenémicos.
+
+Determinación de la susceptibilidad antimicrobiana
+
+Se determinó la susceptibilidad a los antimicrobianos de acuerdo al método de difusión con discos, siguiendo los lineamientos establecidos por el Instituto de Estándares de Laboratorios clínicos (QLSI)19. Los discos de antimicrobianos ensayados fueron: amoxicilina/ácido clavulánico (20/10 μg), ceftriaxona (30 μg), ceftazidima (30 μg), imipenem (10 μg), meropenem (10 μg), ertapenem (10 μg), piperacilina/tazobactam (100/10 μg), cefepima (30 μg), ampicilina/sulbactam (10/10 μg), cefoxitina (30 μg), de la marca comercial OXOID, y aztreonam (30 μg), ampicilina (10 μg), gentamicina (10 μg), amikacina (30 μg), ciprofloxacina (5 μg) y ácido nalidíxico (30 μg) de la marca comercial BBL. De igual manera, se llevó a cabo el procedimiento de dilución en agar descrito en el documento M01-A10 del CLSI20, para determinar la concentración inhibitoria mínima a imipenem (Merck Sharp & Dohme), meropenem (Astrazeneca S.A.) y ertapenem (Merck Sharp & Dohme).
+
+Detección de carbapenemasas por métodos fenotípicos
+
+Se realizó mediante los métodos de Hodge modificado19, sinergia con ácido fenil borónico (AFB)21 y combinación de discos22.
+
+Detección del gen blaKPC mediante reacción de polimerasa en cadena (RPC)
+
+La extracción de ADN genómico se llevó a cabo mediante el kit de purificación Wizard Genomic DNA, de Promega, siguiendo las especificaciones del fabricante. Para llevar a cabo la RPC, se preparó una mezcla de reacción con 3 μl de tampón de RPC 5X, 0,9 μl de MgCl2, 1,5 μl de cada desoxirribonucleótido trifosfato, 0,15 μl de cada uno de los oligonucleótidos KPC-F 5'-CGTCTAGTTCTGCTGTCTTG-3' y KPC-R 5'-CTTGTCATCCTTGTTAGGCG-3', que permiten amplificar un producto de 798 pb, 0,12 μl de Taq polimerasa (PROMEGA), 1 μl de ADN genómico bacteriano y 8,18 μl de agua destilada estéril libre de nucleasas, para un volumen final de 15 μl La desnaturalización inicial se llevó a cabo a 94 °c por 4 min, con 36 ciclos repetidos de desnaturalización a 94 °c por 30 seg, hibridación a 66 °C por 40 seg y extensión a 72 °C por 50 seg, con un ciclo de extensión final a 72 °C por 10 min, utilizando un termociclador Master cycler23. Los productos de amplificación se sometieron a electroforesis en gel de agarosa al 2%, luego se colorearon con bromuro de etidio (0,5 μg.ml-1) en tampón TBE 1X, durante 30 min a 10 V.cm-1. Para estimar el tamaño de los fragmentos de ADN resultantes, se utilizó un marcador de peso molecular con bandas de concentración definidas (INVITROGEN), finalmente fueron observados por transiluminación con luz ultravioleta y fotografiados.
+
+Determinación de la relación clonal mediante electroforesis en campo pulsado (ECP)
+
+Se llevó a cabo en 22 cepas, utilizando el equipo Guefast-06 (NEURONIC S.A.) y siguiendo el protocolo para K. pneumoniae descrito por Garrido24 con modificaciones.
+
+Preparación del ADN inmovilizado
+
+Las cepas de K. pneumoniae se subcultivaron en agar Mueller Hinton (BBL) durante toda la noche. Luego se colectaron en 5 ml de una solución fría de NaCl al 0,5% y EDTA al 0,01 M pH 8 (solución de lavado) y se procedió a ajustar cada inóculo a una densidad óptica entre 0,3 y 0,8 a una longitud de onda de 620 nm utilizando un turbidímetro (Smart2-La Motte), de tal manera que la concentración final de células bacterianas fuera de 2,0 x 109 céls/ml-1, aproximadamente. Seguidamente, se centrifugó a 2.000 g por 10 min, se descartó el sobrenadante y el sedimento se re-suspendió en 1 ml de solución de lavado, se centrifugó nuevamente a las mismas condiciones anteriores y se descartó el sobrenadante; luego, el sedimento fue sometido a un calentamiento a 80 °c por 5 min y se mezcló rápidamente con 190 μl de agarosa de bajo punto de fusión (Sigma) al 1%, fundida y estabilizada a 50 °C. Utilizando el molde para la fabricación de mini bloques, se prepararon minibloques de 3 x 3 x 0,7 mm.
+
+Lisis y desproteinización
+
+posteriormente, las células bacterianas inmovilizadas en los mini-bloques, se sometieron a un proceso de lisis y desproteinización, colocándolas en 1 ml de solución que contenía Tris al 0,01 M; EDTA al 0,1 M; sarcosyl al 1%; nonidet P40 al 1% y urea al 4M pH 9,5. Se incubaron por 2 h a 45 °C, luego se eliminó esta solución y se lavaron los mini-bloques dos veces con 2 ml de agua destilada estéril atemperada a 45 °C y cuatro veces con 3 ml de una solución de Tris-HCL al 0,01 M; EDTA al 0,1 M pH 8,0, también atemperada a 45 °C. Posteriormente, los mini-bloques se conservaron en 3 ml de solución Tris-HCL al 0,01 M; EDTA al 0,1 M pH 8,0 y se mantuvieron a 4 °C hasta el momento de la digestión.
+
+Digestión del ADN inmovilizado con enzimas de restricción
+
+Un mini-bloque de cada aislado en estudio se colocó, cuidadosamente, en un tubo de microcentrífuga y se incubó a temperatura ambiente por 10 min con 1 ml de solución Tris-HCL 0,01 M y EDTA 0,05 M pH 8,0 repitiendo dos veces este paso. Luego, se retiró la solución y se añadió 100 μl de tampón de digestión enzimático SH 1X, proporcionado por el fabricante (Sigma), para incubar a temperatura ambiente por 10 min. Posteriormente, se retiró el tampón y se añadió 100 μl de tampón de digestión enzimático SH 1X que contenía 1,5 μl de la enzima de restricción XbaI (Sigma) que reconoce la secuencia 5'T/CTAGA3'. La mezcla se incubó durante 2 h a 37 °C en baño termoregulado. La reacción se detuvo reemplazando el tampón de digestión enzimático por 500 μl de Tris-HCL al 0,01 M; EDTA al 0,1 M pH 8,0 y se guardó en refrigeración hasta el día siguiente para la realización de la ECP.
+
+Separación de los fragmentos de restricción del ADN
+
+La Ecp se realizó en la cámara miniCHEF del equipo Guefast-06 (NEURONIC, S.A). Los fragmentos de ADN se separaron en un campo eléctrico de 10 V.cm-1 durante 5 h, 30 min, en un gel de agarosa al 1,5% de 7 x 5 x 0,5 cm sumergido en tampón de electroforesis TBE 0,5X, a una temperatura de 20 °C. Se utilizó un marcador de peso molecular ADN lambda (Sigma), con bandas de 50-1.000 kb. Posteriormente, el gel se coloreó con bromuro de etidio 0,5 μg.ml-1 (Sigma) durante 30 min, se visualizó en un transiluminador UV y se fotografió.
+
+Control de calidad
+
+para el control de calidad de los carbapenémicos se utilizó una cepa certificada de Pseudomonas aeruginosa ATCC® 21853 y para el resto de los discos de antimicrobianos se empleó Escherichia coli ATCC® 25922. como control positivo de KPC se utilizó la cepa de K. pneumoniae 4238-09 HUAPA, confirmada molecularmente como portadora del gen blaKPC en el laboratorio de caracterización de mecanismos de resistencia bacteriana de la Escuela de Bioanálisis de la Universidad Central de Venezuela, Caracas.
+
+Análisis de datos
+
+Los resultados de susceptibilidad antimicrobiana, detección de carbapenemasas y del gen blaKPC, se expresaron de manera descriptiva a través de tablas y figuras25. El análisis de los perfiles obtenidos por ECP y la construcción del dendrograma fue realizado mediante análisis computarizado, utilizando el software GuefastScan® (NEURONIC S.A.), acorde con el coeficiente de similitud de Dice y el algoritmo UPGMA (Unweighted pair group method with arithmetic averages). La interpretación se realizó basándose en los criterios establecidos por Tenover y cols.11, por lo que aquellas cepas con porcentaje de similitud igual o mayor a 80% se consideraron clones relacionados genéticamente.
+
+Resultados
+
+Las cepas presentaron 59,1% de resistencia y 32,0% de resistencia intermedia a imipenem. Con respecto a meropenem, se obtuvo 81,8% de resistencia y 14,0% de resistencia intermedia y ninguna de las cepas fue sensible a ertapenem. Además de los carbapenémicos, las cepas también presentaron resistencia al resto de los β-lactámicos, principalmente a ceftriaxona (100%) y aztreonam (91,0%). Con respecto a los antimicrobianos no β-lactámicos ensayados, los microorganismos presentaron 81,8% de resistencia a ciprofloxacina mientras que, la más baja resistencia en las cepas se obtuvo para gentamicina (50,0%) y amikacina (36,4%) (Figura 1).
+
+ 
+
+
+
+Figura 1. Susceptibilidad antimicrobiana de cepas de K. pneumoniae resistentes a carbapenémicos.          Hospital Universitario "Antonio Patricio de Alcalá". Cumaná, Estado Sucre, Venezuela. R: resistente,          I: resistencia intermedia, S: sensible. AMC: amoxicilina/ácido clavulánico, CAZ: ceftazidima, CRO:          ceftriaxona, IPM: imipenem, MER: meropenem, ETP: ertapenem, TZP: piperacilina/tazobactam, FOX:          cefoxitina, ATM: aztreonam, SAM: ampicilina/sulbactam FEP: cefepime, AM*: ampicilina (marcador de          resistencia natural en K. pneumoniae), AK: amikacina, GM: gentamicina, NA: ácido nalidíxico,          CIP: ciprofloxacina.
+
+ 
+
+La determinación de la CIM a carbapenémicos reveló la existencia de dos cepas (Kp10 y Kp19) sensibles a ertapenem y meropenem, no así a imipenem, para el cual, todas las cepas fueron resistentes, obteniendo la OM más elevada (128 μg/ml) (Tabla 1). En la detección fenotípica de carbapenemasas, 20/22 cepas resultaron positivas al método de Hodge modificado, 19/22 al método de sinergia con ácido fenil borónico y 18/22 al método de combinación de discos, destacándose que, por este último método, se detectó una cepa con fenotipo de metalo-β-lactamasa (Kp14). Una cepa (Kp20) mostró negatividad a los tres métodos ensayados. Por otra parte, en la totalidad de las cepas se detectó el gen blaKPC (Tabla 2).
+
+ 
+
+Tabla 1. Concentraciones inhibitorias mínimas de          imipenem, meropenem y ertapenem en cepas de     K. pneumoniae resistentes a carbapenémicos.          Hospital Universitario "Antonio Patricio de Alcalá".          Cumaná, Estado Sucre, Venezuela
+
+
+
+ 
+
+Tabla 2. Detección de carbapenemasas por métodos          fenotípicos y del gen blaKPC por reacción de polimerasa          en cadena, en cepas de K pneumoniae resistentes a          carbapenémicos. Hospital Universitario "Antonio          Patricio de Alcalá". Cumaná, Estado Sucre, Venezuela
+
+
+
+ 
+
+El análisis de los patrones de bandas obtenidos por restricción del ADN genómico con XbaI y posterior electroforesis de campo pulsado, permitió obtener 18 pulsotipos designados con letras de la A a la R. El pulsotipo A estaba conformado por las tres cepas aisladas en 2009 (Kp1, Kp2, Kp3) en UCI pediátrica con 93% de similitud. En ese pulsotipo las cepas Kp1 y Kp2 mostraron 95% de similitud entre ellas. Por otra parte, las cepas Kp11 y Kp12 aisladas en UO adultos en 2013, conformaban el pulsotipo K con 88% de similitud, mientras que, Kp15 y Kp16 pertenecían al pulsotipo N (aisladas en UCI de adultos el 17 de junio de 2013) y presentaban 94% de similitud. Los 15 pulsotipos restantes, mostraron < 80% de similitud (con un máximo de 59%) y estaban conformados por una cepa por pulsotipo y provenían de diversos servicios del HUAPA (Figura 2).
+
+ 
+
+
+
+Figura 2. Dendrograma basado en la similitud de los patrones de bandas          obtenidos por electroforesis de campo pulsado y datos epidemiológicos          correspondientes a cepas de K. pneumoniae resistentes a carbapenémicos.          Hospital Universitario "Antonio Patricio de Alcalá". Cumaná, Estado Sucre,          Venezuela. UCI-P: Unidad de Cuidados Intensivos Pediátrica, UCI-A      Unidad          de Cuidados Intensivos Adultos, Reum: Servicio de Reumatología, Neonat:          Servicio de Neonatología, Sec H: secreción de herida, Liq Per: líquido          peritoneal, Sec B: secreción bronquial.
+
+ 
+
+Discusión
+
+El aislamiento de bacterias productoras de Kpc es considerado un importante problema de salud pública debido a su capacidad de diseminación y elevada mortalidad asociada12. En el presente estudio se observó que la resistencia de las cepas estudiadas no se limitó a carbapenémicos y otros β-lactámicos, sino también a otras familias de antimicrobianos como quinolonas y aminoglucósidos, situación que puede deberse a que estas cepas con frecuencia portan múltiples genes de resistencia plasmídicos de manera simultánea16,26. Por otro lado, se encontró que dos cepas de K. pneumoniae con carbapenemasa KPC, mostraron CIM de ertapenem y meropenem dentro de la categoría sensible. En la actualidad existen otros reportes similares al presente estudio, donde se han aislado cepas de K. pneumoniae con valores sensibles de cIM para carbapenémicos que posteriormente se han caracterizado como productoras de carbapenemasa KPC2,5. A pesar de que todas las cepas resultaron portadoras del gen blaKPC, cinco mostraron resultados negativos en, al menos, uno de los ensayos fenotípicos empleados. Este hecho puede explicarse a la menor sensibilidad y especificidad de los métodos fenotípicos en comparación con los moleculares; sin embargo, también puede deberse a la presencia de un bajo número de copias del gen o a la represión genética del mismo21, lo cual se manifiesta en una baja o nula producción de la enzima, respectivamente, incapaz de ser detectada con los métodos fenotípicos ensayados en esta investigación. Otro método fenotípico recomendado actualmente por el CLSI para detectar carbapenemasas, es el carba NP que no pudo ser realizado en el presente estudio. No obstante, otros investigadores han empleado este método junto al ensayo de combinación de discos para la detección de carbapenemasas en cepas de E. coli y K. pneumoniae, encontrando que estos dos métodos fenotípicos rápidos detectaron todas las cepas portadoras de genes de carbapenemasas que se identificaron por KPC28.
+
+Se destaca el hallazgo, a través del método de combinación de discos, de una cepa con metalo-β-lactamasa; estas enzimas también confieren resistencia a carbapenémicos y otros β-lactámicos exceptuando aztreonam4. En este sentido, se ha reportado que la co-presencia de serino-carbapenemasas y metalo-β-lactamasas, interfiere con la detección fenotípica de KPC. En una investigación29, se encontró que el ensayo con AFB era inefectivo en cepas de K. pneumoniae con co-producción del gen blaKPC y blaVIM atribuyendo este falso negativo con AFB, al efecto enmascarante de la metalo-β-lactamasa tipo VIM. Esto podría explicar la negatividad obtenida con AFB para la cepa con fenotipo de metalo-β-lactamasa hallada en la presente investigación; sin embargo, se tendrían que realizar pruebas moleculares para detectar el gen blaVIM en esa cepa. Se destaca, que la combinación de métodos fenotípicos aumenta la probabilidad de detección de la enzima KPC.
+
+De acuerdo a los resultados obtenidos por ECP, las tres cepas de K. pneumoniae aisladas en el año 2009 presentaron un patrón de bandas similar que las permitió agrupar en un pulsotipo con > 80% de similitud (93% específicamente) por lo que se definen como clones estrechamente relacionados, tanto a nivel genético como epidemiológico debido a que provenían de pacientes recluidos en la UCI pediátrica (área común del hospital) durante los meses de junio-julio (período corto); además, no se habían reportado aislados previos de K. pneumoniae con carbapenemasa KPC en ese servicio del HUAPA. Los aislados estrechamente relacionados se consideran probablemente como parte de un brote17, por lo que se puede afirmar que en 2009 ocurrió un brote de K. pneumoniae KPC, durante los meses de junio-julio en la UCI pediátrica del HUAPA. Otros eventos de diseminación clonal ocurrieron en 2013 en UCI adultos, pero sin relación con el brote de 2009. La detección de diseminación de clones en un mismo servicio indica fallas en las medidas de control de infecciones como el lavado de manos cuyo riesgo es la diseminación de cepas al momento de la manipulación de los pacientes.
+
+por otra parte, el resto de cepas aisladas entre 2011 y 2014 mostró una notable policlonalidad debido a que presentaron diversidad de patrones de bandas que permitió categorizarlos como genéticamente no relacionados (< 80% de similitud). Estas 15 cepas fueron aisladas entre 2011 y 2014 en distintos servicios del HUAPA y a partir de diversas muestras. El hallazgo concuerda con lo señalado por Tenover y cols. 11, quienes refieren que estas variaciones se observan entre aislados recolectados en períodos largos de seis meses o más. Este resultado es similar al obtenido en otra investigación realizada en Venezuela, donde se reportó un predominio de policlonalidad en cepas de K. pneumoniae productoras de β-lactamasas de espectro extendido30. La policlonalidad obtenida entre 2011 y 2014 puede deberse a la aparición de nuevos clones o a la adición sucesiva de eventos genéticos como la transferencia horizontal de genes mediante plásmidos y/o transposones o mutaciones puntuales, producto de la presión selectiva generada por el uso indiscriminado de antimicrobianos en los diferentes servicios del HUAPA, favorecido por la presencia en estas cepas del gen plasmídico blaKPC que, como se ha señalado, se encuentra frecuentemente en un transposón10,13,14.
+
+En conclusión, el análisis de la epidemiología molecular de K. pneumoniae KPC en el HUAPA durante el período 2009-2014, permitió identificar dos comportamientos: uno de diseminación clonal en UCI en 2009 y 2013, sin relación entre sí, y otro de elevada policlonalidad en el resto de las cepas, posiblemente por la aparición de nuevos clones o la transferencia horizontal de genes y/o la presencia de mutaciones, producto de la presión selectiva antimicrobiana existente en ese centro de salud.
+
+El presente estudio permitió resaltar la importancia de conocer las características fenotípicas y moleculares de las cepas de K. pneumoniae resistentes a carbapenémicos aisladas en el HUAPA. Para investigaciones posteriores, se sugiere realizar tipificación por secuenciación de locus múltiples (en inglés MLST) a fin de determinar el tipo clonal al cual pertenecen las cepas, siendo esta información de importante valor epidemiológico. Es mediante el conocimiento de la epidemiología local que se pueden establecer medidas que conduzcan al control y prevención de la diseminación de cepas multi-drogo-resistentes como el correcto lavado de manos, aislamiento del paciente, uso racional de antimicrobianos, por ejemplo mediante el uso terapias rotativas, entre otras medidas, que deben ser aplicadas estrictamente y con urgencia en el HUAPA a fin de disminuir la morbilidad y mortalidad por estos patógenos.
+
+Agradecimientos. A Luis Torres por suministrar la cepa utilizada como control positivo de KPC y a Esperanza Niubo Crespo de la empresa NEURONIC S.A por sus recomendaciones para llevar a cabo el procedimiento de electroforesis de campo pulsado en estas cepas.

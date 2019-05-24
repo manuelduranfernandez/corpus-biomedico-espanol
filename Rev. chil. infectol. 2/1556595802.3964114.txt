@@ -1,0 +1,126 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000300001
+Evaluación farmacocinética/farmacodinámica (PK/PD) de un esquema de administración oral de metronidazol en intervalo ampliado para el manejo de infecciones producidas por Bacteroides fragilis
+
+Resumen
+
+Introducción: Metronidazol    es el antimicrobiano de elección para el manejo de infecciones anaeróbicas.    Su administración requiere de dosis múltiples provocando aumento    en errores medicamentosos. Debido al efecto post-antibiótico y a    la actividad bactericida concentración-dependiente, la administración    de metronidazol en intervalos ampliados de administración permitiría    alcanzar parámetros PK/PD efectivos. Objetivo: Evaluar la probabilidad    de alcanzar una relación PK/PD efectiva con la administración    de 1.000 mg cada 24 h de metronidazol para infecciones por Bacteroides fragilis.    Método: Se realizó un ensayo clínico sobre un grupo    de voluntarios a quienes se les administró una monodosis oral de 500    y 1.000 mg de metronidazol, respectivamente. Se establecieron parámetros    farmacocinéticos empleando el método trapezoidal. Se realizó    una simulación de Markov que permitiera establecer la probabilidad de    alcanzar una relación AUC0-24 h/CIM > 70 en infecciones    por B. fragilis. Resultados: Se determinaron los valores de Cmax    (24,03 ± 6,89 mg/L), tmax (1,20± 0,8h) y AUC0-24    h (241,91 ± 48,14 mg*h/L),    con lo cual la probabilidad de alcanzar una relación AUC0-24 h/CIM > 70 con 1.000 mg de metronidazol fue superior a 99%. Conclusión:    Con la administración de 1.000 mg cada 24 h sería posible alcanzar    una relación PK/PD efectiva para el tratamiento de infecciones anaeróbicas.
+
+Palabras clave: Metronidazol,    PK/PD, Bacteroides fragilis, Markov, AUC/CIM.
+
+ 
+
+Introducción
+
+Las infecciones anaeróbicas    son una causa común de cuadros potencialmente peligrosos con una elevada    tasa de mortalidad. Éstos van desde infecciones periodontales hasta neumonías,    bacteriemias y abscesos potencialmente mortales. Se estima que alrededor de    5% de los cuadros de bacteriemias en adultos son provocadas por bacterias anaerobias,    especialmente por especies de los géneros Clostridium, Fusobacterium,    Peptostreptococcus y principalmente por cepas de Bacteroides fragilis,    las que provienen de infecciones intra-abdominales, pélvicas, de    piel y tejidos blandos1-3.
+
+Por su parte, metronidazol es    el antimicrobiano de elección para el manejo de infecciones sistémicas    producidas por B. fragilis4. Este antimicrobiano exhibe    un efecto bactericida rápido dependiente de la concentración además    de un prolongado efecto post antibiótico (EPA) sobre bacterias anaeróbicas    sensibles, el que puede ser superior a    tres horas5. Adicionalmente, este efecto se puede prolongar al mantenerse    una concentración del antimicrobiano bajo la concentración inhibitoria    mínima (CIM) del microorganismo6. Este efecto de supresión    persistente del crecimiento microbiano ha sido explicado por diversos fenómenos,    pudiendo mencionarse, por ejemplo, el desarrollo de ciertos cambios morfológicos    que se producen en los microorganismo, el efecto post-CIM y efecto post-antibiótico    estimulador de leucocitos (EPAEL) que para metronidazol, es equivalente a la    concentración encontrada en fluidos extracelulares5. Adicionalmente,    y desde el punto de vista farmacodinámico (PD), el parámetro farmacocinético/farmacodinámico    (PK/PD) que mejor describe la eficacia de la actividad bactericida de metronidazol    es la relación entre área bajo la curva (AUC0-24 h) y la CIM del microorganismo7.
+
+En la actualidad, para el manejo    de las infecciones anaerobias, se requiere de la administración habitual    de dosis bajas de metronidazol, con elevada frecuencia. Esta situación    genera numerosos problemas, ya que al incrementar el número de administraciones    diarias se favorece la falta de adherencia al tratamiento, el incremento en    la probabilidad que ocurran errores de administración y por tanto, un    aumento en la incidencia de efectos adversos in-deseados. De tal forma que,    considerando las propiedades PD, el EPA junto a la actividad bactericida dependiente    de la concentración señala que la dosificación óptima    de este antimicrobiano en infecciones anaeróbicas correspondería    a aquella en la cual se administren dosis más elevadas, con menor frecuencia.    En este trabajo, se determinó la probabilidad aleatoria de alcanzar una    relación PK/PD terapéuticamente efectiva con la administración    diaria de metronidazol oral en una dosis de 1.000 mg cada 24 h.
+
+Métodos
+
+Diseño del estudio
+
+Se realizó un ensayo clínico    controlado, cruzado, aleatorio simple, sobre un grupo de 14 voluntarios adultos    sanos que cumplieran con los requisitos de inclusión. Cada uno de ellos    recibió la administración oral de una única dosis de metronidazol    de 500 mg ó 1.000 mg. Los voluntarios fueron enrolados e invitados a    participar de este estudio por medio de la entrega del correspondiente consentimiento    informado. Posteriormente, fueron divididos de forma aleatoria en dos grupos.    El grupo A recibió una única dosis de 500 mg mientras que el grupo    B recibió una dosis experimental de 1.000 mg. Una vez finalizada la etapa    de recolección de muestras y transcurridas 24 h desde la administración    del fármaco, se procedió a establecer un período mínimo    de 7 días de ventana, donde los voluntarios no utilizaron medicamento    alguno. Con posterioridad, se invirtió el orden del grupo de estudio    inicial y se procedió de la forma descrita anteriormente. Las dosis administradas    fueron realizadas en comprimidos de metronidazol (Metropast®,    Laboratorio Pasteur®) de 500 mg cada uno, pertenecientes al mismo    lote de producción.
+
+Aspectos éticos
+
+Se incluyó en este estudio    a voluntarios mayores de 18 años y menores a 60 años, de cualquier    género, y que tuvieran un índice de masa corporal (IMC) calculado    no superior a 28 kg/m2. Adicionalmente, se excluyó de este    estudio a todo voluntario portador de enfermedades crónicas descompensadas,    con antecedentes de falla renal aguda (Cl creatinina < 10 mL/min calculado    según Cockcroft-Gault), consumidor crónico de alcohol y/o    embarazo o sospecha de embarazo. Cada voluntario fue enrolado e invitado a participar    de este estudio por medio de la entrega del correspondiente consentimiento informado.    El protocolo de investigación fue aprobado por los    Comités de Ética de la Universidad de Concepción y del    Servicio de Salud de Concepción, Chile.
+
+Metodología analítica
+
+La determinación de las    concentraciones plasmáticas de metronidazol fue realizada empleando un    método analítico previamente validado, basado en cromatografía    líquida de alta resolución (HPLC) acoplado a detector de arreglo    de diodos (DAD). Se empleó como base el método propuesto por Do    Nascimento y cols.8 Se utilizó un cromatógrafo (Merck    Hitachi® modelo L-7100) acoplado a un detector DAD (Merck    Hitachi® modelo L-7200). Las separaciones analíticas    se realizaron con una columna C-18 de 250 por 4,6 mm (Kromasil®)    y una fase móvil compuesta por tampón fosfato (0,01M; pH 4,7)/Acetonitrilo    (Merck LiChrosolv®) en proporción 80/20 v/v. Para la validación    del método se empleó un estándar grado HPLC de metronidazol    (Sigma-Aldrich FlukaVetranal®). Se obtuvieron muestras de    sangre total de voluntarios sanos que habían recibido una dosis de metronidazol.    Las muestras fueron obtenidas utilizando tubos con heparina de litio (Vacutainer    DB®) de 2 mL, los que fueron centrifugadas (3500 rpm) para obtener    plasma. Las proteínas fueron precipitadas con una solución de    HClO4 0,5M (Merck Suprarpur®) en proporción 1:1 y filtradas    por membrana de HAWP Millipore® (0,45μm). Se evaluó la linealidad    en un intervalo de concentración de 0,25 a 35 mg/mL para obtener un modelo    de respuesta lineal (r = 0,99973). Se calcularon además los límites    de detección (0,10 mg/L), límites de cuantificación (0,3    mg/ mL), precisión intermedia y repetitividad.
+
+Determinación de    parámetros farmacocinéticos
+
+Se realizó la toma de    muestras sanguíneas por punción venosa, recolectando las muestras    a intervalos de tiempo definidos: 0,3 - 0,5 - 1 - 1,3 - 2 -    3 - 6 - 8 - 12 - 18 y 24 h después de la administración    del fármaco. Todas estas muestras fueron procesadas y cuantificadas con    el método descrito anteriormente. Con estos datos, se construyeron los    perfiles farmacocinéticos individuales a partir de la construcción    de las curvas de concentración plasmática versus tiempo. A partir    de la observación directa de las curvas, se obtuvieron los valores de    Cmax, tmax    y C0-24 h. Adicionalmente, se estimó el valor    de AUC0-24 h por    medio del método trapezoidal y el AUC0-∞    a partir de la extrapolación de los perfiles farmacocinéticos,    desde tiempo cero al infinito, con la ayuda del software PK RStudio (GNU RStudio    Versión 3.0.1). Adicionalmente se calcularon los parámetros de    Cl y Vdss utilizando un modelo no compartimental.
+
+Se estableció la relación    existente entre el AUC0-24 h de la administración    de ambos esquemas y la CIM de Bacteroides fragilis según la relación    de la Figura 1. Los valores de susceptibilidad para B.    fragilis a metronidazol fueron
+
+ 
+
+
+
+Figura 1. Relación    PK/PD que        describe la efectividad de metronidazol.
+
+ 
+
+obtenidos desde lo publicado    por el European Committee on Antimicrobial Susceptibility Testing (EUCAST),    de tal forma que se consideró como cepas susceptibles a aquellas cepas    que tuvieran un valor de CIM ≥    2 mg/mL de metronidazol.9
+
+Análisis estadístico
+
+Todos los parámetros farmacocinéticos    fueron sometidos al análisis estadístico empleando para ello la    prueba t-student para muestras independientes, considerando aquellos    resultados estadísticamente significativos con un valor de p < 0,05.    Estos análisis fueron realizados con la ayuda del software estadístico    STATA Versión 11 (StataCorp®).
+
+Simulación de Montecarlo    vía cadena de Markov
+
+Con el propósito de establecer    la probabilidad de alcanzar la meta terapéutica de AUC0-24 h/CIM con ambos esquemas de administración, se realizó    una simulación de los datos experimentales empleando el método    de Montecarlo vía cadena de Markov (MCMC). Para ello, se consideró    el parámetro experimental medio de AUC0-24 h    para dos esquemas simulados de administración de 1.000 mg cada 24 h y    500 mg cada 8 h junto con su respectivo coeficiente de variación (CV).    Estos parámetros fueron simulados a partir de los datos experimentales,    considerando un comportamiento farmacocinético mono-compartimental    con absorción y eliminación de primer orden. Adicionalmente, se    consideró un valor de CIM de 2 mg/mL9 para B. fragilis.    De esta forma, y considerando la base de un mínimo de 2.000 réplicas    para cada uno de los parámetros, se estimó la probabilidad aleatoria    que la relación PK/PD alcance valores comprendidos entre 20 y 70.7,10,11.    Estos cálculos fueron realizados por medio del software de análisis    RStudio (GNU RStudio Versión 3.0.1).
+
+Resultados
+
+Se reclutó a un total    de 14 voluntarios quienes cumplieron con los criterios de inclusión y    exclusión. Destacó una proporción mayor de voluntarios    de sexo femenino (64%), con una distribución homogénea según    edad (voluntarios entre 23 y 27 años). Todos se encontraron en un rango    de peso (69,2 kg) y talla (1,70 m) normal lo cual    se reflejó en un valor medio de IMC de 24 ± 2,4 kg/ m2,    con diferencias significativas en estos parámetros para ambos sexos (Tabla    1).
+
+ 
+
+Tabla 1. Ensayo    farmacocinético de metronidazol. Características        antropométricas según    género
+
+
+
+ 
+
+Parámetros farmacocinéticos
+
+En la Tabla 2,    se observan los parámetros farmacocinéticos determinados para    cada esquema administrado. Es importante señalar que trascurridas 24    h desde la administración de una dosis de 500 mg de metronidazol vía    oral, las concentraciones plasmáticas mínimas (Cmin)    fueron indetectables por lo cual no fue posible establecer su valor. Sin embargo,    para la administración de una dosis de 1.000 mg de metronidazol, este    valor se situó en 2,5 ± 0,7 mg/mL. Respecto a la Cmax,    destacaron valores de 11,9 ± 1,7    mg/mL y 24,0 ± 6,9 mg/mL para la administración de una única    dosis de 500 mg y 1.000 mg, respectivamente. Ambas concentraciones fueron alcanzadas    a 1,00 ± 0,40 y 1,20 ± 0,80 h después de su administración,    respectivamente.
+
+ 
+
+Tabla 2. Parámetros    farmacocinéticos para la administración oral de        metronidazol en monodosis de 500 mg y 1.000 mg
+
+
+
+ 
+
+Al observar los valores del área    bajo la curva (AUC), es importante destacar la diferencia estadísticamente    significativa respecto a ambos esquemas de administración. Para el caso    del AUC0-24
+
+Determinación de    la relación PK/PD
+
+Como resultado de la simulación    de los parámetros en estado estacionario, se determinó que tras    la administración de un esquema habitual de metronidazol (500 mg cada    8 h), no se alcanzó la meta terapéutica establecida ya que la    relación AUC0-24 h/CIM fue de 54,3 ± 7,2. Por el    contrario, tras la administración de un esquema ampliado de dosificación    de 1.000 mg cada 24 h sería posible alcanzar valores comprendidos entre    107 y 134,90, valores muy superior a la relación considerada como terapéuticamente    efectiva.
+
+Simulación de Montecarlo    vía cadena Markov
+
+En la Figura 2    se observa la representación de las probabilidades de alcanzar la relación    PK/PD de cada esquema de administración. Según los resultados    de la simulación, con la administración de un esquema de 500 mg    cada 8 h, existe una probabilidad teórica de 98% para alcanzar una relación    PK/PD superior a 40, mientras que para la meta de AUC0-24 h/CIM    de 70, la probabilidad de alcanzarla con este esquema es inferior a 0,01%. En    contraste, para la
+
+ 
+
+
+
+Figura 2. Probabilidad    de alcanzar la meta terapéutica con la        administración de 500 mg cada 8 h versus 1.000 mg cada 24 h.
+
+ 
+
+administración de un esquema    de 1.000 mg cada 24 h existe un 100% de probabilidad de alcanzar una relación    PK/PD de 40 mientras que para la meta de 70, la probabilidad alcanzó    a 98%.
+
+Discusión
+
+En este estudio participó    una mayor proporción de voluntarios de sexo femenino. Al respecto, el    efecto que puede ejercer el sexo sobre las características farmacocinéticas    se debe principalmente a diferencias en la composición corporal, como    por ejemplo, las diferencias respecto a la talla e IMC, los cuales resultan    mayores en hombres que en mujeres. Estos parámetros resultan en diferencias    respecto al volumen de distribución (Vd) y el clearance (Cl), los que    pueden ser levemente superior en hombres. Adicionalmente, y pese a estas consideraciones,    no se observaron variaciones importantes respecto a los valores del Cl y Vd    para ambos esquemas administrados.
+
+Por su parte, destacó    el incremento proporcional en Cmax siendo esta situación predecible    ya que al tratarse de un fármaco    con un comportamiento lineal respecto a su absorción, es esperable que    al incrementar al doble la dosis administrada las concentraciones plasmáticas    incremente proporcionalmente en el mismo sentido. Por su parte, los valores    encontrados en nuestro estudio son superiores a los descritos por algunos autores12-14    quienes reportan valores de Cmax para la administración de    500 mg de 9,0 mg/mL y de 19,6 mg/mL para la administración de 1.000 mg.    Adicionalmente, y según lo descrito por algunos autores15-17,    la Cmax se alcanza entre las 0,25 a 4 h lo cual concuerda    con lo observado en este estudio.
+
+Al observar los valores de AUC    es importante destacar la diferencia estadísticamente significativa respecto    a ambos esquemas de administración. Entre las razones para que existan    diferencias en los valores de AUC experimentales se encuentran factores fisiológicos    que modifican la biodisponibilidad de los medicamentos. En este trabajo, los    factores más importantes son aquellos que puedan influir sobre el tránsito    intestinal como por ejemplo la velocidad del vaciamiento gástrico y el    efecto de los alimentos sobre la absorción. Sin embargo, y según    lo reportado por Spénard J. y cols18, los alimentos producen    una leve disminución de la absorción oral de metronidazol, disminuyendo    sólo la tasa de absorción pero no afectan la cantidad total de    fármaco absorbida. Es decir, la presencia de alimentos no afecta de manera    significativa la biodisponibilidad de este antimicrobiano19.
+
+Por su parte, destacó    la amplia distribución en tejidos y fluidos, observándose valores    de Vd aparente comprendidos entre 0,48 y 0,69 L*kg-1, sin existir    diferencias significativas respecto a ambos esquemas de administración.    Según la bibliografía consultada5, el Vd en adulto    se encuentra entre 0,5 L/kg y 1,1 L/kg,    lo que concuerda con lo establecido en este estudio.
+
+Metronidazol demostró    un t1/2 comprendido entre 6,1 y 7,5 h. Debido a que la eliminación    de metronidazol ocurre principalmente por vía renal, previa metabolización    hepática, se podría esperar un incremento de este parámetro    en pacientes con una función renal disminuida así como también    en adultos de edad avanzada, pudiendo incurrir en una posible acumulación    del metronidazol, así como de su metabolito hidroxilado. Adicionalmente,    algunos autores señalan que metronidazol posee un Cl dependiente de la    dosis, situación que no se observó en este estudio15.    Ambas situaciones requieren del análisis individual respecto a las ventajas    y posibles riesgos, ya que es importante considerar estos aspectos al recomendar    el uso de una dosis superior de metronidazol en pacientes de edad avanzada o    con algún grado de disfunción renal. Al respecto, la administración    de metronidazol en esquemas tradicionales de dosificación no requiere    ajustes de dosis cuando existe disfunción renal, salvo cuando el Clcr    es inferior a 30 mL/min.
+
+Si se considera la distribución    de la CIM para B. fragilis susceptibles a metronidazol a valores iguales    o inferiores a 2 mg/mL, la relación AUC0-24 h/CIM    que predice de mejor forma la efectividad de metronidazol es una relación    igual o superior a 7011. Es decir, con un esquema de administración    de 500 mg no sería posible alcanzar esta relación, de tal forma    que no sería recomendable para el tratamiento de infecciones graves producidas    por anaerobios. Sin embargo, si se considera lo señalado por Isla y cols.10,    que una relación PK/PD mínima para ejercer un efecto terapéutico    óptimo de metronidazol es de 25 para infecciones leves en pacientes inmunocompetente,    con ambos esquemas sería posible alcanzar un efecto terapéutico    deseado. Como se mencionó anteriormente, las diferencias observadas respecto    al AUC0-24 h de la administración de 500 mg    respecto a los valores descritos en la literatura científica12,16    influyen directamente sobre la relación calculada, ya que al establecer    una relación AUC0-24 h/CIM para B. fragilis    con los valores descritos en la bibliografía, sí es posible alcanzar    la meta terapéutica definida. Esto no implica necesariamente que el esquema    de 500 mg administrado, así como las formulaciones orales empleadas en    el estudio, tengan una biodisponibilidad inferior y que, por tanto, no sean    terapéuticamente efectivas en infecciones graves que requieran una relación    de PK/PD superior, ya que para el caso de metronidazol, es importante considerar    el efecto del metabolito activo sobre B. fragilis. Al respecto, es importante    destacar lo señalado por Pendland y cols.20, quienes determinaron    un efecto bactericida importante para el metabolito el cual exhibe una CIM90    para B. fragilis comprendida entre 0,5 y 2,0 mg/mL. Por su parte, metronidazol    experimenta metabolismo hepático por un proceso oxidativo, mediado principalmente    por actividad catalizada por la enzima CYP2A621 hacia la formación    de dos metabolitos principales, el ácido 2-(2-metil-5-nitroimidazol-1-il)-acético    el que no posee actividad farmacológica y 1-(2-hidroxietil)-2-hidroximetil-5-nitroimidazol    (2-hidroximetrondiazol) que contribuye con aproximadamente 30% de la actividad    bactericida de metronidazol22. Adicionalmente, el efecto del metabolito    activo poseería un efecto sinérgico hacia la actividad de metronidazol;    sin embargo, esto último aún no ha sido del todo demostrado.
+
+Numerosos autores han determinado    la efectividad de la administración de esquemas abreviados de metronidazol    para el manejo de infecciones anaerobias. Al respecto, Hermsen y cols.23,    compararon la efectividad de un tratamiento asociado con levofloxacina y metronidazol    en dosis diaria única versus un tratamiento simple con moxifloxacina.    Para ellos, los autores determinaron la relación AUC/CIM de ambos tratamiento    sobre cepas de Escherichia coli y B. fragilis en un modelo in    vitro. Los autores concluyeron que la administración de un esquema    con levofloxacina y metronidazol en esquema tradicional (500 mg cada 8 h) y    en esquema ampliado (1.500 mg cada 24 h) produce una actividad bactericida comparable.    Por su parte, Wang S. y cols.24, realizaron un análisis retrospectivo    para comparar la eficacia clínica de un régimen de dosificación    en una única administración diaria (1.000 mg cada 24 h) versus    un tratamiento en dosis diaria múltiple (500 mg cada 8 h) para el tratamiento    de infecciones pélvicas, intra-abdominales e infecciones de pie diabético    producidas por B. fragilis, concluyendo que no existen diferencias estadísticamente    significativas respecto a la duración de la estadía hospitalaria    así como en el grado de compromiso del paciente, y que la administración    de un esquema de dosificación en dosis diaria única posee ventajas    PK/PD para el tratamiento de infecciones graves producidas por B. fragilis.    Sin embargo, este estudio es de tipo retrospectivo, en el que no se realizó    un análisis PK sobre este esquema de dosificación.
+
+En relación a las probabilidades    de alcanzar las metas de AUC/CIM con el esquema abreviado, Isla A. y cols.7,10    y Jacob MR25 señalan que, para los derivados 5-nitroimidazólicos,    se requiere una relación AUC0-24 h/CIM superior    a 25 para tener éxito en el manejo de infecciones no graves. Por su parte,    Sprandel K. y cols.11, realizaron una simulación para establecer    cuál era la probabilidad de alcanzar la relación AUC/ CIM mayor    a 70 tras la administración de tres diferentes esquemas farmacológicos.    Los autores determinaron que la administración de un esquema de 500 mg    cada 8 h, así como la administración de 1.500 mg cada 24 h, permite    alcanzar un meta terapéutica en 99% de los casos, lo cual no ocurriría    con la administración de 1.000 mg cada 24 h donde solamente se alcanza    en 72%. Es importante señalar que en este estudio, el autor considera    para la simulación de los datos    un comportamiento bi compartimental para metronidazol además de evaluar    el efecto del metabolito hidroxilado. Estas son diferencias claras respecto    a los resultados determinados en nuestro trabajo las cuales requieren de nuevos    estudios.
+
+Conclusión
+
+Desde el punto de vista farmacocinético    y farmacodinámico, con la administración de un esquema de metronidazol    en una dosificación de 1.000 mg cada 24 h para el manejo de infecciones    producidas por cepas de B. fragilis sensibles a metronidazol, sería    posible alcanzar una relación AUC0-24 h/CIM superior    al esquema de dosificación de 500 mg cada 8 h. De tal forma que es posible    considerar la administración de una dosis diaria de 1.000 mg de metronidazol    como una opción terapéutica al esquema tradicional. Sin embargo,    es necesario considerar la variabilidad interindividual, y comprobar en la práctica    clínica que este esquema sea terapéuticamente efectivo y seguro.
+
+Limitaciones
+
+Es importante hacer hincapié    en el carácter experimental de este estudio realizado con un reducido    número de voluntarios. De tal manera que la mayoría de las sus    sugerencias son de carácter teórica con parámetros simulados    a partir de datos experimentales, por lo cual no constituyen una recomendación    para su aplicación clínica ya que es necesario    establecer el comportamiento del esquema de dosificación sugerido en    condiciones clínicas reales.

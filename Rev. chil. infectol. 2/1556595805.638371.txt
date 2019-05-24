@@ -1,0 +1,186 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000200001
+Análisis de concentraciones plasmáticas de voriconazol y su perfil de seguridad en pacientes oncológicos pediátricos
+
+Resumen
+
+Introducción: Las concentraciones plasmáticas (CPs) de voriconazol (VCZ) son erráticas y en el caso de encontrarse bajo rango terapéutico para el tratamiento de aspergilosis invasora (AI) se asocian a un aumento de mortalidad. Objetivo: Analizar las CPs de VCZ obtenidas en pacientes pediátricos para alcanzar valores que se estiman efectivos para profilaxis (≥ 0,5 mg/L) y tratamiento (≥ 1,0 y 2,0 mg/L) de AI y su relación con toxicidades. Pacientes y Métodos: Análisis retrospectivo de CPs de VCZ y toxicidades asociadas obtenidas en pacientes oncológicos pediátricos desde febrero de 2013 hasta noviembre 2014. Se analizó la dosis diaria y CPs de acuerdo a la vía de administración: intravenosa (iv) u oral (vo), tipo de terapia (profilaxis y tratamiento) y edad (< 12 y ≥ 12 años). Resultados: Se analizaron 112 CPs valle de 26 pacientes, con una edad promedio de 9,3 años. El 43,7% de las CPs correspondió a administración iv. Se obtuvieron más CPs ≥    0,5 mg/L y ≥ 1,0 mg/L con la vía iv en relación a vo (p < 0,05). Pacientes bajo 12 años de edad recibieron mayor dosis en comparación a los ≥ 12 años (medianas 18,6 y 9,2 mg/kg/día, respectivamente, p < 0,05). La dosis vo más efectiva para alcanzar CPs ≥ 0,5 mg/L fue de 200 mg cada 12 h en todos los pacientes (80-100% de CPs ≥ 0,5 mg/L). En pacientes ≥ 12 años con dosis iv entre 14 y 20 mg/kg/día, 80% de las CPs fueron ≥ 1 mg/L y ≥ 2 mg/L. En pacientes bajo 12 años de edad, dosis entre 8-30 mg/ kg/día generaron similares resultados (50-63% para CPs ≥    1 mg/L y 36-40% para CPs ≥ 2 mg/L). Ocho pacientes (30,8%), tuvieron alguna reacción adversa al fármaco, no encontrándose relación con la CP alcanzada. Conclusión: Una dosis estándar vo de 200 mg c/12 h de VCZ mostró los mejores resultados para profilaxis de AI en todos los pacientes. Pacientes bajo 12 años de edad requerirían dosis mayores a las utilizadas en este estudio para obtener CPs efectivas para tratamiento de AI. No se encontró relación entre CPs tóxicas y reacciones adversas.
+
+Palabras clave: Voriconazol, concentraciones plasmáticas, farmacocinética, reacciones adversas.
+
+ 
+
+Introducción
+
+Voriconazol (VCZ) es un antifúngico triazólico de amplio espectro disponible, tanto en presentación vía oral (vo) como intravenosa (iv). Actúa inhibiendo la enzima 14-α-esterol desmetilasa, interrumpiendo la síntesis de la membrana fúngica1 y posee acción contra especies de Aspergillus, Candida, Fusarium y Scedosporium. Es recomendado como fármaco de primera línea en el tratamiento de aspergilosis invasora (AI) en pacientes inmunocomprometidos2.
+
+La profilaxis con antifúngicos, tanto en pacientes con factores de riesgo de adquirir una AI (profilaxis primaria) así como pacientes con antecedentes que AI que cursen períodos de inmunosupresión (profilaxis secundaria), es necesaria, ya que de no hacerlo, aumenta de manera significativa el riesgo de recaída de la enfermedad fúngica y de mortalidad3. Aunque posaconazol es el fármaco con registro de la U.S Food and Drug Administration (FDA) para profilaxis de AI4, hay evidencias para el uso exitoso de VCZ en pacientes pediátricos, tanto en profilaxis primarias como secundarias5-7.
+
+Farmacocinética: su absorción disminuye en presencia de alimentos, donde su concentración plasmática máxima (Cmáx) y área bajo la curva (ABC) se pueden reducir hasta en 34 y 24%, respectivamente8,9. Los pacientes pediátricos presentan además una menor absorción oral (44,6 - 65%)10,11 en comparación a pacientes adultos (96%). Voriconazol es metabolizado principalmente en el hígado por las enzimas CYP2C19, CYP3A4, y en menor grado por CYP2C912. Otra característica de los pacientes pediátricos es que presentan un aumento del metabolismo pre-sistémico de este fármaco (efecto de primer paso hepático), lo que también contribuye a la obtención de concentraciones plasmáticas (CPs) más bajas10. Su distribución es bi-compartimental y su eliminación sigue el modelo de Michaelis-Menten, es decir, tiene un metabolismo saturable que provoca una farmacocinética no lineal. Por esto, con un aumento de dosis, la CP puede aumentar de manera desproporcional, lo que complica aún más la dosificación de este fármaco. Es importante señalar que la presencia de polimorfismos en la secuencia genética que codifica la enzima CYP2C19, genera enzimas con diferente capacidad metabólica, aumentando o disminuyendo las CPs de VCZ. La variabilidad de CPs, tanto intra-paciente así como inter-paciente, ha demostrado ser alta13,14 y los factores que influyen en esta variabilidad son: polimorfismo de la enzima CYP2C19, edad, sexo, interacciones farmacológicas y enfermedad hepática9.
+
+Monitorización de concentraciones plasmáticas
+
+El control de CPs de VCZ es recomendado en pacientes adultos y pediátricos por la Infectious Diseases Society of America (IDSA) (recomendación B-III)4. Una concentración baja de VCZ al inicio del tratamiento de una infección fúngica invasora (IFI) es considerada como un factor de riesgo para el aumento de mortalidad en estos pacientes15. Un estudio observacional en adultos encontró que una CP basal de 1 mg/L estuvo relacionada con 70% de éxito terapéutico16. Por otra parte, en pediatría, en un estudio retrospectivo de 46 pacientes, CPs < 1 mg/L se asociaron con un incremento 2,6 veces en el riesgo de mortalidad17.
+
+La elevada variabilidad de las CPs y la falta de definiciones claras para su dosificación en pediatría hacen que la obtención de CPs terapéuticas, tanto con su administración intravenosa (iv) así como vía oral (vo), sea un desafío.
+
+El objetivo primario de este estudio es describir las CPs de VCZ obtenidas de pacientes pediátricos que recibieron tratamiento iv o vo, y compararlas con la dosis recibida. Nuestro objetivo secundario es analizar la existencia de alguna asociación entre CPs y reacciones adversas.
+
+Materiales y Métodos
+
+Diseño del estudio y tipo de pacientes
+
+Estudio observacional, retrospectivo, realizado en el Hospital Pediátrico Dr. Luis Calvo Mackenna (Santiago, Chile), institución estatal de alta complejidad que cuenta con 190 camas, entre las que se incluyen las unidades clínicas de Oncología y de Trasplante de Precursores Hematopoyéticos. Se revisaron en los registros de la Unidad de Farmacia Clínica las CPs valle de VCZ obtenidas en pacientes inmunocomprometidos de 2 a 18 años, durante el período comprendido entre febrero de 2013 y noviembre de 2014.
+
+Criterios de inclusión y exclusión
+
+Se incluyeron pacientes oncológicos y aquellos receptores de trasplante de precursores hematopoyéticos. Todos recibieron VCZ (VFEND®, Pfizer, Inc) en su presentación iv (ampollas de 200 mg) y/o vo (comprimidos de liberación convencional de 200 mg), de acuerdo al protocolo establecido en el hospital (el criterio para indicar la vía de administración se detalla más adelante). Se incluyeron todos aquellos pacientes con mediciones de CPs valle, independiente del tipo de infección fúngica y tipo de terapia (tratamiento o profilaxis). Se consideraron CPs valle aquellas obtenidas dentro de 30 minutos previos a la siguiente dosis, tras al menos cinco días de iniciarse el tratamiento con VCZ, requisitos que fueron monitorizados por la unidad de farmacia clínica. Este estudio no requirió de consentimiento/asentimiento informado debido a que la monitorización de CPs es una práctica protocolizada en la institución; no se utilizaron datos personales de los pacientes para la publicación del estudio.
+
+Se excluyeron los pacientes con: hipersensibilidad previa a antifúngicos azólicos, control de CP que fuera efectuado antes de cinco días de iniciado el tratamiento, función hepática alterada previo inicio al tratamiento (enzimas alanina aminotransferasa (ALT) y/o aspartato aminotransferasa (AST) > 5 veces valor normal, o bilirru-binemia total > 2,5 valor normal (según valores normales por rango de edad), depuración de creatinina < 50 ml/ min/1,73 m2 para administración iv, administración vo con ingesta de alimentos con menos de 1 h antes o post administración del fármaco (incluye nutrición enteral), tratamiento concomitante con fármacos inductores o inhibidores fuertes del CYP3450 y concentraciones plasmáticas pico obtenidas una hora post administración del fármaco.
+
+Dosificación: se utilizó la formulación iv en pacientes con IFI o sospecha de ésta y en aquellos con indicación de profilaxis pero presentaban mala tolerancia oral o condiciones que disminuyen la absorción del fármaco (mucositis, diarrea, vómitos o enfermedad de injerto versus hospedero-EICH digestivo). La dosis inicial vía iv fue de 14 mg/kg/día fraccionado cada 12 h (7 mg/kg/dosis) ajustada a la presentación de la ampolla (200 mg) con un máximo de 600 mg al día. La formulación oral se utilizó en pacientes ingresados al hospital, que ya estuviesen recibiendo el fármaco como profilaxis para AI y en pacientes en tratamiento iv con al menos dos CPs valle consecutivas en rango óptimo, mejoría clínica y buena tolerancia oral, que permitiese realizar el cambio a vo. La dosis oral fue de 200 mg cada 12 o 24 h, según fuese la situación clínica y el tipo de paciente10,17. El ajuste de dosis fue individualizado en cada paciente para alcanzar CPs ≥ 1-2 mg/L para tratamiento de AI y ≥ 0,5 mg/L para pacientes que requirieran profilaxis contra AI18,19.
+
+Las solicitudes de medición de CPs, ajustes y/o mantención de dosis, junto con la prevención o manejo de interacciones medicamentosas y monitorización de reacciones adversas fueron realizadas por la unidad de farmacia clínica (JM y FS). Los datos registrados por las mismas personas fueron: nombre del paciente, edad, sexo, diagnóstico de base, servicio clínico, vía de administración (iv o vo), frecuencia de administración (cada 24, 12 u 8 h), dosis total diaria (mg/día), dosis por kilógramo de peso (mg/kg/día) y CP (mg/L).
+
+Farmacovigilancia
+
+Se consultaron en los registros de la Unidad de Farmacia Clínica las reacciones adversas a medicamentos (RAM) ocurridas en los pacientes tratados con VCZ. Éstas fueron clasificadas y graduadas de acuerdo a la Common Terminology Criteriafor Adverse Events, versión 4.0320. La causalidad de las RAM fue determinada utilizando el algoritmo de Naranjo21. Se realizó una búsqueda de exámenes de función hepática en la base de datos de exámenes de laboratorio del hospital (SysLAB®). Se incluyeron exámenes intra-tratamiento y hasta 48 h post control de la CP. Las pruebas registradas fueron: ALT, AST, bilirrubinemia directa y total, concentración plasmática de fosfatasa alcalina, gamma glutamil transpeptidasa (GGT), amilasa y lipasa.
+
+Obtención de muestra y medición de CPs
+
+Se controló la CP valle de acuerdo a la descripción anterior. Para cada muestra se extrajo 2 ml de sangre periférica, la que se recolectó en tubos con EDTA y luego se centrifugó a 400 x g para separar el plasma, transfiriéndolo inmediatamente a un tubo Eppendorf. El plasma fue almacenado hasta su análisis a -20°C. La muestra fue analizada mediante cromatografía líquida de alta resolución, con extracción líquido-líquido y detección mediante detector de arreglo de diodos22, en la sección de Farmacocinética de la Unidad de Laboratorios de nuestro hospital.
+
+Análisis estadístico
+
+Se utilizaron pruebas estadísticas no paramétricas ya que se asumió una distribución no normal de la muestra. Para el análisis de dos muestras independientes se utilizó la prueba de Mann-Whitney. Para el análisis de datos categóricos se utilizó la prueba de X2, mientras que la prueba de Fisher fue utilizada cuando la muestra analizada fue muy pequeña (≤ 5). Se aceptó un error alfa de 5% y el cálculo de dichas pruebas fue realizado utilizando el paquete estadístico VassarStats®23.
+
+Resultados
+
+Se revisaron las CPs de VCZ obtenidas en el período antes señalado. La información de las CPs y pacientes incluidos se detallan en la Tabla 1. Se incluyó un total de 112 CPs correspondientes a 26 pacientes, de los cuales ocho (30,8%) fueron ≥ 12 años. Diez y seis pacientes (61,5%) tenían patología oncológica y no habían sido sometidos a trasplante de precursores hematopoyéticos.
+
+ 
+
+Tabla 1. Características demográficas de los pacientes
+
+
+
+ 
+
+El análisis comparativo de CPs valle obtenidas con la administración iv y vo se muestra en la Tabla 2. El número de CPs (%) correspondiente a administración iv y vo fue de 49 (43,7%) y 63 (56,3%), respectivamente. Si bien los grupos fueron comparables en cuanto a edad, peso y dosis en mg/kg recibida, hubo una diferencia significativa para la dosis total diaria, en la que pacientes con administración iv recibieron, en promedio, una dosis mayor.
+
+ 
+
+Tabla 2. Comparación de datos demográficos y dosis recibidas          entre concentraciones plasmáticas obtenidas con la formulación          intravenosa y vía oral
+
+
+
+1Mann-Whitney U-Test. *Diferencia estadísticamente significativa (p < 0,05).
+
+ 
+
+En la Figura 1 se muestra el porcentaje de CPs que alcanzaron los valores recomendados. Sólo 74% de todas las CPs fueron ≥ 0,5 mg/L. Sin embargo, la cantidad de CPs sobre este rango fue significativamente mayor con la administración iv en comparación a la vo (84 vs 62%, p < 0,05). Respecto a las CPs efectivas para tratamiento de AI, una cantidad significativamente mayor de CPs fueron ≥ 1,0 mg/L con la administración iv en comparación a la administración vo (67 vs 46%, p < 0,05). Si bien hubo una mayor cantidad de CPs v 2,0 mg/L con la administración iv, esta diferencia no fue significativa (p: 0,219).
+
+ 
+
+
+
+Figura 1. Comparación de CPs de voriconazol obtenidas con administración          iv y vo. *Diferencia estadística significativa (p < 0,05), prueba de X2.
+
+ 
+
+Sólo 7% de todas las CPs fueron consideradas tóxicas (≥ 5,5 mg/L), las que se presentaron con ambas vías de administración. Los efectos tóxicos clínicos y de laboratorio se detallan más adelante.
+
+Análisis por edad
+
+El análisis por edad para pacientes < 12 años y ≥ 12 años se muestra en la Tabla 3. Sesenta y nueve por ciento de los pacientes tenían menos de 12 años y 66% de las determinaciones de CPs correspondieron a este grupo. Si bien se observan CPs más elevadas en el grupo ≥ 12 años, esta diferencia no fue significativa. Sin embargo, los pacientes bajo 12 años de edad recibieron una dosis significativamente mayor en mg/kg/día (p < 0,05). Sin considerar la vía de administración, no se observó diferencia significativa alguna entre ambos grupos para el porcentaje de CPs sobre los valores de análisis estudiados.
+
+ 
+
+Tabla 3. Comparación de concentraciones plasmáticas de voriconazol entre          pacientes < 12 años y ≥ 12 años
+
+
+
+CPs: concentraciones plasmáticas. 1Mann-Whitney test. 2Test de X2.          *Diferencia estadísticamente significativa (p < 0,05).
+
+ 
+
+En la Figura 2 se muestra la comparación de CPs obtenidas entre la administración iv y vo. En general, los porcentajes de CPs sobre los valores estudiados fueron superiores en pacientes ≥ 12 años de edad, para todas las categorías. Sin embargo, la única diferencia significativa se encontró con valores ≥ 1,0 mg/L con la vía iv (p: 0,028).
+
+ 
+
+
+
+Figura 2. CPs de voriconazol en pacientes < 12 años y ≥ 12 años con          administración       vo e iv. *Diferencia estadística significativa, test          de Fisher p < 0,05.
+
+ 
+
+En la Tabla 4 se muestra el análisis para diferentes rangos de dosis vo y las CPs alcanzadas en cada grupo. Si bien un mayor porcentaje de CPs estuvo sobre los valores analizados en pacientes ≥ 12 años en la mayoría de los casos, esta diferencia no fue significativa. En pacientes bajo 12 años, la dosis más efectiva para alcanzar CPs adecuadas para profilaxis de AI (≥ 0,5 mg/L) fue de al menos 200 mg cada 12 h (400 mg/día); 75-80% de las CPs alcanzaron dicho valor. En pacientes ≥ 12 años, una dosis estándar de 400 mg/día produjo 100% de las CPs ≥ 0,5 mg/L. Sólo se encontraron CPs ≥ 5,5 mg/L con dosis mayores a 400 mg/día.
+
+ 
+
+Tabla 4. Análisis de dosis vía oral en mg/día y concentraciones plasmáticas          alcanzadas en pacientes < 12 años y ≥ 12 años*
+
+
+
+CP: concentración plasmática. *Se omitieron las CPs de un paciente que recibió          400 mg/d en esquema cada 8 h.
+
+ 
+
+Las CPs alcanzadas con administración iv en pacientes < 12 años y ≥ 12 años con diferentes dosis por kg de peso se muestran en la Tabla 5. Una mayor cantidad de CPs estuvo sobre los valores estudiados en los pacientes ≥ 12 años respecto a los < 12 años; no obstante, no hubo diferencias significativas. En pacientes de 12 años o más, con dosis entre 14 y 20 mg/kg/día, 80% de las CPs fueron ≥ 1 mg/L y ≥ 2 mg/L. En pacientes bajo 12 años, todas las dosis produjeron similar proporción de CPs con valores que se consideran efectivos para tratamiento de AI (50-63% para CPs ≥ 1 mg/L y 36-40% para CPs ≥ 2 mg/L). No hubo relación entre dosis iv y cantidad de      CPs ≥ 5,5 mg/L.
+
+ 
+
+Tabla 5. Análisis de dosis intravenosa en mg/kg/día y concentraciones          plasmáticas alcanzadas en pacientes < 12 años y ≥ 12 años
+
+
+
+CP: concentración plasmática. *Sólo 1 paciente > 12 años recibió esta dosis, quien obtuvo          una CP de 1,12 mg/L. No se encontró una diferencia significativa entre ambos grupos de          pacientes para las dosis analizadas (prueba de Fisher).
+
+ 
+
+Perfil de seguridad
+
+El resumen del tipo y frecuencia de reacciones adversas (RAM) asociadas al uso de VCZ se muestran en la Tabla 6. Ocho (30,8%) pacientes tuvieron alguna RAM grado 3-4 en escala CT CAE. Todas fueron relacionadas al sistema hepático, mientras que 1 (3,8%) los fue para el sistema ocular (fototofobia) y osteo-muscular (mialgia). De las alteraciones funcionales hepáticas y pancreáticas, las más frecuentes fueron: aumento de GGT (23,1%), GOT (15,4%), GPT (15,4%), lipasemia (7,7%) y amilasemia (3,8%).
+
+ 
+
+Tabla 6. Detalle de reacciones adversas asociadas          a voriconazol
+
+
+
+RAM: reacción adversa a medicamento.
+
+ 
+
+De las ocho CPs ≥ 5,5 mg/L (7 pacientes), sólo cuatro se asociaron a RAM (4 pacientes), las que correspondieron a (escala CTCAE): fotofobia (2) y aumento de GGT (4); incremento de lipasemia (3); aumento de GPT (3) y mialgia (2); aumento de GOT (3) y GPT (3). De las 104 CPs < 5,5 mg/L, 82 fueron asociadas a alguna RAM, correspondiendo todas a hepatoxicidad. No se encontró relación entre CPs tóxicas y RAM (p: 0,5576).
+
+Discusión
+
+De las CPs analizadas, sólo 54 y 37% fueron ≥ 1,0 y 2,0 mg/L, respectivamente, lo que representa un bajo porcentaje. En el estudio de Soler-Palacin P y cols., realizado en población pediátrica24 sólo 50% de los pacientes tuvo CPs ≥ 1,0 mg/L y en sólo 7% fueron > 5,5 mg/L, muy similar a los resultados obtenidos por nosotros (54 y 7%). En otro estudio en pacientes pediátricos, una simulación utilizando el modelo de Monte-Carlo, predijo que una dosis iv de 14 mg/kg/día, fraccionada cada 12 h o de 200 mg cada 12 h vo produciría una CP > 1 mg/L en 66% de los pacientes17. Estos resultados son similares a los obtenidos en nuestro estudio, 62 y 50% de los pacientes con dosis iv de 10-14 mg/kg/día y vo 200 c/12 h tuvieron CPs ≥ 1,0 mg/L. En otro estudio efectuado por Hicks y cols25, el porcentaje de pacientes con CPs dentro del rango 1-6 mg/L fue sólo de 51 y 36% para menores y mayores de 12 años, respectivamente. Dichos porcentajes son similares a los valores obtenidos en nuestro estudio (40,5 y 52,6%). El mayor porcentaje de pacientes ≥ 12 años en rango terapéutico en nuestro estudio se puede deber a que en promedio los pacientes recibieron 10,1 ± 5,1 mg/kg, mientras que el estudio de Hicks y cols., usó una dosis diaria estándar de 400 mg/día.
+
+Si bien no hubo diferencias significativas entre pacientes mayores y menores de 12 años en las CPs alcanzadas, este segundo grupo tuvo una tendencia a tener CPs más bajas y requirieron mayor dosis en mg/kg. Esta diferencia de dosis parece ser aún mayor en pacientes menores, situación similar a la encontrada en el estudio de Soler-Palacin P y cols., (2012); los pacientes < 5 años recibieron en promedio una dosis de 19 mg/kg, fraccionado cada 12 h, para alcanzar CPs en el rango de 1-5,5 mg/L24.
+
+Debido a que no se obtuvo el dato del número de administraciones de VCZ durante el período de estudio y a la exclusión de pacientes con mediciones de CPs pico, no se obtuvo la incidencia de RAM asociadas al fármaco. Con respecto a toxicidad, 70% de las RAM registradas fueron clasificadas como "posibles", por lo que su causa puede ser multifactorial. Si bien no se encontró una relación directa con episodios de hepato-toxicidad, se registró un único episodio de fotofobia en un paciente con una CP de 15,5 mg/L. Esto concuerda con un estudio observacional en adultos donde se demostró que CPs > 5 mg/L estuvieron asociadas con una mayor incidencia de reacciones adversas neurológicas, pero no hepáticas9.
+
+En general se obtuvieron CPs más elevadas en pacientes que recibieron el fármaco vía iv y en aquellos ≥ 12 años, lo que puede deberse a que la vía iv evita la variabilidad de absorción que ocurre con la vo y a una metabolización más lenta en pacientes mayores.
+
+Según nuestros resultados, la dosis más adecuada para alcanzar las CPs recomendadas para profilaxis de AI, fue de 200 mg cada 12 h (400 mg/día) en todos los pacientes, de manera independiente de la edad. Para tratamiento utilizando la vo, una dosis de 600 mg al día (17 mg/kg) podría ser adecuada, pero sólo se obtuvieron tres CPs en este rango.
+
+Para tratamiento de AI en pacientes ≥ 12 años, dosis iv entre 14 y 20 mg/kg/día, mostraron mejor comportamiento PK con 80% de las CPs ≥ 2 mg/L. Será necesario corroborar estos hallazgos con una muestra de mayor tamaño, ya que contamos sólo con cinco CPs obtenidos con esta dosis (4 CPs ≥ 2 mg/L (80%)). Nuestros resultados apuntan a utilizar dosis iniciales mayores a 14 mg/kg/día iv para tratamiento de AI grave, lo que ha sido recomendado por la Agencia Europea de Medicamentos (EMA)26.
+
+Este estudio cuenta con algunas limitaciones que comentamos a continuación. Es importante mencionar que hasta 49% de la variación de las CPs de VCZ se pueden deber a polimorfismos en la enzima CYP2C1927 y en nuestro estudio no contamos con los datos de polimorfismo de cada paciente. La dosificación individualizada de este fármaco de acuerdo a cada polimorfismo podría haber ayudado a obtener CPs terapéuticas en un plazo significativamente menor en comparación con una dosificación estándar28. Hubo pacientes que recibieron inhibidores de la bomba de protones junto con voriconazol; en la práctica clínica no se ha encontrado que el uso de IBP sea una co-variante significativa para alterar el metabolismo de este fármaco29.
+
+Conclusiones
+
+• Es importante obtener CPs de VCZ adecuadas al inicio y durante el tratamiento y, debido a que éstas son erráticas, la monitorización farmacocinética es fundamental.
+
+• Una dosis estándar de 200 mg c/12 h vo, en forma independiente de la edad, parece ser adecuada para obtener CPs eficaces para profilaxis de AI. Debe recordarse que la administración oral debe realizarse una hora antes o una hora después de la administración de alimentos.
+
+• Dosis entre 14-20 mg/kg/día iv podrían ser adecuadas para alcanzar CPs eficaces para tratamiento de AI en pacientes ≥ 12 años.
+
+• Los pacientes < 12 años requerirían dosis mayores a las utilizadas en este estudio (hasta 30 mg/kg/día iv) para obtener CPs efectivas para tratamiento de AI.
+
+• No se encontró relación entre concentraciones tóxicas y reacciones adversas.
+
+• Es fundamental en próximos estudios realizar un análisis incluyendo además los polimorfismos de la enzima CYP2C19 para obtener una información más completa. En nuestro país, esta técnica no está disponible en la mayoría de los hospitales públicos, por lo que nuestra aproximación de dosificación parece una buena opción para alcanzar CPs adecuadas en estos pacientes.
+
+Agradecimientos: A todo el equipo de médicos y enfermeras del hospital, en especial de las unidades de Oncología, Trasplante de Precursores Hematopoyéticos y UCI pediátrica. A todo el equipo de farmacia clínica y de farmacia hospitalizados. Al equipo de Infectología con el que trabajamos en conjunto y nos ayudamos mutuamente. En especial a José Cofré G. que nos ayudó en la revisión de este trabajo. A Carolina y Daniel del Laboratorio de Farmacocinética, con los que trabajamos en conjunto. A Brenda L. Zylbersztajn por su revisión y comentarios. A Tiffany Pardue por su apoyo y traducción al inglés.

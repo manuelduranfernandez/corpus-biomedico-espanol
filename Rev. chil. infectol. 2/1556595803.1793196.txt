@@ -1,0 +1,438 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182015000400008
+Grupo Colaborativo de Resistencia Bacteriana, Chile: recomendaciones 2014 para el control de la resistencia bacteriana
+
+Resumen
+
+En la reunión anual del Grupo Colaborativo de Resistencia Bacteriana del año 2014 se revisaron en profundidad cinco tópicos cuyos antecedentes y conclusiones se detallan en este documento. Los temas fueron: I.- Novedades del CLSI 2014: se revisaron las dificultades e implicancias de su implementación a nivel local y se establecen recomendaciones. II.- Criterios para la determinación de incidencia de microoganismos multi-resistentes en unidades de pacientes críticos, donde se definieron los indicadores y la metodología de vigilancia para una mejor cuantificación del problema. III.- Se establecieron requisitos de calidad a considerar por los profesionales que participan en la selección de antimicrobianos en el hospital. IV.- Se discutieron las políticas de traslado, tamizaje y precauciones de contacto para el control de la transmisión de bacterias multiresistentes. V.- Se establecieron recomendaciones para los establecimientos de salud frente a la pesquisa de una enterobacteria productora de carbapenemasa en formato de lista de chequeo para la implementación rápida en hospitales sin endemia de estos agentes. Estas sugerencias nacen del trabajo conjunto de especialistas de muchos hospitales, no representan un consenso o normativa pero pueden ser de ayuda para el control de la resistencia en cada establecimiento de salud del país.
+
+Palabras clave: resistencia antimicrobiana, pruebas de susceptibilidad, carbapenemasa, vigilancia.
+
+ 
+
+Introducción
+
+El Grupo Colaborativo de Resistencia Bacteriana (GCR) de la Sociedad Chilena de Infectología ha realizado 10 reuniones anuales. En estos encuentros participa un número aproximado de 70 profesionales (microbiólogos, infectólogos y químico-farmacéuticos) representando a un número cercano a 40 hospitales del país, que incluye establecimientos públicos, privados e institucionales, hospitales generales, de adultos y pediátricos, de Santiago y otras Regiones, abarcando desde Antofagasta a Punta Arenas, Magallanes. Desde sus inicios, en estas reuniones se han realizado talleres de discusión de problemas relacionados a la resistencia bacteriana, que incluyen aspectos microbiológicos, clínicos, epidemiológicos y de prevención. Estos talleres se constituyen cada año por grupos de profesionales de las diversas áreas involucradas y permiten discutir temas con una mirada multidisciplinaria y desde la realidad local de los distintos hospitales.
+
+El año 2014 fue la décima versión de la Reunión Anual de este grupo y se realizaron cinco talleres con temas de gran relevancia para los hospitales. Consideramos que las conclusiones de estos talleres pueden ser de interés general en el país y su difusión podría ayudar a los distintos establecimientos, no pretendiendo ser un consenso o tener rol de guías nacionales. Los talleres trataron temas relevantes de diagnóstico, vigilancia epidemiológica y prevención de la resistencia bacteriana. Estos fueron:
+
+• Novedades del CLSI 2014. Recomendaciones y dificultades en la implementación de puntos de corte para bacilos gramnegativos.
+
+• Criterios para la determinación de incidencia de microorganismos multi-resistentes en unidades críticas.
+
+• Requisitos de calidad de los antimicrobianos. Lo que los programas de uso de antimicrobianos deben saber.
+
+• La transmisión en el control de la resistencia, políticas de traslados, tamizaje y precauciones de contacto.
+
+• Recomendaciones para los establecimientos de salud, frente a informe de paciente con enterobacteria productora de carbapenemasa.
+
+Taller 1       Novedades del CLSI 2014.       Recomendaciones y dificultades        en la implementación de puntos        de corte para bacilos gramnegativos
+
+En este taller se discutieron puntos clave en la implementación de las nuevas recomendaciones para el estudio de susceptibilidad antimicrobiana del año 2014 del documento CLSI M100-S241. Se consideró su aplicabilidad en los laboratorios nacionales considerando tanto aspectos técnicos como implicancias clínicas. Los puntos que se discutieron fueron cuatro y se estructuraron en el documento como "cambio", "problema" y "recomendaciones del grupo".
+
+Cefazolina y cefalotina en enterobacterias
+
+Cambios:
+
+• CLSI recomienda implementar nuevos puntos de corte para cefazolina en aislados de orina en pacientes con infección del tracto urinario (ITU) no complicada. Cefazolina sería el antimicrobiano que representa a: cefalexina, loracarbef, cefdinir, cefuroxima y cefpodoxima. En caso de resultados resistente, se pueden probar cada antimicrobiano por separado ya que hay cepas resistentes a cefazolina y susceptibles a otras cefalosporinas.
+
+• La recomendación anterior reemplazaría el uso de cefalotina como agente que representa la susceptibilidad a cefadroxilo y otras cefalosporinas orales.
+
+ 
+
+
+
+ 
+
+Problemas:
+
+• El nuevo punto de corte para cefazolina no incluye la predicción de actividad de cefadroxilo. No hay estudios para este antimicrobiano ya que no se utiliza en E.U.A. donde se generó la recomendación (Comunicación personal Dra. E. Palavecino, Wake Forest University Health Sciencies Medical Center, Winston-Salem, NC).
+
+• La mayoría de los laboratorios no tienen la suficiente información clínica para definir si se trata de un aislado obtenido de un paciente con ITU no complicada (se excluyen hombres, mujeres embarazadas y post-menopáusicas, signos de ITU alta).
+
+• De utilizar el nuevo punto de corte en todos los aislados urinarios puede producirse un informe sensible en orina (por ej. CIM 8 µg/mL) y resistente en sangre; si se tratara de un caso complicado, generaría problemas clínicos ya que se estaría informado sensible a agentes orales y resistente a cefazolina (ev).
+
+Recomendaciones y acuerdos del grupo:
+
+• No realizar el cambio de utilizar cefazolina como agente que representa a cefalosporinas de primera generación orales.
+
+• Mantener durante el año 2014 el uso de cefalotina con los puntos de corte vigentes actualmente, aunque se reconoce que éstos también son válidos para ITU no complicada, pero extrapolables a cefadroxilo. Además, generan un número importante de resultados intermedios.
+
+• En casos especiales (mujeres embarazadas, ITU que se sepan complicadas, otros aislados no urinarios) se debe mantener el uso e informe de cefazolina con los puntos de corte vigentes.
+
+β- lactamasas de espectro extendido-BLEE
+
+Cambio:
+
+• No hay cambio en CLSI 2014; se mantiene que clínicamente no es necesario testear BLEE ni editar los resultados si se utilizan los puntos de corte propuestos del 2010 en adelante.
+
+Problema:
+
+• Se consulta entre los asistentes y todos hacen prueba de confirmación de BLEE y edición de resultados.
+
+• En Chile, considerando la epidemiología y las medidas de contención a adoptar, es necesario mantener la detección de BLEE.
+
+• La evidencia acumulada no es categórica en demostrar que cepas BLEE positivas pueden ser tratadas con cefalosporinas de tercera generación si los puntos de corte se encuentran dentro del rango susceptible2.
+
+Recomendaciones y acuerdos de este grupo:
+
+• En consideración de la seguridad de los pacientes y el riesgo de falla terapéutica en este contexto, se acuerda mantener el estudio fenotípico confirmatorio de BLEE y, según sus resultados, editar el informe de susceptibilidad a las cefalosporinas. Similares recomendaciones han emanado de instituciones extranjeras como CIDEIM, Colombia3 e Instituto Malbrán, Argentina.
+
+• No informar ceftazidima en cepas de enterobacterias para focalizar su uso en Pseudomonas aeruginosa (práctica clínica habitual en nuestro país).
+
+• Estas recomendaciones deben ser revisadas anualmente considerando la epidemiología local y la nueva evidencia disponible.
+
+Susceptibilidad Dosis Dependiente (SDD) para cefepime y cambio en puntos de corte para enterobacterias
+
+Cambio:
+
+• CLSI crea este año una categoría SDD sólo para cefepime de manera de indicar su utilidad en cierto rango de CIM en las cuales la dosis del antimicrobiano podría aumentarse para lograr efecto terapéutico, indicándose además que los laboratorios registren -a pie de página- la dosis sugerida para utilizar frente a este nuevo criterio.
+
+• Además se modifican los puntos de corte para este antimicrobiano como se indica en la siguiente tabla:
+
+ 
+
+
+
+ 
+
+Problema:
+
+• No está clara la capacidad de los sistemas informáticos de laboratorio (SIL) para implementar una nueva categoría interpretativa para un único antimicrobiano.
+
+• No existe una manera fácil y rápida de difundir el significado de SDD en los equipos clínicos ya que hasta la fecha este concepto está implícito en la categoría de susceptibilidad intermedia.
+
+• No parece adecuado que los laboratorios pongan -a pie de página- la dosificación sugerida según este criterio ya que es una decisión clínica dependiente también de otros factores.
+
+Recomendaciones y acuerdos de este grupo:
+
+• En nuestro país el uso de cefepime no es masivo y en general en cepas productoras de BLEE se prefieren otras alternativas terapéuticas.
+
+• El cambio a SDD podría tener algún uso en cepas productoras de BLEE pero dado que este resultado aún lo editamos, no tendrá repercusión en informe.
+
+• Se recomienda implementar los nuevos puntos de corte para así detectar un bajo número de cepas resistentes que previamente podrían haber resultado intermedias por un mecanismo distinto de BLEE (cada hospital puede obtener el dato del cambio esperado en susceptibilidad si dispone de las CIM o halos en mm).
+
+• Las cepas que den resultado en SDD informarlas por ahora como intermedias. Esto también ha sido sugerido por CLSI cuando no se puede implementar el SDD.
+
+• Los sistemas automatizados Vitek 2® y Phoenix® tienen rango de lectura adecuado para implementar estos nuevos puntos de corte.
+
+Cambio de puntos de corte para carbapenémicos en Acinetobacter baumannii
+
+Cambio:
+
+• Se modifican los puntos de corte para carbapenémicos en A. baumannii.
+
+ 
+
+
+
+ 
+
+Recomendaciones y acuerdos:
+
+• Se recomienda implementar el cambio, tanto para métodos de dilución (CIM) como difusión (discos).
+
+• Considerar que éste se basa en determinados esquemas de dosificación, por lo que esquemas distintos deben ser de resorte clínico, conociendo las limitaciones de los puntos de corte.
+
+• Los sistemas automatizados tienen un rango de lectura adecuado para implementar el cambio.
+
+Taller 2       Criterios para la determinación        de incidencia de microorganismos        multi-resistentes en unidades críticas
+
+La determinación de los porcentajes de susceptibilidad bacteriana a los antimicrobianos no siempre se correlaciona bien con la endemia hospitalaria y las infecciones asociadas. Por ejemplo, se puede tener una bacteria con 100% de resistencia a un determinado antimicrobiano (por ej., carbapenémicos) pero su frecuencia es tan baja que aparece en forma esporádica en la institución y por ende, no es un problema epidemiológico. Debido a ello, se hace necesario recomendar la determinación de un indicador que refleje la situación epidemiológica local, siendo recomendada la incidencia de aquellas bacterias con resistencia epidemiológicamente relevantes, especialmente en unidades de cuidados intensivos, usando un sistema estandarizado4,5.
+
+En consecuencia, es conveniente complementar la vigilancia de resistencia bacteriana actual con una vigilancia basada en evaluar la incidencia de bacterias con resistencia específica o "densidad de incidencia", indicador que se basa en el N° de casos de infección y/o colonización por 1.000 días/cama ocupada del servicio o institución analizada, en un determinado período de tiempo.
+
+El indicador se puede obtener por dos métodos; uno de ellos es la incidencia de casos de infecciones que da cuenta del impacto clínico de la resistencia y el otro es la incidencia de bacterias resistentes (colonizaciones e infecciones) que dé cuenta de la endemia. El indicador ideal para la aplicación clínica es el que refleja la incidencia de casos verdaderos de infección por el microorganismo con la resistencia que se quiere estudiar, pero este numerador es difícil de obtener y requiere la definición estándar de cada una de las infecciones y/o un único observador clínico que evalúe la totalidad de los casos sospechosos.
+
+En el caso de los equipos de control de infecciones y laboratorio de microbiología, la utilización de la densidad de incidencia de "ocurrencia" o "colonización/infección" es suficiente para la toma de medidas epidemiológicas. El numerador es más fácil de obtener ya que se parte del n° de cultivos positivos con el microorganismo con la resistencia que se desea estudiar y, por lo tanto, más fácil de conseguir en la mayoría de los hospitales.
+
+Para ambos indicadores el procedimiento de obtención de datos es similar:
+
+• Periodicidad: Se recomienda emitir al menos un informe anual (1 de enero a 31 de diciembre) que permita que al establecimiento compararse con otros hospitales. Esto no excluye llevar un indicador por períodos más cortos (ej. trimestral o mensual) para que el establecimiento pueda tener un mejor control epidemiológico de sus casos.
+
+• Dónde: Se recomiendan partir con las Unidades de Cuidados intensivos; en algunos centros se puede incluir las unidades coronarias si es que tiene una epidemiología similar a la UCI o existe una alta frecuencia de traslados entre dichas unidades. En un segundo tiempo, se pueden incluir más servicios.
+
+• Qué vigilar: El número de ciertas infecciones causadas por determinados microorganismos. En general, para esta vigilancia se utiliza las definiciones de la vigilancia epidemiológica. En el caso que no se puede obtener información depurada de cuáles son los casos de infección, se puede construir el indicador considerando el primer cultivo positivo del agente a vigilar.
+
+Qué microorganismos vigilar:
+
+En ambos casos se sugiere considerar; Staphylococcus aureus resistente a meticilina (SARM), Enterococcus resistente a vancomicina (ERV), Klebsiella pneumoniae resistente a carbapenémicos, Acinetobacter baumannii resistente a carbapenémicos y P. aeruginosa resistente a carbapenémicos. Infecciones por otros microorganismos quedarían a discreción de cada establecimiento.
+
+Cómo obtener la información:
+
+• Incidencia de casos (infección/colonización) por microorganismos resistentes.
+
+• Se sugiere que el laboratorio de microbiología confeccione un listado a partir de sus bases de datos con los cultivos positivos de cada mes que cumplen con el requisito de inclusión (ver "qué"). Una forma fácil de realizar el listado es exportando la base de datos a Whonet7-8, y utilizar la sección de análisis de datos del mismo programa.
+
+• En la unidad de estadísticas conseguir el N° de días camas ocupadas de la unidad analizada.
+
+• El indicador se calcula:
+
+N° de pacientes con microorganismo resistente en        período de tiempo (ej. año 2014) x 1.000       -------------------------------------------------       Total de días cama ocupada en UPC en mismo        período de tiempo
+
+• Una vez calculado el indicador el laboratorio centralizará el envío de la información al GCR, en caso de ser un participante activo.
+
+• Incidencia de infecciones por microorganismos resistentes.
+
+• Para construir el indicador de incidencia de infecciones, el listado de cultivos del punto anterior debe ser analizado por el equipo clínico (infectólogo e intensivista) para definir qué pacientes han hecho una infección a partir de ese cultivo positivo y atribuirlo o descartarlo. Lo anterior incluye muchas otras infecciones que no están consideradas por el Sistema de Vigilancia Epidemiológica de las IAAS del Ministerio de Salud.
+
+• En la unidad de estadísticas conseguir el N° de días cama ocupadas de la unidad analizada.
+
+• Con el listado de las verdaderas infecciones causadas por el microorganismo en estudio se debe construir el indicador:
+
+N° de infecciones causadas por microorganismo en        período de tiempo (ej. año 2014) x 1.000       -------------------------------------------------       Total de días cama ocupada en UPC en mismo        período de tiempo
+
+• El equipo clínico debería enviar un numerador depurado (sólo pacientes con infecciones clínicas, descartando las colonizaciones) al laboratorio de microbiología para centralizar la información.
+
+• Una vez calculado el indicador, centralizará el envío de la información al GCR, en caso de ser un participante activo.
+
+Consideraciones:
+
+• Incluir sólo los cultivos tomados con intención de diagnóstico y excluir aquellos derivados de programas de vigilancia (ej. Vigilancia mensual y/o de traslados de ERV).
+
+• Se considerará como microorganismo R a carbapenémicos a cualquiera que sea resistente a uno o más carbapenémicos. No es necesario que sea R a todos a la vez.
+
+• Cada establecimiento debe definir si el indicador lo muestra en forma trimestral, semestral o anual; sin embargo, para no acumular revisión de pacientes, se sugiere que el listado el laboratorio lo emita mensualmente de modo de tener que revisar pocos cultivos/pacientes/infecciones cada vez.
+
+• Las funciones de los diferentes roles son una sugerencia del grupo en base a su experiencia. Cada establecimiento debe definir su flujo de datos de modo de optimizar el tiempo que utilizarán, como también asegurar la generación de resultados confiables.
+
+• Se sugiere el uso de una base de datos única en formato Excel o Access y emitir el informe en PDF.
+
+Taller 3       Requisitos de calidad de los antimicrobianos.        Lo que los programas de uso de        antimicrobianos debiesen solicitar
+
+El objetivo de este taller fue identificar y unificar los criterios de calidad que deberían ser considerados para la adquisición de antimicrobianos y los reglamentos que enmarcan este proceso. Se revisan los estudios solicitados por el Instituto de Salud Pública (ISP) al momento del registro de un determinado producto farmacéutico.
+
+1. Antecedentes legales
+
+En el Decreto Supremo 3/20109: Aprueba el Reglamento del Sistema Nacional de Control de los Productos Farmacéuticos de uso Humano, "D. Requisitos de Seguridad y Eficacia", se destacan los siguientes puntos.
+
+1.1. Artículo 36°, de seguridad y eficacia
+
+Toda solicitud de registro sanitario deberá incluir antecedentes de seguridad y eficacia, para lo cual al ser presentada al ISP se acompaña la información científica referida a:
+
+• Estudios de desarrollo del producto farmacéutico, que incluyan estudios químicos, farmacéuticos y biológicos, según corresponda, de la fórmula propuesta y su justificación.
+
+• Estudios pre-clínicos, tales como aquellos estudios que se realizan "in vitro" y/o en animales de experimentación, diseñados generalmente con la finalidad de obtener información necesaria para decidir si se justifican estudios más amplios en seres humanos, sin exponerlos a riesgos injustificados.
+
+• Estudios farmacológicos selectivos en animales.
+
+• Estudios toxicológicos en animales, que corresponderán a los ensayos de toxicidad aguda y crónica, teratogenicidad, embriotoxicidad, fertilidad, mutagénesis y, en su caso, carcinogénesis y, en general, aquellos que sean necesarios para una correcta evaluación de la seguridad y tolerancia de un producto farmacéutico.
+
+• Estudios clínicos fases I, II y III, que avalen la seguridad y eficacia del producto que se pretende registrar. Se podrán presentar estudios clínicos de productos que no correspondan a la fórmula que se pretenda registrar, siempre que se haya acreditado su equivalencia farmacéutica y terapéutica, mediante los respectivos estudios.
+
+• Estudios farmacocinéticos, cuando corresponda.
+
+• Estudios para demostrar biodisponibilidad o equivalencia terapéutica del producto farmacéutico que se pretenda registrar, en el caso de los productos cuyos principios activos estén sujetos a dicha exigencia. Los estudios de biodisponibilidad corresponden a estudios farmacocinéticos que, a través de un diseño experimental pre-establecido, permiten determinar la biodisponibilidad de un principio activo de una formulación que esté sujeta a un proceso de absorción. Por otra parte, los estudios de bioequivalencia corresponden a estudios clínicos que pretenden demostrar que la biodisponibilidad de un fármaco incorporado a una determinada formulación extravascular ("potencial genérico") es esencialmente la misma que la que presenta dicho fármaco incorporado en una forma farmacéutica de referencia (medicamento de marca), cuya patente ha expirado. La biodisponibilidad expresa la magnitud y la velocidad a la que un fármaco accede en forma inalterada al torrente circulatorio. Para su determinación se utilizan diferentes parámetros farmacocinéticos, siendo el área bajo la curva de concentraciones plasmáticas-tiempo (ABC) el utilizado para comparar la magnitud de la biodisponibilidad entre dos formulaciones, ya que este parámetro refleja el grado de exposición del organismo al fármaco y se considera una variable que subroga su respuesta terapéutica.
+
+Son equivalentes farmacéuticos productos farmacéuticos que contienen idénticas cantidades de los mismos principios activos o sus mismas sales o ésteres, presentados en idéntica forma farmacéutica y vía de administración, pero que no necesariamente contienen los mismos excipientes y que cumplen con las mismas o comparables especificaciones de calidad. 
+
+Corresponden a equivalentes terapéuticos10, productos equivalentes farmacéuticos que cumplen con las mismas especificaciones de calidad y que al ser administrados según las condiciones especificadas en su rotulación sus efectos, con respecto a eficacia y seguridad, son esencialmente los mismos, todo ello determinado por estudios apropiados.
+
+Los fármacos de administración intravascular se disuelven en la ampolla o frasco ampolla y al aplicarlos se distribuyen inmediatamente en el torrente sanguíneo con una biodisponibilidad de 100%; no correspondiendo solicitar estudios de biodisponibilidad. Para certificar la calidad, seguridad y eficacia de una solución inyectable endovenosa los estudios recomendados por la Farmacopea de E.U.A. (USP) son los de pureza, valoración e identidad.
+
+• Informe químico, farmacéutico y biológico, que incluya pruebas analíticas, químicas, fisicoquímicas, biológicas o microbiológicas y que permitan concluir si el producto que se pretende registrar se encuentra conforme con la composición declarada, presenta la adecuada calidad, los métodos de control propuestos se ajustan al estado de los conocimientos científicos, la formulación y forma farmacéutica están adecuados a los fines propuestos y el envase es idóneo para la correcta conservación.
+
+• Informe toxicológico y farmacológico, que incluya pruebas o ensayos pre-clínicos que permitan reportar cuál es la toxicidad del producto y cuáles son sus propiedades farmacológicas comprobadas.
+
+• Informe clínico elaborado por experto externo. El informe deberá evaluar los estudios aportados por el solicitante, en cuanto éstos puedan avalar que el producto demuestra una adecuada tolerancia, que la posología recomendada es correcta, así como las eventuales contraindicaciones y efectos secundarios.
+
+1.2. Artículo 32, de la calidad:
+
+• El laboratorio debe declarar proveedor y fabricante de él o los principios activos, adjuntando el boletín de análisis con todos los parámetros que lo caractericen.
+
+• Condiciones de almacenamiento del principio activo como materia prima.
+
+• Los antecedentes de estabilidad deben incluir como mínimo: fórmula estudiada, identificación del fabricante y responsable del estudio de estabilidad, condiciones de temperatura, humedad, material del envase y series estudiadas, además incluir el diseño programado y señalar los procedimientos analíticos utilizados y las especificaciones de producto terminado. Todo lo anterior, de acuerdo a la Guía de Estabilidad de Productos Farmacéuticos, aprobada como norma técnica mediante Decreto Supremo del Ministerio, a propuesta del ISP.
+
+• Cuando el producto requiere dilución previa a su administración, se deberán adjuntar los estudios de estabilidad para la formulación, el solvente (si se incluye en la presentación) y el producto reconstituido. En el caso de que el producto requiera dilución y no se incluya en la presentación el solvente, se indicarán los solventes recomendados y se requerirá además la presentación de los estudios de estabilidad de la formulación y del producto reconstituido.
+
+1.3. Artículo 218, de la farmacovigilancia:
+
+Los titulares de registros o autorizaciones sanitarios deberán implementar y mantener un sistema de farmacovigilancia, propio o externalizado, siendo su Asesor Técnico, responsable de: crear, adoptar y mantener un sistema documentado para recopilar y tratar en un archivo único la información sobre todas las presuntas reacciones adversas.
+
+Considerando la gran cantidad de documentación solicitada al momento de registro de un medicamento en nuestro país, se identifican los siguientes aspectos a ser considerados en los procesos de adquisición de antimicrobianos (ver cuadro).
+
+ 
+
+
+
+ 
+
+Glosario de términos
+
+Decreto Supremo 3/2010. Artículo 5
+
+• Buenas Prácticas de Laboratorio (BPL): Conjunto de reglas, procedimientos operativos y prácticas que garantizan que los datos generados por un sistema de control de calidad son reproducibles y representativos, asegurando la validez y confiabilidad de los resultados; estas normas técnicas serán aprobadas por Decreto Supremo del Ministerio, a propuesta del ISP.
+
+• Práctica de Buena Manufactura (PBM): Normas técnicas mínimas establecidas para todos los procedimientos destinados a garantizar la calidad uniforme y satisfactoria de los productos farmacéuticos, dentro de los límites aceptados y vigentes para cada uno de ellos; estas normas técnicas serán aprobadas por Decreto Supremo del Ministerio, a propuesta del ISP.
+
+• Estudio de Equivalencia Terapéutica: Estudio comparativo (clínico, de biodisponibilidad, farmacodinámico o "in vitro") entre un producto farmacéutico de referencia o comparador y otro estudio.
+
+• Estudio de Estabilidad: Serie de pruebas, ensayos y análisis relacionados con las características físicas, químicas o microbiológicas de un principio activo o un producto farmacéutico, para obtener información sobre su estabilidad, con el fin de definir su período de eficacia en determinadas condiciones de envase y almacenamiento.
+
+• Estudio de Estabilidad a Tiempo Real: Estudio de estabilidad realizado por el tiempo propuesto para el período de eficacia y en condiciones de almacenamiento, temperatura y humedad determinadas según la naturaleza del producto,
+
+• Estudio de Equivalencia Farmacéutica: Estudio aplicable a productos que contienen cantidades idénticas del mismo principio activo, en la misma forma farmacéutica, pero que no necesariamente contienen los mismos ingredientes inactivos, Se realiza un estudio comparativo químico y farmacéutico entre un producto farmacéutico innovador y un genérico para evaluar pureza, potencia, calidad e identidad.
+
+Taller 4       La transmisión en el control        de la resistencia, políticas de traslados,        tamizaje y precauciones de contacto 
+
+Introducción
+
+Para controlar el problema de resistencia bacteriana se sugieren medidas que se dividen fundamentalmente en el uso adecuado de los antimicrobianos para controlar la presión selectiva de éstos y preservar opciones de tratamiento, y en medidas enfocadas a controlar la transmisión horizontal o persona a persona de los microorganismos multi-resistentes (MOMR) en un medio principalmente hospitalario. Estas últimas corresponden a intervenciones de diversos tipos tales como medidas administrativas, educación del personal de salud y pacientes, vigilancia de MOMR, medidas de control de infecciones y control del ambiente1. En este taller se abordaron sólo algunas de estas intervenciones con énfasis en la vigilancia de MOMR en pacientes trasladados intentando proponer un protocolo consensuado para las instituciones nacionales.
+
+Vigilancia de MOMR
+
+Existen varias formas de realizarla:
+
+• Detección a partir de los cultivos clínicos de rutina. Los cultivos clínicos detectan sólo una minoría de pacientes con MOMR. En pacientes que ingresan a unidades de cuidados intensivos se ha estimado una proporción de hasta ~ 70% de E. coli y Klebsiella spp. productoras de BLEE no detectadas. En pacientes con cultivos clínicos y de vigilancia positivos, los cultivos de vigilancia han sido positivos en promedio 2,7 días antes que los clínicos2. De acuerdo a estos hallazgos, esta alternativa de vigilancia se considera sub-óptima.
+
+• Vigilancia de agentes causales de infecciones asociadas a atención de salud (IAAS). Corresponde a la identificación y registro de MOMR que causan IAAS durante la realización de la vigilancia epidemiológica habitual. Es la forma de vigilancia que utiliza la mayoría de los centros hospitalarios de nuestro país de acuerdo a la normativa del Ministerio de Salud (MINSAL) de Chile y permite focalizar intervenciones y recursos en estos casos. Sin embargo, esta alternativa no identifica todos los pacientes con MOMR que pueden servir de reservorio y favorecer la transmisión.
+
+• Detección de colonización por MOMR. Corresponde a la identificación de colonización por MOMR en un paciente, antes del desarrollo de una infección clínica. Es la intervención de mayor sensibilidad para detectar los casos y que tiene la mayor posibilidad de anticipar la implementación de medidas de control como precaución de contacto para disminuir el riesgo de transmisión de MOMR en las instituciones de salud. Sin embargo, existen múltiples barreras para considerar su implementación, siendo una de las principales el alto costo que implica. Otras limitaciones incluyen la falta de criterios claros para su implementación y la dificultad para demostrar su impacto en la disminución de tasas de IAAS en cada institución. Además en casos de alta colonización pudiesen haber dificultades en la implementación de medidas de control.
+
+Los traslados de pacientes han demostrado ser una fuente importante en la transmisión de MOMR intra e interhospitales; por ello, en este taller se discutieron y consensuaron algunos aspectos de la vigilancia de colonización de pacientes trasladados que se discuten a continuación.
+
+¿Es recomendable realizar vigilancia de colonización por MOMR en pacientes trasladados?
+
+En la actualidad, es cada vez más frecuente recibir pacientes trasladados de otras instituciones por las redes de derivación de camas críticas, los servicios prestados por instituciones privadas a hospitales públicos y la complejidad cada vez mayor de los pacientes que atendemos. Esto genera un riesgo de trasmisión de MOMR entre las instituciones como ha quedado demostrado en varias situaciones recientes, incluso entre distintos países3-5. De acuerdo a lo señalado, la vigilancia activa de pacientes trasladados se considera en general (una medida recomendable, pero no aplicable necesariamente a todos los hospitales). Se debe tener presente la realidad local en cuanto a recursos y complejidad, y a la endemia de MOMR que puede ser muy distinta entre los distintos hospitales.
+
+¿Qué criterios se deben utilizar para definir estos pacientes?
+
+Los criterios deben depender de la realidad de la institución recomendando considerar:
+
+• Pacientes complejos: con estadía en unidades de paciente crítico (UPC), neonatología, cirugía, sometidos a cirugía o procedimientos, portadores de dispositivos invasores al momento del traslado.
+
+• Pacientes que han tenido hospitalización en el extranjero.
+
+• Pacientes provenientes de centros de reposo y hospitales de crónicos.
+
+• Además, puede plantearse realizar vigilancia de los traslados internos, especialmente desde unidades de alta complejidad a unidades de baja complejidad.
+
+• Es clave la comunicación expedita y transparente entre las instituciones explicitando los hallazgos microbiológicos en los comentarios de alta o traslado.
+
+¿Qué microorganismos vigilar?
+
+Considerando que es complejo y de muy alto costo vigilar todos los MOMR, se propone vigilar sólo algunos de ellos. Además es importante recordar que se ha establecido que los pacientes comparten factores de riesgo para estar colonizados o infectados por MOMR6, por lo que algunos pueden considerarse marcadores de colonización. Se propone vigilar:
+
+• Enterococcus resistente a vancomicina (ERV), el que se considera marcador de colonización por bacterias multi-resistentes en general, ya que los factores de riesgo son, en su mayoría, comunes con SARM y enterobacterias productoras de BLEE6. A modo de ejemplo, en un estudio en la Universidad de Maryland, E.U.A., se detectó que 47% de los pacientes colonizados por enterobacterias productoras de BLEE estaban cocolonizados por ERV, y que si no se detectaba portación de ERV, el valor predictor negativo de portación de enterobacterias productoras de BLEE era de 99%2.
+
+• Staphylococcus aureus resistente a meticilina.
+
+• Sólo se propone ampliar la vigilancia a bacilos gramnegativos multi-resistentes u otros agentes dependiendo de la realidad de cada centro.
+
+¿Qué sitios de muestreo son los recomendados?
+
+De acuerdo a las guías internacionales vigentes7-9, los sitios recomendados son:
+
+• SARM: fosas nasales (narinas).
+
+• ERV: hisopado rectal o materia fecal; esta segunda muestra, de preferencia en pacientes intensamente neutropénicos.
+
+• Bacilos gramnegativos: no hay un sitio de tamizaje o tipo de muestra estandarizado; puede ser cultivo de aspirado endotraqueal en pacientes intubados o hisopado rectal. La zona inguinal ha sido recomendada en la guía más reciente publicada en 20149.
+
+¿Qué método utilizar para la vigilancia?
+
+• Los métodos de biología molecular (reacción de polimerasa en cadena-RPC) demuestran claramente mayor sensibilidad, pero el costo de implementación y proceso es claramente mayor. El menor tiempo de respuesta compensa, en parte, los costos al disminuir el tiempo de uso de los implementos para precaución de contacto en espera de los resultados10,11.
+
+• Los cultivos tradicionales pueden ser adecuados para comenzar un programa de vigilancia en hospitales menos complejos, que no dispongan de métodos moleculares o que tengan presupuestos muy reducidos.
+
+• La utilización de medios cromogénicos comerciales, disponibles para SARM, ERV y enterobacterias productoras de BLEE disminuyen el tiempo de respuesta.
+
+Propuesta de protocolo de vigilancia de pacientes trasladados
+
+• Consiste en la instalación de precaución de contacto y toma de muestras para SARM y ERV a pacientes trasladados desde otros centros asistenciales que cumplan al menos uno de los siguientes criterios:
+
+- Presencia de procedimientos invasores con excepción de catéter venoso periférico, independiente del tiempo de hospitalización.
+
+- Antecedentes de haber sido sometido a cirugía durante la hospitalización actual (previa al traslado), independiente del tiempo de hospitalización.
+
+- Hospitalización actual (previa al traslado) mayor a 72 h.
+
+- Hospitalización actual (previa al traslado) en Unidades de Paciente Crítico o Intermedio, independiente del tiempo de hospitalización.
+
+- Antecedentes de hospitalización por más de 72 h en los tres meses previos al ingreso.
+
+• Para SARM se realiza hisopado nasal (narinas) y para ERV hisopado rectal.
+
+• Ambos exámenes se procesan por RPC en laboratorio de urgencia para que estén disponibles en forma continua.
+
+• El resultado estará disponible aproximadamente en tres horas.
+
+• Si el resultado de los RPC es negativo y no hay otros cultivos o estudios pendientes que lo ameriten, se suspende la precaución de contacto.
+
+Taller 5       Recomendaciones para los establecimientos        de salud frente a informe de paciente        con enterobacteria productora de        carbapenemasa
+
+El objetivo de este taller fue sugerir aquellas medidas que deben ser implementadas en cualquier institución cuando se aísla una enterobacteria resistente a carbape-némico, mediada por la presencia de un gen que produce carbapenemasa, sea ésta de tipo KPC (Klebsiella pneumoniae carbapenemase) u otra.
+
+Las enterobacterias pueden ser resistentes a carbapenémicos por dos mecanismos principales: uno de bajo nivel, mediado por la hiper-expresión de AmpC y/o BLEE asociado a pérdida de algunas porinas y el segundo, mediado por enzimas que inactivan carbapenémicos (carbapenemasa). En Chile, el mecanismo más frecuente descrito como causa de resistencia de enterobacterias a carbapenémicos, es el mediado por perdida de porinas más la presencia de una enzima inactivadora de cefalosporinas; sin embargo, cuando la resistencia a carbapenémicos es mediada por carbapenemasas, existe mayor trascendencia clínica y epidemiológica ya que se anula la posibilidad de tratamiento con todos los carbapenémicos y tiene un potencial de diseminación mucho mayor.
+
+Se define una enterobacteria productora de carbapenemasa a aquella bacteria de la familia Enterobacteriaceae que presenta susceptibilidad disminuida a carbapenémicos, mediada por actividad de carbapenemasas. La detección de enterobacterias productoras de carbapenemasas tiene un impacto clínico considerable ya que usualmente está asociada a la presencia de muchos otros determinantes de resistencia, siendo estas bacterias habitualmente extremadamente resistentes (XDR) o incluso pan-resistentes.
+
+Los estudios de susceptibilidad por los diferentes métodos detectan la susceptibilidad disminuida a los carbapenémicos pero, a través de ellos, no se puede inferir la presencia de carbapenemasa. La detección de las carbapenemasas basada sólo en los valores de CIM o en los milímetros de halos de inhibición a carbapenémicos definidos como puntos de corte, tanto en el CLSI como EUCAST no tienen sensibilidad óptima, existiendo cepas productoras de carbapenemasas que caen en la categoría de intermedio e incluso sensibles. Por lo anterior, la búsqueda de carbapenemasas debiese ser realizada en cualquier enterobacteria con cualquier grado de disminución en la susceptibilidad a carbapenémicos22.
+
+Actualmente no existe consenso qué CIM o halo debiese aplicarse para investigar la presencia de carbapenemasas. En la literatura científica se ha recomendado realizarlo con valores ≥ 0,5 µg/mL para ertapenen; ≥ 1 µg/ mL para imipenem y meropenem23 o con halos < 25 mm en ertapenem y meropenem y < 23 en imipenem24.
+
+Aquella cepa sospechosa de producir carbapenemasa debiera ser sometida a un test de hidrólisis de carbapenémicos. Si el test de hidrólisis es positivo, es muy posible que esa cepa tenga presencia de carbapenemasa, la cual habría que determinar con estudios moleculares. Existen diferentes métodos para evaluar hidrólisis de carbapenémico. Se sugiere como método simple de realizar para la detección de carbapenemasas en cualquier laboratorio, el ensayo de hidrolisis de carbapenémicos "Carba NP" (por el nombre de sus creadores). Este test supera en sensibilidad y especificidad al test de Hodge modificado y al de ácido fenil borónico y además, es de rápida lectura (2 h), por lo que podría ser implementado en cualquier laboratorio clínico24. En Chile este test es realizado en diversos centros. Un resultado positivo de este test necesariamente debe llevar a un estudio molecular en búsqueda de una carbapenemasa específica. La confirmación de la presencia del gen de carbapenemasa debe ser realizada por biología molecular por lo que una cepa sospechosa de acuerdo a criterios anteriores, debe ser siempre derivada al Centro de Referencia Nacional. Existe actualmente una normativa que indica los criterios para derivación de cepas sospechosas que incluye resultados de CIM y de mm de diámetro del halo, sin considerar aún, los test de hidrólisis25.
+
+En Chile no existe endemia de Enterobacteriaceae resistentes a carbapenémicos mediada por carbapenema-sas, y los casos descritos a la fecha (no más de 30), han sido aislados. Sin embargo, países cercanos como Brasil, Colombia y Argentina tienen una alta endemia y, frente a pacientes que hayan estado hospitalizados en algunos de esos países, pareciera razonable descartar su presencia como colonizante, así como cualquier paciente proveniente de otros países más lejanos que poseen endemia por este tipo de enzimas.
+
+Dado la situación epidemiológica actual en Chile, consideramos que las medidas a continuación sugeridas, deben ser implementadas cuando:
+
+• El paciente tiene antecedentes epidemiológicos de haber estado en un país con endemia.
+
+• Hay un aislamiento de una enterobacteria resistente a uno o más carbapenémicos.
+
+• Y se ha realizado un test de hidrólisis que ha dado positivo.
+
+En este caso, el laboratorio debe notificar al equipo de IAAS quienes deben tener previamente protocolizadas las medidas a tomar. Pueden dividirse éstas en26,32;
+
+• Administrativas: Enfocadas a mantener el flujo de información desde y hacia las autoridades del hospital de manera de garantizar el financiamiento y transver-salidad de las medidas.
+
+• Enfocadas en el paciente caso: Aquellas que garanticen la correcta aplicación de las precauciones de contacto sin descuidar el la calidad de la atención del paciente.
+
+• Enfocadas en los contactos: Tendientes a evitar la diseminación o aparición no detectada de casos secundarios.
+
+• Personal de salud: Asegurarán la información y capacitación del personal de salud para lograr el adecuado cumplimiento de las medidas instauradas.
+
+• Ambientales: Tendientes a disminuir la probabilidad de persistencia del agente en el ambiente facilitando su erradicación.
+
+• Epidemiológicas: Enfocadas en la detección de portación y seguimiento en el tiempo.
+
+Se ha definido como fundamentales, las siguientes medidas (ver cuadro)
+
+Conclusiones de los Talleres 2014
+
+La resistencia bacteriana ofrece una epidemiología cambiante por lo que se hace necesaria la revisión periódica de las conductas y procedimientos frente a este tema, tanto desde el punto de vista diagnóstico, terapéutico, epidemiológico como del control de su diseminación. Referente al diagnóstico y pruebas de susceptibilidad antimicrobiana, el CLSI evalúa y hace recomendaciones anualmente de acuerdo a criterios preestablecidos y de aplicación local en E.U.A. Dada la calidad del panel de expertos sus recomendaciones son seguidas en América Latina y en particular en Chile. A pesar de ello, no todas las recomendaciones, pueden ser aplicadas en nuestro país y se requiere un análisis crítico de las mismas.
+
+• En el primer taller de discusión se analizaron las dificultades en la implementación local de las últimas recomendaciones del CLSI y las opciones que se podrían aplicar en nuestro país según la epidemiología y conocimientos locales.
+
+• En cuanto a los datos epidemiológicos de resistencia bacteriana, hasta la fecha, disponemos de información de porcentajes de susceptibilidad para diversos agentes, provista por los laboratorios de microbiología de manera estandarizada y en un número considerable de instituciones de nuestro país. Sin embargo, los porcentajes de susceptibilidad no necesariamente reflejan el problema epidemiológico de un hospital. En ese sentido, el grupo de participantes del Taller 2, sugiere complementar esta información con la medición de la "densidad de incidencia", la cual refleja de mejor manera la real endemia de bacterias con resistencia antimicrobiana de importancia epidemiológica y, eventualmente, en algunas instituciones además podría entregar datos del impacto clínico de estos microorganismos.
+
+ 
+
+
+
+ 
+
+• Entre los microorganismos de alta importancia epidemiológica figuran, de manera especial, las ente-robacterias con resistencia a carbapenémicos mediada por carbapenemasas, que constituyen una amenaza de salud pública para nuestros hospitales y para la cual aún estamos en condiciones de detener su diseminación. Aquellos hospitales que han tenido pacientes portadores o infectados con enterobacterias productoras de carbapenemasas han adaptado e implementado rápidamente las medidas de control recomendadas por la literatura científica, con éxito en la erradicación, ya que no se ha observado endemia o brotes posteriores a su detección y manejo. En el Taller 5, se analizaron las recomendaciones en base a la experiencia de estos hospitales y la evidencia que la respalda y se generó una lista de chequeo de fácil aplicación en caso de detección de nuevos casos.
+
+• Si consideramos el tratamiento de bacterias multiresistentes, una necesidad frecuente para los infectólogos es conocer los requisitos de calidad que se deben solicitar a los antimicrobianos genéricos que nos permitan recomendar a nuestros hospitales medicamentos seguros y eficaces que pudieran ser comparables a los innovadores (originales). En pacientes graves, asegurar que el fármaco elegido es igualmente efectivo que el innovador es crítico para el éxito clínico; por ende, se deben conocer todos aquellos puntos fundamentales para la exigencia al administrador de salud. En el Taller número 3 se mencionan varios de estos puntos considerando los requisitos administrativos, legales y farmacológicos necesarios para asegurar la mejor calidad y seguridad para los pacientes.
+
+• En los países en vías de desarrollo, como el nuestro, la transmisión de bacterias resistentes entre pacientes de diferentes hospitales es particularmente importante por la gran movilidad de los mismos, especialmente en los hospitales de la red pública. Consideramos relevante estandarizar el manejo que debieran tener los pacientes que se trasladan entre diferentes establecimientos ya que pueden ser portadores de microbiota diferente a la del hospital de destino del paciente. El taller que abordó este tema, establece sugerencias para el tamizaje de patógenos y de precauciones de contacto frente a esta circunstancia.
+
+Consideramos que los temas analizados en los talleres de la última reunión del GCR, si bien abordan puntos específicos y acotados sobre resistencia bacteriana, reflejan una necesidad que ha sido manifestada en distintas instancias por los participantes. Dado la importancia epidemiológica, creemos necesario compartir con la comunidad médica los acuerdos alcanzados. Destacamos que esto no representa una posición oficial nacional, ni un consenso de Sociedades Científicas ni de otras entidades. Las conclusiones de los participantes del Grupo Colaborativo de Resistencia Bacteriana sólo representan la experiencia local y la revisión de la literatura científica realizada, de modo que cada institución pueda evaluar de mejor manera las medidas importantes de implementar según su epidemiología y realidad local.
+
+Dado que los cambios de resistencia bacteriana son dinámicos, progresivos e incluso vertiginosos, es importante considerar que muchas de las recomendaciones aquí compartidas, pueden requerir modificaciones en un futuro cercano. Así, estimamos que es muy importante reevaluar periódicamente estas sugerencias, así como también incluir otros temas epidemiológicamente relevantes en resistencia bacteriana que no han sido incluidos en este documento. Hasta la fecha, en el mundo, la resistencia bacteriana ha ido aumentando como un evento difícil de controlar. Sólo el trabajo conjunto, integrado y coordinado en cada institución nacional, puede contribuir a retardar o disminuir esta amenaza de salud pública.
+
+Notas
+
+* Grupo Colaborativo de Resistencia Bacteriana
+
+Integrantes Taller 1: Silva Francisco, Camponovo Rossana, Álvarez María Isabel, Bello Helia, Briceño Isabel, Cruz María Carolina, Domínguez Mariana, Fernández Alejandra, García Patricia, González Gerardo, Guzmán Daniel, Illesca Vijna, Joyas Alejandro, Juliet Chrystal, Mühlhauser Margareta, Peralta Gerardo, Porte Lorena, Rioseco María Luisa, Rojas Pamela, Rocha Freddy, Sakurada Andrea.
+
+Integrantes Taller 2: Cifuentes Marcela, Álvarez J, Blamey Rodrigo, Cona Erna, Dabanch Jeannette, Gálvez Ricardo, Legarraga Paulette, Pavez Mónica, Salgado Fabiola. 
+
+Integrantes Taller 3: Rosales Ruth, Bavestrello Luis, Benadof Dona, Acuña Mirtha, Álvarez Ana María, Barthel Elizabeth, Chaboutti Henriette, Cofre José, Coria Paulina, Domínguez Isabel, Jensen Werner, Luppi Mario, Morales Jorge, Pavez Daniela, Rojas Álvaro, Usedo Pedro, Villena Rodolfo, Aylwin Mabel.
+
+Integrantes Taller 4: Ajenjo María Cristina, Riedel Gisela, Delama Ignacio, Diomedi Alexis, Lafourcade Mónica, Llancaqueo Álvaro, Marín Gloria, Muñoz Rodrigo, Pérez Jorge, Salvador Francisco, Stegmeier Helen.
+
+Integrantes Taller 5: Arancibia José Miguel, Bustamante Claudia, Castelli Anna, Concha Carla, Cornejo Andrés, De la Lastra Virginia, Díaz Horacio, Galindo Carolina, Muñoz Rubén, Olivares Roberto, Tapia Jaime, Tinoco Javier.

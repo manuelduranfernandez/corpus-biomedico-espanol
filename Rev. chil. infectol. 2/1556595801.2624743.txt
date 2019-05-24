@@ -1,0 +1,332 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182014000600011
+Jerarquización de la evidencia: Niveles de evidencia y grados de recomendación de uso actual
+
+Resumen
+
+Existen múltiples propuestas y clasificaciones que jerarquizan la evidencia, que pueden confundir a quienes se dedican a generar la evidencia tanto en evaluaciones de tecnología sanitaria, elaboración de guías clínicas, etc. El objetivo de este artículo es actualizar la información y describir las clasificaciones más utilizadas para valorar la evidencia en el ámbito de la salud, analizando sus principales diferencias y aplicaciones para que el usuario pueda elegir la que mejor se adapte a sus necesidades y tomar de este modo decisiones sanitarias basando su práctica en la mejor evidencia disponible. Se realizó una búsqueda sistemática de la literatura en las bases de datos PubMed y MEDLINE y en los buscadores Google, Yahoo e Ixquick. Se obtuvo una gran cantidad de información referente a niveles de evidencia y grados de recomendación, para finalmente resumir la información de 11 de las propuestas más utilizadas en la actualidad (CTFPHC, Sackett, USPSTF, CEBM, GRADE, SIGN, NICE, NHMRC, PCCRP, ADA y ACCF/AHA), entre las que destaca la del GRADE WORKING GROUP, incorporada por alrededor de 90 organizaciones nacionales e internacionales, tales como la World Health Organization, The Cochrane Library, American College of Physicians, American Thoracic Society, UpToDate, etc. y a nivel local por el Ministerio de Salud, para generar guías de práctica clínica.
+
+Palabras clave: Práctica clínica basada en la evidencia; medicina basada en la evidencia niveles de evidencia, grados de recomendación, recomendación clínica.
+
+ 
+
+Introducción
+
+Los primeros indicios de la práctica de la medicina basada en la evidencia (MBE), se remontan a los tiempos del emperador Qianlong, cuando se utilizaba el método "kaozheng" que representa la "práctica de la investigación probatoria"1,2. Desde entonces, numerosas instancias aisladas se fueron desarrollando hasta que en la década de los ochenta, el grupo de la Universidad McMaster, liderado por David Sackett, desarrolló los principios de la enseñanza y práctica de la MBE que rigen hasta hoy, y que se pueden resumir como "integrar la experiencia clínica individual con la mejor evidencia disponible a partir de la investigación sistemática"3,5.
+
+En la búsqueda de la mejor evidencia disponible, es necesario otorgar un valor jerárquico a la evidencia disponible, con el objetivo de tener una guía para decidir si aplicar o no una determinada intervención, tratamiento o procedimiento; a partir de la cual se pueda emitir una recomendación basada en la solidez de la evidencia que la respalda.
+
+La primera jerarquización de la evidencia fue formulada por la Canadian Task Force on the Periodic Health Examination en 1979. Ésta, se desarrolló para la evaluación de medidas preventivas. Fue adaptada posteriormente
+
+por la U.S. Preventive Services Task Force (USPSTF) en 1984, quienes organizaron los niveles de evidencia (NE) y grados de recomendación (GR) para sujetos asintomáticos, indicando cuáles procedimientos eran los más adecuados y cuáles debían ser evitados.
+
+En general, las clasificaciones se basan en los diseños de los estudios de donde proviene la evidencia, asumiendo que algunos de ellos están sujetos a más sesgos que otros; y por ende, justifican más débilmente las decisiones clínicas. Por otro lado, el análisis constante de la evidencia disponible desde la perspectiva de los diferentes escenarios clínicos, permite establecer GR para el ejercicio de procedimientos diagnósticos, terapéuticos, preventivos, económicos en salud, etc.; e indican la forma de valorar la evidencia disponible en función de etiología, daño, morbilidad y complicaciones; pronóstico, historia natural y curso clínico, etc. de una enfermedad o evento de interés6.
+
+Ha existido una proliferación de propuestas y clasificaciones que jerarquizan la evidencia; y junto con ello, sus respectivos GR. Ambos, pueden confundir a quienes se dedican a generar la evidencia a través del reporte de resultados por medio de artículos primarios y revisiones sistemáticas; así como de la realización de documentos de resumen de la evidencia (overviews), elaboración de guías clínicas, evaluaciones de tecnología sanitaria, etc.
+
+Esto es debido a las diferencias y a la complejidad de las escalas de valoración existentes. Adicionalmente, el lenguaje utilizado para expresar la información no es de uso rutinario en la práctica cotidiana6, lo que determina aún más confusión e incertidumbre respecto de cuál aplicar.
+
+El objetivo de este artículo es actualizar la información y describir las clasificaciones más utilizadas para valorar la evidencia en el ámbito de la salud, analizando sus principales diferencias y aplicaciones para que el usuario pueda elegir la que mejor se adapte a sus necesidades y tomar de este modo decisiones sanitarias basando su práctica en la mejor evidencia disponible.
+
+Clasificación de la evidencia y tipos de estudio
+
+En las dos últimas décadas se ha producido un incremento significativo de la investigación clínica basada en la evidencia, como pilar fundamental en la toma de decisiones para los cuidados en salud. Sin embargo, no todos los conocimientos provenientes de artículos científicos tienen el mismo impacto o valor sobre la toma de decisiones; por tal razón, se debe aplicar un método riguroso para compilar la evidencia científica en torno a una pregunta; analizar de forma crítica los artículos científicos de los que disponemos para responder a la interrogante en cuestión, valorando la validez interna (metodología empleada y riesgo de sesgos), el impacto de los resultados y la validez externa del artículo (posible reproducibilidad de los resultados en la población que nos interesa). Previo a ello, el o los artículos seleccionados deben ser asignados a algún escenario clínico (tratamiento, prevención, etiología, daño, pronóstico e historia natural, diagnóstico diferencial, prevalencia, tamizaje, estudios económicos y análisis de decisión), a propósito de lo cual se elegirá la guía de usuario o pauta de lectura crítica correspondiente con la que se evaluará cada artículo.
+
+Una vez identificado el escenario en el que corresponde catalogar al artículo (en ocasiones, puede ser asignado a más de uno), se aplica según el tipo de diseño del estudio en cuestión, la propuesta de NE y GR. Por lo anteriormente expuesto, es fundamental identificar el escenario y los diseños de investigación para poder valorar la evidencia utilizando alguna de las clasificaciones existentes.
+
+Realizamos una búsqueda sistemática de la literatura en las bases de datos PubMed y MEDLINE y en los buscadores Google, Yahoo e Ixquick, utilizando los términos: medicina basada en la evidencia, evidencia, niveles de evidencia, grados de recomendación, fuerza de recomendación; en idiomas inglés y castellano. Obtuvimos una gran cantidad de información referente a niveles de evidencia y grados de recomendación, para finalmente resumir la información de 11 de las propuestas más utilizadas en la actualidad (CTFPHC, Sackett, USPSTF, CEBM, GRADE, SIGN, NICE, NHMRC, PCCRP, ADA y ACCF/AHA), que son las que se describen a continuación.
+
+Canadian Task Force on Preventive Health Care
+
+La Canadian Task Force on Preventive Health Care (CTFPHC), fue elaborada por la Public Health Agency of Canada (PHAC) para desarrollar guías de práctica clínica que respaldasen las acciones de salud preventiva7.
+
+En sus inicios, este grupo hizo énfasis en el tipo de diseño utilizado y la calidad de los estudios publicados, basándose en los siguientes elementos: Un orden para los GR establecido por letras del abecedario donde las letra A y B indican que existe evidencia para ejercer una acción (se recomienda hacer); D y E indican que no debe llevarse a cabo la maniobra o acción determinada (se recomienda no hacer); la letra C, indica que la evidencia es "contradictoria"; y la letra I, indica insuficiencia en calidad y cantidad de evidencia disponible para establecer una recomendación (Figura 1)8. Y, NE clasificados según el diseño de los estudios de I a III, disminuyendo en calidad según se acrecienta numéricamente, para lo cual son clasificados según validez interna o calidad metodológica del estudio (Figuras 2 y 3).
+
+ 
+
+
+
+Figura 1. Grados de recomendación para las intervenciones de prevención (CTFPHC).
+
+ 
+
+
+
+Figura 2. Niveles de evidencia e interpretación de los tipos de estudio para          intervenciones de prevención (CTFPHC).
+
+ 
+
+
+
+Figura 3. Validez interna e interpretación de los tipos de estudio para intervenciones          de prevención (CTFPHC).
+
+ 
+
+Adicionalmente, CTFPHC se apoya en el sistema GRADE (Grading of Recommendations Assessment, Development and Evaluation)9,10, para evaluar la calidad de la evidencia y realizar recomendaciones en el ámbito de la prevención.
+
+Clasificación de Sackett
+
+Esta sistematización propuesta por el epidemiólogo David L. Sackett, jerarquiza la evidencia en niveles que van de 1 a 5; siendo el nivel 1 la "mejor evidencia" y el nivel 5 la "peor, la más mala o la menos buena" (Figura 4)11.
+
+ 
+
+
+
+Figura 4. Clasificación de los niveles de evidencia según Sackett.
+
+ 
+
+Las recomendaciones en apoyo de una intervención pueden ser generadas en base a estos cinco NE. De este modo, estudios nivel 1 conllevan a un GR A: resultados apoyados por estudios; nivel 2, reciben un GR B y las recomendaciones C se asignan a los resultados apoyados por estudios nivel 3, 4 ó 5. Así, el nivel indica el grado de certeza, generado por la fuerza de la evidencia. Grado A: Las conclusiones se generan a partir de la evidencia más fuerte de la investigación y por tanto son los más definitivos. Grado B: Las conclusiones se basan en pruebas más débiles y sólo son orientativas. Grado C: Las conclusiones se basan en pruebas débiles, por lo que son las menos fiables.
+
+La principal desventaja es que al no existir sub categorías en algunas situaciones es difícil entregar un GR; por ejemplo, en el caso de un ensayo clínico (EC) con una muestra pequeña y riesgo de sesgo moderado, el GR ¿sería A o B? La otra desventaja que presenta es que dependen fundamentalmente de diseños clásicos y robustos, y no considera estudios menos habituales o rigurosos (por ejemplo estudios de corte transversal, poblacionales, etc.). Sin embargo, esta clasificación fue pionera y ha servido de base para el desarrollo de clasificaciones más completas, como la propuesta del Centre for Evidence-Based Medicine (CEBM) y otras.
+
+U.S. Preventive Services Task Force
+
+El U.S. Preventive Services Task Force (USPSTF) es un grupo independiente de expertos en prevención y MBE, creado en 1984 en EE.UU. Es el encargado de valorar de forma rigurosa la investigación clínica con el fin de evaluar los méritos de las medidas preventivas, incluidas las pruebas de detección, servicios de asesoramiento, vacunas y medicamentos preventivos12.
+
+Generaron una jerarquización, estableciendo la fuerza de sus recomendaciones a partir de la calidad de la evidencia y del beneficio neto, el que fue definido como beneficio menos daño del servicio preventivo, evaluado tal como se aplica en la atención primaria a la población general.
+
+El USPSTF asigna un nivel de certeza para evaluar el beneficio neto de un servicio preventivo basado en la naturaleza de la evidencia total disponible para sustentar el GR (Figura 5).
+
+ 
+
+
+
+Figura 5. Descripción de los niveles de evidencia para exámenes periódicos de salud (USPSTF).
+
+ 
+
+A los GR se le asigna una letra (A, B, C, D, o I). Se apoyan en grados de certeza, que se definen como la probabilidad que el beneficio neto de un servicio preventivo que ha sido evaluado por la USPSTF sea correcto. El grado A, sugiere recomendar la acción ya que existe un alto grado de certeza que el beneficio neto es sustancial; el extremo opuesto es el grado I, que sugiere que no hay suficiente evidencia para evaluar el beneficio neto de una acción y por lo tanto, no se puede recomendar.
+
+El USPSTF ha actualizado sus definiciones de las calificaciones que asigna a las recomendaciones y ahora incluye una columna de "sugerencias para la práctica" asociados con cada grado (Figura 6)13.
+
+ 
+
+
+
+Figura 6. Grados de recomendación para exámenes periódicos de salud (USPSTF).
+
+ 
+
+Centre for Evidence-Based Medicine, Oxford
+
+La propuesta del Centre for Evidence-Based Medicine de Oxford (CEBM) se caracteriza por valorar la evidencia según el área temática o escenario clínico y el tipo de estudio que involucra al problema clínico en cuestión14. Es una innovación complementaria a otras iniciativas. Tiene la ventaja que gradúa la evidencia de acuerdo al mejor diseño para cada escenario clínico, otorgándole intencionalidad, agregando las revisiones sistemáticas (RS) en los distintos ámbitos. Por ejemplo, al tratarse de un escenario de pronóstico, la evidencia será valorada a partir de una RS de estudios de cohortes con homogeneidad, o en su defecto, de estudios de cohortes individuales con un seguimiento superior al 80% de la cohorte; en cambio, si el escenario se refiere a terapia o tratamiento, la evidencia se valorará principalmente a partir de RS de EC, o en su defecto de EC individuales con intervalos de confianza estrechos.
+
+Esta clasificación tiene la ventaja que nos asegura el conocimiento más atingente a cada escenario, por su alto grado de especialización. Además tiene la prerrogativa de aclarar cómo afecta la falta de rigurosidad metodológica al diseño de los estudios, disminuyendo su valoración no sólo en la gradación de la evidencia, sino que también en la fuerza de las recomendaciones (Figura 7).
+
+ 
+
+
+
+Figura 7. Niveles de evidencia de CEBM (2009).
+
+ 
+
+No obstante lo cual, presenta algunos inconvenientes para su práctica habitual. Por una parte, vemos como en su estructura se presentan términos epidemiológicos poco amigables y con múltiples aclaraciones que hacen su lectura poco fluida y, que rápidamente pueden frustrar a quien se aproxima a ella por primera vez. En su intento por abarcar todos los aspectos con la máxima exhaustividad, pierde la simpleza para hacerla aplicable6.
+
+El año 2009 se realizó una revisión de la tabla original con la idea de simplificarla para permitir una búsqueda heurística rápida y al mismo tiempo que permitiese jerarquizar la evidencia encontrada. Se adicionó un glosario con la definición de los términos relevantes, en forma precisa y entendible. Además, se consideró que las pruebas de "screening" o tamizaje debían considerarse como una entrada independiente y que se debía resaltar la importancia de las RS.
+
+En esta nueva versión15, se distinguen las filas que representan la serie de pasos que se deberían seguir en búsqueda de la mejor evidencia. Hacia el extremo izquierdo se encuentra la evidencia más fuerte y hacia la derecha la más débil. Las columnas representan los tipos de preguntas que el clínico pudiera encontrarse: ¿Qué tan común es el problema?, ¿Es precisa la prueba diagnóstica?, ¿Qué pasaría si no se instaura el tratamiento?, ¿La intervención ayudará al paciente?, ¿Qué tan frecuente o infrecuente es la complicación?, ¿Vale la pena utilizar esta prueba diagnóstica para detección precoz? (Figura 8).
+
+ 
+
+
+
+Figura 8. Niveles de evidencia de CEBM (2011).
+
+ 
+
+En primer lugar se debe identificar a cuál de las preguntas de la columna izquierda corresponde el artículo del que proviene la evidencia que se desea valorar. Posteriormente, se debe identificar en la fila hacia la derecha, el diseño del estudio. Este punto es el que indica el NE, el que se identifica en la fila superior. Si bien la tabla es de fácil manejo y permite una valoración rápida y práctica de la evidencia, presenta al mismo tiempo la desventaja que al no existir subcategorías en relación a la calidad de los estudios, puede sesgar el valor que se le otorga a la evidencia. Por ejemplo, si la evidencia encontrada para una pregunta de terapia proviene de una RS, probablemente se categorizará como NE 1, pero si al continuar con la búsqueda nos encontramos con un EC con doble enmascaramiento y alta calidad metodológica que presenta un resultado contrario a la RS, ¿a cuál le creeremos? No sólo el NE que representa un determinado diseño va a avalar la decisión ya que pueden existir RS con fallas metodológicas que limitan la validez del estudio, situaciones en que las subcategorías serían de gran ayuda; sin embargo, al incluir estas subcategorías la simpleza de esta herramienta se pierde. Por lo tanto, CEBM sugiere que los NE se interpreten con una dosis de sentido común y buen juicio, lo que es posible lograr realizando una sistemática y exhaustiva búsqueda de la literatura científica que permita obtener los artículos relevantes y realizar un acucioso análisis crítico de la literatura antes de valorar la evidencia y aplicarla en la práctica si así lo amerita16.
+
+No obstante que CEBM actualizó la propuesta, es menester señalar que la anterior (Figura 7), sigue siendo utilizando de forma masiva por los grupos de investigación, que ven en ésta una mejora de la clasificación de Sackett.
+
+Grade Working Group
+
+GRADE (The Grading of Recommendations Assessment, Development and Evaluation), es un sistema para clasificar la calidad de la evidencia y fuerza de recomendación aplicable a una amplia gama de intervenciones y contextos. Fue elaborado en base a la experiencia previa con otras herramientas existentes para conseguir un sistema "más razonable, confiable y ampliamente aplicable"17.
+
+La principal diferencia de este sistema en relación a otros, es que GRADE no valora la calidad de un estudio individual; sino que le da un valor a la evidencia para una medida resultado en particular, a partir de varios estudios primarios.
+
+Los juicios sobre la fuerza de una recomendación deben tener en cuenta el balance entre beneficios y riesgos, la calidad de la evidencia, la aplicación de ésta en circunstancias específicas y la situación de riesgo basal, que son los puntos claves evaluados en cada artículo (Figura 9).
+
+ 
+
+
+
+Figura 9. GRADE modificado: grados de recomendación.
+
+ 
+
+Destaca en esta propuesta, la elaboración de una tabla de síntesis que se obtiene de forma sistemática y que se basa en la evaluación de la calidad de la evidencia según el tipo de diseño18: EC con asignación aleatoria: calidad alta; estudios observacionales: calidad baja; y cualquier otra evidencia: calidad muy baja.
+
+El grado disminuye si es que en la calidad del estudio existe: una limitación importante (-1) o muy importante (-2); una inconsistencia importante (-1); incertidumbre respecto de si la evidencia es directa o indirecta: si es alguna (-1) y si es máxima (-2); información imprecisa o escasa (-1); y alta probabilidad de sesgo de información (-1).
+
+Por otra parte, el grado aumenta si es que: la evidencia de la asociación es fuerte, con un RR > a 2 ó < 0,5 basado en evidencia consistente derivada de dos o más estudios observacionales, sin factores de confusión plausibles (+1); o cuando la evidencia de la asociación es muy fuerte, con un RR > a 5 ó < 0,2 basado en evidencia directa, sin amenazas importantes para la validez (+2); o cuando existe evidencia de un gradiente dosis respuesta (+1); o cuando todos los potenciales factores de confusión posibles se han podido controlar en su efecto (+1).
+
+Las ventajas del sistema GRADE respecto de los otros sistemas de clasificación son: que utiliza definiciones explícitas y juicios secuenciales durante el proceso de clasificación; que proporciona una descripción detallada de los criterios para la calidad de la evidencia para los resultados individuales y para la calidad general de la evidencia; que pesa la importancia relativa de los resultados; que considera el equilibrio entre los beneficios de salud versus los daños, costos y gastos; y, que permite desarrollar perfiles de evidencia y resúmenes de los hallazgos19.
+
+Es una herramienta muy completa que incorpora el uso de un software de uso libre para extraer los datos y realizar la síntesis, por ende, requiere tiempo para su aplicación ya que el análisis de un estudio individual es muy exhaustivo. Ha sido incorporada por diversas instituciones para para evaluar la calidad de la evidencia disponible, realizar recomendaciones y generar guías de práctica clínica. Entre ellas, destacan organismos internacionales tales como World Health Organization, Cochrane Library, World Allergy Organization (WAO), Surviving Sepsis, UpToDate, etc; instituciones norteamericanas como CDC's Healthcare Infection Control Practices Advisory Committee (HICPAC), CDC's Division of Viral Hepatitis, Infectious Diseases Society of America, CDC's Advisory Committee on Immunization Practices (ACIP), Agency for Healthcare Research and Quality (AHRQ), The University of Pennsylvania Health System Center for Evidence-based Practice, American College of Physicians, American Thoracic Society, American Gastroenterological Association (AGA), The American Society of Colon and Rectal Surgeons, The Eastern Association for the Surgery of Trauma (EAST), American College of Chest Physicians, American Society for Gastrointestinal Endoscopy (ASGE), The American Association for the Study of Liver Diseases, etc; organizaciones europeas como British Medical Journal (UK), Clinical Evidence (UK), National Institute for Clinical Excellence (NICE, UK), The Scottish Intercollegiate Guidelines Network (SIGN, UK), NHS Quality Improvement (UK), German Center for Evidence-based Nursing "sapere aude" (Alemania), Evidence-based Nursing Südtirol, Alto Adige (Italia), European Society of Thoracic Surgeons, European Respiratory Society, European Association for the Study of the Liver (EASL), Belgian Centre for Evidence-Based Medicine (CEBAM), etc; instituciones canadienses como Health Quality Ontario, The Canadian Agency for Drugs and Technologies in Health, Evidence-Based Tuberculosis Diagnosis, The Canadian Cardiovascular Society, La Société Canadienne de Cardiologie, Canadian Task Force on Preventive Health Care (CTFPHC), etc.10; a las que habría sumar alrededor de 50 instituciones más10. En Chile, el Ministerio de Salud, ha hecho interesantes esfuerzos por incorporar GRADE en la elaboración de guías de práctica clínica.
+
+Scottish Intercollegiate Guidelines Network
+
+El Scottish Intercollegiate Guidelines Network (SIGN) desarrolla guías de práctica clínica basadas en la evidencia, realizadas para el Servicio Nacional de Salud (NHS) de Escocia. Derivan de RS de la literatura científica y son diseñadas como un vehículo para acelerar la traducción del nuevo conocimiento en acción para cumplir con el objetivo de reducir la variabilidad de la práctica y mejorar los resultados relevantes para los pacientes20.
+
+La propuesta del SIGN, se originó teniendo como foco de interés la temática del tratamiento y los procedimientos terapéuticos. Se diferencia de las anteriores por su particular énfasis en el análisis cuantitativo que aportan las RS; y otorga además importancia a la reducción del error sistemático o sesgo (Figuras 10 y 11)21.
+
+ 
+
+
+
+Figura 10. Niveles de evidencia para estudios de tratamiento. Propuesta del SIGN.
+
+ 
+
+
+
+Figura 11. Grados de recomendación para estudios de tratamiento. Propuesta del SIGN.
+
+ 
+
+Como fortaleza, es relevante destacar que considera la calidad metodológica de los estudios que componen las RS, situación de sumo interés, dada la alta producción anual de RS.
+
+Como debilidad podemos señalar que no considera en la elaboración de las recomendaciones la realidad científica y tecnológica del momento, pues éstas se crean con una rigidez que puede ser peligrosa para quienes usan con ortodoxia las recomendaciones para la implementación de políticas de salud. Por otro lado, se basa de forma puntual en los aspectos metodológicos y de diseño, pero no así en la dimensión de la perspectiva del padecer una enfermedad o las implicancias económicas de las medidas recomendadas; situación que puede limitar su utilización en la práctica clínica latinoamericana.
+
+Antiguamente, el SIGN se basaba en los NE desarrolladas por la Agencia de E.U.A. para el Cuidado de la Salud y la Investigación (AHCPR). Dadas las limitaciones encontradas con este sistema, desarrollaron una nueva clasificación que utilizan desde el año 200022.
+
+Este sistema de clasificación pretende dar mayor peso a la calidad de la evidencia que respalda cada recomendación, y hacer hincapié en que el cuerpo de la evidencia debe ser considerado en su conjunto, y no depender de un sólo estudio para apoyar a cada recomendación. También pretende dar más peso a las recomendaciones respaldadas por estudios observacionales de gran calidad donde los EC no se pueden realizar por razones prácticas o éticas.
+
+En 2009, el SIGN tomó la decisión de implementar el enfoque GRADE en su directriz metodológica, metodología que se encuentra actualmente en desarrollo21.
+
+National Institute for Health and Clinical Excellence
+
+La iniciativa National Institute for Health and Clinical Excellence (NICE) nace del National Health Service del Reino Unido (NHS) y actualmente abarca la valoración de la evidencia en diferentes escenarios clínicos: tratamiento, diagnóstico, pronóstico y estudios de costo efectividad. Además incluye el tópico de la experiencia del paciente para informar preguntas de revisión (estudios cualitativos y encuestas en estudios transversales) y guías clínicas23.
+
+Desde el año 2009 utiliza la pauta GRADE para evaluar la calidad de la evidencia en terapia y procedimientos terapéuticos. No obstante ello, NICE difiere de GRADE en dos puntos: integra una revisión de la calidad de los estudios de coste-efectividad; y no utiliza etiquetas como "resumen global" para la calidad de la evidencia o la fuerza de una recomendación, sino que utiliza la redacción de recomendaciones a fin de reflejar la fuerza de la recomendación.
+
+Para valorar la calidad de la evidencia en estudios de diagnóstico, utiliza la herramienta QUADAS-2; y la calidad de la evidencia en estudios de pronóstico se realiza mediante la aplicación de una lista de chequeo ad-hoc. Por otra parte, para evaluar la calidad de las guías clínicas utiliza el instrumento AGREE II.
+
+La jerarquización de la evidencia y los GR para estudios de pruebas diagnósticas se pueden apreciar en las Figuras 12 y 13.
+
+ 
+
+
+
+Figura 12. Niveles de evidencia para estudios de pruebas diagnósticas. Propuesta          de la NICE.
+
+ 
+
+
+
+Figura 13. Grados de recomendación para estudios de pruebas diagnósticas. Propuesta          de la NICE.
+
+ 
+
+Finalmente cabe señalar, que NICE presenta la información a través de un resumen de la calidad de la evidencia encontrada, el que es elaborado tras la aplicación de la evaluación sistemática de la información, utilizando para ello las herramientas ya mencionadas y la ulterior redacción de recomendaciones24.
+
+National Health and Medical Research Council
+
+El National Health and Medical Research Council (NHMRC) se ha utilizado en Australia desde 1999. Es una tabla de jerarquía de la evidencia, creada con el objetivo de valorar la evidencia en las guías de práctica clínica y evaluación de tecnologías sanitarias (Figura 14).
+
+ 
+
+
+
+Figura 14. Niveles de evidencia según NHMRC.
+
+ 
+
+Los manuales proponen valorar la evidencia en tres dimensiones: la fuerza, el tamaño del efecto y la relevancia clínica. En este esquema, la solidez de la evidencia determina el nivel, la calidad de la evidencia y su precisión estadística. Con el uso de esta forma de jerarquización, se ha observado que a menudo la evidencia obtenida no es susceptible de ser sometida a meta-análisis y por tanto su valoración se relaciona sólo a los estudios individuales.
+
+La tabla actual (basada en la jerarquización del CEBM), es más amplia que la inicial y está estructurada de forma distinta. Contiene cinco columnas para cada una de las áreas de investigación (intervención, precisión diagnóstica, pronóstico, etiología y tamizaje); y una columna ubicada al extremo izquierdo de las anteriores presenta los NE.
+
+Al valorar la evidencia se sugiere indicar siempre el área de investigación, por ejemplo, NE II Intervención, NE IV prueba diagnóstica.
+
+Es muy completa pero poco práctica para el uso cotidiano. Va acompañada de un glosario y un formulario tipo para registrar cada uno de los pasos de la valoración hasta la ulterior recomendación25.
+
+Practicing Chiropractors' Committee on Radiology Protocols
+
+El Practicing Chiropractors' Committee on Radiology Protocols (PCCRP) desarrolla guías clínicas, para lo cual utiliza una clasificación de NE adaptada de la clasificación utilizada por el United States Department of Health and Human Services26. Ésta, no se limita sólo a EC; sino que considera todos los tipos de estudios que pueden aportar evidencia para la práctica.
+
+Además, el PCCRP utiliza la propuesta de GR presentada por Phillips y cols.27, con una leve modificación para ajustarse a los NE no clínicos (Figura 15).
+
+ 
+
+
+
+Figura 15. Grados de recomendación PCCRP.
+
+ 
+
+De este modo, agrupa la evidencia en cinco niveles según el diseño de los estudios:
+
+Nivel I. EC controlados con asignación aleatoria, incluyendo estudios cuasi-aleatorios como también con asignación alternada.
+
+Nivel II. EC sin asignación aleatoria (estudio prospectivo, previamente planificado, con criterios de elegibilidad y medidas de resultado pre-determinados).
+
+Nivel III. Estudios observacionales. Incluye estudios de cohortes prospectivos y retrospectivos, estudios de casos y controles; y la investigación de servicios de salud que incluya ajustes por posibles variables de confusión.
+
+Nivel IV. Estudios observacionales sin grupo control (estudios de cohortes sin controles y series de casos).
+
+Y, nivel V, que corresponde a la opinión de expertos.
+
+American Diabetes Association
+
+La American Diabetes Association (ADA), ha participado activamente en el desarrollo y difusión de las normas de atención, directrices y documentos relacionados a la diabetes mellitus, aportando un sistema de clasificación para calificar la calidad de la evidencia científica que apoya sus recomendaciones disciplinarias (Figura 16)28.
+
+ 
+
+
+
+Figura 16. Niveles de evidencia de la ADA.
+
+ 
+
+Estos niveles agrupados por letras, van de la A a la E y en base a esta valoración se realiza la recomendación.
+
+Es una propuesta simple, en la que el NE ofrece directamente un GR, por ejemplo: un nivel A aporta un GR A.
+
+Las recomendaciones se asocian a evidencia proveniente de estudios clínicos (niveles A-D). Por otra parte, un GR E se considera una categoría separada en las que no existe evidencia proveniente de EC; o, en situaciones en las que los que los EC pueden ser poco prácticos; o, en aquellas circunstancias en las que hay evidencia contradictoria.
+
+The American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines
+
+El American College of Cardiology Foundation/American Heart Association (ACCF/AHA) Task Force es el encargado de elaborar, actualizar y revisar las directrices prácticas para las enfermedades cardiovasculares y sus respectivos procedimientos.
+
+En el análisis de los datos y la elaboración de recomendaciones de las guías de práctica clínica, el comité de redacción utiliza metodologías basadas en la evidencia desarrolladas por el Task Force. La "clase de la recomendación" (COR) es una estimación del tamaño del efecto de un tratamiento; teniendo en cuenta los riesgos versus los beneficios, evidencia y grado de acuerdo que un determinado tratamiento o procedimiento es o no útil/efectivo, o que en algunos casos puede causar daño29.
+
+El esquema para COR y NE se resume en la Figura 17, que también ofrece frases sugeridas para escribir recomendaciones para cada COR.
+
+ 
+
+
+
+Figura 17. Niveles de evidencia del ACCF/AHA Task Force on Practice Guidelines.
+
+ 
+
+Un aporte a esta metodología es la separación de las recomendaciones; por ejemplo: Clase III para delimitar si la recomendación es considerada "ningún beneficio", o  se asocia con "daño" al paciente.
+
+Por otro lado, dado el número cada vez mayor de estudios de comparación de efectividad, se sugieren verbos y frases de comparación para la redacción de recomendaciones para la eficacia comparativa de un tratamiento o estrategia frente a otro (pero sólo para COR I y IIa, NE A o B).
+
+Lo interesante de este enfoque es que cualquier combinación de COR y NE es posible. Por ejemplo, una recomendación puede tener Clase I, incluso si se basa exclusivamente en la opinión de expertos y no hay estudios de investigación que se hayan llevado a cabo. Del mismo modo, una Clase IIa o IIb se le puede asignar un Nivel A, si hay varios EC controlados con asignación aleatoria que llegan a conclusiones divergentes.
+
+Hacen énfasis en que la asignación de un NE B o C no debe interpretarse en términos que la recomendación es débil. Muchas de las preguntas clínicas importantes tratadas en las guías clínicas no se prestan a la experimentación o aún no han sido abordadas por las investigaciones de alta calidad. A pesar que los EC controlados con asignación aleatoria pueden no estar disponibles, la pregunta clínica puede ser tan relevante que sería negligente no incluirla en la guía.
+
+Discusión
+
+El paso fundamental para la aplicación clínica de la evidencia en torno a un problema clínico es darle un valor a la evidencia disponible que nos permita ejercer el juicio clínico en base al grado de confiabilidad que los resultados de las investigaciones científicas nos entregan y que permita evaluar beneficios vs riesgos, a la luz de la evidencia actual.
+
+Existen múltiples propuestas de clasificaciones para valorar la evidencia (se estima que superan el centenar); desde la inicial y más simple (Sackett), que sirvió de base para las actuales; hasta otras que han querido considerar todas las posibles situaciones que se pueden encontrar, haciéndolas inmanejables debido a su extensión. Entre otras tantas, se pueden mencionar las de la Agency for Healthcare Research and Quality30, de la Agència d'Avaluació de Tecnologia Mèdica (AATM) de la Generalitat de Catalunya31, de la Canadian Asthma Consensus Group32; la de NANDA-I33, del Servicio Andaluz de Salud34, SORT35, etc.
+
+Junto a ello, el lenguaje epidemiológico empleado, ha llevado consigo confusión e incomprensión por parte de los médicos clínicos, quienes ven en esta gran variedad de opciones más conflictos que ayuda al desarrollo de la práctica profesional. En este artículo se presentan las clasificaciones más relevantes existentes; utilizando como criterio de selección, el nivel de utilización de cada cual, el que se asocia directamente con el grado de aceptación de ellas por parte de la comunidad científica general o particular.
+
+Sin embargo, lo interesante de todo esto, es que el desarrollo creciente de las guías clínicas y la realización de evaluaciones de tecnologías sanitarias, ha determinado la necesidad de utilización de cada una de las iniciativas antes señaladas, tanto en universidades como establecimientos sanitarios; razón por la que es relevante conocerlas, de modo tal de comprender mejor la metodología a través de la cual se efectúan estos procesos.
+
+La sistematización de la búsqueda de la evidencia es el paso fundamental para la obtención de la mejor evidencia disponible. Sin embargo, al momento de acercarnos a ella siempre se ha de considerar la existencia de características poblacionales, culturales, económicas, tecnológicas, ambientales, etc.; es decir, darle relevancia al concepto de validez externa "sin importar" lo que "parece resultar" en otras latitudes, sin pruebas previas en nuestra realidad.
+
+El paso siguiente corresponde a darle un valor a esta evidencia, para lo cual se debe elegir la clasificación que más se ajuste a nuestra necesidad y que permita discriminar entre un nivel y otro, para realizar las recomendaciones más adecuadas al entorno asistencial y poblacional. Es así como se dispone de clasificaciones amplias, con una propuesta distinta para diferentes escenarios (CEBM, NHMRC, etc.), como de clasificaciones más específicas, que apuntan a un escenario puntual (CTFPHC, SIGN, etc.) y otras como GRADE que ha sido incorporada para evaluar la calidad de la evidencia disponible, realizar recomendaciones y generar guías de práctica clínica basadas en la evidencia, por alrededor de 90 prestigiosas instituciones nacionales e internacionales10.
+
+Finalmente, nos parece oportuno señalar, que este manuscrito aporta el resumen de la información referente a los 11 sistemas, propuestas y clasificaciones de jerarquización de la evidencia y GR de mayor uso en la actualidad (Figura 18); actualización de la información publicada en 20096, documento en el que se plasmó la información relacionada a las seis propuestas de jerarquización más utilizadas en ese momento.
+
+ 
+
+
+
+Figura 18. Clasificaciones de niveles de evidencia y grados de recomendación analizadas.          Se puede observar que algunas de ellas son específicas para cierto tipo de escenarios.

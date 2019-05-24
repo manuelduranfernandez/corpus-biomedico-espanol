@@ -1,0 +1,204 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000600680
+Confiabilidad, precisión o reproducibilidad de las mediciones. Métodos de valoración, utilidad y aplicaciones en la práctica clínica
+
+Introducción
+
+La confiabilidad, reproducibilidad o consistencia de las mediciones es un principio fundamental de la precisión de un estudio. En cualquier proceso de investigación, ante la gran cantidad de fuentes de potenciales errores, es necesario que los investigadores intenten reducir aquellos relacionados con la medición de las variables para proporcionar una mayor confianza en los resultados y las conclusiones de su estudio1,2.
+
+Dicho de otra forma, un instrumento es confiable, preciso o reproducible, cuando las mediciones realizadas con él, generan los mismos resultados en diferentes momentos, escenarios y poblaciones si se aplica en las mismas condiciones; sin embargo, se ha de asumir que en la práctica clínica cotidiana, la confiabilidad se conjuga con otro concepto que es la validez, dando origen a diversos escenarios, desde mediciones válidas y confiables hasta aquellas que carecen de validez y de confiabilidad, como en el caso de observaciones u observadores que están de acuerdo sólo por el efecto del azar (Figura 1). Por ende, a mayor precisión de una medición, mayor poder estadístico existirá en la muestra en estudio3.
+
+Figura 1 Posibles escenarios de validez y confiabilidad. A) Todas las mediciones son parecidas, pero se alejan de la realidad. B) Las mediciones captan todo el espectro del fenómeno, pero son muy diferentes entre ellas. C) No se capta todo el fenómeno y las mediciones son muy disímiles entre ellas. D) Todas las mediciones son parecidas y se ajustan a la realidad de lo que se está midiendo. 
+
+La precisión en las mediciones está influenciada por el que mide (observador), por aquello con lo que se mide (instrumento de medición); y por lo que es medido, o lo que es observado, ya sea sujeto o variable/s en estudio. Para evitar errores aleatorios y reducir al máximo los potenciales sesgos de medición, el investigador deberá tener en cuenta la variabilidad de todos y cada uno de estos componentes en el momento de planificar la medición o mediciones de la/s variable/s de un estudio y conocer la confiabilidad del propio observador (intra observador o intra rater) o entre observadores (inter observador), si fueran varios -de ahí la necesidad de un adecuada formación y entrenamiento de los observadores- o del instrumento de medición (intra instrumento), o entre instrumentos (inter instrumento), si se utilizasen varios -suponiendo la correcta calibración de los mismos-2,4,5.
+
+El objetivo de este manuscrito es generar un documento de estudio y consulta relacionado con la confiabilidad, reproducibilidad o precisión del proceso de medición.
+
+Estadísticas utilizadas para medir confiabilidad
+
+Para evaluar la confiabilidad se pueden utilizar una serie de fórmulas4, las que para su cálculo, incluyen la variabilidad del sujeto y el error de medición (Figura 2). Entre ellas cabe destacar:
+
+Figura 2 Fórmula de estimación de confiabilidad. 
+
+el porcentaje de acuerdo, grado de concordancia o porcentaje de concordancia6,7;
+
+el índice κ (kappa) de Cohen, para dos observadores7;
+
+el método de Bland y Altman, para evaluar el grado de acuerdo entre dos instrumentos que tienen la misma escala de medición8;
+
+el índice k de Fleiss cuando existen tres o más observadores9;
+
+el coeficiente de correlación o r de Pearson;
+
+el coeficiente de correlación interclase, para instrumentos que evalúan variables continuas10;
+
+el coeficiente de correlación o ρ (rho) de Spearman, para dos variables aleatorias continuas11; y
+
+el α (alfa) de Krippendorff's, para múltiples observadores y múltiples observaciones posibles12.
+
+
+
+Porcentaje de acuerdo
+
+El concepto de “acuerdo entre observadores” es simple, y durante muchos años la confiabilidad entre evaluadores se midió como el porcentaje de acuerdo entre ellos. Para ello, se crea una matriz en la que las columnas representan a los observadores y las filas a las variables que se están midiendo. Las celdas entonces contienen las puntuaciones de cada uno de los observadores para cada variable. Se calcula el porcentaje de acuerdo para cada fila y se promedian las filas. El escenario es obvio cuando las respuestas son idénticas, especialmente en respuestas dicotómicas y cuando los observadores son dos6,13, pero complicada, cuando hay más observadores o las opciones de respuesta no están limitadas a sólo dos valores. Una ventaja adicional de esta técnica es que permite identificar aquellas variables que pudieran ser problemáticas.
+
+Índice κ de Cohen
+
+Computo muy sólido para determinar la confiabilidad inter e intra observador. Se trata de una forma de coeficiente de correlación y, como todos ellos, puede variar de −1 a +1, donde 1 representa la concordancia perfecta entre los observadores y 0 el acuerdo que se puede esperar de forma aleatoria. Desde el punto de vista matemático, se pueden obtener valores kappa inferiores a 0 pero, en la práctica, es muy poco probable. Un valor de k = 0 refleja que la concordancia observada es precisamente la que se espera a causa del azar14. Se calcula según la siguiente formula:
+
+en la que Pr (a) es la proporción de concordancia observada entre observadores y Pr (e) la proporción esperada por azar. Existe, además, una categorización de los valores de kappa, que se utilizan para ordenar y definir el grado de acuerdo1,15 (Tabla 1), aunque es muy utilizada, no está universalmente aceptada, porque es obvio que determinados valores que pudieran ser aceptables en determinados ámbitos, por ejemplo, un índice de 0,45 - acuerdo moderado-, representarían un grave problema de salud en otros, por ejemplo, en los controles de calidad de un laboratorio. Muchos textos sugieren un valor mínimo de 80% para un acuerdo inter observadores aceptable.
+
+Tabla 1 Interpretación para los valores de confiabilidad. Categorización de los valores de kappa, que se utilizan para ordenar y definir el grado de acuerdo entre dos observadores 
+
+Para evaluar el significado del índice kappa es muy interesante disponer de sus intervalos de confianza (IC). No es raro que el intervalo de confianza (IC) sea tan amplio que incluye cualquier valor, desde un acuerdo bueno a uno pobre1. Las fórmulas para su cálculo serían:
+
+en las que 1,96 sería el factor necesario para lograr el IC al 95% y SEκ el error estándar del índice kappa.
+
+Método de Bland y Altman
+
+Tal como se ha dicho anteriormente este método permite evaluar el grado de acuerdo entre dos instrumentos que tienen la misma escala de medición. Para ello, se representa de forma gráfica las diferencias entre dos mediciones frente a su media8, de forma similar a los gráficos media-diferencia de Tukey. También se puede usar para comparar una nueva técnica o método de medición con un estándar de referencia (Figura 3).
+
+Figura 3 Gráfico de Bland y Altman. En este ejemplo, se puede apreciar que, si bien existen diferencias entre las puntuaciones obtenidas con dos instrumentos de medición, éstas se distribuyen en relación a la media más menos 2 desviaciones estándar, lo que resulta aceptable para este tipo de situaciones. 
+
+Indice k de Fleiss
+
+A diferencia de otras medidas estadísticas de confiabilidad inter observador, como la π de Scott, la κ de Cohen y la J de Youden, pensadas para dos observadores o para un observador versus sí mismo, el índice κ de Fleiss es el más apropiado cuando se valoran la confiabilidad del acuerdo entre tres o más observadores que utilicen variables categóricas.
+
+Su cálculo es similar al utilizado para la κ de Cohen, pero obviamente añade el cálculo del sesgo del observador (precisión-error) y el cálculo de la concordancia (calibración). La fórmula seria:
+
+En la que n: se corresponde con el número total de conductas o códigos a registrar; m: identifica el número de codificaciones; xij: define el número de registros de la conducta i en la categoría j; r: indica el número de categorías de que se compone el sistema nominal; p: es la proporción de acuerdos positivos entre codificadores; q: es la proporción de acuerdos negativos (no acuerdos) en codificadores (1-p).
+
+El valor resultante también variará entre −1 y 1, donde 1 representa la concordancia perfecta entre los observadores y 0 el grado de acuerdo que se puede esperar del azar.
+
+Una ventaja adicional es que el índice κ de Fleiss se puede aplicar a núcleos de observadores diferentes mientras su número sea idéntico; por ejemplo, si la variable 1 fue valorada por los observadores A, B y C, y la variable 2, por los observadores D, E y F. Una desventaja es que no existe una versión para variables categóricas ordenadas y sólo se puede utilizar con clasificaciones binarias o de escala nominal.
+
+Coeficiente de correlación de Pearson
+
+Es una estadística inferencial que refleja la intensidad de la asociación lineal entre dos variables cuantitativas: Debe hacerse hincapié en el término “asociación lineal”, porque pueden existir variables fuertemente relacionadas, pero no de forma lineal -por ejemplo, exponencial-, en las que no procede aplicar la correlación de Pearson, extremo que parece olvidarse con cierta frecuencia.
+
+Su fórmula es:
+
+en la que x y s, son la media y la desviación estándar de la primera variable, la y y la s, la media y la desviación estándar de la segunda variable y n la longitud de la columna. Un inconveniente de la correlación de Pearson es que no proporciona información adecuada sobre el acuerdo producido al ignorar la diferencia. Para paliar en parte este problema, el coeficiente de Pearson se puede combinar aplicando una t de Student con datos pareados para comparar los promedios de las dos distribuciones y cuantificar la magnitud del sesgo general producido entre las observaciones16. No obstante, se ha de considerar que el t-test tampoco proporciona información sobre el grado de acuerdo obtenido entre las dos medidas para cada uno de los individuos17.
+
+Tabla 2 Comparación de las características principales de concordancia estadísticas más utilizadas para determinar confiabilidad 
+
+CC: Coeficiente de correlación. CIC: Coeficiente de correlación intraclase.
+
+Coeficiente de correlación intraclase (CIC)
+
+Se trata de una estadística inferencial que evalúa el comportamiento de variables continuas en grupos de estudio, es decir, describe cómo las unidades en el mismo grupo se parecen fuertemente entre sí. Aunque se considera un tipo de correlación, a diferencia de la mayoría de las otras medidas de correlación, opera con datos estructurados en grupos, en lugar de datos estructurados como observaciones emparejadas10.
+
+El concepto básico subyacente al CIC fue introducido por Fisher como una formulación especial de la r de Pearson bajo condiciones de igualdad de promedios y variancias de las distribuciones involucradas. Se basa en un modelo de análisis de la variancia (ANOVA) con medidas repetidas; razón por la que se puede definir como la proporción de variabilidad total debida a la variabilidad de los sujetos en estudio10.
+
+Si bien se utiliza habitualmente para cuantificar el grado de confiabilidad de una variable en sujetos con un grado fijo de relación (por ejemplo, hermanos), también se puede aplicar para evaluar la reproducibilidad de las mediciones cuantitativas realizadas por diferentes observadores que miden la misma cantidad e incluso en mediciones emparejadas (Figura 4).
+
+Figura 4 Gráfica explicativa del coeficiente de correlación de Pearson o CIC. La línea discontinua representa una asociación perfecta con poco acuerdo entre los observadores; y la línea continua, representa una asociación y acuerdo perfecto entre observadores. 
+
+Coeficiente de correlación de rango o ρ de Spearman
+
+Al igual que la correlación de Pearson, evalúa los rangos entre valores de dos variables, pero en este caso no precisa que la relación sea lineal. La correlación de Spearman evalúa cualquier relación monótona (incluso las lineales). Si no hay valores de datos repetidos, se produce una correlación Spearman perfecta de +1 ó −1 cuando cada una de las variables es una función monótona perfecta de la otra11,18. Su formulación es:
+
+en la que d es la diferencia entre los rangos (x - y) y n el número de datos. Es apropiado para variables ordinales, continuas o discretas y tanto la ρ de Spearman como el τ (tau) de Kendall pueden utilizarse como un coeficiente de correlación más general18.
+
+Alpha de Krippendorff
+
+Es una alternativa al κ de Cohen, para determinar confiabilidad inter observador19, con la ventaja de que puede aplicarse a cualquier número de observadores, con datos incompletos (no son necesarias todas las parejas de datos), a cualquier número de valores disponibles para codificar una variable, sean esta binaria, nominal, ordinal, interválica, proporcional, polar o métrica circular (niveles de medición) e incluso se ajusta a pequeños tamaños de muestra12.
+
+Muy utilizada en el ámbito de las encuestas, entrevistas y pruebas psicológicas donde se deben comparar alternativas de los mismos fenómenos, o en estudios observacionales donde se registran sucesos no estructurados12.
+
+Su formulación es:
+
+donde D0 es el desacuerdo observado y De el desacuerdo esperado por el azar. Como en otras fórmulas, los resultados posibles van de 0 a 1, donde 0 es un desacuerdo total y 1 el acuerdo perfecto. Según Krippendorff, un resultado de 0,667 sería el límite inferior admisible y un resultado ≥ 0,800 aceptable19.
+
+Estrategias para mejorar la confiabilidad
+
+Ya hemos insistido en la necesidad de evitar las fuentes potenciales de error en cualquier proceso de investigación y se ha hecho especial énfasis en la confiabilidad, reproducibilidad o consistencia de las mediciones como principio fundamental de la precisión de un estudio. En este momento se hará un repaso a las estrategias que permiten mejorar la confiabilidad. Entre ellas, destacan la estandarización de los métodos de medición, el entrenamiento del o de los observadores, el mantenimiento en buen estado de los instrumentos de medición, la automatización de las mediciones y la repetición de las mediciones (promedios)2.
+
+Estandarizar los métodos de medición
+
+Es una medida de la precisión de datos obtenidos por un solo operador trabajando siempre en las mismas condiciones (equipos, materiales y reactivos). También representa la precisión de datos obtenidos entre dos o más observadores o laboratorios que utilizan el mismo método y similares condiciones.
+
+
+
+Entrenar al o a los observadores
+
+La formación del o los observadores corresponde a un proceso a través del cual se adquiere madurez conceptual, empírica y tecnológica para realizar una observación en un estudio observacional. Este proceso debe ser de progresión lógica y dificultad ascendente; e implica una fase de entrenamiento, otra de adiestramiento y finalmente una evaluación del proceso20.
+
+Mantener los instrumentos de medición en buen estado
+
+Esto implica mantener los instrumentos de medición calibrados (según especificaciones y calendario establecidos en el plan de mantenimiento metrológico), verificados (comparación con un patrón certificado) y en buen estado físico e higiénico.
+
+Automatizar instrumentos y proceso de medición
+
+Se refiere a los procesos analíticos que son realizados por equipos, con la menor participación posible de un operador. Esta estrategia permite, además, un mejor control de cada una de las operaciones implicadas, un ahorro de tiempo y una disminución de gasto de reactivos. Un ejemplo típico de esta estrategia es la que se desarrolla en los laboratorios clínicos.
+
+Repetir las mediciones y calcular promedios de éstas
+
+Para reducir el impacto que pudieran tener los diferentes intervalos en los que se obtienen los resultados de mediciones sucesivas de una misma magnitud o las condiciones de medición (observador, instrumento de medición, procedimiento de medición, lugar y repetición dentro de un período de tiempo corto), es una buena estrategia trabajar con promedios, desviaciones estándar y eventualmente calcular rangos. Además, esta práctica, permite validar los métodos de calibración, realizar análisis de comparación de mediciones por diferentes laboratorios (inter laboratorios) y estudiar la variabilidad de las mediciones e instrumentos.
+
+Tipos de confiabilidad y ejemplos
+
+Del observador
+
+Intra observador
+
+La confiabilidad intra observador es aquella que ocurre cuando un observador individual efectúa mediciones repetidas en un grupo de sujetos.
+
+Ejemplos:
+
+Se determinó confiabilidad intra observador de un método posturográfico en 34 pacientes con neuritis vestibular. Los coeficientes de CIC para todos los parámetros y posiciones de prueba (ALL (media)) variaron entre 0,71 (IC 95%: 0,41-0,85) y 0,92 (IC 95%: 0,84-0,96). La confiabilidad absoluta (coeficiente de variación) osciló entre 3,1% (IC del 95%: 2,60-8,67) y 42,3% (IC del 95%: 40,7-74,5). Concluyéndose que el sistema posturográfico estudiado tiene buena confiabilidad intra observador absoluta relativa y satisfactoria para ALL (media)21.
+
+Se evaluó la confiabilidad intra e inter-evaluador de la cuantificación de las tasas de sangre y LCR mediante RM de contraste de fase. Para ello, se utilizaron escáneres 3T de diferentes fabricantes en dos centros, estudiando las imágenes con contraste de fase de cine codificado por velocidad de los flujos de sangre y LCR en la región cervical superior. Se analizaron los datos de seis sujetos escaneados en el centro A y de cinco sujetos en el centro B por seis observadores de dos niveles diferentes de entrenamiento. Cada conjunto de datos se analizó tres veces en un orden aleatorio para un total de 33 conjuntos de datos. Se calcularon CIC, el que varió de 0,80 a 0,96 para el área de luz y de 0,97 a 0,99 para la tasa de flujo volumétrico. El ICC para medidas secundarias derivadas varió de 0,85 a 0,99. Concluyéndose que se puede lograr una alta confiabilidad intra e inter-observador de las mediciones de la tasa de flujo volumétrico entre fabricantes y niveles de entrenamiento de los observadores22.
+
+Se analizó la confiabilidad intra observador e inter observador en radiografías simples de 81 pacientes, con un intervalo de cuatro años entre las observaciones; para estudiar el grado de calcificación de la aorta abdominal aplicando la escala AAC-24, para lo cual, se aplicó CIC. Se observó una CIC intra observador de 0,93 (IC 95%: 0,6-0,9); y una CIC inter observador de 0,91 (IC 95%: 0,8-0,9). Estos valores permiten concluir que el AAC-24 es un método confiable para determinar calcificación de la aorta abdominal23; es decir, que varios clínicos al examinar las mismas radiografías (o un clínico la misma radiografía en más de una oportunidad), tendrán un alto nivel de acuerdo en la existencia de un hallazgo particular.
+
+Se evaluó la confiabilidad inter observador e intra observador de los sistemas de clasificación Letournel, Sanders y Zwipp en la tomografía computarizada y la medición del ángulo de Bohler en radiología simple. Para ello, tres observadores (dos radiólogos y un cirujano ortopédico) evaluaron dos veces la tomografía y las radiografías de 51 fracturas intra articulares de calcáneo en un intervalo de 5 meses. La confiabilidad inter observador se midió utilizando el kappa de Fleiss mientras que la intra observador se midió utilizando el kappa de Cohen. Se verificaron valores medios de kappa para confiabilidad inter observador e intra observador de la clasificación de Sanders de 0,25 y 0,39 respectivamente; de la clasificación de Zwipp de 0,24 y 0,16 respectivamente; y de la de Letournel de 0,50 y 0,42, respectivamente. Concluyéndose entonces, que debe existir consciencia de la limitada confiabilidad de los sistemas de clasificación estudiados24.
+
+Inter-observador
+
+La confiabilidad ínter observador es aquella que ocurre cuando dos o más observadores evalúan independientemente a un mismo sujeto de estudio.
+
+Ejemplos:
+
+Se determinó validez y confiabilidad de la escala de evaluación de esfuerzo percibido pediátrico EPInfant en niños chilenos; para lo cual, se seleccionaron 31 niños de 8-12 años de edad; a los que se midió frecuencia cardíaca, esfuerzo percibido y carga de trabajo durante dos pruebas de Chester consecutivas, realizadas con un intervalo de una semana. Se estimó coeficiente r de Pearson y de CIC. Se verificó correlación entre esfuerzo percibido y criterios de referencia; y alta CIC, con una adecuada confiabilidad interobservador25.
+
+Se evaluó la reproducibilidad inter observador de tres sistemas de puntuación validados en la evaluación de las úlceras del pie diabético (PEDIS [Perfusión, Extensión, Profundidad, Infección, Sensación], SINBAD [Sitio, Isquemia, Neuropatía, Infección bacteriana, Profundidad] y el de la Universidad de Texas [UT]); para lo cual, se estudiaron 37 pacientes, que fueron evaluados por un grupo de 12 observadores, midiéndose CIC. La confiabilidad para sistemas únicos fue baja para todos los sistemas (UT 0,53; SINBAD 0,44; PEDIS 0,23-0,42), pero la confiabilidad múltiple fue casi perfecta (UT 0,94; SINBAD 0,91; PEDIS 0,80-0,90). El mejor acuerdo para múltiples observadores infección: 0,83; isquemia: 0,80-0,82; ambos: 0,8. Esto significa que estos sistemas pueden ser utilizados de manera adecuada por múltiples observadores al realizar investigaciones y auditorías; no así pasa en el entorno clínico, al documentar características de una úlcera o al comunicarse entre colegas26.
+
+Se evaluó la confiabilidad entre centros para en la interpretación de frotis vaginales teñidos con Gram de mujeres embarazadas. La confiabilidad de los morfotipos individuales identificados en el frotis vaginal se evaluó comparándolos con los obtenidos en un centro estándar. Se propuso un nuevo sistema de puntuación que utiliza los morfotipos más habituales del frotis vaginal; el que se comparó con los criterios de Spiegel de vaginitis bacteriana. El sistema de puntuación (0 a 10), es una combinación ponderada de los morfotipos: lactobacilos, Gardnerella vaginalis o bacteroides, y varillas curvas Gram variables. Los valores de correlación de Spearman para variabilidad del intercentro fue: 0,23 para cocos Gram positivos; 0,65 para lactobacilos, 0,69 para G. vaginalis y 0,57 para bacteroides (concordancia moderada). Por otra parte, varillas pequeñas y varillas curvas Gram variables, obtuvieron una correlación de 0,74 y 0,85 respectivamente. Sin embargo, al no considerar las cocáceas grampositivas y combinando los morfotipos de G. vaginalis y bacteroides; la confiabilidad se incrementó. Así, la confiabilidad entre centros (r = 0,82), fue superior a la aplicación de los criterios de Spiegel (r = 0,61); lo que El facilita la investigación sobre vaginitis bacteriana porque proporciona graduaciones de la alteración de la microbiota vaginal que puede estar asociada con diferentes niveles de riesgo de complicaciones del embarazo27.
+
+Del instrumento
+
+Intra-instrumento
+
+La confiabilidad intra instrumento es aquella que ocurre cuando se efectúan mediciones repetidas en un grupo de sujetos con un mismo instrumento de medición.
+
+Ejemplos:
+
+Se utilizó un modelo animal (tibias de cinco ovejas), para estudiar la reproducibilidad y precisión de ciertos biomarcadores de calidad de la imagen ósea con resonancia magnética en comparación con el estándar de referencia de la microtomografía computada. Se verificó que la cuantificación morfométrica y mecánica del hueso trabecular por RM fue muy reproducible, con variación inferior a 9% para todos los parámetros; confirmando que la medición de los biomarcadores estudiados con ambas técnicas son reproducibles28.
+
+Se estudió la reproducibilidad de las mediciones del grosor de la capa de fibras nerviosas retinianas peripapilares, mediante la tomografía de coherencia óptica del dominio espectral en 45 sujetos normales y 33 con glaucoma. Las mediciones se repitieron tres veces durante la misma visita utilizando la desviación estándar dentro de la materia, el coeficiente de variación y el coeficiente de CIC. Éstos oscilaron entre 0,977 y 0,990 en ojos normales; y entre 0,983 y 0,997 en ojos con glaucoma; demostrando una excelente reproducibilidad para este tipo de mediciones en ojos sanos y con glaucoma con el instrumento utilizado29.
+
+Inter-instrumento
+
+La confiabilidad ínter instrumento es aquella que ocurre cuando se utilizan diferentes instrumentos para realizar mediciones repetidas en un grupo de sujetos.
+
+Ejemplos:
+
+Se analizó la confiabilidad del análisis inmunohistoquímico del microambiente tumoral del linfoma folicular en siete equipos de patólogos pertenecientes al Consorcio de Biomarcadores de Linfomas de Lunenburg, comparando citometría de flujo versus la puntuación manual o automática de microscopía de tinciones inmuno-histoquímicas de densidades de infiltración de células T CD3, CD4 y CD8. El grado de acuerdo entre puntuación manual y citometría fue moderado para CD3, bajo para CD4 y moderado a alto para CD8. Por otra parte, el acuerdo en la cuantificación manual en los siete laboratorios fue bajo a moderado para las frecuencias CD3, CD4 y CD8. Finalmente, la puntuación manual de la distribución arquitectónica resultó en acuerdo moderado para CD3, CD4 y CD8. Datos que sugieren realizar mediciones más objetivas en pacientes con linfoma folicular, como puntuación asistida por computadora30.
+
+Se estimó la reproducibilidad de la tomografía confocal, la polarimetría láser de barrido y la tomografía de coherencia óptica para determinar el grosor de la capa de fibras ganglionares. Para ello, se estudiaron dos veces, un total de 75 ojos normales, aplicando coeficiente de Pearson para analizar la correlación entre las variables. Se constató que existe una amplia variación tanto en la medición inter observador como inter instrumentos, para la determinación del grosor de las capas de las fibras nerviosas31.
+
+Test re-test
+
+Consiste en administrar una escala o instrumento de medición (test) dos veces a los mismos sujetos. La administración puede ser inmediata o con un intervalo de tiempo entre el test y el re-test. Posterior a ello, se calcula la correlación de Pearson entre las puntuaciones obtenidas en ambas aplicaciones, el resultado de lo cual, será el coeficiente de confiabilidad, que representa la estabilidad en el tiempo del instrumento. Cuando existen diferencias, se atribuyen a la consistencia interna o de muestreo de los ítems que componen la escala o instrumento de medición. No se recomienda dejar pasar demasiado tiempo entre una aplicación y la otra, como tampoco que la segunda aplicación sea muy cercana a la primera; pues en ambos casos, se puede alterar la validez interna.
+
+Variaciones del test re-test, son el método de formas alternativas o paralelas, en el que se administran dos o más versiones equivalentes al instrumento de medición, utilizándose el coeficiente de correlación producto-momento de Pearson; y, el método de mitades partidas, en el que se requiere de una sola aplicación del instrumento de medición, pero los ítems que lo componen se dividen en dos partes y luego se comparan los resultados, para lo cual se utilizan las pruebas de Pearson y Spearman-Brown (Figura 5).
+
+Figura 5 Diagrama de dispersión para un conjunto de datos en los que se aplica test y retest. Se aprecia una relación lineal positiva entre las dos mediciones realizadas (con el mismo instrumento de medición) al mismo grupo de sujetos. 
+
+Ejemplos:
+
+Se analizó el comportamiento de un cuestionario de cinco ítems, auto administrado sobre vulnerabilidad a infecciones, en sujetos pertenecientes a la cohorte nacional alemana, obtenidos de un centro de Hamburgo y otro de Hannover (tiempo entre aplicaciones fue de ocho días). Se calcularon consistencia interna, porcentaje de acuerdo y kappa. La consistencia interna resultó en un α de Cronbach de 0,78. El kappa de los ítems sobre frecuencia de enfermedades infecciosas en los últimos 12 meses fue de 0,65 a 0,87; y de los ítems sobre síntomas en los últimos 12 meses, entre 0,77 y 0,90. Esto, lo hace ser prometedor y moderadamente confiable, pero requiere evaluaciones adicionales32.
+
+Finalmente, y a modo de conclusión, podemos señalar que en este manuscrito hemos discutido el concepto de confiabilidad, también denominado precisión, consistencia o reproducibilidad. Hemos destacado el hecho de que la confiabilidad no sólo depende de los errores de medición, sino también de la heterogeneidad de los valores de la variables en estudio en la población en la que se realizan las mediciones; así como en los procesos relacionados con la medición, los que incluyen entre otras, las condiciones en que se encuentra el (los) instrumento (s) de medición. Sugerimos que, como las mediciones se realizan en distintos escenarios (estudios clínicos, pruebas diagnósticas, de tamizaje, etc.); y en diferentes poblaciones; se deberían informar las desviaciones estándar entre sujetos y dentro de los sujetos. También describimos los métodos utilizados para estudiar mediciones realizadas por diferentes observadores o evaluadores, y diferentes instrumentos de medición. Para finalizar con ejemplos obtenidos de la literatura científica, sobre la aplicación de algunas de estas metodologías para resolver los problemas de la investigación en diversos escenarios.
+
+Financiamiento parcial por Proyecto MEC 80170022, CONICYT.

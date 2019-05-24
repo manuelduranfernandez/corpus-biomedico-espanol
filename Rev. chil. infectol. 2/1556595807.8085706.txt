@@ -1,0 +1,168 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000600002
+Staphylococcus aureus adquiridos en la comunidad: caracterización clínica, fenotípica y genotípica de aislados en niños paraguayos
+
+Resumen
+
+Introducción: La prevalencia de infecciones por Staphylococcus aureus en la comunidad ha aumentado, siendo la población pediátrica la más afectada; poniendo de relieve la necesidad de una vigilancia epidemiológica. Objetivo: Caracterizar clínica, fenotípica y genotípicamente aislados de S. aureus de muestras de niños con infecciones adquiridas en la comunidad, recolectadas en hospitales de Asunción y el Departamento Central, entre noviembre de 2009 y diciembre de 2010. Materiales y Métodos: Estudio descriptivo de corte trasverso. Datos clínicos fueron recabados de fichas, la susceptibilidad a antimicrobianos se hizo según criterio del CLSI y la detección de genes mecA y luk-PV se realizó por RPC empleando oligonucleótidos específicos. Resultados: De 123 aislados de S. aureus, 76% provenían de infecciones de piel y tejidos blandos y 20% de pacientes con bacteriemias. 18,7% (n: 23) fueron resistentes a meticilina (SARM). Se detectó la presencia de genes mecA, una variante del mismo y luk-PV en 9,8%, 1,6 y 39% de los aislados, respectivamente. El 43% de los SARM (n: 10) fue portador de luk-PV. Las diferencias clínicas y demográficas entre pacientes infectados por SARM o SASM no fueron estadísticamente significativas. Discusión: Este estudio constituye la primera caracterización clínica, fenotípica y genotípica de S. aureus asociados a la comunidad en población pediátrica realizada en Paraguay.
+
+Palabras clave: Staphylococcus aureus adquiridos de la comunidad, mecA, PVL, población pediátrica.
+
+ 
+
+Introducción
+
+Staphylococcus aureus es un microorganismo patógeno para el hombre, capaz de causar una multitud de infecciones con un amplio rango de gravedad, desde infecciones localizadas de piel e intoxicaciones alimentarias, hasta infecciones invasoras y potencialmente mortales como neumonía necrosante, osteomielitis y sepsis1,2. Su diversidad patogénica refleja su habilidad para colonizar exitosamente, adaptarse y sobrevivir en diferentes tejidos celulares durante la infección, lo que puede deberse a su capacidad de portar genes que le confieren resistencia a antimicrobianos, otros que codifican factores de virulencia, y su plasticidad genética; todo esto podría contribuir a una progresión más rápida y complicada de la enfermedad bajo determinados factores ambientales, ya que permiten una mejor adaptación al hospedero34.
+
+Staphylococcus aureus ha desarrollado resistencia a prácticamente todas las clases de antimicrobianos, principalmente a los β-lactámicos. El mecanismo más frecuente de resistencia a los β-lactámicos radica en la penicilinasa, enzima que hidroliza a la penicilina y a otros compuestos sensibles. Los primeros β-lactámicos estables frente a la acción de penicilinasa como las cefalosporinas y meticilina estuvieron disponibles a finales de 1950 sólo unos años después se reportó la aparición de las primeras cepas resistentes a meticilina5,6. Desde su aparición en Inglaterra en 1961, la incidencia de S. aureus resistente a meticilina (SARM) ha ido en constante aumento y es así como se ha constituido en uno de los patógenos prevalentes en infecciones nosocomiales. Sin embargo, la epidemiología de SARM fue modificándose con el tiempo y actualmente se observa un incremento de infecciones adquiridas en la comunidad en pacientes sin factor de riesgo conocido5,7-9. Los aislados de SARM adquiridos en la comunidad (SARM-AC) poseen diversas características que los distinguen de las cepas nosocomiales; así por ejemplo, presentan resistencia a menos antimicrobianos que las cepas de origen hospitalario10-12. Las infecciones asociadas más frecuentemente a SARM-AC son las relacionadas con piel y tejidos blandos (85-90% de los casos), y en menos de 10% causan infecciones graves (ej. estafilococcemia, neumonía necrosante y osteomielitis) que frecuentemente se asocian a alta morbilidad y mortalidad9,13,14.
+
+La resistencia a meticilina en S. aureus ha sido asociada a la presencia de un elemento genético móvil (SCCmec-cassette cromosómico estafilocóccico que confiere resistencia a meticilina), dentro del cual se inserta el gen mecA. Éste codifica una proteína de unión a penicilina, PBP2a, con actividad transpeptidasa responsable de la resistencia intrínseca a todos los β-lactámicos2.
+
+Además, se ha descrito que SARM-AC presenta diversos factores de virulencia, principalmente la leucocidina de Panton-Valentine (PVL-Panton Valentine leukocidin), cuyo gen codificante se ha visto asociado al SCCmec tipo IV y V, relacionados con los casos de SARM-AC2,15,16. Por lo general, en estos aislados, la resistencia a oxacilina no está acompañada por la resistencia a otros antimicrobianos, excepto algunas cepas donde se observa resistencia a eritromicina, clindamicina, cloranfenicol y gentamicina15,17.
+
+En la primera década del siglo veintiuno, diversas publicaciones comunicaron aislamiento de SARM-AC en población pediátrica alrededor del mundo2818. En E.U.A., la prevalencia de SARM-AC varía dependiendo de la localización geográfica entre 26 y 62%19. Los primeros estudios en Latinoamérica fueron reportados por Uruguay en el año 200320. En el año 2005, H. Paganini y cols., de la Argentina, comunicaron una prevalencia de SARM-AC de 42%. Esta cifra aumentó considerablemente durante los años siguientes, siendo en el 2009, de 61%15. Igualmente, en un estudio realizado por Reyes y cols., en el año 2009, de cepas de SARM en países de Latinoamérica, se reportó una prevalencia de SARM-AC que oscilaba entre 26 y 62%21.
+
+En nuestro país, estudios provenientes de la Red de Vigilancia a Antimicrobianos del Laboratorio Central de Salud Pública (LCSP), reportaron una prevalencia de SARM-AC de 25% en el año 2008 y 32% para el año 2013 en la población general. Igualmente, los hospitales pediátricos de referencia del país, reportan una prevalencia de SARM-AC que oscila entre 10 y 27%, de acuerdo al centro asistencial, observándose un incremento en la prevalencia de SARM-AC, en los últimos años22-25.
+
+El manejo de las infecciones causadas por SARM-AC, en población pediátrica, representa actualmente un desafío en todas las instituciones sanitarias. El conocimiento de la prevalencia de SARM-AC y los factores de virulencia, serán de utilidad para el manejo de las infecciones en la población pediátrica.
+
+El presente estudio se realizó con el objetivo principal de caracterizar desde el punto de vista clínico, fenotípico y genotípico aislados de S. aureus obtenidos de muestras biológicas de niños con infecciones adquiridas en la comunidad, que concurrieron a hospitales de referencia de Asunción y el Departamento Central.
+
+Materiales y Métodos
+
+Diseño del estudio y población
+
+Observacional, descriptivo con componente analítico, de corte trasversal, llevado a cabo entre noviembre de 2009 y diciembre de 2010, con la participación de los siguientes centros de referencia: Hospital General Pediátrico Niños de Acosta Ñú (HGP), Hospital de Clínicas (HCL), Hospital Central del Instituto de Previsión Social (IPS) y Hospital Nacional de Itauguá (HNI). La población estudiada incluyó aislados de S. aureus obtenidos de fluidos corporales, secreción de piel y tejidos blandos de pacientes bajo 18 años de edad, con cuadro clínico compatible con infecciones por S. aureus adquiridas en la comunidad. Fueron excluidos del trabajo aquellos aislados obtenidos a partir de secreción traqueal, punta de catéter e hisopados, así como aquellos que provenían de pacientes con 18 años de edad o más.
+
+Definición de infección por S. aureus adquirida en la comunidad
+
+Se consideró como infección adquirida en la comunidad, aquella que fue diagnosticada en las primeras 72 h de la internación, con documentación microbiológica y además que el paciente no presentara factores de riesgo como: hemodiálisis, cirugía, presencia de una sonda permanente o de un dispositivo percutáneo en el momento del cultivo.
+
+Datos clínicos
+
+Estos fueron registrados en una ficha especialmente diseñada para el efecto por los centros participantes. Las variables estudiadas incluyeron: edad, sexo, procedencia, diagnóstico de egreso, manejo del paciente y pronóstico. Así mismo, se recolectaron datos asociados a factores que favorecen la infección por S. aureus como: número de convivientes, tratamiento previo con antimicrobianos u hospitalización anterior a la infección, exposición a procedimientos médicos invasores y presencia de co-morbilidad.
+
+Aislados de S. aureus
+
+La totalidad de los aislados incluidos en este estudio fueron obtenidos a partir de muestras biológicas remitidas para su cultivo a los servicios de microbiología de los hospitales participantes del estudio: HGP, HCL, IPS y HNI. Las muestras biológicas fueron analizadas siguiendo las recomendaciones de los manuales de procedimiento de cada servicio de microbiología. La prueba de susceptibilidad a antimicrobianos se realizó por el método de difusión de disco, así como la determinación de la concentración inhibitoria mínima (CIM) mediante el empleo de métodos automatizados (Vitek, BioMérieux, Francia). Para la detección de la resistencia inducible a clindamicina, se realizó la prueba de D-test empleando la difusión de doble disco. En todos los casos se siguieron las recomendaciones del Clinical and Laboratory Standard Institute (CLSI). Los aislados duplicados del mismo paciente fueron excluidos. Los aislados que cumplieron los criterios de inclusión fueron mantenidos congelados en un medio criopreservante hasta la remisión al IICS.
+
+Fueron excluidos del estudio aquellos aislados de S. aureus provenientes de puntas de catéter, secreción traqueal, así como aquellos que no presentaban datos clínicos completos o con falta de identificación y conservación apropiadas. La detección de la proteína PBP2a se realizó en algunos aislados de S. aureus empleando la prueba de latex PBP2’ Test Kit de Oxoid, Japón.
+
+Detección de genes mecA y luk-PV
+
+La extracción de ADN se realizó a partir de aislados criopreservados remitidos por los servicios de microbiología, realizando una suspensión bacteriana correspondiente a 1 en la escala de Mac Farland con 200 mL de agua miliQ estéril (milipore, E.U.A.) por el método de ebullición descrito por Zhang y cols.26. Para las reacciones de amplificación se emplearon como molde 2,5 mL del sobrenadante obtenidos en la extracción de ADN. La amplificación del gen mecA se realizó empleando oligonucleótidos y condiciones de ciclado descritos por Murakami y cols.27, obteniéndose un producto de 533 pb. La amplificación del gen codificante de la PVL se realizó empleando oligonucleótidos y condiciones de ciclado descritos por Lina y cols.,28 y se obtuvo un producto de 433 pb. En aquellos aislados en los que se observó discordancia entre el fenotipo de resistencia a meticilina y la presencia del gen mecA, se realizó una reacción de polimerasa en cadena (RPC) para detectar una variante de dicho gen descrita por García-Álvarez y cols., en el 2011, cuya secuencia presenta diferencias que impiden el anillamiento de los oligonucleótidos descritos por varios autores29.
+
+En cada RPC se incluyó controles negativos y controles positivos (cepa ATCC 43300 portadora del gen mecA y un aislado gentilmente cedido por Gabriel Gutkind de la Facultad de Farmacia de la UBA, Argentina, portador de mecA y luk-PV). Los productos de RPC se visualizaron en geles de agarosa al 2% con tinción de bromuro de etidio. Se empleó como marcador de peso molecular 100 bp DNA ladder (Bioline, E:U.A.). El tamaño de los productos amplificados fue determinado mediante el uso del software Kodak Digital Science. Algunos productos de cada reacción fueron seleccionados al azar y enviados para su secuenciación a la empresa Macrogen Inc. (Corea). Las secuencias obtenidas fueron alineadas con la base de datos del NCBI para corroborar su identidad, obteniéndose porcentajes de concordancia en los alineamientos mayores a 95% en las muestras analizadas.
+
+Aspectos éticos
+
+El protocolo de estudio fue sometido y aprobado por el Comité Científico y Ético del Instituto de Investigaciones en Ciencias de la Salud, UNA, y por las autoridades de los hospitales participantes. Los datos personales de los pacientes fueron mantenidos en estricta confidencialidad, siendo manejados con códigos. Las muestras biológicas analizadas fueron parte del esquema de rutina de diagnóstico para un cuadro infeccioso en los pacientes y no se tomaron muestras adicionales para el estudio. Los médicos tratantes recibieron los resultados del análisis microbiológico necesario para orientar el tratamiento apropiado de la infección. Los resultados moleculares no inciden en el tratamiento implementado y su beneficio es principalmente en el área epidemiológica para identificar la frecuencia de aislados de S. aureus portadores del gen mecA y luk-PV que circulan en los hospitales de referencia participantes.
+
+Análisis estadísticos
+
+Los datos fueron introducidos y almacenados en una base de datos, utilizando una planilla electrónica (Microsoft Excel). El análisis descriptivo se realizó empleando los software Epi Info 3.5.0. Para variables categóricas el análisis se realizó usando X2 y el test exacto de Fischer. El nivel de significancia estadística se consideró con valores de p < 0,05.
+
+Resultados
+
+Se estudiaron 123 aislados de S. aureus remitidos respectivamente por el HGP (n: 48, 39%), el HCL (n: 43, 35%), IPS (n: 26, 21%) y HNI (n: 6, 5%). La mayor frecuencia de aislamiento de S. aureus se dio en el período de diciembre de 2009 a marzo de 2010, correspondiendo a 62% del total analizado (n: 76). Los aislados provinieron de 56 niñas (45,5%) y 67 niños (54,5%) con una mediana de edad de 60 meses (rango 1 día a 18 años). Los grupos etarios que presentaron los mayores porcentajes de infección por S. aureus fueron: de 1 a 4 años y de 5 a 14 años con 36,6 y 38,2%, respectivamente (Figura 1). El 66,6% de los pacientes residía en el Departamento Central, seguido de Asunción (9,8%). Los departamentos de San Pedro, Cordillera, Caaguazú y Paraguarí aportaron en conjunto 17 y 6,5% de las muestras. Las muestras restantes provenía de niños que residían en alguno de los siguientes departamentos: Caazapá, Canindeyú, Itapúa, Misiones, Pdte Hayes, Alto Paraná y Guairá.
+
+ 
+
+
+
+Figura 1. Distribución de casos de infección con S. aureus según franja etárea.
+
+ 
+
+Dentro de factores predisponentes a infecciones por S. aureus observados se encuentran: el empleo previo de antimicrobianos en 16% de los niños (n: 17), la presencia de co-morbilidad en 8,9% (n: 11) y la convivencia con un trabajador de la salud como miembro de la familia en 2,4% (n: 3). Presentaron co-morbilidad cinco niños con enfermedades pulmonares crónicas, dos niños con patología cutánea crónica, dos niños con leucemia linfoblástica aguda (LLA) y un niño con lupus eritematoso diseminado (LES). Así mismo, el número de convivientes presentó una mediana de cinco y valores extremos de entre dos y 15 personas viviendo con el niño infectado; no podemos, sin embargo, definir las condiciones de hacinamiento ya que no contamos con datos de la distribución en espacio de las viviendas de los pacientes (Tabla 1).
+
+ 
+
+Tabla 1. Características clínicas y demográficas de pacientes con          infección por S. aureus
+
+
+
+ 
+
+El 76% (n: 94) de los niños presentó cuadros clínicos compatibles con infecciones de piel y tejidos blandos, mientras que se observó una frecuencia mucho menor de otros cuadros clínicos como sepsis, osteomielitis, neumonía, otitis y absceso hepático (Tabla 1). El 19,5% (24/123) presentó bacteriemia. Se empleó como tratamiento drenaje acompañado de antibioterapia en 70,7% de los niños (n: 87). El 88,6% (n: 109) mejoró en respuesta al tratamiento implementado. Cuatro pacientes fallecieron (3,3%), presentando todos cuadro clínico de sepsis con foco múltiple; dos presentaron como co-morbilidad asociada LES y LLA.
+
+Los aislados de S. aureus fueron obtenidos a partir de 96 secreciones purulentas de piel y tejidos blandos (78,0%), 23 muestras de sangre (19,7%), dos de secreciones de oído, una de hueso y uno de líquido articular.
+
+No se detectaron aislados resistentes a tigeciclina y teicoplanina, si bien estos antimicrobianos fueron ensayados en 77 (62,6%) y 12 (9,8%) de los aislados, respectivamente. Veintitrés cepas de S. aureus fueron resistentes a meticilina (18,7%).
+
+Comparando los perfiles de resistencia a antimicrobianos de los aislados SARM respecto a las cepas de S. aureus sensibles a meticilina (SASM) (Tabla 2), se observó que los aislados SARM presentaron niveles mayores de resistencia a ciprofloxacina, clindamicina, eritromicina y gentamicina respecto a las cepas de SASM, resultando una diferencia estadísticamente significativa la que se observó con gentamicina (p: 0,021, test exacto de Fischer). Así mismo se registraron niveles de resistencia menores de 3,5% para tetraciclina, cotrimoxazol y rifampicina en SASM, si bien las diferencias con los aislados de SARM para estos antimicrobianos no fueron estadísticamente significativas. El antibiotipo más frecuente en SASM es el de resistencia a penicilina (59% de los casos), mientras que en SARM, 69,6% presentó resistencia a dos antimicrobianos, siendo la combinación más frecuente la resistencia a oxacilina y penicilina (n: 14; 60,8%) seguida de las combinaciones de resistencia a oxacilina con gentamicina y oxacilina con eritromicina (4% en ambos casos) (Tabla 3). La resistencia a clindamicina fue detectada en 5,7% (n: 7) de las cepas, dos de estos aislados eran SARM.
+
+ 
+
+Tabla 2. Perfil de resistencia de aislados de S. aureus
+
+
+
+ 
+
+Tabla 3. Frecuencia de antibiotipos observados de aislados de SARM y SASM
+
+
+
+ 
+
+El análisis univariado comparando pacientes con SARM y SASM respecto a variables como edad, sexo, tipo de infección, co-morbilidad y presencia de factores predisponentes, no fue estadísticamente diferente (p > 0,05, X2 o test exacto de Fischer).
+
+La RPC para la detección de los genes mecA y luk-PV generó los productos de tamaño esperado (Figura 2). La totalidad de los aislados de S. aureus fue sometida a la detección de ambos genes. Se detectó la presencia de mecA y luk-PV en 12 (9,76%) y 48 (39,0%) de los aislados, respectivamente. La presencia de ambos genes de forma simultánea se dio en 10 aislados (8,1% del total de aislados y 43,5% del total de SARM). La totalidad de las cepas portadoras de mecA y luk-PV fue causante de infecciones de piel y tejidos blandos (n: 12), mientras que de los dos aislados que sólo presentaron mecA provenían de muestras colectadas de un caso de sepsis y una infección de piel y tejidos blandos.
+
+ 
+
+
+
+Figura 2. RPC múltiple para la detección de genes mecA y luk-PV. Gel de          agarosa al 2% teñido con bromuro de etidio. Carriles de izquierda a derecha: 1.          Marcador de 100pb; 2. Control negativo de la reacción; 3. Control positivo          cepa portadora de genes mecA y pvl; 4. Cepa ATCC43300, control positivo          para mecA; 5. Aislado SCM55 6. Aislado SIP10; 7. Aislado SCM44; 8. Aislado SGP58.
+
+ 
+
+No se detectó el gen mecA en aislados previamente tipificados como sensibles a oxacilina por métodos fenotípicos. Sin embargo, estuvo presente en 12 del total de 23 aislados caracterizados como SARM por métodos fenotípicos.
+
+La no concordancia de 100% entre los resultados de la RPC y la tipificación fenotípica nos llevó a plantear la posibilidad de la presencia de una variante en la secuencia del gen que impida la unión de los oligonucleótidos descritos por Murakami, o bien la presencia de otro mecanismo responsable del fenotipo de resistencia a meticilina. Por lo anteriormente expuesto, se repitieron los antibiogramas de los 11 aislados en el laboratorio de microbiología del IICS y observamos que la totalidad mostraba un fenómeno de heteroresistencia respecto al disco de oxacilina. Seleccionamos de forma aleatoria uno de estos aislados y realizamos la prueba de latex para detección de la presencia de la proteína PBP2a, obteniendo aglutinación positiva pero menos intensa que la observada en la cepa empleada como control positivo. Los 11 aislados fueron entonces sometidos a amplificación por RPC empleando oligonucleótidos degenerados descritos por García-Álvarez y cols. Dichos oligonucleótidos tienen variaciones en su secuencia que permiten amplificar mecA y genes homólogos aun cuando la similitud de secuencia no sea perfecta. Dos de los once aislados generaron el producto esperado según el protocolo descrito por García-Álvarez (Figura 3), confirmando la presencia de una variante del gen mecA en estas cepas29.
+
+ 
+
+
+
+Figura 3. RPC para detección del gen mecC empleando oligonucleótidos          degenerados descritos por García-Alvarez. Gel de agarosa al 2% teñido con          bromuro de etidio. Carriles de izquierda a derecha: 1: Marcador de peso          molecular de 100 pb; 2: Control negativo; 3 al 9: Aislados con  heterorresistencia          frente a discos de oxacilina que resultaron negativos para la RPC convencional          para mecA descrita por Murakami y cols. Producto esperado para el gen mecC: 356pb.
+
+ 
+
+De los 48 de aislados de S. aureus en los que se detectó el gen codificante del factor de virulencia PVL, 10 de 23 (43%) correspondían a cepas de SAMR-AC y 38 de 100 (38%) cepas de SASM. Aquellos pacientes con infecciones por cepas de SASM-PVL positivo tuvieron 1,8 veces más riesgo de desarrollar infecciones invasoras que aquellas infecciones producidas por cepas de SASM-PVL negativas [p = 0,08, RR 1,88 (IC 0,9-3,8)] (Tabla 4).
+
+ 
+
+Tabla 4. Análisis univariado del tipo de infecciones generadas          por SASM-PVL(-) versus SASM-PLV(+)
+
+
+
+ 
+
+Discusión
+
+El incremento de cepas de SARM en diferentes países, como en nuestro medio, hace que la vigilancia de la re-sistencia constituya un pilar fundamental para el manejo de estos pacientes19-22. En nuestro estudio observamos que 18,7% de las infecciones adquiridas en la comunidad fueron producidas por cepas de SARM. Estos resultados son inferiores a los reportados por estudios realizados en otros centros hospitalarios de nuestro país, donde se comunica una prevalencia que oscila entre 23 y 27%23-24.
+
+El mayor porcentaje de aislamiento se observó entre diciembre y marzo, coincidente con el verano, caracterizado por el calor intenso y las picaduras de insectos, con un aumento en la frecuencia de infecciones de piel y tejidos blandos. Las elevadas temperaturas han sido señaladas como un factor ambiental importante en el desarrollo de infecciones por S. aureus30.
+
+Los datos mostraron que el empleo previo de antimicrobianos y la presencia de alguna co-morbilidad fueron los mayores factores predisponentes a infecciones por S. aureus en los niños estudiados. La convivencia con un trabajador de la salud como miembro de la familia se dio apenas en 2,4% (n: 3). Dentro de la co-morbilidad, cinco niños tenían enfermedades pulmonares crónicas, dos niños padecían de LLA, dos con patología cutánea crónica y un paciente tenía LES. La presencia de alguna co-morbilidad resulta muy importante en la evolución del cuadro clínico; de hecho 50% de los óbitos registrados se dieron en niños con enfermedades como LES y LLA. El número de convivientes presentó una mediana de cinco y valores extremos dos a 15 personas viviendo con el niño infectado, hallazgo similar al descrito en estudios realizados a nivel internacional y nacional9,23,24.
+
+Las infecciones de piel y tejidos blandos representaron más de la tercera parte de los casos estudiados y 19,5% de los pacientes presentaba bacteriemia, datos que coinciden a los presentados por Sanabria y cols., donde 62% (112/180) de las infecciones eran de piel y tejidos blandos24. En Córdoba, Argentina, un estudio realizado en 14 hospitales mostró que SARM-AC estaba asociado con mayor frecuencia a infecciones de piel y tejidos blandos que SARM de adquisición hospitalaria, p < 0,00131.
+
+La frecuencia de los aislados SARM (18,7%, n: 23) hallada en población pediátrica en el presente trabajo es menor a la reportada a por la Red Nacional de Monitoreo de Resistencia a Antimicrobianos (32%) en la población general, así como también es inferior la encontrada en un estudio realizado en octubre de 2009 en personal de salud del Hospital General Pediátrico Niños de Acosta Ñú (31,7%)22,32. Esta diferencia observada, obedece al tipo de poblaciones analizadas y resalta la importancia del presente estudio, en el que se caracteriza por vez primera aislados de S. aureus adquiridos en la comunidad en población pediátrica.
+
+La totalidad de las cepas de SARM y SASM analizadas en este estudio fueron sensibles a vancomicina, tigeciclina y teicoplanina. Las frecuencias de resistencia a tetraciclina, rifampicina y cotrimoxazol permanecen por debajo de 4% de los aislados, mientras que la resistencia a clindamicina se detectó en 5,7% de los casos. Estos resultados coinciden con lo reportado en trabajos realizados tanto en Paraguay como en Argentina9,23,24,32,33. La resistencia a penicilina es la más frecuente, tanto en SARM como en SASM, mientras que la resistencia a gentamicina es mayor en los aislados de SARM que en los de SASM, hechos coincidentes con otros estudios24,32. Diversos autores han reportado que el clon pediátrico circulante en Latinoamérica se caracteriza por causar infecciones en niños y presentar resistencia limitada a β-lactámicos asociada a resistencia a gentamicina34. Para poder confirmar la presencia de este clon entre los estudiados en este trabajo precisamos realizar análisis moleculares como la tipificación del cassette SCCmec, MLST y Spa typing, los que planeamos hacer en un futuro próximo. Los porcentajes de resistencia a tetraciclina son muy inferiores a los reportados en un estudio que analizó el comportamiento de cepas de S. aureus del complejo clonal 80, proveniente de 14 países europeos, seis africanos, dos del Medio Oriente y uno de Asia, en la que describen 70% de resistencia a tetraciclina en aislados de SARM; los autores sugieren que esta característica ha sido seleccionada a través de plásmidos presentes en linajes ancestrales35.
+
+La detección de los genes mecA y luk-PV se dio en 9,8% (n: 12) y 31% (n: 38) de los aislados, respectivamente. Cerca de la mitad de los aislados SARM presentó también el gen pvl. Así como en otros países, en este trabajo la totalidad de los aislados SARM portadores de los genes mec y luk-PV causaron infecciones de piel y tejidos blandos10,14,31.
+
+Tanto en Dinamarca como en el Reino Unido, diversos grupos de investigación han reportado en junio del año 2011, nuevos homólogos del gen mecA, que presentan diferencias en la secuencia de ADN y que no son detectables por métodos moleculares descritos con anterioridad, como es el caso del protocolo descrito por Murakami y que fue utilizado en este trabajo29,36. Por este motivo analizamos la posibilidad de la presencia de un homólogo del gen mecA en aquellos 11 aislados previamente tipificados como resistentes a meticilina y que dieron resultados negativos de RPC para mecA empleando los oligonucleótidos descritos por Murakami, y encontramos dos aislados portadores del homólogo descrito por García-Álvarez29. Este es el primer reporte de este tipo de homólogo de mecA en Paraguay y pone de manifiesto la variabilidad genética de las cepas de S. aureus circulantes en el país. Los nueve aislados restantes podrían portar otros homólogos de mecA o bien otros mecanismos que confieran resistencia a los antimicrobianos β-lactámicos, cuestión que estudiaremos próximamente.
+
+La presencia del gen luk-PV se dio tanto en aislados SARM como en SASM. Este factor de virulencia ha sido ampliamente descrito en aislados resistentes a meticilina, pero su rol en infecciones causadas por SASM se ha estudiado de forma reciente en distintas latitudes31,37,38. Así, hay reportes de SASM portadores de luk-PV, tanto a nivel internacional como regional. Rasigade y cols., analizaron la presencia de luk-PV en aislados de SASM que habían sido remitidos al Centro Nacional de Referencia de Staphylococcus en Francia durante 26 años (1981-2007), provenientes de 19 países, con fines de tipificar molecularmente las toxinas presentes en los mismos. Del total de 211 aislados SASM luk-PV positivos, cuatro provenían de Paraguay y fueron remitidos al laboratorio francés en el período 2001 a 200539. Así mismo un trabajo realizado en trabajadores de la salud del Hospital General Pediátrico Niños de Acosta Ñú mostró una frecuencia de 4,8% de luk-PV, siendo 100% de estos aislados portadores de luk-PV sensibles a meticilina32.
+
+Se pudo observar que aquellos pacientes con infecciones por cepas de SASM-PVL positivo presentaban una mayor tendencia a presentar infecciones invasoras que aquellas infecciones producidas por cepas de SASM-PVL negativas [p = 0,08, RR 1,88 (IC 0,9-3,8)]. En este sentido, en la actualidad existe controversia acerca del papel de PVL en la patogenicidad de la infección por S. aureus. Voyich y cols., argumentan que PVL no es necesario para la patogénesis de S. aureus en sepsis, bacteriemia o en abscesos de piel; así mismo, Yanhong y cols., estudiando aislados de S. aureus causantes de infecciones invasoras en niños chinos, sostienen que el gen de pvl no tiene un papel crucial en la patogénesis. Por otra parte, Labandeira-Rey y cols., realizaron un trabajo en modelo murino y demostraron que la presencia de la proteína PVL es suficiente para producir neumonía y que induce cambios de expresión en S. aureus aumentando los niveles del factor inflamatorio pulmonar (proteína Spa). Un estudio realizado en España analizando la sobrevida de pacientes con neumonía causada por S. aureus mostró que la presencia de PVL aumentaba 1,56 veces el riesgo de muerte, siendo estadísticamente significativa40-43.
+
+En conclusión, este estudio constituye la primera caracterización fenotípica y genotípica de S. aureus, tanto resistentes como sensibles a meticilina, provenientes de infecciones adquiridas en la comunidad en población pediátrica y realizada en la comunidad de Paraguay. Si bien este trabajo presenta limitantes como el tamaño de muestra, es un punto de inicio para el diseño de próximos estudios de cohortes prospectivos para evaluar los factores de riesgo y el pronóstico de los pacientes con infecciones por SARM, así como aquellas infecciones producidas por SASM-PVL positivas.
+
+En un futuro próximo se desea llegar a la identificación de los clones correspondientes, tanto a los aislados, SARM como SASM, mediante el empleo de métodos moleculares como la tipificación del cassette SCCmec y la secuenciación correspondiente para el MLST. Así mismo como identificar el mecanismo que confiere resistencia a meticilina presente en aquellos aislados que presentan el fenotipo pero en los que el gen mecA no ha podido ser amplificado con los oligonucleótidos empleados en este trabajo. Los estudios epidemiológicos que nos permitan evidenciar las características genéticas de las cepas que circulan en nuestra región son de suma importancia no sólo para cubrir lagunas en el conocimiento de nuestra epidemiología sino para fortalecer los sistemas de vigilancia de bacterias multi-resistentes, que nos permitan la elección de las mejores medidas de manejo de nuestros pacientes.
+
+Agradecimientos. A Laura Maldonado, Magdalena Rodríguez, Mirian Villagra y Gloria Peralta, Hospital General Pediátrico, por su colaboración para el llenado de las fichas clínicas de los aislados. A Gabriel Gutkind de la Facultad de Farmacia de la UBA, Argentina por ceder gentilmente aislados previamente identificados que sirvieron de controles positivos. A Norma Fariña del Dpto. de Análisis Clínicos y Microbiología por su ayuda en la evaluación de los aislados hetero-resistentes frente a oxacilina.

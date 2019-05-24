@@ -1,0 +1,168 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182016000200004
+Desarrollo y validación de un modelo predictor para bacteriemia en pacientes hospitalizados por el servicio de urgencias con sospecha de infección
+
+Resumen
+
+Introducción: Un hemocultivo positivo usualmente indica infección diseminada, la que se asocia con peor pronóstico y mayor mortalidad. Por tanto, buscamos desarrollar y validar un modelo de predicción que permita identificar los factores asociados con la positividad de los hemocultivos en pacientes del servicio de urgencias. Métodos: Análisis secundario de datos de dos cohortes prospectivas (EPISEPSIS: cohorte de desarrollo y DISEPSIS: cohorte de validación) de pacientes con sospecha o confirmación de infección, ensambladas en servicios de urgencias de 10 instituciones hospitalarias en cuatro ciudades de Colombia entre septiembre de 2007 y febrero de 2008. Se ajustó un modelo logístico multivariado para identificar variables clínicas y de laboratorio predictoras de hemocultivos positivos. Resultados: Se analizaron 719 pacientes en la cohorte de desarrollo y 467 en la cohorte de validación, con 32 y 21% de hemocultivos positivos, respectivamente. El modelo predictor final incluyó las variables con coeficientes significativos para ambas cohortes: temperatura ≥ 38 °C, Glasgow < 15 y plaquetas ≤ 150.000 céls/mm3 con calibración (bondad de ajuste de H-L) p = 0,0907 y p = 0,7003 y discriminación AUC: 0,68 (IC 95%: 0,65-0,72) y 0,65 (IC 95%: 0,61-0,70) en EPISEPSIS y DISEPSIS, respectivamente. Temperatura ≥ 38 °C y recuento de plaquetas ≤ 150.000 céls/mm3 con Glasgow normal; o Glasgow < 15 con temperatura y plaquetas normales tiene un LR entre 1,9 (IC 95%: 1,2-3,1) y 2,3 (IC 95%: 1,7-3,1). La escala de Glasgow < 15 puntos junto con cualquiera entre recuento de plaquetas o temperatura alteradas tiene un LR entre 2,2 (IC 95%: 1,1-4,4) y 2,6 (IC 95%: 1,7-4,3). Discusión: La temperatura ≥ 38 °C, el recuento de plaquetas ≤ 150.000 céls/mm3 y la escala de Glasgow < 15 son las variables asociadas con mayor probabilidad de tener un hemocultivo positivo.
+
+Palabras clave: Bacteriemia, predicción, sepsis, hemocultivo.
+
+ 
+
+Introducción
+
+La sepsis y la bacteriemia son las responsables de una importante cantidad de hospitalizaciones en unidades de cuidado intensivo (UCI)1. Los hemocultivos positivos, además de permitir la detección oportuna de los patógenos causantes de la infección, indican infección diseminada que se asocia con un peor pronóstico2. La detección del microorganismo en la sangre permite iniciar o ajustar un tratamiento antimicrobiano apropiado, lo que se espera impida la progresión de la sepsis y su alta tasa de mortalidad3,4.
+
+En la práctica médica habitual es frecuente la solicitud de hemocultivos en aquellos pacientes con sospecha de infecciones graves. A pesar de su uso tradicional, y de contar con determinadas características clínicas y de laboratorio que sugieren cierta utilidad en la realización de hemocultivos35, no existe un protocolo único aceptado con las indicaciones específicas para la solicitud de los mismos6. Para evaluar su utilidad también es necesario diferenciar entre el origen comunitario o intrahospitalario de la infección y los microorganismos encontrados varían en relación con la causa de la bacteriemia, siendo las más frecuentes la infección por catéter intravascular y las infecciones del tracto respiratorio78. La presencia de hemocultivos positivos se ha relacionado con la gravedad clínica del paciente, siendo más frecuente en pacientes con shock séptico, cirrosis hepática, enfermedad fatal, adicción a drogas intravenosas, leucocitosis, frecuencia cardíaca > 90 lpm, T > 37,8 °C y más de 10 días de estancia hospitalaria3,9.
+
+Así mismo, la mortalidad asociada con la bacteriemia varía de 14 a 42%7,10-12, dependiendo de su origen (intrahospitalario o no) y de diversos factores del paciente como la edad, la presencia de hipotensión arterial, la ausencia de fiebre, la insuficiencia renal, el cáncer, la infección por VIH, la estancia en UCI y el uso de catéteres intravenosos, entre otros8,11.
+
+Dado que la mayoría de las infecciones bacterianas graves son adquiridas fuera de los hospitales y atendidas en servicios de urgencias13, la posibilidad de anticipar la presencia de bacteriemia en pacientes de ciertas características clínicas sería una herramienta de extrema utilidad para la atención médica del servicio de urgencias. Por tanto, el objetivo de este trabajo es desarrollar y validar un modelo de predicción que permita identificar los factores asociados con la positividad de los hemocultivos.
+
+Material y Métodos
+
+Las reglas o modelos de predicción clínica son una herramienta compuesta por un conjunto de variables derivadas de la anamnesis, la exploración física y de los hallazgos de laboratorio, que en conjunto estiman la probabilidad de ocurrencia de un evento clínico. Este desenlace puede sugerir un diagnóstico específico o predecir una respuesta concreta a un tratamiento14. Para el desarrollo de éstas, se deben seleccionar posibles predictores y valorar su grado de asociación individual con el desenlace estudiado. A partir de allí, se selecciona las variables que muestren mejor asociación y, por medio de técnicas estadísticas, se elabora el mejor modelo que pondere adecuadamente la contribución de cada variable y prediga más acertadamente la medida de resultado15. Una vez seleccionadas las variables y elegido su formato de aplicación, la regla debe ser validada en muestras de pacientes diferentes a los utilizados en la fase de diseño. Interesa probarla en nuevas muestras de características similares a la original para juzgar su reproducibilidad, pero también en muestras de entornos clínicos diferentes para conocer su validez externa y aplicabilidad16.
+
+Tipo de estudio y participantes
+
+Se realizó un análisis secundario de datos de dos cohortes recolectadas previamente. Dichas cohortes se ensamblaron de manera prospectiva con pacientes que tenían sospecha o confirmación de infección: la primera (EPISEPSIS) incluyó pacientes admitidos por servicios de urgencias, UCI y salas médicas y quirúrgicas de 10 instituciones hospitalarias en cuatro ciudades de Colombia entre septiembre de 2007 y febrero de 200813; y la segunda (DISEPSIS) incluyó pacientes admitidos por el servicio de urgencias del Hospital Universitario San Vicente de Paul (HUSVP, Medellín) entre julio de 2007 y septiembre de 200817. Para el presente estudio se analizaron únicamente los pacientes de las dos cohortes que hubieran sido hospitalizados desde los servicios de urgencias por infección y en quienes se hubieran solicitado hemocultivos a discreción de los médicos tratantes.
+
+Criterios de inclusión y exclusión
+
+EPISEPSIS: Se incluyeron pacientes mayores de 18 años de edad, con diagnóstico probable o confirmado de infección, temperatura (> 38 o < 36 °C) o hipotensión arterial (PAS < 90 mmHg o una disminución > 40 mmHg en los valores previos) sin causa determinada; y que cumplieran con la definición para infección según los criterios del CDC18. Se excluyeron los pacientes que se negaran a participar, tuvieran estancia superior a 48 h en otra institución, no fuera posible su seguimiento a los 28 días, fueran dados de alta antes de las 24 h, presentaran cambios de diagnóstico principal durante la hospitalización, fueran detectados después de 24 h de la sospecha o confirmación de infección o hubieran participado antes en la investigación.
+
+DISEPSIS: Se consideraron elegibles pacientes con edad mayor o igual a 18 años, hospitalizados en el servicio de urgencias en las primeras 24 h, con al menos uno de los siguientes diagnósticos: infección, fiebre, cambios en el estado mental, encefalopatía o falla multiorgánica, estos tres últimos sin una causa definida diferente de infección. Se excluyeron pacientes que no quisieran participar, fueran dados de alta o remitidos en las primeras 24 h o fueran remitidos de otra institución.
+
+La investigación fue aprobada por el Comité de Ética del Instituto de Investigaciones Médicas de la Facultad de Medicina de la Universidad de Antioquia (Medellín) y de las instituciones hospitalarias participantes.
+
+Procedimientos de recolección de información
+
+Cada paciente fue seguido clínicamente por enfermeras entrenadas para la investigación en cada centro, utilizando formularios prediseñados y estandarizados. Se registraron las características clínicas y demográficas, los puntajes SOFA y APACHE II, el tipo de infección, las co-morbilidades, la necesidad de ingreso a UCI, el tiempo de estancia hospitalaria y el estado vital a los 28 días. Las muestras de sangre para los hemocultivos fueron tomadas por enfermeras de cada centro participante, de acuerdo con los protocolos institucionales de cada establecimiento y/o los criterios de los médicos a cargo del paciente. El procesamiento de las muestras fue realizado en el laboratorio de microbiología del respectivo hospital en equipos BacT/ALERT®3D (bio Mérieux Diagnostics) y Bactec 9120, Bactec 9240 (Becton Dickinson, NJ USA), todos sistemas automatizados y siguiendo las instrucciones del fabricante.
+
+Desenlace
+
+Se consideró hemocultivo positivo el crecimiento de bacterias con reconocida capacidad patógena en al menos un cultivo de sangre, o el crecimiento de los microorganismos propios de la microbiota cutánea normal en al menos dos cultivos de sangre en presencia del síndrome de respuesta inflamatoria sistémica (SIRS = al menos dos de los siguientes criterios: frecuencia cardíaca > 90 latidos/min, frecuencia respiratoria > 20 respiraciones/min, temperatura > 38 °C o < 36 °C, o leucocitos > 12.000 o < 4.000 céls/mm3) o evidencia clínica que sugiriera un foco primario de infección relacionado con el microorganismo aislado en sangre3. Todo el proceso de recolección y clasificación de los pacientes y las variables fue confirmado en cada centro por co-investigadores clínicos con formación y experiencia en Medicina Interna y/o Cuidado Intensivo.
+
+Predictores
+
+De acuerdo con la población blanco del estudio, se consideraron como candidatas aquellas variables clínicas y de laboratorio disponibles en los servicio de urgencias y que pudieran clasificase como normales o anormales según valores típicos de referencia. Por tanto, se analizaron como potenciales predictores la frecuencia cardíaca, frecuencia respiratoria, temperatura, presión arterial sistólica, escala de coma de Glasgow, el recuento de leucocitos y de plaquetas en el momento de la toma del hemocultivo56.
+
+Tamaño de muestra y valores faltantes
+
+Dado que se contaba con tamaños de muestra fijos en las dos cohortes analizadas, se tuvo en cuenta el número de eventos por variable. Es decir, un modelo predictor o un análisis multivariado permitiría un mínimo de 10 desenlaces (hemocultivo positivo) por cada variable independiente o predictora que se considere19. De este modo, un modelo con cinco variables predictoras independientes necesitaría una cohorte con al menos 50 hemocultivos positivos y un modelo con 10 variables requeriría de al menos 100 bacteriemias detectables en la cohorte. De acuerdo con los resultados de los estudios originales, se esperaba desarrollar un modelo predictor con aproximadamente 10 variables independientes. No se presentaron valores faltantes.
+
+Análisis estadístico
+
+Las variables continuas se presentan con media y desviación estándar o medianas y rangos intercuartílicos de acuerdo con su distribución y las variables categóricas se presentan con proporciones. Todos los predictores se manejaron como variables categóricas, de acuerdo con los valores aceptados como fisiológicamente normales o anormales, buscando facilitar la interpretación de los resultados en la práctica clínica habitual de un servicio congestionado de urgencias. El desarrollo del modelo de predicción se realizó en la cohorte EPISEPSIS y la validación en la cohorte DISEPSIS. Se ajustaron modelos de regresión logística univariada y multivariada con todas las variables candidatas, pero se consideraron para el modelo predictor final solamente aquellas variables significativas (valor p del estadístico de Wald < 0,05) en los modelos multivariados de las dos cohortes. No se consideró la posibilidad de interacción y se descartó la multicolinearidad entre las variables por medio del factor de inflación de la varianza (VIF) con valores inferiores a 1020. La calibración de los modelos se determinó mediante la prueba de bondad de ajuste de Hosmer-Lemeshow y se consideró adecuada con un valor de p > 0,05, es decir, que la probabilidad de tener hemocultivo positivo no difiere significativamente entre lo observado y lo predicho por el modelo21. La discriminación de los modelos se evaluó por medio del área bajo la curva de características operativas del receptor (AUC-ROC), en la cual un valor de 0,5 corresponde a una clasificación de hemocultivos positivos y negativos igual al azar y un valor de 1 representa una separación perfecta entre las dos poblaciones22.
+
+Para construir el modelo predictor final se tuvieron en cuenta las variables significativas en los análisis multivariados y se asignó un puntaje proporcional al coeficiente de regresión de cada variable seleccionada. De acuerdo con el puntaje obtenido por cada paciente, se estimó la probabilidad general de tener dicho puntaje en los pacientes con hemocultivo positivo comparado con la probabilidad del mismo puntaje en los pacientes con hemocultivo negativo. Esta última comparación corresponde al cociente de probabilidades (likelihood ratio por su denominación en inglés) y los valores superiores a 1 implican mayor probabilidad de tener un hemocultivo positivo.
+
+Resultados
+
+Durante el período de estudio el total de la población elegible fue de 5.877 pacientes, 4.082 en EPISEPSIS y 1.795 en DISEPSIS, de los cuales fueron admitidos por servicios de urgencias 1.846 y 765, respectivamente, con posterioridad a la aplicación de los criterios de exclusión de cada estudio. Los hemocultivos fueron solicitados en 719 pacientes en EPISEPSIS (cohorte de desarrollo) y 467 pacientes en DISEPSIS (cohorte de validación), que representan la población final de la presente investigación (Figura 1).
+
+ 
+
+
+
+Figura 1. Diagrama de flujo de la población de estudio.
+
+ 
+
+La edad promedio de la población total de estudio (1.186 pacientes sumando las dos cohortes) fue 56 años (DE: 20). Cincuenta y dos por ciento (n: 615) fueron mujeres y los promedios de puntajes SOFA y APACHE II fueron mayores en los pacientes con hemocultivos positivos en ambas cohortes. El diagnóstico principal de ingreso fue neumonía (24,9%; n: 295), seguido de infección de tracto urinario (21%; n: 250) y de infección de tejidos blandos (11,5%; n: 137), pero en los pacientes con hemocultivos positivos fue más frecuente la infección de tracto urinario (28,6%; n: 93). Para la población con hemocultivo positivo, la estancia hospitalaria promedio fue de 13 días, en comparación con los hemocultivos negativos que fue de 9 días. La mortalidad hospitalaria fue de 17% (n: 206), que corresponde a 24,3% de los pacientes que obtuvieron hemocultivos positivos (n: 79) en comparación con 14% de los pacientes con hemocultivos negativos (n: 127). En la Tabla 1 se muestran las principales características clínicas de las dos cohortes de acuerdo con el resultado del hemocultivo.
+
+ 
+
+Tabla 1. Características demográficas y clínicas de los pacientes de acuerdo          con el resultado de los hemocultivos
+
+
+
+Los datos se presentan como promedio ± desviación estándar o mediana          (percentil 25 - percentil 75). VIH: virus de la inmunodeficiencia humana;          EPOC: Enfermedad pulmonar obstructiva crónica; ICC: insuficiencia          cardíaca congestiva; IRC: insuficiencia renal crónica; UCI: unidad          de cuidados intensivos.
+
+ 
+
+En los 325 pacientes (27,4%) con hemocultivos positivos, los principales patógenos encontrados fueron Escherichia coli (n: 97; 29,8%), Staphylococcus aureus (n: 50; 15,3%) y Klebsiella pneumoniae (n: 35; 10,7%) (Tabla 2).
+
+ 
+
+Tabla 2. Principales microorganismos aislados por cohorte
+
+
+
+ 
+
+Desarrollo del modelo predictor
+
+El análisis univariado y multivariado de la cohorte de desarrollo con las variables candidatas identificó los siguientes predictores para bacteriemia: temperatura ≥ 38 °C, OR: 2,13 (IC 95%: 1,44-3,15), escala Glasgow < 15, OR: 3,08 (IC 95%: 2,11-4,50), leucocitos > 12.000 céls/mm3, OR: 1,59 (IC 95%: 1,09-2,32) y plaquetas ≤ 150.000 céls/mm3, OR: 2,12 (IC 95%: 1,42-3,17) (Tabla 3).
+
+ 
+
+Tabla 3. Análisis de regresión logística univariable y multivariado para hemocultivos          positivos. Cohorte de desarrollo del modelo de predicción
+
+
+
+ 
+
+La cohorte de validación se muestra en la Tabla 4, en la cual el cambio más importante se observa en el recuento de leucocitos que pierde fuerza de asociación y significado estadístico. Por esta razón, ante el mínimo aporte a la discriminación del modelo (datos no mostrados), se decidió excluir esta variable del modelo final.
+
+ 
+
+Tabla 4. Análisis de regresión logística univariable y multivariado para hemocultivos          positivos. Cohorte de validación del modelo de predicción
+
+
+
+*Únicamente cuatro pacientes tuvieron temperatura < 36 °C, todos con hemocultivo negativo.
+
+ 
+
+La Tabla 5 muestra el modelo predictor final con los coeficientes de regresión correspondientes a temperatura ≥ 38 °C, recuento de plaquetas < 150.000 céls/mm3 y escala de Glasgow < 15 puntos. A la presencia de cada una de estas variables se le asignó un punto, excepto al descenso en la escala de Glasgow que recibió dos puntos, respetando la proporcionalidad de los coeficientes en la cohorte de desarrollo. Las evaluaciones de discriminación (AUC-ROC) y calibración (estadístico H-L) se muestran en la Tabla 5 y en la Figura 2.
+
+ 
+
+Tabla 5. Modelo predictor final para hemocultivos positivos y medidas de exactitud          (calibración y discriminación) en las dos cohortes
+
+
+
+H-L: Hosmer-Lemeshow; AUC-ROC: Área bajo la curva de características operativas del receptor.
+
+ 
+
+
+
+Figura 2. Áreas bajo la curva y calibración de los modelos predictores en las dos cohortes.
+
+ 
+
+El uso final del puntaje, con sus respectivos LR en las dos cohortes, se muestra en la Tabla 6. Dos o más puntos, de cualquier combinación, duplican la probabilidad de tener un hemocultivo positivo. Es decir, temperatura ≥ 38 °C y recuento de plaquetas < 150.000 céls/mm3 con Glasgow normal; o Glasgow < 15 con temperatura y plaquetas normales tiene un LR entre 1,9 (IC 95%: 1,2-3,1) y 2,3 (IC 95%: 1,7-3,1). La escala de Glasgow < 15 puntos junto con cualquiera de recuento de plaquetas o temperatura alteradas tiene un LR entre 2,2 (IC 95%: 1,1-4,4) y 2,6 (IC 95%: 1,7-4,3).
+
+ 
+
+Tabla 6. Desempeño diagnóstico del puntaje en las dos cohortes de estudio
+
+
+
+LR: likelihood ratio (cociente de probabilidades); T°: temperatura; G: Glasgow; P: plaquetas.
+
+ 
+
+Discusión
+
+En dos cohortes de pacientes con sospecha de infección admitidos por servicios de urgencias en hospitales de referencia de Colombia, encontramos algunos hallazgos clínicos y de laboratorio que suministran una discreta ayuda en la posibilidad de anticipar la positividad de los hemocultivos. La temperatura ≥ 38° C, el recuento de plaquetas < 150.000 céls/mm3 y la escala de Glasgow < 15 son las variables asociadas con mayor probabilidad de tener un hemocultivo positivo.
+
+Se han realizado diversos intentos para implementar puntajes que permitan discriminar los pacientes que se beneficien de la solicitud de hemocultivo al ingreso a un servicio de urgencias.
+
+Kim y cols.23, en un estudio prospectivo de 735 mujeres con pielonefritis aguda en un servicio de urgencias, construyeron un modelo de regresión logística para predecir la bacteriemia con cinco variables independientes: edad ≥ 65 años (OR: 5,18-4 puntos), vómito (OR: 2,40-2 puntos), frecuencia cardíaca > 110 latidos/min (OR: 2,35-2 puntos), neutrófilos segmentados > 90% (OR: 3,17-3 puntos) y leucocitos en orina > 50/campo, de alto poder (OR: 4,27-4 puntos). El riesgo de bacteriemia se estratificó como bajo: < 4 puntos, intermedio: 4 a 6 puntos o alto: > 7 puntos. Aunque es un modelo potencialmente útil, la especificidad de la población de estudio y la relativa complejidad para el uso en la práctica clínica habitual de un servicio congestionado de urgencias son limitaciones para su aplicabilidad.
+
+Chase y cols.24, realizaron un análisis secundario en una cohorte prospectiva de 5.630 pacientes con sospecha de infección en un servicio de urgencias. Las variables asociadas con el diagnóstico de bacteriemia por cualquier microorganismo fueron la insuficiencia respiratoria aguda, la necesidad de vasopresores, neutrófilos superiores a 80%, la presencia de formas inmaduras, las plaquetas < 150.000 céls/mm3, tener un catéter venoso permanente, la temperatura anormal y la sospecha de infección urinaria, endocarditis o infección asociada a catéter. El estadístico C, área bajo la curva ROC, fue de 0,71 para una discriminación discretamente superior a la de nuestro estudio pero con muchas más variables. Con solamente dos de las anteriores, temperatura y plaquetas, nuestro modelo mostró un AUC-ROC de 0,68 en la cohorte de desarrollo y 0,65 en la cohorte de validación. Adicionalmente, su desarrollo en una cohorte multi-céntrica y su validación en una cohorte de un solo centro hace más robustos nuestros hallazgos por la diversidad de las poblaciones, el espectro de la enfermedad y la epidemiologia microbiana.
+
+Roque y cols.25, analizaron una cohorte retrospectiva de 1.124 pacientes que ingresaban al servicio de urgencias con solicitud de hemocultivos, de los cuales la proporción de verdaderos positivos fue 10,3%. Las variables asociadas con positividad de los hemocultivos fueron la edad, el uso de quimioterapia en los seis meses anteriores al reclutamiento, la frecuencia cardíaca > 100 latidos por minuto, la natremia disminuida y el aumento del nitrógeno ureico sanguíneo. Sin embargo, no es clara la definición de la población de estudio y los autores buscaban determinar los factores asociados de manera independiente con la presencia de bacteriemia, más no desarrollar un modelo predictor de potencial utilidad clínica.
+
+Keith y cols.26, con un estudio de casos y controles, analizaron las variables de riesgo para bacteriemia nosocomial en ancianos y crearon un modelo predictor para este fin. Encontraron que las características propias de cada paciente como obesidad, incontinencia urinaria, gravedad de la enfermedad entendido como puntaje McCabe de 1, presencia de gastrostomía o catéter central en la admisión y cirugía reciente, son las variables que pueden predecir el riesgo de bacteriemia. En su modelo, un puntaje > 11 de 23 puntos totales posibles fue predictor de infección del torrente sanguíneo. Estos resultados, no obstante, sólo aplican para la probabilidad de bacteriemia adquirida en el hospital en pacientes adultos mayores.
+
+Su y cols.27, desarrollaron un modelo predictor para identificar pacientes con alto riesgo de bacteriemia en el servicio de emergencias, a través de una cohorte prospectiva de 558 pacientes en un hospital de tercer nivel Las variables predictoras, con su respectivo puntaje, fueron temperatura > 38,3 °C [1], frecuencia cardíaca ≥ 120 latidos minuto [1], linfopenia < 500 céls/mm3 [2], AST > 40 IU/L [1], proteína C reactiva > 10 mg/dL [1], procalcitonina > 0,5 ng/mL [2] y sospecha de neumonía [2]. A pesar de las ventajas en discriminación (AUC-ROC: 0,845), la aplicabilidad de este puntaje está por definirse.
+
+A pesar de los múltiples estudios realizados en grupos heterogéneos de pacientes para estimar la probabilidad de obtener hemocultivos verdaderamente positivos, la validación externa y la aplicabilidad de los resultados ha sido muy limitada. En ese sentido, las principales fortalezas de nuestro estudio son la simplicidad en la identificación de las variables del modelo en los pacientes y el carácter multicéntrico de los datos.
+
+Como limitaciones, es necesario resaltar que este es un análisis secundario de dos cohortes recolectadas de manera prospectiva pero con un fin diferente a desarrollar y validar un modelo de predicción. Por esta razón, algunas variables predictoras identificadas en otros estudios como el uso previo de antimicrobianos, los valores de nitrógeno ureico sanguíneo o la presencia de hiponatremia no fueron consideradas en el presente análisis; y los tiempos de toma y procesamiento de las muestras de sangre para los hemocultivos no estuvieron estandarizados. Igualmente, las cohortes fueron ensambladas hace aproximadamente siete años y no podemos asegurar que el perfil clínico y microbiológico sea el mismo actualmente. Del mismo modo, a pesar de la cobertura para el desarrollo del modelo en 10 hospitales de cuatro ciudades del país, su rendimiento en otras instituciones y países puede diferir.
+
+En conclusión, desarrollamos un modelo predictor rápido y sencillo para identificar en servicios de urgencias pacientes con sospecha de infección y mayor probabilidad de bacteriemia. Su utilización, una vez realizada una validación independiente y prospectiva, podría ayudar al personal médico en un servicio de urgencias a identificar una población de diferente condición clínica y gravedad dentro del espectro de la sepsis, a usar de manera más racional un recurso de laboratorio y eventualmente a guiar decisiones terapéuticas.

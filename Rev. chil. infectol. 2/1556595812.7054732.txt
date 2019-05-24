@@ -1,0 +1,164 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000300253
+Evaluación de tres métodos de tamizaje para detección de Enterobacteriaceae productoras de carbapenemasas en hisopados rectales
+
+Introducción
+
+Las Enterobacteriaceae productoras de carbapenemasas (EPC) han tomado gran importancia en el mundo, por el aumento en el número de infecciones y el incremento en las tasas de morbi-mortalidad. Su rápida diseminación, su difícil control y la escasez de opciones terapéuticas para el manejo de las infecciones, son factores que han permitido que estos microorganismos sean los causantes de brotes a nivel hospitalario causando numerosas muertes1-5.
+
+Su efectiva capacidad de diseminación radica en que los genes que codifican estas carbapenemasas están localizados en transposones e integrones que se movilizan fácilmente entre especies bacterianas. Las carbapenemasas de clase A con serina en su sitio activo (KPC like) son las prevalentes en todos los continentes, seguidas de las carbapenemasas de la clase B (VIM, NDM) que tienen zinc en el sitio activo3,6-8. En Colombia, se han publicado varios reportes de brotes por Klebsiella pneumoniae productora de carbapenemasas tipo serina (KPC like) y hallazgos de otros genes como por VIM, NDM y OXA9,11.
+
+Entre los sitios corporales con mayor densidad de colonización se encuentran el tracto respiratorio, asociado al uso de dispositivos invasores (ventilación mecánica), y el tracto gastrointestinal, considerado el más importante3,6,8,10. Estos pacientes colonizados, se convierten en un vehículo efectivo de diseminación, provocando brotes de magnitud considerable4,6,7,12.
+
+A esto se suma, la escasa búsqueda activa en pacientes hospitalizados o remitidos de otras instituciones, donde se ha demostrado su rápida colonización por microorganismos multi-resistentes2,3,13.
+
+Objetivo
+
+Evaluar tres diferentes metodologías para el tamizaje de EPC en muestras de hisopado rectal de pacientes admitidos en el servicio de hospitalización de la Fundación Clínica Shaio.
+
+Materiales y Métodos
+
+Estudio prospectivo, de tipo transversal, en el cual se evaluaron 73 hisopados rectales de pacientes provenientes de los servicios de Urgencias, Unidad de Cuidado Intensivo (UCI), Unidad de Cuidado Cardiovascular (UCC) y de hospitalización general.
+
+Criterios de inclusión: Edad mayor a 18 años, pacientes remitidos de otra institución, paciente con aislamiento previo por microorganismos multi-resistentes, paciente de hogar geriátrico y quienes presentaron hospitalización, cirugía, y/o tratamiento antimicrobiano con carbapenémicos en los últimos tres meses.
+
+Muestras: A cada uno de los pacientes se les realizó hisopado rectal por duplicado, utilizando dos hisopos plásticos de dacrón. Después de tomada la muestra rectal, estos hisopos se depositaron en un tubo de vidrio con 2 mL de solución salina estéril para su homogenización y transporte al laboratorio de microbiología.
+
+Métodos a evaluar
+
+Método 1: Agar ChromID CARBA® (bioMérieux, Francia). Agar cromogénico que permite la recuperación de microorganismos resistentes a carbapenémicos directamente a partir de hisopados rectales, suplementado con antimicrobianos que inhiben la microbiota acompañante. Adicionalmente, contiene cromógenos que facilitan la identificación presuntiva del microorganismo. Requiere de un tiempo de incubación de 24 a 48 h.
+
+Método 2: HB&L Carbapenemase Kit® (Alifax, Italia). Consiste de viales con caldo nutritivo, con aditivo de carbapenémicos y antifúngicos, los que son leídos por nefelometría laser en el equipo HB&L® (Alifax, Italia) arrojando un recuento bacteriano de las bacterias resistentes. Este kit nos permite la detección de microorganismos productores de carbapenemasas en muestras de hisopado rectal en un tiempo máximo de 6 h.
+
+Método 3:Xpert CARBA-R® (Cepheid, E.U.A.): Es una técnica que utiliza reacción de la polimerasa en cadena en tiempo real (RPC-TR) para la detección rápida (1 h) de microorganismos productores de carbapenemasas, a partir de muestra directa de hisopado rectal. El cartucho de prueba se ingresa al equipo GeneXpert (Cepheid, EU.A.), que a través de sondas especificas revela la presencia de los genes productores de carbapenemasas, entre los cuales están: KPC, VIM, IMP-1, NDM y OXA-48.
+
+Método de referencia: Para comparar los métodos en estudio, tomamos como referencia el “Protocolo para detección de Escherichia coli y Klebsiella spp productoras de carbapenemasas en hisopados rectales” del Centers for Disease Control and Prevention-CDC (Atlanta, E.U.A.)14. Además, se incluyó el método de tamizaje directo con discos de ertapenem y meropenem en agar MacConkey, como está ampliamente descrito en la literatura científica3,15.
+
+Procesamiento: Protocolo de montaje de pruebas
+
+A cada muestra de hisopado rectal se les realizó los siguientes procedimientos, de manera controlada y simultánea, para evitar variaciones e interferencias y poder así, obtener resultados confiables en el desarrollo del estudio.
+
+Se tomaron 73 muestras de hisopado rectal de pacientes de los siguientes servicios: 39 del servicio de urgencias, 16 de UCI adultos, 9 de UCI cardiovascular y 9 pacientes de hospitalización general, quienes cumplieron con los criterios de inclusión establecidos.
+
+Estos hisopados rectales contenidos en los tubos con solución salina estéril se homogenizaron utilizando vortex por un minuto y se examinó visualmente y por coloración de Gram la calidad de la muestra. (Figura 1).
+
+Figura 1 Protocolo de montaje de los tres métodos comparados. 
+
+De esta suspensión se procedió a realizar cada uno de los métodos a comparar en el estudio, de la siguiente forma:
+
+Para el Método de referencia, se colocó un disco de meropenem en 5 mL de caldo tripticasa soya y se inoculó 200 mL de la suspensión del hisopado rectal; se incubó a 37 °C durante una noche. Al día siguiente, se sub-cultivó 100 μL de este caldo en una placa de agar MacConkey, la que se incubó a 37 °C durante la noche. Al día 3 se examinaron las colonias fermentadoras de lactosa, las que se identificaron bioquímicamente por método automatizado y se les hizo pruebas confirmatorias para detección de carbapenemasas.
+
+Adicionalmente, se inoculó de manera directa, 200 μL de la suspensión del hisopado rectal sobre una placa de agar MacConkey y se sembró de forma masiva utilizando un hisopo estéril, luego se colocó un disco de ertapenem de 10 μg y meropenem de 10 μg y se llevó a incubación a 37 °C.
+
+Al día siguiente, se observó la presencia de colonias fermentadoras de lactosa alrededor de los discos en un halo de inhibición menor a 19 mm de diámetro. Estas colonias se identificaron por método automatizado y se les hizo pruebas confirmatorias para detección de carbapenemasas.
+
+200 μL fueron inoculados en el cromoagar ChromID CARBA® (Método 1) y se realizó siembra por agotamiento. Las placas fueron incubadas a 37 °C durante 48 h. Los agares fueron revisados para crecimiento a las 24, 36 y 48 h de incubación.
+
+Para el Método 2, se tomó 200 μL de la suspensión inicial y se depositó en el vial del kit HB&L Carbapenemase® el que contenía el caldo de enriquecimiento y se le adicionó 200 μL del mix de carbapenémicos e inhibidores contenidos en el kit. Luego, se introdujo en el equipo automatizado HB&L Light durante 6 h. Se observó la curva de crecimiento y recuento expresado en ufc/mL, clasificándose como positivo cualquier recuento expresado, incluso hasta el valor mínimo detectado por el equipo correspondiente a < 50 ufc/mL. Cada vial positivo fue subcultivado en agar MacConkey, con el fin de obtener crecimiento de estas poblaciones multi-resistentes.
+
+Adicionalmente se extrajo 1 ml de cada vial positivo para preparar una suspensión con escala MacFarland de 0,5 con solución salina, para la realización de pruebas de identificación, perfil de susceptibilidad por sistema automatizado, test de Hodge. sinergia con ácido borónico y EDTA. de manera directa, y ver la concordancia con el método convencional (Figura 1).
+
+Para realizar el Método 3, Xpert Carba-R® se seleccionaron 33 de los 73 hisopados rectales. Esta técnica se aplicó a todos los aislados positivos por los métodos 1 y 2 (20 en total) y se escogieron al azar muestras negativas (14 en total). Se tomó 1 mL de la suspensión del hisopado rectal, se colocó dentro del fiasco de reactivo de preparación contenido en el kit y se dejó por un tiempo de 5 minutos. Después de este tiempo, se tomaron 1,7 mL y se inocularon dentro del cartucho del ensayo. Se programó en el equipo GeneXpert® y se dejó en proceso durante 1 k. Se tuvo en cuenta el inicio de ciclo de amplificación y los diferentes genes detectados.
+
+Pruebas de identificación, susceptibilidad y pruebas confirmatorias
+
+Todos los bacilos gramnegativos recuperados en los métodos 1 y 2, y del método de referencia, fueron procesados utilizando equipos automatizados de microbiologia (5 con Microscan Walkaway® Beckman Coulter Inc y 68 con Vitek 2 Compact® bioMerieux Durham NC) para su identificación y perfil de susceptibilidad por método de microdilución. Igualmente, se realizó Test de Hodge de acuerdo con las guías de Clinical Laboratory Standards Institute (CLSI) y pruebas de sinergia con ácido borónico y con EDTA en agar Mueller Hinton para la clasificación del tipo de carbapenemasa, según los protocolos del Instituto Nacional de Salud de Colombia (INS).
+
+Controles de prueba: Como control positivo se utilizó K. pneumoniae ATCC BAA 1705 (blaKPC+) y como control negativo K. pneumoniae ATCC 700603 que expresa una β-lactamasa de espectro extendido (BLEE). Ambos controles fueron procesados por los tres métodos, de igual forma que las muestras de los pacientes.
+
+A cada uno de los métodos se determinó su concordancia neta, sensibilidad, especificidad, valor predictor positivo (VPP) y valor predictor negativo (VPN).
+
+Resultados
+
+Durante el período del estudio se recolectó un total de 73 muestras de hisopado rectal, de 73 pacientes de diferentes servicios de nuestra institución, 34 pacientes (46,5%) fueron del sexo femenino y 39 pacientes (53,5%) de sexo masculino. El rango de edad de los pacientes estuvo entre 35 y 80 años.
+
+Método 1: Agar ChromID CARBA®
+
+De las 73 muestras de pacientes, se obtuvo un total de 20 hisopados rectales positivos (27,4%) y 48 hisopados negativos (65,7%). Cinco muestras correspondieron a falsos positivos (6,9%) (Figura 2). Los hisopados positivos tuvieron crecimiento de colonias en un tiempo de 24 a 36 h de incubación a 37 °C. Se recuperaron colonias de color morado sugestivas de E. coli y colonias color azul verdoso sugestivas de Klebsiella spp y Enterobacter spp, lo cual evidenció muy buena correlación con la identificación arrojada por los sistemas automatizados.
+
+Figura 2 Resultados de los métodos de tamizaje evaluados. 
+
+La mayoría de los cultivos en este cromoagar fueron monomicrobianos, es decir que sólo tenían una población multi-resistente, pero en sólo un caso se presentó el crecimiento de dos especies de bacterias con resistencia a carbapenémicos.
+
+De los 20 hisopados rectales positivos por este cromo-agar, se logró identificar a los siguientes microorganismos multi-resistentes: K. pneumoniae en 65%, con 13 aislamientos, Citrobacter freundii se recuperó en 3 muestras (15%), E. coli en 2 muestras (10%), Enterobacter aerogenes y Pseudomonas aeruginosa, cada uno con un aislamiento (5% cada uno) (Figura 3). A estos microorganismos recuperados (excepto P. aeruginosa), se les realizó test de Hodge, pruebas de ácido borónico y EDTA para identificar el tipo de carbapenemasa presente, de las cuales sólo 16 fueron dieron test de Hodge y ácido borónico positivo y EDTA negativo, indicando que fenotípicamente correspondían a carbapenemasas de tipo serina (Tabla 1).
+
+Figura 3 Distribución de los microorganismos productores de carbapenemasas detectados en los hisopados rectales positivos. 
+
+Tabla 1 Resultados de los 20 hisopados rectales positivos por las tres metodologías, con su identificación por sistema automatizado, concentración mínima inhibitoria (CIM) de cada carbapenémico y pruebas fenotípicas 
+
+(ERT: ertapenem, MER: meropenem, IMI: imipenem, ΤΗ: Test de Hodge, A.B: Test con ácido borónico, EDTA: Test con EDTA, N/A: no aplica.
+
+*Tiempo de detección: 1 (hora). Puntos de corte CLSI 2016).
+
+Respecto a los 5 falsos positivos (6,9%), correspondieron a colonias de color blanco y otras de color café, las que fueron identificadas por sistema automatizado como Stenotrophomonas maltophilia y P. aeruginosa, respectivamente, con perfiles de resistencia usual, las que forman parte de nuestra microbiota intestinal y no son tan relevantes epidemiológicamente como las especies fermentadoras.
+
+Los cultivos de hisopados rectales negativos, fueron incubados hasta las 48 h para su reporte final, dado que se observó que algunas especies de E. coli, eran las más lentas en crecer en este agar.
+
+El índice de concordancia de este método fue de 93,2%, sensibilidad de 100%, especificidad de 90%, VPP: 80% y VPN: 100% (Tabla 2).
+
+Tabla 2 Resultados de los índices de concordancia de los tres métodos evaluados 
+
+S: sensibilidad; E: especificidad; VPP: valor predictivo positivo; VPN: valor predictivo negativo.
+
+Método 2: HB&L Carbapenemase Kit®
+
+Por este método se procesaron los 73 hisopados rectales, obteniéndose positividad en 17 de ellos (23,3%) y 53 fueron negativos (72,6%). Se presentaron 3 falsos negativos (4,1%) y ningún falso positivo. El tiempo de detección por este método fue de 6 h, aunque en algunos casos se obtuvo recuentos a las 2 y 4 h de incubación.
+
+Los recuentos bacterianos expresados en ufc/mL de los viales positivos fueron muy variados, estando entre rangos de 50.000 ufc/mL y 20.000.000 ufc/mL.
+
+Se presentaron 3 falsos negativos (4,1%), en los que no hubo curva de crecimiento ni recuento alguno, a diferencia del ChromID CARBA donde sí se obtuvo crecimiento. Uno de estos casos fue debido a la baja carga bacteriana por el bajo inoculo de muestra que traían inicialmente y los otros dos casos correspondieron a dos microorganismos que tampoco los sistemas automatizados pudieron detectarlos, evidenciando CIM a ertapenem y meropenem ≤ 1 μg/mL, y pruebas fenotípicas igualmente negativas (Tabla 1). Según los resultados obtenidos, el índice de concordancia fue de 95,9%, sensibilidad de 85%, especificidad del 100%, VPP: 100% y VPN: 94% (Tabla 2).
+
+Tanto la identificación, perfil de susceptibilidad por sistema automatizado y pruebas fenotípicas como el test de Hodge, sinergia con ácido borónico y EDTA, realizadas a partir de la suspensión de la alícuota del vial positivo con solución salina fisiológica en escala MacFarland de 0,5, tuvieron 100% de concordancia con el método convencional.
+
+Método 3: Xpert Carba-R®
+
+Del total de muestras (73) de hisopado rectal, se procesaron en total 33 muestras por este método de RPC-TR, siendo positivas 19 (57,5%) y 13 negativas (39,4). Solo se presentó 1 falso negativo que correspondió a 3,1% y ningún falso positivo (Figura 2).
+
+El ciclo de amplificación en el que se empezó a ver positividad por esta prueba fue, en promedio, el ciclo 20-25, aunque en algunas muestras empezó a observarse la amplificación del gen alrededor del ciclo 30 a 35. El tiempo promedio de detección de esta prueba fue 56 min. No se presentaron errores de prueba, ni inhibidores de RPC, pues todas las muestras positivas por los otros dos métodos fueron también positivas por este ensayo.
+
+Cabe aclarar que esta metodología sólo detecta el gen presente en la muestra, pero no identifica el microorganismo. Para lo cual debemos disponer de una siembra alterna para luego poder realizar la identificación de género y especie. De esta identificación bacteriana pudo relacionarse los diferentes microorganismos y el tipo de gen presente: 13 K. pneumoniae con gen blaKPC, 3 C. freundii con gen blaKPC, 2 E. coli con gen blaKPC, 1 E. aerogenes con gen blaKPC y sólo un aislamiento de P. aeruginosa que presentó los genes blaVIM y blaKPC simultáneamente (Tabla 1).
+
+Se obtuvo una sensibilidad de 95%, especificidad de 100%, VPP: 100% y VPN: 94%, con un índice de concordancia de 97%, siendo el valor más alto, en comparación con los otros métodos (Tabla 2).
+
+Los controles de prueba, tanto positivo como negativo, fueron acertados para cada uno de los métodos. La cepa ATCC K. pneumoniae BAA 1.705 obtuvo un buen crecimiento en el agar ChromID CARBA con tiempo promedio de crecimiento a las 24 h de incubación. En el vial de HB&L Carbapenemase tuvo positividad a las 4 h de incubación, con un recuento de 20.000.000 ufc y por el cartucho de prueba de Xpert Carba-R detectó la presencia del gen blaKPC. El control negativo fue negativo por las tres metodologías.
+
+Discusión
+
+Las EPC siguen en aumento considerable, asociándose a altas tasas de mortalidad y morbilidad, particularmente en pacientes con estancia hospitalaria prolongada o pacientes críticamente enfermos1,4,7-9,13.
+
+Por su fácil diseminación, se requiere contar con un adecuado programa de medidas preventivas y de aislamiento, involucrando una vigilancia activa como se encuentra recomendado en guías internacionales1-7,16-19.
+
+La implementación de toma de muestras de hisopados rectales es uno de los métodos más sencillos para lograr acciones eficientes en el aislamiento hospitalario y una eficaz participación de los programas de control de infecciones. Diferentes estudios han demostrado la efectividad de las muestras de hisopado rectal para la detección de microorganismos productores de carbapenemasas, a través de diferentes métodos fenotípicos convencionales y moleculares de RPC-TR2,3,6,9,13,16-19.
+
+En nuestra investigación, de los 73 pacientes estudiados, se encontró un total de 20 pacientes colonizados con microorganismos productores de carbapenemasas (27,4%), con concentraciones inhibitorias mínimas (CIM) elevadas a ertapenem entre 4 - > 8 μg/mL, meropenem entre 8 - > 16 μg/mL y en algunos casos, elevadas también para imipenem; a excepción de dos aislados (K. pneumoniae y C. freundii) que no fueron detectados por el sistema automatizado, expresando CIM ≤ 1 μg/mL para ertapenem y meropenem (Tabla 1).
+
+Sólo se presentó un caso donde la cantidad de muestra era insuficiente y sólo fue posible detectar la presencia de K. pneumoniae KPC en el agar ChromID CARBA, observándose el crecimiento de 1 ufc), lo que fue interpretado como un falso negativo en los métodos HB&L Carbapenemase y Xpert - Carba-R. Por lo anterior, la adecuada toma del hisopado rectal se convierte en un parámetro relevante al momento de hacer este tipo de tamizaje.
+
+El uso del agar cromogénico tiene como ventajas su fácil implementación, nos brinda una identificación presuntiva del microorganismo, es de bajo costo y no se requiere elementos o equipos adicionales2,9,12,18. Su mayor desventaja es el tiempo de respuesta (24 a 36 h), pues no permite tomar medidas preventivas de forma temprana comparativamente con los métodos 2 y 3 (6 h y 1 h, respectivamente). Se observó que las especies de K. pneumoniae y E. aerogenes, crecieron más rápidamente (24 h) que las especies de E. coli, las que requirieron alrededor de 30 h de incubación. Cabe mencionar que hubo excelente correlación entre los colores de las colonias en el cromoagar y la identificación arrojada por los sistemas automatizados.
+
+Relativo al método 2, HB&L Carbapenemase Kit, se logró también una alta recuperación de microorganismos multi-resistentes. Esta metodología, por estar basada en medio líquido, permite obtener resultados muy rápidos (6 h) en comparación con el agar cromogénico, lo que lo convierte en uno de los métodos más rápidos y económicos disponibles en el mercado.
+
+La característica de ser un medio líquido le da la ventaja de permitir la identificación, perfil de susceptibilidad en los sistemas automatizados y montaje de pruebas fenotípicas, a partir de una alícuota del vial positivo, suspendida en solución salina, lo que demostró que no hay variaciones con el método convencional, ya que obtuvimos una buena concordancia en nuestro estudio. Cabe aclarar que se requieren más estudios con un N superior para recomendar el uso directo en protocolos institucionales.
+
+Existe también la posibilidad de realizar ensayos para la identificación del microorganismo multi-resistente directamente del vial positivo a través de metodologías de proteómica, como Maldi-TOF, lo cual permitiría resultados rápidos en cuanto a confirmación de especie.
+
+Es importante mencionar, que, por esta metodología, es posible recuperar crecimiento de P. aeruginosa de perfil usual, por lo cual, se debe seguir la recomendación del inserto de esta prueba, de hacer una prueba de oxidasa al vial positivo, para evitar falsos positivos. En nuestro estudio, viales que dieron oxidasa positiva se sembraron igualmente en agar MacConkey con el fin de corroborar que se trataban de P. aeruginosa con perfiles usuales de resistencia.
+
+En cuanto al método molecular Xpert CARBA-R, en nuestro estudio se procesaron todas las muestras que fueron positivas por los dos métodos anteriores con el fin de confirmar la presencia del gen expresado y se escogió cierto número de muestras negativas al azar. Este método, comparado con el de referencia, (microdilución y fenotípico), obtuvo el mayor índice de concordancia (97%). Sólo presentó un error en una muestra, lo que se interpretó como un falso negativo; como ya se mencionó anteriormente, esta muestra presentó bajo inoculo bacteriano al momento de su obtención. Igualmente se consideró que el resultado negativo por Xpert CARBA-R y positivo por los otros métodos, pudo deberse a un tipo o variante genético de carbapenemasa diferente a los incluidos en el kit.
+
+Su mayor ventaja es la rapidez, al obtener resultados en aproximadamente una hora. Es un método de fácil montaje y lectura en el equipo, no requiere de áreas especializadas y es capaz de detectar los principales genes de expresión de carbapenemasas como KPC, VIM, IMP-1, NDM y OXA-48; incluso es capaz de evidenciar la presencia de varios genes en una misma muestra, como fue en nuestro caso la detección simultánea de genes blaVIM y blaKPC en un aislado de P. aeruginosa. Las guías internacionales para la detección y contención de carbapenemasas recomiendan principalmente la búsqueda en Enterobacteriaceae; sin embargo, algunos pacientes pueden estar colonizados de forma transitoria o intermitente por bacilos gramnegativos no fermentadores productores de carbapenemasas como se evidenció en el presente trabajo. Sugerimos implementar barreras de contacto para estos pacientes en el contexto específico comentado aquí.
+
+La mayor desventaja de este método molecular es el elevado costo de las pruebas, lo que dificulta en algunos casos su implementación.
+
+Los resultados obtenidos en nuestro estudio ofrecen información valiosa de las diferentes metodologías disponibles en el mercado para la búsqueda y detección rápida de microorganismos productores de carbapenemasas en hisopados rectales, que podrían implementarse de rutina en las instituciones de salud como medida de vigilancia activa.
+
+Concluimos que ningún método es completo y perfecto, muchos de ellos muestran variaciones; el agar ChromID CARBA presentó la mayor sensibilidad pero una baja especificidad, el método molecular Xpert Carba-R® evidenció excelente especificidad y una sensibilidad de 95%, pero los costos de su implementación son elevados; mientras que el método HB&L Carbapenemase® que aunque presentó menor sensibilidad (ya discutido anteriormente), tuvo igualmente una excelente especificidad y siendo una prueba no molecular, es un método muy rápido, de menor costo, con buen desempeño y concordancia. Finalmente, podríamos considerar la combinación o uso de dos métodos si queremos aumentar el rendimiento y efectividad en el tamizaje, y cabe aclarar que el uso de pruebas moleculares si bien detecta la más impactantes clínicamente, puede perder nuevas variantes y otros mecanismos de resistencia cuya relevancia epidemiológica es desconocida aún.
+
+La elección del método para cada una de las instituciones de salud debe tener como requisito un balance entre sensibilidad, especificidad, rapidez y costo efectividad.
+
+Agradecimientos
+
+Agradecemos a las diferentes casas comerciales BioMérieux, Rochem Biocare y Velez Lab quienes apoyaron la realización de esta investigación.
+
+Establecimiento de realización del estudio: Fundación Clínica Shaio. Bogotá, Colombia.
+
+No hubo tipo alguno de financiación de entidad alguna para este estudio.

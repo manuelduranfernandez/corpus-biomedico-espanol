@@ -1,0 +1,438 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182011000400003
+Diagnóstico y tratamiento de la neutropenia febril en niños con cáncer: Consenso de la Sociedad Latinoamericana de Infectología Pediátrica
+
+Rev Chil Infect 2011; 28 (Supl 1): 10-38
+
+Suplemento
+
+ 
+
+Diagnóstico y tratamiento de la neutropenia febril en niños con cáncer. Consenso de la Sociedad Latinoamericana de Infectología Pediátrica
+
+Diagnosis and treatment of febrile neutropenia in pediatric cancer patients. Consensus of the Sociedad Latinoamericana de Infectología Pediátrica
+
+ 
+
+Autores principales:  Hugo Paganini †(Argentina), María Elena Santolaya de P. (Chile)
+
+Coautores (en orden alfabético):
+
+Martha Álvarez (Colombia), Manuel de Jesús Araña Rosaínz (Cuba), Ricardo Arteaga Bonilla (Bolivia), Aníbal Bonilla (Ecuador), Miguela Caniza (E.U.A.), Fabianne Carlesse (Brasil), Pio López L (Colombia), Lourdes Dueñas de Chicas (El Salvador), Tirza de León (Panamá), José Marcó del Pont (Argentina), Mario Melgar (Guatemala), Laura Naranjo (Venezuela), Carla Odio (Costa Rica), Mónica Rodríguez (Paraguay), Marcelo Scopinaro (Argentina)
+
+Dirección para correspondencia
+
+Resumen
+
+La Sociedad Latinoamericana de Infectología Pediátrica, a través de su Comité de Infecciones en Niños Inmunocomprometidos, propone un documento de consenso sobre "Diagnóstico y tratamiento de la neutropenia febril en niños con cáncer".
+
+Este documento-guía aborda el manejo de la neutrope-nia febril orientado a la atención de niños con cáncer en América Latina. Se realizó una búsqueda exhaustiva de la literatura, y se consideró particularmente la experiencia publicada proveniente de centros de nuestro continente, que aporta una mirada regional y adecuada a la realidad de nuestros países.
+
+El manuscrito contiene un panorama epidemiológico de la Región y recomendaciones para la evaluación clínica y de laboratorio necesarios para el manejo de estos pacientes, establece criterios de categorización de riesgo de infecciones bacterianas invasoras, analiza las medidas de cuidado general de los pacientes en el ambiente hospitalario y extra-hospitalario, propone diferentes enfoques terapéuticos de acuerdo a las realidades epidemiológicas institucionales, parámetros clínicos y de categorización de riesgo, establece diferentes algoritmos de seguimiento según la evolución de cada paciente, especifica las situaciones en que está indicada algún tipo de profilaxis y da los lineamientos generales sobre el tipo y oportunidad de terapia antifúngica a utilizar en ellos.
+
+Se ha puesto especial énfasis en entregar, de forma práctica, y con la mayor evidencia posible, las recomendaciones para el mejor manejo de los niños con cáncer, fiebre y neutropenia, buscando la equidad y la excelencia en todos los centros oncológicos latinoamericanos.
+
+This document is a consensus guideline on the "Diagnosis and treatment of febrile neutropenia in children with cancer" developed by the Committee for Infectious Diseases in Immunocompromised Children of the Sociedad Latinoamericana de Infectología Pediátrica. This guideline discusses the management of febrile neutropenia focused on Latin American children with cancer. It is based on a thorough review of the literature, with particular attention to experiences reported by centers within the continent in order to provide recommendations applicable to the region. The manuscript includes a description of the regional epidemiology of cancer and infections in children, recommendations for clinical and laboratory studies required for patient management, description of a classification method to identify patients at different risk for invasive bacterial infections, outpatient and inpatient general care strategies and differential treatment strategies adjusted to local epidemiological realities, different algorithms for patient follow-up according to clinical course, a discussion of the rationale for prophylaxis strategies in specific situations including general guidelines for antifungal treatment. The Guidelines intend to provide practical, evidence-based recommendations in order to promote the best possible management for children with cancer, fever and neutropenia, throughout oncology centers of Latin America.
+
+ 
+
+Introducción y Metodología
+
+Las enfermedades oncológicas representan un importante problema de salud en todo el mundo. De acuerdo a la Declaración de Montevideo del año 1997, sólo 20% de los niños del mundo se beneficiaban con una terapia adecuada en las décadas pasadas1. El problema se hace más evidente en los países con recursos limitados a causa del aumento sustancial de la población infantil y el bajo nivel socio-económico. Se estima que el cáncer es la tercera o cuarta causa de muerte en niños de países en desarrollo, incluido nuestro continente2.
+
+Existen pocos registros de enfermedad oncológica en Latinoamérica. De acuerdo al Registro Oncopediátrico Hospitalario de Argentina, entre los años 2000 y 2005 se diagnosticaron 7.621 casos de cáncer en niños en ese país. Esta enfermedad representó la primera causa de muerte
+
+entre los 5 y 15 años de edad3. En Chile, datos del Programa Infantil Nacional de Drogas Antineoplásicas (PINDA) estiman una incidencia de 12 a 14 casos por cada 100.000 niños bajo 15 años de edad, lo que extrapolado a toda la población, hace esperar 500 a 600 casos nuevos por año en el país4. No hay estadísticas publicadas del resto de las naciones participantes en este consenso.
+
+Los niños con cáncer presentan diferente tipo y gravedad de inmunocompromiso, ya sea por su enfermedad de base o por los tratamientos que reciben. La presencia de neutropenia febril (NF) constituye una complicación frecuente y una emergencia infectológica. Se estima que un niño con una leucemia linfoblástica aguda (LLA) -la patología oncológica más frecuente en pediatría- recibe tratamiento quimioterápico, en promedio, por dos años, período en el que presenta alrededor de seis episodios de NF. Las infecciones representan las complicaciones más frecuentes en estos pacientes y producen una significativa morbi-mortalidad. El abordaje diagnóstico, terapéutico y las medidas de prevención de las infecciones en forma apropiada constituyen un desafío para todo el personal de salud que trata a diario a estos enfermos5.
+
+Con el objetivo de realizar un análisis y emitir una recomendación sobre el diagnóstico y tratamiento de la NF en niños con cáncer bajo tratamiento quimioterápico, se realizó una búsqueda amplia de literatura médica sobre el tema, en las bases de datos electrónicas de MEDLINE y de Cochrane Library, además de una búsqueda manual de datos de cada uno de los países de Latinoamérica. Se seleccionaron principalmente Guías de Práctica Clínica, revisiones sistemáticas y estudios clínicos randomizados. Si no se encontraban publicaciones con dichos diseños, se evaluaron otros estudios con menor grado de evidencia. Para el análisis de la bibliografía y las recomendaciones se utilizaron los grados de evidencia que son mostrados en la Tabla 1. Se ocupó como guía de trabajo el consenso chileno "Manejo racional del paciente con cáncer, neutropenia y fiebre", publicado en el año 20056, con autorización de sus autores.
+
+  
+
+Definiciones
+
+Neutropenia: Recuento absoluto de neutrófilos (RAN) < 500 céls/mm3 o < 1.000 céls/mm3 cuando se predice una caída a una cifra < 500 céls/mm3 en las 24 ó 48 horas siguientes6-9. Un RAN < 100 céls/mrtf es considerado como neutropenia profunda7.
+
+Fiebre: Registro único de temperatura axilar > 38,5°C o dos mediciones > 38°C con una separación, entre ambas determinaciones, de al menos una hora6,7.
+
+Epidemiología de las infecciones en Latinoamérica
+
+Los niños con NF presentan infecciones bacterianas, virales y fúngicas. Respecto a las infecciones bacterianas, se las considera la complicación infecciosa más frecuente y se presentan en estadios tempranos del episodio. Entre 15 y 25% de los niños con NF presentarán bacteriemia, y otro porcentaje similar infecciones bacterianas locali-zadas7. Las infecciones fúngicas usualmente ocurren más tardíamente dentro de los episodios de NF, y el médico clínico debe considerarlas en un niño que permanece con neutropenia profunda y fiebre luego de al menos 72 horas de tratamiento antimicrobiano adecuado. Es importante recordar que los niños con cáncer tienen también infecciones virales respiratorias y entéricas, en igual proporción que la población pediátrica inmunocompetente.
+
+En las últimas dos décadas se ha observado un cambio en la epidemiología de las infecciones en pacientes con NF. Estas modificaciones han obedecido a diversos factores: nuevos tratamientos quimioterápicos, mayor intensidad y duración de la neutropenia, presión de selección creada por el uso de profilaxis antimicrobiana, mayor uso de catéteres venosos centrales (CVCs), mayor número de procedimientos invasores y mayor tiempo de internación de los pacientes7,10.
+
+Durante la década del '80 se reportaba un predominio de infecciones causadas por bacilos gramnegativos (p. ej.: Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa)11. Posteriormente se observó un descenso en la frecuencia de estos patógenos y un aumento relativo de las cocáceas grampositivas, las que en la actualidad tienen una frecuencia entre 45 y 70% de acuerdo a la serie considerada (p. ej.: Staphylococcus coagulasa negativa, Staphylococcus aureus, Streptococcus grupo viridans)7,10,11. Asimismo, se pudo observar un incremento de las infecciones polimi-crobianas, especialmente bacteriemias12.
+
+Estudios realizados en Chile dan cuenta de un predominio de cocáceas grampositivas en bacteriemias de niños con NF (S. coagulasa negativa 43% y S. aureus 16%)6. Datos similares son reportados en Argentina, pero a diferencia de Chile, en ese país prevaleció S. aureus en una serie de 315 bacteriemias13.
+
+Debe considerarse además la emergencia de patógenos habituales pero con cambios en sus patrones de susceptibilidad a antimicrobianos, como Enterococcus spp resistentes a vancomicina, Streptococcus pneumoniae resistentes a penicilina y/o cefalosporinas de tercera generación, S. grupo viridans con resistencia a β-lactámicos y bacilos gramnegativos productores de β lactamasas de espectro extendido, que afectan con frecuencia a pacientes con NF14-17.
+
+Las infecciones fúngicas han aumentado su frecuencia durante la última década en niños con NF18. Éstas se presentan como infecciones secundarias y sólo 5% lo hace en el comienzo del episodio de NF. Candida spp (p. ej.: C. albicans, C. parapsilosis, C. tropicalis) son las prevalentes dentro de este grupo, seguido de Aspergillus spp (p. ej.: A. fumigatus, A. flavus, A. niger). En los últimos años se ha reportado la aparición de infecciones fúngicas emergentes resistentes a los antifúngicos de uso habitual (p. ej.: Zygomycetes)19. En Chile, sobre 445 episodios de NF, 9% presentó diagnóstico de enfermedad fúngica invasora (EFI) donde prevalecieron especies de Candida20. Datos de Argentina establecen que 50% de las candidemias fueron causadas por C. albicans y 17% por C. parapsilosis21. En un estudio llevado a cabo en Brasil, pudo demostrarse que la mortalidad asociada a estas infecciones fue menor en niños (7,7%) que en adultos (37,4%)18.
+
+Las infecciones por Pneumocystisjiroveci se observan con mayor frecuencia en niños con leucemia que no reciben quimioprofilaxis rutinariamente y en pacientes que son tratados con medicamentos anti-linfocitarios22.
+
+Las infecciones por virus herpes simplex (VHS) afectan la boca y/o el tracto digestivo en forma secundaria a la administración de la quimioterapia (QT)23. Las reactivaciones de infección por citomegalovirus (CMV) son poco frecuentes en estos pacientes24. Los virus respiratorios, tales como virus respiratorio sincicial (VRS), influenza (Flu), adenovirus (ADV), parainfluenza (ParaFlu) y me-tapneumovirus humano (MPVH) afectan frecuentemente a los pacientes con NF con un patrón estacional. En un estudio llevado a cabo en Chile se pudo documentar en 25% de 44 niños con NF y síntomas respiratorios una infección viral25.
+
+La prevalencia de los patógenos varía entre los países, e incluso entre los centros hospitalarios en una misma ciudad, por lo que es altamente recomendable realizar vigilancia epidemiológica en forma estricta de los microorganismos identificados y de sus patrones de susceptibilidad a antimicrobianos, para realizar una terapia empírica racional y acorde a la realidad institucional.
+
+
+
+Evaluación clínica al ingreso
+
+La evaluación clínica de ingreso es clave para tres aspectos: realizar una categorización de riesgo (ver página S 17), detectar posibles focos de infección, y orientar hacia la etiología del episodio.
+
+El interrogatorio inicial debe contemplar diferentes aspectos como: tipo de enfermedad de base y QT recibida; predicción del tiempo de neutropenia con participación activa del oncólogo pediatra tratante; infecciones padecidas antes de la consulta y/o hospitalizaciones previas; antecedentes epidemiológicos de enfermedades transmisibles; y profilaxis o tratamientos antimicrobianos recibidos.
+
+El examen clínico implica medición de temperatura corporal, evaluación de signos vitales y un examen físico segmentario detallado. Se sugiere medir la temperatura axilar y no rectal, ya que esta segunda forma de medida puede precipitar bacteriemia, especialmente en los pacientes con fisuras anales o mucositis rectal7.
+
+Debido a que la reacción inflamatoria del niño con NF es escasa o está ausente, el paciente no focaliza adecuadamente las infecciones; la presencia de fiebre por sí sola es un signo de alarma de infección6,7,29,30.
+
+Aproximadamente la mitad de los pacientes con NF presentará foco clínico de infección9. Para pesquisarlo, el examen físico debe ser exhaustivo, repetido más de una vez y con especial énfasis en el aparato respiratorio, faringe, abdomen, zona de inserción de CVC, piel y tejidos blandos, periné y genitales externos, y todas las áreas donde haya habido disrupción de la barrera de piel y mucosas7.
+
+La boca deberá examinarse cuidadosamente en busca de mucositis, la que se clasificará en los siguientes grados6:
+
+ Grado 1 o incipiente. La mucosa oral está enrojecida, brillante y con posibles áreas blanquecinas. Las encías se encuentran aumentadas de volumen. La lengua saburral, roja, seca y edematosa. Se describe ardor espontáneo y continuo.   Grado 2 o moderado. A lo anterior se agregan úlceras localizadas. El niño se resiste a comer por el dolor.   Grado 3 o grave. Hay intenso eritema y ulceraciones o áreas blanquecinas. El gran dolor impide al paciente comer y beber, e incluso deglutir saliva.
+
+
+
+Alrededor de 15% de los pacientes presentan infecciones secundarias o superinfecciones26. Usualmente son diagnosticadas dentro de los primeros 10 días del episodio de NF y prevalecen las etiologías fúngicas27. En un estudio llevado a cabo en Argentina se pudo determinar que 17% de los niños con NF estudiados presentaron una superinfección, siendo más frecuentes en niños de menor edad, con leucemia y portadores de CVC. El patógeno predominante fue S. coagulasa negativa28.
+
+
+
+Evaluación de laboratorio
+
+Todos los niños con NF deberán tener a su ingreso los siguientes exámenes complementarios:
+
+Hemograma completo con fórmula leucocitaria: La detección de un RAN < 500 céls/mm3, recuento absoluto de monocitos (RAM) < 100 céls/mm3, al igual que un recuento de plaquetas < 50.000 céls/mm3 son signos pre-dictores de riesgo de infección y muerte. Estos parámetros se deben controlar al inicio y luego cada uno o dos días, según la condición y evolución del paciente6,8,31-34.
+
+Pruebas de función renal: Los pacientes con antecedente de falla renal o aquellos que recibirán fármacos potencialmente nefrotóxicos deberán ser evaluados en su función renal con la solicitud de uremia, creatininemia y electrolitos en sangre. Estos se repetirán de acuerdo a los resultados y evolución clínica del niño6,7.
+
+Pruebas de función hepática: Se deberán solicitar en aquellos pacientes con compromiso sistémico o de alto riesgo31-35. (Ver categorización de riesgo, pág 17).
+
+Proteína C reactiva (PCR) cuantitativa sérica: Se ha demostrado que su elevación se correlaciona con la presencia de infección bacteriana. Aumenta a partir de las 8 horas de comenzada la infección y alcanza su máximo entre las 24 y 48 horas del comienzo de la misma. Una cifra mayor a 90 mg/L es un predictor significativo de infección bacteriana invasora (IBI)6,36-38.
+
+Procalcitonina y citoquinas: Son marcadores sensibles para la predicción precoz de sepsis en niños con NF. Su elevación es precoz y permite la detección rápida de la infección sistémica. En la actualidad son técnicas que no se encuentran disponibles en todos los centros de atención de niños oncológicos39-44. En una experiencia realizada en Chile, en 601 episodios de NF en niños con cáncer, se vio que interleuquina 8 (IL 8) > 200 pg/ml al ingreso y > 300 pg/ml a las 24 horas de evolución fue un buen predictor de sepsis, lo que no sucedió con procalcitonina43. Sería deseable la incorporación de IL 8 en los centros que atienden niños con cáncer, como un elemento más en la pesquisa temprana de los niños con sepsis.
+
+Hemocultivos: En todos los niños con NF se recomienda tomar una serie de al menos dos hemocultivos periféricos, de punciones diferentes, separados cada uno de ellos por 20 minutos, y una serie de hemocultivos a través de cada lumen del CVC, en aquellos pacientes que lo tienen45. La cantidad de sangre a extraer deberá ser proporcional a la cantidad de medio de cultivo del frasco, siendo en general aceptable una dilución de 1/5 a 1/10. El volumen recomendado en niños es entre 2 y 5 ml; en adolescentes es de 10 ml, similar al recomendado en adultos45,46.
+
+En general, los métodos automatizados de hemoculti-vos permiten la detección rápida de los patógenos (1-1,5 días de media), minimizan las contaminaciones pues están expuestos a una menor manipulación en el laboratorio y son considerados métodos ideales en pediatría45.
+
+Se dispone de diversas técnicas para documentar una bacteriemia relacionada a CVC: En la práctica clínica, existe la dificultad de discriminar entre una bacteriemia originada en la contaminación de los dispositivos endo-vasculares y aquellas bacteriemias que tienen como punto de partida otros focos (digestivos, respiratorios, etc). Como se explica más adelante, ello tiene implicancias terapéuticas en el manejo de los pacientes portadores de CVCs.
+
+Las técnicas más empleadas para certificar una bac-teremia asociada a CVC son: de tiempos diferenciales y de hemocultivos cuantitativos.
+
+Técnica de tiempos diferenciales. Compara la velocidad con que se detecta el crecimiento bacteriano en hemo-cultivos obtenidos a través de un CVC = "hemocultivos centrales" versus los obtenidos mediante una venopunción = "hemocultivos periféricos", considerando indicativo de bacteriemia relacionada a catéter la detección de crecimiento al menos dos horas antes en el hemocultivo central que en el periférico47. Esta técnica requiere disponer de un sistema automatizado de hemocultivos, que ambas muestras tengan igual volumen de sangre, sean obtenidas con pocos minutos de diferencia e introducidas en forma simultánea en el sistema automatizado de incubación6,47.
+
+Técnica de cultivo cuantitativo. Se considera indicativo de infección del dispositivo endovascular el hallazgo del mismo microorganismo tanto en el hemocultivo central como en el periférico, con un recuento del patógeno en las muestras obtenidas a través del catéter 5 a 10 veces mayor que el recuento obtenido en la sangre periférica48.
+
+Cultivo de catéter venoso central: Si el catéter fue extraído del paciente, se recomienda utilizar la técnica de Cleri modificado por Brun-Buisson et al49. Se extrae el dispositivo en forma séptica, se corta su punta y envía al laboratorio. Se hace pasar 1 ml de agua destilada estéril por el lumen del catéter y luego se somete a vórtex durante 1 minuto. Se siembra 1 ml de esta suspensión en una placa de agar sangre de cordero al 5% y se incuba durante 5 días. Se considera significativo un desarrollo mayor de 1.000 ufc/ml. Para el diagnóstico de bacteriemia asociada a CVC presenta una sensibilidad de 97,5% y una especificidad de 88%49. Este procedimiento permite recuperar microorganismos de las superficies externa e interna del catéter.
+
+Orina completa y urocultivo: Se recomienda tomar en todo niño con NF. Sólo 10% de los pacientes con un RAN < 100 céls/mm3 en sangre periférica presentará piuria, por lo que puede haber infección del tracto urinario, con recuentos de bacterias significativos en orina, en niños que no presentan piuria6,50. No se recomienda la cateterización de la vía urinaria en los niños inmunocomprometidos por el riesgo de bacteriemia relacionada al procedimiento.
+
+Otros cultivos
+
+ Coprocultivo: Deberá tomarse una muestra en todos los pacientes que presenten diarrea o signos de enteritis. Se recomienda la realización del test para la búsqueda de toxina A y B de Clostridium difficile en los niños con diarrea51.
+
+ Cultivos de vigilancia: No recomendamos realizar cultivos de vigilancia rutinariamente, por su falta de utilidad al momento de tomar decisiones terapéuticas, sino sólo con fines epidemiológicos para la búsqueda de S. aureus resistente a meticilina en fosas nasales y de Enterococcus spp resistente a vancomicina en materia fecal6 en las instituciones donde se haya observado un aumento significativo de estas infecciones por microorganismos.
+
+Estudio etiológico en pacientes con sintomatología específica
+
+Sistema nervioso central (SNC): En todo niño con sospecha de infección del SNC se deberá obtener una muestra de LCR para la realización de estudio citoquí-mico, tinción de Gram, cultivo, detección de antígenos (técnica de látex) y detección de ADN de diferentes microorganismos (reacción de polimerasa en cadena (RPC) para la detección de VHS o enterovirus). Si el paciente tuviera un recuento de plaquetas < 50.000 céls/ mm3 se deberá posponer la punción lumbar o transfundir plaquetas en forma previa a su realización6-8.
+
+Piel y tejidos blandos: En caso de lesiones cutáneas (vesículas, úlceras, pústulas, nódulos) se recomienda la obtención de una biopsia y el estudio por anatomía patológica, microbiología y biología molecular52. En caso de ser imposible obtener muestra por biopsia, se recomienda realizar punción/aspiración, y no torulado, en que la calidad de la muestra decae francamente. Los métodos inmunológicos son de utilidad ante la presencia de úlceras o vesículas donde se realizará la búsqueda directa del antígeno de VHS y virus varicela zoster (VVZ). La técnica de inmunofluorescencia tiene una sensibilidad de 90%. Otra opción es la realización de búsqueda de ADN viral a través de RPC, con sensibilidad y especificidad cercana a 90%23.
+
+Aparato respiratorio: En todo paciente con síntomas respiratorios se realizará estudio por imágenes (ver pág. S 16) y búsqueda de virus respiratorios. Se diferenciará el tipo de infiltrado pulmonar en localizado o difuso, y en cada tipo, si su instalación ha sido precoz, es refractario a la terapia anti-infecciosa empleada o de aparición tardía (Figura 1).
+
+  
+
+ 
+
+Figura 1. Exploración etioló-gica en niños con   neutropenia febril e infiltrado pulmonar. LBA: Lavado broncoalveolar.
+
+Infiltrados localizados
+
+Precoces: Aparecen junto con la fiebre. Se debe iniciar el estudio con hemocultivos, tinción de Gram directa y cultivo de secreción respiratoria. La etiología es generalmente bacteriana, siendo los agentes más frecuentemente involucrados S. pneumoniae, Haemophilus influenzae, S. aureus, Klebsiella spp y P. aeruginosa.
+
+Refractarios: Definidos por la falta de respuesta clínica luego de 72 horas de tratamiento antimicrobiano. Su presencia constituye una indicación perentoria para el estudio etiológico con técnicas invasoras, como lavado bronco alveolar (LBA), de preferencia, o biopsia pulmonar abierta en segundo lugar, procedimiento que entraña mayor riesgo en un paciente que habitualmente está grave. Los microorganismos involucrados son los mismos que en los infiltrados precoces, sumándose otras bacterias como Mycoplasma pneumoniae, Mycobacterium spp, Nocardia spp, Stenotrophomonas maltophilia y hongos como Aspergillus spp y P. jiroveci.
+
+Tardíos: Son aquellos que aparecen más allá del séptimo día de tratamiento en la evolución de un episodio de NF. Es necesario aplicar en estas circunstancias técnicas diagnósticas invasoras como LBA o biopsia pulmonar abierta. Los hongos son los agentes de más alta sospecha especialmente Aspergillus sp, pero también puede tratarse de otras especies como P. jiroveci, Fusarium sp, Mucor, etc.
+
+Infiltrados difusos
+
+Ya sean precoces, refractarios o tardíos, los infiltrados pulmonares difusos en niños con NF requieren la realización de técnicas invasoras para una adecuada orientación diagnóstica. Los agentes más frecuentemente relacionados son virus respiratorios, como VRS, ADV, Para Flu, Flu, MPVH, otros agentes virales del grupo herpes como CMV y virus varicela-zoster (VVZ), P. jiroveci, Myco-bacterium spp y bacterias atípicas como M. pneumoniae y Chlamydophila pneumoniae6.
+
+Oportunidadpara realizar el lavado broncoalveolar. Al respecto, existen dos posturas: realizarlo de inmediato, en aras de poder iniciar un tratamiento más específico y rápido, o luego de 72 horas de tratamiento antibacteriano, si éste fracasa. No hay consenso en la literatura científica sobre el momento de realizar el LBA. La recomendación de este grupo es realizar el LBA lo antes posible de acuerdo a la realidad local, idealmente al momento en que se identifica el infiltrado pulmonar6,53. Antes de realizar el LBA se deberá valorar la edad del paciente, su estado general y de su aparato respiratorio, y se deberá disponer de internación en Unidad de Cuidado Intensivo (UCI) por la posibilidad de aparición de complicaciones asociadas al procedimiento54. La biopsia de pulmón se reserva para casos particulares como neumonía refractaria al tratamiento, o aparición de infiltrados pulmonares tardíos en el curso del episodio de NF55 (Figura 1).
+
+En el caso de la muestra tomada por LBA, se sugiere realizar estudio microbiológico y considerar como punto de corte un conteo de bacterias > 105 ufc; el valor predictor positivo y negativo de la prueba es de 65 y 86%, respectivamente54.
+
+Además del cultivo para bacterias se analizará la presencia de hongos. Se recomienda:
+
+ el examen directo y la tinción con blanco de calcoflúor, que permiten la identificación de elementos fúngicos      la búsqueda de antígeno galactomanano (GM) de As-pergillus spp en LBA, que se encuentra estandarizada y es accesible comercialmente para su uso (valor de corte > 0,5).
+
+Se recomienda además realizar medición de GM en suero, lo que puede ser útil para un diagnóstico temprano de aspergilosis y para valorar la respuesta al tratamiento antifúngico: sensibilidad: 93%, especificidad: 95%56. Ciertos factores, como la administración de piperacilina/ tazobactam, pueden dar falsos positivos, y también pueden existir reacciones cruzadas con infecciones por otros hongos como: Penicillium chrysogenum, P. digitatum, Rhodotorula rubra, Paecilomyces variotii57.
+
+Las pruebas para la detección de P. jiroveci en secreciones respiratorias comprenden la tinción de metionami-na argéntica, las tinciones de Papanicolau y las de azul de toluidina sulfonada; esta última es sensible, pero reviste peligro para el personal de laboratorio que la realiza58. La sensibilidad con técnicas de inmunofluorescencia directa y anticuerpos monoclonales en el LBA es de 95%, mientras que la búsqueda de material genético por RPC tiene mayor sensibilidad pero menor especificidad que otras técnicas59,60.
+
+La diferenciación entre infección y enfermedad por CMV es dificultosa. El estándar de oro para el diagnóstico de enfermedad por CMV es la demostración virológica e histopatológica de la infección sobre el tejido pulmonar61. La detección de CMV en el LBA se correlaciona bien con la presencia de enfermedad pulmonar por CMV. La prueba de shell vial (cultivo acelerado) en sangre para la detección de CMV indica infección activa. Otra técnica disponible, con buena sensibilidad y especificidad, es la determinación de antígeno pp65 circulante (antigenemia para CMV). Ambas presentan la dificultad de dar resultados falsamente negativos, con frecuencia debido a que el paciente con NF tiene escasos leucocitos circulantes. La mejor alternativa en estas condiciones es la búsqueda de ADN viral en sangre, a través de RPC cuantitativa, técnica que ha reemplazado a la determinación de antígenos y al cultivo en muchos centros que atienden pacientes inmunocomprometidos6,61.
+
+Frente a la toma de biopsia de tejido pulmonar, se recomienda efectuar el estudio histológico, microbio-lógico y por técnicas de biología molecular, además de la conservación de un trozo de tejido para eventuales futuros análisis.
+
+
+
+Estudios por imágenes
+
+Radiografía: La radiografía de tórax para el diagnóstico de infección respiratoria baja tiene poca sensibilidad62. Pese a esto, y dada la disponibilidad global de este examen en todos los niveles de salud, se recomienda indicar radiografía de tórax en caso que el paciente presente signos y/o síntomas de la vía respiratoria baja y en el comienzo del episodio de NF, como un parámetro basal que servirá frente a futuros cambios6,7. La radiografía simple de abdomen es un estudio inespecífico que sólo arroja resultados positivos en casos de enteritis neutropénica, donde suele observarse distensión de las asas intestinales y neumatosis, por lo que su indicación es sólo en pacientes con clínica sugerente de enteritis63. Está contraindicado el uso de enema de bario o colonoscopia, por el riesgo de traslocación bacteriana desde el tubo digestivo a la sangre, a través de un intestino con mucositis, que resulta ineficiente como barrera inmunológica.
+
+Ecografía: La ecografía de abdomen es un método diagnóstico de utilidad cuando el paciente presente signos sugerentes de enteritis neutropénica (dolor abdominal, distensión, diarrea y/o vómitos), ya que permite medir el espesor de la pared intestinal y de esta manera evaluar el pronóstico de la infección. Un engrosamiento > 5 mm es considerado anormal y contribuye al diagnóstico, y un engrosamiento > 10 mm se relaciona con mayor morta-lidad63. Los términos enteritis neutropénica, enterocolitis neutropénica y tiflitis se refieren a la misma entidad clínica en la literatura médica.
+
+Ecocardiografía: Se indica en pacientes con sospecha de endocarditis, y en todos los que tienen infección relacionada a CVC. Particularmente importante es en pacientes con bacteriemia o fungemia, en búsqueda de focos secundarios.
+
+Tomografía axial computada (TAC): En virtud de la escasa sensibilidad de la radiografía de tórax para el diagnóstico de neumonía, la TAC pulmonar de alta resolución es la prueba diagnóstica más adecuada para el diagnóstico de las infecciones pulmonares bajas64. Es capaz de identificar infecciones pulmonares en pacientes con neutropenia, fiebre, signos respiratorios bajos y radiografía normal y se adelanta en cinco días a la aparición de signos radiográficos65. Los patrones tomográficos más frecuentemente encontrados son consolidación focal o segmentaria, nódulos, imagen en "vidrio esmerilado" o la combinación de ellos66.
+
+La TAC de tórax juega un rol fundamental en el diagnóstico de la infección pulmonar por Aspergillus spp. Se suelen observar nódulos rodeados de un halo en "vidrio esmerilado" (signo del halo), opacidad pleural o áreas de consolidación. La separación de fragmentos de necrosis pulmonar (secuestro pulmonar) del parénquima adyacente da lugar a lesiones cavitarias y el signo de "aire creciente", observado durante la convalescencia de la enfermedad. Puede observarse signo del halo en la infección pulmonar por otros patógenos, como Mycobacterium spp o CMV, entre las más importantes67.
+
+La TAC de senos paranasales es de suma utilidad en pacientes con sospecha de sinusitis fúngica. Suele observarse ocupación de los senos, pólipos en su interior y compromiso de los tejidos blandos adyacentes. En contraste, la radiografía de senos paranasales no tiene buena sensibilidad diagnóstica ante la sospecha de sinusitis68.
+
+La TAC de abdomen es el método recomendado para el diagnóstico de tiflitis, y es superior a la radiografía simple de abdomen y a la ecografía. Se suele observar dilatación cecal, masa inflamatoria en el cuadrante inferior derecho y signos de cambios inflamatorios en los tejidos blandos pericecales, permitiendo medir además el grosor de la pared intestinal63.
+
+La TAC de abdomen es también el método de elección para el diagnóstico de la candidiasis hepato-esplénica, entidad que se observa en niños con cáncer que han permanecido largo tiempo con NF. Sus signos clínicos (distensión abdominal, ictericia) se manifiestan cuando el paciente se recupera de la neutropenia. Se pueden observar imágenes hipodensas (en "ojo de buey"), localizadas en el hígado, bazo y menos frecuentemente en el riñón69,70.
+
+La TAC cerebral es importante de realizar, particularmente cuando se sospecha una infección de SNC o cuando se hace un estudio de diseminación de una EFI.
+
+En términos generales, la indicación de una TAC en niños inmunocomprometidos requiere una evaluación criteriosa por el médico tratante, considerando la masiva irradiación a la que se somete un niño en este procedimiento, y la eventual necesidad de sedación o anestesia en pacientes pequeños.
+
+Resonancia magnética (RM): Su principal utilidad es para el seguimiento de los pacientes con candidiasis diseminada crónica. Además, la RM detecta nódulos pulmonares de menos de 1 cm de diámetro, con una sensibilidad de 100% y especificidad de 96%, comparado con TAC de alta resolución71. Tiene utilidad además para diferenciar los estadios de infiltración parenqui-matosa e identificar en forma temprana una neumonía necrosante que no se puede evidenciar con la TAC72. La RM tiene utilidad en la demostración de lesiones inflamatorias, en estadios precoces, en las infecciones fúngicas del SNC, cuando la TAC no arroja resultados positivos72. Antes de indicar la realización de una RM en estos pacientes, se sugiere considerar el costo, las dificultades técnicas que implica lo prolongado del examen y la eventual necesidad de sedación o anestesi en aniños pequeños. 
+
+
+
+Categorización de riesgo al ingreso
+
+El enfoque de diagnóstico y manejo del paciente que cursa con un episodio de NF fue uniforme hasta inicios de los años 90, basándose en una pronta hospitalización e inicio de terapia antimicrobiana empírica, de amplio espectro, cuya duración dependía de la resolución del cuadro febril y la recuperación de la médula ósea73,74. En los últimos 10 a 15 años, distintos grupos de investigadores han trabajado para entregar a los pacientes con episodios de NF un enfoque terapéutico más racional y proporcional a la gravedad de cada uno de sus episodios. Se ha intentado definir mediante parámetros objetivos, qué factores predicen la probabilidad de estar cursando con una IBI en el contexto de un episodio de NF. Así, se han explorado factores relacionados con la patología oncológica, la presencia de co-morbilidades, el grado de compromiso medular, y aspectos relacionados con el propio episodio infeccioso. La categorización en grupos de riesgo ha permitido implementar estrategias de manejo selectivo más conservadoras para los episodios de bajo riesgo, con importantes beneficios, tanto para el paciente como para los sistemas de salud. La clave del éxito de cualquier terapia selectiva se basa en una minuciosa definición de los grupos de riesgo.
+
+Se han propuesto diferentes modelos para la predicción de riesgo en niños con cáncer y episodios de NF.
+
+Riesgo de bacteriemia, infección bacteriana significativa o invasora: Rackoff W y cols, en una serie de 115 episodios de NF demostraron que la temperatura < 39°C y el RAM > 100 céls/mm3 eran predictores de bajo riesgo de bacteriemia75. Klaasen RJ y cols, midieron el riesgo de infección bacteriana significativa en una población de 227 episodios de NF en niños con cáncer, concluyendo que un RAM > 100 céls/mm3, radiografía de tórax normal y ausencia de co-morbilidad al ingreso, se relacionaban con bajo riesgo de infección bacteriana significativa (10% o menos)76. En Chile, se han desarrollado dos estudios colaborativos, prospectivos, multicéntricos en 447 y 263 episodios de NF, respectivamente; el primero con el objeto de crear un modelo predictor de riesgo y el segundo para validarlo. Se identificaron cinco variables al momento de una primera consulta, que en forma independiente están asociadas a un riesgo significativamente mayor de IBI: concentración de PCR sérica > 90 mg/L, hipotensión arterial, leucemia en recaída, recuento de plaquetas < 50.000 céls/mm3 e intervalo entre el término del último ciclo de QT y el inicio de la fiebre < 7 días77,78. La validación de estos datos mostró que el modelo creado obtuvo una sensibilidad, especificidad, valor predictor positivo y valor predictor negativo de 92, 76, 82 y 90%, respectivamente78. Los datos acumulativos de estos dos estudios con 710 episodios de NF, permitieron generar una base sólida para proponer el uso de este modelo de predicción, orientado a la identificación de episodios de alto y bajo riesgo de IBI.
+
+Riesgo de sepsis: Se ha podido discriminar, dentro de los episodios de NF de alto riesgo de IBI, aquellos pacientes que presentan un riesgo mayor de desarrollar una sepsis. El grupo chileno realizó un estudio que propuso un modelo de predicción de riesgo de sepsis en base a: la edad de los niños (> 12 años), más las determinaciones de PCR cuantitativa (> 90 mg/L) y de IL 8 (> 300 pg/mL) al ingreso y a las 24 horas de evolución43.
+
+Riesgo de mortalidad: La mortalidad asociada a NF es del orden de 2 a 3% en niños, siendo mayor en los pacientes con episodios de NF de alto riesgo. En un estudio retrospectivo de 12.446 fichas clínicas de pacientes bajo 21 años de edad que evaluó datos de egreso de hospitales de Estados Unidos de América con diagnóstico de cáncer o de NF, se reportó una mortalidad de 3% y los factores de riesgo asociados a esta fueron: edad < de un año o > 12 años, tipo de cáncer (leucemia mieloide y segundo cáncer), presencia de bacteriemia o sepsis, presencia de hipotensión arterial, de neumonía o EFI79. En el año 2007 se publicaron dos estudios prospectivos provenientes de América Latina, con el objetivo de identificar factores de riesgo asociados a mortalidad en niños con cáncer; ambos reportaron una mortalidad por NF de 2,5%. Uno de estos estudios, realizado en Argentina, identificó en una población de 714 episodios, tres factores: enfermedad de base avanzada, co-morbilidad y presencia de bacteriemia80. El otro estudio, realizado en Chile, identificó al momento del ingreso ocho variables relacionadas con riesgo de morir durante el episodio de NF en 561 episodios analizados: recaída de leucemia, hipotensión arterial, diagnóstico de sepsis, RAN < 100 céls/mrtf, RAM < 100 céls/mrrf, nitrógeno ureico > 18 mg/dL, PCR sérica > 90 mg/L y positividad de cultivos obtenidos de un sitio estéril81.
+
+En sentido inverso, los factores relacionados con bajo riesgo de IBI en niños con NF son: predicción de la duración de la neutropenia < 7 días, ausencia de CVC, evidencia temprana de recuperación medular, enfermedad de base en remisión, ausencia de signos y/o síntomas de compromiso del SNC, temperatura < 39°C al ingreso, ausencia de dolor abdominal y buen estado general del paciente7. La Tabla 2 resume los factores de riesgo estudiados en niños con NF.
+
+
+
+ 
+
+  
+
+Tratamiento anti-infeccioso empírico inicial
+
+Los niños con NF deben recibir tratamiento antimicrobiano de amplio espectro y bactericida en forma rápida, ya que las infecciones en este tipo de hospederos progresan rápidamente y pueden ocasionar la muerte. La selección del tratamiento empírico debe basarse en las características epidemiológicas institucionales y el riesgo que presente el paciente6,7,82.
+
+Paciente con episodio de alto riesgo
+
+Todos los pacientes con episodios categorizados como de alto riesgo deben hospitalizarse y recibir antimicrobianos por vía intravenosa (iv)7. Varios estudios comparativos han ensayado diferentes estrategias de tratamiento con eficacia semejante: monoterapia, terapia combinada con aminoglucósidos, y cualquiera de las anteriores con o sin terapia anti cocáceas grampositivas (β lactámicos o glucopéptidos)82,83.
+
+Monoterapia: Las cefalosporinas de tercera o de cuarta generación con acción anti-pseudomónica (ceftazidima y cefepime), los carbapenémicos (imipenem o merope-nem) y las penicilinas anti-pseudomónicas (piperacilina/ tazobactam o ticarcilina/ácido clavulánico) han sido igualmente efectivas para el tratamiento de los episodios de NF que los tratamientos combinados con aminoglu-cósidos7,84. Se recomienda seleccionar los agentes antimicrobianos en base a los datos epidemiológicos locales de susceptibilidad bacteriana. En los lugares donde exista alta prevalencia de infecciones por bacilos gramnegativos productores de β lactamasas de espectro extendido se recomienda el uso empírico de piperacilina/tazobactam y como segunda alternativa carbapenémicos7,85. En un meta-análisis reciente que incluyó tres ensayos, con asignación aleatoria en 263 niños con NF, pudo demostrarse que la mortalidad a los 30 días de los pacientes tratados con cefepime era mayor que la ocurrida en niños tratados con ceftazidima86. Se recomienda el uso de carbapenémicos como monoterapia en las siguientes situaciones: enteritis neutropénica; sepsis de origen abdominal; infección por Bacillus cereus; y administración parenteral de alguna cefalosporina de tercera generación los siete días previos. Los aminoglucósidos no se recomiendan para ser utilizados como monoterapia7,86-88.
+
+Tratamiento combinado (β lactámicos más amino-glucósidos) sin terapia anti cocáceas grampositivas (β lactámicos o glucopéptidos): En todo paciente con un episodio de alto riesgo se recomienda considerar en el tratamiento antimicrobiano empírico cobertura frente a P. aeruginosa81. La combinación de un B lactámico de amplio espectro (ceftazidima, cefepime, meropenem, imipenem y piperacilina/tazobactam) con un aminoglu-cósido (amikacina o tobramicina) han sido los regímenes recomendados7,84,90,91. Tiene la ventaja de ampliar el espectro antibacteriano, poseer un rápido efecto bactericida y reducir la emergencia de cepas resistentes a antimicrobianos durante el tratamiento92. Estrictamente, no se ha podido documentar el beneficio de la terapia combinada frente a bacilos gramnegativos82,93, y es posible que se relacione con una mayor cantidad de efectos adversos, fundamentalmente nefrotoxicidad82,94. En la actualidad existen condiciones donde la terapia combinada con un aminoglucósido es recomendada: sospecha de infección asociada a catéter, evidencia de sepsis e infección conocida por P. aeruginosa90.
+
+Tratamiento combinado con terapia anti cocáceas grampositivas (β lactámicos o glucopéptidos): La administración de β lactámicos con acción anti estafilocóccica (oxacilina/cloxacilina/cefazolina) en la terapia empírica inicial se basa en la vigilancia epidemiológica local. El uso de glucopéptidos (vancomicina o teicoplanina) en niños con NF debe estar limitado a indicaciones específicas, debido a la posibilidad de emergencia de microorganismos resistentes a vancomicina (p. ej.: Enterococcus spp). El estudio EORTC-NCI demostró que el no usar vancomicina en el tratamiento empírico inicial no influía en la morbi-mortalidad de pacientes con NF95. Un meta-análisis reciente demostró que el uso de glucopéptidos puede ser diferido hasta contar con la documentación microbiológi-ca de la infección96. En algunas regiones se ha producido en la actualidad la emergencia de infecciones causadas por S. aureus resistente a meticilina, proveniente de la comunidad, cuyo tratamiento de elección es vancomicina, considerando que la tasa de resistencia a clindamicina de estas cepas en niños con cáncer supera el 30%97,98.
+
+Se recomienda el agregado de vancomicina en:
+
+ los pacientes con sospecha clínica de infección asociada a CVC   infección de piel y tejidos blandos en regiones geográficas donde exista una tasa de S. aureus resistente a meticilina de la comunidad mayor a 15%   infección osteo-articular   infección en los tres últimos meses por S. pneumoniae resistente a cefalosporinas de tercera generación   evidencia de sepsis y bacteriemia por cocáceas gram-positivas, previo a conocer la identificación final y la susceptibilidad de la cepa6,7,97,98.
+
+Paciente con episodio de bajo riesgo
+
+En los episodios de bajo riesgo se recomienda tratamiento con ceftriaxona sola o más amikacina. No se recomienda el uso empírico de cefalosporinas ni penicilinas con acción anti-pseudomónica, ya que el riesgo de padecer una infección por P. aeruginosa en estos pacientes es extremadamente bajo, menor a 5%84,99. Igualmente puede contemplarse como alternativa el uso de una cefalosporina de cuarta generación (cefepime) como monoterapia. No se recomienda el uso de carba-penémicos (Figura 2).
+
+  
+
+Diversos estudios prospectivos y randomizados han podido demostrar que los niños con NF de bajo riesgo pueden ser tratados con eficacia utilizando nuevas modalidades terapéuticas: tratamientos abreviados, secuenciales, orales y/o ambulatorios100-105. Los pacientes de bajo riesgo deben revalorarse a las 24 horas de haber comenzado el tratamiento parenteral. De persistir con criterios de bajo riesgo podrá rotarse el tratamiento a la vía oral (cefixima, acetil-cefuroxima o ciprofloxacina) y completar el tratamiento en esta modalidad106-109, o podrán mantener terapia ambulatoria con antimicrobianos iv de utilización cada 24 horas (ceftriaxona)110.
+
+La implementación de cualquiera de estas terapias que implique el manejo ambulatorio de los pacientes con NF de bajo riesgo es factible si el hospital a cargo cuenta con capacidad de respuesta los siete días de la semana, 24 horas al día, personal entrenado y población educada en estar alerta frente a signos clínicos que impliquen la necesidad de re consultar110,111. Estudios prospectivos y randomizados realizados en nuestro continente (Argentina y Chile) han mostrado que las terapias secuenciales (iv-oral, hospitalizado-ambulatorio) tienen eficacia similar a la modalidad de manejo hospitalario, con mejor evolución psico emocional y menores costos para los pacientes y los servicios de salud100,102,105,108-110.
+
+  
+
+En la Tabla 3 podrán consultarse las dosis, intervalos y vías de administración de los principales antimicrobianos a utilizar en niños con NF de alto y bajo riesgo.
+
+Nota: Los pacientes con leucemia de reciente diagnóstico, sin haber recibido aún tratamiento quimioterápico, pueden presentar blastos en la sangre periférica. Aunque estos niños no cumplan estrictamente con la definición de neutropenia, el tratamiento antimicrobiano empírico deberá iniciarse ante la presencia de fiebre, foco clínico y/o signos de sepsis6,7. Es necesario enfatizar que los criterios de alto y bajo riesgo han sido validados para los episodios de NF post quimioterapia.
+
+
+
+ 
+
+Enfoque terapéutico del paciente con catéter venoso central
+
+La utilización de CVC de larga duración produce grandes beneficios en el cuidado diario de los niños con cáncer. La principal desventaja de su uso extensivo es la aparición de infecciones6. La incidencia de infecciones varía de acuerdo a la edad, el compromiso inmunológico y el tipo de catéter utilizado y oscila entre 0,6 y 27%112,113.
+
+Se considera infección del sitio de salida del catéter a la infección superficial (edema, eritema, calor y dolor) en un área comprendida hasta dos centímetros de la salida del dispositivo, en ausencia de infección sistémica114. Se considera infección del túnel a la que compromete el tejido celular subcutáneo (edema, eritema, calor, dolor y/o supuración) en un área comprendida más allá de los dos centímetros del sitio de salida del catéter, en ausencia de infección sistémica. Infección del reservorio es la que compromete el tejido celular subcutáneo sobre el mismo sitio de implantación, en ausencia de infección sistémica114.
+
+El diagnóstico etiológico de la infección se confirma mediante estudios microbiológicos (ver Evaluación de laboratorio, pág S 13).
+
+Los niños con infección del sitio de inserción que cursan con NF deben ser hospitalizados para efectuar tratamiento antimicrobiano por vía parenteral115, a través del mismo CVC.
+
+La infección del túnel o del reservorio del catéter requerirá siempre de la extracción del dispositivo y de tratamiento antimicrobiano por vía parenteral114-118.
+
+En el caso de realizar un diagnóstico de infección sistémica se recomienda la extracción del catéter en las siguientes circunstancias:
+
+ sepsis y/o shock séptico sin otro foco clínico asociado,   falta de respuesta al tratamiento antimicrobiano (persistencia de hemocultivos positivos luego de 72 horas de tratamiento parenteral apropiado a través del catéter),   complicación asociada: osteomielitis, endocarditis, embolia séptica o formación de abscesos e   infección fúngica (p. ej.: Candida spp)114,116,119.
+
+En los pacientes con infecciones por S. aureus se deberá valorar, en cada caso, la decisión de extraer el catéter. Los resultados de estudios sobre el tema son controvertidos. Se ha demostrado que los pacientes con bacteriemia por S. aureus asociada a catéter, donde el mismo ha permanecido en su sitio, presentaron alta tasa de complicaciones secundarias asociadas (p. ej.: osteo-mielitis)119. Otros estudios han demostrado un resultado favorable (67% de éxito) en el tratamiento de esta entidad sin remover el catéter114.
+
+Se recomienda un manejo conservador (mantener el catéter en su sitio) en casos de bacteriemia no complicada, con buena respuesta al tratamiento en las primeras 72 horas, trombocitopenia grave o en el caso de ser imposible conseguir accesos venosos114,116,117,120,121.
+
+Debe realizarse cobertura antimicrobiana frente a S. aureus resistente a meticilina y P. aeruginosa cuando exista fuerte sospecha de infección asociada al CVC. El tratamiento antimicrobiano se ajustará a las 24 - 48 horas, en base al patógeno identificado y su patrón de susceptibilidad, y se prolongará por 14-21 días, de acuerdo a la evolución clínica, la presencia o no de complicaciones y el agente causal117-120.
+
+La experiencia en niños con el uso de antimicrobianos dentro del catéter (lock therapy), es limitada para recomendar su uso rutinario. La recomendación de expertos es utilizarla, especialmente en las infecciones por Staphylo-coccus coagulasa-negativa119 (Figura 3).
+
+
+
+  
+
+ 
+
+Figura 3. Manejo del niño con neutropenia febril   (NF) y catéter venoso central (CVC) de larga duración. *Tomar hemocultivos del   CVC y periféricos, para técnica de tiempo diferencial (ideal) o de cultivos   cuantitativos. *El tratamiento antimicrobiano deberá incluir un glucopép-tido y   cobertura contra F. aeruginosa.
+
+Enfoque terapéutico del niño con infiltrado pulmonar
+
+Para indicar el tratamiento antimicrobiano en pacientes con NF e infiltrado pulmonar, en primera instancia se deberá valorar el tipo de infiltrado que presenta el paciente. Si el mismo es localizado, se deberá indicar tratamiento antimicrobiano luego de haber tomado las muestras para diagnóstico (ver capítulo Evaluación de laboratorio, página S 13). Se recomienda la administración de una cefalosporina de tercera generación, con o sin el agregado de un aminoglucósido7,122. En las áreas donde la tasa de infección por S. aureus resistente a meticilina proveniente de la comunidad sea > al 15% y exista sospecha clínica y radiológica de esta infección (ej. compromiso bilateral, empiema pleural asociado, sepsis, artritis y osteomielitis asociada), deberá considerarse el uso de un glucopéptido. Remarcamos que se deberá hacer uso prudente de este último antimicrobiano. En caso que el infiltrado sea difuso se sugiere considerar la etiología viral como una alternativa muy probable, realizar el estudio pertinente para búsqueda de etiología, a través de LBA e iniciar el tratamiento antimicrobiano de amplio espectro indicado anteriormente, complementado con un macrólido (eritromicina, claritromicina) y cotrimoxazol7,122. Si el infiltrado es localizado refractario o tardío, se recomienda sospechar una EFI, tomar biopsia de tejido e iniciar el tratamiento correspondiente (ver capítulo terapia antifúngica).
+
+
+
+Seguimiento del paciente con neutropenia febril
+
+Todos los niños que cursan con NF deben ser evaluados en forma diaria hasta que el RAN sea > 500 céls/mm3 y se encuentren sin fiebre. La eficacia del tratamiento antimicrobiano empírico deberá ser evaluada luego de 72 horas (4° día) en los pacientes de alto riesgo y a las 24-48 horas en los niños con episodios de bajo riesgo6-8.
+
+La evolución se catalogará en base al control de diferentes variables:
+
+ Evaluación clínica: Control de estado general, curva térmica, estado hemodinámico y hallazgos al examen físico.   Evaluación de laboratorio: La medición de PCR sérica es recomendable en los primeros tres días en forma diaria37-40. El RAN y el RAM, así como el recuento de plaquetas, se realizará en general dos veces por semana, o más seguido en situaciones especiales, según indicación del médico oncólogo, hasta que la cifra de RAN sea ≥ 500 céls/mmf, la de RAM ≥ 100 céls/mm3 y la de plaquetas ≥ 50.000 céls/mm 3-6-8.   Evaluación microbiológica: Considerar los resultados microbiológicos para los ajustes de la terapia antimicrobiana. Se recomienda además, siempre que sea posible, repetir la toma de muestra de los exámenes microbiológicos que hayan resultado positivos hasta lograr su negativización.
+
+Habitualmente la media de duración de la fiebre en episodios de alto riesgo es entre 5 y 7 días y en episodios de bajo riesgo de 2 a 3 días6.
+
+Episodios de alto riesgo. La primera evaluación se realiza luego de 72 horas de terapia antimicrobiana (4° día). En caso que la evolución clínica haya sido favorable y no se hayan aislado cocáceas grampositivas o P. aeruginosa en los hemocultivos se sugiere el retiro de la cobertura con glucopéptidos o antimicrobianos anti-pseudomónicos si hubieran sido indicados al ingreso6-8 (Figura 4). En caso de evolución clínica desfavorable, se volverá al análisis clínico y de laboratorio sugerido al ingreso, y se ajustará la terapia antimicrobiana de acuerdo a los hallazgos clínicos, microbiológicos y a la epidemiología de las infecciones en el lugar de trabajo. Todo este análisis se volverá a repetir al 7° día de evolución, realizando los estudios y ajustes necesarios nuevamente. Es particularmente importante la posibilidad de una EFI en pacientes que permanecen con fiebre y neutropenia en estas evaluaciones (ver Tratamiento antifúngico empírico).
+
+  
+
+ 
+
+Episodios de bajo riesgo. Los pacientes con episodios de bajo riesgo deben revalorarse a las 24 horas de haber comenzado el tratamiento parenteral, con el fin de confirmar su categorización como episodio de bajo riesgo. Para esto se requiere un examen clínico detallado y la determinación de una segunda medición de PCR cuantitativa. El resto de los parámetros de bajo riesgo comprendidos en la historia clínica no variarán en esta segunda evaluación.
+
+La reafirmación de bajo riesgo a las 24 horas de evolución en un episodio de NF es importante porque si la consulta fue muy precoz, el paciente puede haber experimentado variaciones clínicas y de laboratorio en sus primeras horas de evolución que son relevantes de pesquisar. La categorización de riesgo luego de 24 horas de tratamiento implica la posibilidad de realizar terapias selectivas, como tratamiento ambulatorio con antimicrobianos orales o parenterales (Figura 2).
+
+La implementación de manejo ambulatorio en los niños con NF de bajo riesgo es posible si el hospital a cargo cuenta con capacidad de respuesta los siete días de la semana, 24 horas al día, personal entrenado y población educada en estar alerta frente a signos clínicos que impliquen la necesidad de re consultar.
+
+
+
+Criterios para la suspensión del tratamiento antimicrobiano
+
+Pacientes con episodios de alto riesgo: La terapia antimicrobiana se extenderá hasta que el niño esté al menos 48 horas afebril y con un RAN en ascenso (preferentemente ≥ 500 céls/mm3) por dos días consecutivos, completando al menos siete días de tratamiento6-8. En los pacientes que se han tornado afebriles pero que persisten neutropénicos, la duración del tratamiento está menos definida. Algunos autores recomiendan continuar con la terapia hasta los 14 días de haber comenzado el episodio7. En este caso, si luego de 14 días el niño sigue afebril y con neutropenia grave, se suspenderá el tratamiento antimicrobiano.
+
+Pacientes con episodios de bajo riesgo: La duración del tratamiento antimicrobiano se hará en cada paciente de acuerdo a la evolución de la curva térmica, la aparición de algún foco clínico, los resultados de la microbiología y la evolución del RAN6-8. Existen variadas referencias en la literatura médica sobre estrategias de manejo selectivo en niños con NF de bajo riesgo, con éxito terapéutico: alta precoz, tratamientos acortados, manejo ambulatorio, uso de antimicrobianos orales99-111. Los niños que cursan episodios de bajo riesgo, sin foco de infección, recibirán el tratamiento hasta permanecer 24 horas sin fiebre y tener RAN en ascenso, siempre con una cifra > 100 céls/ mm3. En los niños en que se certifique la presencia de una infección viral, en ausencia de criterios clínicos de gravedad, se justifica suspender precozmente el tratamiento antimicrobiano101,102. La estrategia de hospitalizaciones acortadas y alta precoz ha demostrado ser beneficiosa para el niño, ya que evita el hospitalismo y la posibilidad de infección nocosomial;es más confortable para el paciente y disminuye los costos de salud. En nuestro continente, dos estudios argentinos, prospectivos, randomizados, compararon el tratamiento secuencial con ceftriaxona iv y cefixima oral versus tratamiento con ceftriaxona iv y ciprofloxacina iv administrada a las 24 horas en su domicilio, sin internación. En ambos se vio una tasa de éxito > 95%108,109. En Chile, un estudio multicéntrico, mostró que el manejo ambulatorio luego de un alta precoz, con hospitalización de 48-72 horas, era tan eficaz como el manejo hospitalizado, y significativamente más económico110.
+
+El concepto general es que estos estudios demostraron que los niños con NF de bajo riesgo pueden ser tratados en forma ambulatoria y con tratamientos secuenciales en un hospital público en Latinoamérica. El fracaso de tratamiento ambulatorio en este tipo de estudios se ha visto reflejado en que el paciente ha debido ser internado, manejado en salas generales, pero sin requerimientos de terapia intensiva y sin mortalidad asociada109-111. Es importante considerar que para la realización de este tipo
+
+de tratamiento, se debe contar con una infraestructura mínima de atención de pacientes con cáncer, disponer de oncólogo para su consulta permanente y categorizar apropiadamente al paciente y su familia antes de indicar el tratamiento (p. ej.: cercanía del hospital, medio de transporte adecuado o disponibilidad de teléfono para su contacto)6-8,109-111.
+
+Los niños se controlarán hasta que su episodio haya terminado, esto es cuando su RAN sea ≥ 500 céls/mm3 o haya terminado su tratamiento antimicrobiano (Figura 4).
+
+
+
+Tratamiento antifúngico empírico
+
+Aquellos pacientes que permanecen con fiebre luego de 72 horas de haber recibido una terapia antibacteriana adecuada, son evaluados al 4° día de evolución del episodio. Si en ellos además se espera que la neutropenia dure más de siete días, se recomienda una evaluación exhaustiva en búsqueda de una EFI y eventualmente el inicio de tratamiento empírico con antifúngicos9,74. El riesgo de EFI es mayor en:
+
+ los pacientes con leucemia mieloblástica aguda123   aquellos con neutropenia prolongada y profunda que reciben terapia antibacteriana de amplio espectro124,125   pacientes con daño de la mucosa oral y presencia de lesiones de piel126,127   niños residentes en regiones endémicas de ciertas especies de hongos128   pacientes portadores de CVC129,130   niños con un proceso febril nuevo durante la recuperación de la neutropenia, con imágenes parenquimatosas sospechosas de una EFI en pulmones, senos paranasa-les, hígado, bazo, riñones y SNC.
+
+Antes del inicio de la terapia antifúngica, se deben hacer todos los esfuerzos para diagnosticar una posible EFI mediante: un examen clínico detallado, fondo de ojo, búsqueda de hifas o pseudohifas en orina, hemocultivos, determinación seriada de antígeno GM de Aspergillus spp en sangre, estudio de diversos parénquimas por imágenes: TAC de pulmón, senos paranasales, abdomen, cerebro, LBA si corresponde (ver Evaluación de laboratorio, pág S 13), biopsia y cultivo de lesiones de piel u otros parén-quimas, de acuerdo a la orientación clínica.
+
+Una vez decidida la administración de la terapia antifúngica empírica, el siguiente paso es la selección apropiada del fármaco, para lo que se deben considerar varios factores. Estos son: localización de la infección, rapidez de la progresión de la misma, patologías concomitantes (daño de mucosa, lesiones en la piel, localización en pulmones y senos paranasales), uso previo de fluconazol u otros azoles (voriconazol, posaconazol), régimen quimioterápico, función renal y hepática131,132. Las causas más frecuentes de EFI son Candida spp y Aspergillus spp133. El antifúngico más asequible, con adecuado perfil de actividad contra Candida es anfotericina B deoxicolato, cuya limitación es su nefrotoxicidad. Las formulaciones lipídicas de anfotericina B (anfotericina liposomal, anfo-tericina en complejo lipídico y anfotericina en dispersión coloidal) no son nefrotóxicas, y su limitación es su alto costo. Otra opción de terapia antifúngica empírica es fluconazol, excepto en pacientes que lo hayan recibido previamente como profilaxis, por la eventual aparición de especies de Candida resistentes (C. krusei o C. glabrata)134-136. Fluconazol no tiene actividad frente al género Aspergillus. Otros agentes eficaces para terapia empírica de EFI son voriconazol137 y el grupo de equinocandinas (caspofungina, anidulafungina, micafungina)138. Si se sospecha que el paciente tiene aspergilosis, el antifún-gico de elección es voriconazol y de segunda línea son anfotericina liposomal y equinocandinas132 (Dosis, vías de administración e intervalos de los antifúngicos en la Tabla 4). En caso de zigomicosis, se sugieren dosis altas de anfotericina liposomal o posaconazol139,140. En lo posible, se debe optar por antifúngicos poco tóxicos y se sugiere precaución con las interacciones con otros fármacos que el paciente ya está recibiendo. Ejemplo clásico de esto es la competencia por la enzima citocromo P450 de la vincristina y los azoles132,137.
+
+  
+
+Los efectos adversos de anfotericina B deoxicolato son comunes y están relacionados con la velocidad de la infusión, siendo la toxicidad renal el efecto adverso más frecuente. Estos efectos se pueden prevenir o aminorar realizando una infusión en 4-6 horas, aportando hidratación previa con solución salina (NaCl al 9%o) y efectuando premedicación con anti inflamatorios no esteroidales o usando hidrocortisona antes y/o durante la infusión141,142.
+
+Las combinaciones de antifúngicos, aunque se usan en la práctica clínica para pacientes con EFI e inmunocompromiso profundo, no se recomiendan rutinariamente143,144. Se están realizando en la actualidad estudios randomizados y controlados para evaluar su eventual beneficio.
+
+Los factores a considerar para la duración del tratamiento antifúngico son la resolución de la fiebre, la mejoría clínica de acuerdo a la localización de la infección, los resultados de los estudios de imágenes, la curva de GM cuando corresponda y la negativización de los cultivos. La duración del tratamiento en una EFI demostrada, con compromiso parenquimatoso, deberá ser por lo menos de 4 a 6 semanas, o hasta que desaparezcan las imágenes anormales. Si se inició uso empírico de antifúngicos y no se logra demostrar una EFI (imágenes, búsqueda de antígenos y cultivos negativos) el tratamiento será suspendido luego de terminar esta búsqueda, con un máximo de 14 días7.
+
+Si el paciente ha tenido una EFI demostrada, se debe instaurar una profilaxis antifúngica secundaria eficaz durante los sucesivos episodios de neutropenia post quimioterapia que el niño presente en el curso del tratamiento de su cáncer, conducta que se basa en la alta tasa de reactivación de las EFI frente a los períodos de neutropenia grave131,132,145.
+
+
+
+Quimioprofilaxis
+
+Profilaxis contra infecciones bacterianas
+
+El uso de antimicrobianos en forma de profilaxis no se recomienda en niños con cáncer.
+
+El grupo de enfermedades infecciosas de la Sociedad Italiana de Oncohematología realizó el primer estudio clínico, multicéntrico, prospectivo, aleatorio, placebo-control buscando responder si la quimioprofilaxis con amoxicilina/ácido clavulánico es de utilidad en niños con NF146. Los resultados no mostraron superioridad sobre el placebo en un estudio con muestra pequeña para demostrar poder estadístico. No existen estudios clínicos, aleateorios y controlados, de profilaxis con fluoroquinolonas en niños para comparar con los datos publicados en población adulta. En un estudio realizado en Italia, se evaluó la resistencia antimicrobiana de bacilos gramnegativos en niños con cáncer en hospitales en que los adultos en tratamiento con QT usaban o no profilaxis con fluoroquinolonas. Se vio mayor proporción de resistencia a ciprofloxacina, ceftazidima e imipenem en el centro con indicación de profilaxis que en el centro con uso restringido (37 versus 11%, p = < 0,001)147. La emergencia de resistencia bacteriana constituye un factor preocupante, tanto en adultos como en niños, para la profilaxis con fluoroquinolonas. La indicación para profilaxis antibacteriana secundaria no está documentada en adultos ni en niños.
+
+Profilaxis contra Pneumocystis jiroveci
+
+Es aceptado el uso de cotrimoxazol en la prevención de infecciones oportunistas por microorganismos intra-celulares, especialmente P. jiroveci, tanto en adultos como en niños, con compromiso de inmunidad celular por uso de QT o terapia corticoesteroidal prolongada. Se recomienda administrar 20 mg/kg/día de sulfa (4 mg/ kg/día de trimetoprim), en una dosis diaria, tres veces por semana, durante la QT, hasta luego de seis meses de haberse completado la misma148,149.
+
+Profilaxis contra infecciones fúngicas
+
+Los estudios iniciales ensayaron el uso oral de anfote-ricina B, nistatina, ketoconazol o clotrimazol. No se pudo demostrar eficacia en prevenir infecciones sistémicas, a pesar que la terapia disminuyó la colonización local. Estos agentes no son recomendados para uso profilác-tico150. Fluconazol es el antifúngico más evaluado con fines profilácticos en niños con cáncer y su uso rutinario no está indicado. Este antifúngico ha mostrado reducir la incidencia de infecciones fúngicas superficiales, pero probablemente aumente la colonización por C. glabrata y C. krusei151. Como contrapartida, existe consenso en la indicación de profilaxis antifúngica secundaria, la que busca disminuir la probabilidad de reactivación de micosis profundas en pacientes con antecedente de EFI comprobada o probable durante episodios previos de NF131,132,145.
+
+Profilaxis antiviral
+
+No existen estudios clínicos controlados comparando estrategias profilácticas con fármacos antivirales versus placebo en niños en QT. Respecto a virus respiratorios, la única profilaxis recomendada es el uso de oseltamivir para prevenir infección por virus influenza, dado el alto riesgo de complicaciones y mortalidad asociadas152-154. Oseltamivir ha sido evaluado en 1.500 niños sanos demostrando relativa seguridad y sólo en un estudio se evaluó su efecto preventivo, con una eficacia de 55%155. El único estudio observacional prospectivo en Japón, en 29 niños inmunocomprometidos por QT y tres niños sometidos a TPH, sugiere utilidad cuando se usa en forma diaria por ocho semanas, con buena tolerancia y mínimos efectos gastrointestinales156.
+
+Se recomienda el uso de oseltamivir profiláctico:
+
+ Durante las dos primeras semanas tras la administración de vacuna contra influenza, si hay actividad de la enfermedad en la comunidad.   Cuando la inmunización contra influenza, está contraindicada.   Si los familiares u otras personas en contacto cercano no están inmunizados.   Para el control de brotes en sitios que albergan niños de alto riesgo en contacto con personas no inmunizadas.   En niños de alto riesgo, familiares y trabajadores de salud en contacto, cuando las cepas circulantes son diferentes a las de la vacuna.   Como complemento de la inmunización157.
+
+Aciclovir profiláctico en varicela. Ante la exposición indeseada al VVZ, la indicación de elección en niños inmunocomprometidos es administrar inmunoglobulina específica contra VVZ dentro de las 96 horas de la exposición. Esta recomendación está limitada por la escasa disponibilidad del producto en los medios locales, requiriéndose con frecuencia efectuar importaciones con carácter de urgencia. El uso alternativo de antivirales como profilaxis post-exposición, no está apoyado en estudios aleatorios aunque la experiencia no controlada sugiere que pueden ser una estrategia razonable en estas circunstancias. Se recomienda la administración de aciclovir, 80 mg/kg/día durante siete días, desde el octavo día después de la exposición, en pacientes inmunocom-prometidos carentes de inmunidad específica adquirida por enfermedad previa o inmunización158-161.
+
+
+
+Medidas de cuidado general del paciente
+
+Tipo de habitación
+
+De preferencia, individual para minimizar la exposición a patógenos transmisibles. De no disponerse de ésta, el paciente podrá ser manejado en habitación compartida162.
+
+Los pacientes con infecciones por VVZ no deberán ser ingresados a las unidades de oncología158,159,168.
+
+Ambiente protegido
+
+Se entiende como tal el uso de habitaciones individuales que cuenten con filtros de aire de muy alta eficacia (High Efficiency Particulate Air-HEPA) asociado a presión positiva con más de 12 renovaciones de aire por hora. Existen otras alternativas de filtración de aire de menor eficiencia y de costo más asequible, como los filtros portátiles, que pueden utilizarse con los siguientes requisitos: seleccionar aquellos que recirculen todo o casi todo el aire, que provean más de 12 cambios de aire por hora; no reutilizar filtros que han sido previamente usados en zonas de construcciones, y ubicar el equipo portátil de manera que filtre todo el aire de la habitación162-167. El ambiente protegido con filtros HEPA ha demostrado su eficacia sólo en la prevención de aspergilosis, si bien parece razonable pensar que el aire filtrado puede disminuir la incidencia de otras infecciones transmitidas por vía aérea168,169. El ambiente protegido no es necesario para la mayoría de los pacientes que están cursando episodios de NF. Sólo se recomienda en aquellos casos en que exista alto riesgo de infección por Aspergillus spp, como son los pacientes receptores de TPH alogénico, pacientes en los cuales es predecible una neutropenia prolongada (> de 15 días) y los que experimentarán una intensa mucositis post-QT168,169.
+
+En hospitales con áreas de construcción y remodelación deben utilizarse barreras impermeables que separen la zona de faenas de construcción de las de hospitalización. Es importante además que no exista comunicación por los sistemas de ventilación entre la zona de obras y la de hospitalización164-167. Si los pacientes deben ser transportados fuera de su habitación, podrían beneficiarse del uso de mascarilla de alta eficiencia170.
+
+Limpieza
+
+El ambiente debe estar limpio, enfocándose en remover los microorganismos que sobreviven en éste. Se recomienda tener guías escritas sobre los servicios ambientales. La limpieza será diaria, evitando métodos que generen polvo, y se realizará por personal confiable y entrenado. Se deben utilizar desinfectantes de uso hospitalario y evitar el uso de alfombras171.
+
+Agua y comida
+
+Se recomienda el consumo de agua hervida y alimentos cocidos para los pacientes inmunocomprometidos171.
+
+Higiene de manos
+
+Es la medida más importante para reducir la transmisión de microorganismos entre una persona y otra. Aunque el lavado de manos con jabón líquido común reduce significativamente el número de microorganismos presentes en las manos, hay evidencias que la higiene con productos antisépticos produce una mayor reducción de colonización, particularmente de la microbiota residente172.
+
+Los preparados con base en alcohol remueven los microorganismos más efectivamente, requieren menos tiempo e irritan menos la piel que el uso de jabón con otros antisépticos y agua173. Se recomienda su uso como alternativa para la higiene de manos, siempre y cuando las manos no estén visiblemente sucias. Se debe recordar que el alcohol no destruye las esporas (p. ej.: C. difficile) por lo que, de sospecharse contaminación con las mismas (situaciones epidemiológicas con presencia de enfermedad o colonización de pacientes por C. difficile en la unidad clínica), se prefiere el lavado de manos con agua y jabón174. La higiene de manos deberá realizarse siempre antes y después del contacto con el paciente y antes de realizar cualquier procedimiento. Es importante mantener las uñas cortas y limpias, no usar anillos, relojes ni pulseras, que pueden actuar como reservorio y dificultar la limpieza de las manos y antebrazos172-175.
+
+Uso de guantes, mascarilla y bata
+
+Deben ser utilizados como parte de las precauciones estándares176. Se recomienda el uso de mascarilla para el personal si presenta infección de vías aéreas mientras asiste al paciente, y para el paciente si sale de su habitación para estudios y procedimientos. La mascarilla será de uso individual, de papel con material sintético para filtración (quirúrgica) y desechable. No es necesario utilizar mascarillas de alta eficiencia por parte del personal de salud si no hay una indicación específica168-170.
+
+Higiene corporal
+
+Son importantes las medidas de higiene corporal como ducha diaria, higiene perineal luego de evacuar deposiciones y el lavado frecuente de manos. También se recomienda la higiene oral buscando especialmente un efecto de arrastre mediante enjuagues con solución salina fisiológica estéril y bicarbonato de sodio, el uso de un cepillo de cerdas suaves, y la higiene dental con eliminación de focos infecciosos168,169.
+
+Visitas
+
+Los acompañantes no deben estar cursando enfermedades transmisibles, no es recomendable la asistencia de niños y, en general, las visitas se restringirán a un número de personas que el personal de salud sea capaz de educar y supervisar.
+
+Otros
+
+Los objetos de uso personal diario por el paciente y los juguetes deberán ser lavables y mantenerse limpios, no deben retener agua, las revistas y periódicos deben ser de uso individual, preferentemente nuevos y estar limpios177. No se deben permitir flores ni plantas en la habitación del paciente, ya sean frescas o secas169. No hay recomendaciones específicas sobre uso de equipos electrónicos, teléfonos celulares, etc. Pareciera lógico recomendar su uso personal y que los equipos a usar estén debidamente limpios.
+
+En el hogar, si el paciente tiene una mascota se debe minimizar el contacto con ella. Se recomienda que la alimentación y limpieza de la mascota la realicen personas inmunocompetentes178,179.
+
+ 

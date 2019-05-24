@@ -1,0 +1,250 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-10182018000500531
+Actualización en el diagnóstico y manejo de aspergilosis invasora en pacientes adultos
+
+Introducción
+
+La aspergilosis invasora (AI) es una enfermedad grave que afecta principalmente a pacientes inmunocomprometidos, provocando mortalidad elevada, descrita hasta 90%, dependiendo del órgano afectado, estatus de inmunidad del paciente, momento del diagnóstico y la terapia antifúngica utilizada1–3. Si bien existen más de 200 especies de Aspergillus, la mayor parte de las infecciones son producidas por A. fumigatus, A. flavus, A. terreus y A. niger. La frecuencia de una especie sobre otra depende de distintos factores pudiendo variar en diferentes centros hospitalarios, aunque A. fumigatus es el más frecuentemente identificado3.
+
+Este artículo de revisión entrega una puesta al día de AI en aspectos de epidemiología, factores de riesgo, elementos clínicos, diagnóstico, enfrentamiento terapéutico, prevención y desafíos futuros, basada en la revisión de la literatura científica más relevante, dirigida a médicos especialistas y no especialistas de nuestra región, que tratan a pacientes con AI, a fin de entregar una visión global complementaria a extensas guías clínicas publicadas en años recientes de la Asociación Americana de Enfermedades Infecciosas -IDSA- publicada el año 20164, de la Conferencia Europea de Infecciones en Leucemia -ECIL- del 20175 y la guía conjunta de la Sociedad Europea de Microbiología Clínica y Enfermedades Infecciosas, Conferederación Europea de Micología Médica y Sociedad Europea Respiratoria -ESCMID-ECMM-ERSpublicada este año6.
+
+Epidemiología
+
+Aspergilosis invasora se presenta en pacientes inmunocomprometidos por distintas causas: cánceres hematológicos, receptores de trasplante de precursores hematopoyéticos (TPH), trasplante de órganos sólidos (TOS), pacientes que reciben corticosteroides por período prolongados, pacientes con infección por VIH en etapas avanzadas, usuarios de fármacos inmunosupresores o agentes biológicos1–3,7–32; sin embargo, se debe señalar que durante los últimos años también se ha descrito con frecuencia creciente AI en algunos grupos de pacientes críticamente enfermos pero aparentemente inmunocompetentes8.
+
+La frecuencia no es igual en cada uno de estos grupos (Tabla 1). La mayor incidencia se presenta en los pacientes con cáncer hematológico9,10; entre ellos, afecta con mayor frecuencia a pacientes con leucemia mieloide aguda (LMA) que con otras leucemias agudas o crónicas y, con menor frecuencia, linfoma y mieloma múltiple (MM). La mayor incidencia en LMA que leucemia linfática aguda (LLA) está asociado a su neutropenia más profunda y prolongada debido a que la primera requiere regímenes de quimioterapia más intensos durante la inducción, suele manifestarse en pacientes de mayor edad y con antecedentes de mielodisplasia previa10. Existen pocos datos epidemiológicos de AI en pacientes adultos en Chile. Por una parte, se han publicado series de casos de enfermedad fúngica invasora (EFI)11,12 en que coinciden que AI es la EFI por hongos filamentosos más frecuente, y otro estudio de seguimiento de pacientes con leucemia o linfoma que iniciaban quimioterapia en un hospital universitario privado y otro público de Santiago, Chile. Este último comunicó que 20% de los pacientes con neutropenia febril (NF) desarrollaron EFI, correspondiendo en 80% a AI, más frecuente en leucemia aguda que en linfoma13.
+
+Tabla 1 Frecuencias reportadas de aspergilosis invasora en distintos grupos de pacientes inmunocomprometidos y aparentemente inmunocompetentes 
+
+EPOC=enfermedad pulmonar obstructiva crónica. FNT=Factor de necrosis tumoral (ej.: infliximab).
+
+Mieloma múltiple es un cáncer hematológico emergente en su susceptibilidad a aspergilosis, explicado por su terapia que incluye corticosteroides en altas dosis o por largos períodos, junto a los nuevos fármacos empleados para su manejo14.
+
+El siguiente grupo en frecuencia son los pacientes receptores de TPH7,15–21; se debe distinguir una mayor incidencia en los receptores de trasplante alogeneico respecto los autólogos (10 vs 2,6%)16. En ellos, si bien la AI puede presentarse durante la fase neutropénica pre implantación, también puede manifestarse durante la siguiente fase de inmunodepresión celular, período de enfermedad de injerto versus hospedero agravado por el uso de inmunosupresores propio del manejo de esta complicación y durante la reactivación de citomegalovirus17. Otra condición hematológica en que también se presenta, aunque existen menos datos publicados es en aplasia medular en que se reporta que Aspergillus spp es el agente responsable de la mayor parte de las EFI22,23.
+
+En cuanto a receptores de TOS, la incidencia es diferente según el órgano trasplantado24; en orden decreciente, el grupo más afectado corresponde a pacientes receptores de trasplante pulmonar, luego cardiaco, después hígado y muy poco frecuente en receptores de trasplante renal16,24.
+
+En cambio, en pacientes inmunocomprometidos por uso de corticosteroides o inmunosupresores por enfermedad autoinmune está menos descrito25. En los pacientes con infección por VIH avanzada no es frecuente26,27, menos en la actualidad, en consideración a la recuperación inmune con terapia anti-retroviral. Otro grupo en quienes se han reportado casos de AI es el de aquellos pacientes que reciben agentes biológicos monoclonales como los antagonistas de factor de necrosis tumoral (FNT-α) como infliximab, adalimumab, etanercept28. Como se señalaba previamente, un grupo emergente reportado en el último tiempo, es el de pacientes graves hospitalizados en unidades de paciente crítico (UPC), aparentemente inmuncompetentes, especialmente aquellos con enfermedad pulmonar obstructiva crónica (EPOC), cirrosis hepática y post influenza8,29–31.
+
+De acuerdo a las frecuencias reportadas por patología de base, se pueden categorizar los pacientes en alto, mediano y bajo riesgo para adquirir una AI (Tabla 2), lo que permite plantear estrategias diferenciadas de profilaxis, enfrentamiento diagnóstico y opciones terapéuticas frente al caso individual32.
+
+Tabla 2 Estratificación de riesgo de AI en pacientes inmunocomprometidos de acuerdo a incidencia y mortalidad 
+
+AI: aspergilosis invasora; TPH=trasplante de precursores hematopoyéticos; EPOC=enfermedad pulmonar obstructiva crónica.
+
+Factores de riesgo
+
+En la Tabla 3 se presentan los factores de riesgo más frecuentes. Indudablemente, el más relevante es la neutropenia; mientras más profunda y prolongada sea, mayor será el riesgo de adquisición de una AI. Entre los otros factores descritos se debe mencionar la inmunosupresión asociada a medicamentos, la condición biológica y la infección por citomegalovirus por su rol inmunomodulador7,16–19,33. Otro factor que se debe destacar es la exposición medioambiental; existen numerosos reportes que asocian construcciones en hospitales con brotes de AI en pacientes profundamente inmunocomprometidos34. Esta situación ocurre por el significativo incremento de dispersión de conidias de Aspergillus spp. a través del aire que, debido a su pequeño tamaño, 2 a 3 μ, tienen capacidad de llegar por vía área hasta los alveolos pulmonares de los pacientes susceptibles1,2.
+
+Tabla 3 Factores de riesgo de aspergilosis invasora 
+
+Recientemente se han descrito factores genéticos que confieren mayor susceptibilidad del hospedero a contraer AI, tales como polimorfismos en genes de la inmunidad innata, expresión de receptores como toll like receptors (TLR), de citoquinas y de sus receptores35.
+
+Manifestaciones clínicas
+
+La aspergilosis invasora puede afectar a cualquier órgano; sin embargo, como el mecanismo más frecuente de adquisición de la infección es inhalatorio, lo más frecuente es el compromiso pulmonar seguido del rinosinusal. Menos usual es el compromiso cerebral e infrecuentes son la enfermedad gastrointestinal, cutánea, cardíaca, ocular y osteo-articular3. En general, la vía cutánea está asociada a uso de catéteres o contacto prolongado con material adhesivo o quemaduras. Las otras localizaciones mencionadas pueden presentarse en el contexto de una infección diseminada por vía hematógena, exposición ambiental o durante procedimientos por contaminación de insumos o dispositivos36–38.
+
+El síntoma más frecuente es la fiebre elevada, aunque se debe reconocer que no siempre está presente. Los síntomas de localización se manifiestan en la medida que el compromiso orgánico progresa, es decir, en caso de aspergilosis pulmonar invasora (API) los pacientes presentan tos, puntada de costado, expectoración hemoptoica en diverso grado hasta hemoptisis37. En el caso de sinusitis se puede presentar dolor facial, cefalea, aumento de volumen maxilar, rinorrea serosa y epistaxis. Tanto en éstas como en otras localizaciones, dado sus manifestaciones inespecíficas, el diagnóstico requiere un alto grado de sospecha38–40.
+
+Diagnóstico
+
+Suele ser un desafío debido a las múltiples dificultades para demostrar la presencia de Aspergillus spp. en una muestra clínica representativa del sitio afectado.
+
+En la actualidad, los criterios diagnósticos formulados por la EORTC/MSG41,42 son ampliamente utilizados. Considera factores del hospedero, microbiológicos e histológicos para concluir que se trata de una infección posible, probable o probada (Tabla 4). Si bien estos criterios se postularon originalmente para uniformar la denominación de la certeza de infección en la publicación de estudios de AI, en la actualidad la mayoría de los grupos se encuentran familiarizados con su uso; sin embargo, se debe tener en cuenta que para las decisiones terapéuticas, junto a los criterios diagnósticos debe tenerse siempre presente el juicio clínico frente al cuadro del paciente.
+
+Tabla 4 Criterios diagnósticos de aspergilosis invasora seleccionados de criterios de enfermedad fúngica invasora según EORTC/MSG41,42
+
+					 
+
+Estudio de laboratorio
+
+Las muestras obtenidas deben someterse a los procedimientos convencionales que incluye tinción de KOH y blanco de calco-flúor junto al cultivo de hongos43, además del estudio anatomo-patológico para confirmar la invasión fúngica. El aspecto clásico del laboratorio es la observación de hifas hialinas, angostas (3 a 6 micras), septadas, con ramificaciones dicotómicas en 45°43. Los hemocultivos suelen ser negativos, incluso en los casos de infección diseminada; su positividad debe hacer pensar en infecciones intravasculares o contaminación de la muestra.
+
+Marcadores solubles
+
+El estudio con bio-marcadores se ha posicionado como una importante opción no invasora de apoyo diagnóstico y está incluido en los criterios EORTC/MSG41,42. La mayor experiencia publicada es con galactomanano (GM) y en segundo lugar con 1,3→ β-d-glucano (BDG).
+
+El galactomanano es un componente de la pared fúngica; en la medida que crecen las hifas se va liberando y da la posibilidad de medirlo en sangre, apoyando el diagnóstico de infección invasora por Aspergillus spp., aunque también puede resultar positivo en infecciones por Fusarium spp. y muy raramente en otras EFI como histoplasmosis, blastomicosis y peniciliosis. No está estandarizado su uso aún en otras muestras clínicas como LCR, líquido pleural, u otros44,45. Sin embargo, existe experiencia reportada por Chong y cols., quien determinó GM en LCR de pacientes con compromiso cerebral por Aspergillus spp. obteniendo sensibilidad de 88,2%, especificidad de 96,3% ya fuese con punto de corte de 0,5 o de 1 o de 246. El resultado de GM se expresa como un índice de densidad óptica; un valor en suero ≥ 0,5 se considera positivo con sensibilidad hasta 97,4% y especificidad de 90,5% en pacientes neutropénicos y receptores de TPH alogénico45,47–49. En otros grupos de pacientes como receptores de TOS u otras condiciones, la sensibilidad disminuye50,51 lo que parece estar en relación a la diferente capacidad de angio-invasión fúngica que se produce en estos pacientes respecto a los hematológicos. En relación al uso de GM en LBA la mayoría de los autores coincide que se debe considerar positivo un valor ≥ 1, con sensibilidad de 91,3% y valor predictor positivo y negativo de 76 y 96%, respectivamente52; si valores inferiores puedan catalogarse de positivos a favor de infección invasora es materia de discusión.
+
+1,3→β-d-glucano
+
+Puede resultar positivo en casos de infección por Candida, Aspergillus, Fusarium, Pneumocystis entre otros, por lo que no es específico y presenta frecuentemente falsos positivos por lo que su interpretación debe ser cautelosa44. También puede medirse en LBA; sin embargo, se dispone de menos experiencia al respecto.
+
+Existen otros marcadores, como antígeno de manano/antimanano y “lateral flow device” cuya utilidad está por definirse53. En nuestra experiencia, este último tiene un menor rendimiento que GM (Nota del Editor: ver artículo en pág. 574 y por último, la prueba de reacción de polimerasa en cadena (RPC) ha sido reconocida en publicaciones recientes como un importante avance en el diagnóstico54 incluyendo el efecto diagnóstico sumatorio al asociarlo a GM en suero y/o LBA55.
+
+Imagenología
+
+Otro de los pilares claves en el diagnóstico es la adecuada interpretación de las imágenes, en particular el uso de tomografía computarizada para AI en pacientes neutropénicos. La imagen de nódulos rodeados de halo (Figura 1) que representan la hemorragia secundaria a la angioinvasión característica del hongo sugiere fuertemente el diagnóstico en un paciente con factores de riesgo56. En pacientes neutropénicos se ha descrito que las imágenes nodulares aumentan de tamaño, hasta cuatro veces durante los primeros siete días de evolución, transformándose en imágenes cavitadas, descritas como creciente aéreo, entre el día 7 y 14 de evolución56. Es necesario considerar que los nódulos no son patognomónicos de AI; de hecho, otras infecciones fúngicas, bacterianas o cuadros no infecciosos pueden manifestarse de manera similar57. Más recientemente se ha reconocido que existen imágenes que son más precoces que el nódulo con halo y representan el compromiso pulmonar temprano, permitiendo identificar una fase bronquial de AI que puede visualizarse como bronquiectasias, árbol en brote o vidrio esmerilado58. En pacientes no-neutropénicos, no se deben esperar la clásica imagen de nódulo con signo de halo; de hecho, en un estudio de Taccone y cols., en pacientes críticos o con EPOC, sólo 30% de los casos tenían imágenes tomográficas clásicas de AI8. En pacientes neutropénicos se ha sugerido la utilidad de complementar las imágenes con contrate en fase venosa para poder visualizar el componente de infarto pulmonar en el nódulo, lo que permite diferenciar de consolidaciones nodulares de otras etiologías59. Otro aporte de las imágenes es el uso de la tomografía con emisión de positrones (Positron Emission Tomography- Computed Tomography-PET-CT por sus siglas en inglés), con particular utilidad en la determinación de actividad inflamatoria en el foco de AI, que podría ser de utilidad como información adicional para definir plazos de terapia en casos individuales60.
+
+Figura 1 TAC de tórax que muestra nódulo con halo en un paciente con neutropenia profunda y fiebre, altamente sugerente de aspergilosis invasora. 
+
+Prevención de la exposición
+
+En consideración que la vía más frecuente de exposición a Aspergillus es la vía aérea, los intentos por disminuir la exposición (o carga fúngica), especialmente durante los períodos de mayor susceptibilidad, han llevado a diseñar infraestructura específica más segura para los pacientes en mayor riesgo de desarrollar esta complicación. De hecho, hoy en día es posible reducir la exposición con el adecuado manejo del aire durante la estadía en hospitales, en habitaciones especialmente diseñadas e identificadas con el nombre de ambiente protegido (AP), entendido como una pieza de uso individual, con presión positiva al interior respecto a pasillos y exterior, con al menos 12 recambios de aire por hora que ingresa filtrado por unidades de alta eficiencia (High Efficiency Particulate Air -HEPA por sus siglas en inglés) (Figura 2).
+
+Figura 2 Diagrama esquemático de ambiente protegido: habitación individual, aire ingresa a través de filtro de alta eficiencia (HEPA), manteniendo presión positiva respecto al pasillo y al exterior y asegurando al menos 12 recambios de aire por hora. 
+
+Las mediciones de carga fúngica en aire ambiental publicada en la década de los 80 por Rhame y cols. y Sherertz y cols., incluyendo período pre y post incorporación de filtros HEPA, permitieron demostrar el beneficio de su uso, con reducciones significativas de las cargas fúngicas en aire ambiental de 2 a 0,8 y de 0,4 a 0,001 ufc/m3 con concomitante disminución de las incidencia de AI de 15 a 8% y 33 a 0%, respectivamente61,62. De manera similar Oren y cols., publicaron su experiencia al lograr intervenir favorablemente en un brote de AI, en pacientes con leucemia aguda, asociado a construcciones, bajando de 50 a 43% su incidencia con uso de profilaxis antifúngica y luego a 0% al incorporar filtros HEPA63.
+
+Sin duda, junto a los AP se debe contar con medidas complementarias que eviten la potencial exposición de pacientes a aire con presencia de conidias de Aspergillus spp. y otros hongos patógenos, entre las cuales destacan las políticas que eviten la exposición a polvo ambiental a pacientes derivado de construcciones, remodelaciones o mantenciones de la infraestructura64–66.
+
+Tratamiento antifúngico
+
+En esta sección se presentan los antifúngicos disponibles, las asociaciones de antifúngicos, las estrategias de enfrentamiento, las indicaciones quirúrgicas, el seguimiento con GM y la duración de la terapia.
+
+Antifúngicos
+
+Por años, anfotericina fue la terapia de elección, aunque con pobres resultados y alta toxicidad en su formulación desoxicolato. En los últimos años se han producido notables avances en las opciones terapéuticas con los nuevos triazoles que han cambiado la historia de la enfermedad, las formulaciones lipídicas de anfotericina con relativa baja toxicidad y la nueva familia de equinocandinas que también han sido evaluadas como opciones terapéuticas de AI. A continuación, se describen los antifúngicos con actividad sobre Aspergillus spp. y en la Tabla 5 se resumen las dosis de cada uno de ellos.
+
+Tabla 5 Dosis y presentación de antifúngicos utilizados en tratamiento de aspergilosis invasora 
+
+Triazoles
+
+Actúan sobre la síntesis de ergosterol inhibiendo la enzima lanosterol 14-α-desmetilasa resultando en alteración de la membrana celular que lleva a la muerte del hongo67. Uno de los problemas comunes a este grupo son las interacciones farmacológicas, entre ellas con los inmunosupresores cuyas concentraciones plasmáticas aumentan y en caso de uso conjunto con alcaloides de la vinca existe alto riesgo de neurotoxicidad por lo que debe evitarse su uso concomitante4–6.
+
+Voriconazol
+
+Es el antifúngico de primera elección en AI, tanto en el compromiso pulmonar como extra-pulmonar de pacientes neutropénicos y no-neutropénicos4–6.
+
+Su efectividad en AI, fue demostrada por Herbretch y cols., en un estudio randomizado, comparativo con anfotericina B desoxicolato, en que logró respuesta completa o parcial en 52,8% de los pacientes y significativa mayor sobrevida68. También se ha estudiado su rol como anti-fúngico profiláctico en TPH, sin demostrar superioridad sobre fluconazol69.
+
+Se encuentra disponible en comprimidos y en solución intravenosa con ciclodextrina. De preferencia, el inicio de la terapia debe ser intravenoso; en pacientes con insuficiencia renal con clearance de creatinina menor a 50 ml/min se puede acumular la ciclodextrina por lo que se debe preferir la formulación oral. Los comprimidos tienen buena biodisponibilidad, ya sea en ayunas o con alimentos. Voriconazol tiene buena distribución en todos los tejidos; en el sistema nervioso central (SNC) su concentración es aproximadamente 50% de la concentración plasmática. Los principales efectos adversos son alteraciones visuales, alucinaciones, hepatotoxicidad y fotosensibilidad67. Se recomienda medir su concentración plasmática, a fin de asegurar concentración entre 1 y 5,5 μg/ml, que se asocia a mejor respuesta y evita la toxicidad descrita con concentraciones mayores70.
+
+Posaconazol
+
+Es una alternativa para pacientes en que no es posible utilizar voriconazol. Su mayor evidencia es en profilaxis en pacientes neutropénicos post quimioterapia de LMA o síndrome mielodisplástico evidenciando reducción de EFI, incluso disminución de AI71,72. En terapia, un estudio sobre pacientes intolerantes o refractarios a terapia convencional de AI logró respuesta satisfactoria con posaconazol en 42% de ellos73.
+
+Se encuentra disponible en solución oral y en comprimidos, aunque actualmente esta última no está presente en todos los países. Tiene absorción saturable por lo que la carga no es posible, sus concentraciones plasmáticas alcanzan su estado estable después de una semana. Efectos adversos, se describen similares a otros azoles pero sin las alteraciones visuales descritas para voriconazol67.
+
+Isavuconazol
+
+Se trata del triazol más reciente. Tiene actividad sobre Aspergillus spp. y otros hongos filamentosos. Los resultados del estudio multicéntrico, randomizado, doble ciego demostraron no inferioridad con voriconazol en tratamiento de infección por hongos filamentosos, incluido Aspergillus spp.74. Por el momento no se encuentra disponible en Latinoamérica. Para las guías ECIL y ESCMID-ECMM-ERS, tiene el mismo nivel de recomendación que voriconazol como primera opción para terapia de AI5,6.
+
+Itraconazol
+
+Es el azol con actividad anti filamentosos más antiguo; en la actualidad tiene un lugar menor en la terapia o profilaxis de AI. Uno de los mejores resultados publicados se obtuvo con uso secuencial intravenoso y luego oral durante 12 semanas obteniendo respuesta parcial y completa en 48% de los pacientes en una serie de 31 pacientes en un estudio no comparativo75.
+
+Existe presentación en cápsulas, solución oral y formulación para uso intravenoso. En Chile sólo disponemos de cápsulas, que tienen baja biodisponibilidad. En general, no es bien tolerado por toxicidad gastrointestinal –náuseas y vómitos– que lleva frecuentemente a suspensión de tratamiento. Otros efectos adversos descritos son hepatitis y, con menor frecuencia, inotropismo negativo, por lo que se debe ser muy cauto en su indicación en pacientes con disfunción ventricular. Su uso debería incluir la monitorización de sus concentraciones plasmáticas.
+
+Polienos
+
+Actúan por unión a ergosterol, el principal esterol de la membrana fúngica, generando la formación de canales iónicos que alteran la permeabilidad y llevan a la muerte del hongo. Existen como anfotericina desoxicolato y formulaciones lipídicas: liposomal, complejo lipídico y dispersión coloidal67. Son activas contra la mayoría de las especies de Aspergillus, con excepción de A. terreus que es naturalmente resistente a anfotericina.
+
+Su mayor toxicidad es con la formulación desoxicolato que frecuentemente produce deterioro de la función renal por vasoconstricción de la arteriola glomerular aferente, altercaciones hidroelectrolíticas como hipokalemia e hipomagnesemia, además de fiebre y calofríos asociados a la infusión67. En cambio, con las formulaciones lipídicas el riesgo de toxicidad es significativamente menor, siendo especialmente bajo con la formulación liposomal comparada con dispersión coloidal o complejo lipídico. Sin embargo, un aspecto relevante a considerar es el elevado costo de estas formulaciones lipídicas.
+
+Al agrupar estudios retrospectivos, la mejor respuesta con anfotericina liposomal en infecciones por filamentosos es de 51%76. Se ha explorado obtener mejores resultados en AI con dosis de 10 mg/kg de anfotericina liposomal; no obstante, no se ha logrado demostrar beneficio con dosificaciones superiores a la estándar de 3 mg/kg77. Considerando su efectividad y relativa baja toxicidad, en casos en que no sea posible usar voriconazol o como opción de salvataje, anfotericina liposomal es la primera alternativa; por el contrario, se debe evitar el uso de anfotericina desoxicolato en consideración de su alta toxicidad, en especial en aquellos pacientes con mayor riesgo de nefrotoxidad78. También se ha explorado profilaxis de AI con anfotericina liposomal nebulizada en receptores de trasplante pulmonar con resultados favorables79. Esta opción se encuentra dentro de las recomendaciones para profilaxis en trasplante pulmonar4 y puede considerarse como alternativa en pacientes hamatológicos6.
+
+Equinocandinas
+
+Son compuestos semisintéticos que actúan por inhibición no competitiva de la síntesis de 1,3-β-d-glucano, polisacárido de la pared fúngica que junto a la quitina le dan la forma y resistencia. Actualmente hay tres disponibles: anidulafungina, caspofungina y micafungina, solamente disponibles en formulación iv. Generalmente son bien toleradas, con baja frecuencia de efectos adversos; sólo en algunos pacientes se observa hepatotoxicidad67.
+
+Existe mayor información con el uso de caspofungina en AI que con otras equinocandinas. En un estudio de pacientes hemato-oncológicos con AI que recibieron caspofungina como terapia primaria, la respuesta favorable fue de 33%80; en cambio, en experiencia reportada en infección refractaria o en intolerantes se han publicado resultados favorables de 55,6%81. Pueden presentarse interacciones con el uso de efavirenz, nelfinavir, nevirapina, fenitoina, rifampicina, dexametasona y carbamazepina, fármacos que reducen las concentraciones de caspofungina lo que obliga a subir la dosis del antifúngico.
+
+Por otra parte, micafungina ha sido utilizada en profilaxis de EFI en TPH, demostrando superioridad vs fluconazol2. En un estudio multicéntrico de AI refractaria o intolerantes a terapia, micafungina logró tasas de respuesta favorable de 44%83. Para anidulafungina los datos publicados recientes son en uso combinado con voriconazol (ver más adelante); no hay estudios publicados de uso como monoterapia en AI.
+
+La recomendación es usar caspofungina o micafungina como terapia alternativa en caso de aspergilosis refractaria o intolerantes a terapia con voriconazol, pero en ningún caso usarlas como antifúngico único en terapia primaria4.
+
+Estrategias para la prescripción de antifúngicos
+
+Los antifúngicos se pueden utilizar como objetivo de una profilaxis o con fines terapéuticos según sea la certeza diagnóstica.
+
+Profilaxis primaria
+
+Como se enunciaba más arriba existe evidencia a favor del uso de posaconazol para disminuir EFI en pacientes mayores de 13 años con LMA o síndrome mielodisplásico con neutropenia post quimioterapia71, así como pacientes con enfermedad de injerto contra hospedero tipo II a IV72. Cornely demostró menor frecuencia de AI en pacientes neutropénicos en profilaxis con posaconazol vs fluconazol/itraconazol (1 vs 7%) y menor mortalidad con diferencia estadísticamente significativa71.
+
+Esta estrategia debe considerarse en pacientes de alto riesgo como neutropenia en LMA y también se debe incluir en los protocolos de manejo de prevención de EFI en trasplante pulmonar. La profilaxis de AI puede ser realizada de preferencia con posaconazol en vista de la mejor evidencia disponible; como alternativas considerar voriconazol y micafungina y, con menor grado de evidencia, se podría utilizar anfotericina inhalada.
+
+La decisión de iniciar profilaxis antifúngica debe considerar la frecuencia de AI y los costos asociados. Su incorporación debe incluir un plan de evaluación ante sospecha de EFI y plan de terapia antifúngica para las infecciones fúngicas emergentes que puedan presentarse a pesar del uso de profilaxis junto a una estrategia de vigilancia de desarrollo de resistencia a azoles.
+
+Profilaxis secundaria
+
+Corresponde a la indicación de antifúngicos luego de que se ha completado el tratamiento de la EFI, ante el riesgo de reactivación durante la neutropenia post quimioterapia o trasplante. El beneficio esperable fue adecuadamente evidenciado en el trabajo de Cordonier y cols., quienes en un estudio prospectivo de uso de voriconazol hasta por 150 días como profilaxis secundaria en 45 receptores de TPH alogeneico con EFI previa, diagnosticaron tres episodios de EFI durante el seguimiento hasta un año, ninguno de ellos AI84.
+
+La incorporación de profilaxis secundaria debe tener en cuenta lo señalado en el punto previo en cuanto a enfrentamiento diagnóstico de potenciales casos de EFI emergente, resistencia, costos y toxicidad.
+
+Uso terapéutico
+
+Definiciones. La prescripción por fiebre persistente en un paciente en riesgo de AI es conocida como terapia empírica. Si se indica un antifúngico en base a un diagnóstico presuntivo según resultados de marcadores/imágenes compatibles, se le denomina terapia precoz (del inglés pre-emptive). Finalmente, si la infección fúngica ha sido demostrada se habla de terapia dirigida.
+
+Terapia empírica
+
+Los estudios de Walsh y cols., en NF demostraron que anfotericina liposomal85 y caspofungina86 lograban mejores resultados en una estrategia empírica de uso de antifúngicos en pacientes neutropénicos que persistían febriles, medidos a través de una evaluación compuesta que incluía resolución de la fiebre, ausencia de emergencia de infecciones fúngicas, efectividad sobre infecciones fúngicas presentes al inicio, falta de suspensión prematura por toxicidad y sobrevida a los 7 días. Curiosamente, en el mismo diseño de estudio, voriconazol no logró mejores resultados que anfotericina liposomal87 a pesar de ser conocida su efectividad en AI.
+
+Por lo tanto, existe evidencia de beneficio con el uso de antifúngicos en escenarios de riesgo de AI, pero implica la administración de antifúngicos a pacientes con y sin EFI, agregando costos y riesgos de toxicidad. Adicionalmente, se debe señalar que luego de iniciar terapia antifúngica empírica, los plazos de duración de la terapia son difíciles de establecer, así como tampoco se puede definir la necesidad de profilaxis secundaria en eventos sucesivos de riesgo.
+
+Esta estrategia es posible de plantear para pacientes de alto riesgo de AI en centros en que no es posible realizar vigilancia con biomarcadores e imágenes.
+
+Terapia precoz (del inglés pre-emptive)
+
+Esta estrategia considera el inicio de antifúngicos en la medida que se evidencian elementos diagnósticos de AI, lo que implica la vigilancia de los pacientes con biomarcadores, aislados o en combinación, como GM, BDG y/o RPC de Aspergillus bisemanal y realización de al menos TC de tórax una vez a la semana durante el período de riesgo de AI para la búsqueda activa de evidencias de EFI. En consideración de la mayor experiencia con GM y su mayor disponibilidad, es recomendable implementar la estrategia precoz con este marcador. Es de utilidad contar con un algoritmo decisional que plantee los pasos a seguir en las distintas posibilidades de combinación de resultados de marcadores e imágenes, que incluya el LBA para avanzar en el diagnóstico en casos de imágenes sospechosas y marcadores no concluyentes (Figura 3). En caso de resultados que sugieran AI, la primera elección de antifúngico es voriconazol.
+
+Figura 3 Algoritmo de evaluación de pacientes en riesgo de aspergilosis invasora con monitorización de galactomanano (GM) e imágenes de TAC de tórax. Según resultados se avanza en el proceso diagnóstico incluyendo realización de lavado bronco-alveolar (LBA) que descarta o confirma el diagnóstico según categoría EORTC/MSG con lo que se define la conducta terapéutica. 
+
+Uno de los mayores estudios que ha evidenciado el beneficio de esta estrategia se realizó en pacientes con cánceres hematológicos y documentó que se logra diagnosticar más casos de EFI e iniciar menos tratamientos antifúngicos empíricos, sin aumentar la mortalidad de los pacientes88. Esta estrategia no es adecuada para aquellos pacientes que reciben profilaxis antifúngica con actividad contra filamentosos ya que disminuyen la sensibilidad de los biomarcadores89.
+
+Terapia dirigida
+
+Se refiere al uso de la terapia más adecuada a la infección documentada. En caso de AI, voriconazol es el antifúngico de primera elección. En caso de no ser posible su administración, anfotericina en formulación lipídica es la alternativa adecuada.
+
+En la Tabla 5 se resumen los antifúngicos recomendados, sus dosificaciones y vías de administración.
+
+Asociaciones de antifúngicos en AI. Un estudio reciente comparó el uso de voriconazol más anidulafungina vs voriconazol en monoterapia, observando menor mortalidad a la semana 6 con la asociación, pero sin alcanzar diferencia estadísticamente significativa (19,3 vs 27,5%). Sin embargo, en el subgrupo de pacientes con GM entre 1 y 1,5, sí se logró determinar una significativa menor mortalidad al usar ambos antifúngicos (15,7 vs 27,3%)90.
+
+En base a estos resultados, si bien no se puede generalizar que la terapia asociada para el manejo de AI garantice los mejores resultados, es posible considerar su uso en casos seleccionados.
+
+En la Tabla 6, se presenta un resumen comparativo de las recomendaciones de uso de antifúngicos en las diferentes estrategias según las guías internacionales más recientemente publicadas4–6.
+
+Tabla 6 Comparación de recomendaciones de terapia antifúngica de elección primaria y alternativa de las guías clínicas internacionales tanto para profilaxis como para terapia empírica, precoz o dirigida. Se incluyen sólo las recomendaciones señaladas en categoría fuerte y moderada de recomendación 
+
+*Trasplante pulmonar.
+
+**No existe una recomendación específica para estos tipos de terapia.
+
+Evaluación de la respuesta a terapia antifúngica con biomarcadores
+
+La monitorización de GM se correlaciona con la evolución y el pronóstico de la infección, tanto en pacientes neutropénicos como no neutropénicos. La disminución de GM sérico basal luego de una semana de tratamiento se asocia a mejor pronóstico91, no hay datos categóricos de seguimiento de GM en LBA y su correlación con pronóstico. No hay datos aún que demuestren la utilidad de BDG en el seguimiento de la terapia de AI4.
+
+Duración de la terapia antifúngica
+
+En los estudios publicados no se ha definido adecuadamente cuál es el período óptimo de tratamiento; sin embargo, en las guías internacionales se recomienda considerar terapia antifúngica por al menos 6 a 12 semanas4.
+
+Tal como se señalaba previamente, se debe considerar mantener la terapia antifúngica como profilaxis secundaria si la inmunosupresión se mantiene o incrementa.
+
+Indicaciones de tratamiento quirúrgico y procedimientos especiales
+
+Se debe complementar el tratamiento antifúngico con cirugía en caso de AI pulmonar con lesiones cercanas a grandes vasos o pericardio, lesiones que generan hemoptisis, erosión de pleura y endocarditis. En caso de endocarditis la cirugía debe ser precoz. Se puede considerar cirugía en AI que afecta al SNC, en sinusitis, osteomielitis y compromiso cutáneo. También se puede plantear en ausencia de respuesta a antifúngicos o resección quirúrgica de un nódulo único, previo a TPH o a quimioterapia intensiva a fin de disminuir la carga fúngica y eventual diseminación4.
+
+En el caso de compromiso ocular, se requiere evaluación por oftalmólogo. En endoftalmitis, junto a la terapia sistémica con voriconazol, es posible administrar voriconazol o anfotericina desoxicolato intravitreo; en cambio, en queratitis se recomienda terapia tópica con voriconazol4,92.
+
+Uso de factores estimulantes de colonias y disminución de nivel de inmunosupresión
+
+En la medida que sea posible se debe plantear acortar el período de neutropenia ya sea con uso de factores estimulantes de colonias o transfusiones de granulocitos4, y en usuarios de inmunosupresores, bajar sus dosis a la menor dosis posible que evite el rechazo del órgano trasplantado pero que mejore la reactividad del individuo evitando que la inmunosupresión perpetúe y agrave la AI.
+
+Aspergilosis emergente en pacientes bajo profilaxis con azoles
+
+En pacientes en que se sospecha o confirma AI estando bajo profilaxis con azoles, se debe preferir terapia con anfotericina liposomal; en caso que no sea posible su administración se puede tratar con equinocandinas4.
+
+Es recomendable chequear las concentraciones plasmáticas del azol profiláctico; en caso de estar bajo la concentración considerada útil como profiláctica, es planteable utilizar el mismo azol ajustando la dosis; en estos casos, si se obtiene desarrollo de Aspergillus spp en las muestras clínicas, deberá evaluarse su susceptibilidad in vitro a antifúngicos.
+
+Aspergilosis invasora refractaria
+
+Previo a categorizar un episodio de infección refractaria, es importante confirmar el diagnóstico, descartar co-infecciones bacterianas o fúngicas, constatar concentraciones plasmáticas óptimas de antifúngicos (según disponiblidad) y optimizar la inmunidad; esto incluye resolver la neutropenia con uso de factores estimulantes de colonias o, en casos extremos, considerar la transfusión de granulocitos y disminuir la dosis de inmunosupresores. También se debe tener en cuenta que en el contexto de reconstitución inmune se observe un deterioro en las imágenes por lo que se debe evaluar esta posibilidad antes de catalogar falla de tratamiento93.
+
+Luego de estas consideraciones, en caso de que se concluya que con mayor probabilidad se trate de una infección refractaria, la mejor opción es cambiar el antifúngico privilegiando cambiar por otra familia como polienos o equinocandinas en caso de uso de azoles iniciales o asociar antifúngicos incluyendo al menos un antifúngico nuevo.
+
+Desafíos futuros
+
+Si bien hay claros avances en el enfrentamiento de AI, aún hay diferentes tópicos en los que se requiere progresar, entre ellos un mejor conocimiento de su epidemiología en nuevos grupos de pacientes: receptores de anticuerpos monoclonales y biológicos, pacientes en estados críticos, EPOC avanzado, falla hepática, entre otros. El impacto de cambios climáticos, que incluyen elevación de temperatura, mayor frecuencia de desastres naturales, inundaciones, tsunamis, contaminación e inundaciones, en la medida que se incrementen en el futuro, podría generar un incremento de infecciones incluyendo aspergilosis en diferentes escenarios y tipos de pacientes94.
+
+Otro aspecto que requiere particular atención en el momento actual y su desarrollo en el tiempo es la emergencia de resistencia a azoles en Aspergillus spp. De manera reciente se ha comunicado cifras tan elevadas como hasta 26% de A. fumigatus resistente de los aislados en algunos centros de países europeos95. Los motivos de este incremento de resistencia son probablemente multifactoriales, incluyendo el mayor uso de azoles en humanos como profilaxis o terapia, así como también en la industria agro-alimentaria. Se trata de un aspecto en evolución, con mecanismos moleculares identificados en el gen cyp51A para el cual existe poca información en Latinoamérica y para el que no contamos con datos en Chile.
+
+Indudablemente las mejores estrategias diagnóstica, la incorporación de nuevos exámenes como la detección de compuestos orgánicos volátiles en aire espirado96 o biomarcadores en orina97 y su combinación con los métodos actuales, serán muy esperados en el futuro cercano, así como los resultados en estudios clínicos de nuevos antifúngicos en desarrollo98 que deberían aportar con mayor efectividad al manejo de AI.
+
+Conclusiones
+
+Aspergilosis es la EFI más frecuente en los pacientes inmunocomprometidos. Si bien hay importantes avances en el diagnóstico basado en la mejor caracterización de factores de riesgo, el uso de marcadores serológicos y la mejor interpretación de las imágenes, aún hay espacio para optimizar el diagnóstico en las fases precoces de la infección. Para esto resultan prometedores la incorporación de los factores de riesgo basados en la susceptibilidad genética del hospedero, la optimización de los nuevos métodos diagnósticos como la biología molecular y la incorporación en el futuro cercano de la medición de los productos orgánicos volátiles producidos por Aspergillus spp. Aún es de esperar mayor impacto con estrategias terapéuticas diseñadas de manera especial para grupos de pacientes específicos, incluyendo aquellos con factores de riesgo clásicos por su inmunosupresión, como aquellos aparentemente inmunocompetentes que nos plantean nuevos desafíos. La mayor capacidad diagnóstica y la disponibilidad de las nuevas terapias antifúngicas deberían seguir contribuyendo a mejorar el pronóstico de esta infección; sin embargo, la emergencia de la creciente resistencia a azoles podría disminuir el optimismo frente a este esperado mejor pronóstico.
+
+El presente estudio no tuvo financiamiento directo.
+
+Agradecimientos
+
+A la Red Nacional de Micología Médica, fundada en 2011, que ha motivado este trabajo de revisión, la constante puesta al día en la generación de información epidemiológica nacional y la elaboración de recomendaciones actualizadas de manejo de infecciones fúngicas. A Mabel Aylwin, Teresa Bidart y María Elena Santolaya por su valiosa colaboración en la revisión del manuscrito.
