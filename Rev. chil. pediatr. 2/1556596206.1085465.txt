@@ -1,0 +1,200 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062001000300015
+Curvas estándares de peso al nacimiento para neonatos del Paraguay
+
+
+
+Introducción
+
+
+
+El peso al nacimiento como elemento aislado es el mayor determinante    de la mortalidad neonatal, esto está bien reconocido desde hace muchos    años1-3, también    la mortalidad infantil se ve influenciada por el peso al nacer4;    aun hoy día con el gran desarrollo y la sofisticación en los cuidados    intensivos neonatales, el peso al nacimiento sigue siendo el más importante    determinante en la mortalidad de los RN de muy bajo peso5.  
+
+ Por otro lado, una tabla que relacione el peso con la edad    gestacional al nacer permite clasificar a los RN según los percentilos    en adecuados, grandes (más del percentilo 90) o pequeños (menos    del percentilo 10) para la edad gestacional6. Tanto    los RN grandes como los pequeños son considerados pacientes pertenecientes    a una población de mayor riesgo de morbimortalidad. Entre los RN grandes    para la edad gestacional son más frecuentes los traumatismos fetales,    los trastornos de la regulación de la glicemia y del calcio; mientras    que entre los RN pequeños para la edad gestacional son más frecuentes    la poliglobulia, la hipoglicemia, la asfixia, las infecciones intrauterinas    y las anomalías congénitas. Los índices de mortalidad entre    los RN pequeños para la edad gestacional son cinco a seis veces mayor    que en los neonatos con crecimiento normal a una edad gestacional similar7-9.
+
+Asimismo, cuando se comparan RN del mismo peso, unos adecuados    a la edad gestacional y otros de bajo peso, estos últimos tienen mayor    morbimortalidad, esto dio lugar a la denominación de "seudoprematuro"    para aquellos bebés menores de 2 500 gramos pero cuya edad gestacional    es de 37 semanas o más.
+
+Existen factores que influyen en los estándares de crecimiento    normal como ser el grupo étnico de la madre, la talla y la condición    socioeconómica; otros factores influyentes son el sexo del producto,    el número de orden del embarazo, la altitud sobre el nivel del mar, así    como también el número de fetos (embarazo simple o gemelar)10.
+
+ Las curvas de peso al nacer más difundidas a nivel    mundial probablemente sean las de Lubchenco y colaboradores11    publicadas al inicio de los años 60, realizadas con una población    de origen caucásico que vivía en Denver Colorado a 1 650    metros sobre el nivel del mar. Luego se realizaron otras curvas de peso al nacer    como las curvas de Parazzini12 en Italia, las tablas    de peso de Lejarraga13 en Buenos Aires y muchas    otras más en diferentes regiones del mundo.
+
+ Compartimos con Baraibar14 la    idea de que es indispensable disponer de curvas propias para cada población    regional, divididas según sexo, de tal modo de no tener que extrapolar    los valores hallados en poblaciones y regiones diferentes.
+
+No conocemos de trabajos similares realizados en nuestro medio    por lo que el objetivo del presente es ofrecer unas curvas de peso al nacer    según edad gestacional estándar para la población de nuestro    país.
+
+
+
+Materiales y métodos
+
+
+
+Los datos fueron obtenidos retrospectivamente de la Oficina    de Bioestadística del Ministerio de Salud Pública, correspondiente    a 5 años, desde 1991 a 1995, de hospitales públicos de la República    que utilizan la base de datos del Centro Latino Americano de Perinatología    (CLAP).
+
+Se incluyeron en la confección de las tablas todos los    RN vivos, sin excluir malformados, partos múltiples, hijos de madres    fumadoras, ni productos de embarazos patológicos o partos complicados.
+
+El "peso al nacer" se consideró la definición    dada por la Organización Panamericana de la Salud en la Décima    Clasificación Internacional de las Enfermedades que dice: "es la    primera medida del peso del recién nacido hecha después del nacimiento,    desnudo y con el cordón umbilical cortado, debe ser medido preferiblemente    dentro de la primera hora de vida"15.
+
+ El cálculo de la edad gestacional se basó en    la fecha de la última menstruación, y cuando esta no era confiable    se utilizó el método de Capurro16,    se ingresaron los datos en bruto desde las 27 semanas hasta las 44 semanas,    lo cual permitió obtener los valores calculados para las semanas 28,5    a 42,5.
+
+Se agruparon los casos por semanas gestacionales y en los siguientes    percentiles 5°, 10°, 25°, 50°, 75° y 90°, se elaboraron tres tablas, una sobre    la población general, otra para recién nacidos masculinos y otra    para los de sexo femenino.
+
+En la elaboración de las mismas se aplicó la    siguiente metodología: en primer lugar, se ingresaron los datos en tablas    Excel 97 de Microsof ® desde las 27 a 44 semanas y a partir del percentil    5 al 90 (P. 5 - P. 90). Se eligió este límite de edad gestacional    debido a la frecuencia baja de casos correspondientes a semanas inferiores y    a la amplia potencialidad de la variabilidad casual que esto determinaría.    Los valores obtenidos para la semana 27 así como para la 44 serán    solo utilizados para realizar los cálculos para semanas siguientes y    precedentes.
+
+Con dichos datos se calcularon los percentiles smoothed    o de medias móviles. Este cálculo permite reducir la variabilidad    casual de los datos en bruto. Se lo obtiene utilizando la media ponderada de    los datos brutos de tres semanas contiguas (es decir, aquel para el cual viene    calculado, el anterior y el siguiente), el "peso" dado a cada uno    de estos valores es el producto del mismo por la frecuencia de la muestra para    dicha semana y por un coeficiente binomial (es decir 1, 2 y 1 respectivamente    para cada una de las tres semanas).
+
+En la introducción de historias clínicas a la    base de datos CLAP, se considera como de una cierta semana a todos aquellos    fetos nacidos desde el primer día de la misma hasta el día 6 de    esta semana (ej.: se considera como de 36 semanas a aquellos fetos nacidos entre    las 36 semanas y 0 día así como también a aquellos de 36    semanas y 6 días), teniendo presente esto, se evidencia que el valor    así obtenido representa con más exactitud al correspondiente al    de su respectiva semana y media (ejemplo: el valor asignado a 36 semanas refleja    mejor el correspondiente a 36 semanas y media) y por lo tanto se los ha considerado    como tales. Se obtuvieron los valores para cada semana gestacional entera (ejemplo:    36 semanas 0 día, 37 semanas 0 día, etc.) hallando la media de    2 semanas contiguas (por ejemplo, la suma de los valores calculados para las    semanas 36,5 y 37,5 dividido 2 para obtener el valor de 37).
+
+Se procedió finalmente a eliminar los decimales redondeando    al número entero siguiente cuando sobrepasaba a 0.5. Con los datos obtenidos    se elaboraron curvas de peso utilizando el software Excel 97 de Microsof®.
+
+
+
+Resultados
+
+
+
+Se obtuvo un total de 91.077 registros de peso al nacimiento    en el período de 5 años, desde el 1 de enero de 1991 hasta el    31 de diciembre de 1995, corresponden al sexo masculino 46.825 y al sexo femenino    44.252 registros.
+
+Una vez obtenidos los valores calculados para las edades gestacionales    en semanas 28,5 a 42,5 en intervalos de media semana, se agruparon los pesos    de nacimientos en gramos de acuerdo a las edades gestacionales y a los percentilos    5°, 10°, 25°, 50°, 75° y 90° con lo que se elaboraron las siguientes tablas:    tabla 1: muestra los valores de peso en gramos al nacimiento    para 46.825 RN de sexo masculino; tabla 2: muestra los valores    de peso al nacimiento para 44.252 RN de sexo femenino y la tabla    3 muestra los valores de peso en gramos al nacimiento para 91.077 RN de    ambos sexos.
+
+
+
+Tabla 1
+
+Pesos al nacer: sexo masculino
+
+Edad gestacional     en semana  
+
+Percentiles 
+
+5 
+
+10 
+
+25 
+
+50 
+
+75 
+
+90 
+
+ 28,5             29             29,5             30             30,5             31             31,5             32             32,5             33             33,5             34             34,5             35             35,5             36             36,5             37             37,5             38             38,5             39             39,5             40             40,5             41             41,5             42             42,5 
+
+825             869             912             950             988             1 016             1 045             1 128             1 212             1 350             1 488             1 595             1 702             1 805             1 908             2 035             2 161             2 299             2 437             2 530             2 622             2 675             2 727             2 761             2 795             2 816             2 838             2 849             2 860 
+
+905               979               1 053               1 106               1 158               1 203               1 248               1 342               1 437               1 563               1 689               1 792               1 895               2 006               2 116               2 244               2 372               2 499               2 626               2 715               2 804               2 860               2 916               2 949               2 982               3 000               3 017               3 024               3 030 
+
+1 135             1 214             1 293             1 370             1 447             1 506             1 564             1 648             1 732             1 851             1 970             2 072             2 175             2 289             2 403             2 534             2 665             2 787             2 910             2 993             3 076             3 127             3 179             3 212             3 245             3 266             3 286             3 294             3 302 
+
+1 391               1 492               1 593               1 698               1 803               1 871               1 939               2 005               2 071               2 184               2 297               2 411               2 524               2 637               2 750               2 870               2 990               3 102               3 214               3 293               3 372               3 422               3 473               3 505               3 537               3 559               3 582               3 600               3 618
+
+2 019                 2 138                 2 256                 2 398                 2 539                 2 592                 2 645                 2 688                 2 731                 2 803                 2 875                 2 940                 3 004                 3 077                 3 150                 3 244                 3 338                 3 435                 3 533                 3 604                 3 676                 3 727                 3 777                 3 814                 3 850                 3 878                 3 907                 3 932                 3 958
+
+2 834               2 880               2 926               3 058               3 190               3 218               3 247               3 251               3 255               3 295               3 335               3 383               3 432               3 493               3 555               3 621               3 686               3 763               3 840               3 908               3 976               4 026               4 077               4 114               4 150               4 182               4 213               4 246               4 279
+
+Número total de casos: 46.825 recién nacidos.
+
+Con los valores de las tablas precedentes se construyeron las    siguientes curvas de peso: figura 1: muestra las curvas de los percentilos 5°,    10°, 25°, 50°, 75° y 90° para las edades gestacionales de 28,5 a 42,5 de los    RN de sexo masculino; figura 2: muestra las curvas de los percentilos 5°, 10°,    25°, 50°, 75° y 90° para las edades gestacionales de 28,5 a 42,5 de los RN de    sexo femenino y la figura 3: muestra los mismos percentilos y edades gestacionales    para ambos sexos.
+
+El peso mediano al nacimiento fue constantemente superior en    los RN de sexo masculino con relación a los de sexo femenino (3,5% o    más) así por ejemplo, la suma del peso al nacimiento para el percentil    50 en los RN de sexo masculino a las 40 semanas fue de 84.855 gramos y en los    de sexo femenino fue de 81.946 gramos.
+
+
+
+Tabla 2
+
+Pesos al nacer: sexo femenino
+
+Edad gestacional     en semana 
+
+Percentiles 
+
+Pc 5% 
+
+Pc 10% 
+
+Pc 25% 
+
+Pc 50% 
+
+Pc 75% 
+
+Pc 90% 
+
+ 28,5             29             29,5             30             30,5             31             31,5             32             32,5             33             33,5             34             34,5             35             35,5             36             36,5             37             37,5             38             38,5             39             39,5             40             40,5             41             41,5             42             42,5
+
+651               700               748               804               859               892               924               989               1 055               1 160               1 265               1 368               1 472               1 566               1 659               1 781               1 903               2 039               2 176               2 266               2 356               2 407               2 457               2 490               2 523               2 546               2 569               2 580               2 590
+
+922               991               1 060               1 104               1 149               1 193               1 238               1 295               1 351               1 439               1 527               1 647               1 768               1 905               2 042               2 165               2 289               2 409               2 529               2 613               2 697               2 745               2 793               2 822               2 852               2 870               2 888               2 896               2 903
+
+1 039               1 134               1 229               1 319               1 410               1 485               1 560               1 614               1 668               1 755               1 842               1 967               2 093               2 227               2 361               2 472               2 582               2 691               2 800               2 880               2 960               3 007               3 053               3 082               3 110               3 127               3 144               3 154               3 164
+
+1 303               1 402               1 502               1 609               1 716               1 802               1 888               1 944               2 001               2 104               2 208               2 329               2 450               2 574               2 698               2 803               2 909               3 004               3 100               3 171               3 242               3 290               3 337               3 371               3 404               3 429               3 453               3 470               3 486 
+
+1 805               2 020               2 234               2 410               2 587               2 573               2 560               2 533               2 506               2 604               2 701               2 813               2 924               3 012               3 100               3 176               3 252               3 330               3 407               3 471               3 535               3 581               3 628               3 663               3 699               3 728               3 756               3 780               3 804
+
+2 449               2 644               2 839               3 017               3 196               3 202               3 208               3 161               3 115               3 156               3 197               3 273               3 349               3 417               3 485               3 545               3 604               3 667               3 731               3 782               3 833               3 875               3 917               3 955               3 992               4 026               4 059               4 087               4 115
+
+Número total de casos: 44.252 recién nacidos.
+
+Tabla 3
+
+Pesos al nacer: ambos sexos
+
+Edad gestacional     en semana 
+
+Percentiles 
+
+5 
+
+10 
+
+25 
+
+50 
+
+75 
+
+90 
+
+	28,5             29             29,5             30             30,5             31             31,5             32             32,5             33             33,5             34             34,5             35             35,5             36             36,5             37             37,5             38             38,5             39             39,5             40             40,5             41             41,5             42             42,5 
+
+798             851             904             944             984             1 016             1 049             1 111             1 172             1 283             1 395             1 519             1 643             1 765             1 886             2 011             2 136             2 265             2 393             2 481             2 568             2 618             2 668             2 699             2 730             2 750             2 770             2 778             2 787
+
+913             985             1 057             1 106             1 154             1 201             1 248             1 319             1 390             1 491             1 591             1 712             1 833             1 958             2 084             2 205             2 237             2 451             2 574             2 660             2 746             2 797             2 847             2 878             2 909             2 926             2 944             2 951             2 958
+
+1 084               1 174               1 264               1 346               1 429               1 495               1 561               1 632               1 702               1 805               1 908               2 023               2 137               2 260               2 384               2 505               2 627               2 744               2 861               2 941               3 020               3 068               3 116               3 147               3 178               3 197               3 217               3 224               3 231
+
+1 352               1 454               1 555               1 664               1 773               1 849               1 924               1 987               2 049               2 156               2 263               2 377               2 490               2 607               2 724               2 839               2 953               3 058               3 163               3 237               3 311               3 360               3 408               3 441               3 474               3 496               3 519               3 534               3 549
+
+1 942               2 101               2 261               2 414               2 567               2 586               2 605               2 611               2 617               2 702               2 787               2 876               2 965               3 045               3 126               3 213               3 301               3 391               3 482               3 549               3 616               3 663               3 710               3 746               3 781               3 809               3 837               3 861               3 884
+
+2 661               2 781               2 901               3 050               3 198               3 218               3 237               3 218               3 199               3 232               3 265               3 327               3 390               3 458               3 526               3 588               3 650               3 720               3 790               3 852               3 914               3 962               4 009               4 046               4 083               4 115               4 148               4 180               4 21 
+
+Número total de casos: 91.077 recién nacidos.
+
+
+
+Comentarios
+
+
+
+Disponer de curvas de peso al nacimiento procedente de la misma    población con la que estamos trabajando diariamente representa un importante    instrumento tanto para el neonatólogo como para el obstetra. Considerando    lo anterior hemos elaborado las curvas de peso al nacimiento incluyendo los    nacidos vivos en nuestro país. Merece particular atención la inflexión    que presentan las curvas entre las semanas 31 y 32 para los percentilos más    altos (75 y 90). Esta característica se evidencia también en las    tablas presentadas por Parazzini y colaboradores, en las cuales se evidencia    dicho fenómeno en las semanas 30-31. Estos autores atribuyeron el fenómeno    a eventual falla al consignar los pesos al nacimiento relacionando 3 000    gramos con 30 semanas. Sin embargo, nuestros resultados, en una población    completamente distinta, hace pensar que pueda ser una característica    normal de las curvas y cuya causa merecería una mayor profundización.
+
+Consideramos honesto discutir las limitaciones del estudio,    si bien parecería que los datos utilizados son fáciles de obtener    y prácticamente imposible de no ser completados en los módulos,    observamos que un problema importante se presenta en la introducción    de los mismos a la base de datos, esto se evidencia fácilmente analizando    los datos obtenidos en bruto, los datos para edades gestacionales bajas, dan    cifras que prácticamente no corresponden a dichas semanas gestacionales    (ejemplo: el valor del percentilo 90 para la semana 26 en la tabla general es    de 2 135 gramos). Este problema desaparece para las edades gestacionales    más avanzadas por lo tanto consideramos que los valores presentados resultan    confiables y representativos de nuestra población teniendo en cuenta    además el gran número de pacientes incluidos y el hecho de que    se utilizan medidas no paramétricas, lo que tiende a balancear o al menos    darle un peso menor a datos incorrectos.
+
+Consideramos que los datos de estas tablas puedan ser mejorados    con la inclusión de más casos y la selección de los mismos,    excluyendo RN con antecedentes patológicos, para esto será necesaria    la confección de protocolos de trabajo multicéntricos y de muchos    años de recolección de datos. No obstante destacamos el hecho    de haber realizado pruebas piloto con nuestros datos excluyendo por ejemplo    los hijos de madres hipertensas y no observamos diferencias en los datos, esto    puede ser debido al número extenso de pacientes incluidos.
+
+Esperamos que estas tablas puedan constituirse en un útil    instrumento de trabajo que ayude a definir mejor el pronóstico neonatal,    de manera particular para los fetos pequeños para la edad gestacional,    ya que en la práctica clínica diaria nos llama la atención    observar pacientes con aspecto físico de retardo de crecimiento intrauterino    que al ser clasificados con la tabla de Lubchenco resultan "adecuados a    edad gestacional".
+
+A lo largo del tiempo aparecieron varias posturas como la de    Usher y Mc Lean7 quienes proponían que deberían ser definidos    como fetos con crecimiento normal, aquellos comprendidos dentro de las +    2 desviaciones estándares. Esta metodología definiría como    pequeños para la edad gestacional a solo un 3% de los neonatos y no al    10%. Además, los valores promedios para cada una de las curvas no serían    los más frecuentemente encontrados por el peso que ejercen los valores    mayores sobre la media aritmética para cada edad gestacional.
+
+Recomendamos la realización de estudios posteriores    que comparen la clasificación de los RN de nuestro país utilizando    las tablas tradicionales y las que ahora presentamos, para descubrir si hay    diferencias en el porcentaje de RN de bajo peso para la edad gestacional y cuantificar    los valores de estas diferencias (tablas y gráficos    l, 2, y 3).
+
+  
+
+   
+
+
+
+
+
+   

@@ -1,0 +1,246 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000400477
+Sobrevida de pacientes con distrofia muscular de Duchenne
+
+ARTÍCULO ORIGINAL
+
+Sobrevida de pacientes con distrofia muscular de Duchenne
+
+Pamela San Martín P.A 
+
+			B 
+
+			
+
+Fresia Solis F.A 
+
+			C 
+
+			
+
+Gabriel Cavada Ch.D 
+
+			
+
+A Dirección de Investigación y Desarrollo. Teletón-Chile.
+
+B Vicedecanato de Investigación y Postgrado. Facultad de Medicina. Universidad de los Andes-Chile.
+
+C Departamento de Extensión, Docencia e Investigación COANIQUEM-Chile.
+
+D Programa de Epidemiología. Escuela de Salud Pública, Facultad de Medicina. Universidad de Chile, Chile.
+
+
+
+
+
+Resumen:
+
+Introducción: 
+
+La distrofia muscular de Duchenne (DMD) conduce a un deterioro progresivo de la función muscular y muerte prematura. Los estudios longitudinales sobre el curso de esta patología en Chile, son nulos.
+
+Objetivo: 
+
+Determinar sobrevida entre los años 1993-2013, en 2 periodos (1993 2002 y 2003-2013); y efecto de determinantes sociales en pacientes con DMD ingresados a Institutos Teletón Chile (IT).
+
+Pacientes y Método: 
+
+Estudio pronóstico de seguimiento en serie clínica de 462 pacientes portadores de DMD. La información requerida se obtuvo mediante búsqueda de pacientes con DMD en cubo OLAP (On-Line Analytical Processing). De las fichas clínicas del IT-Stgo, se regis traron las variables correspondientes al método diagnóstico, etapa de DMD descrito en función al deterioro muscular y funcionamiento mediante Escala Swinyard; existencia y tipo de exámenes que concluyen el diagnóstico y en los casos que se informó, la existencia de antecedentes familiares. Se realizó análisis de sobrevida de Kaplan Meier, donde la sobrevida global se definió entre el nacimiento y edad de muerte. Los factores determinantes analizados fueron estimados a través del modelo de riesgos proporcionales de Cox-Snell.
+
+Resultados: 
+
+La sobrevida a los 20 años de edad desde el ingreso a los IT, fue de 51,7% (IC95%: 45,1-57,8%); en el período 1993-2002 de 48,5% y entre 2003-2013 de 72,8%. El porcentaje de sobrevida a la misma edad, según nivel socioeconómico alto fue de 82%, medio 67% y bajo 42%, diferencia estadísticamente significativa entre nivel alto y medio, respecto de extrema pobreza. Según zonas del país, la sobrevida fue cercana al 75% a los 17 años de edad.
+
+Con clusiones: 
+
+La información de sobrevida aportada en pacientes con DMD desde la infancia hasta la vida adulta, es valiosa para predecir el curso clínico de la enfermedad con la atención médica actual. Se evidencia mejoría en la probabilidad de sobrevida a los 20 años e inequidad pronunciada según variable socioeconómica.
+
+Palabras clave: Distrofia muscular de Duchenne; enfermedad neuromuscular; sobrevida; Escala Swinyard
+
+Introducción
+
+La distrofia muscular de Duchenne (DMD), en fermedad ligada al cromosoma X, afecta a 1 entre 3.600-6.000 nacidos vivos hombres1, como resultado de mutaciones en el gen de la distrofina (DMD; lo cus Xp21.2), conduciendo a la ausencia o defecto en la proteína distrofina citoesquelética en ambas fibras musculares esqueléticas y cardíacas2, con degeneración muscular progresiva3,4.
+
+Esta enfermedad en general, diagnosticada clínica mente cerca de los 5 años de edad, conduce a la pérdida de la marcha y dependencia de silla de ruedas alrede dor de los 12 años, y muerte por insuficiencia respira toria o cardiaca antes de los 20 años5 sin intervención terapéutica1 y aproximadamente a los 30 años de edad, en sujetos sometidos a intervención temprana6.
+
+El diagnóstico de la DMD se realiza sobre la base del examen físico, antecedentes familiares, pruebas de laboratorio (niveles de creatinkinasa más de 100 a 200 veces el valor normal) y confirmación genética7,10.
+
+En revisión sistemática de 201411, se reportó una tasa de prevalencia de DMD en varones de todas las edades de 8,29 [6,90-9,88] (por 100.000) en Inglate rra y en menores de 19 años de 9,81 [7,52-12,58] (por 100.000) en China. Para Chile, la tasa de DMD en cohorte de varones menores de 30 años, fue de 11,51 [10,46-12,56] (por 100.000)12.
+
+La tasa de prevalencia informa de la magnitud global de la DMD en una fecha determinada o en un período de tiempo, donde la evolución natural de la enfermedad puede haber sido intervenida por el cam bio de tratamientos debido al avance de la medicina y la tecnología; se ha demostrado que los pacientes se benefician de medicación con corticosteroides, fisiote rapia, cirugía espinal y ventilación no invasiva (VNI)13.
+
+Un análisis de sobrevida, involucra estudiar la va riable “tiempo hasta que ocurre un evento” y su dependencia de otras posibles variables explicativas. En la literatura internacional, se encuentran 4 estudios de esta naturaleza: en el Reino Unido año 2002, donde se registró cambio de la edad promedio de muerte de 14,4 años para 1960 a 25,3 años en 1990, en pacientes con ventilación6. En Suiza año 2009, la edad promedio de los pacientes que perdieron su deambulación fue de 9,4 ± 2,4 años, pasando a depender de una silla de rue das eléctrica a los 14,6 ± 4,0 años. La edad de inicio de la ventilación asistida fue 19,8 ± 3,9 años y la mediana de supervivencia de 35 años14. En Alemania año 2012, la probabilidad de sobrevivir hasta la edad de 24 años fue del 0,67 (67%) para los pacientes con diagnóstico clínico solamente y, la probabilidad de llegar a 24 años fue de 0,5 (50%) para los sujetos diagnosticados con DMD en un nivel molecular15. En Nápoles año 2012, en una cohorte de 835 pacientes con DMD, conside rando la edad de 20 años, la tasa de supervivencia a 10 años de seguimiento, pasó del 23,3% en pacientes nacidos entre 1961 y 1970, al 54% para los pacientes nacidos entre 1971 y 1980 y de 59,8% en los pacientes nacidos entre 1981 y 199016.
+
+En literatura chilena no se encontraron estudios de sobrevida en DMD a la fecha. Institutos Teletón Chile (IT) tiene la ventaja de concentrar aproximadamente el 85% de atenciones de niños y jóvenes con enfermedades neuro-músculo-esqueléticas del país, constitu yéndose en fuente primaria de registro17. El objetivo de este trabajo, es determinar sobrevida entre 1993-2013 y períodos 1993-2002 y 2003-2013; y efecto de determi nantes sociales en pacientes con DMD ingresados a IT. El conocimiento de curvas de sobrevida y por determi nantes específicos, permitirá reorientar el tratamiento, la prescripción y entrega de ayudas técnicas.
+
+Pacientes y Método
+
+Estudio pronóstico de seguimiento en serie clínica (18). Cohorte constituida por 462 pacientes portado res de DMD, ingresados en los IT, entre los años 1993 y 2013.
+
+Obtención de datos
+
+La información requerida se obtuvo mediante bús queda de pacientes con DMD en cubo OLAP (On-Line Analytical Processing) que contiene información resu mida de grandes bases de datos pertenecientes al área informática de Teletón Chile y mediante revisión de fi chas clínicas para Instituto Teletón Santiago (IT-Stgo).
+
+Las variables recolectadas desde cubo OLAP fue ron: IT de atención, fecha de nacimiento, nivel socioeconómico, que fue categorizado según antecedentes entregados por la familia del paciente en una entrevis ta con el servicio social; compromiso funcional deter minado de acuerdo al desempeño funcional (activida des de la vida diaria y a la presencia o no de marcha independiente observada en primera consulta), fecha de ingreso o primera consulta, fecha última atención del año 2013, fecha última atención fisiátrica del año 2013, fecha de indicación de ayuda técnica, fecha de entrega de ayuda técnica, tipo de ayuda técnica, estado dentro de la institución, causal de estado y fecha de defunción. Esta última variable se complementó con consulta realizada al Registro Civil de Chile, en todos aquellos pacientes que informaron el fallecimiento como causal de estado pasivo. La consulta se extendió a todos los pacientes activos dentro de los IT, para verificar la posibilidad de encontrar un mayor número de fallecimientos que no habían sido informados a los IT. Se consideraron los fallecimientos al 30 de junio de 2014.
+
+De las fichas clínicas del IT-Stgo, se registraron las variables correspondientes al método diagnóstico, eta pa de DMD descrito en función al deterioro muscular y funcionamiento mediante Escala 
+
+
+
+Swinyard(
+
+
+
+19
+
+,
+
+20
+
+
+
+);
+
+
+
+ exis tencia y tipo de exámenes que concluyen el diagnóstico y en los casos que se informó, la existencia de antece dentes familiares.
+
+Consideraciones éticas
+
+El estudio fue autorizado por el Comité Ético Científico de la Sociedad Pro Ayuda del Niño Lisiado (CEC), considerando la declaración de Helsinki y las regulaciones sobre el uso de fichas clínicas. (Certifica do N° 24/2014).
+
+Análisis estadístico
+
+La base de datos en planilla Excel, se procesó con software estadísticos SPSS versión 17.0 y Stata 14. Se calcularon edades promedio, mediana, desviación es tándar y recorrido intercuartílico para las variables: ingreso a los IT y defunción. Para el análisis de sobre vida, se realizó exploración de la distribución de probabilidad del tiempo de sobrevida de los pacientes con DMD, y se evaluó la calidad de ajuste según residuos de Cox-Snell21. La sobrevida global, se definió como el intervalo de tiempo entre el nacimiento y la muer te (edad de muerte). El análisis de sobrevida se realizó mediante el método de Kaplan-Meier22.
+
+Para evaluar los determinantes sociales que expli caran el riesgo de morir en un momento determina do, se realizaron estimaciones paramétricas ajustadas a través del modelo de riesgos proporcionales bajo el supuesto de la distribución de Weibull21,24 .
+
+Resultado
+
+Características sociodemográficas y clínicas
+
+La edad de primera consulta en IT se concentró en los grupos menores de 5 años (34,2%) y de 5-9 años (51,9%), situándose las edades promedio y mediana a los 6 años, edad que ha ido en descenso; para el período 2003-2013, fue de 6,1 años [IC95%: 5,7-6,5]. El 76% de los pacientes pertenecía al nivel socioeconómico de extrema pobreza o nivel medio bajo. La primera con sulta a IT para el nivel de extrema pobreza, se produjo un año más tardío que en los otros grupos de niveles socioeconómicos. El área centro del país, concentró el 55,2% de los pacientes, correspondiendo a los IT de Valparaíso, Santiago y Talca (Tabla 1).
+
+
+
+
+
+Tabla 1 Características sociodemográficas de pacientes ingresa dos a IT Chile, Período 1993-2013. 
+
+
+
+
+
+
+
+Tabla 1 Características sociodemográficas de pacientes ingresa dos a IT Chile, Período 1993-2013. 
+
+Del total de pacientes, el 29,7% presentó un com promiso funcional severo o grave; dos tercios, tenían indicación de silla de ruedas a una edad promedio de 10,9 ± 3,3 años. 64,1% de los pacientes sobrevivían al término del estudio; 50,6% de los decesos se produ jo entre los 16 y 20 años, con una edad promedio de 18,1 ± 3,5 años.
+
+En el período 1993-2002, el 56,6% de los pacien tes ingresados presentó compromiso funcional leve a moderado y para el período 2003-2013 fue de 75,7%. Según edad de prescripción de silla de ruedas el 20,4% de las indicaciones fue otorgada entre los 8 y 11 años de edad para el período 1993-2002, mientras que para el período 2003-2013 fue de un 36,8%. La edad de defun ción promedio para los ingresados en el período 1993 2002 fue de 18,3 ± 3,5 años y para el período 2003 2013, fue de 16,3 ± 1,9 años de edad (Tabla 2).
+
+
+
+
+
+Tabla 2 Características clínicas de pacientes ingresados a IT Chile, Período 1993 - 2013. 
+
+
+
+
+
+
+
+Tabla 2 Características clínicas de pacientes ingresados a IT Chile, Período 1993 - 2013. 
+
+El 86% de los pacientes ingresados al IT-Santiago, tenían diagnóstico clínico efectuado por médico ex terno, con exámenes complementarios como: creatina quinasa (87%), biopsia de músculo (62%), electromiografía (43%) y estudio genético (19%); un 32% de ellos registra información con respecto a tener antecedentes familiares con similar diagnóstico12.
+
+Análisis de sobrevida global y períodos
+
+El tiempo de exposición al riesgo para todo el pe ríodo, fue de 7.373,7 días, lo que se tradujo en un promedio de sobrevida global de 15,9 ± 5,3 años (rango: 2,7-31,6 años). La mediana fue 16,4 años, es decir, el tiempo en que el 50% de los sujetos con DMD per manecieron con vida o fallecieron. La probabilidad de sobrevivir a los 20 años en todo el periodo estudiado fue de 51,7% (Figura 1).
+
+
+
+
+
+Figura 1 Sobrevida de pacientes con DMD Ingresados a IT. Período 1993 a 2013. 
+
+
+
+
+
+Figura 1 Sobrevida de pacientes con DMD Ingresados a IT. Período 1993 a 2013. 
+
+Según período de ingreso a los IT, el tiempo de exposición al riesgo para el primer grupo (años 1993-2002) fue de 4.661,9 días, significando un promedio de sobrevida global de 19,1 ± 3,8 años (rango: 10,6-31,6 años). A los 16,9 años de edad sobrevivía el 25%. Para el segundo grupo (2003-2013), el tiempo de exposición al riesgo fue de 2.711,8 días, lo que se tradujo en un promedio de sobrevida global de 12,4 ± 4,3 años (ran go; 2,7-24 años). A la edad de 17,9 años sobrevivía el 25%.
+
+La probabilidad de sobrevida a los 20 años de edad, fue de 48,5% para los ingresados en el período 1993 2002, mientras que para el grupo ingresado en el pe ríodo 2003-2013, la probabilidad de sobrevida a los mismos 20 años fue de 72,8% (Figura 2).
+
+
+
+
+
+Figura 2 Sobrevida de pacientes con DMD ingresados a IT. Períodos 1993 -2002 y 2003-2013. 
+
+
+
+
+
+Figura 2 Sobrevida de pacientes con DMD ingresados a IT. Períodos 1993 -2002 y 2003-2013. 
+
+Se encontraron diferencias estadísticamente signi ficativas en la edad de sobrevida para ambos grupos según período de ingreso a los IT (p < 0,05).
+
+Análisis de sobrevida por determinantes
+
+La mediana de sobrevida global, según nivel socioe conómico alto, medio y extrema pobreza fue de 22,7; 23,3 y 19,0 años respectivamente. A los 20 años, la pro babilidad de sobrevivir según nivel socioeconómico fue de 82%, 67% y 42%, respectivamente.
+
+En la (Figura 3) se visualiza que, para los distintos niveles socioeconómicos, la probabilidad de sobrevida fue similar hasta los 10 años, luego las curvas se dife renciaron considerablemente. Esta diferencia fue estadísticamente significativa entre los grupos de nivel so cioeconómico alto y extrema pobreza (p < 0,05) y entre nivel medio y extrema pobreza (p < 0,05), no siendo significativo entre el nivel alto y medio (p > 0,05).
+
+
+
+
+
+Figura 3 Sobrevida de pacientes con DMD ingresados a IT por nivel socioe conómico. 
+
+
+
+
+
+Figura 3 Sobrevida de pacientes con DMD ingresados a IT por nivel socioe conómico. 
+
+La mediana de sobrevida global, según ubicación geográfica de los IT, fue de 20,4, 20,8 y 18,6 años de edad para la zona norte, centro y sur. Los tres grupos presentaron una probabilidad de sobrevida cercana al 75% para los 17 años de edad. No se encontraron dife rencias significativas en la sobrevida, según ubicación geográfica de los IT (p > 0,05).
+
+Discusión
+
+La distrofia muscular de Duchenne, se considera como una enfermedad que tiende al deterioro progre sivo y finalmente a la muerte2. A nivel internacional, se han publicado muy pocos estudios acerca de la so brevida en DMD, los más actualizados se centran en el impacto de la ventilación nocturna, lo que no posibili ta la comparación con nuestro estudio6,14,16, dado que, en Teletón, la variable uso de ventilación no invasiva, se registra en ficha clínica a partir del año 2012, debido a que es un tratamiento que se entrega en otras instituciones.
+
+En nuestro país no existen estudios de sobrevida en DMD, constituyendo este trabajo el primero. Globalmente se obtuvo que el 50,7% de los pacientes in gresados con DMD sobrevivía a los 20 años y el 11,7% a los 31 años de seguimiento; además, se evidenció una mejoría de 50 % en la sobrevida a los 20 años de edad, aumentando de 48,5% en el período 1993-2002, a 72,8% en el período 2003-2013, variación significa tiva. Como las defunciones fueron respaldadas con la verificación y búsqueda de muertes por DMD en el Registro Civil del país, se puede considerar un aumen to confiable.
+
+Consideramos la edad de ingreso a la institución como estimador de la edad de diagnóstico; en este estudio, la edad promedio de ingreso fue de 6,1 (5,7-6,5) para el segundo período evidenciando una ganancia de un año respecto del primer periodo. Sin embargo, los estudios más actuales informan que la edad de diagnóstico es aproximadamente a los 4 años15,25. A pesar que la sospecha clínica de la enfermedad puede ser evidente, en nuestro país la demora en la confirmación del diagnóstico clínico26, podría atribuirse a la tardanza en la derivación desde el nivel primario a los hospitales y posteriormente a los IT.
+
+En la comparación de la edad promedio de la de función por DMD, podría parecer contradictorio que ésta fuera levemente menor en el segundo período, lo que se explica por la cuantía del número de muertes de 153 en el primer período y 13 en el segundo.
+
+Consideramos la edad de prescripción de silla de ruedas como indicador de la edad de pérdida de la deambulación. Rall y Grim15 encontraron que la edad media de inicio del uso de silla de ruedas fue a los 10 años, similar a la cifra encontrada en este estudio.
+
+Los determinantes sociales de salud, establecidos por OMS como” las condiciones en las que la gente nace, vive, trabaja y envejece”, influyen en las posicio nes sociales de los individuos y constituyen las causas principales de las inequidades de salud27.
+
+Las probabilidades de sobrevida a los 20 años de los niveles socioeconómicos alto y medio, versus ex trema pobreza de 82% y 42% respectivamente, hablan por sí sólo que este mecanismo estructural configura en gran medida el estado de salud de éstos enfermos, produciendo una brecha de prácticamente el doble en el progreso de la patología. Desde el punto de vista de la salud pública, proporcionar estas cifras es un alicien te para aumentar las intervenciones de apoyo para los pacientes y sus familias.
+
+El área geográfica no produce diferencias significa tivas en la edad de sobrevida, lo que respaldaría que los tratamientos e indicaciones médicas siguen un proto colo similar en los IT en conjunto con las otras instituciones que proveen el apoyo en fase de compromiso respiratorio severo.
+
+Con el avance de la medicina y concordando con Passamano16, se deja de manifiesto que la DMD no es exclusivamente una patología infantil, puesto que se ha convertido en una enfermedad de adultos, que necesita intervenciones de las autoridades de salud a favor de los pacientes y sus familias, especialmente en la fase de transición entre la infancia y la edad adulta.
+
+Considerando el desarrollo de los estudios ge néticos y de nuevos medicamentos que benefician a pacientes con DMD28, se propone realizar de forma complementaria, consejo genético por profesionales idóneos, y así reducir la incidencia de la enfermedad en forma más acelerada. Además, se sugiere seguir con la línea de investigación de la DMD, por ejemplo, es tudios cualitativos donde se explore las razones por las cuales los padres tienen hijos biológicos a pesar de sus antecedentes familiares con esta patología.
+
+Finalmente, la falta de registro en el tiempo de asis tencia ventilatoria no invasiva, la data de prescripción y el uso de corticoesteroides, ha limitado una efectiva comparación con la sobrevida en países desarrollados.
+
+En conclusión, la información de sobrevida apor tada en pacientes con DMD desde la infancia hasta la vida adulta, es valiosa para predecir el curso clínico de la enfermedad con la atención médica actual. Se evi dencia mejoría en la edad de sobrevida e inequidad pronunciada según variable socioeconómica.
+
+Responsabilidades Éticas
+
+Protección de personas y animales: Los autores decla ran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación hu mana responsable y de acuerdo con la Asociación Mé dica Mundial y la Declaración de Helsinki.
+
+Confidencialidad de los datos: Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informa do: Los autores declaran que la información ha sido obtenida en forma retrospectiva, anonimizada, en que una fracción de los pacientes había fallecido, por lo cual el Comité de Ética de Investigación en uso de sus facultades, ha eximido de la obtención de un consenti miento informado, lo cual consta en el acta respectiva.
+
+Conflicto de intereses: Los autores declaran no tener conflicto de intereses.

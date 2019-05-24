@@ -1,0 +1,228 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000100042
+Hiponatremia adquirida en el hospital: ¿influye el tipo de fluidoterapia en los niños ingresados a cuidados intensivos?
+
+ARTICULOS ORIGINALES
+
+Hiponatremia adquirida en el hospital: ¿influye el tipo de fluidoterapia en los niños ingresados a cuidados intensivos?
+
+Pilar VelascoA 
+
+			
+
+Andrés J. AlcarazB 
+
+			
+
+Niki OikonomopoulouC 
+
+			
+
+Marina BenitoA 
+
+			
+
+Raquel MoyaA 
+
+			
+
+Álvaro SánchezA 
+
+			
+
+A Estudiante de Medicina Universidad Complutense de Madrid, España.
+
+B Hospital Universitario de Getafe, Madrid, España. Correspondencia: aaromero@um.es.
+
+C Médico Residente de Pediatría, Servicio de Cuidados Intensivos Pediátricos, Hospital General Universitario "Gregorio Marañón", Madrid, España.
+
+
+
+
+
+Resumen:
+
+Introducción:
+
+ Este estudio tuvo por objetivo valorar las diferencias entre el tipo de fluidoterapia ini cial utilizada (sueros isotónicos o hipotónicos) en el desarrollo de hiponatremia, valores de cloro y to lerancia de las vías venosas.
+
+Pacientes y Método:
+
+ Estudio retrospectivo de cohortes en una Unidad de Cuidados Intensivos Pediátricos (UCIP) de un hospital terciario. Se incluyeron niños menores de 15 años ingresados durante el primer semestre de los años 2010 y 2013, que recibieron fluidoterapia in travenosa, excluyéndose los sometidos a cirugía cardiaca, trasplantados renales y aquellos con ingreso inferior a 24 h. Se recogieron datos epidemiológicos, de comorbilidad y relacionados con el ingreso, tipo de suero recibido, valores de sodio y cloro en las primeras 72 h y la incidencia de extravasaciones de vías periféricas.
+
+Resultados:
+
+ Se incluyeron 111 niños: 68 (61,3%) recibieron líquidos hipotónicos y 43 (38,7%) isotónicos. No hubo diferencias respecto a la patología y gravedad, ni tampoco en el volumen de líquidos recibido. Entre los pacientes que recibieron sueros hipotónicos, 28 (41,2%) pre sentaron hiponatremia, siendo esta moderada (Na <130 mEq/kg) en 11 de ellos, en comparación con 8 niños (18,6%) entre los que recibieron sueros isotónicos, registrando hiponatremia moderada solo en un caso (p=0,027). No se registró ningún caso de hipernatremia, ni hubo diferencias en los valores de cloro plasmático. Tampoco se objetivó mayor frecuencia de pérdida del acceso venoso utilizando la fluidoterapia isotónica (4,7% vs. 7,4%, p=0,704).
+
+Conclusión:
+
+ El uso de líquidos iniciales isotóni cos en niños hospitalizados en UCIP se asocia con menor incidencia y gravedad de hiponatremia, sin cambio en la cloremia y es bien tolerado por las vías venosas periféricas.
+
+Palabras clave: Hiponatremia; hipercloremia; fluidoterapia intravenosa; cuidados intensivos pediátricos; tolerancia acceso venoso
+
+Introducción
+
+La hiponatremia, definida como una concentra ción plasmática de sodio inferior a 135 mEq/L, es el trastorno electrolítico más frecuente en los pacientes hospitalizados, y se asocia a una mayor morbimortalidad, así como a un aumento de la estancia media hospitalaria1. El sodio es el principal factor de influencia en la tonicidad plasmática; la disminución de la misma provoca el paso de agua desde el espacio extracelular hacia el intracelular hasta que la osmolaridad se iguale en ambos compartimentos, lo que podría ocasionar un edema celular que a nivel cerebral podría dar lugar a sintomatología neurológica2,3. La hiponatremia puede ser debida a una ganancia de agua y/o a un déficit de sodio a nivel del líquido extracelular, existiendo dos requerimientos necesarios para generarla: una fuente de agua, que para los niños hospitalizados será la fluidoterapia intravenosa administrada, y la presencia de la hormona antidiurética (ADH) que impida su excreción2,4,5,6,7.
+
+Los líquidos intravenosos de mantenimiento se em plean en niños que no pueden alimentarse por vía en teral, aportando los requerimientos de agua y electro litos necesarios para cubrir las necesidades fisiológicas del individuo. Para calcular estos requerimientos se ha utilizado el consumo energético, que relaciona las de mandas hidroelectrolíticas con la actividad metabólica basal del individuo1, siguiendo las recomendaciones de Holliday y Segar diseñadas el año 19 578. Basándose en estas recomendaciones para el aporte de agua, y en los requerimientos estimados de sodio y potasio de 3 mEq y 2 mEq por cada 100 kcal al día respectivamente, se ha recomendado una solución hipotónica como líquido de mantenimiento4,9.
+
+Sin embargo, hoy en día sabemos que, en los ni ños críticamente enfermos, el consumo energético, y por ende los requerimientos de agua y electrolitos, varía de forma importante de acuerdo a múltiples cir cunstancias, por lo que estas normas generales para la administración de fluidoterapia intravenosa de man tenimiento pueden conllevar efectos perjudiciales en estos pacientes2,3, muchos de los cuales presentan una secreción no-osmótica de ADH, y por tanto una ca pacidad limitada de excretar el agua10,11. Numerosos autores han relacionado la administración de líquidos hipotónicos en pacientes hospitalizados con una ma yor incidencia de hiponatremia iatrogénica1,3,4,6,7,11,12 con complicaciones cuya gravedad dependerá tanto de la magnitud de la hiponatremia como de su velocidad de instauración, pudiendo llegar a producir lesiones neurológicas permanentes y muerte del paciente2,4,6. A pesar de que cada vez más estudios sugieren el uso de isotónicos, no existe un consenso a este respecto y aún hoy ciertas publicaciones defienden el empleo de líquidos hipotónicos como fluidoterapia de mantenimiento13,14. La tendencia actual es la recomendación de sueros isotónicos de forma rutinaria en los pacientes pediátricos hospitalizados, dada la creciente evidencia sobre su seguridad y los resultados de recientes metaanálisis12,13,14,15,16 reservando las soluciones hipotónicas para casos concretos9,12.
+
+Por otro lado, la tolerancia de las vías periféricas a la administración de este tipo de sueros no ha sido comunicada, y algunos autores han comentado que podría suponer mayor riesgo de flebitis y pérdida del acceso venoso periférico debido a la mayor osmolaridad de la solución, por lo que no recomiendan el uso de sue ros con una osmolaridad superior a 500 mOsm/L16,17. Sin embargo, este límite contrasta con otras guías, que recomiendan para la infusión periférica de soluciones intravenosas una osmolaridad entre 300-900 mOsm/L, aunque no ha sido comprobado un límite concreto en estudios controlados18,19,20.
+
+Otro aspecto discutido en la utilización de solu ciones isotónicas para la fluidoterapia está relacionado con la cantidad de cloro o la posibilidad de desarrollar
+
+hipercloremia21,22.
+
+El objetivo de este trabajo es evaluar si el cambio en la fluidoterapia de mantenimiento inicial basada en líquidos hipotónicos a isotónicos ha supuesto una reducción de la incidencia de hiponatremia en los pa cientes que ingresan en la UCIP. Además, se pretende valorar secundariamente si se producen diferencias en los valores de cloro plasmático y la tolerancia de la vía periférica a la infusión de sueros con una osmolaridad mayor de 550 mOsm/L.
+
+Pacientes y Método
+
+Diseño y pacientes
+
+Estudio retrospectivo de cohorte mediante revisión de Historias Clínicas, en el que se incluyeron todos los pacientes mayores de 1 semana de vida y menores de 15 años, que ingresaron en la UCIP del Hospital General Universitario Gregorio Marañón (HGUGM) durante los meses de enero a junio de los años 2010 y 2013, por ser estos años representativos del período previo y posterior al cambio en la fluidoterapia de manteni miento inicial, de líquidos hipotónicos e isotónicos, respectivamente.
+
+Fueron excluidos: a) aquellos pacientes con ingreso en UCIP inferior a 24 h o que recibieron fluidoterapia de mantenimiento intravenosa exclusiva durante me nos de 8 h; b) los pacientes a los que no se les realizó ninguna analítica o que solo disponían de una, extraí da en las primeras horas del ingreso, que impedía valo rar la evolución del sodio; c) pacientes procedentes de cirugía cardiaca y post-transplantados renales, por re cibir fluidoterapias específicas distintas, y la sobrecar ga hidrosalina asociada a la circulación extracorpórea; d) los pacientes más inestables a los que se les suminis tró un alto volumen de líquidos para expansión de la volemia (superior a 50 ml/kg en 24 h).
+
+Aspectos éticos
+
+El estudio fue aprobado por el Comité Ético de In vestigación Clínica del Hospital. En todo momento se mantuvo la confidencialidad de los pacientes.
+
+Análisis de datos
+
+La revisión de la Historia Clínica incluyó revisión de exámenes de laboratorio, gráficas de enfermería y documentos de prescripción médica. Se recogieron las variables: edad, sexo, peso, patología previa (incluyen do antecedentes de prematuridad y cromosomopatía), motivo de ingreso, tipo de ingreso (urgente versus pro gramado) y estado postoperatorio o no.
+
+Para el análisis de los datos, el motivo de ingreso se agrupó en respiratorio (bronquiolitis, neumonía, asma y otras insuficiencias respiratorias), neurológico (convulsiones, traumatismo craneoencefálico, posto peratorio de neurocirugía y otros cuadros neurológi cos), postoperatorios de otras cirugías (abdominal, ortopédica/traumatológica, torácica no cardiovascular, plástica, maxilofacial, otorrinolaringológica), y misce lánea (cardiológico no quirúrgico, endocrino, sepsis y otras). Se recogió información sobre otros factores que aumentan la secreción de ADH como fiebre, náuseas y vómitos; y de factores que alteran la eliminación de so dio como diarrea y fármacos (principalmente diuréti cos y corticoides). Además se anotó si tuvieron sondaje vesical para cuantificación de la diuresis. Se recogieron también datos analíticos, repetidos en días sucesivos, para observar la evolución hidroelectrolítica: valores de sodio, potasio, cloro, bicarbonato, glucosa, urea, creatinina, ácido úrico, pH, hemoglobina, hematocrito y albúmina.
+
+Como datos relacionados con la morbilidad, se registraron: días de estancia hospitalaria total y en la UCIP, datos de ventilación asistida, y mortalidad. Como escala de gravedad se adoptó el PRISM III (Pro bability Risk Infant Score Mortality) en las primeras
+
+24 h de ingreso23,24.
+
+En cuanto a la fluidoterapia inicial empleada, se re cogió el tipo de suero principal (clasificándose como isotónico o hipotónico), y el volumen administrado del mismo en las primeras 72 h, así como las horas de goteo y las de dieta absoluta. También se anotó el volumen de sueros con medicación, y el de líquidos para expansión de la volemia y hemoderivados infundidos en dicho período. El suero isotónico contiene ClNa al 0,9% (so dio 154 mmoL/L) con glucosa al 5% añadida, con o sin ClK añadido (20-40 mmoL/L); los hipotónicos, suero glucosalino 1/3 (sodio 51 mmoL/L y glucosa 3,3%) y glucosalino 1/2 (sodio 77 mmoL/L y glucosa 5%) con o sin ClK añadido (20-40 mmoL/L). El volumen de esta fluidoterapia principal se normalizó por el tamaño del paciente acorde a las calorías teóricas consumidas se gún la regla de Holliday8, también por las horas de tra tamiento, expresado finalmente en ml/100 Kcalorias/h.
+
+Se consideraron normales los valores de sodio plas mático entre 135-145 mEq/L. Los valores de sodio plas mático entre 120 y 135 mEq/L se consideraron como hiponatremia clínicamente significativa, y dentro de éstos los valores menores de 130 mEq/L hiponatremia moderada y aquellos menores de 120 mEq/L como graves2,6. Según la evolución del sodio plasmático, los pacientes fueron clasificados en: a) pacientes con sodio previo (Na basal) ≥ 135 mEq/L, que no desarrollaron hiponatremia durante el período de ingreso valorado; b) pacientes con Na basal < 135 que remontaron la hiponatremia; c) pacientes con Na basal ≥ 135 que si la desarrollaron; y d) pacientes con Na basal < 135 que no corrigieron la hiponatremia en el período de ingreso valorado.
+
+Finalmente, para la valoración de la tolerancia de las vías periféricas para los sueros isotónicos, con una osmolaridad superior a 550 mOsm/L, se recogió infor mación sobre otros elementos añadidos que pueden incrementar dicha osmolaridad, como son el cloruro potásico, el gluconato cálcico o el bicarbonato sódico, además de recogerse si se produjeron extravasaciones o cambios de las vías periféricas.
+
+Análisis estadístico
+
+Los datos fueron procesados con el programa SPSS 18.0. Se comprobó la distribución normal de las varia bles cuantitativas con el test de Kolmogorov-Smirnov. Los datos de variables sin distribución normal se pre sentan en medianas (P25-P75) y los de aquellas con dis tribución normal como media ± desviación típica. Los de variables cualitativas, se presentan en frecuencias y porcentajes. Las comparaciones de las variables cuali tativas se realizaron con el test de la X
+
+2 y el test exacto de Fisher si necesario. Las comparaciones de variables cuantitativas entre grupos se hicieron con el test U de Mann-Whitney (si no tenían distribución normal) o la T de Student para muestras independientes (para aquellas con distribución normal) y las comparaciones intragrupo con el Test de Wilcoxon. Se consideraron significativos los valores de p < 0,050.
+
+Resultados
+
+Durante el período de estudio ingresaron 396 pa cientes (213 pacientes en el primer semestre de 2010 y 183 en el de 2013), de los que se excluyeron: 177 pacientes procedentes de cirugía cardiaca y post-trasplantados renales; 59 por carecer de datos analíticos suficientes a lo largo del período estudiado; 46 por duración de tratamiento con fluidoterapia intravenosa exclusiva inferior a 8 h; y 3 por habérseles administra do un volumen de líquidos para expansión de la volemia superior a 50 ml/kg; quedando 111 pacientes para el estudio (62 en el semestre de 2010 y 49 en el de 2013). De los 62 niños del 2010, 58 recibieron líquidos hipotónicos, frente a los 10 del 2013, haciendo un total de 68 pacientes (61,3%) a los que se les administró este tipo de fluidoterapia. En cuanto a los líquidos isotónicos, los recibieron 4 del 2010 y 39 del 2013, sumando un total de 43 pacientes (38,7%) (figura 1). Sus carac terísticas demográficas basales y patología además de los datos relacionados con la evolución clínica de los pacientes en la UCIP se presentan en la tabla 1. Se ob servaron diferencias estadísticamente significativas en los valores de edad y peso, siendo ambos menores en el conjunto de pacientes que recibió sueros hipotónicos, sin encontrarse diferencias en el resto de variables. No se encontraron diferencias significativas en la asisten cia respiratoria ni en la gravedad de los pacientes entre los grupos. Además, podemos objetivar que el tipo de suero administrado no condicionó una prolongación de la estancia media en la UCIP ni del ingreso hospita lario en su totalidad.
+
+
+
+
+
+Figura 1 Niños incluidos en el estudio. 
+
+
+
+
+
+Figura 1 Niños incluidos en el estudio. 
+
+
+
+
+
+Tabla 1 Situación basal y evolución clínica de la población ingresada en la UCIP, en relación con el tipo de fluidoterapia intravenosa de mantenimiento recibida. 
+
+
+
+
+
+
+
+Tabla 1 Situación basal y evolución clínica de la población ingresada en la UCIP, en relación con el tipo de fluidoterapia intravenosa de mantenimiento recibida. 
+
+La velocidad de infusión de la fluidoterapia admi nistrada fue similar en ambos grupos. No hubo dife rencias estadísticamente significativas en cuanto a la extravasación y cambios de las vías periféricas entre los diferentes tipos de fluidoterapia, aunque se observó una mayor tasa de esta complicación en el grupo de líquidos hipotónicos (7,4% versus 4,7%). Para esta valoración, también se tuvo en cuenta la administración conjunta de cloruro potásico, gluconato cálcico al 10% y de bicarbonato sódico similares en ambos grupos de pacientes (tabla 2).
+
+
+
+
+
+Tabla 2 Datos relacionados con la fluidoterapia recibida. 
+
+
+
+
+
+
+
+Tabla 2 Datos relacionados con la fluidoterapia recibida. 
+
+En cuanto a los valores de sodio (tabla 3), no hubo diferencias en los previos al tratamiento. Sin embargo, en el primer y segundo día sí observamos diferencias estadísticamente significativas en los valores medios de sodio entre uno y otro grupo (p = 0,001 y p = 0,039, respectivamente), siendo mayores en la población que recibió líquidos isotónicos. A partir del día 3 se reali zaron modificaciones en el aporte de iones y de fluido- terapia intravenosa en algunos pacientes (sobre todo por haber iniciado ingesta oral o nutrición enteral) y se había retirado la misma en otros pacientes, lo que pudo contribuir a que no se encontrasen diferencias en los valores de los días 3 y 4.
+
+
+
+
+
+Tabla 3 Evolución de los valores de sodio, cloro, potasio, creatinina, urea y ácido úrico basal y primeros días de ingreso. 
+
+
+
+
+
+
+
+Tabla 3 Evolución de los valores de sodio, cloro, potasio, creatinina, urea y ácido úrico basal y primeros días de ingreso. 
+
+En la tabla 4 puede verse que del grupo que reci bió fluidoterapia basada en hipotónicos, presentaron hiponatremia en algún momento del período de in greso estudiado 28 pacientes (41,2%), siendo < 130 mEq/L en 11 de ellos (16,2%), mientras que con los isotónicos, solo 8 niños (18,6%) tuvieron unos valores de sodio < 135 mEq/L, siendo en únicamente 1 de ellos (2,3%) < 130, con significación estadística (p = 0,027).
+
+
+
+
+
+Tabla 4 Desarrollo o no de hiponatremia a lo largo del ingreso, en relación a los valores de sodio basales y al tipo de líquido de mantenimiento aportado. 
+
+
+
+
+
+
+
+Tabla 4 Desarrollo o no de hiponatremia a lo largo del ingreso, en relación a los valores de sodio basales y al tipo de líquido de mantenimiento aportado. 
+
+Con respecto al valor de sodio previo y el desarro llo, persistencia o corrección de hiponatremia en re lación con el tipo de suero recibido (tabla 4), de los 40 pacientes que no presentaron hiponatremia en el grupo tratado con líquidos hipotónicos, 32 (47,1%) partían de una situación basal de sodio igual o supe rior a 135 mEq/L, y los 8 restantes (11,8%) tenían una hiponatremia basal que corrigieron a las 24 h; de los 28 que sí presentaron hiponatremia, 14 (20,6%) no te nían hiponatremia basal y la desarrollaron a lo largo del período de ingreso estudiado, mientras que otros 14 (20,6%) ya la tenían y no la corrigieron durante el período valorado. En el grupo tratado con líquidos isotónicos, de los 35 que no desarrollaron hiponatremia, 29 (67,4%) tenían Na basal igual o superior a 135, y los 6 restantes (14,0%), una hiponatremia basal que corrigieron en 24 h; de los 8 que sí presentaron hipo natremia, 5 (11,6%) no tenían hiponatremia basal y la desarrollaron, mientras que los otros 3 (7,0%) ya la te nían y no la corrigieron durante el período de tiempo valorado.
+
+Por tanto, puede verse cómo en los pacientes tra tados con líquidos hipotónicos, 14/22 (63,6%) niños con Na basal < 135 mEq/L continuaban con valores de Na < 135 al día siguiente, mientras que en los que reci bieron isotónicos lo estaban 3/9 (33,3%), siendo tales diferencias estadísticamente significativas (p = 0,011). Solo desarrolló hipernatremia (Na > 145 mEq/L) un paciente, perteneciente al grupo de los tratados con sueros hipotónicos, siendo ésta de carácter leve con un valor de Na de 146 mEq/L.
+
+No se observaron diferencias significativas en los valores de cloro (tabla 3), como tampoco en los de urea, creatinina, ácido úrico o potasio.
+
+Discusión
+
+En la literatura médica de la última década encon tramos varias publicaciones que evalúan el posible incremento en la incidencia de hiponatremia hospita laria, consecuencia del empleo de fluidoterapia hipotónica1,4,6,7,25,26, comprobado en dos recientes metanálisis15,27. Ya en el año 2006, una revisión sistemática de seis estudios previos4, resaltó el significativo aumento del riesgo de desarrollar hiponatremia, y su repercu sión en la morbilidad de los pacientes, tras el uso de sueros hipotónicos de mantenimiento; además hizo referencia al papel protector de las soluciones isotónicas, a pesar de la falta de ensayos clínicos rigurosos que comparasen ambos regímenes, que coincide con los hallazgos de recientes estudios randomizados10,11,12.
+
+En nuestra Unidad se cambió la fluidoterapia ini cial de mantenimiento entre los años 2011-2012, por lo que hemos analizado un período previo, en el que los líquidos hipotónicos constituían la fluidoterapia ini cial de mantenimiento rutinaria (2010), y uno poste rior con líquidos isotónicos (2013). Los grupos de tra tamiento fueron similares, excepto en la edad y peso. También el porcentaje de pacientes postoperados fue mayor en el año 2010, debido a la atención de algunos de estos pacientes en otra Unidad desde el 2012. La gra vedad de los pacientes estudiados, valorada mediante el Score PRISM III, fue similar entre los dos grupos de tratamiento, al igual que la asistencia respiratoria re querida, y duración del ingreso en UCIP. Se comprobó también que la cantidad de líquidos administrados no se relacionó con el desarrollo de hiponatremia, al ser similar en ambos grupos de pacientes.
+
+Ningún paciente tuvo diabetes insípida, y la caren cia de estudios bioquímicos en orina (como sodio u osmolaridad) y la naturaleza retrospectiva de nuestro estudio no permitieron discriminar si alguno de estos pacientes pudo tener secreción inadecuada de ADH (SIADH). Asimismo tampoco pudo valorarse entre los grupos la posible diferencia en desarrollo de edema dada la naturaleza retrospectiva de nuestro estudio.
+
+Fueron excluidos los niños que recibieron un volu men elevado de líquidos para expansión de la volemia, debido a que estos son isotónicos y pueden constituir un sesgo para nuestra valoración. Además, excluimos a los pacientes con un período de ingreso inferior a 24 h en la UCIP porque cambia la política de fluidoterapia en los distintos Servicios.
+
+Los niños que fueron tratados con líquidos hipo- tónicos al ingreso presentaron una hiponatremia más grave, aunque no pudo apreciarse ninguna repercu sión clínica asociada a la misma. Podemos destacar con nuestros resultados que no se encontró ningún caso de hipernatremia en los niños que recibieron tratamiento al ingreso con líquidos isotónicos, complicación po tencial argumentada por algunos autores13,14. Tampo co se encontraron diferencias en los valores de cloro entre niños tratados con soluciones hipo o isotónicas, otra potencial complicación21,22. Además no se observó una mayor frecuencia de extravasación y cambios de vía periférica con el uso de la fluidoterapia isotónica, a pesar de tener esta una osmolaridad más elevada que pudiera condicionar una potencial flebitis16,17,18,19,20.
+
+Entre las limitaciones de este trabajo se encuentra en primer lugar su carácter retrospectivo, que condi cionó la falta de cuantificación en una gran parte de los pacientes de las pérdidas de líquidos por vía urinaria o digestiva, así como de todos los datos clínicos útiles relacionados con el desarrollo de hiponatremia. Tam poco pudo hacerse una recogida secuencial en el tiem po de la información, idéntica para todos los pacientes. Otra limitación fue el hecho de que el estudio se llevase a cabo en un único centro, lo que implica un posible sesgo por variabilidad de la práctica clínica entre los diferentes centros, y de la patología atendida según las características de la población.
+
+Por tanto, podemos decir que se ha reducido de forma significativa la incidencia de hiponatremia con la utilización de líquidos isotónicos como fluidoterapia de mantenimiento inicial, y que además un porcenta je mayor de pacientes corrigió su hiponatremia basal. Además, no se ha producido aumento significativo de los valores sanguíneos de cloro con la utilización de sueros isotónicos y éstos han sido bien tolerados por las vías periféricas de los niños.
+
+En conclusión, este estudio ha demostrado una re ducción de la incidencia de hiponatremia con el uso inicial de líquidos isotónicos como fluidoterapia de mantenimiento en pacientes ingresados en una UCIP, así como una menor gravedad de la misma en los ca sos que sí la presentaron. Además, un número mayor de pacientes en este grupo de tratamiento corrigió su hiponatremia basal, y también la desarrolló o no la co rrigió un porcentaje menor de niños, en comparación con los que recibieron líquidos hipotónicos al ingre so. Por otro lado, no se encontraron diferencias en los valores sanguíneos de cloro con la administración de sueros isotónicos. También se ha comprobado la tole rancia adecuada de las venas periféricas de lactantes y niños a la administración intravenosa de esta fluidoterapia. Por estas razones, podemos concluir que el uso de líquidos isotónicos como fluidoterapia de manteni miento al ingreso en pacientes críticos redujo la hiponatremia precoz y fue bien tolerada.
+
+Responsabilidades éticas
+
+Protección de personas y animales: Los autores decla ran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación hu mana responsable y de acuerdo con la Asociación Mé dica Mundial y la Declaración de Helsinki.
+
+Confidencialidad de los datos: Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informa do: Los autores han obtenido el consentimiento in formado de los pacientes y/o sujetos referidos en el artículo. Este documento obra en poder del autor de correspondencia.
+
+Financiación: Este estudio no ha contado con financiación total o parcial.
+
+Conflicto de intereses: Los autores declaran no tener conflicto de intereses.
+
+Agradecimientos:
+
+Agradecemos a María Teresa Alonso Cabanes, secreta ria del Servicio de Cuidados Intensivos Pediátricos del Hospital Universitario Gregorio Marañón.

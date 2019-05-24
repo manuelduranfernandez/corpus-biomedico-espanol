@@ -1,0 +1,208 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062000000400003
+El sistema inmune, herramienta estratégica en la batalla contra el cáncer
+
+LA HIPÓTESIS DE VIGILANCIA INMUNOLÓGICA ANTITUMORAL
+
+La inmunología antitumoral está basada en la    premisa de que existen antígenos tumorales que pueden ser reconocidos    por el sistema inmune y pueden generar una respuesta contra las células    neoplásicas. Experimentos realizados en ratones singénicos, en    la década del 40, demostraron que tumores inducidos químicamente    y luego extirpados conferían resistencia contra una exposición    al mismo tumor1. Esta resistencia estaba mediada    principalmente por linfocitos, ya que al ser estos trasplantados desde un animal    inmunizado a uno no resistente, transmitían la inmunidad2.  
+
+ Estas y otras observaciones posteriores llevaron al científico    australiano Sir Frank Macfarlane Burnet (1899-1985) a elaborar, en 1970, la    hipótesis de vigilancia inmunológica antitumoral3.    En ella se postula que una de las principales funciones del sistema inmune sería    la de reconocer a las células neoplásicas y eliminarlas antes    de que formen tumores. Esta afirmación implicaba que en ausencia del    sistema inmune la incidencia de tumores hubiese sido enormemente mayor. Sin    embargo, observaciones hechas en ratones inmunosuprimidos por alteraciones genéticas    o por manipulación experimental, no concuerdan plenamente con esta hipótesis,    ya que la incidencia de tumores en estos animales no se ve significativamente    alterada. En humanos, por otra parte, no existen suficientes evidencias de un    aumento significativo en la incidencia de tumores por inmunosupresión    que pudiesen avalar esta hipótesis. Sin embargo, existen evidencias que    implicarían al sistema inmune en una protección contra ciertos    tumores, especialmente los asociados a infecciones virales. Por ejemplo, se    ha observado un aumento en la incidencia de ciertos tipos de tumores en pacientes    trasplantados e inmunosuprimidos y en aquellos con tumores del sistema linforreticular,    como el linfoma asociado al virus Epstein-Barr (EBV), y en el sarcoma de Kaposi,    frecuente en pacientes con Síndrome de Inmunodeficiencia Adquirida. De    todas formas, los avances en la comprensión celular y molecular de los    procesos de presentación y reconocimiento de antígenos asociados    a las moléculas MHC y la manipulación terapéutica del sistema    inmune en la lucha contra el cáncer, le ha conferido nuevamente una gran    relevancia al concepto de escape de la inmunovigilancia antitumoral, aunque    esta vez más relacionado a inmunoterapia antitumoral..
+
+RECONOCIMIENTO MHC RESTRINGIDO
+
+Sin duda, la actividad inmunológica anti-tumoral más    importante está dada por la respuesta celular. Aunque existen ejemplos    de antígenos de superficie reconocidos por anticuerpos, estos tienen    una mayor importancia en la detección y tipificación de los tumores    más que en el aspecto terapéutico. Durante las últimas    tres décadas se ha experimentado un enorme avance en la comprensión    del funcionamiento del sistema inmune, especialmente con relación al    reconocimiento antigénico4,    5. Esta acumulación de conocimientos, sumados al gran impulso    de técnicas de biología molecular que facilitan el clonamiento    de genes y la producción de proteínas recombinantes, han permitido    la identificación de nuevos AAT y su posterior caracterización.
+
+ Experimentos pioneros demostraron que el crecimiento de tumores    singénicos pudo ser prevenido en ratones preinmunizados con el mismo    tumor, aunque irradiado para evitar su proliferación6.    Se ha visto que los linfocitos T humanos pueden ser capaces de lisar específicamente    tumores autólogos in vitro7. Las células    T también son capaces de secretar citoquinas como interleuquina-2 (IL-2),    interferón-gamma (IFN-g), factor estimulante de colonias de granulocitos    y macrófagos (GM-CSF) y factor de necrosis tumoral -alfa (TNF-a), y proliferar    en respuesta a la estimulación con células tumorales autólogas8.    Células T antitumorales pueden ser expandidas in vitro y transferidas    adoptivamente para tratar incluso grandes cargas tumorales en pacientes8,    9. 
+
+Todos estos resultados proveen evidencias innegables de que    una respuesta mediada por linfocitos T puede ocurrir contra los tumores autólogos.  
+
+La inducción de una respuesta mediada por linfocitos    T requiere de una presentación antigénica en un contexto celular    especial dado por las células presentadoras de antígenos (APC)10.    Estas son células especializadas que pueden gatillar una respuesta inmune    primaria y entre ellas se incluyen a los macrófagos, a los linfocitos    B y a las células dendríticas (DC). Estas últimas juegan    un papel fundamental en la generación de una respuesta antitumoral mediada    por linfocitos T, ya que poseen la capacidad de capturar antígenos tumorales    y presentarlos asociados a las moléculas MHC11,    12. Además expresan gran cantidad de moléculas    coestimuladoras, las que proveen señales cruciales que garantizan la    efectividad de la respuesta mediada por linfocitos T13.    Las DC, también llamadas APC profesionales, se encuentran estratégicamente    localizadas en los sitios de concentración antigénica. Ellas internalizan,    procesan y presentan eficientemente antígenos solubles en el contexto    de MHC clase I y II, siendo estas células las más eficientes en    la inducción de una respuesta primaria de Linfocitos T11-14.    La función central en la inducción de una respuesta antitumoral    que poseen las DC, junto con los avances en la manipulación de este subtipo    celular in vitro, han transformado a estas células en una de las    herramientas más utilizadas en inmunoterapia de última generación.
+
+ANTÍGENOS ASOCIADOS A TUMORES
+
+Los CTL tienen la capacidad de reconocer tumores a través    de fragmentos peptídicos de 8-10 aminoácidos, derivados de proteínas    citoplasmáticas o nucleares, que estén asociados al MHC clase    I4, 5. Los CTL melanoma-específicos,    transferidos adoptivamente o activados in vivo por epitopos de antígenos    asociados a melanoma, poseen capacidad terapéutica, pudiendo inducir    la regresión de tumores y sus micrometástasis15.    Durante los últimos cinco años se han identificado varios antígenos    melanoma-asociados reconocidos por CTL, y los epitopos peptídicos de    estos antígenos han sido caracterizados utilizando métodos genéticos    y bioquímicos.
+
+ Los AAT reconocidos por linfocitos T pueden ser clasificados    de acuerdo al origen de las proteínas de las cuales derivan, de los niveles    de su expresión y de su distribución en distintos tejidos. El    primer grupo está conformado por los llamados antígenos tumor-específicos.    Los genes de estos antígenos codifican proteínas de origen embrionario,    silentes en células adultas y solamente expresados en el tejido tumoral.    Terry Boon y colaboradores han identificado varios antígenos de este    tipo, tales como MAGE-1, MAGE-3, BAGE y GAGE entre otros16-18.    Una característica de estos AAT es que se pueden expresar en distintos    tipos de tumores (tabla 1). Entre los llamados antígenos    de diferenciación tisular o tejido-específicos se agrupan    la mayoría de los antígenos reconocidos por los TIL de pacientes    con cáncer. Estas proteínas se expresan no solo en el tumor sino    que también en los tejidos normales de los cuales estos derivan. También    pueden ser encontrados en otros tejidos normales, aunque en niveles de expresión    mucho menores. En melanoma, uno de los tumores más caracterizados, existen    varias proteínas asociadas a la síntesis y control de la melanina    como MART-1/Melan-A19, 20; gp10021,    tirosinasa22, gp7523    y MC1R24 que son AAT (tabla 1).    Un tercer grupo lo conforman los antígenos derivados de oncogenes    y Protooncogenes. P53, p-Ras, y HER2/neu son genes que codifican proteínas    relacionadas directamente con el control del ciclo celular. Ha sido demostrado    que muchos tumores poseen mutaciones en estos genes o bien estos se encuentran    sobreexpresados en las células cancerígenas. Además, es    sabido que los péptidos derivados de estas proteínas, normales    o mutadas, pueden ser reconocidos por CTL25, 26.    Por otra parte, existe una clara relación entre algunos tipos de cáncer    e infecciones virales. El virus papiloma humano (HPV) ha sido asociado a ciertos    tumores cervicales y el EBV a algunos linfomas tipo B. Las células tumorales    infectados con estos virus presentarían antígenos virales    en el contexto de MHC, los que serían reconocidos por los CTL27,    28.
+
+Tabla 1
+
+Antígenos tumorales humanos reconocidos por células    t MHC clase I restringidas
+
+Tipo de antígeno tumoral  
+
+Neoplasias que presentan el péptido  
+
+Péptido  
+
+Molécula HLA presentadora  
+
+Productos de oncogenes activados  
+
+Ras  
+
+10% de tumores humanos  
+
+CLLDILDTAGL               VVVGAVGVG 
+
+A2     0B35 
+
+Producto p210 del                reordenamiento de                bcr/abl 
+
+Leucemia mieloide crónica, leucemia linfoblástica            aguda  
+
+SSKALQRPV               ATGFKQSSK               KQSSKALQR               ATGFKQSSK               GFKQSSKAL 
+
+A2               A3               A3     0A11               B8
+
+HER-2/neu/c-erb/p185  
+
+Carcinomas pancreático, mamario, ovárico,            gástrico, colorectal y melanoma  
+
+KIFGSLAFL               IISAVVGIL0  00VMAGVGSPYV               ELVSEFSRM               QLFEDNYAL               RLLQETELV               ILHNGAYSL               ALCRWGLLL               VLRENTSPK 
+
+A2               A2               A2               A2               A2               A2               A2               A2               A3 
+
+Productos de genes supresores de tumor  
+
+p53 mutada  
+
+50% de tumores humanos  
+
+LLPENNVLSPL               GLAPPQHLIRV               RMPEAAPPV00            KTCPVQLWV0 
+
+A2               A2               A2               A2 
+
+Producto de genes embrionarios reactivados  
+
+         
+
+MAGE-1
+
+MAGE-2
+
+MAGE-3
+
+            BAGE               GAGE               RAGE 
+
+Melanomas, carcinomas, sarcomas y otros  
+
+EADPTGHSY               SAYGEPRKL               KMVELVHFL               YLQLVFGIEF               EVDPIGHLY0            FLWGPRALV               KVAELVHFL     0MEVDPIGHLY               AARAVFLAL               YRPRPRRY00           SPSSNRIRNT 
+
+A1  00000CW*1601               A2            A2            A1            A2            A2            B44  00000 CW*1606     0CW6            B7 
+
+MART-1/Melan-A
+
+gp100/Pmel 17
+
+ 
+
+ 
+
+Tirosinasa
+
+MC1R 
+
+ 
+
+Tabla 1 (continuación)
+
+Antígenos de diferenciación tejido-específicos 
+
+Antígeno específico prostático
+
+  Antígeno específico prostático de            membrana  
+
+Carcinomas prostáticos  
+
+KLQCVDHLV     FLTPKKLCQV     VISNDVCAQV     LLHETDASV     ALFDIESKV  
+
+A2     A2     A2     A2     A2
+
+Proteínas propias Ampliamente expresadas  
+
+Antígeno carcinoembrionario
+
+MUC-1  
+
+Variados carcinomas mamarios, ováricos y carcinomas            pancreáticos  
+
+YLSGANLNL     IMIGVLVGV     STAPPAHGV  
+
+A2               A2     00A11  
+
+Productos de genes virales  
+
+Proteínas E6 y E7 del virus papiloma humano
+
+Proteínas del virus Epstein-Barr
+
+              Proteínas del virus hepatitis B
+
+ Proteínas del virus-1 de la leucemia de               células T humana  
+
+Carcinoma cervical         Enfermedad de Hodgkin Linfoma de            Burkitt y carcinomas      nasofaríngeos,      carcinoma hepatocelular      Leucemia de células T
+
+FAFRDLCIV     LLMGTLGIV     YMLDLQPETT     TLGIVCPI     AVFDRKSVAK     IVTDFSVIK     CGLGLLTMV     RLRAEAGVK     FLPSDFFPSV     YVNVNMGLK     LLFGYPVYV     VPYKRIEEL  
+
+A2     A2     A2     A2     0A11     0A11     A2     A3     A2     0A11     A2     00B14             
+
+Antígenos mutados  
+
+Mutada ....     CDK4-R24C-1     b -catenina             
+
+Melanoma  
+
+EEKLIVVLF     ACDPHSGHFV     SYLDSGIHF
+
+00B-44     A2     00A24             
+
+Tabla adaptada a partir de las siguientes              referencias: Blankestein, 1999; Boon et al.,1997; Boon and              van der Bruggen; Rickinson and Moss, 1997; Rosenberg et al.,              1996; Salazar-Onfray et al., 1997; Timmerman and Levy, 1999;              Velders et al., 1998; Yotnda et al,. 1998
+
+ 
+
+A la luz de las investigaciones realizadas hasta ahora, resulta    cada vez más clara la casi inexistencia de antígenos tumorales    altamente específicos, excepto los de origen embrionario, que se expresen    solamente en los tumores. El reconocimiento de AAT por parte del sistema inmune    se debería principalmente a la sobreexpresión o a la expresión    inadecuada de algunas proteínas en ciertos tejidos, lo que permite un    quiebre de la tolerancia y relaciona a la respuesta inmune antitumoral con mecanismos    de autoinmunidad. La tendencia a desarrollar vitíligo de ciertos pacientes    de melanoma tratados con inmunoterapia sería un reflejo de este fenómeno29.  
+
+MECANISMOS DE ESCAPE A LA INMUNOVIGILANCIA
+
+Los tratamientos inmunoterapéuticos utilizados hasta    hoy para combatir el cáncer no han sido del todo exitosos, produciendo    una respuesta positiva solamente en una parte de los pacientes. Una explicación    a este fenómeno estaría relacionada con la dificultad de activar    en forma óptima al sistema inmune de los pacientes con cáncer.    Otra de las razones, es que muchos de estos pacientes poseen una inmunosupresión    debido al deterioro de su condición general y otras que estarían    relacionadas con alteraciones del sistema inmune inducidas por el propio tumor.    Los mecanismos de evasión tumoral han sido resumidos en la tabla    2 y algunos de ellos discutidos más abajo.
+
+Tabla 2
+
+Mecanismos de escape a la vigilancia del sistema inmune utilizada    por los tumores
+
+ Pérdida de la expresión de MHC para evitar el reconocimiento              por los T-linfocitos Disminución o pérdida en el tumor de la expresión              de antígenos asociados al tumor Disminución o pérdida de la expresión de moléculas              coestimuladoras, en el tumor o en las células dendríticas,              requeridas para una eficiente interacción con los T-linfocitos Neutralización de la respuesta inmune a través de              la inducción de anergia o debido a la eliminación clonal              de los T-linfocitos específicos Activación, mediada por el tumor, de células supresoras              o células del sistema inmune que secretan citoquinas inhibidoras Cambios, inducidos por el tumor, en las moléculas transductoras              de señales en los T-linfocitos Utilización de factores estimulantes, que favorecen el crecimiento              tumoral, producidos luego de la activación del sistema inmune              (TGF-b) Secreción de factores inmunosupresivos por los tumores (prostaglandina              E2, e IL-10)             
+
+ 
+
+Disminución de la expresión de las moléculas    MHC
+
+La mayoría de los péptidos asociados al MHC clase    I derivan de proteínas propias intracelulares o de microorganismos infecciosos.    Estas proteínas son cortadas en segmentos polipeptídicos por los    proteosomas30 y transportadas hacia el retículo    endoplasmático por las proteínas dependientes de ATP llamadas    TAP (transportadoras asociadas al procesamiento antigénico)31,    hasta asociarse al MHC y ser presentadas en la superficie celular a los linfocitos    T. Cualquier defecto en el funcionamiento de los componentes del procesamiento    y presentación antigénica incide en la capacidad de los linfocitos    T de reconocer a la célula presentadora, en este caso la célula    tumoral32, 33. La pérdida    de uno o varios alelos de HLA es un evento común en varios tipos de tumores,    especialmente en las metástasis34, 35.    Estos defectos han sido atribuidos a mutaciones puntuales en la proteína    < 2-microglobulina o en otros genes del complejo MHC. Recientemente, defectos    en otras proteínas relacionadas con la presentación antigénica,    como los proteasomas y las TAP, han sido también descritos en melanomas    y otros carcinomas36. 
+
+Factores inmunosupresores producidos por los tumores
+
+Numerosos factores inmunosupresores producidos por las células    tumorales han sido identificados y estudiados con relación al escape    tumoral al reconocimiento por el sistema inmune. Un ejemplo clásico es    la prostaglandina E2 (PGE2), la que ha sido relacionada en la patogénesis    del cáncer actuando a través de la inmunorregulación37.    Hay evidencias indirectas que indican que el tratamiento profiláctico    con aspirina, de conocido efecto inhibidor de la síntesis de PGE2, reduce    la incidencia de cáncer colorrectal. Lo anterior respalda el papel de    la PGE2 en la progresión de los tumores38.    El factor de crecimiento transformante-ß (TGF-ß) y la interleuquina-10    (IL-10) son las citoquinas con mayor efecto inmunosupresor39.    Experimentos realizados en animales indican que la mayor actividad de la TGF-ß    in vivo es la promoción de la invasión y la metástasis40.    In vitro, el TGF-ß inhibe la expansión de las CTL y de los    linfocitos B, además inhibe la expresión de receptores de IL-2    de alta afinidad inactivando a las células T, Natural Killer (NK)    y a las LAK40, 41.    En seres humanos, el TGF-ß ha sido involucrado en el aumentado potencial    metastásico de melanomas y otros carcinomas42.    El otro factor importante en la inmunoinhibición es la IL-10, una citoquina    del tipo TH2 (linfocitos T helper 2), la que favorece una respuesta de tipo    humoral más que celular, siendo esta última la más efectiva    contra los tumores. La IL-10 inhibe además la producción de citoquinas    proinflamatorias en monocitos y macrófagos y reduce la expresión    de MHC clase I y II en las células presentadoras de antígenos39.    Este efecto redunda directamente en la inhibición del crecimiento y activación    de linfocitos T y células NK y, por lo tanto, en el escape de los tumores.    La IL-10, que es producida por una gran gama de tumores, inhibe la expresión    de MHC clase I y II en estos tejidos a través de la inhibición    de componentes del procesamiento y presentación antigénica como    las TAP y los proteasomas39, 43-45.
+
+TERAPIAS INMUNOLÓGICAS 
+
+La utilización del sistema inmune para combatir el cáncer    es una antigua idea, extensamente investigada durante varias décadas.    Algunos períodos de la historia de la inmunología antitumoral    han estado marcados por un excepcional entusiasmo y optimismo respecto de los    beneficios que estas terapias proporcionarían a los pacientes con cáncer.    En cambio, otras etapas son acompañadas por la frustración y el    escepticismo. De todas formas, ciertas terapias inmunológicas han dado    resultados esperanzadores, lo que unido a una comprensión más    profunda del funcionamiento del sistema inmune abre buenas perspectivas para    el tratamiento generalizado de cierto tipo de tumores.
+
+Utilización de citoquinas
+
+Debido a una cierta inmunosupresión observada en pacientes    con cáncer avanzado, es que se ha intentado estimular terapéuticamente    una respuesta inmune empleando citoquinas proinflamatorias recombinantes46,    47. Entre estas se destaca la IL-2, que in vitro    ha demostrado potenciar la proliferación y la activación de los    linfocitos T. Tanto IL-2 como IFN-g cuyo efecto principal es inducir la presentación    antigénica en las APC, incluyendo las células tumorales, son las    citoquinas más utilizadas en la inmunoterapia del cáncer. Lamentablemente,    estos tratamientos tienen un efecto parcial y varios efectos colaterales, tales    como náuseas, fiebre y dolores musculares intensos, si se utilizan dosis    altas46. Su efecto, en todo caso, es lo suficientemente    importante como para ser un tratamiento alternativo en algunos tipos de cáncer.  
+
+Terapia celular adoptiva
+
+Una vez identificada la capacidad de los linfocitos activados    in vitro de destruir células tumorales, se ha intentando expandir    estas células en el laboratorio con la ayuda de citoquinas como la IL-2.    Se han logrado obtener hasta 1 x 1010 células mediante este método,    las que son luego reinyectadas en los pacientes. Estos linfocitos pueden derivar    de sangre periférica de pacientes con cáncer estimulados con líneas    tumorales autólogas o alogénicas. También pueden derivar    de linfocitos infiltrantes de tumor (TIL), los que son obtenidos mediante remoción    quirúrgica. Las llamadas células asesinas activadas in vitro    con linfoquinas (LAK) son una población celular compuesta por células    CTL superactivadas y células NK. Estas poseen una menor efectividad que    las CTL específicas propiamente tal, las que son estimuladas específicamente    con antígenos tumorales y que han dado mejores resultados en pacientes    con melanoma y cáncer ovárico48, 49.  
+
+Inmunización activa contra tumores
+
+En contraste con las vacunas contra agentes infecciosos extracelulares,    en las cuales la estrategia más importante es la activación del    sistema inmune humoral y la generación de anticuerpos neutralizantes,    el foco de las vacunas contra el cáncer está dirigido a la    generación de la respuesta celular específica mediada por linfocitos    T. Hasta ahora, las vacunas anticáncer no son preventivas, sino más    bien terapéuticas. Estas intentan la activación del sistema inmune    contra moléculas sobreexpresadas o mutadas, presentes en las células    tumorales, con el fin de eliminar tumores preexistentes en el huésped.
+
+Las células tumorales por lo general son poco inmunogénicas    y capaces de inducir tolerancia en forma activa. Esto se debe principalmente    a la carencia de moléculas coestimuladoras y a la secreción de    factores inmunosupresores39. La estrategia de las    vacunas antitumorales es quebrar este estado de tolerancia, aumentando la densidad    de los antígenos expresados en las moléculas MHC, acompañada    de un incremento de las moléculas coestimuladoras.
+
+ La forma más simple de intentar inmunizar pacientes    con cáncer, consiste en utilizar células tumorales autólogas    o alogénicas irradiadas o tratadas químicamente para evitar su    proliferación y luego reinyectadas en el paciente. Estas células    tumorales pueden ser genéticamente modificadas con el fin de que expresen    moléculas coestimuladoras y/o citoquinas proinflamatorias como IL-2,    IL-4 o IFN-g lo que eleva la inmunogenicidad de los tumores, generando una respuesta    más eficiente contra las metástasis50,    51. La identificación de epitopos de AAT ha permitido    explorar la inmunización con péptidos recombinantes MHC restringidos,    levemente modificados para aumentar su inmunogenicidad, siendo estos derivados    de los antígenos gp100 y MART-1 en melanoma y Her2/Neu en cáncer    ovárico. Estos intentos han dado resultado en varios de los pacientes    tratados y han permitido mejorar los protocolos de inmunización52,    53. Durante los últimos dos años ha adquirido    una mayor relevancia el papel de las células presentadoras de antígeno    profesionales como las células dendríticas, en la inducción    de la respuesta inmune contra los tumores. Las DC, derivadas de monocitos de    sangre periférica, pueden ser activadas in vitro utilizando IL-4    y GM-CSF y expandidas en cantidades suficientes para inmunizar. Previo a la    inmunización, las DC son cargadas exógenamente con péptidos    antigénicos o transfectadas con genes que codifican estos antígenos.    Las respuestas a estos tratamientos son las más promisorias y pareciera    que sería la estrategia a seguir en la vacunación contra ciertos    tumores54, 55. La    combinación in vitro de DC con células tumorales apoptóticas    o la modificación genética de las DC con genes codificantes de    AAT y/o citoquinas proinflamatorias, permite la presentación de múltiples    antígenos tumorales en una misma célula presentadora, en un contexto    adecuado para la inducción de respuesta56.
+
+ Una de las técnicas más modernas de inmunización    consiste en la utilización de DNA desnudo conteniendo los genes    codificadores de antígenos tumorales, generalmente asociado a genes que    inducen la inflamación, a citoquinas, a proteínas bacterianas    etc. Las vacunas de ADN, sorprendentemente eficientes, están siendo    exploradas no solamente en el contexto de la inmunología antitumoral,    sino que además como estrategia antiviral o en otro tipo de patógenos57,    58.
+
+ A pesar de los grandes avances en la inmunología antitumoral,    quedan grandes actores aún sin explorar. El papel de los linfocitos CD4,    los llamados linfocitos ayudadores, adquiere cada vez mayor relevancia. Es sabido    que muchas de las respuestas citotóxicas requieren de la participación    de este subtipo celular. Las T ayudadoras reconocen antígenos en el contexto    de MHC clase II y producen citoquinas que activan a las CTL. Además,    poseen la capacidad de activar a las DC, lo que aumentaría la eficiencia    en la presentación antigénica de estas59.    Por otra parte, las células NK están siendo intensamente estudiadas    por el papel complementario que jugarían, respecto de las CTL, en el    reconocimiento de los tumores. En efecto, las NK reconocen células blanco    que presenten una deficiencia en la expresión de MHC, lo que es característico    de las metástasis, por lo que no se descarta un rol de las NK en el control    de estas60.
+
+En resumen, el desarrollo de la inmunología antitumoral,    si bien aún no ha sido lo suficientemente exitosa desde el punto de vista    terapéutico, ha permitido avanzar enormemente en la comprensión    del sistema inmune y continúa abriendo perspectivas en la utilización    de las defensas naturales de nuestro organismo en el combate contra el cáncer,    uno de los enemigos más enconados de la especie humana.

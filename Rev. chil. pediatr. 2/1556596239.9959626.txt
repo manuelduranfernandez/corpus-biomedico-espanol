@@ -1,0 +1,124 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062005000300015
+¿Es adecuado el uso de curvas de peso neonatales para el diagnóstico de retardo del crecimiento en recién nacidos prematuros?
+
+INTRODUCCIÓN
+
+Se estima que anualmente nacen en todo          el mundo alrededor de 13 millones de prematuros. El parto prematuro es          la mayor causa de mortalidad y morbilidad neonatal, y contribuye al 75-90%          de todas las muertes neonatales, excluidas las malformaciones congénitas,          y al 50% de la discapacidad neurológica infantil, incluidas parálisis          cerebral, ceguera e hipoacusia.1
+
+Las causas del parto prematuro no se comprenden          claramente. En cerca del 50% de los casos existe una condición clínica          objetivable, como preeclampsia, embarazo múltiple, enfermedades maternas          sistémicas, anomalías congénitas o desprendimiento de placenta.2 Sin embargo,          en otros casos, como en nuestro medio, se ha logrado identificar a          la infección ovular como la principal entidad asociada al parto prematuro.3
+
+Datos recientes sugieren que podría existir          una relación entre un crecimiento intrauterino subóptimo y el parto prematuro.4–6          Por ejemplo, mediciones ecográficas prenatales del diámetro biparietal          (DBP) y la circunferencia abdominal (CA) obtenidas en fetos nacidos prematuramente          sin causa aparente son menores que las derivadas de una población normal          (llegada al término y a similares intervalos de la gestación), lo que          constituye una evidencia directa de crecimiento intrauterino disminuido          (restricción del crecimiento fetal).7,8
+
+Por otro lado, son crecientes las evidencias          que demuestran que las curvas estandarizadas derivadas del peso de nacimiento          (PN) a diferentes edades gestacionales (curvas neonatales) subestiman          la prevalencia del bajo peso para la edad gestacional (definido como          inferior al percentilo 10) en comparación con estándares ecográficos fetales.4,5,8,9
+
+Debido a que el peso al nacer es una medida          retrospectiva que, aisladamente, impide hacer inferencias seguras sobre          la ganancia de peso prenatal, la evaluación del crecimiento          intrauterino de aquellos fetos destinados a nacer antes del término basada          en curvas neonatales puede significar un serio sesgo y comprometería la          implementación de intervenciones médicas oportunas, además de las implicancias          para el futuro de estos niños tan vulnerables.10,11
+
+El objetivo del presente estudio fue comparar          el estándar de peso neonatal local con los pesos estimados sobre la base          de diferentes modelos a similares edades gestacionales (EG).
+
+POBLACIÓN, MATERIAL Y MÉTODOS
+
+Para la clasificación de recién nacido          pretérmino (<37 semanas completas) y de          bajo peso para la edad gestacional (<percentilo          10) se utilizó la curva local12 que es representativa de la          población asistida en el Hospital Materno-Infantil Ramón Sardá de Buenos          Aires.
+
+Criterios de inclusión: 55.706 RN          vivos entre la 25ª y la 42ª semana de edad gestacional del período 1988-1999.          La subpoblación de pretérminos comprendió a 3.745 RN vivos entre la 25ª          y la 36ª semana de EG.
+
+Criterios de exclusión: condiciones          fetales o maternas reconocidas universalmente por afectar el crecimiento          fetal: embarazo múltiple, hipertensión arterial previa, preeclampsia,          eclampsia, diabetes y anomalías congénitas.
+
+El coeficiente de variación medio, utilizado          para comparar la variabilidad de diferentes distribuciones, fue del 14,2%.          Los errores máximos, estimados por el puntaje z, comparando el percentilo          estimado con el teórico, fueron del 6,4% y 7,5% para el percentilo 50          y 10 respectivamente.
+
+Este es un estudio observacional y analítico.          Para la comparación con diferentes estimadores del crecimiento fetal se          utilizaron varias estrategias. En primer lugar, se ha demostrado13 que          cualquier curva de crecimiento fetal puede expresarse, independientemente          del peso observado, como una curva fraccional que, para cualquier edad          gestacional, estima el peso fetal como un porcentaje del feto a término          (280 días, 40 semanas). Si se asume que el PN al término expresa el verdadero          crecimiento fetal, este enfoque reflejaría el auténtico potencial de crecimiento          a edades gestacionales menores en contraste con las curvas derivadas del          peso al nacer.
+
+Para esto se utilizó la fórmula de Mongelli,13          que promedia las medias aritméticas de los coeficientes de regresión lineal          de cuarto grado de tres estándares: curva fraccional promedio por ecografía          (diámetro biparietal, circunferencia abdominal y longitud femoral), curva          de peso posnatal y estándar de peso fetal por resonancia magnética nuclear          de embarazos normales en el tercer trimestre, de donde:
+
+% de peso medio al término = 5,18 x EG          – 107,66 (R2 > 0,999)
+
+Posteriormente se calcularon los porcentajes          aplicando esta fórmula para cada EG y, una vez ingresado el PN medio a          las 40 semanas del estándar de la Maternidad Sardá (3.470 g),12 se construyó          la curva fraccional promedio de crecimiento (peso medio estimado en gramos,          para cada semana de edad gestacional) que se equiparó al percentilo 50.          De acuerdo con Mongelli,13 se fijó para todas las edades gestacionales          un coeficiente de variación (CV) del 12% y a partir de éste se calcularon          las desviaciones estándar (DE) para cada EG (DE= CV* media fraccional/100),          lo que permitió estimar el percentilo 10 mediante la fórmula:
+
+Percentilo 10 = media fraccional – (1,28          x DE)
+
+A continuación se calcularon las diferencias          porcentuales al nivel de los percentilos 10 y 50 entre los pesos observados          por la curva neonatal12 y los pesos estimados por la curva          fraccional para cada EG (peso observado – peso estimado/peso estimado          x 100). Diferencias positivas indicaban que el peso observado era mayor          que el estimado, mientras que una diferencia negativa denotaba que los          pesos estimados eran superiores. Por ejemplo, semana 32, percentilo 10:          1.300–1.706/1.706 x 100= -23%.
+
+Ante la posibilidad de errores en la curva          de crecimiento fraccional, se calcularon sus intervalos de confianza al          95% (error medio absoluto del peso estimado) empleando el valor máximo          comunicado por Eden y colaboradores (21,5          a 50,7 g/kg), y aplicando la modificación de la fórmula de Warsoff.14,15
+
+Para probar si la magnitud de las diferencias          entre el peso predicho de fetos normales (curva fraccional) y de aquellos          nacidos prematuramente (curva neonatal) era mayor que la que podría atribuirse          al error medio de la fórmula, es decir, fuera del intervalo de confianza          al 95% de la media, se compararon estas diferencias (observado – estimado)          con el IC 95%.
+
+Por último, se contrastó la curva fraccional          de la Maternidad Sardá con la previamente publicada por Mongelli,13          elaborada a partir de la base Perinatal de Nottingham (Reino Unido)16          y con el estándar de crecimiento fetal por ecografía de Hadlock,17          basado en embarazos continuos sin patología, de una población caucásica          de clase media y sin corrección para el sexo.
+
+Para la diferencia entre valores positivos          y negativos se utilizó la prueba del orden con signo.18 Diferencias a          nivel p <0,05 se consideraron significativas. Para el análisis estadístico          se usó el programa Statistica (Versión 5.1, Statsoft, Tulsa, OK).
+
+RESULTADOS
+
+La comparación entre los pesos de nacimiento          neonatales al nivel de los percentilos 10 y 50 extraídos de estándares          publicados12 y los derivados de la fórmula fraccional para          la Maternidad Sardá y Nottingham y los pesos fetales estimados por ecografía          se presenta en la tabla 1.
+
+   
+
+En general, los pesos derivados de las          curvas neonatales fueron significativamente menores que los derivados          de la curva fraccional –estimador del peso normal– hasta la 36ª semana,          tanto para el percentilo 10 como para el 50, a partir del cual las diferencias          se atenúan, con notable similitud alrededor del término.
+
+La curva fraccional promedio derivada de          la aplicación de la fórmula de Mongelli como porcentaje del peso observado          a las 40 semanas en la Maternidad Sardá a diferentes edades gestacionales          se puede apreciar en la Figura 1. Su inspección          muestra que la recta de regresión es casi una línea recta y puede representarse          por la siguiente función lineal, estadísticamente muy significativa:
+
+Porcentaje peso 40 sem.= 5,6022 *EG – 127,7          (R2 ajustado= 0,979; r= 0,989; p <0,001).
+
+   
+
+Los puntos correspondientes a los valores          estimados muestran, por un lado, un sesgo ligeramente negativo durante          el período de la prematurez, y por el otro, un sesgo positivo a partir          de las 37 semanas.
+
+A nivel del percentilo 10, los pesos derivados          de estándares neonatales en el período de la prematurez son significativamente          menores a los derivados de la curva fraccional (fórmula de Mongelli) en          el intervalo de la prematurez (27ª a 34ª semanas), así como con los estimados          por ecografía (Hadlock) (Figura 2).
+
+   
+
+Al comparar la curva fraccional de la Maternidad          Sardá con una curva similar pero extranjera (Nottingham), se observa que          la primera es ligeramente superior a nivel del percentilo 10, mientras          que para el percentilo 50 las diferencias son mínimas para todas las EG          (datos no presentados).
+
+En la Figura 3 puede apreciarse que las diferencias porcentuales (negativas) entre          el peso al nacer de los RN prematuros en la Maternidad Sardá y los pesos          previstos según la curva fraccional          fueron máximas y estadísticamente muy significativas durante el período          de la prematurez –en la semana 30 alcanzó al 35%–, y constantemente mayores          para el percentilo 10 (p= 0,009) en comparación con el percentilo 50 (p=          0,008), mientras que en los RN a término se observaron mínimas diferencias;          en los de postérmino nuevamente el crecimiento fraccional superó al observado.          Estos hallazgos sugieren una subestimación del crecimiento fetal durante          el tercer trimestre al utilizar el peso al nacer.
+
+   
+
+La magnitud de las diferencias a nivel          del percentilo 10 entre el peso previsto de fetos normales (curva fraccional)          y de aquellos nacidos prematuramente (curva neonatal) fue sistemáticamente          mayor al límite superior del intervalo de confianza al 95% durante todo          el período de la prematurez y en los RN de postérmino (Figura          4).
+
+   
+
+CONCLUSIONES
+
+A nivel del percentilo 10, los pesos derivados          de estándares neonatales en el período de la prematurez (27ª a 34ª semanas)          fueron significativamente menores a los derivados de la curva fraccional          –estimador del peso normal– así como por los estimados por ecografía (Hadlock)          y ligeramente superiores al compararlos con una curva similar pero extranjera          (Nottingham). La magnitud de las diferencias a nivel del percentilo 10          entre el peso previsto de fetos normales (curva fraccional) y de aquellos          nacidos prematuramente (curva neonatal) fue sistemáticamente mayor al          límite superior del intervalo de confianza al 95% durante todo el período          de la prematurez. La utilización del presente modelo          sería de particular trascendencia para la práctica clínica diaria, ya          que a partir de la estimación individualizada del peso al término se podría          monitorizar el incremento semanal durante el control prenatal.
+
+DISCUSIÓN
+
+Los resultados de este estudio sugieren          que, como población, los pesos de nacimiento de los niños nacidos entre          las 25 y 36 semanas de gestación (prematurez) en la Maternidad Sardá de          Buenos Aires entre 1988 y 1999 serían artificialmente bajos y significativamente          inferiores a los estimados por la curva fraccional, aquella que reflejaría          el crecimiento normal de los fetos que subsecuentemente habrían nacido          al término en el supuesto caso de que hubiera sido posible pesarlos a          similares edades gestacionales.
+
+El estándar del peso de nacimiento para          la edad gestacional local basado en el peso al nacer probablemente subestima          el crecimiento de fetos que llegan al término y consecuentemente subestima          la proporción de pretérminos que son, en realidad, de bajo peso para la          edad gestacional.
+
+Los resultados del presente modelo concuerdan          con lo comunicado por Weiner,14 Secher19 y Ott5          que encontraron que el PN de pretérminos era significativamente menor          que el peso fetal estimado por ecografía en comparación con fetos de igual          EG pero nacidos al término. En comparación con los RN a término, más prematuros          presentaron restricción del crecimiento fetal, ya sea a nivel del percentilo          10 como del 50, en forma similar a otros estudios.5,6
+
+El crecimiento fraccional fetal en el tercer          trimestre es virtualmente una función lineal de la edad gestacional, en          forma equivalente a lo observado con el crecimiento de fetos normales          evaluados por ecografía (Figuras 1 y 2)          o con la altura uterina.13,22 El coeficiente para la edad gestacional          de la fórmula fraccional (5,6%) corresponde al incremento semanal del          peso fetal como porcentaje del peso esperado a las 40 semanas y es muy          similar al comunicado por Mongelli (5,2%) utilizando múltiples modalidades.13
+
+El sesgo negativo de la distribución del          peso al nacimiento en el período de la prematurez coincide con lo observado          por otros autores,5,6,13,14,19-21 lo que se atribuye a la amplia          dispersión del PN por el menor tamaño de la muestra y patologías concomitantes.          La marcada desaceleración del crecimiento observada al término en las          curvas neonatales es probablemente el resultado de errores en la estimación          de la edad gestacional, provocando artificialmente un aparente achatamiento          de la curva.
+
+La magnitud de las diferencias entre los          pesos observados y los predichos por la curva fraccional cayeron por fuera          del intervalo de confianza al 95% de la fórmula empleada; por consiguiente,          es poco probable que resultara únicamente del error en esa fórmula (Figura          4). Además, independientemente del estímulo para la restricción          del crecimiento, sus efectos fueron más acentuados a nivel del percentilo          10 que para el 50. 
+
+Hediger halló que, a las 32 semanas, todos          los niños nacidos prematuramente tenían menores dimensiones, por ecografía,          que los que habían alcanzado el término.4 Por otro lado, Mongelli          también encontró diferencias máximas (por CV) a las 32 semanas y mínimas          a las 26 y 36 semanas.13 En el presente estudio, las diferencias          máximas se observaron ya en la semana 30ª y las mínimas en la 26ª y 36ª          (Figura 3), siguiendo un patrón similar al          coeficiente de variación de los pesos neonatales.12 Esto es          atribuible a las diferentes poblaciones y metodologías empleadas para          calcular tanto el tamaño fetal (ecografía, curva fraccional) como la edad          gestacional y sugiere que las perturbaciones del crecimiento fueron más          marcadas a las 30 semanas y estarían asociadas a mayor incidencia de parto          prematuro espontáneo y ruptura prematura de las membranas.
+
+Se postulan varios mecanismos que relacionan          el retardo del crecimiento intrauterino y el parto prematuro. Bukowski6          sostiene que la desnutrición fetal temprana llevaría a una disminución          de las hormonas inductoras del crecimiento con incremento en la liberación          de cortisol, lo que induciría el parto prematuro. Zeitlin demostró, como          en nuestro medio, que la detección de patologías obstétricas (como la          hipertensión inducida por el embarazo) puede conducir a la inducción del          parto antes del término.23
+
+Otros mecanismos fisiopatológicos de restricción          del crecimiento pueden inducir un aumento del riesgo del parto prematuro,          como el escaso desarrollo placentario (con aumento de prostaglandinas          y citoquinas),24 presencia de infartos, villitis crónica y          patología decidual,25 mayor susceptibilidad a las infecciones4          y los mismos factores que disminuyen la tensión del amnios y el corion          pueden provocar retardo del crecimiento y posteriormente, ruptura prematura          de las membranas.26 En coincidencia con esta hipótesis, el          Instituto Perinatal de la Universidad de Birmingham comunicó que el 59%          de las muertes fetales hasta ahora clasificadas como inexplicables según          el método de Wigglesworth,27 estaban por debajo del percentilo          10 de la curva local ajustada, sugiriendo que existía un retardo del crecimiento          antes de la muerte.28
+
+Este estudio presenta varias limitaciones          que subrayan la necesidad de una cuidadosa interpretación de los hallazgos.          En primer lugar, factores distintos al crecimiento intrauterino          subóptimo podrían explicar las diferencias observadas. La tabla de peso          al nacer elegida podría haber incluido niños anormalmente pequeños; esta          hipótesis se ve sustentada al compararla con el anterior estándar local,          también de la Maternidad Sardá,12 o con el estándar chileno          que incluyó 11.453 RN vivos de clase media.29
+
+Otra limitación podría haber sido la posibilidad          de errores en la estimación de la edad gestacional en la curva neonatal.          Si los recién nacidos incluidos en la tabla utilizada hubieran sido sistemáticamente          juzgados mayores de lo que realmente eran, entonces el PN podría haber          sido artificialmente disminuido a cada edad gestacional. Esto es poco          probable, ya que por debajo de la 33ª semana, los datos de la EG fueron          cuidadosamente revisados para evitar los problemas de incompatibilidad          biológica entre peso de nacimiento y edad gestacional de los registros.12
+
+Si bien la estimación ecográfica precoz          de la edad gestacional está considerada como el ideal en la práctica          clínica, esto es en la actualidad inalcanzable en el ámbito público y,          lamentablemente, no está incluida en el Sistema Informático Perinatal.          Sin embargo, un reciente estudio concluye que la estimación ecográfica          precoz reduce la estimación de la edad gestacional en comparación con          el último período menstrual normal –hecho atribuible a que la ovulación          tardía (>14 días) es más frecuente que la ovulación precoz– y consecuentemente,          incrementaría artificialmente la tasa de prematurez.30
+
+El coeficiente de variación adoptado (12%)          para la estimación del desvío estándar de la curva fraccional fue inferior          a los observados con la curva neonatal en el período de          la prematurez.12 Esto podría haber provocado una distorsión          en la estimación del percentilo 10.
+
+Este estudio presenta potenciales fortalezas.          Primero, está basado en una amplia muestra poblacional representativa          de las embarazadas y sus hijos atendidos a través de una década en una          maternidad pública de Buenos Aires.
+
+El modelo adoptado mostró un excelente          ajuste de la regresión lineal, pudiéndose inferir el rango normal del          peso fetal en el período de la prematurez a partir de la variación normal          del PN al término (curva fraccional), y de esta manera evitar el sesgo          negativo y la mayor dispersión del peso de nacimiento de los prematuros          que son, en su mayoría, de origen patológico.8
+
+Debido a que los conceptos de bajo peso          para la edad gestacional y retardo del crecimiento intrauterino (o          restricción del crecimiento fetal) no son sinónimos,31 aunque          los peores resultados perinatales ocurren en los primeros, la utilización          del coeficiente de la regresión (5,2%) sería de particular trascendencia          para la práctica clínica diaria, ya que a partir de la estimación individualizada          del peso al término se podría monitorizar el incremento semanal durante          el control prenatal.
+
+Para optimizar la pesquisa del crecimiento          prenatal y su seguimiento, deben aplicarse a las curvas utilizadas las          variables fisiológicas maternas individuales que afectan el peso de nacimiento.          Las curvas ajustadas para cada embarazo son más selectivas y mejoran la          predicción del crecimiento fetal en poblaciones normales, como lo han          demostrado Mongelli8 y Gardosi32,33 empleando un programa de          computación ad hoc. Esto redundaría en una significativa disminución de          la tasa de diagnósticos de retardo del crecimiento falsos positivos, con          las consiguientes menores derivaciones, investigaciones e intervenciones          innecesarias, así como en menor ansiedad de los padres.
+
+El uso de nomogramas derivados de resultados          transversales impide considerar el potencial crecimiento individual de          cada feto con la consiguiente subestimación del retardo del crecimiento          intrauterino.
+
+Es necesario crear la necesidad de desarrollar          y usar curvas de crecimiento fetal intrauterinas locales mediante ecografías          seriadas y ajustadas para diferentes variables maternas; mientras tanto,          las curvas fraccionales son una alternativa útil y confiable para estimar          el verdadero crecimiento fetal, especialmente en el período de pretérmino.
+
+Agradecimientos
+
+Agradecemos a la Dra. Mónica Rittler por          su inestimable ayuda en la revisión crítica del manuscrito. 

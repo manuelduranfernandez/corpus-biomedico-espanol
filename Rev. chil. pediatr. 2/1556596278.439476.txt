@@ -1,0 +1,124 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062015000300007
+Cánula nasal de alto flujo en lactantes: experiencia en una unidad de paciente crítico
+
+ 
+
+Introducción
+
+La oxigenoterapia de alto flujo por vía nasal es una modalidad ventilatoria no invasiva alternativa de menor complejidad en relación con otros sistemas de soporte respiratorio no invasivo. Inicialmente utilizada en las unidades de cuidados intensivos (UCI) neonatales para el tratamiento de prematuros con apneas y/o como coadyuvante en el período postextubación, este sistema rápidamente se extendió a la población adulta y pediátrica como una herramienta de apoyo ventilatorio más para diferentes escenarios clínicos1,2.
+
+El concepto de alto flujo nasal implica la entrega de una mezcla de gas y oxígeno que alcanza o excede la demanda inspiratoria espontánea del paciente. Así, un sistema de alto flujo puede corresponder a 1-2 l por minuto (lpm) en neonatos y a flujos más altos (6 lpm hasta 60 lpm) en lactantes, niños mayores y adultos. Para evitar daño de la vía aérea, la administración de esta terapia requiere de unas condiciones de humedad y calefacción adecuadas y, por lo tanto, de sistemas que puedan cumplir con estos requisitos2-5.
+
+El sistema de oxígeno de alto flujo -cánula nasal de alto flujo (CNAF)- consiste en una cánula nasal con dientes más cortos y rígidos de lo habitual, cuya conexión distal va unida a un circuito ventilatorio específico, que a su vez se conecta a un sistema de humectación y calefacción (idealmente servocontrolado) al que se une la mezcla de oxígeno y gas2 (fig. 1).
+
+ 
+
+
+
+Figura 1 Sistema de cánula nasal de alto flujo.
+
+ 
+
+En pediatría la CNAF se ha reportado como una buena herramienta terapéutica para casos de dificultad respiratoria de diverso tipo (bronquiolitis, neumonía, insuficiencia cardíaca congestiva, etc.), como soporte respiratorio postextubación, como parte del destete de ventilación mecánica no invasiva (VMNI) convencional, como apoyo respiratorio a niños con enfermedad neuromuscular y en casos de apneas del prematuro. Específicamente se ha descrito que en lactantes con bronquiolitis la CNAF disminuiría la tasa de intubación, siendo cada vez más frecuente su uso en esta enfermedad1,6-8.
+
+Considerando la evidencia existente, la epidemiología y la alta demanda asistencial en los meses invernales, la unidad de paciente crítico pediátrico (UPCP) del Complejo Asistencial Dr. Sótero del Río (CASR) implementó en el año 2012 el uso de la CNAF como parte del soporte respiratorio no invasivo de lactantes, registrándose de forma estandarizada desde esa fecha a todos los pacientes conectados a CNAF. El objetivo de este estudio fue determinar la efectividad de la CNAF, evaluar posibles factores asociados a su fracaso mediante la comparación de los pacientes respondedores versus los que fracasaron y evaluar las potenciales complicaciones asociadas a su uso.
+
+Pacientes y métodos
+
+Se realizó un estudio longitudinal descriptivo entre junio de 2012 a septiembre de 2014 respecto de las características de los pacientes conectados a CNAF en la UPCP del CASR. La determinación de conexión a CNAF quedó a criterio del médico, según su evaluación clínica subjetiva respecto del no requerimiento de VMNI con doble nivel de presión (por ejemplo, obstrucción bronquial leve a moderada, radiografía con patrón intersticial y/o compromiso parenquimatoso menor a un cuadrante). No se consideraron candidatos a CNAF aquellos pacientes con inestabilidad hemodinámica, PCR recuperado, compromiso de conciencia (escala de Glasgow ≤ 8), alteración anatómica de la vía aérea superior, cirugía o trauma facial, cardiopatía congénita cianótica, compromiso radiológico parenquimatoso de más de un cuadrante, insuficiencia respiratoria global severa (pH < 7,25 por hipercapnia).
+
+El sistema de CNAF utilizado en todos los pacientes consistió en una cánula nasal especial (BT2755 Fisher & Pykel Healthcare®) unida a un circuito (RT 329, Fisher & Pykel Healthcare®) conectado a un humidificador no servocontrolado (Fisher & Paykel Healthcare® HC150), por su franco menor costo respecto a los servocontrolados. Considerando esto, se intercaló una trampa de agua en la rama inspiratoria del circuito con el fin de controlar la potencial condensación. La unión del humidificador a la mezcla gas/oxígeno se realizó mediante 2 entradas, que fueron conectadas a 2 flujómetros estándar (0-15 l/min) por separado (gas y oxígeno). La cantidad de lpm utilizada al inició del soporte fue de 2 l/kg/min8,9, con un tope máximo de 12 lpm, que correspondía al límite máximo de lo tolerado por las cánulas y circuitos adquiridos por nuestra unidad hasta ese momento. Por las características del circuito utilizado en esta experiencia, la FIO2 no fue medida regularmente, y los lpm de oxígeno se titularon de acuerdo a la saturometría de pulso del paciente. Una vez superada la condición clínica comenzó la retirada del soporte disminuyendo el flujo en forma paulatina (cada 1-2 h), pasando a oxigenoterapia nasal convencional al alcanzar los 3-4 l/min con buena saturometría asociada9,10.
+
+Para cada paciente conectado se llenó un formulario estándar -de responsabilidad del médico tratante- en el cual se consignó: edad, sexo, peso, antecedentes de prematuridad, edad corregida, comorbilidad, diagnóstico de ingreso, contexto de conexión a CNAF, radiografía pre-conexión, pH preconexión, presión parcial de dióxido de carbono (pCO2) preconexión, respuesta o no respuesta a CNAF, causa de la no respuesta y horas de uso de la CNAF (dato obtenido desde el registro estadístico de los terapistas respiratorios de la unidad).
+
+De acuerdo al Protocolo de conexión a VMNI vigente en nuestra unidad el contexto de conexión a CNAF se definió en «nivel de soporte I», «nivel de soporte II», «nivel de soporte III» adicionándose, de acuerdo a lo registrado, las categorías «destete de VMI» y «pausas respiratorias/apnea». La condición «nivel de soporte» categoriza el nivel de dificultad respiratoria de un paciente candidato a soporte no invasivo. Esta considera variables como frecuencia respiratoria, uso de musculatura accesoria, requerimiento de FIO2, gasometría y respuesta a terapia convencional (oxígeno, broncodilatación ya sea beta 2, adrenalina, bromuro de ipatropio, juntos o por separado, corticoides). Se clasifica en 3 niveles: «soporte I», que corresponde a polipnea para la edad y requerimiento de una FIO2 ≥ 45% para una saturación mínima de 94% que no responde a terapia convencional; «soporte II», que es el soporte I asociado a retracción/uso de musculatura accesoria y «soporte III», que corresponde al soporte II asociado a una pCO2 ≥ 45 mm Hg con o sin pH alterado en la gasometría.
+
+En todos los pacientes conectados a CNAF se contó con una radiografía y una gasometría por punción arterial, ambos exámenes solicitados previamente en la unidad de urgencia como parte de su evaluación inicial en aquella unidad. El patrón radiológico se clasificó en 3 categorías, de acuerdo al hallazgo predominante: solo intersticial, condensación (atelectasia y/o neumonía, con o sin intersticio) y normal. Tanto la gasometría como la radiografía fueron controladas posconexión a CNAF, solo si la condición clínica del paciente realmente lo ameritaba, de tal manera que se evitaran punciones e irradiaciones innecesarias.
+
+La eficacia de la CNAF se estimó según el éxito o fracaso de esta terapia. El fracaso a la CNAF se definió como la necesidad de conexión a VMNI con doble nivel de presión (IPAP/EPAP) y/o requerimiento de intubación dentro de las primeras 48 h de instaurada esta terapia, lo cual fue definido por el médico a cargo de forma predominantemente clínica (persistencia o empeoramiento de la dificultad respiratoria, necesidad de aumentar el soporte respiratorio en el contexto de destete, persistencia de pausas/apneas) apoyado en algunos casos con gasometría. Posterior a la definición de fracaso a CNAF, el apoyo con VMNI a doble presión o intubación directa quedó a criterio del médico según su evaluación clínica.
+
+Para intentar determinar los posibles factores asociados a fracaso de CNAF se contrastaron las características de los pacientes respondedores versus los que fracasaron (edad, sexo, peso, contexto de conexión, etc.). Para efectos de análisis, la pCO2 preconexión se dicotomizó de forma arbitraria respecto al percentil 90 del nivel de pCO2 preconexión de los pacientes respondedores, de tal manera que se incorporara a la mayoría de los pacientes respondedores en la comparación con los que fracasaron.
+
+La seguridad de la CNAF se evaluó mediante la frecuencia de ocurrencia de complicaciones (distensión gástrica, escape aéreo, lesiones de mucosa nasal, obstrucción de cánula por secreciones), que en caso de ser advertidas, debían consignarse también el registro de cada paciente.
+
+El correcto mantenimiento y funcionamiento del sistema (posición de la cánula en el paciente, permeabilidad de la cánula, humectación, conexiones correctas, etc.) fue monitoreada permanentemente por el equipo de terapistas respiratorios de la unidad. Los cuidados de enfermería fueron similares a los de un paciente con cánula nasal tradicional. Todos los pacientes poseían una sonda nasogástrica, la cual se considera parte del manejo habitual de los pacientes con soporte respiratorio ingresados en nuestra unidad. Las terapias aerosolizadas se realizaron mediante nebulizadores estándar con la CNAF in situ.
+
+Análisis estadístico
+
+Las variables continuas se expresaron en medianas con sus respectivos rangos. Las variables categóricas se expresaron en frecuencias y porcentajes. La normalidad de las variables continuas se evaluó mediante el test de Kolmogorov Smirnov, lo que determinó la decisión de utilizar test estadísticos no paramétricos para todas las variables (sin distribución normal). De esta manera, las variables continuas fueron comparadas mediante el test de U de Mann-Whitney para muestras independientes y las variables cualitativas mediante el test de Chi cuadrado y test exacto de Fisher según correspondiera. La intensidad y significación de la asociación de las variables con la respuesta a CNAF se evaluó utilizando la correlación Rho Spearman, correlación V de Cramer o coeficiente de contingencia, según la atingencia. Las variables significativas para fracaso a CNAF se analizaron en un modelo de regresión logística binaria para determinar la odds ratio con sus respectivos intervalos de confianza (OR, IC 95%). Todos los resultados se consideraron significativos con una p ≤ 0,05. Para el análisis estadístico se utilizó el programa IBM SPSS Statistics 20.
+
+Resultados
+
+Durante el período analizado se registraron 125 pacientes conectados a CNAF, de los cuales 16 fueron excluidos por un registro incompleto de datos. Ninguno de los pacientes registrados se conectó a CNAF como manejo alternativo a VMNI de doble soporte.
+
+De los 109 pacientes analizados, el 56% correspondió a hombres y el 44,0% a mujeres. Las medianas de edad cronológica y de peso fueron un mes (0,2-20 meses) y 3,7 kg (2-10 kg) con el percentil 95 ubicado en 3,7 meses y 5,7 kg respectivamente. Del grupo total 33,0% tenían antecedentes de prematurez, con una mediana de edad corregida de 39,5 semanas (36-48 semanas). Un 21,1% de los pacientes tenía una comorbilidad asociada (síndrome bronquial obstructivo recurrente, cardiopatía congénita acianótica, síndrome de Down, displasia broncopulmonar oxígeno dependiente, síndrome hipotónico en estudio, hemorragia intracraneana grado I por prematurez, otros).
+
+Los diagnósticos de ingreso más frecuentes de los pacientes conectados a CNAF fueron: bronquiolitis (53,2%), neumonía (18,3%), pausas respiratorias/apnea (7,3%), sepsis (7,3%) y otros (13,8%).
+
+Los patrones radiológicos pre-conexión a CNAF fueron patrón intersticial en un 56%, condensación (atelectasia o neumonía) 32,1% y una radiografía normal en un 11,9%. El patrón condensación de todos los pacientes que lo poseían consistió en el compromiso parenquimatoso de un solo cuadrante radiológico.
+
+El contexto de conexión a CNAF fue soporte I en un 3,7% de los pacientes, soporte II en un 42,2%, soporte III en un 41,3%, destete en un 3,7% y pausas respiratorias en un 9,2%.
+
+La mediana de la pCO2 preconexión fue de 44 mm Hg (15,4-71,3 mm Hg) y del pH preconexión 7,34 (7,0-7,52). Hubo un paciente conectado a CNAF con un pH 7,0 y PCO2 15,4 mm Hg que correspondió a un lactante que cursó con una reacción adversa a medicamentos con acidosis metabólica severa, y quien se compensó rápidamente posmanejo.
+
+En relación con las horas de uso de CNAF, la mediana del grupo total fue 43,7 h (1-621,5 h), correspondiendo el mayor número de horas registrado a una lactante portadora de una cardiopatía congénita acianótica.
+
+Un 70,6% de los pacientes respondió a la conexión a CNAF y un 29,4% debió conectarse a otro tipo de soporte respiratorio (fig. 2). Del total de pacientes intubados 5 tenían como diagnóstico de ingreso bronquiolitis, 6 neumonía, uno pausas respiratorias/apnea, uno sepsis y 5 otros. Las causas de fracaso fueron progresión y/o aparición de atelectasias (n = 14), progresión de neumonía (n = 7), persistencia o aumento de la obstrucción bronquial (n = 2), apnea (n = 3), progresión a shock (n = 3), insuficiencia cardíaca (n = 1), convulsión (n = 1) y obstrucción de vía aérea alta (n = 1). Ningún paciente falleció ni registró complicaciones secundarias al uso de CNAF.
+
+ 
+
+
+
+Figura 2 Distribución de los pacientes según respuesta o fracaso a CNAF.          CNAF: cánula nasal de alto flujo; VMNI: ventilación mecánica no invasiva.
+
+ 
+
+El percentil 90 de la pCO2 preconexión de los pacientes respondedores se ubicó en 55 mm Hg, valor que se utilizó para la dicotomización de esta variable.
+
+Al analizar a los pacientes respondedores versus los que fracasaron a CNAF, no se encontró diferencia significativa en la edad cronológica, edad corregida, sexo, peso, antecedentes de prematurez, comorbilidad, ni pH preconexión. Sin embargo, sí se observó diferencia respecto a las variables diagnóstico de ingreso (p = 0,013), radiografía pre conexión (p = 0,018), contexto de conexión (p < 0,0001), pCO2 preconexión (40,7 mm Hg [15,4-67 mm Hg] versus 47,3 mm Hg [28,6-71,3 mm Hg], p = 0,004) y horas de uso de CNAF (60,75 h [5-621,5 h] versus 10,5 h [1-29 h], p < 0,0001). El porcentaje de pacientes con pCO2 ≥ 55 mm Hg fue de 10,4% en los respondedores y de 34,4% en los que fracasaron, diferencia que resultó significativa (p = 0,001) (tabla 1).
+
+ 
+
+Tabla 1 Comparación entre pacientes respondedores y no respondedores
+
+
+
+CNAF: cánula nasal de alto flujo; pCO2: presión parcial de dióxido de carbono;          VMI: ventilación mecánica invasiva.          p < 0,05.
+
+ 
+
+Al correlacionar las variables con el fracaso a CNAF se encontró asociación débil entre diagnóstico de ingreso (r = 0,23, p = 0,013), contexto preconexión (r = 0,26, p < 0,0001) y radiografía preconexión (r = 0,21, p = 0,018). También la asociación fue débil entre pCO2 preconexión (r = 0,28, p = 0,003), PCO2 ≥ 55 mm Hg (r = 0,292, p = 0,001). Las horas de uso de CNAF tuvieron una asociación positiva fuerte (r = 0,726, p < 0,0001).
+
+La regresión logística mostró que solo una PCO2 preconexión ≥ 55 mm Hg resultaba significativa para predecir el fracaso de CNAF con una OR de 2,97 (IC 95%: 1,08-8,17; p = 0,035) (tabla 2).
+
+ 
+
+Tabla 2 Regresión logística binaria
+
+
+
+CNAF: cánula nasal de alto flujo; OR: odds ratio; pCO2: presión parcial de dióxido de carbono;          VMI: ventilación mecánica invasiva.         p < 0,05.
+
+ 
+
+El percentil 50 de las horas de CNAF de los pacientes que fracasaron se ubicó en 10,3 h, el percentil 25 en 3,6 h y el percentil en 10 en 2 h.
+
+Discusión
+
+La mayoría de los pacientes conectados a CNAF correspondió a lactantes < 4 meses con un peso ≤ 6 kg, cursando predominantemente un proceso patológico respiratorio agudo (bronquiolitis, neumonía). La tasa de éxito observada fue del 70,6%, cifra que concordaría con las tasas reportadas (69% a 98%), más aún considerando que en todas ellas el fracaso de CNAF se midió solo por la necesidad de intubación7,11-13. Asimismo, la tasa de intubación de los pacientes cuyo diagnóstico de ingreso fue bronquiolitis (5/58) fue también similar a lo descrito en la literatura6,11,13-17.
+
+La mitad de los pacientes que fracasó lo hizo dentro de las primeras 10 h de uso de CNAF, si bien ya en los primeros 60-120 min esto podría predecirse6,13, tal como ocurrió en el 10% de este grupo de niños analizados.
+
+Respecto a los factores asociados a fracaso de CNAF, Abboud et al.18, en un grupo de 113 niños con bronquiolitis, observaron que los pacientes respondedores y los que fracasaban (medido por requerimiento de intubación) diferían significativamente en los niveles de pCO2 preconexión (56 ± 12 mm Hg versus 67 ± 17 mm Hg, p < 0,001) y que, adicionalmente, un aumento en 5 mm Hg en la pCO2 posconexión a CNAF se asociaba a un OR de fracaso de 1,34 (IC 95%: 1,08-1,67, p = 0,007). También encontraron diferencias en la frecuencia respiratoria preconexión, la cual era menor en los que fracasaban (54 ± 17 versus 44 ± 14, p = 0,018) con una OR para no respuesta de 0,96 (IC 95% 0,92-0,99, p = 0,017) por cada disminución de una respiración/min. Pese a que el pH fue significativamente mayor en los respondedores, no encontraron diferencia al realizar el análisis de regresión logística. Kelly et al.12, en una cohorte retrospectiva de 498 pacientes menores de 2 años con enfermedad respiratoria predominante, encontraron que factores de riesgo para fracaso a CNAF (medida por necesidad de intubación) eran una frecuencia respiratoria mayor al percentil 90 para la edad (OR 2,11, IC 95% 1,01-4,43), una pCO2 inicial > 50 mm Hg (OR 2,51; IC 95% 1,06-5,98) y un pH inicial < 7,3. Al igual que estos autores, nuestros resultados mostraron que, efectivamente, la pCO2 preconexión difería significativamente entre respondedores y quienes fracasaban, y que una pCO2 inicial elevada (en nuestro caso ≥ 55 mm Hg) se asociaba a un riesgo significativo mayor de fracaso. Sin embargo, no encontramos diferencia en el pH pre-conexión, lo que podría explicarse quizás porque los pacientes conectados a CNAF en nuestra unidad aún contaban con una reserva suficiente como para compensar el nivel de pH, pese la elevación de CO2.
+
+Si bien no se registró específicamente la frecuencia respiratoria previo a la conexión de los pacientes a CNAF, la categoría «nivel de soporte» lleva implícita esta medición y, en relación con esta, encontramos diferencia entre respondedores y quienes fracasaron, siendo mayor el fracaso a mayor nivel de soporte, aunque esto no alcanzó significación en la regresión logística. Asimismo, tanto el diagnóstico de ingreso como el patrón radiológico fueron diferentes entre respondedores y no respondedores a CNAF, sin embargo esto tampoco logró demostrarse en el análisis de regresión. Al igual que lo reportado, no encontramos diferencias respecto a la edad cronológica ni corregida, peso, antecedentes de prematurez y comorbilidad.
+
+La CNAF es una herramienta de soporte respiratorio cada vez más expandida y aceptada en la población pediátrica por sus beneficiosos efectos sobre la oxigenación, ventilación y comodidad del paciente1-2. Dentro de los mecanismos de acción que explicarían la eficacia de la CNAF se cuentan: a) aumento de la fracción inspirada de oxígeno por una menor dilución con el aire ambiente, y por generación de un reservorio anatómico de oxígeno (nasofaringe y rinofaringe)2,19-21; b) lavado del espacio muerto nasofaríngeo (efecto wash-out) que contribuye a mejorar la fracción alveolar de gases, tanto para el dióxido de carbono como para el oxígeno19,22; c) generación de una presión distendente secundaria a la administración continua de un alto flujo de gas que determina una resistencia espiratoria, la cual variaría según «boca abierta o cerrada», sin perderse. Esta presión generada favorecería una disminución de atelectasias, una mejoría de la relación V/Q y una mejoría de la distensibilidad pulmonar al aumentar el volumen de fin de espiración, y con ello la capacidad residual funcional. Además, favorecería la disminución del trabajo respiratorio por contrarrestar el auto-PEEP8,21,23-27; d) provisión de una humidificación correcta a la vía aérea, lo que mejoraría la mecánica respiratoria al favorecer la conductabilidad del gas y el trabajo metabólico del acondicionamiento de gas inhalado28,29, además de mejorar la comodidad del paciente29,30; y e) disminución de resistencia inspiratoria con la consecuente disminución del trabajo respiratorio, considerando que el volumen nasofaríngeo tiene una distensibilidad que contribuye a la resistencia de la vía aérea27,31,32.
+
+La CNAF representaría una alternativa a la administración de CPAP no invasivo en aquellos pacientes con dificultad leve a moderada en diversos contextos clínicos, siendo la bronquiolitis el escenario más estudiado en la población pediátrica, donde su uso se ha asociado a una disminución en los requerimientos de intubación 1,6,7,11,12,14-16. Como modalidad de apoyo respiratorio no invasivo es más confortable, más fácil de implementar y monitorear, lo que ha permitido su utilización cada vez más expandida en unidades de hospitalización de menor complejidad y unidades de urgencia11,15-17,33. La implementación de la CNAF en nuestra unidad permitió adquirir familiaridad con el sistema y evaluar su sencillez al requerir solo una moitorización habitual por parte de terapistas respiratorios y de cuidados de enfermería considerados como habituales para pacientes con oxigenoterapia nasal convencional. Del mismo modo se pudo constatar sus buenos resultados (porcentaje de éxito similar a lo reportado en la literatura) y su seguridad, al no haberse reportado ninguna complicación secundaria a su uso, si bien la presencia de sonda nasogástrica en todos los pacientes conectados podría haber influido en la ausencia de distensión gástrica, complicación descrita como frecuente9,14.
+
+Dentro de las limitaciones de este estudio se cuentan el tamaño limitado de la muestra, la evaluación de la experiencia con CNAF de un solo centro, la heterogeneidad de los pacientes conectados, la subjetividad de los criterios de conexión a CNAF y la carencia de un score de dificultad respiratoria validado transversalmente aplicado a todos los pacientes, tanto en el escenario preconexión como posconexión a CNAF.
+
+Conclusión
+
+Si bien aún existe poca solidez en la evidencia respecto a la eficacia de la CNAF en la literatura16,34,35, su rol en la terapia respiratoria ha adquirido cada vez mayor relevancia en la población pediátrica. Este es el primer estudio acerca del uso de CNAF en lactantes menores en nuestro país, reportándose una tasa de éxito similar a lo mostrado en otras publicaciones. El fracaso de la CNAF en la muestra analizada se asoció a una pCO2 inicial ≥ 55 mm Hg (percentil 90 de los pacientes respondedores de este estudio), no lográndose demostrar otra asociación significativa en el modelo de regresión logística. La implementación de la CNAF se consideró sencilla por las características semejantes a una cánula nasal convencional, requiriendo de cuidados habituales por parte del equipo de terapistas respiratorios y de enfermería de nuestra unidad. Su uso se consideró seguro al no evidenciarse ninguna complicación relacionada con su utilización. Sin embargo, considerando las limitaciones de este estudio, estos resultados no pueden generalizarse, requiriéndose de estudios a mayor escala, idealmente multicéntricos, aleatorizados y controlados.

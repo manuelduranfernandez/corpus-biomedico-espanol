@@ -1,0 +1,172 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062003000100003
+Traumatismo encefalocraneano: Conceptos fisiológicos y fisiopatológicos para un manejo racional
+
+INTRODUCCIÓN
+
+El Traumatismo encefalocraneano (TEC) grave ha aumentado en los últimos    años, representando una causa importante de morbimortalidad pediátrica1.    El 5% de los TEC en niños son severos, con una mortalidad que varía    entre 34 y 60%, por lo que el manejo precoz y agresivo es de vital importancia2.    El TEC puede ser definido como todo trauma craneano causado por una fuerza externa    que tiene como resultado una alteración a nivel anatómico y/o    funcional (motora, sensorial y/o cognitiva) del encéfalo y sus envolturas,    en forma precoz o tardía, permanente o transitoria3.
+
+La clasificación 4 5 6    del TEC puede analizarse desde 4 perspectivas:
+
+1.- Según tipo de lesión encefálica los TEC    pueden ser:   a.- Focales
+
+i. Contusión: lesión localizada, necrótica      o hemorrágica, causada por transmisión directa de la energía      de un trauma craneal a la región cortical y a la sustancia blanca subcortical.      Característicamente se ve en las regiones temporal y/o frontal por      contacto directo del encéfalo con protuberancias óseas.
+
+ii. Hematomas     - Epidural: colección de sangre entre la duramadre y el cráneo.      Puede ser de origen venoso o arterial y generalmente no sobrepasa las líneas      de las suturas, a menos que coexista con fractura. En el TAC aparece como      una imagen localizada, lenticular, de alta densidad, con evidente efecto de      masa.     - Subdural: colección de sangre localizada sobre la superficie de la      corteza, bajo la duramadre. Generalmente está asociado a daño      cortical por vasos lacerados o contusión cortical directa. La apariencia      al TAC es de una imagen crescéntica, hiperdensa, localizada a lo largo      de las convexidades cerebrales.     - Intracerebral: coágulo sólido de sangre dentro del parénquima      cerebral.
+
+iii. Hemorragias     - H. intraventricular: sangre al interior de los ventrículos.     - H. subaracnoidea: sangre en el espacio subaracnoideo. Es la hemorragia más      frecuente en TEC.
+
+b.- Difusos
+
+ - Daño Axonal Difuso: disrupción de pequeñas vías      axonales como resultado de una rápida aceleración y desaceleración      craneal. Generalmente compromete a los núcleos hemisféricos      profundos, tálamo y ganglios basales y a los tractos de sustancia blanca      (cuerpo calloso). El TAC inicial puede ser normal.
+
+2.- Según indemnidad meníngea se clasifican en: 
+
+- TEC abierto: lesión con solución de continuidad de las envolturas      meníngeas y comunicación del encéfalo con el medio externo.     - TEC cerrado: lesión sin comunicación del encéfalo con      el exterior.
+
+ 3.- Según tipo de fractura pueden clasificarse como:  
+
+- TEC con Fractura de base de cráneo.     - TEC con Fractura bóveda craneal: lineal, conminuta, deprimida o con      hundimiento, diastática.
+
+ 4.- Según Compromiso neurológico (de mayor relevancia    clínica) (tablas 1 y 2), el TEC puede    ser: 
+
+- Leve: puntaje escala Glasgow (GCS) 13 - 15.     - Moderado: puntaje escala Glasgow 12 - 9.     - Severo: puntaje escala Glasgow < 8
+
+  
+
+    
+
+ FISIOLOGÍA CEREBRAL 4 5 7 9
+
+Entre el 15% y el 25% del gasto cardíaco está dirigido al cerebro,    con un flujo sanguíneo cerebral (FSC) de 40-50 ml/100 g cerebro/min.    El consumo metabólico de oxígeno cerebral (CMRO2) corresponde,    en un 40%, al gasto energético basal (mantención del potencial    de membrana, termosensible y no modificable por drogas) y en un 60% al gasto    energético funcional (no termosensible y modificable por drogas). El    90% de este CMRO2 está dado por tejido neuronal y sólo    un 10% por tejido de sostén o glia (correspondiente a más del    50% del volumen encefálico). El CMRO2, 3,5 mg/100 g cerebro/min,    depende del coeficiente de extracción cerebral de O2 (CERO2)    y de la entrega cerebral de O2 (CDO2), donde: CMRO2    = CERO2 x CDO2 (fórmula 1). 
+
+El CERO2 corresponde a la relación entre la extracción    cerebral de O2 (24-42%) y la saturación arterial de O2    (Sat art O2), donde la extracción cerebral de oxígeno    no es sino la diferencia entre la Sat art O2 y la saturación    Bulbo yugular de O2 (Sat BYO2), que es la saturación    de la sangre venosa de retorno cerebral (55-70%). Luego, CERO2 =    (Sat art O2 - Sat BYO2) / Sat art O2 (fórmula    2).
+
+La CDO2, el otro componente del CMRO2, está determinada    por el flujo sanguíneo cerebral (FSC) y por el contenido arterial de    O2 de este (CaO2): CDO2 = FSC x CaO2    (fórmula 3).
+
+El CaO2 depende de la Sat art O2, de la Hemoglobina y    de la presión parcial arterial de O2 (PaO2), luego    CaO2 = Sat O2 x [1,34 x Hb] + [PaO2 x 0,003].    (fórmula 4).
+
+Así, situaciones patológicas como anemia e hipoxia reducirán    el CaO2 pudiendo determinar una entrega de oxígeno inadecuada.   El FSC, definido como la sangre que transita a través del cerebro, es    controlado por el CMRO2, vía autorregulación de la    resistencia vascular cerebral (RVC), y por la Presión de Perfusión    Cerebral (PPC), que es la diferencia entre la Presión Arterial Media    (PAM) y la Presión Intracraneana (PIC):  0000FSC = PPC / RVC, luego, 0000FSC = (PAM - PIC) / RVC (fórmula 6).
+
+La autorregulación cerebral se basa en la modificación de la    RVC (vasodilatación o vasoconstricción) con el fin de mantener    un FSC acorde a las necesidades metabólicas cerebrales de O2    de cada momento. La autorregulación está determinada en gran parte    por la presión parcial de CO2 (PCO2), por la PAM    y, en menor medida, por la PaO2, adenosina, pH, etc. Así,    cuando la PCO2 cerebral es alta (mayor trabajo metabólico) la RVC cae,    aumentando el FSC y la CDO2, y lo contrario ocurre cuando la PCO2    disminuye (menor trabajo metabólico). Se estima que el FSC varía    en un 4% por cada mmHg de CO2, en normotensión. Con la PAM    ocurre algo similar, regulándose el FSC para proteger al tejido cerebral    de caídas o alzas bruscas de presión que pudiesen comprometer    la CDO2, sin embargo, estas autorregulaciones tienen límites,    por sobre o bajo los cuales el FSC se torna absolutamente dependiente de la    PAM (figura 1).
+
+  
+
+La PPC se define como la presión necesaria para perfundir    el tejido nervioso para un buen funcionamiento metabólico. Una PPC menor    de 50 mmHg implica una disminución severa del FSC, con el riesgo de isquemia    cerebral, y valores sobre 60-70 mmHg han sido determinados como seguros en adultos,    aunque esto en niños aun no ha sido bien establecido, si bien se sabe    que PPC bajas serían mejor toleradas por cerebros inmaduros (recién    nacidos).
+
+La PIC se define como la presión dentro de la bóveda craneana,    y se ha establecido que el funcionamiento cerebral es adecuado con valores entre    10 a 20 mmHg en adultos, 3 a 7 mmHg en niños y 1,5 a 6 mmHg en recién    nacidos. Dado que la curva PIC-Volumen intracraneal (VI) tiene un comportamiento    sigmoideo (figura 2), es que por sobre los valores mencionados    bastarán leves aumentos del VI para producir grandes cambios de presión.    La distensibilidad cerebral y la capacidad de taponamiento cerebral frente a    cambios de volumen varía con el valor numérico de la PIC en un    factor de 10, estableciéndose así el índice Presión/Volumen    intracraneano (IPV) IPV = DVolumen / log P0/P1. (fórmula 7) Así,    un IPV >18 ml conllevaría un bajo riesgo de Hipertensión intracraneana    (HTIC), mientras que un IPV < 13 ml implicaría una PIC prácticamente    inmanejable.
+
+  
+
+El VI y la PIC resultan de la interacción entre cerebro,    líquido cefalorraquídeo (LCR), y sangre cerebral, correspondiendo    el cerebro a un 80% de la bóveda craneana. Se compone en un 75 - 80%    de agua, repartida entre el intracelular (sustancia blanca y sustancia gris)    y el extracelular (intersticial). El LCR corresponde aproximadamente al 10%    del VI, es producido por los plexos coroideos (0,3 a 0,35 ml/min), y su producción    se ve alterada por inflamación de las vellosidades, edema cerebral difuso    y presencia de masas (hemorragias, tumores, etc). La sangre cerebral está    compuesta por el volumen sanguíneo cerebral (VSC) y el FSC. El VSC, volumen    de sangre constante en el cerebro, corresponde aproximadamente a un 10% del    VI, y este VSC contribuye en forma directa a la PIC y VI, mientras que el FSC    puede hacerlo indirectamente mediante la autorregulación cerebral.
+
+FISIOPATOLOGÍA DEL TEC1,    4 -11
+
+El daño provocado por un TEC se divide en dos fases (figura    3): Injuria Primaria (daño inmediato al trauma) e Injuria Secundaria    (cascadas metabólicas post-trauma). El daño producido por la injuria    primaria es imposible de revertir, sin embargo, los eventos de la injuria secundaria    son potencialmente manejables, luego, las acciones terapéuticas deben    dirigirse a evitar o minimizar las cascadas metabólicas desencadenadas    por la injuria inicial y disminuir los riesgos de una mala evolución    neurológica y/o muerte. Inmediatamente producido el TEC, el CMRO2 disminuye    en forma constante, sin embargo, el FSC puede comportarse en forma variable    según la indemnidad de la autorregulación cerebral (tabla    3). Así, pueden observarse al menos 3 escenarios:
+
+  
+
+   
+
+ 00001.- Autorregulación cerebral intacta.    Esto significa que disminuirá el FSC -y la CDO2- en igual    proporción a la disminución del CMRO2, el CERO2    permanecerá constante y la Sat BYO2 se encontrará en    rangos relativamente normales.
+
+ 00002.- Hipoxia cerebral oligohémica    o Perfusión límite. En general, ocurre dentro de las primeras    6 horas post TEC grave, en un 13% de los pacientes. Hay un desacoplamiento entre    el CMRO2 y la autorregulación (focal o global): frente a la    disminución del CMRO2, disminuye el FSC ¾y    la CDO2-, pero en mayor proporción a lo esperado, lo cual    implica riesgo de isquemia ante situaciones de bajo CaO2 (hipoxemia, anemia),    hipotensión, vasoespasmo, hipocapnia marcada, etc., sin un aumento concomitante    de la CDO2. Esto se reflejará en un aumento del CERO2 y en    una caída de la Sat BYO2. Si el FSC es reducido en forma severa    y por un tiempo suficiente, se producirán cambios isquémicos irreversibles    e infarto cerebral. La Sat BYO2 aumentará por un CMRO2    disminuido, indicando daño permanente. Bajo estas circunstancias y para    prevenir la isquemia cerebral, las estrategias terapéuticas deben dirigirse    a aumentar la CDO2 o a reducir aun más el CMRO2
+
+00003.- Perfusión de lujo o hiperperfusión    cerebral relativa. El FSC aumenta ¾y la    CDO2- por hiperemia cerebral reactiva, sin un aumento concomitante    del CMRO2, favoreciendo el edema cerebral y el aumento de la PIC.    Este es el escenario más frecuente en la población pediátrica    en las primeras horas post TEC, dada la hiperreactividad de la vasculatura cerebral.    Así, la Sat BYO2 será relativamente alta (> 70%)    y el CMRO2 bajo. En este escenario la terapia debe dirigirse a intentar    disminuir el VSC.
+
+MONITORIZACIÓN NEUROLÓGICA    EN TEC
+
+La monitorización neurológica en el TEC es tanto clínica    como de laboratorio. Dentro de la monitorización clínica es importante    el examen físico completo y sobretodo el examen neurológico, que    debe incluir evaluación de Escala de Glasgow, presencia de reflejos osteotendíneos,    normalidad de pares craneanos y función de tronco encefálico.    Dentro de la monitorización de laboratorio, hay métodos de evaluación    indirecta y directa4 6,7,11    - 14.
+
+Monitorización indirecta  00001. Electroencefalograma: registrado    en forma continua, permite detectar si hay actividad eléctrica cerebral    en todo momento, además permite el uso más holgado de terapias    como barbitúricos y paralizantes.
+
+00002. Saturación Bulbo-Yugular:    no da información cuantitativa acerca del CMRO2 o del FSC,    pero refleja la relación entre ellos y orienta a la terapéutica.    La monitorización indicada es la continua, pues permite evaluar la terapia    en forma instantánea 
+
+00003. Eco Doppler transcraneal: método    no invasivo que serviría para evaluar las características del    flujo y el estado de autorregulación cerebral en pacientes con TEC. Este    sistema mide la velocidad de flujo en la arteria cerebral media, marcador indirecto    del FSC. Con flujo constante, la velocidad de flujo cerebral es inversa al área    seccional de los vasos, es decir, frente a una disminución de esta (vasoconstricción)    hay un aumento de la velocidad de flujo cerebral y viceversa. Los equipos actuales    permiten medir la velocidad media de flujo y el índice de pulsatilidad    (IP = (velocidad sistólica " velocidad diastólica)/velocidad    media) que es un índice de resistencia vascular, índice que aumenta    en pacientes con PIC elevada.16
+
+Monitorización directa15    (tabla 4)
+
+   
+
+ Captor/Monitor de PIC: permite la evaluación cualitativa    y cuantitativa continua de la PIC, favoreciendo conductas terapéuticas    inmediatas frente a alzas anormales de ella. Existen 3 tipos de captores:
+
+00001. Catéter intraventricular:    Requiere de ventrículos no colapsados ya que se inserta directamente    en ellos, y se conecta a un transductor de presión externo. Es un registro    de PIC confiable, ya que el transductor puede ser calibrado contra una referencia    externa en cualquier momento. El catéter intraventricular es el estándar    de oro ya que permite detectar y tratar alzas de PIC en forma directa mediante    el drenaje de LCR.
+
+00002.- Catéter intraparenquimatoso:    sólo permite determinar la PIC, pues se inserta en el parénquima    cerebral. El captor Codman® tiene un transductor de presión    con un microchip de silicona que cuando es sometido a presión se produce    una diferencia de potencial, que se convierte a su vez a unidades de presión.    Este transductor es muy delgado por lo que puede ser colocado dentro de otro    catéter para insertarse en el ventrículo. El captor Camino®,    tiene en la punta un delgado catéter de fibraóptica con un diafragma    flexible que refleja luz, interpretando los cambios de intensidad de la luz    como cambios de presión. Este sistema no depende de un transductor externo    ni de una columna de agua, no requiriendo por ello ajustes cada vez que se moviliza    la cabeza. Tiene buena correlación con el catéter intraventricular.    El transductor Innerspace® es otro catéter con fibraóptica,    pero su principio se basa en frecuencia espectral. La principal desventaja de    estos transductores es que no es posible calibrarlos in situ y deben    ser reemplazados si la monitorización se mantiene por más de 5    días, debido a que se movilizan. Son simples de insertar, pero los transductores    de fibraóptica son frágiles y pueden dañarse si el paciente    está agitado o si se doblan, lo cual junto a su costo, representan una    limitación a su uso.
+
+00003.- Catéter subdural: Actualmente    en desuso. Son simples de insertar, pero tienen la tendencia a bloquearse y    provocar un trazado irregular e inexacto. A altas presiones tiende a leer valores    menores en relación al catéter intraventricular. Los catéteres    subdurales pueden ser útiles cuando los ventrículos no pueden    ser canulados, pero debe asumirse que probablemente subestimarán la PIC.
+
+EVALUACIÓN DE ONDAS DE PIC4,    15, 17
+
+La onda aislada de PIC tiene una calidad pulsátil causada por    las pulsaciones arteriales dentro del cerebro, que provocan una oscilación    en el volumen del sistema ventricular. La forma de la onda PIC -similar a la    de la presión arterial- tiene 3 componentes (figura    4): P1 (percusión) representa la pulsación arterial, P2    (rebote o tidal) refleja la distensibilidad intracraneal, P3 (dícrota)    representa la pulsación venosa. Los ciclos de ondas de PIC son    también pulsátiles, reflejando los ciclos respiratorios. Niveles    de PIC hasta 15 mmHg son normales, mayores a 20 mmHg moderadamente elevados    y superiores a 40 mmHg, severamente elevados (figura 5).    Dentro de los ciclos de ondas de PIC, se identifican 3 tipos de variaciones:    ondas "A", "B" y "C". Las ondas plateau "A"    (figura 6), son de gran relevancia clínica, porque    indican una compliance intracraneal peligrosamente disminuida, tienen    un patrón de ascenso progresivo, desde un nivel normal a presiones que    alcanzan 50 mmHg o más, persisten por 5 a 20 minutos para luego caer    abruptamente a niveles incluso bajo los normales. Generalmente, se acompañan    de síntomas y signos de disfunción cerebral y tronco, asociadas    a una disminución de la PPC, anunciando descompensación y riesgo    de herniación cerebral. Las ondas tipo "B" son más frecuentes    y de menor significancia clínica. Son oscilaciones rítmicas rápidas,    con peaks elevados, que ocurren cada 1 a 2 minutos, con un patrón de    ascenso in crescendo desde un nivel basal variable a 20-30 mmHg sobre    él, cayendo en forma abrupta sin intervención externa. Las ondas    "C" pueden tener alta o baja amplitud y parecen tener poca significancia    clínica. El aumento de la PIC aumenta la amplitud del componente vascular,    mientras que la magnitud relativa del componente respiratorio puede disminuir.    Así, la amplitud de pulso de la PIC aumenta linealmente con aumentos    en la PIC. La amplitud de pulso puede aumentar antes que la PIC media aumente,    lo que tiene importancia clínica pues predice el deterioro antes que    la PIC aumente, es decir, el aumento en la amplitud de pulso en ausencia de    una PIC elevada indica un deterioro de la distensibilidad cerebral.
+
+   Figura 4. Ondas de Presión Intracraneal.
+
+   
+
+ Figura 5. Ciclos de Ondas de PIC. 
+
+    Figura 6. Ondas A.
+
+TRATAMIENTO DE LA HIPERTENSIÓN    INTRACRANEANA       (HTIC) SECUNDARIA A TEC 6,17-21
+
+El tratamiento de la HTIC debiera iniciarse conociendo la PIC, de lo contrario    es como tratar una crisis hipertensiva sin conocer la presión arterial,    por lo cual, debe ser monitorizada. El tratamiento está basado en al    menos 5 principios: 1.- Optimizar la oxigenación y ventilación,    2.- Maximizar el apoyo circulatorio (PAM y PPC), 3.- Disminuir la PIC (figura    7), 4.- Disminuir y/o evitar aumentos de la tasa de metabolismo cerebral,    y 5.- Prevenir y/o tratar complicaciones locales y sistémicas del TEC.    A su vez, los objetivos del tratamiento deben dirigirse a: 1.- Mantener una    PIC < 20-25 mmHg, 2.- Mantener una PPC > 60 mmHg (controvertido en niños),    3.- Mantener un acoplamiento adecuado entre el CMRO2 y el FSC (CERO2    > 40%) y 4.- Mantener la terapia por al menos 48 horas si esta ha sido efectiva.
+
+  
+
+Las terapias específicas existentes para el tratamiento    de la HTIC, son comentadas a continuación, de acuerdo a la evidencia    de la literatura:
+
+
+
+  
+
+ 
+
+ Barbitúricos: los barbitúricos reducen la demanda metabólica      funcional cerebral, reduciendo el CMRO2. Esto disminuiría      el FSC, el VSC y la PIC, potenciando la perfusión global cerebral y      mejorando la oxigenación. Sin embargo, la buena respuesta a barbitúricos      depende de un buen acoplamiento entre el CMRO2 y el FSC. La recomendación      actual es usar terapia con barbitúricos en pacientes con hemodinamia      estable y PIC refractaria al manejo médico/quirúrgico completo,      esto es: cuando se han utilizado agentes osmóticos frecuentemente y/o      existe una alteración de la osmolaridad sérica importante, con      PIC > 20 mmHg por varias horas pese a la terapia instaurada, con PIC >      30 mmHg por 1 hora o con PIC > 40 mmHg por breves períodos. Si se      instaura el coma barbitúrico, debe ser monitorizado con EEG, obteniendo      en el trazado ondas de "burst¾supression"      que reflejen su acción. Son indicaciones de finalización del      coma barbitúrico las siguientes situaciones: EEG isoeléctrico,      Hipotensión sostenida, HTIC refractaria. Dentro de las complicaciones      del uso de barbitúricos se cuentan: infección por inmunodepresión,      depresión miocárdica, hipotermia, hipotensión y alteraciones      hidroelectrolíticas. Como el resto de las terapias, no existe evidencia      que los barbitúricos ofrezcan beneficios.6,7,28   Profilaxis anticonvulsivante: las convulsiones exacerban el daño      por segunda injuria al aumentar el CMRO2, el FSC, el VSC, la PIC      y al disminuir la PAM y la PPC, presentando además riesgo de aspiración      y neumonía nosocomial. La incidencia de convulsiones post-TEC es de      5 a 10%, clasificándose en precoces (< 7 días) y tardías      (> 7 días), siendo las últimas las que determinan pronóstico.      Factores de riesgo de desarrollar convulsiones son: Glasgow < 10, hematoma      subdural, hematoma epidural, hematoma intracerebral, fracturas deprimidas      y herida cefálica penetrante. Según la literatura actual, el      uso de anticonvulsivantes no estaría recomendado para la prevención      de convulsiones tardías. La Fenitoína, sin embargo, es considerada      aceptable para la prevención de convulsiones post traumáticas      precoces. Se recomienda una dosis de carga de 20 mg/kg y 5-7 mg/kg/d de dosis      de mantención para alcanzar niveles plasmáticos de 40-80 Umol/L.6,7,17  Craniectomía descompresiva: alternativa quirúrgica      de efectividad controvertida, planteable en aquellos pacientes en que pese      a la terapia médica completa no se logra el control de la PIC, pero      que presentan valores menores a 40 Torr (riesgo de enclavamiento paradójico      frente a la descompresión con valores mayores) y un Score de Glasgow      > 3 puntos, siempre y cuando estén dentro de las primeras 48 horas      de producida la injuria. En niños, la craniectomía descompresiva      realizada dentro de las primeras 6 horas de producida la injuria, se asociaría      a una mejor evolución neurológica. El IP/V podría representar      un criterio de selección para craniectomía. Considerada una      terapia de salvataje, no hay evidencia real de que esta alternativa terapéutica      mejore el pronóstico ni la evolución2,29-33.  Drenaje lumbar de LCR controlado:consiste en la ubicación      de un catéter de silicona en el espacio subaranoideo, al nivel de L3"L4,      previa comprobación de cisternas basales reconocibles en el TAC. El      extremo proximal del catéter se conecta a un sistema recolector estéril      ubicado a 5 a 15 cm sobre el Agujero de Monro, para luego drenar 5 a 20 ml      de LCR bajo monitorización estricta de PIC y pupilas. Este procedimiento      ha sido reportado en pacientes en que tanto la terapia médica como      quirúrgica agresiva no han sido efectivas, y faltando estudios para      determinar su real eficacia.34 36 
+
+  Profilaxis anticonvulsivante: las convulsiones exacerban el daño      por segunda injuria al aumentar el CMRO2, el FSC, el VSC, la PIC      y al disminuir la PAM y la PPC, presentando además riesgo de aspiración      y neumonía nosocomial. La incidencia de convulsiones post-TEC es de      5 a 10%, clasificándose en precoces (< 7 días) y tardías      (> 7 días), siendo las últimas las que determinan pronóstico.      Factores de riesgo de desarrollar convulsiones son: Glasgow < 10, hematoma      subdural, hematoma epidural, hematoma intracerebral, fracturas deprimidas      y herida cefálica penetrante. Según la literatura actual, el      uso de anticonvulsivantes no estaría recomendado para la prevención      de convulsiones tardías. La Fenitoína, sin embargo, es considerada      aceptable para la prevención de convulsiones post traumáticas      precoces. Se recomienda una dosis de carga de 20 mg/kg y 5-7 mg/kg/d de dosis      de mantención para alcanzar niveles plasmáticos de 40-80 Umol/L.6,7,17  Craniectomía descompresiva: alternativa quirúrgica      de efectividad controvertida, planteable en aquellos pacientes en que pese      a la terapia médica completa no se logra el control de la PIC, pero      que presentan valores menores a 40 Torr (riesgo de enclavamiento paradójico      frente a la descompresión con valores mayores) y un Score de Glasgow      > 3 puntos, siempre y cuando estén dentro de las primeras 48 horas      de producida la injuria. En niños, la craniectomía descompresiva      realizada dentro de las primeras 6 horas de producida la injuria, se asociaría      a una mejor evolución neurológica. El IP/V podría representar      un criterio de selección para craniectomía. Considerada una      terapia de salvataje, no hay evidencia real de que esta alternativa terapéutica      mejore el pronóstico ni la evolución2,29-33.  Drenaje lumbar de LCR controlado:consiste en la ubicación      de un catéter de silicona en el espacio subaranoideo, al nivel de L3"L4,      previa comprobación de cisternas basales reconocibles en el TAC. El      extremo proximal del catéter se conecta a un sistema recolector estéril      ubicado a 5 a 15 cm sobre el Agujero de Monro, para luego drenar 5 a 20 ml      de LCR bajo monitorización estricta de PIC y pupilas. Este procedimiento      ha sido reportado en pacientes en que tanto la terapia médica como      quirúrgica agresiva no han sido efectivas, y faltando estudios para      determinar su real eficacia.34 36 
+
+ Craniectomía descompresiva: alternativa quirúrgica      de efectividad controvertida, planteable en aquellos pacientes en que pese      a la terapia médica completa no se logra el control de la PIC, pero      que presentan valores menores a 40 Torr (riesgo de enclavamiento paradójico      frente a la descompresión con valores mayores) y un Score de Glasgow      > 3 puntos, siempre y cuando estén dentro de las primeras 48 horas      de producida la injuria. En niños, la craniectomía descompresiva      realizada dentro de las primeras 6 horas de producida la injuria, se asociaría      a una mejor evolución neurológica. El IP/V podría representar      un criterio de selección para craniectomía. Considerada una      terapia de salvataje, no hay evidencia real de que esta alternativa terapéutica      mejore el pronóstico ni la evolución2,29-33.  Drenaje lumbar de LCR controlado:consiste en la ubicación      de un catéter de silicona en el espacio subaranoideo, al nivel de L3"L4,      previa comprobación de cisternas basales reconocibles en el TAC. El      extremo proximal del catéter se conecta a un sistema recolector estéril      ubicado a 5 a 15 cm sobre el Agujero de Monro, para luego drenar 5 a 20 ml      de LCR bajo monitorización estricta de PIC y pupilas. Este procedimiento      ha sido reportado en pacientes en que tanto la terapia médica como      quirúrgica agresiva no han sido efectivas, y faltando estudios para      determinar su real eficacia.34 36 
+
+ Drenaje lumbar de LCR controlado:consiste en la ubicación      de un catéter de silicona en el espacio subaranoideo, al nivel de L3"L4,      previa comprobación de cisternas basales reconocibles en el TAC. El      extremo proximal del catéter se conecta a un sistema recolector estéril      ubicado a 5 a 15 cm sobre el Agujero de Monro, para luego drenar 5 a 20 ml      de LCR bajo monitorización estricta de PIC y pupilas. Este procedimiento      ha sido reportado en pacientes en que tanto la terapia médica como      quirúrgica agresiva no han sido efectivas, y faltando estudios para      determinar su real eficacia.34 36 
+
+ TERAPIAS EXPERIMENTALES
+
+0000Terapia de LUND: se basa en: a) preservación    de fuerzas oncóticas sistémicas (Albúmina 4 gr/l, Hematocrito    34-36% y uso de furosemida), b) reducción de la presión hidrostática    capilar mediante la reducción de la presión arterial sistémica,    con terapia antihipertensiva (Metoprolol combinado con Clonidina) y c) constricción    simultánea moderada de los vasos cerebrales de resistencia precapilar,    con bajas dosis de Tiopental (0,5 a 3 mg/kg/h) y Dihidroergotamina (0,9 gamas/kg/h).    Apunta a una PPC de 50 mmHg (40 mmHg en niños) y drenaje de LCR sólo    si la PIC es mayor de 25 mmHg. Faltan mayores estudios de esta terapia para    establecer definitivamente su eficacia6,7.
+
+0000Hipotermia inducida: utilizada para    reducir la PIC por un mecanismo no bien establecido, se creía que era    por la disminución del CMRO2, ya que rangos leves a moderados (37 a 32°    C) lo reducen en un 10%, sin embargo, se ha visto que también potencia    el aumento de neurotransmisores excitatorios y atenúa la apertura de    la BHE. Riesgos potenciales de esta terapia son: neumonía, sepsis, coagulopatía,    isquemia miocárdica y fibrilación auricular. La evidencia acerca    de su eficacia es aun controvertida6,7,37 39.
+
+0000Corticoides: si bien    se ha demostrado beneficio en la disminución del edema perilesional cerebral    estructural, no existe información actual que apoye su uso en el contexto    del TEC grave6,7,40 41. 
+
+0000Indometacina:    único AINE con acción sobre el FSC en pacientes con PIC elevada    y TEC, en bolos de 30-50 mg reduciría la PIC en 37 a 52%, el FSC en 22-26%,    y la PPC sólo en 14%. El inicio del efecto es casi inmediato, con un    peak de acción a los 1-5 minutos. La duración del efecto sobre    la PIC es al menos de 4 horas (hasta 30 horas) en infusión continua.    Puede ser potencialmente deletérea en pacientes con CERO2    alta o autorregulación deteriorada, pudiendo disminuir el FSC a niveles    isquémicos, puede causar isquemia coronaria (especialmente durante anemia    hipoxémica), hipotensión, shunt sistémico y deterioro de    la CERO2. No debiera ser utilizada en pacientes con SBYO2    baja (< 60%), bajo CMRO2 (< 40 ml/100 g tejido cerebral/min),    signos o síntomas de vasoespasmo cerebral, isquemia cardíaca,    falla renal o úlcera gastrointestinal6,42.
+
+ NEUROPROTECCIÓN6,7
+
+0000Bloqueadores    de calcio: Nimodipino, bloqueador de calcio cerebro-selectivo, utilizado    con relativo éxito en la Hemorragia Subaracnoidea por Aneurismas. Su    acción sería a través de neutralizar la acción del    calcio en las cascadas metabólicas del daño por segunda injuria    43.
+
+0000Omega-conopeptido    SNX-111: antagonista potente de los canales voltaje dependientes N-tipo    calcio, por lo que inhibiría los procesos exocitotóxicos, produce    hipotensión. 
+
+0000Atrapadores    de radicales libres: SOD, tocoferol, ácido ascórbico, ácido    retinoico, inhiben la lipoperoxidación de las membranas celular evitando    mayor daño cerebral.
+
+ 0000Antagonistas    del receptor de NMDA: inhiben mecanismos excitotóxicos por sobreestimulación    del receptor NMDA por los aminoácidos Glutamato y Aspartato, que resultan    en falla de la bomba iónica celular. Mediante la inhibición de    este receptor podría evitarse parte del daño cerebral.
+
+0000Ciclosporina:    inhibe la apertura de los poros de transición mitocondriales, manteniendo    la homeostasis del calcio aislada en la mitocondria, también inhibiría    el daño axonal inducido por calcio.
+
+0000Magnesio:    efectos neuroprotectores potenciales actualmente en estudio.   Ningún tratamiento "neuroprotector" ha demostrado mejorar la    sobrevida de pacientes con TEC.
+
+MANEJO DEL TEC
+
+Proponemos un algoritmo de enfrentamiento inicial del TEC (figura    9). Todo TEC moderado a severo requerirá de TAC cerebral seriados,    por lo que si el centro no cuenta con el equipo necesario, el paciente debe    ser referido a uno que lo posea. Es imprescindible evitar o minimizar la injuria    secundaria.
+
+  
+
+Además proponemos un protocolo de manejo de TEC grave considerando    la evidencia existente en la literatura:
+
+I. Medidas generales
+
+ - Asegurar vía aérea: ventilación mecánica protectora      (volumen corriente 6-10 ml/kg; PEEP 3 a 5 cm H2O). Recordar que PEEP y presión      media de la vía aérea (PMVA) se correlacionan con la PIC, pero      que la hipoxemia es más deletérea que la hipercarbia6,45.     - Monitorización invasiva: línea arterial, PVC, Sonda Foley,      Capnografía, Captor de PIC (tabla 4), Saturación      bulbo-yugular (optativo si no hay monitorización continua y/o según      respuesta a tratamiento), EEG seriado (idealmente continuo), ECO Doppler transcraneal      (si se cuenta con él).     - Favorecer retorno venoso cerebral: elevación de la cabeza en 30º      línea media6,45-47,      PMVA baja.     - Hidratación para mantener euvolemia 1 800 a 2 000 cc/m2/día.     - Aportar glucosa sólo si glicemia es < 200 mg/dl (mayor a esto      se correlaciona con peor evolución neurológica)19.     - Mantener PAM para alcanzar PPC >60. Utilizar vasopresores/inótropos      si es necesario48 50 .     - Manejo agresivo de la fiebre, pues ella implica una mayor demanda metabólica:      uso profiláctico de antipiréticos a horario (eventual uso de      Clorpromazina y Meperidina si fiebre es refractaria).     - Evitar agitación (evitar aumentos de la PIC): Mantener sedoanalgesia      en infusión continua, paralización en infusión continua      sólo si se cuenta con monitoreo EEG continuo, aislamiento de ruidos.     - Anticonvulsivantes profilácticos frente a sospecha o confirmación      imagenológica de lesión focal6,7.
+
+II. Medidas específicas frente a aumentos agudos de la PIC:
+
+ - Drenaje de LCR por catéter intraventricular, hasta alcanzar valores      de PIC < 25 mmHg.     - Manitol, siempre que la osmolaridad no sea > 330 mOms/kg y/o exista lesión      hemorrágica.     - Solución hipertónica (3%, 5%, 7,5%, 10%) en bolo o infusión      continua, intentando no sobrepasar una concentración de Sodio >      160 mEq/l y/u osmolaridades > 330 mOsm/kg.     - Furosemida asociada a Manitol y/o SH para mantener volemia, natremia y osmolaridad      adecuadas.     - Hiperventilación controlada, con Sat BY > 70%, por períodos      cortos, mantener PCO2 30"35 mmHg, sólo si otras medidas      han fallado.     - Coma barbitúrico si hay PIC refractaria a manejo previo. Tiopental      1¾5 mg/kg/h. Controlar con EEG.      - Craniectomía descompresiva con PIC < 40 mmHg, refractaria al manejo      médico y dentro de las primeras 48 horas de producido el TEC.     - Drenaje lumbar controlado, sólo si todo lo anterior ha fallado y      existan cisternas reconocibles en el TAC.
+
+CONCLUSIÓN

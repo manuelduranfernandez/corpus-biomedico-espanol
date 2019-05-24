@@ -1,0 +1,120 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062015000400006
+Variación secular de los nacimientos, peso y longitud al nacer: perspectiva local
+
+ 
+
+Introducción
+
+Las medidas antropométricas al nacer han sido utilizadas para evaluar las condiciones del embarazo1,2 y, más recientemente, han tenido una nueva mirada al asociarse la injuria fetal, medida a través del peso al nacer, con las enfermedades crónicas del adulto3,4.
+
+La antropometría del recién nacido no solo refleja las condiciones intrauterinas y maternas que le ha tocado vivir, como nutrición, exposición a tabaco, medicamentos y drogas, sino también las condiciones socioeconómicas y la duración del embarazo. Adicionalmente, la instrumentalización del parto ha actuado en sentido negativo, al observarse que en las sociedades más avanzadas ha habido una tendencia al aumento de las cesáreas, las que se practican generalmente antes de la fecha prevista del parto, teniendo como consecuencia, entre otras, una disminución de las medidas antropométricas al nacer5.
+
+Las medidas antropométricas al nacer han tenido una evolución favorable en el país, situándolo con valores semejantes a las de los países más desarrollados6,7, indicándose que estas mejorías podrían estar relacionadas con los cambios socioeconómicos positivos observados estas últimas décadas, lo que se ha traducido en una equidad social asociada al producto del embarazo8,9. Sin embargo, se desconoce su efecto en los distintos niveles de atención, al verificarse una concentración de los partos de riesgo en algunos hospitales y maternidades de mayor complejidad, la mayoría de ellos ubicados en ciudades de gran tamaño y en lugares donde hay una alta densidad poblacional, lo que traería como consecuencia una disminución de los nacimientos en los centros de atención ubicados en las localidades de menor tamaño.
+
+Las políticas de descentralización han estimulado que en el nivel local (municipio, consejos regionales) se puedan establecer acciones destinadas a atender las demandas de la población10, para lo que se requiere tener información actualizada y desagregada de sus realidades. El análisis de las condiciones locales es relevante al entregar antecedentes que permitan elaborar actividades, pero esta información puede tener distorsiones necesarias de considerar.
+
+En general existe un desconocimiento de la información que se genera a nivel local, siendo evidente cuando se analizan series de tiempo de largo tiempo. Este desconocimiento es marcado en lugares con menor nivel de desarrollo por falta de recolección de datos, dificultades en el almacenamiento de los registros y su posterior análisis. Si bien Chile tiene un buen sistema de información en el área de las estadísticas vitales11, analizar series de tiempo a nivel local y compararlas con lo que se publica a nivel nacional puede evidenciar situaciones diferentes y entregar antecedentes para políticas públicas a nivel central y local.
+
+Desde finales de la década de los 90 hemos estudiado las características del nacimiento en los nacidos vivos del único hospital/maternidad que atiende 2 municipios semi rurales de la región de Valparaíso, Limache y Olmué, y su asociación con enfermedades crónicas del adulto12–15. El objetivo de este trabajo fue analizar la evolución de las medidas antropométricas al nacer de los nacidos vivos en el Hospital de Limache, región de Valparaíso, desde mediados de la década de los 70 hasta el año 2011.
+
+Pacientes y método
+
+Se recopiló información de los nacimientos ocurridos en el Hospital Santo Tomás de Limache desde enero de 1974 hasta diciembre de 2011. Este hospital es la única institución pública localizada en esa área geográfica, representativo de un centro asistencial de una ciudad de mediano tamaño, localizada a corta distancia de ciudades más grandes y destinada a atender los partos de las comunas de Limache y Olmué, en el que la información es registrada por personal de la maternidad después de la atención de cada parto, bajo normas establecidas por el servicio de salud del país16.
+
+La información se registra en un libro en que se consigna el tipo de parto, número de gestaciones, edad y nombre de la madre, puntuación en el test de APGAR, sexo, peso y longitud al nacer. Con el universo de los nacimientos atendidos en este hospital se construyeron series de tiempo que cubrieron un período de 37 años de forma ininterrumpida.
+
+Para los análisis se construyeron splines que representan los quiebros de tendencia (cambios de trayectoria) en distintos momentos del tiempo, y los análisis se efectuaron mediante modelos de regresión lineal múltiple17, considerándose significativos valores de p < 0,01. La evolución de los nacimientos por año se analizó mediante las pendientes por década. En el análisis de respuestas binarias se elaboraron modelos de regresión logística, también utilizando splines para representar los cambios de tendencia. El uso de splines lineales por décadas equivale a lo que se conoce como piecewise regression, que corresponde a regresión por segmentos. Esto permite que la relación entre peso al nacer y los años correlativos tenga diferente pendiente en cada década.
+
+Para el análisis de las medidas antropométricas al nacer la variable peso se categorizó de acuerdo a criterios internacionales sugeridos18, y la longitud al nacer se categorizó de acuerdo a desviaciones estándar, según referencia OMS, para cada sexo.
+
+Los datos fueron digitalizados en planillas Excel, para el análisis de ellos se utilizó el software SPSS en su versión 20 y Stata en su versión 11.
+
+Resultados
+
+En la década de los 70 hubo un incremento de 30 nacimientos por cada año, posteriormente en los 80 se inicia un descenso de 17 nacimientos por año, en los noventa de 22 y a partir del año 2000 la disminución es menor, llegando a una reducción de 11 nacimientos/año. Todos los cambios de trayectoria alcanzaron significación estadística (p < 0,0001) respecto al inicio de la serie (1974) o al periodo anterior. En la figura 1 se observa la evolución de la serie de nacimientos para el periodo estudiado.
+
+ 
+
+
+
+Figura 1 Número de nacimientos por año entre 1974 y 2011; Hospital de Limache,          región de Valparaíso.
+
+ 
+
+El número de nacidos vivos por mujer al inicio del periodo era de 2,8 y al final de la serie de 1,95. Desde el comienzo y hasta el año 2000 se evidencia una disminución de un 4,7% para los 70, 3,2% para los 80, 2,7% para los 90, sin variaciones significativas posteriores. Se observa además una disminución de las desviaciones estándar a medida que transcurren los años, no siendo posible recuperar esta información en el año 1984 (fig. 2).
+
+ 
+
+
+
+Figura 2 Número de nacidos vivos por madre entre 1974 y 2011; Hospital de Limache,          región de Valparaíso.
+
+ 
+
+El promedio de peso al nacer se incrementó casi 300 g en todo el período, con un incremento promedio de 22,9 g/año en los setenta, de 7,8 y 9,7 g/año en los ochenta y noventa, y de 5,7 g/año después de 2000 (ajustado por sexo y ser primípara); todos los splines fueron significativos (p < 0,001); los recién nacidos en el período 2000-2011 registraron 266 g más en promedio respecto a los nacidos en la década de los 70 (p < 0,001), alcanzando valores medios al nacer de 3.530 g (fig. 3).
+
+ 
+
+
+
+Figura 3 Promedio de peso al nacer (kg) en los nacidos vivos del Hospital de Limache          entre 1974-2011, región de Valparaíso.
+
+ 
+
+El bajo peso al nacer tuvo una tendencia a la disminución, observándose valores cercanos al 10% en la década de los 70, para alcanzar cifras menores al 2% después de 2000. La misma tendencia se observó con el peso insuficiente, cuyos valores al inicio del estudio eran sobre 20% y al final de la serie no superan el 7% (fig. 4). Al analizar esta serie mediante regresión logística, usando un spline con nodos en cada cambio de década, se encontró un descenso promedio anual del orden del 14% en los 70 (IC 95%: 10-18), 6% en los 80 (IC 95%: 2,8-8,7), 5% en los 90 (IC 95%: 2,4-9,3) y 12% (IC 95%: 2,6-19) después de 2000 (datos no mostrados). En cuanto al peso insuficiente se encontró un descenso promedio anual de 2,1% (IC 95%: 0,9-4,8) en los 70, 3% en los 80 (IC 95%: 1,5-4,4), 1,7% (IC 95%: 0,9-3,5) en los 90 y 4,3% (IC 95%: 1,7-6,8) después de 2000, ninguno de ellos significativo (datos no mostrados).
+
+ 
+
+
+
+Figura 4 Evolución del bajo e insuficiente peso al nacer en los nacidos en el Hospital de          Limache entre 1974-2011, región de Valparaíso.
+
+ 
+
+La longitud al nacer tuvo una ganancia de casi 1 cm en los 37 años estudiados (fig. 5). En cuanto a la tendencia, en la década de los 70 se observó un incremento de 4,7% por año, que va disminuyendo progresivamente para no observarse tendencia significativa a partir de 2000. Con respecto a la talla baja al nacer (< –2 desviaciones estándar), se evidenció una disminución importante en el periodo estudiado, con valores menores al 8% al inicio de la serie y llegando a cifras menores al 2% en 2011 (fig. 6). En cuanto a la tendencia solo se verificó una disminución significativa anual para los 70 (9,3%; IC 95%: 5,6-13,4) y 80 (7,5%; IC 95%: 4,7-10,3). Para las décadas más recientes no se observó una tendencia significativa.
+
+ 
+
+
+
+Figura 5 Talla al nacer de los nacidos vivos en el Hospital de Limache entre 1974-2011,          región de Valparaíso.
+
+ 
+
+
+
+Figura 6 Evolución de la talla baja al nacer en los nacidos en el Hospital de Limache          entre 1974-2011, región de Valparaíso.
+
+ 
+
+Discusión
+
+Los resultados de este estudio indican que el número de nacidos vivos en el Hospital de Limache ha disminuido en los 37 años analizados, observándose paralelamente una mejoría de las medidas antropométricas al nacer. Lo anterior podría explicarse por una disminución de la natalidad, una mejoría de las condiciones del embarazo y parto en las comunas estudiadas y/o una ocurrencia de derivación oportuna de embarazos de alto riesgo obstétrico a centros de mayor complejidad.
+
+Esta información podría ser un buen antecedente para la elaboración de políticas y programas a nivel local destinados a mejorar las condiciones del embarazo y parto, y ser útil para redefinir las inversiones en salud materna a ese nivel de acción19. Esta es una información bien registrada y estimada, pero podría ser incorrectamente interpretada si no se considera la existencia de posibles sesgos que se encuentran en análisis poblacional de este tipo de datos y que podrían producir una estimación incorrecta del efecto de interés20.
+
+Las mejorías de las condiciones de infraestructura vial han permitido un mejor acceso a los centros asistenciales de mayor complejidad, también el transporte de pacientes desde un centro asistencial de menor complejidad a uno más especializado, facilitándose de forma institucional o directamente a los beneficiarios el acceso a estos centros destinados a atender población de mayor riesgo biológico, cuya consecuencia ha sido que algunas maternidades disminuyan y otras aumenten el número de partos. Esta es una situación que se puede repetir en varios lugares del país y del continente en que hay una redefinición de la función de este tipo de institución debido a las mejorías del transporte y la comunicación. Esto se complementa con la atención del parto en instituciones privadas. En el caso chileno se ha implementado un convenio que permite a algunas usuarias del sistema público la atención del parto en hospitales privados21.
+
+Desde el punto de vista de la validez externa se puede señalar que lo más probable es que estos resultados sean similares a los que se encontrarían en otras comunas semi-rurales del país que tienen un hospital básico, que están a una distancia razonable y con buenas vías de acceso a un hospital de referencia. Estos resultados no deberían replicarse en grandes centros urbanos que cuentan con infraestructura para atender todo tipo de partos.
+
+En este trabajo no se contabilizaron los partos de madres residentes en las comunas de Limache y Olmué que tuvieron sus hijos en otras ciudades por haber tenido partos de riesgo (múltiples, prematuros, retardo severo del crecimiento intrauterino, cesáreas u otros). Lo anterior repercute en el número de nacimientos en los diferentes niveles de atención y en las medidas antropométricas al nacer. Esta es la situación que se ha comprobado en el hospital estudiado, y probablemente se repite en muchos hospitales tipo 4 (básico) que están atendiendo principalmente partos normales de personas de bajos recursos que habitan en las respectivas comunas.
+
+Según la OMS un parto normal sería aquel de inicio espontáneo, bajo riesgo al comienzo del parto, manteniéndose como tal hasta el alumbramiento. «El niño nace espontáneamente en posición cefálica entre las 37 a 42 semanas completas. Después de dar a luz, tanto la madre como el niño se encuentran en buenas condiciones»22. Según esta misma referencia, entre un 70% a 80% de todas las gestantes se pueden considerar como de «bajo riesgo» al comienzo del parto, cifras similares a las verificadas en el país23.
+
+Los resultados de este estudio, evaluados a través del peso al nacer, son favorables, incluso considerando los sesgos de selección, y coherentes con lo reportado a nivel nacional que sitúa a Chile con valores cercanos a países de mejor nivel de desarrollo6 y que se refleja en que las diferencias por nivel socioeconómico en este tipo de indicadores han ido desapareciendo, al no observarse mayores desigualdades desde hace más de una década14. Una situación menos favorable se dio con la longitud al nacer que no logra alcanzar los valores promedio señalados como esperables según la OMS, aunque la talla baja al nacer mejora considerablemente. Este tema requiere más estudio.
+
+La condición de bajo e insuficiente peso al nacer tiene una frecuencia mínima especialmente en los últimos años analizados. La mejoría de estos parámetros hace pensar que existiría a largo plazo menor riesgo de presentar enfermedades crónicas no trasmisibles, según la teoría de D. Barker24. En estudios realizados con población nacida en Limache, evaluada en la vida adulta, hemos podido demostrar que el menor peso al nacer efectivamente se asocia a mayores valores de lípidos sanguíneos, presión arterial y glicemia, pero también hemos podido demostrar la contribución de factores que actúan a lo largo de la vida de las personas que son también importantes en la existencia de estas enfermedades, como son la obesidad, el sedentarismo y otros12,25,26.
+
+Estos datos analizados desde la perspectiva local pueden no reflejar necesariamente una mejoría debido a que los partos de riesgo se han derivado a centros de mayor complejidad, por lo que la buena situación antropométrica al nacer hay que interpretarla con cautela. A su vez, las madres residentes en estas comunas que tienen buen nivel socioeconómico y que no tuvieron su parto en el hospital de Limache podrían modificar los datos antropométricos al nacer, al menos de 2 formas: que la esperable mejor atención que han tenido durante el embarazo sumado a un adecuado estado nutricional se acompañen de partos de buen peso al nacer (que si nacieran en el Hospital de Limache contribuirían a mejorar aún más las cifras encontradas) o que a la inversa, debido a la posibilidad que tienen estas madres de acceder con más frecuencia a partos por cesárea, o con un adelantamiento de la fecha final de parto, estos casos hubieran contribuido a la disminución de los buenos índices antropométricos al nacer encontrados en la comuna. Por lo tanto, las acciones a nivel local deben tener en consideración estos aspectos.
+
+Los análisis que comprobaron los cambios de tendencia reflejan que en relación con el peso hay un aumento progresivo en los promedios, que podrían seguir aumentando, y hay una disminución del bajo peso especialmente al inicio del período estudiado, llegando en estos últimos años a valores que difícilmente pueden reducirse. Lo anterior podría ser interpretado como un efecto positivo de las condiciones del embarazo, pero no es descartable un efecto no deseado (niños macrosómicos) de la epidemia de obesidad que afecta a la población nacional. Sin embargo, para un correcto análisis es preciso considerar los sesgos y para ello se sugiere realizar análisis que muestren la situación de las madres que son derivadas a hospitales donde se atienden partos de riesgo y/o la población de mejores recursos para comparar las tendencias en los indicadores analizados.
+
+La disminución de los nacidos vivos en los municipios que han sido parte de este trabajo es concordante con la baja de las tasas de natalidad observadas en el país en el período de esta investigación. A nivel nacional se indicó una reducción de 43%27, mientras que en el Hospital de Limache esta disminución alcanzó el 69%. Debe mencionarse que en la década de los 70 la totalidad de los nacidos de madres residentes en esas comunas eran atendidos en el Hospital de Limache, mientras que en la actualidad solo un cuarto de ellas se atienden en ese centro asistencial. ¿Qué es lo deseable en la actualidad? ¿Será mejor disponer de recursos para el traslado de las madres a control y atención del parto a centros asistenciales de mayor complejidad? O por el contrario lo deseable sería invertir en mejorar la atención local en localidades como Limache (de mediano tamaño), contratando matronas y obstetras que puedan responder a las necesidades locales y mejorando la infraestructura de la atención del parto, de manera que se trasladaran solo los casos que requirieran manejo especializado para las madres o sus recién nacidos. Son temas que merecen reflexión en la realidad actual del país.
+
+Este trabajo tiene la fortaleza de que ha recuperado toda la información del nacimiento desde la década de los 70 hasta la actualidad, lo que reafirma que la información proveniente del sistema de información chileno es válida para realizar trabajos de asociación o de tendencias de largo tiempo28, ya que la información ha sido registrada por profesionales capacitados y con normas establecidas desde hace muchos años. Este es un trabajo que ha analizado información de larga data y probablemente es una de las series de tiempo de datos al nacer más extensas del país y de América Latina, lo que en sí es una fortaleza y un buen ejemplo de la utilidad que entrega la información que se genera a nivel local. Nuestros resultados indican que el análisis de información a nivel local puede presentar gran utilidad para la toma de decisiones a ese nivel, sin embargo esta información debe ser interpretada con cuidado, considerando los posibles sesgos existentes y complementando la información según la residencia de la madre. Por otro lado, este posible sesgo de selección está indicando que el sistema de salud capta y refiere oportunamente los casos de riesgo, limitando la atención en los hospitales básicos de ciudades de tamaño pequeño y mediano a los partos con menos riesgo, y también refleja que con mayor frecuencia las madres de estas localidades recurren a centros asistenciales privados.
+
+Nosotros concluimos que los nacidos vivos en el Hospital de Limache han disminuido en los años analizados. Las medidas antropométricas al nacer han mejorado, desapareciendo los valores de riesgo. Esta información sirve para elaborar políticas e intervenciones en salud materna a nivel local, aunque es necesario considerar los posibles sesgos que podrían distorsionar estas estimaciones y su interpretación.
+
+Agradecimientos
+
+A los profesionales del Servicio de Maternidad del Hospital de Limache, por su contribución con información de los nacimientos ocurridos en la institución. A Francisca Soto, alumna del VI año de Medicina de la Universidad de Chile, por su colaboración en la obtención y procesamiento de los datos.

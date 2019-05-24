@@ -1,0 +1,222 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000300318
+Asociación entre la calidad de vida relacionada con la salud y riesgo suicida en adolescentes: estudio transversal
+
+ARTÍCULOS ORIGINALES
+
+Asociación entre la calidad de vida relacionada con la salud y riesgo suicida en adolescentes: estudio transversal
+
+María Ignacia FaureA 
+
+			
+
+Cinthya UrquidiB 
+
+			
+
+Francisco BustamanteC 
+
+			
+
+Ramón FlorenzanoC 
+
+			
+
+Karla AmpueroD 
+
+			
+
+Laura TeránE 
+
+			
+
+María Inés FigueroaF 
+
+			
+
+Magdalena Farías
+
+María Livia RuedaH 
+
+			
+
+Eduardo Giacaman
+
+A Facultad de Medicina, Universidad de los Andes. Santiago, Chile. Interna de la carrera de Medicina.
+
+B Departamento Salud Pública y Epidemiología, Universidad de los Andes. Santiago, Chile. Médico Doctor en Salud Pública.
+
+C Servicio de Salud Mental, Clínica Universidad de los Andes. Santiago, Chile. Médico Psiquiatra.
+
+D Servicio de Salud Mental, Clínica Universidad de los Andes. Santiago, Chile. Enfermera en Salud Mental.
+
+E Unidad de Psiquiatría, Hospital Regional Coyhaique. Aysén, Chile. Médico Psiquiatra.
+
+F Servicio de Psiquiatría, Hospital de Puerto Aysén. Aysén, Chile. Médico Psiquiatra.
+
+H Sub departamento de Gestión y Desarrollo de la Red, Servicio Salud Aysén. Aysén, Chile. Matrona, Encargada del GES Salud Mental y Suicidalidad.
+
+
+
+
+
+Resumen:
+
+Introducción: 
+
+El deterioro de la calidad de vida relacionada con la salud (CVRS) es un factor de riesgo de suicido en adultos; no obstante, poco se ha estudiado esta dimensión en adolescentes.
+
+Ob jetivo: 
+
+Evaluar la asociación entre calidad de vida relacionada con la salud, medido con el EQ-5D-5L, y riesgo suicida en adolescentes y su capacidad de detección transversal de riesgo suicida.
+
+Pacientes y Método: 
+
+128 jóvenes (15-19 años) de la comuna de Puerto Aysén (Chile) respondieron transver salmente el EQ-5D-5L, la escala de suicidalidad de Okasha y dos preguntas de anclaje de riesgo in minente de suicidio. Se consideró como caso de riesgo suicida a un puntaje > 5 en la escala Okasha o la respuesta afirmativa a una de las preguntas de anclaje. Se calculó el valor índice con los perfiles de salud del EQ-5D-5L. Se estimaron Odds Ratios (OR’s) con intervalos de confianza (IC95%), ajus tando por confusores y se calcularon áreas bajo la curva ROC (AUC-ROC) para evaluar la capacidad de pesquisa del EQ-5D-5L.
+
+Resultados: 
+
+21 (16,4%) adolescentes fueron considerados como casos de riesgo suicida. Controlando por confusores, las dimensiones del EQ-5D-5L que se asociaron con ries go suicida fueron: dolor/malestar (OR: 2,5; IC95% 1,1-6,1) y ansiedad/depresión (OR: 2,2; IC95% 1,3-3,6). El AUR-ROC para ambas dimensiones fue del 0,85% (IC95% 0,75-0,91) y de 0,81% para el valor del índice del EQ-5D-5L (IC95% 0,72-0,89).
+
+Conclusiones: 
+
+La CVRS podría ser un factor de riesgo de suicidio en adolescentes; y el EQ-5D-5L que mide esta dimensión, podría ayudar a pesquisar futuros casos y casos ocultos de riesgo suicida.
+
+Palabras clave: Calidad de vida relacionada con salud; suicidio; adolescentes
+
+Introducción
+
+El suicido en adolescentes (15 a 19 años) es una prioridad para la Salud Pública de Chile. Las tasas más altas se concentran en las regiones del sur del país, especialmente en la región de Aysén1. Si no se toman medidas preventivas efectivas, según las proyecciones del Ministerio de Salud se estima que para el año 2020, la tasa en este grupo etario aumentaría en un 39%. En este contexto, el conocimiento de los factores de ries go de suicidalidad y la disponibilidad de herramientas costo-efectivas para pesquisa poblacional, son claves para la prevención y formulación de intervenciones específicas.
+
+La depresión y el intento previo son los factores determinantes de suicidio, no obstante la evidencia sugiere que existen diferencias en el perfil de riesgo entre los diferentes segmentos de edad, por ejemplo: las lesiones auto-infligidas (con o sin intención suici da) y las alteraciones conductuales/psicológicas son los factores que más inciden en suicidio en adolescentes2,3,4,5; mientras que en adultos y adultos mayores, lo son las enfermedades crónicas y la calidad de vida relacionada con la salud (CVRS)2,6 En adolescentes y jóvenes chile nos los factores que se han reportado son la depresión, la dinámica familiar7, consumo de alcohol, impulsividad8 y el intento previo9. En este mismo grupo etario, se ha evaluado la CVRS10 relacionada con la depresión o como resultado de intervenciones de prevención de suicidio11, no obstante, se ha puesto poca atención a la CVRS como factor de riesgo de suicidio en adoles centes, ya que se trata de un segmento etario en el que las enfermedades crónicas o invalidantes son menos frecuentes.
+
+La CVRS es un constructo multidimensional que incluye la salud física, la salud mental y la valoración social de ambas que puede ser fácilmente medible a través de instrumentos cortos y validados como el EQ-5D-5L. Si bien existen cuestionarios específicos para la pesquisa y estratificación de riesgo suicida a nivel comunitario o individual12,13,14,15,16, solo la escala de suicidalidad de Okasha esta validada en Chile17. Adicionalmente, las escalas de suicidalidad no con sideran que el 66% de las víctimas no comunican sus planes o pensamientos suicidas18. En este sentido, la detección oportuna de adolescentes en riesgo de sui cidio y de casos ocultos se podría mejorar con herra mientas simples y ampliamente usadas que aborden de forma indirectala suicidalidad. Nosotros hipotetizamos que la CVRS está relacionada con riesgo suici da (intento, ideación y autoagresión) en adolescentes dado que una autopercepción de deterioro de la salud física o mental sería un mediador entre la ansiedad previa y la conducta suicida19,20; en este mismo sen tido, el EQ-5D-5L tendría un adecuado rendimiento para pesquisar adolescentes en riesgo insertos en la comunidad.
+
+Pacientes y Método
+
+Diseño
+
+Se realizó un estudio de casos y controles transver sal anidado a una cohorte de pesquisa de adolescentes en riesgo suicida llamado RADAR (Red para la Aten ción y Derivación de Adolescentes en Riesgo Suicida). Durante el 2016, en dos de seis colegios con nivel de enseñanza media de la comuna de Puerto Aysén, se implementó el modelo de pesquisa RADAR. Se eligió un colegio municipal y otro particular subvencionado, ambos con el menor índice de vulnerabilidad escolar del Sistema de Asignación con Equidad (IVE-SINAE) de la Junta Nacional de Auxilio Escolar y Becas (JUNAEB), por tratarse de RADAR de una prueba de concepto. Según los datos de la JUNAEB, la matrícula para el 2015 fue de 905 alumnos (362 municipal y 543 particular subvencionado) y el IVE-SINAE del colegio municipal seleccionado fue de 80.6% y de 52,7% en el otro caso21. Durante el mes de abril del mismo año, 128 adolescentes del nivel de enseñanza media y padres/tutores firmaron los formularios de asentimiento y con sentimiento informado. Los jóvenes fueron incluidos al sistema de pesquisa RADAR respondiendo de forma voluntaria la escala de suicidalidad de Okasha17, dos preguntas de anclaje de riesgo inminente de suicidio, el EQ-ED-5L con el consentimiento previo por escrito de la Fundación de Investigación EuroQol y la Escala de Conductas de Riesgo en Adolescentes (ECRA)22, entre otros.
+
+Instrumentos
+
+Los cuestionarios que fueron incluidos en RADAR fueron autoadministrados de forma transversal a tra vés de una plataforma web (www.vivavivir.cl) con una duración aproximada de 30 min.
+
+La escala de suicidalidad de Okasha está compuesta por 4 ítems, de los cuales 3 abordan ideación suicida en diferentes intensidades: ¿Has pensado que la vida no vale la pena? ¿Has deseado alguna vez estar muer to? ¿Has pensado alguna vez terminar con tu vida? y el cuarto ítem relacionado al intento de suicidio previo: ¿Has intentado suicidarte? Cada ítem se responde en escala ordinal codificado de 0 hasta 4 puntos (nunca, casi nunca, algunas veces, muchas veces), con la suma de los puntos de cada ítem se obtiene un puntaje to tal que oscila entre 0 a 12 puntos. Como esta escala mide la ideación e intento histórico, se incluyeron 2 preguntas de anclaje de riesgo de suicidio inminente y autoagresión, las que fueron construidas por un panel de profesionales expertos en suicidio: ¿Has pensado en suicidarte estas dos últimas semanas? ¿Has pensado en auto-agredirte estas 2 últimas semanas (cortarte, quemarte, golpearte)?
+
+Se definió como “caso de riesgo suicida” a un pun taje mayor o igual a 5 en la escala Okasha o a la res puesta afirmativa a cualquiera de las dos preguntas de anclaje de riesgo inminente de suicidio. Se definió como “controles” a los adolescentes con puntaje me nor a 5 en la escala Okasha y a la respuesta negativa a ambas preguntas de anclaje.
+
+Se usó la versión autoadministrada de la escala EQ- ED-5L validada para Chile para medir CVRS23,24. Esta escala consta de dos partes; la primera mide el estado de salud a través de cinco dimensiones (movilidad, autocuidado, actividades habituales, dolor/malestar y ansiedad/depresión), cada dimensión tiene 5 niveles de respuestas que fueron tratados en escala categóri ca ordinal: sin problemas, problemas leves, problemas moderados, problemas severos y problemas extremos. Con el perfil de salud de estas dimensiones, se calculó el “valor índice” del EQ-ED-5L, el conjunto de valo res estándar usados para este índice fue la de Estados Unidos dado que los valores para población chilena no están disponibles en la Fundación de Investiga ción EuroQol. Este índice refleja el estado de salud de la persona el cual oscila desde cero puntos “muerto” hasta 1 punto “perfecto estado de salud”, en una escala cuantitativa continua. La segunda parte del EQ-ED-5L, llamada “EQ-VAS”, mide el propio juicio de la persona con respecto a su estado de salud, se registra en una es cala cuantitativa continua siendo cero “la peor salud” y cien “la mejor salud” que se puede imaginar, en este caso, el adolescente.
+
+De la ECRA7,25, se usó preguntas seleccionadas para el control de potenciales confusores: “reporte de problemas de salud física” (escala dicotómica), escola ridad de la madre (como subrogante del nivel socioe conómico en escala ordinal: básica, media y superior) y antecedentes de problemas por el uso de alcohol/drogas (escala dicotómica).
+
+Análisis estadístico
+
+Para comparar las variables categóricas entre casos y controles se usó la prueba exacta de Fisher, dado que se observaron frecuencias absolutas menores a 5, y la prueba de Mann Whitney en el caso de las variables cuantitativas con asimetría en su distribución. Se con sideró como significativo a valores p menores a 0,05. Se estimaron los Odds Ratios (OR) crudos y ajustados por confusores, con sus respectivos intervalos de confian za (IC95%) a través de modelos de regresión logística. Se calculó el área bajo la curva ROC (AUC-ROC) con IC95% con el método no-paramétrico para evaluar el desempeño del EQ-5D-5L y determinar el punto de corte de cada dimensión a la mejor sensibilidad y espe cificidad. El análisis se realizó con el programa STATA SE (versión 14.0; Stata corp, College Station, Texas) con licencia para la Universidad de los Andes.
+
+Aspestos éticos
+
+El protocolo del estudio fue revisado y aprobado por el comité ético científico de la Universidad de los Andes y del Servicio de Salud de Aysén, siguiendo los principios de Belmont y Helsinki.
+
+Resultados
+
+De los 144 adolescentes que aceptaron participar, 128 respondieron de forma completa los cuestionarios de RADAR, de los cuales el 16,4% (21) fueron clasifica dos como casos de riesgo suicida (figura 1).
+
+
+
+
+
+Figura 1 Flujograma de reclutamiento de la población de estudio. 
+
+
+
+
+
+Figura 1 Flujograma de reclutamiento de la población de estudio. 
+
+Como se puede observar en la tabla 1, la media de edad fue de 15,9 años (desviación estándar 1,2), 50% de la población estuvo conformada por mujeres, el 19,4% reportó antecedentes de problemas con alcohol/ dogas y el 54,3% problemas relacionados a la salud físi ca, sin diferencias significativas entre casos y controles. El valor índice del 5Q-5D-5L fue menor en los casos de riesgo suicida que en los controles (0,74 vs 0,85; p < 0,001) (Tabla 1).
+
+
+
+
+
+Tabla 1 Caracterización de la población de estudio. 
+
+
+
+
+
+
+
+Tabla 1 Caracterización de la población de estudio. 
+
+En la tabla 2 se muestra la asociación entre el re porte de problemas de salud física, las diferentes di mensiones y puntajes del EQ-5D-5L y riesgo suicida. La dimensión de dolor/malestar en el estado de salud del EQ-5D-5L presentó una asociación significativa con riesgo suicida, aún después de ajustar por proble mas de salud física, escolaridad de la madre y proble mas con alcohol/drogas (OR: 2,5; IC95% 1,1-6,1). En el mismo sentido, la dimensión de ansiedad/depresión se asoció con riesgo suicidad (OR: 2,2; IC95% 1,3-3,6). En cambio, el valor índice del EQ-5D-5L presentó una asociación inversa con riesgo suicida (OR: 0,02; IC95% 0,002-0,2). Las dimensiones de movilidad, autocuidado, actividades habituales no presentaron asociaciones significativas (tabla 2).
+
+
+
+
+
+Tabla 2 Odds Ratios (OR) e intervalos de confianza al 95% (IC95%) para la asociación de problemas de salud física, EQ-5D-5L y riesgo suicida. 
+
+
+
+
+
+
+
+Tabla 2 Odds Ratios (OR) e intervalos de confianza al 95% (IC95%) para la asociación de problemas de salud física, EQ-5D-5L y riesgo suicida. 
+
+Con respecto a la capacidad de discriminación de riesgo suicida del EQ-5D-5L, la dimensión de dolor/ malestar, a un punto de corte mayor igual a 2 presen tó una sensibilidad del 72,2% y especificad del 65,0% (AUC-ROC: 0,71; IC95% 0,58-0,84), la dimensión de ansiedad/depresión presentó una sensibilidad del 94,7% y una especificidad del 75,2% al mismo pun to de corte (AUC-ROC: 0,83; IC95% 0,75-0,91); y el valor índice del EQ-5D-5L una sensibilidad del 81% a un punto de corte menor igual a 0,2 (AUC-ROC: 0,81; IC95% 0,72-0,89) (tabla 3). Al evaluar la capacidad de discriminación de ambas dimensiones en conjunto, dolor/malestar y ansiedad/depresión, a través de un modelo logístico multivariado, el AUC_ROC fue de 0,85 con un ajuste de modelo significativo (valor p < 0,01) (figura 2).
+
+
+
+
+
+Tabla 3 Capacidad de pesquisa de la escala EQ-5D-5L para riesgo suicida en adolescentes. 
+
+
+
+
+
+
+
+Tabla 3 Capacidad de pesquisa de la escala EQ-5D-5L para riesgo suicida en adolescentes. 
+
+
+
+
+
+Figura 2 Área bajo la curva ROC (AUC-ROC) de la dimensión dolor/malestar y ansiedad/depresión del cuestionario EQ-5D-5L para pesquisa de riesgo suicida. Modelo logístico multivariado. 
+
+
+
+
+
+Figura 2 Área bajo la curva ROC (AUC-ROC) de la dimensión dolor/malestar y ansiedad/depresión del cuestionario EQ-5D-5L para pesquisa de riesgo suicida. Modelo logístico multivariado. 
+
+Discusión
+
+Nuestros resultados señalan que el estado de salud medido por la dimensión dolor/malestar y por el valor índice del 5Q-5D-5L se asociaron con riesgo de suici dio en la población de estudio; es decir, que a menor valoración de la calidad del estado de salud o mayor el reporte de dolor o malestar en el estado de salud, ma yor es el riesgo de conducta suicida en estos adolescen tes. Estos hallazgos son similares a los reportado por Kim y col.6, en adultos mayores y por los reportados por Hidalgo-Rasmussen y col.26, en adolescentes mexicanos de enseñanza media; aunque en ellos se evaluó la calidad de vida global y no específicamente relacio nada con la salud. La medición de la CVRS a través de un único índice numérico, como el valor índice del 5Q-5D-5L, no solamente permite dimensionar la va loración social del estado de salud física y mental de la población, sino también permite medir el impacto de intervenciones futuras y/o políticas de salud; como así también aporta en las evaluaciones económicas en sa lud27. En este contexto, la valoración social de la salud mental y física de estos adolescentes fue elevada, pero significativamente menor en aquellos que reportaron conducta suicida, independiente de la presencia de al guna enfermedad.
+
+Nuestros resultados también revelan que este valor índice mostró una buen nivel de sensibilidad para pes quisa adolescentes en riesgo a nivel poblacional, pero a un punto de corte inferior a los reportado en adultos6.
+
+Esta capacidad de discriminación fue similar a la esca la de Okasha17, aunque esta presenta mejores valores de especificidad (79%); y a otras escalas que abordan directamente la suicidalidad; por ejemplo la escala de pesquisa de adolescentes de Columbia28, cuya sensibilidad es del 88% y especificidad de 72%; y la escala STOP-SAS16 con valores similares.
+
+El haber incluido el constructo de la CVRS en este estudio, permitió abordar de forma indirecta no so lamente la esfera de la salud mental, sino también la valoración de la salud física propiamente tal y la auto-percepción del estado de salud de los adolescentes de este estudio. En este sentido, y como era esperable, la dimensión de ansiedad/depresión del 5Q-5D-5L tuvo la mayor fuerza de asociación, incluso después de ajus tar por confusores. Por otro lado, la dimensión dolor/ malestar también se relacionó con riesgo suicida, aun después de ajustar por el reporte de problemas físicos/ enfermedades; a pesar de haber considerado este últi mo reporte medido por el ECRA, no se puede descartar la presencia de dolor físico29, atribuible a alguna alteración fisiológico o enfermedad, o dolor psicológica (mental) en el contexto de la depresión y ansiedad19,30 de esta población. Al margen de lo anterior, el reporte de tener problemas leves (punto de corte > 2) en cualquiera o ambas de las dos dimensiones anteriores insi nuarían indirectamente de una conducta de riesgo en el adolescente.
+
+Esta es la primera vez que se realiza una interven ción de prevención y medición de factores de riesgo en una comuna con alta tasa de suicidio en adolescentes, en este contexto, nuestros resultados son exploratorios y requieren de una validación en una muestra repre sentativa de la población y con un diseño epidemioló gico con temporalidad. Finalmente, una de las ventajas de usar el 5Q-5D-5L para pesquisa, es que este cues tionario no aborda de forma directamente la suicidalidad; puede ser autoadministrado y tiene una duración aproximada de 7 min en contestar, por lo que tendría mejor aceptabilidad en la comunidad.
+
+Responsabilidades éticas
+
+Protección de personas y animales: Los autores decla ran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación hu mana responsable y de acuerdo con la Asociación Mé dica Mundial y la Declaración de Helsinki.
+
+Confidencialidad de los datos: Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informa do: Los autores han obtenido el consentimiento in formado de los pacientes y/o sujetos referidos en el artículo. Este documento obra en poder del autor de correspondencia.
+
+Conflicto de intereses: Los autores declaran no tener conflicto de intereses.
+
+Agradecimientos: Al Servicio de salud de Aysén y los estudiantes y apo derados de Puerto Aysén que hicieron posible este es tudio.
+
+Financiamiento:
+
+CORFO de Innovación Social Aysén # 15IS-46638.

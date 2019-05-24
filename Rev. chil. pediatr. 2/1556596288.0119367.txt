@@ -1,0 +1,226 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000500582
+Interacciones cardiopulmonares: De la fisiología a la clínica
+
+Introducción y conceptos generales
+
+Las interacciones cardiopulmonares (ICP) corres ponden al conjunto de interrelaciones entre el sistema respiratorio y el sistema cardiovascular que ocurren durante los ciclos cardíaco y respiratorio. El corazón al encontrarse dentro del tórax está rodeado por la pre sión intratorácica (PIT) la cual al rodear las estructuras vasculares hace que estas estén sometidas a los cambios de presión producto de la respiración. De hecho, la PIT varía durante el ciclo respiratorio (inspiración y espira ción) y también en maniobras ventilatorias como Valsalva y Müller, afectando la gradiente de presión entre la sangre que entra al tórax (retorno venoso o RV) y la sangre que sale del tórax (volumen expulsivo del ven trículo izquierdo o VEVI). Por otra parte, el retorno venoso está además influido por la presión atmosfé rica y la presión intraabdominal, las cuales afectarán la cuantía de este (Figura 1).1 Los cambios producidos en la presión intratorácica durante la ventilación van a afectar al desempeño cardíaco produciendo cambios en la precarga, poscarga y la contractibilidad, al afectar el tamaño y disposición de las cámaras cardíacas.
+
+
+
+
+
+Figura 1 Modelo de Compartimientos de la Circulación. VCS: vena cava su perior; Ap: arteria pulmonar; Vp: venas pulmonares; Ao: aorta; VCI: vena cava inferior. Modificado de Shekerdemian et al. Arch Dis Child 1999; 80:475-480. 
+
+
+
+
+
+Figura 1 Modelo de Compartimientos de la Circulación. VCS: vena cava su perior; Ap: arteria pulmonar; Vp: venas pulmonares; Ao: aorta; VCI: vena cava inferior. Modificado de Shekerdemian et al. Arch Dis Child 1999; 80:475-480. 
+
+El entender la interrelación entre los cambios de presión intratorácica y como esto afecta al desempe ño cardíaco en situación normal y durante la ventila ción mecánica invasiva (VM), nos permitirá modifi car nuestras estrategias terapéuticas en determinadas situaciones fisiopatológicas, de tal manera de poder optimizar el gasto cardíaco y el manejo del paciente.
+
+Principios básicos de flujo y presión en estructuras colapsables
+
+Para entender las interacciones cardiopulmonares, es esencial recordar algunos principios básicos de las estructuras colapsables que tienen un flujo a través de ellas. Éstas estructuras normalmente ofrecen resistencia a las fuerzas de distensión o colapso y tienden a volver a su volumen de reposo una vez que se ha su primido la fuerza aplicada. El cambio de volumen de la estructura dependerá de su distensibilidad y de la presión ejercida a través de su pared o presión trans mural (Ptm), la que corresponde a la diferencia entre la presión interna y externa de la pared. Una presión positiva distiende la cavidad y una negativa la colapsa (Figura 2). Por otra parte, el flujo a través de esta estructura colapsable, depende de la distensibilidad de la estructura, la diferencia de presión entre la entrada y la salida de la estructura, la presión que la rodea y la presión transmural. Cuando existe una Ptm positiva el flujo será proporcional a la diferencia de presión entre el ingreso y egreso. Al disminuir la Ptm producto de un aumento de la presión que rodea a la estructura colapsable, su volumen disminuye, aumentando la presión interna moviendo más volumen al siguiente compar timento, pero con un incremento de la resistencia al flujo, siendo este dependiente de la gradiente de pre sión de ingreso y la externa. Si la presión externa sigue aumentando, la Ptm pasará a ser negativa colapsando la estructura y determinando eventualmente un cese del flujo a través de ella (Figura 3)2,3.
+
+
+
+
+
+Figura 2 Relación Presión y Volumen en estructuras elásticas colapsables. P1: presión de ingreso; P2: presión de egreso; Ptm: presión transmural; Pi: presión intracavitaria; Pe: presión extracavitaria o que rodea al conducto; Q: flujo; R: resistencia. Modificado de Da Cruz et al. Pediatric and Congenital Cardiology, Cardiosurgery and Intensive Care. Capítulo 52. Springer-Verlag, London 2014. 
+
+
+
+
+
+Figura 2 Relación Presión y Volumen en estructuras elásticas colapsables. P1: presión de ingreso; P2: presión de egreso; Ptm: presión transmural; Pi: presión intracavitaria; Pe: presión extracavitaria o que rodea al conducto; Q: flujo; R: resistencia. Modificado de Da Cruz et al. Pediatric and Congenital Cardiology, Cardiosurgery and Intensive Care. Capítulo 52. Springer-Verlag, London 2014. 
+
+
+
+
+
+Figura 3 Relación Flujo y Presión transmural en estructuras elásticas colapsables. P1: presión de ingreso; P2: presión de egreso; Ptm: presión trans mural; Pe: presión extracavitaria o que rodea al conducto; Q: flujo. Modificado de Da Cruz et al. Pediatric and Congenital Cardiology, Cardiosurgery and Intensive Care. Capítulo 52. Springer-Verlag, London 2014. 
+
+
+
+
+
+Figura 3 Relación Flujo y Presión transmural en estructuras elásticas colapsables. P1: presión de ingreso; P2: presión de egreso; Ptm: presión trans mural; Pe: presión extracavitaria o que rodea al conducto; Q: flujo. Modificado de Da Cruz et al. Pediatric and Congenital Cardiology, Cardiosurgery and Intensive Care. Capítulo 52. Springer-Verlag, London 2014. 
+
+Determinantes del gasto cardíaco
+
+El gasto cardíaco está determinado por la frecuen cia cardíaca y el volumen expulsivo. Normalmente, la frecuencia cardíaca responde a estímulos simpáticos y parasimpáticos que pueden ser afectados por los cambios de volumen torácico producidos durante la inspi ración y espiración. Un incremento en el volumen pulmonar puede determinar una bradicardia refleja sin significado clínico cuando es secundaria a volúmenes corrientes de una respiración espontánea o volúmenes corrientes bajos en VM. El volumen expulsivo por otra parte, corresponde al volumen de sangre eyectado por cada ventrículo durante su contracción, el cual está determinado por la precarga, la post carga y la contractibilidad4.
+
+Para lograr un mejor entendimiento de las interac ciones cardiopulmonares, analizaremos lo que ocurre con la precarga y postcarga de ambos ventrículos, de manera secuencial, en ventilación espontánea y posteriormente, una vez entendida esta, analizaremos lo que ocurre en VM y sus aplicaciones en situaciones clínicas específicas.
+
+Retorno venoso y precarga de ventrículo derecho
+
+Fisiológicamente la Precarga (PreC) corresponde al largo relativo de la fibra muscular aislada en reposo previo a la contracción muscular. A nivel ventricular, de manera más precisa, corresponde a la tensión de la pared ventricular al final del diástole previa a su con tracción, es decir corresponde al volumen de fin de diástole, momento en el cual el ventrículo esta lleno. Este volumen de fin de diástole, en el caso del ventrí culo derecho (VD), está determinado por el retorno venoso (RV) hacia la aurícula derecha, el cual es pro porcional a la gradiente de presión entre el sistema ve noso extratorácico y la aurícula derecha. Por otro lado, los cambios en la presión intratorácica (PIT) afectan al retorno venoso hacia la aurícula derecha al modificar su presión transmural (Ptm). Durante la inspiración espontánea, se produce una disminución de la PIT y por consecuencia un aumento de la Ptm de la aurícula derecha, lo que determina que ella se distienda, cayen do su presión y de esta manera aumentando el retorno venoso (Figura 4)4,5. Por otra parte, el retorno venoso también aumenta debido a un aumento del retorno de sangre desde la cava inferior dado el aumento de pre sión intraabdominal durante la inspiración, producto del descenso del diafragma, lo que disminuye la capacitancia de los vasos abdominales, incrementando la gradiente de presión desde la cava inferior.
+
+
+
+
+
+Figura 4 Curva de retorno venoso (RV) y presión de aurícula derecha. pms: presión media sistémica. 
+
+
+
+
+
+Figura 4 Curva de retorno venoso (RV) y presión de aurícula derecha. pms: presión media sistémica. 
+
+La caída en la presión de la aurícula derecha no produce un aumento lineal infinito del retorno venoso, debido a que cuando la PIT se hace muy negativa, ésta es transmitida a la AD y a las venas que entran al tórax, determinando un colapso de las venas a la en trada del tórax al hacerse negativa su Ptm, limitando de esta manera el flujo venoso. Por otra parte, un au mento de la presión en la aurícula derecha determinará una disminución del retorno venoso, cuya caída será mayor en la medida que se acerque a la presión media sistémica (pms) (Figura 4). Finalmente, las pendientes de este retorno venoso variarán de acuerdo a las condiciones fisiológicas que se den en el paciente, produ ciéndose un aumento de la pendiente y del plateau del RV en situaciones de disminución de la resistencia o aumento de la volemia y disminución de la pendiente y del plateau del RV al disminuir la volemia o aumentar la resistencia (Figura 5)6,7,8.
+
+
+
+
+
+Figura 5 Curva de retorno venoso (RV) y efectos de cambios en la resistencia o volemia. 
+
+
+
+
+
+Figura 5 Curva de retorno venoso (RV) y efectos de cambios en la resistencia o volemia. 
+
+Postcarga del Ventrículo derecho y ciclo respiratorio
+
+La postcarga (PostC) del VD se relaciona con la resistencia al flujo de salida de sangre del ventrículo. En forma más precisa, la PostC es la tensión o el es trés sistólico de la pared ventricular, correspondiendo a la carga en contra la cual el músculo ejerce su fuer za contráctil; en vivo corresponde a la resistencia en contra la cual la sangre es expulsada. Al ser un circuito intratorácico, esta se relaciona con la Resistencia Vas cular Pulmonar (RVP). La respiración puede afectar a la RVP a través de los cambios en el pH sanguíneo, la PO2 y de manera importante, a través del cambio de los volúmenes pulmonares.
+
+La RVP dependerá de esta manera de la suma de la resistencia de los vasos alveolares (que se encuentran en los septos que separan alveolos adyacentes) y de los vasos extraalveolares (que se encuentran en el intersticio). De esta manera en la medida que el volumen pulmonar disminuye, en especial bajo la capacidad re sidual funcional (CRF: volumen de reserva espiratorio + volumen residual) se produce una disminución del radio de los vasos extraalveolares, lo que determina un aumento de la RVP. Esto se suma a la resistencia de los vasos alveolares, los cuales, pese a que a volúmenes pulmonares bajos disminuyen su resistencia, el efecto total es una suma de ambas1,9.
+
+Al contrario, cuando existen volúmenes pulmo nares altos ya sea por una inspiración normal o forzada, esto determinará un aumento de la resistencia vascular pulmonar total, dado fundamentalmente por el aumento de la resistencia de los vasos alveolares la que se suma a la resistencia disminuida de los vasos extraalveolares, determinada esta última por la dismi nución de la presión a nivel del intersticio. Es así como durante un ciclo respiratorio normal, en la inspiración al aumentar el volumen pulmonar, se observa un au mento de la resistencia vascular pulmonar aumentando de esta manera la PostC del ventrículo derecho, por otro lado durante la espiración se observará el efecto contrario en especial si el volumen pulmonar cae bajo la CRF (Figura 6)3,10.
+
+
+
+
+
+Figura 6 Representación de los cambios de la Resistencia vascular de los vasos alveolares, extra-alveolares y la resistencia vascular pulmonar total, en relación a los cambios volumen pulmonar. RVP: resistencia vascular pulmo nar; VR: volumen residual; CRF: capacidad residual funcional; CPT: capacidad pulmonar total. 
+
+
+
+
+
+Figura 6 Representación de los cambios de la Resistencia vascular de los vasos alveolares, extra-alveolares y la resistencia vascular pulmonar total, en relación a los cambios volumen pulmonar. RVP: resistencia vascular pulmo nar; VR: volumen residual; CRF: capacidad residual funcional; CPT: capacidad pulmonar total. 
+
+Es importante señalar que la presión a nivel alveo lar, que se modifica durante el ciclo respiratorio con el aumento y disminución de los volúmenes pulmonares, no sólo afectará la RVP sino también a los flujos sanguíneos regionales pulmonares. Es así que se pueden distinguir tres zonas de flujo sanguíneo pulmonar, las zonas de West, donde existirá una Zona I en donde la presión alveolar (PAlv) es mayor que la presión de ar teria pulmonar (Pap) y a su vez ambas son mayores que la presión venosa pulmonar (Pvp). En esta zona, la presión alveolar colapsa los vasos sanguíneos, de terminando una resistencia máxima y una ausencia de flujo, sin embargo, en condiciones normales esta zona no existe. Las otras dos zonas, corresponden a la Zona II en donde la Pap > PAlv > Pvp y la Zona III en donde existe la menor resistencia y flujo sanguíneo libre, dado que la gradiente de presión es máxima, siendo la Pap > Pvp > PAlv (Figura 7)10.
+
+
+
+
+
+Figura 7 Zonas de West. PAlv: presión alveolar; Pap: presión arteria pulmonar; Pvp: presión venosa pulmonar. 
+
+
+
+
+
+Figura 7 Zonas de West. PAlv: presión alveolar; Pap: presión arteria pulmonar; Pvp: presión venosa pulmonar. 
+
+Respiración y precarga del ventrículo izquierdo
+
+La respiración es capaz de afectar la precarga del ventrículo izquierdo a través de varios mecanismos, en especial por los cambios que produce a nivel de la precarga y postcarga del ventrículo derecho y de la distensibilidad de ambos ventrículos.
+
+Durante la inspiración, se produce una disminu ción de la PIT, lo que determinará un aumento del retorno venoso y llenado del ventrículo derecho, ade más de producirse un aumento de la RVP producto del aumento del volumen pulmonar, lo que determina, además, una disminución del flujo de salida de san gre del ventrículo derecho. Al ser el ventrículo dere cho un ventrículo muy distensible, se va a producir un desplazamiento del septum interventricular hacia la izquierda, lo que determinará una disminución de la capacidad neta del ventrículo izquierdo y por ende de su llenado, en especial por ser el ventrículo izquierdo un ventrículo poco distensible rodeado en su pared li bre por un pericardio fijo y el pulmón. Por otro lado, la disminución de la PIT determina en forma momen tánea un aumento del pool sanguíneo de los vasos pul monares lo que sumado al aumento de la RVP produc to del aumento del volumen pulmonar, determinará un menor flujo de sangre desde las venas pulmonares hacia la aurícula izquierda y ventrículo izquierdo 3,11,12. El efecto neto es una disminución durante la inspira ción espontánea del volumen de llenado del ventrículo izquierdo, lo que afectará de esta manera el volumen expulsivo (Figura 8).
+
+
+
+
+
+Figura 8 Interdependencia Ven tricular. El incremento del llenado del ventrículo derecho durante la inspiración espontánea, desplaza el septum interventricular hacia la izquierda, disminuyendo la distensibilidad del ventrículo izquierdo y su precarga. 
+
+
+
+
+
+Figura 8 Interdependencia Ven tricular. El incremento del llenado del ventrículo derecho durante la inspiración espontánea, desplaza el septum interventricular hacia la izquierda, disminuyendo la distensibilidad del ventrículo izquierdo y su precarga. 
+
+El fenómeno por el cual el llenado de un ventrícu lo afecta el llenado del otro por el desplazamiento del septum interventricular, se conoce como interdepen dencia ventricular.
+
+Postcarga del ventrículo izquierdo
+
+El ventrículo izquierdo (VI) impulsa sangre desde el tórax a las arterias extratorácicas, por lo que cuando se contrae, crea una gradiente de presión que genera una tensión suficiente para eyectar la sangre hacia la aorta. Es así que, al contraerse el ventrículo, crea una presión diferencial entre él y el espacio yuxtacardíaco, representando esta presión transmural la PostC del ventrículo izquierdo. Esta presión transmural del VI (PtmVI) puede ser calculada como la diferencia entre el peak de presión ventricular y la presión intratorácica3,13,14.
+
+Así, durante la inspiración espontánea, se produce una caída de la PIT, determinando un aumento de la PtmVI y por lo tanto un aumento de la PostC del VI. De la misma manera, durante la espiración, al aumen tar la PIT, se produce una disminución de la presión transmural, es decir una disminución de la PostC del VI, determinando un aumento del volumen expulsivo (Figura 9). Lo anterior permite explicar las diferencias de presiones sistólicas en inspiración y espiración, que en condiciones patológicas producen el pulso paradojal.
+
+
+
+
+
+Figura 9 Representación de los cambios de Presión transmural del ventrículo izquierdo (PTVi) durante inspiración y espiración espontánea y su efecto sobre el volumen expul sivo (VE). Modificado de Bronicki et al. Pediatr Crit Care Med 2016; 17:s182-s193. 
+
+
+
+
+
+Figura 9 Representación de los cambios de Presión transmural del ventrículo izquierdo (PTVi) durante inspiración y espiración espontánea y su efecto sobre el volumen expul sivo (VE). Modificado de Bronicki et al. Pediatr Crit Care Med 2016; 17:s182-s193. 
+
+Ventilación a presión positiva (VPP) e interacciones cardiopulmonares
+
+Durante la ventilación mecánica invasiva, se en trega un flujo de aire al paciente que determina una presión o volumen establecido al momento de pro gramar el ventilador. Estos producirán un aumento de la presión intratorácica, que es mayor durante la inspiración, disminuyendo hasta la presión de repo so durante la espiración, la que habitualmente es pa siva. Lo anterior determina que durante ambas fases de la respiración (inspiración y espiración) la presión intratorácica sea mayor que la atmosférica. Esta pre sión positiva se transmite a todas las estructuras dentro del tórax y por lo tanto del punto de vista de las ICP, produce los efectos de una PIT aumentada sobre las estructuras vasculares. A lo anterior, debemos sumar la presión positiva de fin de espiración o PEEP, que au menta la PIT durante ambas fases de la ventilación en la misma cuantía.
+
+Es así, que la VPP influirá en la PreC y PostC de ambos ventrículos. A nivel de ventrículo derecho, la VPP determina un aumento de la PIT lo que aumen ta la presión en la aurícula derecha, disminuyendo la gradiente de presión para el retorno venoso, lo que de terminará una disminución del llenado de la AD y por consecuencia del VD. A nivel de la PostC del ventrículo derecho, la VPP determina un aumento del volumen pulmonar con el consecuente aumento de la presión alveolar (fundamentalmente vasos alveolares) lo que produce un aumento de la RVP, aumentando la PostC del VD y disminuyendo el flujo sanguíneo pulmonar (FSP)3,14.
+
+La PreC del VI también se ve afectada, toda vez que como se señaló anteriormente, la VPP no sólo disminuye la PreC del VD, sino que también aumenta su PostC lo que hace que el efecto final, sea una disminución del llenado de la aurícula izquierda y por lo tanto determina una disminución del volumen diastólico final del ventrículo izquierdo. Transitoriamente, du rante la inspiración de la VPP, se produce un aumento del llenado de la aurícula izquierda por compresión del pool de sangre que se encuentra en los vasos alveola res, sin embargo, luego de 2 a 3 ciclos y dada la dismi nución del flujo sanguíneo pulmonar secundario a la VPP, este efecto desaparece15.
+
+Finalmente, a nivel de PostC de ventrículo izquier do, la VPP produce uno de sus efectos más interesan tes, dado que la VPP determinará una disminución de la PtmVI por aumento de la PIT, por lo que se pro ducirá, por consiguiente, una disminución de la PostC del VI y en condiciones de euvolemia, un aumento del volumen expulsivo (Tabla 1)14,15,16.
+
+
+
+
+
+Tabla 1 Ventilación a presión positiva e interacciones cardiopul monares. 
+
+
+
+
+
+
+
+Tabla 1 Ventilación a presión positiva e interacciones cardiopul monares. 
+
+Interacciones cardiopulmonares en la práctica clínica
+
+ICP en el shock
+
+El shock es un estado que resulta de una entrega de oxígeno tisular (DO2) deficitaria, dado un consumo tisular de oxígeno aumentado o una alteración en su capacidad de utilización, entre otros, teniendo como resultado común final, la hipoxia tisular y la necrosis celular. Por lo anterior, se concluye que el estado de shock no necesariamente resulta como consecuencia de un volumen sanguíneo, presión arterial o gasto car diaco (GC) insuficiente, sino más bien de una oxigena ción tisular inadecuada17.
+
+Normalmente, ante situaciones de aumento de la demanda de oxígeno (VO2), se producen algunos ajus tes fisiológicos neuro-hormonales que contribuyen a que a pesar de este aumento de VO2, las células no su fran daño hipóxico. Entre los mecanismos fisiológicos, destaca el aumento de la capacidad de extracción de oxígeno o el aumento de la producción de hemoglobi na. Cuando se supera el punto de DO2 crítico, aparece como mecanismo, la redistribución del porcentaje de gasto cardiaco para los diferentes órganos, con dismi nución de éste para órganos secundarios (mesenterio, piel, riñones) en favor de órganos más nobles, como cerebro, hígado y corazón, lo cual se realiza por medio de la modificación de las resistencias vasculares sistémicas regionales17,18.
+
+En relación a estos mecanismos de competencia por este gasto cardiaco limitado, durante el shock, el diafragma, el cual normalmente representa menos del 5% del VO2 y recibe menos del 3% del GC, se ve afectado por el aumento de la carga respiratoria secundaria a la acidosis metabólica durante la respiración espontá nea (principalmente asociado al aumento del volumen minuto), aumentando su consumo progresivamente, llegando a valores tan elevados como 50% del VO2 to tal, lo que determina un aumento de la perfusión hacia este órgano (musculatura respiratoria) en detrimento de otros órganos nobles como lo es el cerebro2,18,19. Esta redirección de flujo tiene un límite, en donde a pesar de esta distribución preferente del gasto cardiaco, ésta no es suficiente, generando el agotamiento muscular lo que terminará irremediablemente en el paro respi ratorio. Asociado a lo anterior, el aumento del trabajo respiratorio progresivo con uso de presiones negativas cada vez más grandes (más negativas), exagera los efec tos de la presión intratorácica en la precarga del ventrí culo izquierdo al disminuir el flujo desde las venas pul monares además de contribuir a la menor distensibilidad del ventrículo izquierdo por desplazamiento septal (interdependencia ventricular), disminuyendo el gasto cardiaco izquierdo, el cual empeora aún más por el au mento de la postcarga del ventrículo izquierdo, lo que puede determinar presiones arteriales y principalmen te diastólicas tan bajas, que gatillan compromiso en la perfusión miocárdica.
+
+Es por todo lo anterior, que el uso de ventilación con presión positiva es una indicación en pacientes que se encuentra en shock, ya que contribuye en la dismi nución del VO2 diafragmático, debido a que permite disminuir el trabajo respiratorio, lo que finalmente fa cilita redirigir ese gasto cardiaco nuevamente a otros órganos como el cerebro y miocardio, pero además, permite mejorar el llenado de la aurícula izquierda en forma transitoria y disminuir la postcarga del ventrí culo izquierdo, lo que determina un aumento en el volumen eyectivo y con ello de un mejor gasto cardiaco2. A pesar de los evidentes beneficios de la VPP en este grupo de pacientes, es muy importante tener en con sideración la necesidad de no utilizar presiones medias de vía aérea elevadas, ya que aumentan la resistencia vascular pulmonar pudiendo disminuir el retorno a la aurícula izquierda, por lo que siempre se debe mante ner una volemia adecuada (sobretodo en los episodios de shock hipovolémico), basada en la búsqueda dirigi da de predictores de respuesta a volumen, para evitar la sobrecarga en pacientes normovolémicos. Para ello, la variación de presión de pulso mayor a un 13% y la variación del peak de velocidad del flujo aórtico en más de un 12% durante un ciclo respiratorio, son considerados predictores adecuados de respuesta a volumen en pacientes adultos20.
+
+ICP en anastomosis cavo-pulmonares (cirugía de Glenn y Fontan)
+
+Las cirugías de anastomosis cavo-pulmonar, se ca racterizan por una conexión directa entre el flujo ve noso sistémico (cava) y el flujo pulmonar (arteria pul monar derecha, generalmente), sin que exista de por medio una cámara cardíaca que funcione como bomba para impulsar la sangre hacia el territorio pulmonar y vencer la resistencia vascular a este nivel. De esta ma nera, el flujo sanguíneo hacia el territorio pulmonar es de carácter pasivo. En este sentido, la cuantía de este flujo de sangre, estará determinada tanto por las varia ciones de presión intratorácica (PIT) como por la nue va gradiente transpulmonar (GTP) que se produzca (que ahora estará determinada por la diferencia entre la presión venosa central, que equivale a la presión de arteria pulmonar y la presión de la aurícula común)21.
+
+En general, posterior al procedimiento quirúrgico, se desarrolla algún grado de disfunción diastólica que conlleva a movimientos descoordinados de la pared ventricular, los que comprometen el llenado de éste. Es por esta razón, que la capacitancia venosa adquiere un rol fundamental en esta etapa, ya que se ha demostrado que los efectos de la variación de la PIT sobre el RV, adquieren una mayor importancia en estos pacientes, incluso con un rol más importante que en el efecto que tiene la PIT sobre la reducción de la postcarga ventri cular sistémica. Este efecto en el aumento del retorno venoso, inicialmente está dado por estímulos neuro-hormonales que por medio de la acción de catecolaminas como la dopamina, epinefrina y norepinefrina, producen un aumento de las presiones venosas me diante la redistribución de flujos desde la circulación periférica, al disminuir la capacitancia venosa y de esta manera, la reserva de volumen venoso, aumentando el retorno hacia el tórax y por ende, hacia el territorio pulmonar18,19.
+
+Una vez suspendida la ventilación a presión posi tiva, el flujo de sangre pulmonar aumenta durante la inspiración y disminuye e incluso puede hacerse re verso cuando se generan presiones muy positivas (ej. maniobra de valsalva), lo que refleja la importancia de las variaciones de las presiones transpulmonares en el adecuado resultado que se busca con la cirugía. Lo anterior sugiere la necesidad durante el postoperatorio inmediato, de utilizar VPP con volúmenes pulmona res lo más cercanos a la capacidad residual funcional pulmonar para evitar elevaciones de la RVP y por otro lado, intentar la suspensión precoz de VPP, para de esta manera, mejorar el retorno venoso y disminuir la postcarga ventricular, asegurando un adecuado flujo de sangre pasivo desde el territorio sistémico al pulmonar22.
+
+ICP en la falla cardiaca
+
+En pacientes con falla cardiaca sistólica de ventrícu lo izquierdo, tanto el volumen eyectivo como el gasto cardiaco se encuentran disminuidos. Como se discutió anteriormente, el uso de ventilación a presión positiva (VPP) disminuye la postcarga del ventrículo izquier do, pero además permite que disminuya el consumo de oxígeno de la musculatura respiratoria y miocárdica. Además, en aquellos pacientes que en ventilación espontánea evolucionan con edema pulmonar secun dario a disfunción miocárdica, la presión negativa aumentada puede disminuir aún más el gasto cardiaco izquierdo, razón por la cual estos pacientes presentan una respuesta favorable frente al uso de VPP ya que se reduce la presión transmural sistólica del ventrículo izquierdo, disminuyendo la postcarga. Adicionalmente, la disminución de la carga sobre la bomba respiratoria y cardiaca, gatilla una disminución de la actividad del sistema nervioso simpático, lo que también disminuirá la postcarga ventricular, siendo otro mecanismo por el que mejora el gasto cardiaco con el uso de VPP18.
+
+Por todo lo anterior, es que además, en aquellos pacientes con insuficiencia cardiaca en que se decide suspender la VPP para pasar a la ventilación espontá nea y en quienes aumentará la postcarga ventricular izquierda por aumento de la presión transmural en ventrículo izquierdo, se sugiere el uso de inotrópicos y vasodilatadores como apoyo previo a la suspensión de la VPP (extubación)20.
+
+ICP en la patología pulmonar obstructiva grave y en el taponamiento cardíaco
+
+Como ya se ha mencionado, la variación de los volúmenes pulmonares y presiones intratorácicas, asociadas al aumento del trabajo respiratorio, alteran mediante diferentes vías el desempeño cardiaco, entre otras, alterando el retorno venoso, la resistencia vas cular pulmonar, comprimiendo en forma directa la cavidad cardiaca (a través del pericardio) y alterando la distensibilidad y volúmenes de los ventrículos (interdependencia ventricular).
+
+En los pacientes con aumento grave de la resisten cia de la vía aérea (crisis asmáticas o crisis obstructivas graves), deben generar presiones intratorácicas extre madamente negativas, para lograr el ingreso del flujo de aire. Lo anterior, ademas determina la activación del sistema nervioso simpático y el sistema renina-angiotensina-aldosterona, contribuyendo al aumento de la postcarga biventricular. Por otra parte, se produce un aumento del retorno venoso en la aurícula derecha, debido al aumento de la diferencia de presiones entre el sistema venoso de retorno y la presión de la aurícu la derecha (la cual ha disminuido). Este aumento de precarga determina un aumento del llenado de la ca vidad ventricular derecha, lo que desplazará el septum interventricular, limitando de esta forma el llenado del ventrículo izquierdo y con ello, el volumen expulsivo y gasto cardiaco correspondiente. Adicionalmente, esta variación en la presión intratorácica, determinará un aumento de la postcarga del ventrículo izquierdo, se cundaria a un aumento de la presión transmural del ventrículo, lo que contribuirá a disminuir el gasto car diaco final del ventrículo izquierdo. De esta manera, se produce una exageración de la disminución de la pre sión sistólica que ocurre dentro de un ciclo respiratorio entre la inspiración y espiración, por sobre los valores esperados, llegando en ocasiones a 30 mmHg o más. El fenómeno anterior se conoce como pulso paradojal23.
+
+Otra situación es la ocurre en pacientes con al teraciones obstructivas de flujo sanguíneo, como es el caso del taponamiento cardiaco, en donde ambas cavidades ventriculares se encuentran con una distensibilidad muy disminuida dada esta restricción para su llenado normal, producida al estar rodeados por el pericardio lleno de fluido, que al acumularse de manera aguda, se considera inextensible. Debido a las características anatómo-histológicas de ambos ventrículos, el ventrículo derecho (VD) es mucho más distensible que el izquierdo, lo que determinará, que a pesar que hay dificultad en el llenado en am bos ventrículos, el VD tendrá mayor capacidad de recibir volumen, lo que por interdependencia ventri cular, desplazará el septum interventricular hacia el lado izquierdo, impidiendo un adecuado llene de del ventrículo izquierdo (VI), lo que afectará en el volu men eyectivo y finalmente, el gasto cardiaco. De igual manera, este efecto obstructivo, aumentará la presión transmural del VI, lo que significará un aumento de la postcarga ventricular contribuyendo a una mayor disminución del gasto cardiaco, determinando tam bién la aparición de pulso paradojal24.
+
+En estos pacientes, el uso de VPP contribuye a la disminución del efecto final sobre el gasto cardiaco, ya que, al aplicar presiones positivas en la vía aérea, se atenúa el efecto del desplazamiento del septum y se produce una disminución de la postcarga ventricular izquierda, lo que, como efecto neto, mejora el débito cardiaco.
+
+Finalmente, es muy importante recordar la necesi dad de un adecuado aporte de volumen para mantener una adecuada volemia en estos pacientes, ya que el uso de estas presiones positivas afectara el retorno venoso a la aurícula derecha, lo que determina una precarga de recha disminuida y finalmente, una precarga izquierda disminuida, lo que puede anular parte de los beneficios obtenidos por la VPP para la mejoría del gasto cardiaco18
+
+25.
+
+Conclusión
+
+El conocimiento de las interacciones cardiopulmonares nos permite entender la interrelación entre el corazón y el pulmón durante la ventilación espontánea, la ventilación a presión positiva y en condiciones fisiopatológicas específicas. El entender su interrelación, nos permitirá tomar decisiones terapéuticas que nos permitan regular los flujos y optimizar el débito car díaco y la entrega de oxígeno a los tejidos, a través de la regulación de la precarga, postcarga y/o inotropismo, pudiendo además utilizar estas mismas interacciones como una herramienta terapéutica en el manejo de di versas situaciones fisiopatológicas.
+
+Conflicto de intereses: Los autores declaran no tener conflicto de intereses.

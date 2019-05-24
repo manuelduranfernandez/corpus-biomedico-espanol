@@ -1,0 +1,212 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000400484
+Impacto de la extensión del postnatal en la adherencia a la lactancia materna. Estudio de Cohorte
+
+ARTÍCULO ORIGINAL
+
+Impacto de la extensión del postnatal en la adherencia a la lactancia materna. Estudio de Cohorte
+
+Rossana Madrid MuñozA 
+
+			
+
+Carmen Cano C.B 
+
+			
+
+Ricardo Cortés RojasC 
+
+			
+
+A Residente del Programa de Pediatría. División de Pediatría, Escuela de Medicina de Pontificia Universidad Católica de Chile, Chile.
+
+B Ped¡atra. Profesor Asociado de división de Pediatría. Escuela de Medicina de Pontificia Universidad Católica de Chile, Chile.
+
+C Cirujano Dentista. Especialista en Rehabilitación Oral. Magíster en Bioestadística. Instructor Departamento de Prótesis. Facultad de Odontología. Universidad de Chile, Chile.
+
+
+
+
+
+Resumen:
+
+Introducción:
+
+ En Chile, el año 2011 entró en vigencia la ley 20.545, correspondiente a la extensión del postnatal de 12 a 21 semanas. La Encuesta Nacional de Lactancia Materna (ENALMA), aplicada posterior al postnatal extendido, reportó un aumento del 12% en la adherencia a la lactancia materna exclusiva (LME) al sexto mes. Sin embargo, un 63% de las mujeres encuestadas eran laboralmente inac tivas, por lo que las principales causas de cese de LM (lactancia materna) no estaban relacionadas con el tiempo de descanso materno.
+
+Objetivos:
+
+ Calcular el impacto de los cambios en la adherencia a la LME en pacientes atendidos en control sano, en el período previo y posterior a la entrada en vigencia del post natal extendido.
+
+Materiales y Métodos:
+
+ Se realizó la extracción de datos de las fichas electrónicas del Centro Médico San Joaquín entre los años 2009 a 2013, los cuales fueron reclutados según criterios de inclusión y exclusión especificados (n = 938 pacientes). Posteriormente, fueron divididos en 2 grupos, según la presencia o ausencia de postnatal extendido, con seguimiento a los 3, 6 y 12 meses. Mediante tablas de frecuencia se realizó la caracterización de los grupos al comienzo del periodo de observación. Para evaluar homogeneidad de grupos, las variables del estudio se compararon entre los grupos me diante los test de chi cuadrado y Wilcolxon Mann-Whitney. Se comparó la prevalencia de mantención de LME mediante pr-test entre los grupos a los 3, 6 y 12 meses. Mediante análisis de sobrevida y regre sión de Cox, se calculó el impacto del efecto del postnatal extendido entre ambos grupos en los primeros 12 meses.
+
+Resultados:
+
+ Al comienzo de los periodos de observación, no se observaron diferencias entre los grupos en las variables estudiadas. Al comparar ambos grupos, sin y con postnatal extendido, no se encontraron diferencias significativas en la adherencia a la LME a los 3 meses: 327(66%) vs 302(68%), p = 0,492, respectivamente. En contraste, en el seguimiento a 6 y 12 meses se evidenció un aumento en la adherencia a la LME: 164 (33%) a 187 (42%), p = 0,004 y a los 12 meses; de 51 (10%) a 72 (16%), p = 0,007. Al analizar el impacto de la extensión del postnatal en la adherencia a la lactancia materna, deter minado por la razón de riesgo, el postnatal extendido podría influir positivamente en la adherencia a la LME en el tiempo, con un HR < 1 (HR: 0,852, p = 0,04 IC 95%: 0,728-0,996).
+
+Conclusión: 
+
+el aumento del tiempo de descanso materno, podría influir como factor protector de la adherencia a la LME.
+
+Palabras clave: Lactancia materna exclusiva; extensión del postnatal; adherencia
+
+Introducción
+
+La lactancia materna (LM) es el alimento natural por excelencia, aporta inmunoprotección, nutrientes y fortalece el vínculo madre-hijo1. Las enfermedades diarreicas y respiratorias se presentan con menor frecuencia y gravedad en niños que reciben LM, incluso en situaciones donde existe higiene adecuada2. A largo plazo, los niños alimentados con fórmula artificial tie nen mayor riesgo de asma, diabetes tipo 1, enfermedad celíaca, muerte súbita, hipertensión arterial, enferme dad inflamatoria intestinal, leucemia y linfoma. Varios estudios sugieren menor riesgo de obesidad, con una relación dosis respuesta: a mayor duración de LM me nor riesgo de obesidad3. La madre se beneficia con la LM, ya que al amamantar se secretan hormonas que promueven la sincronía con su hijo y favorecen la protección en esta etapa de mayor susceptibilidad, además de disminuir el riesgo de enfermedades graves, como el cáncer de mama y ovario, reduce riesgo de hemorragia post parto, osteoporosis y enfermedades cardiovascu lares. No sólo el niño y la madre se benefician de la lactancia, sino también la economía y ecología de un país4.
+
+La OMS (Organización Mundial de la Salud) y UNICEF (Fondo de las Naciones Unidas para la In fancia) recomiendan lactancia materna exclusiva los primeros 6 meses de vida, basado en evidencia cientí fica contundente y de calidad, e ir introduciendo pau latinamente la alimentación complementaria, manteniendo la LM hasta los 2 años o más5. Una revisión sistemática observó mayor riesgo de enfermar en niños alimentados con fórmula u otras bebidas diferentes de la leche materna antes de esa edad6.
+
+A nivel internacional, Chile se encuentra en el sexto lugar de prevalencia de lactancia materna al sexto mes (43%), por otra parte, la lactancia materna hasta los 12 meses llega a sólo a un 36% (año 2011)7.
+
+En la literatura, muchos estudios han demostrado la importancia de las condiciones laborales maternas y la adherencia a la LM. Las causas más comunes de la introducción de fórmulas lácteas son la percepción materna de insuficiente producción de leche para mantener satisfecho por más tiempo al niño y la planificación para regresar al trabajo7. El empleo materno se cita frecuentemente como una barrera para mantener la lactancia materna. Las probabilidades de no cumplir la intención de amamantar son mayores en los trabajos de tiempo completo, en comparación a madres autó nomas o que trabajan tiempo parcial, que alcanzaban un tiempo de lactancia no menor a 4 meses8. También se asocia a una mayor propensión a amamantar du rante al menos 4 meses, si su empleador ofrecía arreglo solidario, acuerdos de trabajo flexible o reciben paga estatutaria de maternidad, además de pago adicional de la licencia9,10. La duración de la licencia materna es crucial para que la mujer se recupere del parto y regre se al trabajo; mientras presta los cuidados necesarios para el/los hijos. Por otra parte, licencias prolongadas o licencias parentales sólo tomadas por mujeres, en es pecial si no existe protección laboral, pueden afectar la participación de mujeres en el trabajo o su promoción en el empleo remunerado, con las consiguientes penalizaciones laborales11,12.
+
+El bienestar infantil y la protección de la materni dad son las preocupaciones principales de la Organización Internacional del Trabajo (OIT) desde su crea ción en 1919. Actualmente cuenta con datos recientes de 185 países y territorios, donde se infiere que el 34% de ellos cumple plenamente con los requisitos del Con venio 2000 sobre protección de la maternidad y de la recomendación que le acompaña en 3 aspectos claves: conceder al menos 14 semanas de licencia, que el mon to correspondiente a las prestaciones no sea inferior a los dos tercios de las ganancias anteriores de la mujer y que se financien mediante un seguro social o con cargo a fondos públicos. De 31 países de América Latina y el Caribe, sólo Chile y Cuba, cuentan con licencia pa rental remunerada; el resto corresponden a economías desarrolladas, Europa Oriental y Asia Central11.
+
+En Francia la duración del postnatal varía no sólo según el número de hijos nacidos, sino también por el número y edad de los hijos anteriores de la madre. En Noruega existe un sistema de licencias “tiempo a cuenta”, el cual permite flexibilizar el tiempo de trabajo de manera total o parcial por un período de 2 años4.
+
+El 17 de octubre del 2011 en Chile, se reformó la ley 20.545 que “Modifica las normas de protección de la maternidad e incorpora el postnatal parental”. Esta ley permite a las madres trabajadoras, y eventualmente a los padres, ampliar el tiempo de cuidado de los re cién nacidos, de 12 a 21 semanas, cuyo sustento está directamente relacionado con la evidencia científica reportada de los beneficios de la LM hasta los 6 meses de vida13.
+
+La encuesta nacional de Lactancia Materna (ENAL MA) realizada con posterioridad a la entrada en vigen cia del postnatal extendido (2013), registró un alza de 12% de la LM al sexto mes (de 44% a 56%). Dicha encuesta fue aplicada en la Atención Primaria de Sa lud (APS), en cuya población estudiada (n = 9.604) un 63% corresponde a madres que no trabajan, por lo que es difícil relacionar el aumento de la adherencia a la lactancia materna al mayor tiempo de reposo post na tal de las madres, en cuyas causas de cese de la LM tampoco existe vínculo directo al trabajo materno, siendo los principales motivos: percepción materna de que el niño queda con hambre (27%), problemas de la mama o pezón (14,7%), inicio de actividades laborales o aca démicas (10%), mal incremento de peso o bajo peso (8,6%), niño no quiso seguir amamantando (8,4%), enfermedad del niño (7%), enfermedad de la madre (6,2%),madre consideró insuficiente producción de leche (5,4%)7.
+
+En nuestro trabajo el objetivo es evaluar el impacto de la extensión del descanso postnatal sobre la adherencia a la LM en madres vinculadas al mundo laboral.
+
+Materiales y Métodos
+
+Diseño del estudio
+
+Estudio epidemiológico analítico de cohorte re trospectivo.
+
+Universo
+
+Total de atenciones de Supervisión de Salud o Con trol Sano, en el Centro Médico San Joaquín en el periodo comprendido entre 01 de enero del año 2009 al 31 de diciembre del año 2013 (total = 19.823). Los pacien tes fueron seleccionados según los siguientes criterios de inclusión y exclusión:
+
+Criterios de inclusión
+
+Edad paciente (0-30 días de vida), nacido a térmi no, alimentado sólo con LME (ausencia de fórmula láctea) durante el primer mes de vida, sin patología pre, peri o neonatal, peso de nacimiento entre 3.000 3.800 gramos, edad materna entre 20-40 años, sin pa tología materna preexistente.
+
+Criterios de exclusión
+
+Hospitalización previa al peso reclutamiento, niños con lactancia artificial, hijos de madre con patología crónica o con hábitos tóxicos (consumo de alcohol, ta baco o drogas).
+
+Posteriormente, se realizó la división en 2 grupos, correspondientes a los beneficiados con la extensión del postnatal y los que no; tomando como punto corte, 3 meses antes de la fecha de entrada en vigencia de la Ley 20.545 (17 de julio de 2011), para de esta forma incluir a los niños que se encontraban con el régimen del postnatal no extendido y que a la fecha de entrada en vigencia (17 de octubre de 2011), tenían 3 meses de edad y por lo tanto también serían incluidos con el beneficio.
+
+El total de los pacientes que cumplían los criterios fueron 495 para el primer periodo, sin postnatal extendido y 443 para el segundo periodo con postnatal extendido. El total de niños incluidos en el estudio fue de 938. Se realizó seguimiento de fichas clínicas elec trónicas de los pacientes ingresados en el estudio a los 3, 6 y 12 meses, consignando la permanencia de la LME y el motivo de cese en caso de término de ésta.
+
+El estudio fue aprobado por el Comité de Ética de la Pontificia Universidad Católica de Chile.
+
+Análisis estadístico
+
+Todos los análisis estadísticos se realizaron con el programa STATA v.13 (College Station, Texas. USA). Desde el punto de vista descriptivo, mediante tablas y gráficos se mostró la prevalencia de LME en todos los periodos, junto con los motivos del cese de LME.
+
+Para la comparación de grupos al inicio del segui miento, en las variables: peso al nacer y edad de la madre, se realizó la comparación entre ambos grupos; con y sin postnatal extendido, mediante test de Wilcolxon Mann-Whitney, considerando la ausencia de distribu ción normal de dichas variables en los pacientes estu diados. Para la variable: trabajo materno asalariado, se utilizó test de c2.
+
+Con el test de proporciones para muestras grandes basándose en z calculado (pr-test), se compararon las incidencias de LME entre los períodos sin y con post natal extendido, en cada una de las mediciones realiza das en el seguimiento a los 3, 6 y 12 meses.
+
+Considerando el evento “pérdida de LME” como fracaso, se realizó el análisis de sobrevida con curvas de Kaplan-Meier; comparando los períodos sin y con extensión del postnatal (test de log-Rank). Con estos datos, mediante el modelo de regresión de Cox, se de terminó la razón de riesgo (Hazard ratio) para calcular el impacto del post natal extendido en la mantención de la LME durante el seguimiento. Para todos los aná lisis se consideró un error tipo alfa de 0,05.
+
+Resultados
+
+Los datos de caracterización demográfica de nues tro trabajo de investigación se encuentran resumidos en la (Tabla 1), mostrando que no existen diferencias significativas entre los grupos en las variables estudia das.
+
+
+
+
+
+Tabla 1 Características demográficas al comienzo del período de observación. 
+
+
+
+
+
+
+
+Tabla 1 Características demográficas al comienzo del período de observación. 
+
+Todos los pacientes evaluados tenían lactancia materna exclusiva al mes de vida. En el seguimiento realizado a los 3 meses no existe diferencia significa tiva entre el grupo sometido al régimen de post natal extendido y el grupo sin extensión del postnatal, con 302 pacientes (68%) y 327 pacientes (66%), respectivamente (p = 0,492). Sin embargo, los resultados a los 6 y 12 meses muestran un aumento en la continuidad de la LM, a expensas del grupo con post natal extendido, con un total de 187 pacientes (42%) versus 164 pacien tes (33%) a los 6 meses, y 72 pacientes (16%) versus 51 pacientes (10%) a los 12 meses de edad (p = 0,004 y 0,007, respectivamente). Del seguimiento de los 938 pacientes, se perdió entre un 20-22% de la población reclutada (187 pacientes) por no contar con registros de nuevas atenciones a los 3, 6 y 12 meses en las fichas clínicas revisadas.
+
+De los registros examinados del total general de fi chas clínicas (n = 938), sólo se constataron datos de actividades realizadas por las madres en 771 de ellas, correspondientes al 82% del total. Asignando este resultado en los respectivos dos grupos (con y sin régi men de postnatal extendido), los datos fueron simi lares, haciendo a ambas poblaciones comparables. En la (Tabla 2) se resumen las características maternas por tipo de actividad.
+
+
+
+
+
+Tabla 2 Registro de ocupaciones registradas por las madres. 
+
+
+
+
+
+
+
+Tabla 2 Registro de ocupaciones registradas por las madres. 
+
+Las causas de cese de LM se resumen en la (Figu ra 1); siendo las 3 principales: insuficiente producción de leche (16%), inicio de actividades laborales (14%) y percepción materna de que el niño quedaba con ham bre (12%). No se encontraron diferencias significativas entre el grupo con y sin postnatal extendido.
+
+
+
+
+
+Figura 1 Causas de cese de la LME. 
+
+
+
+
+
+Figura 1 Causas de cese de la LME. 
+
+Al realizar el análisis de sobrevida (Figura 2), las curvas de Kaplan-Meier muestran la pérdida de LME en el transcurso del tiempo, con diferencias significati vas entre los dos tipos de postnatal (p-test de log-Rank < 0,05). Al realizar el modelo de regresión de Cox para evaluar el impacto de la extensión del postnatal con la adherencia a la LM y su relación de riesgo, se obtie ne un Hazard Ratio = 0,852, p = 0,04 (IC 95%: 0,728 0,996).
+
+
+
+
+
+Figura 2 Curvas de sobrevida de persistencia de LME. 
+
+
+
+
+
+Figura 2 Curvas de sobrevida de persistencia de LME. 
+
+Discusión
+
+El objetivo de nuestro trabajo de investigación fue evaluar los eventuales cambios en la adherencia a la LM tras la implementación del postnatal extendido; para lo cual se realizó un análisis de regresión de Cox, cuyo resultado es un Hazard Ratio < 1 (0,852 p = 0,04), lo que podría interpretarse como que la extensión del descanso materno influyó de manera positiva en dar continuidad a la lactancia materna. Resultados simi lares se presentan en el trabajo de Chinelo Obguanu y cols14, en donde se realiza seguimiento del inicio y continuidad de la LM, en madres que se reintegran al trabajo entre 1-6 semanas en comparación con las madres que aún permanecían en descanso postnatal. En ese trabajo, las madres que aún se encontraban con descanso tenían más probabilidades de iniciar lactan cia (OR: 1,46, 1,08-1,97 /RR: 1,13, 1,03-1,22). Las mu jeres con postnatal de 13 semanas o más tenían más probabilidades de LME al tercer mes (OR: 2,54; 1,51- 4,27/RR: 1,99; 1,38-2,69). Resultados semejantes se describen en el trabajo de Kelsey R. y cols8, en donde se evaluó la intención de amamantar más allá de los 3 meses, lo cual estaba estrechamente relacionado con el tiempo de reinicio de las actividades laborales, por tanto las probabilidades de no cumplir la intención de amamantar era mayor en las madres que retornan al trabajo antes de los 3 meses (OR: 2,25, IC 95% 1,23 4,12), entre las 6 semanas y 3 meses (OR: 1,82, IC 95% 1,30-2,56), comparadas con las madres que retomaban vida laboral posterior a los 3 meses. Los resultados de Jennifer S. Pitonyak y cols15, señalaron que la perma nencia de los lactantes con sus madres trabajando des de la casa, se asociaba a mayor adherencia a la LME al cuarto mes (p = 0,0001). Además, el apoyo por parte del empleador se asoció a la continuidad de LME al cuarto mes o más (p = 0,02).
+
+En la encuesta ENALMA7, la adherencia a la lactan cia materna al sexto mes fue de 12%, considerando que la mayoría de la población estudiada (63%) correspon día a mujeres que no trabajaban. Dicho antecedente es importante de considerar en nuestro estudio, debido a que el postnatal de 6 meses debería tener mayor impacto en mujeres trabajadoras. En nuestro estudio, la proporción de madres trabajadoras registradas corres pondió a 78%-80% (c2 p = 0,700) comparando a los grupos sin y con postnatal extendido, respectivamente. Sin embargo, el porcentaje adherencia a la lactancia al sexto mes en nuestro estudio muestra valores similares a los encontrados en la encuesta ENALMA (Tabla 3), donde la adherencia a la lactancia materna al sexto mes aumentó 9% (de 33% a 42%, p = 0,04) y 6% a los 12 meses (de 10% a 16%, p = 0,07).
+
+
+
+
+
+Tabla 3 Incidencia de LME en Seguimiento a los 3, 6 y 12 meses. 
+
+
+
+
+
+
+
+Tabla 3 Incidencia de LME en Seguimiento a los 3, 6 y 12 meses. 
+
+Dentro de las principales causas de cese de lactancia materna y por ende el inicio de fórmulas lácteas artifi ciales obtenidas en nuestro estudio figuraron: percep ción materna de insuficiente producción de leche (16 17%), inicio de actividades laborales maternas (14%), percepción de que el niño quedaba con hambre (11 12%). Los motivos de cese de LM que resultaron de la encuesta ENALMA difieren de los nuestros, siendo las 3 principales causas: “el niño quedaba con hambre” (27%), problemas de la mama o pezón (15%), inicio de actividades académicas y laborales (10%) y como última causa insuficiente producción de leche (5,4%). Probablemente estas diferencias se encuentren relacionadas con ciertas características demográficas, no constatadas en nuestro trabajo de investigación, como, por ejemplo: nivel educacional y nivel socioeconómico. Otros datos que han demostrado ser relevantes en dar continuidad a la lactancia materna, citando como ejemplo a Melissa Bartick y cols16, que realizaron una entrevista a un grupo de mujeres latinas residentes en Estados Unidos, en quienes las causas de cese de lactancia materna e inicio de fórmula láctea artificial fueron similares a las encontradas en la literatura y en nuestro trabajo. Al realizar un análisis cualitativo de la importancia de la LM y el tiempo de duración de ésta en la protección de la salud de los niños y la pérdida de dicha protección al introducir fórmulas lácteas, se dejaba en evidencia el desconocimiento de las madres al respecto, pero también la disposición a ser educadas por los profesionales de la salud para aprender de los beneficios de la LM, lograr su optimización y, secun dariamente, no utilizar la lactancia artificial de no ser estrictamente necesaria.
+
+Limitaciones del estudio
+
+El análisis y seguimiento de los recién nacidos de esta cohorte se realizó en diferentes períodos de tiempo (antes y después de la entrada en vigencia de la ley de postnatal extendido), asumiendo que las mediciones en los distintos tiempos tenían como única diferencia la presencia o no del postnatal extendido.
+
+La información recogida desde las fichas clínicas electrónicas no contó con todos los detalles que pudieran haber sido relevantes para el estudio, como por ejemplo: nivel educacional, nivel sociocultural, tipo de jornada laboral, tipo de convenio contractual (honora rios, plazo fijo, indefinido, etc.). Por otro lado, se perdió la trazabilidad en el seguimiento de un determina do número de la población reclutada correspondiente al 20-22% (187 pacientes) tras constatarse solamente la consulta de control sano correspondiente al mes de vida (en presencia de lactancia materna exclusiva, cumpliendo los criterios de inclusión y exclusión), pero sin controles posteriores en el servicio de salud, por lo tanto no fue factible realizar el seguimiento a los 3, 6 y 12 meses como propone este estudio.
+
+Conclusiones
+
+La extensión del postnatal podría considerarse un factor protector en la adherencia a la lactancia materna. Sin embargo, es relevante tener en consideración el costo/efectividad de implementar de manera extensiva este beneficio en la población, considerando impor tantes aspectos que podrían influir en determinar su transversalidad y éxito, como por ejemplo la brecha existente en las remuneraciones laborales entre hom bres y mujeres, hecho que hoy en día limita a algunas mujeres a hacer uso completo del beneficio en pos de no arriesgar su fuente laboral y por consiguiente sus ingresos económicos. Se necesitan más estudios que apoyen la necesidad de continuar aumentando los días de descanso materno en función de optimizar la lac tancia materna, salvaguardando la estabilidad laboral materna, la economía familiar y los costos para el país.
+
+Responsabilidades éticas
+
+Protección de personas y animales: Los autores decla ran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación hu mana responsable y de acuerdo con la Asociación Mé dica Mundial y la Declaración de Helsinki.
+
+Confidencialidad de los datos: Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informa do: Los autores han obtenido el consentimiento informado de los pacientes y/o sujetos referidos en el artículo. Este documento obra en poder del autor de correspondencia.
+
+Conflicto de intereses: Los autores declaran no tener conflicto de intereses.

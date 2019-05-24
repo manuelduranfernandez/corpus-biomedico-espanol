@@ -1,0 +1,156 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062016000500005
+Evaluación nutricional en niños hospitalizados en un Servicio de Pediatría
+
+ 
+
+Introducción
+
+La desnutrición en pacientes pediátricos hospitalizados continúa siendo un hallazgo común y una causa frecuente de aumento de la morbimortalidad en niños y adolescentes. Según estudios de las últimas décadas, el porcentaje de desnutrición infantil intrahospitalaria oscila entre 6% y un 35%1–4. Sin embargo, a pesar del conocimiento de esta realidad, la evaluación nutricional no es contemplada como método rutinario en el momento de admisión del paciente en las instituciones hospitalarias2.
+
+La etiopatogenia de la desnutrición es multifactorial: disminución de la ingesta, dolor, aumento de las necesidades metabólicas5, y en ocasiones es exacerbada por la enfermedad que motivó su hospitalización. En los niños hospitalizados la desnutrición empeora el estado físico, retarda la cicatrización de los tejidos, produce alteración de los sistemas inmune, cardiológico, respiratorio y digestivo, lo que conlleva una mayor estancia hospitalaria, aumento del número de complicaciones e incremento de los costos de hospitalización1,3,6.
+
+El Comité de Nutrición de la Sociedad Europea de Gastroenterología Pediátrica, Hepatología y Nutrición (ESPGHAN), recientemente recomendó a los hospitales pediátricos implementar un sistema de tamizaje nutricional que identifique el estado nutricional al ingreso, detectando de forma fácil y rápida al paciente desnutrido o en riesgo, e iniciar el plan de intervención nutricional oportuno y adecuado que evite el deterioro del paciente2,7.
+
+El propósito de esta investigación fue determinar la frecuencia de desnutrición y riesgo, así como la prevalencia de las enfermedades que motivaron la hospitalización y la asociación con pruebas bioquímicas de los niños que ingresaron en el Servicio de Pediatría del Hospital Clínico de la Universidad Católica de Chile.
+
+Pacientes y método
+
+Sujetos
+
+Estudio transversal, retrospectivo en niños menores de 17 años, de ambos sexos, hospitalizados en el Servicio de Pediatría y Unidad de Cuidado Intensivo del Hospital Clínico de la Universidad Católica de Chile, entre noviembre de 2010 y abril de 2011. El segmento socioeconómico más prevalente en el grupo total fue el C3.
+
+Se excluyeron los niños con malformaciones en la columna, parálisis cerebral, genopatías y pacientes que por su condición clínica (edema o estado de gravedad crítica) no pudieron ser evaluados. También se descartaron los niños reingresados durante este período.
+
+Mediciones antropométricas
+
+Por protocolo, los niños son pesados y medidos al ingreso por el personal de enfermería. Para los niños menores de 3 años se usa balanza digital SECA portátil y la longitud es tomada con el infantómetro portátil SECA.
+
+El peso y la estatura de los niños mayores de 3 años se tomaron en posición vertical, en una balanza de pie digital, con estadiómetro incorporado de referencia SECA.
+
+Evaluación nutricional del grupo
+
+Los pacientes con antecedentes de prematurez se evaluaron a partir de la edad corregida, según norma ministerial chilena8.
+
+En los niños menores de 5 años se usaron los estándares de crecimiento de la OMS 20069, y en los pacientes mayores de 5 años los estándares CDC-NCHS10, conforme a la norma ministerial chilena vigente11,12.
+
+El diagnóstico nutricional de los niños menores de 6 años se determinó según el indicador de peso/talla (P/T) y en niños mayores de 6 años se obtuvo a partir del IMC expresado en DS, considerando desnutrición ≤ –2 DS, en riesgo de desnutrición entre –1,1 y –1,9 DS, eutrofia entre –1,0 DS y + 1,0 DS, sobrepeso entre + 1,1 y + 1,9 DS y obesidad ≥ +2 DS respectivamente.
+
+Se definió talla baja un Z score talla/edad ≤ –2 DS según sexo.
+
+Materiales
+
+Todos los datos se registraron en un formulario similar previamente publicado1,5 que incluía información respecto a: diagnóstico de internamiento, enfermedad de base, vía de alimentación, presencia de trastorno de la deglución, dolor, síntomas gastrointestinales como vómitos y diarrea por más de 2 semanas, demandas energéticas, capacidad funcional, pérdida de peso en el último mes y alergias alimentarias. Esta información se anexó a la ficha clínica.
+
+Las enfermedades previas y el diagnóstico de hospitalización se agruparon según la Clasificación Internacional de Enfermedades (CIE 10)13.
+
+Análisis estadístico
+
+Se evaluó la presencia de distribución normal para las distintas variables cuantitativas del estudio, usando la prueba de Shapiro Wilk. Las variables cuantitativas de interés no tuvieron distribución normal, por lo que se describieron a través de su mediana y de su rango intercuartílico (RIC: p25, p75).
+
+Para comparar una variable cuantitativa entre 2 grupos se usó la prueba no paramétrica U de Mann Whitney para muestras independientes.
+
+En la comparación de una variable cuantitativa entre más de 2 grupos se usó la prueba no paramétrica Kruskal Wallis para muestras independientes.
+
+Se usó regresión logística ordinal para evaluar el efecto del sexo, de la edad y del diagnóstico sobre el estado nutricional (desnutrido, en riesgo, eutrofia, sobrepeso, obeso).
+
+Para evaluar la asociación entre 2 variables cualitativas se usó la prueba de Chi-cuadrado de Pearson, sin corrección.
+
+Se consideró un nivel de significación (α) de 0,05.
+
+Los análisis estadísticos se realizaron en el programa computacional Stata versión 10.
+
+Este trabajo tiene la aprobación del Comité de Ética de la Pontificia Universidad Católica de Chile.
+
+Resultados
+
+De un total de 748 niños ingresados en el Hospital Clínico de la Universidad Católica de Chile, desde el mes de noviembre de 2010 hasta abril de 2011, 365 niños (48,8%) cumplieron con los criterios de inclusión. Las características demográficas, antropométricas y parámetros de laboratorio se muestran en la tabla 1. La mediana de edad del grupo fue de 3,3 años (RIC: 1,2-8,2). Un 44,9% eran mujeres y un 55,1% hombres. Los menores de 2 años constituyeron el 36,9% del grupo total. La mediana de estancia hospitalaria fue de 2,0 días (RIC: 2-4), con un mínimo de un día y un máximo de 48 días.
+
+ 
+
+Tabla 1 Características generales de los niños hospitalizados
+
+
+
+IMC: índice de masa corporal.
+
+ 
+
+Se encontró un bajo porcentaje de ausencia de datos antropométricos; solo el 2% del grupo que cumplía con las condiciones para ser evaluado no tenía registrado el parámetro de talla, y aproximadamente un 1,2% del total no reportaba peso ni talla.
+
+La distribución del estado nutricional del grupo total evaluado al ingreso de la hospitalización, de acuerdo al Z score P/T o IMC/E, 229 niños (62.7%) eran eutróficos, 29 (8,0%) en riesgo de desnutrición, 12 (3,3%) estaban desnutridos, 55 (15,0%) con sobrepeso y 40 (11,0%) presentaban obesidad. El 12% de los niños presentaron talla baja.
+
+Teniendo en cuenta que la muestra general incluyó niños hospitalizados en la unidad de cuidado intensivo, con condición clínica apta para la evaluación nutricional, se evalúo por separado este grupo. En 63 pacientes 39 niños (62%) eran eutróficos, 4 (6,4%) en riesgo de desnutrición, 2 (3,0%) con desnutrición, 11 (17,4%) con sobrepeso y 7 (11%) con obesidad. No hubo diferencias significativas entre este grupo y la muestra total.
+
+Los valores de hemoglobina, hematocrito y albúmina se obtuvieron en un 56%, 77,5% y 33% de los pacientes incluidos en el estudio, respectivamente. Estos marcadores no arrojaron ningún tipo de asociación con el estado nutricional. Al relacionar los resultados de exámenes de laboratorio con el diagnóstico de ingreso se observaron niveles de hematocrito más altos en los pacientes con cardiopatías (39,8% ± 5,98 DS) que en aquellos con enfermedades infecciosas (35,4% + 4,32 DS; p = 0,004).
+
+La causa más frecuente de ingreso fueron las cardiopatías congénitas, reportadas en 111 niños (30.4%) con ingreso electivo para intervención y/o corrección quirúrgica, seguidas por las enfermedades infecciosas en 91 niños (24,9%); 65 pacientes ingresados (17,8%) presentaron enfermedades respiratorias crónicas reagudizadas, y en menor porcentaje otros diagnósticos que se detallan en tabla 2.
+
+ 
+
+Tabla 2 Clasificación, descripción de los diagnósticos de ingreso y edad
+
+
+
+a - Clasificación de acuerdo a Clasificación internacional de enfermedades 10.     b - Valores en mediana (RIC).     c - Rango: mínimo-máximo.     d - Diferencia significativa de la variable edad entre diagnósticos de ingreso (p < 0,05).     * - Significativo.
+
+ 
+
+Al asociar el diagnóstico de ingreso con la edad de los niños se encontró que el grupo con enfermedades cardiológicas tiende a ser de menor edad (p = 0,0035), observándose mayor edad en el grupo con enfermedades neurológicas (p = 0,0019) y enfermedades gastrointestinales (p = 0,0028), mientras que en las enfermedades respiratorias e infecciosas no se encontró diferencia significativa con la edad.
+
+En la tabla 3 se presenta el estado nutricional según la edad y diagnóstico de ingreso, observándose un mayor porcentaje de desnutrición en los niños menores de 2 años (5,2%), mientras que el sobrepeso fue mayor en el grupo de 12-17 años con el 21,6%, y la obesidad en el grupo de niños entre 6 y 11 años con un 16,2% (fig. 1). Al realizar un análisis de regresión logística ordinal, asignando como variable dependiente el estado nutricional y como variable independiente la edad, este resultó significativo (p = 0,008), señalando que por cada año de edad que se cumple se incrementa en un 6,9% (OR = 1,069) el Z score de P/T o IMC/E.
+
+ 
+
+Tabla 3 Grupo de edad, diagnóstico de ingreso y estado nutricional
+
+
+
+DNT: desnutrición; IMC: índice de masa corporal.     a - DNT en < 5 años según parámetro P/T; > 5 años según IMC < –2 DS.     b - Riesgo de DNT < 5 años según parámetro P/T; > 5 años según IMC: –1,1/–1,9 DS.
+
+ 
+
+
+
+Figura 1 Distribución del estado nutricional según la edad.
+
+ 
+
+Al relacionar el diagnóstico de ingreso con el estado nutricional no se observó una asociación entre estas 2 variables, es decir, que la proporción de cualquier categoría del estado nutricional es similar en todos los diagnósticos. Sin embargo, se encontró que los desórdenes gastrointestinales presentaron el mayor porcentaje de desnutrición (8,1%), seguidos por las enfermedades neurológicas (4,76%; tabla 3).
+
+En relación con la estancia hospitalaria, los pacientes con desnutrición presentaron una mediana de 4 (RIC: 1-5,25) días; aquellos con riesgo de desnutrición 2 (RIC: 1,0-4,0) días; los eutróficos 2 (RIC: 2,0-4,0) días; aquellos con sobrepeso 2 (RIC: 1,5-4,5) días y los niños con obesidad 2 (RIC: 1,5-4,5) días, sin diferencias significativas entre ellos.
+
+La lactancia materna se evaluó teniendo en cuenta un período mayor o igual a 6 meses en los niños menores de un año, la información solo se pudo obtener en 47 niños de los 75 pacientes que conformaron este rango de edad. De estos datos se obtuvo que en el grupo de niños con lactancia materna un 3,7% presentaba desnutrición, un 11,1% estaba en riesgo de desnutrición; en el grupo de niños que no tuvieron lactancia materna se observó un 5% de desnutrición y un 25% en riesgo de desnutrición. Cuando se relacionó el estado nutricional con lactancia materna no se encontraron diferencias significativas.
+
+Discusión
+
+El presente trabajo determinó el estado nutricional de los niños al ingreso de su hospitalización, motivados por el frecuente reporte de publicaciones sobre la prevalencia de desnutrición hospitalaria en pediatría no detectada ni tratada tempranamente3–5,14.
+
+El enfoque principal radicó en la evaluación nutricional por antropometría y exámenes bioquímicos (no en la medición del riesgo nutricional), considerando esta actividad como el primer paso para instaurar, protocolizar y asegurar el tamizaje nutricional al ingreso de la hospitalización como parte de la reglamentación hospitalaria en nuestra institución.
+
+La antropometría realizada a través de la medición de peso y talla/longitud es un proceso sencillo, fácil, económico y no invasivo15,16, pero la bibliografía reporta que existen instituciones hospitalarias en las que este procedimiento no es regularizado ni estandarizado por no considerarse una prioridad2,14,17. O¿Connor et al. (2004) indican que en un 12% faltaba peso y/o talla, un 73% de los pacientes no tenía registrada la talla o la longitud y en un 2% de los niños hospitalizados no era posible obtener estos datos por su condición clínica16. Por el contrario, en nuestra investigación se encontró un mayor porcentaje de registros de los datos antropométricos al ingreso de la hospitalización.
+
+Aunque la prevalencia de desnutrición infanto-juvenil hospitalaria ha sido previamente reportada por varios autores en países como Estados Unidos, Francia, Alemania, Holanda y otros países de América Latina, con valores entre un 6% a 32%3,5,15,17,18, nuestros resultados muestran un menor porcentaje de desnutrición, congruente con la estadística de la población chilena menor de 6 años, que presenta menos del 1% de desnutrición19. Los resultados encontrados en este trabajo son comparables con otros estudios realizados en niños hospitalizados, como el de Sissaoui et al. (2013), quienes reportaron una prevalencia muy baja de desnutrición en Australia, con un 2,5%20.
+
+Trabajos recientes han mostrado que la malnutrición por déficit es mayormente prevalente en los menores de 5 años4,21, pero en nuestro grupo ocurrió en los menores de 2 años, grupo etario que se internó principalmente por enfermedad infecciosa y cardiológica.
+
+Comparando la prevalencia de desnutrición según los diagnósticos de ingreso en nuestro grupo de pacientes, la mayor frecuencia resultó en los desórdenes gastrointestinales, seguido de la enfermedad neurológica, contrario a estudios previos que reportan mayor prevalencia de desnutrición (18- 64%) en niños con enfermedad cardiaca (cardiopatía congénita, cardiomiopatía)5,15, a diferencia del 3,6% que se obtuvo para esta enfermedad en nuestro estudio. Otras investigaciones también reportaron mayor porcentaje de desnutrición en enfermedades gastrointestinales y enfermedad neurológica3,20.
+
+El estado nutricional no se relacionó con la duración de la estancia hospitalaria, resultado que contrasta con estudios que describen una asociación con la prolongación en un 45% más, en aquellos niños con algún grado de desnutrición comparado con los sin malnutrición por déficit3,15,22. Los días de hospitalización de nuestro grupo fue menor que el reportado en otros estudios15. Joosten et al. (2011) en su trabajo revelaron mayor tiempo de hospitalización entre el grupo de niños con malnutrición aguda comparado con el grupo sin desnutrición, con medianas de 4 días (rango 1-44 días) vs 2 días (rango 1-24 días)3. Es importante resaltar que si bien no se encontró una asociación significativa entre el estado nutricional y la estancia hospitalaria, se observó que los niños eutróficos tuvieron menos días de hospitalización al compararlos con aquellos con malnutrición, tanto por déficit como por exceso. Estudios actuales han revelado que la obesidad en los niños hospitalizados es un factor de riesgo de mayor morbimortalidad y aumento del tiempo de hospitalización23. Esto podría tener relación con la pobre respuesta inmune e inflamatoria a la enfermedad24, la mayor incidencia de complicaciones respiratorias y el mayor tiempo de ventilación mecánica, que han sido reportados en niños obesos25. Sin embargo, faltan más estudios que relacionen la obesidad con resultados clínicos en pediatría23.
+
+Anexo a la evaluación nutricional antropométrica se analizaron los valores de albúmina, hemoglobina y hematocrito, pero al igual que otros autores no se encontraron diferencias significativas entre estos marcadores y el estado nutricional5,26, aun cuando está demostrado que la albúmina es un importante indicador del estado nutricional, y a su vez un valor predictivo de la respuesta nutricional y de los resultados clínicos5,27. Sin embargo, se debe considerar que los niveles de albúmina son independientes del estado nutricional en enfermedades como las hepáticas, hematológicas, renales, infecciosas, inflamatorias y de estrés metabólico, por lo cual estos valores pueden verse afectados17,28,29.
+
+Al relacionar hemoglobina y hematocrito con el diagnóstico de ingreso se encontraron diferencias significativas solamente entre el hematocrito y las enfermedades infecciosas y cardiológicas, discrepando con estudios previos que describen una asociación de las infecciones respiratorias y anemia hemolítica causada por Mycoplasma pneumoniae30; en nuestra experiencia los niños menores de 2 años fueron el grupo de edad que más se hospitalizó por infección respiratoria, pero sin alteraciones de los valores de hemoglobina y hematocrito.
+
+En cuanto al estado nutricional general del grupo de niños hospitalizados es de consideración el porcentaje de niños a riesgo nutricional identificado en nuestra evaluación nutricional, siendo mayor este porcentaje en los menores de 2 años; esta cifra es una alerta a la que se debe responder con vigilancia y acción preventiva desde el ingreso, durante la estancia hospitalaria y en su seguimiento al alta.
+
+El sobrepeso y la obesidad resultante en el grupo fue similar al reportado por la estadística 2010 de la población pediátrica chilena19, donde los menores de 2 años presentaban obesidad en un 7,8%. En este trabajo se obtuvo un 6,6%, de igual forma ocurrió para el grupo de 2 a 5 años, según la cifra nacional existe un 10,8% con obesidad y nuestro grupo obtuvo 11,2%; en relación con el grupo de los escolares y adolescentes hospitalizados también presentaron un alto porcentaje de sobrepeso y obesidad. Resultados similares fueron observados por Wang et al. (2006)31 en niños hospitalizados australianos entre 7 y 15 años, reportando entre un 20-30% de sobrepeso y obesidad. En otro estudio se encontró un 14% de exceso de peso, del cual el 6% de este grupo se encontraba en obesidad definida como > + 3 DS20.
+
+Una de las limitaciones de este trabajo fue no incluir a todos los niños que ingresan a hospitalizarse, dada su condición de gravedad, presencia de edema o colecciones que pudieran sobreestimar el peso o tener una condición genética u otra enfermedad mayor que al interpretar la evaluación nutricional con los estándares de crecimiento utilizados, arrojen un diagnóstico nutricional inadecuado. Algunas de estas situaciones se hubieran podido adaptar con una evaluación individualizada, pero posiblemente no reproducible en todos los niños de condiciones similares.
+
+Teniendo en cuenta que el estado nutricional de los niños durante la estancia hospitalaria puede ser agravado por factores de estrés, enfermedad de base, infecciones, falta de apetito, presencia de dolor, fiebre, síntomas gastrointestinales y otros15,18, la evaluación nutricional inicial debe complementarse con otros métodos que contengan información detallada y predictiva del estado actual y del desarrollo de la enfermedad del paciente, que permitan establecer el riesgo nutricional y/o detectar precozmente la malnutrición durante la hospitalización, generando intervenciones nutricionales oportunas y apropiadas5,17,32.
+
+Estos métodos de tamizaje de riesgo nutricional se han venido desarrollando en países desarrollados. Si bien aún no están aceptados universalmente, existen 4 descritos en la literatura: Pediatric Nutritional Risk Score, Subjective Global Nutritional Assessment, Screening Tool for the Assessment of Malnutrition in Pediatrics, Pediatric Yorkhill Malnutrition Score y el STRONGkids4,5,18. Este último, desarrollado en Holanda, es considerado como el más conveniente dado que su aplicación no requiere información antropométrica ni de exámenes de laboratorio, resultando ser práctico, fácil y el mejor predictor del riesgo nutricional5, por su mayor correlación con los indicadores antropométricos4,5,32.
+
+En conclusión, la evaluación nutricional de los pacientes al ingreso de la hospitalización es fundamental y esencial en la detección temprana de niños en desnutrición, a riesgo y en exceso de peso que permita su oportuno tratamiento y seguimiento. El aporte de este trabajo es enfatizar que debemos concienciar al equipo de salud para que esta actividad sea permanente y rutinaria como una política de atención, que incluye desde el registro de los datos de peso y talla hasta la intervención nutricional.
+
+Una herramienta de evaluación nutricional son los test de tamizaje nutricional previamente mencionados, métodos muy adecuados, prácticos y sencillos que permiten esta identificación durante la hospitalización y para el seguimiento nutricional al alta.

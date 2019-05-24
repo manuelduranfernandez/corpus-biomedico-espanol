@@ -1,0 +1,158 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062017000500016
+El niño con Síndrome de Down en la Unidad de Cuidados Intensivos
+
+ 
+
+Introducción
+
+El síndrome de Down (SD) es la alteración cromosómica más frecuente en recién nacidos vivos. El Estudio Colaborativo Latinoamericano de Malformaciones Congénitas (ECLAMC) señaló una tasa de nacimientos de 1,88 por mil nacidos vivos1. En Chile, esta tasa es actualmente 2,47 por mil nacidos vivos, siendo la más alta de Sudamérica1,2.
+
+En las últimas décadas los avances en la medicina infantil, el cambio de actitud hacia esta población, particularmente en aquellos niños con cardiopatía congénita sometidos a cardiocirugía y las políticas de salud pública con programas específicos de supervisión de salud han logrado un incremento notable en la sobrevida de los pacientes con SD3,4. Además, su ingreso a las unidades de cuidados críticos ocurre en forma más habitual.
+
+Es conocido que el niño con SD presenta una mayor frecuencia de malformaciones congénitas cardíacas y gastrointestinales (atresia duodenal y páncreas anular), desórdenes orgánicos como enfermedad celíaca, hipotiroidismo, infecciones respiratorias y alteraciones hematológicas3. Este hecho se refleja en una mayor morbimortalidad y tasa de hospitalización que la población general5,6.
+
+Diversos artículos han presentado resultados divergentes sobre la gravedad del niño con SD críticamente enfermo. A modo de ejemplo, en los pacientes con insuficiencia respiratoria que requieren de ventilación mecánica, los criterios para síndrome de distrés respiratorio agudo (SDRA) se presentan en forma más frecuente en niños con SD7. El riesgo de mortalidad por sepsis en estos pacientes aumenta un 30% tras corrección de factores de confusión8. Asimismo, las complicaciones respiratorias e infecciosas post-cardiocirugía son más comunes resultando en estadías más prolongadas en la unidad de cuidados intensivos (UCI)9.
+
+Existen revisiones recientes del perfil de morbilidad del niño con SD en nuestro país5, pero no están enfatizadas en la morbilidad que ocasiona su condición de paciente críticamente enfermo. El objetivo de la presente comunicación es dar a conocer las particularidades fisiopatológicas, condiciones específicas y posibles patologías a encontrar en el niño con SD críticamente enfermo, para así capacitar al equipo de salud en su cuidado. Se hace exclusión del período neonatal y en lo referente a cuidados perioperatorios cardioquirúrgicos.
+
+Se revisaron los artículos más relevantes a opinión de los autores en las bases de datos MEDLINE y Scielo. No se efectuó una revisión sistemática sobre el tema.
+
+Estrés oxidativo
+
+El estrés oxidativo es una parte fundamental de la biología del niño con SD. Entre los más de 500 genes del cromosoma 21, existe información funcional para alrededor de 150 de ellos. El cromosoma 21 contiene varios genes que han sido implicados en el estrés oxidativo incluyendo la superóxido dismutasa-1(SOD-1), factor de transcripción ETS-2, inhibidor de la calcineurina (región crítica del síndrome de Down-DSCR1), entre otros. Se ha señalado que los pacientes con SD presentan importantes diferencias en la susceptibilidad al estrés oxidativo10,11, describiendo una condición pro-oxidante sistémica12,13.
+
+La mayoría de los pacientes con SD tienen una trisomía completa del cromosoma 21, existiendo una sobreexpresión del gen SOD1 (21qf22.1) el cual codifica para la forma soluble de la superóxido dismutasa-1(SOD-1), una molécula clave en la anti-oxidación14. La relación entre SOD-1 y catalasa (CAT) más glutatión peroxidasa (GPx) [SOD-1/(CAT+GPx)] está aumentado en el SD, lo que favorece la generación en exceso de radicales libres de oxígeno (radical hidroxilo, OH,) que ocasiona daño a las proteínas de la cadena electrónica en la membrana mitocondrial interna (menor eficiencia del metabolismo oxidativo), peroxidación de lípidos de membrana (daño celular) y daño del ADN mitocondrial10,11 (figura 1). En consecuencia, las células trisómicas son más sensibles al estrés oxidativo.
+
+
+
+ 
+
+Figura 1. Representación esquemática del metabolismo anormal redox existente en los individuos con síndrome de Down. Las mitocondrias son la principal fuente de producción de aniones superóxidos (·O2-) en la mayoría de las células. La mayoría de los pacientes con síndrome de Down presentan trisomía completa del cromosoma 21, donde 21q22.1 codifica para la forma soluble de la superóxido dismutasa 1 (SOD-1), molécula antioxidante clave. La relación [SOD-1/(CAT+GPx)] está aumentado en el síndrome de Down. Este desbalance crónico entre estas importantes enzimas antioxidantes y sus correspondientes sustratos favorece la generación en exceso de radicales hidroxilo, (.OH). El estrés oxidativo se asocia con inhibición de la respiración mitocondrial, peroxidación lipídica y daño del ADN mitocondrial. SOD-1: superóxido dismutasa 1; CAT: catalasa; GPx: glutatión peroxidasa; H2O2: peróxido de hidrógeno; Fe+2: catión fierro ; •O2-: anión superóxido; .OH: radical hidroxilo; NADP+: nicotinamida adenina dinucleótido fosfato; G6PD: glucosa-6-fosfato-deshidrogenasa. 
+
+Patología respiratoria
+
+El niño con SD puede presentar una gran variedad de patología respiratoria15. De esta manera los pacientes con SD son más susceptibles a infecciones del tracto respiratorio inferior, principalmente neumonía, las que motivan su hospitalización en UCI5,16. Esto es dado en parte a las particularidades en la anatomía de la vía aérea17, problemas derivados de la higiene oral18, hipotonía muscular, aspiración por trastorno de la deglución, y alteraciones en la inmunidad innata y adaptativa19,20.
+
+Referente a la incidencia del SDRA en niños con SD se ha descrito que es mayor en comparación a la población pediátrica general7. Los mecanismos que lo explican no están del todo aclarados y pudiera deberse a una elevada tasa de apoptosis en estos niños. Al respecto, se ha sugerido que este incremento se relaciona con una menor capacidad para hacer frente al estrés oxidativo.
+
+El estudio de Bertrand y cols. 21, realizado en nuestro país, en una población de 24 pacientes con SD que presentaban síntomas respiratorios recurrentes y que fueron evaluados con fibrobroncoscopia, describió que, dentro de las alteraciones en la vía aérea superior, la laringomalacia fue el hallazgo endoscópico más frecuente (50%)21. Sin embargo, en una cohorte de 239 pacientes22 el porcentaje fue menor (6%). Por consiguiente, se debe considerar que estos pacientes presentan una vía aérea superior más lábil, y al usar benzodiacepinas u otros sedantes existe mayor riesgo de colapso de ésta. Esto se debe tener en cuenta al usar sedación en el paciente en ventilación no invasiva. También se observó que la presencia de traqueo y/o broncomalacia es la alteración de la vía aérea inferior más frecuente. Habitualmente es mayor a izquierda y debe sospecharse en caso de cardiopatía asociada (compresión bronquial). Su manifestación más frecuente es la atelectasia recurrente y fracaso de extubación.
+
+En un subgrupo de pacientes sintomáticos respiratorio, se describió la existencia de quistes subpleurales (20-36%) los cuales son múltiples, periféricos y en relación a cisuras, su tamaño varía de 1 a 4 mm de diámetro. Su manejo es conservador23.
+
+Con respecto al desarrollo de hemorragia pulmonar, se puede presentar en forma aguda (hemoptisis o insuficiencia respiratoria) o subaguda (anemia ferropriva, hemosiderosis pulmonar idiopática, enfermedad intersticial pulmonar)24. El mayor riesgo de hemorragia pulmonar se observa en el paciente con cardiopatía (cortocircuito de izquierda a derecha, disfunción mitral, obstrucción de vena pulmonar)23.
+
+Existen estudios que demuestran una mayor morbilidad por infecciones asociadas al virus respiratorio sincicial (VRS), observándose seis veces más hospitalizaciones durante los primeros dos años de vida, y en ausencia de otras patologías asociadas el riesgo es tres veces mayor. En relación a la gravedad, presentan dos veces más riesgo de necesidad de ventilación mecánica invasiva y mayor estadía hospitalaria. Esto se atribuye a la presencia de hipotonía muscular, mal manejo de secreciones, disfunción inmune, alteraciones en el desarrollo pulmonar y existencia de patologías asociadas25. Recientemente, se ha comunicado que estos niños presentan una mayor mortalidad para la infección grave por VRS26.
+
+Vía aérea e intubación endotraqueal
+
+El paciente con SD presenta microbraquicefalia y una vía aérea disminuida (vía aérea superior pequeña y macroglosia) por lo que la intubación puede ser dificultosa. 
+
+Con el incremento de la cirugía en estos niños se ha descrito en la literatura científica una asociación entre SD y desarrollo de estridor post-extubación. Dentro de las razones se encuentran: tamaño más pequeño y menor peso corporal, hipoplasia del tercio medio facial, estenosis subglótica congénita e hipotonía de la vía aérea22,27.
+
+La hipoplasia de tercio medio facial con una vía aérea nasal más pequeña y micrognatia, el desplazamiento medial de las amígdalas, la estrechez de nasofaringe y la hipotonía de la vía aérea, ubica a esta población en riesgo de presentar obstrucción de la vía aérea en diferentes niveles27.
+
+El uso de máscara laríngea es recomendable en procedimientos cortos y de ser necesaria la intubación endotraqueal, se debe considerar la utilización de tubos endotraqueales (TET) más pequeños27. El estudio de Shott27 evaluó el tamaño apropiado del TET que debería utilizarse en estos niños. Sus resultados confirman que los niños con SD tienen una vía aérea más pequeña. Aparentemente se debe a una disminución global en el tamaño, no sólo de la vía aérea subglótica, sino también de la tráquea. En la tabla 1 se muestra las recomendaciones para los tamaños de los TET a utilizar.
+
+Tabla 1. Recomendaciones para los tamaños de los tubos endotraqueales a utilizar en niños con síndrome de Down (Modificado de referencia 27)
+
+
+
+La existencia de hipertensión pulmonar (HP) puede ser de naturaleza primaria28 o secundaria a la existencia de cardiopatía o hipoxia (apneas obstructivas del sueño, daño pulmonar crónico). Dentro de los mecanismos asociados, se atribuye un rol a la alteración del desarrollo de la vasculatura, polimorfismo genético que afectaría la producción de óxido nítrico y otros mediadores de la resistencia vascular pulmonar, entre otras causas23,29,30.
+
+Se debe descartar la existencia de estenosis de las venas pulmonares, la que habitualmente origina una HP de pobre respuesta terapéutica. Su mecanismo causal sería la neo-proliferación de miofibroblastos. El diagnóstico se realiza por sondeo cardíaco, ya que en su mayoría no es evidente a la ecocardiografía. Su pronóstico es malo, con un alto riesgo de mortalidad (83%) en caso de compromiso de 3 ó 4 venas pulmonares31.
+
+Destete ventilatorio y fracaso de extubación
+
+Se debe tener presente que las anormalidades existentes en la vía aérea superior e inferior y los riesgos potenciales para el desarrollo de secuelas en la región subglótica derivadas del uso de un TET inadecuado pueden causar dificultades en el destete definitivo del ventilador y prolongar la estadía hospitalaria impactando negativamente el pronóstico vital32.
+
+Se ha señalado que esta condición es un factor de riesgo por sí solo de fracaso de extubación (FE). En una importante casuística nacional de pacientes post operados cardíacos, un 7% de ellos presentaban SD con una tasa de FE de 22% comparado con un 8,9% de los pacientes sin esta condición, alcanzando un valor significativo como factor de riesgo para FE en los menores de seis meses de edad (OR: 5,7; 1,5-21,2)33.
+
+Puede ser una opción a considerar en el niño con SD el uso de dexmedetomidina con el objetivo de minimizar o eliminar el uso de midazolam previo a la extubación.
+
+Patología cardíaca
+
+Las malformaciones más prevalentes asociadas a esta condición son las del sistema cardiovascular, con una incidencia que varía entre 42 a 48% para las malformaciones cardíacas34,35, siendo el hallazgo más frecuente el defecto aurículoventricular.
+
+La presencia de cardiopatía congénita en el niño con SD es la principal causa de ingreso a UCI cardio-quirúrgica. Esta temática se encuentra fuera del objetivo de esta actualización, no obstante, el lector puede encontrar revisiones sobre esta materia9,36,37.
+
+Se ha descrito una mayor frecuencia de bradicardia en estos niños al recibir inducción anestésica con sevoflurano, independiente de la coexistencia de cardiopatía38. Habitualmente ésta es de fácil corrección y no se asocia a un peor pronóstico39.
+
+Como se señaló previamente la incidencia de HP es mayor en niños con SD29,30, donde la alta prevalencia de cardiopatía congénita es un contribuidor significativo.
+
+La progresiva incorporación del uso de ventilación no invasiva ha proporcionado una mejoría clínica significativa en los pacientes con falla cardiaca congestiva e hipertensión pulmonar y un probable impacto benéfico en la mortalidad40.    Finalmente, se ha demostrado en importantes estudios de cohorte que el neonato y niño con SD presenta el mismo9 o menor riesgo de muerte a corto plazo41 que el niño sin SD post cardiocirugía.
+
+Patología infecciosa
+
+Los pacientes con SD presentan una elevada frecuencia de infecciones, particularmente del tracto respiratorio, las que se caracterizan por ser de duración prolongada y mayor gravedad42. Garrison y cols.8 comunicaron un 30% de incremento en el riesgo de mortalidad en la población infantil con SD comparado con niños sin SD. Esto se debe tanto a factores inmunológicos20 como no inmunológicos19 (tabla 2).
+
+Tabla 2. Factores inmunológicos y no inmunológicos que potencialmente aumentan la susceptibilidad a infecciones en el niño con síndrome de Down (Adaptada de referencias 19 y 20)
+
+ 
+
+La homeostasis del zinc es crítica tanto para una adecuada inmunidad innata como para una función linfocitaria normal (inmunidad adaptativa)43, permitiendo postular que su alteración se puede relacionar con la disfunción inmune del niño séptico.
+
+Se ha evidenciado en pacientes críticos que niveles plasmáticos bajos de zinc se correlaciona con la magnitud de la falla orgánica44. Por otra parte, ha sido demostrado en un modelo experimental animal y en pacientes sépticos que la presencia de menores niveles séricos de zinc se asocia a mayor mortalidad45.
+
+Se ha postulado que los niveles de zinc en los niños con SD se encuentran disminuidos, lo que se demostró en un estudio con una pequeña casuística, que incluyó 35 pacientes con esta condición, entre 4 a 11 años de edad46. El rol patobiológico del zinc en el niño con SD y shock séptico no está dilucidado.
+
+Estudios de asociación del genoma completo (GWAS, del inglés Genome-Wide Association Study) han comunicado que el shock séptico en el niño se caracteriza por una precoz, persistente y concomitante represión de programas genéticos relacionados con el sistema inmune adaptativo y la biología del zinc43,45, identificándose posteriormente que una subclase de esta población presentó un fenotipo clínico asociado a un peor pronóstico vital. Dado la deficiencia que presenta en la inmunidad adaptativa el paciente con SD, la cual se exacerba en el paciente con shock séptico, se debiera disponer a futuro mediante una subclasificación a nivel genómico, de una terapia específicamente orientada.
+
+Trastornos neurológicos
+
+Además de los hallazgos transversales en los niños con SD como son la hipotonía y el retraso cognitivo, existen otras complicaciones neurológicas a tener presentes. Según los trastornos neurológicos a evaluar se ha descrito una prevalencia variable. Schieve y cols.47 señalaron una frecuencia de trastornos neurológicos de 26% para niños entre 3 a 17 años y en una reciente casuística nacional de dos centros hospitalarios48 la cual incluyó a pacientes neonatales, se describió una prevalencia de 39%, destacando los trastornos oculomotores (26%) y la epilepsia (12%), presentando esta última una frecuencia mayor que la reportada en otras comunicaciones49. Gaete y cols.48 señalan que el tipo predominante de epilepsia fue la generalizada, y lo más frecuente en este grupo fue el espasmo infantil, hallazgo concordante con otras publicaciones50,51. Referente al Síndrome de West en el niño con SD se ha descrito una mejor respuesta a la terapia esteroidal que para la población general51,52. 
+
+Recientemente un estudio de cohorte, comparó a pacientes hospitalizados niños y adultos, con SD y sin esta condición. La población estudiada corresponde a una muestra hospitalaria de 20.405 pacientes, de los cuales el 20% del total corresponde a personas con SD. Este trabajo señaló que los pacientes con esta condición tienen asociado un alto riesgo de accidente cerebro vascular en todas las edades. En el caso de desarrollo de accidente cerebrovascular isquémico en pacientes con SD, este aparece principalmente por el riesgo cardioembólico. El mayor riesgo de accidente cerebrovascular hemorrágico y menor riesgo de eventos coronarios (en hombres) con  SD siguen sin explicación53.  Sin embargo, en esta casuística, la población de pacientes con esta condición tiene una representación excesiva, por lo cual los resultados no deben extrapolarse a nivel poblacional.
+
+Además se debe destacar la mayor frecuencia descrita para el síndrome de Moyamoya en niños con SD que en la población pediátrica general54. Este se presenta habitualmente con síntomas de carácter isquémico. La causa de esta asociación aún no es totalmente aclarada, atribuyéndose un rol a la displasia vascular, condiciones protrombóticas, fenómenos de autoinmunidad, síntesis de colágeno tipo VI y sobreexpresión de proteínas que regulan la fisiología arterial. Su tratamiento es la cirugía de revascularización cerebral55.
+
+Inestabilidad de columna cervical
+
+Predecir el riesgo de inestabilidad cervical en un paciente puede ser dificultoso. Diversas comunicaciones señalan una frecuencia de inestabilidad atlantoaxial y atlantooccipital variable entre 15% a 30%56.
+
+En cuanto a la sintomatología para identificar a pacientes con inestabilidad atlantoaxial esta es muy variable y de escasa frecuencia (1-2%)57. Esto implica que la historia clínica y el examen físico pueden no presentar utilidad para detectarla. La evaluación radiológica también es difícil en los niños menores de tres años de edad, dado que la columna está inadecuadamente osificada para permitir mediciones exactas, además de presentar modificaciones de la anatomía cervical a medida que el niño crece. El índice más empleado en su objetivación es el intervalo atlantoodontoideo56 .
+
+Los síntomas y signos de la inestabilidad atlantoaxial son usualmente crónicos, resultante de la compresión de la médula espinal y/o de las raíces nerviosas. Sin embargo, la compresión aguda del cordón cervical superior es un potencial escenario de riesgo ante hiperextensión cervical durante procedimientos como laringoscopia, broncoscopia o esofagoscopia17. De esta manera algunos especialistas prefieren la intubación fibroóptica o la estabilización en línea de la columna cervical en pacientes con riesgo. Además se debe efectuar un examen neurológico básico para asegurar simetría de movimientos y fuerza de las extremidades, el cual debe ser repetido en el paciente que puede haber sufrido daño cervical.
+
+En la actualidad, la Academia Americana de Pediatría no recomienda el uso rutinario de radiografías de columna cervical para el niño asintomático. No obstante, habitualmente la decisión de disponer o no de una evaluación preoperatoria radiológica permanece a discreción del anestesiólogo o cirujano.
+
+Consideraciones anestésicas
+
+Además de la elevada prevalencia de cardiopatías congénitas y malformaciones gastrointestinales, las que habitualmente requieren cirugía durante los primeros días o semanas de vida, existen otras condiciones de resolución quirúrgica (malformaciones menores, procedimientos dentales, etc.) que se presentan frecuentemente, o también por la necesidad de efectuar procedimientos diagnósticos prolongados, el niño con SD debe ser sometido a anestesia o sedación profunda en forma más reiterada que otros individuos, siendo necesario maximizar las condiciones antes, durante y después de la cirugía58. De esta manera, generalmente estos niños necesitan ser ingresados a la UCI para su recuperación.
+
+Se ha demostrado que la incidencia de complicaciones relacionadas con la anestesia general es significativamente mayor en estos pacientes para procedimientos no cardíacos, destacando la presencia de bradicardia grave, obstrucción de la vía aérea y estridor post instrumentalización59.
+
+Aspectos fisiológicos únicos del niño con SD pueden potencialmente afectar la seguridad perioperatoria, por lo tanto, es necesario una adecuada comunicación entre anestesista e intensivista. Se debe colocar especial énfasis en la inestabilidad atlantoaxial60, hipertensión pulmonar, patología cardiovascular, obstrucción de la vía aérea superior, alteraciones hematológicas y antecedente de prematurez o bajo peso de nacimiento58.
+
+Asimismo, presentan mayor riesgo postoperatorio de apneas, episodios hipoxémicos y edema pulmonar agudo post-obstructivo23. En la literatura científica, además se describe la coexistencia de SD con síndrome de hipoventilación central congénito, por lo cual es importante indagar tanto en la presencia de apneas centrales y obstructivas en la anamnesis. 
+
+Ante la necesidad de sedación para procedimientos en pacientes con apnea obstructiva del sueño, la combinación de ketamina-dexmedetomidina es una buena alternativa.
+
+Finalmente, de ser posible se debe considerar la combinación de dos o más procedimientos quirúrgicos compatibles bajo un solo evento anestésico, disminuyendo así las potenciales complicaciones de la inducción anestésica, extubación y etapa postoperatoria.
+
+Analgesia postoperatoria
+
+Existen datos limitados y contradictorios, la mayoría de ellos provenientes de ensayos clínicos en pacientes sometidos a cirugía cardíaca, referentes a la analgesia necesaria en el niño con SD en comparación al que no presenta esta condición. No obstante, estudios recientes confirmaron dosis analgésicas comparables en pacientes neonatales y pediátricos, en lo referente a la dosis acumulativa de opioides a las 24 y 96 h61 y similares requerimientos de fármacos sedantes y analgésicos62,63.
+
+Se debe tener presente la dificultad en el niño con SD para valorar adecuadamente el dolor y, por ende, su dependencia para una correcta evaluación y tratamiento.
+
+Pronóstico
+
+Uno de los factores claves que influyen en la mortalidad del paciente crítico es la presencia de diversas fallas orgánicas. En la actualidad, se reconoce a la disfunción multiorgánica como una respuesta adaptativa originada por la modificación de la respuesta inmune, neuroendocrina y estado redox sobre la función mitocondrial.
+
+Esta respuesta adaptativa predice una compleja relación entre la gravedad de la disfunción orgánica y el resultado: aquellos pacientes capaces de desencadenarla precozmente tendrán una tendencia a evitar la muerte temprana en un episodio de enfermedad crítica, pero con un mayor requerimiento de soporte orgánico. La eventual sobrevivencia estará determinada por la capacidad de recuperación mitocondrial una vez que el evento inicial ha cesado.
+
+Debe considerarse que los niños con SD presentan diferentes características en su inmunidad8, en la homeostasis redox10 y neuroendocrinas, lo que origina distintos umbrales para el inicio y resolución de la falla orgánica, durante el desarrollo de la enfermedad crítica.
+
+Una de las principales revisiones sobre la evolución y pronóstico del niño con SD críticamente enfermo señaló una mayor necesidad de soporte cardiovascular, ventilatorio y renal que lo sugerido por la gravedad de la enfermedad al momento de la admisión, como también una mayor estadía en UCI y una tasa de mortalidad dependiente de la duración de ésta32.
+
+Una reciente comunicación demostró que poseer esta condición no confiere mayor riesgo de mortalidad entre pacientes críticos neonatales y pediátricos menores de dos años de edad. No obstante, corroboró que estos pacientes presentan un riesgo aumentado de mortalidad en relación al incremento de su estadía hospitalaria64.
+
+Por otra parte, un estudio retrospectivo francés, señaló una mayor gravedad y elevada mortalidad que la predicha por el score PELOD (Paediatric logistic organ dysfunction) en niños con SD críticamente enfermos admitidos a UCI por razones médicas (no quirúrgicas), relacionada principalmente a falla respiratoria65.
+
+Finalmente, aún falta información relacionada a la calidad de vida del niño luego de su alta de UCI.
+
+Conclusiones
+
+Las características únicas de su anatomía y patofisiología en el niño con SD plantean una serie de consideraciones y eventuales problemas que deben ser anticipados durante su estadía en UCI. Los niños con SD constituyen un importante grupo de pacientes, donde su admisión por causas médicas se asocia a morbimortalidad habitualmente incrementada por la presencia de enfermedades o condiciones respiratorias asociadas.
+
+Estos pacientes presentan importantes diferencias en la susceptibilidad al estrés oxidativo, reconociendo una condición pro-oxidante sistémica. La incidencia de SDRA es mayor que la observada en la población pediátrica general y aún queda por definir el exacto rol patobiológico del zinc en el niño con SD y shock séptico.

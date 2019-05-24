@@ -1,0 +1,116 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062015000600002
+Adecuación en diálisis peritoneal pediátrica: Del test de equilibrio peritoneal a las aquaporinas
+
+ 
+
+Introducción
+
+La diálisis peritoneal se considera la terapia dialítica de elección en pacientes pediátricos que se encuentran en la etapa terminal de su enfermedad renal crónica1,2. Según el reporte anual North American Pediatric Renal Trials and Collaborative Studies (NAPRTCS) del año 2011, de 7.039 pacientes pediátricos reportados en diálisis, 4.430 se encontraban en diálisis peritoneal3. De ellos, el 67,8% se encontraba en diálisis automatizada al inicio, y el 70% a los 36 meses del ingreso a diálisis peritoneal. En Chile, la población pediátrica en diálisis peritoneal se estima en alrededor de 90 pacientes.
+
+Existen distintas modalidades de esta terapia, siendo las más utilizadas la diálisis peritoneal continua ambulatoria, que se lleva a cabo en forma manual y en la que se realizan intercambios cada 6 h, y la diálisis peritoneal automatizada, que utiliza una máquina cicladora. Esta última a su vez se puede dividir en diálisis nocturna intermitente, en la que se realizan ciclos cortos durante la noche, permaneciendo durante el día con la cavidad peritoneal seca, y diálisis peritoneal ciclada continua, en la que luego de los intercambios nocturnos se realizan intercambios diurnos de mayor duración. Esto permite ajustar la prescripción de diálisis a las necesidades individuales de cada paciente, para lograr las mejores tasas de transporte de solutos y de remoción de líquido4,5.
+
+La elección de la modalidad de diálisis se basa en las características anatómicas y funcionales de la membrana peritoneal. El transporte peritoneal debe caracterizarse en cada caso en términos de depuración y ultrafiltración (UF) para seleccionar el régimen de diálisis a aplicar, dado que la capacidad de transporte del peritoneo es un fenómeno de alta complejidad, con una gran variabilidad inter e intraindividual, que se ha tratado de explicar por medio de distintos modelos matemáticos, entre los cuales el más aceptado es el modelo de los 3 poros6. Este modelo fue descrito por Rippe en 19917,8, quien postuló que la principal barrera al transporte peritoneal es el endotelio capilar, que contiene 3 tipos distintos de poros (fig. 1): los poros pequeños (small pores [SP]) tienen un radio de 40-50 A y corresponden a la unión entre células endoteliales. Ocupan el 99,7% del área total disponible para la difusión de solutos pequeños y son responsables del 90% del coeficiente de UF peritoneal total. Los poros grandes (large pores [LP]), con radio de 250 A, corresponden al espacio interendotelial venular y son responsables del 8% del coeficiente de UF peritoneal total, a pesar de corresponder solo al 0,01% del número total de poros. Los LP participan en el transporte de macromoléculas por convección casi sin restricción, incluyendo albúmina. Finalmente existen los poros ultrapequeños (ultrasmall pores [USP]), que corresponden a canales específicos de transporte de agua, recientemente identificados como aquaporina 1 (AQP1). Los USP aportan solo el 2% del coeficiente de UF peritoneal total9, pero dan cuenta de aproximadamente el 40% de la UF debida a ósmosis generada por glucosa en las primeras horas de permanencia. La importancia de los USP ha sido evaluada en estudios experimentales en roedores, demostrándose en ratones knock-out para AQP1 que hasta la mitad de la UF total ocurre a través de estos canales10. Igualmente es importante considerar que durante la diálisis peritoneal también se produce reabsorción de líquido a través de los vasos linfáticos y tejido intersticial, de modo que la UF neta resulta de la diferencia entre 2 procesos opuestos: UF y reabsorción. Estos 2 procesos simultáneos dependen a su vez del área de intercambio efectiva, de la permeabilidad del peritoneo y de la función de las AQP111.
+
+ 
+
+
+
+Figura 1 Modelo de los 3 poros de la membrana peritoneal. Reproducido con          autorización de B. Rippe7.
+
+ 
+
+Evaluación del transporte peritoneal
+
+Para evaluar la capacidad de transporte del peritoneo se han desarrollado distintas pruebas de uso clínico.
+
+Coeficiente de área de transferencia de masa
+
+Uno de los test originales consistió en el cálculo del coeficiente de área de transferencia de masa (MTAC). Este coeficiente, basado en modelos cinéticos de transporte de solutos, corresponde al valor inverso de la resistencia a la difusión peritoneal y representa el aclaramiento que podría realizar el peritoneo en ausencia de UF y de acumulación de solutos en el líquido de diálisis. Sin embargo, este test fue escasamente utilizado en la práctica clínica, probablemente debido a que requería cálculos muy complejos12.
+
+Test de equilibrio peritoneal
+
+En 1987 Twardowski desarrolló una prueba para evaluar la capacidad de transporte del peritoneo, más fácil de realizar y más aplicable que el MTAC, denominada test de equilibrio peritoneal (PET)12.
+
+El PET realiza una evaluación semicuantitativa de la capacidad de transporte peritoneal, considerando tanto el transporte de solutos como la capacidad de UF, y se basa en la velocidad con que se equilibran las concentraciones de un soluto determinado entre el plasma y la solución de diálisis. De esta forma, la relación entre la concentración de un soluto entre dializado y plasma (D/P), que se mide a las 0, 2 y 4 h, indica la velocidad con que se transporta el soluto, permitiendo clasificar a los pacientes en 4 categorías: transportador alto, promedio alto, promedio bajo y bajo12. Estas categorías se definen calculando una desviación estándar por sobre y bajo el valor promedio de la población estudiada, y pueden ser evaluadas en cada centro o región para estandarizar los valores a nivel de la población local. Un valor D/P para creatinina por sobre el promedio, en especial si es cercano a 1, indica que el transporte del soluto entre dializado y plasma es alto, y que por lo tanto la permeabilidad de la membrana peritoneal es elevada. Lo opuesto ocurre en caso de obtener un valor de D/P bajo, resultado que permite catalogar al paciente de medio-bajo o bajo transportador. En algunas publicaciones el término «alto» y «bajo» ha sido reemplazado por transportador «rápido» o «lento», respectivamente (fig. 2). En el caso de la glucosa, se establece la relación entre la glucosa a los tiempos hora 0, 2 y 4 versus el tiempo 0 (Dt/D0), siendo lo característico que a mayor tiempo el valor de la relación sea más bajo, dado que su concentración en el líquido peritoneal disminuye por efecto de degradación, absorción y principalmente por dilución del azúcar por efecto del agua arrastrada por el gradiente osmótico. Así, mientras menor es la relación Dt/D0 a la hora 4 del test, mayor es la capacidad de transporte del peritoneo, y viceversa (fig. 2). En el anexo 1 se detalla el método para realizar el test.
+
+ 
+
+
+
+Figura 2 Representación esquemática del transporte peritoneal. Se grafican          los 4 tipos de transportadores: categoría alto transportador, promedio      alto,          promedio bajo y bajo transportador.
+
+ 
+
+El resultado del PET debe reflejarse en la prescripción de diálisis del paciente, en especial en la duración de los intercambios. Un transportador rápido, que alcanza tempranamente el punto máximo de equilibrio, debe ser dializado con ciclos cortos, de 1-2 h de duración (diálisis nocturna intermitente); en forma inversa, un paciente que presenta un peritoneo de transporte lento requiere ciclos de larga duración para permitirle alcanzar el peak de UF y depuración (diálisis peritoneal continua ambulatoria). La incorrecta elección de la modalidad de diálisis resultará inevitablemente en una sobrecarga de agua y sodio, con las consecuencias previsibles de hipertensión y compromiso cardiovascular13.
+
+Test de equilibrio peritoneal acortado
+
+Con el fin de simplificar el procedimiento del PET original, Twardowski propuso primero realizar un PET rápido (fast PET), que solo requiere la toma de una muestra de sangre y de líquido de diálisis a las 4 h de permanencia14, y que luego se modificó a un PET acortado o short PET, en el que se evalúa el D/P de creatinina y el Dx/D0 de glucosa a las 2 h. En pediatría este test fue validado por Warady en un estudio retrospectivo en 20 niños, concluyendo que las categorías en la que se clasifica al paciente a las 2 h son las mismas que las obtenidas a las 4 h15. En nuestra experiencia este test se validó en forma prospectiva en un estudio multicéntrico en 74 pacientes16, observando un 16,1% de pacientes en categoría alto transportador, 32,2% promedio alto, 35,6% promedio bajo y 16,1% transportador bajo. Los valores de corte para la clasificación de los pacientes en las distintas categorías de transportador según el resultado del D/P de creatinina y D2/D0 de glucosa a las 2 horas se encuentran en la tabla 1. El método para realizar el short PET se describe en el anexo 1.
+
+ 
+
+Tabla 1 Clasificación de transportadores de acuerdo al          resultado de short PET en pacientes pediátricos
+
+
+
+Fuente: adaptado de Cano et al.16.
+
+ 
+
+Transporte peritoneal y mortalidad cardiovascular
+
+Las complicaciones cardiovasculares son la principal causa de morbimortalidad de los pacientes en diálisis peritoneal17. Datos del US Renal Data System (USRDS) han confirmado que la mortalidad de pacientes pediátricos en diálisis es mayor que en la población pediátrica general, con una tasa de 35,6 por 1.000 pacientes/año, en comparación con la cifra de 0,31/1.000 habitantes, siendo la tasa de mortalidad por todas las causas similar en pacientes en diálisis peritoneal y hemodiálisis. Lo que resulta más grave es que la tasa de mortalidad de pacientes de 0-19 años en diálisis peritoneal no ha variado significativamente en los últimos 30 años, como se comprueba al comparar el valor observado en los años ochenta, de 83 por 1.000 pacientes/año, con la cifra reportada para el período 2000-2008, que corresponde a 80 por 1.000 pacientes/año. Parekh et al, al analizar los datos del USRDS para menores de 30 años, observaron que el 23% de las muertes se debían a causa cardíaca. Datos de diversos registros internacionales han corroborado estas cifras a nivel global18,19.
+
+Uno de los factores críticos asociados a la mortalidad cardiovascular es la pérdida progresiva de la capacidad de transporte peritoneal, con la consiguiente sobrecarga de agua y solutos. La prescripción de la diálisis en base a las pruebas previamente descritas no ha logrado modificar esta tendencia, a pesar de efectuar los ajustes en forma individual en cada paciente. Esto sugiere que existe un aspecto de la adecuación que ha sido insuficientemente evaluado hasta el momento.
+
+Los resultados del PET clásico evalúan el transporte de solutos y agua dependientes básicamente del mecanismo de convección y difusión, lo cual no permite analizar separadamente el transporte de agua libre a nivel de los USP, transporte que es representado por la caída de la concentración de sodio en una primera hora por efecto del arrastre de agua frente a una solución hipertónica de glucosa al 3,86%, conocido como sieving de sodio20,21.
+
+Para evaluar la capacidad de transporte de agua libre de la membrana peritoneal vía aquaporinas, La Milia et al.22 propusieron en 2005 el uso de un test modificado denominado MiniPET. Este test considera que durante la primera hora de permanencia de una solución hipertónica intraperitoneal (glucosa 3,86%) el transporte de agua libre es máximo, ya que la concentración de glucosa se encuentra en su mayor nivel, y el transporte de sodio por difusión es muy bajo debido a que existe un bajo gradiente entre plasma y dializado. En esas condiciones, el 40% del transporte de agua ocurre a través de los poros ultrapequeños (USP). El transporte de agua libre promedio obtenido por estos autores fue 215 ± 86 ml, representando el 46% de la UF total, y se correlacionó bien con la UF total obtenida con el PET de 4 h con solución hipertónica. En esta prueba uno de los parámetros básicos es la dilución del sodio en el dializado (DipNa) durante la hora del estudio, por arrastre de agua libre desde el plasma por la glucosa del dializado. Los autores reportaron una correlación lineal entre el transporte de agua libre y el DipNa en el dializado, calculado como la diferencia en la concentración de sodio del dializado al final del test, versus el sodio al inicio del test, correlación igualmente validada con el Dip D/P Na, que expresa la diferencia entre la relación dializado/plasma de sodio entre el fin y comienzo del test.
+
+En nuestro grupo se evaluó el transporte de agua libre aplicando el MiniPET a un grupo de pacientes pediátricos y relacionándolo con su estado cardiovascular23. Los resultados de UF diaria y transporte de agua libre fueron normalizados a la superficie corporal de los pacientes. Se observó que 10/16 pacientes tenían hipertrofia de ventrículo izquierdo (índice de masa ventricular izquierda [IMVI] > 38 g/m2), y de ellos, 5 tenían hipertrofia cardiaca severa (IMVI > 51 g/m2). Los pacientes no tenían hipertensión ni evidencias de sobrecarga de volumen, como edema o cambio en el peso. En este grupo, el transporte de agua libre normalizado fue 133,9 ± 85,7 ml/m2 de superficie corporal, representando el 14,5% de la UF diaria, un valor menor al obtenido por La Milia et al.
+
+Al evaluar la relación entre el MiniPET y el estado cardiovascular, se observó una correlación lineal negativa entre el transporte de agua libre normalizado y el IMVI (Pearson coef, r = 0,58, p = 0,02), con valores de IMVI más altos en los pacientes con menor transporte de agua libre. Destaca que no se observó una correlación significativa entre UF total y UF diaria con IMVI, como tampoco se observó una correlación entre el D/P de creatinina y el Dx/D0 de glucosa con la UF normalizada, con el transporte de agua libre normalizado, ni con el IMVI.
+
+En cuanto a su ejecución en la práctica clínica, el MiniPET requiere la misma preparación que se efectúa la noche previa al short PET (anexo 1). El día del examen se infunden 1.100 ml/m2 de Dianeal al 3,86% durante 10 min con conexión tipo Y (Ultrabag). Se debe obtener una muestra de sangre al minuto 0 para medición de natremia. Al finalizar la infusión (minuto 1) se obtiene una primera muestra de 20 ml de solución de diálisis de la bolsa para medición de sodio. A los 60 min de permanencia se obtiene una segunda muestra del dializado para medición de sodio, y se drena el dializado por gravedad al menos por 20 min. Se debe registrar el volumen del dializado infundido y drenado, pesando las bolsas y restando el peso de la bolsa vacía, para cuantificar la UF. Los cálculos necesarios para el análisis de este test se encuentran en la tabla 2.
+
+ 
+
+Tabla 2 Fórmulas para analizar el MiniPET
+
+
+
+ 
+
+En adultos en diálisis peritoneal, la importancia de la remoción de agua y de sodio como predictor de mortalidad fue demostrada por Ateş et al.17, quienes evaluaron 125 pacientes en esta terapia, a los que siguieron por 3 años. De ellos, el 20% fallecieron durante el seguimiento, siendo la causa cardiovascular en el 50% de los casos. Los pacientes fueron clasificados en 4 grupos de acuerdo a su remoción de sodio (grupo I: remoción de sodio < percentil 25, hasta grupo IV: remoción de sodio mayor al percentil 75), y se observó que la sobrevida era mayor en el grupo con mayor remoción de sodio (grupo IV, sobrevida de 96% vs 59% del grupo I), lo que se repitió al compararlo con los grupos II y III. La misma diferencia se encontró al evaluar la variable remoción de volumen.
+
+El concepto de APEX o de diálisis peritoneal adaptada
+
+Otros investigadores han desarrollado nuevos conceptos para optimizar la diálisis peritoneal. Schmitt et al.24 propusieron el uso del Accelerated Peritoneal Examination Time (APEX) para obtener el tiempo de permanencia óptimo en términos de capacidad de UF. El APEX se obtiene en el punto en que se intersectan las curvas de equilibrio de urea y glucosa obtenidas en un PET clásico (fig. 3).
+
+ 
+
+
+
+Figura 3 Ilustración del APEX. El tiempo APEX es el punto en que          se intersectan las curvas de aparición de urea y de desaparición de          glucosa en el dializado, e indica el tiempo óptimo de permanencia.          Reproducido con autorización de M. Fischbach (publicado en Peritoneal          Dialysis International27).
+
+ 
+
+Debe considerarse que el volumen infundido influye en la capacidad de UF y de depuración debido a su impacto en el área peritoneal que se recluta para el intercambio. Así, un volumen de infusión pequeño, característicamente < 800 ml/m2, favorece la UF ya que genera una menor presión intraperitoneal, como asimismo permite una mayor tasa de equilibrio plasma-peritoneo, caracterizando erróneamente al paciente en categorías de alto transportador25. Schmitt et al.24 proponen el uso de intercambios secuenciales con permanencias cortas y largas, y volúmenes de infusión pequeños y grandes. Los intercambios cortos con poco volumen, que generan una menor presión intraperitoneal, maximizarían la UF y deberían basarse en los resultados del APEX. Para la remoción de solutos deberían utilizarse infusiones de mayor volumen, con la precaución de no exceder una presión intraperitoneal de 18 cmH2O, y con la consideración de que los niños con una presión intraperitoneal mayor de 13 cmH2O necesitan un seguimiento estricto26.
+
+Esta estrategia de diálisis personalizada mejoraría la eficiencia, tanto en términos de depuración como de remoción de agua y sodio, y ayudaría a lograr un mejor control de la presión arterial en niños y en adultos24.
+
+Conclusiones
+
+Cuando se sospecha falla de la UF, la prescripción de la diálisis peritoneal se ajusta de acuerdo a los resultados del PET. Este test, sin embargo, no permite diferenciar si la falla del transporte ocurre a nivel de los mecanismos de convección, de difusión o del transporte de agua libre. Para realizar esta diferenciación es necesario efectuar el MiniPET, test que evalúa el transporte de agua libre a través de los poros ultrapequeños y que complementa la información obtenida con el PET clásico o con el short PET.
+
+La evaluación de las características del transporte peritoneal es de gran importancia para adecuar la prescripción de diálisis en forma individualizada. Sin embargo, a pesar del uso rutinario de los conceptos de adecuación descritos previamente, no se ha observado un cambio en la morbilidad cardiovascular de estos pacientes. Esto sugiere que, habiendo corregido los factores clásicos de riesgo cardiovascular, persisten aspectos hasta ahora insuficientemente evaluados del transporte peritoneal y que pudieran estar relacionados a una sobrecarga de volumen y deterioro cardiovascular. Uno de estos factores parece corresponder al transporte de agua libre a través de los poros ultrapequeños. Por lo tanto, la realización de estos 2 tests permitiría evaluar tanto las características del transporte clásico como el transporte de agua libre.
+
+Es necesario realizar a futuro un mayor número de estudios que evalúen la capacidad de transporte de agua y solutos del peritoneo, y la morbimortalidad cardiovascular.
+
+ 
+
+Anexo 1. Short PET.
+
+
+
+Nota: En el PET clásico, el líquido se drena a las 4 h, y debe obtenerse una muestra extra          de dializado a las 4 h para creatinina y glucosa.         iECA: inhibidor de la enzima convertidora de      angiotensina.         Los cálculos matemáticos se pueden realizar utilizando el PET calculator, disponible          en www.pedpd.org, o en forma manual.

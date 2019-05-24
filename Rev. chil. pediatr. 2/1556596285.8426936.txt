@@ -1,0 +1,272 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062017000600803
+PET/CT: Técnica, consideraciones e indicaciones en el estudio oncológico de pacientes pediátricos
+
+Introducción
+
+El cáncer en la población pediátrica chilena es un problema relevante, siendo la segunda causa de muerte en niños mayores de 5 años, después de los accidentes. Esto ha generado el desarrollo de distin tos programas nacionales para su enfrentamiento. En 1998 se desarrolló el programa del cáncer infantil (PINDA), generando una red de centros a lo largo de Chile con protocolos de tratamiento comunes. Posteriormente y desde el año 2003 se han imple mentado unidades de alivio del dolor y cuidados paliativos para los casos más avanzados de la enfer medad.
+
+La incidencia esperada de neoplasias en Chile en menores de 15 años es de 110-150/1.000.000 de niños por año1. Los cánceres más frecuentes son las leu cemias (40%), tumores del sistema nervioso central (17%), linfomas (13%) y tumores óseos (7%)2.
+
+Sin duda, los procesos de diagnóstico y etapificación son fundamentales para un manejo oportuno y buen pronóstico de esta clase de patologías. Es aquí donde la técnicas de imagen juegan un papel funda mental.
+
+La ecografía y la radiología simple son las técnicas de primera línea en el estudio de la patología general del niño; sin embargo, se han desarrollado nuevas tec nologías para el estudio anatómico y funcional que se utilizan en adultos hace un tiempo y que actualmente han encontrado un rol en el estudio de la patología del niño.
+
+La técnica de Tomografía por Emisión de Positro nes (PET, Positron Emission Tomography) fusionada con las imágenes obtenidas de una Tomografía com putada (CT), denominada PET/CT3, proporciona in formación de la actividad metabólica de la persona y de las alteraciones en estudio, proporcionado además una resolución espacial superior a aquellas que convencio nalmente se obtienen con la CT.
+
+La imagen de CT se obtiene al administrar una do sis de fotones de radiación a través de un tubo de rayos X hacia el paciente, algunos de estos son absorbidos y los que pasan son leídos por una fila de detectores ubi cados en el lado opuesto. El movimiento giratorio que realiza el tubo y los detectores permite la realización de cortes para formar la imagen anatómica mientras avanza la mesa. El PET por su parte mide la emisión de radiación desde el organismo después haber inyectado un radiotrazador, representando la actividad metabó lica celular.
+
+Durante la última década el uso del PET/CT se ha incrementado de forma significativa, sobre todo por sus aplicaciones en oncología, tanto en la detección de cáncer como también en su seguimiento y evaluación de respuesta al tratamiento.
+
+En la obtención de imágenes híbridas, como el PET/ CT, se ha estado trabajando para disminuir las dosis de radiación y el tiempo de exploración (actualmente de aproximadamente 20 min), así como en mejorar la calidad de la imágenes, hechos que han ayudado a un aumento en la utilización de este método de estudio.
+
+Es importante tener consideraciones especiales en los niños sometidos a este tipo de examen, ya que pueden cometerse errores en la interpretación de los hallazgos por confusión con lesiones benignas o por las zonas de alta actividad metabólica normales en los pacientes pediátricos, que los diferencian del adulto.
+
+El objetivo es este artículo es dar a conocer los as pectos técnicos del PET/CT, consideraciones al mo mento de la realización e interpretación del estudio y las principales patologías oncológicas pediátricas en las que el PET/CT debe considerarse como parte del algo ritmo de estudio y seguimiento.
+
+Aspectos técnicos del PET/CT
+
+El PET/CT se compone de dos equipos completa mente distintos en un solo gantry, es decir, se juntan en una misma máquina los equipos de una tomografía axial computarizada y el equipo de emisión de positro nes para la obtención y posterior fusión de las imáge nes. Esto hace posible contar con información meta bólica proveniente del PET y anatómica aportada por la TC de todo el cuerpo en un solo examen, con obten ción de imágenes que se pueden acoplar y fusionar en distintos planos3,4.
+
+En el PET/CT las dosis mayores de radiación son aportadas por la tomografía computada. Un PET/CT representa una dosis de radiación promedio entre 15 a 20 mili-sieverts (mSv) en el adulto, es decir aproxima damente 7 años de radiación natural; sin embargo, en pacientes pediátricos es posible disminuir estos pará metros ajustando la dosis según protocolos específicos para la edad, por peso y talla, llegando en promedio a aportar aproximadamente entre 7 a 10 mSv5.
+
+Las imágenes del PET se obtienen al administrar un radiotrazador por vía intravenosa al paciente. Este es capaz de acoplarse a las células metabólicamente acti vas, emitiendo positrones que en última instancia per mitirán calcular la actividad metabólica de los distintos segmentos explorados.
+
+Existen distintos radiotrazadores, los más usados son la 18-Fluoro-deoxiglucosa (FDG), la 18-Fluorocolina (principalmente en cáncer de próstata en adultos) y los análogos de la somatostatina marcados con Ga-lio-686. Estos últimos se distribuyen principalmente en aquellos tumores o metástasis que expresen recep tores de somatostatina, principalmente tumores neuroendocrinos y neoplasias derivadas de las crestas neurales como el neuroblastoma.
+
+
+
+
+
+Figura 1 
+
+
+
+Switch
+
+
+
+ glicolítico. La célula introduce la glucosa para su metabo lismo a través de canales especializados llamados GLUT, luego está sigue puede seguir por una vía aerobia por el ciclo de Krebs o anaerobia hacia la genera ción de lactato. La glucosa marcada con flúor, también ingresa por canales GLUT y puede ser fosforilada por una hexoquinasa a FDG-6-P; sin embargo, no puede ser degradada. De esta forma se acumula en las células que tienen mayor demanda de glucosa, como algunas células neoplásicas. 
+
+
+
+
+
+Figura 1 
+
+
+
+Switch
+
+
+
+ glicolítico. La célula introduce la glucosa para su metabo lismo a través de canales especializados llamados GLUT, luego está sigue puede seguir por una vía aerobia por el ciclo de Krebs o anaerobia hacia la genera ción de lactato. La glucosa marcada con flúor, también ingresa por canales GLUT y puede ser fosforilada por una hexoquinasa a FDG-6-P; sin embargo, no puede ser degradada. De esta forma se acumula en las células que tienen mayor demanda de glucosa, como algunas células neoplásicas. 
+
+EL FDG es el trazador más comúnmente usado y corresponde a un análogo de la glucosa marcado con un radio-isotopo. En la glucolisis normal del organis mo la glucosa es incorporada dentro de la célula por transportadores de membrana (GLUT 1) siendo den tro de ella fosforilada por una hexoquinasa, pudiendo seguir el ciclo del lactato o de la acetilcolina para la ob tención de energía por parte de la célula4.
+
+La glucosa marcada con flúor (FDG) se introduce en la célula por transporte activo acorde a la demanda de azúcar (Figura 1). Una vez dentro también es fosforilada, pero su degradación es bloqueada y se acumula en el citoplasma, es decir no sigue la vía normal de la degradación de la glucosa4. Esto genera la acumula ción de FDG en el interior de la célula y nos permite obtener imágenes de su captación entre los 45 a 60 min de inyectado el radiotrazador.
+
+Los tejidos malignos acumulan FDG ya que estos poseen mayor avidez por glucosa que los tejidos nor males debido a su alto metabolismo. Además, en estos últimos hay expresión aumentada de los transportado res de glucosa y una mayor actividad de la hexoquinasa a nivel mitocondrial7.
+
+También en los casos de inflamación e infección habrá más requerimiento de glucosa por la célula ya que aumenta la afinidad y número de trasportadores de glucosa y los granulocitos y macrófagos incremen tan la utilización de esta.
+
+Medición de la actividad metabólica
+
+Para mejorar la apreciación sobre una determinada lesión hipermetabólica, existe la evaluación del índice semicuantitativo de captación del trazador, conocido como SUV (Standard Uptake Value), que se define como la cantidad de radiotrazador presente en una lesión según la dosis administrada, pudiéndose com parar este valor entre controles sucesivos, objetivando apreciaciones visuales3,8 (Figura 2).
+
+No existe un valor normal para este índice, pero se sabe que un SUV máximo (máx) mayor de 2,5 orienta con mayor probabilidad a que una lesión sea de origen neoplásico.
+
+
+
+
+
+Figura 2 Paciente de 14 años con linfoma de Hodgkin. A) En el primer PET/CT se detectó adenopatías mediastínicas (flecha) con SUV máx (Standard Uptake Value máximo) de 9,5. B) A los 3 meses de iniciado el tratamiento, el PET/CT de control muestra menor tamaño de las adenopatías (fecha discontinua) y una dis minución del SUV máx a 4. Corroborando la apreciación visual de disminución del metabolismo celular. 
+
+
+
+
+
+Figura 2 Paciente de 14 años con linfoma de Hodgkin. A) En el primer PET/CT se detectó adenopatías mediastínicas (flecha) con SUV máx (Standard Uptake Value máximo) de 9,5. B) A los 3 meses de iniciado el tratamiento, el PET/CT de control muestra menor tamaño de las adenopatías (fecha discontinua) y una dis minución del SUV máx a 4. Corroborando la apreciación visual de disminución del metabolismo celular. 
+
+Realización del examen
+
+En cualquier examen de imágenes y en particular en pacientes pediátricos es fundamental explicar el procedimiento al niño y a sus padres. Se realiza una entrevista previa en la cual se les explica cómo se realiza el examen y la duración de éste. Considerando desde que el paciente ingresa al servicio hasta que el examen finaliza, la duración aproximada es de 2 a 4 h depen diendo de la necesidad de anestesia.
+
+Para una interpretación adecuada es importante contar con la historia clínica completa y comparar con exámenes previos si se dispone de ellos.
+
+La preparación comienza el día previo al examen, realizando una dieta sin muchos carbohidratos y evi tando actividad física intensa, como deportes o educa ción física. Se requiere ayunas de entre 4 a 6 h depen diendo de la edad y condiciones del niño. En pacientes con nutrición parenteral, ésta se debe interrumpir al menos 6 h previo a la inyección de FDG. En pacientes que están siendo sometidos a quimioterapia se requie re un lapso mínimo de 6 h entre el fin del ciclo y la administración del radio-trazador.
+
+Para poder realizar el examen se necesita una gli cemia no superior a 150 mg/dl, ya que niveles supe riores podrían disminuir el rendimiento del examen. En pacientes diabéticos debe estabilizarse la glicemia antes de realizar el estudio. Lo ideal es que el paciente orine previo a la inyección del radiotrazador y antes de adquirir las imágenes.
+
+Se deben retirar las joyas, aros y todos los elemen tos que pudiesen generar artefactos.
+
+Para la administración del radiotrazador se requie re una vía venosa permeable, calculando la dosis según el peso del paciente (0,12 mCi/kg, total mínimo de 2,5 mCi y máximo de 8 mCi).
+
+Durante y después de la administración intraveno sa del FDG es necesario que el paciente esté tranqui lo, en un ambiente grato y a temperatura adecuada, permaneciendo en reposo por aproximadamente una hora.
+
+La opción de administrar contraste intravenoso para la TC debe ser tomada en conjunto con el médico tratante de acuerdo a la indicación del examen y lo que desea evaluar.
+
+Es importante destacar en este punto la importan cia del reposo; debemos recordar que un aumento de la actividad muscular, por ejemplo al realizar ejercicio o simplemente hablar, demanda por parte del organismo más glucosa y al ser el FDG un análogo de ésta, puede existir un aumento de su captación y ser erróneamente interpretado en el examen o dificultar la visualización de las alteraciones.
+
+En niños que no pueden permanecer en la camilla del PET/CT suficientemente quietos para la adquisi ción, será necesario utilizar algún grado de sedación. En la mayoría de los casos la sedación se realizará sólo durante la adquisición (toma de imágenes) del estudio. Algunas indicaciones para el uso anestésico son los pa cientes que no puedan tolerar el examen, pacientes con discapacidad intelectual y pacientes claustrofóbicos.
+
+El cateterismo vesical está indicado en situaciones en que la vejiga llena o el pañal contaminado no per mitan evaluar adecuadamente una estructura ubicada en la pelvis o el periné y cuando se aplica anestesia ge neral. Entre sus indicaciones se encuentran pacientes con urgencia miccional, evaluación de estructuras ad yacentes a la vejiga, paciente sin control de esfínteres, o anestesias prolongadas.
+
+La obtención de los imágenes se realiza normal mente desde la base del cráneo hasta la porción pro ximal de los muslos; también se pueden obtener imá genes de cuerpo completo desde el vértex a los pies en caso de patologías en que puedan metastizar a cual quier región del cuerpo como en el caso del neuroblastoma, sarcoma, melanoma o linfoma en que se sospe che compromiso óseo.
+
+Posterior al procedimiento y una vez obtenidas las imágenes se mide la radiación emitida por el pacien te, el FDG tiene una vida media corta de aproximada mente 110 min. El paciente puede comer y beber inme diatamente finalizado el examen, pero se recomienda aislamiento relativo por 4 h. Por mayor seguridad se sugiere no acercarse a otros niños ni personas embara zadas en el plazo de 20 h. En pacientes sometidos a ci rugía, radioterapia o quimioterapia pueden generarse efectos falsos positivos debido a la inflamación, por lo tanto se recomienda en estos casos la obtención de este examen entre 4 a 6 semanas postquimioterapia, entre 8 a 12 semanas en caso de radioterapia y de 1 a 2 meses posterior a una cirugía.
+
+Indicaciones en patología oncológica pediátrica
+
+Linfoma
+
+La mayor experiencia en los estudios de PET/CT en pediatría se ha dado en el estudio de Linfoma de Hodgkin (LH) y no Hodgkin (LNH)9 (Figura 3), prin cipalmente en la etapificación del paciente10. Según se ha descrito en algunos estudios, se logra cambiar la etapificación en un 32-40% de los casos.
+
+El PET/CT tiene un rol en la evaluación de respues ta a tratamiento, en la re-etapificación, en la evaluación de masas residuales en la que se quiere medir si aún hay actividad metabólica para diferenciar una lesión acti va de una inactiva y para planear incluso la obtención de biopsias o radioterapia11. Las guías de la National Comprehensive Cancer Network (NCCN) en adultos no recomiendan el uso de PET/CT para ciertos linfo mas no Hodgkin no ávidos de FDG12; sin embargo, en niños no hay literatura al respecto y las guías del Reino Unido recomiendan ampliamente su uso13.
+
+En cuanto a los tipos de linfoma validados en adul tos, se encuentran: linfoma de Hodgkin, linfoma no Hodgkin de células T anaplásico, linfoma no Hodg-kin difuso de células grandes y folicular de alto grado; en estos se encuentra recomendado el uso de PET/CT para el estadiaje inicial, para evaluar masas residuales y como fin de tratamiento14. Sin embargo, para aquellos metabólicamente menos captantes de glucosa, como los linfomas de tejido linfático asociado con la mucosa (linfoma MALT) y leucemia linfocítica crónica (LLC) su uso aun no ha sido validado completamente, situa ción similar y extrapolable a la población infantil12.
+
+
+
+
+
+Figura 3 Paciente de 12 años. Se realiza estudio para etapificación de linfoma de Hodgkin. Existen múltiples adenopatías hipermetabólicas (flechas) en cuello (A), mediastino superior (B) y mediastino inferior (C). 
+
+
+
+
+
+Figura 3 Paciente de 12 años. Se realiza estudio para etapificación de linfoma de Hodgkin. Existen múltiples adenopatías hipermetabólicas (flechas) en cuello (A), mediastino superior (B) y mediastino inferior (C). 
+
+Osteosarcoma y sarcoma de partes blandas
+
+En el osteosarcoma, sarcoma de Ewing y rabdomiosarcoma (Figura 4) el PET/CT juega un rol en el proceso de etapificación, evaluación de la respuesta a tratamiento (especialmente en quimioterapia) y en la re-etapificación15,16.
+
+También puede ser de utilidad en la detección de metástasis óseas y pulmonares, recomendándose como estudio complementario, ya que la mejor evaluación de la lesión primaria se logra con resonancia magnética.
+
+La medición del SUV máx. pre y post tratamiento es predictor de aquellos tumores quimio-sensibles.
+
+Neuroblastoma
+
+Otra indicación es en los pacientes con neuroblastoma (Figura 5), especialmente aquellos con cintigrafía con MIBG (yodo-131-metayodobenzilguanidina) negativa17. El FDG tiene avidez por el tumor prima rio y sus metástasis, pero puede variar luego del trata miento. Sería de mayor utilidad en los estadios I y II, mientras que la cintigrafía con MIBG sería de mayor utilidad en estadios más avanzados de la enfermedad. Existen estudios que están evaluando el uso de traza dores especiales para este tipo de pacientes.
+
+
+
+
+
+Figura 4 Paciente de 10 años con diagnóstico de rabdomiosar-coma alveolar perineal tratado cirugía, quimioterapia y radiote rapia. Se realiza PET/CT para re-etapificación, que muestra masas residuales hipermetabólicas (flechas) en vértice pulmonar derecho (A), hilio esplénico (B) y en región perianal a derecha (C). 
+
+
+
+
+
+Figura 4 Paciente de 10 años con diagnóstico de rabdomiosar-coma alveolar perineal tratado cirugía, quimioterapia y radiote rapia. Se realiza PET/CT para re-etapificación, que muestra masas residuales hipermetabólicas (flechas) en vértice pulmonar derecho (A), hilio esplénico (B) y en región perianal a derecha (C). 
+
+
+
+
+
+Figura 5 Paciente de 3 años. Neuroblastoma abdominal tratado inicialmente con cirugía y quimioterapia. La recidiva se trató con radioterapia. Se controla con PET/CT, mostrando múltiples lesio nes intra-abdominales en CT (A) que muestran gran metabolismo (B). Nótese la distribución fisiológica del trazador a nivel intestinal y renal bilateral, que no hay que confundir con patología. 
+
+
+
+
+
+Figura 5 Paciente de 3 años. Neuroblastoma abdominal tratado inicialmente con cirugía y quimioterapia. La recidiva se trató con radioterapia. Se controla con PET/CT, mostrando múltiples lesio nes intra-abdominales en CT (A) que muestran gran metabolismo (B). Nótese la distribución fisiológica del trazador a nivel intestinal y renal bilateral, que no hay que confundir con patología. 
+
+Otras indicaciones oncológicas y no oncológicas menos comunes
+
+Existen otras indicaciones menos frecuentes (Figura 6) como hepatoblastoma, síndromes linfoproliferativos post trasplante, tumor de células germinales, me tástasis de primario desconocido, síndrome febril sin foco, neurofibromatosis tipo I, granuloma eosinófilo y tumor de Wilms7. En este último, el PET/CT nos sirve para confirmar la enfermedad metastásica, evaluar el sitio de biopsia y la planificación quirúrgica, aunque el estudio puede verse limitado por la excreción urinaria del radiotrazador y por falsos positivos en presencia de infección o inflamación.
+
+
+
+
+
+Figura 6 Paciente de 20 meses portadora de nefroblastomatosis. En el riñón izquierdo se observa una lesión redondeada (flecha) de baja densidad que simula un quiste en la TC (A), pero que posee alto metabolismo de la glucosa en el PET (B), confirmando una lesión neoplásica. Se realiza control a los 7 meses (C) des pués del tratamiento, evidenciándose la presencia de una lesión irregular asociada a retracción del parénquima renal hipometabólica (flecha discontinua) compatible con una cicatriz. 
+
+
+
+
+
+Figura 6 Paciente de 20 meses portadora de nefroblastomatosis. En el riñón izquierdo se observa una lesión redondeada (flecha) de baja densidad que simula un quiste en la TC (A), pero que posee alto metabolismo de la glucosa en el PET (B), confirmando una lesión neoplásica. Se realiza control a los 7 meses (C) des pués del tratamiento, evidenciándose la presencia de una lesión irregular asociada a retracción del parénquima renal hipometabólica (flecha discontinua) compatible con una cicatriz. 
+
+Pitfalls y limitaciones del PET/CT en oncología pediátrica
+
+Es importante reconocer como se distribuye nor malmente el trazador en el organismo a fin de evitar errores en la interpretación de las imágenes al confun dirlas con patología7 (Figuras 7 y 8).
+
+
+
+
+
+Figura 7 Captaciones fisiológicas del traza dor. El cerebro (A) debido a su alto metabo lismo basado en glucosa, muestra una alta capción del FDG, disminuyendo la posibilidad de detectar una lesión a ese nivel. El timo (B) muestra una captación homogénea del trazador en niños, que disminuye en la ado lescencia. El corazón (C) muestra mayor cap tación del trazador sobre todo en el ventrículo izquierdo, debido a su mayor metabolismo. La mama (D) en adolescentes puede captar el trazador levemente dependiendo de la fase del ciclo ovulatorio. 
+
+
+
+
+
+Figura 7 Captaciones fisiológicas del traza dor. El cerebro (A) debido a su alto metabo lismo basado en glucosa, muestra una alta capción del FDG, disminuyendo la posibilidad de detectar una lesión a ese nivel. El timo (B) muestra una captación homogénea del trazador en niños, que disminuye en la ado lescencia. El corazón (C) muestra mayor cap tación del trazador sobre todo en el ventrículo izquierdo, debido a su mayor metabolismo. La mama (D) en adolescentes puede captar el trazador levemente dependiendo de la fase del ciclo ovulatorio. 
+
+Cabeza y cuello
+
+El cerebro presenta una captación aumentada en forma normal sobre todo en la corteza y ganglios de la base por su alto metabolismo basal (que es aproxi madamente 20% del organismo) y por lo tanto en el caso de lesiones encefálicas el rendimiento del examen se ve disminuido. En el cuello hay moderada captación de las estructuras linfoides que constituyen el anillo de Waldeyer y de la raíz de la lengua. También pueden captar en forma normal las glándulas submandibulares y sublinguales, estas últimas pueden presentar aumen to de la captación en el período post-quimioterapia o radioterapia.
+
+
+
+
+
+Figura 8 Captaciones fisiológicas del traza dor. El FDG no es reabsorbido por los túbulos renales, por lo tanto es posible observar el trazador en el sistema excretor temprana mente (flechas en A). El tracto gastrointesti nal muestra una captación variable (B), que depende de la actividad de la musculatura intestinal, de la mucosa y de la flora intestinal. La grasa parda (C) distribuida en el cuello, axilas, mediastino, región paravertebral y perinéfrica puede aumentar la captación de glucosa (cabezas de flecha) en condiciones de frio. Suele ser bilateral y simétrica. 
+
+
+
+
+
+Figura 8 Captaciones fisiológicas del traza dor. El FDG no es reabsorbido por los túbulos renales, por lo tanto es posible observar el trazador en el sistema excretor temprana mente (flechas en A). El tracto gastrointesti nal muestra una captación variable (B), que depende de la actividad de la musculatura intestinal, de la mucosa y de la flora intestinal. La grasa parda (C) distribuida en el cuello, axilas, mediastino, región paravertebral y perinéfrica puede aumentar la captación de glucosa (cabezas de flecha) en condiciones de frio. Suele ser bilateral y simétrica. 
+
+La laringe y las cuerdas vocales pueden aumentar su captación del radiotrazador al hablar, por esto es importante mantener silencio posteriormente a la in yección del trazador18.
+
+Timo
+
+En el timo hay captación difusa y homogénea, la que es normal en niños sanos y que desaparece pau latinamente a medida que el timo involuciona, por lo que es posible ver captación hasta la adultez temprana. También podemos ver aumento marcado de su capta ción posterior a la quimioterapia7,18.
+
+Corazón
+
+La actividad cardíaca es mayor en el ventrículo iz quierdo, lo que se expresa por un aumento de su cap tación del radiotrazador. Puede existir aumento de la captación en hipertrofia lipomatosa del septum interatrial18.
+
+Mama
+
+La mama en adolecentes puede captar en forma te nue, dependiendo del período del ciclo ovulatorio en que se adquieran las imágenes18.
+
+Tracto gastrointestinal (TGI)
+
+En el TGI la captación es variable18. Existe mode rada a importante captación focal, difusa o segmenta ria dependiendo de la actividad de la capa muscular intestinal, de la mucosa y de la flora del TGI. El esó fago presenta leve captación y puede estar elevada en caso de esofagitis por reflujo gastro-esofágico, esófa go de Barret o hernia hiatal. A nivel gástrico hay una captación intermedia, que puede verse aumentada en caso de infección por Helicobacter pylori. En el intesti no delgado y colon la captación es variable y segmen taria, siendo mayor en el ciego, probablemente por la presencia de linfonodos en la región íleo-cecal. Un au mento de la captación focal puede verse en enfermedad inflamatoria intestinal19.
+
+Tracto genitourinario (TGU)
+
+A diferencia de la glucosa, el FDG no es reabsor bido por los túbulos renales, resultando una actividad aumentada en todo el TGU17. En los testículos la cap tación es difusa y homogénea, simétrica y su intensi dad decrece con la edad. El endometrio presenta una variabilidad cíclica con mayor captación en la mens truación. Los ovarios pueden simular adenopatías y su captación puede estar aumentada en procesos inflama torios, durante la ovulación o en presencia de cuerpo lúteo.
+
+Grasa parda
+
+Es importante saber que la grasa parda distribuida en cuello, región supraclavicular, axilas, mediastino, paravertebral y perirrenal pueden presentar aumento de la captación principalmente cuando existan con diciones que produzcan su activación (exposición a temperaturas más bajas), que se presenta en forma habitual como una captación bilateral y simétrica del trazador7. Es importante disminuirla a través de una adecuada calefacción y mantención de la temperatura del paciente durante el examen.
+
+Sistema musculo-esquelético
+
+El aumento de la captación de los músculos es mayor cuando hay mayor actividad (causa más fre cuente), incluso en días previos o al mascar chicle o utilizar un chupete, ya que aumenta la actividad de los músculos maseteros. El llanto produce el aumento de la captación del diafragma y músculos intercostales. También podemos observar aumento de la captación de los músculos respiratorios con la hiperventilación, de los músculos cervicales con la tensión y de los mús culos laríngeos con la fonación8,18.
+
+Conclusión
+
+La técnica del PET/CT permite una evaluación morfológica y funcional en un solo examen, lo que permite controlar, cambiar conductas y establecer pro nósticos.
+
+Los mayores beneficios actualmente se ven en pa cientes con linfoma y en otros casos particulares en cuales se desea evaluar entre otras cosas respuesta a tratamiento o tejido residual.
+
+La técnica del PET/CT es una herramienta cono cida en la medicina de adultos y que progresivamente se está aplicando más en la población pediátrica. Esto implica que el médico especialista se debe instruir so bre los aspectos básicos de su adquisición, indicaciones y que sea capaz de sopesar los riesgos y beneficios que puede tener una técnica que involucra radiación sobre un paciente que está en continuo desarrollo.
+
+Responsabilidades éticas
+
+Protección de personas y animales: Los autores decla ran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación hu mana responsable y de acuerdo con la Asociación Mé dica Mundial y la Declaración de Helsinki.
+
+Confidencialidad de los datos: Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informa do: Los autores han obtenido el consentimiento in formado de los pacientes y/o sujetos referidos en el artículo. Este documento obra en poder del autor de correspondencia.
+
+Conflicto de intereses
+
+Los autores declaran no tener conflicto de intereses.

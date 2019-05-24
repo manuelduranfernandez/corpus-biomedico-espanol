@@ -1,0 +1,102 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062011000200003
+Pobreza y mortalidad perinatal en la población mapuche de la Araucanía
+
+ 
+
+Introducción
+
+La presente investigación aborda por primera vez, la relación entre pobreza y mortalidad perinatal en la población de madres mapuches de la Araucanía en el período 19962005. Una década de observaciones y análisis se considera suficiente para determinar la existencia de eventos de naturaleza sistemática, profundamente enraizados en la estructura socio-económica regional de la Araucanía y que tienen consecuencias en el riesgo de vida y muerte perinatal.
+
+El primer objetivo de este trabajo es la reconstitución de datos de mortalidad para todas las causas de muerte a partir de la información de los Registros de Defunción. A continuación se presenta un análisis y vinculación entre la información agregada de tasas de mortalidad por etnia y grupos etarios (< 5 años) con las áreas geográficas de procedencia de los pacientes con sus puntajes de pobreza verificados en la ficha CAS-2/familia. Finalmente, este trabajo aplica varios test estadísticos a nivel de pacientes individuales ajustado según su proximidad geográfica para verificar la significación espacial respecto de la relación entre pobreza y mortalidad.
+
+El espacio geográfico
+
+Desde que John Snow observara en 1855 las relaciones entre la distribución geográfica del cólera y las fuentes de agua contaminada que la población usaba para sus necesidades, quedó establecida la importancia de la epidemiología espacial como herramienta para las acciones en salud pública7. A estas intuitivas observaciones hay que agregar el elemento de distancia y el que observaciones que son más próximas entre si se comporten de modo distinto de aquellas que están más distantes, conlleva al concepto de cluster y por tanto, a datos que son dependientes el uno del otro. Este fenómeno se llama sobredispersión estadística de ahí que en el concepto de Riesgo Relativo considere la proximidad espacial como factor desconocido o riesgos no medibles de los factores de enfermedad y muerte.
+
+La pobreza mapuche identificada geográficamente
+
+Uno de los mayores avances tecnológicos y en la metodología estadística en los últimos años ha sido la posibilidad de incorporar las variables espaciales y representarlas en mapas geográficos con las epidemiologías de la población. La identificación de patrones espaciales permite conocer geográficamente la localización de bolsones de pobreza. La tecnología satelital de imágenes en desarrollo y su integración a mapas geo-referenciados están teniendo efectos insospechados en el conocimiento preciso de las demografías y distribución de las enfermedades, tendencias y dinámica de las poblaciones especiales, minorías y grupos de migrantes que habitan y se concentran en determinadas áreas de la ciudad y el espacio rural. La visualización de estos patrones mediante Sistemas de Información Geográfica (GIS) junto con la estimación y medición estadística de la distribución de eventos en el espacio con métodos frecuentistas y bayesianos ha traído un avance considerable en el diagnóstico y causas de las morbilidades y mortalidades de la población espacialmente identificada3,10,13-18.
+
+Si los fenómenos de morbilidad y mortalidad están por tanto relacionados a factores de pobreza espacialmente identificables entonces deberemos relacionar los conceptos de Riesgo Relativo (RR) de fallecer en madres mapuches provenientes de áreas geográficas convenientemente desagregadas de modo de establecer los nexos correspondientes entre mortalidad y origen geográfico dentro de las Unidades Vecinales de la Región. La Encuesta CASEN aunque apropiada para establecer relaciones estadísticas entre atributos de la población, carece del nivel de desagregación espacial requerida para visualizar las relaciones entre etnia, grupos etáreos y sus niveles de pobreza con sus mortalidades asociadas.
+
+La Ficha CAS-2/Familia contiene atributos socio-económicos de la población análogos a la Encuesta CASEN y similares a algunas categorías del Censo de Población y Vivienda de 20026. El mapa geográfico siguiente proporciona la comparación de los puntajes de la Ficha CAS-2/Familia en 2005 y el Índice de Necesidades Básicas Insatisfechas (NBI) obtenidas de la base de datos del Censo de Población. Los valores de las NBI van desde 0 (cero), ausencia de necesidades básicas insatisfechas hasta 1, presencia máxima de NBI. Los puntajes de la Ficha CAS-2/Familia a su vez, van desde 442,34 puntos (máxima pobreza) a 612,10 puntos (mínima pobreza) (figura 1) (mapa 1). Según puede advertirse, a nivel sub-comunal, las Unidades Vecinales de la Ficha CAS-2/Fa-milia (N = 439) son bastante consistentes con los valores del índice NBI mostrados en los Distritos Censales (N = 234) del Censo de Población. Hacia 2006, había 535(000 personas inscritas en la Ficha CAS-2 de la Araucanía mientras que el Censo de Población contabilizaba 8341000 personas en la Región de la Araucanía. En consecuencia, alrededor del 64% de toda la población de la Novena Región estaba registrada en la Ficha CAS-2. ¿Como se distribuye entonces la población mapuche dentro de este espacio geográfico?. La figura 2 (mapa 2) desagrega longitudinalmente los datos CAS-2 para verificar la evolución de los puntajes y en última instancia comprobar si se observa una disminución de los mismos o eventualmente un cambio en la distribución de las áreas de pobreza regional a lo largo de los años.
+
+  
+
+  
+
+Como puede advertirse, desde 1980 a 2005 la distribución de las áreas de pobreza regional se encuentra prácticamente inalterada durante el período considerado. Otro aspecto interesante son los puntos rojos que identifican la ubicación geográfica de la población mapuche. Presentan características de aglomeraciones ("clusters") mientras que la población no-mapuche revela patrones aleatorios y dispersos por todo el territorio de la región. La población mapuche se concentra en las áreas geográficas de mayor pobreza regional, mientras que la población no mapuche se distribuye ubicua y heterogéneamente en el espacio geográfico. Esta distribución espacial de "cluster'" para los asentamientos mapuches está verificada estadísticamente por test de Gettis-Ord y Moran (con probabilidad de 1% que este patrón de cluster sea resultado de la casualidad).
+
+La distribución conglomerada de la población (poblados) y reducciones mapuches se muestra en la figura 3 (mapa 3). Los mapas 3b y 3d muestran un patrón de distribución disperso y aleatorio (random). Los mapuches viven, territorialmente hablando, en las áreas geográficas de mayor pobreza e indigencia de la Región de la Araucanía. La figura 4 (mapa 4) muestra las reducciones mapuches, los poblados mapuches y no-mapuches y las tierras de la Red-Indígena, y las Unidades Vecinales con sus respectivos valores (SMR) suavizados. Las áreas suavizadas se intersectan bastante con las áreas de pobreza regional y desde luego con las áreas mapuches (reducciones, tierras asignadas y poblados). Las distribuciones conglomeradas, bolsones de pobreza. Podemos concluir que incluso introduciendo valores suavizados de las tasas estandarizadas de mortalidad perinatal, las áreas donde se ubican los valores más altos son precisamente las áreas geográficas de mayor pobreza y donde reside la población mapuche. Los objetivos de este estudio fueron establecer estadísticamente la relación entre pobreza y mortalidad perinatal tanto a nivel contextual (datos agregados) como a nivel individual (dato de muerte perinatal).
+
+  
+
+ 
+
+  
+
+ 
+
+Figura 4. Mapa 4: Tasas de mortalidad perinatal   suavizada y distribución de la población mapuche y no-mapuche, Región de la   Araucanía.
+
+Pacientes y Método
+
+Tipo de estudio
+
+Estudio longitudinal que incorpora simultáneamente variabilidad temporal con la heterogeneidad estructural1-4. Los datos provienen de los 32 hospitales de la Región de la Araucanía, 7 hospitales del Servicio Araucanía Norte, 15 hospitales del Servicio de Salud Araucanía Sur y 6 hospitales privados (hubo 4 hospitales que se fusionaron en el período).
+
+Pacientes
+
+Se ha usado en este estudio la información de los Registros de Defunción emitidos entre 1996-2005 por los Servicios de Salud Arauca-nía Norte y Sur entre el 1o de Enero y 31 de Diciembre de cada año con diagnóstico clínico de "muerte perinatal" (ICD-10).
+
+Registro de información
+
+Se registró la comuna de procedencia, sexo, etnia, edad, RUT de la madre para todas las causas de muertes perinatales y códigos respectivos. Se consideraron las siguientes causales: feto y recién nacido afectado por factores maternos y por complicaciones en el embarazo, parto y nacimiento (P00-P04). Desórdenes relacionados con la duración de la gestación y crecimiento fetal (P05-P08). Trauma de nacimiento (P10-P15). Desórdenes respiratorios y cardiovasculares al sistema digestivo específicos al período perinatal (P20-P29). Infecciones específicas al período perinatal (P35-P39). Desórdenes hemorrágicos y hematológicos del feto y recién nacido (P50-P61). Desórdenes metabólicos y endocrinos transitorios específicos al feto y recién nacido (P70-P74). Desórdenes al sistema digestivo del feto y recién nacido (P75-P78). Condiciones que involucran el integumento y regulación de temperatura del feto y recién nacido (P80-P83). Otros desórdenes originados en el período perinatal (P90-P96).
+
+Se generaron tasas estandarizadas directas e indirectas para todas las causas de muerte, tasas específicas y sus Coeficientes de Intervalo (CI) correspondiente, ajustadas por sexo, edad, etnia y comuna de procedencia. El RUT de la madre fue posteriormente empalmado con el RUT proveniente de la base de datos de la Ficha CAS-2/Familia y sus correspondientes puntajes de pobreza. Se lograron identificar 654 casos de muerte perinatal entre 1996-2005, de los cuales 358 casos se pudieron establecer conexión domiciliaria de las madres con 171 de las 439 Unidades Vecinales de la Ficha CAS-2 distribuidas en las 32 Comunas de la Araucanía.
+
+Desde el punto de vista metodológico la información anterior distingue aquellas causales de mortalidad que se establecen a nivel agregado: tasas especificas asociadas a variables étnicas de edad y sexo según año de ocurrencia, y aquellas que se establecen a nivel individual pero referidas causalmente a contextos de precariedad promedio de las Unidades Vecinales y los valores individuales de la Ficha CAS de las madres que registraron mortalidad perinatal entre los años 1996-20051.
+
+Los Registros de Defunción guardados en planillas Excel fueron posteriormente exportados a un archivo SAS5 conjuntamente con los datos del Censo de Población y Vivienda6 donde se aplicó un programa para calcular tasas estandarizadas directas e indirectas y tasas no estandarizadas (proporciones binomiales simples) con sus respectivos intervalos de confianza exactos superiores e inferiores a nivel de comuna. Los datos fueron ajustados por edad, sexo y etnia obteniéndose las tasas de mortalidad especificas para cada una de las posibles combinaciones por edad, sexo, etnia, año y comuna, así como el correspondiente CI (95%) para mapuches y no-mapuches, el Riesgo Relativo (RR) y CI correspondiente a ese RR.
+
+Para los registros de pobreza se dispuso de la Ficha CAS-2/familia con la información individual de todas las personas que están inscritas desde 1980 hasta 2005 en las 31 comunas de la Araucanía (Chol-Chol paso a constituirse en comuna 32 como subdivisión de la comuna de Nueva Imperial, después del Censo). La Ficha CAS es una herramienta de focalización que identifica familias bajo la línea de la pobreza a partir de un puntaje de corte. Dependiendo el año, los puntajes CAS van desde 345 (máxima precariedad) hasta sobre los 750 puntos. Este puntaje final de corte es el resultado ponderado del ingreso, empleo, educación y calidad de la vivienda del grupo familiar.
+
+La presencia de sobredispersión en los datos de pobreza constatados por los test estadísticos (Gettis-Ord y Moran I) requiere del uso de regresiones espaciales que incorporen las variaciones extra-Poisson. En la práctica esto significa usar una estructura espacial residual para dar cuenta de mediciones que no han sido medidas pero que la variable confundida está espacialmente correlacionada. Una típica aproximación por ejemplo, es la de ajustar los efectos mixtos de un modelo de regresión para el conteo de enfermedades el cual incluye un término espacial residual para abordar la variabilidad que está espacialmente correlaciona-da1. Hemos usado para este propósito el Macro de SAS, GLIMMIX y Proc GLIMMIX, Proc GLM y Proc GENMOD también de la familia SAS para procedimientos mixtos.
+
+Análisis estadístico
+
+Los datos del Registro de Defunción proveen estadísticas para establecer el nivel contextual con información agregada de tasas de mortalidad (todas las causas de muerte y causas especificas de muerte perinatal) ajustadas por sexo, edad < 5 y etnicidad según comuna y datos correspondientes de RR comparados por sexo, etnicidad y edad sin referencia espacial. Los límites están basados en aproximación normal y distribución gamma, el límite superior fue calculado usando el método Fay-Feuer y el método Anderson-Rosenberg recomendado por NCHS8,9 . Este método es supuestamente "conservador" ya que significa que es mayor que lo necesario para un límite superior y es mayor que el límite recomendado por NCHS. Los límites para el RR entre mapuches versus no-mapuches CI 95% están basados en una distribución F, ambas fueron aproximadas por distribuciones gamma y la razón de dos gammas es un F.
+
+El análisis estadístico a nivel de pacientes individuales se modela con una distribución Poisson donde hay dependencia espacial entre las unidades vecinales de donde provienen. Para la comparación espacial se utilizaron las tasas de mortalidad perinatal observadas (numerador) que se dividen con las tasas esperadas (denominador). Esta variable dependiente fue a su vez suavizada ("smoothed') para reducir inestabilidades derivadas de los contrastes entre áreas geográficas con poca población versus áreas con gran densidad, o contrastes por incidencias raras versus áreas con incidencias frecuentes de muerte perinatal. La idea básica es "pedir prestado" información de comunas vecinas para producir un mejor estimador asociado a cada Región10. Los puntajes CAS que tenían las pacientes se incluyeron en el modelo de regresión como variable independiente. El análisis fue hecho con el Macro Glimmix de SAS 9.25 y el programa PROC GLIMMIX de SAS 9.25 comparando 5 modelos de ajuste con significación estadística de un error tipo a de 5% (p < 0,05).
+
+Resultados
+
+Las tasas de mortalidad comparadas de la población < 5 años de la Araucanía, por sexo, grupos de edad y etnicidad 1996-2005, cada 2 años, se muestran en la tabla 1
+
+  
+
+Las principales causas de muerte de la población de la Araucanía, obtenidas por la vía de métodos directamente estandarizados por Organización Mundial de la Salud12 (WHO/ OMS), se muestran en la figura 5. Las tasas de muerte perinatal son recurrentemente a lo largo de los años superiores para la población mapuche comparado a la población no-mapuche de sexo masculino. Se verifican tendencias a la baja al compararse los últimos años con el año base 1996, sin embargo, las diferencias de Riesgo Relativo son recurrentemente mayores para los mapuches, y subsisten en el tiempo. 
+
+ 
+
+Figura 5. Gráfico 1a y 1b: Tasas de mortalidad   directamente estandardizadas por cada 100.000.
+
+  
+
+ Pobreza y mortalidad perinatal
+
+
+
+La tabla 3 presenta 5 ajustes hechos con 5 modelos generales lineales mixtos (GLMM) para correlacionar las muertes perinatales observadas, divididas por las muertes esperadas (SMR) (variable dependiente), y el puntaje CAS-2/Familia promedio que exhibía la Unidad Vecinal de donde provenían los 358 casos (variable independiente). Los métodos de aplicación para modelos generales lineares (GLM) y los modelos generales lineares mixtos (GLMM) pueden encontrarse en Rojas19, 20, y Rojas & Suchindran21. 
+
+ 
+
+Discusión
+
+Los hallazgos presentados en esta investigación revelan por primera vez la asociación directa entre la pobreza materna y mortalidad perinatal. Nunca antes se había establecido este vínculo quizás por la falta de información a nivel desagregado y de empalmar el micro dato territorial de modo de establecer simultáneamente las asociaciones ente el dato a nivel individual (atributos de la persona o paciente) y el contexto socio-económico de procedencia. En una investigación anterior (Rojas19) se había constatado la relación directa entre pobreza y enfermedades respiratorias agudas y mortalidad por esa misma causa para un año (2003). También la mayor incidencia de enfermedad y muerte (todas las causales de mortalidad) para la población mapuche en todas las edades se había logrado establecer con un diseño cross-seccional válido para un solo momento en el tiempo. Esta investigación aporta una serie histórica de una década pero concentrando los análisis en la muerte perinatal. Esta causal de muerte da cuenta de modo concluyente que el riesgo de morir por causas perinatales es mayor para los recién nacidos mapuches y estas diferenciales de muerte y prevalencia para esta etnia se han mantenido inalteradas durante el período 1996-2005. 
+
+Los datos agregados de mortalidad perinatal y de riesgo relativo de muerte fueron también directamente asociados con la situación de pobreza de las madres de los fallecidos. Esto constituye un test definitivo para verificar la existencia de una relación estadísticamente significativa. Los 5 modelos de regresión indicaron una relación estadísticamente significativa: a mayor pobreza (menor los valores de puntaje CAS), mayor la probabilidad de muerte perinatal. Cabe hacer notar que la diversidad de los modelos permite distinguir entre aquellos que tienen ajuste espacial y los que no lo tienen. Esta distinción es importante porque los modelos sin ajuste espacial asumen independencia de los datos, suponen que las observaciones no tienen dependencia entre sí y que los errores se distribuyen aleatoriamente de un modo similar por todas las zonas del espacio geográfico. Este tipo de modelo tiende a subestimar los errores residuales y mostrar significación estadística aunque no exista. Este supuesto no se da en los datos usados en esta investigación. Diversos test usados (Moran I Global y Getis-Ord General) revelaron la dependencia espacial y autocorrelación de las observaciones de pobreza por lo que se debió usar un modelo mixto de regresión lineal (GLIMMIX) que corrige los factores de dispersión de los datos. Los estimadores de P0 y P1 son más o menos similares entre los modelos espaciales y los modelos sin ajuste espacial, sin embargo, los errores estándares asociados en los modelos espaciales son mucho menores que en los modelos no espaciales.
+
+Las anteriores consideraciones y precondiciones para el logro de un buen modelo bioes-tadístico no deben dejar de lado la discusión sobre el enorme costo que tiene la pobreza para la sociedad en su conjunto en términos de la pérdida prematura de vidas sino la reflexión ética, legal y de política pública sobre cómo reducir o eliminar a) la pobreza circunscrita territorialmente a nivel de unidades vecinales (pobreza absoluta); b) reducir las disparidades entre los que muestran precariedad de los que no la tienen (pobreza relativa); c) reducir sobretodo las disparidades que tienen un trasfon-do étnico (pobreza étnica) al comparar pacientes que tienen "uno o dos apellidos mapuches". 
+
+Agradecimientos
