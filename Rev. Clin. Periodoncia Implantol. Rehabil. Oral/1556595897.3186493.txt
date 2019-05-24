@@ -1,0 +1,156 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072018000300147
+Sobrevida de carcinoma oral de células escamosas: reporte de la Universidad de Chile.
+
+INTRODUCCIÓN
+
+Cáncer de labio, cavidad oral y orofaringe representan el 2,1% de la incidencia de cáncer según Globocan 20121. Sin embargo, existen importantes diferencias entre zonas geográficas y se ha descrito una alta incidencia en el sur y sureste de Asia, partes de Europa (Francia, Hungría, Eslovaquia y Eslovenia) y en Latinoamérica y Caribe (Brasil, Uruguay y Puerto Rico)2. En Chile, se estima que corresponde al 1,6% del total de los cánceres3. Entre los distintos tipos de neoplasias malignas que pueden afectar la cavidad oral, el carcinoma oral de células escamosas (COCE) corresponde al diagnóstico más frecuente4. 
+
+El cáncer oral y de orofaringe ha presentado una creciente relevancia debido a reportes de aumento de incidencia en jóvenes y a la identificación de un tipo fenotípico de carcinoma de células escamosas no queratinizante relacionado con el Virus Papiloma Humano (VPH) y con mejor pronóstico5. Los principales factores de riesgo reconocidos son tabaco y alcohol6.
+
+Reportes sobre supervivencia del COCE en Chile son escasos. Un estudio del Instituto Nacional del Cáncer determinó que la supervivencia global del cáncer intraoral fue de 57% a los 5 años, disminuyendo a 46% a los 10 años7. Recientemente, Momares y cols.8 describieron una supervivencia global de 46% a los 5 años y 34,3% a los 10 años. Sin embargo, se aprecia una caída fuerte en la supervivencia en los primeros meses posteriores al diagnóstico, sin precisar la tasa en un tiempo menor a los 5 años, por ejemplo, a los dos años. Un estudio de casos diagnosticados en el Centro de Referencia de Salud (CRS) Cordillera Oriente9, determinó una supervivencia global de 57,9% a los 5 años, asociándose a pacientes de sexo femenino, menores de 45 años.
+
+El objetivo de este estudio es determinar el tiempo de supervivencia general a dos y cinco años y las características sociodemográficas de los pacientes diagnosticados con COCE en el Servicio de Anatomía Patológica de la Facultad de Odontología de la Universidad de Chile entre los años 2000-2012.
+
+MATERIAL Y MÉTODO
+
+El diseño de este estudio fue observacional analítico. Se seleccionaron todos los casos con diagnóstico histopatológico de COCE, incluyendo todas las variantes reportadas en el libro de Tumores de Cabeza y Cuello de la Organización Mundial de la Salud de 200510, diagnosticados entre los años 2000 y 2012 en el Servicio de Anatomía Patológica de la Facultad de Odontología (SAP-FO) de la Universidad de Chile. Los criterios de inclusión fueron disponer de información del número de cédula de identidad (RUN o Rol Único Nacional), sexo y edad del paciente. Se excluyeron las segundas biopsias del mismo paciente. Esta investigación fue realizada en el contexto del Proyecto Fondecyt Nº 11520248 cuyo principal objetivo fue evaluar las consecuencias y los factores implicados en una interacción funcional entre la exposición al humo de tabaco y virus papiloma en muestras de cáncer oral / bronquial, aprobado por el Comité de Ética de la Facultad de Odontología de la Universidad de Chile. Este proyecto incluía el análisis prospectivo y retrospectivo de casos de COCE diagnosticados en SAP-FO; los casos retrospectivos fueron los incluidos en el análisis que constituye este artículo. Para conocer el estado del paciente y la causa de muerte en pacientes fallecidos se obtuvieron los certificados de defunción con causa de muerte a partir del Registro Civil, como ha sido realizado en estudios previos debido a que es una información disponible en forma libre con el Rut del paciente8,9. La fecha de término del análisis para este estudio fue noviembre 2014.
+
+Se realizó estadística descriptiva de las características de los pacientes mediante cifras absolutas y relativas. Para describir los meses de supervivencia se realizaron curvas de supervivencia, considerando como fecha de inicio de seguimiento la del diagnóstico histopatológico y como término la fecha de deceso registrada en el certificado de defunción o el estado actual del paciente obtenido desde un protocolo para contacto telefónico y/o entrevista clínica del proyecto mencionado anteriormente. Para análisis de supervivencia se utilizó la estimación de Kaplan-Meier y para comparar las curvas de supervivencia la prueba Long-Rank. Para realizar estadística descriptiva y analítica se utilizó el software estadístico R11 y se consideró como significativo un valor “p” menor o igual a 0,05.
+
+RESULTADOS
+
+Durante el periodo 2000-2012 se diagnosticaron 134 COCE en el Servicio de Biopsias de la Facultad de Odontología de la Universidad de Chile. Para los análisis de este trabajo se excluyeron 14 casos: dos biopsias que correspondían a segundas muestras de un tumor, dos recidivas en el mismo sitio anatómico y 10 casos que no contaban con los registros básicos de edad, sexo y/o RUN. En los casos con más de una biopsia de COCE se analizaron los datos del paciente en el momento del primer diagnóstico.
+
+En los 120 pacientes incluidos en los análisis, la edad promedio en el momento de diagnóstico fue de 63,3 años, en un rango entre 17 a 97 años; en mujeres 65,8, SD=16,1 y en hombres 61,4 SD=12,7. El género predominante es el masculino, 69 hombres (57,5%) y 51 mujeres (42,5%); en una razón 1,3:1.
+
+En la figura 1 se observa la distribución de los pacientes diagnosticados con COCE según grupo de edad y sexo. Se aprecia un aumento del diagnóstico de esta patología después de la cuarta década y que el mayor número de hombres diagnosticados se encuentra entre los 55 y 64 años; en cambio en mujeres después de los 75 años. El 93,3% de los casos tenían 45 años o más en el momento de su diagnóstico, y el 75,8 % sobre 55 años. 
+
+
+
+
+
+Figura 1 Distribución de los pacientes diagnosticados con carcinoma oral de células escamosas según grupo de edad y sexo. 
+
+
+
+
+
+Figura 1 Distribución de los pacientes diagnosticados con carcinoma oral de células escamosas según grupo de edad y sexo. 
+
+Respecto al diagnóstico clínico registrado, el mayor porcentaje indicaba alguna neoplasia maligna (63,3%), aunque un porcentaje no despreciable (30,8%) indicaba una patología benigna (naturaleza inflamatoria, reaccional o neoplasia benigna). Cuatro casos tenían como diagnóstico clínico una lesión potencialmente maligna, siendo dos queilitis actínicas, una eritroplasia y una leucoplasia. 
+
+La distribución de localizaciones anatómicas del tumor primario fue con mayor frecuencia lengua, seguida por encía/reborde. De las localizaciones anatómicas en lengua, el 84,4% correspondió a borde posterior y/o lateral. Respecto al hábito de fumar y consumo de alcohol ambos fueron más frecuentes en hombres que en mujeres, pero un alto porcentaje de los casos esta información no estaba consignada (Tabla 1).
+
+
+
+
+
+Tabla 1 Características clínicas de los pacientes diagnosticados con carcinoma oral de células escamosas entre los años 2000-2012 según sexo 
+
+
+
+
+
+
+
+Tabla 1 Características clínicas de los pacientes diagnosticados con carcinoma oral de células escamosas entre los años 2000-2012 según sexo 
+
+El grado histológico más común fue COCE bien diferenciado para 75 (62,5%) de los casos, seguido por moderadamente diferenciado en 38 (31,7%) y pobremente diferenciado en 7 (5,8%).
+
+Del total de pacientes estudiados, 62 (51,6%) fallecieron antes de 2 años desde la fecha del diagnóstico histopatológico; 37 (53,6%) de los hombres y 25 (49,0%) de las mujeres.
+
+Curva de supervivencia desde el momento del diagnóstico inicial de COCE
+
+En la serie de casos en estudio la supervivencia global a dos años fue 48,3% y a cinco años 33,9%. 
+
+En la figura 2, se observa la probabilidad de supervivencia estimada, en meses, según sexo, y se aprecia una caída brusca en los primeros dos años, tanto en hombres como mujeres, luego desciende en forma menos abrupta y posteriormente tiende a estabilizarse a partir de los 48 meses. La probabilidad de supervivencia para pacientes diagnosticados con COCE tiende a ser menor en hombres, sin embargo, se iguala la probabilidad de supervivencia con las mujeres en los 38 meses de seguimiento. No hay diferencia estadísticamente significativa en la supervivencia entre ambos sexos (p=0,659).
+
+
+
+
+
+Figura 2 Probabilidad de sobrevida en pacientes diagnosticados con carcinoma oral de células escamosas entre los años 2000-2012, según sexo 
+
+
+
+
+
+Figura 2 Probabilidad de sobrevida en pacientes diagnosticados con carcinoma oral de células escamosas entre los años 2000-2012, según sexo 
+
+La supervivencia estimada en los pacientes diagnosticados con COCE según grupo de edad se muestra en la figura 3, en la que se aprecia una menor supervivencia en los pacientes de 55 años y más. La diferencia es estadísticamente significativa (p=0,003).
+
+
+
+
+
+Figura 3 Probabilidad de sobrevida en pacientes diagnosticados con carcinoma oral de células escamosas entre los años 2000-2012, según grupo de edad. 
+
+
+
+
+
+Figura 3 Probabilidad de sobrevida en pacientes diagnosticados con carcinoma oral de células escamosas entre los años 2000-2012, según grupo de edad. 
+
+Causa de muerte registrada
+
+A la fecha de término del presente estudio se determinó que el 68,3% (n=82) de los pacientes se encuentra fallecido. Respecto a la causa de muerte, en 65 casos (79%) la causa registrada fue cáncer oral; esto como única causa de muerte (42,6%) o cáncer oral asociado a otra causa del tipo paro cardiorrespiratorio/falla multiorgánica/insuficiencia respiratoria aguda/shock séptico (36,5%). En 21% no se precisa como causa de muerte la presencia o asociación con cáncer oral; además, un caso fallecido no tenía registrada la causa de defunción (tabla 2). 
+
+
+
+
+
+Tabla 2 Distribución de la causa de muerte registrada en los pacientes diagnosticados con carcinoma oral de células escamosas entre los años 2000-2012 
+
+
+
+
+
+
+
+Tabla 2 Distribución de la causa de muerte registrada en los pacientes diagnosticados con carcinoma oral de células escamosas entre los años 2000-2012 
+
+DISCUSIÓN
+
+Este estudio investigó la supervivencia de los pacientes con COCE diagnosticados en el Servicio de Biopsias de la Facultad de Odontología de la Universidad de Chile. Los resultados muestran una probabilidad de supervivencia de 48,3% a los dos años y 33,9% a los cinco años según estimación Kaplan-Meier. 
+
+Estos hallazgos aportan con importante información de supervivencia global luego del diagnóstico de COCE, lo que muestra ser menor a lo reportado previamente en Chile7,8,9,12. (Tabla 3)
+
+
+
+
+
+Tabla 3 Estudios chilenos de supervivencia global por cáncer oral 
+
+
+
+
+
+
+
+Tabla 3 Estudios chilenos de supervivencia global por cáncer oral 
+
+Respecto a las fortalezas de este trabajo podemos mencionar el número de pacientes mayor que otras series de casos publicados de Chile9,12 y que se analizó exclusivamente el tipo histológico carcinoma escamoso, la neoplasia maligna más frecuente de la cavidad oral reportada en Chile4. El estudio de Bórquez y cols.7 incluyó otros tumores como neoplasias de glándulas salivales, que generalmente tienen mayor supervivencia, dependiendo del tipo histológico y compromiso en el momento del diagnóstico. Otra fortaleza es que, para el cálculo de la supervivencia, todos los pacientes tuvieron un tiempo mínimo de seguimiento de 22,7 meses (exceptuando los que fallecieron antes), lo que es mayor que lo descrito en otros reportes que realizaron seguimiento mínimo de 35 días8 o no mencionan el tiempo mínimo de seguimiento realizado9,11. Estas consideraciones metodológicas pueden ser importantes para explicar las diferencias en el promedio de supervivencia obtenido entre diferentes estudios. 
+
+En relación a las limitaciones de este estudio se debe tener presente que sus resultados aportan, especialmente, en un contexto de un Servicio de Anatomía Patológica inserto en una Facultad de Odontología y localizada en la Región Metropolitana. Los resultados pueden ser distintos para casos diagnosticados en otros Servicios de Anatomía Patológica de hospitales públicos y clínicas privadas, aunque hasta la fecha no existen estudios que analicen este efecto en Chile. Por otra parte, en regiones con mayor porcentaje de población rural, por el menor uso de servicios dentales, se puede esperar un diagnóstico aún más tardío, aunque esta variable tampoco ha sido abordada en estudios previos en nuestro medio. Respecto a la entidad clínica en estudio se debe tener presente que se han incluido todas las variantes de COCE, entre estas los casos de carcinoma verrucoso que se caracterizan por un crecimiento exofítico, invasión superficial y un mejor pronóstico que otros subtipos10 y que no se ha realizado desagregación por ubicación anatómica por el reducido número de casos en algunas localizaciones, factor que también está relacionado con variabilidad en el pronóstico. Por otra parte, no contamos con la información de estadiaje TNM, debido a que los casos corresponden a biopsias de primera sospecha diagnóstica de COCE, realizadas por cirujano-dentistas, y el estadiaje se realizó posteriormente en los diferentes centros oncológicos donde fueron derivados los pacientes para su tratamiento. Por último, la información sobre hábito de fumar y consumo de alcohol fue registrada en una muestra reducida de casos impidiendo un análisis detallado de estos factores de riesgo de cáncer oral; problema comúnmente descrito en estudios retrospectivos de este tipo8.
+
+Respecto a la comparación de la supervivencia obtenida en esta serie de casos con otros países, esta también muestra ser menor. Recientemente, en Brasil se describió una supervivencia global de 55,1% a los 10 años13 y Alemania de 54,6% a los 5 años14. En Estados Unidos se obtuvo un 63,2% de supervivencia global según el reporte de Surveillance Epidemiology and End Result Program (SEER) año 2005-201115, pero este incluyó cáncer de orofaringe, que se asocia con mayor supervivencia. 
+
+Respecto a los resultados por sexo se demuestra que, coincidiendo con reportes internacionales y nacionales, los hombres son más afectados que las mujeres. En este reporte se observó una relación hombre: mujer de 1,3:1, similar a lo reportado previamente en Chile que fue 1,4:18 y en Tailandia de 1,3:116. Mientras que en Brasil parece ser mayor esta diferencia, 1,8:113. Sin embargo, esta diferencia entre hombres y mujeres es menor a lo descrito previamente por Rojas y cols.4 que obtuvo una relación de 2,1:1, a partir de datos de la misma Institución del presente estudio, pero incluyendo un período de tiempo anterior, entre los años 1975-2006. Este último estudio muestra un aumento del número de casos de carcinoma escamoso en mujeres y coincide con la observación descrita por Riera y cols.3, a partir de datos de altas hospitalarias en Chile, que muestra un aumento del número de mujeres afectadas en los últimos años.
+
+En esta serie de casos de SAP-FO la media de edad de los pacientes diagnosticados con COCE fue 63,3 años, levemente menor a la edad promedio de 64,4 años reportada por Momares y cols.8 en Chile y a lo descrito por Iamaron y cols.16 en Tailandia, 65 años. La distribución según grupo de edad muestra que 93,3% de los casos fueron diagnósticos en pacientes de 45 años y más, detectándose una mayor afectación en pacientes de más edad que lo reportado previamente en Chile, con datos de registros de altas hospitalarias, en que 84,4% eran adultos sobre 45 años3. En nuestra investigación sólo el 6,7% (n=8) de los pacientes diagnosticados con COCE tenían menos de 45 años, por lo que parece ser todavía una patología de baja incidencia en este grupo de edad. Una revisión de 46 estudios publicados encontró que 4-6% de los casos de COCE ocurre en menores de 40 años17 y otra menciona que menos de 5,5% de los casos se diagnostica en el mismo grupo de edad18. Un estudio retrospectivo en Alemania determinó que 3,9 % de los pacientes eran menores de 40 años19.
+
+En relación a la supervivencia según edad, en nuestro estudio detectamos una mayor supervivencia en adultos menores de 55 años que entre aquellos de 55 años y más. El hallazgo que los pacientes adultos más jóvenes tienen mejor pronóstico ha sido descrito previamente en estudios internacionales19,20. Udeabor y cols.19 en Alemania encontraron una supervivencia de 64% a los cinco años en adultos menores de 40 años y de 57% en mayores de 40 años. Goldenberg y cols20 también detectaron una mayor supervivencia de COCE en adultos más jóvenes y concluyen que esto no parece estar influenciada por características específicas de los pacientes, como género, raza, sitio o etapa; de tal modo, que las causas que explican esta mayor supervivencia es una pregunta aún sin resolver que se debería seguir investigando. Como una explicación biológica plausible podríamos mencionar la mayor capacidad regeneradora y respuesta inmunológica de los pacientes más jóvenes, menor presencia de comorbilidades e incluso mejores condiciones de salud bucal que favorezcan la respuesta local de los tejidos, lo que podría ser investigador en estudios posteriores.
+
+Por otra parte, la edad de 55 años como punto de análisis para esta patología ha sido demostrada como relevante en un estudio reciente sobre mortalidad por cáncer oral en Chile entre los años 2002-2010 que determinó que desde esa edad comienza un aumento importante de la mortalidad y alrededor del 83% del total de fallecidos por este cáncer ocurre en el grupo de 55 años y más21.
+
+Respecto al grado histológico, el mayor porcentaje correspondió a un grado de diferenciación moderado o bien diferenciado, que en conjunto representa al 94,2% de los casos, mayor que lo reportado en estudio de Tailandia, 79,4%18.
+
+Los sitios más afectados en COCE fueron lengua (27,5%) y encía (16,6%), lo que coincide con la mayor frecuencia en lengua reportada en la literatura22. Rusthoven y cols. describen que la localización en lengua presenta menor supervivencia al ser comparada con otros sitios. En esta localización la invasión a nódulos linfáticos cervicales se produce con más frecuencia23. La segunda localización más asociada en encía es de gran relevancia, si consideramos que se ha reportado que el COCE en esta ubicación presenta una temprana invasión ósea, lo que aumenta significativamente la posibilidad de metástasis ganglionar y peor supervivencia24. Las ubicaciones más frecuentes encontradas en este estudio pueden ser difíciles de examinar sin entrenamiento.
+
+El 63,3% de los diagnósticos clínicos presuntivos correspondían a COCE u otra neoplasia maligna, lo que demuestra que el diagnóstico se realizó, en un alto porcentaje, cuando las características clínicas eran muy sugerentes. 
+
+La baja supervivencia a los dos años pone de manifiesto la naturaleza agresiva de este tipo de cáncer o alternativamente, el diagnóstico tardío de éste. El número de casos con diagnóstico presuntivo de lesiones potencialmente malignas fue sólo 3,3%, por lo que podemos sospechar que el diagnóstico tardío contribuye a la baja supervivencia de esta serie. El estudio histopatológico en lesiones potencialmente malignas permite determinar grados de displasia en el epitelio, lo que constituye una de las principales variables predictoras de desarrollo de cáncer oral25.
+
+El presente estudio contribuye con un reporte de desfavorable supervivencia global en paciente con diagnóstico de COCE, debido a que 48,3% de los pacientes sobrevive luego de dos años tras su diagnóstico y sólo 33,9% a los 5 años, menor a lo reportado previamente en Chile. 
+
+Los hallazgos sugieren implementar con urgencia políticas públicas que puedan mejorar la supervivencia de los pacientes con COCE. Como primera medida se debe educar sobre la existencia del cáncer oral en la población y como realizarse un autoexamen, mejorar el entrenamiento a los profesionales de salud en el reconocimiento de lesiones potencialmente malignas, y promover la realización de un examen minucioso de la mucosa oral en todas las oportunidades de atención odontológica, especialmente, en pacientes con factores de riesgo, y a quienes se atienden en el GES Salud Oral Integral de los 60 años debido a que es la única edad de garantía de atención odontológica en adultos más cercana a la edad cuando se diagnostica el mayor número de casos de COCE.

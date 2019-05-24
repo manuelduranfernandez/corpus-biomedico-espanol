@@ -1,0 +1,140 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072016000100006
+Micromorfología superficial de 2 cerámicas grabables tratadas con diferentes ácidos
+
+Feldspathic ceramic. Lithium disilicate glass ceramic. Hydrofluoric Acid. Phosphoric Acid. Surface conditioning. Scanning electron microscope.
+
+      Introducción
+
+La cerámica dental es uno de los materiales estéticos más usados en rehabilitación oral, ya que posee características como traslucidez, baja conductividad térmica, dureza, brillo y buen pulido, entre otras. Sin embargo, es un material frágil, por lo que es susceptible de fractura1–3. Es por esta razón que existe la necesidad de utilizar una subestructura metálica de refuerzo, lo que conlleva a una disminución de la translucidez, generando un efecto visual desfavorable. Esta situación llevó a la búsqueda de materiales que conserven la estética y aumenten de manera significativa la resistencia a la fractura, desarrollándose así las cerámicas libres de metal1–3.
+
+Una parte esencial en el éxito clínico de las restauraciones indirectas es lograr una unión adhesiva fuerte y confiable entre el material restaurador, la resina de cementación y el tejido dentario, sin embargo, las superficies de las cerámicas son generalmente lisas y homogéneas, con pocas alteraciones micro superficiales o irregularidades que puedan favorecer la retención o la adhesión. Es por esto que las restauraciones de cerámicas libres de metal requieren de un acondicionamiento de superficie previo a la cementación, cuya finalidad es crear microrretenciones mecánicas para aumentar la superficie, con el objetivo de mejorar la adhesión y, por ende, mejorar la longevidad de la restauración3,4. Para lograr este objetivo se han utilizado diferentes protocolos de tratamientos de superficie y su elección va a depender del tipo cerámica, según su composición química5,6.
+
+El tratamiento habitual y más eficaz de las cerámicas grabables, es decir, de aquellas que poseen un alto porcentaje de fase vítrea, es grabado con ácido fluorhídrico al 9%, el cual disuelve la fase vítrea, creando una superficie irregular con microrretenciones, capaz de mejorar la adhesión de la cerámica al cemento de resina7–9. Existen numerosos informes que comparan la eficacia de distintos tratamientos de superficie sobre cerámicas grabables, concluyendo que el más eficaz es el grabado con ácido fluorhídrico     10,11. Otros autores han comunicado que las cerámicas tratadas con ácido fluorhídrico muestran cambios micromorfológicos pronunciados en su superficie, al ser observadas con microscopia electrónica de barrido (MEB)12,13.
+
+Sin embargo, a pesar de los buenos resultados obtenidos con los protocolos mencionados, se han propuesto algunas modificaciones al tratamiento convencional de superficie, como por ejemplo el grabado con ácido ortofosfórico al 35% posterior al grabado con ácido fluorhídrico, cuyo objetivo sería eliminar las sales de hexafluorosilicato formadas después del grabado con ácido fluorhídrico, logrando una superficie con menos residuos que favorecería la adhesión14,15; no obstante, no está claro como actuaría este ácido.
+
+El propósito de este trabajo es describir y comparar la micromorfología superficial de 2 tipos de cerámicas; feldespática y reforzada con disilicato de litio, cuando se les aplican 2 tratamientos de superficie diferentes, el primero solo con ácido fluorhídrico al 9% y otro con ácido fluorhídrico al 9% seguido de ácido ortofosfórico al 35%.
+
+      Materiales y método
+
+Se prepararon 18 bloques, 9 de cerámica feldespática (grupo A) y 9 de cerámica reforzada con disilicato de litio (grupo B). Los bloques de cerámica feldespática se obtuvieron a partir de dientes cerámicos (Veri-Chrome), a los cuales se les dio la forma de pirámide truncada de base cuadrada, utilizando fresas diamantadas de alta velocidad y refrigeración con agua. El tamaño final de las zonas a observar fue de 3 × 3 × 2 mm aproximadamente.
+
+Para la elaboración de los bloques de cerámica reforzada con disilicato de litio se confeccionaron 9 cubos de cera rosada, los cuales fueron enviados al laboratorio donde se fabricaron las muestras mediante la técnica de cera perdida (Ceramco IC). Una vez confeccionados los bloques se desgastaron con fresas de alta velocidad e irrigación hasta darles la misma forma y tamaño que el grupo anterior. Cada grupo fue dividido en 2 subgrupos, A1 y A2 en el caso de la cerámica feldespática, B1 y B2 para la cerámica reforzada con disilicato de litio.
+
+Los grupos A1 y B1 fueron tratados con gel de ácido fluorhídrico al 9% (Ultradent), y los grupos A2 y B2 fueron tratados con gel de ácido fluorhídrico al 9% seguido de la aplicación de un gel de ácido ortofosfórico al 35% (Weisswiss). Como control se dejó un bloque de cada tipo de cerámica, sin tratamiento. Todos estos procedimientos fueron realizados por un solo operador. El protocolo seguido fue el siguiente:
+
+      Cerámica feldespática (grupo A)
+
+Grupo A1: 4 bloques de esta cerámica fueron tratados en una superficie con ácido fluorhídrico al 9% durante 2 min. Posteriormente fueron lavados abundantemente durante 1 min y secados con aire por 30 seg.
+
+Grupo A2: 4 bloques fueron tratados con ácido fluorhídrico al 9% durante 2 min, lavados durante 1 min y secados con aire por 30 seg. Posteriormente se aplicó ácido ortofosfórico al 35% durante 1 min, seguido de un nuevo lavado por 20 seg y secado con aire por 30 seg.
+
+      Cerámica reforzada con disilicato de litio (grupo B)
+
+Grupo B1: 4 bloques fueron tratados con ácido fluorhídrico al 9% durante 20 seg. Posteriormente fueron lavados en forma abundante por 1 min y secados con aire durante 30 seg.
+
+Grupo B2: 4 bloques fueron tratados con ácido fluorhídrico al 9% durante 20 seg, lavados durante 1 min y secados con aire durante 30 seg. Posteriormente se aplicó ácido ortofosfórico al 35% durante 1 min, luego se lavaron durante 20 seg y se secaron con aire por otros 30 seg.
+
+      Una vez terminados los tratamientos de superficie, inmediatamente se realizó el montaje y metalizado con oro-paladio, para la observación con MEB (Hitachi TM-3000, Fac de Ciencias Biológicas, Universidad Católica), a 1.000 aumentos.
+
+Las imágenes obtenidas fueron procesadas por un experto en el uso del programa Matlab R2012a, con el fin de obtener valores numéricos, a través de una evaluación cuantitativa de las características micromorfológicas de las superficies de las cerámicas. En este programa las imágenes en escala de grises son representadas por una matriz bidireccional de m x n, en donde m representa el número de píxeles de ancho, y n el número de píxeles de largo. Cada elemento de la matriz de la imagen tiene un valor de 0 (negro) a 255 (blanco), que permite evaluar el contraste. El contraste se refiere a la diferencia que existe entre cada elemento de la matriz, por tanto, si hay un mayor contraste, hay una mayor diferencia entre negros y blancos. Puesto que lo más elevado en la imagen es de tonos de gris claro, y las depresiones de la imagen son más oscuras, entonces las muestras que presenten mayor contraste serán muestras que presenten una superficie más irregular, con más alteraciones.
+
+Los resultados obtenidos mediante este programa fueron analizados estadísticamente con el test ANOVA (para comparar más de 2 grupos de forma simultánea) y el test «t» no pareado (que permite comparar 2 grupos diferentes entre sí, respecto a una variable). En ambos casos se consideró como estadísticamente significativo los valores de p < 0,05.
+
+      Resultados
+
+Las microfotografías que se presentan a continuación corresponden a las imágenes más representativas (es decir, la que más se repitió) de las muestras de cerámica feldespática, que fueron sometidas a procesamiento de imágenes mediante el programa computacional Matlab R2012a.
+
+En la figura 1 (control) se observa una superficie uniforme y homogénea, en cambio en las figuras 2 y 3 la superficie se ve muy irregular, con presencia de surcos abundantes y aparentemente profundos, además de contaminantes superficiales. El valor para contraste promedio de las muestras tratadas solo con ácido fluorhídrico fue de 2,7974. En las muestras tratadas con ácido fluorhídrico seguido del grabado con ácido ortofosfórico se obtuvo un contraste promedio de 3,2227.
+
+
+
+
+
+Figura 1 Microfotografía control de cerámica feldespática (1.000 ×).
+
+
+
+
+
+Figura 2 Cerámica feldespática tratada con ácido fluorhídrico al 9% (1.000 ×).
+
+
+
+
+
+Figura 3 Cerámica feldespática tratada con ácido fluorhídrico y ácido ortofosfórico al 35% (1.000 ×).
+
+ 
+
+Las muestras del grupo A1 presentan un contraste promedio que es aproximadamente 2,7 veces mayor que el control y las muestras del grupo A2 presentan un contraste promedio que es aproximadamente 3,2 veces mayor que el control. A pesar de que el contraste observado en el grupo A2 se ve mayor que en el grupo A1, no existe una diferencia estadísticamente significativa entre estos valores (p = 0,069).
+
+Las siguientes microfotografías son las más representativas de las cerámicas reforzadas con disilicato de litio.
+
+La imagen correspondiente al control (fig. 4) se observa con algunas irregularidades que parecen ser muy superficiales, probablemente producto del fresado. La figura 5 presenta gran cantidad de irregularidades y de mayor profundidad respecto a la figura 6. Ambas superficies presentaban contaminantes superficiales. El contraste promedio de las muestras tratadas solo con ácido fluorhídrico fue de 1,3810. En las muestras tratadas con ácido fluorhídrico seguido del grabado con ácido ortofosfórico se obtuvo un contraste promedio de 0,9291 (figs. 7 y 8).
+
+
+
+
+
+Figura 4 Control de cerámica reforzada con disilicato de litio (1.000 ×).
+
+
+
+
+
+Figura 5 Cerámica reforzada con disilicato de litio tratada con ácido fluorhídrico al 9% (1.000 ×).
+
+
+
+
+
+Figura 6 Cerámica reforzada con disilicato de litio tratada con ácido fluorhídrico y posteriormente con ácido ortofosfórico al 35% (1.000 ×).
+
+
+
+
+
+Figura 7 Distribución de valores para contraste en la cerámica feldespática con ambos tratamientos ácidos.
+
+
+
+
+
+Figura 8 Distribución de valores para contraste en cerámica reforzada con disilicato de litio con ambos tratamientos ácidos.
+
+ 
+
+Las muestras del grupo B1 presentan un contraste promedio que es aproximadamente 1,3 veces mayor que la muestra control, y las muestras del grupo B2 presentan un contraste promedio que es aproximadamente 0,1 veces menor que el control; la diferencia de contraste entre ambos grupos es estadísticamente significativa (p = 0,0001).
+
+      Discusión
+
+La visualización de imágenes en MEB es de carácter cualitativo, lo que solo permite realizar la descripción de las superficies estudiadas. Es por esto que las imágenes obtenidas fueron procesadas mediante el programa computacional Matlab R2012a, con el fin de obtener valores numéricos para el parámetro contraste, para determinar la morfología superficial, y así poder comparar las muestras de manera objetiva.
+
+Respecto a los controles de ambas cerámicas presentaron una superficie ligeramente irregular y con distintos niveles de altura. Este hecho se podría atribuir al empleo de las fresas de alta velocidad para dar la forma y tamaño final a las muestras. A pesar de lo anteriormente expuesto, las muestras de cerámica feldespática tratadas con uno o ambos ácidos obtuvieron valores de contraste mayores que el valor de la muestra control (estadísticamente significativos) es decir, presentaban una superficie más irregular, con mayor número de microsurcos que la muestra control.
+
+Según Lu et al. (2001) el ácido fluorhídrico disuelve selectivamente la matriz vítrea y produce una superficie porosa e irregular, lo que aumenta el área de superficie facilitando la penetración de adhesivos y materiales de cementación en estos espacios de la porcelana grabada13. Basándonos en las microfotografías obtenidas de las cerámicas feldespáticas y las cerámicas reforzadas con disilicato de litio, podemos afirmar que efectivamente se producen cambios respecto de las muestras control, en la micromorfología superficial de ambas cerámicas luego de ser tratadas con ácido fluorhídrico al 9%.
+
+Respecto a la cerámica feldespática, tanto las tratadas solo con ácido fluorhídrico (A1) como las tratadas con ácido fluorhídrico + ácido ortofosfórico (A2), mostraron un patrón de grabado similar, el cual era formado por surcos y poros espaciados, de considerable profundidad y grosor, además de contaminantes superficiales. Los valores de contraste expresados en función del control indican que ambos tratamientos de superficie son igualmente eficientes al ser aplicados en esta cerámica, ya que en ambos grupos se cumplió con el objetivo de generar una superficie irregular y con formación de múltiples microrretenciones, dicho de otra forma, el tratamiento con ácido fosfórico no aportaría ninguna ventaja en este sentido, ya que igualmente presentaba algunos contaminantes superficiales.
+
+Por otra parte, las muestras de cerámica reforzada con disilicato de litio tratadas solo con ácido fluorhídrico también dieron valores de contraste superiores a la muestra control (estadísticamente significativos). Esto se puede interpretar como un patrón de grabado que se repite uniformemente en toda la superficie.
+
+Según Luo et al. (2001) 20 seg de grabado con ácido fluorhídrico es tiempo suficiente para disolver la fase vítrea de la cerámica, exponer los cristales de disilicato de litio y modificar la morfología superficial13. Esto concuerda con los resultados obtenidos en nuestro estudio, donde las muestras de cerámica reforzada con disilicato de litio, tratadas con ácido fluorhídrico (B1) presentaron una gran cantidad de surcos y poros, de menor tamaño que los formados en las muestras de cerámica feldespática. Los valores de contraste obtenidos nos indican que las superficies tratadas se observaron más rugosas e irregulares que la muestra control.
+
+Las cerámicas reforzadas con disilicato de litio, tratadas con ambos ácidos (B2), mostraron superficies con formación de irregularidades. Sin embargo, el contraste promedio de las muestras del grupo B2 fue menor que el valor de contraste de la muestra control, lo que indicaría que esta última posee una superficie más rugosa que las superficies tratadas con ambos ácidos. Esto se contrapone a lo expresado por Magne et al. (2006) con respecto a la acción que ejercería el ácido ortofosfórico en las superficies cerámicas, la cual sería exclusivamente de limpieza de las superficies14,15. Este resultado podría explicarse por el alto contraste obtenido en la imagen de la muestra control, lo que se puede atribuir a la manipulación de las muestras con fresas diamantadas de alta velocidad y en parte a la mayor dureza de estas cerámicas.
+
+Cabe hacer notar que de acuerdo a los tiempos de aplicación del ácido fluorhídrico se produce un efecto más notorio en la feldespática que en la reforzada con disilicato de litio, produciéndose mayores microporosidades e irregularidades de las superficies. Este resultado podría tener relación con el tiempo más extenso utilizado en la feldespática (2 min respecto de los 20 seg usados en la otra) y a la mayor dureza de la cerámica reforzada con disilicato de litio.
+
+Según Belli et al. (2010), como consecuencia del grabado con ácido fluorhídrico, se produce la precipitación de un subproducto residual sobre la superficie de la cerámica, lo que produce una apariencia más opaca de la cerámica16. El tiempo de grabado, el tipo de ácido, la concentración del ácido y la composición de la cerámica son factores determinantes en la composición de los residuos generados16,17. Canay et al. (2001) concluyeron que estos residuos estaban compuestos por fluorosilicatos de aluminio, potasio, sodio y calcio8. Magne et al. (2006) refieren que la precipitación de estos residuos (sales de hexafluorosilicato) en la superficie de la cerámica podría afectar la infiltración del adhesivo, y han informado de que reduce la fuerza de unión cerámica-cemento de resina14. Es por esto que se propone el uso de ácido ortofosfórico como agente de limpieza, posterior al acondicionamiento de superficie con ácido fluorhídrico, ya que de esta manera se podrían aumentar los valores de adhesión.
+
+Respecto a lo anterior, durante la etapa experimental de este estudio no se apreciaron cambios en la opacidad de las muestras de ambas cerámicas, luego de ser tratadas con ácido fluorhídrico solo o asociado al ácido fosfórico, observación de carácter subjetivo. Al observar las microfotografías de las superficies de ambos tipos de cerámicas se constató la presencia de residuos contaminantes sobre todas las superficies estudiadas, sin importar el tipo de cerámica ni el tipo de tratamiento realizado; sin embargo, no se puede afirmar que estos correspondan a sales de hexafluorosilicato, ya que no se realizó un análisis químico de las superficies, estudio que otorgaría información acerca de los elementos químicos presentes en las superficies, lo que permitiría saber con certeza si los elementos que componen estas sales están presentes en estas superficies.
+
+La importancia clínica del acondicionamiento previo de estas cerámicas radica obviamente en la posibilidad de incrementar los valores de adhesión a los tejidos dentarios, ya que existen numerosos informes que avalan el uso de estos tratamientos con ácido fluorhídrico a diferentes concentraciones11,18,19. Sin embargo, el uso del ácido ortofosfórico no está del todo claro, y a pesar de las limitaciones de nuestro estudio, en cuanto a la magnitud de la muestra utilizada, hemos intentado aportar alguna información extra para dilucidar su real eficacia.
+
+      Conclusiones
+
+Con las limitaciones propias de nuestro modelo experimental podemos concluir que:
+
+ 
+
+Conflicto de intereses

@@ -1,0 +1,322 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072015000100002
+Asociación entre las variables del Cariograma e historia de caries en la población de 15 a 64 años de la comuna de Tortel, provincia del Capitán Prat de la XI Región de Aysén, Chile: análisis multivariable
+
+Cariogram. Experience of dental caries. Multivariate analysis.
+
+Introducción
+
+La caries dental es una enfermedad multifactorial crónica que resulta de un desbalance ecológico y fisiológico del equilibrio entre minerales de los dientes, biopelículas microbianas orales1,2.
+
+Esta enfermedad sigue siendo un importante problema de salud oral en la mayoría de los países industrializados, y afecta al 60-90% de los escolares y la gran mayoría de los adultos3–6. Chile ha sido clasificado dentro de los países de alto riesgo, según el Scottish Intercollegiate Guidelines Network del año 20007.
+
+En muchos países en desarrollo el acceso a servicios de salud bucodental es limitado, y los dientes a menudo se dejan sin tratar o se extraen debido a dolor o malestar, siendo la educación la mejor herramienta para contribuir a la formación de hábitos saludables y prevenir este tipo de enfermedades8–11.
+
+Una nueva manera ilustrativa, simple, económica y rápida de evaluar el riesgo cariogénico es el Cariograma, programa de evaluación computacional validado para evaluar riesgo de caries en adultos, creado por Brathall et al.12, el cual utilizando distintos factores etiológicos de la enfermedad de caries muestra de manera gráfica la posibilidad de evitar nuevas lesiones de caries, planteando además posibles estrategias de tratamiento y prevención13–17.
+
+Así, el presente estudio tiene como objetivo establecer si existe relación entre las variables del Cariograma y la historia de caries en la población de 15 a 64 años de la Caleta Tortel, ubicada en la XI Región de Aysén, Chile, con el fin de enfocar los esfuerzos de mejor manera sobre esta comunidad. Sin embargo, y a pesar de ser un importante atractivo turístico, sus pobladores se encuentran aislados geográficamente y sin el cuidado de médicos ni de odontólogos de manera permanente, por lo que es muy importante identificar los factores de riesgo más relevantes en la aparición de la enfermedad de caries y su severidad (COPD), con el fin de minimizar el impacto de estos factores en la población.
+
+  Materiales y métodos
+
+El diseño de este estudio es observacional analítico, de corte transversal.
+
+La población universo está compuesta por el total de los habitantes residentes en la comuna de Tortel, provincia del Capitán Prat, XI región de Aysén, compuesta por 507 habitantes (332 hombres y 185 mujeres), según el censo del año 2002. La muestra poblacional se obtuvo mediante un método aleatotizado, de representatividad comunal, de la población entre los 15 y 64 años, divididos en 3 grupos etarios y comparados con los datos del censo 2002, entre los residentes en la comuna de Tortel que asistieron por demanda espontánea al operativo dental realizado entre los meses de enero y febrero del año 2011, por un período de 5 semanas.
+
+La obtención y el registro de la información se realizó por 2 internos de odontología, mediante una entrevista personal para la confección de la ficha clínica estándar, la cual incluía el Cariograma, con sus respectivos valores de registro, a excepción de Streptococcus mutans, secreción salival y capacidad buffer salival. Estas variables fueron desestimadas por la incapacidad técnica de realizar los exámenes correspondientes. Además, estos mismos internos entrenados realizaron un examen dentario, según la recomendación de la Organización Mundial de la Salud y sus criterios en relación con el índice COPD18.
+
+Para el análisis de datos se utilizó una planilla de datos Excel, edición 2010. La descripción de las variables utilizadas en este trabajo se realizó mediante la utilización de medias para las variables continuas y ordinales. Las variables categóricas son presentadas utilizando proporciones. Las diferentes variables fueron analizadas mediante regresión lineal múltiple y regresión logística para variables ordinales, como las variables del Cariograma y dicotómicas como la historia de caries. Para el análisis se utilizó el programa estadístico Stata 11.0.
+
+La variable «historia de caries > 10» a partir del índice COPD, cuando este sea mayor a 10, se basa en el supuesto de que el promedio de COPD de la población será cercano a 10 (criterios entregados por la OMS 1997).
+
+      Resultados
+
+La muestra está constituida por 173 individuos. El promedio de edad es de 34 años, con una desviación estándar (DS) de ± 12,4. La edad mínima es de 15 años y la máxima es de 64 años.
+
+La distribución por sexo es de 93 mujeres, que corresponde al 53,76%, y de 80 hombres que corresponde al 46,24% de la muestra.
+
+La distribución del número de individuos en cada grupo etario mostró que la mayor cantidad de personas se concentró en el rango etario de 15 a 29 años, correspondiente al 40,46%, y la menor se concentró en el rango de 45 a 64 con un 21,39%.
+
+La distribución por género y según el grupo etario queda descrita en la tabla 1. Hay que destacar que solo en el rango etario de 45 a 64 años la cantidad de hombres supera a la cantidad de mujeres.
+
+
+
+Tabla 1 Descripción de variable edad e historia de caries según género
+
+
+
+ 
+
+El valor promedio de la variable «historia de caries» es 13,12 (COPD). Este se desglosa en 3 piezas cariadas, 4,2 piezas obturadas y 5,8 piezas perdidas por caries. El 38,15% (n = 66) de la muestra presentó una historia de caries menor o igual a 10, mientras que el 61,85% (n = 107) tiene una historia de caries mayor a 10 (tabla 1).
+
+Entre la variable «edad» e «historia de caries» se observa que la mayor parte de la población de 30 a 44 años y la de 45 a 64 posee una historia de caries mayor a 10, mientras que el 64,29% de la población de 15 a 29 años posee una historia de caries menor o igual a 10 (tabla 2).
+
+      Descripción de las variables del programa Cariograma
+
+Experiencia de caries
+
+Esta variable se dividió en 4 categorías. El 84,97% de los individuos se encuentran peor que la media para el grupo de edad. La tabla 3 muestra la frecuencia de cada categoría.
+
+
+
+Tabla 3 Descripción de la variable experiencia de caries
+
+
+
+ 
+
+Para el análisis estadístico la categoría «libre de caries y sin obturaciones» fue sumada a la categoría «mejor que la media para el grupo de edad», por presentar tan solo un caso con esta condición.
+
+Entre la variable «experiencia de caries» y la variable dependiente «historia de caries» se observa que el 66,67% de los individuos que se encuentran peor que la media para el grupo de edad poseen una historia de caries mayor a 10 (tabla 2).
+
+ 
+
+Enfermedades relacionadas
+
+El 94,8% de los individuos no padece enfermedades sistémicas ni consume medicamentos asociados a un mayor riesgo de caries. En la tabla 4 se observa la distribución de su frecuencia por categoría.
+
+
+
+Tabla 4 Descripción de la variable enfermedades relacionadas
+
+
+
+ 
+
+La categoría «nivel grave, larga duración» presentó solo un caso con esta condición, por lo que fue asociada a la categoría «nivel moderado» para ejecutar el programa estadístico.
+
+Entre esta variable e «historia de caries» se observa que el 59,76% de los individuos sin enfermedades relacionadas posee una historia de caries mayor a 10 (tabla 2).
+
+ 
+
+Dieta contenido
+
+Según el resultado de la entrevista realizada, el 47,4% de la población posee una dieta de moderado nivel cariogénico. Mientras que 46,82% de la población se encuentra distribuida casi equitativamente entre bajo y alto nivel cariogénico. La tabla 5 muestra la frecuencia de esta variable.
+
+
+
+Tabla 5 Frecuencia de la variable dieta contenido
+
+
+
+ 
+
+ 
+
+Esta variable en relación con la variable dependiente «historia de caries» muestra que el 63,41% de los individuos con una dieta moderada en hidratos de carbono fermentables, y el 53,66% de los que tienen una dieta inapropiada poseen una historia de caries mayor a 10 (tabla 2).
+
+Dieta frecuencia
+
+El 46,24% de los individuos realiza entre 4 a 5 ingestas diarias. La tabla 6 ilustra su frecuencia por categoría.
+
+
+
+Tabla 6 Distribución de la variable dieta frecuencia
+
+
+
+ 
+
+Cuando esta variable se relaciona con la variable dependiente «Historia de caries» se observa que el 56,25% de los individuos que realizan entre 4 a 5 ingestas diarias poseen una historia de caries mayor a 10. Sin embargo, incluso en la categoría de menor número de ingestas, la mayoría de los individuos poseen una historia de caries mayor a 10 (68,33%) (tabla 2).
+
+  Acumulación de placa
+
+El 52,6% de los individuos posee una higiene oral mala. La tabla 7 muestra la distribución de la frecuencia por categoría de la variable «acumulación de placa».
+
+
+
+Tabla 7 Distribución de la variable acumulación de placa
+
+
+
+ 
+
+Para realizar el análisis estadístico los 2 casos de la categoría «higiene oral extremadamente buena» le fueron sumados a la categoría «buena higiene oral».
+
+Cuando esta variable se relaciona con «historia de caries» se observa que el 65,93% de los individuos que tienen una mala higiene oral tienen una historia de caries mayor a 10 (tabla 2).
+
+ 
+
+Uso de flúor
+
+El 85,55% de los individuos utilizan, por lo menos, pasta dental fluorada. Mientras que solo el 3,47% de los individuos no recibe ningún aporte de flúor (tabla 8).
+
+  Tabla 8 Distribución de la variable uso de flúor
+
+
+
+ 
+
+ 
+
+Cuando esta variable se relaciona con «historia de caries» se observa que el 60,81% de los individuos que solo utilizan pasta dental fluorada, sin ningún otro suplemento, tienen una historia de caries mayor a 10 (tabla 2).
+
+
+
+Tabla 2 Tabla de contingencia de las variables independientes v/s historia de caries
+
+
+
+ 
+
+ 
+
+Asociación entre «historia de caries» y las variables del programa Cariograma
+
+Para determinar la asociación existente entre la historia de caries del paciente y las variables independientes previamente descritas, se realizó un análisis estadístico de regresión lineal múltiple y regresión logística, con el fin de abarcar desde una óptica más amplia las posibles relaciones que existan. A continuación se detallan cada uno de ellos.
+
+Regresión lineal múltiple
+
+Se realizaron 3 agrupaciones distintas de variables. En el primer modelo se encuentran solamente las variables del programa Cariograma, a excepción de la variable «uso de flúor», por presentar colinealidad con la variable «historia de caries».
+
+En el segundo modelo se incluyó la variable «género», y por último, al tercer modelo, se le adicionó la variable «edad» a las ya mencionadas anteriormente.
+
+Modelo 1
+
+La tabla 9 muestra que entre las variables «enfermedades relacionadas», «experiencia de caries» y «dieta contenido» hay una asociación estadísticamente significativa con la variable independiente «historia de caries», con p > 0,05.
+
+
+
+Tabla 9 Regresión lineal múltiple. Modelo 1
+
+
+
+ 
+
+Modelo 2
+
+En la tabla 10 se observa que al agregar la variable «género» no hay variaciones en cuanto a las variables del programa Cariograma, que tienen una asociación estadísticamente significativa, con «historia de caries». Al igual que en el modelo 1, mantienen su relación las variables «enfermedades relacionadas», «experiencia de caries» y «dieta contenido».
+
+
+
+Tabla 10 Regresión lineal múltiple. Modelo 2
+
+
+
+ 
+
+Modelo 3
+
+En este modelo fue agregada la variable «Edad», y el resultado está reflejado en la tabla 11, donde se advierte que las variables que tienen una asociación estadísticamente significativa, con la variable «historia de caries», son «experiencia de caries», «género» y «edad».
+
+
+
+Tabla 11 Regresión lineal múltiple. Modelo 3
+
+
+
+ 
+
+Regresión logística
+
+Para el análisis estadístico de regresión logística la variable dependiente «historia de caries» se separó en 2 grupos: «historia de caries ≤ 10» e «historia de caries > 10».
+
+Además, la variable «enfermedades relacionadas» fue eliminada de este análisis por presentar colinealidad con la variable «historia de caries > 10».
+
+Finalmente, el análisis contempló 3 modelos: el modelo 1 incluyó solamente las variables del programa Cariograma, a excepción de «enfermedades relacionadas» y «uso de flúor». Al modelo 2 le fue adicionada la variable «género», y por último al modelo 3 se le sumó la variable «edad».
+
+ 
+
+Modelo 1
+
+El modelo 1 arrojó una asociación estadísticamente significativa con «historia de caries > 10» únicamente en la variable «experiencia de caries», tal como se observa en la tabla 12.
+
+
+
+Tabla 12 Regresión logística. Modelo 1
+
+
+
+ 
+
+Modelo 2
+
+En este caso, fue adicionada la variable «género» a las ya anteriormente descritas. La variable «experiencia de caries» se mantuvo como la única con una relación estadísticamente significativa con la variable «historia de caries > 10». Los detalles se encuentran en la tabla 13.
+
+
+
+Tabla 13 Regresión logística. Modelo 2
+
+
+
+ 
+
+Modelo 3
+
+En este último modelo de regresión logística fue agregada la variable «edad». Los resultados observados muestran que las variables «experiencia de caries» y «edad» están relacionadas de manera estadísticamente significativa con la variable «historia de caries > 10», tal como se muestra en la tabla 14.
+
+
+
+Tabla 14 Regresión logística. Modelo 3
+
+
+
+ 
+
+Discusión
+
+Del total de la muestra un 84,97% de los individuos tienen una experiencia de caries peor que la media para el grupo de edad al que corresponden, y solo el 6,36% se presenta mejor que la media para el grupo de edad, lo que recalca la importancia y urgencia con la que se deben implementar programas de promoción y prevención en salud bucal en los habitantes de esta localidad. Estas cifras se pueden deber al importante grado de aislamiento de la población, la inexistencia de una red de agua potable fluorada y la falta de acceso a la atención dental y campañas preventivas, entre otras.
+
+La utilización de un umbral de corte en el índice COPD mayor a 10 obedece a un supuesto que ese nivel de severidad de caries permite asegurar la presencia de la enfermedad en los individuos que poseen esa característica.
+
+Con respecto a la variable «Enfermedades relacionadas», el 94,8% de la muestra no presentó enfermedades relacionadas con caries que pudieran aumentar el riesgo de estas. Sin embargo, de los 9 casos que sí presentaron alguna enfermedad relacionada, el 100% de ellos tenía una historia de caries mayor a 10, lo que indica una relación directa entre ambas variables. Las enfermedades encontradas fueron depresión, hipertensión arterial y diabetes, cuyos tratamientos farmacológicos resultan en una reducción de la producción de saliva y cambio en su composición, sequedad oral y, en consecuencia, mayor riesgo de caries19.
+
+Aun cuando la gran mayoría de la población de estudio no posee enfermedades relacionadas con caries, el 59,76% de ellos posee una historia de caries mayor a 10, por lo que otras variables estarían influyendo en el alto nivel de daño por caries en estos individuos.
+
+Es altamente probable que la población de Caleta Tortel en realidad no sepa si padecen o no alguna enfermedad, ya que la ronda médica solo los visita una vez al mes, priorizando los pacientes con problemas de salud garantizados (garantías explícitas en salud) y metas sanitarias de la atención primaria de salud, lo que es sin duda insuficiente para cubrir las necesidades de la comunidad y pesquisar estados tempranos de enfermedades.
+
+Respecto a la variable «dieta contenido» un 47,4% de la población de estudio posee una dieta de moderado nivel cariogénico, y el 23,7% posee una dieta inapropiada, de alto nivel cariogénico. Esto revela los hábitos de consumo de la comunidad, en función de alimentos ricos en hidratos de carbono. Esto se condice con el tipo dieta que tiene la población del sur de nuestro país, principalmente a base de papas, pan y grasas, ya que son los alimentos de más fácil y rápido acceso, además de otorgarles la energía suficiente para sobrellevar, sobre todo, el tipo de clima que tiene la zona de Caleta Tortel, cuyo mes más caluroso es enero, con 13 °C en promedio, y el mes más frío julio, con 4 °C en promedio.
+
+Esta variable en relación con la variable dependiente «historia de caries» muestra que el 63,41% de los individuos con una dieta moderada en hidratos de carbono fermentables, y el 53,66% de los que tienen una dieta inapropiada poseen una historia de caries mayor a 10, lo que demuestra la influencia de la dieta en el aumento de caries en esta población.
+
+La gran mayoría de la población realiza como máximo 5 momentos de ingestas al día, correspondientes al 80,92%, por lo que se esperaba que tuvieran una Historia de caries menor o igual a 10. Sin embargo, se observó que el 56,25% de los individuos que realizan entre 4 a 5 ingestas diarias tenían historia de caries mayor a 10, y que la categoría de menor número de ingestas, en un 68,33%, tenía una historia de caries mayor a 10.
+
+Así, las categorías que representan un menor riesgo de caries, mayormente poseen un índice COPD mayor a 10, por lo que se deduce que no existe una relación directa de asociatividad entre la historia de caries de los pacientes y su frecuencia de alimentación diaria.
+
+La mayor cantidad de casos se presentó en las categorías de higiene oral «menos buena», y «mala», con un 26,01% y un 52,6% respectivamente. Esto demuestra problemas en relación con la higiene oral, ya sea por falta de cepillado o por emplear una mala técnica. De cualquier manera, ambos motivos se vinculan a la falta de educación y campañas preventivas sobre enfermedades buco-dentales, que entreguen a la población herramientas para el autocuidado y empoderamiento de su salud.
+
+En relación con la variable «historia de caries», más de la mitad de los individuos que poseen una «buena» y «menos buena higiene oral» (56,76% y 57,78% respectivamente), poseen una historia de caries mayor a 10, lo que sugiere que los individuos con buena higiene presentan de igual manera un número elevado de lesiones de caries.
+
+El 85,5% de los individuos utiliza al menos pasta dental fluorada.
+
+Esta variable fue descartada del análisis final con regresión lineal múltiple y regresión logística, debido a que el 96,53% de la muestra recibe algún aporte de flúor, por lo que al hacer el ejercicio de dicotomizar la variable quedan muy pocos datos para el análisis. Cuando esta variable se relaciona con «historia de caries» se observa que el 60,81% de los individuos que solo utilizan pasta dental fluorada, sin ningún otro suplemento, tienen una historia de caries mayor a 10. Estas condiciones nos muestran que, a pesar de que la población se protege con pasta dental fluorada, el daño por enfermedad de caries está presente y en cantidades muy elevadas.
+
+ 
+
+Regresión lineal múltiple
+
+Esta prueba estadística se realiza para determinar con precisión qué variables están asociadas a «historia de caries».
+
+En el modelo 1 se incluyeron las variables del programa Cariograma, a excepción de «uso de flúor». Este modelo muestra una asociación estadísticamente significativa de las variables «experiencia de caries», «enfermedades relacionadas» y «dieta contenido». Este resultado indica que las variables que se relacionan, y por lo tanto son más influyentes en la «historia de caries» de los individuos de Caleta Tortel serían las 3 anteriores.
+
+Por otro lado, la fuerte relación con «experiencia de caries» era esperable, ya que por definición esta variable del Cariograma emplea en sus categorías el estudio del índice COPD, el mismo que definió la variable dependiente «historia de caries», por lo tanto se confirma la relevancia de la experiencia de caries, como predictor de riesgo de caries.
+
+A pesar su baja casuística, la variable «enfermedades relacionadas» también resultó estar fuertemente asociada a «historia de caries». Este es un punto a tener en consideración en las campañas preventivas y consejerías a los pacientes sobre cómo mejorar sus condiciones bucales para enfrentar mejor las enfermedades que los aquejan a nivel sistémico.
+
+En relación con el modelo 2, al adicionar la variable «género» no hubo variaciones en las variables que presentaban una asociación estadísticamente significativa, por lo que se mantuvo «experiencia de caries», «enfermedades relacionadas» y «dieta contenido».
+
+Esto se refiere a que el género, en combinación con las variables descritas del Cariograma, no influye estadísticamente en la «historia de caries». Sin embargo, al adicionar la variable «edad», como se muestra en el modelo 3, la variable «género» sí se manifiesta con una asociación estadísticamente significativa en relación con la historia de caries de los pacientes, junto con las variables «experiencia de caries» y «edad». Así, «edad» e «historia de caries» tienen una relación directa, por lo que a medida que la «edad» aumenta de categoría, la «historia de caries» crece en 4,14. Mientras que con «género» tiene una relación inversa, ya que cuando esta pasa de mujeres a hombres, «historia de caries» disminuye en 2,26. Este resultado se encuentra establecido en la mayoría de la literatura que aborda la epidemiología de la caries6.
+
+Al comparar estos resultados con trabajos como el de Ruiz, de 2007, se observa que al igual que en este estudio la variable que más se relaciona con riesgo cariogénico es «experiencia de caries», además de las variables recuento de S. mutans, y capacidad buffer de la saliva, las cuales no fueron incluidas en este estudio17.
+
+En relación con la hipótesis de este estudio, la regresión lineal múltiple muestra que las variables «experiencia de caries», «género» y «edad» están relacionadas de manera estadísticamente significativa, mientras que el resto de las variables estudiadas se relacionan con «historia de caries», pero no de manera estadísticamente significativa. Por lo tanto, se rechaza la hipótesis propuesta.
+
+      Regresión logística
+
+Al asignarle 2 categorías a la «historia de caries» para estimar asociación entre las variables del programa Cariograma y una mayor cantidad de daño por caries en los pacientes, nos encontramos con que únicamente la variable «experiencia de caries» presenta una relación significativa con «historia de caries > 10».
+
+Al agregar la variable «género» se mantuvo la asociatividad con «experiencia de caries», pero al incluir «edad» esta presentó una relación estadísticamente significativa con «historia de caries > 10».
+
+Al pasar «experiencia de caries» a la categoría siguiente, las probabilidades de tener una «historia de caries > 10» aumentan 3,68 veces. Mientras que al aumentar la «edad» en tramo existen 0,93 veces más posibilidades de tener una historia de caries mayor a 10.
+
+      Conclusiones
+
+2. Solo existe relación estadísticamente significativa entre las variables del Cariograma; «experiencia de caries», «enfermedades relacionadas» y «dieta contenido», con«historia de caries», cuando no se incluye la variable «edad» en el modelo.
+
+3.		   	    Solo las variables «experiencia de caries» y «edad» se relacionan de manera estadísticamente significativa con «historia de caries > 10». Así, a mayor edad y experiencia de caries, mayor daño acumulado por caries, que supera a un COPD de 10. 
+
+4.		  La variable «edad» mostró significación estadística en todos los análisis en los que se incluyó. Lo que demuestra que a medida que aumenta la edad, también aumenta la «historia de caries» en la población de estudio.
+
+Este trabajo fue financiado por el Departamento de Odontología Restauradora, Facultad de Odontología, Universidad de Chile.
+
+      Conflicto de intereses
+
+Los autores declaran no tener ningún conflicto de intereses.

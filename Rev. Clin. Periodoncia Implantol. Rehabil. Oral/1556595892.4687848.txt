@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072014000300003
+Factores que explican la satisfacción laboral de odontólogos en Chile
+
+Dentist. Professional practice. Job satisfaction.
+
+Introducción
+
+La oferta del mercado laboral odontológico en Chile ha variado de manera significativa a consecuencia del aumento de la matrícula universitaria. Mientras entre los años 1990-1999 la matrícula se incrementó un 83%, esta cifra fue del 253% entre los años 2000-20101. Es así como el año 2012 egresaron cerca de 1.200 dentistas2. Sin embargo, falta información acerca del mercado laboral dental y de la percepción de los trabajadores, siendo la satisfacción laboral un aspecto esencial. La satisfacción laboral es el sentimiento de un individuo acerca de su trabajo3. Esta satisfacción se puede explicar por factores externos al profesional, como el salario, disponibilidad de horario y condiciones físicas del trabajo, o por factores internos, como la responsabilidad asignada, la posibilidad de utilizar las habilidades, la libertad para elegir el método de trabajo o el reconocimiento al trabajo bien realizado4. El conocer la satisfacción profesional y los factores que influyen sobre ella permite por un lado desarrollar políticas de empleo y proveer información relevante a los potenciales empleadores, mientras que por otro lado, permite mejorar la calidad de la atención de los pacientes, pues la satisfacción del profesional sanitario está asociada con la satisfacción del paciente5.
+
+Estudios realizados en Australia6, Corea del Sur7, Suecia8, Egipto9, Holanda10 y Alemania11 muestran altos niveles de satisfacción en odontólogos, con un predominio de factores internos que explican esta alta satisfacción. En Chile Rojas et al.12 reportaron altos niveles de satisfacción laboral en una muestra de 100 profesionales odontólogos de la ciudad de Santiago, sin embargo no explican los factores de esta alta satisfacción. Por esta razón, el objetivo del presente estudio será medir el nivel de satisfacción en un grupo de odontólogos del sur de Chile e identificar los factores asociados.
+
+      Material y método
+
+Se realizó un estudio observacional analítico de corte transversal. Esta investigación adhiere las recomendaciones para el diseño y reporte de estudios que utilicen cuestionarios de Kelley et al.13 y aquellas acerca del reporte de estudios que utilicen métodos multivariados14.
+
+      Población y muestra
+
+Se estimó la población base de odontólogos en sur de Chile (Valdivia y Puerto Montt) tomando en cuenta los registros del Colegio de Cirujanos Dentistas del año 2012, los registros en las guías de teléfonos, profesionales en los servicios de salud y en universidades de las ciudades citadas, estableciendo una población de 305 odontólogos. Los profesionales incluidos debían ser odontólogos y estar ejerciendo la profesión odontológica. Se calculó el tamaño muestral en 171 profesionales, considerando la proporción de variables explicativas de 10:114, el nivel de satisfacción esperado12, una potencia estadística del 80% y un error del 5%.
+
+      Instrumento de recolección de información
+
+Se utilizó el cuestionario aplicado en odontólogos por Goetz et al.11 basado en la escala de Warr-Cook-Wall (WCW)15 descrito en la tabla 1, junto con la codificación. El cuestionario WCW de escala general de satisfacción evalúa aspectos internos y externos que explicarían la satisfacción laboral. Operacionaliza el constructo de satisfacción laboral, reflejando la experiencia de los trabajadores de un empleo remunerado, y además recoge la respuesta afectiva al contenido del propio trabajo. Se seleccionaron 9 de los 15 ítems originales, porque ya habían sido utilizados previamente en otra investigación con odontólogos11. En la escala WCW el respondiente asigna valores de 1 (muy insatisfecho) a 7 (muy satisfecho) a cada una de las preguntas del cuestionario. Adicionalmente, el cuestionario recogió información demográfica.
+
+
+
+Tabla 1 Elementos del cuestionario WCW-es
+
+
+
+ 
+
+Validación del instrumento de recolección de información
+
+El cuestionario WCW fue traducido del inglés original por 3 traductores de manera independiente. Luego se compararon las traducciones para obtener una traducción de consenso. Posteriormente el cuestionario en español fue enviado a retraducir al inglés y comparado con la versión en inglés original para detectar alguna alteración. La versión en español fue modificada hasta llegar a un documento equivalente, obteniendo un cuestionario final WCW traducido (WCW-es). EL cuestionario WCW-es se validó en una muestra no probabilística de 50 odontólogos, quienes completaron el cuestionario. Dos semanas después se les pidió que lo volviesen a contestar. Se calculó la consistencia interna mediante el test alfa de Cronbach, obteniendo un valor de 0,86, por lo que se consideró la validez interna como satisfactoria16. La fiabilidad test-retest se evaluó mediante una correlación de Pearson, encontrando una correlación pre-post de r = 0,92.
+
+      Recolección de los datos
+
+Cada odontólogo fue visitado en su lugar de trabajo por 2 investigadoras (JI, VC), quienes le explicaron el objetivo de la investigación e invitaron a participar. No se ofreció incentivo. A quienes accedieron se les entregó el cuestionario en una copia impresa, la cual podía ser contestada de manera inmediata o podía requerir que pasaran luego a recoger el cuestionario. Los cuestionarios contestados fueron depositados cerrados por el respondiente en una caja cerrada para preservar el anonimato. Esta caja se abrió cuando se recopiló el tamaño muestral necesario. Además, algunos odontólogos fueron contactados mediante correo electrónico donde se les pidió contestar un formulario anónimo en línea que contaba con las mismas características del cuestionario en papel.
+
+      Tabulación de datos y análisis estadístico
+
+Se consideraron para el análisis solo aquellos cuestionarios completos. La tasa de respuesta se calculó como total de cuestionarios completados dividido entre el total de odontólogos invitados a participar. Las respuestas de los cuestionarios fueron ingresados (VC, JI) en un formulario electrónico de Google Docs®. Luego fueron exportados al programa estadístico SPSS 20® para su análisis estadístico. Se consideraron los valores de p < 0,05 como evidencia fuerte para rechazar la hipótesis nula. Se obtuvieron estadísticas descriptivas de las variables recopiladas. Se verificó si existían diferencias en el nivel de satisfacción laboral entre las variables demográficas o entre promedios de grupos mediante el test de «t» de Student o ANOVA con post hoc de Bonferroni. Luego se hizo una matriz de correlaciones entre todas las variables explicativas para detectar multicolinealidad del modelo. Aquellas con un valor de inflación de varianza alto fueron eliminadas del modelo final. Se realizó un análisis de regresión múltiple lineal simultánea considerando como variable respuesta la satisfacción laboral, y como variables explicativas todas aquellas de la escala WCW-es. El ajuste de la bondad del modelo se reportó mediante R2 y se consideró ajustado para un valor > 0,6. La validez interna del modelo predictivo se verificó mediante bootstrapping. Finalmente, se realizaron subanálisis para identificar variables predictoras específicas para distintos grupos demográficos.
+
+ 
+
+Resultados
+
+Se encuestó a 240 odontólogos para obtener 171 cuestionarios completos. Las características demográficas de los participantes se muestran en la tabla 2.
+
+ 
+
+
+
+Tabla 2 Características de los participantes. No existen diferencias significativas de satisfacción laboral según características de edad y género
+
+
+
+ 
+
+El grado de satisfacción laboral general fue de promedio ± desviación estándar igual a 5,4 ± 1,0 de un máximo posible de 7. El nivel de satisfacción fue de 5,39 ± 1,19 en 80 hombres vs 5,52 ± 0,99 en 91 mujeres (p = 0,4367). Se encontró diferencias significativas para el grupo de odontólogos que declaran trabajar la mayor parte del tiempo en su clínica propia, con un nivel de satisfacción de 6,05 ± 0,857. El detalle de las puntuaciones por cada ítem y la satisfacción general se muestra en la tabla 3.
+
+ 
+
+
+
+Tabla 3 Estadísticas descriptivas de los ítems de satisfacción laboral. Escala de 1 (muy insatisfecho) a 7 (muy satisfecho)
+
+
+
+ 
+
+El análisis de regresión múltiple lineal simultánea muestra que la combinación de las variables predictoras explica de manera significativa la satisfacción laboral general, F (9,161) = 58,88, p < 0,001, con 6 variables contribuyendo de manera significativa a la predicción. El valor de R2 corregida fue de 0,75. Esto indica que el 75% de la variación de la satisfacción laboral general puede explicarse por este modelo (tabla 4).
+
+ 
+
+
+
+Tabla 4 Modelo de regresión múltiple simultánea donde se observa que la responsabilidad, remuneración, compañeros, horario y condiciones físicas explican de manera significativa la satisfacción laboral general
+
+
+
+ 
+
+R2 corregida = 0,75; F (9,161) = 58,88, p < 0,001.
+
+a - Variable dependiente: satisfacción laboral general.
+
+ 
+
+El análisis por subgrupo reveló que el modelo muestra distintas variables predictivas significativas entre grupos, diferencias que se muestran en la tabla 5.
+
+ 
+
+
+
+Tabla 5 Diferencias de variables predictoras según grupos demográficos
+
+
+
+Observamos que en hombres hay homogeneidad de factores internos y externos, mientras que en mujeres en su mayoría son externos. Las diferencias se pueden observar comparando los valores de p por grupo.  * - Valores < 0,05.
+
+ 
+
+Discusión
+
+Se encontró un alto nivel de satisfacción en los odontólogos encuestados, con un predominio de factores externos que explican esta satisfacción, siendo en orden de más asociados: 1) responsabilidad asignada; 2) remuneración; 3) compañeros de trabajo; 4) horario de trabajo; 5) condiciones físicas de trabajo; y 6) posibilidad de utilizar habilidades. El reporte previo de Rojas et al.12 muestra también altos niveles de satisfacción y nuestro reporte añade, por vez primera en Chile, una explicación acerca de los factores asociados a este nivel de satisfacción. Estos resultados permitirían además servir de base para comparaciones futuras, considerando el cambio en el mercado laboral producto del aumento exponencial de la matrícula universitaria. Para cuantificar este cambio, durante el 2008 el servicio de impuestos internos registró el inicio de actividades de 267 contribuyentes individuales para servicios odontológicos y 1.200 clínicas dentales, mientras que el 2012 fueron 450 contribuyentes y 1.585 clínicas17, es decir, un aumento del 68% y 32% respectivamente. La composición de la muestra sugiere el cambio demográfico que está ocurriendo en el mercado laboral dental de Chile, con una proporción equilibrada entre género, que trabajan la mitad del tiempo en el servicio público, y el resto del tiempo repartido en un servicio privado contratado y en la clínica propia. Anecdóticamente, esto podría representar un cambio comparado con épocas previas, donde los relatos de los odontólogos de más de 50 años indican que la práctica predominante era en la clínica propia. Sin embargo, el mayor cambio demográfico lo representan los grupos etarios, ya que el 56,6% de odontólogos tienen edades entre 20 a 34 años.
+
+El que los odontólogos encuestados declaren un alto nivel de satisfacción es consistente con todos los estudios realizados en otros países6–9,11,18–20, y muestra que Odontología es una carrera que ofrece un alto nivel de satisfacción profesional, tanto en Chile como en otros países. El presente estudio encontró niveles similares de satisfacción en odontólogos hombres y mujeres, jóvenes y mayores, pero se encontró una diferencia según el lugar de trabajo declarado. Los odontólogos que trabajan en clínica propia declaran una mayor satisfacción profesional. Asimismo, al examinar en más detalle qué variables podrían estar asociadas a este mayor nivel de satisfacción laboral se detectó que estos odontólogos declaran estar muy satisfechos con la responsabilidad que tienen, el horario de trabajo y los compañeros de trabajo. Esto se podría explicar porque un odontólogo que trabaja en su propia clínica está a cargo de todas las decisiones, y eso incluye el poder manejar y disponer de su tiempo, así como elegir al personal o colegas con los que trabaja.
+
+Existen algunas limitaciones en el presente estudio. En primer lugar los datos analizados corresponden a los odontólogos que aceptaron contestar el cuestionario. Si bien un odontólogo que está contento con su profesión también podría estar más dispuesto a compartir su sentimiento con otras personas, se minimizó este sesgo con un tamaño muestral apropiado. Además, la tasa de respuesta que se obtuvo (71,25%) es similar a la reportada en otros estudios de profesionales de la salud21. Otra limitación se refiere al instrumento en sí, el cual operacionaliza aspectos cuantitativos en respuestas cerradas, sin poder recoger mayor información acerca de aspectos cualitativos que podrían explicar con mayor detalle la satisfacción laboral. Por esto, los resultados deben considerarse como preliminares. Futuras investigaciones deberían utilizar metodologías cualitativas para explorar en detalle las razones que explican los hallazgos del presente estudio. Por otra parte, el constructo de la teoría de 2 factores de satisfacción laboral de la escala WCW deja fuera aspectos que podrían ser de interés en el ámbito dental, y que han sido explorados por otros estudios, como la posibilidad de especialización22, relación con los pacientes23 e inteligencia emocional. Sin embargo, el cuestionario modificado utilizado en la presente investigación se enfoca a aspectos propios de la práctica laboral odontológica. Además, esta versión modificada ha sido utilizada previamente tanto en odontólogos11 como en higienistas dentales24 y otros profesionales de la salud25, lo que permite comparar los resultados con estudios previos realizados en profesionales de otros países.
+
+Si bien los niveles de satisfacción laboral encontrados en Chile son similares a los reportados en otros países, se encontraron diferencias en los factores asociados a esta satisfacción. Por un lado parte de esta variación podría deberse a que el cuestionario utilizado fue la versión modificada de 15 a 9 ítems. Elegimos utilizar el de 9 ítems por ser el más utilizado en dentistas y se encontró que los factores externos explican mejor la satisfacción laboral de los odontólogos chilenos encuestados. Los resultados indican que todos los factores externos (horario, remuneración, condiciones físicas y compañeros) predicen de manera significativa la satisfacción laboral, y solo 2 de 5 factores internos (posibilidad de utilizar habilidades en odontólogos trabajando en la práctica privada y responsabilidad otorgada) están presentes. La teoría de 2 factores de satisfacción laboral establece que la ausencia de factores externos se asocia a la insatisfacción laboral, mientras que la presencia de factores internos se asocia a la satisfacción laboral26; son estos últimos de mayor importancia, ya que afectan de manera más permanente y estable la satisfacción laboral. Las diferencias observadas con el reporte de Goetz, quien encuentra que los odontólogos alemanes asocian su satisfacción laboral a la presencia de factores internos, podrían deberse a que la muestra de ellos tenía un promedio mayor de edad (46,1 años de promedio) y un mayor porcentaje de hombres (65,3%). En el presente estudio los odontólogos asocian su satisfacción laboral principalmente a factores externos, a saber en orden de importancia: la responsabilidad asignada (interno), la remuneración (externo), los compañeros de trabajo (externo), el horario de trabajo (externo), las condiciones físicas de trabajo (externo) y la posibilidad de usar sus habilidades (interno). Esto indicaría que existe una amenaza para la satisfacción laboral de los odontólogos en Chile. Si los odontólogos asocian su satisfacción a factores externos, como la remuneración, y considerando el aumento del mercado laboral dental (la oferta) sin que exista un aumento de la población que se atiende (la demanda), es probable esperar que los ingresos de los odontólogos disminuyan en la próxima década, afectando, por lo tanto, su nivel de satisfacción laboral. Lo mismo podría ocurrir con los horarios disponibles, las condiciones físicas de trabajo y responsabilidades asignadas. Hay que tener en cuenta que la mayoría de los odontólogos encuestados trabajan en más de un lugar. Futuras investigaciones podrían eliminar esta potencial fuente de sesgo entrevistando y seleccionando odontólogos que trabajen a tiempo completo en el servicio público, en consulta privada contratada o en consulta propia.
+
+Llama la atención el hecho de que la posibilidad de hacer acciones variadas no se asocie a una mayor satisfacción laboral. Esto podría indicar que los odontólogos chilenos enfocan su práctica en unas pocas acciones y se sienten satisfechos con esto, a diferencia de lo que reportan otros estudios, donde la variedad de acciones clínicas es un factor importante de la satisfacción laboral11.
+
+El análisis realizado se orientó a buscar aspectos que explicaran aspectos generales y comunes en la población estudiada. Si bien se podrían haber realizado subanálisis más precisos, estos habrían entregado información acerca de subgrupos particulares. Sin embargo, se realizaron subanálisis entre algunos subgrupos. Al buscar diferencias entre subgrupos, como se muestra en la tabla 5, encontramos que de los factores externos los hombres asocian la satisfacción laboral con las condiciones físicas de trabajo, las mujeres con la posibilidad de disponer del horario y ambos con las remuneraciones y los compañeros de trabajo. Los factores internos, a saber, la posibilidad de utilizar habilidades, libertad en el trabajo y responsabilidad fueron asociados significativamente con la satisfacción laboral por los odontólogos que trabajan contratados en clínicas privadas. Vale la pena recalcar que esta asociación con la satisfacción laboral se refiere a la presencia o ausencia de estos factores. Esto podría evidenciar que si bien los niveles de satisfacción son similares en todos los grupos, existen predictores distintos según el lugar de trabajo y el género. Un empleador público debería preocuparse de aquellos factores externos, mientras que quienes trabajan en el sector privado contratado asocian su satisfacción laboral a la libertad para elegir métodos de trabajo, la posibilidad de utilizar habilidades y la responsabilidad asumida. En ambos grupos el horario se asocia a la satisfacción laboral. Por otro lado, quienes trabajan en su clínica propia asocian principalmente su satisfacción laboral a la responsabilidad que tienen.
+
+En conclusión, los odontólogos encuestados declaran un alto nivel de satisfacción, siendo esta explicada en su mayor proporción por factores externos. Esta información podría ser considerada por potenciales empleadores para crear condiciones que tiendan a mejorar la satisfacción laboral de los odontólogos contratados, ya sea en el sector público o privado.
+
+Autoría
+
+La presente investigación es parte del seminario de titulación de JI y VC como parte de los requisitos para optar al Grado de Licenciado en Odontología. Escuela de Odontología, Facultad de Medicina, Universidad Austral de Chile. SU propuso la investigación, el diseño y metodología, realizó la búsqueda bibliográfica inicial, el análisis estadístico final y escribió el manuscrito. JI y VC redactaron el protocolo inicial, seleccionaron la muestra, validaron el cuestionario, recopilaron y tabularon los datos e hicieron el análisis estadístico inicial. Todos los autores corregimos y aprobamos la versión final del manuscrito.
+
+      Conflicto de intereses
+
+Los autores declaran no tener vínculo con cualquiera de los productos mencionados en este estudio.
+
+Agradecimientos
+
+Al Dr. Roberto Irribarra, presidente del Colegio de Cirujano-Dentistas de Chile y al Prof. Santiago S. Gómez, por la lectura crítica del borrador y sus valiosos comentarios. Además, al anónimo revisor por sus precisas sugerencias que enriquecieron el borrador original.

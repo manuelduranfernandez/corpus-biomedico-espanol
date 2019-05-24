@@ -1,0 +1,92 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072015000100001
+Período de wash-out en diseños experimentales cruzados con dentífrico de alta concentración de fluoruro
+
+Saliva. Fluoride. Dentifrice. Toothpaste.
+
+      Introducción
+
+El diseño experimental cruzado (crossover design) es ampliamente utilizado en muchas áreas de la ciencia, incluyendo investigaciones en odontología1, tanto para estudios in situ2 o in vivo. En este diseño cada sujeto sirve como su propio control1, pues él pasa por todos los tratamientos experimentales que están siendo estudiados durante fases diferentes (fig. 1). Su gran ventaja es la reducción de la alta variabilidad naturalmente presente en estudios que involucran humanos. Sin embargo, con el objetivo de no interferir en el tratamiento siguiente (efecto de carga, o carry-over) es importante obedecer un periodo suficiente de tiempo conocido como wash-outentre las fases experimentales, lo que asegura la eliminación (clearance) del tratamiento previo1–3.
+
+
+
+
+
+Figura 1 Esquema representativo de un estudio cruzado.
+
+ 
+
+Dependiendo del propósito del estudio y lo que está siendo evaluado específicamente, la duración de este periodo puede ser variable. De esta forma, estudios que evalúan productos con efecto antibacteriano, como la clorhexidina, que tiene una alta sustantividad, requieren un mayor periodo de wash-out, se ha sugerido 10 días4. Investigaciones en las cuales se estudian cambios en la microbiota, por ejemplo la inoculación de las bacterias probióticas, se sugiere que el periodo de wash-out sea de 14 días5 para una total eliminación de la cavidad oral. Específicamente para el uso de dentífrico fluorado de concentración convencional (1.000-1.500 ppm F)6–8 o de alta concentración (5.000 ppm F)9 la mayoría de los estudios han usado 7 días periodo de wash-out, pero sin una justificación clara de la necesidad de ese tiempo.
+
+Estudios han estimado que el F proveniente de cepillado con dentífrico de hasta 2.500 ppm F sería removido de la saliva en un corto periodo de tiempo (40-80 min)10,11, siendo 7 días un periodo de wash-out probablemente innecesario. No obstante, en el caso de dentífrico de alta concentración de F (5000 ppm F) el tiempo necesario para la eliminación de efecto residual es desconocido, y sería más crítico para la posible formación de productos de reacción en las superficies de los dientes o acumulación en las superficies mucosas. Por lo tanto, fue realizado un estudio in vivo para estimar si menos de 7 días sería suficiente para eliminar el F residual en la saliva después del uso de dentífrico de alta concentración de F.
+
+      Materiales y métodos
+
+Diseño experimental
+
+Fue ejecutado un estudio in vivo, con análisis ciego, en el que 6 voluntarios se cepillaron sus dientes 3 veces al día (después de las comidas principales con una cantidad aproximada de 1 g de dentífrico) utilizando solamente el dentífrico proporcionado por los investigadores de acuerdo al diagrama anexo (fig. 2). Los voluntarios participantes fueron estudiantes de posgrado, con una edad media de 26,5 ± 1,9 años. El estudio contempló 3 fases: a) periodo inicial o lead-in de 3 días con uso de dentífrico de placebo (DP) (0 ppm F); b) uso de DF de alta concentración de F (5.000 ppm F, base NaF y sílice como abrasivo) por 4 días; y c) wash-out con uso de DP por 3 días. Durante los 3 periodos muestras de saliva estimulada y no estimulada fueran colectadas en días fijados. Este estudio fue parte de un estudio principal que cuenta con aprobación del Comité de ética de la Facultad de Odontología de Piracicaba/UNICAMP, protocolo n.° 108/2011.
+
+
+
+
+
+Figura 2 Flujograma del experimento.
+
+ 
+
+Colecta de saliva
+
+Las colectas de saliva fueron realizadas en horario estandarizado, entre las 8-10 a.m., con los voluntarios en ayuno, sin haber cepillado sus dientes desde la noche anterior (overnigth). De esta forma las colectas fueron realizadas por la mañana en los días indicados en la figura 2. Tanto saliva estimulada como no estimulada fue obtenida de los voluntarios, de modo que se pueden observar posibles diferencias en la concentración de F entre los 2 tipos de flujos salivares.
+
+Inicialmente fue colectada saliva no estimulada durante 5 min. Esta colecta fue realizada con el voluntario en posición sentada y con indicación de no hablar durante el tiempo de colecta. Inmediatamente fue colectada la saliva estimulada masticando Parafilm®. La saliva producida durante los primeros 30 seg fue deglutida y luego toda la saliva producida durante 3 min fue colectada en un recipiente de plástico. El peso obtenido fue registrado, y considerando que el 99% de la saliva es agua (densidad 1,0 g/ml), los valores fueron transformados a ml. Utilizando el tiempo de cada colecta fue calculado el flujo salivar (ml/min).
+
+      Análisis de fluoruro en la saliva
+
+La saliva colectada fue centrifugada a 3.500 g para separar materia en suspensión (bacterias, células descamadas). El sobrenadante fue almacenado a –20 °C y luego las muestras codificadas fueron analizadas ciegamente al final del experimento para determinar la concentración de F. Las muestras descongeladas fueron tamponadas con TISAB III (1:10, v/v), agitadas y analizadas con electrodo ión-específico (Orion model 96-09, Orion Research, Cambridge, MA, EE. UU.) acoplado a analizador de iones (Orion EA-940). El electrodo fue previamente calibrado con estándares de 0,031 a 2,0 μg F/ml, también tamponados con TISAB III (1:10, v/v) y leídos en triplicado. Una regresión lineal entre concentración de fluoruro F y mV permitió determinar la concentración de F en las muestras. El promedio de la concentración de F entre los voluntarios (n = 6) (± desviación estándar [DE]) de cada día fue calculada y expresada como ppm F (μg F/ml).
+
+      Análisis de datos
+
+Distribución normal y homocedasticidad de los datos de concentración de F fue examinada utilizando la prueba Shapiro-Wilk. Debido a la distribución de los datos fueron utilizadas pruebas no paramétricas. Fue utilizado el test de Friedman para comparar la concentración de fluoruro en la saliva entre las diferentes fases (análisis pareado). La comparación entre flujo de la saliva estimulada y no estimulada en cada fase fue realizada utilizando la prueba U de Mann Whitney. Los datos fueron analizados empleando el software estadístico SPSS 22.0, con un 5% de nivel de significación.
+
+      Resultados
+
+El flujo salivar de los voluntarios fue 0,49 ± 0,23 ml/min (promedio ± DE) para saliva no estimulada y 1,56 ± 0,45 para saliva estimulada. Los resultados del análisis de F en la saliva están presentados en las figuras 3 y 4. El uso de DF de 5.000 ppm F consiguió mantener niveles de F detectables en la saliva no estimulada y estimulada (0,048 ± 0,018 y 0,041 ± 0,016 ppm F) después del periodo over-night. Los valores de F en la saliva durante esta fase fueron superiores que en las fases basal y de wash-out (p < 0,001). El periodo de wash-out inicial o lead in arrojó los valores basales de concentración de F en la saliva no estimulada y estimulada (0,010 ± 0,003 y 0,011 ± 0,006 ppm F), que fueron alcanzados después de 2 días de suspendido el uso de DF (0,010 ± 0,001 and 0,010 ± 0,002 ppm F), no presentando diferencias estadísticas entre estas 2 fases (p > 0,05). Las concentraciones de F no presentaron diferencias entre saliva estimulada y no estimulada (p > 0,05) (figs. 3 y 4).
+
+
+
+
+
+Figura 3 Concentración de fluoruro (μg F/ml) en la saliva no estimulada en función del tipo de dentífrico utilizado en los diferentes días de colecta. DF: 5.000 ppm F; DP: placebo.
+
+ 
+
+  
+
+Figura 4 Concentración de fluoruro (μg F/ml) en la saliva estimulada en función del tipo de dentífrico utilizado en los diferentes días de colecta. DF: 5.000 ppm F; DP: placebo.
+
+  
+
+Discusión
+
+El clearance salivar permite la remoción de varias sustancias de la cavidad bucal12,13, incluyendo sustancias que desearíamos mantener para beneficiarnos de sus efectos positivos, como es el fluoruro (F) para el control de la caries dental. El clearance se ve afectado por alteraciones en el flujo salivar, como sucedería en un paciente con hiposalivación12,13. En nuestro estudio investigamos la remoción de F residual en saliva después de uso de DF de alta concentración de F, utilizando voluntarios con flujo salivar normal (mayor que 0,2 ml/min para saliva no estimulada y mayor que 1,0 ml/min para saliva estimulada), por lo tanto estos datos no podrían ser extrapolados para pacientes con flujo salivar reducido.
+
+Los valores de F en la saliva durante los periodos de utilización de dentífrico placebo (0 ppm F) reflejarían el F proveniente del consumo de agua fluorada o del consumo de los alimentos preparados con agua fluorada. Los voluntarios participantes de este estudio consumieron agua fluorada (0,7 ppm F) durante el experimento por vivir en una región con óptima fluoración del agua de abastecimiento público (Piracicaba, SP, Brasil). La razón por la cual F es detectable en la saliva, se debe a que el mecanismo por el cual el agua potable mantiene niveles de fluoruro en la cavidad bucal proviene de la reabsorción de F que va a la sangre y luego subsecuentemente será secretado por las glándulas salivales14.
+
+Realizamos colecta de ambos tipos de saliva para saber si podría ser usada una u otra, buscando la existencia de variaciones en la concentración de F entre saliva estimulada y no estimulada. Los resultados no mostraron diferencia en la concentración con el aumento del flujo salivar mediante masticación. Esta similitud de las concentraciones puede ser debido a 2 posibles razones. La primera y la más simple explicación sería que la concentración del F no fue afectada por el flujo salivar, es decir, no estaría siendo diluido cuando aumenta la producción de saliva, como acontece con otros componentes salivares15. Sin embargo, la concentración puede ser levemente mayor en saliva no estimulada16. La segunda posibilidad es que la masticación del parafilm produjo liberación de F desde los tejidos blandos o proveniente del biofilm acumulado que aumentó la concentración en la saliva, sin embargo como simultáneamente el flujo está siendo aumentado, la concentración de F evaluada en la saliva final fue mantenida constante.
+
+Durante el periodo de utilización de DF de 5.000 ppm F aún fue posible detectar F en la saliva a la mañana siguiente, pues las colectas de saliva fueron programadas 10-12 h después del cepillado nocturno. La presencia de ese F residual en la saliva puede ser explicado por la reducción del flujo salivar que naturalmente ocurre durante el periodo nocturno, debido a que la producción de saliva sigue un ritmo circadiano12,13. Por lo tanto el clearance salivar sería menor si lo comparamos con una determinación después de 10-12 h durante un periodo diurno; no obstante, nuestro objetivo fue precisamente observar F presente en la saliva después del periodo nocturno.
+
+Complementario a la reducción de flujo salivar durante la noche, es predecible que residuos de F permanecieron en los tejidos blandos de la cavidad oral o que ese F proviene de depósitos de F en la superficie de los dientes. Estos residuos de F o depósitos podrían estar siendo liberados aun 12 h después del cepillado. Variaciones en el comportamiento de los voluntarios, como la duración del cepillado y el enjuague después del cepillado, han mostrado efecto en la concentración de F salivar cuando se ha analizado el clearance salivar17. En el estudio citado fue evaluada la concentración de F salivar inmediatamente al finalizar el cepillado y hasta 2 h después, mostrando que un uso de mayor concentración, mayor cantidad de pasta, mayor tiempo de cepillado y enjuague con menor volumen de agua favorecen la retención de F en la saliva. Nuestro experimento no controló estas variables para aproximarse al comportamiento real de los voluntarios, lo que podría explicar la variación de la concentración salivar de F evaluada 10-12 h después del cepillado. Sin embargo, los valores después de 2 días de suspendido el uso de dentífrico fluorado mostraron que todos los voluntarios volvieron a los valores de F basal en la saliva, siendo el comportamiento de los voluntarios aparentemente no determinantes en esta evaluación. Para clarificar estos cuestionamientos nuevos estudios son necesarios, incluyendo la identificación de la cinética del F después de uso de DF de 5.000 ppm. Este experimento correspondió a un estudio piloto, lo que justifica el bajo número de participantes, no en tanto tuvo poder estadístico suficiente para observar diferencias y cumplir con nuestro objetivo.
+
+En función de nuestros resultados podemos concluir que 2 días de wash-out son suficientes para eliminar restos de F de la saliva después de utilizado dentífrico de alta concentración.
+
+      Financiación
+
+La primera autora recibió Beca BECAS CHILE/CONICYT durante su doctorado, Res.1166/2011.
+
+  Conflicto de intereses
+
+Los autores declaran no tener conflicto de intereses.
+
+  Agradecimientos
+
+A los voluntarios por su valiosa participación. A G. Montenegro por su asesoramiento estadístico. Este estudio está basado en datos de la tesis doctoral de la primera autora (Programa de posgrado en Odontología, mención Cariología, Facultad de Odontología de Piracicaba, Universidad Estatal de Campinas, UNICAMP, Brasil).

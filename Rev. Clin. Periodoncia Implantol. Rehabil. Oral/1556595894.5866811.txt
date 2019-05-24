@@ -1,0 +1,128 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072016000100007
+Estudio comparativo sobre el comportamiento y la distribución de las tensiones en implantes dentales cortos e implantes dentales estándares en la región posterior del maxilar superior: Un estudio en elementos finitos
+
+Short implants. Finite elements method. Posterior jaw.
+
+      Introducción
+
+En la actualidad los implantes dentales cortos son una alternativa tentadora para afrontar realidades clínicas complejas, permitiendo evitar estructuras vitales, eliminando así la necesidad de efectuar procedimientos quirúrgicos complejos en situaciones clínicas donde el terreno no es favorable; maximizando la posibilidades de colocación por la mejor aceptación de los pacientes y la disminución del tiempo y del costo terapéuticos1,2. Al colocar implantes considerados «estándares» (más de 10 mm; categorizados en función de su tamaño y frecuencia de uso), estructuras vitales tales como el seno maxilar se presentan como estructuras de riesgo. La característica principal de los implantes cortos es su longitud: son aquellos iguales o menores de 8 mm3. La zona posterior del maxilar superior plantea diversos problemas, entre ellos el más frecuente es la atrofia vertical para la colocación de implantes debido a la reabsorción de la cresta alveolar que, a veces, se une a un aumento de la neumatización del seno maxilar; dicha situación minimiza o elimina efectivamente la disponibilidad y/o volumen óseo vertical4,5.
+
+Cannizzaro et al. compararon resultados entre la elevación lateral del seno frente a implantes cortos con osteótomos en crestas de 3 a 6 mm de altura y concluyeron que era preferible la técnica con implantes cortos, ya que su morbilidad fue menor6. Hasan et al. informan tasas favorables de supervivencia; además indican que el uso de implantes cortos ha mejorado en los últimos años7. Estudios como el realizado por Nedir et al. en Suiza8 arriban a la conclusión de que «la tensión máxima» se produciría alrededor de cuello del implante y dicha tensión, independientemente del largo del implante, se distribuiría en la zona cervical del mismo, lo que explicaría y avalaría el uso de implantes dentales cortos. Además, los estudios de Lum con análisis de elementos finitos demostraron que la mayor parte del estrés de las cargas oclusales se transmite en la porción cervical del implante, y pocas fuerzas van a llegar a la porción apical del mismo, por lo cual la longitud del implante sería un factor menos crítico que su diámetro9 (fig. 1).
+
+
+
+
+
+Figura 1 Radiografía periapical (zona primer molar superior) que muestra una disponibilidad ósea vertical de 6 mm (izquierda); esquematización de densidad ósea tipo 3 y tipo 4 (derecha).
+
+ 
+
+Los factores biomecánicos desempeñan un papel importante en el éxito o el fracaso del proceso de remodelación ósea alrededor del implante. No son fuerzas axiales solamente, sino una combinación de fuerzas oclusales y oblicuas que da un patrón de masticación más realista10.
+
+Existen varios métodos para estudios biomecánicos, como son la fotoelasticidad y el método de elementos finitos (MEF).
+
+El MEF es un método de formulación matemática. El poder del MEF reside principalmente en su versatilidad y se puede aplicar a diversos problemas físicos, dado que consiste resolver numéricamente las ecuaciones que describen el comportamiento del fenómeno físico a estudiar, asegurando que el error entre la solución exacta y la solución aproximada sea mínimo. En este trabajo, la región geométrica es un modelo tridimensional de un implante, su corona y una porción de la región ósea determinada, tal que sea representativo del comportamiento físico del problema.
+
+      Objetivo general
+
+Comparar la distribución de las tensiones entre un implante dental corto (6 mm de longitud: 4,1 y 4,8 mm de diámetro) oseointegrado en distintas disponibilidades óseas verticales propias del paciente en el sector posterior del maxilar superior (6 mm, 5 mm, 4 mm) y un implante estándar (10 mm de longitud y 4,1 de diámetro) en un terreno mixto formado por hueso propio del paciente y hueso regenerado con técnicas quirúrgicas previas como lo es el levantamiento de piso de seno maxilar.
+
+      Objetivos específicos
+
+Conocer la distribución de las tensiones de cada uno de los modelos biológicos creados para el presente estudio.
+
+Estudiar si el aumento del diámetro del implante corto (6 mm de longitud y 4,8 mm de diámetro) incide de manera favorable en la distribución comparativa de las tensiones entre implante corto oseointegrado e implante dental estándar en las características citadas en el objetivo principal.
+
+Analizar si los resultados obtenidos en los distintos modelos en 3D, creados con las variables propuestas, avalan el uso de implantes dentales cortos en el sector posterior del maxilar superior, bajo las condiciones de este estudio con MEF.
+
+       Material y métodos
+
+El método utilizado es el MEF. La región geométrica del problema se dicretiza, procedimiento que se denomina mallado. En la malla se pueden mezclar elementos de diferentes tipos, formas y propiedades físicas (fig. 2). El software de MEF que se utiliza en este trabajo es ABAQUS 6.10 de la empresa Dassault Systèmes®.
+
+
+
+
+
+Figura 2 Esquematización del modelo 3D en el que se observa adherido a la corona la pieza adicional.
+
+ 
+
+Se crearon los modelos en MEF y se tomó una perfecta unión de las interfaces simulando un 100% de oseointegración. Se asumió que todos los materiales se comportaron como isotrópicos y homogéneos, y que el comportamiento mecánico del hueso es lineal elástico (fig. 3).
+
+
+
+
+
+Figura 3 Modelos 3D. C: corona; I: implante; P: palatino; SM: seno maxilar; V: vestibular.
+
+ 
+
+Primer modelo: se unieron digitalmente las piezas obtenidas. Terreno óseo: 6 mm de altura, 8 mm ancho V-L, 10 mm M-D. Hueso: tipo III. Implante: 6 mm de largo, 4,1 de diámetro. Corona: porcelana sobre metal.
+
+Segundo modelo. Terreno óseo: 5 mm de altura, 8 mm ancho V-L, 10 mm M-D. Hueso: 5 mm tipo III y 1 mm hueso tipo IV. Implante: 6 mm de largo y 4.1 mm de diámetro. Corona: porcelana sobre metal.
+
+Tercer modelo creado. Terreno óseo: 4 mm de altura, 8 mm ancho V-L, 10 mm M-D. Hueso: 4 mm tipo III y 2 mm tipo IV. Implante: 6 mm de largo y 4,1 mm de diámetro. Corona: porcelana sobre metal.
+
+Cuarto modelo creado. Terreno óseo: 10 mm de altura, 8 mm ancho V-L, 10 mm M-D. Hueso: 6 mm tipo III y 4 mm hueso regenerado (Bio-Oss®) con técnicas quirúrgicas previas. Implante: 10 mm de largo y 4,1 mm de diámetro. Corona: porcelana sobre metal.
+
+Creación del quinto modelo: se unen digitalmente las piezas obtenidas. Terreno óseo: 6 mm de altura, 8 mm ancho V-L, 10 mm M-D. Hueso: tipo III. Implante: 6 mm de largo, 4,8 de diámetro. Corona: porcelana sobre metal. Luego de creados los modelos, se proporcionó al programa del MEF las propiedades de cada material de los modelos: propiedades mecánicas, módulo de elasticidad y condiciones de carga, que van a influir en las tensiones y en la distribución de las mismas en la estructura (módulo de elasticidad y coeficiente de Poisson).
+
+ 
+
+Implante utilizado: marca: Straumann®. De titanio, grado 4, módulo de elasticidad 110 (GPa), Poisson ratio v 0,35.
+
+Propiedades de la corona: metal que la sustenta: CrCo alloy módulo de elasticidad, 0,218 (GPa) Poisson ratio v 0,33. Porcelana: módulo de elasticidad 68,9 (GPa) Poisson ratio v 0,28.
+
+Zona primer molar superior: hueso tipo III: hueso cortical 1 mm de módulo de Young 13,7 (GPa) Poisson ratio v 0,3. Hueso esponjoso: módulo de Young 1,37 (GPa), Poisson ratio v 0. y 1 mm de hueso neoformado con características tipo IV: hueso cortical 1 mm de módulo de Young 13.7 (GPa), poisson 0,3. Hueso esponjoso Young 1.10 (GPa), Poisson ratio v 0,3. Hueso regenerado con módulo de elasticidad de 1,69 (GPa) a los 60 días.
+
+Todo sometido a fuerzas de oclusión: 150 N en ángulo de 30° norma ISO 14801:200311, las mismas son cargas estáticas.
+
+ 
+
+Resultados
+
+      Máximos valores de tensiones se concentran en la porción cervical del implante.
+
+Los resultados obtenidos se sintetizan en tablas, en donde para cada componente (implante, hueso compacto, hueso esponjoso, biomaterial Bio-Oss®) de cada modelo creado para este estudio le corresponde un valor máximo de tensiones equivalentes expresado en Mises (tabla 1). Las tensiones en el implante, en todos los modelos, están dentro del mismo rango. Además, observamos que a mayor módulo de elasticidad de los elementos que componen los modelos, mayor es la absorción de las fuerzas por parte de ellos, por lo que el hueso regenerado Bio-Oss® no absorbe fuerzas y sí lo hace el implante dental (tabla 2). Los niveles de tensiones en el hueso cortical fueron similares para la mayoría de los modelos, a excepción del modelo en el cual se incrementó el diámetro del implante a 4,8 mm, en el cual se produjo una marcada disminución de las tensiones. La comparativa de las tensiones en el hueso esponjoso tipo III, IV y el biomaterial Bio-Oss® nos muestra que existe una diferencia en las tensiones producidas en el hueso Bio-Oss®, la misma es de valores muy escasos, ya que por su módulo de elasticidad bajo estas absorben escasas tensiones. Además, es preciso destacar que en su composición el hueso regenerado no presenta cortical ósea conteniéndolo. El hueso regenerado Bio-Oss®está localizado en la porción apical del implante, por consiguiente, queda lejos de la zona de mayor concentración de los esfuerzos (tabla 3).
+
+
+
+Tabla 1 Modelos creados y valores máximos en tensiones (Mises) para el implante
+
+
+
+
+
+Tabla 2 Modelos creados y valores máximos en tensión es (Mises) para el hueso compacto
+
+
+
+
+
+Tabla 3 Resultados tensionales en Mises en hueso esponjoso III, IV y regenerado
+
+
+
+ 
+
+Discusión
+
+La rehabilitación mediante implantes para la sustitución del primer molar superior es un problema común en la práctica odontológica diaria debido a la frecuente atrofia vertical y neumatización del seno maxilar. Según las investigaciones de Chung et al. y Misch et al., la longitud del implante fue el factor más significativo en la estabilidad secundaria12,13. En la revisión bibliográfica de artículos publicados encontramos que la pérdida de implantes aumenta con el uso de implantes cortos14. En un artículo posterior, Winkler et al. realizan una revisión de 3.000 casos con implantes cortos seguidos durante al menos 3 años, determinaron que un tercio de ellos fracasa15. Aunque existen publicaciones más recientes que los avalan, debido a que los protocolos rehabilitadores protésicos han evolucionado en los últimos años por los avances en los procedimientos de la cirugía implantológica, al igual que el desarrollo de los materiales que conforman los implantes; recientemente Curto-Aguilera publicó sobre la base de una revisión sistemática bibliográfica de datos en PubMed y Scielo sobre los últimos 5 años hasta 2012 de publicaciones referidas a implantes cortos y sus tasas de supervivencia clínica, estableció valores de éxito entre el 96,6 y el 99,3%16. Es así que su uso es una alternativa terapéutica predecible a corto y mediano plazo17,18. Lo expuesto avalaría el uso de implantes dentales cortos, acompañado por el artículo de Nedir et al., quienes a lo largo de 7 años en Suiza destacan que los implantes cortos no fallaron más que los estándares, siendo su tasa de éxito de un 99,40%8.
+
+En cuanto a los estudios de análisis por el MEF, encontramos que un estudio de análisis biomecánico concluye que aumentando la longitud del implante, solo puede aumentar la tasa de éxito hasta cierto punto. El uso de implantes cortos no ha sido recomendado extensamente porque se cree que las fuerzas oclusales deben disiparse en un área mayor que aumenta con la longitud del implante. Aunque estudios biomecánicos (MEF) han mostrado que las fuerzas oclusales son distribuidas principalmente a la cresta del hueso, en lugar de hacerlo uniformemente a través de la totalidad del área entera de la interfase del implante-hueso. Estas fuerzas normalmente son bien toleradas por el hueso. Esto puede ser una razón de por qué la longitud del implante no está relacionada linealmente con la estabilidad biomecánica19.
+
+En la misma categoría de evaluación, nos encontramos con el realizado en 2010 por Hasan et al. En este trabajo, se presenta un análisis biomecánico del implante dental corto. Se trata de un análisis científico profundo del impacto mecánico y biomecánico de la longitud y el diámetro reducidos de los implantes. Una de las limitaciones del estudio fue que la situación anatómica no fue reproducida perfectamente. Pero, en conclusión, los implantes cortos ofrecen varias ventajas quirúrgicas comparadas con implantes más largos. Geng et al., en una revisión de la literatura sobre la aplicación de los elementos finitos en la implantología, también relacionan como parámetro el diámetro y la longitud que pueden influir en la distribución de las fuerzas, aunque el estudio no se aplica a los postes dentales; concuerdan con la tendencia de que las longitudes cortas pueden concentrar más fuerzas que longitudes largas20. En relación con la distribución del estrés en implantes de diferentes longitudes, en el estudio realizado por Koca et al. las imágenes obtenidas de la simulación muestran que las áreas de estrés (en rojo y amarillo) se concentran en la zona correspondiente a la cortical ósea en el maxilar y en el cuello del implante. Esto explicaría la alta tasa de supervivencia de los implantes cortos21.
+
+En nuestro estudio observamos en todos los MEF creados que la mayor distribución de las fuerzas masticatorias en Mises se concentra en la porción cervical del implante; ello coincide con otros artículos, como el de Koca et al., que realizaron un estudio con representación de los lugares donde se acumulaba el estrés en los implantes dependiendo de sus longitudes, observando que las áreas de estrés se concentran en la zona correspondiente a la cortical ósea en el maxilar y en el cuello del implante21. Asimismo, Lum manifiesta que la mayor parte de las cargas oclusales se transmite en la porción cervical del implante y pocas fuerzas van a llegar a la porción apical del mismo9.
+
+Según los resultados obtenidos, observamos que a mayor módulo de elasticidad de los elementos que componen los modelos, mayor es la absorción de las fuerzas por parte de ellos, por lo que el hueso regenerado Bio-Oss® no absorbe fuerzas y sí lo hace el implante dental. Las tensiones en el hueso cortical en los modelos de 6 mm, 5 mm, 4 mm y regenerado Bio-Oss® no presentan diferencias según el análisis de comparación de valores de tensiones, pero en el modelo que aumentamos el diámetro del implante se produce una marcada disminución de las tensiones en el hueso; ello se traduciría en menor riesgo de absorciones óseas que conllevan al fracaso de los implantes. La comparación de tensiones en el hueso esponjoso tipo III, IV y Bio-Oss® nos muestra que existe una diferencia en las tensiones producidas en el hueso regenerado de valores exiguos, ya que por su módulo de elasticidad bajo estas absorben escasas tensiones.
+
+Es preciso destacar que en su composición el hueso regenerado no presenta cortical ósea, además está localizado en la porción apical del implante, por consiguiente, lejos de la zona de mayor concentración de las fuerzas. Cuando se habla de la longitud del implante como un parámetro a valorar en la mejora de la osteointegración y del éxito terapéutico, se deben considerar el valor y la importancia de otro parámetro como es el diámetro. El quinto modelo creado con diámetro de 4,8 mm muestra valores que favorecen la baja de la tensión en Von Mises en el hueso en relación con los otros modelos. Encontramos así plena y destacable coincidencia con los artículos de Anitua et al. y de Petrie y Williams, que afirman que el máximo estrés óseo es prácticamente independiente de la longitud del implante y que es más importante el diámetro que la longitud del mismo2,22.
+
+      Conclusiones
+
+De los resultados obtenidos concluimos que la máxima concentración de las fuerzas se observó a nivel cervical del implante, por lo que inferimos que dicha localización es independiente de la longitud del implante y que es un importante y favorable factor el aumento del diámetro. El hueso regenerado desde el punto de vista biomecánico no soporta fuerzas por su escasa resistencia mecánica y lejanía del sitio de mayor concentración de fuerzas. La colocación de implantes cortos en hueso de baja calidad parecería posible, aunque recomendamos mayores investigaciones para llegar a conclusiones más categóricas dado que el MEF es un método cuantitativo y no contempla patrones masticatorios dinámicos. Finalmente, el criterio de elección implantológico ante las diversas situaciones de terreno de implantación dependerá del nivel de complejidad quirúrgica y de la experiencia clínica del operador (curva de aprendizaje).
+
+      Conflicto de intereses
+
+Los autores declaran no tener ningún conflicto de intereses.

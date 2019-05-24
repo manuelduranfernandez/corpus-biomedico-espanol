@@ -1,0 +1,74 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072012000100001
+Perfil bibliométrico de la odontología chilena, 2001-2010
+
+INTRODUCCIÓN
+
+En la actualidad, la producción del conocimiento científico y la generación de un campo comercial (patentes, relación con el sector privado, entre otras) dentro de los centros de investigación hacen imprescindible la necesidad de tener herramientas de medición como son los análisis bibliométricos(1). Éstos, son ejercicios para el eficiente desarrollo de la investigación, permitiendo caracterizar la producción científica de personas e instituciones, tanto en términos cualitativos como cuantitativos, permitiendo reducir al mínimo de la subjetividad inherente a la indexación del conocimiento en un campo determinado de la ciencia(2,3).      	Gracias a estas evaluaciones podemos comparar realidades e identificar áreas fuertes/débiles, potenciales/consolidadas, dispersas/concentradas, con lo que podemos tener una orientación para priorizar investigadores y/o líneas de investigación, mediante la adjudicación de recursos, más allá de la calidad que promete un proyecto o protocolo(1,2).      	Las 2 medidas de mayor importancia en estas evaluaciones son las de productividad y el  factor de impacto (FI). La productividad es definida como la cantidad de publicaciones y generalmente solo se incluyen a los artículos. El FI fue descrita por primera vez en 1955 en Estados Unidos y corresponde al cuociente entre el número de citas del año en curso a todos los artículos publicados durante los 2 años previos y el número de dichos artículos(4,5). Como una forma de sintetizar estas 2 medidas en un solo número se han diseñado varios índices(6), siendo el más usado el factor h, que corresponde al valor de n publicaciones que tengan al menos n citas(7), vale decir, un investigador con un factor h de 13 tiene 13 publicaciones con al menos 13 citas cada una.      	Pero no todas las publicaciones ni citaciones son consideradas para estos análisis, actualmente se utilizan principalmente aquellas indexadas en 2 bases de datos especialmente diseñadas para estos fines, siendo la más conocida y utilizada Thomson-Reuters (ex-ISI), aunque en los últimos años ha entrado con fuerza el uso de Scopus (Elsevier) debido principalmente a que es un índice más inclusivo y representativo que ISI(8), situación que ha sido subsanada en algún grado con el proceso de internacionalización que ha llevada Thomson-Reuters desde el 2006(9), el que logró indexar entre miles de revistas de carácter regional a varias del ámbito biomédico chileno(10,11).      	A pesar de la utilidad de estas evaluaciones, es poco frecuente encontrar publicaciones enfocadas a evaluar la ciencia odontológica(12-16), menos aún en Latinoamérica(17,18) y para el caso de Chile donde solo encontramos presentaciones en congresos(19).      	Dado lo anterior se hace necesario contar con datos que nos permitan conocer cuál es la realidad actual de la investigación odontológica en Chile, el carácter de su evolución en los últimos años y sus posibles caminos de desarrollo futuro. El objetivo de la presente investigación es describir el perfil bibliométrico de la odontología chilena entre los años 2001 y 2010.
+
+ 
+
+METODOLOGÍA
+
+Se realizó un estudio de tipo descriptivo para determinar las características bibliométricas de la odontología chilena, el que tuvo un carácter retrospectivo para la evaluación de la producción y de corte transversal para el impacto. Para ello, se incluyeron sólo las publicaciones indexadas entre los años 2001 a 2010 en la base de datos Science Citation Index Expanded (SCI-E) de Thomson Reuters.      	Para la determinación de las publicaciones se utilizó la búsqueda avanzada  de la plataforma Web of Knowledge (WOK), en julio de 2011, utilizando un filtro por país (Chile), tema (Dentistry, Oral Medicine & Surgery) y afiliación de los autores (Dentistry u Odontology), tal como se muestra a continuación:
+
+(CU=CHILE AND SJ=(DENTISTRY ORAL SURGERY MEDICINE)) OR (AD=(DENT SAME CHILE) OR AD=(ODONTOL SAME CHILE))   	El objetivo de aplicar este algoritmo de búsqueda es incluir en el análisis a todas las publicaciones en revistas del tema "Dentistry, Oral Surgery and Medicine" con al menos un autor chileno, sumando a todas las que bajo este y otros temas incluyan al menos un autor con afiliación a una institución odontológica chilena, de esta manera tenemos una  visión más amplia e inclusiva de lo que los autores chilenos en el área odontológica están publicando a nivel internacional. Desde los resultados que arrojó la aplicación de este algoritmo se aplicó un filtro para incluir solo las publicaciones tipificadas como Articles.      	A partir de estos resultados se realizó un Citation Report y sucesivos Analize Results, en los cuales se determinaron las variables: producción y número de citas por año (impacto), así como la cantidad de publicaciones por investigador, revistas en las que se publica, instituciones, naciones co-autoras y temas de publicación.      	Para facilitar un análisis comparativo se realizó un análisis por quinquenios, 2001-2005 y 2006-2010, así como el bienio 2009-2010, con el fin de apreciar de mejor forma la evolución bibliométrica en estos últimos 10 años. La tabulación y presentación de los datos se realizó con el software MS Excel 2003.
+
+ 
+
+RESULTADOS
+
+Para todo el período en estudio se hallaron 195 artículos, con un promedio anual de 19.5 ± 9.55 artículos, la distribución por años se aprecia en el Gráfico 1. Para el primer quinquenio la producción media anual fue de 12.8 ± 5.93 y en el segundo de 26.2 ± 7.6, en el último bienio fue de 31 ± 1.41.      	Los 195 artículos recibieron un total de 338 citas durante el período estudiado, promedio de 1.73 por artículo. El FI promedio para el primer quinquenio fue de 1.18 ± 0.3 y de 1.82 ± 0.45 en el segundo, para el último bienio tuvo un valor de 1.73 ± 0.36, los valores para cada año se muestran en el Gráfico 2. La ciencia odontológica chilena, para el período estudiado, tuvo un factor h de 21.     
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+En la Tabla 1 se muestran los artículos más citados para el período en estudio, el número de citas incluye aquellas realizadas hasta julio de 2011. En las Tablas 2 y 3 se muestran respectivamente los autores e instituciones más productivas para el período total, primer quinquenio, segundo quinquenio y último bienio. En la Tabla 4 se exponen las revistas con la mayor cantidad de artículos chilenos publicados para los períodos de tiempo anteriormente mencionados.      	Si consideramos los temas (áreas del conocimiento) de las revistas donde se publica, encontramos que para todo el período los más representativos fueron Odontología, Medicina y Cirugía Oral con 133, Anatomía y Morfología con 16, Medicina Interna y General con 11, Patología con 8, Salud Ocupacional, Ambiental y Pública con 5 y Cirugía también con 5.      	En términos de cooperación internacional la Tabla 5 muestra los países con mayor cantidad de artículos en coautoría.      	Solo 46 artículos declararon financiamiento de alguna agencia, las más representativas fueron CONICYT a través de alguno de sus fondos con 15 apariciones y la Universidad de Chile (UChile) con 5.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+DISCUSIÓN   En la última década, la producción científica odontológica de Chile muestra una tendencia al alza en el número de artículos publicados, duplicándose en los últimos cinco años, y aumentando la calidad (medida a través del FI) de su producción; sin embargo, lo anterior parece haber tocado techo el año 2008 cuando se alcanzó un FI de 2.51 que luego ha bajado en 2009 (1.98) y nuevamente en 2010 (1.48), esto es preocupante ya que denotaría una incipiente pérdida de la calidad de la investigación dental chilena, cuestión que debe ser vigilada durante los próximos años.      	Entre el año 1999 y 2003 Chile se ubicaba en la posición 39º del ranking mundial de publicaciones ISI odontológicas, liderando este ranking EE.UU., Reino Unido y Japón, quienes concentran mas del 60% de la producción total de la muestra(5,16). En Latinoamérica, nuestro país se encontró superado por Brasil (6º) Argentina (34º) y México (38º). Dicha situación debería haber mejorado o al menos mantenido, considerando el crecimiento de la producción, sin embargo, no existen estudios recientes de carácter global que lo confirmen(5).      	En términos cualitativos vemos que existe una fuerte concentración de quienes generan las publicaciones, con un núcleo posicionado en la UChile y la investigación en periodoncia; si bien esto es positivo en términos de fortalecer una línea de investigación de alto impacto y visibilidad internacional, también implica que se pueden dar los vicios de mercados monopólicos en que las oportunidades de fortalecer otras líneas o fuentes de investigación se ven disminuidas, una forma de presentación del "efecto Mateo"(20).      	Lo anterior queda reflejado en la tímida aparición de otras instituciones al rezago de la UChile en la generación de publicaciones, entre ellas destacan las universidades de Concepción (UdeC), Católica (PUC), de Valparaíso (UValpo) y de la Frontera (UFro), aunque esta última con un alto porcentaje de publicaciones endogámicas, en el International Journal of Morphology, que han generado una bajísima cantidad de citas, esto pone en duda sus niveles de producción científica y podrían ser, en parte, responsables de la baja del FI en el último bienio.      	También encontramos una alta concentración en relación a los autores, donde Jorge Gamonal domina ampliamente todo el período, seguido por otros autores afiliados a la UChile y Patricio Smith de la PUC.      	Vemos un bajo porcentaje de cooperación internacional y además concentrada en el núcleo previamente mencionado, lo que era esperable dada la relación existente entre productividad, calidad (impacto) e internacionalización de las publicaciones(15,21), por tanto fortalecer la cooperación internacional es una estrategia vital para el crecimiento con calidad de la ciencia odontológica del país.      	En términos de financiamiento solo 1 de cada 4 publicaciones declara ser apoyada por algún fondo, sin embargo, esta cifra puede no representar la realidad dado que no siempre se especifican dichas fuentes o son requeridas por las revistas. En nuestro pais, los fondos concursables son transversales a todo tipo de investigador y dependen netamente del campo científico y al monto necesario para el desarrollo del proyecto. Estos fondos se pueden obtener en los mismos centros universitarios y también en instancias gubernamentales como es la Comisión Nacional de Investigación y Tecnología (CONICYT) dependiente del Ministerio de Educación.      	El aumento de recursos públicos en investigación permite alcanzar un mayor número de publicaciones en revistas indexadas. Como es el caso de China, donde el 2009 tuvo una tasa de crecimiento en publicaciones de 227%, cifra estrechamente relacionada con el apoyo del gobierno a la investigación científica en la odontología(13), esto refuerza la idea que el crecimiento de la producción en investigación dental va de la mano con lo emergente que sea un país, tal como ha sucedido en Brasil(22).      	El amplio déficit de conocimiento que se observa en la mayoría de los países en desarrollo genera una profunda brecha social interna y con los países desarrollados, que no cesó de agravarse desde el salto productivo que representa en la economía mundial el advenimiento de las nuevas tecnologías (informática, robótica, electrónica, biotecnologías, etc.). El gasto nacional en investigación y desarrollo permite hacer una primera aproximación al potencial científico y tecnológico de las naciones. De los 25 mil millones de dólares invertidos por el mundo en 1992 en ciencia y tecnología, el 83% fue realizado por EE. UU. (38.5%), la Unión Europea (28.3%) y Japón (15.8%). En América Latina representa apenas el 1% de los gastos mundiales y el 1.4% de la producción científica mundial(23).      	Vemos que la ciencia odontológica chilena está en un expectante y floreciente período de crecimiento científico con marcadas líneas de investigación. Esto puede deberse a que la valoración de la clínica sobre la base de evidencia ya no se considera una cuestión de filosofía, sino el resultado de la evolución de las ciencias de la salud y, al mismo tiempo, de una disminución en la importancia de los antiguos dogmas, porque es en los científicos donde los profesionales clínicos buscan los estudios pertinentes que proporcionan las respuestas a las peticiones de sus pacientes(3).      	El presente trabajo es una primera aproximación formal a la manera en que se hace ciencia odontológica en Chile, donde si bien hallamos un progresivo aumento de la producción en los últimos 10 años, este crecimiento no está exento de debilidades como la alta concentración de las fuentes productoras y la baja proporción de cooperación internacional, pero lo que más preocupa es el estancamiento del número de publicaciones en los últimos 3 años y la baja de la calidad (medida por el FI) en 2009 y 2010; todas ellas, situaciones que deben seguir siendo vigiladas y enfrentadas con estrategias que permitan mantener un crecimiento con calidad de la producción científica de la odontología chilena. 
+
+ 
+
+CONFLICTOS DE INTERÉS
+
+Los autores declaran no tener conflictos de interés.

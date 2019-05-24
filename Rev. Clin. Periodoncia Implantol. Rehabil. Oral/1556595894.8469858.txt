@@ -1,0 +1,128 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072016000200003
+Registro interoclusal digital en rehabilitación oral: «Sistema T-Scan® III»: Revisión bibliográfica
+
+  
+
+Introducción
+
+Actualmente en la práctica odontológica diaria aún se utiliza el papel de articular como principal método de visualización de contactos oclusales. Actualmente existe un desarrollo tecnológico disponible que nos permite alcanzar otros niveles de análisis más exactos. El software de T-Scan® III procesa la información recibida a través de una lámina transductora intraoral en nuestro ordenador, registra la intensidad del contacto, ubicación del mismo en la arcada, generación de gráficos donde visualmente podemos estimar el lugar de mayor o menor presión. Estos datos pueden ser guardados en un archivo o libro electrónico y poder comparar esta información con datos futuros y ver si existen cambios.
+
+El sistema T-Scan® III utiliza láminas delgadas sensibles a la presión, y es reportado como un excelente medio diagnóstico, superior a los métodos convencionales, ya que permite registrar la fuerza oclusal de contactos en máxima intercuspidación, graba la secuencia de aparición en el tiempo de los mismos, registra movimientos de lateralidad y protrusión, también contactos prematuros en oclusión céntrica, contactos en desbalance céntrico, excéntrico y contactos con sobrecarga; datos de gran importancia al iniciar y terminar cualquier tratamiento odontológico, ya que el equilibrio de las fuerzas oclusales es la llave para el éxito en el largo plazo. Este método se ha descrito como preciso y confiable, y cuya exactitud ya ha sido demostrada en estudios experimentales1, pero aún existen pocos estudios clínicos validados científicamente que usen estos transductores de presión2.
+
+El objetivo de esta revisión bibliográfica es presentar una actualización acerca del desarrollo del transductor intraoral del sistema T-Scan® desde su versión inicial hasta la actual o T-Scan® III, describir cómo funciona la medición y el registro digital de las fuerzas oclusales, además de analizar la validez y confiabilidad del dispositivo y de resultados en estudios recientes que utilizan este sistema digital de registro oclusal, sus indicaciones y aplicación clínica en el análisis de las relaciones dentarias en oclusión antes y después de tratamientos de rehabilitación oral.
+
+    Materiales y método
+
+Se utilizó una metodología de revisión no sistemática de la literatura, con una combinación de términos específicos de búsqueda, y las fuentes son: en Google se buscó con las palabras clave para la búsqueda «T-Scan® III-análisis oclusal» y solo se seleccionó la información entregada por los fabricantes acerca del dispositivo y de los tipos de sensores de Tekscan Inc. En Pubmed se buscó por los mismos términos y arrojó 306 artículos relacionados. De estos se seleccionó los que tenían relación con odontología a través de su título y su aplicación clínica. Se revisaron 10, pero se eliminó uno por corresponder a un estudio con Cone-Beam. Luego se introdujo «T Scan III» y se obtuvo 18 respuestas, de las cuales se descartaron 4 por ser de temática médica. De los 23 artículos que quedaron de ambas búsquedas se repetían 8, por lo que quedaron 15 reportes que fueron sometidos a la revisión de sus resúmenes y se aplicaron los criterios de inclusión (que cumplen con mostrar aplicaciones del T-Scan® III, disponibles en inglés, español o portugués del año 2000 en adelante) y los de exclusión (reporte de casos, otros idiomas y anteriores al año 1999 inclusive). Finalmente se utilizaron 10 artículos.
+
+Marco teórico
+
+El equipo T-Scan original fue inventado por el Dr. William Maness en 1987 en la Universidad de Tufts (Medford/Somerville, Boston, Massachusetts, EE. UU.). Este dispositivo se diseñó para medir fuerzas relativas de mordida. Como resultado del análisis obtenido su fabricante afirma que el sistema es capaz de hacer las siguientes acciones diagnósticas (Tekscan Inc.)3:
+
+Valoración de fuerzas oclusales relativas.
+
+Registro de datos.
+
+Determinación de contactos prematuros.
+
+Estudio y manejo del equilibrio oclusal en pacientes con dentición natural, con rehabilitaciones coronarias completas o restauraciones sobre implantes.
+
+Herramienta de educación para el paciente.
+
+Manejo de fuerzas oclusales en pacientes periodontales.
+
+Aplicación en desórdenes temporomandibulares.
+
+      La empresa Tekscan Inc. desarrolla sensores de presión para mediciones de fuerza en distintos ámbitos industriales, medicina y telefonía. Su principal característica es que son sensores delgados que recolectan y digitalizan la distribución de presión. Su aplicación en odontología abarca áreas como la rehabilitación, la ortodoncia y la oclusión. El fabricante entrega un software complementario que analiza la distribución de la presión, recolecta y graba la información. Este método de análisis a través de las láminas transductoras ha demostrado tener una precisión aceptable2 (fig. 1).
+
+ 
+
+
+
+
+
+Figura 1 Sistema T-Scan® III instalado en notebook, tal como se utiliza en la clínica odontológica.
+
+Los sensores son versátiles y de gran resolución, su espesor es de 100 μm y se define como una lámina táctil flexible que en su exterior está cubierta por poliéster que permite su uso intraoral en humanos. En su interior tiene una configuración de unidades de celdas de carga y estas captan las presiones. Son electrodos distribuidos en forma de patrones en columnas y filas que crean una célula sensible, o sensel, y tienen un rango de presión de 0 a 175 mpa (Tekscan Inc, 2013).
+
+En el estudio de Throckmorton2 de calibración del T-Scan® III indica que este sistema, al registrar la medida de máxima fuerza de mordida, sería una excelente herramienta diagnóstica. Tres factores importantes en el diseño de los sensores son los más relevantes: el tamaño, el espesor y el último, pero muy importante, la calibración del sensor, junto al entrenamiento del odontólogo para usar correctamente el instrumento (fig. 2).
+
+
+
+
+
+Figura 2 Diagrama de distribución de potenciales eléctricas del sensor de presiones. T-Scan® III. Tomado de Tekscan Inc (www.tekscan.com). T-Scan® III trae diseños en 2 tamaños: grande con 1.350 sensels y pequeño con 1.122 sensels (fig. 3). Esto permite que puedan registrarse pacientes con arcos dentarios pequeños y grandes, obteniendo apropiada información.
+
+ 
+
+
+
+
+
+Figura 3 Láminas transductoras en los 2 tamaños que provee el fabricante (grande y pequeño).
+
+Throckmorton2 recomienda que el sensor sea lo más delgado posible para evitar que se produzcan fuerzas deflectivas durante el cierre y poder obtener el máximo de fuerza oclusal de cierre. El sistema provee 8 formas diferentes de configuración. Cada sensel recoge un porcentaje del máximo de fuerza, que es grabado como una película o vídeo de máximo 10 seg. Cada cúspide individual del diente en cierre de mordida sensibiliza si es suave a 25 sensels hasta 250 sensels, si es el máximo de fuerza en cierre.
+
+El espesor del sensor es de 0,1 mm, pero es importante saber que si el sensor es demasiado delgado, según el fabricante, se pueden producir daños al aplicarse grandes fuerzas o saturarse la imagen, dando como resultado un registro inexacto y una sumatoria de fuerzas inadecuada. El grabado de las fuerzas varía dependiendo del grado de fuerzas que es aplicado estimulando a uno o a varios sensels.
+
+La confiabilidad del grabado de fuerzas absolutas con T-Scan® III requiere primero reducir la varianza del resultado de posicionar en forma correcta el sensor y de la saturación individual del mismo. En otro trabajo de Throckmorton4 la varianza ha sido reducida a límites aceptables desde cada sensor. Estos han sido calibrados con una fuerza conocida en pacientes portadores de prótesis totales. Las prótesis se montaron en bases de yeso piedra y simulando la resiliencia de la mucosa se puso una delgada capa de poliuretano. Se llevaron a laboratorio y se hicieron ensayos controlados con fuerzas conocidas de 0-30 kg (0-300 N). Estas se midieron con un instrumento ya usado para investigaciones anteriores in vitro para medir cargas mandibulares en laboratorio Bullstone®. A cada par de dentaduras se interpuso el sensor en máxima intercuspidación; su fabricante recomienda seleccionar el que produce el máximo de niveles, porque es el transductor que da el máximo de información. Se realizaron cargas de 10, 15, 20, 25 y 30 kg (100 a 300 N). El tamaño del espectro depende del tamaño de la carga efectuada. Tekscan Inc recomienda precargar todos los senseles o celdas sensibles antes de registrar la primera medición, esto calibra el sensor y mejora la confiabilidad. Por el diseño de este estudio es solo aplicable a pacientes con dentaduras totales. Concluye que la distribución de fuerzas oclusales en los modelos experimentales con o sin guarda (placa estampada termoplástica) sensibiliza el sensor, pero la mayor precisión de la medición se logra sin interponer ningún tipo recubrimiento sobre los elementos dentarios.
+
+El artículo de Montgomery5 analiza el sistema T-Scan® como un elemento de análisis de rutina de la fisiología oclusal y su relación con la musculatura oral, siendo un método preciso que, por medio de su software, graba el contacto y se genera un vídeo dinámico que identifica el porcentaje de fuerza por diente, por hemiarcada y cuadrante. Esto permite realizar tratamientos restauradores funcionalmente balanceados, con una influencia positiva en la actividad muscular y soporte periodontal con mayor grado de precisión al realizar cualquier ajuste oclusal.
+
+Wang6 investiga los patrones y las fuerzas oclusales de contacto durante las excursiones laterales con la versión anterior del sistema, T-Scan® II, en pacientes chinos jóvenes con oclusión normal en clase I de Angle. Se grabó la secuencia de contactos en lateralidad derecha e izquierda y se midieron las fuerzas relativas. Se encontró que en la posición de desoclusión lateral el porcentaje más alto es de caninos (58,5%), y se clasificaron en 6 grupos. Con contacto posterior en lado de trabajo, en la relación de canino fue de 68,9%, en la posición de máxima lateralidad los contactos más frecuentes los muestran los incisivos (39%), los caninos (32,3%). Como conclusión, manifiestan la protección canina y la función de grupo no identifica todas las descripciones de los patrones laterales de oclusión en la dentición natural.
+
+En áreas del estudio de trastornos intracapsulares en las articulaciones temporomandibulares el diagnóstico es difícil. Sierpinska7 realiza estudios de análisis clínico con Indicador de posición mandibular y T-Scan® II. Concluye que el indicador de posición mandibular indica la discrepancia de la posición del cóndilo, y T-Scan® permite al operador estudiar los contactos de todos los dientes y las fuerzas oclusales que se generan durante la dinámica mandibular.
+
+Kerstein8 describe que el tamaño de la marca del papel de articular no describe la carga oclusal, de hecho muchos tamaños de las marcas representan la misma carga, e iguales marcas de color de papel de articular no representan cargas similares, su forma tampoco es uniforme, puede ser una aureola, un punto, una faceta o una rosquilla. La confiabilidad entre el tamaño de la marca y la fuerza oclusal es de solo el 21%, por lo que realizar un ajuste oclusal eligiendo este método de análisis oclusal basado en el tamaño relativo de la misma y la evaluación subjetiva del operador es equivalente a una adivinanza clínica. El análisis computarizado elimina la subjetividad del operador para aislar el contacto oclusal, al usar correctamente esta tecnología. El papel de articular nos sirve solo para localizar el contacto intraoralmente, la percepción del operador sobre la marca es remplazada por un exacto conocimiento de la verdadera medida del contacto, la carga oclusal aplicada del contacto y luego del análisis, aislar el contacto problemático. Esto adquiere relevancia en el estudio de las fuerzas oclusales en rehabilitaciones implantosoportadas, donde fuerzas no controladas pueden llevar al fracaso del tratamiento.
+
+El estudio de Qadeer9 describe lo mismo que han encontrado otros autores sobre el uso del papel de articular, que es ampliamente aceptado como un indicador de la fuerza de contacto oclusal. En sus resultados demuestra que el tamaño de la marca solo indica su ubicación y el área que ocupa, pero no cuantifica la fuerza ejercida. Se registraron en 30 mujeres con denticiones completas, se fotografiaron las marcas del papel de articular al nivel de los dientes posteriores y el resultado de la correlación entre el área de la marca y el porcentaje de la fuerza indicó una baja correlación; la conclusión fue que el tamaño de la marca dejada por el papel de articular no es un indicador confiable de la fuerza oclusal y tampoco una guía para el ajuste oclusal. Como alternativa se sugiere el análisis digital oclusal porque es un método consistente de medición de fuerzas oclusales relativas.
+
+El estudio de análisis de la oclusión y distribución de fuerzas dentro del arco de Koos10 resume que en la práctica diaria el análisis de la oclusión está reducido a las marcas de color producidas por el papel de articular que no generan ningún valor de fuerzas medible. En este estudio se concluyó que ni el cambio de la lámina, ni las repeticiones de las mediciones tienen una influencia estadísticamente significativa en las mediciones del valor que registra el sensor. Las 6 llaves de la oclusión de Andrews11 que dan la alineación tridimensional óptima nos permiten llegar a una oclusión balanceada, y es lo que utilizamos como referencia en rehabilitación, pero el análisis preciso del diagnóstico oclusal en función aún no está bien resuelto en rehabilitación oral sobre implantes12,13. El papel de articular que utilizamos en la clínica diaria tampoco nos da la información sobre la secuencia de la oclusión, y no identifica en forma precisa un contacto prematuro. Sabemos que en restauraciones sobre implantes y en piezas naturales una sobrecarga puede llevar a una fractura radicular o a una pérdida del implante14–16, por esto es muy importante contar con un sistema que nos permita registrar la más mínima interferencia oclusal. Existen actualmente 3 métodos registrados en las bases de datos que cumplen con estos requisitos10: Fuji Film Co. Tokio, Japón; T Scan® III Tekscan INC. Boston, EE. UU.; y Cumdente, Tübingen, Alemania.
+
+Estos 3 sistemas de medición de presión trabajan con sistemas de preescala dental en 2 pasos para medir fuerzas absolutas. El sensor T-Scan® III intraoral registra el cambio de presión en la pantalla del computador como una barra (3D), el color de esta y la altura de la barra depende de la fuerza ejercida (fig. 4). Por ejemplo, de forma gráfica un contacto débil está representado por una columna azul y su altura depende de la fuerza ejercida, los valores, seguido en escala ascendente de una columna rosada, los valores medios en columna verde y los fuertes en naranja y rojo. Un segundo nivel es el análisis y escaneo de la lámina. T-Scan® III registra la imagen de distribución de fuerzas en relación con el máximo de ella ejercida, la secuencia del contacto oclusal y permite identificar contactos prematuros e interferencias en oclusión dinámica (fig. 5). El sensor, como se expresa anteriormente, tiene incrustadas una red de líneas conductivas y un cambio de presión ejercido produce un cambio de voltaje que es mensurado y digitalizado con T-Scan® Software.
+
+ 
+
+
+
+
+
+Figura 4 Gráfico. A. Porcentaje de fuerza total/tiempo (s). Total de tiempo de grabación 10 seg. Lado izquierdo línea color verde. Lado derecho línea color rojo. Línea de máxima fuerza en negro. A: Marcas de inicio; B: Marca de primer contacto máximo; C: Marca de último máximo contacto; D: Marca de último contacto de desoclusión. DT: Tiempo de desoclusión; IP: tiempo de oclusión en posición intercuspal; OTA: marcas de inicio; OTB: marcas de tiempo final de oclusión; OT: tiempo desde primer contacto dentario hasta posición intercuspal.
+
+ 
+
+
+
+
+
+Figura 5 Comparación de los arcos dentarios con el registro en máxima intercuspidación, con Accufilm® II (Parquel). Imagen digital de T-Scan® III. Columna azul: fuerzas bajas. Columna roja: contactos fuertes.
+
+ 
+
+Como protocolo de investigación del sistema sugieren 6 grabaciones por lámina, 2 por cada sujeto de estudio, se le pide que apriete en posición de cierre habitual. Entre cada grabación se retiró de boca el dispositivo y se vuelve a reposicionar, la lámina se reemplaza después de 3 grabaciones.
+
+El resultado de la exactitud de las mediciones fue de un 95%, frecuentemente el incisivo lateral no mostró contacto seguido del incisivo central y el canino. Las fuerzas más grandes —30-41%— fueron del segundo y primer molar. La diferencia en valores de la medición en repeticiones es pequeña; influencias externas como el cambio del sensor y reposicionamiento no tienen influencia en los resultados. Si pudieran existir e influir variaciones individuales y modificar la medición, como por ejemplo con la movilidad del diente por alteración periodontal, torsión de la mandíbula o cambio en el ángulo de carga. Como conclusión de este estudio se indica que T-Scan® III es un método confiable y seguro; los fallos de anteriores versiones parecen estar resueltos en esta versión10.
+
+    Discusión
+
+Dentro del mercado existen diferentes materiales de registro interoclusal, ceras específicas como por ejemplo Beauty pink, siliconas de registro y también pinturas cuyo espesor de película son inferiores al espesor del sensor T-Scan® III. El método de uso diario, como control de contactos oclusales, es papel de articular cuyo espesor máximo recomendable es de 80 μm (coltene) bicolor, hasta láminas muy delgadas como las de Accufilm II double-sided (Parquel) que es de solo 21 μm. Esto permite gran precisión y es utilizado en rehabilitación como universalmente aceptado. Al compararlo con el espesor del sensor T-Scan® III, que es de 100 μm, hay una diferencia importante que podría influir en la confiabilidad del registro y producir una desviación del cierre oclusal por una deflexión mandibular.
+
+Carlsson17 hizo una revisión de la literatura en PubMed y Cochrane en 2009 y encontró que hay numerosos estudios de oclusión y prostodoncia desde hace mucho tiempo, donde él revisó la relación de la posible influencia del diseño oclusal o las características de la oclusión en tratamientos rehabilitadores que aún están en desarrollo, sin embargo los estudios y artículos revisados son de baja evidencia científica. Como conclusión muchos factores pueden influir en el fallo del implante, como periimplantitis o pérdida de hueso, por tanto la oclusión debe ser manejada cuidadosamente.
+
+Otra consideración importante son las fuerzas oclusales que para pacientes dentro del rango normal equivalen de 100 a 150 N, que entraría dentro del rango que no saturaría el sensor, pero solo serviría para estos pacientes con fuerzas oclusales dentro de rangos normales, ya que sabemos que estas fuerzas en pacientes bruxistas pueden llegar a los 400 N. Se deben hacer estudios que permitan definir si este sistema es útil en dichos pacientes (Anexo. 1).
+
+También en pacientes con movilidad dentaria aumentada por pérdida de inserción el registro podría ser erróneo, porque cada pieza tiene un índice de movilidad diferente. Se sugiere hacer estudios que permitan validar la utilidad en pacientes con esas características.
+
+El fabricante recomienda complementar el análisis de T-Scan® III con láminas de marcado convencional, porque los transductores del sistema no producen marcas de contacto intraorales (por ejemplo de color) que son fundamentales para ubicar intraoralmente el contacto, es decir, que por sí solo el sistema dependería de la interpretación individual del operador, que observa en la pantalla la ubicación de los contactos, lo que podría ser una fuente de error.
+
+Conclusión
+
+Luego de revisar la literatura se puede concluir que el método de análisis oclusal con T-Scan® III es un dispositivo apropiado de diagnóstico oclusal y medición de fuerzas oclusales relativas, tanto en posiciones estáticas como en dinámica mandibular. Existe un estudio que indica que es más exacto que los registros existentes de papel marcador. Sin embargo, faltan más estudios tipo ensayos clínicos aleatorizados para tener mayor certeza de su incorporación a la práctica clínica habitual en rehabilitación oral.
+
+Conflicto de intereses
+
+Los autores declaran no tener ningún conflicto de intereses
+
+
+
+Anexo1. Protocolo de registro T-Scan® III.

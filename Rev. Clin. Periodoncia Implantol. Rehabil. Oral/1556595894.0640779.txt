@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072015000300006
+Determinación de dimensión vertical oclusal a partir de la estatura y diámetro craneal
+
+Dental occlusion. Vertical occlusion dimension. Cephalometry.
+
+      Introducción
+
+La determinación de las relaciones cráneo-maxilomandibulares es fundamental en el éxito de la rehabilitación de pacientes total o parcialmente desdentados1. Dichas relaciones corresponden a un concepto fisiológico que define el mayor o menor grado de aproximación de la mandíbula con el macizo cráneo facial, en los 3 sentidos del espacio2. En sentido vertical esta distancia se puede cuantificar y medir a través de 2 puntos, generalmente uno en la nariz y otro en el mentón, lo que se denomina dimensión vertical oclusal (DVO)1,2.
+
+Para la determinación de la DV el clínico frecuentemente se encuentra con dificultades, una de estas es que a lo largo de los años se han propuesto una gran cantidad de métodos de evaluación, ninguno de los cuales ha probado ser mejor que otro1. Un buen método para determinar la DVO es la asociación de medidas anatómicas, tanto clínicas como radiológicas, ya que un proceso de crecimiento y desarrollo normal sigue patrones definidos3 que terminan en la construcción de un cuerpo anatómicamente proporcionado3,4.
+
+El esqueleto craneofacial responde a 2 patrones diferentes de crecimiento, donde la parte superior del rostro y el cráneo siguen la curva de crecimiento neural, completando la mayoría de su desarrollo a los 7 años de edad; en cambio la mitad inferior del rostro, al igual que la estatura de las personas, obedece a la curva general, teniendo un gran crecimiento durante la adolescencia. Así la mitad superior y la inferior del rostro tienen diferentes patrones de crecimiento4. Por tanto se puede pensar que la asociación de longitudes representativas de cada una de estas 2 curvas, como lo son la «estatura» para la curva general y el diámetro antero-posterior craneal para la curva neural, podrían tener una correlación significativa con la DVO.
+
+La estimación de la estatura es clave dentro del área forense para la identificación de personas; investigaciones en esta área han relacionado la altura facial, altura nasal, distancia bicigomática, diámetro y perímetro cefálicos, entre otras, con la estatura, obteniendo correlaciones entre 0,4 y 0,75–11.
+
+En el año 2000 Delic et al. intentaron determinar cuál era la relación existente entre 11 distintas medidas céfalo-faciales, destacando la relación entre el diámetro anteroposterior de la cabeza (medido de glabela a opistocranion) con la DVO12.
+
+El presente trabajo buscó mejorar la precisión del modelo predictivo utilizado en medicina forense con la asociación de otra variable, que permitiese obtener una mayor correlación. El objetivo fue establecer un método sencillo y rápido para determinar la DVO, a partir de la estatura y el diámetro anteroposterior radiográfico de la cabeza.
+
+      Material y método
+
+Selección de la muestra
+
+Se seleccionó a 61 adultos jóvenes chilenos (33 hombres y 28 mujeres) entre 18 y 35 años, quienes debían cumplir con los siguientes criterios de inclusión: poseer dentición natural completa, soporte molar bilateral, ser clase esqueletal I o clase II suave (sin necesidad de tratamiento), presencia de acople anterior, articulación temporomandibular con rangos de movilidad normales y sin síntomas asociados. Fueron excluidas del estudio todas aquellas personas con tratamiento de ortodoncia previo o en curso, sometidos previamente a cirugía ortognática u otra cirugía que altere la morfología facial, individuos con malos hábitos orales (respiración bucal, interposición lingual, labial y de objetos), presencia de apiñamiento dentario severo (índice IOTN > 2)13 y/o presencia de una cantidad excesiva de tejido blando bajo el mentón.
+
+      Consentimiento informado y consideraciones éticas
+
+Cada individuo firmó un consentimiento informado aprobado por el comité de ética de la facultad de odontología de la Universidad de Chile para la participación en este estudio. Los exámenes radiográficos fueron realizados bajo estricto respeto de las normas de radioprotección.
+
+      Definición y medición de parámetros clínicos y radiográficos
+
+Se incluyeron 2 variables clínicas (DVO y estatura) y una radiográfica (diámetro anteroposterior del cráneo).
+
+      Dimensión vertical oclusal
+
+Distancia vertical, en milímetros, existente entre el punto subnasal (Sn) y el mentón piel (Me)2.
+
+Un solo operador ubicó y marcó los puntos de referencia todos los participantes. Midió desde el punto Sn a Me, sin comprimir los tejidos blandos, con un pie de metro digital modificado (se alargó una de las mordazas de medición externa, de tal forma que permita registrar la longitud vertical, y no oblicua, entre ambos puntos) (fig. 1).
+
+
+
+
+
+Figura 1 Dimensión vertical oclusal, medida desde Subnasal a la proyección horizontal de Menton.
+
+      Estatura
+
+Longitud comprendida entre el vértex (punto más elevado del cráneo) hasta el suelo7. El procedimiento se realizó con el individuo de pie, mirando un punto fijo a la altura de sus ojos (autoadhesivo ubicado en una pared frente a él), sin zapatos, peinados ni adornos en la cabeza. Debía mantener la cabeza firme y los hombros, las caderas y los talones debían estar en contacto con una pared7. La altura se transfiere a la pared mediante una escuadra (ángulo de 90°) apoyada en la pared de su canto vertical y apoyada en la parte más alta de la cabeza del paciente en su canto horizontal.
+
+      Diámetro anteroposterior radiográfico del cráneo
+
+Sobre una telerradiografía de perfil digital se midió la distancia entre los puntos glabela (en el hueso frontal, es el punto más anterior, ubicado en la línea media, sobre la raíz nasal y entre los arcos supraorbitarios) y opistocranion (en el hueso occipital, es el punto más posterior de la caja craneana, situado en el plano sagital medio)14,15. El procedimiento de ubicación de puntos y posterior medición fue realizado mediante el programa Adobe Photoshop CS5® por 2 operadores de manera independiente. En caso de desacuerdo se promediaron ambas medidas. Las mediciones fueron realizadas con el software Screen Calipers® (fig. 2).
+
+
+
+
+
+Figura 2 Diámetro anteroposterior del cráneo, desde Glabela a Opistocranion.
+
+ 
+
+El análisis estadístico fue realizado con el software Stata 12®. Los datos de las variables estudiadas fueron sometidos a un análisis de regresión lineal múltiple.
+
+  Resultados
+
+Las medidas de resumen de las variables estudiadas se presentan en la tabla 1. Las medidas poseen diferencia estadística significativa entre hombres y mujeres (T-test p < 0,05). La distribución normal de los datos fue comprobada con la prueba de Shapiro-Wilk.
+
+
+
+Tabla 1 Medidas de resumen
+
+
+
+ 
+
+Se realizó una prueba de regresión lineal múltiple, en la que se incluyen las variables clínicas y la radiográfica, a partir de la cual se obtuvo un modelo predictor que permite determinar la «dimensión vertical oclusal» utilizando el «diámetro radiográfico anteroposterior craneal» y la «estatura», con un coeficiente de correlación (r) = 0,702. Dicho modelo está representado por la siguiente ecuación (fig. 3):
+
+
+
+
+
+Figura 3
+
+ 
+
+Se realizó una prueba de correlación entre la DVO originalmente medida en cada participante y la DVOx obtenida mediante la ecuación propuesta y se estableció arbitrariamente un rango de ± 2 mm como clínicamente aceptable para determinar DVO (fig. 3). El método fue capaz de determinar con una exactitud de ± 2 mm el 29,05% de los casos.
+
+  Discusión
+
+El presente estudio presenta criterios de inclusión y exclusión más exigentes que investigaciones anteriores en la misma área16–18.
+
+Las variables analizadas en este estudio han sido indagadas de forma separada por distintos investigadores en el mundo. Agnihotri et al., Krishan y Kumar, Wankhede et al. desarrollaron investigaciones forenses en población india, asociando la longitud de la cara (nasion-gnation) con la estatura, donde Krishan obtuvo un r = 0,455, presentándose como una de las mejores correlaciones5,8,10,11. Previamente Delic et al., en el año 2000, correlacionaron el diámetro antero-posterior de la cabeza (medida desde la glabela al opistocranion) con la DVO en población croata, obteniendo un r = 0,61612.
+
+El análisis de regresión lineal múltiple arroja que las variables predictoras (estatura y Gl-Op) se asocian a la DVO con un coeficiente r = 0,702, que comparado con investigaciones en áreas similares es considerada una buena correlación6,9,11–13.
+
+De dicho análisis de regresión lineal múltiple se propone un modelo predictor mediante el planteamiento de una ecuación algebraica (fig. 3). La ecuación propuesta abarca tanto a hombres como a mujeres. Como las mujeres presentan todas las dimensiones más pequeñas (diferencias estadísticamente significativas) la fórmula se regula por sí sola.
+
+  Conclusiones
+
+La DVO presenta una correlación significativa con la estatura de una persona y el diámetro antero-posterior radiográfico de la cabeza, lo cual está en concordancia con los razonamientos lógicos desprendidos de los procesos de crecimiento y desarrollo, y los conceptos de proporcionalidad corporal.
+
+Se propone un modelo predictivo, representado en la siguiente ecuación: DVOx = ([Estatura]) × [0,28] + ([Gl-Op] × [0,26])–(25,53) R = 0,702, lo que es considerado como una correlación significativa.
+
+Se propone un método sencillo, rápido y factible de efectuar en la clínica, aplicable a la población chilena.

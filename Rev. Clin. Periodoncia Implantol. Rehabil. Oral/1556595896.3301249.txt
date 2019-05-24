@@ -1,0 +1,156 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072017000300141
+Distribución gen fimA de Porphyromonas gingivalis en pacientes chilenos con periodontitis crónica
+
+INTRODUCCIÓN
+
+Uno de los principales microorganísmos descritos en la etiopatogenia de la enfermedad periodontal y particularmente de periodontitis crónica es Porphyromonas gingivalis1. Se ha visto que su frecuencia varía según el grupo étnico2, ubicación geográfica3 y metodología del estudio4,5.
+
+P. gingivalis es un periodontopatógeno clave en el desarrollo y progresión de la enfermedad periodontal1,5 debido a que sus factores de virulencia favorecen la adhesión, invasión y destrucción de los tejidos periodontales, pudiendo conducir a la formación de sacos periodontales7. Las fímbrias de P. gingivalis se localizan en la superficie celular y son un factor crítico de colonización8. El gen que codifica las fimbrias es el fimA, se clasifica en seis genotipos (I, Ib, II, III, IV, V) en base a la secuencia de sus nucleótidos9,10. La prevalencia de los diferentes genotipos del fimA ha sido estudiada y muestra una gran variación según la población analizada11-14. Una serie de estudios han sugerido una mayor prevalencia de fimA II, seguida de fimA IV, en pacientes con periodontitis11,12,15. Estos dos genotipos han estado estrechamente asociados con la enfermedad periodontal severa10. Por otro lado, los genotipos fimA I y V se han asociado con un estado de salud periodontal15.
+
+La prevalencia de P. gingivalis en pacientes chilenos con periodontitis crónica es elevada4,16,17. Sin embargo, información disponible sobre los niveles de este microorganismo o su distribución según diferentes genotipos fimA en esta población es limitada. El objetivo de este estudio fue cuantificar los niveles de P. gingivalis y medir la prevalencia de los seis genotipos fimA en pacientes chilenos con diferentes grado de severidad de periodontitis crónica.
+
+MATERIALES Y MÉTODOS
+
+Sujetos. Se presenta un estudio de corte transversal. Se invitó a participar en este estudio a cuarenta y cinco sujetos (15 hombres y 30 mujeres, rango de edad de 20-75 años) con diagnóstico de periodontitis crónica y seleccionados por conveniencia según grado de severidad. Los criterios de exclusión incluyeron embarazo, tratamiento periodontal previo y antecedentes de uso sistémico o local de antimicrobianos en los seis meses previos al muestreo, además de condiciones sistémicas conocidas que pudieran influir en las condiciones periodontales. Los pacientes incluidos en el estudio tenían que presentar al menos 5 dientes presentes en boca y ser diagnosticados con periodontitis crónica según los criterios diagnósticos de American Academy of Periodontology en 199918.
+
+Evaluación clínica. Se registraron variables socio-demográficas, las que incluyeron edad, sexo, además de la historia médica. Se realizó un examen clínico del estado periodontal. El examen periodontal incluyó la evaluación de la profundidad de sondaje, sangramiento al sondaje y pérdida del nivel de inserción periodontal en seis sitios por diente: mesiobucal, bucal, distovestibular, distolingual, lingual y mesiolingual. Luego, los pacientes se dividieron en tres diferentes categorías de 15 sujetos cada uno según la pérdida de inserción clínica (NIC): leve (1-2 mm NIC), moderada (3-4 mm NIC) y severa (= o> 5 mm NIC)19.
+
+Muestras microbiológicas y extracción de ADN genómico. Después del diagnóstico periodontal, se seleccionaron para el muestreo los tres sacos periodontales más profundos de cada paciente, eliminando el biofilm supragingival con una cureta estéril. En el caso de igualdad de profundidad de los sitios se priorizaron según el orden siguiente: molares > premolares > caninos > incisivos). Para la recolección de las muestras subgingivales se insertaron los conos de papel (cono número 35, Dentsplay Maillefer) en los tres sacos periodontales seleccionados durante 10 seg como se ha descrito previamente14. Luego se transfirieron los tres conos con las muestras de cada paciente inmediatamente a un tubo conteniendo el medio de transporte anaeróbico (ATM AS-911, Anaerobe Systems, Morgan Hill, CA, EE.UU.), el cual fue identificado y enviado al Laboratorio de Microbiología Oral de la Universidad de Talca. Las muestras se mantuvieron a 37º C durante 15 min, se homogeneizaron y se transfirieron alícuotas de 100 µL a tubos que contenían 300 µL de agua purificada estéril. Después se lisaron las células y se extrajo el ADN sumergiendo los tubos en agua hirviendo durante 10 min. Finalmente, el sobrenadante se recuperó y se purificó usando el kit de aislamiento de ADN Ultraclean®15 (MO BIO laboratories Inc, Carlsbad, CA, EE.UU.).
+
+Cuantificación de
+
+
+
+P. gingivalis
+
+
+
+mediante PCR cuantitativa (qPCR). Para cuantificar la carga bacteriana específica de P. gingivalis, se amplificó mediante qPCR del gen 16S rRNA. Como templado, se utilizó el ADN genómico bacteriano obtenido desde las muestras clínicas analizadas en este estudio. Para poder calcular el número de P. gingivalis en cada muestra analizada, se obtuvieron curvas de calibración amplificando el gen 16S rRNA desde plásmidos que portan como inserto éste gen. Para construir este plásmido, el amplicón para el gen del 16s rRNA se obtuvo a partir del ADN genómico de la cepa de referencia P. gingivalis ATCC 33277. Este amplicón se insertó en plásmidos y se clonó en E. coli como se ha descrito previamente20. El ADN del plásmido se extrajo mediante el kit GeneJET® Plasmid Miniprep (Thermo Fisher Scientific) y se usó como molde para obtener las curvas de calibración utilizando el sistema qPCR Mx3000P (Agilent Technologies, Santa Clara, CA, EE.UU). El rango de cuantificación de esta curva de calibración fue de 102 a 109 copias para este gen, con una sensibilidad de 2,2 x 102 copias en una dilución de 19-9. La cuantificación de P. gingivalis se realizó por qPCR utilizando un set de partidores específicos para amplificar 16S rRNA. Las reacciones de qPCR se realizaron a 20 μl de volumen final con 10 μL de Brilliant II SYBR® Green QPCR Master Mix (Agilent Technologies), 2 μL de ADN molde y 10 μM de cada primer. Los parámetros de ciclos térmicos incluyeron desnaturalización inicial a 95º C durante 5 min, seguido de 40 ciclos de 95º C durante 15 seg y 60º C durante 45 seg. El tamaño de los productos de qPCR se confirmó por visualización del gel de electroforesis de ADN (gel de agarosa al 1,5% / bromuro de etidio) y visualización con luz UV. Además, la especificidad del amplicón se corroboró por la curva de disociación obtenida por cada qPCR realizado.
+
+Genotipificación
+
+
+
+fimA
+
+
+
+mediante qPCR. Como templado para estas reacciones, se utilizó el ADN genómico bacteriano obtenido desde las muestras clínicas y partidores específicos para amplificar las genovariantes del fimA I, II, III, IV21, V22 y Ib23. Se siguieron los mismos parámetros de ciclo térmico descrito para la cuantificación de P. gingivalis. El tamaño de los amplicones de qPCR obtenidos se veríficó por electroforesis en gel de agarosa, de acuerdo a lo descrito anteriormente. La especificidad de los productos obtenidos se comprobó mediante la curva de disociación que se generó para cada reacción realizada.
+
+Cuantificación de
+
+
+
+P. gingivalis
+
+
+
+y genotipificación
+
+
+
+fimA
+
+
+
+mediante PCR cuantitativa (qPCR). Los plásmidos que contenían los genes diana se amplificaron para crear curvas estándar para la cuantificación. El amplicón de PCR para el rRNA 16S se obtuvo a partir del ADN genómico de la cepa de P. gingivalis ATCC 33277. Estos se insertaron en plásmidos y se clonaron en E. coli como se ha descrito previamente20. El ADN del plásmido se extrajo mediante el kit GeneJET® Plasmid Miniprep (Thermo Fisher Scientific) y se usó como molde para obtener las curvas estándar utilizando el sistema qPCR Mx3000P (Agilent Technologies, Santa Clara, CA, EE.UU).
+
+La cuantificación de P. gingivalis y genotipificación de fimA fueron realizados por qPCR utilizando set de primers específicos para amplificar 16S rRNA y fimA I, II, III, IV21, V22 y Ib23. Las reacciones de qPCR se realizaron a 20 μl de volumen final con 10 μL de Brilliant II SYBR® Green QPCR Master Mix (Agilent Technologies), 2 μL de ADN molde y 10 μM de cada primer. Los parámetros de ciclo incluyeron desnaturalización inicial a 95º C durante 5 min, seguido de 40 ciclos de 95º C durante 15 seg y 60º C durante 45 seg. El tamaño de los productos de PCR se confirmó por visualización del gel de electroforesis de ADN (gel de agarosa al 1,5% / bromuro de etidio) y visualización con luz UV. La cuantificación de P. gingivalis y gen fimA se realizó como se ha descrito anteriormente20.
+
+Aspectos éticos. Este estudio fue llevado a cabo tras la aprobación del protocolo y del consentimiento informado por parte del Comité de Bioética de la Universidad de Talca. Los individuos que participaron de la investigación firmaron, previo a los procedimientos de entrevista y examen clínico, un consentimiento informado y posterior al examen se les informo de su estado de salud periodontal.
+
+Análisis de los datos. La frecuencia y cuantificación de P. gingivalis y la frecuencia de cada genotipo fimA con respecto a la severidad de periodontitis crónica se analizaron con prueba de Chi cuadrado. La significación estadística fue dado por p valor ≤ 0,05. Los datos se analizaron utilizando el software SPSS 15.0 (IBM, Chicago, IL, EE.UU.).
+
+RESULTADOS
+
+El estudio fue realizado con 45 sujetos que presentaron periodontitis crónica, sus datos demográficos y parámetros clínicos son presentados en la Tabla 1. Se detectó P. gingivalis en 33 sujetos con periodontitis crónica (73,3%). Su distribución entre los grupos con diferentes grados de severidad de periodontitis crónica fue estadísticamente significativa (p <0,05) (Tabla 2), observándose que P. gingivalis estuvo presente en 7 (46,6%), 11 (73,3%) y 15 (100%) sujetos con las formas leve, moderada y severa de la enfermedad, respectivamente. La cuantificación de este periodontopatógeno indica que el 63,6% de los sujetos positivos tenían una carga bacteriana ≥ 105 células / mL (Tabla 2). Además, el 80% de los pacientes con periodontitis crónica severa presentaron una carga bacteriana ≥ 105 células / mL y estaban relacionados con una mayor pérdida de nivel de inserción clínica y profundidad de sondaje. Por otro lado el 85,7% los pacientes con periodontitis crónica leve se relacionaron con recuentos bacterianos con valores ≤ 105 células / mL.
+
+El gen fimA se detectó en 22 (66%) de los 33 sujetos positivos para P. gingivalis. En 14 de estas muestras positivas para este genotipo se detectó sólo un genotipo, mientras que en las otras ocho muestras mostraron una combinación de genotipos diferentes (Tabla 3). Con respecto a la frecuencia de los genotipos fimA, se observó la expresión de fimA IV (36,4%) y fimA I (27,3%), siendo el primero detectado principalmente en presencia de casos severos de enfermedad periodontal (75%), lo que indica una asociación estadísticamente significativa (p <0,05) entre este genotipo y la severidad de periodontitis crónica (Fig. 1). Por otro lado el genotipo fimA I fue más frecuentemente detectado en casos donde la periodontitis era moderada (62,5%). Los genotipos fimA III y fimA V no fueron detectados en esta población.
+
+
+
+
+
+Tabla 1 Características demográficas y parámetros clínicos en relación a severidad de periodontitis crónica. 
+
+Edad (promedio±DE); nivel inserción clínica y profundidad de sondaje (mm, promedio±DE).
+
+
+
+
+
+Tabla 1 Características demográficas y parámetros clínicos en relación a severidad de periodontitis crónica. 
+
+Edad (promedio±DE); nivel inserción clínica y profundidad de sondaje (mm, promedio±DE).
+
+
+
+
+
+Tabla 2 Detección y cuantificación de P. gingivalis en relación a severidad de periodontitis crónica. 
+
+*p ≤ 0,05 entre los diferentes grados de severidad de la enfermedad determinado por test Chi cuadrado.
+
+
+
+
+
+Tabla 2 Detección y cuantificación de P. gingivalis en relación a severidad de periodontitis crónica. 
+
+*p ≤ 0,05 entre los diferentes grados de severidad de la enfermedad determinado por test Chi cuadrado.
+
+
+
+
+
+Tabla 3 Distribución de genotipos fimA en relación a severidad de periodontitis crónica . 
+
+
+
+
+
+
+
+Tabla 3 Distribución de genotipos fimA en relación a severidad de periodontitis crónica . 
+
+Cuando una muestra presentó más de un genotipo fimA se detectó principalmente en formas moderadas y severas de periodontitis crónica. Observándose que la combinación más frecuente fue fimA I y II (18,2%) (Tabla 3). Es importante señalar que fimA IV se detectó con frecuencia en la periodontitis crónica severa (75%), lo que indica una asociación estadísticamente significativa (p <0,05) entre este genotipo y la severidad de periodontitis crónica (Fig. 1).
+
+
+
+
+
+Figura 1 Distribución de genotipo fimA IV en relación a severidad de periodontitis crónica. * p ≤ 0.05 positivo comparado con negativo determinado por test Chi 2  
+
+
+
+
+
+Figura 1 Distribución de genotipo fimA IV en relación a severidad de periodontitis crónica. * p ≤ 0.05 positivo comparado con negativo determinado por test Chi 2  
+
+DISCUSIÓN
+
+Existe una asociación positiva entre raza / etnia y la composición de la microbiota subgingival en pacientes con enfermedad periodontal2. Asimismo, los resultados de la literatura sugieren que existiría una variabilidad en la frecuencia de P. gingivalis según la localización geográfica observada3. En Chile, estudios relatan mayor prevalencia de este periodontopatógeno en relación a otros países5,16. Sin embargo, estos estudios presentan una amplia variación en el rango de sus resultados, reportándose una prevalencia que va desde 11,9%5 a 83,8%4, en razón de los diferentes protocolos y metodologías empleadas para detectar este patógeno periodontal. El presente estudio buscó no solo detectar sino que también cuantificar los niveles de P. gingivalis y la distribución de diferentes genotipos fimA en pacientes con diferentes grados de severidad de periodontitis crónica a través de qPCR. Este método es un procedimiento preciso, sensible y específico, además de permitir la cuantificación confiable de periodontopatógenos en muestras de bioflim subgingival24.
+
+Nuestros resultados muestran una prevalencia de 73,3% de este patógeno en pacientes con periodontitis crónica, similar a lo reportado en estudios realizados en Brasil25 pero superior a lo reportado en Holanda24. Sin embargo, los niveles de P.gingivalis en el biofilm subgingival pueden ser más relevante que su sola detección, puesto que, según nuestros resultados, la cantidad del periodontopatógeno puede variar según la severidad de la enfermedad. De este modo P. gingivalis estuvo presente en el 100% de los pacientes con periodontitis severa, lo cual también fue observado en la población Coreana26. En este mismo sentido, nuestros datos de cuantificación bacteriana mostraron que la detección de altos niveles de P. gingivalis (≥ 105 células / ml) se asoció con un diagnóstico de enfermedad periodontal severa. Del mismo modo los pacientes con periodontitis leve mostraron niveles más bajos de P. gingivalis (≤ 105 células / mL) lo cual parece reafirmar el rol etiológico de esta bacteria en la destrucción periodontal6.
+
+Dentro de los factores que se relaciona directamente con el potencial de virulencia de este periodontopatógeno encontramos el gen 
+
+
+
+fimA(
+
+
+
+27,28, el cual es un factor de virulencia que otorga diversidad fenotípica y genotípica a las diferentes cepas de P. gingivalis. La prevalencia de estos genotipos cambiaría considerablemente entre las diferentes poblaciones13,14. Nuestro estudio busca relacionar la frecuencia de los distintos genotipos conocidos para fimA en función de la severidad de la periodontitis crónica. Observamos así una alta expresión de los genotipos fimA IV y fimA I (Tabla 3). Estos resultados son consistentes con los estudios que han reportado los genotipos I, II y IV como aquellos más frecuentemente detectados11,13. Adicionalmente nuestros resultados muestran una asociación entre la detección del genotipo fimA IV y la presencia de periodontitis crónica severa, coincidiendo con los resultados reportados en otros países20,29,30. Sin embargo, nuestro estudio contrasta con los datos de otras poblaciones en los que el genotipo más frecuente sería el fimA II11,13,14,20,21,31,32. Estas variaciones pueden ser atribuidas a patrones étnicos y / o geográficos particulares11,14. Finalmente, una combinación de diferentes genotipos fimA fue detectada en el 36,3% de los pacientes (Tabla 3); destacando que en siete de los ocho pacientes con genotipos combinados se observó la presencia del fimA II. Esto se relacionó frecuentemente con periodontitis crónica moderada o severa.
+
+Un dato interesante es el hecho de que no se detectaron genotipos fimA en el 34% de las muestras positivas para P. gingivalis. Este número es mayor que los reportados anteriormente14,15 y podría sugerir la presencia de un genotipo fimA no identificado. Las muestras no identificadas se relacionaron principalmente con periodontitis crónica leve, lo que confirmaría la importancia de este gen como factor de virulencia en la patogénesis y progresión de la enfermedad periodontal en la población chilena. Asimismo, otro rasgo que podría caracterizar nuestra población podría ser la ausencia de fenotipos fimA III y V.
+
+Este trabajo muestra que los sujetos chilenos presentan una alta prevalencia de P. gingivalis, siendo el genotipo fimA IV el más frecuentemente detectado. A fin de confirmar estos resultados preliminares se sugiere la realización de estudios longitudinales con un mayor número de pacientes. Por otro lado, se recomiendan estudios adicionales en los que se pueda evaluar los diferentes genotipos y su interacción con otros factores de virulencia de este periodontopatógeno.
+
+CONCLUSIONES
+
+La población estudiada presenta altos niveles de P. gingivalis y una alta frecuencia de detección para el genotipo fimA IV, presentándose con mayor frecuencia en pacientes con periodontitis crónica severa. Se evidenció la variabilidad genética de este microorganismo según la severidad de la enfermedad periodontal, siendo aspectos a considerar en la etiopatogenia y en la terapia de la enfermedad periodontal
+
+AGRADECIMIENTOS
+
+Los autores desean agradecer a la Prof. Nora Silva, docente del área de microbiología oral del Dpto. de Patología y Medicina Oral por proporcionar cepas de P. gingivalis y Olga Lobos por la ayuda con los procedimientos en el laboratorio de Microbiología, Universidad De Talca.

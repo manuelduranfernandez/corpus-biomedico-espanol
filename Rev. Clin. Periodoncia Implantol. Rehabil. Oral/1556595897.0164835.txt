@@ -1,0 +1,278 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-01072018000200084
+Caracterización de una muestra de pacientes chilenos con periodontitis y frecuencia del polimorfismo H131R en el receptor FcγRIIa.
+
+INTRODUCCIÓN
+
+Las enfermedades periodontales, entre ellas la periodontitis, se describen como unas de las enfermedades más prevalentes de la especie humana. La periodontitis es definida por la Asociación Americana de Periodontología como: “una extensión de la inflamación desde la encía hacia el hueso y ligamento periodontal adyacente, usualmente con un cambio progresivamente destructivo que conduce a la pérdida ósea y del ligamento periodontal”1. Las estimaciones de prevalencia, severidad y progresión difieren por cómo se define la enfermedad y de acuerdo a la población estudiada, encontrándose generalmente una prevalencia de 5 a 20% de la población general de países industrializados, con formas severas y generalizadas de periodontitis2,3. Actualmente, desde un punto de vista epidemiológico, distintos autores describen que la destrucción periodontal evaluada a través de la Pérdida de Inserción Clínica (PIC) ≥ 1mm es muy prevalente, aún en sujetos jóvenes y que, en una población dada, la prevalencia, extensión y severidad de esta PIC aumenta conforme aumenta también la edad. Sin embargo, según lo referido el año 2015, dentro de América Latina los datos epidemiológicos son escasos y heterogéneos. Congruentemente, hay diferencias relevantes en la prevalencia de periodontitis, que varían para las formas leves y más frecuentes, entre 3.75 y 100% y para las periodontitis severas de 0 a 45%. La población adulta chilena tiene una alta prevalencia y extensión de la periodontitis, relacionada con la edad, sexo, nivel de educación y tabaquismo. Como evidencia el estudio de Gamonal y col., los pacientes chilenos mostraron en un 93.45% de los adultos jóvenes (35-44 años), PIC ≥ a 1mm y un 97.58% de los adultos mayores (65-74 años), con mayor cantidad de dientes perdidos y PIC. Esto último más severo en sexo masculino y con diferencias significativas por niveles de educación y socioeconómicos respecto de los individuos controles4,5,6,7.
+
+La periodontitis se considera una enfermedad infecciosa, inflamatoria, multifactorial y destructiva, en la cual la biopelícula polimicrobiana establecida en la unión dento-gingival puede iniciar un proceso inflamatorio que, de no ser abordado, puede ser destructivo del periodonto y llevar a la pérdida dentaria3. Aunque la PIC es el concepto esencial en los estudios de factores de riesgo para periodontitis, la definición y manejo clínico de la enfermedad debe incorporar variables tales como la profundidad de sondaje (PS), el sangrado al sondaje (SS) y la pérdida ósea8. Respecto a su naturaleza multifactorial, se ha demostrado que el tabaquismo y la diabetes son factores de riesgo modificables para la periodontitis, sin embargo, esta enfermedad también está asociada a otros factores de riesgo potenciales, tales como: estrés, factores nutricionales (hipovitaminosis C), enfermedades con respuesta del hospedero alterada (leucemia, trombocitopenia y desórdenes leucocitarios, infecciones por VIH) e incluso diferencias sociales significativas3,7,8. Por otra parte, existen factores de riesgo potenciales (llamados factores de susceptibilidad) no modificables como la edad, el sexo y el genotipo. Los factores de susceptibilidad genéticos tienen la posibilidad de incidir en la intensidad de la respuesta del hospedero al estímulo bacteriano (heterogeneidad inter-individual)9,10. 
+
+Al respecto de lo anterior, los estudios en su mayoría se han enfocado en abordar los polimorfismos en genes que codifican: citoquinas, receptores celulares de superficie, proteínas relacionadas con reconocimiento de antígenos y genes relacionados con el metabolismo de la vitamina D, entre otros. Una de las familias de genes más estudiadas en periodontitis es la de los genes de los FcγR11-33, ya que existen diversos aspectos de su plausibilidad biológica como indicador de riesgo, tales como: su presencia en distintas células relacionadas con la respuesta inmune a nivel periodontal (macrófago, linfocito polimorfonuclear neutrófilo, plaquetas) y su capacidad para unirse específicamente a la inmunoglobulina G (IgG), otorgada por el fragmento constante (Fc)28,32. Esta última unión desencadena procesos de: citotoxicidad, fagocitosis, generación de ion superóxido, producción de citoquinas y anticuerpos y otras funciones celulares, componentes a su vez de la respuesta inflamatoria destructiva de tejido colágeno y óseo, observable en varias patologías, entre ellas la periodontitis32. Si las funciones de estas células son menos eficientes o son sobre-eficientes, por expresión polimórfica del FcR, es concebible pensar que la susceptibilidad y/o la severidad de la periodontitis se vean afectadas10,12,13.
+
+En la actualidad se reconocen en la familia de FcR cuatro subclases: FcRIa, Ib, Ic, FcRIIa, IIb y IIc, FcRIIIa y IIIb, codificados en nueve genes ubicados en el brazo largo del cromosoma 1. Recientemente, en ratones se ha observado el FcRIV con una afinidad intermedia para IgG, sabiéndose además que está presente en todos los mamíferos34,35,36. De estos receptores, los sub-tipos FcRIIa, FcRIIIa y FcRIIIb han sido asociados con susceptibilidad y/o severidad a diferentes enfermedades infecciosas y autoinmunes37,38. 
+
+En las publicaciones que relacionan la periodontitis y los FcR, uno de los polimorfismos más estudiados es el del gen que codifica el FcRIIa (FCGR2A). Se trata del cambio nucleotídico c.497A>G en el exón 4, que resulta en una sustitución de histidina (H) por arginina (R) en el aminoácido 131 del receptor. Este cambio que ocurre en la región de la proteína de membrana, cerca del dominio extracelular, va en detrimento de la fijación de IgG234.
+
+El propósito del presente estudio descriptivo transversal fue determinar y analizar las características clínicas de una muestra de pacientes chilenos con evidencia de daño periodontal, atendidos en el Servicio de Odontología, Especialidad de Periodoncia, Centro Médico San Joaquín de la Red de Salud UC-CHRISTUS, establecer la frecuencia alélica y genotípica del polimorfismo H131R en el gen FCGR2A y describir sus eventuales asociaciones con enfermedad periodontal y otras variables socio demográficas presentes en la muestra. 
+
+MATERIALES Y MÉTODOS
+
+Población de estudio y caracterización clínica
+
+Para este estudio de corte transversal se reclutó una muestra de 108 pacientes, quienes acuden a evaluación odontológica integral al Servicio de Odontología del Centro Médico San Joaquín, Facultad de Medicina, Pontificia Universidad Católica de Chile. Ésta es realizada en primera instancia por un odontólogo general para luego ser derivados los sujetos en cuestión a evaluación por la especialidad de Periodoncia. Este estudio y el respectivo consentimiento informado fueron aprobados por el Comité de Ética en Investigación de la Facultad de Medicina de la Pontificia Universidad Católica de Chile (código de aprobación 07-106). Se incluyeron pacientes mayores de 18 años libres de enfermedades inmunoinflamatorias sistémicas luego de evaluación médica pertinente. Se excluyeron aquellos pacientes en terapia con anti-inflamatorios y/o antibióticos dentro de los 6 meses previos al estudio por indicación profiláctica y/o terapéutica y a pacientes embarazadas. Todos los sujetos de estudio firmaron consentimiento informado. Aparte de sexo y edad, se registraron datos socio-demográficos como tabaquismo (cantidad de cigarrillos /día)39 y escolaridad (básica, media y superior).
+
+El examen clínico periodontal incluyó los siguientes parámetros: número de dientes, profundidad de sondaje (PS), nivel de inserción clínica (NIC) y sangramiento al sondaje (SS) en 6 sitios por diente, en todos los dientes presentes en boca, excluyendo los terceros molares. Más del 90% de los pacientes fue examinado por un mismo evaluador (RH) y el resto de los pacientes por un segundo profesional (CC). Los evaluadores se calibraron respecto a la medición de profundidad de sondaje y nivel de inserción clínica con 10 pacientes, los cuales fueron medidos una vez por cada examinador, en un plazo máximo de 3 días consecutivos. No se observaron más de 2 sitios de diferencia (sólo en 3 pacientes) con una diferencia nunca superior a 1mm, en PS o NIC. No se realizó test específico para medir la calibración en cuestión.
+
+Para ello, los pacientes fueron clasificados según la severidad de los sitios con periodontitis de acuerdo a los parámetros de definición de caso de Page y Eke, Centro para Control de Enfermedad, Asociación Americana de Periodontología40,41 y según extensión de acuerdo a Armitage et al42.
+
+Severidad:
+
+
+
+
+
+
+
+- Sano (sin/no periodontitis): sin evidencia de periodontitis leve, moderada o severa.
+
+- Periodontitis leve: al menos 2 sitios interproximales con NIC ≥ 3mm y al menos dos sitios interproximales con PS ≥ 4mm (no en el mismo diente) o un sitio con PS ≥ 5mm.
+
+- Periodontitis moderada: al menos dos sitios interproximales con NIC ≥ 4mm (no en el mismo diente) o al menos dos sitios interproximales con PS ≥ 5mm (no en el mismo diente).
+
+- Periodontitis severa: al menos dos sitios interproximales con NIC ≥ 6mm (no en el mismo diente) y al menos un sitio interproximal con PS ≥ 5mm. 
+
+
+
+
+
+
+
+- Sano (sin/no periodontitis): sin evidencia de periodontitis leve, moderada o severa.
+
+- Periodontitis leve: al menos 2 sitios interproximales con NIC ≥ 3mm y al menos dos sitios interproximales con PS ≥ 4mm (no en el mismo diente) o un sitio con PS ≥ 5mm.
+
+- Periodontitis moderada: al menos dos sitios interproximales con NIC ≥ 4mm (no en el mismo diente) o al menos dos sitios interproximales con PS ≥ 5mm (no en el mismo diente).
+
+- Periodontitis severa: al menos dos sitios interproximales con NIC ≥ 6mm (no en el mismo diente) y al menos un sitio interproximal con PS ≥ 5mm. 
+
+Extensión:
+
+
+
+
+
+
+
+- Localizada: cuando los sitios afectados por periodontitis comprenden ≤ 30% del total de los sitios.
+
+- Generalizada: cuando los sitios afectados por periodontitis comprenden > 30% de los sitios.
+
+
+
+
+
+
+
+- Localizada: cuando los sitios afectados por periodontitis comprenden ≤ 30% del total de los sitios.
+
+- Generalizada: cuando los sitios afectados por periodontitis comprenden > 30% de los sitios.
+
+Estudio del polimorfismo H131R en el gen
+
+
+
+FCGR2A
+
+
+
+por PCR en tiempo real
+
+De los 108 sujetos examinados, en 94 se obtuvo muestra para el estudio genético y en 85 se pudieron consignar los datos socio-demográficos.
+
+Las muestras de sangre se obtuvieron por punción venosa en un tubo con EDTA y enviadas al Laboratorio de Biología Molecular del Departamento de Laboratorios Clínicos de la Facultad de Medicina, Pontificia Universidad Católica de Chile. La extracción del ADN se realizó según el procedimiento estándar de “salting out” utilizado en el laboratorio43 y se guardó a -20º C hasta su análisis.
+
+La presencia de los alelos A o G se estudió por PCR en tiempo real con sondas TaqMan de acuerdo a lo descrito por Mølle et al44. El producto de 88 pb se amplificó con los partidores sentido GGTCAAGGTCACATTCTTCCA (5′-3′) y anti-sentido ACTGTGGTTTGCTTGTGG (5′-3′). Para la detección del alelo A se utilizó la sonda FAM-AAATCCCAGAAATTCTCCCATTTGGATCC-BHQ1 y para el alelo G la sonda FAM-AAATCCCAGAAATTCTCCCGTTTGGATCC-BHQ1 (en negrita la base correspondiente a cada alelo). Dado que en ambos casos se usaron sondas marcadas con FAM como fluoróforo, las PCR para cada alelo se realizaron por separado. Las reacciones de PCR se realizaron en un volumen de 25 µl: 22,5 pmol de cada partidor, 5 pmol de cada sonda y 12,5 µl de mezcla maestra para reacción en cadena de la polimerasa con sondas TaqMan® (Applied Biosystems, Life Technologies®, Santiago, Chile), 2 μl de ADN y agua hasta completar el volumen. El PCR se llevó a cabo en equipo StepOne® (Applied Biosystems, Life Technologies®, Santiago, Chile), utilizando el siguiente programa de amplificación: 1 ciclo de 1 minuto a 95°C, 45 ciclos de 30 segundos a 95ºC y 1 minuto a 62ºC (cada ciclo). Como control negativo se analizó en cada corrida de PCR un tubo sin ADN.
+
+Métodos estadísticos
+
+Para la descripción de las variables se utilizan fundamentalmente frecuencias absolutas y relativas (porcentajes). Las variables continuas se describen con media y desviación estándar, excepto en el gráfico “box plot” en el cual se utilizan los cuartiles y el máximo y mínimo de los datos. Para evaluar si las variables de la Tabla 3 siguen una distribución normal se utilizó la prueba de Shapiro-Wilks. No obstante, dada la relativa robustez de la prueba ANOVA a violaciones de normalidad, son estos resultados los que se presentan en dicha tabla, después de comprobar que se obtienen las mismas conclusiones si se realiza la prueba no paramétrica de Kruskal-Wallis. La asociación entre variables categóricas se investiga a través de la prueba de la probabilidad exacta de Fisher ya que en general el tamaño de la muestra es inadecuado para realizar la prueba chi-cuadrado. Los análisis se realizaron en SPSS versión 17.0. Se consideraron significativos los test con valor p<0.05.
+
+RESULTADOS
+
+Características generales y periodontales
+
+De los 108 pacientes reclutados, se obtuvo información clínica y genética en 94, cuyos datos socio-demográficos se muestran en la Tabla 1. De esta tabla se desprende que la mayoría de los sujetos de estudio eran mujeres, mayores de 35 años, no fumaban y habían cursado educación superior. Esta distribución de ambos sexos se mantuvo al separar los sujetos por grupo etario, a saber: <39, 39-49, 50-57 y mayor que 57 años, comprobándose que la distribución de la edad es similar en ambos sexos (prueba de chi-cuadrado, p=0.205).
+
+
+
+Tabla 1: Características socio-demográficas de los sujetos de estudio.
+
+
+
+
+
+Tabla 1 Características socio-demográficas de los sujetos de estudio (n=94) 
+
+
+
+
+
+
+
+Tabla 1 Características socio-demográficas de los sujetos de estudio (n=94) 
+
+
+
+Tabla 2: Distribución de los sujetos de estudio según extensión y severidad de la periodontitis.
+
+
+
+
+
+Tabla 2 Distribución de los sujetos de estudio según extensión y severidad de la periodontitis (n=94) 
+
+
+
+
+
+
+
+Tabla 2 Distribución de los sujetos de estudio según extensión y severidad de la periodontitis (n=94) 
+
+Entre los 94 sujetos de estudio que tenían periodontograma y que fueron genotipificados, la mayoría (n=81) presentaron periodontitis (86,2%), ya sea moderada (n=23, 28,0%) o severa (n=58, 56,1%), pero localizada; en ningún sujeto se encontró periodontitis leve. Doce pacientes (12,8%) tenían periodontitis generalizada, y, a su vez, la forma severa de la enfermedad. Entre los 13 sujetos que no cumplieron con los criterios utilizados como para clasificar como enfermos, sí había sujetos con pérdida de inserción periodontal. 
+
+
+
+Tabla 3. Características periodontales (total de dientes, SS, NIC y PS) de los sujetos de estudio.
+
+
+
+
+
+Tabla 3 Características periodontales (total de dientes, HS, NIC y PS) según severidad de la periodontitis de los sujetos de estudio (n=94) 
+
+
+
+
+
+
+
+Tabla 3 Características periodontales (total de dientes, HS, NIC y PS) según severidad de la periodontitis de los sujetos de estudio (n=94) 
+
+La mayoría de los sujetos con periodontitis tenía entre 23 y 28 dientes (58 sujetos, 71,6%), observándose un número significativamente mayor de dientes en los sujetos sin periodontitis comparados con los que presentan periodontitis, ya sea moderada o severa (Tabla 3). También se observa que los valores de pérdida de inserción clínica (PIC) expresados como media de NIC, así como el número de sitios con SS y de PS mostraron un incremento significativo tanto al pasar de los sujetos sin periodontitis a los de periodontitis moderada como al pasar de estos a los de periodontitis severa. SS no está incluido como parámetro para establecer el diagnóstico, sin embargo, es un indicador de la presencia de inflamación, siendo congruente con los otros parámetros. 
+
+
+
+Tabla 4: Variables socio-demográficas en sujetos sin y con periodontitis moderada y severa. 
+
+En cuanto a la asociación de la severidad de la periodontitis con las variables socio-demográficas (ver tabla 4), ésta mostró una asociación significativa con la edad (mayor edad mayor porcentaje de periodontitis severa) y con el sexo (más periodontitis moderada en el sexo masculino y mayor frecuencia de personas sin periodontitis en el sexo femenino). En cuanto a la escolaridad y la severidad se observa que a medida que aumenta la escolaridad tiende a disminuir el porcentaje de periodontitis severa y a aumentar los porcentajes de sujetos sin periodontitis y con, aunque no alcanza a ser significativa (p=0,062). 
+
+
+
+
+
+Tabla 4 Variables socio-demográficas en sujetos sin y con periodontitis moderada y severa (n=94) 
+
+
+
+
+
+
+
+Tabla 4 Variables socio-demográficas en sujetos sin y con periodontitis moderada y severa (n=94) 
+
+
+
+Tabla 5: Extensión de la periodontitis según variables socio-demográficas en los sujetos con periodontitis (n= 81).
+
+Relativo a la extensión, no se observó que la extensión de la periodontitis estuviera asociada con la edad, el sexo, la escolaridad ni el tabaquismo.
+
+
+
+
+
+Tabla 5 Extensión de la periodontitis según variables socio-demográficas en los sujetos con periodontitis (n= 81) 
+
+
+
+
+
+
+
+Tabla 5 Extensión de la periodontitis según variables socio-demográficas en los sujetos con periodontitis (n= 81) 
+
+Polimorfismo H131R en el gen
+
+
+
+FCGR2A
+
+
+
+De manera global, el genotipo R/R se presentó en el 18.1% (n=17) de los sujetos y el genotipo R/H en el 81.9% (n=77) restante. El genotipo H/H no se observó en esta muestra de pacientes. En línea con lo anterior, la frecuencia del alelo R es del 59% y la del alelo H del 41%. La presencia de este polimorfismo se analizó como frecuencia alélica y genotípica en relación a la severidad de la periodontitis (Tabla 6) y a la extensión de la enfermedad (Tabla 7). Ni la frecuencia genotípica ni la alélica se asociaron significativamente al total de dientes, porcentaje de SS, media de NIC y de PS (datos no mostrados). 
+
+
+
+Tabla 6: Frecuencia genotípica y alélica en sujetos sin y con periodontitis severa o moderada.
+
+Ni la frecuencia genotípica ni la alélica se asociaron significativamente a la severidad de la periodontitis. 
+
+
+
+
+
+Tabla 6 Frecuencia genotípica y alélica en sujetos sin y con periodontitis severa o moderada (n=94) 
+
+
+
+
+
+
+
+Tabla 6 Frecuencia genotípica y alélica en sujetos sin y con periodontitis severa o moderada (n=94) 
+
+
+
+Tabla 7: Frecuencia alélica y genotípica según extensión. 
+
+Ni la frecuencia genotípica ni la alélica se asociaron significativamente a extensión de la periodontitis.
+
+
+
+
+
+Tabla 7 Frecuencia alélica y genotípica según extensión (n=94) 
+
+
+
+
+
+
+
+Tabla 7 Frecuencia alélica y genotípica según extensión (n=94) 
+
+DISCUSIÓN
+
+Diversos estudios han evidenciado que existe una posible asociación entre la distribución del polimorfismo H131R en el receptor FcRIIa y la presencia de periodontitis. Sin embargo, los resultados han sido controvertidos, lo que hace difícil concluir que exista o no una relación. Las razones para estas controversias pueden ser de diversa índole: disparidad en criterios diagnósticos utilizados para definir casos y controles, variaciones en el tamaño muestral y en el origen étnico de las poblaciones estudiadas. En nuestro país no hay estudios en relación a esta posible asociación. En este contexto, este estudio caracterizó por primera vez, clínica y genéticamente, una muestra de población chilena, describiendo además posibles asociaciones con los datos recabados, en un grupo de pacientes derivados a la especialidad de Periodoncia de nuestro Centro. Dada las dificultades derivadas de la selección de los criterios para definir la presencia de enfermedad y clasificarla, se quiso poner especial énfasis en establecer acuciosamente la severidad y extensión de la periodontitis, convirtiéndose la definición de enfermedad y su umbral diagnóstico en un aspecto metodológico central de nuestro estudio.
+
+Esta muestra de pacientes chilenos corresponde a sujetos de nivel socio-económico que puede ir desde bajo a intermedio, quienes asisten por iniciativa propia a una primera evaluación en un centro de atención odontológica privado y que luego son derivados a especialidad. Las características socio-demográficas del grupo muestran que la mayoría había cursado educación superior, no fumaba o fumaba muy poco (Tabla 1), encontrándose además todos los sujetos libres de otras enfermedades inmuno-inflamatorias. A pesar de que estas variables, que se consideran factores de riesgo y/o susceptibilidad reconocidos para periodontitis, no estaban presentes, la gran mayoría de los sujetos presentó periodontitis en su forma moderada o severa (Tabla 2). Esto se ve reflejado en los valores de NIC, PS y en un nivel de inflamación gingival moderado y prevalente que se evidencia en los valores de SS (85% de los pacientes en más del 20% de sus sitios), con diferencias significativas para cada uno de estos parámetros clínicos entre periodontitis moderada y severa (Tabla 3). Todo esto indica que en esta muestra, que tiene la mayor parte de su dentición, hay una marcada expresión fenotípica de la periodontitis no sólo a nivel de sujeto, sino que también a nivel de diente y sitio. Esto se debe probablemente a que se trata de pacientes adecuadamente evaluados y derivados a la especialidad, así como a la alta prevalencia de esta enfermedad en Chile.
+
+Si bien la mayoría de los sujetos presentaron periodontitis, 13 individuos (de 94) no clasificaron como enfermos desde el punto de vista epidemiológico. Aunque estos sujetos presentaban Pérdida de Inserción Periodontal (PIP), ésta estaba por debajo del umbral diagnóstico para periodontitis de acuerdo a los criterios utilizados en este estudio. Entre estos sujetos, observamos incluso algunos menores de 35 años (Tabla 2). Como se ha visto en los artículos antes citados, en nuestro país la presentación precoz de pérdida de inserción se describe incluso en adolescentes4,5,6,7. Al realizar pruebas de asociación entre severidad/extensión y variables socio-demográficas como sexo, edad, tabaquismo y escolaridad de los sujetos de este estudio, se encontraron diferencias significativas para edad y sexo, pero no para escolaridad y tabaquismo. Tomando en cuenta estos últimos, que son factores de susceptibilidad/riesgo reconocidos, creemos que en el caso de la escolaridad hubo una tendencia con un p cercano a la significancia estadística (p=0,062), por lo tanto de ampliarse el número de sujetos, podría confirmarse esta asociación, tal como se ha observado en estudios epidemiológicos realizados en Chile y en Latinoamérica4,5,6,7. En cuanto a la variable tabaquismo, era de esperar que no se observara asociación dado que había pocos sujetos fumadores en este estudio con bajo número de cigarrillos fumados por día.
+
+El aumento de la severidad y la extensión con la edad es una relación que está ampliamente descrita en la literatura, tanto en población chilena, como en este estudio y en otras partes del mundo3,4,5,45. Con respecto a la variable sexo, en nuestro estudio observamos una asociación entre sexo y severidad; el sexo masculino presenta más periodontitis moderada y en las mujeres hay mayor porcentaje sin periodontitis. En otros estudios en población chilena y latinoamericana se han descrito resultados disímiles; por una parte el sexo masculino como indicador de riesgo, como en el presente estudio, y por otra parte mayor PS, SS y pérdidas de inserción en mujeres4,5,6. 
+
+Es sabido que una dificultad para comparar los distintos estudios es la falta de consenso y homogeneidad de criterios, al usarse diferentes definiciones de periodontitis, las que incluyen: periodontitis crónica, estatus periodontal, enfermedad periodontal, periodontitis del adulto, pacientes con periodontitis, enfermedad periodontal refractaria, periodontitis juvenil localizada, periodontitis agresiva localizada/generalizada, además de pacientes resistentes a periodontitis, a lo que se suma el uso de distintas definiciones de umbral diagnóstico o la ausencia de una definición clara de éste.14-26. Por lo mismo, hay coincidencia en que el umbral diagnóstico, debe ser “preciso, consistente y relativamente precoz en la historia natural de la enfermedad”1,2. Para establecer si un sujeto se debe considerar como enfermo/caso, estimamos adecuada la definición que utiliza parámetros de profundidad de sondaje (PS), nivel de inserción clínico (NIC), y con umbrales diagnóstico de 4 mm y 3 mm, respectivamente. En este estudio, los pacientes fueron clasificados según severidad, de acuerdo a los criterios descritos por Page y Eke precisamente porque utilizan los mismos parámetros y valores de corte para el umbral/diagnóstico40,41. Para definir adecuadamente a los sujetos/casos y dado que la enfermedad es sitio-específica, consideramos imprescindible clasificar también según extensión42, si bien otros estudios no la contemplan y sólo consideran la “presencia de saco patológicamente inflamado mayor o igual a 4 mm en conjunto con pérdida de inserción” para definir periodontitis46. Además estimamos que en su definición es mejor considerar un conjunto de signos, entre ellos: NIC, PS, SS y pérdida ósea2. En consecuencia, para este estudio se registraron PS, NIC y también sangrado al sondaje (SS) y extensión; la mayor parte de los sujetos fueron examinados por un mismo evaluador con experiencia como especialista mayor a 15 años, minimizando el sesgo. Se prescindió de la evaluación de la pérdida ósea, pues implicaba haber tenido un registro imagenológico previo. Como era de esperar, tanto la media de NIC, de número de sitios con SS y de PS mostraron diferencias significativas entre las distintas categorías de periodontitis utilizadas. Si bien SS no está incluido como parámetro para establecer el diagnóstico, sin embargo, es un indicador de la presencia de inflamación, siendo éste congruente con los otros parámetros. Con todo lo anterior y para efectos de este estudio, se consideró un umbral diagnóstico que no sobrevalora a pacientes sanos con pérdida de inserción, pero al mismo tiempo no subvalora a pacientes con periodontitis con pérdida leve de inserción clínica. En consecuencia, consideramos que se trata de un estudio con sujetos que fueron clasificados de acuerdo a criterios ampliamente reconocidos y validados.
+
+En el desarrollo de la periodontitis pueden influir diversos factores, entre ellos aquellos inherentes al proceso inflamatorio. Hoy en día se reconoce ampliamente el rol de la familia de receptores Fc y en particular aquel del FcRIIa (CD32a) como factor de susceptibilidad y/o severidad en enfermedades autoinmunes como lupus eritematoso sistémico (SLE), artritis reumatoide y Síndrome de Guillain-Barré, así como en algunas enfermedades infecciosas, entre ellas periodontitis11,12. En este receptor se ha descrito la variante FcRIIa-R131, a la que se asocia una respuesta más baja frente a la agresión bacteriana (denominados genotipos hipo-respondedores o “low-responder”), en contraste a la variante “wildtype” FcRIIa-H131 (llamados hiper-respondedores o“high-responder”). Esta baja respuesta estaría dada por la disminución de la afinidad frente a IgG2, lo que se ha demostrado, por ejemplo, en leucocitos polimorfo-nucleares de individuos homocigotos para FcγRIIa-R131 al realizar fagocitosis de partículas opsonizadas con IgG2 menos eficientemente que aquellos homocigotos para FcRIIa-H13126. Hay reportes en que la presencia del alelo R del FcRIIa, junto con una tendencia hacia la síntesis preferencial de IgG2 contra A. actinomycetemcomitans (Aa), podría aumentar el riesgo de periodontitis juvenil localizada26. En este estudio realizado en una población afro-americana, se encontró que el genotipo R/R conferiría un “alto”, H/R un “moderado” y H/H un “bajo riesgo relativo” de periodontitis. Asimismo, en este estudio, los neutrófilos de pacientes con periodontitis agresiva y genotipo FcRIIa-R/R131 se asociaron a un menor índice fagocítico26. El FcγRIIa representa el único FcR leucocitario capaz de unirse con IgG2, por lo que una variante que disminuya la capacidad de interactuar con esta subclase de anticuerpos tiene implicancias para la respuesta inmunoinflamatoria, tal como se ha demostrado en diferentes estudios relacionados con periodontitis13,18,19,24,26. Sin embargo, existe controversia respecto de esta asociación: hay reportes en que observan mayor destrucción periodontal asociada al genotipo H/H versus H/R o R/R, derivado de una hiper-reactividad de los leucocitos polimorfonucleares H/H en respuesta a bacterias, lo que se constituiría como uno de las causas conducentes a esta mayor destrucción periodontal29. Sin embargo, en un estudio de seguimiento prospectivo de Wolf y col, no se pudo demostrar una relación clínicamente relevante entre ninguno de los alelos de esta variante y la condición periodontal16. Asimismo, Shimomura-Kuroki y col no pudieron detectar tampoco una asociación entre el polimorfismo del Fc RIIa y periodontitis agresiva localizada en adolescentes japoneses47. En estudios de meta-análisis en relación a este tema, se confirma la ausencia de una asociación clara y universal: débil evidencia de asociación entre el polimorfismo FcRIIA H131R y periodontitis agresiva en asiáticos (alelo R versus H, OR 1.579, 95% CI: 1.025, 2.432)13,17 y, por otra parte, asociación entre los genotipos RR+RH y periodontitis en población caucásica (OR = 0.624, 95 % CI = 0.479-0.813, p = 4.79 10-5), pero no en población asiática y africana48. 
+
+Los únicos datos en relación a la frecuencia de esta variante polimórfica en población chilena son los encontrados en pacientes con lupus eritematoso sistémico (LES) y nefropatía. En la población control, la distribución de los genotipos FCgammaRIIa-R131/R131, R131/H131 y H131/H131 fue 25%, 43% y 32% respectivamente, mientras que en los pacientes con LES fueron 35%, 35% y 30%. No se observaron diferencias significativas en la distribución de los diferentes genotipos entre pacientes con LES y controles (tabla de contingencia 3x2, χ2=1,19, p=0,55). En cuanto a la distribución de la frecuencia alélica del FcγRIIa en pacientes portadores de LES y controles, en el grupo control la frecuencia del FcγRIIa-R131 fue 41 (47%) mientras que en los pacientes con LES fue 54 (52%). La frecuencia del FcRIIa-H131 fue 47 (53%) en el grupo control y 50 (48%) en los pacientes con LES. No se observaron diferencias significativas en la frecuencia alélica del receptor FcRIIa entre pacientes con LES y controles (tabla de contingencia 2x2, χ2=0,54, p=0,46). En relación a la distribución del genotipo y frecuencia alélica del FcγRIIa en pacientes con LES con y sin historia de nefropatía, en los pacientes con LES con historia de nefritis, la distribución de los genotipos FCRIIa-R131/R131, R131/H131 y H131/H131 fue 40%, 40% y 20% respectivamente, mientras que en los pacientes lúpicos sin nefritis la distribución fue 37%, 31% y 31%. No se observaron diferencias significativas en la distribución de los diferentes genotipos entre los pacientes con LES con o sin historia de nefropatía (tabla de contingencia 3x2, χ2=0,73, p=0,69). En los pacientes con LES con nefropatía, la frecuencia del alelo R fue 24 (60%) mientras que en los pacientes sin nefropatía fue 20 (53%). Por otro lado, la frecuencia del alelo H fue 16 (40%) en los pacientes lúpicos con nefropatía y 18 (47%) en los pacientes con LES sin nefropatía. No se observaron diferencias significativas en la frecuencia alélica del receptor FcRIIa entre pacientes con LES con o sin nefropatía (tabla de contingencia 2x2, χ2=0,43, p=0,51)49.
+
+En esta muestra bien caracterizada de pacientes chilenos derivados a especialista en periodoncia40,41,42, como era de esperar, hubo un alto porcentaje de individuos con periodontitis (81 de 94). Aunque no encontramos diferencias estadísticamente significativas entre sujetos sin y con periodontitis (ni tampoco entre aquellos con la forma moderada y severa) con respecto al genotipo R/R o R/H, ni a las frecuencias alélicas H y R, sí se observó que la frecuencia del genotipo R/R fue casi tres veces mayor en sujetos con periodontitis (19,8% versus 7,7%). Sin embargo, dado que se trata de un grupo de pacientes derivados, el número de controles necesario no se alcanzó. Es posible que la ausencia de homocigotos H/H en esta muestra de pacientes esté relacionada a este mismo hecho, dado que este genotipo, que en algunos estudios es considerado protector, pudiera estar sub-representado en esta muestra con tan pocos sujetos sin enfermedad. Otro aspecto que tomamos en cuenta, fue la posibilidad de fallas descritas en técnicas como la PCR en tiempo real50. La ausencia de amplificación de un alelo o “allele drop out” que daría cabida a falsos negativos es una de ellas; sin embargo, en este caso se obtuvo amplificación del alelo H en presencia del alelo R (en sujetos heterocigotos). Otra posible fuente de error sería la amplificación inespecífica del alelo R (en sujetos que no lo tienen), dando como resultados falsos positivos. Tomando en cuenta esta posibilidad, se repitió el estudio genético en una muestra aleatoria de sujetos, obteniéndose los mismos resultados, validando así junto con el uso de controles negativos en cada corrida de PCR, los resultados previamente obtenidos. En consecuencia, la ausencia de homocigotos H/H estaría más bien relacionada con el escaso número de sujetos sin periodontitis que con una falla técnica. Queda entonces abierta la pregunta, si efectivamente en esta muestra de pacientes diagnosticados con criterios ampliamente reconocidos, hay una asociación entre el alelo R y periodontitis.
+
+La comparación de nuestros resultados con otros estudios se debe realizar con cautela, tanto por las diferencias en los criterios diagnósticos, como también por las diferencias étnicas. Estas últimas se evidencian al comparar las frecuencias genotípicas de homocigotos R/R (como ejemplo) en poblaciones sin enfermedad: 23% en la población caucásica, 31% en población nativa norte-americana y 6% en población japonesa y china13. En este contexto, cabe destacar que nuestra población es reconocidamente una mezcla entre los pueblos originarios e inmigrantes europeos, demostrándose recientemente que un chileno promedio está constituido por un 44,7% de genes nativos americanos, 52,3% europeos y 3,0% africanos51.
+
+En conclusión, este es el primer trabajo en que se estudia el polimorfismo H131R en el FcRIIa en población chilena en una muestra de pacientes adecuadamente caracterizados, utilizando parámetros clínicos claros que hoy en día están ampliamente validados en la literatura. Nuestros resultados indican que en esta muestra de pacientes chilenos la periodontitis no se encontraría asociada a este polimorfismo. Sin embargo, también sugieren que son necesarios futuros estudios para determinar en muestras más grandes con seguimiento, si variantes en este gen u otros genes constituyen o no factores de susceptibilidad a periodontitis
+
+AGRADECIMIENTOS
+
+Fuente de apoyo en forma de subvención: Empresa Colgate, Dr. Vicente Aránguiz Freyhofer.
