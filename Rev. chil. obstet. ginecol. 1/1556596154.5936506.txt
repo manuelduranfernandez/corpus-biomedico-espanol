@@ -1,0 +1,136 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262014000500008
+Perfil lipídico en mujeres embarazadas sanas de tres regiones de Chile
+
+ 
+
+INTRODUCCIÓN
+
+La incidencia de diabetes mellitus gestacional (DMG) ha aumentado a nivel mundial desde 4% en 1980 a 20% en 2007 (1,2,3). La principal complicación de la DMG es la macrosomia fetal (fetos grandes para edad gestacional, GEG), que constituye un problema tanto para el obstetra como para el neonatólogo. Para el obstetra, las consecuencias son trabajo de parto prolongado, cesárea, hemorragia postparto y laceraciones vaginales (4). Para el neonatólogo, los efectos adversos incluyen fractura de clavícula, lesiones del plexo braquial, hipoglicemia, hiperbilirrubinemia, dificultad respiratoria y miocardiopatía hipertrófica (5,6).
+
+El año 2012, demostramos que la tasa de recién nacidos GEG fue de 18%, en 251 embarazadas con DMG a pesar de un óptimo control glicémico (7). Al clasificar las madres en dos grupos según su peso pregestacional, las tasas de GEG fueron de 10% para el grupo sin sobrepeso y de 25% para las madres con sobrepeso pregestacional, a pesar que ambos grupos presentaban parámetros similares de buen control glicémico. Estos hallazgos nos demostraron que puede haber macrosomia aunque exista un adecuado control glicémico, y esto es más prevalente en el grupo de madres con sobrepeso.
+
+En este contexto, diferentes tipos de evidencia apuntan hacia los lípidos, particularmente los triglicéridos (Figura 1), como posibles responsables del excesivo crecimiento fetal en embarazadas con DMG y sobrepeso que tienen un control glicémico óptimo (8). En otras palabras, cabe asumir que en el futuro próximo habrá un renovado interés en medir la relación entre lípidos en el suero materno y crecimiento fetal, no solo en DMG sino que en embarazadas con sobrepeso u obesidad pregestacional. Ahora bien, los lípidos en el suero materno son al menos cinco: colesterol total (CT), colesterol LDL (LDL-C), triglicéridos (TG), Colesterol-HDL (HDL-C), y ácidos grasos no esterificados (NEFA por sus siglas en inglés, o ácidos grasos libres), y todos ellos varían considerablemente según la edad gestacional, de modo que durante el embarazo no podemos usar un solo rango como normal para cada uno de ellos. De allí entonces la necesidad de generar tablas y gráficos de percentiles normales de lípidos séricos maternos según edad gestacional en población embarazada sana y sin sobrepeso, y en lo posible, con población del país obtenida de varios centros asistenciales en más de una región geográfica.
+
+ 
+
+ 
+
+El objetivo de esta investigación es exponer los resultados que con la cooperación de cinco Servicios de Obstetricia y Ginecología de tres regiones del país, logramos reunir para calcular las tablas y gráficos de lípidos maternos normales a lo largo del embarazo.
+
+PACIENTES Y MÉTODO
+
+Las pacientes (Tabla I) fueron 94 embarazadas sanas, jóvenes (rango: 20-33 años, edad media de 27,6 ± 6,2 años), con Índice de Masa Corporal (IMC) normal pregestacional (20-24,9 Kg/m2). La media aritmética de IMC pregestacional fue de 23,3 ± 2,0 Kg/m2. Las pacientes provenían de Hospital Parroquial de San Bernardo (n= 55), Hospital de Talca (n=2), Hospital del Profesor (n=18), Hospital Regional de Concepción (n=9) y Hospital Clínico de la Pontificia Universidad Católica de Chile (n=10).
+
+ 
+
+Tabla I     CARACTERÍSTICAS DE LAS 94 EMBARAZADAS CHILENAS SANAS EN LAS QUE SE EFECTUÓ EL ESTUDIO
+
+ 
+
+Todas las pacientes fueron reclutadas bajo consentimiento informado, de acuerdo con las normas del comité de ética de cada una de las instituciones, y cumpliendo con todos los postulados de la Declaración de Helsinki.
+
+Cada muestra de sangre fue obtenida en la mañana, luego de un ayuno nocturno de 12 horas. Una vez separado el suero, dos alícuotas fueron enviadas a los laboratorios y conservadas en refrigerador a -80°C hasta su posterior análisis.
+
+El perfil lipídico, que incluye colesterol total (CT), colesterol LDL (LDL-C), triglicéridos (TG), Colesterol-HDL (HDL-C), fue medido con el mismo sistema en los cinco centros hospitalarios. Se utilizó muestras de suero, usando un ensayo enzimático-colorimétrico usando reactivos HUMAN (Gesellschaft für Biochemica und Diagnostica mbH, Alemania), en autoanalizador HumaStar 80 de la misma empresa.
+
+Los ácidos grasos no esterificados (NEFA por sus siglas en inglés, o ácidos grasos libres), fueron medidos en las muestras de suero provenientes del Hospital Parroquial de San Bernardo (n=55). Se utilizaron muestras de suero, usando un ensayo colorimétrico mediante el kit NEFA Randox (Randox Laboratories Ltd., United Kingdom) procesados también en el autoanalizador HumaStar80 (Gesellschaft für Biochemica und Diagnostica mbH, Alemania).
+
+Tanto los datos clínicos como los resultados de perfil lipídico y ácidos grasos libres fueron ordenados en una base de datos SPSS (PASW Statistics 18, Release 18.0.0, Julio 30th, 2009. WinWrap-Basic, © 1993-2007, Polar Engineering and Consulting, USA). Los valores de perfil lipídico fueron guardados tanto en unidades de milígramos por decilitro (mg/dL) como de milimoles por litro (mmol/l). Los valores de ácidos grasos libres fueron archivados solamente en mmol/l.
+
+Se obtuvieron muestras para las semanas 9, 11, 13, 22, 24, 27, 33, 35 y 38. El número de muestras para cada semana fueron, respectivamente: 9, 15, 9, 21, 8, 6, 19, 4 y 3. Para cada una de las semanas mencionadas, se calculó la media y la desviación estándar (±DE). El percentil 90 (P-90) se calculó sumando a la media la desviación estándar multiplicada por 1,282. El percentil 10 (P-10) se calculó restando a la media la desviación estándar multiplicada por 1,282.
+
+Una vez obtenidos las medias, DE, P-90 y P-10, aplicamos un segundo programa computacional, Prism-6 For Windows, Versión 6.04-Trial (© 1992-2014 GraphPad Software Inc., USA). Para cada uno de los lípidos y para los ácidos grasos libres, obtuvimos las curvas de regresión polinomial de segundo orden de medias, DE, P-90 y P-10, las que fueron impresas en gráficos cuyo eje X (abscisa) era las semanas de embarazo. Además, presentamos en una tabla las ecuaciones de las funciones polinomiales, tanto en mg/dL como en mmol/l, con el fin que estas curvas puedan ser impresas por otros autores e investigadores en forma precisa y con el tamaño que ellos consideren adecuado a sus propósitos.
+
+RESULTADOS
+
+La Tabla II muestra el colesterol total materno, con sus valores medios, DE, P-90 y P-10, expresados tanto en mg/dL como en mmol/l. La Tabla III muestra, para el colesterol total materno, las ecuaciones de regresión polinomial de segundo orden de los percentiles (50, 90 y 10). La Figura 2, muestra los percentiles P-50, P-90 y P-10 de colesterol total materno, calculados a partir de las ecuaciones polinomiales de la Tabla II.
+
+ 
+
+Tabla II     COLESTEROL TOTAL MATERNO EN 94 MADRES EMBARAZADAS SANAS PROVENIENTES DE CINCO HOSPITALES EN TRES REGIONES DE CHILE, CON VALORES EXPRESADOS TANTO EN MG/DL COMO EN MMOL/L
+
+ 
+
+Tabla III     COLESTEROL TOTAL MATERNO: ECUACIONES DE REGRESIÓN POLINOMIAL DE SEGUNDO ORDEN PARA LOS PERCENTILES (50, 90 Y 10), QUE PERMITIERON CONSTRUIR EL GRÁFICO DE LA FIGURA 2, CON VALORES EXPRESADOS TANTO EN MG/DL COMO EN MMOL/L
+
+ 
+
+ 
+
+La Tabla IV muestra el colesterol LDL materno, con sus valores medios, DE, P-90 y P-10, expresados tanto en mg/dL como en mmol/l. La Tabla V muestra, para el colesterol LDL materno, las ecuaciones de regresión polinomial de segundo orden de los percentiles (50, 90 y 10). La Figura 3, muestra los percentiles P-50, P-90 y P-10 de colesterol total materno, calculados a partir de las ecuaciones polinomiales de la Tabla V.
+
+ 
+
+Tabla IV     COLESTEROL LDL MATERNO EN 94 MADRES EMBARAZADAS SANAS PROVENIENTES DE CINCO HOSPITALES EN TRES REGIONES DE CHILE, CON VALORES EXPRESADOS TANTO EN MG/DL COMO EN MMOL/L
+
+ 
+
+Tabla V     COLESTEROL LDL MATERNO: ECUACIONES DE REGRESIÓN POLINOMIAL DE SEGUNDO ORDEN PARA LOS PERCENTILES (50, 90 Y 10), QUE PERMITIERON CONSTRUIR EL GRÁFICO DE LA FIGURA 3, CON VALORES EXPRESADOS TANTO EN MG/DL COMO EN MMOL/L
+
+ 
+
+ 
+
+La Tabla VI muestra los triglicéridos maternos, con sus valores medios, DE, P-90 y P-10, expresados tanto en mg/dL como en mmol/l. La Tabla VII muestra, para los triglicéridos maternos, las ecuaciones de regresión polinomial de segundo orden de los percentiles (50, 90 y 10). La Figura 4, muestra los percentiles P-50, P-90 y P-10 de triglicéridos maternos, calculados a partir de las ecuaciones polinomiales de la Tabla VII.
+
+ 
+
+Tabla VI     TRIGLICÉRIDOS MATERNOS EN 94 EMBARAZADAS SANAS PROVENIENTES DE CINCO HOSPITALES DE TRES REGIONES DE CHILE, CON VALORES EXPRESADOS TANTO EN MG/DL COMO EN MMOL/L
+
+ 
+
+Tabla VII     TRIGLICÉRIDOS MATERNOS: ECUACIONES DE REGRESIÓN POLINOMIAL DE SEGUNDO ORDEN PARA LOS PERCENTILES (50, 90 Y 10), QUE PERMITIERON CONSTRUIR EL GRÁFICO DE LA FIGURA 4 CON VALORES EXPRESADOS TANTO EN MG/DL COMO EN MMOL/L
+
+ 
+
+ 
+
+La Tabla VIII muestra el colesterol HDL materno, con sus valores medios, DE, P-90 y P-10, expresados tanto en mg/dL como en mmol/l. La Tabla IX muestra, para el colesterol HDL materno, las ecuaciones de regresión polinomial de segundo orden de los percentiles (50, 90 y 10). La Figura 5, muestra los percentiles P-50, P-90 y P-10 de colesterol HDL materno, calculados a partir de las ecuaciones polinomiales de la Tabla IX.
+
+ 
+
+Tabla VIII     COLESTEROL-HDL MATERNO EN 94 MADRES EMBARAZADAS SANAS PROVENIENTES DE CINCO HOSPITALES EN TRES REGIONES DE CHILE, CON VALORES EXPRESADOS TANTO EN MG/DL COMO EN MMOL/L
+
+ 
+
+Tabla IX     COLESTEROL-HDL MATERNO: ECUACIONES DE REGRESIÓN POLINOMIAL DE SEGUNDO ORDEN PARA LOS PERCENTILES (50, 90 Y 10), QUE PERMITIERON CONSTRUIR EL GRÁFICO DE LA FIGURA 5 CON VALORES EXPRESADOS TANTO EN MG/DL COMO EN MMOL/L
+
+ 
+
+ 
+
+La Tabla X muestra los NEFA maternos, con sus valores medios, DE, P-90 y P-10, expresados en mmol/l. La Tabla XI muestra, para los NEFA maternos, las ecuaciones de regresión polinomial de segundo orden de los percentiles (50, 90 y 10). La Figura 6, muestra los percentiles P-50, P-90 y P-10 de NEFA maternos, calculados a partir de las ecuaciones polinomiales de la Tabla XI.
+
+ 
+
+Tabla X     ÁCIDOS GRASOS NO ESTERIFICADOS (NEFA) MATERNOS EN 94 EMBARAZADAS SANAS PROVENIENTES DE CINCO HOSPITALES DE TRES REGIONES DE CHILE, CON VALORES EXPRESADOS SOLAMENTE EN MMOL/L
+
+ 
+
+Tabla XI     ÁCIDOS GRASOS NO ESTERIFICADOS (NEFA) MATERNOS: ECUACIONES DE REGRESIÓN POLINOMIAL DE SEGUNDO ORDEN PARA LOS PERCENTILES (50, 90 Y 10), QUE PERMITIERON CONSTRUIR EL GRÁFICO DE LA FIGURA 6 CON VALORES EXPRESADOS SOLAMENTE EN MMOL/L
+
+Y=ácidos grasos no esterificados (NEFA) maternos (expresados solo en mmol/l). X=semana de embarazo
+
+ 
+
+ 
+
+DISCUSIÓN
+
+Con respecto al nivel de colesterol total materno en el embarazo normal, se aceptaba en 2008 que en el momento del parto, éste ha aumentado 25-50% con respecto a su nivel pregestacional (9,10). En nuestras pacientes el colesterol medio aumentó un 35,9% entre las 9 y 38 semanas.
+
+El colesterol es captado por el trofoblasto placentario en forma de lipoproteínas que son internalizadas en forma tanto receptor-dependiente como receptor-independiente. En la primera mitad del embarazo, la concentración fetal de colesterol se correlaciona estrictamente con los niveles maternos, pero esta relación se pierde en el tercer trimestre, cuando el colesterol plasmático fetal disminuye (11).
+
+En general se acepta que los triglicéridos maternos aumentan tres o cuatro veces durante el embarazo normal con respecto a sus valores pregestacionales (9). En nuestras pacientes el valor medio de triglicéridos aumentó 3,4 veces entre la semana 9 y la 38.
+
+Fisiológicamente, el transporte transplacentario de triglicéridos (Figura 1) se incrementa por la hipertrigliceridemia materna fisiológica del embarazo. Esta última condición se debe a dos mecanismos: disminución del catabolismo de las lipoproteínas de muy baja densidad (VLDL) maternas, y una lipolisis acelerada en el tejido adiposo. El catabolismo de las VLDL en los tejidos adiposo y muscular maternos está bloqueada parcialmente por la resistencia insulínica fisiológica del embarazo, que reduce la actividad de la lipasa lipoproteica (LPL). Por otro lado, la misma resistencia a la insulina incrementa el flujo de ácidos grasos no esterificados y glicerol hacia el hígado, determinando una mayor síntesis hepática materna de VLDL. El resultado de la hipertrigliceridemia materna es un flujo global incrementado de VLDL hacia la placenta (12-15). Allí, la lipasa lipoproteica placentaria, que está presente en la membrana vellosa materna del sincicio-trofoblasto, hidroliza las moléculas de triglicéridos de las VLDL, transformándolas en ácidos grasos libres y glicerol, los que a su vez son re-esterificados como triglicéridos en el citotrofoblasto. Finalmente, las células del endotelio capilar fetal vuelven a hidrolizar a los triglicéridos, y los ácidos grasos así generados son transportados por la alfa-fetoproteína (aFP) sanguínea hacia los tejidos fetales.
+
+Se ha reportado que el colesterol-HDL sube en el embarazo normal aproximadamente en 30% en comparación con mujeres no embarazadas, producto de mayor síntesis estimulada por los estrógenos placentarios (16,10). En nuestras pacientes el colesterol-HDL medio aumentó un 33,7% entre la semana 9 y la 38.
+
+Los ácidos grasos libres (NEFA) aumentan hasta un 47% a lo largo del embarazo en mujeres sanas, debido a una tasa mayor de lipolisis, particularmente en el tercer trimestre (17,18,19). En nuestras pacientes, el nivel medio de ácidos grasos libres aumentó un 31,7% entre la semana 11 y la 35. La mayor dispersión de datos ocurrió en el segundo trimestre.
+
+Desde 1984 (20) y al menos hasta el año 2008 la elevación de lípidos maternos observada durante el embarazo aún en ausencia de diabetes gestacional o pregestacional se hacía llamar "Lipemia Gestacional", y solamente se le asignaba importancia como posible predictor de dislipidemia y riesgo cardiovascular en la madre y la descendencia, años después del parto (10). Fue precisamente a comienzos de la década de 1980 cuando se publicaron las primeras tablas de lípidos maternos normales según edad gestacional (10,21), especificando el percentil 90 de colesterol total y triglicéridos, y el percentil 10 de colesterol HDL. En efecto, la razón por la que nosotros elegimos los percentiles 50, 90 y 10 para delimitar la normalidad fue precisamente para que nuestros resultados fuesen fácilmente comparables con los de autores previos.
+
+CONCLUSIÓN
+
+Hemos cumplido nuestro objetivo de llenar la necesidad de generar tablas y gráficos de percentiles normales de lípidos séricos maternos según edad gestacional en población embarazada sana y sin sobrepeso, con población del país obtenida de varios centros asistenciales en más de una región geográfica. En efecto, mediante la cooperación de cinco Servicios de Obstetricia y Ginecología de tres regiones del país, logramos calcular las tablas y gráficos de lípidos maternos normales a lo largo del embarazo, que sean aplicables a la población de embarazadas chilenas.

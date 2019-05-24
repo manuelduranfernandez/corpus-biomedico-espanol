@@ -1,0 +1,148 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262016000500015
+Diseño e implementación de una unidad de medicina materno fetal
+
+ 
+
+INTRODUCCIÓN
+
+La obstetricia es una de las disciplinas de la medicina que más ha contribuido al desarrollo de los sistemas de salud, siendo su contribución y logros independientes de las condiciones socioeconómicas de la población.
+
+Si bien se reconoce el ejercicio de la obstetricia desde tiempos pretéritos, no es hasta alrededor de la década de los 50 donde su ejercicio comienza su camino hacia su máximo desarrollo en nuestro país.
+
+Chile, en 1950, contaba con una población de alrededor de 6.000.000 de habitantes, de las cuales la mitad eran mujeres, las que tenían una tasa de fecundidad de alrededor de 5 y una expectativa de vida que no superaba los 56 años. La razón de mortalidad materna era de 30/10.000 nacidos vivos, la mortalidad infantil de 136/1.000 nacidos vivos y la mortalidad neonatal de 49/1.000 nacidos vivos.
+
+En 1952, se crea el Servicio Nacional de Salud, priorizando la salud materno-infantil, las enfermedades infecto-contagiosas, la malnutrición por déficit y al saneamiento básico. La creación del Servicio Nacional de Salud, significó el cambio de un modelo de salud basado en la filantropía caritativa a un modelo de salud médico asistencial.
+
+El naciente Servicio Nacional de Salud emplea como estrategias, entre otras, el control prenatal, la atención profesional del parto y la regulación de la fecundidad. En el año 1952, año de la creación del Servicio, el aborto provocado representaba alrededor del 50-60% de las muertes maternas. En el año 1962, con una tasa de fecundidad creciente, se crea la Comisión Asesora de Regulación de la Fecundidad, mientras que dos años más tarde, se establece la Política Nacional de Planificación Familiar. Al mismo tiempo que ello ocurría, el Ministerio de Salud, a través de su Unidad Normativa de Salud de la Madre, fijaba las bases del control prenatal en los establecimientos públicos de salud del país, a través de la determinación de factores de riesgo.
+
+Chile comienza a disminuir sus tasa de fecundación a partir de la década de los 70, al mismo tiempo que lo hace la mortalidad materna y la mortalidad por aborto y aumenta la atención profesional del parto.
+
+Chile presenta hoy los mejores indicadores de salud de América Latina (1,2,3). La última información disponible, ubican la población de Chile en 17.711.004 habitantes, de los cuales 8.947.352 son mujeres. La esperanza de vida para las mujeres chilenas alcanza los 82,2 años. La tasa global de fecundidad, hijos por mujer, es 1,83 y los nacidos vivos fueron 243.858, en el informe del año 2014, con una tasa de natalidad de 14,01/1000 habitantes. La atención profesional del parto es de un 99,83%, hubo 35.184 nacidos vivos en madres menores de 20 años (14,08%), 879 nacidos vivos en madres menores de 15 años (0,36%), y 34.305 nacidos vivos de madres entre 15 y 19 años (14,08%). Los recién nacidos de bajo peso al nacer alcanzaron a 14.551 (5,97% del total de recién nacidos).
+
+Hubo 54 defunciones maternas y la razón de mortalidad materna fue de 22,14/100.000 nacidos vivos. Se registraron 2.064 defunciones fetales y la mortalidad fetal fue de 8,4/1000 nacimientos. Hubo 2.310 muertes perinatales con una mortalidad perinatal de 9,4/1000 nacimientos. Las defunciones de menores de 1 año y la mortalidad infantil fueron de 1.812 y 7,4/1000 nacidos vivos, respectivamente. Las defunciones y mortalidad neonatal precoz fueron de 1.034 y 4,2/1.000 nacidos vivos. Las defunciones y mortalidad neonatal fueron de 1.037 y 5,4/1.000 nacidos vivos, y las defunciones y mortalidad post neonatal de 505 y 2,1/1.000 nacidos vivos, de acuerdo a la última información disponible. La malnutrición por déficit en gestantes en control en establecimientos públicos alcanzó 5.029 embarazadas (5,5% del total), mientras que la mal-nutrición por exceso afectó a 53.823 embarazadas (59,3%).
+
+La población chilena actual presenta altas tasas de hipertensión, diabetes, dislipidemia, tabaquismo, obesidad, antecedentes de infarto agudo del miocardio y antecedentes de enfermedad cerebro vascular, que complican el control prenatal y la atención del parto.
+
+EL PROYECTO AMPHOS
+
+Con el fin de diseñar e implementar unidades de medicina materno-fetal, que se hagan cargo de los nuevos desafíos en el ejercicio de la obstetricia, es necesario que los hospitales y centros privados asuman un nuevo rol. Hemos elegido la metodología sugerida por el proyecto español AMPHOS (Análisis y Mejoras de Procesos Hospitalarios), desarrollado por gestores y clínicos convocados por AbbVie y que ha contado con la colaboración de profesionales del Centro de Innovación Sanitaria del IESE (Instituto de Estudios Superiores De la Empresa) de la Universidad de Navarra (4,5).
+
+El proyecto AMPHOS de análisis y mejoría de los procesos hospitalarios, permite avanzar hacia un modelo descentralizado, con mayor implicancia de los profesionales y centrado en la atención integral del paciente, teniendo como objetivos: el fomento del valor del hospital, el apoyo a la gestión integral y eficiente de salud, favoreciendo la calidad asistencial y la atención del paciente en un ambiente de reforma estructural del sistema hospitalario.
+
+La Guía AMPHOS cuenta con 7 módulos y se presentan a continuación las consideraciones teóricas, actividades y tareas definidas por el modelo. Los dos primeros módulos del proyecto AMPHOS consideran el hospital donde se desarrollará la unidad de medicina materno-fetal, de ahí que el análisis de los aspectos más relevantes de los hospitales del futuro sean incorporados al momento de hacer el análisis de los objetivos estratégicos y el modelo organizativo de la institución (6).
+
+LOS HOSPITALES DEL FUTURO
+
+Contexto: La evolución de la medicina considera cambio en el manejo de muchas enfermedades, con el foco puesto en prevención y promoción, la personalización de la enfermedad y la experiencia que aportan los propios pacientes.
+
+Al momento de diseñar políticas de salud se debiera incorporar a los profesionales de salud de los hospitales, en especial al momento de fijar estrategias y planes para el manejo de enfermedades, y considerar a los gerentes de los mismos, cuando sean planificados servicios, con el objeto de optimizar la utilización de los recintos hospitalarios. Se deberían diseñar nuevos modelos de gobierno clínico, de tal manera que se privilegie decisiones más cercanas a los problemas, con más acciones en el nivel técnico.
+
+Los hospitales han concentrado en las últimas décadas profesionales altamente capacitados, inversión en tecnología y grandes volúmenes de actividad, en contraposición con la "excelencia triple operacional" que es el desafío actual y que apunta al manejo del conocimiento científico, la necesidad de implementar procesos efectivos y la provisión de servicios de excelencia.
+
+El hospital del futuro, deberá asumir desafíos y características particulares debido a que se desarrollarán en un ambiente cambiante, producto de los cambios demográficos y la transformación de la sociedad en una sociedad digital, con un incremento de las necesidades de salud, una déficit de recursos, producto de la disminución de los gastos destinados al sector, un cambio importante en los valores políticos y sociales y con nuevos liderazgos y modelos gerenciales en salud y nuevas tecnologías para el manejo del conocimiento.
+
+Un rol central es que la planificación y rediseño de los servicios de salud, no serán definidos en base a una estructura física y serán organizados para entregar servicios en diferentes lugares, serán centros de referencia para procesos de innovación tecnológica y el diseño de servicios de salud.
+
+Los hospitales continuarán siendo centros principales para la investigación y la formación de nuevos profesionales, generando conocimientos y capacitación, desarrollarán nuevos modelos para compartir riesgos con las aseguradoras, la industria y otros proveedores, sus profesionales participarán activamente en la estrategia y liderazgo de la organización, estarán organizados en base a grupos orientados por procesos y buscarán crear modelos de cuidados integrados.
+
+Pondrán su foco en servicios altamente complejos, con organizaciones muy eficientes, sin necesitar gran cantidad de prestaciones, ofrecerán nuevos servicios, con una medicina personalizada y diagnósticos basados en el genoma humano.
+
+Los hospitales líderes deberían ser muy activos en asistencia médica, docencia e investigación, desarrollar sistemas de información a la par con el desarrollo del conocimiento clínico en las diferentes especialidades y asegurar que el conocimiento se difunda rápidamente a través de toda la red de salud.
+
+Pacientes: El incremento de la experiencia de los pacientes conectará los hospitales líderes con los cuidados domiciliarios de los pacientes, necesitarán nuevos roles de sus profesionales, consejeros genéticos, responsables del manejo específico de algunas enfermedades, expertos en manejo de la información y en ingeniería biomédica y rediseñarán sistemáticamente su experiencia en servicios, innovando para que éstos sean centrados en los pacientes.
+
+Financiadores y gerentes de hospitales: Los financiadores y los gerentes de los hospitales deberían crear escenarios controlados para el desarrollo de nuevos contratos y nuevas formas de entregar servicios de salud. Se deberían preparar simulaciones o modelos de complementación que ayuden a establecer acuerdos de colaboración con actores relevantes en investigación y educación y se deberían crear nuevas capacidades en sistemas de información para profesionales de la salud, en orden de mejorar la conectividad con otros actores relevantes de la red de salud y con los pacientes.
+
+Profesionales: Los hospitales líderes deberían asegurar planes de desarrollo para sus profesionales, que incluyan no sólo las competencias clínicas a mejorar, sino también de liderazgo, administración gerencial y comunicaciones, lo cual contribuirá a alcanzar el gran impacto final que el sistema requiere.
+
+Módulo 1. Objetivos estratégicos del hospital
+
+Determinar los objetivos del cambio: Identificar los objetivos del cambio y evaluar los condicionantes externos.
+
+Definir los indicadores: Identificar indicadores para medir el cambio.
+
+Evaluar la situación de partida: Determinar el grado de madurez de la organización.
+
+Módulo 2. Modelo organizativo del hospital
+
+Revisar el modelo organizativo actual: Analizar la organización actual.
+
+Organizar los servicios en unidades de gestión clínica (UGC): Analizar las relaciones entre servicios, configurar las UGC, analizar la factibilidad de una UGC.
+
+Determinar el nuevo modelo operativo: Determinar el grado de delegación, definir la nueva estructura organizativa.
+
+MATERNIDADES DEL FUTURO
+
+Con el objeto de elaborar el plan estratégico de la Unidad de Medicina Materno-Fetal (UMMF), su modelo de gobierno, su gestión de procesos y personas deben ser considerados los siguientes aspectos: Una Maternidad es una organización de profesionales de salud, que ofrece asistencia multidisciplinaria a la mujer, al recién nacido y a la familia en el parto, y que cumple unos requisitos funcionales, estructurales y organizativos, de forma que garantiza las condiciones adecuadas de seguridad, calidad y eficiencia, para realizar esta actividad. La atención hospitalaria del parto culmina la gestación y durante el seguimiento del embarazo, debe identificarse el riesgo del embarazo y parto, pues el nivel de riesgo determinará el lugar de atención, así como la morbilidad obstétrica que requerirá su oportuna derivación (7).
+
+El riesgo del embarazo puede clasificarse en cuatro niveles:
+
+- Bajo riesgo: No se detectan factores definidos como de riesgo.
+
+- Riesgo I o medio: Embarazadas que poseen factores de riesgo de baja sensibilidad y especificidad. Los factores de riesgo de este grupo hará más probable la aparición de complicaciones. Estas embarazadas no requieren por lo general recursos altamente especializados, debiéndose vigilar en consultas prenatales obstétricas. También se incluyen en este grupo factores de riesgo con una mayor sensibilidad y especificidad, pero los gestantes que los poseen no requieren atención especializada hasta el tercer trimestre o durante el parto. Para el control y vigilancia de estos embarazos, habitual-mente es suficiente el personal de los equipos de obstetricia y el equipamiento que existe habitual-mente en los centros de atención ambulatoria.
+
+- Riesgo II o alto: Gestantes con factores de riesgo poco frecuentes pero con una gran sensibilidad y/o especificidad. Estas gestantes tienen un aumento notable de las posibilidades de complicaciones durante el embarazo y parto. Además, suelen requerir recursos sanitarios habituales no disponibles en asistencia ambulatoria, por lo que el control obstétrico debería realizarse en un servicio de alto riesgo o de nivel terciario desde el inicio del mismo o desde el inicio del mismo o desde el momento que se detecte el factor de riesgo.
+
+- Riesgo III o muy alto: Gestantes con factores de riesgo muy pocos frecuentes pero con muy alta sensibilidad y/o especificidad. Este grupo de gestantes suelen requerir atenciones especiales, recursos sanitarios de alta tecnología, vigilancia por los servicios de alto riesgo de obstetricia y hospitalización casi sistemática.
+
+Esta clasificación, que divide embarazos de bajo y alto riesgo, reconoce que aproximadamente un 20% de los embarazos son de alto riesgo y deberían ser responsables de más del 80% de resultados adversos. La obstetricia tradicionalmente se ha orientado a identificar el grupo de embarazadas que requieren de una mayor vigilancia y cuidado como consecuencia de presentar factores de riesgo claramente identificables y a la atención fetal y neonatal.
+
+El 80% de las gestantes no tienen factores de riesgo y existen varias propuestas respecto a cómo asumir su control prenatal, que podrá ser realizado por matronas/es y no requerirá infraestructura y tecnología de alto costo.
+
+Para embarazos, cuyo control prenatal sea de bajo riesgo UNICEF ha conceptualizado Maternidad Segura y Centrada en la Familia, organización que reconoce a los padres y a la familia, junto al equipo de la salud, como protagonistas de la atención de la mujer embarazada, la madre y el recién nacido y define la seguridad de la atención como una de sus prioridades, estimula el respeto y la protección de los derechos de la mujer y del recién nacido por parte de los miembros del equipo de la salud, promueve la participación y la colaboración del padre, la familia y la comunidad en la protección y el cuidado de la mujer y el recién nacido, implementa prácticas seguras y de probada efectividad (8).
+
+El 20% de las embarazas requerirán atención prenatal de mayor complejidad y el control y evaluación deberá ser efectuado por médicos especialistas en Medicina Materno-Fetal (9,10).
+
+La práctica de la Medicina Materno Fetal se divide en tres grandes grupos: patologías obstétricas y materno fetales, propias de la gestación, patologías fetales o feto placentaria primarias y patologías médicas que puede agravar la gestación y en forma indirecta al feto.
+
+En Chile, el Programa para Evaluar Servicios de Obstetricia, Ginecología y Neonatología del Ministerio de Salud de Chile, estima necesario que cada Servicio, implemente un sistema de evaluación, que permita realizar un diagnóstico de situación, analizar y determinar cómo se realiza la atención respecto de parámetros definidos y en caso necesario, orientar respecto a los aspectos a mejorar (11). El enfoque de riesgo permite identificar distintas necesidades de cuidados asistenciales, estableciendo niveles de bajo riesgo y de alto riego.
+
+Se define el rol que le compete a una Unidad de Alto Riesgo Obstétrico Hospitalizado, como una unidad en que se otorga una atención integral in-trahospitalaria a la embarazada, cuando presenta una patología propia del embarazo, concomitante o asociada a este.
+
+Los objetivos generales de estas unidades apuntan a realizar acciones y procedimientos diagnósticos destinados a la evaluación del intercambio gaseoso, desarrollo y crecimiento del feto durante el embarazo, vigilar y permitir la evolución de la gestación o tomar la decisión de interrumpir el embarazo en el momento oportuno y con menor riego de mortalidad perinatal, realizar el diagnóstico oportuno de los factores de riesgo que se asocian a causas de morbi-mortalidad perinatal y evitar la aparición de complicaciones materno perinatales.
+
+Finalmente, un porcentaje de pacientes embarazadas críticamente enfermas requerirán atención en unidades de cuidados intensivos. El porcentaje de ingresos oscila de acuerdo a la literatura entre un 0,2% a un 2% de todos los nacimientos en la institución (12).
+
+Módulo 3. Plan estratégico de la UMMF
+
+Realizar el análisis estratégico: Determinar la misión y la visión de la unidad de medicina materno-fetal (UMMF) y realizar el análisis externo e interno.
+
+Formular los objetivos y líneas estratégicas: Definir los objetivos a corto y mediano plazo, desarrollar las líneas estratégicas.
+
+Planificar la implantación de las estrategias: Elaborar el plan operativo y controlar el cumplimiento del plan.
+
+Módulo 4. Modelo de gobierno de la UMMF
+
+Determinar el organigrama de la UMMF: Establecer funciones y responsabilidades.
+
+Definir los órganos de gobierno: Definir los comités de dirección y participación y nombrar el equipo de dirección.
+
+Módulo 5. Gestión por procesos
+
+Gestionar la calidad: Determinar las dimensiones de la calidad y el nivel objetivo y controlar el cumplimiento.
+
+Rediseñar los procesos: Seleccionar y describir los principales procesos y optimizar los procesos.
+
+Gestionar la innovación: Impulsar la innovación y priorizar los proyectos de innovación.
+
+Módulo 6. Gestión de personas
+
+Crear un entorno favorable: Identificar posicionamientos y determinar acciones para modificar actitudes.
+
+Capacitar al personal: Identificar necesidades de capacitación y planificar y ejecutar la formación.
+
+Implicar al personal: Identificar las aspiraciones, facilitar su logro y definir el modelo de incentivos.
+
+Finalmente, el establecimiento de contratos de gestión permite concordar entre el hospital y la unidad de medicina materno fetal respectiva, la definición del contenido del contrato, la negociación y gestión del mismo y trasladar el contrato a la dirección por objetivos.
+
+Módulo 7. Contratos de gestión
+
+Definir el contenido del contrato: Identificar los capítulos del contrato.
+
+Negociar y gestionar el contrato: Definir la dinámica de la negociación y establecer la dinámica para el seguimiento.
+
+Trasladar el contrato a la dirección por objetivos (DPO): Definir el contrato de la DPO, definir la dinámica de la negociación y seguimiento.
+
+CONSIDERACIONES FINALES
+
+Es necesario el tránsito de maternidades tradicionales a unidades de medicina materno-fetal en los establecimientos hospitalarios, en especial en aquellos de mayor complejidad. El cómo hacerlo, es una responsabilidad ineludible de los gestores clínicos de los hospitales, y en especial de sus maternidades, ofreciendo el modelo AMPHOS la posibilidad de avanzar hacia un modelo descentralizado, con mayor implicancia de los profesionales y centrado en la atención integral del paciente, teniendo como objetivos principales, el fomento del valor del hospital, el apoyo a la gestión integral y eficiente de salud, favoreciendo la calidad asistencial y la atención del paciente en un ambiente de reforma estructural del sistema hospitalario.

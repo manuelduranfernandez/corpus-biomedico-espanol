@@ -1,0 +1,114 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262015000600012
+Sistema web de apoyo a las asignaciones de interconsultas para pacientes con riesgo de cáncer mamario utilizando árboles de decisión
+
+ 
+
+INTRODUCCIÓN
+
+La inutilización de herramientas tecnológicas en la actualidad parece ser algo que va quedando atrás en el tiempo. Cada día la tecnología nos sorprende más y más con hechos de innovación, dónde ya estamos acostumbrados a que sea la respuesta a todos los problemas que enfrenta la humanidad, ya sea de inmensas o mínimas proporciones.
+
+Situándonos en el área de la salud, la tecnología se ha hecho presente, donde la incorporación de Tecnologías de la Información y la Comunicación (TIC) a los sistemas de salud, denominada Salud-e (otros autores pueden definirla como Informática de la Salud o similar), obedece a una decisión destinada a mejorar la efectividad y la eficiencia del sector (1).
+
+Bajo esta premisa, se llevó a cabo la realización de un proyecto informático con el fin de apoyar al personal médico especializado en el proceso para asignar interconsultas a pacientes con riesgo de cáncer de mamas y poder verificar si un sistema informático es capaz de ayudar en dicho proceso y conocer la opinión de los profesionales de la salud, además de saber si existe la posibilidad de expandirse a otras áreas.
+
+PROBLEMÁTICA A SOLUCIONAR
+
+El inicio y principal motivación para la realización del proyecto fue aportar un grano de arena en la lucha contra el cáncer de mamas. Chile ha experimentado en las últimas décadas una transición epidemiológica caracterizada por la aparición de problemas de salud crónicos no transmisibles, dentro de ellos el cáncer, los que están asociados a cambios en los modos de vida y a la exposición a factores de riesgo. El cáncer, en Chile es considerado como un problema de salud pública ya que es la segunda causa de muerte, llegando incluso a ser la primera en algunas regiones (2).
+
+Ahora, si lo comparamos con las causas de muerte en general, abarcando las enfermedades de todos los ámbitos, según los datos que se pueden obtener del Instituto Nacional de Estadística (3), la segunda causa de muerte en las mujeres es el cáncer de mamas, por detrás de las enfermedades cardiovasculares, lo que significa un alto porcentaje de defunciones anualmente en el país.
+
+Por estos datos es que la realización del proyecto se encaminó en el área del cáncer de mamas, siendo el primer paso a realizar contactos con el área de Ginecología y Obstetricia del Hospital Regional Dr. Ernesto Torres Galdames, ubicado en Iquique y más específicamente en la Unidad de Patología Mamaria del Consultorio Adosado Especialidades (CAE).
+
+En reuniones sostenidas con la matrona encargada de la unidad, se llegó a la idea de desarrollar un sistema informático que pudiera ser de ayuda en el proceso de asignación de horas médicas a los pacientes con riesgo mamario de toda la región de Tarapacá.
+
+La idea nace al conocer la forma actual de realizar el proceso de asignación de horas médicas que realiza la Unidad de Patología mamaria. Este proceso se inicia cuando los pacientes solicitan una interconsulta (atención médica con especialista), donde sus datos son ingresados en una ficha física y luego el personal médico es el encargado de traspasar esta información al Servicio de Orientación Médico Estadístico (SOME), que es el organismo encargado de asignar las horas médicas dentro del Servicio de Salud.
+
+Además, en la Unidad de Patología Mamaria no solo reciben a pacientes del Hospital Regional, sino también de consultorios ubicados en la ciudad de Iquique o de distintas comunas de la Región de Tarapacá, lo que conlleva a utilizar un estafeta y fax como medios de envío de información de pacientes que solicitan una interconsulta. Incluso muchos pacientes van personalmente a dejar su ficha de Solicitud de Interconsulta a las dependencias del Hospital Regional, lo que, según se pudo saber gracias a la entrevista con la matrona coordinadora, genera más afluencia de pacientes en un espacio que siempre es reducido debido a la constante demanda en los servicios de salud pública.
+
+Una vez que se tienen los datos necesarios de los pacientes que están solicitando una hora médica, el personal médico de la Unidad de Patología Mamaria es el encargado de ordenar una lista según la gravedad de cada paciente, para luego, como se mencionó anteriormente, ser enviada al SOME. Esta lista de pacientes es anotada en un cuaderno, donde su existencia se pudo corroborar en la visita realizada a la Unidad de Patología Mamaria. Se debe mencionar que son aproximadamente 60 pacientes al mes los que consiguen ser atendidos.
+
+Con todos los antecedentes mencionados, se puede concluir que claramente no existe un uso de herramientas tecnológicas existentes hoy en día, las cuales podrían optimizar y servir de ayuda en el proceso que conlleva la asignación de interconsultas.
+
+SOLUCIÓN PROPUESTA
+
+La solución propuesta consistió en desarrollar un sistema informático que sea de tipo WEB, esto quiere decir que se pueda acceder mediante un equipo (Computador, Celular, Tablet) conectado a internet a través de un navegador, para que así cada establecimiento de salud pueda ingresar los datos del paciente, facilitando el envío de datos entre los establecimientos de salud de la región, para así evitar el uso de estafeta o fax y poder tener la información del paciente disponible en el mismo instante en el que se es ingresada.
+
+Otra característica importante del sistema propuesto, y que le da más valor que un simple sistema que guarda y muestre datos, es la utilización de inteligencia artificial para priorizar entre todos los pacientes que se encuentren solicitando hora y estén ingresados en el sistema. La inteligencia de un sistema puede ser calificada por su estudio, memoria, adaptabilidad, flexibilidad, el razonamiento, y la capacidad de manejar la información incierta e imprecisa (4).
+
+La priorización se llevará acabo utilizando una técnica computacional llamada árboles de decisión (enmarcada dentro de la inteligencia artificial), definiéndose como un modelo de predicción cuyo objetivo principal es el aprendizaje inductivo a partir de observaciones y construcciones lógicas. Son muy similares a los sistemas de predicción basados en reglas, que sirven para representar y categorizar una serie de condiciones que suceden de forma sucesiva para la solución de un problema (5). Su labor dentro del sistema consiste en tomar datos del paciente y según el valor que tenga ese dato, el sistema tomará una decisión, así hasta completar una o varias etapas que tenga el árbol. En el caso del sistema, la decisión que debe tomar es si el paciente cumple o no con los requisitos para asignarle una interconsulta, para aquello, se determinó en conjunto con el personal de la Unidad de Patología Mamaria que es necesario ingresar el resultado de un examen que acredite la condición del paciente, en este caso una mamografía o en su defecto, un certificado de sospecha clínica. Según la información que se recopiló, los resultados de las mamografías tienen diferentes categorías, las que se explican en la siguiente Tabla I (6):
+
+ 
+
+Tabla I     CLASIFICACIÓN DE LAS MAMOGRAFÍAS Y CONDUCTA A SEGUIR
+
+
+
+ 
+
+El sistema tendrá almacenada esta información, donde según lo establecido por los requerimientos de la Unidad de Patología Mamaria, solo asignará hora a los pacientes con mamografías BI-RADS 4, BI-RADS 5 y BI-RADS 6, además de una categoría anexada que no contempla la mamografía denominada Sospecha Clínica. Estos datos serán el criterio que maneje el sistema para poder distinguir entre pacientes que si necesitan ser vistos por especialistas y los que no.
+
+Con esta información, el sistema analizará cada uno de los pacientes ingresados, comparándolo con los criterios que él maneja y generará una lista de pacientes que si cumplen con los criterios para ser atendidos y ordenada según el resultado de cada examen ingresado junto con la información del paciente, dejando como segundo criterio la fecha de ingreso de la solicitud. Esta lista podrá ser generada solamente por una persona, idealmente el encargado de la Unidad de Patología Mamaria, pudiendo revisar y reordenar la lista si es que no se encuentra conforme con la lista que generó el sistema. Una vez conforme, se guarda la información y la lista puede ser exportada para ser impresa o enviada digitalmente al SOME, para que este organismo asigne las horas médicas según el orden de la lista. Cuando el SOME responda, se podrá ingresar la hora y fecha de la interconsulta que solicitó el paciente y será asociada al Rol Único Nacional (RUN) de éste, pudiendo ser revisado por personal con ingreso autorizado al sistema en cualquier establecimiento de salud. La siguiente Figura 1 resume el proceso que se llevaría a cabo con la utilización del sistema.
+
+ 
+
+
+
+Descripción: 1. El paciente que desee solicitar una interconsulta, debe hacerlo con el          examen realizado (mamografía) o certificado de sospecha diagnóstica. 2. El establecimiento          de salud pública recibe al paciente que solicita la interconsulta, que por lógica se acerca al          más cercano y así evitar traslados a otras comunas. 3. El personal médico obtiene la          información necesaria del paciente que el sistema solicita. 4. El sistema almacena la          información del paciente y está ya se encuentra disponible para que sea verificada por          cualquier usuario acreditado del sistema. 5. Con la información que almacena y aplicando          criterios establecidos, el sistema decide que pacientes cumplen con los requisitos para que          se les sea asignada una interconsulta médica. 6. El sistema genera una lista ordenada de los          pacientes que si fueron considerados para asignarles una interconsulta, ordenada desde el          considerado por el sistema como más grave hacia abajo. 7. La lista debe ser acercada al SOME,          servicio encargado de agendar hora y fecha para las interconsultas. 8. Una vez que se tenga          la respuesta del SOME, el sistema da la posibilidad de ingresar esa información para que pueda          ser vista por cualquier usuario acreditado del sistema.
+
+ 
+
+RESULTADOS
+
+Una vez completado el desarrollo del sistema, se llevó a cabo su exposición y explicación de funcionamiento en la Unidad de Patología Mamaria del Hospital Regional de Iquique, donde además se probó su funcionamiento en conjunto con la matrona coordinadora de la Unidad de Patología Mamaria. Una vez realizada esta tarea, se facilitó una encuesta, para era conocer si el sistema puede ser de ayuda en el proceso de asignación de interconsultas a pacientes con riesgo de cáncer mamario, lo que arrogó los siguientes resultados:
+
+• El uso del sistema se consideró simple.
+
+• La información se presenta de manera clara y entendible.
+
+• La organización de los menús se presenta de manera lógica.
+
+• Aprender a utilizar las funcionalidades es fácil.
+
+• Los mensajes de error son adecuados y entendibles.
+
+• La interfaz es amigable e intuitiva.
+
+• No se ha detenido inesperadamente, ni generado un error de funcionamiento en algún momento.
+
+• Los tiempos de respuesta de cada operación no son demasiado largos.
+
+• Se recomendaría el uso del software a otros profesionales de la salud.
+
+• La información entregada por el software es útil para manejar los datos de los pacientes.
+
+• El uso del software genera un aporte al proceso de asignación de horas médicas.
+
+• Utilizaría el software como apoyo en el proceso de asignación de horas médicas.
+
+Además, la encuesta de satisfacción realizada al cliente una vez probado el sistema, sugiere que el sistema puede aplicarse a otras áreas como Alto Riesgo Obstétrico, Ginecología y Patología cervical.
+
+Esto está disponible para realizarse, debido a que el sistema se basa en una tabla de decisión a la cual se le pueden cambiar los atributos y el código del sistema trabajará en base a dichos atributos, por lo que teniendo los patrones para clasificar y ordenar las Solicitudes de Interconsulta de otras especialidades de salud depende exclusivamente de definir los criterios necesarios.
+
+DISCUSIÓN
+
+No se puede afirmar que el método actual de asignación de horas médicas sea incorrecto, porque cumple con su objetivo, lo que si podemos destacar, es que el sistema propuesto como solución puede ser de gran ayuda para el personal médico y a su vez para los pacientes.
+
+La aplicación de la tecnología para el desarrollo de la solución propuesta genera una nueva opción de llevar a cabo el proceso de asignación de horas y lo acerca a trabajar con herramientas, que hoy en día son de uso cotidiano, como un computador. La ayuda que brinda el sistema en el manejo de los datos acorta los tiempos en el envío de los mismos, comparado como se hace actualmente, ya que como se mencionaba anteriormente se realiza mediante fax o estafeta y con la utilización del sistema los datos pueden ser revisados al momento de ser ingresado solo con un par de clic. Con esto ya se tiene un punto a favor de la herramienta, ya que la disponibilidad y rapidez en el acceso a los datos pueden ser de gran ayuda en el ámbito de la salud.
+
+Otro punto importante es la capacidad del sistema de poder ordenar a los pacientes que se encuentran en espera de atención médica. Con esto se evita que el personal médico encargado de esta situación esté revisando uno por uno los datos de los pacientes para confeccionar la lista. El sistema genera automáticamente dicha lista, pudiendo, otra vez, acortar los tiempos y facilitar la tarea.
+
+En general, la aplicación de la solución propuesta es una ayuda importante en el proceso de asignación de horas, así lo reflejó la encuesta de satisfacción aplicada al cliente, se pueden llegar a las siguientes conclusiones:
+
+• El uso del sistema se consideró fácil, realizando sus funciones de la manera más simple posible.
+
+• La estructura del sistema es adecuada para su funcionalidad.
+
+• Los mensajes que envía el sistema son claros, precisos y entendibles para el usuario.
+
+• El tiempo de espera es más que aceptable, aunque se explicó al encuestado que depende de la velocidad de internet.
+
+• Los datos que entrega el sistema son útiles para el proceso de asignaciones de interconsulta, esto conlleva a que sea un aporte a dicho proceso.
+
+CONCLUSIÓN
+
+El software, en el uso, la funcionalidad y su utilidad, fueron totalmente aceptadas por el entrevistado, logrando así cumplir con las expectativas que se tenían al iniciar el proyecto llegando a ser un aporte en el proceso de asignación de interconsultas a pacientes con riesgo de cáncer de mamas.

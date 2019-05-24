@@ -1,0 +1,86 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262016000100006
+Severidad de la inflamación en los reportes de Papanicolaou según agente etiológico encontrado en un hospital público del norte de Perú
+
+ 
+
+INTRODUCCIÓN
+
+Las infecciones de transmisión sexual (ITS) son un problema de salud pública mundial, la Organización Mundial de la Salud (OMS) refirió para el año 2008 un estimado de 498,9 millones de nuevos casos de ITS por Clamydiatrachomatis, Neisseria gonorrhoeae y Trichomonas vaginalis, lo que representa una estimación 11% más alta que la señalada para el año para 2005. Se conocen más de 30 agentes patógenos transmisibles, incluyendo bacterias, virus y parásitos; esto no solo genera la enfermedad, también discapacidad a largo plazo y hasta la muerte (1). Los factores de riesgo para adquirirlas son el tener actividad sexual sin protección, tener más de una pareja sexual o una considerada de alto riesgo sexual, entre las más destacadas (2,3).
+
+La citología cérvico-vaginal posee una sensibilidad alrededor del 50% y una especificidad alta para detectar lesiones de alto grado -e incluso el cáncer- (4,5), pero también nos proporciona una información valiosa sobre el estado hormonal y la presencia de cambios inflamatorios, además de la presencia de agentes causantes de enfermedades de transmisión sexual.
+
+Es conocida la asociación entre citología cérvico-vaginal inflamatoria con la lesión intra-epitelial cervical y el tipo de agente etiológico; la mayoría de las investigaciones en nuestro medio hacen referencia a los grados de severidad inflamatoria y agentes etiológicos predominantes (6,7,8). Al no existir muchos reportes del grado de severidad de la infección según el tipo de agente, nos planteamos el objetivo de determinar la asociación entre el grado de severidad del reporte y el agente etiológico encontrado en la citología cérvico-vaginal.
+
+MATERIAL Y MÉTODOS
+
+Diseño y población: Estudio transversal analítico de datos secundarios, realizado en el Hospital de Apoyo II de la provincia de Sullana-Piura, Perú. Establecimiento referencial de las regiones Piura, Tumbes y ámbito binacional peruano-ecuatoriano de la cuenca Catamayo - Chira. Además de ello, al ser un hospital público del Ministerio de Salud (MINSA), atiende personas de distintos sectores socio-económicos, siendo similar a otros hospitales de las regiones aledañas. La población considerada para el estudio estuvo conformada por los reportes de Papanicolaous (PAPs) de los años 2007 al 2011, procedentes del consultorio de ginecología y obstetricia. Se excluyó del estudio 47 reportes, por encontrarse registros incompletos o con información no clara (tasa de pérdida: 2%). Se realizó un muestreo por conveniencia de tipo censal, ya que se usaron la totalidad de los reportes realizados en el período de estudio.
+
+Variables: La variable dependiente principal fue la severidad del reporte de PAP, que fue consignada por los anátomo-patólogos del hospital, que tuvieron como guía para dicha detección el considerar el grado de infiltrado de polimorfonucleares en la observación al microscopio. Se homogenizó el hallazgo de los distintos patógenos, para la determinación de la infección por Cándida albicans, los expertos debían observar en el microscopio numerosas pseudo hifas y formas de levaduras extracelulares. Para la identificación de Trichomonas se encontró un frotis en vidrio esmerilado de color verde grisáceo y se identificó su característico núcleo oval y excéntrico, rechazado a la periferia. Se consideró infección por Gardnerella al frotis de color basófilo (azul-grisáceo) con bacilos cortos intracelulares adheridas al citoplasma de las células respetando al núcleo y formando así las características "células clave" "clue cells" o "células guía". Por último, el diagnóstico de infección por Leptothrix fue ante la identificación de bacilos largos de color gris extracelulares. También se consideró la edad de la paciente consignada en el reporte (tomada como variable cuantitativa), año de toma de muestra (variable cuantitativa) y agente etiológico encontrado mediante microscopia.
+
+Procedimientos: Se presentó una solicitud a la jefatura del área de Patología del Hospital de Apoyo II de Sullana, con la finalidad de tener acceso al libro de registro citopatológico de los PAP's. Obtenida su aprobación se accedió a las cifras de la cantidad de reportes durante el periodo de estudio, luego se procedió a una revisión de los reportes de PAP's y la recolección de las variables. Los datos obtenidos fueron registrados en una base de datos diseñada en el programa Microsoft Excel 2007, que posteriormente fue exportada al paquete estadístico Stata versión 11,1 (Stata Corporation, College Station, TX).
+
+Análisis de datos: Para el análisis de datos univariados de las variables categóricas se usó las frecuencias y porcentajes, para las variables cuantitativas se analizó la normalidad mediante la prueba estadística Shapiro Wilk, reportando la mediana y rangos en todos los casos, por su distribución no normal. En el análisis bivariado se empleó la prueba del chi2 para el cruce de dos variables categóricas y la U de Mann Withney para las variables categóricas versus las cuantitativas. Para el análisis bivariado se encontraron las razones de prevalencia (RP) y sus intervalos de confianza al 95% (IC95%). Se usó los modelos lineales generalizados (GLM) con la familia binomial, la función de enlace log y modelos robustos, para ajuste por muestras grandes. Se consideró un valor p<0,05 como estadísticamente significativo.
+
+Ética. Se contó con el permiso de la oficina de investigación del Hospital. En el análisis de datos secundarios no se usaron los datos personales de las pacientes, manteniendo la confidencialidad de los datos. Se respetó las normas éticas vigentes basadas en el reporte Beltmont.
+
+RESULTADOS
+
+En el período de estudio se tuvieron 2325 reportes de PAP's, la mediana de las edades de las pacientes fue 36 años (rango: 14-84 años). La frecuencia de agentes patógenos fue del 34,1%. Siendo los gérmenes más comunes la Cándida (64%) y la Gardnerella (28%). Los otros agentes encontrados se reportan en la Tabla I.
+
+ 
+
+Tabla I     HALLAZGO DE PATÓGENO ENCONTRADO EN      LOS  REPORTES DE PAPANICOLAOU DEL      HOSPITAL DE PIURA-SULLANA, 2007-2011
+
+
+
+ 
+
+Respecto al grado de inflamación reportado, se encontró severidad en casi la mitad de las muestras (47%), seguido de grado moderado y leve, con el 36% y 17%, respectivamente. En las muestras que indicaron presencia de Cándida, el grado de inflamación moderado y severo tuvo valores similares (42% y 40%, respectivamente). En el caso de Gardnerella, el grado de inflamación severa en el reporte se presentó en el 55%, mientras que en los reportes con presencia de Trichomonas la inflamación severa estuvo presente en el 88% de los casos (Figura 1).
+
+ 
+
+
+
+Figura 1. Grado de inflamación y agente encontrado en reportes de citología cérvico-vaginal.
+
+ 
+
+Al realizar el análisis bivariado de los tipos de patógenos según el grado de severidad se encontró una fuerte asociación entre la severidad de la inflamación y la presencia de Gardnerella (p<0,001; PRc: 1,6; IC95%: 1,36-1,77); Trichomonas (p<0,001; PRc: 2,4; IC95%: 2,07-2,77), la co-infección de dos gérmenes (p<0,001; PRc: 1,9; IC95%: 1,36-2,53) y según la edad de manera cuantitativa (p<0,001; PRc: 0,99; IC95%: 0,98-0,99). No hubo asociación de la severidad con la infección por Cándida (p=0,105) (Tabla II).
+
+ 
+
+Tabla II     ANÁLISIS BIVARIADO DE LA RELACIÓN ENTRE HALLAZGO PATÓGENO Y SEVERIDAD      DE LA INFLAMACIÓN
+
+
+
+Valor p y razón de prevalencias (RP)/intervalo de confianza al 95% (IC95%) obtenidas con          modelos lineales generalizados, con familia binomial, función de enlace log y modelos robustos.
+
+ 
+
+DISCUSIÓN
+
+Se encontró asociación entre el grado de severidad y las infecciones vaginales más comunes según el PAP, esto es importante ya que al identificar los agentes responsables de un mayor grado de inflamación se podría, mediante la clínica, elegir el manejo terapéutico más idóneo; siendo esto importante en el primer nivel de atención, donde se debe tener el diagnóstico mediante una prueba rápida, económica y fiable, ya que por las características sociodemográficas, la opción de derivar a un centro especializado es casi nula.
+
+Se encontró diferencia entre las prevalencias de los agentes etiológicos más comunes, la vaginosis bacteriana tiene una etiología predominantemente conformada por Gardnerella, encontrándose una prevalencia similar de casos de este agente en estudios realizados en la ciudad de Bolívar y otros en Estados Unidos, pero esta prevalencia es mayor que los resultados encontrados en Colombia y Perú, donde se reportaron frecuencias promedio de 13% (9,10).
+
+En lo que respecta a la infección por Cándida albicans, los resultados de este estudio son ampliamente superiores que los encontrados en los estudios antes mencionados, que reportaron entre 5-39% (11,12,13). Sin embargo, cabe resaltar que existen variaciones en las prevalencias de los agentes encontrados por el PAP en comparación con estudios realizados en la ciudad de México, donde la candidiasis vaginal varía entre 10-25% (14,15-17).
+
+En nuestro estudio se encontraron agentes patógenos en 32% de las muestras, lo cual es similar al encontrado en un estudio en Chile donde se reportó un 32% (18) y en Cuba un 20% (19), en los cuales se analizó una amplia población (mujeres embarazadas, en edad fértil y postmenopáusicas). Nuestros resultados sobre la prevalencia de agentes patógenos difieren con el encontrado en una población colombiana donde la afección principal fue la vaginitis con un 61% seguida de vaginosis con un 30% de casos en una población urbana (20).
+
+Respecto a la infección por trichomoniasis es importante resaltar la presencia de inflamación severa en la gran mayoría de ellas, ya que se conoce que la trichomoniasis, como mínimo, duplica el riesgo de contagio con el VIH (21) y del VPH (22), ya que el sistema inmune, al ser atacado, activa los receptores tipo Toll, lo que induce la liberación de citocinas pro-inflamatorias y quimiocinas. Estas a su vez atraen y activan las células presentadoras de antígeno y los linfocitos TCD4+, siendo estos últimos infectados por el VIH-1 (21).
+
+En lo que respecta a Gardnerella vaginalis, se reporta una prevalencia de entre 15 y 30% en mujeres en edad reproductiva (23).
+
+Se encontró una fuerte asociación entre severidad de la enfermedad y los agentes etiológicos, no se encontró referencias concluyentes de esta asociación, pero existen algunos reportes de frecuencias, como el realizado por López y cols en el 2001 (24), que encontraron que el 78,8% tenían infección cérvico-vaginal, de los cuales el 33,9% de las infecciones era causada por dos o más microorganismos. Se evidenció que las mujeres con infección genital tienen etiología mixta (94,8%) y el microorganismo más común fue Trichomona vaginalis, en combinación con la flora bacteriana.
+
+En un estudio realizado en República Dominicana hubo predominancia de inflamación moderada a severa en el frotis de PAP, causada en su mayoría por H. vaginalis, Cándida albicans y Trichomonas vaginalis en un tercer lugar (25).
+
+Un estudio en Venezuela (26), mostró que la mayoría de los resultados de tipo inflamatorio fueron leves y el agente predominante fue Gardnerella, la presencia predominante de este agente en el tipo inflamatorio leve es un hallazgo contrario al encontrado por el presente trabajo. Así mismo, en un estudio realizado en una clínica rural de Santo Domingo (25), se encontró que el 26,2% tenía un frotis de PAP correspondiente a inflamación leve, 37,7% inflamación moderada y 21,2% inflamación acentuada; la flora vaginal predominante fue mixta con un 36,1% de Haemophilus vaginalis, 22,9% de Cándida albicans y 21,3% de Trichomonas. En el caso de Trichomonas, el estudio realizado por Bertolino y cols (27), indica que Trichomonas es más común en pacientes cuyo Papanicolaou muestra presencia y aumento de inflamación, lo que guarda correspondencia con lo encontrado en el presente estudio.
+
+Como limitación del estudio se debe señalar que el PAP es un examen operador dependiente, considerado como de baja sensibilidad, siendo en nuestro medio el único disponible, ya que no se cuenta con el método más apropiado, como cultivo en los caldos de Roiron y de Diamond (sensibilidad de 98% y especificidad de 100%), InPouch® TV entre otros. A pesar de ello los resultados obtenidos son altos en relación a los antecedentes ya mencionados.
+
+CONCLUSIÓN
+
+La severidad del reporte de Papanicolaou está asociada al tipo de germen, la co-infección y la edad de la paciente. Esto debe ser tomado en cuenta para el manejo terapéutico en poblaciones similares.
+
+AGRADECIMIENTOS: Los autores desean agradecer a la Sociedad Científica Médico-Estudiantil Peruana (SOCIMEP), institución donde se generó la idea y los contactos para ésta investigación. Ésta investigación ocupó el sexto puesto en el concurso de trabajos científicos del XXVIII Congreso Científico Internacional de la Federación Latinoamericana de Sociedades Científicas de Estudiantes de Medicina (FELSOCEM), Honduras 2013.

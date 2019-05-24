@@ -1,0 +1,144 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262015000600005
+Prevalencia de complicaciones y factores predisponentes en cirugía ginecológica por patología benigna en el hospital universitario San Ignacio: Bogotá, Colombia
+
+ 
+
+INTRODUCCIÓN
+
+Los procedimientos quirúrgicos implican riesgos y complicaciones que pueden alterar el pronóstico del paciente, el cual está directamente relacionado con la severidad de la complicación, su pronto diagnóstico y manejo apropiado (1).
+
+Según los estudios efectuados en diferentes instituciones, la tasa de complicaciones asociadas a la cirugía ginecológica varía entre el 0,2 y el 26%, con una tasa de mortalidad inferior al 1% (2). Las complicaciones intraoperatorias más frecuentes de este tipo de cirugías implican el daño vesical, ureteral, intestinal y vascular. Diferentes estudios reportan una tasa del 0,3 al 1% de lesión de vías urinarias que varía dependiendo del tipo de procedimiento (3-5), en tanto la lesión intestinal y de los vasos pélvicos reportaron una prevalencia de 0,4 y 0,5% respectivamente (3,6-9).
+
+Otras complicaciones, que son poco comunes y constituyen factores de morbilidad para el paciente que se somete a cirugía ginecológica son la necesidad de transfusión, las infecciones severas del sitio operatorio, dehiscencia de herida quirúrgica o evisceración, entre otras (10,11).
+
+De acuerdo con la prevalencia de complicaciones en cirugía ginecológica y la morbilidad secundaria que podría causarle al paciente, es útil conocer los factores que intervienen en su aparición. El objetivo del estudio fue determinar la prevalencia de las complicaciones en cirugía ginecológica por patología benigna en la institución y los factores que intervienen en su aparición, de esa manera se analizará la pertinencia de herramientas de intervención que disminuyan el riesgo de dichas complicaciones.
+
+PACIENTES Y MÉTODOS
+
+Estudio de corte transversal a partir de una muestra no probabilística por conveniencia en 200 pacientes, quienes se sometieron a procedimientos de cirugía ginecológica por patología benigna en el Hospital Universitario San Ignacio, Bogotá, Colombia, entre enero y diciembre de 2013.
+
+Dentro de los criterios de inclusión se encuentran todas las pacientes en el rango de edad de 18 a 74 años con procedimientos de cirugía ginecológica por patología benigna. Se excluyeron pacientes en estado de embarazo y con datos incompletos en la historia clínica, y aquellas a las que se les practicó una cirugía diferente a la ginecológica en el mismo periodo o menor a un mes desde su ingreso a la institución.
+
+Las variables incluidas en el estudio fueron de sociodemográficas, antecedente de cirugía abdominal, y comorbilidades médicas (diabetes mellitus, requerimiento de anticoagulación crónica, síndrome adherencial, endometriosis), y en relación al procedimiento (urgencia y tiempo quirúrgico). En cuanto a las variables dependientes están las diferentes complicaciones mayores (lesión vesical, lesión ureteral, lesión intestinal, mortalidad, hematoma o abscesos que hayan requerido reintervención, íleo postoperatorio, eventración, requerimiento de transfusión y reintervención) y menores (infección, hematoma y dehiscencia superficial del sitio operatorio).
+
+Se organizó una base de datos a partir de la revisión de las historias clínicas, diligenciando un instrumento de recolección de datos. Para el procesamiento de los datos se utilizó el programa SPSS versión 20.0. El análisis se realizó en el siguiente orden: 1) Cálculo de estadísticos descriptivos; 2) Cómputo de correlaciones bivariadas; y 3) Regresión logística binomial de complicaciones intraoperatorias y postoperatorias con las variables independientes.
+
+En cuanto a la descripción de las variables de tipo continuo se emplearon medidas de tendencia central como la mediana, el mínimo/máximo, y las medidas de variabilidad y dispersión como la desviación estándar, así mismo a través de las variables indicadoras (dummies) fueron estimadas las proporciones.
+
+Las correlaciones bivariadas se calcularon por medio del Coeficiente de Pearson. Se aplicaron valores de Odds Ratio (OR) con intervalos de confianza al 95% (IC95%). Se consideró diferencia estadísticamente significativa un valor p<0,05. La investigación fue autorizada por el Comité de Ética del Hospital San Ignacio.
+
+RESULTADOS
+
+Fueron incluidas en el estudio un total de 200 pacientes intervenidas quirúrgicamente por patología ginecológica benigna. La Tabla I presenta los estadísticos descriptivos de los procedimientos. El procedimiento con mayor frecuencia fue la histerectomía abdominal total (46%), seguido por la cistectomía de ovario (21,5%). La vía de abordaje más utilizada fue la abdominal (65%).
+
+ 
+
+Tabla I       TIPO DE PROCEDIMIENTO Y VÍA QUIRÚRGICA
+
+
+
+ 
+
+La Tabla II describe las indicaciones más frecuentes del manejo quirúrgico, entre las cuales se encuentran la miomatosis uterina (49%), la hemorragia uterina anormal (39,5%), el diagnóstico de masa anexial compleja (31%) y el dolor pélvico crónico (19,5%).
+
+ 
+
+Tabla II         INDICACIONES DEL PROCEDIMIENTO
+
+
+
+ 
+
+En la Tabla III se presentan las comorbilidades de las pacientes estudiadas: antecedente de cirugía abdominal previa (46%), síndrome adherencial severo (27,7%), endometriosis (21%) y obesidad (17%). Con relación a las características del procedimiento, el 10,5% fue realizado de urgencia y no hubo ningún caso de tiempo quirúrgico prolongado (> 3 horas).
+
+ 
+
+Tabla III         COMORBILIDADES DE LAS PACIENTES INCLUIDAS          EN EL ESTUDIO
+
+
+
+ 
+
+La Tabla IV describe la frecuencia de complicaciones. Hubo una prevalencia de complicaciones quirúrgicas del 12,5%, siendo complicaciones mayores el 7,5% y menores el 6%. Dentro del primer grupo se identificó: 1% de lesión vesical, 1% lesión intestinal, 4% de requerimiento de transfusión sanguínea en el postoperatorio (en pacientes con hemoglobina previa de 12 mg/dl), 1,5% de hematomas y abscesos en sitio operatorio que requirieron reintervención, 0,5% de íleo y eventración y 2% de casos de reintervención quirúrgica.
+
+ 
+
+Tabla IV       COMPLICACIONES QUIRÚRGICAS MAYORES        Y MENORES
+
+
+
+ 
+
+Dentro de las complicaciones menores se identificaron 4,5% de infecciones superficiales y hematomas superficiales de herida quirúrgica, y 1,5% de dehiscencia superficial.
+
+En el análisis bivariado se determinó una correlación positiva de las complicaciones mayores con el mayor tiempo quirúrgico (90 minutos promedio), entre las cuales están la lesión intestinal, vesical y ureteral, la transfusión sanguínea en el postoperatorio, los hematomas y los abscesos pélvicos y la mortalidad: histerectomía total (OR 5,25; IC95% 1,43-19,22), pacientes cuya indicación de cirugía fue la miomatosis uterina (OR 4,13; IC95% 1,1115,29), diabetes mellitus (Or 28,30; IC95% 2,40333,15) y anticoagulación crónica (6,96; IC95% 1,16-41,62). El resto de variables no fueron significativas en el análisis bivariado.
+
+En la Tabla V se presenta la frecuencia de complicaciones mayores y menores según la vía de abordaje. Se observa un mayor porcentaje de complicaciones en el grupo de cirugía abdominal abierta (17,5%), no hubo complicaciones mayores en la cirugía laparoscópica.
+
+ 
+
+Tabla V       FRECUENCIA DE COMPLICACIONES MAYORES Y MENORES SEGÚN VÍA DE ABORDAJE
+
+
+
+ 
+
+La Tabla VI presenta el modelo multivariado de las complicaciones mayores. Como variables significativas se identifican la diabetes mellitus (OR 75,5; IC95% 4,84-117), la anticoagulación crónica (OR 23,7; IC95% 2,73-214,59), pacientes con indicación quirúrgica de miomatosis uterina (OR 35; IC 95% 3,85-298,87), síndrome adherencial severo (OR 9,8; IC95% 2,26-42,68) y procedimiento quirúrgico de urgencia (OR 22,8; IC95% 2,78-51,23).
+
+ 
+
+Tabla VI     ANÁLISIS MULTIVARIADO DE COMPLICACIONES MAYORES Y LAS DIFERENTES VARIABLES
+
+
+
+Prueba de Hosmer y Lemeshow
+
+ 
+
+Por último, la Tabla VII ilustra el análisis de regresión multinomial de las complicaciones menores y las diferentes variables, encontrando la anticoagulación crónica (OR 16; IC95% 2,36-109) y el dolor abdominal agudo (OR 52; IC95% 2,61-106) como variables significativas.
+
+ 
+
+Tabla VII     ANÁLISIS MULTIVARIADO DE COMPLICACIONES MENORES Y LAS DIFERENTES VARIABLES
+
+
+
+Prueba de Hosmer y Lemeshow
+
+ 
+
+DISCUSIÓN
+
+El presente estudio establece los factores asociados a las complicaciones en cirugía ginecológica por patología benigna, en el Hospital Universitario San Ignacio. La muestra en 200 pacientes identificó una prevalencia de complicaciones del 12,5%; siendo complicaciones mayores el 7,5% y menores el 6%. Esta cifra es similar a lo encontrado en otros estudios. Por ejemplo, en Estados Unidos se demostró una prevalencia global de complicaciones del 0,2% al 26%, que está en el rango de lo encontrado en nuestro estudio (2).
+
+Sin embargo, en otras investigaciones se observa una prevalencia menor de complicaciones, como lo encontrando en 22.214 mujeres norteamericanas (American College of Surgeons National Surgical Quality Improvement Program) con una prevalencia del 3,7% (12). En ese estudio se excluyeron las complicaciones menores, como la infección superficial de la herida quirúrgica, a diferencia de nuestro estudio que fueron incluidas, lo cual aumentaría el porcentaje de complicaciones.
+
+En cuanto al tipo de complicación, existe una prevalencia de lesión vesical e intestinal menor al 1%, similar a lo reportado por la literatura (2,14,15). Dentro de las complicaciones mayores, un 4% de los casos requirió transfusión sanguínea en el postoperatorio, lo que representa un porcentaje mayor a lo encontrado en otros estudios, en los que fue necesaria en menos del 0,2% de los casos (12).
+
+Es importante mencionar que no hubo muertes para este grupo de 200 pacientes. En el estudio retrospectivo de Magrina y cols (13) en 1,45 millones de pacientes hubo una mortalidad del 0,2% en los primeros 30 días de ingreso, lo que refleja la baja tasa de mortalidad que existe para la cirugía ginecológica por patología benigna, similar a lo reportado por Erekson y cols (12) con una mortalidad de 0,17% en 22.214 mujeres analizadas.
+
+En el modelo multivariado, entre los factores de riesgo relacionados con las complicaciones mayores, se examinó variables relacionadas como la diabetes mellitus que se asoció significativamente (OR 75,5; IC95% 4,84-117), similar a lo encontrado en diferentes estudios, esto principalmente relacionado a mayor incidencia de infecciones profundas del sitio operatorio (16). La anticoagulación crónica fue una variable significativa como factor de riesgo (OR 23,7; IC95% 2,73-214,59) dado que conlleva en ocasiones a sobre anticoagulación, la cual puede generar un mayor sangrado intraoperatorio y por lo tanto necesidad de terapia transfusional.
+
+En cuanto al tiempo quirúrgico, en la correlación bivariada, se observó una correlación positiva entre el mayor tiempo quirúrgico con mayor complicación quirúrgica, sin embargo en el modelo de regresión pierde esta asociación, dado que otras variables juegan un papel predominante, como por ejemplo, las comorbilidades del paciente (síndrome adherencial severo o anticoagulación crónica) y la urgencia del procedimiento.
+
+Respecto al síndrome adherencial severo, es de esperarse que sea una variable significativa dado que se reporta una mayor tasa de lesiones viscerales, en su mayoría lesiones intestinales secundarias a la distorsión de la anatomía pélvica y mayor dificultad en la técnica quirúrgica (6). Algunos estudios demuestran que el riesgo de complicaciones postoperatorias se incrementa con el antecedente de cirugía previa y de endometriosis (OR 6,7 y OR 5,8 respectivamente) (17), sin embargo, en otros estudios no existe un efecto significativo de estas variables con complicaciones mayores (18).
+
+Así mismo, el procedimiento quirúrgico de urgencia fue una variable significativa de complicaciones mayores, dado que el contexto de urgencia a nivel intrahospitalario trae varias connotaciones en las que se encuentra la premura del procedimiento. Esto es similar a lo encontrado en un estudio en el que se observó que en procedimientos de patología benigna, la emergencia del procedimiento aumenta la probabilidad de las complicaciones (OR 1,82; IC95% 1,13-2,90) (12).
+
+Es importante aclarar que otras variables como la obesidad o la edad no fueron variables significativas, a diferencia de otros estudios en los que sí lo fueron (12).
+
+Respecto a la vía de abordaje, se observa en la frecuencia de eventos, que la mayoría de las complicaciones (17,5%) corresponden al abordaje abdominal; el laparoscópico solo aportó el 2,8% de complicaciones en este grupo de pacientes, no registrándose complicaciones mayores. No fue posible una comparación entre ambos grupos dado que la baja prevalencia del evento en cada grupo, no permite realizar comparaciones con un modelo estadístico apropiado.
+
+Este estudio sugiere que las complicaciones en cirugía ginecológica son el resultado de un fenómeno complejo que, a su vez, influyen múltiples factores como las características del paciente y del procedimiento mismo. Es difícil definir una asociación clara, ya que a pesar que se incluyeron las variables más importantes, otras variables no fueron consideradas, por ejemplo, el estado nutricional, las comorbilidades respiratorias, las cardiovasculares, la experiencia del cirujano, entre otras, que influyen también en la aparición de complicaciones, especialmente las mayores.
+
+Como limitaciones de este estudio debemos destacar que es de corte trasversal, es decir no permite inferir causalidad. Sin embargo, es posible evidenciar algo de temporalidad y por lo tanto, las conclusiones son relevantes. A pesar que las variables analizadas fueron estadísticamente significativas, los intervalos de confianza son muy amplios por la baja frecuencia de casos en los que se presentó el evento.
+
+A nivel metodológico, el proceso de selección de las variables se realizó basado en la literatura y en otros estudios. Cabe aclarar que hay otras variables que pueden estar asociados con la aparición de complicaciones en cirugía ginecológica, las cuales no fueron incluidas. La recolección de la información fue efectuada de la forma más fidedigna posible, pero al ser un estudio retrospectivo es posible que existan sesgos por el incorrecto diligenciamiento de la historia clínica o información incompleta.
+
+Finalmente, los resultados únicamente son aplicables al Hospital Universitario San Ignacio, aunque cabe resaltar, que nuestra institución podría tener características sociodemográficas similares a otros segmentos poblacionales de nuestro país, por lo cual podrían extrapolarse con cautela. Esta investigación es el punto de partida para que se realicen estudios de tipo prospectivo que puedan establecer claramente los factores que se asocian a la aparición de complicaciones en cirugía ginecológica en la Institución, en tanto se pueden realizar estudios de intervención que permitan determinar la mejor estrategia para evitarlas y así generar un mayor impacto en la prevención de complicaciones en nuestra población.
+
+Es importante destacar que los procedimientos quirúrgicos nunca están exentos de riesgo, ya que existen complicaciones inherentes a ellos, otros dependen de la condición del paciente y algunos son susceptibles de prevenirse. Es necesario continuar la investigación sobre este tema, diseñar estrategias de contingencia que disminuyan los riesgos a los que se enfrentan las pacientes durante este tipo de procedimientos.
+
+CONCLUSIÓN
+
+Identificar los factores de riesgo en cirugía ginecológica y las tasas de complicaciones es una temática de gran importancia para las instituciones de salud en el país. A partir de la información presentada, es posible describir de los procedimientos ginecológicos y las posibles complicaciones, proporcionando así las bases teóricas y estadísticas reales, útiles para mejorar la atención integral de las pacientes con indicación quirúrgica por patología benigna. Los factores de riesgo de mayor asociación con complicaciones mayores fueron la diabetes mellitus, la anticoagulación crónica, el síndrome adherencial severo y el procedimiento quirúrgico de urgencia.

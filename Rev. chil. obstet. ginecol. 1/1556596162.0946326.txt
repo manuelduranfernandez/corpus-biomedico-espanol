@@ -1,0 +1,70 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262017000400438
+Aplicación de la escala de factores de riesgo para complicaciones de preeclampsia.
+
+INTRODUCCIÓN
+
+La preeclampsia es un síndrome idiopático heterogéneo multisistémico, se caracteriza por hipertensión arterial, proteinuria e hipoperfusión tisular generalizada relacionada con una respuesta vascular anormal placentaria, asociada al aumento de resistencias vasculares sistémicas, daño endotelial, cambios metabólicos, consumo plaquetario, aumento en respuesta inflamatoria y activación del sistema de coagulación,1 complica 2 a 8% de los embarazos en los países industrializados y 10% en los países en desarrollo.2 Las complicaciones maternas graves se producen más a menudo en mujeres con trastornos hipertensivos, incluyen insuficiencia renal aguda, coagulación intravascular diseminada, edema pulmonar, embolia pulmonar, trastornos cerebrovasculares, y dificultad respiratoria.3 La escala de factores de riesgo para complicaciones de preeclampsia, se validó en población latina 4, para identificar pacientes que obtengan beneficios al ingreso en una Unidad de Cuidados Intensivos de manera temprana; cuenta con sensibilidad de 93%, especificidad 80%, valor predictivo positivo (VPP) de 70% y valor predictivo negativo (VPN) de 96% 5. Con la necesidad de contar con mayor sustento del conocimiento en la práctica diaria, y la posibilidad del uso de nuevas tecnologías, se utilizó la técnica estadística de minería de datos como sistema de soporte en la toma de decisiones clínicas con el fin de contribuir a delimitar el daño orgánico y disminuir la muerte materna.
+
+MATERIAL Y MÉTODO
+
+Se realizó un estudio prospectivo, longitudinal y analítico con técnica de minería de datos en el periodo comprendido del 01 de mayo al 30 de Septiembre de 2016, en la Unidad de cuidados Intensivos Obstétricos (UCIO) del HGO del IMIEM, mediante la aplicación de la escala de factores de riesgo para complicaciones de preeclampsia (Tabla I), a 60 pacientes embarazadas, con diagnóstico de preeclampsia con y sin criterios de severidad de acuerdo a The American College of Obstetricians and Gynecologists (ACOG) 2013, en cualquier trimestre del embarazo con el fin de identificar la precisión de la escala como método predictor de complicaciones en preeclampsia. Se realizó el entrenamiento y prueba de una red neuronal y árbol de decisiones, para el diagnóstico precoz de complicaciones, a partir de los datos obtenidos de las 12 variables de la escala.
+
+Tabla I Escala de Factores de Riesgo para Complicaciones de Preeclampsia 
+
+Fuente: Luis J. López et. al. “Construcción y validación de una escala de factores de riesgo para complicaciones de preeclampsia”. Hospital de ginecología y obstetricia del Instituto Materno Infantil del Estado de México. Toluca 2014. TESIS.
+
+*INR: Relación Normalizada Internacional
+
+La escala fue calificada de acuerdo al punto de corte ≥4 puntos, seleccionando pacientes candidatas para vigilancia, valoración o ingreso a la UCIO, registrando aquellas que presentaron complicaciones o no (Tabla II). El instrumento consta de 12 factores de riesgo validados previamente como predictores de complicaciones en preeclampsia.
+
+Tabla II Evaluación de la Escala de Factores de Riesgo para Complicaciones de Preeclampsia 
+
+Fuente: Luis J. López et. al. “Construcción y validación de una escala de factores de riesgo para complicaciones de preeclampsia”. Hospital de ginecología y obstetricia del Instituto Materno Infantil del Estado de México. Toluca 2014. TESIS UAEMex.
+
+UCIO: Unidad de Cuidados Intensivos Obstétricos
+
+Una vez recolectada la muestra, se procedió a la captura de la información se construyó la base de datos y se analizó con el paquete estadístico SPSS versión 22 para Windows, utilizando minería de datos de tipo supervisado con árbol de decisión, red neuronal artificial y curva ROC.
+
+RESULTADOS
+
+Se realizó el entrenamiento y prueba de un árbol de decisiones, creado con una profundidad de 5 niveles, 17 nodos de decisión, así como 9 nodos terminales o de incertidumbre mediante el cual se calculó la precisión y el grado de error de la escala estudiada como método predictor de complicaciones en preeclampsia (Gráfica 1). El resultado estadístico del árbol de decisiones muestra un error estimado de la escala de factores de riesgo para complicaciones de preeclampsia de 6.7%, y un grado de precisión calculado de 93.3%. (Tabla III).
+
+Fuente: HGO del IMIEM
+
+Grafica 1 Árbol de decisión de la escala de factores de riesgo para complicaciones de preeclampsia. 
+
+Tabla III Precisión del árbol de decisión de la Escala de Factores de Riesgo para Complicaciones de 
+
+Fuente: HGO del IMIEM
+
+Método de crecimiento: CRT
+
+Variable dependiente: Presencia de complicaciones
+
+Asimismo, se desarrolló un modelo de tipo red neuronal artificial en dos fases, la primera de entrenamiento en la que se construyó el modelo a partir de la variable dependiente, presencia o ausencia de complicaciones, y una segunda de prueba, con la que se evaluó el modelo a partir de las doce variables dependientes, para determinar la capacidad predictiva del instrumento (Gráfica 2)., asimismo se encontró que el porcentaje de precisión de la escala de factores de riesgo para complicaciones de preeclampsia, fue del 100% (Tabla IV).
+
+Grafica 2 Red neuronal artificial de la escala de factores de riesgo para complicaciones de preeclampsia. 
+
+Tabla IV Precisión de una red neuronal artificial en la escala de factores de riesgo para complicaciones de preeclampsia 
+
+Fuente: HGO del IMIEM
+
+Variable dependiente: Presencia de complicaciones
+
+El cálculo del rendimiento diagnóstico de la escala de factores de riesgo para complicaciones de preeclampsia mediante una Curva ROC (Gráfica 3), reporta que el ABC para ésta escala es de 0.98.
+
+Fuente: HGO del IMIEM
+
+Gráfica 3 Curva ROC (Rendimiento diagnóstico) de la Escala de Factores de Riesgo para Complicaciones de Preeclampsia 
+
+DISCUSIÓN
+
+El estudio PIERS (Pre-eclampsia Integrated Estimate of Risk, en inglés), realizado de 2003 a 2010 en hospitales de Canadá, Australia y Nueva Zelanda, tomó en cuenta seis variables como parte de una ecuación que predice el riesgo de complicaciones de preeclampsia: edad gestacional, disnea, plaquetas, transaminasa glutámico oxalacética, creatinina sérica y saturación arterial de oxígeno, éste último parámetro no fue medido en todas las pacientes, por lo que se asignó por consenso una saturación de 97% a todas las pacientes que no contaran con la medición por considerar a dicho parámetro como normal;4 por otra parte, la Organización Mundial de la Salud (OMS), estima que la incidencia de preeclampsia es siete veces mayor en los países en desarrollo que en los desarrollados (2.8% y 0.4% de los nacidos vivos respectivamente), la incidencia de eclampsia en los países desarrollados de Norteamérica y Europa es similar y (5 a 7 casos por cada 10.000 partos), mientras que en países en desarrollo es variable, oscilando entre 1 caso por cada 100 embarazos a 1 por cada 1700 embarazos.6 Por tanto, el modelo PIERS no es aplicable a pacientes de población latina, puesto que las tasas de morbimortalidad por preeclampsia son considerablemente más altas que en población nórdica.
+
+No existe en la literatura nacional o internacional otra escala que intente predecir complicaciones de preeclampsia; lo que dio lugar a crear la “escala de factores de riesgo para complicaciones de preeclampsia” (Elizalde y cols, 2014), con el fin de predecir las complicaciones en preeclampsia, aplicable en población latina; ésta escala incluye 12 variables estadísticamente significativas como predictores de complicaciones, incluyendo 5 de las variables componentes del modelo PIERS, a excepción de la variable saturación de oxígeno, considerando que el estudio canadiense se llevó a cabo en nosocomios que se encuentran en ciudades a nivel del mar, mientras que, la altitud del hospital en que se realizó éste último estudio se encuentra a más de 2600 metros sobre el nivel del mar.4
+
+
+
+Los hallazgos del presente trabajo, demostraron que constituye una buena decisión basarse en la escala de factores de riesgo para complicaciones de preeclampsia como modelo predictivo en la toma de decisiones para iniciar tratamiento oportuno y disminuir el daño orgánico, susceptible de ser aplicable en hospitales de América Latina.
+
+SUGERENCIA: Continuar con la aplicación de la escala en diferentes poblaciones con el propósito de disminuir las complicaciones de preeclampsiaeclampsia a nivel de América Latina

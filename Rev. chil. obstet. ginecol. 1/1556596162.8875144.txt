@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262018000200149
+Edad de inicio sexual y asociación a variables de salud sexual y violencia en la relación de pareja en adolescentes chilenos.
+
+INTRODUCCIÓN
+
+El comportamiento sexual de los adolescentes chilenos ha presentado cambios. Datos nacionales muestran que los adolescentes inician relaciones románticas de forma más temprana, alrededor de los 13 años1. Se ha observado una mayor proporción de adolescentes entre 15 a 19 años sexualmente activos, y una disminución de la edad promedio del inicio de las relaciones sexuales penetrativas2.
+
+Los riesgos de la actividad sexual no protegida son bien conocidos, como los embarazos no planificados e infecciones de transmisión sexual, el que aumenta cuando el inicio de la vida sexual es de forma temprana.3,4,5,6. Algunos estudios han determinado como inicio sexual coital, vaginal o anal temprano o precoz, aquel que ocurre antes de los 14 o 15 años, sin haber un consenso3,4. Estos riesgos se observan con mayor frecuencia en adolescentes de niveles socioeconómicos desfavorecidos, replicando las desigualdades sociales 2,7. Estudios plantean que las consecuencias del inicio temprano de las relaciones sexuales van más allá de la salud sexual y reproductiva, que impacta en ámbitos de la salud mental y social. Asimismo, cuando el inicio de la vida sexual ocurre en las etapas finales de la adolescencia, esta experiencia puede ser más satisfactoria y positiva para el bienestar personal3,8.
+
+La violencia en la relación de pareja (VRP) es un fenómeno social problemático y una de las formas más frecuentes de violencia en que los adolescentes pueden verse involucrados 9. Generalmente se distinguen tres tipos de VRP: física, psicológica y sexual, siendo la violencia psicológica la más recurrente entre parejas de adolescentes y jóvenes 2,10. Según datos del Centers for Disease Control and Prevention de Estados Unidos (CDC), 1 de cada 10 adolescentes refiere haber sido agredido físicamente por su pareja, precedido por comportamientos controladores, siendo más frecuente en las mujeres sexualmente activas 9,11. La VRP puede tener un efecto negativo en la salud a lo largo del desarrollo de las personas. Las víctimas adolescentes de VRP tienen más probabilidades de presentar problemas de salud mental, abuso de alcohol, disminución del rendimiento escolar, conductas sexuales de riesgo y repetir estos patrones violentos en relaciones futuras9,10,12.
+
+Los comportamientos de riesgo en adolescentes tienden a agruparse, de tal manera que los adolescentes que tienen alguna conducta de riesgo como el inicio temprano de las relaciones sexuales, también pueden involucrarse en otros comportamientos de riesgos, que los hacen más vulnerables a experimentar violencia en sus relaciones de pareja, ya sea como agresor o como víctima 13. Estudios internacionales han identificado la asociación entre comportamientos sexuales de riesgo y la VRP, especialmente en el caso de adolescentes mujeres, planteando la necesidad de programas preventivos 11,14,15,16. En nuestro país no se han encontrado estudios que abordar estas dos temáticas en su conjunto. El objetivo fue analizar la edad de inicio sexual y su asociación a variables de salud sexual y VRP en adolescentes chilenos.
+
+MÉTODOS
+
+Estudio transversal y analítico. La muestra estuvo constituida por adolescentes de ambos sexos de 15 a 19 años que se obtuvo de la base de datos utilizada por la 8° Encuesta Nacional de la Juventud. El periodo de recolección de datos se realizó entre septiembre y diciembre del año 2015. El tipo de muestreo con representación nacional, selección de los participantes y recolección de la información están descritos en la 8° encuesta Nacional de Juventud. En cuanto al factor de ponderación estimado por estos autores, fue considerado en los análisis del presente estudio2.
+
+Esta encuesta abordó las temáticas de: “Un Panorama General sobre las Juventudes”, “Trayectorias Juveniles: Educación, Trabajo y Familia, “Democracia y Participación Sociopolítica de las Juventudes”, “Salud Sexual y Reproductiva de las Juventudes”, “Representaciones Juveniles y Orientaciones Valóricas”, “Percepciones Juveniles sobre Discriminación, Violencia y Salud Mental”, “Consumo de Drogas en las Juventudes”. En este estudio se selecccionaron las temáticas “Salud sexual y reproductiva” y “Violencia en la relación de pareja”. Para la temática “Salud sexual y reproductiva” la muestra correspondió a 1.679 adolescentes que habían iniciado actividad sexual; para la temática “Violencia en la relación de pareja” la muestra correspondió a 1.198 adolescentes que estaban en relación de pareja, con y sin inicio de actividad sexual.
+
+Las variables resultado correspondientes a “Salud sexual y reproductiva” fueron evaluadas mediante la presencia o ausencia de la característica: Sexo oral (si/no), Sexo anal (si/no), Uso de método anticonceptivo (MAC) primera relación sexual (si/no), Uso de MAC última relación sexual (si/no), 2 o más parejas sexuales últimos 12 meses (si/no), Embarazo no planificado (si/no).
+
+Las variables resultado correspondientes a “Violencia en la relación de pareja” fueron evaluadas mediante la presencia o ausencia de la característica: Violencia física (si/no), Violencia psicológica (si/no) y Violencia sexual (si/no) y para “Prácticas de control y abuso de la pareja” (si/no) y “Prácticas de control y abuso hacia la pareja” (si/no), las que fueron obtenidas a través de ocho preguntas.
+
+La variable independiente “Edad de inicio de actividad sexual” para el análisis de “Salud sexual y reproductiva” se clasifico en: 1= Inicio temprano: menor de 15 años, 0 = Inicio no temprano: mayor o igual a 15 años. Para el análisis de las variables de VRP, la varibale “Edad de inicio de actividad sexual” se clasifico en 1 = Inicio temprano: menor de 15 años, 0 = Inicio no temprano: mayor o igual a 15 años y Sin inicio de actividad sexual. Las variables de control fueron edad en años cumplidos y grupo socioeconómico. Para ajustar los modelos por grupo socioeconómico, fue necesario crear dos variables, la primera clasificada como “ABC1”=0, “C2, C3”=1 y la segunda “ABC1”=0 “D, E”=1.
+
+Análisis estadístico
+
+Se realizó análisis descriptivo de la información para caracterizar la muestra. Se evaluó la asociación entre “Edad de inicio de actividad sexual” y variables de “Salud sexual y reproductiva” y “Violencia en la relación de pareja”, mediante el cálculo de OR ajustado por edad en años cumplidos y grupo socioeconómico, utilizando análisis de regresión logística múltiple 17. Estos modelos se estratificaron por sexo. Se determinó la distribución porcentual de “Prácticas de control y abuso de la pareja” y “Prácticas de control y abuso hacia la pareja”, según edad de inicio de actividad sexual y sexo.
+
+Los datos se analizaron con el software estadístico STATA v12.0 (StataCorp LP, Texas, USA).
+
+RESULTADOS
+
+Salud Sexual y Reproductiva
+
+La muestra correspondió a 1.679 adolescentes que habían iniciado actividad sexual. El 47,3% fueron mujeres, Tabla 1. Las mujeres iniciaron actividad sexual a los 15,54 años (Error Estándar=0,07) y los hombres a los 15,24 años (Error Estándar =0,14). El 26,7% del total de adolescentes inició la actividad sexual antes de los 15 años, del cual el 37 % lo hizo antes de los 14 años (10% del total de la muestra).
+
+Tabla 1 Prevalencia de variables de Salud Sexual según sexo en adolescentes chilenos (n = 1679) 
+
+En las mujeres, con inicio sexual temprano aumenta 1,67 veces la posibilidad de tener sexo oral (OR: 2,67; IC95%: 1,59 – 4,49), 1,39 veces tener sexo anal (OR: 2,39; IC95%: 1,42 – 4,02) y 0,85 veces el riesgo de embarazo no planificado (OR: 1,85; IC95%: 1,08 – 3,15). En los hombres, con inicio sexual temprano aumenta 0,78 veces la posibilidad de tener sexo oral (OR: 1,78; IC95%: 1,04 – 3,05), 0,82 veces tener sexo anal (OR: 1,82; IC95%: 1,02 – 3,26), 2,33 veces no usar MAC en la primera relación sexual (OR: 3,33; IC95%: 1,85 – 6,01) y 4,33 veces tener 2 o más parejas sexuales durante los últimos 12 meses (OR: 5,33; IC95%: 3,25 – 8,75) Tabla 2.
+
+Tabla 2 Regresión logística múltiple entre Edad de inicio de actividad sexual y variables de Salud Sexual según sexo en adolescentes chilenos (n = 1679) 
+
+ORa, Odds ratio ajustado por edad y grupo socioeconómico; IC: Intervalo de confianza. Edad de inicio actividad sexual (1 = Inicio temprano: menor de 15 años, 0 = Inicio no temprano: mayor o igual a 15 años). Sexo oral (0 = No, 1 = Si). Sexo anal (0 = No, 1 = Si). Uso de método anticonceptivo (MAC) 1° relación sexual (0 = Si, 1 = No). Uso de método anticonceptivo (MAC) última relación sexual (0 = Si, 1 = No). N° de parejas sexuales últimos 12 meses (0 = 0 a 1, 1 = 2 y más).
+
+*p<0,05,
+
+**p<0,01
+
+***p<0,001
+
+VRP y prácticas de control y abuso en la pareja
+
+La muestra correspondió a 1.198 adolescentes que estaban en relación de pareja, con y sin inicio de actividad sexual.
+
+El 54,17% fueron mujeres. La edad promedio de inicio sexual fue de 15,6 años (Error Estándar =0,08) en las mujeres y 15,3 años (Error Estándar =0,10) en los hombres.
+
+La prevalencia de VRP fue 10% en el grupo total, siendo la violencia psicológica la más frecuente. Tabla 3.
+
+Tabla 3 Prevalencia de variables de tipo de violencia en la relación de pareja según sexo en adolescentes chilenos (n= 1.198) 
+
+En las mujeres, el inicio sexual temprano aumenta 5,72 veces el riesgo de violencia física (OR: 6,72; IC95%: 2,52 – 17,87) y 7,82 veces riesgo de violencia psicológica (OR: 8,82; IC95%: 4,10 – 19,0) Tabla 4.
+
+Tabla 4 Regresión logística múltiple entre Edad de inicio de actividad sexual y tipo de violencia en la relación de pareja según sexo en adolescentes chilenos (n= 1.198) 
+
+ORa, Odds ratio ajustado por edad y grupo socioeconómico; IC: Intervalo de confianza. Edad de inicio de actividad sexual (1 = Inicio temprano: menor de 15 años, 0 = Inicio no temprano: mayor o igual a 15 años y sin inicio sexual). Violencia física (0 = No, 1 = Si). Violencia psicológica (0 = No, 1 = Si). Violencia sexual (0 = No, 1 = Si).
+
+* p<0,05,
+
+** p<0,01
+
+***p<0,001
+
+Las adolescentes mujeres con inicio sexual temprano, presentan un mayor porcentaje de prácticas de control y abuso de y hacia su pareja. Las prácticas de control más frecuentes de la pareja fueron: “Revisa tu celular, tu correo o tu Facebook sin tu consentimiento” (33,2%) y “Controla tus salidas, horarios o apariencia” (30,7%). Las prácticas de control más frecuentes hacia la pareja fueron: “Le controlas sus salidas, horarios o apariencia a tu pareja” (42,9%) “Revisas su celular, su correo o su Facebook sin su consentimiento” (41,3%), Figura 1 y 2.
+
+Figura 1 Prácticas de control y abuso de la pareja, según Edad de inicio de actividad sexual 
+
+Figura 2 Prácticas de control y abuso hacia la pareja, según Edad de inicio de actividad sexual 
+
+Los adolescentes varones con inicio sexual temprano, presentan un mayor porcentaje de prácticas de control solo en “Controla tus salidas, horarios o apariencia” (41,6%) y “Revisas su celular, su correo o su Facebook sin su consentimiento” (22,8%), Figura 1y 2.
+
+DISCUSIÓN
+
+La edad de inicio de las relaciones sexuales ha disminuido en la última década con menos diferencias según sexo, lo cual manifiesta un cambio en el comportamiento sexual de los adolescentes chilenos 17, fenómeno similar observado en otros estudios4,19,20. El 10 % de los adolescentes encuestados refiere haber iniciado su actividad sexual antes de los 14 años, a diferencia de un estudio norteamericano que muestra que esto ocurre con una frecuencia cercana al 20%. Esto da cuenta que una proporción de adolescentes ha iniciado la actividad sexual antes de la edad de consentimiento legal establecida en nuestro país, lo que implica un desafío para los profesionales de salud.
+
+Las prácticas sexuales de sexo oral y anal son comunes entre los adolescentes, existiendo mayor asociación en adolescentes con inicio sexual temprano, similar a lo reportado en un estudio internacional19. Esto podría relacionarse con un mayor tiempo de exposición desde el inicio de las relaciones sexuales, lo que favorecería la experimentación de un mayor repertorio de prácticas sexuales. En el caso de los adolescentes varones con inicio sexual temprano, presentan más riesgo de tener un mayor número de parejas sexuales en el último año que los hombres con inicio sexual no temprano, diferencia que no fue observada en las adolescentes mujeres. Estos resultados difieren de lo reportado en una revisión sistemática que refiere que las adolescentes con inicio sexual temprano presentan más comportamientos sexuales de riesgo, tales como mayor cantidad de parejas sexuales e infecciones de transmisión sexual, el no uso de anticoncepción, tener o repetir un embarazo a temprana edad 3. El usar o no usar un método anticonceptivo no presentó diferencias según la edad de inicio de la actividad sexual; sin embargo, las adolescentes con inicio sexual temprano aumenta casi dos veces el riesgo de un embarazo no planificado, lo que concuerda con otros estudios3,4,5,6. Esto hace pensar que si bien las adolescentes que inician relaciones sexuales de forma temprana lo hacen aparentemente usando algún anticonceptivo, estos no serían lo suficientemente efectivos. De acuerdo a la información obtenida desde el sistema público de salud de las adolescentes de 15 años y menos que se encuentran en control por regulación de la fertilidad, la mayoría usa anticonceptivos como píldoras o inyectables combinados, los que comparativamente, fallan más que los anticonceptivos de larga duración como implantes o dispositivos intrauterinos. Este riesgo aumenta cuando el uso del anticonceptivo es inconsistente, conducta que es más frecuente en adolescentes21.
+
+La prevalencia de VRP en el grupo total de adolescentes fue de 10,7%, siendo más frecuente la violencia psicológica. Esta prevalencia fue menor a las reportadas en otros estudios, lo cual puede explicarse por las diferencias en la obtención de la información. Por ejemplo, en el presente estudio se consultó por la experiencia de violencia con la pareja actual, mientras que en otros estudios se consultó por VRP en la vida o en los últimos 12 meses 10,11, 12,16.
+
+En las mujeres con el inicio sexual temprano existe una fuerte asociación entre la VRP, lo que es coincidente con otros estudios11,16,22. Sin embargo, de acuerdo a los datos obtenidos en este estudio, no es posible establecer factores causales. Se ha descrito que variables como la baja escolarización y la mayor diferencia de edad con la pareja, es más probable que las adolescentes experimenten victimización física durante el curso de la relación 23. Asimismo, se ha descrito que las adolescentes más jóvenes pueden interpretar actos violentos de su pareja como un compromiso más profundo con la relación, naturalizando estas prácticas. Esta observación no está clara en el caso de los adolescentes varones 22.
+
+Las limitaciones de este estudio se relacionan con la obtención de los datos desde una fuente secundaria con objetivos diferentes a los planteados. Por otro lado, contar con una muestra de representación nacional es una fortaleza, ya que permite tener resultados representativos de la población adolescente chilena, como también visibilizar las diferencias entre los adolescentes según su edad.
+
+CONCLUSIONES
+
+La VRP y el inicio sexual temprano constituyen un riesgo para la salud física, mental y social, especialmente en adolescentes mujeres, lo que debe alertar a quienes trabajan con adolescentes para la detección e intervención oportuna, considerando que la adolescencia es una etapa del ciclo vital propicia para la prevención de conductas de riesgo que pueden mantenerse en la adultez. Esto hace necesario la implementación de estrategias integrales con enfoque de derechos, género e interculturalidad, y la capacitación de los profesionales de la salud y educación, para promover la salud y bienestar de los y las adolescentes.
+
+Fuente de financiamiento: Centro de Medicina Reproductiva y Desarrollo Integral del Adolescente, CEMERA, Facultad de Medicina, Universidad de Chile.

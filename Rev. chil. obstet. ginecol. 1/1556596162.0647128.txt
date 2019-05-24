@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262017000400424
+Determinantes biológicos de mortalidad neonatal, en una población de mujeres adolescentes y adultas de un hospital en Colombia.
+
+INTRODUCCIÓN
+
+Grandes cambios en salud materno-infantil están ocurriendo para poder alcanzar los objetivos establecidos. (1). La mortalidad neonatal, definida como la proporción de recién nacidos vivos (RNV) que mueren dentro de los 28 días de vida por 1000 nacidos vivos (nv), (1) ha disminuido en muchos países, estabilizándose en los de mayores ingresos. (2)
+
+Cada año más de 4 millones de niños/as mueren en las primeras cuatro semanas de vida, tres millones ocurridas entre el 0-7 día. Uno de cada tres muertes se produce durante el parto (en gran medida evitables), mientras 98% se producen en el mundo en desarrollo, (1) donde el riesgo de muerte en el período neonatal es seis veces mayor que en los países desarrollados, mientras en los países menos desarrollados es más de ocho veces mayor, siendo las regiones subsaharianas de Éste, África Occidental y Central, Asia meridional y central las que presentan mayores tasas (42-49/1000 nv). La tasa de mortalidad neonatal para América Latina y el Caribe es 15/1.000 nv. (1) Colombia informa una tasa de mortalidad neonatal de 18/1000 nv para 1990 y 9/1000 nv para 2015, con una reducción de 50%. (3)
+
+Las causas y factores determinantes de la mortalidad prenatal y neonatal difieren de las causas y contribuyen a la mortalidad post-neonatal e infantil, (1) estando relacionadas con prematuridad, sepsis neonatal, asfixia perinatal, anomalías congénitas, entre otras. (4)
+
+Este trabajo tuvo por objetivo establecer los determinantes (maternos, obstétricos, fetales y neonatales) asociados a mortalidad neonatal temprana y tardía, en un grupo de RNV que fueron hospitalizados en la unidad de cuidados intensivos neonatales de la Fundación Hospital San José de Buga, Colombia, entre septiembre de 2005 y diciembre de 2016.
+
+PACIENTES Y MÉTODOS
+
+Diseño del estudio. Estudio observacional de tipo casos y controles, anidado en una cohorte.
+
+Participantes. Se incluyeron neonatos ≥ 24 semanas de edad gestacional (EG) y peso ≥500 gramos al nacer, nacidos en la institución o procedente de otras instituciones, con algún riesgo o morbilidad, cuya permanencia en UCI sea ≥24 horas y, cuya permanencia no haya sido por ausencia de madre/acudiente. Se excluyeron neonatos con ausencia de datos importantes en la base de datos o historia clínica y todos aquellos neonatos que hayan sido egresados por remisión a otra institución. Definimos caso, a la muerte en un RNV que haya sido hospitalizado en la UCI neonatal, ocurrida entre el nacimiento y los 28 días de vida y, que puede dividirse en muerte neonatal precoz (0-7 días de vida) y mortalidad neonatal tardía (8 y más días de vida). (1) Los controles fueron todos aquellos neonatos que egresan vivos de la UCI neonatal a la casa.
+
+Variables. La variable dependiente fue la mortalidad neonatal (temprana y tardía). Las variables independientes incluyen a diferentes determinantes biológicos maternos, feto-neonatales y obstétricos.
+
+Fuente de los datos. Primaria: La información fue obtenida de la historia clínica materna, obstétrica y neonatal.
+
+Limitaciones y sesgos. La ausencia de registros representó la principal limitación y causa potencial de sesgos de este trabajo, la cual fue mitigada eliminando aquellos participantes con ausencia de registros de relevancia en la investigación. Otra limitante fue que se desconoció el resultado final en términos de sobrevida en algunos neonatos remitidos a otras instituciones, por lo cual fueron excluidos. Una limitante importante, fue que no se realizaron autopsias en la totalidad de los fallecidos para aclarar causas de muerte.
+
+Tamaño de muestra. La muestra estuvo constituida por 5567 neonatos, de los cuales 125 fallecieron. Este tamaño de muestra con nivel de confianza de 95% y poder estadístico de 80%, permite determinar odds ratio (OR) de 1,7 entre determinantes y mortalidad neonatal.
+
+Análisis estadístico. Los datos fueron analizados en Stata 11.0®. Las variables continuas se describieron de acuerdo con su distribución con promedios y desviación estándar (DE) o medianas y rangos intercuartiles (RI). Para comparar diferencias se empleó la prueba t-test no pareado o de Mann-Whitney según correspondiera. Las variables categóricas se expresaron en frecuencias y proporciones y fueron comparadas usando la prueba de Chi2 de Pearson. Algunas variables se agruparon para su análisis. Para determinar la asociación entre cada variable independiente y la variable resultado, se calculó OR con su intervalo de confianza del 95% (IC 95%) (5) Para el análisis y determinación de las asociaciones, las variables se dividieran en tres grupos: Determinantes maternos y obstétricos; determinantes neonatales; determinantes relacionados con complicaciones y eventos adversos neonatales. El análisis multivariado se realizó mediante regresión logística (RL) para cada uno de estos grupos de factores. En la RL se incluyó las variables que en el bivariado hubieran mostrado significancia estadística, con probabilidad de retiro si la p>0,05. (6) Las variables con significancia estadística fueron determinadas por el método "Backward: Wald", como lo describe Maroco. (7) Se consideró un valor de p<0,05 como significativo.
+
+El trabajo fue aprobado por los Comité de Ética de la Unidad Central del Valle y la Fundación Hospital San José de Buga, Colombia.
+
+RESULTADOS
+
+Un total de 5.567 neonatos egresaron la UCI neonatal entre 19-septiembre-2005 y 31-diciembre-2016, entre los cuales murieron 125 (2,25%), 96 (76,80%) entre 0-7 días de vida (entre ellos 48, es decir 50% en las primeras 48 horas) y 29 (23,20%) después del séptimo día de vida.
+
+La tabla 1 muestra las principales determinantes asociados a la mortalidad neonatal, siendo los principales bajo peso al nacer, prematuridad, infecciones bacterianas graves, enfermedad de membrana hialina, infecciones asociadas a la atención en salud (IAAS), asfixia perinatal, hipertensión pulmonar, malformaciones congénitas y anomalías cromosómicas, entre otras. Para las primeras 48 horas de vida se asociaron a mortalidad neonatal el bajo peso al nacer, prematuridad, infección bacteriana grave, enfermedad de membrana hialina y asfixia perinatal y después de 48 horas de vida el bajo peso al nacer, prematuridad, infección bacteriana grave, enfermedad de membrana hialina e IAAS, tabla 1. Para los neonatos de término los principales factores asociados muerte neonatal fueron infección bacteriana grave, asfixia perinatal, malformaciones congénitas y anomalías cromosómicas, hipertensión pulmonar e IAAS. Para los neonatos prematuros las principales fueron infección bacteriana grave, enfermedad de membrana hialina, otras dificultades respiratorias, IAAS e hipertensión pulmonar (tabla 2).
+
+Tabla 1 Determinantes en mortalidad neonatal. 
+
+*Infección bacteriana grave: Sepsis, neumonía y meningitis.
+
+**IAAS: Infecciones asociadas a la atención en salud (infecciones del torrente sanguíneo asociado a catéter central, neumonía asociada a ventilador, meningitis, infecciones del torrente sanguíneo no asociada a catéter central, neumonía no asociada a ventilador, enterocolitis necrotizante).
+
+***HIV: Hemorragia intraventricular (clasificación de Papille)
+
+Tabla 2 Determinantes en mortalidad neonatal en recién nacidos de término y prematuros. 
+
+*Infección bacteriana grave: Sepsis, neumonía y meningitis.
+
+**IAAS: Infecciones asociadas a la atención en salud (infecciones del torrente sanguíneo asociado a catéter central, neumonía asociada a ventilador, meningitis, infecciones del torrente sanguíneo no asociada a catéter central, neumonía no asociada a ventilador, enterocolitis necrotizante).
+
+***Enfermedad de membrana hialina
+
+Los determinantes maternos y obstétricos asociados a mortalidad neonatal incluyeron, edad materna <15 años, carencia de esposo o compañero (gestantes solteras, separadas o viudas), número de visitas en el control prenatal (CPN) <6, trabajo de parto prematuro espontáneo, sangrado del tercer trimestre, incluyendo desprendimiento prematuro de placenta, placenta previa y anemia e hipertensión arterial crónica (tabla 3).
+
+Tabla 3 Determinantes maternos y obstétricos en mortalidad neonatal. 
+
+*EG: Edad gestacional.
+
+**CPN: Control prenatal.
+
+Entre los determinantes neonatales que hallamos con mayor frecuencia entre los que fallecieron una calificación de Apgar <7 a los 1, 5 y 10 minutos de vida, necesidad de reanimación cardiorrespiratoria, prematuridad (EG <37 semanas), bajo peso al nacer (peso <2500 g), infección bacteriana a grave (sepsis, neumonía, meningitis temprana o tardía no asociada a la atención en salud), enfermedad de membrana hialina, asfixia perinatal, hipertensión pulmonar, malformaciones congénitas y anomalías cromosómicas, ductus arterioso permeable y cardiomiopatía hipertrófica (tabla 4)
+
+Tabla 4 Determinantes neonatales en mortalidad neonatal. 
+
+*EG: Edad gestacional.
+
+**TTRN: Taquipnea transitoria del recién nacido..
+
+Encontramos complicaciones y eventos adversos vinculados con mortalidad neonatal, identificamos las IAAS, enterocolitis necrotizante estados clínicos ≥IIA, hemorragia intraventricular grados I y II de Papille, HIV grados III y IV de Papille, neumotórax y hemorragia pulmonar (tabla 5).
+
+Tabla 5 Complicaciones y eventos adversos como determinantes de mortalidad neonatal 
+
+*ITS-AC: Infección del tracto sanguíneo asociado a catéter central.
+
+**NAV: Neumonía asociada a ventilador.
+
+***AAS: Asociado a la atención en salud.
+
+Después de realizar el análisis multivariado, encontramos entre los determinantes maternos y obstétricos que un número de visitas en el CPN <6, trabajo de parto prematuro espontáneo, sangrado del tercer trimestre e hipertensión arterial crónica, estuvieron asociados de manera independiente a mortalidad neonatal. Entre los determinantes neonatales, la necesidad de reanimación cardiorrespiratoria, prematuridad o bajo peso al nacer, infección bacteriana grave, enfermedad de membrana hialina, hipertensión pulmonar, malformaciones congénitas y anomalías cromosómicas y cardiomiopatía hipertrófica, se asociaron independientemente a mortalidad neonatal (tabla 7). Para las complicaciones y eventos adversos hubo asociación independiente y estadísticamente significativa para IAAS, hemorragia intraventricular grados III y IV de Papille y hemorragia pulmonar (tabla 8).
+
+Tabla 6 Análisis multivariado de los determinantes maternos y obstétricos en mortalidad neonatal. 
+
+*CPN: Control prenatal.
+
+**ORc: Odds ratio crudo.
+
+***ORa: Odds ratio ajustado
+
+Tabla 7 Análisis multivariado de los determinantes neonatales 
+
+*ORc: Odds ratio crudo.
+
+**ORa: Odds ratio ajustado
+
+Tabla 8 Análisis multivariado de las complicaciones y eventos adversos 
+
+*ORc: Odds ratio crudo.
+
+**ORa: Odds ratio ajustado
+
+DISCUSIÓN
+
+El 2,25% de los neonatos de nuestro trabajo egresaron muertos y más de 75% de muertes ocurrieron entre 0-7 días de vida y entre estos la mitad en las primeras 48 horas. Estos datos son similares a los informados por otros autores donde 78,7% ocurrieron en las primeras 24 horas de vida, 90,3% en los primeros dos días y el resto entre 3-7 días. (8) Para Vogel et al.,(9) la mortalidad neonatal ocurrió en 67,1% en los primeros 3 días de vida. En Nueva Zelanda en 2013 informan que la mortalidad neonatal temprana a cero días de edad ocurrió en 57,9% y 1-6 días en 21,7%. (10)
+
+Si las tendencias actuales continúan, alrededor de la mitad de los 69 millones de muertes entre 2016-2030 ocurrirán durante el período neonatal. Para ALC, se prevé que la tasa de mortalidad neonatal pasé de 22 a 9/1.000 nv, con una disminución de 58%. Además, 63 países deben acelerar el progreso para alcanzar el objetivo de una tasa de mortalidad neonatal de 12/1.000 nv en 2030. Para un millón de neonatos, el día de nacimiento, será el día de su muerte y cerca de dos millones mueren en la primera semana de vida. (3)
+
+Los determinantes de mortalidad estuvieron asociados con bajo peso al nacer, prematuridad y sus complicaciones, infección bacteriana grave, IAAS, asfixia perinatal y sus complicaciones y malformaciones congénitas y anomalías cromosómicas. Este comportamiento se conservó para las muertes en las primeras 48 horas a excepción de las IAAS, como para los neonatos >48 horas de edad. Estos registros son similares a los emitidos por la OMS para quienes la prematuridad y bajo peso al nacer son considerados como causas, aunque no directas, de muerte neonatal, además de malformaciones congénitas, asfixia perinatal e infecciones en el periodo perinatal.(1) En Estados Unidos de Norte América en 2013, informan que las cinco principales causas de mortalidad neonatal fueron malformaciones congénitas o anomalías cromosómicas (20%), bajo peso al nacer o prematuridad (18%), síndrome de muerte súbita infantil (7%), muerte neonatal debido a complicaciones maternas (7%) y lesiones no intencionales (5%). Entre los recién nacidos a término, las principales causas de muerte fueron asfixia perinatal e infecciones, (11) mientras en China las principales causas de muerte neonatal en 2008 fueron asfixia perinatal (29%), otras causas (por ejemplo, tétanos, hemorragia intracraneana, accidentes, escleroderma, asfixia accidental, meningitis) (27%), prematuridad (26%), anomalías congénitas (10%), infecciones (por ejemplo sepsis, diarrea y neumonía) (6%). (12)
+
+En nuestra serie identificamos que la edad <15 años al momento del parto se convirtió en determinante asociado a mortalidad neonatal, mientras que una edad entre 26-35 años fue protector. La edad materna está asociada de manera independiente a mortalidad perinatal. Se ha descrito que las tasas más bajas de mortalidad se encuentran en madres entre 25-34 años y la más elevadas entre las adolescentes y mujeres >35 años, donde las tasas para adolescentes <15 años y mujeres ≥45 años son más del doble que para las mujeres entre 25-29 años, el grupo de más baja mortalidad. (13) El mayor riesgo para los adolescentes puede estar relacionada, en parte, a que en este grupo de edad la clase socioeconómica es menos favorecida, a condiciones de comportamiento e inmadurez biológica. (14,15) Hay trabajos que informan que la adolescencia temprana está asociada a preeclampsia y trabajo de parto prematuro espontáneo, condiciones determinantes de la prematuridad neonatal, pero, también está asociado de manera independiente a prematuridad, infecciones bacterianas y mortalidad neonatal. Igualmente, la adolescencia se halla asociada a una mala adherencia al CPN, factor asociado a prematuridad, bajo peso al nacer y mortalidad neonatal. (16,17) En nuestro trabajo no hallamos una asociación significativa entre mortalidad neonatal y edad materna >35 años. Sin embargo, el envejecimiento de la madre está vinculado a morbilidades como diabetes, obesidad, hipertensión arterial crónica, que son más frecuentes en mujeres >35 años, quienes corren riesgo de tener un hijo con anomalía cromosómica o congénita, (18–20) con peso grande para la EG, restricción del crecimiento intrauterino y parto prematuro. (21)
+
+En nuestro trabajo hallamos que la carencia de esposo o compañero estable, un número de visitas en el CPN <6, trabajo de parto prematuro espontáneo, sangrado del tercer trimestre, anemia e hipertensión arterial crónica se asociaron a mortalidad neonatal, hallazgos similares a los informados por Vogel et al., (9) quienes informan que la ausencia de esposo, infecciones maternas, hipertensión arterial crónica, preeclampsia/eclampsia, anemia grave y trabajo de parto prematuro se asociaron a mortalidad neonatal temprana. Hay informes que muestran que hasta un 51% de las muertes perinatales ocurren en mujeres solteras (13) y esto puede estar asociado a la presencia o no de factores sociales, emocionales y de recursos financieros. (22) Para Vogel et al., (9) la mayor tasa de mortalidad neonatal precoz ocurre en mujeres sin esposo o compañero estable (13,6% vs 10,6%; p: 0,002).
+
+El CPN reduce el riesgo de mortalidad del binomio madre-hijo siempre y cuando sea temprano, continuo, completo, extenso de cobertura y calidad. (23) La adherencia al CPN es muy importante en la reducción del parto prematuro y bajo peso al nacer, como ha sido mostrado por trabajos realizados en Australia y Sudáfrica. (24) La mala adherencia al CPN, aumenta el riesgo de parto prematuro y bajo peso al nacer, dos condiciones que de manera independiente están asociados con la mortalidad neonatal. A su vez, una mala adherencia al CPN es un factor de riesgo independiente asociado a mortalidad neonatal. (17) De similar manera, un menor número de visitas en el CPN (<7 visitas), se asocia a mortalidad neonatal. (25) La EG de inicio del CPN también es un importante factor protector. En Irlanda en 2014, informan que la mortalidad neonatal fue inferior en las gestantes que iniciaron su CPN antes de las 12 semanas de gestación que las que lo hicieron después (28% vs 68,6%). (26)
+
+Vogel et al., (9) describe entre 2528 muertes neonatales, la presencia de abruptio de placenta (3%), placenta previa (2,1%), placenta acreta/increta/percreta (0,6%), ruptura uterina (0,5%), otras hemorragias obstétrica (0,9%); otras sepsis e infecciones sistémicas (2%), pielonefritis (0,6%) y enfermedad asociada a influenza (0,0%); preeclampsia (7,2%), eclampsia (2,5%) e hipertensión arterial crónica (1,4%); anemia grave (4,8%), enfermedades médicas (1,8%), infección por virus HIV/SIDA (0,7%), fiebre dengue/malaria (0,5%).
+
+Otros factores que influyen en la mortalidad neonatal están el número de embarazos y nacimientos previos, número de abortos previos, mortalidad fetal previa, número de RNV y muertos previos, complicaciones durante la gestación (diabetes, obesidad, hipertensión arterial asociada a la gestación, preeclampsia, etc), tipo de nacimiento, condiciones del parto, etc. La historia reproductiva de la madre influencia las condiciones de nacimiento y las complicaciones potenciales están vinculadas a mortalidad neonatal. Por ejemplo, el modo de nacimiento está influenciado por el modo de nacimiento del embarazo previo. (21) Mendoza y cols., describen que un periodo intergenésico <2 años, embarazo múltiple, preeclampsia, oligohidramnios, restricción del crecimiento intrauterino y sangrado del tercer trimestre fueron factores asociados con prematuridad, una de las principales causas asociadas a mortalidad neonatal. (25)
+
+Es importante anotar que varias complicaciones ocurridas durante el embarazo y el trabajo de parto, se vinculan directamente con causas de mortalidad neonatal, como por ejemplo, infección perinatal asociada a prematuridad extrema (50%) y sepsis neonatal (50%); hipertensión arterial asociada a prematuridad extrema (33,3%) y patología neurológica neonatal (66,7%); hemorragia anteparto asociada a prematuridad extrema (64%) y sepsis neonatal (8%); trabajo de parto prematuro espontáneo asociado a prematuridad extrema (71,4%), patología cardiorrespiratoria (8,2%), sepsis neonatal (6,1%), patologías neurológicas (10,2%) y otras (4,1%). (10) Algunos determinantes neonatales se asociaron a sus muertes. Nacer con calificación de Apgar <7 a 1, 5 y 10 minutos, necesidad de reanimación cardiorrespiratoria, prematuridad o bajo peso al nacer, infección bacteriana grave (sepsis, neumonía y meningitis), enfermedad de membrana hialina, hipertensión pulmonar, malformaciones congénitas y las anomalías cromosómicas, ductus arterioso permeable y cardiomiopatía hipertrófica se asociaron a mortalidad neonatal. Para Vogel et al., (9) el sexo masculino, bajo peso al nacer, prematuridad, calificación de Apgar <7 a 5 minutos y necesidad de admisión a UCI neonatal, se asociaron a mortalidad neonatal temprana. El nacer con peso <2500 g aumenta el riesgo de mortalidad neonatal precoz, (9) la cual es mayor entre los de más bajo peso al nacer. (27) Sin embargo, el bajo peso al nacer aunque muestra una asociación robusta con mortalidad neonatal, como se mencionó, por sí sola no es causa directa de mortalidad. Los neonatos <1500 g de peso al nacer tienen al menos 100 veces más riesgo de morir que los que nacen con peso óptimo. Cuando se compara con aquellos neonatos con peso al nacer ≥2500 g, el riesgo relativo (RR) de mortalidad es 24,7 (IC 95%: 13,5-45,4), 16,8 (IC 95%: 8,9-31,7) y 5,5 (IC 95%: 2,8-10,7) en neonato de 500-750 g, 751-1000 g y 1001-1500 g respectivamente. En cuanto a la EG, al comparar con RNT, el RR de mortalidad es 113,17, (IC 95%: 64,45-198,7) para ≤28 semanas, 26,4 (IC 95%: 11,91-58,55) para los nacidos entre 28 semanas + 1 día y 32 semanas y 7,32 (IC 95%: 3,63-14,75) para los nacidos con edad gestacional de 32 semanas + 1 día a 36 semanas + 6 días. (28) De otro lado, la asfixia perinatal fue causa importante de mortalidad fetal, neonatal y perinatal (1%, 5,3%, 1,8% respectivamente) en 2013 en Nueva Zelanda. La mortalidad neonatal asociada a asfixia perinatal, ocasiona la muerte del neonato en el primer día en 23,7%, en las siguientes 48 horas en 35,6%, entre el 3 y 7 día 34%, los demás entre el 8 y 40 días de vida postnatal. (10)
+
+De acuerdo a la estimación global de Black et al., (28) las causas directas más importantes de mortalidad neonatal son las complicaciones del parto prematuro (12%; 1033 millones de muertes), asfixia perinatal (9%;0,814 millones de muertes), sepsis (6%;0,521 millones de muertes) y neumonía (4%;0,386 millones de muertes). Otras incluyen las anomalías congénitas, diarrea y tétanos (0,272, 0,079 y 0,059 millones de muertes respectivamente). Algunas complicaciones y eventos adversos están íntimamente ligados a la prematuridad y patologías de base y se convierten en causa directa de mortalidad neonatal. Entre estas identificamos a las IAAS, hemorragia intraventricular, neumotórax y hemorragia pulmonar como las asociadas a muertes en el periodo neonatal. El nacimiento en presentación no cefálica (OR 5,8; IC 85%: 1,5-22,0; p: 0,009), por cesárea (OR 2,5; IC 85%: 1,2-5,2; p: 0,012), calificación de Apgar <7 a 1 y 5 minutos (p<0,001) y la reanimación cardiorrespiratoria (OR 30,3 (11,1-82,3; p<0,001), se han considerado como causas indirectas de mortalidad neonatal. (28)
+
+Las malformaciones congénitas incluyen síndrome y anormalidades cromosómicas y se presentan en alrededor de 20% de las muertes neonatales. (29) Las anomalías congénitas son causa importante de abortos, mortalidad fetal y neonatal. EUROCAT (European Surveillance of Anomalies Congénitas) cubre 1,5 millones de nacimientos en 22 países. EUROCAT registró una prevalencia total de anomalías congénitas mayores de 23,9/1.000 nacimientos entre 2003-2007, donde 80% eran RNV. El 2,5% de RNV con anomalías congénitas murieron en la primera semana de vida. La prevalencia de anomalías cromosómicas fue de 3,6/1.000 nacimientos; los defectos cardiacos congénitos fueron los subgrupos no cromosómicos más comunes con 6,5/1.000 nacimientos, seguidos de defectos en las extremidades (3,8/1.000 nacimientos), anomalías en el sistema urinario (3,1/1.000 nacimientos) y defectos del sistema nervioso (2,3/1.000 nacimientos). En 2004, la mortalidad perinatal asociada con anomalía congénita fue 0,93/1.000 nacimientos. (30) Corcoran et al., (26) describen que los trastornos cromosómicos fueron la causa principal de muerte en 19,5% de muertes perinatales en Irlanda, entre las cuales más de la mitad de los diagnósticos se hicieron por estudio citogenético. Para estos mismos autores, la condición primaria principal de muerte neonatal temprana fueron las anomalías congénitas mayores (48,2%), entre las cuales se describen las cromosómicas (38,2%), anomalías del tracto urinario (14,7%), anomalías múltiples (11,8%) y de sistema nervioso central (10%). (26) Algunos resultados perinatales están asociados a diferentes tipos de malformaciones congénitas, como por ejemplo, polihidramnios, oligohidramnios, muerte fetal, parto prematuro, bajo peso al nacer, Apgar <5 minutos, infecciones neonatales y muerte neonatal temprana. En este aspecto se describen malformaciones del sistema nervioso central, tracto urinario, corazón y grandes vasos, gastrointestinal y pared abdominal, musculoesquelético, hidrops aislado, y otras. (31)
+
+CONCLUSIONES
+
+Este trabajo permitió identificar determinantes maternos, obstétricos y feto-neonatales asociados a mortalidad neonatal. Los determinantes maternos que hallamos asociados de manera independiente a mortalidad neonatal fueron número de visitas en el CPN <6, trabajo de parto prematuro, sangrado del tercer trimestre e hipertensión arterial crónica. Estos están vinculados con prematuridad, bajo peso al nacer y asfixia perinatal. Entre los determinantes neonatales que de manera independiente se encontraron asociados a mortalidad neonatal hallamos la necesidad de reanimación cardiorrespiratoria, prematuridad o bajo peso al nacer, infección bacteriana grave, enfermedad de membrana hialina, asfixia perinatal, malformaciones congénitas, así como aquellas complicaciones asociadas a la prematuridad principalmente, IAAS, hemorragia intraventricular grados III y IV, neumotórax y hemorragia pulmonar.
+
+Con algunos de los hallazgos de este trabajo, podemos concluir que, el mejoramiento de los cuidados obstétricos, la atención del parto y de la atención neonatal, reduciría la mortalidad neonatal. Este estudio puede contribuir a la reducción de las muertes neonatales por los resultados que arroja, no sólo en nuestra región, sino en otras áreas.

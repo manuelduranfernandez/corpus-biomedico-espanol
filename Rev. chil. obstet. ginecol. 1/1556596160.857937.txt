@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75262017000200010
+Descripción de la Cronología del Dolor de las Contracciones Uterinas para Analgesia del Trabajo de Parto, una tarea pendiente
+
+ 
+
+INTRODUCCIÓN
+
+El gold standard en la analgesia del parto (AP) es la analgesia neuroaxial, pues se asocia con los mejores resultados materno-fetales y eficacia en el alivio del dolor (1). En Chile, la AP es Garantía Explícita en Salud (GES), desde el 2007 (2). Muchas mujeres no optan por este tipo de analgesia por motivos de preferencia y es rechazada por su carácter invasivo no exento de complicaciones, contraindicaciones, o falta de profesional calificado para su administración. Una alternativa analgésica es la administración de opioides parenterales, entre ellos el remifentanilo es el fármaco que reúne las características más apropiadas para AP. Su farmacocinética única de acción ultracorta y rápida eliminación órgano-independiente, ofrece ventajas como el "opioide ideal". Su administración en PCA (patient-controlled analgesia) se ha incrementado y es la mejor alternativa disponible a la analgesia neuroaxial, aunque es menos efectiva (3). Es probable que su desempeño pudiera verse afectado porque cuando es auto-administrado por la paciente durante el dolor en las contracciones uterinas (CUs), el máximo efecto analgésico se alcanzó posterior a ellas (4). (Figura 1). No hemos encontrado en la literatura la descripción de modelos de administración del remifentanilo durante el TDP diferentes de la PCA, que de alguna forma permitan hacer coincidir el máximo efecto analgésico del fármaco con el momento de máximo dolor durante la CU, posiblemente debido a falta de conocimiento de la cronología del dolor durante el TDP especialmente en fase activa (5,6).
+
+ 
+
+Figura 1. Intervalo de tiempo entre contracciones e intervalos de dolor.
+
+
+
+ 
+
+En nuestro modo de ver, es importante establecer la predicción del momento de máximo dolor de la siguiente CU para crear modelos de administración de analgesia parenteral, que permitan mejorar la efectividad del remifentanilo. De esta manera, nuestro propósito es describir la periodicidad del momento de máxima intensidad del dolor entre las CUs durante el TDP para obtener información que facilite el desarrollo de nuevos modelos de administración analgésica endovenosa.
+
+Material y Método
+
+Estudio cuantitativo, observacional y longitudinal, aprobado por el comité de ética del Servicio de Salud Araucanía Sur. Se incluyeron embarazadas de término, en fase activa del TDP, en posición cefálica, sin AP por motivos de elección personal, contraindicación o falta de profesionales calificados para administrar analgesia peridural, que ingresaron a la sala de preparto del Hospital Hernán Henríquez Aravena. Estas pacientes habitualmente reciben acompañamiento y se les insta a caminar como técnica de apoyo no farmacológico para el manejo del dolor. Fueron reclutadas por dos matronas de manera no probabilística consecutiva según sus turnos, previa aceptación a participar en el estudio a través de un consentimiento informado, desde marzo del 2014 por 18 meses.
+
+Fueron excluidas pacientes con patología obstétrica y no obstétrica, con estimación de peso fetales pequeños y grandes para la edad gestacional, embarazadas menores de edad (menores de 18 años), embarazo gemelar, cesárea anterior, uso de misoprostol, interrupción del trabajo de parto debido a cualquier causa e incapacidad de la paciente para comunicarse.
+
+Durante todo el estudio las pacientes fueron monitorizadas con un tocodinamómetro para registro de las CUs y frecuencia cardiaca fetal. Además se obtuvo el registro del momento de máximo dolor con un cronómetro Casio-stopwatchHS-3 usado por la paciente, previa capacitación, la que consistía en marcar en el cronómetro el momento en que ellas percibían el máximo dolor. Hecha esta capacitación se inicia el registro de los antecedentes de la paciente y del TDP. El registro del dolor se obtuvo en tres periodos de la progresión del TDP, según los grados de dilatación cervical, el primero a los 3-5 cm, el segundo a los 6-7 cm y el tercero entre los 8-10 cm, y en cada uno de ellos se registraron seis CUs para obtener cinco intervalos de tiempo del momento de máximo dolor entre cada una de ellas (Figura 2).
+
+ 
+
+Figura 2. Intervalo de tiempo desde el momento de máximo dolor      de la CU basal al de la contracción siguiente.     Momento de maáxima intensidad del dolor deurante la CU
+
+
+
+ 
+
+Para el análisis de los datos se utilizó el software Stata-13, se realizó una regresión para medidas repetidas de efectos mixtos a los 3-5, 6-7 y 8-10 cm de dilatación. La variable de respuesta fue el intervalo de tiempo desde el momento de máximo dolor de la CU basal al de la contracción siguiente, obteniéndose cinco intervalos de tiempo para cada uno de los tres periodos según los grados de dilatación cervical.
+
+Resultados
+
+De las 64 embarazadas ingresadas al estudio, fueron reclutadas 25 y 39 por cada matrona respectivamente, su promedio de edad era 26,75 años (18-41) con una DS de 5,7. Catorce de ellas nulíparas. Se obtuvo 5 intervalos de tiempo desde el momento de máximo dolor de la CU basal al de la contracción siguiente para cada uno de los tres periodos de dilatación cervical, donde llama la atención la cercanía de medias y medianas en los intervalos de tiempo de máximo dolor entre las CUs, pero con una amplia dispersión de los datos observados en las DS obtenidas y en los valores de tiempo extremos (tabla 1).
+
+ 
+
+Tabla 1. Descripción de los intervalos de tiempo desde el momento de máximo dolor de la CU      basal al de la contracción siguiente para cada uno de los tres periodos de dilatación cervical.
+
+
+
+ 
+
+En el análisis de regresión para medidas repetidas de efectos mixtos en los periodos de dilatación uterina de 3-5, 6-7 y 8-10 cm no hubo diferencias significativas en los coeficientes de regresión. En el periodo de dilatación de 3-5 cm. los coeficientes de correlación se distancian por más de 20 segundos con IC muy dispersos, observándose valores entre las pacientes mayores a 30 segundos en los cuatro intervalos de tiempo con respecto al basal (tabla 2, gráfico 1). Similares características se observan a los 5-7 cm. Donde también los coeficientes de regresión presentan intervalos de confianza amplios de más de 35 segundos (tabla 3, gráfico 2) y a los 8-10 cm aun cuando se observan coeficientes de regresión más cercanos hay similar dispersión de datos (tabla 4, gráfico3). Llama la atención que no hubo diferencias significativas entre los coeficientes de regresión de las primíparas y multíparas con respecto a las nulíparas. Es decir, no hubo diferencias en cuanto a la cronología del dolor entre ellas.
+
+ 
+
+Tabla 2. Coeficiente de regresión de los intervalos de tiempo 2, 3, 4 y 5      con respecto al basal en el periodo de dilatación de 3-5 cm.
+
+
+
+ 
+
+Gráfico 1. Intervalos de tiempo en el periodo de 3-5 cm.
+
+
+
+ 
+
+Tabla 3. Coeficiente de regresión de los intervalos de tiempo 2, 3, 4 y 5      con respecto al basal en el periodo de dilatación de 6-7 cm.
+
+
+
+ 
+
+Gráfico 2. Intervalos de tiempo en el periodo de 6-7 cm.
+
+
+
+ 
+
+Tabla 4. Coeficiente de regresión de los intervalos de tiempo 2, 3, 4 y 5      Con respecto al bsasal en el periodo de dilatación de 8-10 cm.
+
+
+
+ 
+
+Gráfico 3. Intervalos de tiempo en el periodo de 8-10 cm.
+
+
+
+ 
+
+Discusión
+
+Obtuvimos información en los tres periodos de progresión del TDP según los grados de dilatación cervical, el primero a los 3-5 cm, el segundo a los 6-7 cm y el tercero entre los 8-10 cm, y en cada uno de ellos se registraron seis CUs para obtener cinco intervalos de tiempo de los momentos de máximo dolor entre cada una de ellas (Figura 2). Con estos datos podemos señalar que no hubo diferencias estadísticas significativas entre los intervalos de tiempo de los momentos de máximo dolor, en ninguno de los tres periodos de dilatación cervical. Es decir, encontramos regularidad cronológica entre los momentos de máximo dolor entre las CUs en el TDP durante la fase activa. Esta información es relevante ya que apoya fuertemente la posibilidad de desarrollar modelos predictivos del dolor para mejorar la actual analgesia endovenosa del TDP.
+
+Sin embargo, dentro de nuestras limitaciones, los intervalos de tiempo presentaron una variabilidad clínica importante entre las pacientes. En los intervalos de dolor obtenidos se observó una gran dispersión de los valores, dificultando la precisión. Probablemente estos resultados se vieron afectados por el uso de cronómetros y por el auto reporte de las pacientes pues, a pesar de la capacitación recibida por ellas, no fue siempre fácil determinar el momento de máximo dolor durante las CUs y porque, pese a su diseño, el cronómetro resultaba incómodo para marcar el tiempo y generar un registro en momentos de dolor intenso. Es importante recordar que estas pacientes no recibieron analgesia para el TDP por diferentes causas.
+
+Wickboldt y cols. (7), han descrito el uso de "Handgrip" conectado a un dinamómetro para la estimación permanente del dolor durante el TDP. Estos autores obtuvieron información de pacientes en estado inicial del TDP, cuando aún no requerían analgesia, no estaban en fase activa y solo por un periodo de 20 minutos. Sus registros evidencian una irregularidad en la fuerza aplicada por las pacientes en los momentos de dolor pues, a nuestro modo de ver, debían ejercer presión continua contra una resistencia del dispositivo y generar un registro en momentos de dolor agudo e intenso, de hecho los autores describen solo una correlación moderada entre la fuerza de puño y la intensidad del dolor, de acuerdo a estimaciones previas que correlacionaron un dolor imaginario (moderado e intenso) con a la fuerza aplicada. (ref1). Wickboldt y cols. publicaron su trabajo en el momento en que se recolectaban datos para el presente estudio en el HHHA.
+
+Nos parece importante adaptar la dosis y el momento de administración del bolo de remifentanilo a las necesidades de la paciente, esto podría lograrse por un método que pueda predecir el momento de máximo dolor en futuras CUs. Se aprovecharía el potencial del fármaco como un potente agonista u mejorando la eficacia y la seguridad. Esto permitiría ofrecer una alternativa analgésica a mujeres que hoy, por diferentes motivos, no acceden a analgesia epidural y en las cuales el adecuado manejo del dolor durante el TDP plantea un enorme desafío.
+
+Finalmente consideramos que este trabajo apoya, con información relevante, el desarrollo de un modelo predictivo del dolor en las CUs para la generación de nuevas modalidades de administración de analgesia endovenosa.
