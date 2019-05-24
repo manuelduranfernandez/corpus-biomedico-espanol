@@ -1,0 +1,112 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-92272016000200004
+Determinantes biopsicosociales de depresión en pacientes atendidos en Centros de Atención Primaria de Concepción, Chile
+
+ 
+
+Introducción
+
+La depresión es uno de los desafíos pendientes que enfrentan los salubristas en la actualidad. La prevalencia entre los consultantes en atención primaria en salud es de 10 a 14,3%1,2 y a pesar de existir estrategias eficaces para este problema y guías para tratamientos basados en evidencia3, la depresión sigue siendo una condición de salud que genera un gran impacto social, estimándose que para el año 2020 será la segunda causa de discapacidad o muerte en el mundo4. En Chile, la depresión unipolar es la segunda más importante condición de carga de enfermedad, la tercera para el grupo de las mujeres y la quinta en los hombres5. El curso suele presentar recaídas, discapacidad asociada y muerte2,6,7. En América Latina es el tercer trastorno mental más común, después del abuso y dependencia de alcohol8. Las tasas de recuperación a nivel primario son variables, estimándose a los doce meses una remisión entre el 80%9 a menos de 50%10. Las dificultades en la pesquisa y un tratamiento inadecuado en este nivel de atención podrían contribuir a obtener pobres resultados2,8,11,12. En el caso de Chile, a pesar de las altas tasas de depresión detectadas en consultantes del nivel primario de atención13, los estudios han demostrado moderados niveles de detección de los médicos generales13,14. En Europa, la prevalencia de depresión es un 10% en la población general6, y es mayor al 20% en los pacientes consultantes en atención primaria15, mientras que en Chile la prevalencia es de 9,2% y 5,7% para toda la vida y de 12 meses, respectivamente16, y es de un 23,6% al 10,9% entre los pacientes en los centros de atención primaria14.
+
+Por otra parte, la prevención universal de la depresión en personas jóvenes han mostrado efectos pequeños17, lo mismo que en personas mayores18. Sin embargo, los estudios que han evaluado programas de prevención selectiva han mostrado resultados más promisorios, como es el caso de la prevención en mujeres de bajo nivel socioeconó-mico19 o niños y adolescentes con algunos factores de riesgo20.
+
+En este escenario, el estudio de los factores que se relacionan con la incidencia de depresión cobra especial importancia, con el fin de desarrollar estrategias de prevención selectiva21.
+
+Aún cuando la literatura identifica factores de riesgo individuales, o áreas de riesgo, no existían estudios prospectivos, usando muestras poblacio-nales representativas en un número determinado de países, hasta el estudio PredictD-Europe22-23. De este estudio se obtuvieron algoritmos de riesgo que permiten predecir la aparición de depresión mayor en consultantes de atención primaria por medio de un índice de riesgo de 10 factores: 6 no modi-ficables (edad, sexo, nivel educativo, antecedente personal de depresión, antecedentes de problemas psicológicos en familiares de primer grado y país) y 4 modificables (falta de apoyo en el trabajo remunerado y no remunerado, peor percepción de salud física, peor percepción de salud mental, y percepción de discriminación). El estudio chileno24 identificó 8 variables psicosociales: cuatro propias del paciente (sexo, edad, antecedentes de depresión y nivel educacional), y cuatro vinculadas con su situación actual (SF-12-salud física, SF-12-salud mental, satisfacción con la situación en su hogar y satisfacción con su relación de pareja). El C-Index fue de 0,746 (95%; CI = 0,707-0,785), levemente inferior a la ecuación de los consultantes europeos donde fue de 0,790 (95%; CI = 0,767-0,813) y españoles (0,82; 95%; CI = 0,790-0,840).
+
+Sin embargo, las 39 variables incluidas en los análisis, todos factores de riesgo conocidos para depresión no incluyeron factores de riesgo genético. En este sentido, los estudios han demostrado una asociación de factores genéticos a la aparición, curso y respuesta a tratamiento en depresión25. De éstos, han sido destacados los hallazgos relacionados con el transportador de serotonina y con la enzima MAO, que metaboliza las aminas biógenas en el cerebro.
+
+Estudios previos han mostrado que variaciones en la región promotora del gen del transportador de serotonina (SLC6A4, también conocida como 5-HTT) pueden estar relacionadas con la sensibilidad al estrés y el desarrollo de depresión26. Uno de los polimorfismos descritos para este gen, el 5-HTTLPR, consiste en un polimorfismo inser-sión/deleción en la región promotora del gen, resultando en una variante corta (aleloss/*) que se relaciona con una menor eficiencia del proceso de transcripción, lo que lleva a una menor expresión del transportador de serotonina en las neuronas27. La presencia del alelo s está relacionada con mayor riesgo de depresión que el genotipo l/l, esto es, ambos alelos largos29,28. Esta influencia de factores genéticos sería particularmente importante en personas que sufren exposición a abuso infantil29,30.
+
+Por otra parte, se han descrito polimorfismos en regiones estructurales y regulatorias del gen de la Monoaminoxidasa A (MAO-A), que se han relacionado con variaciones en su actividad31. La MAO-A presenta tres polimorfismos comunes: MAOA uVNTR, T941G y el polimorfismo CA. Los estudios han mostrado que los polimorfismos T941 y CA se han relacionado con trastorno bipolar en algunos subgrupos, mientras que MAOA uVNTR se asoció a trastorno depresivo mayor en asiáticos31. La MAOA-uVNTR se ha relacionado con expresión de variantes más activas de la enzi-ma32. Rivera y cols en el 200933 encontraron que la presencia de estas variantes uMAOA de mayor actividad se encontraban correlacionadas con el diagnóstico de depresión mayor según DSM-IV con un OR = 1,91; 95% CI: (1,26-2,91) en consultantes adultos de atención primaria. Huang34 encontró asociación de MAOA uVNTR con depresión grave en mujeres chinas, pero no en otros subgrupos con depresión. En un estudio recientemente publicado, sin embargo, no se encontró asociación entre esta variante del gen y la presencia de depresión mayor en adolescentes35.
+
+El objetivo del presente trabajo es identificar factores relacionados con la aparición de cuadros depresivos considerando la interacción entre factores genéticos y ambientales para el inicio de depresión mayor en una muestra aleatoria de consultantes de centros de atención primaria de la Provincia de Concepción, Chile.
+
+Método 
+
+Diseño
+
+Estudio de cohorte, prospectivo con evaluaciones en línea base, y doce meses, realizado sobre una muestra de pacientes entre 18 y 75 años atendidos en 10 centros de atención primaria de la Provincia de Concepción, Chile. Los participantes fueron 2.466 pacientes que lograron ser contactados nuevamente en el año 2012 desde la muestra aleatoria de 2.832 adultos del proyecto PREDICT-FONDEF del año 2005, constituyendo un 87,1% de la misma. Se buscó hacer un seguimiento de éstos a los 12 meses (año 2013), excluyéndose antes a 309 (12,53%) pacientes que ya tenían diagnóstico de depresión. Sin embargo, sólo se accedió a 1.990 participantes, ya que 167 participantes habían fallecido durante el seguimiento (Figura 1).
+
+
+
+
+
+  Figura 1. Flujograma de seguimiento.
+
+ 
+
+Participantes
+
+Los pacientes fueron contactados en sus domicilios entre abril y octubre de 2012, lo que corresponde al tiempo 0 (T0) de este nuevo estudio. En esta primera entrevista se solicitó la participación en el estudio, expresada a través de la firma de un formulario de consentimiento informado. Entrevistadores previamente entrenados recogieron la información de los pacientes y tomaron una muestra de saliva para el análisis genético. La recolección de datos de las variables ambientales y del uso de servicio se realizó en la primera medición, la recolección de datos para un eventual diagnóstico de depresión (CIDI-E) se realizó a los 12 meses de seguimiento, entre abril y octubre de 2013 (Tiempo 1, T1).
+
+Los criterios de exclusión para todos los centros incluyeron la inhabilidad para entender el idioma local, la presencia de psicosis, demencia y/o de una enfermedad física incapacitante. La muestra en cada centro fue proporcional al tamaño de la población atendida, en cada uno de éstos un profesional sanitario seleccionaba a los pacientes aleatoriamente de entre el listado de aquellos que serían atendidos cada día, se contactaba al sujeto, se le invitaba a participar y, si aceptaba, se coordinaba una entrevista con un entevistador previamente capacitado, la que podía realizarse inmediatamente en el centro de salud o en el plazo de una semana, en el domicilio del paciente. Cada persona que aceptó participar firmó un formulario de consentimiento informado y los protocolos del estudio fueron sometidos a la consideración de los comités de ética de la Facultad de Medicina de la Universidad de Concepción.
+
+Variables
+
+Se recogió información de 8 factores de riesgo que previamente habían sido correlacionados con incidencia de depresión en la misma muestra y de dos factores genéticos asociados a depresión según la literatura para construir un modelo usando regresión logística. La principal medida de resultado fue la incidencia de depresión mayor, según criterio DSM-IV, en el período de seguimiento, lo que se evaluó usando la sección correspondiente del Composite International Diagnostic Interview (CIDI), a los seis y doce meses de seguimiento.
+
+Los 8 factores psicosociales fueron recogidos usando cuestionarios aplicados a los sujetos en entrevistas individuales, cara a cara, donde también se aplicó la CIDI. Los factores de riesgo ingresados al estudio fueron los siguientes (en paréntesis el cuestionario utilizado, cuando corresponde):
+
+- Sociodemográficos: Edad; sexo; nivel educacional y satisfacción con las condiciones en que vive.
+
+- Situación de salud actual: Auto percepción de salud física y auto percepción de salud mental (Short Form 12).
+
+- Antecedentes clínicos y psicológicos: Antecedentes de depresión en la vida (CIDI).
+
+- Variables relacionales y de apoyo social: Satisfacción con la relación de pareja.
+
+- Variables genéticas: Se analizaron dos variantes genéticas: 5HTTLPR en el transportador de serotonina y uMAO (MAOA uVNTR) en la enzima monoaminooxidasaA.
+
+- Otras variables psicosociales y clínicas de relevancia en estudios comparables y que no alcanzaron rango de factores de riesgo en el estudio previamente reportado24: ocupación, maltrato o abuso físico, psicológico y sexual, eventos vitales relevantes, antecedentes de PTSD y GAD22,23.
+
+Extracción de DNA
+
+El DNA genómico fue aislado desde 1 ml de saliva de los participantes del estudio. La muestra biológica de saliva se colectó mediante el Kit ORA-GENE (DNA Genotek, Canadá). La extracción del DNA genómico se realizó siguiendo el protocolo del fabricante. El DNA extraído se almacenó a -20° C hasta su utilización en la genotipificación.
+
+Genotipificación
+
+La reacción en cadena de la polimerasa (PCR) para la genotipificación del polimorfismo uMAO se realizó en un volumen final de 20 pL, la cual contiene 50 ng de DNA, 1,5 mM MgCl2, 200 pM de cada dATP, dCTP, dTTP y dGTP, 10 pmol de cada partidor (MAOA-Forward: 5’-ACAGCCTCGC-CGTGGAGAAG-3’ y MAOA-Reverse: 5’GA-ACGGACGCTCCATTCGGA-3’), y 1 unidad Taq polimerasa (GoTaq Green Master Mix, Promega, USA). El PCR fue realizado en un termociclador (G-Storm, UK) con las siguientes condiciones de ciclaje: un ciclo incial de 94° C por 3 min, luego 35 ciclos de denaturación a 94° C por 30 seg, annealing a 55° C por 30 seg, y extensión a 72° C por 30 seg. Los productos de PCR fueron visualizados mediante electroforesis en geles de agarosa al 2% (Amresco, Ohio, USA) con Buffer de corrida TAE 1X. Los geles fueron teñidos con bromuro de eti-dio y visualizados usando un transiluminador UV (Marca, USA). El polimorfismo 5-HTTLPR en SLC6A4 fue genotipificado en todas las muestras (n = 1.209). La amplificación de ADN genómico se realizó utilizando 50 ng de ADN, 0,25 mM de cada partidor (forward: 5'-GGC GTT GCC GCT CTG AAT GCC-3 'y reverse: 5-'CAG GGG AGA TCC TGG GAG AGG T-3'), 200 pM de cada dinucleoti-do: dATP, dCTP, dGTP, y dTTP, 1,5 mM de MgCl2 y 0,3 unidades de Taq polimerasa en un volumen total de 20 mL. Las muestras se amplificaron en las siguientes condiciones: un ciclo inicial de 8 min a 95° C seguido por 35 ciclos de denaturación de 30 seg a 95° C, annealing 30 seg a 62° C y extensión 1 min a 72° C. Posteriormente los genotipos de amplificación se resolvieron en una electroforesis con gel de agarosa al 2% y se visualizaron mediante tinción con bromuro de etidio bajo luz UV.
+
+Análisis estadístico
+
+Todos los análisis de datos se llevaron a cabo empleando el programa Stata 12.1. Debido a la presencia de valores ausentes en algunas de las variables, se realizaron procedimientos de imputación múltiple usando el método chainedequations, implementado en el comando ice de Stata. Se imputaron 10 conjuntos de datos, sobre cada uno de los cuales se llevaron a cabo los análisis estadísticos, cuyos resultados fueron combinados mediante las reglas de Rubin36 para obtener los resultados finales del estudio.
+
+Para obtener el modelo predictivo de depresión, sobre cada uno de los conjuntos de datos imputados se procedió a llevar a cabo un análisis de regresión logística binaria. La variable dependiente del modelo fue la presencia de un diagnóstico de depresión a los 12 meses. Como variables predic-toras se incluyeron los 8 factores de riesgo identificados en el estudio Predict-D Chile, así como los dos genes. Al momento de calcular los errores estándar se empleó un ajuste robusto con el propósito de dar cuenta del agrupamiento (clustering) de los participantes dentro de los centros de atención seleccionados para el estudio.
+
+Resultados
+
+La muestra que se consideró en el análisis incluyó a 1.990 pacientes que fueron evaluados en el T0 (año 2012) y que fueron parte del seguimiento a los 12 meses del estudio. No obstante, de éstos, sólo se logró obtener una muestra de saliva de 1.758 participantes, y de ellos en sólo 1.607 se logró obtener una muestra suficiente para ser analizada. Finalmente, fueron excluidos 11 participantes que presentaron más de un 5% de omisiones en los datos del estudio, obteniéndose una muestra válida de 1.596 participantes (Figura 1). El tiempo de seguimiento total por participante de la muestra válida osciló entre 365 y 384 días (M = 375,08; DE = 2,78). Los casos incidentes fueron 159 a los 12 meses de seguimiento.
+
+Las características sociodemográficas y genéticas de la muestra se presentan en la Tabla 1. El 76,1% de los participantes eran mujeres, mientras que la mayor proporción de la muestra presentaba un nivel educacional básico o medio. La presencia del genotipo 5HTTLPR (ls)del trasportador de serotonina estaba en el 47,0% de la muestra y el genotipo 5HTTLPR2 (ss) en un 35,8%. El polimorfismo uMAOA estaba presente en un 16,8% (Tabla 1).
+
+
+
+Tabla 1. Características demográficas de los participantes
+
+
+
+n: Número de participantes; %: Porcentaje.
+
+ 
+
+Los resultados del análisis de regresión logística se presentan en la (Tabla 2). Debido a que esta regresión se llevó a cabo en base a imputaciones múltiples, la significación del estadístico de Wald se evalúa en base a una distribución F38. La colinealidad de los predictores se evaluó mediante el Factor de Incremento de la Varianza, con valores entre 1,01 y 9,38 (M = 2,55), siendo estos valores adecuados para la realización del análisis. La presencia de outliers, en tanto, se descartó mediante el análisis de los residuos estandarizados del modelo, que oscilaron entre -1,15 y 1,81.
+
+Como se observa en la Tabla 2, la capacidad explicativa global del modelo es de r2 = 0,08; p < 0,001. Las dos variables genéticas no muestra evidencia de relación estadísticamente significativa con la variable depresión a los 12 meses de seguimiento. El sexo femenino se relaciona con un mayor riesgo de presentar depresión en el seguimiento con un OR de 2,368, así como el estar estudiando al momento de la evaluación inicial se asoció a riesgo aumentado de deprimirse en el seguimiento (OR = 2,414, p = < 0,05). No se encontró correlaciones estadísticamente significativas con las variables sociodemográficas edad, ocupación y tener una relación de pareja al momento de la evaluación inicial. El haber estado expuesto a abuso sexual, maltrato físico o maltrato psicológico no estuvo asociado a mayor riesgo de depresión en el seguimiento, mientras que la presencia de otros eventos vitales estresantes se asoció a un riesgo mayor de presentar depresión cuando se trató de 2 o más eventos. Tampoco se encontró asociación con depresión en las evaluaciones del seguimiento con la presencia de trastorno por estrés postraumático o con trastorno de ansiedad generalizada al inicio del estudio.
+
+  Tabla 2. Resultados análisis de regresión logística (n = 1.596)
+
+
+
+*p < 0,05; **p < 0,01; ***p < 0,001. OR: Odd ratio; EE: Error estándar; IC 95%: Intervalo de confianza del 95%.
+
+Discusión
+
+Este estudio es el primero en Chile y uno de los pocos que se han desarrollado internacionalmente que han estudiado variables psicosociales y genéticas que predicen la aparición de depresión con un diseño prospectivo. Esto es de gran valor porque permite evaluar algunos aspectos de la enfermedad en personas sanas que desarrollan un cuadro depresivo en el año siguiente. Eso abre importantes posibilidades para el diseño de programas preventivos selectivos. Por otra parte, la población estudiada es susceptible de ser intervenida con programas diseñados con estos fines.
+
+Los factores psicosociales sexo, nivel educacional, antecedente personal de depresión, peor percepción de salud física y mental, incluidos en este estudio logran predecir la aparición de depresión en la muestra de manera similar a lo publicado en el estudio Predicteuropeo38. Asimismo, los factores satisfacción con la relación de pareja y con las condiciones de vida aparecen como variables asociadas a riesgo de presentar depresión. Sin embargo, los dos factores genéticos estudiados no muestran una relación con la incidencia de depresión en la muestra, lo que resulta distinto a lo observado en otros estudios extranjeros, en que el polimorfismos uMAOA se encontró relacionado con la presencia de depresión31,33 y el polimorfismo el 5-HTTLPR del transportador de serotonina que también mostró ser un factor de riesgo de depresión en otras poblaciones28.
+
+Una limitación de nuestro estudio es la alta proporción de pérdidas, que dificulta la extrapolación de nuestros resultados, aún cuando el diseño inicial aseguró una muestra amplia y representativa de los consultantes en atención primaria.
+
+La literatura ha mostrado la relación de otros polimorfismos de estos genes con depresión o con trastorno bipolar, como es el caso de T941G y el polimorfismo CA de MAOA31 que sería importante estudiar en el futuro en esta población o en otras similares. Algunos estudios incluyeron análisis del gen del transportador de serotonina junto con variaciones en los genes de BDNF (factor neurotrófico derivado del cerebro), dado que se ha documentado una interacción entre ambos factores genéticos y el ambiente26,39. En el caso del trasportador de serotonina, las frecuencias del polimorfismo 5HTTLPR en la población estudiada se encuentra en equilibrio de Hardy-Weinberg. Esto es que las frecuencias observadas se deben exclusivamente al azar y no se ven afectadas por otros factores como mutaciones, migraciones y/ o selección natural. De esta manera observamos una distribución alélica intermedia para el alelo s de 59,3% situándonos entre población española (49,1%)40 y china (70,09%)41, distante de población caucásica (41,5%)42 o africana (21,6%)43.
+
+A pesar de esto, no podemos desconocer que el número de genes estudiados constituye otra limitación importante. Una amplia lista han aparecido como genes candidatos en los últimos años en estudios transversales, que requerirán ser estudiados como factores predictores en estudios como el presente25.

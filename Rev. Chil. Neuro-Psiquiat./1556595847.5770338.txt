@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-92272016000300005
+Síndrome de Burnout y factores asociados en estudiantes de medicina: Estudio multicéntrico en siete facultades de medicina peruanas
+
+Resumen
+
+Introducción: El Síndrome de Burnout (SB) ha sido estudiado en gran cantidad de poblaciones de profesionales, pero en nuestro medio aún no se tienen reportes en los estudiantes de ciencias de la salud. El objetivo fue determinar la prevalencia del SB y los factores que se asocian en siete facultades de medicina peruanas. Métodos: Estudio transversal analítico, multicéntrico. A través de una encuesta auto-aplicada en estudiantes que acudían a sedes hospitalarias en siete facultades de medicina del Perú. Se definió SB según la positividad del test Maslach Burnout Inventory (MBI), además se midió otras variables socio-educativas y hábitos. Se obtuvo los valores p mediante los modelos lineales generalizados, ajustando por la universidad de procedencia. Resultados: De los 557, la mediana de edades fue de 22 años (rango intercuartílico: 21-24 años), el 50% (278) fueron mujeres. El 8% (47) tenía SB positivo, con rangos de 1-22% según la sede de encuestado, aumentando su prevalencia según aumenta el año de estudios, 3% (3°), 9% (4°), 13% (5°) y 12% (6°). Las variables que aumentaron la frecuencia de SB fueron el cursar los dos últimos años previos a internado (p < 0,001) y el fumar (p < 0,001); por el contrario, la mayor cantidad de horas de estudio (p: 0,047) redujo la frecuencia de SB, ajustados por el sexo. Conclusiones: Se encontró una frecuencia baja de SB entre los estudiantes, sin embargo, es importante conocer qué factores se encuentran relacionados, para poder intervenir en busca de la mejora de la salud mental de los futuros profesionales de la salud.
+
+Palabras clave: Síndrome de Burnout, estudiantes de medicina, factores asociados, Perú.
+
+ 
+
+Introducción
+
+Se ha definido al Síndrome de Burnout (SB) como un componente tridimensional asociado a estrés laboral, caracterizado por cansancio emocional, despersonalización en el trato con las personas y dificultad para el logro o realización personal1. A partir de estos componentes se elaboró el "Maslach Burnout Inventory" (MBI), para medir dicho síndrome2. Existen reportes de niveles altos de estrés y depresión en el ámbito médico, hecho que tiene implicaciones importantes en el entorno personal, familiar, social y hasta académico. Además, estudios actuales demuestran mayor frecuencia de suicidio, estrés, depresión y ansiedad entre el personal de salud; estando muchas de ellas relacionado al SB3-7.
+
+Asimismo, algunas investigaciones demuestran que esto puede afectar a los estudiantes de medicina, debido a la presión que estos tienen por su ritmo de estudio, relacionándose incluso con una mayor ansiedad, estrés y depresión3-5,8-10. Lo que puede traer como consecuencia el deterioro en la salud mental de los estudiantes durante su formación académica11. Las cifras varían según las características de cada población -en cuanto al sistema que lo rodea y al mismo individuo que afronta el problema-, según un estudio colombiano su frecuencia entre los estudiantes de medicina varía entre el 15-30%12. Es por eso el objetivo de nuestro estudio fue determinar la prevalencia de SB y sus factores asociados en siete facultades de medicina peruanas.
+
+Métodos
+
+Diseño y población de estudio
+
+Se realizó un estudio de tipo transversal analítico, en las facultades de medicina de las Universidades: Cesar Vallejo-Filial Piura, Nacional de Ucayali, San Luis Gonzaga de Ica, Ricardo Palma de Lima, Nacional de Piura, Católica Santa María de Arequipa y de la Amazonía Peruana de Iquitos.
+
+Se realizó un muestreo no probabilístico proporcional al año de estudios, se tuvo un mínimo tamaño muestral de 75 estudiantes para cada sede; se calculó para encontrar una diferencia de 20% entre las características del SB, usando un poder del 80%, un nivel de confianza del 95% y para una población finita.
+
+Se incluyó a todos los estudiantes de medicina que se encontraban matriculados en cada una de las sedes y que cursaban ciencias clínicas (del 3er hasta el 6° año de Medicina Humana), se excluyó a los alumnos que no deseaban participar, a los que no asistían regularmente a clases y se eliminó los test incompletos, que tengan patrones u otros que imposibiliten su análisis (12 exclusiones de encuestas).
+
+Variables y procedimientos
+
+Para la recolección se creó una encuesta, la primera parte del test incluía variables sociales (edad, género, el tener pareja sentimental y el consumo de tabaco -se tomó esta última variable por su conocida relación con el estrés-) y variables académicas (año académico en curso, haber desaprobado algún curso, cantidad de horas que le dedica al estudio fuera del horario de clases).
+
+La segunda parte del cuestionario midió el SB, a través del Maslach Burnout Inventory (MBI), instrumento utilizado en diversas investigaciones en nuestro país en su versión validada al español13. Dicha herramienta consta de 22 apartados diferentes que exploran cada uno de los tres componentes del SB: cansancio emocional (CE), despersonalización (DP) y baja realización personal (BRP). La subescala de CE está formada por 9 ítems, la DP por 5 ítems y la BRP por 8 ítems. Cada ítem consta de 6 alternativas, con una puntuación del 0 al 614; se tomó en cuenta las instrucciones de dicho test para la clasificación como positivo o negativo para el SB.
+
+Una vez aprobado el proyecto de investigación por el comité de bioética de la Facultad de Medicina Humana de la Universidad Nacional de Ucayali, se realizó el encuestado en cada sede, culminando en el último semestre del año 2015. Se tomó las encuestas en los salones de clase -haciendo el pedido de permiso al docente respectivo-, esto luego de haberles explicado el motivo del estudio y el carácter voluntario de su participación, sólo 18 estudiantes no desearon participar del estudio. Una vez culminado el encuestado se procedió al pasado de las encuestas a una base general.
+
+Análisis estadístico
+
+Se realizó una base de datos en el programa Microsoft Excel 2010, luego esto se llevó al programa estadístico Stata versión 11,1 (Stata Corp LP, College Station, TX, USA). Se hizo un análisis descriptivo de las variables categóricas, se obtuvo frecuencias y porcentajes. Para las variables cuantitativas primero se procedió a analizar su normalidad de los datos (con la prueba estadística Shapiro Wilk), luego se describió con medidas de tendencia central y dispersión.
+
+Para el análisis de las variables categóricas se usó la prueba chi cuadrado y suma de rangos para las variables cuantitativas. Para la estadística bivariada y multivariada se utilizó modelos lineales generalizados (GLM por sus siglas en inglés), se usó la familia Poisson, la función de enlace log y se ajustó por la universidad de procedencia (grupo cluster); con esto se obtuvo las razones de prevalencia crudas (RPc), ajustadas (RPa), intervalos de confianza al 95% (IC 95%) y los valores p. Se consideró a los valores p < 0,05 como estadísticamente significativos.
+
+Resultados
+
+Se encuestó a 557 estudiantes de medicina de siete facultades, la mediana de edades de los participantes fue de 22 años (el rango intercuartilares tuvo entre los 21 a 24 años), el 50,2% (278) fueron mujeres, el 55,8% (304) manifestó que no tenían pareja y el 17,7% (97) que había desaprobado algún curso el ciclo pasado. La Tabla 1 muestra las características sociales y educativas según el tener o no SB.
+
+ 
+
+Tabla 1. Factores socio-educativos al Síndrome de Burnout en estudiantes de siete          facultades de medicina del Perú
+
+
+
+*Mediana y rango intercuartílico. ± Se usó la prueba estadística de suma de rangos.
+
+ 
+
+El 8% (47) tenía SB positivo, con rangos de 1-22% según la sede de encuestado, aumentando su prevalencia según aumenta el año de estudios, 3% (3°), 9% (4°), 13% (5°) y 12% (6°). La Figura 1 muestra los porcentajes de agotamiento emocional, despersonalización, baja realización personal y Síndrome de Burnout por cada año de estudios en ciencias clínicas de la carrera de medicina.
+
+ 
+
+
+
+Figura 1. Síndrome de Burnout y sus componentes según año de estudios          en estudiantes de siete facultades de medicina del Perú.
+
+ 
+
+En el análisis multivariado, las variables que aumentaron la frecuencia de SB fueron el cursar los dos últimos años previos a internado (p < 0,001) y el fumar (p < 0,001); por el contrario, la mayor cantidad de horas de estudio (p: 0,047) redujo la frecuencia de SB, ajustados por el sexo (Tabla 2).
+
+ 
+
+Tabla 2. Análisis bivariado y multivariado del Síndrome de Burnout según factores          asociados en estudiantes de siete facultades de medicina del Perú
+
+
+
+RPc: Razón de prevalencia cruda; RPa: Razón de prevalencia ajustada; IC 95%: Intervalo          de confianza al 95% y valor p obtenidos con los modelos lineales generalizados, usando la          familia Poisson, función de enlace log y ajustando por la universidad de origen (grupo cluster).
+
+ 
+
+Discusión
+
+Debido a las repercusiones que podría causar el SB en la salud del estudiante de medicina, y con el fin de conocer la realidad de este trastorno en nuestra población, nos motivamos a realizar este estudio, el cual encontró que el 8% (47) tenía SB positivo, con rangos de 1-22% según la sede de encuestado. Se halló similitudes de un amplio rango de las frecuencias al comparar estos resultados con una investigación que tomó a unos pocos estudiantes que pertenecían a grupos científicos peruanos, siendo distintos si los estudiantes provenían de universidades del norte (30,8%), centro (41,8%) o el sur (27,5%)15. Estas variaciones de rangos podrían deberse a que cada universidad presenta diferente plan curricular, que la carga académica y el ambiente varía en cada uno de ellas -por lo que esto fue tomado en cuenta en la estadística analítica usando a la universidad como factor de ajuste-, esto podría conllevar a que el estudiante de medicina padezca de cansancio emocional y tenga una repercusión en su salud mental.
+
+El que uno de cada diez estudiantes padeciese de SB se contraponen con un reporte en Estados Unidos, donde casi la mitad de los estudiantes presentaban este síndrome16, esta diferencia podría deberse a la discrepancia de las poblaciones de ambos estudios, siendo esto ratificado por el hecho de que en nuestro medio se encontró también una mayor prevalencia de SB pero entre los estudiantes que realizaban otras actividades extracurriculares -científicas, académicas, entre otras-17 o que estuviesen cursando el último año de la carrera, que se sabe que tiene una mayor carga de responsabilidades y de contacto permanente con pacientes y otros profesionales de la salud18. Posiblemente esa sea otra explicación al amplio rango de frecuencia que encontramos, ya que es ampliamente conocido que los estudiantes que sólo se dedican a llevar sus cursos académicos tienen menos presión y estrés, en comparación de los que realizan mayor cantidad de actividades como parte de otras actividades extracurriculares8-10.
+
+Aquellos estudiantes que cursaban los últimos años de estudio presentaron mayor frecuencia de SB, esto es acorde con la literatura, ya que se han encontrado múltiples estudios que demostraban un aumento de SB en los estudiantes conforme avanzaban los años de estudios médicos19-21. Lo que refuerza lo encontrado previamente, ya que el asumir mayores retos académicos -y de otros tipos- precipitaría que se incremente el SB, sabiendo que esto sucede en los últimos años de la carrera. Por lo que esta población estudiantil pudiese estar no sólo expuesta a una mayor frecuencia de SB, sino que también a padecer otros trastornos de la esfera mental, por ello se recomienda realizar más investigaciones para demostrar aquella hipótesis.
+
+Se encontró una asociación positiva entre los estudiantes que tienen SB y el fumar, esto puede ser debido a su respuesta emocional negativa y persistente22, algunas referencias han encontrado que esto se da a la par con manifestaciones conductuales, dentro de los cuales están el abuso de fármacos, alcohol y tabaco23. Sin embargo, por el tipo de diseño del estudio no se puede asegurar una causalidad, por lo que se recomienda que se realicen estudios prospectivos en este tipo de poblaciones, para determinar si es que la exposición al estrés y el SB puede generar una mayor frecuencia del consumo de tabaco.
+
+En un estudio similar realizado por Ortega y col, se afirma que durante la etapa de pregrado se asoció la presencia de SB y trastornos depresivos, de ansiedad y abuso de alcohol, tabaco y drogas, lo cual conduce al progresivo deterioro académico24. Incluso se encontró que los estudiantes que fuman tenían mayor frecuencia de cinismo (43% versus 37% de los que no fumaban), entendiéndose al cinismo o despersonalización como uno de los tres componentes del SB según el MBI-SS25.
+
+En cambio, aquellos que estudiaban mayor cantidad de horas tenían menor frecuencia de SB, esto según la literatura consultada podría deberse a que el SB está relacionado con la autoeficacia, y esto tiene efectos positivos en el bienestar psicosocial y en su implicación en el estudio, por el contrario, otras teorías de eficacia se relacionan con síntomas de depresión y ansiedad21. En un estudio realizado por Caballero y col. se afirma que los estudiantes con SB presentaron bajo rendimiento académico, elevado agotamiento, alto cinismo y obtienen resultados no óptimos en sus evaluaciones académicas21; por el contrario, los estudiantes que estudian mayor cantidad de horas, con un mayor rendimiento académico, muestran menor presencia de SB, un mayor nivel de autoeficacia y mayor satisfacción con sus estudios25,26. Esto debería ser reforzado por las autoridades correspondientes, ya que las personas que estudian más horas tienen mayor rendimiento académico, más voluntad y eficacia en los estudios, por lo tanto, cumplen con un estado mental positivo, mayor vigor y dedicación en sus actividades, lo que generaría que no sufran de SB o su porcentaje sea muy bajo.
+
+El estudio tuvo la limitación de no medir consumo de alcohol ni otras sustancias, por ende, no se pudieron obtener otras asociaciones de importancia. Además, no se pudo realizar un muestreo de todas las facultades del Perú, por lo que estos resultados no pueden extrapolarse a todo el Perú o incluso a las propias universidades donde se realizó el estudio, esto se tomó en cuenta en la estadística bivariada y mutivariada, debido a eso se realizó el ajuste por la universidad durante el análisis. A pesar de esto, los resultados son importantes, pues demuestran una realidad en facultades universitarias de diversas universidades del Perú.
+
+Es por todo lo encontrado que se concluye que el SB es poco frecuente entre los estudiantes de medicina, la frecuencia varía en un amplio rango según la universidad. Además, aquellos que cursaban los dos últimos años previos a internado médico y el fumar, se asociaron a mayores frecuencias de SB; por el contrario, la mayor cantidad de horas de estudio se asociaron a menores frecuencias de SB.
+
+Agradecimientos
+
+Al estudiante Roberto Huamán (Ica), por su apoyo en la recolección de datos. Carlos Rojas presentó algunos resultados preliminaries del estudio en el Congreso Nacional de Estudiantes de Medicina de la SOCIMEP.

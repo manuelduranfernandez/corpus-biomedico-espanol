@@ -1,0 +1,48 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-92272016000400010
+Tamaño del efecto para la U de Mann-Whitney: aportes al artículo de Valdivia-Peralta et al
+
+CARTA AL EDITOR
+
+ 
+
+Tamaño del efecto para la U de Mann-Whitney: aportes al artículo de Valdivia-Peralta et al
+
+Effect size for the Mann-Whitney: Contributions to Article Valdivia-Peralta et al
+
+ 
+
+José Luis Ventura-León 
+
+Facultad de Salud, Universidad Privada del Norte, Lima, Perú
+
+ Correspondencia a:
+
+ 
+
+Sr. Director
+
+Recientemente se publicó en la revista un artículo1, que brinda un importante aporte a la problemática de la violencia de pareja; mediante la comparación de los niveles de agresividad en un grupo control y experimental, los mismos que fueron equivalentes y se diferenciaron en el motivo de consulta. No obstante, es necesario complementar los hallazgos encontrados con el cálculo del tamaño del efecto para la U de Mann-Whitney.
+
+En primer lugar, se debe precisar que el artículo en mención, utiliza la significancia estadística para indicar la superioridad de un rango con respecto al otro. Sin embargo, la significancia estadística sólo indica la probabilidad de error de rechazar la hipótesis nula asumiendo que es verdadera; que para fines del artículo es: "el rango en el grupo control y experimental es idéntico". No obstante, el hecho que un resultado sea estadísticamente significativo, nada tiene que ver con que sea importante o relevante a nivel práctico2.
+
+En segundo lugar, en el artículo en mención, se busca conocer cuan superiores son los rangos en el grupo experimental comparados con el control. En ese sentido, un estadístico que evalúa dicha magnitud es el tamaño del efecto3. Dado la información en la Tabla 2 en el artículo en mención; el objetivo de la presente carta es contribuir al trabajo de Valdivia-Peralta et al; adicionando el cálculo de la probabilidad de superioridad como tamaño del efecto para la U de Mann-Whitney. Este coeficiente indica que la probabilidad que un puntaje seleccionado aleatoriamente de un grupo Y, es superior al seleccionado de un grupo X4. Su expresión matemática es la siguiente:
+
+PSest = U / mn
+
+Dónde: U es la Mann-Whitney; m y n son el número de participantes para cada grupo.
+
+En ese sentido, en la Tabla 1, se aprecian los valores de la probabilidad de superioridad para cada uno de las subescala; observándose que agresión verbal presenta el valor más elevado (PSest = 0,53); seguido de agresión física (PSest = 0,35), ira (PSest = 0,35); y el más bajo hostilidad (PSett = 0,29).
+
+ 
+
+Tabla 1. Resultados de U de Mann Whitney para la escala AQ total con su respectivo          tamaño del efecto
+
+
+
+Nota: n = tamaño muestral; U = U de Mann-Whitney; P = P valor; PSest= Probabilidad          de Superioridad (tamaño del efecto).
+
+ 
+
+El dato de mayor interés radica en la subescala agresión verbal, donde los autores refieren que no existen diferencias significativas; por la confusión de la palabra significativa como sinónimo de importante. Cuando en realidad está indicando, que existe mucho error para rechazar la afirmación que los rangos son idénticos (hipótesis nula). Mientras que el PSest sugiere que el grupo experimental es superior al control en 0,53 en la subescala agresión verbal, argumento que es coherente con los propósitos del artículo. En ese sentido, este valor se aproxima a un pequeño efecto. Si, se utiliza las normas interpretativas de: No efecto (PSest ≤ = 0,0); pequeño (PSest ≥ 0,56); mediano (PSest ≥ 0,64) y grande (PSest ≥ 0,71)5.
+
+En base a todo lo previamente mencionado, se recomienda el uso de medidas de tamaño del efecto, tales como el coeficiente de probabilidad de superioridad [PSest], cuando el propósito es conocer la superioridad existente entre dos grupos mediante el estadístico U de Mann-Whitney.

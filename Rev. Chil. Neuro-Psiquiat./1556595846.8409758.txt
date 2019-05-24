@@ -1,0 +1,150 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-92272016000100002
+Propiedades psicométricas: ADHD Rating Scale IV en formato autoreporte
+
+Resumen
+
+Introducción:    El instrumento ADHD Rating Scale IV (ADHD RS IV) es un cuestionario de 18 ítems    que permite valorar el déficit de atención, la hiperactividad    e impulsividad que conforman el trastorno por déficit de atención    con hiperactividad (TDAH). El aporte del presente estudio a la línea    de investigación del TDAH se basa en el análisis de las propiedades    psicométricas del instrumento en una adaptación en formato    de auto-reporte, además, se trata de un estudio no realizado    previamente en el contexto ecuatoriano. Método: La investigación    se basa en un diseño cuantitativo no experimental, de corte transeccional,    con el fin de adaptar un instrumento en un contexto nuevo. El análisis    de datos se basó en los procesos estadísticos Alfa de Cronbach, correlación    de cada ítem con el total de la escala, medidas de tendencia central    y dispersión, comparación de medias mediante t de Student,    correlación de Pearson y análisis factorial confirmatorio.    Resultados: Se encontraron coeficientes de consistencia interna adecuados para las    escalas déficit de atención, hiperactividad/impulsividad y escala    total TDAH. Cada una de las escalas se correlaciona significativamente,    midiendo diferentes aspectos de la cognición y el comportamiento    humano. La bondad de ajuste del modelo testeado en el análisis factorial confirmatorio    permite replicar la escala en su composición clásica. Conclusiones:    La ADHD RS IVposee adecuadas propiedades psicométricas para ser    administrada en formato de auto-reporte, para realizar una valoración    de la impulsividad/hiperactividad, déficit de atención o la combinación    de ambas sintomatologías en el contexto ecuatoriano.
+
+Palabras clave:    ADHD Rating Scale IV, análisis factorial confirmatorio, psicometría,    trastorno por déficit de atención con hiperactividad.
+
+ 
+
+Introducción
+
+El trastorno por déficit    de atención con hiperactividad (TDAH) es un trastorno que se caracteriza    por la presencia de un patrón persistente de impulsividad, excesiva actividad    motora y déficit en la atención, que genera una alteración clínicamente    significativa en el desarrollo del niño, adolescente o adulto1.
+
+Se ha descrito que el TDAH es    el cuadro que más demanda atención en el contexto de salud mental    infantil y adolescente2,35, lo cual ha sido reportado en diversos    estudios3,4 donde se ha descrito que entre el 3% y 10% de la    población presentaría TDAH, lo que lo convierte en el diagnóstico    más frecuente en la atención primaria en salud mental34.
+
+La sintomatología del    TDAH es igualitaria en hombres como en mujeres, sin embargo, se ha descrito    que se presenta con mayor frecuencia en el género masculino que    en el femenino5, con una relación de tres a uno6,33.    Esta situación se debe a que en las mujeres suele presentarse mayoritariamente síntomas    de inatención, en relación a los hombres, en los cuales prevalece    sintomatología externalizada caracterizada por excesiva actividad motora, impulsividad    y dificultades comportamentales7-8.
+
+A pesar de la gran cantidad de    población diagnosticada con TDAH, a la actualidad no ha existido una    claridad absoluta en el hallazgo de marcadores de tipo biológico    o cognitivo que permitan distinguir entre un paciente con o sin TDAH38,    los mayores acercamientos están relacionados con el descubrimiento    de algunos factores genéticos relacionados con la predisposición    de presentar el trastorno, déficit en el funcionamiento de neurotransmisores,    disfunción cerebral en estructuras frontales y déficit en    las funciones ejecutivas9,10,37.
+
+Este estado del estudio del TDAH ha generado que su diagnóstico sea realizado únicamente mediante el análisis clínico36, es decir, mediante la constatación de la presencia de un conjunto de criterios diagnósticos que engloban al trastorno11-12.
+
+En la evaluación del TDAH existen instrumentos neurológicos, neuropsicológicos, escalas de valoración conductual y cuestionarios que aportan al clínico en la identificación de la sintomatología que engloba el cuadro13. Entre las escalas de uso común se encuentran la SNAP-IV, Vanderbilt ADHD Parent Rating Scale, ADHD Symptom Checklist-4, German ADHD Rating Scale, y la más utilizada, la ADHD Rating Scale IV (ADHD RS IV)1426.
+
+Se ha reportado que las propiedades    psicométricas de las escalas mencionadas presentan buenos parámetros    de validez y confiablidad en la evaluación del TDAH. Por lo que, son    instrumentos, en especial la ADHD RS IV, de vital importancia en la práctica    clínica de la salud mental15.
+
+Varios autores13,14,16 describen que las escalas de valoración conductual generalmente se fundamentan en los criterios diagnósticos del manual DSM1, que incluye a la mayoría de trastornos del neurodesarrollo, depresión, ansiedad, control de impulsos, entre otros. Los criterios diagnósticos del TDAH descritos en el DSM-5 son dieciocho17, los cuales son coincidentes con el contenido de la escala ADHD RS IV13.
+
+Generalmente los instrumentos de evaluación conductual son reportados y/o completados por los profesores y padres de los niños o adolescentes en evaluación17. Sin embargo, en este proceso diagnóstico, se suele dejar de lado la percepción del paciente18, lo cual invita a reflexionar si su aporte en el análisis de la presencia de la sintomatología TDAH podría contemplar un papel con mayor relevancia.
+
+En el contexto planteado surgen dos aspectos investigativos que todavía no han sido resueltos en la línea de investigación del TDAH. En primer lugar, tomar en cuenta la auto-valoración que el paciente en evaluación presenta sobre su estado conductual, y en segundo término, no se han reportado investigaciones previas que analicen las propiedades psicométricas de algún instrumento que evalúe el TDAH dentro del contexto ecuatoriano. Por tanto, el objetivo general del presente estudio es analizar las propiedades psicométricas de la escala ADHD RS IV en una muestra de estudiantes adolescentes ecuatorianos.
+
+Las preguntas de investigación que se buscarán resolver en el presente estudio son las siguientes: ¿Qué nivel de consistencia interna presenta el instrumento ADHD RS IV al ser aplicado en población estudiantil ecuatoriana? ¿Qué nivel de correlación presentan los ítems del instrumento al relacionarlos con el resto de la escala? ¿Cómo carga cada ítem al parámetro Alfa de Cronbach total de la escala y cómo su eliminación podría mejorar dicho parámetro? ¿Cuáles son los valores de la media y desviación estándar que presentan los estudiantes ecuatorianos en la aplicación del ADHD RS IV? ¿Cuál es el nivel de correlación que presentan las escalas del instrumento? ¿Qué bondad de ajuste, dentro de un análisis factorial confirmatorio, presenta el modelo del instrumento ADHD RS IV al testarse sus dos factores clásicos: déficit de atención e hiperactividad/impulsividad?
+
+Las hipótesis que se buscarán comprobar son:
+
+a) el instrumento ADHD RS    IV aplicado en estudiantes ecuatorianos presentará un coeficiente de Alfa    de Cronbach dentro de parámetros aceptables; b) cada    ítem de la escala ADHD RS IV presentará un buen nivel de    correlación con el total del instrumento; c) los ítems del instrumento    ADHD RS IV presentarán un nivel adecuado del coeficiente de    Alfa de Cronbach y no será necesario eliminar alguno para mejorar    la consistencia interna de la escala estudiada; d) los valores de media    y desviación estándar en hombres y mujeres presentarán niveles    diferentes, en donde los hombres presenten un mayor nivel de impulsividad    e hiperactividad y las mujeres mayor nivel de déficit de atención; e)    cada factor del instrumento ADHD RS IV correlacionará de forma significativa,    en donde la hiperactividad/impulsividad, si bien correlacionarán con    una importante magnitud con la dimensión déficit de atención,    ésta permitirá reconocer su relación y establecer    su diferenciación en la evaluación de diversos constructos del    comportamiento y cognición de ser humano; f) el instrumento ADHD RS    IV presentará aceptables propiedades de bondad de ajuste del modelo basado    en los dos factores utilizados clásicamente.
+
+ 
+
+Método 
+
+Participantes
+
+La muestra estuvo conformada    por 245 estudiantes del sistema educativo público de Quito, Ecuador.    Este tamaño de muestra permite cumplir con el requisito para un    análisis de propiedades psicométricas19, ya que    existe una relación de 13,5 participantes por cada ítem de    la escala. En la Tabla 1 se exponen las frecuencias y porcentajes    de la muestra. La media de edad de los participantes fue 16,07 años    (DE 1,23). Todos pertenecen a un nivel socioeconómico medio y medio    bajo. La técnica de muestreo fue no probabilística.
+
+Diseño de investigación
+
+Investigación cuantitativa no experimental, temporalidad transeccional y basado en el análisis de las propiedades psicométricas de una escala de evaluación conductual20.
+
+Instrumento
+
+ADHD RS IV21, se conforma de los dieciocho ítems del criterio A para el diagnóstico del TDAH indicado en el DSM-51. Las dimensiones déficit de atención e hiperactividad/impulsividad se conforman por nueve ítems cada una. Cada ítem se valora de cero a tres puntos. Esta escala ha sido diseñada para ser completada por el profesor o padre del paciente evaluado. En el presente estudio, el equipo investigador realizó la adaptación del instrumento para ser completado en forma de auto-reporte.
+
+Análisis de datos
+
+Los análisis realizados    consistieron en a) estadística descriptiva (medidas de tendencia central    y dispersión) para cada variable; b) el procedimiento de Alfa de    Cronbach para calcular la consistencia interna de la escala; c) correlación    de cada ítem con el total de la escala; d) consideración    del Alfa de Cronbach de la escala si se elimina algún ítem; e)    correlación de Pearson entre las diferentes escalas que conforman al    instrumento; f) t de Student para comparar las medias de hombres y mujeres (análisis    realizados en el programa SPSS versión 20)22; g) análisis    factorial confirmatorio en base a la suposición teórica del    TDAH y estructura clásica de la escala (análisis realizado en    el programa EQS)23.
+
+ 
+
+
+
+
+
+ 
+
+Procedimiento
+
+En primer lugar se procedió    a realizar la validación lingüística de la escala para su    aplicación en formato de auto-reporte. En este proceso se adaptó el    contenido de cada ítem en afirmaciones sobre el comportamiento del    sujeto evaluado (Tablas 2 y 3 se    presenta el contenido de cada ítem). La valoración de este procedimiento    se realizó mediante juicio de expertos en evaluación del    TDAH y validación de pruebas. Una vez que se contó con el instrumento    listo para su uso se procedió a solicitar los permisos correspondientes    para la realización de la investigación. Tanto estudiantes    como padres de familia consintieron su participación voluntaria. El    instrumento fue aplicado por los investigadores del presente estudio a    grupos de alrededor de treinta participantes. En todo momento se consideró    y respetó los parámetros éticos de Helsinki para la investigación    con seres humanos24.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+Resultados
+
+Mediante el procedimiento Alfa de Cronbach que valora la consistencia interna del instrumento se encontraron los parámetros a = 0,83 para total TDAH (los 18 ítems de la escala), en déficit de atención a = 0,77 y en hiperactividad/impulsividad a = 0,78; lo cual afirma que el instrumento presenta un parámetro de confiabilidad adecuado para su uso en estudiantes adolescentes ecuatorianos, ya que los coeficientes reportados son superiores a 0,7025.
+
+Los resultados del procedimiento    de correlación ítem-total corregido de cada escala se lo presenta en    las Tablas 2 y 3. En el análisis    realizado se encuentra que los ítems pertenecientes a la escala déficit    de atención correlacionan en un rango entre 0,37 y 0,51, y en la    escala hiperactividad/impulsividad los ítems correlacionan en un rango    entre 0,42 y 0,58, lo cual permite afirmar su buena capacidad discriminativa    y aporte favorable con la puntuación total de la escala. En relación    a los ítems con menor capacidad discriminativa se observa que, eliminarlos    de la escala no aportaría de forma significativa o aumentaría    el nivel de consistencia interna de la escala.
+
+En relación a la primera hipótesis planteada en la investigación, se puede afirmar su cumplimiento, puesto que tanto la escala global, como las diferentes escalas que conforman la ADHD RS IV presentan coeficientes de consistencia interna dentro de parámetros aceptables.
+
+La hipótesis número dos también se la comprueba, puesto que todos los ítems del instrumento se relacionan favorablemente con el total de la escala, sus coeficientes son adecuados y no es necesario eliminar alguno, puesto que todos contribuyen de manera positiva a la consistencia interna de la escala total.
+
+En el análisis de los puntajes de los participantes en relación al género, se encontró que los hombres presentaron, en la escala déficit de atención, una media de 8,85 (DE = 4,15) y las mujeres una media de 8,06 (DE = 3,47). En la escala hiperactividad/ impulsividad los hombres presentaron una media de 7,03 (DE = 4,68) y las mujeres una media de 6,72 (DE = 4,08). En la escala total del instrumento los hombres presentaron una media de 15,30 (DE = 7,35) y las mujeres una media de 14,25 (DE = 6,04).
+
+Los valores obtenidos tanto por hombres como por mujeres se presentan similares y sin una diferencia estadísticamente significativa. Estos datos indican que en la muestra investigada, tanto hombres como mujeres no se diferencian en sus niveles de hiperactividad/impulsividad t (243) = 0,55, p = 0,59, déficit de atención t (243) = 1,63, p = 0,10 y puntuación total TDAH t (243) = 1,23, p = 0,22. Estos resultados no aportan evidencia en favor de nuestra hipótesis número cuatro.
+
+Se analizó la correlación entre cada una de las dimensiones del instrumento mediante el proceso de correlación de Pearson. En los resultados se obtuvo que el déficit de atención correlaciona en mediana magnitud con la hiperactividad/impulsi-vidad (r = 0,45, p < 0,01), mientras que el déficit de atención (r = 0,83, p < 0,01) y la hiperactividad/ impulsividad (r = 0,83, p < 0,01) correlacionaron en un nivel elevado con total TDAH.
+
+Estos datos nos permiten afirmar    que las dimensiones déficit de atención e hiperactividad/impulsividad    presentan una importante relación, sin embargo, no miden un mismo constructo,    ya que, por un lado, la dimensión déficit de atención,    evalúa aspectos cognitivos relacionados con el proceso atencional,    mientras que la dimensión hiperactividad/impulsividad, evalúa    aspectos conductuales involucrados en la regulación del comportamiento.
+
+En la correlación entre    las dimensiones y la escala total se encuentra un parámetro elevado de    relación. Este dato es el esperado, puesto que ambas escalas conforman    el constructo de TDAH combinado, mientras que, la evaluación de    cada escala por separado permite la valoración del TDAH subtipo    desatento y TDAH subtipo hiperactivo/impulsivo1. Estos parámetros    nos brindan evidencia que respaldan la hipótesis número cinco del    presente estudio.
+
+La validez de constructo de la    escala se analizó mediante el proceso de análisis factorial confirmatorio    (AFC). El modelo testeado corresponde con el sustento teórico indicado    en el DSM-V1 (Figura 1), en donde se    afirma que la dimensión déficit de atención se compone    de los ítems (1-9) y la dimensión hiperactividad-impulsividad    se compone de los ítems (10-18). El procedimiento de AFC se    basó en el método robusto de máxima verosimilitud    y los parámetros de bondad de ajuste encontrados son x2    208,50 (153), p < 0,01, CFI = 0,87, RMSEA 0,047 (0,034-0,059).
+
+ 
+
+Figura    1. Modelo teórico testeado en el análisis factorial confirmatorio.
+
+
+
+Los índices de ajuste indican que la escala presenta adecuadas propiedades de validez. La prueba de chi-cuadrado indica ser significativo, el índice raíz del error cuadrático (RMSEA) indica un buen parámetro, puesto que éste es menor a 0,06 y el índice CFI indica que el modelo tiene un ajuste aceptable, puesto que éste es cercano a 0,90.
+
+Las bondades de ajuste del modelo indicado afirman que su estructura factorial clásica puede ser conservada para su utilización en el contexto ecuatoriano, además aporta evidencia en favor de la hipótesis de investigación número seis.
+
+ 
+
+Conclusiones y Discusión
+
+En el presente artículo se ha analizado las propiedades psicométricas del instrumento ADHD RS IV en formato de auto-reporte. Los resultados encontrados nos permiten reconocer que el instrumento en cuestión presenta adecuadas propiedades de validez y confiabilidad para su aplicación en estudiantes ecuatorianos.
+
+Los datos reportados afirman    la importancia del instrumento para ser tomado en cuenta en la valoración    del TDAH, puesto que presenta parámetros adecuados en relación    a los descritos en investigaciones previas donde se ha considerado al    padre o profesor como informante del estado comportamental    del caso en análisis14,30,31.
+
+Por ejemplo, en un estudio realizado    por Ser-vera y Cardo14 encontraron que la consistencia interna,    mediante la aplicación a profesores, de la escala déficit    de atención fue α = 0,95 e hiperactividad/impulsividad α =    0,94, mientras que en la aplicación a padres se encontraron los    coeficientes  α = 0,90 y α = 0,86, en el orden previo.
+
+Los resultados del estudio mencionado, así como otros en los cuales se ha estudiado las propiedades psicométricas de la escala ADHD RS IV30,31, tienen relación a lo encontrado en nuestro estudio, puesto que los niveles de Alfa de Cronbach reportados en la presente investigación están dentro del rango de aceptabilidad, y es importante indicar que en el contexto ecuatoriano no se cuenta con la validación previa de algún instrumento para valorar el TDAH, por lo cual, el contar con una escala que presente un valor de consistencia interna aceptable es un importante aporte para la valoración del trastorno en el medio educativo y clínico de Ecuador.
+
+Los valores encontrados en la    correlación entre las escalas nos invitan a reconocer que las dimensiones    déficit de atención e hiperactividad/impulsividad, que si bien    están correlacionadas en un nivel elevado con el total TDAH, entre    las mismas existe una correlación mediana, lo cual permitiría afirmar    que en el TDAH existen dos componentes independientes pero interrelacionados.    Esta afirmación tiene sentido con lo descrito en el DSM-517, donde    se describe que el TDAH es un trastorno del neurodesarrollo que podría    estar presente como un cuadro que: a) combine la sintomatología    de inatención e hiperactividad-impulsividad, para conformar    el TDAH subtipo combinado; b) presente únicamente sintomatología    de desatención englobando el TDAH subtipo desatento o c) posea únicamente    sintomatología de hiperactividad/impulsividad presentando el TDAH subtipo    hiperactivo/impulsivo.
+
+Por otro lado, el haber encontrado    una correlación mediana entre las sub-escalas y elevada entre cada    sub-escala con la escala total, permitiría identificar que cada    subtipo del TDAH es característico por su propia problemática,    y en cierta medida podrían ser dos condiciones pertenecientes a    un trastorno independiente27, ya que en el TDAH subtipo desatento    existe un mayor déficit a nivel cognitivo, mientras que el TDAH    subtipo hiperactivo/impulsivo existe un déficit mayoritariamente conductual.
+
+La afirmación previa ha    sido ratificada en evidencia empírica que afirma que el TDAH subtipo    desatento presenta características cognitivas diferentes que el TDAH    subtipo hiperactivo/impulsivo, por ejemplo, en este último subtipo    se ha encontrado déficit del control inhibitorio, a diferencia del    subtipo desatento en donde se ha reportado que dicha función cognitiva    se encuentra preservada28, en cambio, en el subtipo TDAH combinado se    presentaría la mayor afectación, puesto que evidencia los déficit    comportamentales y cognitivos presentes en ambos subtipos29.
+
+En cuanto al análisis factorial confirmatorio, nuestros datos tienen relación con evidencia reportada previamente13,32, en donde se afirma que los dieciocho síntomas para el diagnóstico del TDAH se organizan en los dos factores considerados en nuestro análisis, siendo dicho modelo el que mejor bondad de ajuste presenta en su reporte por padres y maestros, y en nuestro caso, auto-reporte.
+
+Para la línea de investigación del TDAH en el Ecuador es un importante avance, puesto que en el contexto nacional existe una carencia de estudios sobre los instrumentos que se aplican en salud mental. Por tanto, contar con datos que afirmen que el instrumento ADHD RS IV posee propiedades psicométricas adecuadas para su uso en nuestro medio, se convierte en un gran avance en la valoración del trastorno por déficit de atención con hiperactividad de estudiantes ecuatorianos.
+
+Un punto importante de limitación del presente estudio, que debe ser considerado, es que la muestra pertenece a una ciudad determinada del Ecuador, lo cual hace que sus resultados no se puedan considerar como generalizables a nivel nacional, sin embargo, al no contar con estudios previos en esta temática, los datos obtenidos en el presente estudio servirán de base, hasta que en un futuro se pueda realizar una investigación con una muestra representativa a nivel nacional.
+
+Otra limitación que debe ser considerada en el presente estudio, es el componente subjetivo que se encuentra inmerso en las respuestas de auto-reporte realizadas por cada participante, puesto que esta información podría estar sesgada por la construcción de los estándares del comportamiento que cada estudiante ha elaborado. Además, los resultados no fueron contrastados por un análisis clínico, en el cual se pudiera determinar si existe una relación entre lo reportado por el estudiante y el juicio clínico de un experto en TDAH.
+
+Finalmente, como investigación futura del presente estudio nos proponemos: a) analizar la correlación existente entre el reporte de la ADHD RS IV reportado por padres, profesores y el auto-reporte del paciente; b) analizar la prevalencia del TDAH en el contexto ecuatoriano mediante el uso del instrumento en auto-reporte y c) la relación existente entre el ADHD RS IV auto-reporte y medidas experimentales para evaluar la impulsividad, hiperactividad y déficit de atención que engloban al TDAH.
+
+ 
+
+Agradecimientos
+
+El investigador principal expresa su gratitud a la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación del Ecuador (SENESCYT), por el apoyo económico recibido dentro de la beca para cursar estudios de PhD en Psicología que financió el presente proyecto.

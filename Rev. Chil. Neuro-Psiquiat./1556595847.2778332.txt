@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-92272016000200006
+Estudio electrodiagnóstico en síndrome de Guillain Barré en adultos
+
+ 
+
+Introducción
+
+La incidencia del síndrome de Guillain Barré, se ha estimado entre 0,81 y 1,89 por 100.000 en población adulta y de 0,34 a 1,34/100.000 habitantes en niños, con variaciones geográficas importantes respecto a la frecuencia de los subtipos, siendo los más conocidos la neuropatía motora axonal aguda y neuropatía axonal motora y sensitiva aguda, AMAN y AMSAN respectivamente; la polineuropatía desmielinizante inflamatoria aguda (AIDP) y el Síndrome de Miller Fisher (SMF, siglas dadas por sus nombres en inglés)1-5.
+
+Es una enfermedad de curso monofásico, el 50% de los casos presenta la mayor debilidad a las dos semanas1.
+
+El diagnóstico de este síndrome es clínico y los exámenes de apoyo como el electrodiagnóstico son utilizados para definir los subtipos y realizar el diagnóstico diferencial. Este último es amplio, incluyendo patologías que comprometen tronco cerebral, médula espinal, cauda equina, unión neuromuscular o músculos6.
+
+Respecto a los criterios diagnósticos, los iniciales fueron publicados en 1981 y modificados en 1990, y aunque primariamente fueron desarrollados con propósitos de investigación, son los más usados en la práctica clínica (Tabla 1).
+
+  Tabla 1. Criterios diagnósticos de Síndrome de Guillain Barré1  
+
+La progresión y su velocidad es variable, el 30% requerirá ventilación mecánica, algunos en horas o días, mientras otros nunca pierden la capacidad de marcha1.
+
+En general, las personas con AMAN tienen una progresión precoz y más rápida de la debilidad, lo que resulta con frecuencia en falla respiratoria en un par de días1. El compromiso del sistema autonómico es común en AIDP, especialmente en casos severos con falla respiratoria, pero es menos frecuente en AMAN7.
+
+La mortalidad es cercana al 5% a pesar de la inmunoterapia y entre un 14 a 20% resultará con discapacidad severa8,9.
+
+Existen múltiples estudios que buscan establecer factores pronósticos de funcionalidad a corto y largo plazo, tanto clínicos como electrofisioló-gicos, usando la escala de Hughes como principal indicador. Dentro de los factores clínicos asociados a evolución no favorable destacan: edad mayor a 50 años, diarrea precedente, corto tiempo entre inicio de síntomas y la hospitalización, la presencia de disfunción autonómica, la necesidad de ventilación mecánica precoz, debilidad de flexores de cuello, debilidad muscular marcada y Hughes >3 al ingreso9-14. Entre los factores electrofisiológicos asociados a mal pronóstico funcional y/o recuperación tardía, están: baja amplitud de CMAP e inexcitabilidad de nervios motores10,12-13,15-17. Aunque algunos estudios no han encontrado diferencias en las recuperaciones funcionales entre los distintos subtipos, sí se han observado cursos temporales variables entre los portadores de las variantes axonales, evidenciando tiempos de recuperación de marcha que van entre 6 meses a 3 años16,18,19.
+
+Dado la variabilidad en el curso clínico y los tiempos de recuperación funcional en los distintos subtipos de SGB, es importante realizar evaluaciones integrales para determinar el pronóstico de cada paciente, las que permitirán al equipo de rehabilitación, adaptar el cuidado y las acciones rehabilitadoras a las necesidades individuales del paciente, junto con informar a éste y sus familiares sobre la recuperación funcional esperada19.
+
+El electrodiagnóstico es una de las principales herramientas de apoyo para confirmar el diagnóstico, determinar las variantes clínicas y establecer pronóstico20.
+
+A continuación, se realizará una descripción breve sobre etiopatogenia, que permita comprender mejor las distintas alteraciones electrofisioló-gicas del SGB y se desarrollarán algunos aspectos relevantes respecto a los hallazgos en el estudio electrodiagnóstico de los subtipos AMAN, AM-SAN y AIDP, enfatizando en errores frecuentes y hallazgos precoces.
+
+Etiopatogenia
+
+Clásicamente el SGB ha sido establecido como un desorden autoinmune, postinfeccioso, siendo el Campilobacter jejuni el microrganismo que con mayor frecuencia se asocia al diagnóstico3,19.
+
+Estudios inmunológicos, patológicos y bacteriológicos han mostrado mimetismo molecular de las estructuras terminales de los lipooligosacáridos del Campilobacter jejuni con los gangliósidos GM1 y GD1a presentes en los axones de nervios motores periféricos, lo que explicaría la reacción antigénica cruzada presente en individuos susceptibles en relación a las variantes axonales3,8. En éstas, los anticuerpos anti GM1 y anti GD1a se unen a los antígenos blanco, localizados dentro y cerca del nodo de Ranvier, llevando a la desaparición de los canales de sodio voltaje dependientes. Este daño puede conducir a desprendimiento de la mielina paranodal, lo que lleva a pérdida de cargas eléctricas, disminuyendo críticamente el factor de seguridad para la transmisión del impulso y resultando en un bloqueo de conducción similar al observado en la desmielinización paranodal. Al progresar el daño, los macrófagos invaden el espacio periaxonal, eliminando los axones lesiona-dos8,19. El crecimiento nodal resultante es seguido de degeneración axonal de las fibras motoras, sin desmielinización (Figura 1)8.
+
+   
+
+Figura 1. Bloqueo de conducción sin desmielinización. (A) clásico bloqueo de conducción en un examen inicial;     (B) y (C) exámenes posteriores. (B) Bloqueo de Conducción Reversible y     (C) Falla en la conducción longitud dependiente28.
+
+Este mecanismo fisiopatológico explicaría los dos patrones de daño y recuperación de las variantes axonales: los cambios iniciales son reversibles en una primera etapa (bloqueo de conducción reversible), de rápida recuperación clínica; y en casos de procesos autoinmunes más severos, podría continuarse con degeneración axonal, de lenta mejoría con resultados clínicos pobres1,3,21.
+
+El otro subtipo de daño axonal en Guillain Barré es AMSAN, cuya patogenia es consistente con daño inmunomediado de las raíces ventrales y dorsales, que también estaría asociado a la presencia de anticuerpos anti GM1, GM1b y GD1a, lo que hace presumir que constituiría una forma más severa de AMAN1,3.
+
+Por otro lado, los antígenos específicos en AIDP están, presumiblemente, ubicados en la vaina de mielina. Los anticuerpos pueden activar el complemento, provocando iniciación de la degeneración vesicular, e invasión de mielina por macrófagos, con preservación de los axones (Figura 1 )19.
+
+Estudio electrofisiológico
+
+Los estudios de neuroconducción y electromio-grafía son útiles para el diagnóstico de síndrome de Guillain Barré, discriminar entre presentación axonal o desmielinizante, descartar otras patologías que tengan presentación clínica similar y establecer pronóstico6,20,22.
+
+Estos estudios pueden tener resultados normales en estadios tempranos de la enfermedad, evidenciándose alteraciones a las 2 semanas posteriores al inicio de la debilidad. Sin embargo, en las ocasiones en que se requiere confirmar el diagnóstico en un paciente con alta sospecha de SGB cuya debilidad ha progresado rápidamente, un retraso de dos semanas puede ser demasiado, por lo que ha habido múltiples intentos para describir hallazgos precoces que permitan optimizar la conducta clínica3,19,22,23.
+
+Para mejorar el rendimiento diagnóstico, algunos autores recomiendan realizar estudios de neuroconducción en al menos tres nervios sensitivos y cuatro motores además de ondas F y reflejo H, siendo las alteraciones más precozmente encontradas la prolongación o ausencia de estas respuestas19,22.
+
+En los casos leves, los cambios patológicos pueden consistir en leve edema de los nervios o raíces con mínimo infiltrado inflamatorio. En contraste, el SGB fulminante muestra inexcitabilidad de los nervios periféricos con degeneración axonal secundaria a inflamación. El segmento de máxima participación varía entre un paciente a otro, esto explicaría la diversidad de hallazgos clínicos y anormalidades de la neuroconducción en los diferentes casos24.
+
+La electromiografía de aguja en AIDP revela el característico patrón desmielinizante: sin dener-vación, potenciales de acción de unidad motora (PAUMs) de morfología normal, pero con reclutamiento disminuido en los músculos débiles, excepcionalmente se pueden observar descargas mioquímicas. En los casos de pérdida axonal, se pueden observar potenciales de fibrilación que se desarrollan dentro de 2 a 5 semanas, con un peak máximo a las 6 a 10 semanas. Las fibrilaciones son igualmente comunes en músculos distales y proxi-males, un hallazgo que probablemente representa patología multifocal aleatoria y que puede persistir durante muchos meses. Después de la denervación, los PAUMs pueden llegar a ser más polifásicos (generalmente en la cuarta semana), seguido de un aumento de su amplitud y duración, explicado por el proceso de reinervación por colaterales25,26.
+
+En las últimas tres décadas, se han propuesto diferentes criterios electro diagnósticos, basados inicialmente en detectar lentificación de conducción nerviosa como evidencia de un proceso de desmielinización27, posteriormente con la descripción del subtipo axonal, estos criterios han sido reevaluados. Ninguno de ellos incluye hallazgos en electromiografía28,29.
+
+Criterios electrodiagnósticos
+
+Desde 1978, diversos investigadores han propuesto algunos criterios para establecer el diagnóstico de SGB, basados en demostrar la existencia de desmielinización en 2 o más nervios usando distintos puntos de corte en los parámetros de neu-roconducción motora. (Velocidad de conducción, latencia distal, dispersión temporal y bloqueo de conducción)25,27,29,30. La presencia de desmielini-zación en dos o más nervios motores, confirma la AIDP, con puntos de corte de latencias distales de más del 110% del límite superior normal (Tabla 2)27.
+
+  Tabla 2. Criterios de electrodiagnóstico para SGB, según distintos investigadores2   
+
+Con la descripción de la variante AMAN, en 1990, los criterios debieron revisarse.
+
+Ho y posteriormente Hadden, se basaron en los criterios de Albers, considerando otros puntos de corte en las variables de dispersión temporal (DT) y bloqueo de conducción (BC)25,30-32
+
+Actualmente estos criterios son los más usados en la práctica clínica para diferenciar ambas variantes; sin embargo, fueron basados en el supuesto de que AMAN era caracterizado fisiopatológicamente por degeneración axonal simple, la que se corroboraba descartando la desmielinización y confirmando CMAP de amplitudes disminuidas en 2 o más nervios motores, con preservación de los potenciales sensitivos (SNAP) en los mismos segmentos de nervio3,27.
+
+Electrofisiológicamente, AMAN también puede manifestarse como bloqueo de conducción reversible (BCR), que se resuelve dentro de las primeras semanas33, momento en el que los CMAP distales no presentarían excesiva dispersión temporal ni polifasia (Figura 1)3,27.
+
+Los criterios de Hadden para AMAN permiten la existencia de una característica desmielinizante en 1 nervio si el CMAP distal es < 10% del límite inferior normal27. Tanto para los criterios de Ho como para los de Hadden, no se requiere actividad espontánea en la electromiografía de aguja para demostrar degeneración axonal27.
+
+Neuroconducción sensitiva en AIDP, AMAN y AMSAN
+
+Se ha observado en varias series de pacientes con AIDP, el "patrón sural conservado" que es muy común, definido como la combinación de potenciales de acción sensitivos en el nervio sural dentro de la normalidad comparada con baja amplitud o ausencia de potenciales de acción sensitivos en miembros superiores. Este hallazgo, que es altamente específico (96%) para el diagnóstico de la AIDP, está presente en cerca de la mitad de estos pacientes y en cerca de 2/3 de los pacientes menores de 60 años23.
+
+Existen algunos estudios que indican que las fibras sensitivas están a menudo comprometidas subclínicamente en el subtipo AMAN y que el bloqueo de conducción reversible puede estar presente en AMAN y AMSAN27.
+
+En el caso de AMSAN, se observan cambios fi-siopatológicos axonales presentes tanto en nervios motores como sensitivos, por afectación de las raíces dorsales como las ventrales. Para confirmar el diagnóstico, se deben cumplir los criterios de AMAN y demostrarse disminución a menos del 50% del límite inferior normal, de las amplitudes de SNAP en al menos dos nervios27.
+
+Se ha demostrado la existencia de GM1 y GD1a en nervios motores y sensitivos, por lo que la razón de la existencia de cuadros motores puros (patrón más común), aún no está claro. Entre las hipótesis que se han elaborado están la afectación de la unión neuromuscular por estos anticuerpos (lo que aún no se ha demostrado), alteración de los nodos de Ranvier en segmentos intramusculares de los axones motores, la diferente especificidad fina de los anticuerpos y la disímil exposición y por ende susceptibilidad al inmunodaño de los gangliósidos en las fibras nerviosas3,27.
+
+Se cree también que AMAN con bloqueo de la conducción reversible, AIDP, AMAN con degeneración axonal y AMSAN, son las distintas formas de presentación de un mismo continuo fisiopatológico con diferentes manifestaciones clínicas3,27.
+
+Hallazgos precoces
+
+Algunos estudios han buscado determinar los patrones electrodiagnósticos en Guillain Barré temprano34, y han observado que durante el período crítico, el 5-10% de los enfermos tiene exámenes normales, a pesar de la afectación clínica grave, y un 5-10% tiene anormalidades inespecíficas en la neuroconducción23.
+
+Los hallazgos más comunes en estudios tempranos (menos de 2 semanas desde el inicio de los síntomas) son: alteraciones en respuestas tardías, dispersión temporal distal, bloqueo de conducción, reflejo de parpadeo alterado, la presencia de múltiples ondas A (en el reflejo H) y un patrón de conservación del nervio sural35. Considerando como los hallazgos más confiables: las anormalidades en las latencias de la onda F y el reflejo H además del aumento de las latencias motoras distales34.
+
+Recientemente un estudio retrospectivo francés, analizó 58 pacientes con AIDP cuyos exámenes se realizaron dentro de los primeros siete días de síntomas, concluyendo que ningún paciente tenía el estudio dentro de rangos normales y que los parámetros más frecuentemente alterados eran: el reflejo H, la velocidad de conducción motora y las latencias motoras distales, junto con el patrón del nervio sural conservado. Dado que ninguno de ellos cumplía con los criterios diagnósticos publicados hasta la fecha del estudio, realizaron una propuesta de criterios a aplicar en etapas tempranas, que requiere la presencia de sólo uno de los seis ítems propuestos y que permitirían diagnosticar un 81% de sus pacientes como AIDP (Tabla 3)34.
+
+  Tabla 3. Criterios propuestos para electrodiagnóstico temprano en AIDP16,34      Debe tener una de las siguientes 6 características:   
+
+ 
+
+Por otro lado, en otro intento de describir hallazgos precoces, un grupo de investigadores chinos, publicaron el 2014 un estudio comparando 13 pacientes con diagnóstico de Guillain Barré, cuyo examen fue realizado durante la primera semana de evolución, con 21 pacientes controles realizando un protocolo típico de SGB, pero agregando en la conducción motora de mediano y ulnar un tercer estímulo en el punto de Erb. Se encontró que el 77% de ellos tenía alteraciones en los CMAP distales cuando se realizaba este estímulo, ya sea en latencia, velocidad o bloqueo de conducción, versus sólo un 46% de ellos tenía alteraciones en la onda F de los mismos nervios, por lo que los autores proponen que el estímulo en el punto de Erb sería una técnica más sensible precoz para confirmar el compromiso de raíces en SGB36.
+
+Errores frecuentes en electro diagnóstico
+
+El principal error diagnóstico del estudio electrofisiológico es la clasificación errónea de los subtipos. Diversos estudios demuestran que en la fase temprana del SGB la distinción entre las variantes puede ser imposible en algunos pacientes26,27. Existen muchos factores que pueden explicar esta situación, los que detallaremos a continuación.
+
+La frecuencia relativa de los subtipos de Guillain Barré tiene una variación geográfica considerable. La variante AMAN es rara en muchos países de Europa y en América del Norte, pero es particularmente frecuente en Asia y América Central y del Sur3. Esto podría explicarse por diferencias en susceptibilidad genética y/o en los antecedentes de infecciones o factores desencadenantes; sin embargo, es importante considerar los factores electrofi-siológicos que resultan trascendentales para poder realizar esta distinción como son: los distintos criterios electrofisiológicos utilizados y si el diagnóstico se basó en un estudio único o seriado23,27,37.
+
+En variantes desmielinizantes sólo el 30-50% de los pacientes cumple todos los criterios de AIDP durante las primeras dos semanas de enfermedad, aumentando a un 85% a la tercera semana26,27.
+
+Un estudio de cohorte italiano, concluyó que cuando los exámenes de neuroconducción eran realizados muy tempranamente en el curso de la enfermedad, se sobreestimaba la incidencia del subtipo desmielinizante y al repetir la prueba se reclasificaban, disminuyendo el subtipo desmielini-zante desde 67 a 58%, y aumentando la proporción de la variante axonal del 18 al 38%8,37. Este estudio explica lo ocurrido por la falta de reconocimiento temprano de patrones de bloqueo reversible de la conducción y la reducción de la amplitud del CMAP longitud-dependiente37.
+
+Lo descrito anteriormente plantea la necesidad de modificar los criterios, quedando bastante claro en la literatura actual, que los estudios electrofisio-lógicos seriados son obligatorios para un correcto diagnóstico de las variantes de SGB27,37, al menos a algunos pacientes que tengan antecedentes que sugieran AMAN23,27,33. Sin embargo, es menos claro el cuándo y con qué frecuencia deben repetirse para precisar mejor el diagnóstico.
+
+Una revisión realizada por Uncini y cols. el año 2012, recomienda realizar dos series de estudios dentro de las primeras cuatro a seis semanas desde el comienzo de los síntomas27, pero no está claro si esto sería suficientemente preciso. En este contexto, un trabajo publicado el 2013, evaluó a 21 pacientes, realizándoles el primer examen electro-fisiológico al momento del ingreso (para confirmar la etiología neuropática) y lo repitieron en tres intervalos distintos: 1-2 semanas, 3-8 semanas y 8-12 semanas; con el fin de dilucidar los plazos que mejor se correlacionan con el electrodiagnóstico final, concluyendo que la realización al ingreso y entre las 3-8 semanas de inicio de la enfermedad, era suficiente para un electrodiagnóstico claro de GBS, la repetición más temprana subestimaría el subtipo axonal38. Sin embargo, este estudio es pequeño y los períodos de tiempo fueron asignados arbitrariamente, por lo que se requiere mayor investigación para adoptar estos hallazgos como recomendación.
+
+Es evidente que es necesario desarrollar criterios electrodiagnósticos más confiables para reconocer las variantes del SGB, que incluyan recomendaciones respecto a la frecuencia óptima de la repetición
+
+de los estudios y de esta manera poder investigar la real incidencia de las distintas variantes en los países27,37,39.
+
+Por último, es relevante mencionar que, si bien el establecer precozmente el subtipo de SGB no cambia la indicación de inmunoterapia, sí es determinante para definir el pronóstico funcional, y para que, como equipo de rehabilitación, podamos informar al paciente respecto a los tiempos de recuperación y establecer las acciones de rehabilitación que permitirán optimizar su reinserción familiar, social y laboral. Faltan estudios clínicos chilenos que evalúen los factores y los plazos de la recuperación funcional de nuestros pacientes con esta condición.
+
+Conclusión
+
+El Síndrome de Guillain Barré tiene un amplio espectro clínico de presentación y subtipos fisio-patológicos marcados, cuyo sustrato común es el daño autoinmune.
+
+Para establecer un adecuada clasificación, el estudio electrofisiológico juega un rol clave, existiendo variadas pruebas estandarizadas y patrones que permiten confirmar el diagnóstico en forma temprana, además de orientar a los equipos de rehabilitación respecto a los cursos clínicos y la recuperación funcional de los pacientes.
+
+Con el transcurso de los años ha quedado claro que los criterios electrodiagnósticos comúnmente utilizados no permiten realizar la tipificación de los subtipos en forma precisa, por lo que se requiere mayor evidencia que permita proponer nuevos criterios y establecer la frecuencia óptima de repetición del examen.

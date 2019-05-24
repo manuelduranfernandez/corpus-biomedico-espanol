@@ -1,0 +1,96 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-92272016000400004
+Factores asociados a la dependencia de alcohol y tabaco en estudiantes de ocho facultades de medicina peruanas, 2015
+
+Resumen
+
+Introducción: El consumo de drogas lícitas es común entre los universitarios, no se han realizado investigaciones locales que revelen dependencia a las mismas. El objetivo fue determinar los factores asociados a la dependencia alcohólica y al tabaco en estudiantes de ocho facultades de medicina peruanas. Método: Estudio transversal analítico multicéntrico de datos secundarios, se utilizó un cuestionario auto-aplicado en los estudiantes de medicina peruanos, se usó los test de Cage y Fagerstrom para definir dependencia alcohólica y al tabaco, respectivamente; además de medir otras variables socio-educativas. Se obtuvo estadísticos de asociación y valores p. Resultados: De los 1.918 estudiantes evaluados, el 55% (1.046) fueron mujeres y la mediana de edades fue 20 años. El 34% de estudiantes consumía tabaco regularmente; el 9% (178) mostró dependencia al tabaco, aumentando la frecuencia el consumir alcohol (RPa: 8,39; IC95%: 4,99-14,09;p < 0,001) y café (RPa: 1,72; IC95%: 1,31-2,27;p < 0,001); el recibir dinero de su familia disminuyó la frecuencia de consumo de tabaco (RPa: 0,68; IC95%: 0,49-0,94; p: 0,019). Consumían alcohol regularmente un 49%; mostrando dependencia alcohólica un 28% (537), aumentando su frecuencia el ser varón (RPa: 1,51; IC95%: 1,09-2,09; p: 0,012), el haber desaprobado un curso (RPa: 1,17; IC95%: 1,02-1,33; p: 0,021), el semestre académico que cursaban (RPa: 1,04; IC95%: 1,01-1,08; p: 0,014) y la dependencia al tabaco (RPa: 2,89; IC95%: 2,40-3,47;p < 0,001 ); asimismo, disminuyó la dependencia alcohólica, las horas diarias que estudia (RPa: 0,96; IC95%: 0,94-0,97;p < 0,001). Conclusiones: Si bien la dependencia al alcohol y tabaco no fue alta, a esto se asoció algunos factores modificables, en los que se pueden intervenir para disminuir la frecuencia y sus posibles consecuencias.
+
+Palabras clave: Consumo de tabaco; consumo de bebidas alcohólicas; estudiantes de medicina; Perú. (Fuente: DeCS BIREME).
+
+ 
+
+Introducción
+
+El consumo de alcohol y tabaco es a nivel mundial un problema de salud pública, la Organización Mundial de la Salud (OMS) identifica que millones de muertes están asociadas al consumo de alcohol1 o por consecuencias originadas por el consumo de tabaco2. Pero el consumo de estas drogas no sólo repercuten en la salud del individuo, sino que afecta los aspectos sociales3 y económicos; con pérdidas valoradas en billones de dólares1,2. El consumo de estas sustancias es cada vez más frecuente en los jóvenes, en un estudio mexicano se identificó que del total de estudiantes de secundaria, el 49% habían probado alcohol alguna vez en su vida4. En nuestro medio se reportan prevalencias del consumo de vida de alcohol y tabaco en 79% y 43%, respectivamente5.
+
+Los estudiantes de medicina son una población susceptible, ya que estos buscan medios para sobrellevar el constante estrés de la carrera6, siendo el consumo de drogas legales una de las maneras más comunes7. Son pocos los estudios que han caracterizado a estas drogas legales entre los estudiantes de medicina8, pero la mayoría de ellos fueron netamente descriptivos9, no siendo evaluados los factores que influyen en su consumo y dependencia.
+
+Por todo lo anteriormente mencionado el objetivo del estudio fue el determinar los factores asociados a la dependencia de tabaco y alcohol en estudiantes de ocho facultades de medicina del Perú.
+
+Metodología
+
+Se realizó un estudio transversal analítico, multicéntrico y de datos secundarios. La población de estudio fueron estudiantes de medicina de ocho facultades de medicina del Perú (Universidad Ricardo Palma-Lima, Universidad Nacional de Ucayali-Ucayali, Universidad Nacional San Luis Gonzaga de Ica-Ica, Universidad Nacional de Cajamarca-Cajamarca, Universidad San Antonio Abad de Cusco-Cusco, Universidad Peruana Los Andes-Huancayo, Universidad Privada Antenor Orrego-Piura y Universidad César Vallejo-Piura); el muestreo fue por conveniencia10.
+
+Se incluyó a los alumnos matriculados en el ciclo 2015-I -de primer a sexto año (antes del internado médico). Se excluyó a los que no respondieron las variables principales, dependencia de alcohol y tabaco (5 encuestas eliminadas). Se calculó la potencia estadística para cada una de las diferencias, siendo en todos los casos mayor al 90%, esto se realizó para encontrar la diferencia entre los que tenían y no tenían dependencia.
+
+Para la recolección de datos se utilizó una encuesta auto-aplicada, esta encuesta estuvo conformada por la sección de datos generales y las de consumo. Las variables principales fueron hábitos legales de consumo, la dependencia alcohólica fue medida según el resultado obtenido de la escala de screening de CAGE, considerando consumo positivo para dependencia a los que tenían cuatro o más puntos, esta escala tiene una sensibilidad de 66,7% y una especificidad de 86,0%11.
+
+La dependencia al tabaco fue medido según la escala de Fagerstrom, considerando consumo positivo en fumadores dependientes pero no en fumadores ligeros12. Esta escala ha reportado una sensibilidad de 52% y especificidad del 81%13.
+
+Las variables independientes fueron las caracteristicas de los estudiantes de medicina: El sexo, estado civil, edad, semestre académico, horas promedio de estudio por dia, el haber desaprobado un curso, dependencia económica (de su familia, si trabaja o ambos), el tener pareja; además, se midió el consumo regular de café y de bebidas energizantes.
+
+La información recolectada se ordenó en una base de datos del programa Microsoft Excel 2010. El análisis se dividió en dos fases: una fase descriptiva y una analítica. Para la primera fase se procedió a determinar las frecuencias absolutas y relativas de las variables categóricas. Además, se obtuvo las medianas y rangos de las variables cuantitativas, post la evaluación de la normalidad con la prueba estadística de Shapiro Wilk. Para la segunda fase se trabajó con un nivel de confianza del 95%; en la estadística analítica bivariada y multivariada se cruzó las variables categóricas, utilizando modelos lineales generalizados con la familia Poisson, la función de enlace log, modelos robustos y considerando a la universidad como grupo cluster; se obtuvo las razones de prevalencia crudas (RPc) y ajustadas (RPa), sus intervalos de confianza al 95% (IC 95%) y los valores p. Se consideró p < 0,05 como estadísticamente significativo. El proyecto base fue aprobado por un comité de ética (OFICIO N°: 262-OADI-HONADOMANI.SB-2015).
+
+Resultados
+
+De los 1.918 estudiantes evaluados, el 54,5% (1.046) fueron mujeres, la mediana de edades fue 20 años (rango: 16-58 años). Las frecuencias de consumo regular de alcohol y tabaco fueron del 48,5% y 34,1% respectivamente.
+
+La Tabla 1 muestra las características socio-educativas según si los estudiantes presentaban algún grado de dependencia alcohólica o al tabaco, hubo diferencias de los estudiantes que fumaban o bebían según su género (p < 0,001), su edad (p < 0,016), su semestre académico (p < 0,006), las horas de estudio al día (p < 0,008), si desaprobó algún curso (p < 0,003), si recibía dinero de su familia para mantenerse (p < 0,006), si trabajaba (p: 0,046) y si recibía dinero y trabajaba (p < 0,031).
+
+ 
+
+Tabla 1. Características socio-educativas según si los estudiantes presentaban          dependencia al alcohol o tabaco
+
+
+
+*Prueba χ2 **Prueba U de Mann Withney. $Mediana y rango. Para las variables      cuantitativas se presentan los resultados descriptivos en mediana (rangos).      En las categorías Recibe dinero de se comparó cada categoría versus las demás respuestas.
+
+ 
+
+El 9,3% (178) presentaba algún grado de dependencia al tabaco. Al analizar las variables que influyen en la dependencia de tabaco, aumentó la frecuencia el presentar dependencia alcohólica (RPa: 8,39; IC95: 4,99-14,09; valor p < 0,001) y el consumo de café (RPa: 1,72; IC95: 1,31-2,27; valor p < 0,001); asimismo, el recibir dinero de su familia fue un factor que disminuyó la dependencia de tabaco (RPa: 0,68; IC95: 0,49-0,94; valor p: 0,019), ajustado por el sexo, la edad, el ser soltero, el semestre académico, el consumo de bebidas energi-zantes y de donde recibe dinero para mantenerse (Tabla 2).
+
+ 
+
+Tabla 2. Análisis bivariado y multivariado de la dependencia de tabaco          según las características académicas y del consumo de drogas legales
+
+
+
+RPc: Razón de prevalencia cruda; RPa: Razón de prevalencia ajustada; IC95: Intervalo de          confianza al 95% y p: valor p; Obtenidos con modelos lineales generalizados, usando          familia Poisson, función de enlace log, modelos robustos y considerando a la universidad          como grupo cluster.
+
+ 
+
+El 28,0% (537) presentaba dependencia alcohólica. Aumentó la frecuencia el ser varones (RPa: 1,51; IC95: 1,09-2,09; valor p: 0,012), el haber desaprobado un curso (RPa: 1,17; IC95: 1,02-1,33; valor p: 0,021), el aumento del semestre académico que cursaba (RPa: 1,04; IC95: 1,01-1,08; valor p: 0,014) y la dependencia al tabaco (RPa: 2,89; IC95: 2,40-3,47; valor p < 0,001); asimismo, disminuyó la frecuencia de dependencia al alcohol, las horas diarias que estudiaba (RPa: 0,96; IC95: 0,94-0,97; valor p < 0,001), ajustado por la edad, el consumo de café y bebidas energizantes, así como de donde recibe dinero para mantenerse (Tabla 3).
+
+ 
+
+Tabla 3. Análisis bivariado y multivariado de la dependencia alcohólica          según las características académicas y del consumo de drogas legales
+
+
+
+RPc: Razón de prevalencia cruda; RPa: Razón de prevalencia ajustada; IC95: Intervalo de          confianza al 95% y p: valor p; Obtenidos con modelos lineales generalizados, usando familia     Poisson, función de enlace log, modelos robustos y considerando a la universidad como          grupo cluster.
+
+ 
+
+Discusión
+
+Los estudiantes de medicina son considerados un grupo de riesgo para el abuso/dependencia de sustancias nocivas -como es el tabaco y el alcohol-, asociado a sus características propias, al agotamiento físico y mental, mayores demandas educativas, patologías mentales -como es el síndrome de Burnout, depresión y presencia de ideación suicida-14.
+
+Tres de cada diez estudiantes presentó dependencia alcohólica, resultado similar a investigaciones realizadas en Estados Unidos y Francia, donde identificaron que un tercio de los estudiantes de medicina presentaban criterios de abuso/dependencia alcohólica, y que una proporción similar de los estudiantes eran bebedores de riesgo o considerados bebedores perjudiciales (11% para los bebedores de riesgo y 21% para los bebedores perjudiciales)14,15.
+
+En relación al consumo de tabaco, se encontró que uno de cada diez presentaba algún grado de dependencia al mismo; resultados más bajos en comparación con un estudio realizado en Francia, que identificó que del 16% de estudiantes que eran fumadores de tabaco y el 20% presentó señales de dependencia16; otro estudio obtuvo que el 12% de los estudiantes presentaban scores positivos a dependencia al tabaco15, resultado que es más parecido al que se encontró.
+
+La frecuencia de consumo de tabaco y alcohol fueron notablemente diferentes para ambas drogas en ambos sexos; en el caso de consumo de tabaco, se encontró que los hombres tenían 3 veces la frecuencia de consumo en comparación de las mujeres, en el caso de consumo de alcohol, se encontró que los varones tenían el doble de frecuencia de consumo que las mujeres. Esto se manifiesta también en las investigaciones internacionales, un estudio en Cuba reportó una prevalencia de consumo de alcohol de 54% en varones y 37% en mujeres; asimismo, el consumo de tabaco fue de 39% en varones y 18% en mujeres8. Algo similar se identificó en un estudio mexicano, siendo el consumo mayor en varones que en mujeres, así como, un consumo mayor de alcohol en relación al tabaco17. En España se encontró un alto índice de consumo de alcohol en relación al tabaco (62,0%-14,8%); respecto al alcohol, se identificó una leve diferencia entre varones y mujeres, pero en el caso del tabaco sigue siendo mayor el consumo que realiza el sexo masculino18.
+
+La dependencia al tabaco estuvo asociada al de alcohol y café, esto es corroborado por estudios que mencionan que el estudiante que ingresa a la universidad cambia radicalmente sus hábitos de estudios y su horario alimenticio, provocando que estos sean más propensos a padecer enfermedades crónicas no transmisibles10,19. También se encontró que aquellos que aún dependen de su familia tienen menores frecuencias de consumo, esto puede deberse a que la independencia económica y la relación padre-hijo influyen en el estudiante, una "buena relación" sería un factor protector de consumo20. Asimismo, la influencia de los padres afectaría el hábito, no sólo si son fumadores, sino también por la "percepción" subjetiva del estudiante, con lo cual se establecería un menor riesgo de consumo.
+
+La dependencia de alcohol estuvo asociada positivamente a ser hombre, esto es similar a lo encontrado en otros estudios, en donde a pesar del aumento del consumo en el sexo femenino, la dependencia alcohólica es aún predominante entre los varones16,21. Esto a diferencia de los estudios en donde muestran que el sexo no estuvo asociado al consumo de alcohol, y que probablemente se deba a que en la actualidad se tiene menos restricciones sociales para su consumo22,23. El desaprobar un curso y por cada semestre adicional aumentó la frecuencia de dependencia alcohólica, siendo inversamente proporcional a la cantidad de horas que se le dedica al estudio; esto puede ser por un inadecuado manejo de las responsabilidades y de la carga académica, que genera sobre todo estrés en los estudiantes y una posible dependencia al consumo de alcohol, tal como lo reportó Bermúdez, que describió que el rendimiento académico se ve afectado principalmente por el nivel de estrés, siendo este relacionado además con el consumo de alcohol, algún grado de depresión y la influencia familiar que tienen los estudiantes de medicina6.
+
+Reafirmado por un estudio realizado en Francia, que identificó que los estudiantes de medicina que presentaban síndrome de Burnout, depresión, baja calidad de vida o problemas emocionales, eran más propensos a tener el abuso/dependencia del alcohol14.
+
+El estudio tuvo la limitación del sesgo de selección, ya que, al no tener un muestreo probabilísti-co, los intervalos de confianza no son estrictamente los adecuados, a pesar de esto, los resultados son importantes ya que buscan asociaciones (no es un estudio que buscó prevalencias o extrapolar a cada sede) y muestran una problemática que no había sido tocado en estudios previos; lo que puede generar la base para nuevas investigaciones. Otra limitación fue el hecho que, los resultados son fruto del tamizaje de los test usados, ya que, si el porcentaje de jóvenes con una dependencia real mostrara la clínica detallada, esto llegaría a reflejarse en el ambiente académico, lo cual no propiciaría mantenerse en un entorno adecuado de exigencia y complejidad que amerita la carrera de Medicina Humana24,25. Además, no se midió el uso de otras sustancias psico-estimulantes, que han demostrado efecto en poblaciones similares26, por lo que su estudio debe ser abordado por futuras investigaciones, así como, el consumo de ansiolíticos de amplio uso (Benzodiacepinas), ya que su auto-administración está estrechamente relacionada al manejo de la ansiedad que se genera por el estrés27,28.
+
+Según los resultados obtenidos se concluye que la dependencia de alcohol y tabaco es baja en los estudiantes de medicina. En cuanto a la dependencia al tabaco, aumentó la frecuencia el consumo de café y la dependencia al alcohol, disminuyó su consumo entre los que recibían dinero de su familia. Los hombres, el desaprobar un curso, el mayor semestre académico y la dependencia al tabaco aumentaron la dependencia alcohólica, por el contrario, la mayor cantidad de horas de estudio lo disminuyeron.
+
+Agradecimientos
+
+Se agradece a Mario Valladares, Joe Anchayhua, Sarita Quispe, Reimer Samaniego, Paula Heredia, Carlos Rojas, César A. Mogollón y Walter F. Enríquez; miembros de la Red GIS Perú, por su apoyo en la elaboración del trabajo. En el año 2016 este trabajo fue ganador de la Jornada Local de la Sociedad Científica de Estudiantes de Medicina de Ica y fue presentado en el XXX Congreso Científico Nacional de Estudiantes de Medicina-Piura.

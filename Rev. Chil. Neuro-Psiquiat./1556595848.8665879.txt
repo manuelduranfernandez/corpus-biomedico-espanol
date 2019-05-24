@@ -1,0 +1,108 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-92272017000300160
+Evaluación del resultado de las acciones de detección, diagnóstico y tratamiento del Episodio Depresivo realizada en pacientes consultantes en el primer nivel de atención de la Provincia de Concepción, Chile
+
+Introducción
+
+En Chile la depresión alcanza alrededor de un 10% en la población general, siendo dos veces más frecuentes en mujeres que en hombres1. Según el estudio de carga de enfermedad en Chile, del Ministerio de Salud de Chile (MINSAL), publicado el año 20072, la depresión ocupa el segundo lugar después de las patologías cardiovasculares, entre las principales causas de discapacidad medida a través de los Años de Vida Ajustados por Discapacidad (AVISA).
+
+Por otra parte, los países con una atención primaria en salud (APS) fuerte, exhiben una mejor situación de salud y un menor gasto, permitiendo impactar en la población de manera sistemática y universal3, dado que es la puerta de entrada de los consultantes del sistema de salud estatal. Si consideramos el alto riesgo de recurrencia en cuadros depresivos, es imprescindible la necesidad de intervenir en el primer nivel de atención, más aun cuando existe evidencia de que la recurrencia del episodio depresivo es especialmente prevalente en aquellos pacientes tratados de modo inapropiado y/o con dosis inadecuadas y/o por un período demasiado corto4.
+
+En el año 2000 el Ministerio de Salud de Chile puso en marcha el “Programa para la detección, diagnóstico y tratamiento integral de la depresión en atención primaria” (PDTID)5.
+
+La primera evaluación de procesos del programa fue realizada por Alvarado et al. (2005)6, quienes identificaron un aceptable cumplimiento de los objetivos pero, hicieron hincapié en la necesidad de desarrollar estrategias que tendieran a mejorar el diagnóstico y cumplimiento de los tratamientos ofrecidos. La segunda evaluación de procesos del programa7 evidenció una tendencia a subcalificar la gravedad del episodio, señaló que había una aplicación “escalonada” de las intervenciones, altas tasas de abandono y falta de capacitación continua. Es importante plantear que en ambos estudios no se estableció una relación entre intervenciones y el resultado de estas, ni tampoco se hizo un análisis estructural.
+
+En esa línea, la presente investigación buscó evaluar el resultado de las acciones de detección, diagnóstico y tratamiento del Episodio Depresivo realizadas en usuarios consultantes en 10 centros de atención primaria en salud de la Provincia de Concepción, Chile.
+
+Material y Método
+
+Estudio tipo descriptivo, observacional, longitudinal. Su universo lo constituyen los consultantes por morbilidad de 15 a 75 años, que acuden a los centros APS de la Provincia de Concepción. Fueron seleccionados aleatoriamente 10 del total de centros de los Servicios de Salud Concepción (SSC) y Talcahuano (SST). La muestra original fue de 3.000 usuarios. Esta se obtuvo del proyecto FONDEF (DO2I-1140)a. La muestra fue aleatoria y proporcional a la población de referencia de cada centro. Para la obtención de las modalidades de cuidados de los centros se utilizó el ICMCH (International Classification of Mental Healht Care)8, además, de datos sociodemográficos y estructurales de ambos servicios de salud9.
+
+Los criterios de inclusión fueron el Diagnóstico de Episodio Depresivo Mayor (DSM-IV)b y edad entre 15-75 años. Los criterios de exclusión fueron: comorbilidad con un trastorno mental grave, dependencia a sustancias (según CIDI 2.1.)c y estar en tratamiento por depresión en los últimos 6 meses.
+
+Procedimiento
+
+Se realizó un seguimiento de 1 año, con aplicaciones a los 6 y 12 meses de CIDI 2.1 por entrevistadores capacitados. Con la submuestra, con diagnóstico de episodio depresivo mayor, se procedió a recolección de datos de la historia clínica con la ficha de recolección de información entre abril de 2004 y enero de 2005.
+
+Variables
+
+Sociodemográficas: género, edad, estado civil, educación, migración, ocupación e ingresos; clínicas (intervenciones): farmacológicas, psicológicas, grupales y sin intervenciones, diagnóstico episodio depresivo mayor en línea base y diagnóstico episodio depresivo mayor a los 6 meses (variable dependiente). De los centros: servicio de salud, modalidades de cuidado y tasa de profesionales.
+
+Análisis de datos
+
+El ingreso de datos fue a través de Epiinfo (versión 5.0) y procesados en SPSS 15.0, Stata/SE 11.0 y R 3.2.1. Se utilizaron frecuencias simples y porcentajes (diagnóstico y todas las variables sociodemográficas), además, de una tabla contingencia entre estas variables y la gravedad del episodio depresivo en línea de base. Para la detección: Tabla contingencia entre servicios y detección del diagnóstico; prueba exacta de Fisher diferencias significativas entre centros; y un modelo de regresión logística (episodio en línea de base, variables sociodemográficas y características de centros). Para las intervenciones: Frecuencias simples y porcentajes de tipo de intervenciones por centro; el análisis de las variables independientes que determinan el tipo de intervención ejecutada, se realizó usando tres modelos logísticos para las diferentes intervenciones; se requirió de procedimiento stepwise para obtener mínimo número de variables que resulten buenas predictoras (AICd)10. Para el diagnóstico del episodio depresivo a los seis meses: Se analizaron las variables independientes usando regresión ordinal logit; se probaron tres modelos anidados, usando el diagnóstico; el diagnóstico más la intervención, y uno final con la intervención, el diagnóstico y el efecto de interacción entre ambos. También un modelo completo con todas las variables. Al no ser significativo se realizó procedimiento stepwise.
+
+Aspectos éticos
+
+Todos los participantes del estudio fueron sujetos voluntarios, lo cual se objetivó a través de un consentimiento informado. En la toma de datos clínicos no hubo contacto con los usuarios. Al finalizar la toma de datos los usuarios, detectados con diagnóstico de episodio depresivo mayor, fueron informados de esta situación.
+
+Resultados
+
+De los 3.000 usuarios ingresados al estudio, 431 tenían diagnóstico positivo de un episodio depresivo mayor, lo que representa un 14,3%. De ellos 307 (9,2%) cumplían criterios de inclusión y exclusión.
+
+En relación a los casos detectados en el SSC se observan tasas de detección entre el 21,1% y el 50%, mientras que en el SST éstas no superan el 23% (p = 0,003).
+
+La muestra estaba compuesta por 46 hombres (15%) y 261 mujeres (85%). En las mujeres destaca el episodio depresivo severo en un 42,9% (112). La distribución de la muestra, según edad, se centró en el rango entre 25 y 64 años, con 238 usuarios (77,6%). Del total de la muestra, 145 usuarios estaban casados (47,2%) y 162 sin pareja (52,8) entre viudos, divorciados y solteros. En relación a la variable educación, la muestra se distribuyó en la educación básica, 153 usuarios (49,8%) y media con 128 usuarios (41,7%). Un 73,3% de la muestra no migró del campo a la ciudad. En cuanto a la ocupación, se centró en 172 usuarias que eran dueñas de casa (56%). Según los ingresos, los usuarios se distribuyeron principalmente bajo el rango entre $ 51-$ 150 mil, con 210 usuarios (68,6%).
+
+No se identificó ningún factor del usuario que determinara la capacidad de detección. Con respecto a los factores de los centros, y al analizar las modalidades de cuidado de los dispositivos de salud9, se observa una relación estadísticamente significativa entre la detección y el indicador intervenciones dirigidas a familia, parientes y otros (p = 0,028). Se ajustó un modelo de regresión logístico (Tabla 1) que señala que en el SST, la probabilidad de ser detectado es menor de 0,21. La presencia de intervenciones dirigidas a familias, parientes y otros, aumenta en 2,37 los odds de ser detectados. Finalmente, un aumento de un punto en la tasa de médicos sobre la media disminuye a un 0,56 los odds de ser detectados, así como el aumento en un punto en la tasa de otros profesionales sobre la media disminuye a un 0,04 los odds de ser detectados.
+
+Tabla 1 Modelo de predicción de detección del episodio depresivo 
+
+Nota: Constante representa a Servicio Salud Concepción, con una tasa media de médicos (M = 0,15) y otros profesionales (M = 0,25), en personas de sexo masculino, de edad igual a la media (M = 49,84), casados, sin escolaridad, que no han migrado dueño de casa, con ingresos menores a $ 50, con un nivel de depresión leve.
+
+En los 97 pacientes diagnosticados, las intervenciones fueron simples principalmente (73,2%), en donde un 38,1% (37) recibieron terapia grupal, a un 29,9% (29) se les indicó fármacos y un 5,2% (5) tuvieron terapia psicológica. Los 26 restantes (26,8%) recibieron intervenciones asociadas, en su mayoría terapia psicológica y grupal (15,5%, n = 15).
+
+Se analizó la posible relación entre cada uno de los tres tipos de intervención con cada una de las 4 modalidades de atención seleccionadas. Sólo la presencia de intervenciones dirigidas a la familia, parientes y otros, se relaciona de forma estadísticamente significativa con la presencia de terapias grupales (p = 0,036).
+
+Se ajustó un modelo de regresión logístico por tipo de tratamiento que considera las tasas de médicos, psicólogo y otros profesionales, así como los datos demográficos de las personas y la severidad del episodio depresivo.
+
+El modelo de predicción de intervención farmacológica fue estadísticamente significativo χ2 (19) = 38,53, p = 0,005, lo que indicó que las variables predicen el hecho de ser atendido con fármacos. Al analizar los coeficientes en la Tabla 2 se pudieron ver que los solteros y viudos tenían menos probabilidad de recibir un tratamiento farmacológico que los casados. Las personas que tenían educación básica o media completa tenían menor probabilidad de ser intervenidos con fármacos que las personas sin educación formal. Finalmente, las mujeres tenían más probabilidad de ser tratadas con fármacos que los hombres.
+
+Tabla 2 Modelo de predicción de la intervención farmacológica utilizando variables del centro y personales 
+
+*p < 0,05;
+
+**p < 0,01.
+
+Constante representa a Servicio Salud Concepción, con una tasa media de médicos (M = 0,15) y otros profesionales (M = 0,25), en personas de sexo masculino, de edad igual a la media (M = 49,84), casados, sin escolaridad que no han migrado, dueño de casa, con ingresos menores a $ 50, con un nivel de depresión leve.
+
+El modelo de predicción de intervención grupal fue estadísticamente significativo χ2 (20) = 43,96, p = 0,002, lo que indica que las variables predecían el hecho de ser atendido con psicoterapia grupal. El modelo presentó una devianza de los residuos baja, lo que indicó ajuste del modelo a los datos χ2 (285) = 267.207, p = 0,77. Al analizar los coeficientes en la Tabla 3 se puede ver que existe mayor probabilidad de ser intervenido en terapia grupal en un centro que cuenta con intervenciones dirigidas a la familia, parientes y otros, y disminuye si la tasa de otros profesionales y de psicólogos es mayor. El tener un episodio depresivo severo disminuye la probabilidad de recibir terapia grupal con respecto a los que poseen depresión leve.
+
+Tabla 3 Modelo de predicción de la intervención grupal utilizando variables del centro y personales 
+
+*p < 0,05;
+
+**p < 0,01.
+
+Constante representa a servicios sin intervenciones dirigidas a familia, pacientes y otros, con una tasa media de médicos (M = 0,15), psicólogos (M = 0,66) y otros profesionales (M = 0,25), en personas de sexo masculino de edad igual a la media (M = 49,84), casados, sin escolaridad, que no han migrado, dueño de casa, con ingresos menores a $ 50, con un nivel de depresión leve.
+
+El modelo de predicción de intervención psicológica no fue estadísticamente significativo χ2 (19) = 21,52, p = 0,31, lo que indica que el conjunto de variables de los sujetos y del centro no permitían predecir de forma adecuada la variabilidad de intervenciones psicológicas. Para obtener un modelo tentativo de predictores para la intervención psicológica, se realizó un procedimiento stepwise para obtener un conjunto mínimo de variables que optimizara el criterio AIC. El resultado final es un modelo de tres variables, que al observar los coeficientes del modelo en la Tabla 4 se puede ver que una mayor edad y una mayor tasa de psicólogos en el centro de salud disminuyen las probabilidades de ser intervenido psicológicamente, en tanto que el ser viudo, separado o divorciado aumenta la probabilidad de ser intervenido de este modo, con respecto a las personas casadas.
+
+Tabla 4 Modelo tentativo de predicción de la intervención psicológica 
+
+Nota: la variable Constante corresponde al efecto para un consultorio con tasa promedio de psicólogos (M = 0,66), en personas de edad igual a la media (M = 49,84), casadas.
+
+Luego de seis meses de seguimiento, observamos como evolucionó el diagnóstico de episodio depresivo mayor en línea base. Un 51,8% (159) no cumplió con criterios para un episodio depresivo a los 6 meses; es decir, la mayoría mostró una mejoría. Un 6,2% (19) se ubicó en episodio leve, un 14% (43) en moderado y un 28% (86) tenía un episodio depresivo severo, la mitad de ellos (n = 43) mantenía esta gravedad desde la línea de base.
+
+Se analizó si la severidad del episodio depresivo a los 6 meses podía ser predicho sólo a partir del diagnóstico inicial y el tratamiento aplicado, y de la interacción entre ambos. Para ello, se probaron tres modelos anidados (Tabla 5): a) un primer modelo que incluyó sólo el diagnóstico inicial; b) un segundo modelo que incluyó el diagnóstico inicial, los tratamientos, sin interacción; y c) un modelo completo, que incluyó el diagnóstico inicial, los tratamientos y su interacción. Ninguno de los modelos por sí solo puede predecir el diagnóstico a los 6 meses, así como tampoco existen diferencias significativas entre ellos al aumentar su complejidad. Para obtener un modelo tentativo de predictores para el diagnóstico a los 6 meses, se realizó un procedimiento stepwise para obtener un conjunto mínimo de variables que optimizara el criterio AIC. Se obtuvo un modelo con tres predictores, que resultaron estadísticamente significativos, χ2 (7) = 18.772, p = 0,009. Se pudo observar que el hecho de ser mujer, aumenta la probabilidad de que el diagnóstico se agrave al cabo de 6 meses. Por el contrario, los solteros tienen menos probabilidad de empeorar que los casados, así como las personas con educación básica tienen también menos probabilidad de empeorar que las personas sin educación.
+
+Tabla 5 Pruebas de razón de verosimilitud para el diagnóstico a los 6 meses, basado en diagnóstico inicial e intervenciones realizadas 
+
+Discusión
+
+El elemento diferenciador de las evaluaciones previas del PDTID, es que estas se remitieron a procesos, y el presente estudio realizó un análisis de procesos, estructura y resultados.
+
+Nuestra muestra coincide con la literatura en lo que se refiere al perfil sociodemográfico esperable11-16. Identificamos una baja capacidad de detección del episodio depresivo, lo cual se acerca a los resultados del metaanálisis de Mitchell et al. (2009)17, en donde la detección del episodio depresivo en atención primaria varía en rangos de 47,3% a 50,1%. Si consideramos que la detección corresponde al médico, es importante evaluar cómo su alta rotación e incluso los bajos resultados de la capacitación18 inciden en ella. En cuanto a las características del usuario, ninguna característica de éste permite detectar el episodio depresivo. La detección mejoró si el centro presentaba intervenciones dirigidas a la familia, parientes y otros, que confirma la pertinencia del enfoque del Gobierno de Chile hacia un primer nivel de atención en salud sostenido en el Centro de Salud Familiar (CESFAM)19. Esto también repercute cuando analizamos las intervenciones realizadas. Estas son escasas, predominando la terapia grupal que se asoció a la modalidad intervenciones dirigidas a la familia, parientes y otros. La intervención psicológica y farmacológica varía también según variables sociodemográficas y de los centros. Estos resultados contrastan en variados aspectos con los obtenidos en las evaluaciones del Programa para la Detección, Diagnóstico y Tratamiento de la depresión, en donde las intervenciones se entregan en todos los centros. Otro elemento es que no se entregan de manera escalonada de acuerdo a la gravedad del cuadro clínico y en base a las recomendaciones de la guía de práctica clínica6,7.
+
+Nuestros resultados indican que las variables sociodemográficas que permiten predecir el diagnóstico a los seis meses son: el estado civil, el sexo y el nivel educacional. Con relación a los centros, ninguna de las características de estos permiten predecir el diagnóstico a los seis meses. Identificamos también, la falta de elementos estructurales mínimos (recursos humanos y características de los centros) para asegurar un adecuado funcionamiento. Las intervenciones realizadas no evidenciaron un efecto predictor en la presencia o ausencia del diagnóstico. La literatura nacional e internacional, mayoritariamente avala la eficacia de la asociación de intervenciones (psicológica y farmacológica) para el tratamiento de la depresión20-25. Es por ello que la baja implementación de la guía clínica es un elemento determinante en la efectividad de las intervenciones. Esto es algo ya identificado en la literatura internacional, siendo consistentes los estudios a nivel internacional que informan de importantes deficiencias en cuanto al cumplimiento de los tratamientos de salud mental26,27. Dado la Implementación de las Garantías Explícitas en Salud (GES) para la depresión, que aborda las inequidades y problemas de acceso a los cuidados en salud28, y que el funcionamiento del programa no han variado sustancialmente, los avances deben ir destinados a fortalecer los aspectos estructurales y la calidad de las intervenciones.
+
+a“Inventario Multifactorial de Riesgo: un instrumento para una mejor predicción de futuros episodios de depresión en el nivel primario de atención”.
+
+bDiagnostic and Statitical Manual of Mental Disorders. Versión IV.
+
+cComposite International Diagnostic Interview. Versión 2.1. (Organización Mundial de la Salud).
+
+dAkaike Information Criterion.
+
+Agradecimientos
+
+Al equipo de profesionales y administrativos del Departamento de Psiquiatría y Salud Mental de la Facultad de Medicina de la Universidad de Concepción.

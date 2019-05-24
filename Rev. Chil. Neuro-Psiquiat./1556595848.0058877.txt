@@ -1,0 +1,162 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-92272016000400006
+Termoterapia para la espasticidad post accidente cerebro vascular: Revisión sistem
+
+Resumen
+
+Objetivo: Determinar si existe evidencia científica que avale la efectividad de la termoterapia en el manejo de la espasticidad en pacientes adultos post accidente cerebro vascular. Método: Se realizó una revisión sistemática de estudios clínicos aleatorizados, las bases de datos consultadas fueron: Medline, Cinahl, Central, PEDro, SPORTDiscus y Lilacs. Resultados: Se seleccionaron 4 artículos que cumplían con nuestros criterios de elegibilidad y selección. Conclusión: Existe evidencia contradictoria que el US produce una reducción electrofisiológica de la excitabilidad neural comparado con US apagado e IR; existe moderada evidencia que el US no produce una mejoría clínica del rango de movimiento ni del nivel de espasticidad, comparado con US apagado, IR, TENS y toxina botulínica.
+
+Palabras clave: Accidente cerebrovascular; Espasticidad; Termoterapia; Ultrasonido terapéutico; Estudio clínico aleatorizado; Revisión sistemática.
+
+ 
+
+Introducción
+
+La espasticidad es una condición clínica muy frecuente en patologías de origen neurológico como el Accidente Cerebro Vascular (ACV). La definición más citada en la literatura es la acuñada por Lance1, "trastorno motor caracterizado por un aumento dependiente de la velocidad de los reflejos tónicos de estiramiento (tono muscular), con reflejos osteotendinosos exagerados, que resulta de la hiperexcitabilidad del reflejo de estiramiento y es uno de los componentes del Síndrome de Motoneurona Superior (SMS)", sin embargo, esta descripción caracteriza la espasticidad sólo durante el movimiento pasivo, no tomando en cuenta sus efectos sobre el movimiento activo voluntario2. En 1994 Young3, añadió elementos neurofisiológicos para definirla de forma independiente del tipo de movimiento, describiéndola como "un trastorno motor caracterizado por un aumento dependiente de la velocidad de los reflejos tónicos de estiramiento que se produce tras el procesamiento anormal intra-espinal de la información aferente primaria". La más reciente de Panadyan et al,4 la describen como "un desorden del control sensorio motor, resultante de una lesión de la motoneurona superior, que se presenta como una activación muscular involuntaria sostenida o intermitente". A pesar de la evolución conceptual antes descrita, aún no existe consenso, lo que podría atribuirse a dos grandes factores; la complejidad de su fisiopatología2,5,6 y la variabilidad en la presentación clínica2.
+
+Posterior al ACV no se presenta como una entidad clínica única, se asocia a otros síntomas como clonus, distonía, debilidad muscular y respuesta refleja anormal7, se recomienda entonces considerarla como uno de los signos positivos del SMS8,9. Incluso cuando evoluciona hacia la cronicidad se acompaña de alteraciones estáticas debido a cambios en las propiedades mecánicas de los tejidos blandos, el músculo puede presentar fibrosis, rigidez y atrofia, posteriormente la extremidad afectada evoluciona con retracción, deformidad osteoarticular y dolor, afectando directamente en el rango de movimiento y la función10.
+
+La aparición de espasticidad posterior al ACV se puede presentar a corto, mediano o largo plazo, aunque está muy influenciado por el método que se ocupó para su valoración5, lo que añade una dificultad externa a la estimación real de su incidencia y/o prevalencia9, a corto plazo los datos disponibles son variados, Sommerfeld et al9, mostraron que el 21% de los pacientes la desarrollan en forma inmediata y el 19% a los 3 meses post ACV, Wissel et al11, mostraron un 24,5% a los 6 días y un 26,7% a las 6 semanas; a mediano plazo Urban et al12, mostraron una prevalencia de un 42,6% a los 6 meses post ACV; y en los estudios a largo plazo las tasas varían entre un 17%13 y un 47%14.
+
+Debido a que no se ha desarrollado aún, un instrumento que en sí mismo pueda ofrecer una valoración general y objetiva de la espasticidad, en la actualidad existen diversos métodos que permiten evaluar diferentes aspectos de ésta, los que se pueden agrupar en 3 categorías: Escalas clínicas para la valoración del nivel o grado de espasticidad (Ashworth, Ashworth modificada, Tardieu, etc.); valoración biomecánica (Dinamometría isocinética, técnica del péndulo o de Wartenberg, etc.) y valoración neurofisiológica (Reflejo H, tasa Hmax/Mmax, Onda F etc.)8,15,16. Si bien es cierto, clínicamente la espasticidad suele ser fácil de reconocer, su cuantificación resulta bastante más complejo15,16. Existe una gran cantidad de escalas clínicas, sin embargo, la subjetividad de la información que proporcionan17, la poca o casi nula correlación que existe entre ellas18, y la falta de correlación con las evaluaciones neurofisiológicas19, hacen que exista una dificultad metodológica importante a la hora de realizar un diagnóstico válido y confiable del grado de espasticidad presente16. Por lo tanto, si se pretende ofrecer una visión objetiva del grado de espasticidad de un paciente, se recomienda utilizar una combinación de estos métodos de valoración8,15-17.
+
+En la actualidad existe una amplia gama de tratamientos para el manejo clínico de la espasticidad en adultos post ACV20, estos incluyen fisioterapia (FT)21, rehabilitación multidisciplinaria22, uso de férulas y/o órtesis23 y tratamiento farmacológico principalmente con toxina botulínica inyectable tipo A24; existen Revisiones Sistemáticas (RS) publicadas en la literatura que han estudiado la efectividad clínica de algunas intervenciones utilizadas por los fisioterapeutas; ejercicios de "stretching" o estiramiento neuromuscular25, ejercicios de fortalecimiento muscular26,27 y kinesiotaping28. Sin embargo, con respecto al uso de agentes físicos, hasta la fecha no hay ninguna RS publicada que haya estudiado su efectividad en esta condición clínica.
+
+En el caso específico de la Termoterapia, definida como la aplicación terapéutica de un agente físico que como resultado de su interacción con el tejido biológico produce un incremento de la temperatura tisular29,30, de acuerdo al mecanismo de transferencia térmica los agentes se pueden clasificar por: Conducción (Compresas húmedo calientes), convección (Hidroterapia) y por conversión (Infrarrojo, ultrasonido y onda corta)29,30. Los principales efectos atribuidos son: hemodinámicos (vasodilatación), metabólicos (incremento de la tasa metabólica), incremento de la extensibilidad del tejido colágeno, neuromusculares (cambios en la velocidad de conducción nerviosa, incremento del umbral doloroso, cambios en la fuerza muscular)29 y disminución del tono muscular30. Desde el punto de vista clínico, las intervenciones más comúnmente ocupadas son el calor superficial a través de rayos Infrarrojos (IR) y el calor profundo con Ultrasonido (US)21, sin embargo, los efectos de estas modalidades de termoterapia en la espasticidad no se han investigado a fondo21, y los autores generalmente concluyen que se necesita contar con mayor cantidad de estudios para poder determinar su efectividad31.
+
+De lo anteriormente expuesto nacen nuestras preguntas de investigación: En pacientes adultos con espasticidad post ACV, ¿El uso de algún agente de termoterapia superficial y/o profunda, aplicado solo o en conjunto con otras intervenciones terapéuticas, presenta algún efecto beneficioso que pueda avalar su indicación y uso clínico? ¿Qué tipo de modalidad de termoterapia y a qué dosis se logra el efecto beneficioso? El tratar de dilucidar estas interrogantes fue lo que motivó la realización de la presente RS.
+
+Objetivo
+
+Determinar si existe evidencia científica que avale la efectividad de la termoterapia superficial y/o profunda en pacientes adultos con espasticidad post ACV.
+
+Método
+
+Diseño
+
+Se realizó una RS de Estudios Clínicos Aleatorizados (ECAs) según la normativa PRISMA32.
+
+Criterios de elegibilidad
+
+Para la realización de la presente RS se incluyeron: 1) ECAs; 2) pacientes mayores de 18 años con diagnóstico de espasticidad secundario a un ACV de curso agudo o crónico, sin distinción de género y raza; 3) la intervención estudiada debe ser alguna modalidad de termoterapia superficial y/o profunda; 4) artículos publicados en inglés o español hasta el 31 de marzo de 2016.
+
+Fuentes de información
+
+Se realizó una estrategia de búsqueda electrónica en las siguientes bases de datos: Medline, Cinahl, Central, PEDro, SPORTDiscus y Lilacs; se seleccionaron artículos publicados hasta el 31 de marzo de 2016.
+
+Estrategia de la búsqueda
+
+Los términos de búsqueda fueron obtenidos del MeSH, Hyperthermia, induced, Ultrasonic Therapy, Hidrotherapy, Muscle Spasticity, Stroke. Que se combinaron con los términos de texto libre: Thermotherapy, Superficial Thermotherapy, Heat Waves, Infrared Waves, Post-stroke, Post stroke spasticity. Para llevar a cabo la búsqueda en la base de datos MEDLINE se utilizó la estrategia de búsqueda sensible propuesta en el "Handbook Cochrane"33 (Tabla 1).
+
+ 
+
+Tabla 1. Estrategia de búsqueda sensible          según el Handbook Cochrane
+
+
+
+ 
+
+Para las bases de datos Cinahl, Central, PEDro, SPORTDiscus y Lilacs se realizó la estrategia de búsqueda combinando los términos mencionados previamente en la opción de búsqueda avanzada, dos de los autores (HG y MY) realizaron la cadena de búsqueda en forma independiente.
+
+Criterios de selección
+
+A los artículos seleccionados se les aplicó un segundo filtro realizando una lectura crítica al texto completo, donde fueron evaluados según los siguientes criterios:
+
+Criterios de inclusión
+
+• ECAs que hayan estudiado alguna modalidad de termoterapia superficial y/o profunda de forma aislada o en conjunto con otras intervenciones (parte de un programa de tratamiento), para el manejo clínico de la espasticidad en pacientes adultos post ACV.
+
+• ECAs que evalúen la efectividad de la termoterapia a través de la combinación de escalas clínicas específicos para la espasticidad; Escala de Ashworth (EA), Escala de Ashworth Modificada (EAM) con mediciones neurofisiológicas como; Reflejo H, Tasa de amplitud de Hmax/Mmax
+
+Criterios de exclusión
+
+• ECAs que estudien Ondas de choque extra-corpóreas y otras modalidades de FT como; Estimulación térmica con método de contraste (frio-calor), Crioterapia, Láser, etc. para el manejo clínico de la espasticidad en pacientes adultos post ACV.
+
+Extracción de datos
+
+El proceso de selección de estudios y la extracción de los datos, fue realizado por 2 evaluadores de forma independiente (HG y MY), quienes ocuparon un formulario estandarizado para recopilar la información, en caso de desacuerdo y/o discrepancia los autores acordaron previamente incorporar el artículo y someterlo al análisis de un asesor independiente (FP) para decidir mediante discusión y consenso su inclusión final.
+
+Evaluación de la calidad metodológica de los artículos seleccionados
+
+La calidad metodológica de los estudios incluidos también fue evaluada por 2 revisores de forma independiente (VC y NV), para lo cual se ocupó la escala de PEDro. Dicha escala tiene validada alguna de sus propiedades psicométricas34, reportando en algunas RS del ámbito de la FT una confiabilidad inter-evaluador en un rango entre regular y bueno34-36. Aunque no existe consenso absoluto, un estudio se considera de alta calidad metodológica si presenta un puntaje > a 6 puntos37.
+
+Resultados
+
+En base a los criterios de elegibilidad de nuestra revisión, la búsqueda preliminar identificó 84 artículos, se seleccionaron 13 que eran potencialmente elegibles y al aplicar los criterios de selección quedaron 4 estudios incluidos38-41, la Figura 1 muestra el diagrama de flujo de las fases de la RS y los 8 artículos excluidos.
+
+ 
+
+
+
+Figura 1. Diagrama de flujo de las fases de la revisión sistemática.
+
+ 
+
+Calidad metodológica de los ECAs incluidos según la escala de PEDro
+
+De los 4 ECAs incluidos en nuestra RS el promedio del puntaje de la escala de PEDro fue de 5,3 puntos con una desviación estándar (DE) de 0,96 (Tabla 2). El porcentaje de acuerdo en la evaluación de la calidad metodológica entre los dos revisores fue alto (índice de kappa de 0,91).
+
+ 
+
+Tabla 2. Evaluación de la calidad metodológica de los ECAs incluidos según la          escala de PEDro
+
+
+
+ 
+
+Características de la población e intervención de los estudios
+
+En los 4 ECAs seleccionados38-41 (n = 104 pacientes), los tamaños de la muestra variaron entre 12 y 41 pacientes, el promedio de edad fue de 61,7 años. Las intervenciones de termoterapia estudiadas fueron: El uso de Ultrasonido (US) e Infrarrojo (IR). La Tabla 3 muestra las características generales de los estudios incluidos.
+
+ 
+
+Tabla 3
+
+
+
+ 
+
+Efecto de las intervenciones
+
+Analizaremos el efecto de las intervenciones de termoterapia en base a las siguientes comparaciones: US versus placebo38, US versus IR39, US más ejercicio de estiramiento pasivo versus ejercicio de estiramiento pasivo solo40, US versus TENS y Toxina Botulínica41.
+
+Ansari et al38, compararon US versus US placebo, para la relación Hmax/Mmax el US intragrupo muestra una reducción estadísticamente significativa al finalizar el tratamiento (p = 0,03) y comparado con el grupo placebo (p = 0,02), para la EA, ROM activo y pasivo, ambos grupos muestran un incremento al finalizar el tratamiento, pero al realizar la comparación entre los grupos no hubo diferencia estadísticamente significativa (p > 0,05), los autores concluyen que el US sólo podría reducir la excitabilidad de la motoneurona alfa en pacientes con espasticidad.
+
+Ansari et al39, compararon US versus IR, los resultados intragrupo, para la relación Hmax/Mmax muestran que no existe una reducción estadísticamente significativa posterior a la aplicación de la intervención en ninguno de los 2 grupos, al realizar la comparación entre grupos, tampoco hubo diferencia estadísticamente significativa (p = 0,34), para la EA tampoco se encontró diferencia estadísticamente significativa al finalizar el tratamiento (p = 0,35) y a los 15 min (p = 0,81), para el ROM activo y pasivo de tobillo los resultados intragrupo muestran que ambos tratamientos incrementan significativamente los valores finales comparados con los iniciales (p = 0,004), pero al comparar entre los grupos, no existe diferencia estadísticamente significativa entre ambas intervenciones (p = 0,86 y p = 0,83 respectivamente). Los autores concluyen que ni el US ni el IR producen una reducción electrofisiológica ni una mejoría clínica de la espasticidad en estos pacientes.
+
+Sahin et al40, compararon un grupo con US más ejercicio de estiramiento pasivo versus estiramiento pasivo solo, al analizar los resultados intragrupo sólo hubo un incremento significativo de la EAM y del ROM de dorsiflexión de tobillo en ambos grupos al finalizar el tratamiento, sin embargo, al realizar la comparación entre los grupos los resultados muestran que no hubo diferencia estadísticamente significativa en ninguna de las variables estudiadas, EAM (p = 0,42), ROM dorsiflexión de tobillo (p = 0,52), Hmax/Mmax (0,55), BMRS (p = 0,82) y FMI (p = 0,41). Los autores concluyen que US aplicado en conjunto con ejercicios de estiramiento de los músculos flexores plantares, no es más efectivo que los ejercicios de estiramiento solo. Picelli et al41, compararon US versus TENS y toxina botulínica, al realizar el análisis de los datos intragrupo, para la EAM y ROM de dorsiflexión de tobillo el US no muestra ninguna mejoría estadísticamente significativa al finalizar el tratamiento ni el seguimiento (p > 0,05), al realizar la comparación entre los grupos, para la EAM y ROM de tobillo no hubo diferencia estadísticamente significativa entre el grupo con US versus TENS, para la comparación US versus toxina botulínica, los datos muestran diferencias estadísticamente significativas a favor del grupo con toxina en la EAM a los 30 (p = 0,002) y 90 días (p = 0,006), en el ROM de tobillo a los 15 (p = 0,004), 30 (p = 0,002) y 90 días (p = 0,002). Los autores concluyen que la toxina botulínica tipo A inyectable es más efectiva que el US y el Tens para el tratamiento de la espasticidad en pacientes con ACV crónico.
+
+Síntesis de los resultados
+
+En base a la evaluación de los datos extraídos de los 4 artículos que cumplían los criterios de elegibilidad de nuestra RS, los ECAs seleccionados no presentaban homogeneidad clínica que permitiera agrupar los datos de alguna comparación en base a un estimador puntual, por lo tanto, ni siquiera fue posible evaluar la homogeneidad estadística para ver la factibilidad de realizar un meta-análisis. Se utilizará un método cualitativo para la síntesis de la evidencia, sobre la base de los criterios recomendados por Van Tulder et al.42 (Tabla 4).
+
+ 
+
+Tabla 4. Método cualitativo para la síntesis de la evidencia propuesto por Van Tulder et al42
+
+
+
+ 
+
+Discusión
+
+Se intentó determinar, si existe evidencia científica que avale la efectividad de alguna modalidad de termoterapia superficial y/o profunda en el tratamiento de la espasticidad en pacientes adultos post ACV. Para lograr nuestro objetivo, se realizó una síntesis de la evidencia disponible accediendo a diversas bases de datos, llama profundamente la atención que pese a lo común que resulta su indicación y uso en la práctica clínica, sólo se encontraron 8 ECAs publicados en la literatura, de los cuales sólo 4 cumplieron con los criterios de elegibilidad requeridos en nuestra RS, debido a la heterogeneidad clínica que presentaron no fue plausible agruparlos y combinarlos estadísticamente en base a un estimador puntual.
+
+Cabe consignar que aunque los 4 artículos seleccionados se reportaban como estudios clínicos "aleatorizados", en 3 de ellos38,40,41 se explicitaba en el texto la forma cómo se había realizado la aleatorización y en sólo 1 artículo40 la aleatorización fue oculta, si bien es cierto, la mayoría de los estudios presentan pérdidas de pacientes durante el tiempo de tratamiento y/o seguimiento, ninguno contempló en su diseño un análisis estadístico por intención de tratar, tampoco describen el uso de algún método para realizar el cálculo del tamaño muestral, y no tienen inscrito su protocolo en alguno de los sistemas de registro existentes en la actualidad, de manera de poder cotejar los datos de la planificación metodológica del estudio previo a su realización.
+
+La intervención de termoterapia más ocupada en los ECAs seleccionados fue el US, este se considera uno de los métodos más importantes de termoterapia profunda y tendría algunas ventajas comparativas con respecto a otros agentes físicos; comparado con las compresas húmedo calientes, hidroterapia y baños de parafina los efectos se producen en los tejidos más profundos (3 a 5 cm de penetración), sin producir un incremento considerable de la temperatura de los tejidos más superficiales. Draper et al43, han demostrado que el US continuo con frecuencia de 1 MHz, a una intensidad de 1,5 w/cm2 es suficiente para incrementar la temperatura del músculo tríceps sural, esto produciría la disminución de la sensibilidad del huso muscular al estiramiento y de la excitabilidad de la α motoneurona38, aunque no está claro el mecanismo como el US produciría la relajación muscular, se ha propuesto la estimulación de receptores nerviosos cutáneos, similar al mecanismo de "Gate control", también se ha postulado que se disminuiría la espasticidad a través de la modificación de las propiedades viscoelásticas y la inhibición del reflejo de estiramiento38,39.
+
+Con respecto a la dosis de US ocupada en todos los estudios fue similar (US continuo, frecuencia 1 Mhz, intensidad 1,5 w/cm2, 10 min de aplicación sobre los músculos flexores plantares), lo que varió fue la periodicidad, la cantidad de secciones y la duración total del tratamiento. Sin embargo, no observamos una asociación directa entre la duración y/o periodicidad del tratamiento con la probabilidad de presentar resultados positivos en algunas de las variables estudiadas.
+
+Al realizar el análisis de los efectos producto de la aplicación de US, comparando entre los diferentes grupos de estudio, sólo el ECA de Ansari et al38, muestran una reducción significativa de la relación Hmax/Mmax en el grupo US comparado con el grupo US apagado, ninguno de los estudios publicados con posterioridad, incluidos los del mismo autor, han podido replicar estos resultados, cabe consignar que este estudio tiene el tamaño muestral más pequeño (6 pacientes en cada grupo), la asignación de la aleatorización no fue encubierta y no presenta una comparación estadística de las variables medidas en cada grupo antes del inicio del tratamiento, estas limitaciones metodológicas podrían explicar los resultados obtenidos. Para el resto de las variables clínicas evaluadas, ninguno de los ECAs seleccionados muestra una mejoría estadísticamente significativa a favor de la aplicación de US, comparado con los otros grupos, al finalizar el tratamiento y/o el seguimiento.
+
+Otro aspecto importante a analizar son los resultados comparando entre las variables clínicas y electrofisiológicas. Ansari et al38, es el único que ha reportado una reducción significativa de la tasa Hmax/Mmax, sin embargo, esto no se asocia a una mejora significativa del ROM activo y pasivo de dorsiflexión de tobillo al finalizar el tratamiento; Ansari et al39, mostraron que tanto el grupo tratado con US como el grupo con IR, presentaban una mejoría inmediata del ROM activo y pasivo de dorsiflexión de tobillo, sin embargo, esto no está asociado a una reducción de la tasa Hmax/Mmax ni tampoco de la EA posterior a ambas aplicaciones térmicas; Sahin et al40, mostraron que el grupo al que se adiciona US al "stretching", reduce el grado de espasticidad medido con la EAM e incrementa el ROM de dorsiflexión de tobillo, sin embargo, esto no se asocia a una reducción de la relación Hmax/Mmax ni mejora de la funcionalidad al finalizar el tratamiento. Los resultados de los ECAs que han evaluado la eficacia terapéutica, con mediciones clínicas y electrofisiológicas, han mostrado resultados controversiales, se puede observar que la recuperación clínica inmediata del ROM de dorsiflexión de tobillo y/o el nivel de espasticidad evaluado con EA o EAM, no se asocia a la disminución de la actividad electrofisiológica, ya que habitualmente las escalas clínicas que valoran la resistencia pasiva al movimiento, no son capaces de distinguir entre la hipertonía producto de un incremento de la excitabilidad neural y la causada por cambios en las propiedades mecánicas intrínsecas del músculo. La excitabilidad de la motoneurona medida a través de la relación Hmax/Mmax no se correlaciona con los cambios clínicos, estudios previos han discutido la correlación entre la EAM y la tasa Hmax/Mmax44-46, en la actualidad las evaluaciones electrofisiológicas tienen un papel importante en la valoración de la espasticidad, pero quizás lo más relevante en la interpretación de los resultados de estas variables, tiene que ver con la dificultad de poder detectar estos cambios a través de la exploración física habitual.
+
+Pese a lo extenso de la estrategia de búsqueda siempre es posible que no se haya identificado algún estudio, las principales limitantes metodológicas de nuestra revisión son la inclusión de material no publicado y la realización de alguna estrategia para detectar posible sesgo de publicación. Todas estas consideraciones deben ser evaluadas cuando se interpreten los resultados de los diferentes estudios y se intenten establecer conclusiones acerca de la efectividad terapéutica de la termoterapia en el manejo clínico de las espasticidad en pacientes adultos post ACV.
+
+Conclusiones
+
+En pacientes con ACV que presentan espasticidad de los músculos flexores plantares, existe evidencia contradictoria que el US produzca una reducción electrofisiológica de la excitabilidad neural, comparado con US apagado e IR.
+
+Existe moderada evidencia que el US no produce una mejoría clínica del rango de movimiento ni del nivel de espasticidad, comparado con US apagado, IR, TENS y toxina botulínica.
+
+Existe moderada evidencia que adicionar US a un ejercicio de estiramiento, no añade ningún beneficio en el rango de movimiento ni del nivel de espasticidad.
