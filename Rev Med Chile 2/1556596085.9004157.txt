@@ -1,0 +1,140 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872016000600015
+Cuestionario de prácticas pedagógicas: análisis de su estructura factorial y consistencia interna en docentes de carreras de la salud
+
+ 
+
+Medicina y otras carreras de la salud son tensionadas por la globalización1, el mercado1-3, el desarrollo científico y tecnológico de la disciplina4, los cambios demográficos y sanitarios4 y las variaciones en la concepción de educación universitaria, que ha transitado desde un modelo centrado en la transmisión de conocimientos a uno orientado al desarrollo de profesionales reflexivos y autónomos4-6.
+
+Las agendas nacionales e internacionales apremian a las carreras de la salud a mejorar sus procesos formativos para enfrentar estas presiones4, compeliéndolas a revisar sus currículum7, desarrollar nuevos modelos de enseñanza3,8, y, principalmente, atender a las competencias de quienes implementan éstas: los docentes. Esto, pues la docencia se ha convertido en un tema central de discusión sobre la situación universitaria9-12, transformándose en un criterio de calidad de sus instituciones11. Dicha discusión no siempre contempla la complejidad del rol docente, que involucra diversas funciones: investigación, gestión, asistencia técnica, docencia, etc.13,14. Esta heterogeneidad de labores, fue sintetizada por Tejedor en cuatro grandes grupos: gestor de aprendizajes, facilitador, tutor y evaluador11, y por Harden en sus clásicos 12 roles del docente de educación médica15.
+
+Aunque la función investigadora suele ser la que concentra las tres R (recursos, recompensas y reconocimiento)16, ésta y la calidad de especialistas de los docentes no son tan cuestionadas en la actualidad, como su capacidad pedagógica12. Sobre todo en Latinoamérica, cuyas universidades se caracterizan por una enseñanza expositiva y centrada en la transmisión de información17.
+
+Actualmente, existe una preocupación consensuada por las prácticas pedagógicas de estos docentes, entendidas como los procesos donde éstos reflexionan y analizan los aspectos intelectuales y afectivos de las situaciones formativas, para definir cómo implementarán la enseñanza18,19. Estos procesos, complejos e intencionales, consideran las percepciones, significados y acciones de los actores involucrados19, y son afectados por el currículum oficial y el oculto19-21, involucrando aspectos culturales, políticos, sociales y económicos22.
+
+La complejidad de las prácticas pedagógicas, problema ignorado por años pero urgente en la actualidad, ha impulsado a capacitar a los docentes universitarios en temáticas educativas10,23-26. Empero, estas instancias formativas suelen definirse desde la intencionalidad formativa de las universidades, pero no desde diagnósticos de la práctica docente. Lo anterior deriva, en parte, de la escasez de instrumentos para evaluar dichas prácticas, pues las evaluaciones docentes en las universidades son respondidas por estudiantes y están afectas a sesgos de respuesta27, y los instrumentos aplicados a académicos, ya sea sobre estilos de enseñanza28 o calidad docente29, no presentan evidencia de validez en población chilena.
+
+Por ello, este equipo de investigación diseñó el Cuestionario de Prácticas Pedagógicas (CPP), con base en los resultados descriptivos de la fase cualitativa de este proyecto, respecto de las prácticas pedagógicas en docentes universitarios de Chile26. Luego, el CPP fue sometido a evaluación de 15 de expertos en docencia universitaria, educación, psicología educacional, educación médica y psicometría, y tuvo una aplicación piloto en 20 docentes de diversas disciplinas. Este instrumento, de auto-aplicación, permite describir la frecuencia con que los docentes universitarios, de cualquier área del conocimiento, realizan distintas actividades propias del quehacer formativo, a fin de diferenciar aquellas actividades tradicionales y centradas en el docente, de aquellas constructivistas centradas en el estudiante15,30.
+
+El presente trabajo busca aportar evidencias de la validez y confiabilidad del CPP para la medición de las prácticas pedagógicas en docentes de carreras de la salud. Para esto, se analiza su validez de constructo evaluando la consistencia teórica de su estructura factorial, y su confiabilidad, analizando la precisión de sus mediciones31.
+
+Participantes
+
+Mediante muestreo no probabilístico por voluntarios, se accedió a 315 profesionales que impartían docencia de pregrado en carreras de la salud en universidades chilenas, tanto tradicionales (adscritas al Consejo de Rectores de Universidades Chilenas, CRUCH) y privadas (no adscritas al CRUCH). Éstos residían en 13 de las 15 regiones geográficas del país (exceptuando las regiones de Atacama y Aysén), y dos residían en el extranjero.
+
+Instrumento
+
+Los docentes respondieron el Cuestionario de Prácticas Pedagógicas (CPP), que mide la frecuencia con que los docentes realizan conductas propias de su actividad docente, incluyendo actividades de planificación, enseñanza, evaluación, uso de recursos y gestión del ambiente educativo.
+
+Presenta 60 afirmaciones sobre estas conductas, ante las cuales el participante debe responder según la frecuencia con que las ha realizado en los últimos dos años académicos, eligiendo una alternativa en escala tipo Likert de cinco alternativas (1= nunca o casi nunca; 2= rara vez; 3= a veces; 4= frecuentemente; 5= siempre o casi siempre).
+
+Junto a este cuestionario, se aplicó un cuestionario sociodemográfico para describir la muestra.
+
+Procedimiento
+
+El cuestionario fue enviado a los docentes participantes a través de un correo electrónico en el que se les explicabas el propósito del proyecto, la participación solicitada y los antecedentes del investigador responsable. Debían acceder a un hipervínculo en el correo para ingresar al cuestionario, implementado en una plataforma de encuesta en línea. La primera página presentaba un consentimiento informado que los participantes debían aceptar para continuar con el cuestionario. Quince personas contactaron al investigador telefónicamente solicitando más antecedentes del estudio.
+
+El procedimiento contó con la aprobación de la Comisión Nacional de Investigación Científica y Tecnológica de Chile, CONICYT.
+
+Análisis de datos
+
+Para evaluar la estructura factorial del CPP se empleó Análisis Factorial Exploratorio (AFE), aplicando Análisis de Ejes Principales, AEP, como método de extracción31,32.
+
+Luego, se empleó el coeficiente alfa de Cronbach para evaluar la confiabilidad de los factores detectados.
+
+Por último, se realizó un análisis descriptivo de sus puntuaciones y se analizó su correlación mediante el coeficiente de Pearson.
+
+Un valor de p < 0,05 fue considerado estadísticamente significativo. Se empleó STATA SE 11.0 para procesar los datos.
+
+Resultados
+
+De los 315 encuestados, se eliminó a quienes presentaban omisiones en el cuestionario analizado, obteniéndose una muestra válida de 296 académicos (Tabla 1).
+
+
+
+Tabla 1. Caracterización de la muestra de docentes de carreras de la salud
+
+ 
+
+El análisis inició evaluando la pertinencia del AFE, obteniéndose un estadístico de adecuación muestral Kaiser-Meyer-Olkin (KMO) de 0,89 y una prueba de esfericidad de Barlett estadísticamente significativa, χ2 (1770) = 7.144,50; p < 0,001, que apoyaron la realización del AFE.
+
+Posteriormente, se procedió a estimar el número de factores según dos criterios: Kaiser-Guttman o de raíz latente33 y Análisis Paralelo de Horn31. El primero identificó siete factores con valores propios (eigenvalues) mayores a 1,0 (13,23, 3,10, 2,07, 1,45, 1,20, 1,07 y 1,02), explicando 80,04% de la varianza total de los ítems. El Análisis Paralelo, considerando 5.000 muestras aleatorias, también identificó siete factores con valores propios mayores a los presentados por 95% de las muestras aleatorias (1,15, 1,09, 1,07, 0,96, 0,90, 0,85 y 0,81).
+
+Dada la convergencia entre criterios, se procedió a evaluar la distribución de los ítems en los siete factores, aplicando AEP con rotación oblicua Oblimin directo28. Al hacerlo, cinco ítems mostraron cargas factoriales inferiores al umbral de 0,30, propuesto como el mínimo adecuado para considerar significativa una carga factorial30. Por ello, se decidió eliminar el ítem que presentaba las cargas más bajas (ítem 4, "Incorporo explícitamente las contribuciones de los estudiantes durante las actividades"), y repetir el análisis con los 59 ítems remanentes. Bajo la misma estrategia, se debió eliminar progresivamente los ítems 15 ("Utilizo en su totalidad la hora de clases en actividades propias de la asignatura"), 41 ("Destaco los quiebres temáticos para pasar de un tema a otro"), 51 ("Reviso la pertinencia del programa de asignatura una vez finalizada ésta"), 56 ("Cuando tengo alguna dificultad con un estudiante la resuelvo de forma inmediata"), 55 ("Modifico la planificación de mis asignaturas cuando se requiere"), 26 ("Dejo claras cuáles serán las instancias de resolución de problemas desde el inicio del curso"), 25 ("Utilizo evaluaciones sumativas al cierre del semestre, tales como exámenes orales o escritos") y 52 ("Retroalimento a los estudiantes luego de sus intervenciones en clases").
+
+Para los 51 ítems restantes se obtuvo un estadístico KMO de 0,89 con una prueba de Barlett, estadísticamente significativa, χ2 (1275) = 5955,75; p < 0,001, mostrando la viabilidad del AFE.
+
+El criterio de Kaiser-Guttman identificó seis factores con valores propios sobre 1,0 (11,52, 2,71, 1,98, 1,38, 1,13 y 1,02), explicando 82,43% de la varianza total de los ítems. El Análisis Paralelo, considerando 5.000 muestras aleatorias, identificó seis factores con valores propios superiores a los presentados por 95% de las muestras aleatorias (1,10, 1,04, 0,95, 0,92, 0,80 y 0,73).
+
+A partir de eso, se evaluó la distribución de los ítems en los seis factores, mediante una matriz de configuración, empleando AEP con rotación oblicua Oblimin directo (Tabla 2). Todos los ítems presentaron cargas superiores a 0,30 en al menos un factor, con 10 casos (ítems 17, 33, 36, 38, 37, 40, 43, 50, 57 y 58) que las presentaban en dos factores simultáneamente (carga cruzada). En estas situaciones, los ítems fueron asignados considerando la coherencia teórica con cada factor.
+
+
+
+Tabla 2. Matriz de configuración del Cuestionario de Prácticas Pedagógicas en docentes de carreras de la salud obtenida mediante Análisis de Eje Principal con rotación Oblimin directo
+
+Tabla2
+
+
+
+Así, los factores quedaron conformados como sigue:
+
+-	Factor I: Se denominó Enseñanza centrada en el estudiante. Presentó un alfa de Cronbach de α = 0,85, con correlaciones entre los ítems y el total corregido entre r = 0,43 (ítem 9) y r = 0,61 (ítem 28).
+
+- Factor II: Denominándose    Planificación de la enseñanza, exhibió un alfa de    α = 0,85, con correlaciones ítem-total corregido desde    r = 0,44 (ítem 2) hasta r = 0,65 (ítem    8).
+
+- Factor III: Se denominó    Evaluación de proceso, y obtuvo un alfa de Cronbach de α = 0,81, con correlaciones ítem-total corregido desde r = 0,41    (ítem 39) hasta r = 0,64 (ítem 27).
+
+- Factor IV: Se denominó    Relación dialogante, y presentó un alfa de Cronbach de    α = 0,82, con correlaciones ítem-total corregido desde    r = 0,43 (ítem 53) hasta r = 0,61 (ítem    49).
+
+- Factor V: Etiquetado como Enseñanza    centrada en el profesor, presentó un alfa de Cronbach de α = 0,64, con correlaciones ítem-total corregido desde r = 0,27    (ítem 44) hasta r = 0,51 (ítem 46).
+
+- Factor VI: Se denominó    Uso de recursos tecnológicos, y tuvo un alfa de Cronbach de α = 0,60, con correlaciones ítem-total corregido desde r = 0,25    (ítem 10) hasta r = 0,42 (ítem 24).
+
+
+
+La composición y definición conceptual de los factores se detalla en la Tabla 3. Luego se calculó sus puntajes sumando sus ítems, y se realizó un análisis descriptivo de cada uno. Para facilitar la interpretación de los puntajes de los factores, se sugieren tres niveles interpretativos: Nivel bajo (puntajes inferiores al percentil 25), Nivel medio (puntajes iguales o mayores al percentil 25 y menores al percentil 75) y Nivel alto (puntajes iguales o mayores al percentil 75) (Tabla 4).
+
+
+
+Tabla 3. Factores identificados para el cuestionario de prácticas pedagógicas: definición  conceptual e ítems incluidos
+
+  
+
+
+
+Tabla 4. Estadísticos descriptivos de los factores del cuestionario de prácticas pedagógicas  en docentes de carreras de la salud
+
+ 
+
+Por último, se analizó    la correlación entre los factores del CPP, mostrando correlaciones directas    y estadísticamente significativas entre todos ellos, con excepción    de Enseñanza centrada en el profesor, que no mostró correlaciones    en tres casos (Tabla 5).
+
+
+
+Tabla 5. Correlaciones de Pearson entre los factores del cuestionario de prácticas pedagógicas  en docentes de carreras de la salud
+
+ 
+
+Discusión
+
+La práctica pedagógica es un fenómeno complejo, procesal y contextualmente determinado, que apunta a la reflexión constante que los académicos realizan sobre cada situación de enseñanza a fin de definir su curso de acción18-22, y se expresa finalmente en su forma de actuar dentro del escenario formativo. Es por este motivo que el CPP focaliza su evaluación de las prácticas pedagógicas en la frecuencia con que el docente realiza actividades específicas, referidas a las diversas funciones educativas que debe asumir, diferenciándose de otros instrumentos que evalúan qué autoeficacia pero la acción docente37, y de aquellos que evalúan la acción pero en temáticas específicas38.
+
+Al respecto, los resultados muestran que el CPP mediría seis factores de las prácticas pedagógicas, que se sintetizarían en cinco roles del docente: planificar, enseñar, evaluar, gestionar el ambiente y desarrollar recursos educativos.
+
+Primero, las actividades que realiza el docente para favorecer el aprendizaje del estudiante están presentes en dos factores, Enseñanza centrada en el estudiante y Enseñanza centrada en el profesor, los que reflejan los dos modelos formativos que en la actualidad se encuentran en pugna en la formación de las carreras de la salud, el llamado modelo tradicional, unidimensional, basado en la transmisión de conocimiento declarativo, en la hegemonía docente como fuente de conocimiento y en la pasividad del estudiante, y el modelo constructivista, que busca favorecer el aprendizaje en distintas áreas (cognitivas, afectivas, sociales, conductuales, etc.) a través de una mayor participación del estudiantado y una mayor vinculación de éste con su contexto8,15,30. Hay una crítica consensuada al primero de estos modelos, y las carreras de la salud buscan transitar al modelo centrado en los estudiantes8. Sin embargo, el tradicional sigue siendo común en la universidad17 y es altamente eficiente para transmitir información34,35. En este sentido, que el CPP evalúe la frecuencia con que los docentes de carreras de la salud recurren a ambos modelos es pertinente para un escenario como el actual donde ambos están vigentes aún, siendo adecuados para situaciones de aprendizaje específicas. Asimismo, es útil diferenciarlos, dado que no constituirían dos polos de una dimensión, sino dos dimensiones independientes, como lo demuestra la ausencia de correlación identificada entre ambos.
+
+Segundo, el CPP evalúa el grado de Planificación de la enseñanza, incluyendo tanto las acciones tendientes a organizar previamente la acción pedagógica como al uso de recursos y dispositivos para facilitar este proceso (p.e. programas, syllabus, etc.). Asimismo, considera la planificación semestral y la definición de los momentos de la clase.
+
+Tercero, se identificó un único factor sobre evaluación: Evaluación de proceso, que rescata una función inherente a la docencia11,14,15: la constatación de avances en el aprendizaje de los estudiantes. El modelo evaluativo que rescata, integrando modalidades sumativas y formativas, heteroevaluativas y autoevaluativas, está alineado con los modelos curriculares que se promueven en la actualidad en carreras de la salud8.
+
+El cuarto, la Relación dialógica, aborda la capacidad del docente para generar espacios de aprendizaje propicios, motivadores, empáticos y respetuosos11. Aunque parece trascender a los aspectos disciplinares tradicionalmente asociados a los factores anteriores, refiere a una competencia básica que afecta directamente los aprendizajes alcanzados por los estudiantes y la capacidad misma del docente para actuar como modelo conductual15.
+
+Finalmente, el Uso de recursos tecnológicos ya era un rol reconocido explícitamente por Harden, al hablar del creador de recursos materiales14,15, y aborda un aspecto esencial para nuestra sociedad tecnologizada.
+
+Ante esto, la evaluación que hace el CPP, centrada en el comportamiento docente, no desconoce los aspectos que afectan las práctica pedagógica, tanto personales, de docentes y estudiantes19,20, como ambientales, del aula, el currículum formal y oculto21. Sin embargo, para operacionalizar el constructo de las prácticas y facilitar su medición, se enfoca en una dimensión de éste: la conducta docente, bajo la convicción que los otros factores, aunque relevantes, requieren mediciones diferenciadas.
+
+Por otra parte, el CPP presenta una adecuada confiabilidad en cuatro de sus factores, pero esta es cuestionable en los otros dos, lo que puede deberse a su menor número de ítems31,36. Sin embargo, es posible utilizarlo para el diagnóstico y la investigación de esta variable, aunque no en evaluaciones con consecuencias directas para los estudiantes (selección, evaluación sumativa, etc.).
+
+En síntesis, en este estudio se ha obtenido evidencia de la validez y confiabilidad del CPP para medir prácticas pedagógicas en docentes de carreras de la salud de Chile.
+
+El presente estudio tuvo un alcance    nacional, no obstante la estrategia de muestreo por voluntarios dificultó    una muestra más representativa de algunas regiones. Por otra parte, dado    que las prácticas pedagógicas presentan una alta deseabilidad    social, el CPP puede hacer un tamizaje eficiente y a bajo costo. Sin embargo,    cuando sea posible es recomendable complementarlo con otras estrategias de recolección    de datos, como observación en aula.     
+
+Trabajo financiado por el proyecto FONDECYT Regular 1110484.

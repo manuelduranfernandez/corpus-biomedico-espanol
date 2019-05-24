@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000100078
+Terapia de reemplazo renal continua en el paciente con oxigenación por membrana extracorpórea: consideraciones para la combinación de ambas terapias
+
+El soporte cardiorrespiratorio mediante un sistema de circulación extracorpóreo (ECMO) se utiliza en la práctica clínica desde hace más de 30 años1, sin embargo, después de 2009, con la publicación del estudio CESAR, ha habido una expansión significativa del uso de ECMO1. Esta investigación evidenció la mejoría en la supervivencia en pacientes con síndrome de distrés respiratorio agudo (SDRA) tratados con ECMO durante la pandemia de gripe H1N1.
+
+La falla multiorgánica del paciente crítico hace que este sea especialmente proclive a desarrollar una alteración de la función renal2. El uso de terapia de reemplazo renal continua (TRRC) en pacientes en ECMO mejora el equilibrio hídrico, resuelve desequilibrios electrolíticos, mejora el aporte calórico y reduce la necesidad de diuréticos3.
+
+Definición
+
+El ECMO es un sistema de apoyo temporal que reemplaza la función de pulmones y corazón para devolver la homeostasis a los otros órganos, mientras se administra la terapia modificadora de la enfermedad o se espera la resolución del compromiso cardiorrespiratorio1. Estos pacientes, por lo general, tienen compromiso multisistémico, siendo frecuente la afectación cardiaca, pulmonar y renal concomitante. Más de 75% de los pacientes que requieren soporte con ECMO desarrollan injuria renal aguda (IRA) y 50% requerirá terapia de reemplazo renal2.
+
+Tipos de ECMO
+
+El ECMO se recomienda para pacientes con insuficiencia respiratoria grave, potencialmente reversible que no responden a la terapia convencional. También se indica a pacientes con colapso circulatorio por disfunción miocárdica severa. El tipo de ECMO a administrar dependerá de la función cardíaca y pulmonar del paciente1. En el curso de la hipoxemia aislada aguda, la oxigenación extracorpórea se realiza en modo venovenoso (VV), en el que se extrae sangre de la vena cava inferior por una cánula insertada a través de la vena femoral. Después de la oxigenación, la sangre es devuelta a la aurícula derecha mediante una cánula de retorno, que se inserta a través de la vena yugular interna derecha (Figura 1A). En la configuración de ECMO venoarterial (VA), la sangre oxigenada se devuelve a la aorta, por la línea de retorno, introducida a través de las arterias femoral (Figura 1B), carótida (Figura 1C) o aorta ascendente (Figura 1D), otorgando soporte hemodinámico y respiratorio.
+
+Figura 1 Tipos de ECMO. 
+
+El circuito extracorpóreo consta de: bomba centrífuga, oxigenador, intercambiador de calor, y tubería. La bomba impulsa sangre por aspiración hacia el oxigenador. Hay un sensor que mide la velocidad del flujo de sangre. La velocidad de rotación de la bomba centrífuga y el flujo de sangre se ajustan en la consola principal. El oxigenador consta de una membrana hidrófoba que permite el intercambio de gas y evita las fugas de sangre. Adicionalmente, hay dos adaptadores luer lock en los puertos de entrada y de salida del oxigenador, que se utilizan para el cebado y la monitorización de la presión (Figura 2).
+
+Figura 2 Componentes del ECMO. Modificado con autorización de Dr. Wojciech Szczeklik. 
+
+El ECMO VV direcciona posibles trombos formados en el circuito hacia los pulmones en lugar de la circulación sistémica o el cerebro, como podría suceder en el soporte VA. Igualmente, el ECMO VV puede mejorar el desempeño del corazón al incrementar el contenido de oxígeno de la sangre venosa mixta (la sangre oxigenada es entregada en el atrio derecho directamente, no en la aorta), disminuyendo de este modo la resistencia vascular pulmonar. También evita el incremento en la postcarga del ventrículo izquierdo, mejorando la perfusión coronaria4.
+
+Un aspecto de especial relevancia para el riñón es la conservación del flujo pulsátil en el ECMO VV, porque, comparado con el flujo no-pulsátil del ECMO VA, disminuye la resistencia vascular y mejora la perfusión de los tejidos. La energía de la onda pulsátil mantiene abiertos los capilares y evita el reflejo neuroendocrino desencadenado por los barorreceptores en el flujo no-pulsátil y que es el responsable del aumento en la resistencia vascular periférica5. El riñón es especialmente sensible al flujo no pulsátil, haciendo necesario el uso de diuréticos para preservar el gasto urinario4.
+
+Sin embargo, el ECMO VV no provee soporte cardíaco directo, la oferta de oxígeno puede ser inferior a la demanda, y es más dependiente de un drenaje venoso óptimo por la ineficiencia representada por la recirculación (eflujo directo de la sangre proveniente de la cánula arterial hacia la cánula venosa)4.
+
+En el paciente en ECMO se emplea anticoagulación, habitualmente con heparina no fraccionada, con infusiones entre 10 y 50 U/kg/h para alcanzar mediciones de tiempo de coagulación activado entre 180 y 220 seg. La heparina se infunde directamente al circuito a través del puerto de acceso preoxigenador (Figura 2). En caso de presentarse trombocitopenia inducida por heparina, deberá suspenderse e iniciar un anticoagulante diferente, por lo general un inhibidor directo de la trombina6,7.
+
+Fisiopatología
+
+Los pacientes críticamente enfermos que presentan falla cardíaca aguda o disfunciones pulmonares soportados por ECMO están en alto riesgo de desarrollar IRA y sobrecarga de líquidos8, lo cual empeora su pronóstico.
+
+A nivel molecular, tanto la enfermedad subyacente que condujo a la situación de inestabilidad del paciente, como la exposición a la superficie no endotelizada del ECMO favorecen una respuesta inflamatoria sistémica, donde los niveles de interleucinas 1, 6 y 8, y factor de necrosis tumoral alfa están elevados9,10. El estado proinflamatorio se expresa en la microcirculación generando mayor dilatación de la arteriola eferente en comparación con la aferente del glomérulo renal, resultando en una disminución de la presión de filtración glomerular. La respuesta inflamatoria también genera disrupción del glucocálix de revestimiento en la superficie endotelial y, como consecuencia, la adhesión de los leucocitos a la pared de los vasos9.
+
+La disfunción de bomba cardíaca que no se corrige rápidamente favorece que la insuficiencia renal progrese a necrosis cortical y daño renal permanente9. Además, la respuesta inflamatoria empeora las fugas capilares, lo que disminuye aun más el volumen intravascular9. La disminución del gasto urinario conduce a sobrecarga de líquidos que impide la oxigenación tisular y el transporte de oxígeno en los pulmones.
+
+Otros factores involucrados en el daño renal son las especies reactivas de oxígeno y nitrógeno, el estado de hipercoagulabilidad, la hemoglobinuria, la precipitación de metahemoglobina en los túbulos renales, la exposición a agentes nefrotóxicos, y las alteraciones en la macro/microvasculatura renal9.
+
+Finkenstaedt y Merrill11 han atribuido la disfunción renal crónica al daño de la membrana basal de los glomérulos con regeneración epitelial anormal. Yang12, por su parte, demostró un proceso de reparación desadaptativo, con altos niveles de factor de crecimiento transformante-β 1 y factor de crecimiento del tejido conectivo, asociado a fibrosis desorganizada y abundante de los epitelios tubulares después de sufrir un episodio de IRA.
+
+Diagnóstico de IRA
+
+En el año 2012 se publicaron las guías KDIGO (Kidney Disease: Improving Global Outcomes) para tratar de armonizar los criterios RIFLE (Risk, Injury, Failure; Loss, End-Stage Renal Disease) y AKIN (Acute Kidney Injury Network) de IRA13 (Tabla 1). Yan14 no encontró diferencias significativas entre las herramientas RIFLE y AKIN como predictores de mortalidad hospitalaria en pacientes sometidos a cirugía cardiaca y tratados con ECMO, concluyendo que ambas tienen buen poder discriminativo, y que cada etapa de IRA tiene una mortalidad superior a la del estadio previo.
+
+Tabla 1 Diagnóstico y estadios de insuficiencia renal 
+
+RFG: velocidad de filtración glomerular; SC: superficie corporal.
+
+Aunque existen marcadores moleculares (cistatina C, β-N-Acetil-β-d-glucosaminidasa, lipocalina asociada a la gelatinasa de neutrófilo) para diagnosticar precozmente IRA, la clasificación KDIGO utiliza los niveles creatinina y gasto urinario como marcadores validados en el tiempo, no solo de filtración glomerular disminuida, sino de recuperación renal10.
+
+Durante el soporte con ECMO, las indicaciones más frecuentes para TRRC son: exceso de líquidos (43%), prevención de sobrecarga de volumen (16%), IRA (35%), y alteraciones electrolíticas (4%)15 (Tabla 2). No hay consenso sobre las indicaciones exactas para TRRC utilizando los criterios RIFLE/AKIN/KDIGO. El estudio de Yan14 solo confirmó a los pacientes con la clase Failure de la clasificación RIFLE o estadio 3 de AKIN en quienes la mortalidad hospitalaria es mayor en comparación con quienes no desarrollan IRA o quienes se clasifican en el grupo de Risk/Estadio 1.
+
+Tabla 2 Indicaciones de terapia de reemplazo renal en ECMO 
+
+BUN: nitrógeno ureico en sangre; SIRS: síndrome de respuesta inflamatoria sistémica.
+
+Técnicas de TRRC
+
+La nomenclatura del modo de la terapia de reemplazo renal se basa en el tipo de acceso vascular y en el método principal de depuración molecular. En consecuencia, se puede realizar: ultrafiltración veno-venosa continua lenta, hemofiltración veno-venosa continua, hemodiálisis veno-venosa continua y hemodiafiltración veno-venosa continua16,17.
+
+La hemodiálisis se basa en el principio de difusión, por el cual una alta concentración de toxinas urémicas en sangre pasan a través de una membrana semipermeable hacia una solución dializante con baja concentración de solutos. La solución dializante se mueve en contracorriente al flujo de sangre. La membrana semipermeable o filtro utilizado es usualmente de bajo flujo, y las moléculas filtradas son de pequeño tamaño (peso molecular < 500 Dalton). La hemodiálisis provee el 10% de la capacidad de depuración de los riñones sanos, sin embargo, no es capaz de eliminar las moléculas > 500 Dalton ni las toxinas unidas a proteínas (Figura 3).
+
+Figura 3 Principio físico de la difusión. 
+
+La hemofiltración depende del principio de convección: las toxinas urémicas de mayor tamaño son arrastradas y eliminadas haciendo pasar la sangre a alta presión a través de una membrana semipermeable. La presión hidrostática positiva dirige el agua a través de la membrana desde la sangre hacia el otro lado de la membrana, arrastrando con ella toxinas. Los solutos > 50.000 Dalton no pasan a través de los poros de la membrana (la albúmina pesa 65.000 Dalton). El balance de líquidos se mantiene mediante la infusión de soluciones de recambio, que se pueden administrar antes (predilución) o después (posdilución) de la membrana. Tales soluciones se mezclan con la sangre y deben, por lo tanto, ser soluciones tamponadas, estériles, no pirogénicas y libres de endotoxinas con una composición similar a la del plasma (Figura 4).
+
+Figura 4 Principio físico de convección. 
+
+La dosis de diálisis, en teoría, es el volumen de sangre “purificada”. En la práctica, la dosis de diálisis es equivalente a la tasa de efluente en ml/kg/h. La tasa de efluente es la velocidad de ultrafiltración para la hemofiltración, o la suma de la velocidad de ultrafiltración y de diálisis para la hemodiafiltración. La dosis actual recomendada por KDIGO es 20 a 25 ml/kg/h18.
+
+La ultrafiltración continua lenta (UFCL) también esta basada en el principio de convección, no obstante, su meta principal es la extracción de bajos volúmenes de líquido (2 a 5 ml/min, es decir, aproximadamente 3-8 l/día), por lo que no requiere la reposición de fluidos16. Es la terapia de reemplazo renal más comúnmente utilizada en línea (ver adelante) con el ECMO19. Debe subrayarse que al hacer UFCL en línea es necesario ser estricto en el control volumétrico, porque la tasa de ultrafiltración dependerá de la presión transmembrana y, en consecuencia, pueden existir variaciones entre el volumen de ultrafiltrado perseguido y el resultado final.
+
+Métodos de combinación TRRC con ECMO
+
+El acoplamiento de los métodos para realizar terapia de reemplazo renal continua en paciente conectado a un circuito de ECMO se puede realizar por tres vías: 1) a través de acceso venoso independiente para las dos terapias: uno para el ECMO y otro para la máquina de TRRC; 2) introducción de un hemofiltro en el circuito de ECMO usando bombas de infusión intravenosa para controlar el volumen ultrafiltrado y 3) con una máquina de terapia de reemplazo renal en el circuito de ECMO3.
+
+1. A través de acceso venoso independiente
+
+La forma más sencilla de realizar terapia de reemplazo renal continua es a través de un acceso venoso independiente del circuito de ECMO, sin embargo, si el paciente no tiene la canulación previa de la vía venosa central, aumenta el riesgo de complicaciones mecánicas durante procedimientos de canulación adicionales, debido a la anticoagulación en la que debe encontrarse el paciente en soporte con ECMO y la escasez de posibles accesos vasculares. Este método es más usado cuando la TRRC ya se venía haciendo en el paciente, antes de la introducción del ECMO. No obstante, hay centros que escogen esta modalidad rutinariamente15,17. En el análisis retrospectivo de Thajudeen sobre 40 pacientes, el acceso venoso separado fue una de las dos modalidades para proveer TRRC en los pacientes con ECMO20.
+
+2. A través de un hemofiltro en línea
+
+La introducción de un filtro en el circuito, o conexión en línea, es el método de TRRC más ampliamente utilizado en pacientes conectados a ECMO15. Tiene la ventaja de ser relativamente simple y barato. La línea que deriva la sangre al hemofiltro se conecta en la parte de alta presión del circuito del ECMO (postoxigenador o postbomba); la sangre vuelve proveniente del hemofiltro a la parte de baja presión del circuito (línea venosa prebomba). Debido a la existencia de un shunt, habrá una diferencia entre el flujo medido y el flujo que se suministra al paciente; tal diferencia es el volumen que se dirige hacia el hemofiltro. Se debe instalar un sensor de flujo en la vía arterial del ECMO para determinar el flujo real que se provee al paciente.
+
+Puede requerir tres bombas de infusión externas: una conectada a la línea que emerge del hemofiltro y controla el líquido efluente, otra para proveer los líquidos de reposición y, si se requiere diálisis, otra para propulsar la solución de dializado. La técnica de TRRC que más comúnmente se emplea con el hemofiltro en línea es la ultrafiltración continua lenta17. Algunos centros utilizan esta modalidad para proporcionar sólo ultrafiltración, porque los hemofiltros están diseñados para su uso con sistemas de alta presión, haciéndolos menos efectivos para el aclaramiento difusivo17. La técnica en línea tiene la ventaja de permitir un volumen de cebado más pequeño en comparación con el empleado cuando se suma el circuito de la máquina de TRRC. Pero también tiene desventajas: las bombas de infusión son incapaces de contener la filtración, no se monitorizan las presiones en el circuito de hemofiltración y la coagulación o la rotura del filtro no se pueden detectar tempranamente3. El control de la ultrafiltración puede ser especialmente deficiente cuando se requiere ultrafiltrar más de 800 ml en 24 h17,21. Los datos disponibles sobre la exactitud de estos dispositivos de infusión intravenosos para regular la ultrafiltración en un circuito de ECMO describen tasas de error de hasta 12,5%. En experimentos de laboratorio utilizando los ajustes de presión, las diferencias entre el volumen de ultrafiltración planeado y el real fueron tan altas como 34 ml/h (> 800 ml/d)22. Por la disposición del hemofiltro dentro del circuito del ECMO, esta técnica genera recirculación de la sangre ya hemofiltrada, disminuyendo la eficiencia del circuito (Figura 5).
+
+Figura 5 Hemofiltro en línea. Modificado con autorización de Dr. Wojciech Szczeklik. 
+
+3. A través del acoplamiento de una máquina de TRRC
+
+Es posible, también, conectar el circuito de una máquina de terapia de reemplazo renal al circuito de ECMO. Por lo general, la TRRC está conectada a la línea venosa del circuito de ECMO, después de la bomba centrífuga. La reconexión para devolver la sangre desde el dispositivo renal debe hacerse antes del oxigenador, para atrapar el aire o coágulos previo a su retorno al paciente (Figuras 6-10). Es un método seguro y preciso en el control del flujo de sangre en el circuito de TRRC, en el balance de fluidos y en el seguimiento de la presión transmembrana. Se pueden implementar todas las técnicas de TRRC: hemofiltración venovenosa continua, hemodiálisis venovenosa continua y hemodiafiltración venovenosa continua. Las diferentes formas para acoplar una máquina de TRRC al circuito del ECMO se pueden ver en la Tabla 3 y en las Figuras 5-10.
+
+Figura 6 Modalidad Tipo I de acoplamiento del ECMO a una máquina de TRRC. Modificado con autorización de Dr. Wojciech Szczeklik. 
+
+Figura 7 Modalidad Tipo II de acoplamiento del ECMO a una máquina de TRRC. Modificado con autorización de Dr. Wojciech Szczeklik. 
+
+Figura 8 Modalidad Tipo III de acoplamiento del ECMO a una máquina de TRRC. Modificado con autorización de Dr. Wojciech Szczeklik. 
+
+Figura 9 Modalidad Tipo IV de acoplamiento del ECMO a una máquina de TRRC. Modificado con autorización de Dr. Wojciech Szczeklik. 
+
+Figura 10 Modalidad Tipo V de acoplamiento del ECMO a una máquina de TRRC. Modificado con autorización de Dr. Wojciech Szczeklik. 
+
+Tabla 3 Modalidades de TRRC a través de máquina acoplada a circuito de ECMO 
+
+Modificado con autorización de Dr. Wojciech Szczeklik. VV, venovenoso; VA, venoarterial.
+
+Symons observó que estos pacientes tenían un manejo más preciso de fluidos23, lo cual concuerda con los hallazgos de Chen, quien reportó que los sobrevivientes post-ECMO en TRRC tenían un mejor balance de líquidos15.
+
+Durante la combinación de ECMO y TRRC, las alarmas de presión se pueden activar en las líneas de entrada y salida de la máquina de TRRC. Si las alarmas se activan por baja presión, deben descartarse las posibles causas: diámetro pequeño de la cánula venosa, volumen sanguíneo disminuido, obstrucción parcial por posición o una presión intratorácica negativa por esfuerzo inspiratorio del paciente. Si después de corregir la causa de la baja presión sigue activa la alarma, se debe disminuir la luz de la línea de eflujo de la máquina de TRRC, a través de una abrazadera (pinza), para aumentar la presión hidrostática; otra opción es modificar los umbrales a los que están dispuestas las alarmas del software de la máquina de TRRC17. Al igual que en la disposición de la Figura 5, los circuitos 7, 9 y 10 favorecen la recirculación.
+
+En nuestra institución, Clínica Las Condes-Santiago de Chile, desde septiembre de 2006 hasta el presente se han realizado 220 terapias de reemplazo renal en pacientes con ECMO, entre ellas: 13 terapias de hemodiálisis, 22 terapias de hemofiltración y 97 terapias de hemodiafiltración.
+
+Pronóstico
+
+Tradicionalmente, se ha considerado que los pacientes sin patología renal previa, por lo general, no progresan a enfermedad renal crónica16. En el metaanálisis de Chen, cuatro de diecinueve estudios informaron la recuperación de la función renal antes del alta hospitalaria15; tres estudios mostraron una recuperación completa o ningún requerimiento de terapia de reemplazo renal en los sobrevivientes. Paden evaluó los resultados de 154 pacientes tratados con ECMO/TRRC en un centro médico pediátrico: entre 68 (44%) sobrevivientes, la recuperación renal ocurrió en 65 (96%) antes de su egreso del hospital24. No obstante, desde 2008 hasta 2012, múltiples estudios observacionales que evaluaron cohortes únicas demostraron que los pacientes que sobrevivena un episodio de IRA tienen un riesgo significativo de progresión a enfermedad renal crónica. Amdur25, primero y Chawla26, después, confirmaron estos hallazgos.
+
+Conclusiones
+
+La sobrecarga hídrica es una indicación habitual de la terapia de reemplazo renal en los pacientes con ECMO.
+
+Balances hídricos positivos se asocian de forma independiente con mayor mortalidad, peor oxigenación, mayor duración de la estancia hospitalaria y mayor duración de ventilación mecánica. El fracaso para volver al peso seco también se asocia con duración prolongada del soporte con ECMO.
+
+La introducción temprana de TRRC durante ECMO puede prevenir el exceso de líquidos y permite el tratamiento con volúmenes convencionales de farmacoterapia, sin la necesidad de utilizar altas dosis de diuréticos o restringir la ingesta hídrica.
+
+El acoplamiento entre ECMO y TRRC se puede hacer a través de varias modalidades. Cada una con ventajas y desventajas operacionales, sin embargo, conectar una máquina de terapia de reemplazo renal al circuito de ECMO es el método más riguroso en el control del balance de fluidos.
+
+La IRA puede causar insuficiencia renal terminal y aumentar el riesgo de desarrollar enfermedad renal crónica o empeorar la enfermedad renal crónica subyacente. En este sentido, la gravedad, duración y la frecuencia de la IRA parecen ser importantes predictores.
+
+Fuente de apoyo financiero: No hubo apoyo financiero alguno.

@@ -1,0 +1,158 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872014000900003
+Evaluación de la insulinemia post carga oral de glucosa como método diagnóstico de resistencia a la insulina
+
+ 
+
+Se define como resistencia a la insulina (RI) a la disminución de la acción biológica de esta hormona en el organismo. Este             defecto produce alteraciones en sus acciones metabólicas (homeostasis de la glucosa, metabolismo lipídico y proteico) y no             metabólicas (exacerbación de efectos mitogénicos). En la ausencia de una falla de la célula beta, el páncreas compensa esta             situación aumentando la secreción de insulina generando un estado de hiperinsulinemia.
+
+La evaluación de la RI es actualmente una preocupación y necesidad de investigadores, epidemiólogos y clínicos dada su asociación             con entidades clínicas tales como diabetes mellitus tipo 2 (DM 2), hipertensión arterial, dislipidemia, hiperuricemia, esteatosis             hepática, síndrome de ovario poliquístico y síndrome metabólico1,2. Entre los métodos disponibles, para evaluar la RI, el clamp peuglicémico-hiperinsulinémico es método gold standard3. Sin embargo, dadas las dificultades técnicas de este método, ha sido reservado para fines de investigación. En este contexto             existen otros métodos de mayor aplicabilidad clínica destacando entre ellos la prueba de tolerancia oral a la glucosa con             insulinemias (PTGO). Este test consiste en la medición de insulinemias y glicemias en ayuno y a los 30, 60, 90 y 120 min posterior             a la ingesta de una carga oral de 75 g de glucosa. Originalmente fue diseñado para clasificar a los individuos según su grado             de tolerancia oral a la glucosa4, sin embargo, los resultados de las insulinemias son utilizados para estimar la RI de los individuos.
+
+A partir de la glicemia e insulinemia de ayuno es posible calcular índices de RI, tales como HOMA-IR (Homeostatic Model Assessment) propuesto por Matthews et al.5 y de los valores post carga, el índice de sensibilidad a la insulina (ISI-composite) de Matsuda y De Fronzo6. Ambos índices han mostrado una correlación significativa con el método del clamp euglicémico-hiperinsulinémico. El ISI-composite ha mostrado mayor correlación que el HOMA-IR ya que al considerar el promedio de insulinemias y glicemias obtenidos de la             PTGO representa una mejor estimación de la RI corporal total, mientras que el HOMA-IR representa principalmente la RI hepática6,7.
+
+En nuestro medio es frecuente realizar el diagnóstico de RI tomando como punto de corte insulinemias mayores a 100 y 60 mU/mL             a los 60 y 120 min, respectivamente. El primer punto de corte (100 mU/mL) se ha establecido arbitrariamente en la práctica             clínica. El segundo punto de corte se propuso basado en el estudio prospectivo de Paris que asoció insulinemias mayores a             445 pmol/l (equivalente a 60 mU/mL), con un aumento de 1,6 veces del riesgo cardiovascular independiente de las glicemias8. Esta práctica trae implicancias diagnósticas y terapéuticas que no han sido consensuadas ni tampoco validadas en nuestra             población, tomando en consideración que dicho estudio fue realizado en 7.028 hombres (6.903 no diabéticos y 125 diabéticos)             entre 43 y 54 años y pertenecientes a una etnia diferente.
+
+Paralelamente, debe mencionarse la gran variabilidad en los valores de insulinemias obtenidos a partir de una misma muestra             de sangre dependiendo del tipo de kit, laboratorio y muestra de sangre (sérica o plasmática) que ha sido observada en algunos estudios9,10,11, dificultando aún más la interpretación de estos valores.
+
+El objetivo de este estudio es identificar la distribución de los valores de insulinemias plasmáticas a los 60 y 120 min en             una población de 1.815 individuos que se realizaron PTGO en la Red de Salud de la Pontificia Universidad Católica de Chile             (PUC), observar cómo se correlacionan estos valores con índices de RI previamente validados (HOMA-IR e ISI-composite) y de este modo establecer un punto de corte estadístico para estos valores que sirva de referencia para estimar el grado             de RI en nuestra población.
+
+Diseño del estudio y sujetos
+
+Para este estudio se consideraron las PTGO con insulinemias realizadas entre octubre de 2009 y diciembre de 2011 en diferentes             unidades de toma de muestra de la Red de Salud de la Pontificia Universidad Católica de Chile (PUC). Todas las muestras de             sangre se procesaron en el Laboratorio Central e informados en el Departamento de Nutrición, Diabetes y Metabolismo de nuestra             universidad. El estudio fue aprobado por el Comité de Ética de la Facultad de Medicina de la PUC.
+
+En total, se tuvo acceso a 1.868 PTGO. Se incluyeron las PTGO de pacientes de edades entre 18 y 75 años. Se excluyeron mujeres             embarazadas, individuos con diagnóstico previo de DM, 50 diabéticos diagnosticados por la PTGO y tres sujetos que presentaron             valores de glicemia en ayuno menor a 50 mg/dl. Finalmente, se dispuso de 1.815 PTGO de individuos independientes. Las características             de los mismos se muestran en la Tabla 1. Los individuos fueron clasificados según su control glicémico en: normales, glicemia             de ayuno alterada (IFG), intolerancia a la glucosa (IGT) e IFG + IGT, según los criterios de la ADA 201012.
+
+Prueba de tolerancia oral a la glucosa (PTGO)
+
+Los pacientes acudieron a una de las unidades de toma de muestra de la PUC posterior a un ayuno nocturno de 8 a 12 h. Antes             de iniciar el examen se determinó el peso y estatura según normas de la encuesta nacional de salud 2009-201013. Una vez instalada la vía venosa, se extrajo una muestra de sangre para determinar la insulinemia y glicemia de ayuno. Luego,             se administró por vía oral una solución de glucosa comercial (75 g en 290 ml de agua) que debió beberse en menos de 5 min.             Los pacientes debían permanecer en reposo, sin fumar y sin ingerir alimentos durante el examen. Se extrajeron las muestras             de sangre a los 30, 60, 90 y 120 min posterior al término de la ingesta de la solución glucosada. Las muestras de sangre para             medición de glicemia e insulinemia, se recolectaron en tubos que fueron centrifugadas para la obtención de plasma y suero             respectivamente. Las muestras obtenidas se mantuvieron entre 2-8ºC para ser analizadas el mismo día.
+
+Análisis en sangre
+
+La concentración de glucosa plasmática se determinó mediante la técnica de glucosa hexoquinasa con un equipo Cobas 8000 (Roche/Hitachi, Mannheim, Alemania). El coeficiente de variación (CV) intra- e inter-ensayo corresponde a 0,7 y 1,2%, respectivamente.             La concentración de insulina sérica se determinó mediante un inmunoensayo de quimioluminiscencia con un equipo Advia Centaur XP (Siemens, Atlanta, EEUU). El CV intra- e inter-ensayo es de 4,6 y 5,9%, respectivamente.
+
+Estimación del grado de resistencia a la insulina (RI)
+
+La RI se determinó mediante el índice HOMA-IR utilizando la fórmula publicada por Matthews et al.14: (insulinemia de ayuno, mU/mL × glicemia de ayuno, mg/dL/405. Alternativamente, se determinó el índice ISI-Composite mediante la fórmula propuesta por Matsuda y De Fronzo7: 10.000 / ([glicemia de ayuno, mg/dL × insulinemia de ayuno, mU/mL] × [promedio de glicemias (30-120) de la PTGO, mg/dL×             promedio de insulinemias (30-120) de la PTGO, mU/mL])0,5. En este estudio se definió como resistentes a la insulina a aquellos individuos con un ISI-Composite menor al percentil 25 de todo el grupo estudiado (n = 1815) tal y como se determinó en el estudio de Petersen et al.15.
+
+Análisis estadístico
+
+Los análisis fueron realizados mediante el programa SAS versión 9.2 (SAS Institute, Cary, NC). Los datos se presentan en media             ± desviación estándar (DE) y/o percentiles según corresponda. El análisis de normalidad se realizó mediante el test de Shapiro-Wilk.             Las proporciones por sexo entre grupos se evaluaron mediante análisis de χ2. Las diferencias entre grupos para variables continuas se determinaron mediante análisis de varianza (PROC MIXED) y las diferencias             específicas mediante test de Tukey. La asociación entre variables se determinó mediante test de Spearman. El nivel de significación             se fijó en 5%.
+
+Características de los individuos
+
+De la muestra estudiada 82% correspondió a mujeres y 18% a hombres. Se observaron diferencias en las edades entre los diferentes             grupos según tolerancia a la glucosa, excepto entre IFG e IFG + IGT (P < 0,001; Tabla 1); 36% de los sujetos tuvo un IMC normal,             40% sobrepeso, 23% obesidad y menos de 1% bajo peso. El IMC resultó ser menor en el grupo normal respecto a los demás grupos             (P < 0,001; Tabla 1). En relación a la tolerancia oral a la glucosa observada en el grupo completo, la mayoría de los sujetos tuvieron una tolerancia             normal a la glucosa (82%), mientras que 6, 9 y 2% estuvieron incluidos en el grupo IFG, IGT e IFG + IGT, respectivamente.
+
+ 
+
+Tabla 1. Características de los individuos según grado de tolerancia a la glucose
+
+ 
+
+Resistencia a la insulina
+
+La distribución por percentiles de las insulinemias a los 60 y 120 min y los índices HOMA-IR e ISI-Composite para el total de la muestra se presenta en la Figura 1. En el total de la muestra el valor del p75 fue 137 y 95 mU/mL para             las insulinemias a los 60 y 120 min, respectivamente (Figura 1a y 1b). Para los índices de RI calculados, el p75 del HOMA-IR             fue 3,01 y el p25 para el ISI-Compositefue 2,32 (Figura 1c y 1d).
+
+ 
+
+
+
+Figura 1. Distribución de insulinemias a los 60 (a), 120 min (b), HOMA-IR (c) e ISI Composite (d) en el total de los individuos.
+
+ 
+
+En la Tabla 2 se puede observar la distribución por percentiles de las insulinemias a los 60 y 120 min según grado de tolerancia oral a             la glucosa. Para los individuos normales, el p75 para la insulinemia a los 60 y 120 min y HOMA-IR fue 127 mU/mL, 81 mU/mL             y 2,76 respectivamente. El p25 para el ISI-Composite fue 2,71.
+
+ 
+
+Tabla 2. Insulinemias e índices de RI para sujetos con normoglicemia y sujetos con disglicemia
+
+ 
+
+Al categorizar al total de los individuos según el ISI-Composite en resistentes (< 2,32) o sensibles (> 2,32) a la insulina, se observó que valores similares a los utilizados en la actualidad             para hacer el diagnóstico de RI, esto es 101 y 67 mU/mL para insulinemias a los 60 y 120 min. Es de destacar que estos valores             corresponden al p75 de los individuos sensibles a la insulina. (Tabla 3). El resto de la distribución por percentiles se puede observar en la misma Tabla.
+
+ 
+
+Tabla 3. Insulinemias e índices de RI para sujetos con RI y no RI según ISI Composite
+
+ 
+
+Asociación entre índices de RI e insulinemias
+
+En la muestra total, la insulinemia a los 60 min mostró una correlación positiva con la insulinemia a los 120 min (r = 0,61,             P < 0,005). Por otra parte, el HOMA-IR con la insulinemia a los 60 y 120 min también mostraron una relación positiva (r =             0,56 y 0,54, respectivamente P < 0,005; Tabla 4). En cuanto al ISI-Composite este mostró una correlación negativa con la insulinemia a los 60 y 120 min (r = -0,79 y -0,75, respectivamente P < 0,005;             Tabla 4). El ISI-Composite con el HOMA-IR mostraron una fuerte correlación inversa (r = -0,89; P < 0,005; Tabla 4).
+
+ 
+
+Tabla 4. Correlación entre índices de RI derivados de la PTGO con insulinemias para el total de sujetos de la muestra
+
+ 
+
+Discusión 
+
+En nuestro medio la medición de insulinemias postcarga oral de glucosa es, pese a las recomendaciones, un método frecuente             para el diagnóstico de RI. A través de este examen se ha asociado a los niveles elevados de insulinemia con el riesgo de presentar             DM y/o enfermedad cardiovascular en estudios prospectivos. En el estudio de Zavaroni et al.16, en forma similar al estudio prospectivo de Paris, se observó que los individuos con insulinemias de ayuno en el cuartil             superior desarrollaron hipertensión arterial, DM tipo 2 y cardiopatía coronaria. Sin embargo, en ambos estudios no se describe             la distribución de las insulinemias en dichas poblaciones.
+
+En nuestro estudio se determinó la distribución de insulinemias a los 60 y 120 min en una población de sujetos con diferentes             grados de tolerancia a la glucosa. Se fijó el p75 para estas variables y para el HOMA-IR, así como el percentil 25 para el             ISI-Composite en el total de sujetos de la muestra, y en aquellos con tolerancia a la glucosa normal, basado en estudios que han demostrado             que sujetos con HOMA-IR en el cuartil superior o bien ISI-Composite en el cuartil inferior tienen un riesgo elevado de presentar comorbilidades comúnmente asociadas a la RI15-16. De este modo se determinó un valor de 137 y 95 mU/mL para insulinemias a los 60 y 120 min en el total de sujetos de la muestra             y valores de 127 y 81 mU/mL para aquellos con tolerancia a la glucosa normal. Los valores entre la muestra total o normales             no difieren mayormente, dado que la mayoría de los sujetos de la muestra total tenían tolerancia a la glucosa normal (n =             1493).
+
+Dado que el ISI-composite ha demostrado la mejor correlación con el clamp euglicémico-hiperinsulinémico para el diagnóstico de RI6 se determinó, al igual que en el estudio de Petersen et al., que sujetos con valores de este índice bajo el p25 (2,32) fueran             considerados como RI. En nuestra muestra se observó que, valores similares a los utilizados actualmente para hacer el diagnóstico             de RI, 101 y 67 mU/mL para insulinemias a los 60 y 120 min, corresponden al p75 de los individuos sensibles a la insulina.             Esto significa que, siguiendo la práctica clínica habitual, 25% de los sujetos de nuestra muestra y que tienen sensibilidad             a la insulina normal serían diagnosticados como RI, lo que recalca la importancia de revisar el uso de estos valores.
+
+Con respecto a cómo se correlacionan los valores de insulinemia con el HOMA-IR e ISI-Composite en el total de la muestra, se observó una alta correlación de estos dos últimos índices (r = -0,89; Tabla 4), comparable             a la observada por Matsuda et al. (r = 0,69; P < 0,001) en el total de una muestra de 153 sujetos con diferentes grados de             tolerancia a la glucosa7. En cuanto a la correlación del ISI-Composite con insulinemias a los 60 y 120 min esta demostró ser menor (r = -0,79 y r = -0,75 respectivamente; Tabla 4). Más débil resultó             la correlación del HOMA-IR con insulinemias a los 60 y 120 min (r = 0,56 y r = 0,54, respectivamente; Tabla 4).  Estos resultados             son esperables considerando primero: las limitaciones técnicas con respecto a la medición de insulina en sangre, y segundo:             que los valores de insulinemia elevados post carga oral de glucosa si bien representan una repuesta compensatoria a un estado             de RI, no corresponden a índices de RI propiamente tal pues no consideran las variaciones que suceden concomitantemente en             las glicemias, como sí lo hacen el HOMA-IR y el ISI-Composite.
+
+Finalmente, nuestro estudio tiene algunas debilidades. En primer lugar, la muestra corresponde a sujetos que se realizaron             PTGO a solicitud de su médico tratante, y no a una población de voluntarios sanos seleccionados aleatoriamente. En segundo             lugar, una gran proporción de sujetos tenían sobrepeso u obesidad, eran mujeres y además se incluyeron adultos mayores, por             lo que la prevalencia de hiperinsulinemia puede ser mayor. Como fortaleza está el gran tamaño de la muestra, la reproducibilidad             y uniformidad del método que se utilizó para determinar la glicemia e insulinemia plasmática.
+
+En conclusión, a partir de nuestros resultados, proponemos utilizar como punto de corte para estimar la RI en nuestra población,             los  valores de 130 y 80 mU/mL, correspondientes a una aproximación de los 127 y 81 mU/mL para insulinemias a los 60 y 120             min de una PTGO en individuos normoglicémicos. Debe especificarse que estos valores son aplicables para el método de detección             de insulina empleado en nuestro laboratorio y que sus resultados deben ser  evaluados conjuntamente con el cuadro clínico.
+
+ 
+
+1.	Salazar MR, Carbajal HA, Espeche WG, Dulbecco CA, Aizpurúa M, Marillet AG, et al. Relationships among insulin resistance,             obesity, diagnosis of the metabolic syndrome and cardio-metabolic risk. Diab Vasc Dis Res 2011; 8 (2): 109-16.            [ Links ]
+
+2.	López G. Consenso elaborado por  la Sociedad Chilena de Endocrinología y Diabetes sobre Resistencia a la Insulina y Síndrome             Metabólico. Aspectos Clínicos y terapéuticos. Rev Chil Endocrinol diabetes 2008; 1 (4): 272-81.            [ Links ]
+
+3.	De Fronzo RA, Tobin JD, Andres R. Glucose clamp technique: a method for quantifying insulin secretion and resistance. Am             J Physiol 1979; 237 (3): 214-23.            [ Links ]
+
+4.	Hansen T, Drivsholm T, Urhammer SA, Palacios RT, Vølund A, Borch-Johnsen K et al. The BIGTT test: a novel test for simultaneous             measurement of pancreatic beta-cell function, insulin sensitivity, and glucose tolerance. Diabetes Care 2007; 30 (2): 257-62.            [ Links ]
+
+5.	Wallace TM, Levy JC, Matthews DR. Use and abuse of HOMA modeling. Diabetes Care 2004; 27 (6): 1487-95.            [ Links ]
+
+6.	Matsuda M, De Fronzo RA. Insulin sensitivity indices obtained from oral glucose tolerance testing: comparison with the             euglycemic insulin clamp. Diabetes Care 1999; 22 (9): 1462-70.            [ Links ]
+
+7.	Stumvoll M, Mitrakou A, Pimenta W, Jenssen T, Yki-Järvinen H, Van Haeften T et al. Use of the oral glucose tolerance test             to assess insulin release and insulin sensitivity. Diabetes Care 2000; 23 (3): 295-301.            [ Links ]
+
+8.	Fontbonne AM, Eschwège EM. Insulin and cardiovascular disease. Paris Prospective Study. Diabetes Care 1991; 14 (6): 461-9.            [ Links ]
+
+9.	Robbins DC, Andersen L, Bowsher R, Chance R, Dinesen B, Frank B, et al. Report of the American Diabetes Association’s Task             Force on standardization of the insulin assay. Diabetes 1996; 45 (2): 242-56.            [ Links ]
+
+10.	Manley SE, Stratton IM, Clark PM, Luzio SD. Comparison of 11 human insulin assays: implications for clinical investigation             and research. Clin Chem 2007; 53 (5): 922-32.            [ Links ]
+
+11.	Staten MA, Stern MP, Miller WG, Steffes MW, Campbell SE. Insulin assay standardization: leading to measures of insulin             sensitivity and secretion for practical clinical care. Diabetes Care 2010; 33 (1): 205-6.            [ Links ]
+
+12.	Diagnosis and Classification of Diabetes Mellitus. Diabetes Care 2010; 33 (Suppl 1): s62-s69.            [ Links ]
+
+13.	Encuesta Nacional de Salud Chile. ENS 2009-2010. Tomo III: Metodología. Recuperado de http://webminsal.cl en julio de             2014.            [ Links ]
+
+14.	Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, Turner RC. Homeostasis model assessment: insulin resistance             and beta-cell function from fasting plasma glucose and insulin concentrations in man. Diabetologia 1985; 28 (7): 412-9.            [ Links ]
+
+15.	Petersen KF, Dufour S, Feng J, Befroy D, Dziura J, Dalla Man C, et al. Increased prevalence of insulin resistance and             nonalcoholic fatty liver disease in Asian-Indian men. Proc Natl Acad Sci USA 2006; 103 (48): 18273-7.            [ Links ]
+
+16.	Zavaroni I, Bonini L, Gasparini P, Barilli AL, Zuccarelli A, Reaven GM. Hyperinsulinemia in a normal population as a predictor             of non-insulin-dependent diabetes mellitus, hypertension, and coronary heart disease: the Barilla factory revisited. Metabolism             1999; 48 (8): 989-94.            [ Links ]
+
+ 
+
+Recibido el 2 de abril de 2014, aceptado el 6 de agosto de 2014.
+
+ Correspondencia a: Constanza Arancibia Verdugo    
+
+       Teléfono: 22111664     ciaranci@uc.cl  coni77777@gmail.com 
+
+Conflictos de Intereses: Constanza Arancibia  José Galgani  Juan P. Valderas  Mauricio Morales  José Luis Santos  Felipe Pollak    
+
+Constanza Arancibia
+
+ José Galgani
+
+ Juan P. Valderas
+
+ Mauricio Morales
+
+ José Luis Santos
+
+ Felipe Pollak 
+
+ 

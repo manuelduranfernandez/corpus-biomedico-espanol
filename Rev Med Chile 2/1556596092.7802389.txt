@@ -1,0 +1,170 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000400413
+Utilidad pronóstica del PET/CT en cáncer de páncreas
+
+Artículo de Investigación
+
+Utilidad pronóstica del PET/CT en cáncer de páncreas
+
+Prognostic value of PET/CT in pancreatic cancer
+
+David Ladrón de Guevara1 
+
+			
+
+Gonzalo Pavez2 
+
+			a
+
+Jaime Zapata3 
+
+			b
+
+Claudio Romero3 
+
+			b
+
+Valezka Tapia3 
+
+			b
+
+Erwin Buckel4 
+
+			
+
+Mario Ferrario4 
+
+			
+
+1Departamento de Radiología, Clínica Las Condes. Santiago, Chile.
+
+2Escuela de Postgrado de la Facultad de Medicina de la Universidad de Chile. Santiago, Chile.
+
+3Escuela de Medicina. Facultad de Medicina. Universidad de Chile. Santiago, Chile.
+
+4Departamento de Cirugía, Clínica Las Condes, Santiago, Chile.
+
+
+
+
+
+RESUMEN
+
+Background:
+
+Pancreatic cancer is the tenth most prevalent cancer in world, and represents the fourth cause of cancer death. It has a five year-survival of 5%.
+
+Aim:
+
+To assess the prognostic value of PET/CT in pancreatic cancer.
+
+Material and Methods:
+
+Sixty-nine patients with pancreatic adenocarcinoma who underwent staging 18F-fluorodeoxyglucose (FDG) PET/CT between December 2008 and July 2016 were selected. Gender, age, body-mass index, laboratory tests (Ca 19-9, hemoglobin, erythrocyte sedimentation rate, liver enzymes, lactate dehydrogenase), histological differentiation of tumor, American Joint Committee on Cancer (AJCC) stage, size and 18F-FDG uptake (maximal stan-dardized uptake value [SUVmax]) of the primary tumor, nodal involvement and distant metastasis detected by PET/CT were registered. Survival was assessed using Kaplan-Meier curves, Log Rank test and Cox multivariable analysis.
+
+Results:
+
+Mortality was 66.7%, during a mean observation time of 18 months (range 20 days-66 months). Curative surgery, lack of metastases detected by PET/CT, histologically well differentiated tumors, and SUVmax ≤ 4.3 were significantly associated with a better specific survival, determined by the Log Rank test. Histological differentiation was the only variable that had a statistically significant prognostic value in the multivariable analysis.
+
+Conclusions:
+
+The detection of distant metastases and the intensity of primary tumor 18F-FDG uptake during PET/CT provide useful prognostic information in pancreatic cancer patients.
+
+El cáncer de páncreas es la décima neoplasia maligna en prevalencia, y representa la cuarta causa de mortalidad por cáncer en Estados Unidos de Norteamérica, con un riesgo de desarrollarlo de 1,5% durante el período vital1. Cerca de 330.000 personas fallecieron por cáncer de páncreas en el año 2012 en el mundo2. En Chile, según datos de GLOBOCAN, se espera que para 2020, 1.524 pacientes sean diagnosticadas con esta enfermedad2.
+
+La sobrevida en cáncer de páncreas llega a ser dramáticamente baja, hasta 5% a 5 años, lo que se atribuye a su alta letalidad y presentación tardía3. Al tiempo del diagnóstico, solo 20% se llegan a tratar con intención curativa4. En aquellos tumores de cabeza pancreática que han sido diagnosticados precozmente y operados, la sobrevida global a 5 años llega a ser de hasta 27%5. No obstante, para casos avanzados, la sobrevida no sobrepasa los 9-15 meses, y en casos de enfermedad metastásica, los 3 y 6 meses6.
+
+El principal factor pronóstico en cáncer de páncreas es el grado de avance de la enfermedad, tanto de la invasión local como de metástasis a distancia7. Es por esto que las imágenes, principalmente tomografía computada (TC) y resonancia magnética y la exploración quirúrgica son las herramientas principales en la valoración pronóstica.
+
+La tomografía por emisión de positrones-to-mografía computada (PET/CT) utilizando flúor18-fluorodeoxiglucosa (F18-FDG) es una técnica híbrida muy utilizada en oncología, tanto en etapificación, como en evaluación de tratamiento y seguimiento. Sin embargo, no forma parte del estudio imagenológico convencional en la etapificación de cáncer de páncreas, y por lo tanto hay pocos datos disponibles sobre su utilidad pronóstica. A pesar de esto, la escasa literatura disponible sugiere que el PET/CT aportaría información pronóstica, particularmente en relación al grado de captación de F18-FDG que presenta la lesión primaria8-10. Esto se debería a que los tumores biológicamente más agresivos suelen presentar mayor avidez de F18-FDG, hecho que determina su utilidad como marcador biológico en diversos tipos de neoplasias11. Para medir esta captación, se han utilizado índices semicuantitativos que traducen la intensidad de captación de FDG en el tumor primario (valor de captación estándar: SUV), la masa tumoral activa (volumen tumoral metabólico: VTM), o una combinación de ambos (masa tumoral glicolítica: MTG)8,12,13,14.
+
+En un reciente metaanálisis sobre la utilidad pronóstica del PET/CT en cáncer pancreático, Zhu et al15 recopilan la experiencia de 16 estudios en un total de 1.146 pacientes, y a pesar de la heterogeneidad de los resultados encontrados, concluyen que el valor de captación estándar máximo (SUVmax), VTM y mTg pudieran ser factores pronósticos significativos en estos pacientes. En nuestra revisión bibliográfica, no encontramos publicaciones referentes a la experiencia local ni regional en la evaluación de la utilidad pronóstica del PET/CT en cáncer pancreático.
+
+El objetivo de este estudio es estimar la utilidad pronóstico de sobrevida del PET/CT con F18-FDG en pacientes con cáncer de páncreas recientemente diagnosticado.
+
+Pacientes y Método
+
+Se trata de un estudio pronóstico retrospectivo. Para la selección de pacientes se consultó la base de datos de PET/CT de Clínica Las Condes.
+
+Se seleccionaron los pacientes derivados por tumor o cáncer de páncreas en etapificación entre diciembre de 2008 y julio de 2016, que tuvieran confirmación histopatológica de adenocarcinoma de páncreas. Se excluyeron los tumores con histología distinta al adenocarcinoma (linfoma, tumor de células de los islotes, etc). Los pacientes extranjeros y no residentes en Chile fueron excluidos debido a la imposibilidad de averiguar su estado vital.
+
+Se revisaron las imágenes del PET/CT registrándose: SUVmax del tumor primario; número y ubicación de ganglios linfáticos comprometidos; y ubicación de las metástasis a distancia. Se consideró metástasis a distancia a la siembra secundaria no ganglionar, tal como hepática, peritoneo-omental, ósea, pulmonar, pleural, u otra localización lejana al tumor.
+
+Se revisó la ficha clínica institucional rescatando la siguiente información: peso, talla, índice de masa corporal (IMC), etapificación clínica y patológica según American Joint Commettee on Cancer (AJCC)16, exámenes de laboratorio (Ca 199, hemoglobinemia, velocidad de eritrosedimenta-ción [VHS], transaminasa glutámico oxaloacética [TGO], trasnaminasa glutámico pirúvica [TGP], fosfatasas alcalinas [FFAA], deshidrogenasa láctica [LDH]), lipasa), grado de diferenciación a la histopatología. También se registró el tipo de tratamiento efectuado, ya sea cirugía curativa, quimioterapia, radioterapia, o ambos.
+
+Para evaluar la utilidad pronóstica de la clasificación AJCC se separaron a los pacientes en etapas 0, I, II, III y IV, y en subetapas 0, IA, IB, IIA, IIB, III y IV.
+
+El estado vital se indagó mediante solicitud de certificados de defunción al Servicio de Registro Civil e Identificación de Chile. Se calificaron como fallecidos para efectos de determinación de supervivencia cáncer-específica, aquellos pacientes que presentaron “cáncer de páncreas” como causa de muerte primaria o secundaria. Aquellos pacientes con fallecimiento de otra causa fueron considerados vivos hasta ese momento. Dichos pacientes y aquellos no fallecidos durante el tiempo de observación fueron considerados como “censurados” para los efectos del análisis de sobrevida.
+
+Protocolo de FDG-PET/CTy medición de parámetros
+
+El examen PET/CT se realizó en equipo GE Discovery STE 16 canales (GE Healthcare, Wakesha, WI, EE. UU.) en todos los casos, 1 h después de administrar F18-FDG en dosis de 0,1 mCi/Kg por vía endovenosa. Los pacientes fueron citados en ayunas (al menos 6 h). El examen se realizó solo en pacientes con glicemias menores a 200 mg/ dl. En caso de glicemias mayores a 200 mg/dl se administró suero fisiológico 500-1.000 ml, hasta alcanzar glicemias adecuadas.
+
+Inmediatamente después del PET/CT, y sin mover al paciente de la camilla del PET/CT, se realizó TC de cerebro, cuello, tórax, abdomen y pelvis en todos los casos, previa administración de medio de contraste iodado endovenoso. El examen fue interpretado por un especialista doble radiólogo/ médico nuclear.
+
+Para efectos de este estudio se registró tamaño (mm), VTM (cc) y SUVmax y SUVpromedio del tumor pancreático, número y ubicación de adenopatías, y localización de metástasis a distancia. Para la estimación de la captación se utilizará el índice SUVmax, que equivale a la actividad de una lesión dividida por el volumen conocido de un vóxel según la fórmula:
+
+El VTM se obtuvo dibujando un área de interés 3D alrededor del tumor pancreático, con selección automática de los vóxel con SUVmax ≥ 2,5 según método de Lee et al13 (Figura 1). La MTG se estimó de acuerdo a la fórmula VTM x SUVpromedio según lo publicado previamente13.
+
+Figura 1 Paciente en etapificación por cáncer de páncreas. Imagen superior derecha: tomografía computada contrastada que muestra extensa lesión hipodensa en cuerpo y cola pancreática (flecha), que infiltra vasos esplénicos. Imagen inferior derecha: PET/CT muestra lesión pancreática parcialmente necrótica con VTM de 30,4 cc y SUVmax: 7,4. Imagen izquierda: Maximun intensity projection (MIP) del PET con lesión hipercaptante pancreática, sin metástasis evidentes. 
+
+Análisis estadístico
+
+El diseño muestral es no probabilístico consecutivo, que cumpla con los criterios de inclusión.
+
+Para comparación de variables cuantitativas entre grupos fallecidos vs no fallecidos se utilizaron pruebas paramétricas (t-test) y no paramétricas (Mann-Whitney), según correspondiera. Para estudiar variables cualitativas se utilizó el test exacto de Fischer. La sobrevida específica se estudió utilizando curvas de Kaplan-Meier, log-rank test, y regresión multivariable de Cox, pruebas que se aplicaron a cada una de las variables clínicas, de laboratorio, histopatológicas y del PET/CT.
+
+Aspectos éticos
+
+La base de datos de PET/CT de la cual fueron seleccionados los casos cuenta con la aprobación para su utilización con estos fines por el Comité de Ética de la institución. Todos los pacientes incluidos en este estudio han adherido y firmado un consentimiento informado para realizar investigación utilizando los estudios de PET/CT. Para efectos del análisis de los datos y la publicación del estudio, se usó la información codificada. Se protegió la privacidad y confidencialidad de la información de los pacientes del estudio.
+
+Resultados
+
+De un total de 69 pacientes con cáncer de páncreas, 66,7% falleció por causa del cáncer pancreático durante el seguimiento, con un tiempo de observación promedio de 18 meses (rango 20 días-66 meses). Dos pacientes fallecieron por causa no relacionada directamente al cáncer pancreático, los que fueron observados como vivos hasta ese momento.
+
+La comorbilidad, laboratorio, características del tumor pancreático y tratamientos efectuados a los pacientes se muestra en la Tabla 1. Al comparar entre grupos de pacientes según estado vital, se encontró que los pacientes fallecidos presentaron niveles significativamente mayores de LDH (p: 0,024) y Ca19-9 (p: 0,045), niveles menores de lipasa (p: 0,039), mayor frecuencia de metástasis a distancia en el PET/CT (p: 0,038), menor frecuencia de cirugías curativas (p: 0,027) y mayor frecuencia de uso de quimioterapia (p: 0,002) (Tabla 1).
+
+Tabla 1 Comorbilidad, laboratorio y características del tumor según estado vital 
+
+IMC: Índice de masa corporal; VTM: Volumen tumoral metabólico; MTG: Masa tumoral glicolítica. Test estadísticos:
+
+*T-test;
+
+**Test exacto de Fischer;
+
+***Test de Mann-Whitney.
+
+†Chi cuadrado en análisis de más de dos grupos.
+
+Al utilizar curvas de Kaplan-Meier y log-rank test se demostró mayor sobrevida en pacientes operados con criterio curativo (mediana 67,8 meses, 24,2-111,2 m, IC 95%) vs aquellos tratados en forma paliativa (mediana 11,2 meses, 7,4-15,0 m, IC 95%) (p: 0,001), en pacientes sin metástasis a distancia al PET/CT (mediana 24,8 meses, 7,2-42,3 m, IC 95%) vs metastásicos (mediana 12,5 meses, 9,3-15,6 m, IC 95%) (p: 0,015), en tumores bien diferenciados vs moderada vs mal diferenciados (log-rank test de tendencia: Chi cuadrado: 7,019, p: 0,03), y en tumores con SUVmax ≤ 4,3 (mediana 22,9 meses, 7,2-37,0 m, IC95%) vs tumores de mayor captación (mediana 12,8 meses, 8,0-17,5 m, IC 95%) (p: 0,045). Las curvas de Kaplan-Meier se muestran en Figuras 2, 3, 4 y 5, respectivamente.
+
+Figuras 2 y 3 Curvas de Kaplan-Meier según factor pronóstico. 
+
+Figuras 4 y 5 Curvas de Kaplan-Meier según factor pronóstico. 
+
+El análisis de regresión multivariable solo mostró significación para el grado de diferenciación histológico del adenocarcinoma de páncreas (p: 0,025), con mayor sobrevida en tumores bien/ moderado vs mal diferenciados.
+
+Discusión
+
+La posibilidad de establecer una estimación pronóstica de una enfermedad determinada es de suma importancia para la toma de decisiones en salud. Constituye información relevante para el paciente y sus familiares, y es indispensable al momento de plantear opciones terapéuticas y planificar adecuadamente la administración de recursos17.
+
+El principal factor pronóstico a considerar en adenocarcinoma de páncreas es el grado de avance de la enfermedad al momento del diagnóstico, lo que condiciona a su vez la opción de tratamiento curativo, cual es la cirugía7. La diseminación a distancia determina generalmente irresecabilidad, sin posibilidad de curación. Esto se ve reflejado en nuestros resultados, donde las variables cirugía curativa y ausencia de metástasis visibles al PET/ CT se asocian a una mejor sobrevida específica utilizando curvas de Kaplan-Meier. La falta de significación pronóstica del estadio AJCC puede ser explicada en parte por la división en etapas (0, I, II, III y IV) y subetapas, lo que podría restar significación en nuestro grupo relativamente pequeño de pacientes.
+
+El grado de diferenciación tumoral del adenocarcinoma a la histopatología, y la intensidad de captación de F18-FDG medido mediante SUVmax también presentaron valor pronóstico de sobrevida, lo que es concordante con la literatura8-10. Estas dos variables han mostrado alta correlación en una variedad de tumores malignos, por cuanto a mayor desdiferenciación tumoral, mayor índice prolife-rativo y agresividad del cáncer, lo que se asocia a mayor expresión de receptores GLUT y consumo de glucosa11,18. Ya que la intensidad de captación de F18-FDG es considerado un marcador biológico de actividad y agresividad del tumor11, y en el caso del cáncer de páncreas parece tener valor pronóstico, creemos que pudiera ser considerada al momento de plantear las opciones terapéuticas y sobrevida estimada, especialmente en el grupo de pacientes sin metástasis al momento del diagnóstico. Esto porque quizás aquellos tumores de alto grado histológico o con captaciones altas de FDG, pudieran requerir un tratamiento más agresivo, que además de la cirugía incorpore otras herramientas terapéuticas pre o postquirúrgicas, tanto terapias sistémicas como radioterapia del lecho quirúrgico19,20.
+
+En 55 pacientes con cáncer de páncreas irresecable que se trataron con radioterapia estereotáxica, Schellenberg et al14 establecieron que aquellos tumores con SUVmax pretratamiento ≥ 6,2 presentaban menor sobrevida que los de menor captación. En un estudio de 64 pacientes con cáncer de páncreas, Choi et al9 encontraron que un SUVmax > 3,5 y una pobre diferenciación tumoral conferían un peor pronóstico de sobrevida. Sperti et al10 calcularon el SUV de 60 pacientes con adenocarcinoma de páncreas, y determinaron que aquellos con SUV ≥ 4 presentaron menor sobrevida. En el análisis multivariable ellos encontraron que el SUV y la etapa tumoral fueron los factores pronósticos más significativos. El valor de corte SUVmax de 4,3 obtenido en nuestra muestra es similar a los mencionados estudios, y la discreta variación en sus valores solo expresa las distintas condiciones en que fue obtenido (método de adquisición del PET/CT, variabilidad intrínseca de los distintos equipos y características propias de los pacientes).
+
+La relativa similitud de valores del SUVmax respecto a lo publicado le confiere una robustez particular a nuestro estudio, y apoya la validez externa de sus resultados. Por otro lado, reafirma la necesidad de obtener resultados propios para cada centro, con valores de corte reales para una población y equipo PET/CT particulares, que legitimen su aplicación clínica.
+
+Una de las fortalezas de nuestro estudio es la alta tasa de seguimiento de los pacientes, con acceso a la historia clínica antes y después del diagnóstico, a exámenes de laboratorio y test confirmatorios anatomopatológicos del tumor primario. Sin embargo, no se trata de un estudio pronóstico propiamente tal, ya que no es de naturaleza prospectiva ni se lleva a cabo un seguimiento sistemático. El punto de inicio corresponde al momento exacto del diagnóstico del cáncer, cuando es solicitado el PET/CT de etapificación, y el seguimiento se lleva a cabo de acuerdo a criterios clínicos, particulares para cada paciente, con punto de corte al momento de consulta del estado vital en el registro civil.
+
+Una limitación de nuestro estudio es que la población incluida no representa necesariamente a la población general con cáncer de páncreas, ya que se incluyeron solo pacientes a los que se les realizó PET/CT, posiblemente con más factores de riesgo o con cuadros más complejos desde el punto de vista diagnóstico. Por otro lado, la condición socioeconómica y acceso a determinados sistemas de salud de la muestra puede diferir respecto a la población general de nuestro país, particularmente a aquella que se atiende en el sistema público. Estos sesgos de muestreo son factores que pudieran disminuir la validez externa de los resultados obtenidos. Sin embargo, la resecabilidad de 21,7% del grupo estudiado (15/69) y la frecuencia de metástasis ganglionares (59,4%) y a distancia (58%) encontradas, concuerdan perfectamente con lo descrito en la literatura4,19,20, lo que sugiere una adecuada representatividad de nuestra muestra respecto a los datos disponibles.
+
+Como ya se mencionó anteriormente, otra limitación de nuestro estudio es el pequeño tamaño muestral, problema que se repite en otras publicaciones similares. Esto por supuesto disminuye la capacidad de encontrar significación estadística en la valoración de las variables estudiadas. Este hecho puede explicar en parte que algunos factores no resultaron significativos en nuestro estudio, pero sí mostraron utilidad pronóstica en otros, tales como el estadio AJCC10, tamaño tumoral13, la etapa T patológica13, el VTM12-14, el MTG12,13,21, y los niveles sanguíneos de Ca19-912.
+
+Además de la utilidad pronóstica del PET/CT sugerida en nuestro estudio, es necesario, antes de recomendar su uso clínico en etapificación de cáncer de páncreas, determinar su valor diagnóstico, asunto que no ha sido demostrado suficientemente en la literatura, y que no formó parte de los objetivos de este trabajo.
+
+Conclusión
+
+El PET/CT proporciona información pronóstica de gran utilidad en pacientes con cáncer de páncreas, como la existencia de metástasis a distancia y la intensidad de captación de FDG por el tumor pancreático. Junto con el grado de diferenciación histológica, fueron los factores pronósticos más importantes en el grupo estudiado.
+
+Trabajo no recibió financiamiento.

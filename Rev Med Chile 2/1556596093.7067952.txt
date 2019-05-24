@@ -1,0 +1,108 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000500603
+Efectividad de las intervenciones educativas con enfoque multifactorial y seguimiento vía telefónica sobre la rehospitalización en pacientes con insuficiencia cardiaca: revisión sistemática y meta-análisis
+
+La insuficiencia cardíaca (IC), representa un problema de salud pública y una epidemia emergente dentro de las enfermedades cardiovasculares, por su prevalencia y costos de tratamiento, constituyendo un verdadero reto a la investigación cardiovascular 1 , 2 . En el mundo, más de 26 millones de personas presentan esta patología. Solo en Estados Unidos, la IC tiene una prevalencia actual de más de 5,7 millones, con una incidencia de 670.000 personas al año 2 . La prevalencia aumenta en forma progresiva con la edad, correspondiendo a 3% de la población adulta de los países desarrollados, hasta llegar a 10% en personas mayores de 65 años, razón por la cual es la principal causa de hospitalización, con predominio del sexo masculino y con alta comorbilidad 2 – 5 . La duración promedio de la estancia hospitalaria oscila entre 4 a 20 días y la mortalidad intrahospitalaria es de 4% a 30% 5 . En Chile, la hospitalización promedio fue de 10 ± 9 días y la mortalidad intrahospitalaria fue de 5,6% 6 , 7 .
+
+A pesar de que el manejo de la IC ha evolucionado en las últimas décadas, a través de mejoras en el tratamiento médico y farmacológico, cada día los pacientes se enfrentan a la gestión de un complejo y progresivo problema médico 8 .
+
+Orientado a mejorar el pronóstico, se han desarrollado variadas estrategias educativas para el paciente 9 , 10 , existiendo distintos modelos de intervenciones educativas, en todos, la participación del profesional enfermero/a es un elemento clave en el manejo de los programas de IC, al ser el principal proveedor de educación 11 , 12 .
+
+Uno de los momentos más vulnerables para los pacientes con IC es el alta hospitalaria, debido a que es un proceso complejo y multidisciplinario en el cual existen grandes posibilidades de descompensación y reingresos 13 , 14 .
+
+Según Navarrete 15 , una de las principales herramientas en el manejo del paciente con IC es el seguimiento telefónico estructurado al alta hospitalaria, pues sustituye el contacto tradicional, promoviendo la continuidad de los cuidados.
+
+Material y Método
+
+El diseño fue revisión sistemática con meta-análisis, en pacientes dados de alta de un centro hospitalario con diagnóstico de Insuficiencia Cardiaca.
+
+Criterios de inclusión
+
+Ensayos clínicos, estudios prospectivos con intervención los primeros 30 días (mínimo período de tiempo) después del alta, que tenían como intervención: educación acerca de la patología, tratamiento farmacológico, manejo de nutrición o peso, más seguimiento por vía telefónica por al menos 30 días.
+
+Participantes incluidos: mayores de 18 años, con diagnóstico de IC, en seguimiento ambulatorio y con tratamiento farmacológico. Fueron excluidos: participantes con deterioro cognitivo grave documentado en historia clínica, pacientes que no aceptasen el grupo asignado y aquellos con IC sometidos a cirugía de revascularización el mes anterior a la hospitalización.
+
+El resultado medido fue la rehospitalización por IC.
+
+Se utilizaron las bases de datos electrónicas: Pubmed, Scopus, EMBASE, ScienceDirect, CINHAL, ISI Web of Science, Google Scholar y Clinical Trials. Se utilizaron descriptores controlados extraídos del Medical Subjects Headings (MeSH) y palabras no controladas extraídas de las palabras claves de los artículos seleccionados. La combinación de las palabras claves fue: ((((((Chronic heart failure[MeSH] OR Congestive heart failure[MeSH Terms] OR Myocardial Failure[MeSH Terms] OR Heart Failure[MeSH Terms]) AND ((((((((Education of patients[MeSH Terms]) OR Educational nursing researchs[MeSH Terms]) OR Health education[MeSH Terms]) OR Telephone inter-view[MeSH Terms]) OR Structured telephone support) OR Follow up studies[MeSH Terms])))) AND ((Patient readmission[MeSH Terms]) OR Hospital readmission[MeSH Terms])) AND Clinical Trial[ptyp] AND adult[MeSH])) AND Clinical Trial[ptyp] AND adult[MeSH]).
+
+Dos revisores independientes identificaron en el título y resumen los artículos con información del tema tratado y de acuerdo a los criterios de elegibilidad, clasificando los artículos como “incluido”, “excluido” y “dudoso”. Los dudosos fueron leídos en su metodología para reclasificarlos como incluidos o excluidos. Los incluidos fueron revisados a texto completo para analizar a fondo su pertinencia con el tema que se está estudiando. Los revisores evaluaron en forma independiente, la calidad de cada artículo seleccionado con la ayuda de la lista de comprobación CONSORT ( Consolidated Standards of Reporting Trials ; en español: Normas consolidadas para la publicación de ensayos clínicos) 16 , y aplicaron a cada estudio, un listado de estímulos que permitió evaluar el potencial riesgo de sesgo de cada uno de los estudios incluidos, según lo señalado por la Colaboración Cochrane.
+
+En aquellos estudios donde existieron discrepancias en la valoración de la calidad metodológica, los evaluadores consensuaron un grado de acuerdo, en aquellos donde no hubo acuerdo, un tercer evaluador actúo como árbitro.
+
+Todos los estudios que se incluyeron fueron evaluados según el nivel de evidencia que aportaron, de acuerdo a la propuesta del grupo GRADE ( Grading of Recommendations, Assessment, Development and Evaluation ), que evalúa la calidad para cada uno de los desenlaces considerados como claves en una misma pregunta de interés 17 .
+
+Los resultados primarios se combinaron en una media ponderada del riesgo relativo, con 95% de confianza. Se utilizó el método de efectos aleatorios de Mantel-Haenszel 18 para datos con heterogeneidad estadística, previa comprobación con prueba Q de DerSimonian y Laird, más el estadístico de Higgins I 2 . Los resultados se entregaron en un Diagrama de Bosque o Forest plot 17 .
+
+Resultados
+
+La búsqueda consideró 452 artículos no duplicados extraídos de ocho bases de datos, de los cuales, 413 fueron excluidos, debido a que no cumplían con los criterios de inclusión, 42 fueron dudosos, por lo tanto, se evaluaron a texto completo para su elegibilidad, quedando disponibles 4 estudios para la fase cualitativa y 3 para la cuantitativa.
+
+La Figura 1 muestra el proceso de selección de los artículos incluidos en esta RS.
+
+Figura 1 Diagrama de flujo de los estudios evaluados. 
+
+Los 4 estudios seleccionados son ensayos clínicos, con un grupo control y uno de intervención. Un artículo 20 no menciona la forma de aleatorización; sin embargo, se aceptó incluirlo en la RS por presentar características de edad, escolaridad, índice de masa corporal, ocupación, fracción de eyección, clase funcional, etiología y presiones arterial sistólica y diastólica similares en los dos grupos de comparación al inicio del estudio.
+
+Todos los artículos evaluaron a pacientes con diagnóstico de IC y un artículo 21 evalúa también a pacientes con Síndromes Coronarios Agudos. El promedio de edad de los pacientes de los 4 artículos es de 60 años, siendo reclutados de Estados Unidos (2 artículos), Barcelona (1 artículo) y Brasil (1 artículo). El total de pacientes ingresados a los cuatro estudios fue de 1.670. Las pérdidas de seguimiento en los dos grupos de comparación fueron: abandono del tratamiento y por voluntad durante el seguimiento, problemas logísticos con la comunicación telefónica o fallecimiento. Las características básicas de los estudios incluidos se muestran en la Tabla 1 .
+
+Tabla 1 Caracteristicas de los estudios incluidos 
+
+El estudio de Domingues et al 20 comparó a dos grupos de intervención entre pacientes hospitalizados debido a IC descompensada: el grupo control (GC) recibió intervención educativa de enfermería durante la hospitalización y el grupo intervención (GI) recibió intervención educativa hospitalaria seguida de monitoreo por teléfono post alta hospitalaria durante tres meses.
+
+En el período de tres meses de intervención y seguimiento, la rehospitalización por IC o muerte en GI fue de 23% y 22% en el GC, con RR = 1,03 (IC 95%: 0,52-2,07), con p = 0,99. En cuanto a reingresos o muerte por IC u otra patología cardiovascular, en el GI fue de 33% y 35% en el GC, con RR = 0,96 (IC 95%: 0,57-1,61).
+
+En el estudio de Falces et al 22 , se evaluó la eficacia de una intervención multifactorial en el alta hospitalaria de pacientes de edad avanzada con IC para mejorar el cumplimiento del tratamiento, disminuir reingresos y días de hospitalización, además de valorar su impacto sobre la calidad de vida en 103 pacientes.
+
+A los 6 meses en el grupo de intervención, reingresaron 22,6 % versus 42,0%; (p = 0,03), con menor número de reingresos por paciente (0,3 frente a 0,8; p = 0,02) y menos días de hospitalización (2,6 frente a 5,9; p = 0,01). A los 12 meses se mantuvo la tendencia favorable al grupo de intervención, pero sin significación estadística. La curva de supervivencia para la probabilidad de no reingresar en los 12 meses mostró el beneficio de la intervención (p = 0,02), con una razón de riesgo HR = 0,50 (IC 95%: 0,28-0,92).
+
+De Walt et al 23 , compara la eficacia de una sesión frente a un programa de educación multisesión en la incidencia de todas las causas de hospitalización y muerte, en 605 pacientes con diagnóstico de IC y con seguimiento a 1 año. Se utilizó la razón de tasas de incidencia, (IRR). A diferencia del RR, IRR corresponde al cociente entre las tasas de densidad de incidencia entre el grupo expuesto y no expuesto a la intervención. Ahora, por tasa de densidad de incidencia se conoce como el número de casos nuevos / sumatorio de los períodos individuales de riesgo de los susceptibles. Este estimador de riesgo se utiliza cuando el tiempo de seguimiento no es el mismo para todos los pacientes, como lo es reportado en este artículo. Bajo la premisa anterior, la incidencia de todas las causas de hospitalización y muerte no difirió entre los grupos de intervención, con una razón de tasas de incidencia IRR = 1,01 (CI 95%: 0,83; 1,22). Dado que IRR y RR son medidas estadísticas diferentes, este estudio se excluye del MA. No se encontraron datos para deducir RR en los pacientes estudiados.
+
+El estudio de Bell et al 21 busco determinar el efecto de una intervención de salud entregada por un farmacéutico a pacientes hospitalizados con diagnóstico de Síndrome Coronario Agudo (SCA) y/o IC. Participaron 851 pacientes. El tiempo transcurrido hasta el primer evento de atención de la salud no mostró diferencias estadísticamente significativas entre los pacientes de intervención y de atención habitual, HR ajustada = 1,04 (IC 95%: 0,78-1,39). La HR ajustada para el reingreso hospitalario no planificado fue de 0,94 (IC del 95%: 0,63-1,28) y la HR ajustada para las visitas a la sala de emergencia fue de 1,03 (IC 95%: 0,76-1,39).
+
+En relación al riesgo de sesgo alto (color rojo), bajo (color verde) y no claro (color amarillo) la figura 2 ilustra la calificación individual de los cuatro ensayos clínicos una vez evaluado cualitativamente el contenido de sus metodologías y resultados. Se observa que en el estudio de Domingues et al 20 se presentó un alto nivel de sesgo de selección, puesto que no se utilizó algún método de ocultamiento de la secuencia de asignación. En este mismo estudio no queda claro el método de asignación aleatoria, ni cegamiento de participantes y resultados.
+
+Figura 2 Meta-análisis de los reingresos hospitalarios luego de una intervención educacional y seguimiento telefónico (seguimiento entre 30 días y 6 meses). 
+
+El estudio de Falces et al 22 , detectó un alto riesgo de sesgo de desgaste, dado que hubo fallecimientos en ambos grupos de experimentación muy diferentes que hacen desequilibrar la muestra. Además, no queda claro si se minimizó el sesgo de detección, dado que no presenta una metodología que deduzca que haya habido una medición enmascarada de resultados.
+
+Para realizar el meta-análisis, se utilizó el software estadístico Review Manager 5.3. Se combinaron resultados de artículos que hayan evaluado el mismo evento con intervenciones educacionales y seguimiento telefónico con un mínimo de 30 días hasta 6 meses ( Figura 2 ). La medida de precisión para ponderar cada RR es el inverso de la varianza. Se encontraron dos resultados que se podían combinar. En relación a la visita a una unidad de Urgencias, hubo dos estudios y al combinarlos se encontró que no hubo un efecto estadísticamente significativo de las intervenciones educativas y seguimiento telefónico sobre la disminución del reingreso por Urgencias (RR = 1,01; IC 95%: 0,73-1,40; p = 0,96).
+
+Al combinar sólo estudios cuyos datos incluían rehospitalizaciones (sin visita a Urgencia), se encontró que la intervención educativa con seguimiento telefónico no presentó una disminución del reingreso hospitalario (RR = 0,83; IC 95%: 0,58-1,17).
+
+Luego, al combinar estudios que incluían visita a Urgencias y rehospitalización, la aplicación de educación al alta y seguimiento telefónico no disminuye la incidencia de ambos resultados (RR = 0,91; IC 95%: 0,73-1,14).
+
+En el potencial sesgo de publicación ( Figura 3 ), se observa que la parcela inferior del embudo imaginario que se proyecta desde arriba a la base no hay estudios, por lo que es probable un sesgo de este tipo. Sin embargo, los pocos estudios meta-analizados no hacen recomendable su uso, no obstante, presenta una tendencia.
+
+Figura 3 Funnel plot de sesgo de publicación de los estudios incluidos en el metaanálisis. 
+
+Discusión
+
+Con la evidencia recogida de los estudios primarios, para medir los resultados: a) reingresos hospitalarios; b) sólo visitas a unidades de Urgencias y c) artículos combinados, visitas a unidades de Urgencia y Reingresos hospitalarios; se reportó que las intervenciones (estudios que además incluyeron seguimiento por teléfono 30 días y 12 meses) no presentaron un efecto estadísticamente significativo sobre los tres tipos de resultados indicados.
+
+A pesar de que existe evidencia creciente que la educación del paciente con IC disminuye la morbilidad y la mortalidad, reduce las tasas de reingreso hospitalario y mejora la calidad de vida 24 , esta situación no se reflejó en este estudio, debido a factores que se analizan a continuación. El primero plantea que las intervenciones educativas en los artículos consisten en transmisión de contenidos en base a la teoría del aprendizaje conductista o “tradicional”, centrando su interés en el cambio de conducta de los pacientes, pero no en sus expectativas ni en su protagonismo efectivo, cuya participación está condicionada a las características propias del programa. Otro factor es el promedio de edad (60 años), etapa con conocimientos, creencias y costumbres fuertemente arraigadas; por lo tanto, para producir un efecto benéfico con la educación, es necesario que ésta sea significativa y motivadora 25 – 28 . El tercer factor es el tiempo de seguimiento telefónico, (casi un tercio de los reingresos ocurren dentro de una semana de alta), la capacidad de acceder a ellos en los primeros siete días es primordial para el éxito de la intervención, con tiempo suficiente (por llamada y estudio), para esperar mejores resultados 29 . Las dificultades están bien documentadas, muchos pacientes tienen poca conciencia de su enfermedad y escasa motivación, sin embargo, parece ser que una atención personalizada del profesional de salud y seguimientos constantes con el fin de recordar la importancia de las actividades que realiza cada paciente, constituyen un factor de éxito 30 .
+
+Una RS y MA de Inglis et al 32 que incluía 41 estudios en pacientes con IC, demostró que el soporte telefónico estructurado redujo la mortalidad por todas las causas y las hospitalizaciones relacionadas con la IC.
+
+El ECA más grande en Estados Unidos con 174.120 participantes con diversas condiciones crónicas, con seguimiento telefónico durante un año, utilizó elementos de toma de decisiones compartidas, información del paciente, autogestión y habilidades de comunicación, evidenciando reducción en las tasas de hospitalización, procedimientos quirúrgicos y costos de la atención médica 33 .
+
+Las llamadas aspiraron resolver interrogantes de los pacientes, brindar ánimo y reconocer conductas 34 el profesional debe fortalecer sus habilidades de comunicación, protocolizar los cuidados y adaptarlos a las necesidades de cada paciente 35 .
+
+Obstaculizan el autocuidado el promedio de edad de los pacientes con IC, comorbilidades, baja alfabetización en salud y deterioro cognitivo, aislamiento social o depresión, limitaciones funcionales, visuales, auditivas o de movilidad, baja motivación y baja autoestima 22 , 36 , 37 .
+
+Según una RS de estrategias de autocuidado en pacientes con IC 12 es importante la comprensión de las recomendaciones, reconocer el aprendizaje a partir de la experiencia y adoptar un enfoque individualizado para desarrollar habilidades 38 .
+
+Las intervenciones educativas y seguimiento telefónico en esta investigación no refieren la participación de pacientes en la planificación educativa y cumplen un prototipo estándar, incluido el material educativo.
+
+
+
+Limitaciones: Se encontró una cantidad limitada de artículos del tema para metaanalizar. A su vez, crea una oportunidad de fomentar la investigación en este tema.
+
+Conclusión
+
+La gestión de la IC rara vez se optimiza durante la hospitalización, debiendo ajustar los medicamentos y observando signos y síntomas de descompensación posterior al alta, siendo fundamental una transición adecuada entre el hospital y el hogar, para mantener la continuidad de la atención del paciente.
+
+Este estudio demuestra que las intervenciones educativas más el seguimiento telefónico en pacientes con IC, no son efectivas en disminuir las rehospitalizaciones y/o las consultas a Urgencia por IC, sin embargo, estos resultados se podrían explicar en parte, debido a la heterogeneidad de las intervenciones educativas y a los pocos estudios existentes.
+
+Es necesario seguir investigando acerca de cuales pueden ser las características óptimas para un programa exitoso de manejo de la IC.
+
+Publicación derivada de Tesis de Magister en Enfermería mención Gestión del Cuidado Universidad de la Frontera, Chile.

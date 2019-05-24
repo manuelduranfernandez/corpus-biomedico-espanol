@@ -1,0 +1,134 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872016000600012
+Contractilidad ventricular: Fisiología y proyección clínica
+
+ 
+
+La pregunta no es justa porque ustedes tampoco saben la respuesta (respuesta de un estudiante de medicina durante un examen cuando se le preguntó ¿qué es "contractilidad"?).
+
+Fisiología y definiciones
+
+La función sistólica del ventrículo izquierdo determina la eyección de sangre hacia la aorta. El factor central en esta eyección es la capacidad contráctil del sarcómero miocárdico1 para desarrollar fuerza y acortarse gracias a la formación de puentes entre los filamentos de actina y miosina y el deslizamiento de estos filamentos entre sí (Figura 1). El número de puentes y su velocidad de recambio depende de:
+
+
+
+ 
+
+Figura 1.
+
+
+
+1. Proceso intrínseco del sarcómero. Se inicia con la entrada de una pequeña cantidad de ión calcio a la célula por los canales L de calcio durante la despolarización celular, lo que a su vez gatilla la liberación desde el retículo sarcoplásmico hacia el citosol de una gran cantidad de calcio, el que al unirse a troponina en el miofilamento delgado activa la formación de puentes y su recambio. El estado contráctil determinado por este proceso intrínseco se denomina contractilidad, y es regulado por la actividad β adrenérgica y diversas substancias con acción inótropa.
+
+2. Acciones externas al sarcómero, principalmente:
+
+a) Precarga ventricular. Es la longitud del sarcómero al inicio de la contracción. Al dilatarse el ventrículo mayor es la distensión del sarcómero, lo que disminuiría la distancia entre los miofilamentos aumentando la sensibilidad de ellos al calcio, lo cual significa mayor número de puentes y mayor velocidad de recambio, con aumento del volumen expulsivo y gasto cardiaco1. Esto equivale a la ley de Starling. La precarga se evalúa por el volumen ventricular de fin de diástole.
+
+b) Postcarga ventricular. Es la dificultad del ventrículo a la eyección de la sangre, estando aumentada en casos como estenosis aórtica, hipertensión arterial, y al aumentar la rigidez de la aorta. La postcarga también aumenta en el ventrículo dilatado, debido a que el estrés parietal aumenta al incrementar el volumen ventricular según la ley de Laplace1, reflejando una mayor resistencia a expulsar la sangre aún cuando no exista un obstáculo mecánico en la salida ventricular. Con el aumento de la postcarga, mayor es el número de puentes enganchados desarrollando fuerza y menor el número de puentes en reciclaje, por lo cual menor es la velocidad y la magnitud del acortamiento y por ende el volumen expulsivo y gasto cardiaco. La disminución de la postcarga en cambio produce el fenómeno opuesto, con aumento del volumen expulsivo y gasto cardiaco. La postcarga se evalúa por la presión ventricular durante la eyección y en la práctica por la magnitud de la presión arterial sistólica. 
+
+Nótese que tanto el proceso intrínseco del sarcómero como los efectos de cambios de precarga y postcarga dependen del acceso de calcio a los miofilamentos y la mecánica de los puentes. La acción de precarga y postcarga es realmente una modulación del proceso intrínseco, lo que hace elusiva su separación. Sin embargo, en clínica es útil distinguir un cambio del estado contráctil causado por una modificación de la contractilidad, del causado por una modificación de precarga o postcarga. Los cambios de precarga y postcarga ocurren permanentemente en diversas condiciones fisiológicas y patológicas, pudiendo enmascarar una disminución de la contractilidad, por ejemplo en isquemia miocárdica o sobrecarga ventricular crónica (valvulopatía aórtica o mitral), manteniendo un volumen expulsivo normal por un aumento de precarga y/o una disminución de postcarga, demorando el diagnóstico del daño miocárdico y empeorando su pronóstico. La medición de la contractilidad permitiría tomar decisiones terapéuticas en forma precoz. Desgraciadamente, ninguno de los índices de contractilidad invasivos (dp/dt) o subrogantes no invasivos (fracción de eyección, índices de deformación ventricular como strain y strain rate) usados actualmente en clínica son independientes de la precarga y postcarga ventricular1,2, si bien la deformación ventricular, más específicamente strain rate, guarda una buena correlación con ella y tendría valor pronóstico3-7.
+
+Medición de la contractilidad
+
+Medición de la contractilidad "in vitro"
+
+Para conocer en un estudio in vitro si una droga modifica el estado contráctil del miocardio independiente de precarga y postcarga, se mide la fuerza isométrica (postcarga cero porque no hay acortamiento) desarrollada por un músculo papilar a partir de una determinada longitud inicial (precarga), o bien la magnitud de su acortamiento para un determinado peso a levantar (postcarga) y una determinada longitud inicial (precarga). La comparación de los resultados en la condición basal y bajo la acción de la droga demostrará si se modificó la contractilidad.
+
+En cambio, descartar el efecto de la precarga y postcarga para conocer la contractilidad en el corazón entero en el animal de experimentación es difícil, y más aún en el hombre en forma no invasiva. Sólo recientemente, gracias al avance del conocimiento de la función ventricular y el desarrollo de técnicas no invasivas para medir volúmenes ventriculares se ha logrado una buena aproximación a la medición de contractilidad de la cámara ventricular in vivo, extendiendo su aplicación al ser humano. A continuación se describen las bases experimentales de esta aproximación.
+
+Medición de la contractilidad "in vivo" en el animal de experimentación. Elastancia y "bucle ventricular"
+
+La estimación más aceptada actualmente de la contractilidad ventricular es en base a las curvas que relacionan la presión ventricular con el volumen ventricular durante la contracción del miocardio8-10. Midiendo la presión y el volumen ventricular desarrollados en el tiempo a partir de diferentes volúmenes ventriculares de fin de diástole (diferentes precargas) se puede construir curvas de la relación presión-volumen instantáneas para determinados momentos de la sístole (isócronas). La Figura 2 muestra esta relación en el corazón del perro10. Se muestran 5 curvas cada 45 ms entre los 40 y 220 ms después de iniciada la sístole. Cada curva en línea continua (prácticamente una recta en análisis de regresión) corresponde a la presión desarrollada por el ventrículo durante su contracción, ya sea isovolúmica o auxobárica (con acortamiento), para diferentes volúmenes ventriculares en un momento determinado después de iniciada la contracción. Las proyecciones de las curvas coinciden en la abscisa en el volumen denominado V0 (volumen ventricular a presión ventricular cero) con muy escasa dispersión. La pendiente (cambio de presión por unidad de cambio de volumen) de cada curva se denomina elastancia, E, y se expresa:
+
+E(t)= P(t)/[V(t)-V0]
+
+en que P(t) y V(t) equivalen a la presión y al volumen ventricular medidos en el momento t. La elastancia corresponde a la rigidez alcanzada por la pared ventricular y denota el estado contráctil del miocardio en ese momento. Nótese que E (pendiente de la curva) va aumentando en el tiempo hasta llegar a un valor de elastancia máxima (Emax), a los 220 ms de iniciada la contracción (línea continua en negrita en Figura 2), cuando el ventrículo desarrolla el máximo de presión al final de la eyección. Emax no puede ser alterada por cambios de la precarga puesto que se construye con diferentes volúmenes ventriculares de fin de diástole, es decir con diferentes precargas. Así mismo, Emax no puede ser alterada por cambios de la postcarga porque su curva representa la máxima presión de fin de sístole que el ventrículo puede desarrollar para cada volumen ventricular. Es decir, Emax representa la contractilidad por construcción. Aunque no es el objetivo de esta revisión, se puede también construir curvas de elastancia para diferentes momentos de la diástole. La curva inferior en línea punteada en la Figura 2 corresponde a la relación presión-volumen durante el llene ventricular, o lusitropismo, dependiente de la relajación y distensibilidad de la pared ventricular. Su forma se explica por una resistencia creciente a la distensión de las diferentes estructuras de su pared, produciendo el incremento de la rigidez (dP/dV) de cámara11.
+
+
+
+ 
+
+Figura 2.
+
+En la Figura 2 se muestra, en línea de trazos y puntos, Emax después de la administración de isoproterenol. En presencia de isoproterenol Emax aumenta (mayor pendiente) y se alcanza antes que Emax control, 180 vs 220 ms10. Es decir, Emax se desplaza hacia arriba y a la izquierda, con mayor desarrollo de presión al final de sístole para cada volumen ventricular, así decimos que aumentó la contractilidad. Lo inverso ocurre con una maniobra inótropa negativa como la administración de un bloqueador β-adrenérgico. Además del cambio de Emax, el cambio de contractilidad también se puede evidenciar por un desplazamiento en paralelo de la curva de Emax en la abscisa con un cambio de V0; un desplazamiento hacia la izquierda de V0 denota un aumento de la contractilidad, mientras que un desplazamiento hacia la derecha, una disminución. Deformaciones geométricas importantes de la cámara ventricular pueden inducir diferentes relaciones entre Emax y V0 que hacen más difícil su interpretación11.
+
+De acuerdo a lo anterior, durante    un ciclo cardiaco la presión ventricular es función del tiempo    transcurrido y del volumen ventricular alcanzado en dicho tiempo. Así,    durante la contracción isovolúmica (b-c en línea de trazos,    Figura 3), la presión va subiendo desde un punto en    una determinada curva de elastancia, según el volumen desde el cual se    inicia la contracción (b en Figura 3), a un punto en    una curva de elastancia superior (cambio de estado contráctil) según    el tiempo transcurrido, hasta alcanzar la presión isovolúmica    máxima al final de la contracción isovolúmica en una determinada    curva de elastancia (c en Figura 3). Igualmente, durante la    eyección la presión ventricular va cambiando de una curva de elastancia    a otra a medida que el volumen ventricular disminuye (c-d en Figura    3), hasta alcanzar la curva Emax en fin de sístole (d en Figura    3). Luego, durante la diástole la presión desciende pasando    de una curva de elastancia a otra inferior hasta alcanzar la máxima relajación    y el comienzo del llene ventricular (a en Figura 3). Se construye    así un bucle de la relación presión-volumen (bucle a-b-c-d    Figura 3) el cual queda limitado, por arriba, por la curva    de Emax y, por abajo, por la curva de llene ventricular. Al aumentar la contractilidad,    el desplazamiento de la curva Emax explica el aumento del volumen expulsivo    (c-d´ en lugar de c-d en Figura 3), obteniéndose    el bucle a´-b-c-d´. Debido a que la construcción de curvas    isócronas de elastancia requiere una laboriosa manipulación experimental,    en la práctica sólo se construye la curva de Emax uniendo con    una recta la presión de fin de sístole (Pfs) de dos    o más bucles obtenidos por cambios de precarga (obstrucción parcial    de la vena cava inferior) o postcarga (obstrucción parcial de la raíz    aórtica) (Figura 4). La curva de la relación    P-V de fin de sístole así obtenida tiene una elastancia denominada    elastancia de fin de sístole (Efs) y se expresa
+
+Efs=Pfs/(Vfs-V0)
+
+en que Pfs= presión de fin de sístole, Vfs= volumen de fin de sístole y V0= intersección de la curva en la coordenada de volumen. Efs representa muy aproximadamente a Emax, aunque no idéntica pues no se construyó como isócronas12,13, y es la curva habitualmente utilizada en estudios experimentales y clínicos.
+
+
+
+ 
+
+Figura 3. 
+
+
+
+ 
+
+Figura 4. 
+
+La Figura 5 resume las variables hemodinámicas representadas en el bucle P-V ventricular: "a" es la presión al comienzo de la diástole, "b" es la presión al final de la diástole y se usa como subrogante de la precarga, el trazo "a-b" es la evolución de la presión ventricular durante el llene ventricular y define el lusitropismo ventricular ya descrito, "c" es la presión al comienzo de la eyección y se usa como subrogante de la postcarga, el trazo "b-c" corresponde a la contracción isovolúmica, "d" es la presión de fin de sístole, Pfs, que por definición no puede sobrepasar la curva de Emax. El trazo "d-a" corresponde a la relajación isovolúmica. La proyección de la distancia "b-a" en la abscisa corresponde a la diferencia entre volumen de fin de diástole y volumen de fin de sístole, es decir, el volumen expulsivo, el cual dividido por el volumen de fin de diástole corresponde a la fracción de eyección. El área comprendida en el interior del bucle corresponde al producto de la presión desarrollada durante la expulsión por el volumen expulsivo, llamada trabajo expulsivo, o trabajo externo ventricular. El área a la izquierda del bucle corresponde al trabajo interno del ventrículo (para vencer la elasticidad y viscosidad de los puentes actino-miosina y de otras estructuras del miocardio, especialmente durante la contracción isovolúmica). De esta forma, el bucle P-V ventricular permite mostrar en un solo diagrama la hemodinamia ventricular con sus múltiples componentes.
+
+
+
+ 
+
+Figura 5.
+
+Medición de cambios de la contractilidad en el hombre. Elastancia y bucle P-V ventricular no invasivo
+
+El bucle P-V ventricular es el    método más eficiente para estimar la contractilidad en el animal    de experimentación pero requiere de maniobras invasivas para la medición    de la presión ventricular y para modificar precarga y/o postcarga y construir    la curva de Efs (Figura 4). Recientemente se han    desarrollado técnicas para construir el bucle en forma no invasiva en    el ser humano y a partir de un solo ciclo cardiaco. La construcción se    obtiene (Figura 6) con la medición de los volúmenes    de fin de sístole, Vfs, y de fin de diástole, Vfd,    mediante ecocardiografía, y con la estimación de la presión    ventricular de fin de sístole, Pfs (Pfs= 0,90 x    presión arterial sistólica, en ausencia de estenosis aórtica),    y de comienzo de la eyección, Pd, a partir de la medición    de la presión arterial sistólica y diastólica braquial    con esfigmomanómetro. Con estos datos y un algoritmo desarrollado experimentalmente    y validado en el ser humano14 se obtienen Efs, y V0.    La Figura 6 muestra un bucle ventricular basal, obtenido de    un solo ciclo cardiaco en un individuo normal, semejante al descrito en la Figura    5 pero simplificado. Se observa la curva Presión-Volumen de fin de    sístole que une Pfs con V0. Su pendiente es Efs,    índice de la contractilidad ventricular. En la figura no se observa la    curva de llene ventricular debido a la dificultad de obtener la presión    ventricular diastólica en forma no invasiva, aunque algunos autores utilizan    una estimación no invasiva mediante la ecuación PFD=αVFDβ    (α=constante de ajuste de la curva, β=constante de rigidez diastólica)15.    Además, se puede agregar al bucle la curva de elastancia arterial efectiva,    Ea (línea de trazos gruesos en Figura 6)    que corresponde a la pendiente negativa del cambio máximo de presión    en la aorta (igual a la presión máxima alcanzada en el ventrículo,    Pfs, en ausencia de estenosis aórtica) durante la eyección    (Vfd- Vfs), y se expresa
+
+Ea= Pfs/(Vfd- Vfs)
+
+Ea es un índice de postcarga (dificultad a la expulsión), determinada principalmente por la resistencia periférica. La razón entre la elastancia arterial efectiva y la elastancia ventricular, Ea/Efs, se constituye en un índice del acoplamiento ventrículo-arterial.
+
+
+
+ 
+
+Figura 6. 
+
+Un problema no resuelto es la falta de linealidad de la curva Efs con cambios extremos de contractilidad o remodelación ventricular16. Dado que Efs se calcula a partir de la presión de fin de sístole de un complejo ventricular único, el valor obtenido representa la pendiente a nivel de ese valor pero no necesariamente en el resto de la curva, y su extrapolación a la abscisa para obtener V0 tampoco resulta confiable, lo que dificulta la comparación entre dos situaciones clínicas. Como solución subrogante se mide el volumen ventricular de fin de sístole en la curva Efs para una presión ventricular dentro del rango de trabajo clínico, ej 100 mmHg (V100), siendo
+
+V100=100/Efs+Vo
+
+así, a mayor valor de V100 (mayor volumen ventricular de fin de sístole, menor volumen expulsivo para una determinada presión de fin de sístole) menor es la contractilidad, y viceversa16.
+
+Ejemplos clínicos
+
+En la Figura 7 se compara un bucle P-V normal con un bucle como se observa en la insuficiencia cardiaca16,17. Nótese que este último está desplazado hacia la derecha en la coordenada de volumen con aumento de Vfd, lo que denota dilatación (remodelación) ventricular. El bucle es más angosto por el menor volumen expulsivo, explicado por: a) menor contractilidad, evidenciada por el desplazamiento de la curva Pfs hacia la derecha (desplazamiento de V0) y por la disminución de Efs (menor pendiente) y, b) aumento de Ea, lo que denota aumento de la postcarga probablemente por aumento de la resistencia periférica. En consecuencia, la razón Ea/Efs resulta aumentada, lo que indica desacoplamiento ventrículo-arterial. Nótese que la disminución del volumen expulsivo en la insuficiencia cardiaca no sólo es función de la disminución de la contractilidad. Esta forma gráfica de expresar la función ventricular que incluye contractilidad (Efs), precarga y remodelación (Vfd), postcarga (Ea), volumen expulsivo (Vfd- Vfs) y acoplamiento ventrículo-arterial (Ea/Efs) es de gran utilidad para evaluar el estado clínico del paciente cardiópata y se está introduciendo en el estudio pronóstico de la insuficiencia cardiaca18-23.
+
+
+
+
+
+ 
+
+Figura 7. 
+
+En la Figura 8 se observan los bucles P-V ventricular en pacientes con diferente fracción de eyección18. Nótese la disminución de la contractilidad (Efs) en la insuficiencia cardiaca con preservación de la fracción de eyección (grupo con FE 40-55%).
+
+
+
+
+
+ 
+
+Figura 8.
+
+En la Figura 9 se observa con este método el efecto beneficioso de carvedilol en pacientes con insuficiencia cardiaca22, manifestado por aumento de la contractilidad, disminución de la elastancia arterial y por ende mejoría del acoplamiento ventrículo- arterial, con aumento del volumen expulsivo.
+
+
+
+ 
+
+Figura 9. 
+
+Más recientemente este método demostró la preservación de la contractilidad ventricular a pesar del aumento de la postcarga al disminuir la regurgitación mitral mediante la corrección percutánea de la insuficiencia mitral con el método Mitra Clip23.
+
+Es probable que muchas correcciones y perfeccionamientos a esta metodología ocurran en un futuro próximo, incluso su traducción en la medición de contractilidad regional del miocardio24 con técnicas ecocardiográficas o resonancia nuclear magnética para medir cambios de elongación o acortamiento de la pared ventricular25,26 y nuevas técnicas para medir la presión ventricular. Tal avance permitirá definir en forma precoz y no invasiva el estado contráctil intrínseco del miocardio y desenmascararlo del efecto de la carga ventricular, lo que a su vez permitirá indicar soluciones terapéuticas más tempranas y eficaces.
+
+En todo caso, hoy es más factible resistir la ironía del alumno: "La pregunta no es justa porque ustedes tampoco saben la respuesta", cuando se le preguntó "¿qué es contractilidad?"

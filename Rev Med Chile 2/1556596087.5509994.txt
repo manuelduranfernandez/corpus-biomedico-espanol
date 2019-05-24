@@ -1,0 +1,116 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872016000900002
+Evaluación de la anticoagulación con rivaroxaban, en pacientes con fibrilación auricular no valvular de reciente diagnóstico
+
+ 
+
+La introducción de nuevos anticoagulantes orales directos ha significado un progreso en la prevención del tromboembolismo sistémico en pacientes con fibrilación auricular (FA) no valvular. Una dosificación simple, estabilidad de su efecto anticoagulante, menor interacción con drogas y alimentos, unido a un perfil de seguridad comparable o superior al de antagonistas de la vitamina K constituyen propiedades atractivas para su empleo en clínica y su utilización ha ido en un constante aumento en el mundo1-7.
+
+Una de las limitaciones importantes para su empleo ha sido la falta de un método que permita establecer el grado de inhibición de la coagulación en un momento determinado, el que tradicionalmente se ha medido a través del tiempo de protrombina estandarizado por el INR, cuando se prescriben antagonistas de la vitamina K. Esta dificultad se acentúa para muchos clínicos cuando se les recomienda el empleo de nuevos anticoagulantes en dosis única diaria o en dosis divididas cada 12 h8.
+
+En el caso de rivaroxaban, un inhibidor del factor Xa (FXa), hay estudios in vitro, en voluntarios sanos y en pacientes con trombosis venosa que demuestran una relación estrecha de los niveles plasmáticos de la droga con la inhibición del FXa9-10. Otros estudios demuestran una reducción transitoria del tiempo de protrombina en el momento del efecto máximo de la droga y también un retardo de la generación de trombina11.
+
+En el presente estudio hemos evaluado el efecto inicial y sostenido de rivaroxaban en una dosis única sobre distintos marcadores de la coagulación sistémica, en un grupo de pacientes con FA no valvular de riesgo moderado.
+
+Material y Método
+
+Estudio prospectivo en el que se reclutaron pacientes evaluados en forma ambulatoria o en el Servicio de Urgencia de la Red de Salud del Hospital Clínico de la Pontificia Universidad Católica de Chile, con FA no valvular de reciente diagnóstico e indicación de inicio de tratamiento anticoagulante oral (puntaje CHA2DS2-VASc ≥ 2 puntos).
+
+Los pacientes invitados a participar en el estudio firmaron en forma previa un consentimiento informado aprobado por Comité de Ética en Investigación, de la Escuela de Medicina de la Pontificia Universidad Católica de Chile.
+
+Fueron criterios de inclusión pacientes mayores de 18 años con diagnóstico reciente de FA no valvular de menos de 6 semanas de evolución y con indicación de inicio de terapia anticoagulante oral según puntaje de riesgo.
+
+Se excluyeron pacientes con síndrome coronario agudo o cirugía cardiaca recientes (< 6 meses), historia o hallazgo de valvulopatías, enfermedades infecciosas, inflamatorias, neoplásicas o afecciones tiroídeas en evolución.
+
+Se registraron variables demográficas, factores de riesgo cardiovascular, función ventricular y uso de fármacos de acción cardiovascular. En todos los pacientes se efectuó un ecocardiograma para medir diámetro y volumen de aurícula izquierda, diámetros de ventrículo izquierdo, evaluación de motilidad segmentaria, grosor de sus paredes y determinación de fracción de eyección.
+
+Se tomaron muestras de sangre previo al inicio de tratamiento anticoagulante con rivaroxaban y luego otras a las 3 y 24 h posterior a la primera dosis. A los 30 días de tratamiento se tomaron nuevas muestras, 24 h después de la última dosis.
+
+Para los propósitos de esta investigación, se recomendó a los pacientes tomar rivaroxaban junto con el desayuno; la dosis recomendada para la prevención de accidente cerebro vascular en fibrilación auricular no valvular es de 20 mg diarios y se ajustó la dosis a 15 mg diarios, en caso de insuficiencia renal moderada, con clearance de creatinina entre 50-30 mL/min. La enfermera a cargo del protocolo de seguimiento se encargó de controlar la administración adecuada del fármaco y contactar a los pacientes para la toma de muestra.
+
+Se determinaron los niveles plasmáticos de rivaroxaban mediante su actividad anti-FXa mediante un ensayo cromogénico (STA® liquid anti-Xa, Diagnostica Stago) en coagulómetro ACL TOP® Analyzer (Instrumentation Laboratory, Bedford MA, USA)12. Se utilizaron calibradores específicos para rivaroxaban cubriendo un rango de 0-472 ng/mL, con una sensibilidad de 25 ng/mL según especificaciones del fabricante.
+
+Se determinaron los siguientes factores de la coagulación: a) tiempo de protrombina (TP), por técnica estándar usando HemosIL® Recombi Plas Tin en coagulómetro ACL TOP; b) actividad anti-FXa con la misma técnica, pero con el uso de calibradores para heparina no fraccionada y heparina de bajo peso molecular, con límite de detección de 0,1 U/mL; c) niveles plasmáticos de complejos TAT por técnica de Elisa (Affinity Biological); d) capacidad de generación de trombina (GT), que se evaluó en plasma pobre en plaquetas y plasma rico en plaquetas. Para la obtención de plasma pobre en plaquetas, se procesó sangre anticoagulada con citrato de sodio a 3,2%, la cual fue centrifugada a 3.000 g por 10 min y luego a 10.000 g por 7 min. La GT en plasma pobre en plaquetas fue realizada como ha sido previamente descrita13.
+
+Brevemente, 80 µl de plama pobre en plaquetas se mezcla con buffer conteniendo 5 pM de factor tisular recombinante y 0,8 µM de vesículas de fosfolípidos. La reacción se inició por adición de sustrato y 0,1 M de CaCl2. El área bajo la curva, el pico máximo y la velocidad de generación de la trombina se calculó usando un software dedicado. Para determinar la GT en plasma rico en plaquetas, se utilizó sangre anticoagulada con citrato, se centrifugó a 240 g por 10 min y el sobrenadante (plasma rico en plaquetas) fue activado en agregómetro con una mezcla de factor von Willebrand y ristocetina. Posteriormente, 100 µL de plasma rico en plaquetas activado se usó para determinar la GT en las mismas condiciones y equipo que para plasma pobre en plaquetas, pero sin la adición de factor tisular ni fosfolípidos14.
+
+Cálculo de tamaño muestral
+
+Se calculó una muestra de 16 sujetos para encontrar estadísticamente significativa una correlación mayor o igual a 0,6 de la actividad anti-FXa y los niveles plasmáticos de complejo TAT y GT plasmática, con una potencia de 80% y con un nivel de confianza de 95%. Se incluyeron 4 sujetos más ante la eventualidad de pérdida de seguimiento.
+
+Análisis estadístico
+
+Se describieron los sujetos en cuanto a características demográficas, prevalencia de factores de riesgo cardiovascular, función ventricular. Se realizó un análisis exploratorio de los datos, identificando aquellos valores fuera de rango, datos faltantes, datos duplicados y errores de digitación. En las variables continuas se estudió su distribución con el fin de determinar el promedio y su desviación estándar o la mediana y percentiles 25-75 para su descripción, dependiendo de su normalidad. Para los propósitos de estratificación de riesgo tromboembólico se utilizó el puntaje de riesgo CHADS2VASc2. Se utilizó la prueba de “t’’, test para muestras pareadas cuando los parámetros de una distribución sean normales, y la prueba no paramétrica (test de rangos signados de Wilcoxon) en caso contrario. Se utilizó la prueba exacta de Fisher para medidas categóricas.
+
+Se realizó un análisis pareado sobre el efecto del rivaroxaban en la inhibición del FXa y su relación con los niveles plasmáticos de complejo TAT, GT y TP, en diferentes tiempos, en muestras repetidas, explorando su correlación. Se realizó análisis de las diferentes fases de tomas de muestra (basal, a las 3 y 24 h posterior a la primera dosis de rivaroxaban y a los 30 días de tratamiento) con el test de ANOVA para medidas repetidas y test de comparaciones múltiples de Hochberg para detectar el o los promedios que son distintos según el test de ANOVA. La validación de las bases de datos y los análisis estadísticos fueron realizados mediante el programa SAS/STAT software®.
+
+Resultados
+
+Se enrolaron 20 pacientes durante el período agosto de 2013-junio de 2014, a todos los cuales se les realizó seguimiento prospectivo. Las características basales de los sujetos en estudio se describen en la Tabla 1. De ellos, 60% corresponde a sexo femenino, la edad promedio fue de 76,3 ± 8,0 años, 85% presentó fibrilación auricular paroxística y 95% tenía bajo riesgo de sangrado según puntaje de HAS-BLED. Los factores de riesgo cardiovascular más frecuentes fueron: hipertensión arterial en 100%, dislipidemia en 50% y diabetes mellitus tipo 2 en 25%. Con respecto a los parámetros ecocardiográficos, se encontró una dilatación moderada de la aurícula izquierda con un diámetro de 45,9 ± 6,8 mm y un volumen de 27,0 ± 4,6 cm2, la fracción de eyección del ventrículo izquierdo se encontraba conservada, promedio de 58,8 ± 7,9%.
+
+ 
+
+Tabla 1. Características de los pacientes
+
+Los efectos de rivaroxaban sobre FXa, TAT, GT y TP, en diferentes tiempos: basal, a las 3 y 24 h posteriores a la primera dosis de rivaroxaban y a los 30 días de tratamiento se muestran en la Tabla 2. En la Figura 1 se muestran los cambios en los niveles plasmáticos de rivaroxaban a las 3 y 24 h (previo a la siguiente dosis del fármaco) y a los 30 días (p < 0,0001) y, asimismo,  la variación de la actividad anti-FXa (p = 0,012). Se observó una correlación significativa y persistente entre la actividad anti-FXa y los niveles plasmáticos del rivaroxaban, a las 3 h y 24 h y a los 30 días de tratamiento (r = 0,61, p 0,008; r = 0,85, p < 0,00001 y r = 0,99, p < 0,00001, respectivamente).
+
+
+
+ 
+
+Tabla 2. Correlación de la actividad anti-FXa, con los niveles plasmáticos de         Rivaroxaban y factores procoagulantes
+
+
+
+Figura 1.
+
+ 
+
+En el análisis de la GT en plasma pobre en plaquetas (Figura 2), se observa que hubo una disminución significativa de la velocidad (p < 0,0026), peak (p < 0,0001) y GT global (p < 0,0001), la que se correlacionó con la actividad anti-FXa con una disminución de la generación de trombina global a las 24 h (r = -0.57; p = 0,016) y a los 30 días (r = -0,74; p = 0,0038); al contrario, la GT global en plasma rico en plaquetas (Figura 3) no fue afectada significativamente por el fármaco (p = 0,053). Los niveles plasmáticos basales de TAT no se modificaron con el uso de rivaroxaban (p = 0,064).
+
+ 
+
+Figura 2.
+
+ 
+
+Figura 3.
+
+ 
+
+En la Figura 4 se observa una prolongación significativa del TP basal, 49,2 ± 12,2%, con respecto al efecto máximo de rivaroxaban a las 3 h, manteniéndose en niveles de 84,5 ± 13,8% hasta los 30 días (p < 0,0001). En cuanto al TP (Figura 5), se pudo establecer una correlación entre el nivel de rivaroxaban y el TP a las 3 h (r -0,33; p 0,019) y a los 30 días de tratamiento (r -0,63; p 0,02).
+
+ 
+
+Figura 4.
+
+ 
+
+Figura 5.
+
+ 
+
+La dosis de inicio y mantención de rivaroxaban fue de 20 mg diarios en 15 pacientes y de 15 mg diarios en los 5 restantes (ajustada por edad, peso y función renal). No hubo diferencias significativas con ambas dosis sobre los parámetros evaluados.
+
+Durante el período de seguimiento no se reportaron sangrados menores, mayores, ni eventos cardiovasculares adversos.
+
+Discusión
+
+Nuestro estudio confirma un efecto anticoagulante rápido y sostenido en el tiempo de rivaroxaban en pacientes con FA no valvular de reciente comienzo y que no habían recibido tratamiento anticoagulante previo. La muestra de pacientes fue homogénea en cuanto a edad, promedio de 76 años y un perfil de riesgo moderado de tromboembolismo sistémico de acuerdo al puntaje de CHA2DS2-VASc.
+
+Como se ha reportado en estudios in vitro y en sujetos sanos los niveles plasmáticos de rivaroxaban alcanzan su valor máximo entre las 2 y 4 h de administrada la droga. Nuestro estudio confirma la persistencia de niveles plasmáticos dentro de un rango terapéutico a las 24 h de administración de la droga y al cabo de 30 días de tratamiento, lo cual implica un nivel de confiabilidad respecto de la recomendación de administrar el medicamento sólo en una dosis diaria, a diferencia de otros anticoagulantes directos que teniendo una vida media similar deben administrarse en dos dosis diarias. La administración de una dosis única asegura una mejor adhesión al tratamiento a largo plazo4,9,10,18.
+
+El rivaroxaban inhibe competitivamente, in vitro, el FXa (Ki de 0,4 nM), con una selectividad 10.000 veces superior en comparación con las proteínas relacionadas en la cascada de la coagulación, a través de este mecanismo rivaroxaban bloquea la formación de trombina15. En nuestro estudio encontramos una reducción rápida y significativa de la generación de trombina medida en plasma pobre en plaquetas, la que se correlacionó con la disminución de la actividad anti-FXa del fármaco. Si bien la actividad anti Xa máxima de rivaroxaban alcanza su mayor efecto a las 3 h, esta persiste a las 24 h, tanto en la primera evaluación como en la efectuada a los 30 días. Los niveles observados de actividad anti Xa son similares a los obtenidos con heparinas de bajo peso molecular.
+
+El efecto de rivaroxaban sobre la GT en plasma rico en plaquetas fue significativo a las 3 h, aunque de mucho menor magnitud que en plasma pobre en plaquetas y afectando solamente su valor máximo y la velocidad para generar trombina. Es probable que la generación de una superficie procoagulante sobre las plaquetas activadas y expresión de factor tisular, sobrepasa la capacidad de rivaroxaban de inhibir localmente la generación de trombina. Estos resultados están de acuerdo a lo reportado por Perzbron y cols., que sugieren, incluso, que la adición de un inhibidor de la activación de las plaquetas podría incrementar la capacidad antitrombótica de la droga, lo cual es un elemento a considerar en pacientes que han requerido implante reciente de stents por síndrome coronario agudo y tienen además FA16,17.
+
+A diferencia de los inhibidores indirectos del FXa, rivaroxaban no precisa de antitrombina para alcanzar su efecto e inhibe tanto el FXa libre como el unido a la fibrina, así como el FXa en el complejo de protrombinasa11,18, lo que se corrobora con la ausencia de efecto de la droga sobre niveles de TAT encontrado en nuestro estudio. Al mismo tiempo, confirmamos que el tiempo de protrombina se alarga cuando se alcanzan los valores plasmáticos máximos de la droga para retornar gradualmente a la normalidad a las 24 h. Si bien el tiempo de protrombina no se utiliza para evaluar el efecto anticoagulante de rivaroxaban, su determinación en algunas condiciones clínicas puede ser útil para estimar indirectamente el tiempo transcurrido en relación a la última dosis9,19-21.
+
+La FA confiere un estado protrombótico o de hipercoagulabilidad, con alteraciones de la hemostasia, trombosis, activación de plaquetas y disfunción endotelial22. Se ha asociado a niveles elevados de marcadores procoagulantes, tales como GT y complejos TAT23-24, los que persisten elevados incluso en pacientes que están en tratamiento anticoagulante oral25. Los niveles plasmáticos elevados de fragmentos 1+2 de protrombina y los complejos TAT, reflejan la GT in vivo y sus niveles han sido asociados a mayor riesgo de accidente cerebrovascular26-27. Es probable que en pacientes con FA y un perfil de riesgo más alto, los niveles de factores procoagulantes se encuentren más elevados, como ha sido descrito en varias publicaciones previas28-30. De todos modos, existe un consenso de la necesidad de iniciar terapia anticoagulante oral en pacientes que tiene un puntaje de riesgo de CHA2DS2-VASc igual o mayor a 2, como fue el caso de nuestra serie31-32.
+
+La anticoagulación oral con inhibidores de la vitamina K se asocia a una reducción significativa de embolías sistémicas, pero tiene limitaciones por la dificultad en su dosificación y en lograr niveles terapéuticos estables. La introducción de nuevos anticoagulantes orles, inhibidores directos del FXa o de la trombina, permiten alcanzar un efecto terapéutico más estable y seguro, pero su mayor limitación es la dificultad para medir el nivel de anticoagulación en un momento dado. Los resultados de nuestro estudio confirman que este fármaco alcanza un efecto anticoagulante rápido y sostenido en el tiempo a través de la inhibición del FXa y de la GT.
+
+El estudio ROCKET AF, en pacientes con FA no valvular, demostró que rivaroxaban en dosis de 20 mg una vez al día fue, al menos, tan eficaz como la warfarina en la prevención del accidente cerebrovascular isquémico y de embolías sistémicas4,33. Aunque en la práctica clínica habitual la monitorización de la droga no es necesaria, existen situaciones, tales como insuficiencia renal, edades extremas, sangrado agudo o necesidad de procedimiento invasivo, en que conocer el grado de anticoagulación puede ser necesario. Las posibilidades de determinar actividad del factor anti-Xa o en su defecto del tiempo protrombina, deberían ser técnicas disponibles en la medida de que el número de pacientes en tratamiento con inhibidores directos del factor anti-Xa va en aumento, de acuerdo a los resultados de nuestro estudio.
+
+Los resultados de este estudio contribuyen a confirmar y caracterizar el efecto anticoagulante de rivaroxaban en pacientes con FA, lo que otorga seguridad en el manejo clínico de la droga.
+
+Agradecimientos: Al personal del Centro de Investigación Clínica Universidad Católica por su dedicación y colaboración con este proyecto.

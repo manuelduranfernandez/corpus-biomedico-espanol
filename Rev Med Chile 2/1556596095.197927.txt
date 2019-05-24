@@ -1,0 +1,94 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000700854
+Evaluación de aproximaciones al aprendizaje clínico a través de CEACLIN: Resultados en estudiantes de medicina en una universidad chilena
+
+En Chile, la formación en medicina posee un alto componente práctico. La mayoría de las escuelas incorpora la práctica médica en el tercer año de estudios, representando 54% del tiempo de la formación de la carrera1–3. Este proceso de incorporación a la práctica clínica implica el cambio desde un escenario educativo convencional a un escenario de mayor complejidad y autenticidad que requiere una reorganización de las lógicas de aprendizaje utilizadas por los estudiantes4.
+
+Un estudio cualitativo señala que, en la etapa de formación clínica, los estudiantes reportan usar distintas estrategias de aprendizaje según la naturaleza del conocimiento o habilidad involucrada: estrategias orientadas al aprendizaje teórico, al aprendizaje práctico, a la integración teórico-práctica, y a la evaluación5. Estos hallazgos revelan que el cambio del escenario educacional de clases a uno práctico (simulación, atención ambulatoria o salas de hospital), implicaría el desarrollo de nuevas habilidades determinantes para integrar sus conocimientos teóricos con las experiencias prácticas en un contexto cada vez más demandante, para la adquisición de dos competencias fundamentales: realizar la entrevista clínica y el examen físico2.
+
+La escasez de instrumentos ad-hoc para evaluar estrategias de aprendizaje en situaciones de práctica y específicamente en el aprendizaje de la clínica, dado que los clásicamente utilizados en educación médica son de uso general6–10, llevó al equipo a desarrollar un instrumento que permitiera identificar dichas estrategias. El cuestionario de estrategias de Aprendizaje de la Clínica (CEACLIN) fue desarrollado a partir de las concepciones y descripciones hechas por estudiantes y docentes de medicina, analizado a través de un método Delphi de representación nacional11.
+
+El objetivo de este artículo es describir qué estrategias de aprendizaje de la clínica son más usadas por los estudiantes de medicina y qué diferencias existen según sexo y año de estudio. Se reporta un análisis de conglomerados (clusters) para detectar la presencia de diferentes grupos según sus estrategias de aproximación al aprendizaje de la clínica.
+
+Material y Método
+
+Se trabajó con un enfoque cuantitativo, con un diseño no experimental, transversal y descriptivo.
+
+Participantes
+
+Estudiantes de medicina de la Pontificia Universidad Católica de Chile, los que en el año 2012 se encontraban cursando cuarto, quinto y sexto año de medicina fueron invitados a tomar parte del estudio. De un total de 358 estudiantes participaron 336 (94% del total de las cohortes); 196 hombres (58,04%) y 140 mujeres (41,6%).
+
+Instrumento
+
+El Cuestionario de Estrategias de Aprendizaje a la Clínica (CEACLIN) consta de 48 ítems que tributan a once factores. Se responde usando una escala tipo Likert de 4 puntos: 1 = casi nunca; 2 = algunas veces; 3 = con frecuencia; y 4 = casi siempre (Tabla 1).
+
+Tabla 1 Descripción de los factores del CEACLIN 
+
+*Los valores corresponden al número del ítem en el CEACLIN.
+
+La participación de los estudiantes fue voluntaria y anónima. Solamente se les solicitó que indicaran año de estudio, género y ciudad de procedencia. La aplicación del cuestionario se realizó durante la jornada de clases y tuvo una duración de 10 min. Cada participante firmó un consentimiento informado aprobado por el Comité de Ética de la institución y del Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT).
+
+Análisis de datos
+
+Se realizó un análisis descriptivo para cada factor. Para evaluar las diferencias de promedios entre hombres y mujeres se realizó la prueba t de muestras independientes. Las diferencias por año de estudio se analizaron mediante ANOVA, con pruebas post hoc de Tukey y F de Ryan-Einot-Gabriel-Welsch (R-E-G-WF). En el caso que no existiera igualdad de varianza, se realizaron las pruebas robustas de Welch y Brown-Forsythe, y los análisis post-hoc mediante la prueba C de Dunnett (p ≤ 0,05). En el caso de la dimensión Postergar lo personal, además se realizó transformación logarítmica. El análisis de conglomerados fue realizado mediante el método k-means, con las variables de los ítems, ignorando los valores perdidos que fueron muy pocos. Para la totalidad del análisis se utilizó el programa estadístico SPSS versión 17, y los paquetes fpc, cluster, mclust, apcluster, plyr, factoextra y NbClust del programa R.
+
+Resultados
+
+Los resultados del análisis descriptivo se reportan para cada factor del CEACLIN de acuerdo al porcentaje de frecuencia de uso de las estrategias.
+
+Descripción del grupo total
+
+En la Figura 1 se presenta en forma descendente la frecuencia de uso de los once factores que representan las distintas estrategias de aprendizaje. Las cuatro primeras estrategias fueron declaradas con alta frecuencia de uso (casi siempre) por más del 50% de los estudiantes: Buscar autonomía (64%), Buscar fuentes confiables (61,2%), Atender a las emociones (58,4%) y Observar a otros (53,1%) (Figura 1). Una segunda agrupación reúne a tres tipos de estrategias utilizadas casi siempre por el 35% a 50% de los estudiantes: Activar motivadores de competencia (48,6%); Postergar lo personal (47,8%) y Resolver dudas (36,5%). También fue posible distinguir un tercer conjunto que corresponde a dos estrategias que fueron utilizadas casi siempre por menos de un tercio de los estudiantes: Ejercer la proactividad (28%) y Buscar y organizar información (27,7%). Finalmente, una cuarta agrupación reúne a las estrategias usadas casi siempre por una baja proporción estudiantes. Estas se vinculan al manejo del agobio (17% de los estudiantes declaró usar casi siempre estrategias para Evadir el agobio y 12% para Enfrentar el agobio) (Figura 1).
+
+Figura 1 Uso de estrategias de aproximación al aprendizaje de la clínica (Porcentaje). 
+
+Comparación entre hombres y mujeres
+
+El análisis por sexo arrojó diferencias significativas en siete de los once factores del CEACLIN (Tabla 2). Las mujeres declararon una mayor frecuencia en el uso de las siguientes estrategias: Buscar autonomía, Resolver dudas, Buscar y organizar información, Ejercer la proactividad, Atender a las emociones, Buscar fuentes confiables y Activar motivadores de competencia. En el caso de la estrategia Evadir el agobio, la diferencia fue en la dirección contraria; si bien hombres y mujeres en general declararon un bajo uso de estas estrategias, los hombres declararon utilizarla más. En las estrategias de Observar a otros, Enfrentar el agobio y Postergar lo personal no se observaron diferencias significativas según sexo (Tabla 2).
+
+Tabla 2 Uso de estrategias de Aprendizaje de la Clínica según sexo (porcentaje y significación) 
+
+(Hombres = 195; Mujeres = 140).
+
+Comparación por año de estudios
+
+Al analizar el uso de estrategias de aprendizaje de la clínica según el año de estudios, se evidencian diferencias significativas en cinco de los once factores del CEACLIN: Resolver dudas, Buscar y organizar información, Observar a otros, Enfrentar el agobio y Postergar lo personal (Tabla 3).
+
+Tabla 3 Estrategias de Aprendizaje de la Clínica según año de estudios (porcentaje y significación) 
+
+4○ año = 117, 5○ año = 113; 6○ año = 106. RF La prueba post-hoc de Tukey no identifica diferencias entre los grupos. Los resultados de las comparaciones post-hoc se basan en la prueba F de Ryan-Einot-Gabriel-Welsch (R-E-G-WF Análisis de Conglomerados o Clusters.
+
+Los estudiantes de sexto año reportaron con mayor frecuencia la estrategia Resolver dudas que los estudiantes de años anteriores. Los estudiantes de sexto y quinto año también señalaron usar con mayor frecuencia la estrategia de Buscar y organizar información, comparados con los de cuarto año. En las estrategias vinculadas a Observar a otros, las diferencias de frecuencias se dieron entre estudiantes de cuarto y quinto año. Fueron los estudiantes de cuarto año los que reportaron una mayor frecuencia en su uso. Los estudiantes de sexto año, en cambio, no se diferenciaron significativamente de los otros dos cursos. Enfrentar el agobio es una estrategia que tuvo mayor frecuencia de uso en los estudiantes de sexto y quinto año comparado con los de cuarto año. Finalmente, en cuanto a las estrategias asociadas a Postergar lo personal, los estudiantes de quinto y cuarto año refirieron usarlas con mayor frecuencia que los estudiantes de sexto año (Tabla 3).
+
+Análisis de conglomerados
+
+El análisis de conglomerados o clusters arrojó como resultado la identificación de dos grupos de estudiantes en relación a las estrategias utilizadas para aproximarse al aprendizaje de la clínica evaluadas por el CEACLIN (Tabla 4).
+
+Tabla 4 Descriptivos de conglomerados 
+
+El primer conglomerado (“Alto uso”) estuvo compuesto por un porcentaje ligeramente mayor de mujeres que hombres. La composición por año de estudio estuvo caracterizada por estudiantes de los tres años de estudio, con un sutil predominio de alumnos de sexto y quinto año. El segundo conglomerado (“Bajo uso”), en cambio, se conformó mayoritariamente por hombres y tuvo una mayor representación de estudiantes de cuarto año (Tabla 4). La principal característica del conglomerado “Alto uso” es la mayor frecuencia del uso en nueve de las once estrategias evaluadas por el CEACLIN. En las dimensiones Evadir el agobio y Postergar lo personal no se observaron diferencias significativas entre los dos conglomerados.
+
+Discusión
+
+El objetivo del estudio fue describir los resultados de la aplicación del cuestionario de estrategias de aprendizaje de la clínica (CEACLIN) a estudiantes de medicina de cuarto, quinto y sexto año de estudios de una universidad chilena.
+
+Las estrategias usadas con mayor frecuencia: Buscar autonomía, Buscar fuentes confiables, Atender a las emociones y Observar a otros, son de una naturaleza distinta de las estrategias tradicionales de aprendizaje académico. Estas aproximaciones resultarían necesarias para el aprendizaje en el período de transición a la clínica donde deben desarrollarse nuevas habilidades para el aprendizaje práctico, antesala al ejercicio profesional real. Las oportunidades de práctica en un espacio que promueva la autonomía y confianza a través de la búsqueda de información válida, y el aprendizaje desde y con otros de manera supervisada pareciera relevante para los estudiantes. El aprendizaje social, resolviendo dudas y compartiendo información es muy propio del modelaje en la medicina12. Es en el aprendizaje con otros (pacientes, pares y docentes), cuando los estudiantes también experimentan un proceso de toma de conciencia tanto de las emociones propias como de las de los pacientes.
+
+Desde las teorías del aprendizaje, estas estrategias también pueden asociarse a un enfoque vinculado con el aprendizaje significativo y el involucramiento13,14, que considera un fuerte componente emocional en el proceso, integrando pensamiento, emociones y acción13. Desde el punto de vista de las competencias clínicas que se esperan ir formando en este período, estas aproximaciones al aprendizaje no sólo colaborarían en el desarrollo de competencias como son saber realizar la entrevista clínica y el examen físico sino también podrían ser útiles para el aprendizaje del razonamiento clínico15–19.
+
+Por otra parte, las aproximaciones al aprendizaje con menor frecuencia de uso están vinculadas a dos factores del CEACLIN relacionados con el manejo del agobio (enfrentamiento y evitación). Este resultado, que representa a menos de 20% de las estrategias reportadas, merece atención en la medida que visibiliza prácticas que comprometen el bienestar personal en situaciones de alta exigencia académica y que no suelen ser reportadas desde el contexto del proceso de enseñanza-aprendizaje, sino como indicadores de salud mental.
+
+El manejo del agobio revela distintos mecanismos de afrontamiento a situaciones de alta demanda, algunas de las cuales se orientan hacia el autocuidado (pedir ayuda médica y psicológica, o usar medicamentos para enfrentar el agobio) y otras a conductas (faltar a clases para estudiar o consumir alcohol y drogas para evadir el agobio) que podrían generar situaciones complejas en el futuro desempeño del alumno, por lo que un conocimiento adecuado respecto de los límites propios y la disposición a pedir ayuda emergen como aspectos personales necesarios de desarrollar y/o fortalecer en esta etapa de la formación.
+
+La alta prevalencia de estados de estrés, ansiedad y depresión en estudiantes de medicina ha sido documentada en diferentes investigaciones20,21. En este contexto, las estrategias para manejar el agobio (factores ocho y nueve) podrían resultar una especie de indicador “de alerta” entre aprendizaje y salud dado que en sí mismos, a diferencia de los restantes indicadores del CEACLIN, informan sobre modos más o menos adaptativos de lidiar con la demanda académica de este período de formación.
+
+Otro hallazgo interesante es la diferencia por sexo. Las mujeres aparecen usando con mayor frecuencia que los hombres la mayoría de las estrategias de aprendizaje evaluadas por el CEACLIN, a excepción de la estrategia Evadir el agobio, en que los hombres aparecen con una mayor frecuencia de uso. Esta diferencia es particularmente importante debido a las implicancias que podrían tener en el bienestar de los estudiantes. Las diferencias por sexo parecieran ser consistentes con otros estudios que, si bien no miden estas mismas variables, sí aportan evidencia respecto a las diferencias de los y las estudiantes de medicina en aspectos vinculados al patrón motivacional, a las estrategias de aprendizaje y a los niveles de empatía médica22.
+
+En cuanto al análisis de los factores del CEACLIN por año de estudio se identificó un conjunto de seis aproximaciones al aprendizaje que son transversales al período de formación estudiado, y otro conjunto de cinco aproximaciones que son usadas diferencialmente. Las estrategias de Búsqueda de la autonomía y Fuentes confiables, ser Proactivos, Atender a las emociones, Evadir el agobio y Activar motivadores de competencias son transversales a cuarto y sexto año. Las aproximaciones que mostraron diferencias de uso según año de formación siguen distintos patrones. Por una parte, se apreció una progresión en el uso de las estrategias vinculadas a la Resolución de dudas, Gestión de la información (buscar y organizarla) y Enfrentamiento del agobio a medida que avanzan en los años de formación. Por otra parte, Observar a otros es más propio de cuarto año y la Postergación de lo personal es una estrategia menos usada en sexto año. El análisis de conglomerados confirma la relación entre años de estudio y sexo en el uso de las aproximaciones al aprendizaje.
+
+A modo de conclusión, consideramos que las estrategias reportadas a través del CEACLIN demuestran una ampliación de las aproximaciones tradicionales al aprendizaje (hábitos de estudio), con énfasis en acciones académicas contextualizadas al aprendizaje de habilidades clínicas para el ejercicio profesional. Consideramos que esta ampliación aporta en la visibilidad de una serie de estrategias que están operando en la formación de la transición a la clínica y para lo cual no existían instrumentos que permitieran describirlas. Además, proporciona información útil para revisar en el futuro si las competencias, cuya adquisición estaría favorecida por el uso de estas estrategias, son las que se espera desarrollar en estos niveles de formación.
+
+Este trabajo tiene algunas limitaciones que es necesario explicitar. En primer lugar, participaron solamente estudiantes de una sola institución, por lo que estos resultados podrían no ser generalizables a todos los estudiantes de medicina del país. En segundo lugar, solo tres variables de clasificación fueron registradas: sexo, año de estudio y región de procedencia; no se incluyeron otras variables que sí podrían mediar en la adopción de alguna estrategia específica. Finalmente, no sabemos si el mayor o menor uso de las estrategias evaluadas por CEACLIN es un indicador de un aprendizaje efectivo por lo que se requieren estudios adicionales para poder determinarlo.
+
+A partir de los hallazgos de este estudio se proyectan numerosas líneas de continuidad de la investigación sobre aproximaciones al aprendizaje de la clínica: comparar los resultados obtenidos en el CEACLIN en otras poblaciones de estudiantes de medicina e incluir al último año de carrera; identificar otras variables que pueden estar influyendo en la frecuencia de uso de este tipo de estrategias; por ejemplo, los métodos de aprendizaje intencionados en este ciclo de formación; analizar la relación entre la frecuencia de uso de las aproximaciones al aprendizaje de la clínica medido por el CEACLIN y el rendimiento académico de los estudiantes. Finalmente, resulta relevante investigar la relación entre el uso de estrategias de aproximación al aprendizaje de la clínica y su efectividad para el desarrollo de las competencias necesarias para cerrar exitosamente el ciclo. Se proyecta un trabajo en esa línea.
+
+Fuentes de Apoyo Financiero: Investigación financiada por el Fondo Nacional de Desarrollo Científico y Tecnológico. Proyectos FONDECYT 1120534 y 1150340.

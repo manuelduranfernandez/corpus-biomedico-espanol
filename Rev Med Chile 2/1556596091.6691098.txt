@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000200196
+Traumatismo torácico: caracterización de hospitalizaciones durante tres décadas
+
+El traumatismo corresponde a la tercera causa de muerte en el adulto y la primera en menores de 40 años, siendo el traumatismo torácico (TT) responsable del 25-35% de ellas. El TT se presenta en 10-15% de todos los traumatismos y hasta en 50% de los politraumatizados, afectando principalmente a hombres menores de 40 años. El TT se clasifica en contuso o penetrante, siendo su frecuencia dependiente del sitio geográfico. Usualmente no necesita alguna intervención quirúrgica mayor (80-85%), siendo el tratamiento con pleurotomía y el tratamiento médico los más frecuentes1–5. Estudios aislados describen cambios en las características clínicas y epidemiología del TT a lo largo del tiempo.
+
+Nuestro objetivo es describir y comparar las características, índices de gravedad de traumatismo (IGT) y morbimortalidad en pacientes hospitalizados por TT en las últimas 3 décadas.
+
+Material y Métodos
+
+Se realizó estudio descriptivo analítico en los pacientes hospitalizados por TT en el Hospital Clínico Regional “Dr. Guillermo Grant Benavente” de Concepción, Chile, tratados por el equipo de Cirugía Cardiotorácica, en el período comprendido entre enero de 1981 y diciembre de 2010. Las décadas fueron separadas en 3 períodos: 1981-1990, 1991-2000 y 2001-2010. La información se obtuvo a partir de protocolos prospectivos de TT realizados al momento de ingreso del paciente al hospital, revisión de base de datos del equipo, protocolos quirúrgicos y fichas clínicas con aprobación del Comité de Ética de la Facultad de Medicina de la Universidad de Concepción. Se ordenaron los datos mediante planilla Microsoft Excel® y se utilizó programa SSPS 21® con función ANOVA de un factor para análisis estadístico con 3 variables cuantitativas y prueba chi cuadrado (χ2) para variables cualitativas, además de estudio de regresión lineal de Pearson para análisis demo-gráfico poblacional, calculando R2, se consideró significativo p < 0,05. Se describe y compara número de hospitalizaciones, tasas según población regional, edad, género, características clínicas, mecanismos, tratamiento, morbimortalidad e índices de gravedad de traumatismo (IGT) y la relación de estos con la mortalidad.
+
+Se aplicaron scores utilizados ampliamente en la literatura como: ISS (Injury Severity Score)6 que determina gravedad de acuerdo a lesión anatómica, RTS-T (Revised Trauma Score Triage)7 de acuerdo al estado o deterioro fisiológico al momento del ingreso (presión arterial sistólica, frecuencia respiratoria y escala de Glasgow) y el TRISS (Trauma Injurity Severity Score)8score mixto, que engloba las dos anteriores y las relaciona con la edad del paciente y el mecanismo del traumatismo, determinando el riesgo de mortalidad5,9,10. Se consideró politraumatizado un ISS > 16 puntos9,11.
+
+Se realizó búsqueda de registro de datos estadísticos poblacionales, en el Instituto Nacional de Estadística (INE) sobre población estimada entre los años 1981-2010 y resultados oficiales de censos de 1982-1992-2002-2012. Se calculó la tasa de hospitalizaciones por TT por 100.000 habitantes en Hospital Clínico Regional “Dr. Guillermo Grant Benavente” de Concepción, Chile según población de la Región del Biobío12–18.
+
+Resultados
+
+En el período 1981-2010 se hospitalizaron y fueron atendidos por nuestro equipo 3.095 pacientes con TT, de los cuales se excluyeron 27 (0,9%) por ser menores de 15 años. Fue incluido un total de 3.068 pacientes. Al calcular la tasa anual por 100.000 habitantes de hospitalizaciones por TT en Hospital Clínico Regional “Dr. Guillermo Grant Benavente”, según la población regional, se observó un aumento significativo (p < 0,05) desde 3,34 en año 1981 hasta 6,78 en 2010 (Figura 1).
+
+Figura 1 A: Número de pacientes hospitalizados por traumatismo torácico en Hospital Clínico Regional “Dr. Guillermo Grant Benavente” de Concepción, Chile durante 3 décadas; B: Tasas de hospitalizaciones por traumatismo torácico por 100.000 habitantes en Hospital Clínico Regional “Dr. Guillermo Grant Benavente” de Concepción, Chile según población de la Región del Biobío. 
+
+Se encontró un aumento de la edad de los pacientes hospitalizados por TT, además de un aumento en la proporción de hospitalizaciones en pacientes ≥ 65 años y de sexo femenino (Tabla 1).
+
+Tabla 1 Número y características epidemiológicas en pacientes hospitalizados por traumatismo torácico en 3 décadas 
+
+Si bien se observó cambios en los traumatismos penetrantes y contusos en la década de 1991-2000, el TT penetrante predominó durante los 30 años. Con respecto al mecanismo del traumatismo, se encontró un aumento de la proporción de las hospitalizaciones por agresión y accidentes domésticos, con una disminución en los accidentes de tránsito y accidentes laborales (Tabla 2).
+
+Tabla 2 Clasificación y mecanismo del traumatismo en pacientes hospitalizados por traumatismo torácico en 3 décadas 
+
+NS: No estadísticamente significativo.
+
+En relación al agente, se encontró un aumento del porcentaje de hospitalizaciones por lesiones por arma blanca y armas de fuego, además de una disminución de la proporción de TT por elementos contundentes y vehículos motorizados. Se observó también una disminución del porcentaje de politraumatizados hospitalizados con TT a lo largo de los años (Tabla 3).
+
+Tabla 3 Sitio, agente y tipo de traumatismo en pacientes hospitalizados por traumatismo torácico en 3 décadas 
+
+NS: No estadísticamente significativo. TT: Traumatismo torácico.
+
+Al observar exclusivamente las 1.856 (60,5%) lesiones penetrantes, se observó un aumento significativo del porcentaje de hospitalizaciones por traumatismo torácico por arma de fuego, desde 4,6% en la década 1981-90, 4,9% en la década 1991-2000, hasta 8,5% en la década 2001-2010 (p < 0,05).
+
+Con respecto a los hallazgos y lesiones intratorácicas, se observó un aumento de la proporción de hospitalizaciones por heridas penetrantes cardiacas, con una disminución del porcentaje de hospitalizaciones por hemotórax no masivo, neumotórax, fracturas costales y otros. Además, se observó una disminución de la proporción de hospitalizaciones por fracturas costales complicadas y tórax volante (Tabla 4 y 5). También se destaca una reducción del porcentaje de ingresos por TT asociados a lesiones craneoencefálicas o extremidades (Tabla 6).
+
+Tabla 4 Hallazgos y lesiones intratorácicas en pacientes hospitalizados por traumatismo torácico en 3 décadas 
+
+NS: No estadísticamente significativo.
+
+Tabla 5 Fracturas costales y sus complicaciones en relación al total de pacientes hospitalizados por traumatismo torácico en 3 décadas 
+
+NS: No estadísticamente significativo. FC: Fracturas costales.
+
+Tabla 6 Lesiones extratorácicas en pacientes hospitalizados por traumatismo torácico en 3 décadas 
+
+NS: No estadísticamente significativo.
+
+En relación al tratamiento definitivo del TT, la mayoría de los pacientes (70%) requirió tratamiento invasivo, si bien se observó una diminución de este durante las 3 décadas. Entre los pacientes que recibieron un tratamiento invasivo (2.159 pacientes), se trató de una pleurotomía en 78% y cirugía en 22% (Tabla 7).
+
+Tabla 7 Tratamiento definitivo realizado en hospitalizados por traumatismo torácico en 3 décadas 
+
+Se cuantificó una disminución del porcentaje de morbilidad en pacientes hospitalizados por TT, principalmente aquellas atribuidas al traumatismo en sí. No se observó diferencias estadísticamente significativas en la mortalidad, salvo en los pacientes politraumatizados en los cuales si se observó un aumento del porcetaje de mortalidad a expensas de un aumento del TRISS desde 8,7% en la década 1981-90, 8,5% en década 1991-2000, hasta 12,7% en 2001-2010 (p < 0,05). Además se presentó una disminución significativa de la estadía hospitalaria por TT (Tabla 8).
+
+Tabla 8 Morbilidad, reoperaciones, mortalidad y estadía hospitalaria en pacientes hospitalizados por traumatismo torácico en 3 décadas 
+
+NS: No estadísticamente significativo. TT: traumatismo torácico.
+
+Con respecto a los IGT, solo se encontró una disminución del ISS, sin cambios significativos en RTS-T ni TRISS. Tanto en el global como en cada uno de los períodos se observó una mortalidad menor a la esperada según el TRISS (Tabla 9).
+
+Tabla 9 Índices de gravedad del traumatismo en pacientes hospitalizados por traumatismo torácico en 3 décadas 
+
+NS: No estadísticamente significativo.
+
+Discusión
+
+El TT es una importante causa de morbimortalidad, principalmente en pacientes menores de 40 años, por lo que es un tema relevante de estudio, ya que se trata de un problema de salud pública. Existen diferentes estudios descriptivos transversales de TT en las diferentes décadas, con los que se puede inferir ciertos cambios en las características clínicas y epidemiológicas de este tipo de traumatismo, pero hasta la fecha no existe un estudio que demuestre o confirme estos cambios1–5,19,20. El presente estudio busca mostrar una visión general de los cambios en las hospitalizaciones por TT en las últimas tres décadas.
+
+Se observó un aumento significativo en la cantidad de hospitalizaciones por TT a lo largo de los años, como también de la tasa de hospitalizaciones por TT según la población regional, por lo que, el aumento de hospitalizaciones no solo se podría asociar a un incremento de la población regional, la cual aumentó, en el período estudiado, desde 1.496.098 a 2.036.443 habitantes12–18, sino que también, a una mayor expectativa de vida, a criterios más flexibles al momento de decidir la hospitalización, como también a un aumento de adultos mayores con TT.
+
+El TT clásicamente se presenta en hombres jóvenes (61-94%) con una edad promedio menor a los 40 años (26,6-54,2%)1–5,19,21–23, nuestra serie demostró una disminución de la proporción de hospitalizaciones en hombres, con un aumento en las mujeres, la edad de ingreso y pacientes ≥ 65 años hospitalizados por TT a lo largo de estas 3 décadas.
+
+La clasificación de TT penetrante o contuso y su frecuencia varía principalmente según ubicación geográfica. En diferentes estudios, principalmente estadounidenses y europeos, existe una predominancia de TT contusos, que alcanzan hasta 66-95,8%, producidos por accidente de tránsito por vehículo motorizado (22,8-70,9%) y caídas (7,6-69,5%)3.4,20,24, siendo más frecuentes las lesiones penetrantes (34-65%) en países latinoamericanos, producidas por arma blanca (35-85%) y armas de fuego (15-29%)5,22,25. En nuestra serie se observó un predominio, durante los 30 años, del TT penetrante sobre el contuso, asociándose a un incremento de la proporción de hospitalizaciones por agresiones, principalmente por armas blancas y armas de fuego, estas últimas duplicando su proporción. Junto a eso, se demuestra una disminución de la proporción de hospitalizaciones por accidentes de tránsito y laborales con elementos contundentes como caídas de nivel o altura. Sin embargo, se destaca un aumento de las lesiones contusas domésticas, lo que se podría explicar por el aumento de hospitalizaciones de adultos mayores, más propensos a caídas de nivel con lesiones de tipo contusas, siendo esta causa responsable de las hospitalizaciones por TT en adulto mayor hasta en 80%26.
+
+Se encontró un predominio de los TT aislados sobre los TT con lesiones asociadas y politraumatismos, estos últimos con una significativa disminución en su proporción en las últimas décadas a niveles menores a los observados en otras series (26%)1,5, lo que supone una menor gravedad de los pacientes que son hospitalizados actualmente por TT. Cabe destacar que en otras series no determinaron el concepto de politraumatismo de acuerdo al ISS, por lo que en esas series el concepto de politraumatismo podría estar sobreestimado9,11.
+
+Las lesiones y hallazgos intratorácicos asociados más frecuentes a traumatismo son clásicamente, en la literatura, el hemotórax (20-56%), neumotórax (28-51%) y fracturas costales (30-49%) y menos frecuente contusión pulmonar, lesión diafragmática, penetrante cardiaca, lesión de grandes vasos, fractura esternal, etc1–5,19,21,25,27,28. En nuestra serie se destacó principalmente una disminución proporcional de las hospitalizaciones por hemotórax no masivo, fracturas costales, tórax volante, contusión pulmonar y neumotórax abierto, asociado a un aumento en el porcentaje de hospitalizaciones por fractura esternal y penetrante cardiaca.
+
+El TT se asocia frecuentemente a lesiones extratorácicas, llegando en algunas series a 26-35%, principalmente de extremidades (12,7-19%), abdominales (8,3-13%), cráneo-encefálicas (8,4-4,6%) y, en menor medida, fractura de pelvis (3,6%), raquimedular (3%) y cabeza y cuello1–4,29. En nuestra serie se destacó una disminución significativa del porcentaje de pacientes hospitalizados con lesiones extratorácicas, probablemente asociada a la menor gravedad de los TT hospitalizados, lo que se demuestra por una disminución de los politraumatismos, necesidad de cirugía y del ISS.
+
+A pesar de la gravedad y morbimortalidad asociado al TT, solo 2,6-20% de ellos necesitará alguna intervención quirúrgica mayor, siendo la pleurotomía exclusiva el principal método invasivo de tratamiento (18,3-83,3%), seguida del tratamiento médico exclusivo (37,6-79,1%)1–5,19,21,30–34. Estas diferencias se deben principalmente a la variabilidad del tipo de traumatismo (contuso o penetrante) en las diferentes series publicadas, con predominio de pleurotomía en las series latinoamericanas (63-75%)35,36. La necesidad de cirugía extratorácica es habitual, encontrando una frecuencia del 18-20% en la literatura1–5,19–21.
+
+A lo largo de las décadas se han producido cambios en el tratamiento del TT, si bien fue predominantemente invasivo (62-80,1%), con necesidad de tratamiento quirúrgico mayor en 22% de ellas, se observó un aumento significativo de la proporción de tratamiento médico exclusivo y una disminución de la pleurotomía exclusiva y cirugía torácica, principalmente en la última década, probablemente asociado a la menor gravedad de las lesiones anatómicas, a la mayor edad de los pacientes hospitalizados por TT y a la facilidad de contar con estudios imageneológicos que facilitan el diagnóstico y la decisión hacia un tratamiento óptimo para el paciente.
+
+La morbilidad asociada a TT es frecuente, alcanzando 8,7-35,5% y con una mortalidad que alcanza 1,8-10,3%1–5,35,36. La morbilidad en nuestro centro ha presentado una disminución significativa, probablemente por las causas antes comentadas, además de contar con mayores avances en los tratamientos que disminuyeron la estadía hospitalaria de nuestros pacientes. No se encontró diferencias en la mortalidad.
+
+Los IGT corresponden a diferentes scores, que ayudan a determinar la gravedad y riesgo de mortalidad en pacientes con algún tipo de traumatismo, estableciendo su pronóstico, además de servir de base para líneas de investigación clínica, establecer aspectos epidemiológicos comparables entre distintos centros, ayudar a establecer programas de evaluación y control de calidad de atención médica, etc6–8. En nuestra serie, la mortalidad fue menor a la esperada según estos IGT en las diferentes décadas y en comparación con series latinoamericanas35,36. Durante el período solo se encontró una disminución de la grave-dad anatómica de las lesiones (ISS) sin cambios significativo en el estado o deterioro fisiológico (RTS-T), lo que, junto a un aumento de la edad de los pacientes hospitalizados, principalmente un aumento en la proporción de aquellos ≥ 65 años, podrían explicar la disminución de la morbilidad, necesidad de tratamiento invasivo, así como la mantención del TRISS y mortalidad a lo largo de estas 3 décadas.
+
+Se destaca que solo se encontró un aumento significativo de la mortalidad en paciente politraumatizados, concomitante con un aumento del TRISS en este grupo, a pesar de una disminución de la proporción de hospitalización de pacientes con ISS > 16 durante estas 3 décadas, factores como el mecanismo contuso y el aumento de la edad, corresponden a factores de riesgo importantes de mortalidad y podrían explicar esto.
+
+En conclusión, el TT se presenta por lo general en hombres jóvenes, producto, frecuentemente, de una lesión penetrante por agresión con arma blanca. Sin embargo, se han producidos cambios en las hospitalizaciones a lo largo de las tres últimas décadas. Se destaca, principalmente, un aumento del número de hospitalizaciones, junto a un aumento de las tasas según población regional, con un predominio de las lesiones penetrantes a lo largo de los 30 años, asociado a un aumento proporcional de las hospitalizaciones en mujeres y lesiones por arma de fuego, junto con un aumento de hospitalizaciones de paciente cada vez de mayor edad y de menor gravedad anatómica, además de una disminución de la proporción de politraumatizados, asociado a una menor necesidad de cirugías, morbilidad y estadía hospitalaria. No se observó cambios significativos en la mortalidad de la serie.
+
+Agradecimientos
+
+Agradecemos al Dr. Alberto Gyhra S. por iniciar este largo proyecto, por ser una constante inspiración y por su enorme generosidad.

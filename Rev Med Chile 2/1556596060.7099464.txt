@@ -1,0 +1,96 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872013000400006
+Análisis de los determinantes de la eficiencia hospitalaria: el caso de Chile
+
+ 
+
+La meta de hacer de Chile un país desarrollado requiere de una serie de condiciones, entre las que se encuentra el desarrollo económico, social y cultural del país. Sin embargo, también requiere que sus instituciones, y particularmente los organismos del sector público, funcionen con grados de eficiencia y calidad considerables.
+
+En el sector salud, los hospitales tienen un rol de suma importancia en la búsqueda de la eficiencia y la calidad, tanto por las externalidades positivas que genera en el estado de la salud de la población, como por la mayor equidad de acceso que genera. Respecto de la eficiencia, un mayor nivel de eficiencia, entendido en su acepción general, consiste en generar una atención y procesos más expeditos al interior de los hospitales, minimizando así el uso innecesario de recursos y disminuyendo la capacidad ociosa.
+
+Sin embargo, es importante preguntarse respecto de cuáles son las variables que determinan dicha eficiencia. En Chile, la eficiencia hospitalaria no ha sido estudiada en profundidad, y por consiguiente, no existe una amplia gama de explicaciones a esta. Los trabajos de Castro (2004)1 y Barahona-Urbina (20ll)2, en su intento por analizar la eficiencia han germinado una línea de suma riqueza, y han esbozado algunas de las explicaciones de la eficiencia.
+
+Existe una experiencia internacional amplia y estandarizada de evaluaciones de eficiencia hospitalaria37, que desde la década 1980-89 viene aplicando la técnica Data Envelopment Analyis (DEÁf. Dicha eficiencia parte del concepto de eficiencia técnica, que implica que una unidad productiva es capaz de ser eficiente si obtiene el máximo de producto dados sus insumos constantes, o el mínimo de costo dado un nivel de producción8.
+
+Una parte considerable de estos estudios ofrece evidencia empírica respecto a los determinantes de la eficiencia. Esta depende de factores de carácter institucional, de gestión, financiamiento, y socioeconómicos y demográficos. Los factores institucionales consideran la propiedad del establecimiento, si es público o privado8,9, así como el tamaño9. En relación a la gestión se considera la calidad5,9,10, los recursos humanos11, el nivel de costos2,9,12, y especialización13. En relación al financiamiento se considera los mecanismos de pago11,14, y respecto de las variables socio-económicas y demográficas se considera el ingreso así como la población7,11, entre otros.
+
+El objetivo de este estudio es explorar respecto a los determinantes de la eficiencia hospitalaria. Para esto, y dada la multi-causalidad del fenómeno de la eficiencia hospitalaria, no es posible hablar de una única hipótesis a testear, por el contrario, se testearán una serie de hipótesis relacionadas a variables que pudiesen afectarla. Estas hipótesis se relacionan al efecto de la productividad del personal clínico, el rendimiento estratégico, mecanismos de financiamiento, territorio geográfico, y el nivel de especialización.
+
+Material y Método
+
+La muestra corresponde a 28 hospitales, los cuales representan 255.439 egresos para el período mayo a octubre de 2011, y que corresponden a 45% de los egresos totales a nivel nacional para el mismo período. Dicha muestra se conforma con los establecimientos que cuentan con toda la información disponible en el período de este estudio. Las variables se dividen en variables de eficiencia o variables dependientes, y variables explicativas o independientes.
+
+Variables dependientes
+
+La información que usaremos se refiere al índice de eficiencia estimado en Santelices et al. (2012)15. Dicho índice se estima a través la técnica Data Envelopment Analysis (DEA), el que corresponde a un índice de eficiencia que toma el valor de 1 cuando la unidad se encuentra en la frontera de eficiencia de producción, y menor a uno cuando se encuentra fuera de la frontera de eficiencia de producción. La estimación de dicho índice considera como productos los egresos ponderados por el peso relativo de los IR-GRD18, y como insumos las camas disponibles, el personal del hospital, y el gasto en bienes y servicios15. El concepto implícito en esta medición de eficiencia técnica es el de Farrel (1957)16, que señala que una unidad es técnicamente eficiencia cuando produce el máximo de producto dados sus insumos, o utiliza el mínimo de insumos, dados sus productos.
+
+Adicionalmente, es necesario señalar que el índice DEA de eficiencia se tiene para rendimientos constantes o variables de producción. El primero asume que un incremento porcentual de cierta cantidad en los insumos tiene una respuesta de la misma cantidad en el producto, mientras que el segundo asume que la respuesta porcentual es menor15.
+
+Sin embargo, con el objeto de obtener variables explicativas robustas de la eficiencia se ocupan evaluaciones de la eficiencia complementarias, tales como el análisis de frontera estocástica (SFA) y un índice de costo medio (CMe). El primero corresponde a una técnica inicialmente desarrollada por Aigner, Lovell, y Schmidt (1977)17, que consiste en estimar una función de producción, es decir, la "relación" existente entre insumos y productos para una serie de establecimientos, donde las desviaciones respecto de la relación óptima de producción se dan, en primer lugar, por el hecho de que en realidad no existe una relación exacta entre las variables y, en segundo lugar, porque ciertos establecimientos pueden estar produciendo efectivamente por debajo de la relación óptima de producción. El segundo, CMe, corresponde a los costos de egresos en millones de pesos, sobre los egresos ponderados por el peso relativo del GRD al cual pertenecen18.
+
+Variables independientes
+
+Las variables independientes o explicativas corresponden a variables relacionadas a: (i) las prácticas hospitalarias; (ii) la productividad del persona clínico; (iii) el rendimiento estratégico; (iv) mecanismos de financiamiento; (v) territorio geográfico y (vi) el nivel de especialización.
+
+Respecto de (i) las prácticas hospitalarias, se utilizarán como aproximación dos medidas. La primera corresponde a la estancia promedio en días corregida por el índice de complejidad (IC) de cada establecimiento. De acuerdo a hallazgos de Lave y Leinhardt existe un elevado nivel de correlación entre la estancia media y el case mix19, entonces, aumentos de la estancia promedio dada una complejidad constante, podrían ser signo de ineficiencia. Cabe señala que el IC se obtiene como la razón entre los egresos ponderados y los egresos efectivos. En segundo lugar, usaremos la proporción de costos indirectos sobre costos directos de los egresos. Los costos directos corresponden a aquellos costos que dependen directamente de los insumos usados por la unidad específica en la generación de un egreso hospitalario, mientras que los indirectos, a los costos imputados por el préstamo de servicios de otra unidad del hospital. La hipótesis es que un hospital que use un mayor monto de costos indirectos en la producción de su egreso, es más ineficiente, pues tiene un mayor costo asociado a las áreas de administración, almuerzo, farmacia, etc.
+
+Respecto a (ii) la productividad del personal clínico, se usarán los egresos por enfermera y matrona, y las horas por médico del establecimiento. El primer indicador corresponde a la razón entre los egresos del hospital y el número de enfermeras y matronas en un período determinado. Un mayor número de egresos por enfermera y matrona, puede ser causa de la eficiencia de las enfermeras y matronas en su labor. Esto, pues un mayor número de egresos dada una cantidad de personal constante, implica entre otras cosas, que el personal puede estar haciendo su trabajo de forma más eficiente. Si la labor del personal de enfermería es tal que disminuye la cantidad de eventos adversos, como úlceras por presión y caídas de pacientes, entre otras, esto gatillará en un menor tiempo de recuperación, y por ende, la generación más pronta de egresos hospitalarios. En consecuencia, una mayor cantidad de egresos dado el personal existente. Dado que la contratación de médicos es distinta al personal de estatuto, se usan las horas por médico del establecimiento, en el sentido de que una mayor intensidad del trabajo médico implica un mayor conocimiento del know how del establecimiento en particular.
+
+Respecto de la (iii) medida de rendimiento estratégico, se usa el puntaje obtenido en el "Instrumento de Evaluación de Establecimientos Auto gestionados en Red"20. Dicha herramienta mide el cumplimiento en relación a sustentabi-lidad financiera, eficiencia operacional, gestión clínica, excelencia de atención, y su fin último es medir en términos estratégicos la gestión del establecimiento. Se espera que exista correlación entre el comportamiento estratégico y la eficiencia hospitalaria.
+
+Respecto a los (vi) mecanismos de financia-miento, una de las tendencias para mejorar la eficiencia del sector es vincular la actividad a los costes de producción14. En el extremo, un mecanismo de financiamiento histórico debería incidir negativamente sobre la eficiencia, pues el hospital no tiene incentivos a minimizar costos, mientras que un mecanismo de financiamiento prospectivo, creará incentivos para minimizar costos, pues el hospital no podrá controlar el financiamiento que se le asigna. En el caso chileno, el Programa de Prestaciones Institucionales (PPI) corresponde a un mecanismo de financiamiento histórico, mientras que el Programa de Prestaciones Valoradas (PPV), si bien es una aproximación imperfecta al precio de las prestaciones hospitalarias, se paga en base a actividad. Se espera que una mayor proporción de PPV en el financiamiento total aumente la eficiencia, pues aumenta el monto de financiamiento asignado por actividad. Si bien la literatura señala que en la práctica funcionaría un sistema mixto, como es de hecho en Chile, acá se rescata el efecto de la variabilidad de la proporción de presupuesto asignado a actividad, sobre la eficiencia, lo que no implica que todo el presupuesto se deba asignar según actividad.
+
+Respecto a las variables de (v) territorio geográfico, dado que los hospitales corresponden a proveedores que tienen la exclusividad de servicio en su zona de influencia, o que en otras palabras, se asemejan a monopolios naturales o geográficos21, sus niveles de eficiencia podrían ser endógenos al territorio en cuestión. Esto es, los hospitales pertenecientes a una región en particular podrían tener una mayor cercanía a las centrales de abastecimiento, mayor disposición de personal calificado, o pacientes con un perfil particular de complejidad.
+
+Respecto a (vi) el nivel de especialización, éste podría impactar de dos formas a la eficiencia. En primer lugar, una mayor especialización debería tener un aparente impacto negativo en la eficiencia, pues los institutos tienen una mayor complejidad asociada, y por ende, un mayor monto de costos y menor de egresos, entonces la influencia de esta variable corresponde a la identificación del componente de complejidad idiosincrático de estos establecimientos, y no propiamente a la eficiencia técnica. En segundo lugar, el efecto de la especialización podría tener un efecto positivo sobre la eficiencia22, pues los hospitales tenderían a especializarse en aquellos servicios en los que tienen ventajas comparativas de producción. Aun si no existiese esa especialización autónoma, el solo hecho de que un hospital se dedique a hacer prestaciones específicas, puede que incremente de forma importante el "learningby doing"23 del área de especialidad. La evidencia empírica señala que los hospitales que se especializan en GRDs costosos tienen altos niveles de eficiencia técnica13.
+
+Si bien en este trabajo no se consideran explícitamente los factores socioeconómicos que podrían incidir sobre la eficiencia hospitalaria, esperamos que estos se encuentren correlacionados con la complejidad a la que el hospital se enfrenta. Esto en el sentido de que personas con menor nivel socioeconómico y escolaridad tienen un menor nivel de salud, todo lo que incide en un sesgo hacia arriba de su complejidad, y por ende, influyen en la complejidad hospitalaria.
+
+Método
+
+A través del análisis econométrico se elaboran cuatro modelos, con el objeto de determinar el efecto que las variables señaladas anteriormente tienen sobre la eficiencia. Dichos modelos se conforman con la variable dependiente por el lado izquierdo, como función de una serie de variables explicativas que se señalan en el lado derecho:
+
+Eficiencia =f(estancia_ic, ci_cd, egresos_enf, horas_ med, bsc, ppv_ppi, dummyl3, especializados) + s
+
+Donde la variable Eficiencia corresponde a los índices de eficiencia estimada en base al DEA retornos constantes y variables15, análisis de frontera estocástica (SFA), y la inversa del costo medio en millones de pesos. El índice de eficiencia SFA se ha estimado usando los mismos insumos y productos de Santelices et al (2012), y se ha escalado de 0 a 1, donde 1 corresponde a la máxima cifra de eficiencia. El costo medio se ha estimado como el costo de egresos en millones de pesos sobre los egresos ponderados, considerando su inversa proporcional, con lo que las dos medidas son directamente proporcionales a la medición de la eficiencia DEA, es decir, a medida que aumentan, aumenta la eficiencia.
+
+En la Tabla 1 se observan las variables explicativas, su definición y los efectos que tendrán sobre la eficiencia.
+
+
+
+Tabla 1. Variables explicativas y efecto esperado sobre la eficiencia
+
+
+
+Cabe destacar que los modelos estimados corresponden a modelos tobit24 para el caso del índice de eficiencia DEA, retornos constantes y variables, y el índice del modelo de frontera estocástica. Para el caso del índice de costo medio se estima un modelo de regresión lineal.
+
+Las estimaciones se llevan a cabo a través del software STATA 10.1.
+
+Resultados
+
+En la Tabla 2 se observan los resultados de estimación considerando como variable dependiente cada una de los índices de eficiencia señalados.
+
+
+
+Tabla 2. Tobit para la eficiencia hospitalaria, rendimientos constantes, variables y SFA y regresión para el índice de costo medio
+
+
+
+Respecto al modelo de retornos constantes, las variables que afectan la eficiencia son las siguientes. La estancia media corregida por complejidad, incide negativamente sobre la eficiencia, al 5% de significancia. Las variables que inciden positivamente sobre la eficiencia son los egresos por enfermera y matrona, al 1% de significancia, el rendimiento de la herramienta de hospitales autogestionados en red al 5%, y la condición de establecimiento especializado, al 5%. Respecto de la condición de "especializado", el resultado apoya la hipótesis de que la especialización incrementa la eficiencia del establecimiento.
+
+Dejando de lado el supuesto de retornos constantes a la escala, y adoptando el supuesto de retornos variables, o que el tamaño del establecimiento influye sobre su productividad, las mismas variables influyen sobre la eficiencia.
+
+Respecto al modelo cuya variable dependiente es el índice del análisis de frontera estocástica, la estancia corregida por complejidad afecta de forma negativa la eficiencia al 1% de significancia. La productividad del personal clínico hace aumentar la eficiencia, con 5% de significancia, al igual que el caso del Balancea Score Cara, con 10%.
+
+Por último, respecto a la inversa del costo medio, las variables explicativas significativas corresponden los egresos por enfermera y matrona.
+
+En síntesis, las variables más robustas para explicar la eficiencia corresponden a la estancia media por complejidad, los egresos por enfermera y matrona, y el rendimiento de la herramienta de evaluación de establecimientos autogestionados.
+
+Conclusión
+
+Los hallazgos de este estudio vienen a contribuir a un área escasamente estudiada en el caso de Chile, y que corresponden a los determinantes de la eficiencia hospitalaria. De acuerdo al análisis y la muestra de datos analizados, las variables que inciden sobre los niveles de eficiencia corresponden a la estancia corregida por complejidad, los egresos por enfermera y matrona, y el rendimiento en el Instrumento de Evaluación de Establecimientos Autogestionados en Red.
+
+Estos resultados, que corresponden a una primera aproximación al fenómeno, nos permitirán conformar cursos de acción con el objetivo de optimizar la gestión hospitalaria, toda vez que una mayor eficiencia elimina capacidades ociosas y aumenta el acceso de la población a la atención hospitalaria.
+
+Uno de los limitantes de este estudio fue la disponibilidad de información en el sector mismo, que aún no cuenta con un sistema homogeneiza-do entre las diferentes bases de datos existentes. Sin embargo, la muestra de 28 establecimientos obtenida en el cruce de diferentes bases de datos corresponde a una cantidad representativa de la realidad del sector hospitalario.
+
+Este estudio pretende ser un aporte al área de los determinantes de la eficiencia hospitalaria en Chile, y abrir un campo de análisis necesario para la aplicación de las políticas públicas en salud.

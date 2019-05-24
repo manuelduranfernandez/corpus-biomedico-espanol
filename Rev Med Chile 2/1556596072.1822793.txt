@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872014000900006
+Validación de un test breve para el diagnóstico de capacidad funcional en adultos mayores en Chile
+
+ 
+
+Junto con el aumento de la esperanza de vida aparece un deterioro físico progresivo asociado a enfermedades crónicas y/o degenerativas              que produce la pérdida de autonomía del adulto mayor, declinación de sus capacidades funcionales y la necesidad de cuidados              y resguardo por parte de su entorno, lo que se traduce en un aumento de la dependencia. El concepto de dependencia alude a              la incapacidad para realizar una serie de actividades de la vida diaria, que implica la necesidad de la ayuda de otras personas4. Para la medición de la dependencia funcional se utilizan principalmente dos tipos de escalas que miden la capacidad para              realizar actividades básicas e instrumentales de la vida diaria4,5. Las escalas de “actividades básicas de la vida diaria” más conocidas son el “Índice de Katz”6 y el “Índice de Barthel”7, las cuales miden capacidad física. Entre las escalas de “Actividades Instrumentales de la vida diaria”cabe mencionar el              “Índice de Lawton”8 y el “Cuestionario de Actividades funcionales de Pfeffer (en adelante PFAQ)9,10, que incluyen actividades de mayor complejidad que las actividades básicas de la vida diaria. Las primeras son más sensibles              para detectar alta dependencia y usualmente se usan en contextos más medicalizados (adultos mayores institucionalizados, hospitalizados              o con enfermedades invalidantes), mientras que las segundas pueden ser usadas en población general. 
+
+En la presente investigación se pretende evaluar las propiedades psicométricas del PFAQ en Chile, y proponer una versión más              reducida de la escala. PFAQ nunca ha sido validado en Chile como un instrumento para detectar disminución de capacidad funcional              aplicado en encuestas generales en personas mayores. Los objetivos de esta validación son: i) evaluar sesgos de género que              puedan tener algunas preguntas; ii) evaluar la capacidad de discriminación de los ítems, en particular, detectar ítems con              muy poca variabilidad; iii) evaluar la unidimensionalidad de la escala (validez de constructo) y su consistencia interna;              iv) acortar el cuestionario que tiene originalmente 11 ítems, pues se quiere proponer una escala que pueda aplicarse en encuestas              más largas, donde se tratan también otros temas; v) comparar la escala reducida con la original, evaluando sus propiedades              métricas. 
+
+Fuente de datos
+
+Se utilizan tres encuestas chilenas aplicadas presencialmente a población adulta mayor residente en sus viviendas particulares              y que pueden contestar las preguntas a un encuestador. La primera es la “Encuesta sobre Eventos Vitales de los Adultos Mayores”              del Proyecto Fondecyt 1120331, muestra aleatoria probabilística de 1.371 adultos de 60 o más años en el Gran Santiago el año              2012(EEV2012). La segunda y tercera es la “Encuesta Nacional de Calidad de Vida en la Vejez” de los años 2010 (n = 1.954)              y 2013 (n = 2.644), respectivamente (ECV2010 y ECV2013). Tienen muestra aleatoria probabilística multietápica similar a EEV2012,              ampliándose a cobertura nacional, siendo representativas de 86% de la población que vive en pueblos o ciudades de más de 10.000              habitantes en Chile. Estas encuestas han contado con la aprobación del Comité de Ética del Instituto de Sociología de la Pontificia              Universidad Católica de Chile.
+
+Las características sociodemográficas de las tres encuestas son similares; en el total de las tres encuestas 65% es mujer;              61% tiene entre 60 y 74 años; 59% tiene educación básica (8 años de estudios o menos), 28% educación secundaria y 13% algo              de educación superior; 16% declara tener mala salud, 42% regular salud y 41% buena salud.
+
+Instrumentos
+
+El Cuestionario PFAQ es una herramienta de screening para evaluar la independencia en el desempeño de actividades de la vida diaria, diseñado para estudios de comunidades de              personas con envejecimiento normal y personas que presentan alteraciones funcionales leves. El test puede ser respondido por              el entrevistado o un informante confiable4. La versión original del año 19829 tenía 10 ítems sobre actividades ante las cuales se preguntaba acerca de la habilidad para desarrollarlas en una escala de              6 respuestas que variaban según de qué actividad se tratase: actividades financieras, hacer trámites, compras, practicar algún              hobbie, calentar agua para té/café, preparar la comida, mantenerse al tanto de los acontecimientos, comprender un programa de televisión              o lectura, recordar acontecimientos, movilizarse fuera del barrio. 
+
+En Chile, Quiroga, Albala y Klaasen11 validaron este instrumento como un test de tamizaje para el diagnóstico de demencia en personas de 65+ años. La versión en              español que utilizaron (la misma que se ocupa en el presente estudio) constó de un total de 11 ítems, para cada uno de los              cuales existieron 4 respuestas posibles: 0 = Sí es capaz o podría hacerlo; 1 = Con alguna dificultad; 2 = Necesita ayuda;              3 = No es capaz. El puntaje total se calcula como la suma de los puntajes de cada ítem (0 a 33 puntos). En base a un análisis              de sensibilidad y especificidad y curvas ROC, y teniendo también en consideración las diferencias por educación en el desempeño              cognitivo, los autores llegan a la conclusión de que el mejor punto de corte para diagnosticar deterioro cognitivo es de >= 6.              
+
+Estadística
+
+Para llevar a cabo la evaluación del instrumento para el caso chileno, se siguieron determinadas etapas. En primer lugar,              se cruzaron todas las variables con género y nivel educacional, pues se quería explorar si hay ciertas preguntas que tienen              sesgo cultural de género o por nivel socioeconómico; también se cruzaron con edad, pues se esperaba que todas las actividades              disminuyeran en capacidad con la edad. La validez de constructo fue chequeada con correlación entre ítems y análisis de componentes              principales. A partir de los resultados se construyeron distintas escalas con menor cantidad de ítems, donde se analizó la              consistencia interna (correlaciones con la escala y Coeficiente Alfa de Cronbach), se calcularon estadísticos de sensibililidad              y especificidad teniendo como gold standard el punto de corte en 6 puntos propuesto por Quiroga, Albala y Klaasen11; y se cruzaron con variables supuestamente relacionadas, ya sea porque se supone que miden aspectos similares (validez convergente) o porque predicen otros comportamientos (validez predictiva).
+
+En la Tabla 1 se tienen las frecuencias de todos los ítems de PFAQ para la muestra agregada de las encuestas analizadas. La mayoría de              las respuestas están concentradas en “sí es capaz o podría hacerlo”. Las preguntas que tienen menor variabilidad son: saludar              a sus amigos adecuadamente, manejar su propio dinero y calentar agua/ apagar la cocina.
+
+ 
+
+Tabla 1. Distribución de frecuencia de las preguntas PFAQ
+
+
+
+Al cruzar con descriptores sociodemográficos (Tabla 2), se observa que todos los ítems se asocian con edad en la dirección esperada, disminuyendo significativamente el porcentaje              de los que son capaces de realizar las actividades funcionales cuando se tiene 75 o más años. Todas las actividades se asocian              con educación, donde los que tienen educación media o superior tienen menos dificultades para realizarlas, en comparación              con los que tienen educación básica. Respecto de género, casi no se observan diferencias, excepto en F8 “preparar la comida”,              donde 91% de las mujeres señala que es capaz de realizarlo, disminuyendo a 79% en el caso de los hombres.Por esto se decidió              eliminar este ítem en la escala PFAQ modificada.
+
+ 
+
+Tabla 2. Asociaciones bivariadas de los ítems PFAQ con descriptores sociodemográficos (% “sí es capaz o podría hacerlo”)
+
+
+
+Todos los análisis factoriales realizados en las tres encuestas analizadas arrojaron resultados unidimensionales (Tabla 3), pues todos los ítems de la escala están altamente correlacionados entre sí. Consistentemente, los pesos factoriales más              bajos en ECV2010 y EEV2012 estuvieron en los ítems F9 “poner atención, entender, discutir un programa de radio, televisión              o un artículo del periódico” y F10 “recordar compromisos y acontecimientos familiares”, por lo que se decidió eliminarlos              en la escala PFAQ modificada.
+
+ 
+
+Tabla 3. Matriz de componentes principales con una dimensión (pesos factoriales)
+
+
+
+En ECV2010 el ítem F11 “saludar a los amigos”tiene peso factorial más bajo, mientras que en EEV2012 esto ocurre con el ítem              F1 “manejar su dinero”. Se probaron ambas versiones de la escala eliminando o no estos ítems, encontrándose que cuando se              elimina F11 se obtienen  mejores propiedades métricas. 
+
+Por lo tanto, la propuesta de escala breve (en adelante “PFAQ-7Ch”) elimina los ítems F8, F9, F10 y F11. Respecto de validez              de constructo, la escala PFAQ-7Ch se comporta de manera unidimensional, con pesos factoriales altos para todos los ítems en              todas las encuestas analizadas (Tabla 3). El coeficiente Alfa de Cronbach es de 0,924 para PFAQ original y de 0,918 para la              PFAQ-7Ch. Si se elimina cualquier otro ítem de esta última escala, no aumenta el coeficiente alfa.
+
+En la muestra agregada de ECV2010 y EEV2012, PFAQ-7Ch tiene un promedio de 1,29, con una desviación estándar de 3,4, en un              rango de puntaje entre 0 y 21, donde 11,4% es calificado con déficit si el punto de corte se establece en 4 o más puntos.              Esto es consistente con 11,6%con déficit que sería estimado con PFAQ original (Tabla 4).
+
+ 
+
+Tabla 4. Estadísticos descriptivos de las escalas PFAQ original y PFAQ-7Ch
+
+
+
+Para analizar la validez de los instrumentos, se procedió a calcular sensibilidad y especificidad respecto al punto de corte              de 6+ puntos de la escala original (gold standard) propuesta por Quiroga, Albala y Kleesen11 para Chile. La sensibilidad es de 0,904 y de 0,877 y la especificidad de 0,989 y de 0,990 para ECV2010 y EEV2012 respectivamente              (Tabla 5). Cabe destacar que en PFAQ-7Ch prácticamente ninguna persona calificada “sin déficit” tiene alguna incapacidad en              alguna de las actividades medidas (Tabla 5); sin embargo, entre los que son clasificados con déficit, hay mayor variabilidad, donde 27% es incapaz de realizar las siete              actividades y 12% tiene incapacidad en seis actividades. La actividad en que más se tiene dificultad entre las personas calificadas              con déficit es “hacer las compras” (sólo 13% de los con déficit es capaz de hacerla), mientras que la actividad que más frecuentemente              se puede hacer entre los clasificados con déficit es “manejar su propio dinero” (44%). Lo anterior también es consistente              con que las correlaciones ítem-escala son relativamente altas, siendo la menor respecto de “manejar el dinero” (0,779) y la              mayor respecto de “calentar agua” (0,860) (Tabla 6).
+
+ 
+
+Tabla 5. Sensibilidad y especificidad para cada una de las escalas creadas
+
+
+
+Tabla 6. Cruces entre escala PFAQ-7Ch y cada uno de sus ítems
+
+
+
+ 
+
+Respecto de la validez convergente, para analizar la precisión, variabilidad y nivel de discriminación de la escala modificada,              se procedió a analizar si ésta es capaz de discriminar por edad y por salud. En los cuatro indicadores analizados (Tabla 7) tanto la escala PFAQ original como PFAQ-7Ch discriminan adecuadamente en la dirección esperada: el porcentaje de personas              identificadas con déficit funcional es significativamente mayor después de los 75 años, a medida que se tiene peor percepción              de salud, si ha sufrido algún problema de salud importante en el último año y si ha tenido limitaciones físicas que le impiden              hacer cosas que antes le gustaba hacer.
+
+ 
+
+Tabla 7. Validez concurrente (% con déficit y promedio escala)
+
+ 
+
+ 
+
+En relación a la validez predictiva, si bien los datos provienen de estudios transversales no longitudinales, cabe destacar              que la escala PFAQ-7Ch también se asocia de manera estadísticamente significativa con otras variables que se supone están              afectadas por una disminución de la capacidad funcional (Tabla 8): las personas con menor funcionalidad o con presencia de déficit en la escala PFAQ-7Ch están menos satisfechos con su vida,              se han sentido más frecuentemente “desvalido o que no vale nada”, declaran menor “capacidad para enfrentar los hechos difíciles              que les ha tocado vivir” y han confiado menos en que “si se esfuerza puede conseguir lo que desea”.
+
+ 
+
+Tabla 8. Validez predictiva (% con déficit y promedio escala)
+
+
+
+Nuestro estudio confirmó la unidimensionalidad de la escala y demostró que se puede utilizar una escala más breve donde se              eliminan cuatro ítems de la versión original validada en Chile por Quiroga, Albala y Klaasen11. Se eliminó el ítem “Preparar la comida” por tener sesgo de género, pues en Chile son muchos los hombres –especialmente mayores–              que no saben preparar la comida porque nunca lo han hecho, no porque hayan perdido esta capacidad en la vejez. En segundo              lugar, se eliminaron tres ítems que se correlacionaban más bajos con la escala: i) “Poner atención, entender, discutir un              programa de radio, televisión o un artículo del periódico”, el cual seguramente tenía baja correlación porque es una frase              muy larga y porque el término “discutir” en Chile puede entenderse no sólo como capacidad de dialogar sobre un tema (acepción              original) sino también como “pelear”; además es la única actividad que es más desarrollada por los hombres, por lo que también              podría tener cierto sesgo de género. El efecto del posible doble significado de determinadas palabras ha sido encontrado en              otras investigaciones, por ejemplo, en la frase “preocupación por la muerte” en la encuesta de la calidad de vida WHOQoL-Old12; ii) “Recordar compromisos y acontecimientos familiares”, tiene más baja correlación probablemente porque es una actividad              que no depende tanto de la edad, pues hay personas jóvenes que suelen  no recordar este tipo de acontecimientos; y iii) “Saludar              a sus amigos adecuadamente”, es una pregunta que tiene poca variabilidad, pues la mayoría se declara capacitada para realizarla.
+
+La mayoría de las investigaciones sólo han validado la escala para población institucionalizada o con problemas de salud13-15. La escala aquí propuesta, en cambio, sirve para discriminar en población adulta mayor general que contesta encuestas, se              correlaciona con variables que se suponen miden pérdida de funcionalidad (salud) y con variables con que debería estar asociada              (bienestar, autoeficacia)16,17.
+
+Cabe igualmente preguntarse si hay diferencias en el porcentaje de personas con déficit funcional cuando se calcula en la              muestra de este estudio, realizada en quienes viven en sus viviendas y que sí pueden contestar una encuesta, en comparación              con una encuesta más amplia que incluye también a los que no pueden contestar encuestas. Los resultados de este estudio son              similares a los estimados a partir de la Encuesta Nacional de Dependencia en Chile del año 200918, que es representativa de todos los adultos mayores chilenos (que pueden y que no pueden contestar encuesta): en ésta se              estimó en 12% los adultos mayores con déficit funcional y en sólo 2% la cifra de personas mayores que no pueden contestar              por sí mismos una encuesta.
+
+Así como se exploró la asociación de la escala con género para descartar posibles sesgos culturales, se profundizó también              en la relación con educación. Todos los ítems se asocian con educación. Pero esto no necesariamente representa un sesgo cultural,              porque en Chile varios estudios han mostrado que el estado de salud de las personas no sólo depende de la edad sino también              de la educación11,16,17. Sin embargo, en relación con lo anterior, hay que considerar también que el hecho de que la escala no presente sesgos culturales              de género no quita que pueda presentar otros sesgos que no se han considerado en este artículo, por ejemplo, con etnia o ruralidad              (las muestras de estas encuestas no permiten hacer estas distinciones).
+
+Dentro de las limitaciones que presenta la escala propuesta, debe considerarse que si bien logra discriminar a los que tienen              déficit (pues se asocia con edad y salud, y predice bienestar y autoeficacia), al obtenerse casi 90% de adultos mayores sin              déficit no está discriminando en grados de capacidad funcional entre los que no tienen déficit, y debido a ello, tampoco identifica              a quienes están en riesgo de perder funcionalidad.
+
+En conclusión, se puede decir que la investigación cumple con el objetivo de presentar una propuesta más reducida del instrumento              y de más fácil aplicación, válida en contextos de población adulta mayor que puede contestar por sí sola.

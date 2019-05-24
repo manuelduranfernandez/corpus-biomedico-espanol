@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872012000800001
+Relación colesterol total a HDL y colesterol no HDL: los mejores indicadores lipídicos de aumento de grosor de la íntima media carotidea
+
+ 
+
+Es bien sabido que los niveles de lípidos en la sangre, particularmente el colesterol y lipoproteína de baja densidad (LDL) y lipoproteína de alta densidad (HDL) son factores de riesgo (FR) de enfermedad aterosclerótica. Esto ha sido demostrado en numerosos estudios epidemiológicos1,2. Sin embargo, estudios más recientes, han demostrado que otras determinaciones de lipoproteínas, como la Apo AI y Apo B, y relaciones como la de colesterol total a HDL (CT/HDL), Apo B a Apo AI y el colesterol no-HDL (colesterol total menos HDL, que considera todas las lipoproteínas que contienen Apo B) son mejores indicadores pronósticos de enfermedad cardiovascular aterosclerótica3-6. Las relaciones de CT/HDL y el colesterol no-HDL tienen la ventaja que son más simples de determinar ya que no requieren ayuno. La mayoría de los estudios en que se ha comparado la capacidad predictora de estas lipoproteínas y determinaciones lipídicas, es en aquellos sujetos que ya han tenido infarto o bien en estudios epidemiológicos.
+
+Durante los últimos años, ha habido un intento por buscar otros marcadores intermedios de daño aterosclerótico que puedan advertir, más precozmente, de la necesidad de intervenciones más agresivas, para así no tener que esperar los eventos duros, como son la muerte y el infarto. Así, en la actualidad, algunos de los más usados son la determinación de calcio coronario y el grosor íntima media carotídeo (IMT)7,8. Si bien el primero es un muy buen predictor de eventos coronarios, su uso debe ser cuidadoso, porque su determinación implica radiación. El IMT, si bien menos potente como predictor de eventos coronarios que el anterior, tiene la ventaja de ser igual, un buen predictor de eventos cardio y cerebrovasculares y de ser no invasivo, no radioactivo y fácil de realizar. Muy recientemente, han sido publicados los valores de percentil 75 para este marcador (considerado de mayor riesgo aterosclerótico) en distintas ciudades latinoamericanas, incluida Santiago de Chile, de modo que estos valores ya pueden ser usados en la práctica clínica habitual en nuestra región9.
+
+A nivel internacional, existe muy poca información de cuáles lipoproteínas son las que mejor se correlacionan a IMT elevado. A nivel nacional, no existen datos al respecto. Por ello, el objetivo de este estudio fue estudiar cuáles indicadores lipídicos se correlacionan más estrechamente con aterosclerosis subclínica, medida por grosor intima-media carotídeo (IMT), en la población del estudio epidemiológico CARMELA-Santiago de Chile.
+
+Material y Método
+
+Estudio transversal en la población del estudio CARMELA (CArdiovascular Risk factor Multiple Evaluation in Latin America), realizado en población urbana de Santiago de Chile entre los años 2004 y 2006 por muestreo epidemiológico estratificado en adultos de 3 estratos socio-económicos: bajo, medio-bajo y medio-alto. La muestra correspondió a 1.624 hombres y mujeres de entre 25 y 64 años de edad, sin antecedente de enfermedad aterosclerótica.
+
+Recolección de datos
+
+La metodología usada en el estudio CARMELA ha sido publicada previamente10. En forma resumida, los sujetos fueron encuestados en sus hogares sobre antecedentes demográficos y médicos previos, FR cardiovascular y medicamentos. Luego, todos fueron citados al centro universitario, donde una enfermera les midió peso, talla, índice de masa corporal (IMC), cintura, cadera, y presión arterial sistólica y diastólica en reposo, en 3 oportunidades y en 1 sólo día, según recomendaciones de JNC 7, y les realizó extracción de sangre venosa en ayunas para determinación de perfil lipídico y glicemia. Todos los sujetos fueron citados nuevamente, en el plazo de 1 semana al centro universitario, para el examen físico y determinación del IMT.
+
+Todos los sujetos firmaron un consentimiento informado para participar en el estudio, aprobado por el comité de ética de la universidad ejecutora.
+
+Mediciones de laboratorio
+
+Las muestras para perfil lipídico y glicemia fueron obtenidas por punción venosa, con ayuno de 12 h, y se determinaron en el laboratorio del centro universitario donde se realizó el estudio (laboratorio certificado por el Lipid Standardization and Surveillance Program of the Centers for Disease Control and Prevention, Atlanta, Georgia):
+
+a) Colesterol total, colesterol HDL y triglicéridos: Fueron medidos usando los métodos enzimáticos estándar con reactivos ad-hoc (analizador Hitachi).
+
+b) Colesterol LDL: Fue calculado por fórmula de Friedewald.
+
+c) Colesterol no-HDL: Fue calculado restando el colesterol HDL al valor de colesterol total.
+
+d) Relación CT/HDL: Fue calculada dividiendo el colesterol total por el HDL.
+
+e) Glicemia: Método glucosa oxidasa.
+
+Medición de Grosor Intima-Media Carotídeo (IMT)
+
+Este se realizó según las recomendaciones del consenso de Mannheim11. Para la medición del IMT y placa carótida se utilizó un transductor lineal de alta frecuencia (5-13 Mhz). La imagen se focalizó en la pared posterior de cada arteria carótida común, en áreas sin placas, dónde se eligió un segmento de 1 cm, proximal a la bifurcación carótida de cada lado. Se realizaron mediciones en cada carótida común, en 3 ventanas ecográficas, utilizando un software con medición automática de bordes. Todas las mediciones se realizaron "offline" y en fin de diástole. Placa carotídea se definiócomo una protrusión en el lumen mayor al 50% del IMT adyacente o IMT > 1,5 mm. El valor de IMT registrado correspondió al mayor valor de IMT medio entre el lado derecho e izquierdo. Las mediciones fueron ciegas al resultado de los exámenes de sangre. Para efectos de análisis estadístico se utilizó sólo IMT medio máximo. El coeficiente de variación intraoperador de nuestro grupo es de 3,8%.
+
+Análisis estadístico
+
+Para las comparaciones de medias se ocupó análisis de varianza y modelos de regresión lineal múltiple. Los resultados se expresan como media o media ± DE. Se estimó coeficientes de correlación de Pearson y correlación parcial ajustada por edad, sexo, IMC y presión arterial. Los Odds Ratio fueron estimados a partir de modelos de regresión logística múltiple y se expresan como Odds Ratio (IC 95%). Éstos fueron estimados para cada indicador lipídico como factor de riesgo para IMT elevado (cuartil superior versus los 3 cuartiles inferiores), ajustado por edad, sexo, IMC y presión arterial. A su vez, los indicadores lipídicos fueron incluidos de dos formas en los modelos: a) como variable continua y b) comparando el cuartil superior del indicador lipídico con los tres cuartiles inferiores. Esto último se fundamenta en que, se sabe que un sujeto que se encuentra en el cuartil superior de las lipoproteínas aterogénicas es un individuo de mayor riesgo cardiovascular.
+
+Todos los cálculos se realizaron ocupando el software estadístico R12.
+
+Resultados
+
+Se analizaron los resultados de 770 hombres y 854 mujeres, edad promedio 45 ± 11 años. La prevalencia de factores de riesgo cardiovascular fue: dislipidemia (diagnóstico de hipercolesterole-mia, con o sin tratamiento farmacológico, y/o CT > 200 mg/dL, y/o colesterol HDL <40 en hombres y < 50 mg/L en mujeres) 69%; tabaquismo 46%; hipertensión arterial 30%; síndrome metabólico 24%; diabetes 13% e historia familiar de enfermedad coronaria 18%.
+
+En la Tabla.1   se muestran los valores promedios de variables demográficas, bioquímicas y de IMT carotídeo en la población total y separada por sexo. Las mujeres presentaron un colesterol no-HDL, triglicéridos, CT/HDL y presión arterial sistólica y diastólica significativamente menores que los hombres, y un HDL e IMC mayores. El IMT promedio fue 0,62 ± 0,11 mm, con un percentil 75 de 0,67 mm. Los hombres, como era esperado, tuvieron un IMT y presencia de placa ateroscle-rótica carotídea significativamente mayores que las mujeres.
+
+  Tabla 1. Edad, valores promedio de factores de riesgo cardiovascular, grosor íntima media carotideo      (IMT) promedio y prevalencia de placa carotidea de los sujetos separados por sexo.      Valores expresados como promedio ± desviación estándar
+
+
+
+En la Figura.1   se observan las correlaciones de Pearson de las distintas variables lipídicas, analizadas como variables contínuas, con el IMT. Si bien todas se correlacionaron al marcador, la magnitud de estas correlaciones fue mejor para colesterol no-HDL (r = 0,24, p < 0,0001) y para la relación CT/HDL (r = 0,23, p < 0,0001).
+
+
+
+ Figura 1. Coeficientes de correlación entre los diferentes indicadores lipídicos e IMT carotideo,      ajustado por edad, sexo e IMC. CT/ HDL = Relación colesterol total a colesterol de alta densidad.      IMT = grosor íntima media carotideo. IMC = índice de masa corporal.
+
+La Tabla.2   muestra el análisis de regresión logística para cada parámetro lípídico (considerado como variable continua) como indicador de IMT elevado (cuartil superior versus cuartiles inferiores), ajustado por edad, sexo, IMC y presión arterial. En este análisis, la razón CT/HDL presentó la mayor probabilidad de IMT sobre percentil 75 (OR = 1,21, p < 0,0001).
+
+ Tabla 2. Odds Ratios (OR) para cada indicador lipídico      (considerado como variable continua) de IMT elevado en todos los sujetos
+
+
+
+Por otra parte, también se hizo el análisis de regresión logística para cada parámetro lipídico como indicador de IMT elevado, pero considerando como factor de riesgo el percentil 75 de cada indicador. Los puntos de corte para los indicadores lipídicos (percentil 75) fueron los siguientes: colesterol total 228, LDL 144, triglicéridos 192, HDL (cuartil inferior o percentil 25) 41 mg/dL, y CT/HDL 5,1 y colesterol no-HDL 179 mg/dL. Estos resultados se presentan en la Figura.2  , la que muestra nuevamente, la relación CT/HDL como el indicador mejor relacionado a IMT elevado, pero también resultó significativo el colesterol no-HDL. El colesterol HDL también resultó significativo en este análisis, en este caso, como protector de IMT elevado (Odds Ratio = 0,69, p = 0,02).
+
+
+
+ Figura 2. Odds Ratios para cada indicador lipídico (percentil 75) de IMT      elevado en todos los sujetos, ajustado por edad, sexo, IMC y presión arterial.      CT/HDL = Relación colesterol total a colesterol de alta densidad. IMT = grosor íntima media carotideo.      IMC = índice de masa corporal. LDL = co-lesterol de baja densidad. HDL = colesterol de alta densidad.
+
+El mismo análisis, pero diferenciado por sexo mostró: a) el CT/HDL como el más significativo indicador de IMT elevado en mujeres (Odds Ratio = 1,87, p < 0,0001) versus hombres (Odds Ratio = 1,65, p = 0,001) y, b) que el colesterol no-HDL se asoció a IMT elevado sólo en mujeres (Odds Ratio = 1,56, p = 0,03 versus Odds Ratio = 1,46, p = 0,06, mujeres versus hombres).
+
+En ninguno de los análisis el colesterol LDL, por sí solo, se asoció significativamente a un mayor IMT (Tabla.2   y 3).
+
+ Tabla 3. Probabilidad de placa aterosclerótica carotidea para cada indicador lipídico      considerado como variable continua, en todos los sujetos
+
+
+
+Con respecto a placa carotídea, el mejor indicador lipídico fue la razón CT/HDL (Odds Ratio = 1,25, < 0,0001).
+
+Discusión
+
+En este estudio se demuestra que la relación CT/HDL y el colesterol no-HDL, indicadores lipídicos simples y que no requieren ayuno, presentaron la mejor asociación, entre distintos marcadores de lipoproteínas, con aterosclerosis subclínica. Los siguió, pero en sentido inverso, o sea como protector de IMT elevado, el colesterol HDL. Asimismo, la relación CT/HDL presentó la mejor correlación con placa aterosclerótica carotídea.
+
+La mayoría de los estudios en que se ha comparado la capacidad predictora de estas lipoproteínas y razones lipídicas, es en sujetos que ya han tenido infarto o en estudios epidemiológicos. Existen, sin embargo, pocos estudios en la literatura internacional comparando estos indicadores lipídicos como predictores de aterosclerosis sub-clínica. Entre estos últimos, existe uno publicado en autopsias de jóvenes, que encontró que el principal determinante de aterosclerosis precoz era el colesterol no-HDL, por sobre apo B y apo A113. En el año 2007, Frontini y cols14 reportaron la utilidad del colesterol no-HDL. En ese estudio, ellos demostraron que este último indicador era un mejor predictor de IMT elevado, por sobre el LDL, apoA1 y triglicéridos. Gardener y cols15 en el Northern Manhattan Study (NOMAS) demostraron que el colesterol LDL junto a la relación ApoB/ApoA1 eran los predictores más potentes de placa carotídea, por sobre otras lipoproteínas. En el estudio NOMAS, sin embargo, la edad promedio de la población era casi 20 años mayor que la del estudio nuestro, y el 61% de los sujetos enrolados presentaba placas carotídeas, versus 15% en el nuestro.
+
+El interés por realizar este estudio fue, fundamentalmente, estudiar la utilidad de los distintos parámetros lipídicos y razones de lipoproteínas como indicadores de aterosclerosis subclínica, determinada por IMT elevado y placa aterosclerótica. En muchos centros asistenciales aún es difícil que los sujetos acudan a su control de salud en ayunas para realizarse un perfil de lípidos. En este sentido, los trabajos que han evidenciado que indicadores simples, como el colesterol no-HDL o la relación CT/HDL son buenos predictores de enfermedad coronaria, han facilitado la evaluación del riesgo cardiovascular a nivel poblacional6,16. El colesterol no-HDL agrupa al colesterol LDL, IDL, lipoproteína (a) y VLDL, es decir, a todas las lipoproteínas que contienen apo B. Por su lado, la razón CT/ HDL considera los 2 factores más importantes de riesgo cardiovascular aterosclerótico, como son el colesterol total y el colesterol HDL. La ventaja de la razón CT/HDL, sin embargo, es que considera a ambos, y no uno u otro por separado. Así, el encontrar en nuestro estudio que, categóricamente, esta razón fue la más predictora de aterosclerosis subclínica, apoya el pensamiento actual sobre la aterosclerosis, que se refiere a que lo más importante para la "no progresión" o "regresión" de la misma, es la relación entre el colesterol total o LDL, y el HDL, como lo ha postulado recientemente, el grupo de Nicholls y cols17-19. Si bien en este estudio, también calculamos la razón LDL / HDL (que es otra relación de riesgo ateroesclerótico), en la sección resultados reportamos sólo la relación CT/HDL, ya que es la que tiene mayor validez en estricto sentido: lo que se mide en el perfil lipídico por métodos enzimáticos es el colesterol total y el HDL, y no el LDL, que se calcula, en la mayoría de los pacientes, por fórmula de Friedewald.
+
+Queremos destacar que el conocer que indicadores lipídicos simples se asocian a presencia de aterosclerosis subclínica, podría tener importancia en la toma de decisiones terapéuticas en relación a la dislipidemia. El tratamiento de la dislipidemia requiere, en la mayoría de los casos, no sólo de cambios en el estilo de vida, sino de intervenciones farmacológicas. Las guías actuales de prevención primaria sugieren tratamiento con estatinas en todos aquellos sujetos con colesterol LDL > 160 mg/Dl1,20. Si bien estas indicaciones se apoyan en la evidencia, en el mundo real, la indicación de estatinas se realiza sólo en unos pocos sujetos, generalmente hombres. En mujeres, especialmente en aquellas en edad fértil, la mayoría de las veces no se indican estatinas por el riesgo de teratogenia. Esto constituye un problema a nivel poblacional, ya que si bien se ha demostrado que tanto mujeres como hombres se benefician del uso de estatinas y de niveles más bajos de colesterol21, en la práctica clínica existen pocas herramientas complementarias que nos ayuden a tomar la decisión de intervención con fármacos en algunos grupos de riesgo. En este sentido, nuestro trabajo, que incorpora una herramienta como el IMT, podría aportar: demostramos que tanto en hombres como mujeres, pero con mayor poder en las mujeres, aquellos cuya razón CT/ HDL era > 5,1, tenían entre 1,5-2 veces más riesgo de aterosclerosis subclínica y placa. Estos grupos de pacientes podrían ser fácilmente identificados con una simple determinación de colesterol total y HDL, que ni siquiera requiere ayuno.
+
+El colesterol HDL, por sí solo, y en la razón CT/HDL, demuestra una vez más, que es un factor protector y que se debe considerar. Quizás en un futuro, como lo planteó Nicholls y cols18, debiéramos centrarnos más en la relación de los factores aterogénicos (colesterol total y LDL) y protectores (HDL), más que en sus valores individuales. Esto deberá ser demostrado en estudios de eventos.
+
+Finalmente, es importante decir que la determinación de colesterol total y HDL es muy barata y está bien estandarizada en la mayoría de los centros de salud. La realización del IMT carotídeo, en este caso, nos permitió confirmar que, tal como lo dicen las guías americanas y europeas, los sujetos con niveles lipídicos mayores al percentil 75, sí tienen más riesgo de aterosclerosis, y por lo tanto, ameritarían tratamientos más agresivos y precoces.
+
+En este estudio existen limitaciones: no medimos apo B ni apo AI, ambos, indicadores que han demostrado ser excelentes predictores de riesgo de eventos coronarios, sobretodo infarto. Así mismo, no se midieron otras importantes partículas lipí-dicas, causantes de enfermedad aterosclerótica prematura, como es la lipoproteína (a). Por ser un estudio transversal no podemos hablar de relación de causalidad entre los indicadores lipídicos y el IMT.
+
+Conclusión

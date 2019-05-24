@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000400502
+Hiperglicemia por sepsis: del mecanismo a la clínica
+
+Hiperglicemia de estrés
+
+La hiperglicemia de estrés es un fenómeno descrito por primera vez por Claude Bernard en respuesta al shock hipovolémico1. Actualmente se reconoce su etiología multifactorial y que está presente en la mayoría de las patologías o lesiones agudas acompañada de resistencia a la insulina2,3.
+
+La Asociación Americana de Diabetes (ADA) define hiperglicemia de estrés a valores de glicemias > 140 mg/dL en pacientes hospitalizados sin diagnóstico previo de diabetes mellitus4.
+
+La prevalencia en las unidades de cuidados intensivos (UCI) es difícil de determinar pues en los estudios han utilizados distintos puntos de corte de glicemia para su definición.
+
+En uno de los estudios más prestigiosos sobre el tema 75% de los pacientes presentaron glicemia > 110 mg/dL3; sin embargo, otros han reportado prevalencias entre 40 a 50% para valores > 140 mg/dL5,6. Además, se ha demostrado que el 70% de los pacientes que ingresan a la UCI tiene disminución de la sensibilidad a la insulina sin relación al diagnóstico de ingreso7.
+
+La hiperglicemia de estrés ha sido asociada con aumento de mortalidad, morbilidad, tiempo de estadía hospitalaria y complicaciones en pacientes críticos8–10. Se han reportado diversas estrategias para su tratamiento, no obstante los resultados no han sido del todo concluyentes.
+
+Hiperglicemia de estrés en sepsis
+
+La sepsis severa induce un estado hipermetabó- lico que afecta al metabolismo de proteínas, lípidos y carbohidratos. La respuesta predominante del organismo es un estado de hiperglicemia e insulino-resistencia11.
+
+Este estado hipermetabólico se asocia a aumento de la mortalidad atribuible en parte a la hiperglicemia causada por la mayor producción endógena de glucosa y a la presencia de insulino-resistencia; se relaciona estrechamente con la severidad de la enfermedad crítica, índice de masa corporal y gasto energético en reposo7.
+
+El control agresivo de la glicemia más que la cantidad absoluta de insulina utilizada ha sido la estrategia inicial recomendada para reducir la mortalidad en pacientes con hiperglicemia de estrés12,13.
+
+Se sabe poco aun del origen de la hiperglicemia durante la sepsis, pero se acepta que existen defectos rio abajo del receptor de insulina, en la vía de señalización, y que involucran al sustrato del receptor de insulina-1 (IRS-1)14.
+
+Mecanismos de control de la glicemia
+
+La glucosa es la fuente principal de energía de la mayoría de las células, siendo fundamental para cerebro, médula ósea, eritrocitos y leucocitos.
+
+Para su paso a través de la bicapa lipídica celular, la glucosa requiere de proteínas transportadoras denominadas GLUT. Se conocen una gran variedad de isoformas y las más relevantes son GLUT-1, GLUT-3 y GLUT-4. Durante el reposo, la mayor proporción de glucosa ingresa a la célula independiente de la acción de insulina y lo hace a favor del gradiente de concentración utilizando el transportador GLUT-115.
+
+La respuesta fisiológica ante el aumento de la gicemia es la liberación de insulina por las células beta del páncreas, la que bloquea la producción hepática de glucosa y estimula la captación y almacenamiento de glucosa en los tejidos dependientes de insulina. Para ello, insulina aumenta la translocación de GLUT-4 a la membrana plasmática.
+
+Para ejercer sus acciones, insulina debe unirse al receptor de insulina, el que pertenece a la familia de receptores tirosina kinasa. Este receptor se compone de dos subunidades alfa en la región extracelular y dos subunidades beta en la región intracelular unidas mediante puentes de disulfuro16,17.
+
+Al activarse, el receptor se autofosforila y es capaz de fosforilar a su substrato principal, el IRS1, el que funciona como un reclutador de otros blancos del receptor mediando de esta forma sus efectos biológicos18.
+
+Las acciones fisiológicas de insulina son agrupadas en metabólicas y no metabólicas. Las primeras hacen referencia al rol en el metabolismo de -principalmente-hidratos de carbono. Las segundas, por su parte, corresponde a los efectos tróficos de insulina, esto es, proliferación, anti-apoptosis y crecimiento celular19,20 (Figura 1).
+
+Figura 1 Mecanismos de acción de insulina: vías metabólica y no metabólica. 
+
+Mecanismo fisiopatológico de hiperglicemia en sepsis
+
+La sepsis presenta un estado hiper catabólico inicial con hiperglicemia y en fases avanzadas un estado hipo catabólico con hipoglicemia por alteración del metabolismo a nivel hepático y agotamiento de las reservas proteicas20,21.
+
+La respuesta a un evento patológico agudo se caracteriza por una activación del sistema neu-roendocrino con el consiguiente aumento de las llamadas hormonas de estrés: glucocorticoides y catecolaminas.
+
+El cortisol conlleva a un estado de hiperglice-mia debido a un aumento de la liberación hepática de glucosa a través de la activación de enzimas que participan en la glucogenólisis y una disminución de sensibilidad a la insulina en el músculo esquelético22.
+
+Las catecolaminas endógenas, así como las exógenas administradas como parte del tratamiento, por su parte, inducen gluconeogénesis y estimulan la glucogenólisis hepática23.
+
+Durante la sepsis se agrega la acción de cito-quinas pro-inflamatorias tales como TNF α, IL-1 α e IL-6 las que actúan sinérgicamente incrementando los niveles de glucosa plasmática24–26, lo que ha llevado a plantear que las citoquinas podrían, además, dificultar el éxito del control de la glicemia en sepsis.
+
+Además del aumento de disponibilidad de glucosa, durante la sepsis se produce una marcada insulino-resistencia, la cual se explica principalmente por la incapacidad de inhibir la producción hepática de glucosa y, a nivel periférico, por alteración en la señalización río abajo del receptor de insulina y disminución de la translocación de GLUT-4 a la membrana plasmática14,21,27.
+
+Tanto el exceso de cortisol como de adrenalina reducen la captación de glucosa dependiente de insulina, mientras que las citoquinas proinflamatorias inhiben la señalización de insulina a nivel de IRS-1 induciendo su fosforilación en serina favoreciendo su inhibición por inhibidores de quina-sa24,28. Se ha descrito que la endotoxemia interfiere con la vía de señalización de la insulina activando al receptor tipo toll 4 (TLR4)29 (Figura 2).
+
+Figura 2 Mecanismo fisiopatológico de insulino-resistencia en hiperglicemia de estrés en sepsis. 
+
+Existen antecedentes que señalan que durante la sepsis existe inicialmente un aumento en la expresión del mRNA y proteína de GLUT-1 en el cerebro y macrófagos. Esto podría explicarse como un fenómeno adaptativo con desviación de glucosa a tales tejidos la que es incorporada a través de GLUT-130–32.
+
+El splicing alternativo del mRNA del receptor de insulina humano genera dos isoformas de receptor los que se diferencian en la inclusión o no del exón 11 y que son responsables de acciones específicas de insulina. La isoforma A (exón 11–) es responsable preferentemente de las acciones proliferativas mientras que la isoforma B (exón 11+), de las acciones metabólicas33. Nuestro grupo de trabajo, estudiando células inmunes en cultivo en medio condicionado por suero de pacientes sépticos, recientemente demostró la presencia de un factor humoral que participaría en la menor expresión de la isoforma B del receptor de insulina, efecto que también fue observado con ligando bacteriano de TLR434.
+
+Si este comportamiento de la isoforma B del receptor de insulina ocurre en pacientes sépticos, cuál es la duración de este efecto, los mecanismos subyacentes y la relevancia clínica en la hipergli-cemia de UCI, es un tema no resuelto a la fecha.
+
+Tratamiento de la hiperglicemia de estrés en sepsis: evolución y manejo actual
+
+El tratamiento de la hiperglicemia en pacientes críticos ha sido uno de los tópicos más abordados en los últimos años.
+
+Uno estudio pionero fue el realizado en el 2001 en la Universidad de Leuven, Bélgica, en el que fueron comparados dos protocolos de tratamiento mediante administración de insulina: uno denominado manejo intensivo (glicemia meta 80-110 mg/dL) y el otro, manejo convencional (glicemia meta 180-210 mg/dL)3 en pacientes quirúrgicos hospitalizados en UCI. Los autores demostraron disminución de la mortalidad con el manejo estricto de la glicemia especialmente en pacientes con estadías superiores a 5 días. Este estudio, sin embargo, fue criticado debido a la selección de los pacientes, la administración de glucosa parenteral y la mayor frecuencia de eventos de hipoglicemias graves en pacientes del grupo manejo intensivo.
+
+En el 2006 se realizó el estudio Leuven 2 aplicando en pacientes de tipo médico el mismo protocolo del estudio anterior . Si bien no se encontró diferencias en la mortalidad hospitalaria, hubo diferencias significativas en términos de menor mortalidad en los pacientes con estadías en UCI mayores a 3 días mientras que en los pacientes tratados por menos de 3 días se observaron más muertes en el grupo de intervención que en el grupo de tratamiento convencional, aun cuando el número de pacientes fue pequeño35.
+
+Estos mismos autores, publicaron los resultados del análisis de la intención de tratar con el mismo esquema antes referido en una UCI médi-co/quirúrgica (n = 2.748 pacientes) describiendo que evitar niveles de glicemia > 150 mg/dL resultó crucial para reducir la mortalidad, que los mayores beneficios en sobrevida fueron observados en quienes efectivamente consiguieron mantener los niveles de glicemia < 100 mg/dL y que además, el manejo intensivo de la glicemia se asoció a disminución de la prevalencia de insuficiencia renal, menos días de ventilación mecánica y menor estancia hospitalaria en las UCI36.
+
+En el 2009 se publicó el estudio NICE-SUGAR, que incluyó 6,104 pacientes hospitalizados en la unidad de cuidados críticos y comparó el control intensivo de la glicemia (meta 81-108 mg/dL) versus el control convencional (glicemia 140-180 mg/dL)37. En contraposición con los de Leuven, se evidenció mayor mortalidad a los 90 días en el grupo de pacientes con manejo intensivo y mayor frecuencia de eventos de hipoglicemia; no hubo diferencias significativas en relación al número de días de permanencia en UCI y en el hospital, así como tampoco en el número de días en ventilación mecánica ni en terapia de reemplazo renal. En el 2012, el seguimiento al estudio anterior demostró que los eventos de hipoglicemia fueron más frecuentes en el grupo de tratamiento intensivo de la glicemia y que éstos, independiente del subgrupo de pacientes examinados, condicionaban un incremento en el riesgo de morir: 40% para los eventos de hipoglicemia moderada y el doble para los de hipoglicemia severa38.
+
+En un metaanálisis publicado en 2009, que incluyó tanto los estudios de Leuven como NICE-SUGAR, sugiere que el control de la glicemia mediante tratamiento intensivo con insulina incrementa el riesgo de hipoglicemia y no demuestra beneficios en mortalidad; sin embargo, puede ser benéfico para pacientes quirúrgicos hospitalizados en la terapia intensiva39.
+
+Por otra parte, el German Competence Network Sepsis publicó en NEJM en 2008 un estudio realizado en pacientes sépticos comparando dos estrategias para el control de la glicemia. El grupo de tratamiento intensivo consiguió glicemias matinales significativamente más bajas que el grupo de terapia convencional (112 mg/dL vs 151 mg/dL, p < 0,001), pero este estudio debió ser suspendido por aumento de los eventos de hipoglicemia severa (glicemia ≤ 40 mg/dL, 17% vs 4,1%, p < 0,001) en el grupo control intensivo de la glicemia a la vez que no se demostró diferencias significativas en disfunción de órganos ni mortalidad a 28 días40.
+
+Al momento, para el tratamiento de la hiper-glicemia en la International Guidelines for Management of Sepsis and Septic Shock de la Surviving Sepsis Compaign, la recomendación actual es iniciar terapia con insulina cuando se objetiven dos valores de glicemia > 180 mg/dL y la meta del tratamiento es mantener valores de glicemia 140-180 mg/dL. A su vez, el énfasis está en evitar las hiperglicemias, las hipoglicemias y también las grandes oscilaciones en los niveles de glucosa ya que éstos han sido asociados a mayor mortalidad41.
+
+Schuetz y cols42 analizaron 7.754 pacientes hospitalizados desde el departamento de emergencia con sospecha de infección y analizaron si había asociación entre diabetes mellitus y mortalidad intrahospitalaria. Del total de pacientes, 57,5% tuvieron sepsis, 37% sepsis severa y 5,5% shock séptico; la prevalencia de diabetes mellitus fue 27%, 23% y 24%, respectivamente. La mortalidad total fue de 4,3% y ésta correspondió a 1,1% en el grupo sepsis, 6,7% sepsis severa y 22,8% shock séptico. No se observó diferencia en mortalidad entre pacientes diabéticos y no diabéticos.
+
+Interesantemente, los valores de glicemia > 200 mg/dL en pacientes no diabéticos se asoció a mayor mortalidad mientras que los valores de glicemia < 100 mg/dL se asoció a mayor mortalidad en los pacientes diabéticos. Fundados en estos resultados, se propone que los pacientes diabéticos se beneficiarían de objetivos de glicemia más altos que los propuestos para pacientes no diabéticos (Figura 3).
+
+Figura 3 Mortalidad en pacientes con y sin diabetes mellitus, estratificados por rango de glicemia. Tomado de Schuetz y cols42. 
+
+A principios de 2017 otros autores reportaron un estudio realizado en pacientes con sepsis quienes fueron separados en dos subgrupos: con diabetes mellitus y sin diabetes mellitus. De los 6.165 pacientes incluidos en este estudio y mortalidad de 7,1%, 58,3% resultó ser portador de diabetes mellitus. Este grupo tuvo mayor edad, mayor enfermedad renal y necesidad de hemodiálisis, pero la severidad de la sepsis tanto como la tasa de mortalidad en el hospital fueron menores. Además, valores de glicemia > 200 mg/dL al ingreso fue asociado a mayor mortalidad en pacientes no diabéticos (OR 1,83, 95% IC 1,2-2,8, p < 0,005). Por tanto, es posible aseverar que la diabetes mellitus per se no es un factor de riesgo independiente predictor de mortalidad en los pacientes con sepsis. Incluso, la diabetes mellitus podría corresponder a un factor protector en pacientes con sepsis en contraposición a lo observado en los pacientes no-diabéticos en quienes tanto la hiperglicemia como la hipoglicemia se relacionaron a mayor riesgo de muerte intrahospitalaria43,44 (Tabla 1).
+
+Tabla 1 Asociación entre glicemia al ingreso y mortalidad en pacientes diabéticos y no-diabéticos. Tomado de Chao y cols43
+
+					 
+
+Ci: confidence interval. *Odds ratio of death of non-diabetes vs diabetes.
+
+Variabilidad de la glicemia
+
+Además de la hiperglicemia, la variabilidad de la glicemia se asocia en forma independiente con un aumento de la mortalidad en pacientes sépticos. Denominamos variabilidad de la glicemia a las grandes oscilaciones en los valores de glucosa plasmática, para diferenciarla de las oscilaciones normales que ocurren de manera fisiológica42,45.
+
+Debido a que las alteraciones extremas de la glicemia -hiperglicemia e hipoglicemia-presentan efectos deletéreos que pueden ser severos, es mandatorio el monitoreo constante de la glicemia. Se ha reportado que pacientes diabéticos, quienes poseen mayor variabilidad de la glicemia, se benefician de un monitoreo más intenso45.
+
+Finfer y cols46 proponen que dado que el mejor control de la glicemia se obtendría con un manejo altamente individualizado de los pacientes, la monitorización seriada de glicemia ha demostrado ser esencial para la toma de decisiones en el paciente crítico. Se recomienda el análisis de sangre arterial o venosa por sobre la muestra de sangre capilar debido a que las lecturas de los glucómetros capilares son inexactas en estos pacientes; sin embargo, si no se disponen de métodos de monitorización continua, siguen siendo de gran utilidad evitando retrasos en la toma de decisiones47.
+
+En la última década se han desarrollado nuevas técnicas de medición seriada de glicemia, tales como monitorización subcutánea continua48 y medición online a través de un catéter venoso central con membrana de micro diálisis49. Esta última tiene la particularidad de no ser influida por la perfusión tisular y tendría especial importancia en la prevención de la variabilidad de los eventos de hipo-e hiperglicemia.
+
+Protocolo de manejo
+
+En general, la utilización de protocolos de tratamiento unifica conductas terapéuticas y mejora los resultados clínicos. En el contexto de la hiperglicemia, el uso de protocolos de infusión de insulina disminuye el tiempo para alcanzar los valores objetivo de la glicemia y reduce los eventos de hipoglicemia47,50.
+
+Se han propuesto diferentes protocolos de infusión de insulina sin que exista en la actualidad un consenso. No obstante, los mejores protocolos incluyen el monitoreo constante de la glicemia y de la tasa de infusión de insulina, ajustes que consideran los valores de glicemia previos y actuales. El uso de algoritmos computarizados provee los mejores resultados en la mantención de niveles estables de glicemia, estandarizando los tiempos de ajuste de dosis, disminuyendo los errores de cálculo y minimizando los eventos de hipoglicemia51.
+
+Los ensayos con monitoreo continuo de glicemia en conjunto con el uso de protocolos automatizados han sido evaluados en el manejo de la disglicemia en pacientes diabéticos crónicos y podrían representar una de las mejores alternativas para enfrentar la hiperglicemia de estrés en pacientes críticos.
+
+Considerando las herramientas con las que se disponen en la mayoría de los centros hospitalarios, recomendamos el desarrollo e imple-mentación de un protocolo de manejo acorde a esta realidad. Este protocolo debiera considerar: antecedentes como diabetes mellitus o insuli-no-resistencia previa, estado de shock, fuente de nutrientes, valores previos y actuales de glicemia, entre otros. Además, idealmente, utilizar la mo-nitorización continua de la glicemia y, de no ser posible, realizar las mediciones de glicemia utilizando muestras sanguíneas arterial o venosa por sobre de la capilar.
+
+Es importante, por otro lado, resaltar que el éxito de un protocolo de manejo clínico depende en gran manera de la capacitación intensiva y constante del personal responsable de su aplicación.
+
+Perspectivas a futuro
+
+La glicemia en la terapia intensiva tiene un rol relevante en el desenlace de los pacientes. La mantención de valores de normo glicemia ha modificado en forma favorable el impacto de ésta sobre la morbimortalidad.
+
+La mayor comprensión del mecanismo fisio-patológico, así como la valoración individual de cada paciente son vitales para el desarrollo de una estrategia para el enfrentamiento de la hipergli-cemia en el paciente crítico. El trabajo de nuestro grupo está enfocado en la búsqueda de nuevos mecanismos patogénicos de insulino-resistencia, el que podría ampliar en un futuro las opciones terapéuticas para estos pacientes.
+
+Si bien las mayores dificultades actuales para el manejo de la hiperglicemia en UCI son la falta de concenso entre los diferentes protocolos y la baja disponibilidad de dispositivos de medición continua de glicemia, el desarrollo e implemen-tación de protocolos de manejo mejora los resultados clínicos, aun cuando requiere del esfuerzo colectivo del equipo de trabajo para lograr la adherencia. El protocolo de infusión de insulina ideal es aquel en el cual todo el staff tanto médico como de enfermería ha recibido entrenamiento intensivo asi como aquel que permite conseguir los valores de glicemia propuestos con el menor número de eventos de hipoglicemia50.
+
+En los pacientes críticos, aun cuando la aplicación del monitoreo continuo de la glicemia está en desarrollo, los datos disponibles demuestran un impacto beneficioso en la morbimortalidad con la implementación de esta estrategia. Proponemos que su uso en conjunto con la implementación de protocolos automatizados podría representar a futuro la mejor opción de manejo de esta problemática.
+
+Trabajo no recibió financiamiento.

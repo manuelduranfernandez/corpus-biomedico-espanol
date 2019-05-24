@@ -1,0 +1,110 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872014000800008
+Enfermedad inflamatoria intestinal a partir de una experiencia local
+
+ 
+
+La enfermedad inflamatoria intestinal (EII) está conformada por un espectro de patologías crónicas, usualmente progresivas,               dentro de las cuales se encuentran la enfermedad de Crohn (EC), la colitis ulcerosa (CU) y la EII no clasificable. Su etiología               es aún desconocida, pero se cree que la combinación de los cambios ambientales, las variaciones genéticas, las alteraciones               de la microbiota intestinal y de la respuesta inmune de estos pacientes podrían influir en conjunto en la etiopatogénesis               de esta enfermedad1,2.
+
+La EII representa un importante problema de salud pública, ya que afecta principalmente a personas jóvenes que se encuentran             en una etapa personal y profesional activa, aunque también puede presentarse en los extremos de la vida (población pediátrica             y adultos mayores). En el último tiempo se ha descrito un aumento de la prevalencia e incidencia de la EII en el mundo, principalmente             en países industrializados3 y junto con ello, se ha visto un aumento de estas enfermedades en países donde su frecuencia era muy baja4-7. Dentro de las causas posibles del aumento de la incidencia se encuentran los cambios en los estilos de vida y factores ambientales,             que incluyen la industrialización de los países, cambios en la higiene, dieta occidentalizada, crecimiento económico y transición             de una comunidad rural a una urbana6,8. Asimismo, otro factor a considerar es la mejoría en las herramientas diagnósticas, utilizándose actualmente estudios endoscópicos,             histológicos, imagenológicos y score clínicos para su diagnóstico3.
+
+La mayor prevalencia de EII a nivel mundial fue descrita en Canadá (248/100.000 habitantes para CU y 319/100.000 habitantes             para EC) y Europa (505/100.000 habitantes para CU en Noruega), por el contrario Asia presenta la menor prevalencia de EII             (0,1-6,3/100.000 habitantes)3. En países en vías de desarrollo de América Central y Sudamérica existen escasos estudios epidemiológicos3,9-13, en los cuales también se ha descrito un aumento de la incidencia de estas patologías. En nuestro país no hay estudios de             incidencia ni prevalencia, sin embargo, existen dos publicaciones que sugirieron un aumento de los casos de EC y CU a nivel             local12,14.
+
+La EII es una enfermedad crónica, que afecta la calidad de vida de los pacientes, requiriendo un tratamiento adecuado, lo             que ha llevado a incorporar nuevas estrategias terapéuticas en el último tiempo, dentro de ellas se encuentran los inmunomoduladores             y la terapia biológica, que podrían influir en el curso de la enfermedad manteniendo la curación de la mucosa intestinal,             mejorando así la calidad de vida de estos pacientes8.
+
+El objetivo de este estudio es caracterizar la enfermedad inflamatoria intestinal demográfica y clínicamente a partir de un             registro local.
+
+Material y Método
+
+Estudio descriptivo de una cohorte histórica en base a un registro de pacientes mayores de 15 años con diagnóstico de EII                   atendidos en nuestra institución. El registro fue creado en abril de 2012 e incluye pacientes con diagnóstico de EII de acuerdo                   a los hallazgos del cuadro clínico, endoscópico, histológico e imagenológico. El formulario se encuentra en la ficha clínica                   electrónica de los pacientes, y es completada por médicos gastroenterólogos y coloproctólogos al momento de la consulta, pudiéndose                   actualizar la información prospectivamente en las siguientes visitas. La información del registro es descargada de manera                   codificada de la ficha a través de reportes mensuales, actualizándose la información en los pacientes que tienen más de una                   visita. En el registro se incluyeron variables demográficas, clínicas y propias de la patología, como la clasificación según                   extensión y fenotipo, cambio en el diagnóstico de CU a EC, cambio de fenotipo en la EC, tratamiento médico, quirúrgico y hospitalizaciones                   por crisis.
+
+En la EC se utilizó la Clasificación de Montreal para definir fenotipo: B1 inflamatorio, B2 estenosante, B3 fistulizante,                   pudiéndose agregar una “p” a cualquiera de las anteriores, en caso de compromiso perianal. Se utilizó la misma clasificación                   para la extensión de la patología, dividiéndola en L1 íleon, L2 colon y L3 ileocolónica, agregando L4 si existe además compromiso                   gastrointestinal superior. La extensión de la CU se definió mediante Clasificación de Montreal en E1 proctitis, E2 colitis                   izquierda y E3 colitis extensa15.
+
+Tanto el registro de pacientes como el estudio epidemiológico fueron aprobados por el Comité de Ética de la institución.
+
+Análisis estadístico
+
+Los datos fueron analizados mediante el programa R Commander. Las variables numéricas continuas se analizaron con mediana                   e intervalos, ya que no distribuían normal y se compararon mediante test de U Mann Whitney. Para las variables cualitativas                   categóricas se utilizó frecuencia relativa porcentual y para el análisis estadístico comparativo χ2. Se determinó significancia estadística a un valor p < 0,05.
+
+Resultados
+
+Epidemiología de pacientes con EII
+
+Se incluyó un total de 316 pacientes con EII, 230 (73%) con diagnóstico de CU, 77 (24%) con EC y 9 (3%) con EII no clasificable.                   La relación CU/EC fue de 2,9/1. La mediana de edad fue 36 años (i: 16-86), 56% mujeres, con una mediana de edad de diagnóstico                   de 30 años (i: 5-75). Tanto en CU como en EC se observó un punto más alto en el diagnóstico entre los 20 y 29 años, sin diferencia                   según sexo (Figura 1). En la última década se observó un incremento sostenido en el número de pacientes con EII, el cual fue significativo al                   comparar los períodos entre 1976-1988, 1989-2000 y 2001-2012, siendo el 82% de los pacientes diagnosticados en el último período.                   En la Figura 2 se muestra la frecuencia de pacientes con EII distribuidos por año de diagnóstico, observándose un aumento en el diagnóstico                   de nuevos casos de CU y EC en el tiempo.
+
+ 
+
+Figura 1. Edad en años al momento del diagnóstico de Enfermedad Inflamatoria Intestinal. CU: Colitis Ulcerosa; EC: Enfermedad de Crohn.
+
+ 
+
+Figura 2. Frecuencia de pacientes con Enfermedad Inflamatoria Intestinal distribuida por año de diagnóstico. CU: Colitis Ulcerosa;                               EC: Enfermedad de Crohn; EII: Enfermedad Inflamatoria Intestinal
+
+ 
+
+Las características demográficas y clínicas de los pacientes se presentan en la Tabla 1.
+
+ 
+
+Tabla 1. Características demográficas y clínicas de los pacientes con Enfermedad Inflamatoria Intestinal
+
+ 
+
+Extensión y fenotipo de la EII
+
+En relación a la extensión en CU, el 51% de los pacientes presentaba colitis extensa. En EC, la extensión se distribuyó en                   porcentajes similares, a excepción del compromiso gastrointestinal superior asociado, presente en 4% de los pacientes.
+
+El fenotipo inflamatorio fue predominante en EC (80%). El fenotipo estenosante y fistulizante se presentó en 9 (12%) y 5 (7%)                   pacientes, respectivamente. El 30% de los pacientes con EC presentó enfermedad perianal (Tabla 2).
+
+ 
+
+Tabla 2. Extensión y fenotipo de la Enfermedad Inflamatoria Intestinal según Clasificación de Montreal
+
+ 
+
+Durante la evolución de la EII, seis pacientes cambiaron su diagnóstico de CU a EC, cuatro de ellos operados previamente por                   crisis grave de su CU, en los que el diagnóstico de EC se realizó por el desarrollo de una fístula perianal, en una mediana                   de 5 años posterior a la cirugía. Por otro lado, cuatro pacientes con EC modificaron su fenotipo, tres de inflamatorio a estenosante                   y uno de inflamatorio a fistulizante.
+
+Tratamiento médico de la EII
+
+Hubo diferencias significativas en cuanto al tratamiento de los pacientes al comparar EC y CU (Tabla 3). Tanto en CU como en EC se utilizó predominantemente mesalazina, pero al comparar ambos grupos, el uso de inmunosupresores                   y terapia biológica fue significativamente mayor en pacientes con EC (p < 0,001).
+
+ 
+
+Tabla 3. Tratamiento y cirugía de los pacientes con Enfermedad Inflamatoria Intestinal
+
+ 
+
+En relación a la terapia biológica, 38 pacientes fueron tratados con esta estrategia, de los cuales 36 pacientes recibieron                   infliximab, un paciente con EC recibió adalimumab y un paciente con EC recibió natalizumab al tener asociado el diagnóstico                   de esclerosis múltiple. La mediana de tiempo entre el diagnóstico y el uso de terapia biológica en los pacientes diagnosticados                   posterior al 2007 fue de un año, con diferencia significativa (p < 0,001) al compararlo con los pacientes diagnosticados previos                   a ese año (mediana 5,5 años).
+
+Cirugía en la EII
+
+En 9,6% de pacientes con CU se realizó resección intestinal por su EII en comparación a un 23,4% de pacientes con EC (p =                   0,001). Por otro lado, 17 pacientes (22%) con EC se sometieron a cirugía por su enfermedad perianal.
+
+Con respecto a la necesidad de cirugía, se observó una tendencia al alza hasta el año 2006, manteniéndose estable posteriormente,                   concomitante a la incorporación de la terapia biológica, como se observa en la Figura 3.
+
+ 
+
+Figura 3. Relación cirugía y uso de Infliximab en Enfermedad Inflamatoria Intestinal en el tiempo.
+
+ 
+
+Discusión
+
+Nuestro estudio confirma una tendencia al aumento del número de pacientes con EII como lo publicado en la literatura16, con aproximadamente 12 pacientes diagnosticados en la década 1980-89, llegando a 240 pacientes diagnosticados con CU o EC                   en los últimos 10 años. Esto se destaca al compararlo con las dos publicaciones a nivel nacional en relación a la epidemiología                   de EII, ya que Figueroa et al (2005)14 no muestran una tendencia en el aumento de la patología, sino que sólo compara 2 poblaciones en dos períodos de tiempo diferentes                   y por otro lado, el estudio de Quintana et al (2012)12 analiza sólo pacientes con EC y hasta el año 2004. A pesar de que en nuestro estudio no fue posible determinar la incidencia                   ni prevalencia de EII en nuestro país, por el número de pacientes incluidos como también por el área geográfica donde fue                   realizado, sí permitió constatar un aumento de los casos de EII, y junto con ello, caracterizar a nuestros pacientes y compararlos                   con otros estudios a nivel mundial. El aumento de pacientes en nuestra población se podría explicar en parte por la industrialización,                   los cambios en los estilos de vida y las mejores técnicas en el diagnóstico de EII a nivel local.
+
+En nuestra cohorte se observó una predominancia de CU en relación a EC de 3/1, diferencia que aún es mayor a la descrita por                   estudios recientes, que tienden a acercarse a una relación de 1/14,9,17,18. Tanto la CU como la EC fue levemente mayor en mujeres, como lo descrito por otras series9,10,13 y la mediana de edad de diagnóstico fue de 30 años, con 61% de los pacientes diagnosticados entre los 20 y 39 años, sin un                   2º punto alto a mayor edad, similar a los últimos estudios publicados4,5,16,19,20.
+
+En relación a la extensión en CU, observamos un alto porcentaje de colitis extensa (51%), que difiere a lo señalado por otros                   estudios, donde el porcentaje es entre 20 y 40%5,7,16,18,21. Incluso el trabajo publicado en nuestro país el año 2005, reporta 28% de colitis extensa en los pacientes con CU14. Nuestro estudio fue realizado en un centro de referencia de pacientes refractarios y de difícil tratamiento, lo cual podría                   explicar el alto porcentaje de colitis extensa en nuestra población, similar a lo reportado por Al Fadda et al, en un reciente                   estudio en Arabia Saudita22.
+
+En concordancia con otros estudios, el fenotipo inflamatorio fue el más frecuente en 80% de nuestros pacientes4,12,16,18. Durante la evolución de la enfermedad, se observó un cambio en el fenotipo de 4 pacientes con EC (5%) que inicialmente presentaban                   fenotipo inflamatorio. Este cambio fue menor al observado por otros estudios que reportan entre 31% y 60% de progresión a                   una enfermedad más severa23-25, lo que se podría explicar por ser un estudio retrospectivo, con corto período de seguimiento3. Otro factor que podría explicar que el cambio de fenotipo sea menor, es que los pacientes tratados desde su diagnóstico                   en nuestra institución, tienen tratamiento “step-up acelerado”, por lo que podría haber menos cambio de fenotipo al ser tratados de manera más agresiva desde el inicio26,27.
+
+Durante la evolución de la EII, se observó que 6 pacientes (2,6%) con diagnóstico inicial de CU, desarrollaron fístulas perianales                   o compromiso ileal, cambiando su diagnóstico a EC, el cual fue confirmado por histología e imágenes. Aunque en la literatura                   se habla de porcentajes entre 5 y 10% de cambio de diagnóstico después de 25 años de evolución de enfermedad28, nuestro porcentaje fue menor, similar a lo publicado recientemente por Oukaa-Kchaou A. con 3,6%7. Sin embargo, nuestros datos pueden estar sesgados, dado que nuestro estudio no evalúa a los pacientes con EII durante un                   período de tiempo prolongado.
+
+En relación al tratamiento de la EII, la mesalazina fue el medicamento más utilizado tanto en CU como en EC (99% y 75%, respectivamente).                   Pese a que en EC el uso de mesalazina es menos efectivo que en CU, 75% de los pacientes había recibido este medicamento previo                   a su evaluación en nuestra institución, confirmando la necesidad de mantener una educación continua del equipo médico que                   atiende a estos pacientes. Por otro lado, y según las últimas guías clínicas, el uso de inmunosupresores y agentes biológicos                   fue significativamente mayor en EC que en CU. 
+
+Infliximab como terapia biológica para la EII fue aprobado por la Food and Drug Administration de los Estados Unidos de Norteamérica el año 1998 para EC y 2006 para CU, y desde su incorporación en nuestra institución                   su uso ha ido en aumento, concordante con las nuevas guías de tratamiento “step-up acelerado”, utilizando este medicamento como primera línea en muchos pacientes. En nuestra serie, el uso de infliximab en                   CU fue similar a lo reportado por otros países21,22,29, sin embargo, su uso en EC (34%) es considerablemente mayor a lo observado en reportes de Arabia Saudita, Israel y algunos                   europeos, con cifras entre 2 y 10%21,29. Esto puede ser, en parte, explicado por el tipo de centro donde fue realizado este estudio, hospital terciario con mayor                   acceso a terapia biológica.
+
+Con respecto a la cirugía en la EII, la necesidad de resección intestinal fue significativamente mayor en pacientes con EC,                   al compararlos con CU, lo que concuerda con otros estudios a nivel mundial22. Rungoe, en un estudio realizado en Dinamarca, concluye que el aumento en el uso de nuevas terapias como inmunomoduladores                   y terapia biológica en el tratamiento de la EII es paralelo a la disminución de las cirugías observadas por causa de esta                   patología30. Cosnes et al. agregan además que estos medicamentos se deben utilizar tempranamente, pudiendo disminuir el riesgo de cirugía                   en EC16. Esto podría explicar la estabilidad en la necesidad de cirugía observada en nuestro estudio a partir del año 2006, momento                   en el cual aumentó el uso de terapia biológica en nuestra población.
+
+Nuestro estudio tiene algunas limitaciones. Es retrospectivo en los pacientes diagnosticados previo al inicio del registro                   de EII, lo que puede implicar un sesgo de selección. Por otro lado, fue realizado en un centro único y terciario, lo que podría                   sesgar los resultados por el tipo de paciente que se atiende en nuestra institución y los medicamentos utilizados para su                   tratamiento.
+
+A pesar de lo anterior, se puede concluir que un adecuado registro de pacientes con EII permite la caracterización demográfica                   y clínica de ellos. Sin lugar a dudas se abre la necesidad de realizar un registro a nivel nacional, que permita  determinar                   los verdaderos cambios epidemiológicos de la EII en Chile, y con ello definir estrategias terapéuticas individualizadas para                   mejorar la evolución de los pacientes y consecuentemente su calidad de vida.

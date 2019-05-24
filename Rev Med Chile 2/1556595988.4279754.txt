@@ -1,0 +1,94 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872006000600012
+Impacto de la contaminación del aire por PM10 sobre la mortalidad diaria en Temuco
+
+A          fines del año 1997 se iniciaron campañas de medición          de contaminantes atmosféricos (SO2, O3, NO2,          CO, y PM10) en la ciudad de Temuco (304.000 habitantes, ubicada          a 670 km al sur de Santiago de Chile). Estas campañas de medición          demostraron que sólo el PM10 (partículas con          diámetro aerodinámico menor o igual a 10 micrómetros)          presentaba valores que sobrepasaban los niveles normados en Chile (150          µg/m3N según Decreto Supremo Nº 59/1998).          Por tal motivo, a mediados del año 2000, CONAMA Región de          la Araucanía comenzó un monitoreo continuo de material particulado          respirable (PM10) y de variables meteorológicas en la          ciudad. Con estas mediciones se comprobó la ocurrencia de valores          altos de PM10 durante los meses más fríos (abril          a septiembre) y que las concentraciones de este contaminante han superado,          en varios días, los valores de la norma (13 veces el año          2001 y 5 veces el 2002), lo que ha permitido declararla como zona saturada          e iniciar la implementación de un Plan de Descontaminación          para Temuco1. Otro estudio efectuado por CONAMA, indicó          que el uso masivo de leña con altos contenidos de humedad para          calefacción residencial y producción de calor o vapor en          el ámbito industrial, el crecimiento del parque automotriz, junto          con condiciones meteorológicas particulares (vientos débiles,          bajas temperaturas, inversiones térmicas), se conjugan en la ciudad          de Temuco, para dar lugar a altas concentraciones de PM10 durante          el período otoño invierno2. 
+
+La situación de la ciudad de Temuco          es preocupante, tanto por los niveles de PM10 alcanzados, como          por la probable toxicidad del material particulado asociado principalmente          a quema de leña (hidrocarburos aromáticos policíclicos:          HAP). Estos factores podrían significar un mayor riesgo en relación          a otras ciudades cuyos sistemas de calefacción y cocina cuentan          con combustibles más limpios, como gas natural o electricidad.          
+
+La existencia de una relación entre          concentración de materia particulada, especialmente el PM10,          y los efectos nocivos de corto plazo sobre la salud de las personas, ha          sido ampliamente estudiada en países desarrollados3-8.          Dichos estudios se han centrado, principalmente, en la relación          de corto plazo (diaria) entre las concentraciones de PM10 y          otros contaminantes, con mortalidad y morbilidad por causas respiratorias          y cardiovasculares. Los hallazgos confirman una relación positiva          y significativa entre estas variables, indicando además, que el          aumento de riesgo de mortalidad ante incrementos de PM10 de          100 µg/m3 sería del orden de 3 a 15%, dependiendo          de la ciudad estudiada. En nuestro país, este efecto ha sido cuantificado          sólo en la ciudad de Santiago9-11, encontrándose          excesos de riesgos de mortalidad entre 6 y 8%.  
+
+Este trabajo estudió los efectos a corto plazo,          a través del desarrollo de modelos de concentración-respuesta          de PM10 con mortalidad diaria en la ciudad de Temuco, por causa          respiratoria y cardiovascular, para el grupo etáreo de mayores          y menores de 65 años, en el período comprendido entre noviembre          de 1997 y diciembre de 2002. Los modelos generados servirán para          estimar los beneficios y costos de estrategias de control de la contaminación          en la ciudad. 
+
+Material y método
+
+La información corresponde a las          muertes diarias, concentraciones de PM10 y variables meteorológicas,          durante el periodo comprendido entre noviembre de 1997 y diciembre de          2002, para las ciudades de Temuco y Padre Las Casas. La base de datos          de mortalidad se obtuvo del Ministerio de Salud e incluye la comuna de          residencia del occiso, fecha de defunción, edad al fallecer, sexo          y código de la causa originaria o primera de la cadena causal.          Dentro de las causas de muertes de interés para efectos de este          estudio se encuentran: sistema circulatorio, sistema respiratorio y cáncer.          Los códigos de las causas de muertes utilizadas corresponden al          International Clasification of Disease, décima revisión          (ICD-10). Las muertes fueron clasificadas por grupo de edad (total, mayores          y menores de 65 años). Finalmente, la base de mortalidad se estructuró          contabilizando para cada día, el número de muertes por causa          y grupo de edad. 
+
+Las muertes por causa cardiovascular incluyeron          todas las codificadas con la letra I del ICD-10, las que comprendían          40% de muertes por causa cerebrovascular y 30% de muertes por cardiopatía          coronaria. El 30% restante incluye hipertensión, cardiopatías          valvulares e insuficiencia cardíaca de etiología no precisada,          entre las principales. Las muertes respiratorias incluyeron todas las          codificadas en la letra J del ICD-10, considerando 50% de neumonías,          22% EPOC (Enfermedad Pulmonar Obstructiva Crónica), y el resto          misceláneo. 
+
+La información de meteorología          y concentraciones de PM10 fueron entregados por CONAMA Región          de la Araucanía y corresponden a los datos registrados en la estación          de monitoreo Las Encinas, ubicada en el sector occidente de la ciudad          (Figura 1). Campañas de monitoreo anteriores          a 1997, realizadas en cinco puntos dentro de la ciudad de Temuco, demostraron          que no existía variabilidad significativa entre los monitores,          razón por la cual se optó por continuar con una sola estación          ubicada en Las Encinas. 
+
+
+
+Los datos de meteorología consistieron          en registros horarios de velocidad y dirección del viento, humedad          relativa y temperatura ambiental para todo el período de estudio.          Esta información se procesó a fin de conformar una base          de promedios y valores extremos (máximos y mínimos) diarios.          
+
+Las mediciones de concentraciones de PM10,          desde noviembre de 1997 a junio de 2000, se realizaron utilizando un equipo          integrador, el cual entregaba las concentraciones en 24 h, para cada día          en este período, sin embargo, a partir de julio de 2000, se cambia          este equipo por un muestreador continuo (TEOM) el cual registra las concentraciones          hora a hora. Debido a esto, se estructuró una base de promedios          en 24 h desde noviembre de 1997 a diciembre de 2002. Esta métrica          del PM10 corresponde a la norma chilena (media en 24 h). 
+
+La Figura 2 muestra          un perfil típico de concentraciones horarias en Temuco, indicando          que a partir de las 17 h, aproximadamente, se incrementan las concentraciones          de PM10. Este incremento se debe, en parte, al mayor uso de          sistemas de calefacción y a una disminución de la altura          de la capa de mezcla. 
+
+   
+
+ 
+
+
+
+La metodología de análisis          utilizada corresponde a la empleada en el estudio multicéntrico          europeo, denominado APHEA (Air pollution Health European Approach)12-15,          la cual define un protocolo que incluye la estimación de modelos          de regresión Poisson para cada variable respuesta (mortalidad diaria)          y para la variable de control (muertes por cáncer). El primer paso          fue determinar un modelo que controle la tendencia, estacionalidad e influencia          del día de la semana, posteriormente se incorporan las variables          meteorológicas, y por último, se introduce la variable de          calidad del aire como PM10. 
+
+Como el diseño del estudio es un          análisis de series temporales, las variables confundentes son aquellas          que varían en el tiempo, y se asume que la estructura etárea,          nivel socioeconómico, tabaquismo y otras variables confundentes          no presentan fluctuaciones de corto plazo (diarias) que interfieran en          las estimaciones15. 
+
+El modelo de regresión Poisson pertenece          a los Modelos Lineales Generalizados (GLM) que son una familia de distribuciones          exponenciales. En estos modelos, la variable respuesta (mortalidad diaria)          se considera dependiente de una suma de funciones de cada covariable (tendencia          (T), estacionalidad (S), meteorología (M), contaminantes diferentes          al PM10 (P) y contaminante de interés (en este caso          PM10)) de la forma: 
+
+Log(Mort)= α0          + α1f(T)          + α2f(S)          + α3f(M)          + α4f(P)          + ßf(PM10) + e 
+
+Donde αi          y ß son parámetros a estimar en el modelo. 
+
+La modelación de acuerdo al protocolo          APHEA, es un proceso iterativo en que se van introduciendo, en forma secuencial,          las variables de interés, controlando en cada paso la significancia          de los parámetros e identificando el desfase en días, entre          la concentración de PM10 y su efecto en la mortalidad          (rezago adecuado) a través del análisis de residuos y correlación          cruzada, respectivamente. 
+
+Finalmente, con los modelos seleccionados          se calculó como medida de efecto el riesgo relativo (RR) ante un          incremento (Δ) de 100 µg/m3          en la concentración media de PM10, a través de:          
+
+El RR estimado está ajustado por          estacionalidad y variables confundentes. Para el desarrollo de los modelos          se utilizaron los software SPSS y S-Plus. 
+
+Resultados 
+
+Las estadísticas descriptivas de          las variables utilizadas (mortalidad, meteorología y contaminación          del aire) en este estudio se muestran en la Tabla 1.          
+
+  
+
+Al aplicar la metodología APHEA          a la base de datos de Temuco y Padre Las Casas, se obtuvieron los modelos          por causa de muerte (cardiovascular, respiratoria) y por grupo etáreo.          Los nombres de los modelos asociados a las variables respuesta de interés          se muestran en la Tabla 2. 
+
+  
+
+Los coeficientes, su significancia y los          RR, en conjunto con el intervalo de confianza de 95% obtenidos para cada          modelo significativo según causas de muerte, se muestran en la          Tabla 3. De los modelos desarrollados se observa que          los RR son mayores para las causas respiratorias que cardiovasculares.          
+
+  
+
+Todos          los modelos para los mayores de 65 años resultaron significativos          no así los menores de 65, verificándose que el grupo sensible          al PM10 es el de más edad. La no significancia de los          modelos de muertes por cáncer es esperable porque nuestro análisis          considera la exposición a corto plazo.
+
+Discusión
+
+Los modelos desarrollados, dan cuenta de          una asociación significativa entre incrementos de PM10          y aumentos de mortalidad diaria en Temuco por causas cardiovasculares          y respiratorias, una vez controlado por estacionalidad, tendencia y confundentes          (meteorología, día de la semana). 
+
+La Tabla 4 muestra que          las estimaciones puntuales de los riesgos relativos de Temuco son superiores          a los estimados en Santiago11, indicando que los habitantes          de Temuco estarían expuestos a riesgos de mortalidad mayores que          los santiaguinos, ante incrementos iguales de la concentración          de material particulado. Dentro de las posibles explicaciones para los          RR mayores en Temuco se encuentran: una mayor susceptibilidad de la población          de Temuco a las partículas o una diferencia en la exposición          a partículas (distinta composición química de las          partículas, distinta distribución del tamaño de las          partículas y distintos niveles de concentraciones de PM10).          La mayor susceptibilidad podría deberse a diferencias en la estructura          etárea, diferencias en los riesgos específicos por edad          y a diferencias en genética. Al analizar la estructura etárea          de ambas poblaciones, se encuentra que éstas no difieren significativamente          en el grupo de los mayores de 65 años. Por otro lado, los riesgos          específicos por grupo quinquenal de mayores de 65 años,          obtenidos como el cuociente entre el número de muertes por grupo          de edad, dividido por la población de ese grupo (tasas específicas),          calculados para cada ciudad, muestran que no hay diferencias significativas.          Para el grupo de los mayores de 65 años, la razón de tasas          de incidencia estandarizada por edad (tasa Temuco sobre tasa Santiago)          resulta ser de 1,05, IC 95% (0,98-1,12), indicando que la diferencia no          es significativa. 
+
+  
+
+Por lo anterior, se infiere que no hay          diferencias significativas en la susceptibilidad en el grupo de los mayores          de 65 años en ambas poblaciones, quedando el punto de la diferencia          de genética como otra posible explicación a nivel de hipótesis.          
+
+En relación a la posible diferencia          en la exposición a partículas, un factor que distingue a          estas dos ciudades es el origen de la contaminación por partículas,          siendo para Santiago mayoritariamente de fuentes móviles16          y en Temuco la combustión de leña para calefacción          y cocina en los hogares2,16. La combustión de leña          genera partículas cuya composición química contiene          altos niveles de HAP. 
+
+Lo anterior se verifica del análisis          de las muestras de PM10 realizadas en Temuco y Santiago donde          se obtuvo una mayor proporción de compuestos HAP en el particulado          de Temuco con respecto al medido en Santiago (Benzo-a-pireno: 98,5 ng/m3          en Temuco versus 10,9 ng/m3en Santiago; Benzo-a-antraceno:          115,7 ng/m3 en Temuco versus 8,5 ng/m3 en Santiago,          HAP totales 751 ng/m3 y 129 ng/m3 en Temuco y Santiago,          respectivamente)16. Estos compuestos HAP presentan un potencial          cancerígeno y tóxico17,18. 
+
+Además de la diferencia en la composición          química de las partículas, la nube contaminante en Temuco          presenta una proporción mayor de particulado fino (PM2.5)          en relación a Santiago (80 a 90% del PM10 en Temuco          versus 30 a 60% en Santiago)2,19. Dado que el particulado fino          penetra más profundamente en el árbol respiratorio, esta          mayor proporción de PM2.5 en el PM10 en Temuco          podría explicar la mayor toxicidad. 
+
+Finalmente no podemos descartar que esta          diferencia de riesgos entre Temuco y Santiago se deba a un artefacto estadístico,          que puede originarse por una diferencia en la representatividad de la          exposición dada por las mediciones del PM10 en monitores          en ambas ciudades. 
+
+Al ser la combustión de leña          en los hogares la fuente principal de partículas en Temuco2,          implica que la medición de la exposición a través          de monitores externos presenta una mayor coincidencia con la verdadera          exposición de los sujetos (intradomiciliaria), a diferencia de          Santiago, donde las fuentes de partículas emiten mayoritariamente          hacia ambientes exteriores y su correlación con la verdadera exposición          de los sujetos que ocurre al interior de las habitaciones de hogares y          lugares de trabajo, es menor. 
+
+ Además, los          modelos que estimaron los riesgos relativos para Santiago contaron con          una base de datos mayor (mayor tamaño muestral en días de          estudio y número de muertes diarias), lo que se traduce en mayor          robustez de los parámetros estimados. Esto se manifiesta en los          intervalos de confianza de los RR, donde son mucho más amplios          para Temuco, indicando una mayor incertidumbre en su estimación.          Al comparar los riesgos relativos obtenidos por este estudio, con los          de otras ciudades a nivel mundial, que han utilizado la misma metodología,          se observa que los riesgos encontrados en Temuco son similares a los encontrados          en las ciudades de Filadelfia, Detroit y San Pablo, con riesgos relativos          alrededor de 14% (Figura 3). Una de las ciudades          que presenta riesgo relativo más alto según lo encontrado          en los estudios norteamericanos, es la ciudad de Kingston (Tennessee)          cuyo RR es de 20%. 
+
+
+
+Figura 3. Comparación de                riesgos relativos de muertes cardiorrespiratorias ante un incremento                de 100 µg/m3. 
+
+Finalmente, en este trabajo se encontró          asociación positiva entre el PM10 y tres causas de mortalidad:          respiratoria total, cardiovascular total y cardiorrespiratorias en la          ciudad de Temuco, no así para el cáncer, el que fue utilizado          como control negativo. 
+
+Los hallazgos en Temuco avalan el hecho          de la importancia de estimar los riesgos en cada ciudad y no extrapolar          los riesgos de una ciudad a otra, así como el seguir explorando          e investigando las causas de las diferencias de riesgos en distintas ciudades.          

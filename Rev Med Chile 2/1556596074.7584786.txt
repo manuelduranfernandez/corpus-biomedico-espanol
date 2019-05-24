@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015000100003
+Rendimiento del Positron Emission Tomography/Computed Tomography (PET/CT) en etapificación de cáncer pulmonar
+
+ 
+
+El objetivo de este estudio es describir las características de la enfermedad metastásica ganglionar y a distancia en pacientes             con cáncer pulmonar que se estudiaron con PET/CT en nuestro centro.
+
+Pacientes y Método
+
+Pacientes
+
+Se revisaron retrospectivamente los PET/CT realizados en el Departamento de Radiología de Clínica Las Condes, entre diciembre             de 2008 y diciembre de 2013, seleccionando aquellos efectuados a pacientes con cáncer pulmonar recientemente diagnosticado,             sin tratamiento previo, y que acudían para etapificación. Antes de realizar el examen, se pesó, midió y entrevistó a cada             paciente, constatando antecedentes clínicos relevantes.
+
+Adquisición del PET/CT
+
+Se realizó PET/CT previa inyección endovenosa (0,1 mCi/Kg) de F18-Fluorodeoxiglucosa (F18-FDG), utilizando equipo GE Discovery             STE. En todos los pacientes se efectuó una tomografía computada de tórax, abdomen y pelvis con contraste iodado posterior             al estudio PET, incluyendo el cerebro en los casos que no se habían realizado resonancia magnética (RM) cerebral.
+
+Caracterización de las lesiones
+
+Se registró tamaño y ubicación de los tumores primarios pulmonares. La captación de F18-FDG del tumor primario pulmonar, ganglios             hiliares, mediastínicos y extratorácicos, y metástasis a distancia fue cuantificada por medio del índice SUVmax, de acuerdo             al método descrito previamente6,8. En mediastino, se estableció el mejor valor de corte de SUVmax para identificar ganglios positivos, basado en la confirmación             histológica.
+
+Las metástasis óseas fueron clasificadas por dos radiólogos expertos analizando tanto la TC como las imágenes del PET, en             cuatro grupos según su aspecto: 1) líticas, en caso de destrucción ósea suficiente para ser detectada en la TC; 2) escleróticas,             cuando existió esclerosis suficiente para ser vista en la TC; 3) mixtas, en caso de lisis y esclerosis asociadas en la misma             lesión y 4) medulares, en lesiones con matriz ósea intacta, sólo visibles al PET.
+
+Las lesiones no típicas de metástasis visualizadas con PET/CT y CTc fueron denominados hallazgos incidentales, y se clasificaron             como: 1) verdadero positivo, cuando fue confirmado como otro tumor diferente al cáncer pulmonar; 2) falso positivo, cuando             se confirmó como de naturaleza benigna y 3) no confirmado.
+
+Estudio histológico
+
+Se revisó la anatomía patológica de todos los pacientes, tanto referente al tumor primario, como al estudio ganglionar hiliar/mediastínico             y lesiones extratorácicas. En caso de metástasis que no fueron biopsiadas, generalmente en pacientes con enfermedad metastásica             avanzada, la confirmación de la naturaleza secundaria de dichas lesiones se realizó al comprobar la respuesta al tratamiento             sistémico en PET/CT de control post terapia.
+
+Análisis estadístico
+
+Se utilizó curvas ROC, t-test y comparación de proporciones.
+
+Resultados
+
+Se seleccionaron 143 pacientes con cáncer pulmonar (mediana edad: 67 años, rango 30-92 años, 62,9% varones) comprobado histológicamente,             sin tratamiento previo al PET/CT (Tabla 1).
+
+ 
+
+Tabla 1. Características de los pacientes y del            tumor primario 
+
+ 
+
+De los 143 pacientes con cáncer pulmonar, 82,7% refirieron ser tabáquicos, y 17,3% nunca haber fumado. En ambos grupos, el               tipo histológico adenocarcinoma fue el más frecuente (85% de los no fumadores y 57% de los fumadores).
+
+Histopatología
+
+El 54,5% (78/143) de los pacientes estudiados correspondieron a adenocarcinoma; 14,7% (21/143) a escamoso; 7,7% (11/143) a             células pequeñas; 5,6% (8/143) a células grandes y 2,1% (3/143) a adenoescamoso. En 22 casos, la histopatología no pudo ser             recuperada, los que correspondieron principalmente a pacientes derivados de otros centros, sin ficha clínica en Clínica Las             Condes. El índice SUVmax y tamaño del tumor primario pulmonar, y las metástasis ganglionar y a distancia, según grupo histológico             se muestra en la Tabla 2.
+
+ 
+
+Tabla 2. Captación de F18-FDG y tamaño del tumor primario, compromiso            ganglionar y metástasis a distancia según tipo histológico                del cáncer pulmonar 
+
+ 
+
+Etapificación mediastínica
+
+Se biopsiaron un total de 513 ganglios torácicos en 45 pacientes, correspondiendo a 33 lobectomías/segmentectomías y disección             ganglionar, 10 biopsias transbronquiales con aguja fina guiadas por EBUS (Endobronchial ultrasound) y 2 mediastinoscopias. Al comparar con la histología, el mejor valor de corte de SUVmax para determinar positividad ganglionar             fue de 4,4 para los linfonodos hiliares y 4,0 para los linfonodos mediastínicos, con una sensibilidad de 86,4%, especificidad             de 99,8%, valor predictivo positivo de 97,4%, valor predictivo negativo de 98,7%, y rendimiento global de 98,6% (Tabla 3).
+
+ 
+
+Tabla 3. Rendimiento del PET/CT en            etapificación N1-2 (valor de corte de            SUVmax ≥ 4,4 en hilio y  ≥ 4,0 en mediastino) 
+
+ 
+
+El 17,4% presentó skip metastasis (compromiso mediastínico con hilio negativo). Dichos pacientes tuvieron tumores pulmonares con SUVmax significativamente               más elevado (SUVmax: 19,7, DS. 17,1) que aquellos N2 sin skip metastasis (SUVmax: 13,9, DS: 6,7) (p: 0,03), sin diferencias significativas en el tamaño del tumor primario entre los pacientes con               y sin skip metastasis.
+
+El mejor valor de corte para predecir skip metastasis fue de SUVmax ≥ 28 en el tumor pulmonar primario. Incluyendo sólo los pacientes con mediastino positivo, la probabilidad             de presentar skip metastasis fue de 15% para tumores con SUVmax menor a 28, y de 67% para tumores con SUVmax ≥ 28.
+
+Considerando los pacientes con y sin metástasis a distancia, 60,1% de los individuos presentó compromiso ganglionar hiliar             (44,1%) y/o mediastinico (48,3%). El  28,7% (41/143) presentó compromiso ganglionar hiliar y/o mediastínico exclusivo, sin             diseminación a distancia al PET/CT.
+
+Metástasis a distancia
+
+El 46,2% (66/143) de los pacientes presentó metástasis a distancia al momento del diagnóstico. Las localizaciones más frecuentes             se detallan en la Tabla 4. El adenocarcinoma mostró significativa (p: 0,02) mayor frecuencia de metástasis pulmonares (19,2%) que el grupo no adenocarcinoma             (2,3%), sin otras diferencias en la distribución de la enfermedad metastásica entre los tipos histológicos.
+
+ 
+
+Tabla 4. Captación de FDG y distribución            de las metástasisen 143 pacientes     con cáncer pulmonar 
+
+ 
+
+Se contabilizaron un total de 218 metástasis óseas, 54,6% de las cuales fueron medulares, 23,9% líticas, 16,1% escleróticas               y 5,4% mixtas. Es decir, más de la mitad de las metástasis óseas no provocaron alteración de la matriz ósea (medulares) y               fueron visibles sólo con PET (Figura 1). Las lesiones líticas presentaron significativo (p: 0,001) mayor índice SUVmax (promedio: 14,1, DS: 7,0) que el grupo esclerótico-mixto-medular               (SUVmax promedio: 7,4, DS: 3,4).
+
+ 
+
+Figura 1. Adenocarcinoma pulmonar (flecha grande) con diseminación ganglionar              y metástasis óseas medulares invisible a la tomografía             computada (flechas pequeñas) y                  líticas que sí son evidentes a la TC.
+
+ 
+
+En 8 pacientes se observaron metástasis a distancia en ausencia de adenopatías hiliares o mediastínicas, 6 de ellos portadores                 de adenocarcinoma de entre 1,7 y 5,7 cm y con SUVmax promedio 10,0 en el tumor primario pulmonar (rango 3,1-20,0). Es decir,                 12,1% (8/66) de los pacientes con metástasis hematógenas no tenía compromiso ganglionar detectable.
+
+Los pacientes con metástasis a distancia fueron portadores de tumores pulmonares de significativo (p < 0,0001) mayor tamaño             (diámetro promedio: 5,8 cm, DS: 2,7) que aquellos sin metástasis (diámetro promedio: 3,4 cm, DS: 2,4). No se demostró diferencias             significativas en el SUVmax del tumor primario entre los pacientes con (promedio: 14,9, DS: 9,9) y sin metástasis a distancia             (promedio: 9,7, DS: 7,9).
+
+Hallazgos incidentales del PET/CT
+
+Del total de hallazgos incidentales al PET/CT y TCc, 35,7% (10/28) fueron confirmados como un segundo tumor primario en 8             pacientes, 57,1% (16/28) no fueron confirmados, y 7% (2/28) correspondieron a falsos positivos del PET.
+
+En 5,6% (8/143) de los pacientes el PET/CT detectó otras neoplasias malignas sincrónicas al cáncer de pulmón. Correspondieron             a dos casos de cáncer de colon, ambos con lesiones parietales con intensa captación de FDG, dos casos de cáncer de células             renales, uno de alta y otro de baja captación de FDG, dos casos con otros tumores pulmonares de diferentes características             tomográficas y metabólicas que fueron confirmados con otra histología, dos casos con cáncer tiroideo, y uno con un cáncer             de mama. Dos de estos pacientes fueron portadores de dos tumores malignos sincrónicos al cáncer de pulmón, es decir de tres             neoplasias concomitantes (Figura 2).
+
+ 
+
+
+
+Figura 2. Carcinoma escamoso pulmonar en el lóbulo inferior izquierdo (flecha en fotos superiores).                    El paciente presentó además nódulo                 renal derecho ávido de F18-FDG que resecó con resultados                    de carcinoma de células renales (flechas en fotos intermedias), y                 pequeño nódulo hipercaptante                    prostático que se operó con resultado de adenocarcinoma prostático (flechas en fotos inferiores).
+
+ 
+
+Discusión
+
+En pacientes con cáncer pulmonar, el grado de diseminación ganglionar hiliar y mediastinica, y la existencia de metástasis             a distancia determinan fuertemente la conducta respecto a los posibles tratamientos a considerar, particularmente la viabilidad             de la opción quirúrgica. La existencia de enfermedad mediastinica contralateral (N3) o de siembra secundaria pulmonar, pleural             o extratorácica alejan esta posibilidad. En series norteamericanas que incluyen tanto carcinoma de células pequeñas como de             células no pequeñas, aproximadamente 22% de los pacientes presentan compromiso mediastinico exclusivo y 57% metástasis a distancia             al momento del diagnóstico2,3. Esta cifra se acerca a lo obtenido en nuestra casuística, con 28% de compromiso ganglionar exclusivo y 46% de metástasis             a distancia, lo que sugiere que el grupo estudiado sería representativo de la población con enfermedad diseminada.
+
+El PET/CT ha mostrado un alto rendimiento en la etapificación ganglionar en neoplasias malignas, con una mayor sensibilidad             que los métodos tradicionales, al poder detectar ganglios pequeños hipercaptantes de FDG que no califican como adenopatías             en la TC o RM, y una mayor especificidad al diferenciar adenopatías reactivas o residuales, de alta frecuencia en hilio pulmonar             y mediastino, de aquellas comprometidos por el tumor. La cuantificación de la captación de FDG en los linfonodos es esencial             en su adecuada caracterización, y el índice SUV es el más empleado para este efecto. Valores de corte de entre 2,5 y 5,3 han             sido mencionados como útiles para diferenciar ganglios reactivos/residuales de ganglios metastáticos, aunque estos valores             pueden variar según el equipo PET/CT y la técnica de adquisición empleadas, por lo que se recomienda tener valores de corte             propios en cada centro9,10. Los valores de SUVmax de 4,0 para mediastino y 4,4 para hilio obtenidos en este estudio apuntan en ese sentido, y permiten             etapificar el mediastino con una sensibilidad de 86% y especificidad cercana a 100%.
+
+Aunque el compromiso mediastínico suele anteceder a la ocurrencia de metástasis a distancia, no es infrecuente encontrar siembra             secundaria en ausencia de enfermedad ganglionar hiliar/mediastinica (12% de los pacientes con metástasis en nuestra serie).             El adenocarcinoma fue el tipo histológico mayormente involucrado en estos casos, tratándose a veces de tumores pequeños menores             de 2 cm (T1a) que debutan con metástasis a distancia y que presentan mediastino negativo. Estos hallazgos apoyan la opción             de etapificar en forma completa a pacientes aun en etapas T y N precoces de la enfermedad3.
+
+Luego de la diseminación ganglionar, la segunda localización más frecuente de metástasis es el esqueleto, correspondiendo             a 22% del total de pacientes en nuestra casuística. Dicho valor es coincidente con el 22% encontrado por Cheran et al11 y dentro del rango 16-30% mencionado en la literatura12. El PET/CT ha mostrado significativa mayor rendimiento que la TC y que el cintigrama óseo en detección de metástasis óseas             en cáncer de pulmón11,12. Esto se debe en parte al tipo de lesión ósea secundaria que predomina en el cáncer de pulmón, que puede no ser evidente             con dichos exámenes de imagen. En nuestra serie, se observó una alta frecuencia de lesiones óseas medulares (54%), que no             son invisibles a la TC, ya que no modifican la matriz ósea, pero sin son visibles como hipercaptantes al PET. Por otro lado,             un significativo número de lesiones fueron líticas (24%), que son las que muestran los niveles más altos de captación de FDG,             y que pudieran no ser vistas en estudios de cintigrama o PET óseo (PET con NaF), ya que estos últimos basan su captación exclusivamente             en la actividad osteoblástica (formación de hueso) y no osteoclástica13.
+
+Las glándulas suprarrenales fueron la tercera localización más frecuente, presentes en 16% de los pacientes. En caso de lesiones             suprarrenales dudosas es de utilidad medir la captación de FDG, ya que valores de SUVmax mayores a 2,5 pueden diferenciar             las metástasis de los nódulos benignos14.
+
+Las metástasis hepáticas presentaron igual frecuencia que el pulmón y la pleura, y fueron siempre de alta captación de FDG.             Esta característica es de suma importancia al querer diferenciar lesiones benignas hepáticas, de alta incidencia en la población             adulta, de lesiones malignas secundarias y explica la alta especificidad del PET en lesiones focales del hígado4. Por otro lado, la técnica híbrida PET/CT potencia la sensibilidad de la TCc, que fluctúa entre 73 y 85%, llevándola hasta             93-97% en la detección de metástasis hepáticas15,16.
+
+Si bien las lesiones secundarias cerebrales no son las más frecuentes en esta población, su importancia radica en que su presencia             determina una alta morbi-mortalidad, que en algunos casos puede ser evitada o al menos disminuida con un adecuado tratamiento.             El PET/CT presenta una baja sensibilidad en la detección de metástasis cerebrales, determinada principalmente por la alta             captación fisiológica cerebral, que hace más difícil distinguir las lesiones. Por este motivo, se recomienda complementar             el estudio PET/CT con una RM cerebral en todos los pacientes con cáncer pulmonar desde la etapa IB3. En nuestra serie, todos los pacientes fueron estudiados con TC contrastada al momento de realizar el PET/CT, salvo que contaran             con una RM cerebral previa, encontrándose metástasis encefálicas en 12% de los pacientes. Esta cifra es similar al 14% encontrado             en otras series estudiadas con TCc17.
+
+La ocurrencia de una segunda neoplasia primaria sincrónica al cáncer pulmonar ha sido mencionada en algunas publicaciones,             con frecuencias algo menores a la encontrada en nuestra muestra, entre 1,7 y 4,2% de los pacientes18-20. Ya que un número importante de los hallazgos incidentales del PET/CT no fueron confirmados histológicamente, es posible             que nuestro estudio subestime la ocurrencia de segundas neoplasias primarias asociadas al cáncer pulmonar, e incluso de metástasis             en ubicación inhabitual. Esto se constituye como una limitación de nuestro estudio, que se replica en otras publicaciones,             donde 37-45% de los “incidentalomas” del PET/CT no son confirmados20.
+
+Conclusión
+
+El PET/CT presenta alto rendimiento en la etapificación ganglionar de pacientes con cáncer pulmonar utilizando índices de             captación como el SUVmax. El mejor valor de corte para identificar los ganglios metastásicos fue un SUVmax ≥ 4,0 en mediastino             y ≥ 4,4 en hilio pulmonar. Las metástasis a distancia son de alta ocurrencia en esta población, siendo las más frecuentes             las óseas, suprarrenales y hepáticas. El PET/CT muestra una elevada sensibilidad en la detección de lesiones secundarias en             estas localizaciones, especialmente en el esqueleto, y permite detectar metástasis no visibles con la TCc. El 5,6% de los             pacientes con cáncer pulmonar presentó otro cáncer sincrónico al momento del diagnóstico, y el PET/CT es un excelente método             en su detección.
+
+Agradecimientos: Se agradece la encomiable colaboración del Dr. Álvaro Undurraga del Servicio Médico Quirúrgico Respiratorio del Instituto             Nacional del Tórax en la recolección de datos clínicos de pacientes de esa institución.

@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015001100001
+Efecto de las variantes de VKORC1 y CYP2C9 sobre la dosis de anticoagulantes orales en individuos chilenos
+
+ 
+
+Los anticoagulantes orales (ACO) son utilizados en la prevención primaria y                 secundaria de patologías trombóticas y embólicas. En Chile, se utiliza tanto                 acenocumarol como warfarina, dependiendo de la preferencia del centro                     médico1. Actualmente, la prescripción de los ACO se realiza en base a                 la determinación del INR, ajustado a sexo y edad, controlando semanal y luego                 mensualmente hasta alcanzar los niveles requeridos. En el caso de ambos                 anticoagulantes existe una alta variabilidad en la respuesta terapéutica y, en                 consecuencia, en la dosis requerida por cada paciente. Dado que los ACO tienen un                 estrecho intervalo terapéutico y que los efectos adversos por dosis altas o bajas                 son graves, es necesario definir rápidamente la dosis exacta para cada                     paciente2,3.
+
+El efecto de los ACOs se mide utilizando el tiempo de protrombina (TP) y se expresa                 como International Normalized Ratio (INR). El INR se utiliza para                 estandarizar los resultados entre distintas preparaciones de tromboplastina usadas                 para medir el TP4. La dosis de inicio requerida en adultos para lograr un                 INR entre 2 y 3 varía ampliamente (2 a 10 mg de warfarina por día)3. La                 variabilidad en los requerimientos depende de factores como edad, superficie                 corporal, función hepática e interacciones medicamentosas. Además, factores                 genéticos tienen un rol importante en la variabilidad                 inter-individual5.
+
+Los ACO son antagonistas de la enzima vitamina K-epóxido-reductasa (codificada por el                 gen VKORC1), que tiene como función transformar la vitamina K (VK) de su                 estado epóxido a VK reducida5. La VK es cofactor de la enzima                 γ-carboxilasa, que participa en la formación de los factores de la coagulación II,                 VII, IX y X5. El catabolismo de los ACO es mediado por la enzima CYP2C9,                 que cataliza la conversión a metabolitos inactivos de la (S)-warfarina (la forma más                 activa) y de ambos enantiómeros (R/S) del acenocumarol6,7.
+
+Estudios en distintas poblaciones revelan la presencia de variantes genéticas o                 polimorfismos que modifican las dosis requeridas de ACO. Se trata de las variantes                     CYP2C9*2 y *3 y VKORC1 -1639G>A, que se asocian a mayor                 sensibilidad frente a ACOs, menores requerimientos de dosis y mayor riesgo de                 sangrado. Esto ha dado origen a algoritmos que incluyen información clínica y                 genética para predecir las dosis de inicio y mantención, con buenos resultados,                 particularmente en pacientes que requieren dosis extremas3,8,9. Estas                 variantes han sido evaluadas en poblaciones caucásicas, asiáticas y africanas,                 existiendo diferencias en las frecuencias alélicas entre estos grupos. A la fecha,                 no existen publicaciones de análisis de polimorfismos en estos genes en población                 chilena.
+
+En este estudio, se determinó las frecuencias alélicas y genotípicas de las variantes                     CYP2C9*2 y *3 y VKORC1 -1639G>A, y se evaluó su asociación con                 la dosis de ACO requerida para mantener un INR estable (2 a 3) en pacientes                 chilenos.
+
+Pacientes y Métodos
+
+Se enrolaron, previo consentimiento informado, a adultos en tratamiento                     anticoagulante oral (TACO) de Clínica Alemana de Santiago (CAS) y del Programa                     de Control de TACO del Centro Médico San Joaquín (CMSJ) de la Red de Salud UC,                     recibiendo acenocumarol (Neo-Sintrom®) o warfarina (Coumadin®), que llevaban al                     menos 3 meses con INR estable. Los pacientes fueron clasificados en dos grupos:                     aquellos con requerimiento de dosis bajas (acenocumarol ≤ 7 mg/semana o                     warfarina ≤ 22 mg/semana) y aquellos con requerimientos mayores a esas dosis                     (dosis habitual). Se registró edad, sexo, peso, talla, dosis requerida y                     administración de otros fármacos. El estudio fue aprobado por el Comité de Ética                     de cada institución, de acuerdo a los términos de la declaración de                         Helsinki10.
+
+ Genotipificación 
+
+Se obtuvo muestras de sangre periférica y se extrajo ADN por columnas de silicio                     y por el método de Lahiri11. La genotipificación de los pacientes de                     CAS se realizó a través de reacción en cadena de la polimerasa (PCR), seguida de                     digestión mediante enzimas de restricción (PCR-RFLP), descrita                         previamente12,13. Para validar esta metodología se realizó                     secuenciación de estos fragmentos en pacientes heterocigotos y homocigotos para                     cada variante.                          El genotipo de los pacientes del CMSJ se estudió por                     secuenciación y posterior análisis por electroforesis capilar (ABI PRISM 3130,                     Applied Biosystems, Carslbad, CA, EE.UU.) usando partidores descritos    previamente, según protocolo del fabricante12,13.
+
+ Análisis estadístico 
+
+Los promedios de dosis para cada genotipo se compararon mediante la prueba de                     Kruskal-Wallis, con test a posteriori de Dunn. Se utilizó media y desviación                     estándar para el análisis de la edad y dosis requerida. Para cada fármaco, se                     estableció la relación entre dosis y polimorfismos mediante modelo de regresión                     logística con SNPStat14. Se determinó la frecuencia alélica y                     genotípica de cada variante y, posteriormente, se realizó una prueba X2 de                     Pearson para comprobar el equilibrio de Hardy-Weinberg. Para estudiar la                     magnitud de asociación entre variantes y la dosis baja, se calculó una razón de                     probabilidades (Odds Ratio, OR), evaluando diferentes modelos de herencia                     para cada gen y utilizando como criterio de selección el Bayesian Information                         Criterion15. Los análisis estadísticos fueron realizados con                     el programa GraphPad Prism 5.0, GraphPad Software (La Jolla, CA, EE.UU.).
+
+Resultados
+
+Se enrolaron 185 pacientes, 101 de CAS y 84 de CMSJ. Se excluyeron 14 por datos                     incompletos, continuando en el estudio 170 pacientes, de los cuales 96 eran de                     CAS y 74 de CMSJ. La descripción demográfica está en la Tabla                         1.
+
+ 
+
+ Tabla 1. Caracterización demográfica de la población  
+
+
+
+ Efecto de VKORC1 -1639G>A en los requerimientos de ACO 
+
+Las frecuencias alélicas y genotípicas del polimorfismo VKORC1 -1639G>A                     se describen en la Tabla 2. No se encontraron desviaciones del                     equilibrio de Hardy-Weinberg en ninguna de las variantes estudiadas (Tabla 2). El número de pacientes que requerían dosis bajas y                     habituales para cada genotipo de VKORC1 se muestran en la Tabla 3. Al agrupar los pacientes por genotipo, el promedio de dosis de                     acenocumarol fue de 19,4 (GG), 12,5 (GA) y 8,2 mg/semana (AA). Para warfarina,                     las dosis promedio fueron 36,0, 31,8 y 16,9 mg/semana (genotipos GG, GA y AA).                     Las diferencias entre los genotipos fueron estadísticamente significativas tanto                     para acenocumarol (K = 43,83; p < 0,0001), como para warfarina (K = 13,30;                     p = 0,0013). El test de Dunn a posteriori mostró diferencias significativas                     entre todos los grupos para acenocumarol mientras que en el caso de warfarina,                     la diferencia entre las dosis requeridas por los pacientes con genotipos G/G y                     A/A no fue significativa (Figura 1). Utilizando un modelo de                     regresión logística se estudió la asociación entre el tipo de dosis y la                     presencia del alelo A de VKORC1 -1639, los resultados se muestran en la                         Tabla 6.
+
+ 
+
+ Tabla 2. Frecuencia alélica y genotípica de las variantes                                         estudiadas  
+
+ 
+
+ Tabla 3. Dosis requerida para cada genotipo VKORC1  
+
+ 
+
+Figura 1. Genotipo de VKORC1 -1639G>A vs                                     promedio                                          de dosis de acenocumarol; p < 0,0001                                          Kruskal-Wallis                                     (K = 43,83).Test a posteriori de                                          Dunn; ***p < 0,001;                                     **p < 0,01. Barras indican                                          Desviación Estándar (DE).
+
+  
+
+Figura 2. Genotipo de VKORC1 -1639G>A vs                                     promedio                                          de dosis de warfarina; p = 0,0013 Kruskal-Wallis                                     (K = 13,30).                                         Test a posteriori de Dunn; ***p < 0,001;                                     **p < 0,01;                                          ns = no significativo. Barras indican Desviación                                     Estándar (DE).
+
+
+
+ Efecto de CYP2C9 en los requerimientos de anticoagulantes orales 
+
+Las frecuencias alélicas y genotípicas obtenidas para las variantes *2 y *3                     (variantes, var) y la variante nativa (*1 o wild type, wt) del gen                         CYP2C9 se muestran en la Tabla 2. El número de                     pacientes que requieren dosis bajas y habituales para cada genotipo de                         CYP2C9 se muestran en la Tablas 4 y 5. Los promedios de las dosis por genotipos agrupados (wt/wt, wt/var                     y var/var) tanto de acenocumarol (13,5, 13,4 y 9,1 mg/semana) y                     warfarina (31,2, 25,7 y 26,3 mg/semana) no mostraron diferencias significativas                     (K = 1,46; p = 0,48 y K = 1,05; p = 0,59, respectivamente). En el modelo de                     regresión logística no se encontró ninguna asociación entre dosis baja y la                     presencia de la variante CYP2C9*2 o *3 tanto para acenocumarol como para                     warfarina (Tabla 6).
+
+ 
+
+ Tabla 4. Dosis requerida para cada genotipo CYP2C9  
+
+ 
+
+ Tabla 5. Dosis requerida para cada genotipo CYP2C9,                                         agrupando variantes 2* y 3  
+
+ 
+
+ Tabla 6. Análisis de asociación entre la dosis requerida y                                         variantes de los                                          genes VKORC1 y CYP2C9  
+
+
+
+Discusión
+
+Los fármacos anticoagulantes tienen un estrecho índice terapéutico, por lo que es                     difícil estimar la dosis adecuada para mantener un INR en rango                         terapéutico3. La dosis requerida puede variar en forma importante                     entre los distintos pacientes, lo que se explica por distintos factores como:                     edad, sexo, hábitos alimentarios, fármacos concomitantes y comorbilidades, entre                     otros. Sin embargo, la mayor influencia sobre la dosis de ACO es atribuible a                     factores genéticos (40%), a diferencia de otras patologías multifactoriales                     donde estos factores sólo explican 10% de la variación entre                         individuos3,16. Diversos estudios han demostrado que de todos los                     polimorfismos encontrados, los más importantes en cuanto a su asociación con                     dosis son -1639G>A en el gen VKORC1 y CYP2C9*2 y                     *33. 
+
+En estudios en distintas poblaciones, los polimorfismos en los genes VKORC1                     y CY2PC9 tienen mayor implicancia en pacientes con requerimientos                     menores de ACO. Este es el primer estudio farmacogenético de estas variantes en                     pacientes chilenos en tratamiento con ACO. Las frecuencias alélicas y                     genotípicas observadas son propias de nuestra población, con algunas similitudes                     a poblaciones europeas caucásicas y asiáticas sugerentes de una mezcla                         poblacional17,18. Frecuencias alélicas y genotípicas de                         CYP2C9*2 y *3 en población general son bastante similares a las                     observadas en nuestros pacientes19.
+
+De todos los pacientes estudiados, 29 requirieron dosis bajas (17%), lo cual se                     encuentra dentro del porcentaje esperado20. 
+
+Los resultados obtenidos sugieren una asociación entre el genotipo VKORC1                     y la dosis, lo que queda en evidencia al agrupar los pacientes según la                     dosis requerida: la mayoría de los pacientes homocigotos GG requirieron dosis                     habituales y cerca de la mitad de los homocigotos AA requirieron dosis                     bajas.
+
+El OR ajustado, obtenido por análisis de asociación entre dosis y genotipo,                     demuestra una fuerte asociación entre el alelo A en VKORC1 y bajos                     requerimientos de ambos fármacos. 
+
+El tamizaje genético podría ayudar a identificar a los pacientes que requieren                     dosis habituales o que pueden requerir dosis baja.
+
+Al comparar el promedio de dosis requerida de ambos ACOs según los genotipos de                         CYP2C9, no se encontraron diferencias significativas entre los                     grupos. Investigaciones previas en población española encontraron una fuerte                     asociación entre requerimiento de dosis bajas y el alelo *3, mientras que el                     alelo *2 presenta una asociación menor21. Es posible que la baja                     frecuencia de las variantes de CYP2C9 y el insuficiente número de                     pacientes no permitiera determinar esta asociación en este estudio. Sin embargo,                     en el caso del alelo *3, que también presenta una baja frecuencia en la                     población, se encontró una asociación con dosis baja de warfarina (OR: 12,61),                     lo que podría deberse a que el alelo *3 produce una disminución más pronunciada                     sobre la actividad enzimática de CYP2C9 menor a 5% versus alrededor de                     15% para el alelo *2, ambas en comparación con la variante                     WT7,22.
+
+Las proteínas que participan en la cascada de coagulación tienen diferente vida                     media, por lo que, hasta la inhibición completa de estos factores, el paciente                     requiere monitoreo continuo y hospitalización, lo que se traduce en un alto                     costo, tanto para el paciente como para el sistema de salud23.
+
+Hoy en día, se reconoce cada vez más la importancia del estudio farmacogenético                     para establecer la dosis en pacientes en tratamiento anticoagulante, lo que se                     ve reflejado en una modificación en el año 2007 del etiquetado de la warfarina                     por la FDA (U.S. Food and Drug Administration). En el folleto se indica                     que la dosis inicial de 2 a 5 mg diarios debe ser reducida en pacientes en los                     que se conozca la presencia de variantes genéticas de las enzimas CYP2C9                     y VKORC1. Asimismo, en los últimos años se han publicado algoritmos de                     dosis de mantenimiento24,25, que han permitido crear una página                         web que permite a los clínicos monitorizar y estimar la dosis inicial                     y de mantenimiento de sus pacientes en tratamiento con warfarina                     (www.warfarindosing.org). La American Heart Association reconoce la                     existencia de un efecto de VKORC1 y CYP2C9 en la dosis requerida,                     pero no hace recomendaciones al respecto26. Es así como la discusión                     sobre la relación costo-beneficio de estudiar estas variantes en los pacientes                     sigue vigente. En el estudio de Lindner y cols.27, se estableció un                     modelo de análisis de decisión para simular los resultados clínicos y económicos                     del tratamiento con acenocumarol con y sin tamizaje genético de los pacientes,                     dando como resultado un mayor costo monetario, pero menor número de episodios de                     hemorragia al realizar el análisis genético en los pacientes. Con respecto a la                     estabilización de la dosis mediante el uso de estas variantes, Kimmel et                         al.28 demostraron que no existe diferencia con la aproximación                     clínica en un período de 4 semanas. Sin embargo, es en la primera semana de                     tratamiento donde conocer el genotipo del paciente permitiría comenzar con la                     dosis adecuada, interrogante que sigue siendo motivo de estudio y discusión. En                     2010, Epstein et al. determinaron que la genotipificación de warfarina reduce el                     riesgo de sangrado o tromboembolismo en pacientes que inician ACO16.                     A pesar de la gran utilidad que tienen los exámenes genéticos en Chile, aún                     tienen un costo elevado para la población, lo que dificulta su implementación                     práctica. Además, si bien la utilidad es reconocida, existe percepción de                     conocimiento insuficiente entre clínicos en Latinoamérica, lo que constituye una                     barrera para su uso29. Sin embargo, una vez que sean más asequibles y                     en el caso de pacientes donde no haya sido posible encontrar la dosis adecuada                     en las primeras 24 h, la genotipificación sería de utilidad para reducir costos                     al paciente y a los centros de tratamiento, minimizar efectos adversos y                     aumentar la eficacia de los ACO30.
+
+En conclusión, nuestro estudio demuestra que la dosis de mantenimiento tiene una                     fuerte asociación con la variante más frecuente en el gen VKORC1                     (-1639G>A). No encontramos asociación con CYP2C9, lo que podría                     explicarse por su baja frecuencia en la población. Los resultados de este                     estudio representan la base para evaluar la posibilidad de introducir el                     tamizaje genético en pacientes chilenos con tratamiento anticoagulante, de forma                     de asistir a los clínicos en la predicción de la dosis requerida para reducir                     costos al paciente y centros de tratamiento, minimizar efectos adversos y                     aumentar la eficacia.

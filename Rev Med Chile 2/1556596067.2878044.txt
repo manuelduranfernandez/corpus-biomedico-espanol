@@ -1,0 +1,128 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872014000200003
+Evaluando la situación financiera de los hospitales públicos a partir de los costos actualizados de sus prestaciones
+
+ 
+
+El financiamiento de los establecimientos 	    hospitalarios del sector público en Chile está respaldado 	    en un arancel de tal forma que la facturación, 	    resultante de multiplicar los aranceles por el volumen de las prestaciones, 	    debe ser consistente con las transferencias que reciben1. El 	    Fondo Nacional de Salud (FONASA) elabora cada año una propuesta de 	    aranceles que incluye un reajuste al valor de las prestaciones a partir 	    de los inflactores de remuneraciones y de bienes y servicios informados 	    por el Ministerio de Hacienda en el proceso de formulación del presupuesto 	    anual de la Nación. 	    Sin embargo, estos reajustes no necesariamente reflejan las variaciones 	    reales en los costos de los distintos 	    factores productivos utilizados para la provisión de prestaciones 	    de salud, lo cual puede generar brechas entre los costos reales de las 	    prestaciones y el arancel, lo que puede afectar la sustentabilidad financiera 	    del sistema.
+
+El estudio de costos encargado por FONASA el año 20112, surgió de la necesidad de actualizar la información de costos de las prestaciones más relevantes que financia. De esta forma, el estudio tuvo por objeto estimar el costo promedio de un listado de las prestaciones mayoritariamente hospitalarias más relevantes del arancel, que contribuyese a la toma de decisiones en política de precios y financiera del sector público de salud.
+
+El presente trabajo tiene por objetivo evaluar la posición financiera de los hospitales complejos, a partir de los costos de prestaciones obtenidos del estudio mencionado.
+
+Material y Métodos
+
+El estudio de costos de FONASA utilizó un método mixto: uno ascendente, para determinar en terreno los costos directos de la prestación y uno descendente para determinar los costos indirectos que se adicionarían. En algunos casos especiales, como las prestaciones de días cama, dadas sus características particulares, se utilizó también el método descendente para determinar los costos directos e indirectos.
+
+El estudio se realizó en una muestra de 120 prestaciones que tienen un arancel definido en la modalidad de atención institucional (MAI) que fueron seleccionadas por representar cerca de 73,1% del gasto total hospitalario. Todas estas prestaciones se costearon en 16 hospitales públicos seleccionados por conveniencia para representar al conjunto de los hospitales públicos del país. En total, se registraron cerca de 850 casos en formularios de costos (FOCO), los cuales permiten determinar los coeficientes técnicos de intensidad de uso de los factores productivos asociados a cada una de las prestaciones. Este formulario agrupa los factores e insumos en: 1) Mano de obra; 2) Insumos (bienes y servicios de consumo) y 3) Equipamiento (equipos, muebles e instrumental). El trabajo de campo aplicando los FOCO se realizó desde julio de 2011 a marzo de 2012.
+
+Para determinar el efecto que tuvieron los costos calculados sobre la facturación y estimar la desviación que se produjo con relación al arancel existente, se valorizó la actividad a precios del arancel vigente y se comparó con la actividad valorizada con los costos encontrados. Al comparar ambas "facturaciones", se determina su diferencia, que representa el impacto financiero. A su vez, el impacto financiero en cada establecimiento se puede comparar con el impacto promedio del total de la muestra para establecer la desviación.
+
+Lo anterior se basa en el criterio 	    de igualdad teórica entre la forma en que se concreta la transferencia 	    a través de los programas presupuestarios de prestaciones valoradas 	    (PPV) y de prestaciones institucionales (PPI), el gasto3 y la 	    producción valorada. No obstante, 	    hay dos consideraciones a tener en cuenta: 1) Esta identidad puede no 	    ocurrir debido a que puede haber transferencias PPI que no se asocian directamente 	    con la producción como, por ejemplo, pago de bonos por término 	    de conflicto, actividad sin códigos de prestaciones y gastos para 	    más de un período     anual, y 2) FONASA establece una relación clara con la producción     a través de las PPV y mantiene el PPI como un componente fijo que     luego utiliza para ajustar los marcos presupuestarios. Este trabajo asume     esta     igualdad teórica para efectos de comparación, dado que la producción     hospitalaria valorada debiera tender a la igualdad con la transferencia,     es decir, en una mirada retrospectiva, todos los gastos de operación     incurridos debieran poder asociarse a los servicios producidos.
+
+De este modo, la identidad de equilibrio financiero hospitalario que aquí se asume es:
+
+
+
+Donde,
+
+pi, es el valor arancel para la prestación i.
+
+qi, la frecuencia de utilización de la prestación i.
+
+n, la cantidad de prestaciones presentes en el hospital. Por lo tanto,
+
+, es el valor de la producción del hospital
+
+T, la transferencia presupuestaría o ingreso, mediante programas PPV y PPI, y
+
+G, el gasto en PPV y PPI.
+
+De este modo la metodología considera los siguientes pasos:
+
+1) Para cada hospital, se calcula la facturación de las prestaciones relevantes utilizando para ello los precios de la MAI del año 2011 y los volúmenes registrados en el REM 2007;
+
+2) Para cada hospital se calcula la "facturación actualizada", utilizando para ello los costos calculados en el estudio de costos FONASA manteniendo las cantidades del REM 2007 para las prestaciones, y
+
+3) La facturación actualizada es analizada para cada hospital utilizando los precios calculados para el propio hospital y luego utilizando el vector de precios medios obtenidos para el conjunto de la muestra.
+
+Por otra parte, las transferencias 	    para gastos operacionales asociados a beneficiarios institucionales considerados 	    fueron los gastos registrados por los establecimientos durante el año 	    2010, en los subtítulos 21 (Recursos Humanos) y subtítulo 	    22 (Bienes y Servicios de Consumo), descontados los gastos asociados a la 	    generación de ingresos propios productos de prestaciones entregadas 	    a pacientes particulares. Los datos de la facturación, entendida 	    como la suma del valor de multiplicar el arancel de cada prestación 	    por su frecuencia de ocurrencia, son los correspondientes al REM 0 para 	    cada establecimiento también para el año 2010. Estos valores 	    incluyen las compras de servicios realizados a terceros. Los valores 	    se inflactaron con el IPC correspondiente para hacerlos comparables.
+
+Resultados
+
+Comparación facturación MAI versus gastos operacionales
+
+Nuestros resultados (Tabla 1) revelan que, en promedio, la facturación de los hospitales analizados es menor al gasto. La facturación de los establecimientos representó 56,3% de los gastos operacionales en los cuales incurrieron para poder otorgar las prestaciones de salud durante el año 2010. La brecha entre el gasto y la facturación fue 43,7%. Es decir, el gasto medido al multiplicar la actividad por los aranceles vigentes fue casi la mitad de la transferencia para gastos de operación a los hospitales.
+
+ 
+
+
+
+Impacto de nuevos costos en la facturación de los establecimientos
+
+Al comparar la facturación actual con la nueva facturación hipotética obtenida de remplazar los costos del arancel vigente por los obtenidos en el estudio de costos en las 120 prestaciones correspondientes, se determina un aumento de 84% sobre la facturación actual de los establecimientos. Es decir, los nuevos precios aumentan en ese porcentaje la facturación respecto del valor de ella con el arancel vigente. Esta conclusión es coherente con el punto anterior.
+
+En este análisis, un 	    hospital se encontrará en una buena posición si presenta un 	    porcentaje de alza de la facturación, 	    es decir, evaluando los costos nuevos calculados, que tienda a cubrir la 	    brecha de facturación existente, en particular cuando se trata de 	    los precios medios muestrales. Esto es que los costos expliquen la transferencia, 	    con los costos relativos del conjunto de hospitales, que es la forma en 	    que seguramente el asignador de recursos los evaluará, ya que tratará de 	    fijar el costo medio nacional como parámetro cuasi óptimo 	    de evaluación.
+
+A continuación se detalla el costo total y se compara con el arancel MAI, para cada establecimiento hospitalario tipo 1 y 2 de la muestra.
+
+ 
+
+ 
+
+ 
+
+La información de los indicadores (Tablas 2 y 3) permite reconocer 4 grupos de hospitales:
+
+1) Un primer grupo en que la 	    combinación de los indicadores permite afirmar que estos hospitales 	    justifican sus transferencias dado sus costos e incluso sus costos han sido 	    superiores a la transferencia.
+
+El Hospital Dr. Leonardo Guzmán     de Antofagasta presenta un aumento de la facturación de 120% al usar sus costos actualizados y usando el vector de precios promedio del conjunto de la muestra el aumento llega a 97%; factura 56% de sus gastos operacionales y logra cubrir su brecha con creces al ser evaluado con los nuevos costos, llegando a una brecha positiva de 10% con los precios medios.
+
+El Hospital de Puerto Montt muestra una mayor facturación de 87% con sus costos y con un vector de precios medios el aumento es 92%; posee una relación de gasto facturado sobre gasto operacional de 63,8%, brecha que logra superar quedando en 23% por encima al suponer la actualización del arancel.
+
+En el Hospital San Juan de Dios de Curicó, el impacto en la facturación es al alza en 39% con sus propios costos, mientras que con los precios promedios aumenta a 89%; considerando su facturación, este hospital explica 61% de sus gastos operacionales y logra cubrir la brecha de 17% en exceso cuando se evalúa con costos actualizados.
+
+El Hospital Clínico Regional de Valdivia obtiene una mayor facturación de 61% con sus propios costos y con el promedio el impacto esperado se incrementa a 79%; durante el año 2010 facturó 60% de sus gastos operacionales y la brecha es cubierta con sólo 7% de exceso.
+
+Aunque estos 4 establecimientos están en el mismo grupo, hay una diferencia importante entre los dos primeros y los otros dos. Estos últimos, al considerar sus propios costos aún presentan brecha, en cambio los dos primeros quedan siempre por encima de la trasferencia, ello porque son hospitales con vectores de precios propios más altos que la media.
+
+2) El segundo grupo se caracteriza porque el análisis combinado muestra que los hospitales justifican sus transferencias con costos actualizados, quedando una brecha remanente considerablemente menor.
+
+El Hospital San Pablo de Coquimbo tiene un aumento en facturación de 71% usando como precios los costos obtenidos en el establecimiento. Con el vector de precios promedio de la muestra el impacto es similar (68%). Su facturación versus sus gastos operacionales llega a explicar 54,3% del gasto y la brecha se reduce 9% con los costos actualizados del arancel.
+
+En el Hospital Barros Luco Trudeau el impacto en la facturación es 71% con sus propios precios y 87% con los precios promedios de la muestra; durante el año 2010 facturó 56% de sus gastos operacionales y la brecha se cierra con un exceso de 5% suponiendo la actualización del arancel.
+
+El Hospital San Juan de Dios de Santiago tiene un aumento de 51% con los costos del establecimiento y con los precios promedio nacional, el impacto esperado aumenta a 57%; durante el año 2010 facturó 63% de sus gastos operacionales y cubriría su brecha casi por completo con un arancel actualizado.
+
+El Hospital Las Higueras de Talcahuano muestra un impacto en la facturación de 82% con sus propios costos y el aumento con los precios promedio se reduce levemente (79%). Considerando su facturación versus sus gastos operacionales, se llega a explicar 54%. Su brecha queda en sólo 3% cuando se suponen transferencias en base a un arancel actualizado.
+
+3) El tercer grupo lo conforman los dos establecimientos de especialidad que, a pesar de una reducción importante de la brecha de gastos y transferencias, en términos relativos a los otros establecimientos los precios medios de la muestra no representan bien su propia situación, seguramente por las particularidades de la especialidad y por el hecho que haya pocas prestaciones en la muestra.
+
+En el Hospital Dr. Exequiel González Cortés, centro especializado en atención pediátrica, el impacto en la facturación es de 35% de tal modo que llega a disminuir de 54% a 38% su brecha de facturación.
+
+El Instituto Nacional del Cáncer     Dr. Caupolicán Pardo Correa muestra un impacto de incremento de 59% en la facturación. Este instituto posee la menor relación facturación actual/ gasto, con sólo 39%, los precios nuevos reducen la brecha de 61% quedando aún una brecha importante de 36%.
+
+4) En el cuarto grupo, el análisis combinado de indicadores muestra que los establecimientos justifican mejor sus transferencias con sus propios costos que con los precios medios calculados.
+
+El Hospital Dr. Lautaro Navarro Avaria de Punta Arenas muestra una mayor facturación de 76% con sus propios costos, impacto esperado que se reduce a 65% con los precios medios de la muestra; durante el año 2010 solamente facturó 45% de sus gastos operacionales y la brecha se reduce a 26%.
+
+En el Hospital Dr. Gustavo Fricke de Viña del Mar el impacto en la facturación de la aplicación de sus costos estimados llega a 90%, pero si se consideran los costos promedio muestrales el impacto esperado se reduce a 60% reduciendo su brecha de 46% a 14%.
+
+El Hospital del Salvador de Santiago tiene una mayor facturación de 104% con sus propios precios, la cual se reduce a 85% con los precios promedio del estudio dado que sus costos son más altos que los medios; durante el año 2010 solamente facturó 47% de sus gastos operacionales y la brecha es ajustada hasta 13% suponiendo la aplicación de un arancel actualizado.
+
+El Complejo Hospitalario Dr. Sótero del Río tiene una mayor facturación de 29% con sus propios costos. Con los precios promedio este impacto aumenta a 37%. Es el hospital con menor impacto porcentual en su facturación, su brecha se cierra hasta dejarla en sólo 14% cuando se aplican los costos medios nuevos como parte del arancel.
+
+Discusión
+
+Las estimaciones de costos realizadas con la información levantada en los establecimientos muestran que los costos calculados son, en promedio, significativamente más altos que los valores del arancel MAI vigente para el año 2011. Es decir, los hospitales gastan más en su producción que lo que facturan.
+
+El hallazgo es que, bajo la 	    premisa de igualdad teórica entre transferencia, gastos y valor de 	    la producción, los precios estarían subvalorados ya que no 	    cubren 43,7% de la facturación, generándose una brecha entre 	    el gasto y la facturación. 	    Esto demuestra un enorme atraso en el arancel, cuyos precios no logran 	    representar los costos reales dificultando los procesos de evaluación 	    financiera y de aplicación de políticas financieras y de precios. 	    Por ejemplo, al evaluar los déficits (deuda) corrientes es probable 	    que se pueda despejar gran parte de la explicación en este problema.
+
+No obstante lo anterior, las 	    brechas son diferentes entre establecimientos. La estimación del 	    impacto de los costos calculados para cada hospital en la facturación, 	    en todos los casos se traduce en una mayor facturación. En general, 	    al adoptar el vector de precios promedio (y no el de cada establecimiento) 	    el impacto esperado cambia significativamente fijando una posición 	    financiera más clara. Existen 4 grupos de hospitales: uno que estando 	    bien en términos de justificar sus costos estaría gastando 	    incluso por encima de la transferencia; el grupo mayoritario que justifica 	    sus transferencias plenamente con sus propios costos o con los nacionales 	    (porque además influyen significativamente en su determinación); 	    otro grupo que probablemente se justifique por su especialidad y la pequeña 	    participación en la muestra respecto de la gran cantidad de procedimientos 	    que realizan y un cuarto grupo que se anota en mejor posición al 	    considerar sus propios precios, pero no tanto al considerar los promedios.
+
+La explicación de estos cambios en los valores encontrados y en las posiciones de los hospitales debiera buscarse en la complejidad de las acciones y de los establecimientos y en la casuística que los demanda, junto con otras variables relevantes. Cualquier análisis de eficiencia relativa y, aún más, la exploración del mecanismo de transferencia real de recursos hace aconsejable implementar un método corrector que permita capturar dichos aspectos. Una posibilidad es el uso de los Grupos Relacionados por el Diagnóstico (GRD) que permiten estandarizar la casuística hospitalaria, que es la complejidad de la demanda, para poder comparar establecimientos y corregir asignaciones en un contexto de criterios mixtos de asignación de recursos4,5.
+
+Otros aspectos de la demanda también pueden ser importantes en la variabilidad de los resultados, ya que frente a poblaciones grandes se genera una alta utilización, que a su vez se traduce en economías de ámbito que resultan en abaratamientos significativos por la producción de altos volúmenes de prestaciones, sobre todo en imágenes y exámenes simples.
+
+Los factores de oferta, como 	    la cantidad e intensidad de uso de los recursos humanos y el tipo y la antigüedad 	    de la planta, tienen implicancias en los insumos que se utilizan y en las 	    distintas prácticas clínicas y deben ser relevantes en las 	    diferenciales encontradas. Lo mismo ocurre con la cantidad y tipo de tecnología 	    que usan, que también influyen en los insumos.
+
+Finalmente, varios hospitales en que las variaciones respecto del arancel son significativas, se encuentran en una fase de normalización anterior y/o post terremoto y, por lo tanto, es de esperar que tenga costos promedios más altos mientras no alcancen un estado normal de ejecución de sus actividades.
