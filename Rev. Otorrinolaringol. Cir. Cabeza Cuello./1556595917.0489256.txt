@@ -1,0 +1,82 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162017000200005
+Estimación de la incidencia del cáncer de laringe en Chile según la aplicación de un formulario de registro digital
+
+ 
+
+INTRODUCCIÓN
+
+El cáncer es una de las principales causas de morbimortalidad en el mundo, estimándose hoy en día un total de 14 millones de casos nuevos al año con 8,2 millones de muertes según la Agencia Internacional para la Investigación sobre el Cáncer (IARC)1. En relación al carcinoma escamoso de cabeza y cuello, actualmente se estiman aproximadamente 650.000 casos nuevos al año, con una muerte de 300.000 casos anuales2.
+
+El año 2013 la Organización Mundial de la Salud generó un plan de acción global para la prevención y el control de enfermedades no transmisibles cuyos objetivos generales apuntan a reducir en 25% la muerte prematura por cáncer, aumentar el compromiso político de la prevención y control del cáncer, efectuar buenas medidas de seguimiento y control del cáncer y facilitar la formación de amplias redes mundiales, regionales y nacionales de asociados y expertos en el control del cáncer3. Es por esto que nuestros estudios deben orientarse en apoyar y lograr estos objetivos.
+
+Respecto a la estimación de la incidencia del cáncer, existen diversos métodos de registro de cáncer, en cuyo rol se debe realizar un esfuerzo continuo y ordenado para la recolección de datos, realizando esfuerzos activos por el registro de nuevos casos, seguimientos y desenlaces. Es por esto que los principales métodos de registro son los registros poblacionales de cáncer y los registros hospitalarios de cáncer4. En relación a los registros poblacionales, éstos actúan a nivel nacional o regional, estimando incidencia, mortalidad y tendencias, como también evaluando métodos de prevención y detección temprana5. Los registros hospitalarios, en cambio, apuntan a fines administrativos dentro de cada recinto hospitalario, principalmente para evaluar la carga de cáncer en cada hospital, determinar los cánceres más frecuentes que se atienden en ese centro, y sobre todo evaluar la supervivencia de los casos que se realizan tratamiento, de manera de monitorear la efectividad del tratamiento en ese centro. Por este motivo, los registros poblacionales son los que se utilizan para estimar la carga poblacional del cáncer, en término de magnitud de incidencia y mortalidad, entre otras4.
+
+Chile actualmente cuenta con 5 registros poblacionales de cáncer en las regiones de Antofagasta, Los Ríos, Arica y Parinacota, y las provincias de Bío Bío y Concepción, estando los primeros 3 integrados a la IARC6. Gracias a éstos se ha generado el primer informe de registros poblacionales de cáncer en Chile durante el quinquenio de 2003 a 20076.
+
+En oncología de cabeza y cuello, los cánceres mucosos más frecuentes son de cavidad oral y orofaringe, seguido por el de laringe. Respecto al cáncer de laringe, el registro poblacional de cáncer de la región de Los Ríos ha estimado una incidencia ajustada por edad de 1,3 por cada 100.000 habs., siendo de 1,8 por cada 100.00 habs. hombres y de 0,2 por cada 100.000 habs. mujeres6,7. Este valor es el que representa a Chile en la iniciativa GLOBOCAN de la Organización Mundial de la Salud, la cual tiene como fin estimar la incidencia, mortalidad y prevalencia de los principales tipos de cáncer en más de 184 países diferentes y con esto realizar análisis y sugerencias de políticas públicas7.
+
+Esta incidencia estimada por la región de Los Ríos para el cáncer de laringe, que se plantea como la incidencia nacional a la GLOBOCAN, puede no reflejar la realidad nacional, dado que sólo se estiman pacientes nuevos de una región al sur del país, que puede no estar afectada por los mismos factores de riesgo, como el tabaco y el alcohol, como también ser una región sin un gran número de habitantes. Por otro lado, complementado lo anterior, nuestra práctica clínica diaria nos hace sospechar una mayor incidencia de cáncer de laringe que la actualmente estimada. Es por esto que iniciamos nuestra propia estrategia digital de registro de cáncer, para obtener datos que nos permitieran contrastar la estimación de incidencia de cáncer de laringe.
+
+OBJETIVO
+
+Estimar la incidencia del cáncer de laringe en Chile medida mediante un formulario de registro digital en hospitales y clínicas del país que realizan diagnóstico y tratamiento a esta patología entre septiembre de 2015 y septiembre de 2016.
+
+MATERIAL Y MÉTODO
+
+Se realizó un estudio descriptivo prospectivo para el cual se utilizó un formulario de autorregistro digital para ingresar los casos, solicitando fecha de diagnóstico, hospital o clínica donde se realiza el diagnóstico, rut del paciente, sexo y edad como valores obligatorios, y como valores optativos el tipo de cáncer de laringe, etapificación y tratamiento realizado. Este formulario digital consta de 3 plataformas diferentes: la primera mediante un documento enviado vía correo electrónico a la dirección formulariocancerlaringe@gmail.com; la segunda plataforma consiste en una página web (http://www.proyectocancerorl.cl), donde se encuentra el formulario de registro de paciente e información del proyecto; y la tercera plataforma consiste en una aplicación para smartphones llamada «CaLaringeApp». El presente estudio de investigación contó con la aprobación del Comité de Ética de la Facultad de Medicina de la Universidad de Chile (Proy. N°171-2014).
+
+Se distribuyó el formulario en sus distintas plataformas contactando a los servicios de otorrinolaringología de hospitales y clínicas de Chile mediante llamado telefónico o correo electrónico. Se contactó a los socios de la Sociedad Chilena de Otorrinolaringología (SOCHIORL) vía correo electrónico, informando sobre este estudio e invitando a participar. Se designó a un delegado de cada centro (clínica u hospital) como encargado de promover y registrar los casos en su centro. Se propuso en el proyecto resguardar la confidencialidad del volumen de casos por año de cada centro colaborador.
+
+Se incluyeron solo pacientes con diagnóstico de carcinoma escamoso de laringe. Se excluyeron pacientes con diagnóstico o tratamiento de cáncer de laringe realizado previo al año 2015, pacientes con extensión tumoral a laringe (desde otra localización), o metástasis a laringe.
+
+El periodo de registro se dividió en dos etapas. La primera consistió en un plan piloto para evaluar el funcionamiento de las 3 plataformas, comprendido entre enero de 2015 y agosto de 2015. La segunda etapa fue el registro formal de los casos, comprendido entre septiembre de 2015 y septiembre de 2016. Se realizó un análisis con estadística descriptiva de los resultados obtenidos, estimando la incidencia bruta y la ajustada por edad y por sexo.
+
+RESULTADOS
+
+El funcionamiento de las diversas plataformas de registro fue exitoso en el período piloto. Se realizó el registro formal de los casos nuevos entre septiembre de 2015 y septiembre de 2016. Sólo se obtuvieron datos de la ciudad de Santiago. Sin embargo, no se logró obtener datos del Servicio Metropolitano Centro, cuya población designada corresponde a aproximadamente 1 millón de habitantes.
+
+En total, se obtuvo un total de 134 nuevos casos de cáncer de laringe en Santiago, con un promedio de edad de 65 años. De éstos 119 de sexo masculino (89%) y 15 de sexo femenino (11%) (Tabla 1).
+
+ 
+
+Tabla 1. Número de casos según centro
+
+
+
+Número de casos según cada centro de la ciudad de Santiago.
+
+ 
+
+A la población de Santiago, estimada en 7,5 millones de habitantes para el 2015 según el censo de 20128, se le descontó la población correspondiente al servicio metropolitano centro, dando un total de 6,5 millones de habitantes para analizar. La incidencia bruta para esta población fue de 2,13 por cada 100.000 habitantes y la incidencia estandarizada por edad de 2,12 por cada 100.000 habitantes. Al calcular la incidencia bruta por sexo se obtuvo una incidencia en hombres de 3,32 por cada 100.000 habs. y de 0,40 en mujeres. Al estandarizar la incidencia por sexo y edad la incidencia en hombres fue de 4,99 y en mujeres de 0,77 (Tabla 2).
+
+ 
+
+Tabla 2. Incidencias brutas y ajustadas por edad
+
+
+
+Incidencias brutas, por sexo y estandarizadas por edad y sexo en la población de Santiago          para el cáncer de laringe.
+
+ 
+
+DISCUSIÓN
+
+Se ha planteado que la incidencia del cáncer de laringe en países en vías de desarrollo aumentará en los años siguientes dado que existe una diferencia de 40 años en el patrón epidemiológico del consumo de tabaco y sus efectos9. Efectos que han sido demostrados actualmente, evidenciando un riesgo relativo de 1,54 para consumidores de alcohol y de 8,07 para fumadores activos10. Otro estudio menciona que el riesgo atribuible poblacional al consumo de tabaco es de 24%, por lo que métodos de prevención primaria para el consumo de tabaco son fundamentales11. Por este motivo, el registro de estimación de las neoplasias malignas debe ser lo más certero y representativo posible, dado que es la herramienta para potenciar y fortalecer las políticas de salud pública nacionales.
+
+El método digital para registro de cáncer es una herramienta útil ya que abarca un mayor número de centros, es de fácil acceso, puede estar disponible en dispositivos móviles, entrega información al instante, y se puede modificar el formulario de registro fácilmente agregando diversos tipos de cáncer. Sin embargo este método de registro no es exacto, dado que se alude a la participación de un voluntario para registrar pacientes, generando sesgo de información.
+
+Estos datos sugieren que la estimación de incidencia podría llegar a ser bastante mayor que la incidencia estimada según el registro poblacional de Los Ríos. Esto probablemente a que se obtuvieron sólo datos de Santiago, en donde existe una mayor población y una gran derivación de casos desde regiones. También podemos atribuir este resultado debido a que en la metodología de este trabajo se realizó una búsqueda periódica y sistemática de cada caso, dependiente de cada delegado en cada centro. Sin embargo, a pesar de esto, también es posible que existan casos que no fueron registrados, lo que podría hacer que sean más casos aún.
+
+Para que un método de registro sea exitoso, se debe contar una búsqueda activa de cada caso nuevo. Por lo que planteamos que para una segunda etapa de este estudio debemos generar delegados en cada centro de anatomía patológica de los hospitales y clínicas encargados de ingresar cada caso, y un encargado que debe recibir y tabular la información, generando informes actualizados. De esta manera haríamos que el sesgo sea menor y el registro sea más eficiente.
+
+Dentro de las fortalezas del presente estudio, está el ser una iniciativa innovadora, con un registro sistemático y periódico de un problema de gran relevancia para la planificación en salud pública, utilizando diferentes mecanismos de registro y contacto, con la participación e involucramiento de una proporción relevante de la comunidad otorrinolaringológica. Dentro de las debilidades, principalmente se puede considerar que al no verificar el domicilio de los casos, no se sabe con exactitud cuántos casos eran de regiones diferentes a la metropolitana, por lo que podrían existir situaciones de pacientes de la red pública de salud derivados desde otras regiones para recibir tratamiento en un hospital en Santiago (situación que es habitual), así como pacientes que acceden al sistema privado de salud que optar por acudir a un centro privado en Santiago (situación que también es habitual). En cualquier caso, el conocimiento de la práctica en oncología de laringe permite plantear que estos casos, a pesar de existir, representan una proporción menor del total de casos incluidos en este estudio.
+
+Finalmente, no es el objetivo de este artículo fomentar la existencia de registros digitales. Lo ideal sería contar con registros poblacionales que reflejaran la verdadera incidencia y mortalidad de todos los cánceres, de manera tal de poder estimar su verdadero impacto en salud pública, con grandes implicancias asociadas como asignación de recursos, priorización de programas de salud, focalización de profesionales, entre otras cosas. El objetivo de esta investigación fue intentar contrastar la sensación que existe en el mundo académico y clínico respecto a que la incidencia de cáncer laríngeo es mayor que la reportada por los registros poblacionales existentes en nuestro país en la actualidad, y en ese sentido, estos resultados sugieren que es altamente posible que la incidencia sea efectivamente mayor a la que pensábamos. Esto debe ser de la máxima preocupación para los profesionales que trabajan en oncología, así como también para los tomadores de decisión y los gestores de instituciones de salud.
+
+CONCLUSIÓN
+
+En Chile los registros poblacionales de cáncer se encuentran en 5 regiones. Es por esto que la estimación de incidencia y mortalidad pueden no reflejar la realidad nacional. Los resultados del presente estudio sugieren que es altamente posible que la incidencia de cáncer laríngeo sea mayor a la estimada con los registros poblacionales que existen en la actualidad. Es necesario avanzar y discutir la necesidad de crear un registro poblacional nacional, o quizás ampliar los registros poblacionales regionales a otras regiones, incluyendo la región metropolitana, para poder obtener estimaciones más reales de la magnitud del cáncer en nuestro país. Esto es especialmente relevante considerando que Chile, principalmente por su condición geográfica, es un país en el que existen diferentes factores de riesgo dependiendo de la región donde se evalúe. Un punto de partida para proponer estimaciones de incidencia de zonas donde actualmente no hay registros poblacionales de cáncer puede ser la utilización de un formulario digital para el registro de pacientes con diagnóstico de cáncer, herramienta moderna que permite la integración por parte de la comunidad de otorrinolaringólogos. No es costosa y no requiere de un personal altamente especializado. Además, éste puede ser el punto inicial para registrar otros tipos de cáncer en la esfera ORL o inclusive en otras especialidades.
+
+Agradecimientos
+
+Se agradece a los siguiente doctores, delegados de cada centro: Carlos Aravena - Hospital Clínico de la Universidad de Chile; Julio Lara - Hospital del Salvador; Cecilia Sedano - Hospital Barros Luco Trudeau; Macarena Araya - Pontificia Universidad Católica; Luis Cabezas - Clínica las Condes; Andrés Ortega - Clínica las Condes; José Miguel Contreras - Clínica Alemana; Cristian Olavarría - Clínica Santa María; Ingrid Plass - Instituto Nacional del Cáncer; Rodrigo Montes - Instituto Nacional del Cáncer; Carolina Contador - Fundación Arturo López Pérez; Luís Marín - Fundación Arturo López Pérez; César Imarai - Hospital Sótero de Río; Pablo Montero - Hospital Sótero del Río; Paul Boettiger - Clínica Indisa; Marcelo Faraggi - Instituto Chileno de Cabeza y Cuello y Hospital Militar.

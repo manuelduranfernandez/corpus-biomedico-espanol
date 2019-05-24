@@ -1,0 +1,116 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162018000400406
+Momento de inicio de radioterapia posoperatoria como factor pronóstico en pacientes con cáncer de laringe avanzado
+
+INTRODUCCIÓN
+
+El manejo del cáncer laríngeo localmente avanzado (T3-T4a) incluye tres modalidades: cirugía, radioterapia (RT) y quimioterapia (QT). El 30%-50% de estos pacientes requieren laringectomía total y aproximadamente 60% requieren RT coadyuvante1,2. Dentro de las indicaciones de radioterapia posoperatoria según la National Comprehensive Cancer Network (NCCN) se encuentran principalmente los pacientes con cáncer laríngeo pT4a, invasión perineural y/o invasión vascular. Sin embargo, en otras guías se recomienda también en pacientes con estadío pT3, metástasis ganglionar cervical, extensión extracapsular, tumores de alto grado, márgenes quirúrgicos positivos, invasión extralaríngea y extensión subglótica3,4.
+
+Los factores pronósticos que juegan un rol en la recidiva de enfermedad y supervivencia de los pacientes con cáncer laríngeo escamoso operados son el estadío TNM, la localización tumoral, la infiltración faríngea, los márgenes quirúrgicos, la diferenciación histológica, la invasión perineural, presencia de metástasis a distancia, terapia coadyuvante (RT con o sin QT posoperatoria), tiempo de inicio de RT desde la cirugía, dosis total de RT y factores propios del paciente tales como la edad, género, hábito tabáquico, consumo de alcohol (OH), valor de hemoglobina (Hb) previa a RT y las comorbilidades del paciente.
+
+La RT posoperatoria debe iniciarse apenas se encuentre cicatrizado el tejido, generalmente se puede iniciar 3 a 4 semanas desde la cirugía. Si la cicatrización no está completa a las 6 semanas, es seguro comenzarla, ya que en el 66% de los pacientes cicatrizará de forma espontánea durante o terminado el curso de RT5. Existe una fuerte correlación entre el retraso de inicio de RT posoperatoria, y el control locorregional y supervivencia del paciente. La explicación actual se basa en la proliferación acelerada de células tumorales clonogénicas durante el curso o antes de RT. En los pacientes con cáncer laríngeo avanzado (T3-T4) tienen una mayor tasa de recidiva locorregional alcanzando el 80% en pacientes con márgenes quirúrgicos positivos y 40% con márgenes negativos. La RT posoperatoria disminuye la recidiva locorregional a 40% y 11%, respectivamente6.
+
+Ante el retraso en el inicio de la RT posoperatoria, se estima una disminución del control locorregional desde 1%-1,2% por día hasta 12%-14% por semana poscirugía10. En la literatura internacional el momento de inicio de RT posoperatoria que causa un impacto en el control locorregional y supervivencia en los pacientes con cáncer escamoso de laringe es discutido, entre 6 u 8 semanas posoperatorias y sin literatura nacional al respecto. Hay mayor evidencia que respalda que este momento son 6 semanas (la NCCN para pacientes con cáncer escamoso de cabeza y cuello recomienda el inicio de la RT posoperatoria antes de las 6 semanas)2,7,8.
+
+La prolongación del tiempo de espera de RT por sobre 42 días (>6 semanas), disminuye la supervivencia a 5 años desde 76% a 55%, con una disminución progresiva de la supervivencia mientras mayor sea el intervalo de inicio de RT9,10. Estudios demuestran que 55,7% de los pacientes inician la RT en ≤6 semanas poscirugía, 40,9% ≤7 semanas, 29,4% ≤8 semanas y 24% de los pacientes la inician en >8 semanas11.
+
+OBJETIVO
+
+El objetivo del presente estudio es determinar el impacto del retraso de inicio de RT posoperatoria en la supervivencia y recidiva de enfermedad con al menos 3 años de seguimiento en pacientes con diagnóstico de cáncer de laringe escamoso T3 y T4a operados entre los años 2002 y 2014 en los Hospitales Barros Luco Trudeau (HBLT) y San Juan de Dios (HSJD).
+
+MATERIAL Y MÉTODO
+
+Estudio de tipo cohorte retrospectiva. Se recolectaron datos mediante revisión de fichas clínicas de pacientes con diagnóstico de cáncer de laringe escamoso T3 y T4a operados entre los años 2002 y 2014, confirmados en registro de anatomía patológica y registro de estadística del HBLT y HSJD, los cuales realizaron la RT en el Instituto Nacional del Cáncer (INC). Se analizaron los subgrupos de pacientes según el tiempo de inicio de RT posoperatoria ≤ y >6, 7 y 8 semanas según lo descrito en la literatura, incluyendo la mediana de inicio de RT en nuestra cohorte de pacientes, para determinar un punto de corte significativo en la supervivencia y recidiva de enfermedad.
+
+Los criterios de inclusión de este estudio son los pacientes con diagnóstico de cáncer escamoso de laringe estadíos T3 y T4a operados (laringectomía total o laringectomía parcial) en HBLT y HSJD entre los años 2002 y 2014 y que hayan recibido terapia coadyuvante con RT, con o sin QT asociada. Los criterios de exclusión fueron los pacientes que tengan otro tipo histológico, un segundo primario y/o que no cuenten con seguimiento a 3 años. Noventa pacientes cumplieron los criterios de inclusión.
+
+Se realizó una tabulación y análisis de los datos registrados en las fichas clínicas de los pacientes, conteniendo los factores pronósticos de recidiva de enfermedad y supervivencia descritas en la literatura tales como:
+
+–. 
+
+			Dependientes del paciente: Edad, género, hábito tabáquico, consumo OH, valor de Hb previa a RT.
+
+–. 
+
+			Dependientes del tumor: Estadío TNM, localización tumoral, diferenciación tumoral, infiltración faríngea.
+
+–. 
+
+			Dependientes del manejo: Tiempo de inicio de RT, hallazgos en anatomía patológica, márgenes quirúrgicos, dosis total de RT, modalidad de RT, QT.
+
+–. 
+
+			Seguimiento: Paciente está vivo/fallecido (causa), y si está recidivado (con presencia de metástasis a distancia y/o recidiva locorregional)
+
+Para el análisis estadístico se utilizó el software estadístico Stata 15, se realizó un análisis exploratorio de datos, con descripción de variables con medidas de tendencia central y rangos respectivos, según su distribución. Análisis de supervivencia y recidiva de enfermedad mediante el método de Kaplan-Meier y comparación de curvas con prueba de Log-Rank. Además, se estimó un análisis de factores pronósticos mediante una regresión de riesgos proporcionales de Cox. El tamaño muestral calculado, con una potencia de 80% y un error estadístico de 5% es de al menos 90 pacientes.
+
+Consideraciones éticas y declaración de interés
+
+Este estudio no presenta conflictos de interés, financiamiento externo, ni problemas éticos. Cuenta con aprobación del comité de ética.
+
+RESULTADOS
+
+Se recolectaron datos válidos para un total de 90 pacientes, de los cuales 92% (n =83) son hombres y 8% (n =7) mujeres. La edad promedio al diagnóstico es 61 años. 52 pacientes son del HBLT y 38 del HSJD. 86% (n =77) de los pacientes tienen hábito tabáquico exclusivo, 7% hábito tabáquico y OH, y 7% ningún hábito. Con respecto a las comorbilidades 50% de los pacientes presentan comorbilidades, entre las más frecuentes se encuentran hipertensión arterial (HTA), enfermedad pulmonar obstructiva crónica (EPOC), diabetes mellitus tipo 2 (DM2) y asma.
+
+Etapificación - localización
+
+El 65% (n =58) son T4a y 61% (n =55) N0, estando 67% (n =60) de los pacientes en estadío IVA, 31% (n =28) estadío III y 2 pacientes estadío IVB (por presentar cáncer T4a-N3). La localización más frecuente fue transglótico (52%) (refiriéndose a compromiso de glotis, supraglotis y subglotis); la mayoría tenía compromiso de comisura anterior y sin infiltración faríngea (Figura 1).
+
+Figura 1 Distribución según localización del cáncer laríngeo. 
+
+El manejo quirúrgico realizado fue en la mayoría de los pacientes laringectomía total (n =88) solo 2 pacientes se les realizó laringectomía parcial, con realización de vaciamiento cervical (n =83), sin tiroidectomía y sin rotación de colgajo pectoral (n =85). Los hallazgos en anatomía patológica se describen en la Tabla 1.
+
+Table 1 Caracterización anatomopatológica de los tumores laríngeos analizados 
+
+Terapia coadyuvante
+
+Sesenta y seis por ciento (n=59) de los pacientes recibieron RT posoperatoria exclusiva y 34% recibieron RT + QT concomitante. Veinte y un por ciento (n =19) de los pacientes inició la RT posoperatoria en ≤6 semanas y el 79% la iniciaron en >6 semanas. Veinte y nueve por ciento (n =26) inician la RT ≤7 semanas, 36% (n =32) de los pacientes inician la RT ≤8 semanas y 64% (n =58) de los pacientes inician la RT posoperatoria en >8 semanas. La mediana del tiempo de espera entre la cirugía y el inicio de la RT fueron 11 semanas.
+
+Seguimiento
+
+Ochenta y dos por ciento (n =73) no presentaron recidiva locorregional ni a distancia. Trece por ciento (n =12) presentaron solo recidiva locorregional, 3% metástasis a distancia y 2% recidiva locorregional más metástasis a distancia. El 18% (n =16) está fallecido.
+
+Análisis de supervivencia
+
+La supervivencia específica a 5 años en los pacientes que comienzan la RT en ≤6 semanas desde la cirugía es de 33,2% y disminuye a 20% en los pacientes que la comienzan en >6 semanas (log-rank, p =0,20) (Figura 2).
+
+Figura 2 Análisis de supervivencia específica a 5 años de pacientes con inicio de RT posoperatoria ≤ y > de 6 semanas 
+
+Estableciendo el corte en 7 semanas obtuvimos una supervivencia específica a 5 años en los pacientes que la inician en ≤7 semanas del 44,5% versus el 33,2% de aquellos que comienzan la RT después de las 7 semanas (log-rank, p =0.098).
+
+Estableciendo el corte en 8 semanas obtuvimos una supervivencia específica a 5 años en los pacientes que inician la RT en ≤8 semanas del 58,3% versus el 13,2% de aquellos que la comienzan después de las 8 semanas (log-rank, p =0,0005) (Figura 3).
+
+Figura 3 Análisis de supervivencia específica a 5 años de pacientes con inicio de RT posoperatoria ≤ y > de 8 semanas. 
+
+El tiempo de espera en nuestras realidades hospitalarias es de 11 semanas lo que disminuye la supervivencia específica a 5 años desde 22,5% a 0% en aquellos que la comienzan en más de 11 semanas (log-rank, p =0,0001) (Figura 4).
+
+Figura 4 Análisis de supervivencia específica a 5 años de pacientes con inicio de RT posoperatoria ≤ y > de 11 semanas. 
+
+Análisis de recidiva
+
+No hubo pacientes en este estudio con recidivas habiendo iniciado la RT antes de las 6 semanas. Estableciendo el corte en 8 semanas aumenta la recidiva a 5 años de 10% a 50% en aquellos que la inician en más de 8 semanas (log-rank, p =0,047) (Figura 5).
+
+Figura 5 Análisis de recidiva específica a 5 años de pacientes con inicio de RT posoperatoria ≤ y > de 8 semanas. 
+
+Con respecto a los pacientes que inician la RT antes de las 11 semanas tienen una recidiva a 5 años de 74,5% subiendo al 100% en aquellos que la comienzan sobre las 11 semanas (log-rank, p =0,0026) (Figura 6).
+
+Figura 6 Análisis de recidiva específica a 5 años de pacientes con inicio de RT posoperatoria ≤ y > de 11 semanas. 
+
+Factores pronósticos de supervivencia
+
+Los resultados del análisis multivariado mediante regresión de Cox, arrojan que los factores pronósticos estadísticamente significativos de supervivencia en esta cohorte de pacientes fueron la invasión extracapsular linfática (HR: 3,22 [2,11; 4,21]; p =0,001) y el estadio T (HR: 2,18 [1,78; 2,66]; p =0,002).
+
+DISCUSIÓN
+
+El perfil epidemiológico de nuestros pacientes es similar a lo descrito en la literatura internacional. Entre las causas que provocan un retraso en el inicio de la RT posoperatoria se encuentran tanto factores del paciente (presencia de comorbilidades, necesidad de hospitalización prolongada, falla en la red de apoyo), como factores locales de cada centro principalmente la alta demanda, lo que ocasiona retrasos en evaluaciones previas al inicio de RT (como evaluación dental, etc.) y falta de disponibilidad en el mismo centro de RT11.
+
+En el presente estudio los pacientes con cáncer de laringe escamoso T3 y T4a operados que inician RT en más de 6 semanas desde la cirugía, no presentan una diferencia estadísticamente significativa en el pronóstico (supervivencia y recidiva de enfermedad) en comparación con aquellos que la inician en ≤6 semanas, además se observa una menor supervivencia específica a lo descrito en la literatura internacional (76% v/s 33,2%) esto puede deberse al bajo “n” de los pacientes que inician la RT en ≤6 semanas lo cual es parte de nuestras realidades hospitalarias.
+
+El tiempo de espera de inicio de RT que muestra una diferencia estadísticamente significativa en cuanto a supervivencia específica y recidiva de enfermedad en este estudio fueron 8 semanas, disminuyendo la supervivencia específica a 5 años de 58,3% a 13,2% (p =0,0005) en los que inician la RT después de las 8 semanas y aumentando la recidiva de enfermedad a 5 años de 10% a 50% (p =0,047).
+
+En nuestras realidades hospitalarias el tiempo de inicio de RT es de 11 semanas (se condice con estudio nacional reciente del área occidente de la región metropolitana el cual muestra una demora en iniciar la RT posoperatoria de los pacientes con cáncer de cabeza y cuello de 11,5 semanas con un rango entre 8-20 semanas12). Este retraso en iniciar la RT tiene un impacto estadísticamente significativo demostrado en este estudio, disminuyendo la supervivencia específica a 5 años de 22,5% en los cuales la iniciaron en ≤11 semanas a 0% en aquellos que la comienzan sobre las 11 semanas (p =0,0001) y aumentando la recidiva a 5 años de 74,5% al 100% (p =0,0026). Dentro de los factores que juegan un rol en la supervivencia de estos pacientes descritos en la literatura, en este estudio se encontró que la invasión extracapsular linfática (p =0,001) y el estadio T (p =0,002) fueron estadísticamente significativos.
+
+CONCLUSIÓN
+
+Solo el 21% de los pacientes parten la RT en ≤6 semanas en nuestras realidades hospitalarias, menor a lo descrito en la literatura (55,7%). En este estudio no se pudo demostrar una diferencia estadísticamente significativa en el pronóstico entre iniciar antes y después de 6 semanas la RT posoperatoria. El tiempo de inicio desde el cual se observa un impacto estadísticamente significativo en el pronóstico es de 8 semanas, con 64% de nuestros pacientes iniciando la RT en más de 8 semanas.
+
+En el análisis del tiempo de inicio en nuestras realidades hospitalarias el retraso en el tiempo de inicio de RT de 11 semanas tiene impacto en el pronóstico (supervivencia y recidiva de enfermedad) que es estadísticamente significativo. Este estudio puede servir de herramienta para gestionar ante las autoridades de salud una disminución en los tiempos de espera de inicio de RT en los pacientes con cáncer laríngeo avanzado.

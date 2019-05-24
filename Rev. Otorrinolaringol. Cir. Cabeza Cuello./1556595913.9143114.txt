@@ -1,0 +1,110 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162014000300012
+Potenciales evocados auditivos de corteza: Complejo P1-N1-P2 y sus aplicaciones clínicas
+
+ 
+
+INTRODUCCIÓN
+
+En la década de los años 30 Davis observó cambios (variaciones de voltaje) en el registro del electroencefalograma durante la presentación de un estímulo auditivo, denominando a esta respuesta complejo K1. Posteriormente estos cambios fueron conocidos como potenciales evocados auditivos (PEAs)2. Estos representarían la descarga sincrónica de las neuronas en diferentes niveles de la vía auditiva en respuesta a un estímulo acústico3.
+
+Es así como utilizando diferentes PEAs es posible estudiar niveles centrales de la vía auditiva. Para su clasificación existen diversos sistemas, siendo el de latencia, definido como el tiempo transcurrido (milisegundos, ms) desde la presentación del estímulo y la visualización de las respuestas el más utilizado. A partir de esta clasificación es posible agrupar a los PEAs como de latencia temprana (potencial evocado auditivo de tronco cerebral, PEAT), media (Pa, Na, Nb y Pb) y tardía (P1, N1, P2, P3 y potencial de disparidad también denominado mismatch negativity)3.
+
+El PEAT corresponde a un PEAs de latencia temprana, siendo posible observar sus respuestas entre los 5 a 6 ms, se caracteriza generalmente por presentar 5 a 7 peaks identificados mediante números romanos (I-VII)4. Tradicionalmente han presentado gran utilidad clínica como herramienta para la estimación de la audición así como en el topodiagnóstico de lesiones que afectan al sistema auditivo4-6.
+
+Dentro de los PEAs de latencia media es posible encontrar las respuestas Pa, Na, Nb y Pb observándose entre los 12 y 50 ms4. Su utilidad clínica se encuentra relacionada principalmente con el estudio de las funciones auditivas centrales y como herramienta de neurodiagnóstico permitiendo la evaluación de estructuras dentro del sistema auditivo central (SNAC) como tálamo y corteza7.
+
+En el caso de los PEAs de latencia tardía éstos se observan entre los 50 a 500 ms. Dentro de los más estudiados están las respuestas: P1, N1, P2 y P3 (P300 por su latencia) y potencial de disparidad4,8. Este último ha sido de utilidad en el estudio objetivo de la discriminación auditiva de tonos y fonemas en diversas poblaciones como en autismo, usuarios de implante coclear, así como índice para el pronóstico de recuperación en pacientes en coma8. En el caso de P3 esta respuesta se caracteriza por ser dependiente de la atención del sujeto para su evocación, su utilidad clínica estaría asociada al estudio de la función auditiva en sujetos con alteraciones cognitivas (ej. demencia) y en enfermedades neurodegenerativas como Alzheimer9.
+
+Otro tipo de PEAs que merecen mención a pesar de no encontrarse dentro de la clasificación previamente señalada, son aquellos en que las respuestas auditivas son evocadas por estímulos modulados en amplitud y/o frecuencia10,11, siendo éstos conocidos como potenciales evocados de estado estable. Su principal ventaja radica en su utilidad para la estimación frecuencial de la sensibilidad auditiva, observándose buena correlación con los umbrales conductuales especialmente en sujetos con hi-poacusia12.
+
+La presente revisión entregará una visión general sobre las principales características y utilidad clínica de lo que se conoce como complejo P1-N1-P2, siendo considerados como los componentes iniciales de los PEAs de latencia tardía.
+
+POTENCIALES EVOCADOS AUDITIVOS DE CORTEZA (PEACS)
+
+Los potenciales auditivos "obligatorios" de corteza (P1-N1-P2) se observan entre los 50 y 300 ms. Esta respuesta es considerada obligatoria ya que se encuentra determinada por las características físicas y temporales del estímulo que la evoca (potencial exógeno). Este complejo se caracteriza en adultos por presentar tres componentes: P1 (peak positivo alrededor de los 50 ms), N1 (peak negativo alrededor de 100 ms) y P2 (peak positivo entre los 150-200 ms)7, ver Figura 1.
+
+ 
+
+
+
+Figura 1. Complejo P1-N1-P2 (Cz) evocado por dos estímulos del habla (/di/ y /ti/)        en un adulto con audición dentro de rangos de normalidad.
+
+ 
+
+En relación a los posibles generadores de sus componentes éstos se encontrarían dentro de la corteza auditiva primaria y secundaria junto con contribución de otras áreas dentro de la corteza13, ver Tabla 1.
+
+ 
+
+Tabla 1. Generadores anatómicos de los diferentes componentes del complejo        P1-N1-P2 de los PEACs
+
+
+
+ 
+
+Características generales
+
+Dentro de las respuestas P1 presenta la amplitud más pequeña en la mayoría de las edades sin embargo en recién nacidos e infantes presenta una amplitud mayor13, a su vez se considera la más variable dentro de los componentes PEACs7. Esta respuesta se ve afectada por la maduración (edad), presentando cambios en su latencia de 250 ms en niños pequeños a 100 ms a los cinco años de edad. Lo anterior hace que P1 pueda ser utilizado como biomarcador de la maduración del sistema auditivo así como de los efectos que tendría la deprivación auditiva en recién nacidos7,13,14. N1 en adultos presenta generalmente una amplitud variable dependiendo de las características del estímulo y parámetros de medición, sin embargo en el caso de niños pequeños esta respuesta se encuentra ausente probablemente debido a la inmadurez de su generador13,15.
+
+Similar a N1, P2 puede presentar en adultos una amplitud variable, estando frecuentemente ausente en niños pequeños. Presenta una velocidad mayor de maduración que los otros componentes de los PEACs alcanzando parámetros característicos de adultos ya a los dos años de edad16. Esta respuesta también se ve afectada por las condiciones del estímulo, estado y edad del sujeto así como existiría una modulación de las respuestas de P2 por parte de la percepción emocional visual y auditiva (ej. música)16.
+
+Si bien es cierto el complejo P1-N1-P2 es clasificado como un potencial exógeno, esta clasificación no es del todo correcta ya que no considera que algunos de sus componentes pueden ser modulados por la atención del sujeto incluso ser modificados por el entrenamiento, como lo son el caso de N1 y P2 donde su amplitud se ve afectada (aumentada) cuando el sujeto dirige su atención hacia el estímulo, del mismo modo el sueño produce cambios complejos en estas respuestas siendo éstos variables dependiendo de la etapa en la cual éstos son medidos13.
+
+Debido a que los PEACs pueden ser obtenidos utilizando diferentes parámetros de medición como diversos tipos de estímulos, intensidades, tasa, duración y número de estímulos, es importante considerar estos factores para una correcta interpretación de los resultados7,13,17. Ver Tabla 2, ejemplo de protocolo de evaluación para la obtención de PEACs en niños y adultos a nivel supraumbral utilizando tonos sugeridos por Hyde (1997)15.
+
+ 
+
+Tabla 2. Parámetros generales de medición de PEACs (complejo P1-N1-P2) a nivel        supraumbral en niños y adultos
+
+
+
+ 
+
+APLICACIONES CLÍNICAS
+
+Entrenamiento auditivo
+
+El complejo P1-N1-P2 ha demostrado ser una herramienta útil en la evaluación y seguimiento de procesos que involucran un entrenamiento auditivo, ya que reflejaría los cambios en la plasticidad auditiva (plasticidad funcional)4,13,18. Es así como en sujetos con audición normal se ha reportado (utilizando un estímulo del habla) un aumento en la amplitud P1-N1-P2 después de un periodo de entrenamiento auditivo para la discriminación entre sílabas de diferente tiempo de inicio de sonoridad (variación de -50 a +50 ms)19, teniendo esto relación con el mejoramiento de las habilidades para su percepción20, sin embargo no todos los estudios utilizando P1-N1-P2 han logrado establecer una relación directa entre la percepción y cambios electrofisiológicos observados en los PEACs19, esto probablemente estaría relacionado con cambios inducidos por el entrenamiento en ambos niveles (electrofisiológicos y conductual) ocurrirían en diferentes periodos de tiempo. A pesar de esto los PEACs serían lo suficientemente sensibles para detectar los cambios en los circuitos neuronales (aumento en la sincronía neuronal y de las conexiones neuronales en la vía auditiva) producidos por un entrenamiento auditivo sin deberse solamente a efectos del estado del sujeto o de su atención durante la evaluación19,20.
+
+Estimación del umbral auditivo
+
+El complejo P1-N1-P2 puede ser útil en la estimación de la sensibilidad auditiva. A diferencia del PEAT, para su evocación los PEACs no dependen de un alto grado de sincronía neuronal, por lo tanto no es imprescindible la utilización de estímulos transientes pudiendo emplearse tonos de mayor duración (ej. tono burst), lo que permitiría una estimación frecuencial del umbral audi-tivo13,21. La relación del umbral electrofisiológico (complejo P1-N1-P2) y los umbrales conductuales se encontrarían dentro del rango de 5 a 10 dB logrando una mayor precisión en la estimación (individual) del umbral auditivo en comparación al PEAT22, esta correlación se observaría incluso para las respuestas en las frecuencias graves (umbral 500 Hz) no existiendo una degradación en su morfología13. Sin embargo, algunos estudios señalan la variabilidad de la respuesta de PEACs debido al estado de vigilia del sujeto lo que podría afectar a las respuestas observadas7. Sólo el permanecer despierto y alerta durante la prueba sería suficiente para utilizar esta técnica en adultos, como lo podría ser con fines médicos legales21.
+
+Dentro de las ventajas de la utilización de los PEACs para la estimación del umbral auditivo se encuentra el menor tiempo de evaluación, esto probablemente relacionado con mayores amplitudes de sus respuestas por lo que su identificación resulta más fácil en comparación al PEAT especialmente a nivel umbral13. Sin embargo a pesar de sus ventajas los PEACs no son adecuados para la estimación de la audición en los lactantes ya que la maduración de las estructuras generadoras es más tardía a diferencia del PEAT7.
+
+Evaluación de la amplificación y procesamiento auditivo
+
+Con la implementación de los programas de detección temprana de hipoacusia ha crecido la necesidad de contar con métodos confiables y objetivos de evaluación y verificación de la amplificación, especialmente en caso de infantes donde el uso de técnicas conductuales convencionales es limitado. Debido a que los PEACs pueden ser evocados mediante la utilización de estímulos complejos, tales como sonidos del habla (ej. sílabas), serían de utilidad para la evaluación objetiva de la percepción (detección) del espectro del habla a nivel de la corteza en condiciones de amplificación y sin amplificación (ej. con/sin audífono)13,17,23.
+
+Es frecuente que la determinación de una correcta detección del habla y su discriminación dependa de los umbrales auditivos, sin embargo, éstos no siempre se encuentran disponibles, especialmente en infantes que presentan una hipoacusia severa o profunda. Es importante recordar que aunque existan disponibles los umbrales auditivos, la intensidad (nivel de sensación sonora) necesaria para la detección y discriminación del habla suele no poder determinarse adecuadamente23.
+
+Se ha reportado en sujetos que presentan hipoacusia en donde los PEACs a nivel subumbral no son identificables (sin amplificación) algunos de sus componentes se hacen presentes en la condición amplificada13. Por lo tanto, el uso de amplificación (ej. audífonos) mejoraría la detectabilidad de los PEACs reflejándose como un aumento de su amplitud, disminución de la latencia y mejora en la morfología de la respuesta, esto observado en sujetos que presentan hipoacusia sensorioneural24, ver Figura 2.
+
+ 
+
+
+
+Figura 2. Registro de PEACs (P1) en condiciones de amplificación en un infante con una        hipoacusia moderada a severa para el estímulo /gae/ en tres niveles crecientes de ganancia        (25 dB, 30 dB y 40 dB, valor promedio para las frecuencias de 1.700, 2.300 y 3.500 Hz).
+
+ 
+
+Por otro lado se ha observado que existiría una relación significativa entre los PEACs (detección de respuesta) y las medidas funcionales del desempeño oral y de habilidades auditivas (puntaje) en niños usuarios de audífonos. Esto sería relevante en el proceso de (re)habilitación de pacientes pediátricos como herramienta de monitorización y seguimiento7.
+
+A pesar de presentar una potencial utilidad en la verificación de la amplificación, el uso de los PEACs con este propósito presenta algunos problemas aún por resolver. Es importante recordar que un audífono inevitablemente cambia las características físicas del estímulo entrante (amplificación del estímulo y ruido) lo cual pudiese tener un efecto en las respuestas del PEACs por lo que se debe considerar en la interpretación de los re-sultados7. Existen múltiples estudios en donde no se ha podido observar cambios en las respuestas del PEACs (nivel supraumbral) en las condiciones de amplificación y no amplificación25, esto podría estar relacionado por dos factores; relación señal ruido (S/R) y características en el tiempo de inicio del estímulo (onset). La S/R jugaría un papel relevante al momento de evaluar la amplificación utilizando PEACs (recordar que el audífono amplifica tanto la señal como el ruido ambiental), reportes han demostrado que en casos en donde no existe diferencia entre ambas condiciones (amplificada vs no amplificada) la S/R sería similar, por lo tanto las respuestas del PEACs serían más sensibles a los valores de S/R más que a los valores de absolutos de la señal25.
+
+El segundo factor se refiere a las características de inicio del estímulo las cuales afectan a la morfología de los PEACs. Los audífonos son capaces de modificar tales características siendo estas modificaciones no comunes entre los distintos dispositivos, niveles o tipos de señales. Por lo tanto aún es necesario mayor investigación en esta área con el fin de establecer cuáles propiedades del estímulo modificado por el audífono afectan a los PEACs25.
+
+Otro punto relevante se refiere a que la ausencia de PEACs determinada a través de inspección visual por métodos automáticos no implica necesariamente la no detectabilidad del estímulo a nivel de corteza por parte de un sujeto. Factores como ruido biológico y estado del sujeto pudiesen influir en la detección de la respuesta26.
+
+En el caso del estudio del procesamiento auditivo se ha observado su utilidad en la evaluación de la percepción del habla en ruido de fondo. Clínicamente, una de las características de las pruebas conductuales que evalúan esta función es la variabilidad en el desempeño de los individuos. En la actualidad existe evidencia que señala que existiría una correlación significativa entre las pruebas conductuales (señal/ruido en la cual 50% del estímulo verbal es reconocido) y latencia/amplitud de N1, por lo tanto las respuestas electrofisiológicas presentarían un valor predictivo de esta habilidad auditiva, esto observado en sujetos con audición dentro de rangos normales. Sin embargo aún no se ha establecido cuál sería la relación (conductual/electrofisiológica) en sujetos que presentan dificultad para la percepción del habla en ruido, por ejemplo aquellos con pérdida auditiva27.
+
+Implantes cocleares (IC) y plasticidad auditiva
+
+Los PEACs pueden ser registrados en usuarios de IC utilizando estímulos del habla para su evocación (ej. sílabas)14. Es así como se ha observado la ausencia o pobre respuestas de PEACs en usuarios de IC en donde el reconocimiento del habla en pruebas de formato abierto se encuentra ausente. En tanto usuarios que presentan PEACs también presentan un mejor reconocimiento del habla en las mismas pruebas. Por lo tanto, métodos electrofisiológicos como los PEACs ayudarían a evaluar los elementos de sincronía para la codificación neural de una señal acústica como lo podría ser el habla28.
+
+Por otro lado PEACs han demostrado diferencias en la maduración del SNAC en niños que presentan un desorden del espectro de neuropatía auditiva (DENA)29. Se ha observado en esta población patrones específicos de respuesta en los PEACs (morfología, latencia y amplitud de P1) evocados por un estímulo del habla (/ba/) siendo la latencia de P1 un predictor del desempeño conductual de éstos (ej. escala de integración auditiva significativa para infantes y niños, IT-MAIS por su sigla en inglés)30.
+
+Los PEACs presentarían un papel importante en el seguimiento de los cambios de maduración, en especial en casos de amplificación como lo podría ser un IC. Actualmente diversos estudios han demostrado que P1 es sensible en la detección de cambios a nivel de la corteza auditiva en usuarios de IC, esto siendo de gran utilidad para establecer cómo la restauración de la estimulación auditiva influye en el desarrollo del SNAC7,21. Parámetros como la latencia de P1 disminuye después de un corto período de tiempo de estimulación con el IC, esto si el paciente es implantado en las primeras etapas de la vida (<3,5 años)14,31.
+
+COMENTARIOS FINALES
+
+Los PEACs prometen ser una valiosa técnica de apoyo para el diagnóstico y tratamiento audiológico. Sin embargo, es importante considerar que éstos por sí solos nos constituyen una herramienta única de evaluación, sino que deben ser considerados un elemento más dentro de la batería de pruebas que pueden ser utilizadas en clínica (cross-check). En la actualidad aún existen diferentes aspectos que deben estudiarse en profundidad antes de incorporar su uso rutinario, tal es el caso de su aplicación en la evaluación de la amplificación, esto debido a la variabilidad de las características técnicas (ej. sistema de compresión, ganancia, etc.) de los sistemas de amplificación existentes, características cuales tendrían un efecto no del todo conocido sobre las respuestas de los PEACs. A pesar de esto ayudarían a proporcionar información valiosa sobre la función auditiva (especialmente a nivel central), valoración de la amplificación y seguimiento en pacientes en donde la información entregada por métodos de evaluación tradicionales es limitada como lo podría ser el caso de infantes y niños pequeños.

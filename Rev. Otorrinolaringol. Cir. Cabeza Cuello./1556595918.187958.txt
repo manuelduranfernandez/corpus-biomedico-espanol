@@ -1,0 +1,136 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162017000400474
+Aplicaciones clínicas del análisis acústico de la voz
+
+INTRODUCCIÓN
+
+El análisis acústico de la voz es una herramienta objetiva y no invasiva de exploración vocal, que emplea el registro y análisis de la señal acústica obtenida a partir de una tarea vocal. Se utiliza como complemento del diagnóstico de voz, para seguimiento ambulatorio, como mecanismo de retroalimentación visual y auditivo, para determinar la efectividad de las técnicas de rehabilitación aplicadas y para la obtención de datos objetivos con fines investigativos1–6. Su aplicación es sencilla, ya que sólo requiere del seguimiento de órdenes simples por parte del sujeto evaluado. Además, los recursos necesarios para realizarlo son asequibles2,5.
+
+Para obtener el registro de la voz, se debe captar la señal acústica de una vocal sostenida, habla encadenada o voz cantada, utilizando un micrófono profesional ubicado a una distancia entre 5 y 20 centímetros de la boca del paciente y con un ángulo de 30° a 45°. Sus características técnicas, varían de acuerdo a la necesidad personal del evaluador7–9. La señal captada con el micrófono debe ser preamplificada y digitalizada utilizando una interfaz de audio conectada al computador, el que debe disponer de una tarjeta de sonido que soporte resoluciones de 16 bits y frecuencias de muestreo de 44.100 Hz2,7. Para el tratamiento de la señal, se necesita de programas específicos que grafiquen la información acústica y entreguen sus respectivos resultados numéricos. Actualmente, existe una amplia gama de programas dedicados a esto, podemos encontrar tanto opciones gratuitas como de pago. A pesar de que la mayoría de los programas de análisis acústico son compatibles con Windows, podemos encontrar diversas alternativas para computadores con sistemas operativos GNU/Linux, Mac u otras distribuciones6. Una desventaja derivada de la gran variedad de programas que existen, es que cada uno utiliza diferentes algoritmos para obtener las mismas mediciones, lo cual obstaculiza la estandarización de los datos acústicos obtenidos5,8.
+
+Con respecto al proceso de grabación, es importante cautelar que el lugar donde se realiza la grabación esté libre de ruido ambiental y de ruido electromagnético originado por las señales telefónicas, por ruidos de equipos eléctricos o electrónicos y por el cableado propio del lugar1. Otro aspecto a considerar, es que la emisión vocal de un mismo paciente puede ser distinta de un momento a otro, pudiendo obtener diferencias significativas incluso con dos registros consecutivos1,2. Esta variación es aceptable considerando la inestabilidad natural de la voz humana, lo importante es que la tasa de cambio se mantenga dentro de ciertos límites para ser confiable10.
+
+A pesar de la significancia del uso del análisis acústico como un elemento sofisticado de evaluación de la voz, no debemos olvidar que los datos obtenidos a través de este medio deben ser cotejados e interpretados considerando los resultados de otras evaluaciones como la aerodinámica, perceptual, endoscópica y con los antecedentes anamnésicos. Ningún sistema actual tiene capacidad suficiente como para reemplazar al oído humano bien entrenado1,2,8.
+
+A continuación, se presentarán los métodos de graficación más utilizados en el estudio acústico de la voz humana.
+
+I. OSCILOGRAMA
+
+También llamado forma de onda o waveform (Figura 1), corresponde a la representación de la amplitud de la señal vocal expresada en pascales (eje vertical) en función del tiempo expresado en segundos (eje horizontal)11–14. Es la visualización directa del sonido grabado con el micrófono12. Este gráfico permite determinar las variaciones fonéticas y los silencios propios del habla12,14.
+
+Figura 1 Oscilograma de una vocal. 
+
+Además, el oscilograma es útil en la identificación de características vocales como la estabilidad de la emisión12,15, inicio vocal (ataque vocal)12, voice onset time (VOT)6,12 y el final de la emisión (filatura o liberación). El estudio del inicio vocal es poco confiable, ya que cuando la onda está comprimida, puede dar un falso positivo de inicio vocal duro16. Otros aspectos visibles en este gráfico son la duración total de la muestra, la amplitud del sonido y la frecuencia de la voz, éste último parámetro se calcula por medio del conteo de la cantidad de ciclos presentes en 1 segundo, o bien obteniendo el periodo de la vibración de los pliegues vocales12,15.
+
+El uso del oscilograma como método de análisis de voz, es completamente prescindible, ya que la mayoría de los fenómenos acústicos que se estudian en la clínica vocal son más sencillos de obtener e interpretar a partir de otros gráficos e índices exceptuando la medición del voice onset time, que sólo se puede calcular con el oscilograma12.
+
+II. ESPECTRO FFT
+
+Corresponde a una visualización alternativa de la onda sonora, por medio de la aplicación del algoritmo de trasformada rápida de Fourier (FFT), que descompone la señal compleja en cada una de sus frecuencias parciales1,9,13. El espectro FFT o power spectrum es la representación de la amplitud de los armónicos expresado en decibeles (eje vertical) en función de su frecuencia expresada en herzios (eje horizontal)1,13. El gráfico, permite una visión estática del número y la paridad de los armónicos del perfil espectral1, además del número y posición de las zonas del espectro enfatizadas por la resonancia y desenfatizadas por la antirresonancia (Figura 2)13.
+
+Figura 2 Espectro FFT. 
+
+A modo general, en el espectro de la señal glotal (sin influencia formántica), el primer armónico (F0), es el de mayor amplitud, por tanto el más audible, y cada parcial subsiguiente disminuye su amplitud progresivamente en 12 dB por cada octava aumentada1,17,18.
+
+El espectro FFT permite valorar diferencias en la calidad vocal19–21, y en el modo de fonación22. Tiene correlación directa con los parámetros perceptuales8 y es un recurso usado para estudiar la presencia de subarmónicos21, soplosidad y tensión en la fonación8,19.
+
+III. SONOGRAMA
+
+También llamado espectrograma, es la representación más completa de cualquier tipo de vibración, ya que es posible observar los armónicos, los formantes, y el ruido de la señal (Figura 3) todo en un mismo gráfico en forma nítida, sin ayuda de ninguna base de datos extra para su interpretación1,18. El sonograma, muestra la evolución temporal de la caracterización espectral en forma bidimensional13. El plano de proyección es el de frecuencia expresada en herzios (eje vertical), el tiempo medido en segundos (eje horizontal)13,18 y la amplitud es representada por la densidad del trazado (eje lateral)1,23.
+
+Figura 3 Sonograma de banda estrecha (45 Hz / 30 ms). 
+
+Algunos programas de análisis acústico, permiten variar a elección la paleta de colores usada en la representación del sonograma. Usualmente la escala de grises es la gama de color predeterminada. Lo importante, es utilizar aquellos colores que faciliten la distinción de las características importantes del trazado y minimicen la tasa de pérdida de información1,7.
+
+Existen dos tipos de sonogramas: de banda estrecha (45 Hz y 30 ms) y de banda ancha (300 Hz y 5 ms), en función del ancho de banda del filtro que se utilice al realizar el análisis frecuencial. El primero (Figura 3), provee una mejor resolución frecuencial con estimaciones espectrales más precisas, condición favorable para el estudio del F0, los armónicos y la valoración de la disfonía, mientras que el segundo (Figura 4) permite una mejor resolución temporal de los fenómenos del habla y los formantes13,23,24.
+
+Figura 4 Sonograma de banda ancha (300 Hz / 5 ms). 
+
+El estudio del sonograma de banda estrecha, es el más significativo de ambos, y puede correlacionarse directamente con las mediciones de la evaluación perceptual8,25. Permiten la observación de subarmónicos21, inicio vocal15, características del vibrato24, nasalidad26,27, diplofonía, temblor, inestabilidad, aperioricidad, turbulencias18, ruido añadido a la voz, la existencia de segmentos áfonos, características del tono y la regularidad de la emisión1.
+
+ESCALA DE YANAGIHARA
+
+De acuerdo a Yanagihara, la severidad de la ronquera o disfonía puede clasificarse en cuatro tipos, considerando ciertas características visuales del espectrograma de banda estrecha1,8,28.
+
+TIPO I: existe una mezcla sutil entre los componentes armónicos de las vocales y los componentes de ruido1,8.
+
+TIPO II: los componentes de ruido en el segundo formante de /e/-/i/ predominan sobre los componentes armónicos y aparece ruido adicional en altas frecuencias (alrededor de los 3000 Hz)1,8.
+
+TIPO III: el segundo formante de /e/-/i/ es reemplazado por ruido. Aumenta el componente de ruido alrededor de los 3000 Hz1,8.
+
+TIPO IV: Presencia de ruido desde el segundo formante de /a/-/e/-/i/, hasta las frecuencias altas. Incluso el primer formante de todas las vocales podría perder sus componentes armónicos siendo reemplazados por componentes de ruido1,8.
+
+CLASIFICACIÓN SEGÚN LA NCVS
+
+Algunos índices como jitter, shimmer y HNR, necesitan de cierto grado de perioricidad de la señal para poder ser aplicados8. Por consiguiente, la NCVS establece que la evaluación de voz patológica debe comenzar con una espectrografía para clasificarla y determinar las mediciones posteriores7. La NCVS describe 3 tipos:
+
+TIPO I: Voz normal o con disfonía leve, con vibraciones casi periódicas y clara estructura de armónicos. En caso de existir subarmónicos, sus amplitudes son menores a la de la frecuencia fundamental. Puede aplicarse índices de perturbación y ruido, espectrografía y análisis perceptual7–9,21.
+
+TIPO II: Voces patológicas con modulaciones y subarmónicos, cuya amplitud es cercana a la de la frecuencia fundamental; se percibe diplofonía. Solamente permite espectrografía y análisis perceptual7–9,21.
+
+TIPO III: Voces caóticas y aleatorias, sin estructura periódica armónica. Sólo admite métodos subjetivos como análisis perceptual7–9,21.
+
+IV. CÓDIGO POR PREDICCIÓN LINEAL (LPC)
+
+El código por predicción lineal o LPC, se obtiene a partir del espectro. Entrega información de la resonancia utilizando cálculos basados en la aproximación o predicción de las muestras de voz1,13,24. Está representada la frecuencia en herzios (eje horizontal) y la amplitud en decibeles (eje vertical) de cada pico espectral (Figura 5).
+
+Figura 5 LPC de una vocal. 
+
+Se pueden obtener mediciones estáticas del LPC (LPC slice) o dinámicas (historia formántica)15.
+
+El trazado del LPC será diferente en cada fonema, debido a las características tímbricas distintivas de cada sonido1,14,17,24,29.
+
+Los dos primeros formantes (F1 y F2), permiten la discriminación e identificación de los sonidos continuos del lenguaje, como las vocales y algunas consonantes14,29,33. En cambio, los formantes más altos (F3, F4 y F5) determinan el timbre de la voz32.
+
+El formante en sí, no constituye una frecuencia única, sino un conjunto de frecuencias con un ancho de banda específico. Ambos valores pueden ser medidos con fines terapéuticos e investigativos15,30 y varían de acuerdo con las modificaciones del tracto vocal y por factores intrínsecos de cada persona1,24,29,31,32. Desde un punto de vista perceptual, es más correcto interpretar un espectro LPC, ya que el oído es incapaz de distinguir más de 6 o 7 frecuencias simultáneamente9,24.
+
+El LPC puede superponerse con el gráfico del espectro FFT, si se observa una buena coincidencia entre el trazado de los parciales y del LPC, se considerará como un máximo aprovechamiento de energía. Otra forma de medirlo es calculando el valor de los anchos de banda de los formantes. A mayor aprovechamiento de energía, menor valor del ancho de banda de los formantes y viceversa24,36.
+
+Otro aspecto visible en el LPC es el formante del cantante, también conocido como singing formant o ring voice, caracterizado por un refuerzo de energía entre los 2400 y los 3800 Hz, dado por el efecto cluster de los formantes F3, F4 y F532–35,37. También se halla en actores y hablantes de género masculino con entrenamiento vocal37–40. Además de lo anterior, el LPC es un indicador efectivo en el estudio de la nasalización26,27 y para el análisis de la posición laríngea15.
+
+V. ESPECTRO PROMEDIO A LARGO PLAZO (LTAS)
+
+El LTAS (long term average spectrum) o LTASS (Long term average speech spectrum)41, es la representación del promedio de varios espectros sucesivos de la señal acústica, que utiliza ventanas cortas de 100 milisegundos41. Entrega información de la distribución frecuencial de la energía sonora43,44. Está representado el nivel de presión sonora en decibeles (eje vertical), y la frecuencia en Herzios (eje horizontal) (Figura 6)11,42,45.
+
+Figura 6 LTAS de un texto. 
+
+LTAS funciona mejor en emisiones largas, por lo que se recomienda tomar muestras de duración extensa: entre 20 segundos y 1 minuto39,44,46 para lograr mayor estabilidad de la voz. Puede aplicarse tanto en muestras de habla espontánea, lectura o canto41,42,47,48 y no se ve influenciado por parámetros de habla, acentuación, articulación o pausas39,45,48. Además, tiene la ventaja de no requerir una señal vocal periódica o cuasiperiódica para ser confiable49. Sin embargo, se afecta por variaciones en la sonoridad, aspecto inconveniente al momento de cotejar avances terapéuticos42.
+
+LTAS es una herramienta útil para cuantificar la calidad vocal general44,45,49–51 vinculando la contribución tanto de la fuente como del filtro39,51. Permite identificar diferencias de género51,52, edad, profesión, valorar la presencia de disfonía24,39,41,45,51,53, determinar la presencia de nasalidad27,41, soplosidad, tensión54,55, la aparición del formante del cantante, hablante y actor37–40, analizar la posición laríngea41,55, los cambios en la sonoridad42, como método de seguimiento terapéutico55 y para comprobar la eficacia de las técnicas de entrenamiento o rehabilitación15.
+
+A continuación se detallarán las mediciones que se pueden realizar con LTAS.
+
+PROPORCIÓN ALFA
+
+También conocido como alpha ratio (a ratio) o spectral tilt, corresponde a la medición de la pendiente espectral de la energía entre las regiones de 50Hz – 1 KHz y 1 KHz – 5 KHz39,43,50,52,56–60.
+
+Es usado en el diagnóstico y seguimiento de patologías de voz15,56 y se correlaciona con cambios en la calidad vocal56. El valor de la pendiente del gráfico será distinta en función de las características de la voz50–53,57. En mujeres los valores alpha ratio son mayores que en hombres, no obstante existe gran variabilidad entre los resultados intersujeto60.
+
+PROPORCIÓN L1-L0 (F1 - F0)
+
+Su valor se relaciona con el modo de fonación61 y con la sonoridad51. Se obtiene midiendo la energía entre 300 Hz – 800 Hz y 50 Hz – 300 Hz51,59. Un valor significativamente mayor de L0 por sobre el L1 es indicativo de hipofunción vocal o soplosidad, en cambio un mayor valor de L1 por sobre L0, indica hiperfunción vocal o tensión fonatoria38,45,56,59.
+
+PROPORCIÓN 1/5 – 5/8
+
+Compara la energía sonora presente desde los 1 KHz – 5KHz, con la energía aperiódica presente desde los 5 KHz – 8 Khz. Su valor es utilizado para cuantificar los niveles de ruido y la soplosidad59,62. Un menor valor es equivalente a una energía espectral disminuída, en cambio un nivel alto es indicativo de mayor presencia de ruido59.
+
+ENERGY RATIO
+
+También llamado Singing Power Ratio (SPR), es un indicador de las características acústicas de la voz cantada43,63. Se obtiene calculando la diferencia entre el pico más alto entre los 2 KHz - 4KHz y el pico más alto entre los 0 Hz – 2 KHz43,63–65. Puede medirse también con el espectro FFT63. Valores altos de SPR indican mayor energía en los armónicos altos, lo que se relaciona con voces cantadas o habladas de mejor calidad y entrenadas43.
+
+EQUIVALENT SOUND LEVEL (Leq)
+
+Medición estándar del nivel de intensidad promedio de toda la señal o sólo de algún segmento42,50,59. Cuando varía el Leq en una emisión, tiende a cambiar el trazado del LTAS en forma variable, sobre todo en las frecuencias altas42.
+
+VI. CEPSTRUM
+
+Se obtiene al aplicar dos FFT a la señal9,15,36,57,64. Se calcula como la transformada inversa de Fourier del logaritmo del espectro FFT9,36 (Figura 7). En el gráfico, se visualiza la quefrency en milisegundos (eje horizontal), y la amplitud en decibeles (eje vertical). Permite determinar el F0, mediante el análisis del pico de mayor amplitud presente en la escala temporal9. La amplitud del pico da información sobre el grado de perioricidad de la señal66 y su estructura armónica64, permitiendo valorar la calidad vocal, la presencia de disfonía y su grado de severidad20,36,66–70. Un menor valor del cepstrum supone una voz menos estable, con menor energía o menos periódica57,64,70,71, al igual que un aumento de la anchura de su base20,66.
+
+Figura 7 Cepstrum. 
+
+La palabra cepstrum se origina al invertir las primeras cuatro letras de la palabra spectrum, algo similar ocurre con otras palabras usadas en este gráfico: Harmonic por Rahmonic, Frequency por Quefrency y Filtering por Liftering72.
+
+CONCLUSIONES
+
+El análisis acústico de la voz es una herramienta útil en el diagnóstico, rehabilitación e investigación vocal.
+
+En la terapia fonoaudiológica, su aplicación resulta esencial para cuantificar la efectividad del tratamiento de voz y como mecanismo de retroalimentación en tiempo real. Para aplicarlo, es necesario conocer de física acústica, fisiología normal y fisiopatología laríngea con el fin de realizar una interpretación significativa de los hallazgos. A pesar de lo anterior, el análisis acústico de la voz aun no es lo suficientemente sofisticado para sustituir al oído bien entrenado, por consiguiente los resultados obtenidos tras su aplicación quedan supeditados al criterio clínico, y se deben vincular con otras evaluaciones.

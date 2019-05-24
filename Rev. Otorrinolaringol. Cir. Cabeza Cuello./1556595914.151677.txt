@@ -1,0 +1,178 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162015000100006
+Evolución en la calidad de la voz en pacientes disfónicos del Hospital de La Serena tratados con terapia vocal
+
+ 
+
+INTRODUCCIÓN
+
+La voz es un sonido que producido por la laringe y modificado por la acción de otras estructuras y sistemas, permiten no sólo la expresión emocional de los individuos1, sino también la expresión a través del habla ya que está a la base de gran parte de los sonidos del lenguaje.
+
+Su producción es un fenómeno    complejo1 en donde interactúan los sistemas neuromuscular,    respiratorio, fonatorio, auditivo, endocrino, resonancial y articulatorio, con    la coordinación de los subsistemas neurológicos central y periférico2.    El resultado de esta interacción proporciona las características    acústicas que percibimos en la voz: intensidad, altura tonal y timbre.    Cuando alguno de estos sistemas se alteran, los parámetros varían    y la voz resultante cambia.
+
+Las alteraciones de voz, llamadas disfonías, se producen cuando su realización natural se ve afectada por alguna dificultad en alguno de los niveles de producción alterando uno o varios de sus parámetros3. De esta manera, la disfonía puede constituirse como un síntoma único o bien como parte de un conjunto de síntomas de una determinada enfermedad2. La severidad de la disfonía dependerá del grado en que se hayan afectado uno o más de los parámetros2, y del grado de afectación en la vida de relación y en la vida profesional del paciente1.
+
+Dada la complejidad de la naturaleza de la voz y de sus alteraciones, el tratamiento de la disfonía es multidisciplinario, contando principalmente con la acción del otorrinolaringólogo, del fonoaudiólogo, del psicólogo, entre otros.
+
+En este contexto, el fonoaudiólogo es el encargado de valorar la funcionalidad de la voz, lo cual hace principalmente mediante mecanismos subjetivos de evaluación que dependen de la experiencia y de la experticia del profesional. También existen herramientas computacionales que permiten realizar valoraciones objetivas de la producción vocal y que permiten a su vez controlar la evolución de un determinado paciente en tratamiento.
+
+La evaluación subjetiva,    por parte del fonoaudiólogo, incluye la elaboración de una anamnesis    y la aplicación de un examen funcional. Con el primero se obtienen los    antecedentes de identificación del paciente, del problema, y los antecedentes    psicológicos. Con el segundo se analizan un conjunto de aspectos de la    producción que permiten obtener un perfil de la calidad de la voz. Entre    los aspectos evaluados, se cuenta, el nivel tensional, la respiración,    la intensidad, la altura tonal, timbre, ataque vocal, presencia o ausencia de    quiebres tonales, etc. La cuantificación de la calidad de la voz puede    realizarse aplicando escalas subjetivas descritas en la literatura o aplicando    escalas de elaboración propia, de ambas maneras se obtiene una impresión    global del rendimiento vocal.
+
+Por otra parte, para realizar una evaluación objetiva se pueden utilizar diversas herramientas computacionales, entre las que se cuentan Dr Speech (Tiger Elemetric), SSVA (System for Single Voice Analysis), MDVP (Multi-Dimensional Voice Program), EVA (Evaluation Vocal Assistee)., CSL (Computerized Speech Laboratory), PRAAT, VISHACSRE (Computerized Speech Research Environment), MEDIVOZ, etc4. Cada uno de estos programas analiza la voz grabada a través de un espectograma desde el cual se obtienen una serie de conceptos y valores que permiten diferenciar voces normales y patológicas5. Dentro de los índices obtenidos, los más utilizados en la investigación científica son los indicadores de Jitter y Shimmer. El primero es el índice de perturbación de la frecuencia fundamental (F0) ciclo a ciclo que expresado en porcentaje representa la variabilidad de ésta sin tomar en cuenta los cambios voluntarios de ella6. El umbral indicado para la normalidad en el PRAAT es de 1,040%7, en donde los valores superiores a éste se consideran patológicos.
+
+El segundo es el indicador de perturbación de la amplitud cuya medición sirve para cuantificar pequeños lapsos de inestabilidad de la señal vo-cal6 y que al igual que el primero se expresa en porcentaje. El valor de normalidad indicado para el PRAAT es de 3,08%7. Se considera también que los valores superiores a ese promedio son indicadores de patología.
+
+En la clínica fonoaudiológica, ambos indicadores son útiles para indicar objetivamente los cambios que se producen en la voz durante el proceso de rehabilitación de un paciente con disfonía, sin embargo, el estudio de esta variación sigue en desarrollo. Existen trabajos que indican que las perturbaciones no se reducen luego de 14 semanas de intervención, como el de Mackenzi, Millar, Sellars y Deary en 20018, mientras que en otras investigaciones se afirma que los valores de Jitter y Shimmer se reducen luego de la terapia, estableciendo la herramienta de evaluación acústica como un indicador de éxito9-11.
+
+La intervención fonoaudiológica en el tratamiento de la disfonía está orientada a reeducar el uso de la voz, lo cual implica un proceso de aprendizaje que se da en varias etapas en las cuales el paciente adquiere y pone en práctica el conocimiento de una adecuada técnica vocal12. Teniendo en cuenta que el objeto de la intervención carece de forma concreta, visible y palpable, el proceso de aprendizaje contempla herramientas de valoración subjetiva y está basado principalmente en aspectos sutiles en donde las sensaciones propioceptivas son la guía más importante13.
+
+La cantidad de sesiones de la terapia de voz depende de la respuesta vocal de cada paciente, del grado y de la causa de la disfonía. Los pacientes con una disfonía de corta evolución pueden requerir de 15 a 20 sesiones, mientras que aquellos con una disfonía de larga data podrán estar en terapia durante 80 a 120 sesiones13.
+
+Los pacientes del Servicio de    Otorrinolaringología del Hospital de La Serena que llegan derivados por    disfonía deben aprender la técnica vocal para reducir el grado    de disfonía y durante este proceso se utilizan diversos medios didácticos    para facilitar el aprendizaje. Uno de los aspectos más relevantes en    la terapia es generar en el paciente mecanismos conscientes (siempre subjetivos)    que le permitan evaluar en conjunto con el terapeuta los progresos obtenidos.    En este sentido, la evaluación objetiva contribuye al seguimiento de    su evolución, sin embargo, la descripción de la variabilidad esperada    de sus indicadores en el contexto terapéutico ha sido poco descrita.
+
+OBJETIVO
+
+En el presente trabajo se pretende cuantificar objetivamente la evolución en la calidad de la voz de pacientes disfónicos usando como referencia los índices de perturbación de la frecuencia fundamental (Jitter) e intensidad (Shimmer) obtenidos con el software de análisis acústico PRAAT, y determinar si la evolución es positiva y si ésta es coherente con la evaluación subjetiva del profesional fonoaudiólogo.
+
+MATERIAL Y MÉTODO
+
+Se seleccionaron 27 pacientes disfónicos del Servicio de Otorrinolaringología del Hospital de La Serena que ingresaron a tratamiento fonoaudiológico entre 2009 y 2011 que equivalen al 38% del total de las consultas por disfonía en ese período. Los sujetos seleccionados contaron con las siguientes características:
+
+1. Tener diagnóstico    otorrinolaringológico de disfonía.
+
+2. Presentar una evaluación fonoaudiológica subjetiva y objetiva al principio de la terapia y al término de ésta.
+
+3. Haber cumplido con todas las etapas relacionadas con el desarrollo de la técnica vocal.
+
+4. No presentar disfonía de origen psicógeno.
+
+El grupo de pacientes seleccionados estaba constituido por 17 adultos y 10 niños. Las edades de los adultos variaban entre los 18 y los 74 años, mientras que la de los niños variaba entre 8 y 13 años. El grupo de adultos lo conformaban 7 hombres y 10 mujeres y en el grupo infantil eran todos varones.
+
+En el grupo de adultos varones,    se registraron 2 pacientes con disfonía músculo tensional, 2 con    nódulos cordales bilaterales, 3 con parálisis cordal, 1 presentó    además reflujo faringolaríngeo y otro reflujo gastroesofágico.    En el caso de las mujeres, 6 registraban diagnóstico de disfonía    músculo tensional, 1 nódulos cordales bilaterales y 4 presentaban    reflujo faringolaríngeo como antecedente. En el caso de los niños,    9 presentaban diagnóstico de nódulos cordales bilaterales y 1    paciente tenía el diagnóstico de disfonía espástica,    1 paciente registró reflujo gastroesofágico y 2 presentaban asma    bronquial. Cabe señalar que sólo en el grupo de mujeres se observó    además antecedentes de depresión en 4 de ellas y estrés    en 5.
+
+Cada sujeto fue evaluado individualmente en una sala del Servicio de ORL del Hospital de La Serena no insonorizada, pero silenciosa. Se realizaron 2 grabaciones por paciente, una de ellas durante la evaluación inicial y la otra al término del proceso terapéutico. Se utilizó un micrófono cuya frecuencia de respuesta está entre 80 y 16.000 hz. El paciente debía emitir una /a/ sostenida por al menos 3 segundos usando el micrófono a 15 cm y a un ángulo de 45°. El análisis acústico se realizó con el software PRAAT con el cual se obtuvo los valores para Jitter (perturbación de la frecuencia) y Shimmer (perturbación de la intensidad) del tramo medio del sonograma.
+
+La evaluación fonoaudiológica, realizada por un solo examinador, incluyó además la graduación subjetiva de la disfonía, es decir, el grado general del desvío de la voz, la que podría darse en tres niveles: grado 1 (leve) para alteraciones vocales discretas, grado 2 (moderado) para alteraciones evidentes y grado 3 (severo) para alteraciones vocales intensas.
+
+Luego de la evaluación inicial se comenzó la terapia vocal una vez por semana con una duración aproximada de 45 minutos. A cada uno de los pacientes se le aplicó un programa de actividades agrupadas en 7 unidades, las cuales se adaptaron a los distintos requerimientos que puede presentar un paciente dependiendo del grado y de las causas de la disfonía:
+
+1. Relajación
+
+2. Respiración
+
+3. Técnica de resonancia
+
+4. Suavización del ataque vocal
+
+5. Tono vocal
+
+6. Intensidad
+
+7. Integración de parámetros vocales
+
+Si bien el programa de intervención presentó variaciones en su aplicación, cada una de estas variaciones estaban orientadas a conseguir una voz estable, sin tensiones y de intensidad, tono y timbre adecuados, es decir, orientadas a que el paciente aprenda y aplique la técnica vocal en la voz hablada.
+
+El término de la terapia se decretó una vez que el paciente logró los objetivos de cada unidad y después de haber ejercitado las condiciones ideales de producción de la voz hablada. La duración general del programa estaba condicionada por la asistencia, la ejercitación en el hogar y las condiciones de salud generales (resfríos, alergias, etc.), todos antecedentes registrados en la base de datos.
+
+Los resultados de las evaluaciones iniciales y finales se compararon a través del análisis estadístico de T de Student con el apoyo del software SPSS.
+
+RESULTADOS
+
+En la evaluación inicial    se registró para el índice Jitter un promedio de 1,09, una desviación    típica de 0,86, y un valor mínimos de 3,81 y un máximo    de 0,29. En la evaluación final el promedio de este indicador fue de    0,54, con una desviación típica de 0,60,    un valor mínimo de 0,18 y un valor máximo de 2,87. La diferencia    existente entre ambos promedios fue de    0,55, indicando una reducción de la perturbación de la frecuencia    (Jitter) en el 50% (ver Tabla 1 y Figura 1).
+
+ 
+
+Tabla 1. Resultados    medición de Jitter al inicio de la terapia, posterapia y grado        de variación
+
+
+
+ 
+
+
+
+Figura 1. Comparación Jitter    1 o inicial, y Jitter 2 o final.
+
+ 
+
+El primer registro del índice    Shimmer corresponde a 6,92 como promedio, con una desviación típica    de 4,14, un valor mínimo de 1,30 y un máximo de 18,92. En el registro    final se obtuvo un promedio de 3,43, una desviación típica de    1,34, un valor mínimo de 1,30 y un máximo de 5,88. La variación    entre ambos promedios fue de 3,49 evidenciando una reducción de 50% en    la perturbación de la intensidad (Shimmer) (ver Tabla 2    y Figura 2).
+
+ 
+
+Tabla 2. Resultados    medición de Shimmer al inicio de la terapia y posterapia
+
+
+
+ 
+
+
+
+Figura 2. Comparación Shimmer    1 o inicial        y Shimmer 2 o final.
+
+ 
+
+La aplicación de la prueba    T de Student muestra una variación estadísticamente significativa    entre la evaluación inicial para los índices Jitter y Shimmer,    y la evaluación final de los mismos, pues el valor p es inferior    a 0,05 (ver Tabla 3).
+
+ 
+
+Tabla 3. Resultados    de la prueba T de Student proporcionado por el software Spss.        Aquí se evidencian las diferencias significativas entre las evaluaciones    iníciales y finales
+
+
+
+ 
+
+El promedio del grado de disfonía    resultante de la evaluación subjetiva inicial fue de 2 (moderado), registrándose    pacientes con disfonía en grado 1 (leve) como valor mínimo y en    grado 3 (severo) como máximo. Al término de la terapia se observó    un promedio del grado disfonía de 1 (leve) siendo este mismo el valor    máximo, mientras que el mínimo fue de 0, es decir, ausencia de    disfonía. La reducción del grado de disfonía observado    fue del 50%) (ver Tabla 4 y Figura 3).
+
+ 
+
+Tabla 4. Grado    de disfonía al inicio de la terapia y posterapia
+
+
+
+ 
+
+
+
+Figura 3. Comparación entre    el grado de        disfonía inicial y final.
+
+ 
+
+Las características de    los sujetos seleccionados para el presente estudio, fueron diversas en cuanto    a edad, sexo y tipo de disfonía, por lo que los resultados de perturbación    de Jitter y Shimmer caso a caso fueron también variados, en relación    a estas condiciones. Esto se puede apreciar en las Tablas 1    y 2 al observar los valores mínimos y máximos.    Sin embargo y teniendo esto en cuenta este escenario, es posible afirmar que    del grupo total de los sujetos, el 93% registró una disminución    de la perturbación de la frecuencia fundamental, el 85% de los pacientes    redujo la perturbación de la intensidad registrada en el análisis    acústico. Por otro lado el 100% mejoró la cualidad de la voz representada    por el grado de disfonía, aunque no todos los pacientes consiguieron    una reducción total. Todas las variaciones registradas fueron estadísticamente    significativas de acuerdo al análisis con la prueba T de Student del    software SPSS (ver Tablas 3 y 5).
+
+ 
+
+Tabla 5. Resultados    de la prueba estadística T de Student proporcionados por el        programa Spss, que indican una diferencia significativa entre el grado de disfonía    1        o inicial y el grado de disfonía 2 o final
+
+
+
+ 
+
+Las pruebas estadísticas aplicadas indican que la variación, o más bien la reducción de los índices Jitter y Shimmer, y del grado de disfonía fue independiente del sexo, de la edad y del tipo de disfonía. Tampoco se observaron relaciones significativas entre esta reducción y el tiempo de tratamiento, la asistencia a la terapia y la presencia de factores psicógenos como el estrés o depresión.
+
+DISCUSIÓN
+
+La intervención fonoaudiológica en la disfonía se basa en principios subjetivos que giran en torno a sensaciones propioceptivas que cada paciente debe desarrollar para poder ejecutar concientemente cambios en la manera de producir la voz que lo lleva a obtener un mejor rendimiento vocal desde el punto de vista fisiológico y acústico. La aplicación de principios terapéuticos como el de la adecuada relajación, respiración e impostación de la voz resulta variable en cada caso, ya que se debe responder a las necesidades cognitivas y socioafectivas de cada sujeto, lo que lleva a interpretar la implementación terapéutica como un hacer dinámico, flexible y con un carácter subjetivo a la hora de evaluar los procedimientos realizados.
+
+Como un intento de objetivizar    y unificar criterios tanto de evaluación como de intervención,    se ha incorporado a la clínica fonoaudiológica el uso de análisis    acústico con softwares computacionales que han permitido generar perfiles    acústicos de voces tanto normales como patológicas. En el contexto    de las disfonías, las investigaciones realizadas establecen que los indicadores    posibles de obtener van a ser siempre más    altos en las disfonías en contraste con los registros de las voces normales.    Sin embargo, falta claridad para determinar en qué momento exacto cierto    valor es indicador de disfonía o cuánto es lo que éstos    pueden o deben variar para determinar el término de    un proceso terapéutico. Las aplicaciones más usuales del análisis    acústico en la terapia vocal guardan relación principalmente con    la didáctica y el monitoreo continuo en conjunto con el paciente, y en    investigación se ha utilizado para medir resultados    en relación a procedimientos específicos, no así para el    resultado global al usar una técnica vocal en el contexto del tratamiento    de la disfonía.
+
+En el presente trabajo, la reducción    de las perturbaciones de la frecuencia y de la intensidad (Jitter y Shimmer)    al finalizar la intervención evidencian objetivamente la evolución    positiva de un paciente disfónico tras la terapia vocal. Sin embargo,    al comparar estos resultados con otras investigaciones sobre los cambios pre    y posterapia de los índices Jitter y Shimmer los resultados son bastante    disímiles, por ejemplo, en el estudio realizado por Galarza y Pijoan    en 200210 no se observaron cambios significativos, excepto en aquellos    pacientes con nódulos vocales. Mackenzie, Millar, Wilson, Sellars y Dearyen    en 20018 trabajaron con disfonías funcionales en donde no    obtuvieron cambios luego de 14 sesiones. Por otra parte, Dejonckere, Bradley,    Clemente, Cornut, Crevier-Buchman, Friedrich G, Van de Heyning, Remacle    y Woisard, en 200114 y Vila-Rovira, Valero-García    y González-Sanvisens en 201115, sugieren que estos indicadores    no son útiles en la valoración de la calidad vocal. Sin embargo,    existen otros trabajos que indican lo contrario, como el de Piñero y    Pire en 200216 quienes reportaron mejorías en todos los    parámetros evaluados, incluidos los de Jitter y Shimmer y concluyen que    el análisis acústico fue efectivo para evaluar la terapia de la    voz16.
+
+Otros trabajos más recientes, como el de Gutiérrez, del Prado y Asencio en 201217, muestran que luego de 10 sesiones se observan cambios perceptuales subjetivos en la calidad de voz, manifestada por una mejor percepción y una reducción de Jitter, aunque no así de Shimmer, siendo éste el índice menos sensible.
+
+Las discrepancias descritas entre los resultados del presente trabajo y los resultados de otras investigaciones, puede deberse a diferencias metodológicas, vinculadas principalmente con el tiempo de tratamiento, el cual fue adaptado a las necesidades de cada paciente, lo que pudo haber potenciado un resultado mayormente positivo.
+
+Lo anterior permite señalar la importancia de hacer investigaciones más profundas sobre la eficacia de la terapia vocal y las condiciones que son necesarias para que dicha terapia sea exitosa.
+
+Por último, la independencia de la reducción del grado de disfonía revela la autonomía de la técnica vocal por sobre las variables observadas: edad, sexo, tiempo de tratamiento, tipo de disfonía, etc. En relación a esta última, se revela la utilidad de la terapia vocal independiente de las lesiones a nivel laríngeo de los pacientes de esta muestra, ya sea por parálisis de cuerda vocal, nódulos cordales o lesiones por reflujo faringolaríngeo, puesto que en todos los casos se observó reducción de los síntomas clínicos medidos. De esta manera es posible concluir que la disfonía, luego de la terapia vocal, debe reducirse en al menos 50% y que esta reducción perceptual es coherente con la variación de los índices acústicos Jitter y Shimmer, como medidas objetivas de la calidad vocal.
+
+CONCLUSIÓN
+
+Con el tratamiento propuesto la cuantificación objetiva de la evolución en la calidad de la voz de pacientes disfónicos a través de los índices de perturbación de la frecuencia fundamental (Jitter) e intensidad (Shimmer) obtenidos con el software de análisis acústico PRAAT reveló la reducción de estos índices en coherencia con el grado de disfonía obtenido de la evaluación cualitativa.
+
+Los resultados obtenidos muestran la efectividad del tratamiento de la disfonía por parte del fonoaudiólogo cuando el paciente, comprometido con su propio proceso de aprendizaje, se somete a todas las etapas que implican la adquisición y el uso constante de una técnica vocal adecuada.
+
+Aunque los índices Jitter y Shimmer, en el presente trabajo, se mostraron evidentemente sensibles ante la aplicación de terapia vocal, es necesario realizar más investigaciones, idealmente con muestras más amplias, para poder generalizar la premisa de que la evaluación objetiva de la evolución de la calidad de voz en una intervención terapéutica puede reflejarse en la variación de estos parámetros.
+
+Del mismo modo siempre será necesario realizar un análisis acústico riguroso, completo y acabado para describir y explicar los fenómenos que ocurren en el tracto vocal que determinan la emisión y la calidad de la voz. Esto exige un alto rigor metodológico, para establecer las variables que más fomentan el éxito terapéutico.
+
+Finalmente, la experiencia con los pacientes disfónicos del Hospital de La Serena presentada puede aportar en la continua búsqueda de la comprensión y explicación objetiva de los cambios obtenidos en la intervención terapéutica de la disfonía.
+
+Esta investigación se realizó en el marco del Proyecto DIULS PF/07201 de la Dirección de Investigación de la Universidad de La Serena.

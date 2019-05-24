@@ -1,0 +1,120 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162015000200014
+Ruido eléctrico de la ventana redonda
+
+ 
+
+INTRODUCCIÓN
+
+Desde el primer registro de potenciales    cocleares realizado en gatos por Wever y Bray en 1930, ha existido un importante    desarrollo de la electrococleografía, incluyendo técnicas invasivas    y no invasivas1-3. Actualmente, se sabe que a partir de la electrococleografía    se obtiene un registro eléctrico complejo, que proviene de más    de una fuente generadora, incluyendo estructuras del oído interno y del    nervio auditivo. Esta actividad eléctrica se denomina en forma genérica    "potenciales cocleares", pero incluye al potencial microfónico coclear,    que se origina principalmente en las células ciliadas externas de la    cóclea, al potencial de acción compuesto del nervio auditivo (PAC),    y al potencial de sumación (PS), que se genera a nivel de las células    ciliadas cocleares en respuesta a estímulos sonoros4. Estos    potenciales pueden ser medidos con electrodos colocados en distintas posiciones,    como por ejemplo a nivel de la piel del conducto auditivo externo, o en la membrana    timpánica (técnicas extratimpánicas o no invasivas); o    también a través de registros invasivos o transtimpánicos    a nivel de promontorio o ventana redonda. Los registros invasivos son de mayor    amplitud (mVolts versus μVolts) y con mejor relación señal-ruido    que los no-invasivos 5.
+
+El potencial microfónico    coclear, el PAC del nervio auditivo y el potencial de sumación son obtenidos    en respuesta a estímulos acústicos y para su interpretación    se utilizan los promedios de las respuestas sincronizadas con estímulos    auditivos como clics y tonos puros. Estos    potenciales han sido utilizados tanto en investigación básica    como clínica. La presencia del potencial microfónico coclear en    ausencia de respuestas neurales se ha utilizado como un elemento indicador de    neuropatía auditiva6, mientras que un incremento entre la    relación de amplitud del potencial de sumación y el PAC del nervio    auditivo se ha propuesto como un indicador de hidrops endolinfático7.    Por otra parte la disociación de amplitud de los potenciales cocleares    (incremento del potencial microfónico coclear con reducción del    PAC del nervio auditivo) ha sido utilizada como una medida del funcionamiento    del sistema eferente auditivo8,9.
+
+RUIDO ELÉCTRICO DE    LA VENTANA REDONDA (RWN): CARACTERIZACIÓN, ORIGEN γ MODULACIÓN
+
+En 1990 el Profesor David Dolan    y cols, de la Universidad de Michigan, publicaron evidencia que al colocar un    electrodo en el nicho de la ventana redonda en cobayos, y en ausencia de estimulación    acústica, se obtiene actividad eléctrica aparentemente aleatoria    y no desencadenada por estímulos auditivos10. Esta actividad    corresponde a una señal de origen biológico, que se pierde al    buscarla en animales post mortem y que se originaría en la actividad    espontánea de las neuronas del nervio auditivo, las cuales de forma independiente    y en un ambiente silencioso descargan potenciales de acción (Figura    1). Es importante destacar, que si bien estos experimentos    fueron realizados en ausencia de estímulos auditivos externos, podrían existir respuestas a los sonidos que generan estructuras internas del cuerpo como el latido cardíaco o la respiración11. En cobayos, las descargas espontáneas de los distintos tipos de fibras del nervio auditivo ocurren a una tasa promedio entre 20 y 150 Hz12, lo que sumado a la gran cantidad de neuronas del nervio auditivo, provoca un gran número de descargas unitarias por segundo.
+
+ 
+
+
+
+Figura 1. Ruido eléctrico    de ventana redonda.        El RWN corresponde al peak espectral que se        observa en la región de 900-1.000 Hz de        frecuencia. Note como el peak desaparece en        los animales post mortem. Figura modificada      de Searchfield y cols. (Hear Res, 2004)11.
+
+ 
+
+Para medir el peak espectral    del RWN se realiza un análisis de los componentes frecuenciales (por    ejemplo: análisis de Fourier) del ruido eléctrico registrado en    la ventana redonda en condiciones de silencio. Según trabajos realizados    en cobayos, el RWN presenta un peak entre las frecuencias de 800-1000    Hz (Figura 1)10, similar al peak espectral    de las descargas de las neuronas auditivas individuales, lo que se conoce como    respuesta unitaria13. Esta descarga espontánea de las fibras    del nervio auditivo es considerada la fuente de origen del ruido eléctrico    obtenido de la ventana redonda.
+
+Respecto a la amplitud del RWN,    ésta se correlaciona con la sensibilidad auditiva en la región    coclear de cobayos entre los 12 a 30 kHz. Así, al utilizar tonos puros    de 12-22 kHz de alta intensidad y presentados en forma crónica, para    generar daño en las células ciliadas de esa región de la    cóclea, se reduce la amplitud del RWN. De esta forma, se considera que    el RWN es generado principalmente por neuronas que inervan a la región    basal de la cóclea. Existe además, una fuerte correlación    entre la amplitud del RWN y la sensibilidad auditiva medida a través    de los umbrales de respuesta del PAC. Si los umbrales auditivos medidos por    el PAC se elevan, entonces la señal del RWN disminuye de amplitud y su    peak espectral de 900 Hz pierde definición11.
+
+Para descartar la influencia    de los sonidos externos en la generación del RWN, Searchfield y cols    realizaron un experimento en el que dislocó la cadena osicular de huesecillos    del oído medio, como una forma efectiva de aislar la cóclea de    los ruidos externos. En estos experimentos no se observó alteración    significativa del RWN, lo que sugiere que    esta señal, efectivamente, no es resultado de sonido exterior11.
+
+Por otra parte, en experimentos    realizados en animales, se ha observado que los tonos puros pueden suprimir    o aumentar los componentes espectrales del peak de 900 Hz del RWN, dependiendo    de la frecuencia y la intensidad utilizada10. Estos cambios son complejos,    así a bajas frecuencias (5 a 20 kHz) se produce supresión del    RWN que se satura a altas intensidades, mientras que a frecuencias intermedias    (25 a 30 kHz) se produce un efecto complejo nivel-dependiente, y a altas    frecuencias (30 a 35 kHz) se genera un incremento de la amplitud del RWN10.    Por otra parte, al aplicar un ruido de banda ancha (similar a ruido blanco)    para evaluar la dependencia auditiva de la señal, se observa un aumento    progresivo de la magnitud del RWN a 900 Hz, siendo este incremento exponencial    a mayor intensidad de sonido14. La hipótesis que explicaría    los efectos de supresión, es equivalente a la supresión reportada    por dos tonos en un único registro unitario desde el nervio auditivo15.    En estos casos, la supresión de tonos se genera por interacción    mecánica no lineal a nivel coclear, en que la respuesta vibratoria de    la membrana basilar en respuesta a un tono se ve disminuida por la presencia    de un segundo tono presentado simultáneamente a otra frecuencia16.    Por otra parte los efectos de supresión del RWN observados con la estimulación    con ruido blanco contralateral, se deben presumiblemente a la activación    de las fibras olivococleares mediales17,18.
+
+La ablación del núcleo    coclear reduce la amplitud del RWN en la ventana redonda19. El mecanismo    por lo que esto ocurre es incierto, pero se sugiere que el núcleo coclear    contribuye al RWN vía actividad eferente coclear o mediante la difusión    electrotónica de su propia actividad espontánea. La completa eliminación    del RWN mediante perfusión de tetrodotoxina (TTX, bloqueador de canales    de sodio voltaje dependiente) y furosemida en el nicho de la ventana redonda    sugiere que la contribución de la actividad espontánea del núcleo    coclear solo ocurre en presencia de un nervio auditivo indemne11.    Se ha observado además, que una hora después de infundir ácido    kainico (agonista glutamatérgico, neurotóxico) en la membrana    redonda de cobayos desaparece la señal del RWN, sin alteración    de las microfónicas cocleares ni    del potencial de sumación10. Del mismo modo, la inyección    de gentamicina disminuye el poder espectral del RWN y aumenta el umbral del    PAC hasta 70 dB en altas frecuencias17. En resumen todas estas manipulaciones    farmacológicas apuntan que el RWN tiene un origen neural, probablemente    de las neuronas del nervio auditivo.
+
+Al analizar la amplitud de la    señal del RWN en diferentes bandas de frecuencia, y en condiciones en    las que la función coclear está gravemente alterada por ototoxicidad    provocada por diuréticos, prácticamente no hay potencial de acción    compuesto del nervio auditivo, y los umbrales se elevan hasta 70 dB. En esta    situación, la amplitud del RWN antes del tratamiento, es de alrededor    de 80 μν2 entre 500 a 2.500 Hz y se reduce a 9 μν2    en el momento de máximo efecto de los diuréticos. Esta respuesta    reducida se mantiene en 16 μν2 después del tratamiento    combinado con gentamicina. Por lo tanto, la actividad específica coclear    representa al menos el 80% del origen de esta señal. La diferencia o    remanente de actividad (en la señal del RWN) después del tratamiento    con ototóxicos representaría la verdadera actividad espontánea    de las fibras del nervio auditivo y probablemente la actividad de los nervios    vestibular y facial17.
+
+Estudios con inhibidores farmacológicos    como antagonistas del receptor de glutamato (DNQX) y TTX generan un efecto inhibitorio    sobre el RWN, esto, secundario a la alteración de la sinapsis aferente    de la célula ciliada interna de la cóclea11. Además,    se han identificado receptores de ATP en las terminales nerviosas aferentes    primarias tanto de las células ciliadas internas como externas20.    El ATP actuaría como neurotransmisor o cotransmisor de dichas sinapsis    y la perfusión coclear con ATP se asocia a aumentos del umbral del PAC    y disminución del RWN.
+
+Por otra parte, el co-transportador    Na+/K+/Cl- en la célula marginal de la estría vascular,    es un elemento clave en la producción y mantenimiento del potencial eléctrico    positivo de la escala media. El uso de furosemida, que bloquea dicho transportador,    causa reducción temporal de la amplitud del RWN. Por lo que el RWN es    íntimamente dependiente del potencial eléctrico y se asocia con    actividad neural espontánea. Esta actividad neural espontánea    registrada en la ventana redonda es probablemente impulsada por la corriente    permanente originada en las células    ciliadas internas. Es así como, el RWN también depende del estado    electroquímico del compartimento endolinfático11,21.
+
+En conclusión, si bien    el RWN es una señal de origen neural, depende al menos, en 80% de la    actividad coclear. Es posible que las respuestas cocleares generadas por sonidos    propios del cuerpo, como latidos cardíacos o la respiración, puedan    en parte explicar la presencia del RWN, como una señal "de actividad    espontánea" del nervio auditivo.
+
+POSIBLES UTILIDADES CLÍNICAS DEL RWN
+
+La evaluación del RWN    podría resultar de suma utilidad en clínica. La técnica    empleada para su medición es similar a la utilizada en los registros    de electrococleografía invasiva para medir potenciales cocleares en humanos.    Hasta la fecha, la electrococleografía es uno de los pocos exámenes    que permiten obtener una evaluación funcional del nervio auditivo, centrada    principalmente en el PAC del nervio, el resto de las mediciones se realizan    en forma indirecta a través de los potenciales evocados auditivos de    tronco cerebral, evaluación mediante imágenes del nervio auditivo    y mediciones intraoperatorias como es el caso de la cirugía de schwannoma    del nervio vestibular. De esta manera, a futuro la medición del RWN podría    complementar el estudio funcional del nervio auditivo.
+
+El ruido eléctrico de    ventana redonda ha sido relacionado a la presencia de tinnitus en modelos animales.    El salicilato (aspirina) es utilizado comúnmente en forma experimental    para su estudio, ya que produce un tinnitus reversible en humanos22.    El mecanismo de acción a nivel del sistema auditivo en mamíferos    no es claramente conocido. A nivel periférico altas dosis de salicilato    endovenoso aumenta la tasa de descarga espontánea de las neuronas aferentes    y dosis menores la disminuye. Cazals y cols (1996) observaron que el uso de    salicilato endovenoso en cobayos despiertos aumenta la amplitud del ruido eléctrico    en torno a 900 Hz imitando el inicio y la progresión del tinnitus en    humanos23. Este aumento fue interpretado como incremento de la tasa    de actividad espontánea y los cambios observados en el patrón    de descarga espontánea fueron los que comúnmente se    asocian al trauma acústico24 y al hidrops endolinfático,    como modelo animal de la enfermedad de Ménière25,26.
+
+CONCLUSIONES
+
+El ruido eléctrico de    ventana redonda aparece como un nuevo instrumento para el estudio de la función    del nervio auditivo. Si bien, el conocimiento actual del RWN se basa en modelos    animales, es de esperar que en un futuro próximo sea posible diseñar    herramientas clínicas que nos permitan realizar mediciones en humanos.
+
+Agradecimientos
+
+Al financiamiento del Concurso    de Investigación Anual de la Sociedad Chilena de Otorrinolaringología    (SOCHIORL a Javiera Pardo), a la Fundación Guillermo Puelma y al Proyecto    U-Moderniza (U-Mod 11).
+
+ 
+
+BIBLOGRAFÍA
+
+1. Wever EG, Bray GW. Action    currents in the auditory nerve in response to acoustical stimulation. Proc    Natl Acad Sci 1930; 16: 344-50.            [ Links ]
+
+2. Dallos P. Whole-nerve    action potential. In: Dallos, P. (Ed.). The Auditory Periphery. Academic    Press, New York, 1973 pp. 329-53.            [ Links ]
+
+3. Patuzzi RB, Brown DJ,    MgMahon CM, Halliday AF. Determinants of the spectrum of the neural electrical    activity at the round window: transmitter release and neural de polarisation.    Hear Res 2004; 190: 87-108.            [ Links ]
+
+4. Tasaki I, Davis H, Eldredge,    DH. Exploration of cochlear potentials in guinea pigs with a microelectrode.    J Acoust Soc Am 1954; 26: 765-73.            [ Links ]
+
+5. Ferraro JA, Thedinger    Β, Mediavilla SJ, Blackwell W. Human summating potential to tone bursts:    observations on TM versus promontory recordings in the same patient. J Am    Acad Audiol 1994; 5: 24-9.            [ Links ]
+
+6. Starr A, Zeng FG, Michalewski    HJ. Perspectives on Auditory Neuropathy: Disorders of Inner Hair Cell,    Auditory Nerve, and Their Synapse. The Senses: a Comprehensive Reference, Academic    Press: 2008.            [ Links ]
+
+7. Conlon BJ, Gibson WP    Electrocochleography in the Diagnosis of Meniere's Disease. Acta Otolaryngol    2000; 120: 480-3.            [ Links ]
+
+8. Elgueda D, Délano    PH, Robles L. Effects of Electrical Stimulation of Olivocochlear Fibers in Cochlear    Potentials in the Chinchilla. J Assoc Res Otolaryngol 2011; 12: 317-27.            [ Links ]
+
+9. León A, Elgueda    D, Silva MA, Hamamé CM, Delano PH. Auditory Cortex Basal Activity Modulates    Cochlear Responses in Chinchillas. PLoS One 2012; 7(4): e36203.            [ Links ]
+
+10. Dolan DF, Nuttall    AL, Avinash G. Asynchronous neural activity recorded from the round window.    J Acoust Soc Am 1990; 87: 2621-7.            [ Links ]
+
+11. Searchfield GD, Muñoz    DJB, Thorne PR. Ensemble spontaneous activity in the guinea-pig cochlear    nerve. Hear Res 2004; 192: 23-35.            [ Links ]
+
+12. Manley GA, Robertson    D. Analysis of spontaneous activity of auditory neurons in the spiral ganglion    of the guinea-pig cochlea. J Physiol 1976; 258: 323-36.            [ Links ]
+
+13. Kiang NYS, Moxon EC,    Kanh AR. The relationship of the gross potentials recorded from the cochlea    to the single unit activity in the auditory nerve. In: Ruben RJ, Elberling C,    Solomon G. Eds. Electrocochleography 1976. University Park, Baltimore,    MA.            [ Links ]
+
+14. Sendowski I, Raffin    F, Clarençon D. Spectrum of neural electrical activity in guinea pig    cochlea: effects of anaesthesia regimen, body temperature and ambient noise.    Hear Res 2006; 211: 63-73.            [ Links ]
+
+15. Arthur RM, Pfeiffer    RR, Suga Ν. Properties of two-tone inhibition' in primary auditory    neurons. J Physiol 1971; 212: 593-609.            [ Links ]
+
+16. Ruggero MA, Robles    L, Rich NC. Two-tone suppression in the basilar membrane of the cochlea:    mechanical basis of auditory-nerve rate suppression. J Neurophysiol    1992; 68: 1087-99.            [ Links ]
+
+17. Lima da Costa D, Erre    JP, Charlet de Sauvage R, Popelar J, Aran JM. Bioelectrical cochlear noise and    its contralateral suppression: relation to background activity of the eighth    nerve and effects of sedation and anesthesia. Exp Brain Res 1997; 116:    259-69.            [ Links ]
+
+18. Popelár J, Erre    JP, Syka J, Aran JM. Effects of contralateral acoustical stimulation on three    measures of cochlear function in the guinea pig. Hear Res 2001; 152:    128-38.            [ Links ]
+
+19. McMahon CM, Patuzzi    RB. The origin of the 900 Hz spectral peak in spontaneous and sound-evoked    round-window electrical activity. Hear Res 2002; 173: 134-52.            [ Links ]
+
+20. Weisz C, Glowatzki E,    Fuchs P. The postsynaptic function of type II cochlear afferents. Nature    2009; 461: 1126-9.            [ Links ]
+
+21. Patuzzi RB, Brown DJ,    McMahon CM, Halliday AF. Determinants of the spectrum of the neural electrical    activity at the round window: transmitter release and neural depolarization.    Hear Res 2004; 190: 87-108.            [ Links ]
+
+22. McFadden D, Plattsmier    HS, Pasanen EG. Aspirin-induced hearing loss as a model of sensorineural    hearing loss. Hear Res 1984; 16: 251-60.            [ Links ]
+
+23. Cazals Y, Huang ZW.    Average spectrum of cochlear activity: a possible synchronized firing, its olivo-cochlear    feedback and alterations under anesthesia. Hear Res 1996; 101: 81-92.            [ Links ]
+
+24. Liberman MC, Kiang NYS.    Acoustic trauma in cats. Cochlear pathology and auditory nerve activity. Acta    Otolaryngol 1978; S358: 1-63.            [ Links ]
+
+25. Harrison RV, Prijs VF.    Single cochlear fiber responses in guinea pigs with long-term endolymphatic    hydrops. Hear Res 1984; 14: 79-84.            [ Links ]
+
+26. Eggermont JJ. On the    pathophysiology of tinnitus; a review and a peripheral model. Hear Res    1990; 48: 111-23.            [ Links ] 
+
+ 
+
+Recibido el 10    de noviembre de 2014.        Aceptado el 26 de enero de 2015.
+
+ Dirección: Paul Délano    R.     
+
+   Servicio de Otorrinolaringología, Hospital Clínico de la Universidad    de Chile        Santos Dumont 999, Independencia, Santiago        E mail: pdelano@med.uchile.cl
+
+ 

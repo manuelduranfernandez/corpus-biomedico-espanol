@@ -1,0 +1,144 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162016000300004
+Comparación de las amplitudes y latencias de la onda V del potencial evocado auditivo de tronco cerebral obtenidas a través de estímulos clic y CE-Chirp®
+
+ 
+
+INTRODUCCIÓN
+
+Los potenciales evocados auditivos son registros de actividad eléctrica que se sincronizan en respuesta a estímulos acústicos1. El potencial evocado auditivo más utilizado es el potencial evocado auditivo de tronco cerebral (PEATC), que consiste en una serie de siete ondas que aparecen durante los primeros 10 ms después del estímulo acústico2. Desde su descubrimiento en el año 1970, el PEATC se ha convertido en un procedimiento estándar dentro de la evaluación audiológica, destacando entre sus principales aplicaciones, el topodiagnóstico, tamizaje auditivo, estimación de la sensibilidad auditiva en población difícil de evaluar a través de pruebas conductuales y monitoreo intraoperatorio3-5.
+
+El estímulo acústico mediante el cual se obtiene el PEATC debe ser de inicio rápido para sincronizar la mayor cantidad de neuronas involucradas posibles. Es por esta razón que, durante décadas, el estímulo más utilizado ha sido el clic, considerado ideal por poseer un pulso breve rectangular de 50 a 200 ps de duración con un inicio instantáneo. El rápido inicio de este estímulo provee una sincronización neural, obteniendo así respuestas claramente definidas2. Sin embargo, se caracteriza por poseer un amplio espectro frecuencial que estimula la membrana basilar de manera descoordinada6, debido a la tonotopía coclear, la onda viajera producida por los sonidos de baja frecuencia se demoran más en viajar porque resuenan en el ápice de la cóclea, mientras que la onda viajera de sonidos de alta frecuencia se demoran menos al estimular la base de la cóclea. Por lo tanto, un estímulo clic provoca un desfase en la activación de las neuronas del nervio auditivo que inervan a la base y el ápice coclear7.
+
+Desde hace algunos años, se han realizado algunos estudios experimentales con estímulos de frecuencia modulada (chirp) para mejorar la sincronización temporal de los elementos neurales, en relación a la tonotopía coclear8-11. Estos estímulos han sido diseñados para compensar el desfase al estimular con sonidos de distinta característica frecuencial. En el estímulo chirp los componentes de alta frecuencia del estímulo son enviados con un breve retraso en relación a los componentes de baja frecuencia7. Esta modificación en el curso temporal de la gama frecuencial enviada, permitiría aumentar la sincronía temporal de la estimulación de las fibras nerviosas que normalmente se activan de manera asincrónica con el estímulo clic convencional12 (Figura 1).
+
+ 
+
+
+
+Figura 1. Esquema temporal del estímulo clic (parte superior) y          del estímulo CE-Chirp® (parte inferior). Observe que el estímulo          chirp es de frecuencia modulada, ya que el estímulo acústico          cambia de frecuencia entre 5 a 15 ms yendo desde bajas a altas          frecuencias. De esta forma, la onda viajera de la cóclea lograría          sincronizar mejor a las neuronas del nervio auditivo. Adaptado de          Khorsand V, Mahdavi-Zafarghandi M, Safavi M, Sharifian M &          Tabatabaee S. Comparison of click and CE-chirp-evoked human          auditory brainstem responses: A preliminary study.          Audiol 2014; 23(4): 69-76.
+
+ 
+
+Debido a lo anterior, los tonos chirp serían un tipo de estímulo más eficiente que los tonos clic para el registro de potenciales evocados auditivos de tronco cerebral10. Además de obtener una mayor amplitud en los registros, los estímulos chirp de banda ancha permitirían la obtención de los resultados en un tiempo significativamente menor, reduciendo costos y facilitando la evaluación principalmente en menores de edad13. En la actualidad, se encuentra disponible comercialmente a través de la plataforma Eclipse EP25 de Interacoustics® un estímulo chirp de banda ancha, llamado CE-Chirp® y cuatro estímulos chirp frecuencia-específica14, diseñados en base al modelo del retraso10.
+
+OBJETIVO
+
+El objetivo del presente trabajo es comparar las amplitudes y las latencias de la onda V del potencial evocado auditivo de tronco cerebral obtenida a distintas intensidades a través de estímulos clic y CE-Chirp®, en sujetos con audición normal entre 21 y 28 años de edad.
+
+MATERIAL Y MÉTODO
+
+Se realizó un estudio de tipo cuantitativo, de diseño no experimental, transversal y descriptivo, aprobado por el Comité de Ética para la Investigación de la Universidad Santo Tomás (CE UST N°81/2014). Se efectuó un muestreo no probabilístico por conveniencia, quedando la muestra conformada por 17 estudiantes de la carrera de fonoaudiología de la Universidad Santo Tomás sede Viña del Mar, 7 hombres (41%) y 10 mujeres (59%), cuyas edades fluctuaron entre 21 y 28 años con un promedio de 24 años. Todos los participantes cumplieron con criterios de inclusión y exclusión que apuntaron a demostrar ausencia de patología auditiva, neurológica y psiquiátrica. Todos los procedimientos fueron realizados en las dependencias del laboratorio de audiología de la universidad. El equipo utilizado para realizar la prueba de PEATC fue el Eclipse EP25 de Interacoustics® a través de auriculares de inserción ER-2.
+
+Previo a la realización del examen de potenciales evocados, se constató que todos los participantes del estudio tuvieran integridad de la membrana timpánica a través de otoscopía, umbrales de conducción aérea menores o iguales a 20 dB HL, curvas timpanométricas tipo A con reflejos acústicos presentes. Posterior a esto, se realizó el examen de PEATC a intensidades de 80, 60, 40, 30 y 20 dBnHL, por ser las intensidades utilizadas habitualmente en los protocolos de evaluación clínica. Se utilizó la polaridad de rarefacción, una tasa de estimulación de 44,1 Hz y entre 1.000 a 3.000 repeticiones. Todos los sujetos fueron evaluados utilizando los estímulos clic y CE-Chirp®. Se marcó el peak positivo para obtener la latencia de la onda V y se midió desde el peak positivo hasta el siguiente peak negativo para obtener la amplitud de la onda V. Cabe destacar que para el presente estudio se extrajeron, para el posterior análisis y comparación, solamente las latencias y amplitudes de la onda V del oído derecho de los sujetos.
+
+RESULTADOS
+
+En la Figura 2 se pueden apreciar los resultados obtenidos en un PEATC de un paciente con audición normal utilizando estímulos clic y CE-Chirp®. Para la verificación de la distribución normal de los datos obtenidos, se aplicó la prueba de bondad de ajuste de Shapiro-Wilk. Se utilizó la prueba t para muestras pareadas para comparar las latencias y las amplitudes de la onda V. En relación a las latencias, se obtuvieron diferencias estadísticamente significativas entre los estímulos clic y CE-Chirp® para 80, 40 y 30 dB (p =0,002, p =0,000 y p =0,015 respectivamente). Tanto para 60 como para 20 dB los valores de p fueron mayores a 0,05 (p =0,092 y p =0,475 respectivamente). Se obtuvieron tiempos promedio de latencia de 5,52 ms (DE 0,20 ms), 6,08 ms (DE 0,29 ms), 6,93 ms (DE 0,38 ms), 7,41 ms (DE 0,40 ms) y 8,24 ms (DE 0,46 ms) para estímulos clic a 80, 60, 40, 30 y 20 dB, respectivamente, mientras que para estímulos CE-Chirp® se obtuvieron tiempos promedios de 5,20 ms (DE 0,45 ms), 5,97 ms (DE 0,38), 7,19 ms (DE 0,44 ms), 7,70 ms (DE 0,40 ms) y 8,34 ms (DE 0,47 ms) para 80, 60, 40, 30 y 20 dB, respectivamente.
+
+ 
+
+
+
+Figura 2. Resultados obtenidos en un PEATC de un sujeto con audición normal utilizando          estímulos clic y CE-Chirp®.
+
+ 
+
+En relación a la amplitud de onda, se obtuvieron diferencias estadísticamente significativas entre estímulos clic y CE-Chirp® para 80, 60, 40, 30 y 20 dB (p =0,000, p =0,000, p =0,000, p =0,023 y p =0,000, respectivamente). Se obtuvieron amplitudes promedio de 0,518 pV (DE 0,167), 0,338 pV (DE 0,112 pV), 0,371 pV (DE 0,138 pV), 0,356 pV (DE 0,167 pV) y 0,200 pV (DE 0,085 pV) para estímulos clic a 80, 60, 40, 30 y 20 dB, respectivamente, mientras que para estímulos CE-Chirp® se obtuvieron amplitudes promedio de 0,858 pV (DE 0,241 pV), 50,795 pV (DE 0,230 pV), 0,687 pV (DE 0,162 pV), 0,507 pV (DE 0,178 pV) y 0,372 pV (DE 0,131 pV) para 80, 60, 40, 30 y 20 dB, respectivamente. En la Tabla 1 se puede observar la estadística descriptiva para cada tipo de estímulo.
+
+En la Figura 3 se puede observar que las latencias a altas intensidades (80 y 60 dBnHL) fueron menores para estímulos CE-Chirp®, mientras que a bajas intensidades (40, 30 y 20 dBnHL), esta tendencia se invierte, siendo los estímulos clic los estímulos que presentan menores latencias. En la Figura 4, se puede observar la relación de la amplitud de la onda V para ambos tipos de estímulos, siendo las amplitudes producidas por los estímulos CE-Chirp® mayor que la producida por los estímulos clic, relación que se mantiene en todas las intensidades.
+
+ 
+
+
+
+Figura 3. Comparación de las latencias de la onda V del PEATC para estímulos          clic y CE-Chirp®.
+
+ 
+
+
+
+Figura 4. Comparación de las amplitudes de la onda V del PEATC para estímulos          clic y CE-Chirp®.
+
+ 
+
+DISCUSIÓN
+
+Se pudo observar que a medida que la intensidad de presentación del estímulo es menor, tanto con estímulos clic como con CE-Chirp®, las latencias de la onda V aumentan y las amplitudes disminuyen. Además, se puede observar en las barras de error de la Figura 3 y en los valores de la varianza expuestos en la Tabla 1, una variabilidad de distribución relativamente baja para las latencias obtenidas con ambos tipos de estímulos. Sin embargo, este patrón no se mantiene para los valores obtenidos en las amplitudes, donde se puede observar una gran variabilidad en la distribución, hallazgo común para ambos tipos de estímulos. Esta tendencia es coherente con lo encontrado en la literatura, habiéndose descrito desde las primeras investigaciones en electrofisiología auditiva15,16. En la presente investigación, se obtuvieron diferencias estadísticamente significativas entre latencias solamente para 80, 40 y 30 dBnHL. Sin embargo, la tendencia que se puede observar es que frente a la utilización de estímulos CE-Chirp® se obtienen latencias menores a intensidades elevadas como 80 y 60 dBnHL, mientras que a 40, 30 y 20 dBnHL el patrón tiende a invertirse. Este hallazgo también ha sido descrito en la literatura y se puede relacionar con la sincronización oportuna coclear generada por el estímulo CE-Chirp® que permite un menor tiempo y una mayor agrupación de fibras nerviosas al ser estimuladas17.
+
+ 
+
+Tabla 1. Estadística descriptiva de las latencias y las amplitudes de la onda V del          PEATC para estímulos clic y CE-Chirp®
+
+
+
+ 
+
+En un estudio realizado el año 2014, se describió que la amplitud de las ondas del PEATC obtenidas con estímulos CE-Chirp® fueron mayores que las obtenidas con estímulos clic principalmente a baja intensidad, y que incluso los umbrales electrofisiológicos obtenidos con el primer tipo de estímulo no difieren significativamente de los umbrales conductuales, tanto en pacientes con audición normal como en pacientes con hipoacusia sensorioneural18. En el presente estudio, se corroboraron los resultados anteriores, siendo las amplitudes obtenidas a través de estímulos CE-Chirp® significativamente mayores que las obtenidas con clic, para todas las intensidades estudiadas. Lewis y Rodrigues en el año 2012, encontraron resultados similares a los descritos anteriormente a todas las intensidades, sin embargo, a 80 dB las diferencias no fueron significativas, observándose un comportamiento similar entre ambos tipos de estímulos a esta intensidad en particular17, hallazgo que además fue corroborado por Khorsand y cols en el año 201419.
+
+Los hallazgos expuestos anteriormente sustentan la hipótesis que la compensación por el retraso de la onda viajera implementada con el estímulo CE-Chirp® acorta las latencias principalmente a altas intensidades y aumenta las amplitudes de onda. La estructura de un estímulo chirp influencia de manera significativa la deflexión de la membrana basilar y con ello el tiempo de estimulación de las células ciliadas internas20.
+
+En otros estudios se han descrito otras diferencias en relación a ambos tipos de estímulos, que si bien no se analizaron en esta investigación, son necesarias destacar. Entre ellos, podemos mencionar que utilizando estímulos CE-Chirp® se obtienen resultados del PEATC significativamente más rápido que con estímulos clic13,20. Esto se debería principalmente a la presencia de una onda V más robusta a todas las intensidades. Otro de los hallazgos reportados en la literatura tiene relación a la estimación del umbral auditivo conductual. Dado que con estímulos CE-Chirp® se obtienen mayores amplitudes de onda, situación que se traduciría además en una mejor relación señal ruido, permitiría obtener menores umbrales electrofisiológicos y estimar de mejor manera los umbrales conductuales18,21. Estos dos últimos antecedentes cobrarían especial relevancia en evaluaciones pediátricas como es el caso de los tamizajes auditivos neonatales, en donde se cuenta con tiempos reducidos para la evaluación y se requiere estimar con precisión los niveles auditivos reales de los menores.
+
+CONCLUSIÓN
+
+Existen diferencias significativas entre las latencias y amplitudes de la onda V obtenidas con estímulos clic y CE-Chirp®. Las latencias obtenidas a través de estímulos CE-Chirp® son significativamente menores a alta intensidad, sin embargo, a baja intensidad tienden a ser mayores que para aquellas latencias obtenidas con estímulos clic, por lo que se debe cautelar su interpretación en términos de topodiagnóstico. Es por este motivo que surge la necesidad de contar con valores normativos en distintos grupos etarios en relación a las latencias de todas las ondas y a distintas intensidades.
+
+En relación a la amplitud de la onda V, ésta es significativamente mayor cuando es obtenida con estímulos CE-Chirp® para todas las intensidades. Este estímulo tomaría ventaja en este aspecto, ya que permitiría obtener respuestas en un menor tiempo y con una mejor relación señal ruido. De esta manera, favorecería la búsqueda del umbral electrofisiológico, ya que a diferencia de los estímulos clic cuya respuesta se torna poco clara a baja intensidad, las mayores amplitudes del CE-Chirp® permitirían una mejor visualización de la onda V.
+
+Tanto los hallazgos de las latencias y amplitudes constituyen una valiosa herramienta al momento de escoger el tipo de estímulo a utilizar dependiendo del objetivo que se persiga con la realización del PEATC. Teniendo en cuenta que el gran aporte de este examen es en evaluaciones pediátricas, los estímulos CE-Chirp® proporcionarían una mayor rapidez en el examen y permitirían determinar el umbral electrofisiológico con mayor precisión. Sin embargo, es necesario tener en cuenta que al realizar un PEATC extendido para confirmación diagnóstica, las latencias de cada una de las ondas son relevantes para la ubicación de una posible lesión en la vía auditiva. En este caso, es sabido que el estímulo clic posee una baja variabilidad intrasujeto y cuenta con parámetros normativos para diversos grupos etarios en relación a los tiempos de aparición de cada una de las ondas. Por lo anterior podemos concluir que mientras los estímulos CE-Chirp® aportan en rapidez en el examen y búsqueda del umbral electrofisiológico más preciso, los estímulos clic serían los adecuados a la hora de realizar un estudio de topodiagnóstico.
+
+ 
+
+BIBLIOGRAFIA
+
+1. Hall J. (2007). New Handbook for Auditory Evoked Responses. Boston: Pearson.            [ Links ] 
+
+2. Arnold SA. (2007). The Auditory Brainstem   Response. In RJ Roeser, M Valente & H Hosford-Dunn, Audiology Diagnosis (pp. 426-441). New   York: Thieme.            [ Links ] 
+
+3. Jewett D & Williston J. Auditory-evoked far fields averaged from the scalp of humans. Brain 1971; 94(4): 681-96.            [ Links ] 
+
+4. Jewett D, Romano M & Williston J. Human auditory evoked potentials: possible brain stem components detected on the scalp. Science 1970; 167(3924): 1517-8.            [ Links ] 
+
+5. Burkard R & Don M. (2015). Introduction to Auditory Evoked Potentials. In J. Katz, M. Chasin, K. English, L. Hood, & K. Tillery, Handbook of Clinical Audiology (Séptima ed., pp. 187-206). Philadelphia, PA: Wolters Kluwer Health. (Cebulla, Lurz, & Shehata-Dieler, New Clicklike Stimuli for Hearing Testing, 2007).            [ Links ] 
+
+6. Don M, Elberling C & Malof E. Input and Output Compensation for the Cochlear Traveling Wave Delay in Wide-Band ABR Recordings: Implications for Small Acoustic Tumor Detection. J Am Acad Audiol 2009; 20(2): 99-108.            [ Links ] 
+
+7. Moon I, Skoe E & Rubinstein J. (2014). Physiologic Measures in Otology, Neurotology, and Audiology. In J. Webster, The Physiological Measurement Handbook (pp. 317-354). Boca Raton, FL: CRC Press.            [ Links ] 
+
+8. Dau T, Wegner O, Mellert V & Kollmeier B. Auditory brainstem responses with optimized chirp signals compensating basilar membrane dispersion. J Acoust Soc Am 2000; 107(3): 1530-40.            [ Links ] 
+
+9. Fobel O & Dau T. Searching for the optimal stimulus eliciting auditory brainstem responses in humans. J Acoust Soc Am 2004; 116(4 ): 2213-22.            [ Links ] 
+
+10. Elberling C, Don M, Cebulla M & Stürzebecher E. Auditory steady-state responses to chirp stimuli based on cochlear traveling wave delay. J Acoust Soc Am 2007; 122(5): 2772-85.            [ Links ] 
+
+11. Elberling C & Don M. Auditory brainstem responses to a chirp stimulus designed from derived-band latencies in normal-hearing subjects. J Acoust Soc Am 2008; 124(5): 3022-37.            [ Links ] 
+
+12. Elberling C & Don M. A direct approach for the design of chirp stimuli used for the recording of auditory brainstem responses. J Acoust Soc Am 2010; 128(5): 2955-64.            [ Links ] 
+
+13. Mühler R, Rahne T & Verhey J. Auditory brainstem responses to broad-band chirps: Amplitude                         growth functions in sedated and anaesthetised                         infants. Int J Pediatr Otorhinolaryngol 2013;                         77(1): 49-53.            [ Links ] 
+
+14. Elberling C, Cebulla M & Stürzebecher E. (2007). Simultaneous multiple stimulation of the ASSR. In T. Dau, J. Buchholz, J. Harte, & T. Christens, 1st International Symposium on Auditory and Audiological Research (ISAAR 2007): Auditory Signal Processing in Hearing-Impaired Listeners (pp. 201-209). Centertryk A/S, Denmark.            [ Links ] 
+
+15. Picton T. (1978). The strategy of evoked potential audiometry. In S. Gerber, & G. Mencher, Early Diagnosis of Hearing Loss (pp. 279-307). New York: Grune and Stratton.            [ Links ] 
+
+16. Starr A & Achor J. Auditory brain stem responses in neurological disease. Arch Neurol 1975; 32(11): 761-8.            [ Links ] 
+
+17. Lewis D & Rodrigues G. Comparacao dos estímulos e CE-chirp no registro do Potencial Evocado Auditivo de Tronco Encefálico. J Soc Bras Fonoaudiol 2012; 17(4): 412-6.            [ Links ] 
+
+18. Maloff E & Hood L. A comparison of auditory brain stem responses elicited by click and chirp stimuli in adults with normal hearing and sensory hearing loss. Ear Hear 2014; 35(2): 271-82.            [ Links ] 
+
+19. Khorsand V, Mahdavi-Zafarghandi M, Safavi M, Sharifian M & Tabatabaee S. Comparison of click and CE-chirp-evoked human auditory brainstem responses: A preliminary study. Audiol 2014; 23(4): 69-76.            [ Links ] 
+
+20. Cebulla M, Lurz H & Shehata-Dieler D. Evaluation of waveform, latency and amplitude values of chirp ABR in newborns. Int J Pediatr Otorhinolaryngol 2014; 78(4): 631-6.            [ Links ] 
+
+21. Hood L. (2015). Auditory Brainstem Response: Estimation of Hearing Sensitivity. In J. Katz, M. Chasin, K. English, L. Hood, & K. Tillery, Handbook of Clinical Audiology (Séptima ed., pp. 249-266). Philadelphia, PA: Wolters Kluwer Health.            [ Links ]
+
+ 
+
+Recibido el 4 de febrero de 2016.      Aceptado el 12 de mayo de 2016.
+
+    Dirección: Sebastián Rivera R.     
+
+   Avenida Limonares #190, Viña del Mar          E mail: Sebastian.rivera.r@gmail.com
+
+ 

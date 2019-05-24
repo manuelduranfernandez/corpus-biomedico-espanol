@@ -1,0 +1,152 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162017000200002
+Nuevo método para evaluar el Test Subjetivo Vertical
+
+ 
+
+INTRODUCCIÓN
+
+La mayoría de los test funcionales vestibulares (prueba calórica, impulso cefálico, silla rotatoria) se centran en analizar la respuesta de canales semicirculares1-6. Por otra parte, los potenciales evocados miogénicos vestibulares (VEMP, por sus siglas en inglés, vestibular evoked myogenic potentials) son quizás la alternativa más conocida para analizar la respuesta del utrículo y sáculo. Sin embargo, este es un examen de costo y complejidad relativamente altos7-10.
+
+Otra opción reside en el test subjetivo visual vertical (SVV por sus siglas en inglés, Subjective Visual Vertical test) que caracterizado por una baja complejidad y una alta utilidad clínica11-14, tiene como propósito justamente evaluar la función de los órganos otolíticos, en especial del utrículo.
+
+Mientras que los canales semicirculares son sensibles a aceleración angular, el utrículo y el sáculo lo son a aceleración lineal. Incluso en reposo, el sistema vestibular está expuesto a la aceleración lineal constante ejercida por la fuerza de gravedad. Este estímulo genera una representación interna, subjetiva de verticalidad, en la cual se basan las respuestas cervicales, espinales y musculoesqueléticas en general para mantener el cuerpo en una posición deseada con respecto al suelo, por ejemplo, erecto al caminar15-17.
+
+La vía neural responsable de construir la representación de verticalidad es conocida como vía graviceptiva, la cual se origina principalmente en el utrículo pero también en el sáculo. Su primer relevo ocurre a nivel de los núcleos vestibulares en el área del puente para luego decusar por el fascículo longitudinal medial hacia el tálamo, en cuyo camino se conecta directamente con los núcleos oculomotores VI, IV, III y con el núcleo intersticial de Cajal (para claves posturales) antes de llegar a nivel talámico donde se generan múltiples proyecciones a la corteza18-20.
+
+Conocer este aspecto es importante, ya que alteraciones a nivel periférico en el sistema vestibular o en el tronco bajo (núcleos vestibulares), antes de la decusación de la vía, generarán una desviación de la verticalidad subjetiva con respecto a la verticalidad real de la fuerza de gravedad, hacia el lado de la lesión. Una alteración en tronco alto, por sobre la decusación, no solo generará una desviación hacia contralateral, sino que ésta será habitualmente de mayor grado y más persistente en el tiempo, y se acompañará con respuestas motoras tónicas disarmónicas, como lo son los elementos de la reacción de inclinación ocular completa (ocular tilt reaction), que incluyen la desalineación vertical de los globos oculares (skew deviation), y la ciclo-rotación de estos últimos dentro de la órbita21,22. Estos elementos son característicos de lesiones centrales en pacientes con vértigo, mareo o desequilibrio. Por ende, una alteración de la verticalidad sin estos elementos es muy sugerente de una lesión periférica o de tronco bajo.
+
+El SVV consiste justamente en evaluar esta representación interna de verticalidad, situando al paciente a un escenario libre de claves visuales que le orienten sobre la posición real del suelo, y en esta situación presentarle una línea, la cual el paciente debe rotar hasta llevarla a lo que él considera es una situación de perfecta verticalidad con respecto al suelo o la fuerza de gravedad. Pacientes con una función utricular normal posicionarán la línea con escaso error con respecto a la dirección real de la fuerza de gravedad. Pacientes con esta función alterada situarán la línea con una desviación importante y sistemática con respecto a la verdadera verticalidad, ya que su propia percepción de dónde está el suelo se encuentra tónicamente alterada11-14.
+
+La forma clásica de conducir el SVV es en una cámara oscura utilizando un domo y una línea luminosa, transformándolo en un examen difícil de implementar. Sin embargo, en el año 2009 se valida la prueba del balde con igual confiabilidad, sensibilidad y especificidad12. En esta variante se utiliza un balde que tiene una línea en su fondo, mientras que por fuera cuenta con un peso y un transportador que permite medir el grado de desviación del eje vertical real dado por la fuerza de gravedad. El paciente posiciona su cabeza al interior del balde eliminando claves visuales externas e instruye al examinador como girar el balde hasta que la línea en su fondo calce con su representación de la verticalidad. El límite que se considera en la mayoría de las publicaciones para una disfunción utricular es mayor a 2,5°11,12,23. La sensibilidad de la prueba del balde es de 89% si se evalúa monocularmente o 90% si es binocular, de repetirse la prueba 10 veces la sensibilidad aumenta a 92% para detectar alteraciones utriculares periféricas12. SVV ha sido utilizado ampliamente para estudiar alteraciones del equilibrio, en diversos contextos, con gran impacto en la toma de decisiones y manejo de pacientes24-32.
+
+Considerando el bajo costo y el corto tiempo que consume en su realización, el valor de esta prueba en el examen otoneurológico es en extremo relevante.
+
+Sin embargo, el test del balde dista de ser perfecto. En general el temblor fino del examinador, la dificultad de mantener alineado el balde con respecto a la cabeza del paciente durante las rotaciones, así como lo grueso y burdo del sistema de pesos-transportador utilizados para leer una variación de apenas pocos grados, son todos factores que impresionan disminuir su plena precisión. En la literatura no se han abordado sistemáticamente estas dificultades prácticas en la implementación de verticalidad.
+
+Se han reportado algunos intentos de perfeccionar la técnica, por ejemplo, a través de una interfaz y un software computacional, la que, sin embargo, no se ha comparado con la prueba de balde u otros métodos tradicionales33.
+
+OBJETIVO
+
+El objetivo del presente estudio es buscar una mayor precisión al eliminar variables derivadas del examinador. Para dicho efecto se diseñó un nuevo método utilizando un programa computacional y una interfaz pantalla-paciente buscando validarlo con respecto a la prueba del balde como patrón de oro, nuestra hipótesis es que la nueva versión del SVV logrará discriminar con mayor sensibilidad y especificidad (reflejando su mayor precisión) que el test del balde, entre pacientes con patología vestibular y voluntarios sanos.
+
+MATERIAL Y MÉTODO
+
+Se condujo un estudio prospectivo de evaluación de test diagnóstico. Se comparó, en dos muestras (una de voluntarios sin historia de patología vestibular y una segunda con pacientes consultantes por vértigo con al menos otro examen vestibular alterado), los resultados de la aplicación de SVV en dos modalidades: prueba del balde tradicional y una prueba computarizada propuesta en el presente artículo.
+
+Para la prueba del balde se utilizó un dispositivo siguiendo las instrucciones de Zwergal12, el cual ha sido presentado ya en otro artículo de esta revista11 (Figura 1).
+
+ 
+
+
+
+Figura 1. Imagen representativa de la prueba del balde.
+
+ 
+
+Se diseñó un software para la aplicación de SVV (disponible para sistemas operativos Windows versión XP en adelante y MAC OS versión Yosemite en adelante, que los autores entregan para su libre uso y descarga a través del vínculo: https://goo.gl/P4rTpA).
+
+Este presenta en la pantalla de un monitor una barra que puede ser rotada utilizando el teclado del computador (Figura 2). Se muestra además el grado de desviación exacta de la verticalidad de la barra con respecto a la verticalidad del monitor (asumida como verticalidad real). El examinador puede definir posiciones de inicio de la barra con una angulación de 45° hacia izquierda o derecha, desde esta posición, y utilizando el teclado del computador, el paciente debe llevar la barra a lo que él considera como vertical. Para aislar al paciente de claves visuales externas de verticalidad (de modo que su verticalidad subjetiva dependa exclusivamente de su sistema vestibular), se diseñó una interfaz semejante al balde clásico para adosar a un monitor (Figura 3, Anexo 1) muestra instrucciones para la confección de éste). Dicha interfaz permite al examinador además conocer el grado de inclinación de la barra en términos de grados con dos decimales de exactitud.
+
+ 
+
+
+
+Figura 2. Software para la aplicación computarizada del SVV. Se puede          observar la barra a ser rotada. Hacia la izquierda de la imagen se aprecian          los comandos para manejar el programa y el grado de inclinación          (0° en el ejemplo, con la barra sin desviación de la vertical real).
+
+ 
+
+
+
+Figura 3. Interfaz de la aplicación computarizada del SVV.          El paciente solo observa la barra a ser rotada, sin otras          claves de verticalidad del entorno.
+
+ 
+
+Anexo 1
+
+
+
+  
+
+Se condujo el estudio en el Servicio de Otorrinolaringología del Hospital San Juan de Dios durante el periodo comprendido entre los meses de septiembre de 2015 y mayo de 2016, aplicando ambas técnicas tanto a un grupo de voluntarios sin historia de patología vestibular, como a pacientes con alteraciones en su prueba de VIII par (asimetría mayor de 30% en prueba calórica).
+
+Para el análisis de datos se utilizó software SPSS 20. Se consideró valor absoluto de desviación desde eje de verticalidad real, sin hacer distinción entre desviación a derecha o izquierda.
+
+RESULTADOS
+
+Se reclutaron 43 voluntarios sanos sin historia actual o previa de trastorno del equilibrio, 29 de ellos mujeres correspondientes al 65,9% de la muestra. El promedio de edad fue de 33 años con un rango entre 16 y 59 años.
+
+La muestra de pacientes con patología vestibular demostrada por prueba calórica constó de 32 pacientes, 22 de ellos mujeres (69%), con una edad promedio de 36 años con un rango entre 19 y 63 años.
+
+No hubo inconvenientes al realizar primero prueba con balde y a continuación prueba digital con computador. El resultado principal evaluado fue el valor de desviación de la verticalidad expresado en grados, y en términos de valor absoluto (no se hizo diferencia entre desviaciones a izquierda o derecha).
+
+La distribución de los resultados resultó normal para la prueba digital (Shapiro Wilk con p =0,321), pero no-normal en la prueba con balde (Shapiro Wilk con p =0,002) por lo que se privilegiaron estadísticos no paramétricos.
+
+La Tabla 1 y la Figura 4 resumen las medias y desviaciones estándar (DE) de SVV con balde y digital separados por voluntarios sanos y pacientes con patología demostrada. La diferencia de SVV entre voluntarios sanos y pacientes patológicos fue significativa tanto con el balde como con SVV digital (wilcoxon p <0,001 en ambos casos), donde pacientes con patología mostraron valores mayores con ambos tipos de prueba.
+
+ 
+
+Tabla 1. Resumen resultados SVV. Se muestras medias y desviaciones estándar (DE)          de SVV con Balde y Digital separados por voluntarios sanos y pacientes con patología          demostrada
+
+
+
+ 
+
+
+
+Figura 4. Resumen resultados SVV. Las diferencias entre todas las columnas y          grupos son significativas con una prueba de Wilcoxon con valor p de al menos          0,02 en todos los casos.
+
+ 
+
+Así mismo, la diferencia entre SVV con balde y digital (donde SVV digital mostró siempre valores menores y con menor desviación estándar que SVV con balde) fue significativa tanto en voluntarios sanos como en pacientes con patología (wilcoxon p <0,02 en todos los casos).
+
+En la Figura 5 se aprecian las curvas ROC (evaluación de la sensibilidad y especificidad de la prueba considerando distintos puntos de corte para discriminar entre sanos y patológicos) tanto para la prueba con balde como digital. Se aprecia que el área bajo la curva ROC fue mayor para SVV digital (0,945) que para SVV con balde (0,823). El detalle de los valores de sensibilidad y especificidad en algunos puntos de corte se resumen en la Tabla 2. Arbitrariamente hemos seleccionado los puntos de corte con mejor combinación de valores de sensibilidad y especificidad en 2,5° para SVV con balde y 2° para SVV digital.
+
+ 
+
+
+
+Figura 5. Curva ROC. La prueba de SVV con balde obtuvo un área bajo la          curva de 0,823. SVV digital obtuvo 0,945.
+
+ 
+
+Tabla 2. Valores de Sensibilidad y Especificidad en distintos puntos de corte
+
+
+
+ 
+
+En la Figura 6 hemos querido diagramar todos los casos, añadiendo líneas de referencia para los puntos de corte seleccionados de la Tabla 2. Círculos blancos muestran los verdaderos voluntarios sanos y triángulos negros los verdaderos pacientes patológicos. En el cuadrante inferior izquierdo muestran los casos determinados como sanos por ambas pruebas. Círculos blancos fuera de este espacio son falsos negativos según una u otra prueba. En contraste casos en el cuadrante superior derecho son casos considerados patológicos por ambas pruebas. Triángulos negros fuera de este cuadrante son los considerados como falsos positivos por una u otra prueba.
+
+ 
+
+
+
+Figura 6. Dispersión de casos sanos y patológicos según valores de SVV          con ambas pruebas. Se añaden líneas de referencia en los puntos de          corte seleccionados de la Tabla 2.
+
+ 
+
+DISCUSIÓN
+
+El SVV con balde ha demostrado ser una herramienta de bajo costo y alta utilidad clínica en la evaluación de pacientes consultantes por vértigo y trastornos del equilibrio11,12. En casos con valores de desviación elevado, sobre 4° de desviación, no cabe duda de ser éste un resultado patológico. Sin embargo, en numerosos casos más cercanos a su punto de corte tradicional entre 2° y 3°, las imprecisiones propias de la técnica con balde pueden resultar críticas. Por un lado, el temblor fino del examinador genera oscilaciones de medio o hasta un grado durante la examinación. Por otro lado, la medición del resultado utilizando un peso y un transportador análogo convierte diferencias de medio o un grado en algo más subjetivo que objetivo, dependiendo mucho del examinador sujetando el balde. Otras variables como la inclinación del balde en otros ejes, como atrás o adelante, también influyen en lo fluido o dificultoso de cómo se desliza el peso sobre el transportador del cual depende la medición. Todos estos pequeños factores nos impresionan pueden influir en los resultados, añadiendo elementos de error y dispersión a la prueba.
+
+En el presente estudio comparamos este método con una versión digital que pretende disminuir estos sesgos, utilizando una pantalla de computador y una interfaz fija, y donde el examinador no es intermediario de la prueba: es el propio paciente quien controla la verticalidad de forma directa mediante el teclado del computador. En este sentido, esta versión es más semejante a la prueba original en domo luminoso, aunque con un costo muchísimo menor.
+
+Un aspecto que puede suscitar cuestionamien-tos de la metodología utilizada tiene relación con que nuestra definición de paciente con alteración vestibular como patrón de referencia es una prueba calórica alterada, estudio que evalúa la función del canal lateral, mientras que el SVV en cualquiera de sus formas mide la función del utrículo. En estricto rigor este cuestionamiento es correcto y lo ideal sería ocupar otro método que evalúe específicamente la función utricular. Sin embargo, esto puede resultar imposible en la actualidad, ya que incluso los o-VEMP que se postulan miden específicamente la función del utrículo parecen no evaluar el mismo aspecto de dicho órgano que el SVV. Diversos estudios muestran la discrepancia existente entre resultados de SVV y o-VEMP en el mismo paciente7,34. Por otro lado, la mayoría de los pacientes con una prueba calórica alterada, presentan alteraciones en su función utricular, ya sea medida mediante SVV u o-VEMP, dado que tanto el canal lateral como el utrículo son inervados por el nervio vestibular superior e irrigados por la arteria vestibular anterior. Así, en las patologías tanto de etiología neural o vascular, en general ambas estructuras están comprometidas, por lo que utilizar la prueba calórica como referencia parece válido. En nuestro servicio no contamos con la posibilidad de realizar o-VEMP, por lo que descansamos en este raciocinio para justificar la validez de nuestros hallazgos.
+
+En nuestros resultados podemos ver cómo SVV digital genera valores menores de desviación que el balde (Figura 5 y Tabla 1), pero mucho más importante estos valores presentan una menor dispersión, una menor desviación estándar. Creemos que esta disminución en la dispersión refleja la disminución de los factores de error comentados más arriba.
+
+Pero quizás nuestro resultado más significativo es la mejor área bajo la curva ROC del SVV digital. Esto refleja que las propiedades de respuesta de sensibilidad y especificidad del SVV digital son incluso mejores que SVV con balde para discriminar entre pacientes con patología y voluntarios sanos, al menos en nuestra muestra.
+
+En términos concretos esto se puede apreciar en la Tabla 2, donde vemos como mientras SVV con balde muestra 57% de sensibilidad y 90% de especificidad, SVV digital tiene 74% de sensibilidad y 93% de especificidad (considerando un valor de corte de 2,5° para SVV con balde y 2° para SVV digital, lo que es concordante con los menores valores y dispersión ya comentados de SVV digital).
+
+CONCLUSIÓN
+
+En suma, el SVV computarizado arroja un resultado más preciso que SVV con balde, con mayor utilidad clínica al tener mayor poder discriminador con mejores perfiles de sensibilidad/especificidad.
+
+Manteniendo el espíritu de lograr métodos simples, confiables, precisos y de fácil aplicación en la evaluación vestibular, que sean de sencilla aplicación en todos los contextos de atención en salud, hemos preferido dejar a disposición aquí, tanto el software diseñado mediante el siguiente enlace [https://goo.gl/P4rTpA] y el código QR (Figura 7) para su descarga e instrucciones, además de una guía para construir al interfaz a la pantalla del computador (Anexo 1).
+
+ 
+
+
+
+Figura 7. Código QR. Acceso a descargar          software diseñado.

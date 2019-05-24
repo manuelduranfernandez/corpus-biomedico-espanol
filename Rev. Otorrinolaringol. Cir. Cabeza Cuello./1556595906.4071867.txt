@@ -1,0 +1,168 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162009000200014
+Mecanismos de resistencia antimicrobiana en patógenos respiratorios
+
+ 
+
+INTRODUCCIÓN
+
+Las infecciones del tracto respiratorio son la principal causa de consulta médica a nivel de atención primaria y representan la indicación más frecuente de antibióticos en pacientes ambulatorios, lo cual se hace sobre bases empíricas. Estas infecciones pueden presentar serias complicaciones si son tratadas de manera inefectiva1.
+
+La resistencia antimicrobiana ha aumentado en patógenos respiratorios, constituyendo un importante problema para la elección de un antibiótico. Los microorganismos han desarrollado sistemas de resistencia a diversos agentes antimicrobianos2. Las bacterias han evolucionado, compartiendo información genética entre ellas. Existen interacciones recíprocas entre las bacterias y el huésped, generando un sistema en homeostasls3. Estas poblaciones bacterianas reciben el nombre de microbiota normal (conocida como flora bacteriana) localizada en la cavidad oral, naso-faringe, piel, mucosa intestinal y genitourinaria. La microbiota puede proteger de agentes patógenos4. La presencia y desarrollo de estos microorganismos se denomina colonización, sin expresión clínica ni detección de respuesta inmune en el huésped6. Estas bacterias pueden producir infec-
+
+ción cuando disminuye el sistema inmune, frente a tratamiento ¡nmunomodulador, uso de instrumentos invasivos o por un desbalance de la microbiota en el curso de un tratamiento antibiótico6.
+
+Los microorganismos patógenos poseen genes de virulencia que les da la capacidad de producir daño a un huésped susceptible. La diseminación de esta virulencia entre especies bacterianas mediante transferencia horizontal de genes determina la evolución de patógenos emergentes7.
+
+En este nuevo escenario, es relevante conocer los mecanismos principales de resistencia antimicrobiana y las opciones terapéuticas en el caso de los principales patógenos respiratorios.
+
+MECANISMOS DE RESISTENCIA BACTERIANA
+
+La resistencia antimicrobiana es un problema continuo y en aumento. Se hace aún mayor cuando un microorganismo presenta más de un mecanismo de resistencia y cuando tiene la facultad de transmitirlo, no sólo a su descendencia, sino también a otras bacterias de su misma o diferente especie8.
+
+Los fenómenos de resistencia antimicrobiana son variados, destacando entre ellos cuatro mecanismos principales (Figura 1):
+
+
+
+
+
+Figura 1. Mecanismos de resistencia antimicrobiana.
+
+1) Enzimas hidrolíticas
+
+Las bacterias sintetizan enzimas que hidrolizan al antimicrobiano, destruyendo su acción antibac-teriana, sin tener posibilidad de actuar sobre el microorganismo.
+
+     Beta-lactamasas: son enzimas que hidrolizan la unión peptídica endocíclica del anillo beta-lactámico9. La producción de beta-lactamasas es el mecanismo más frecuente de resistencia antibiótica. Existen continuas mutaciones que producen expresión de beta-lactamasas de espectro extendido (BLEE), manifestándose como resistencia a cefalosporinas de 3a generación (ceftriaxona). Para combatir esta resistencia se utiliza un inhibidor enzimático que tiene mayor afinidad a la enzima e impide la destrucción del antimicrobiano y de esta manera permite su acción (clavulanato y sulbactam). Las BLEE se asocian a co-reslstencia con ami-noglicósldos y cotrimoxazol, dada la frecuencia de transferencia en el mismo plasmidio.
+
+2) Modificación del sitio activo
+
+La modificación de un aminoácido genera un blanco diferente y así disminuye la afinidad de unión por el antimicrobiano.
+
+     Modificación de PBP: El PBP (penicillin-binding-protein) es un complejo enzimático que permite la síntesis del peptidoglicano, un compuesto de la pared celular en bacterias, principalmente en Gram positivas, si se produce mutación del sitio de unión al antimicrobiano como los beta-lactámicos, éstos no pueden actuar y se genera resistencia a ellos.
+
+     Modificación ribosomal: Los genes erm A y erm B producen modificación del sitio activo del ribosoma, mediante metilación. Este mecanismo es importante en la resistencia a macrólidos en S. pneumoniaey S. pyogenes.
+
+3) Disminución de la permeabilidad de la pared celular al ingreso del antimicrobiano
+
+Cambios en el diámetro y/o número de porinas pueden bloquear el ingreso del antimicrobiano a la bacteria.
+
+ Porinas: Existe disminución de la expresión de porinas {downregulatiorí) lo que disminuye la susceptibilidad a betalactámicos y fluorqulnolonas en Pseudomonas".
+
+4) Bombas de eflujo
+
+Transporta al antimicrobiano hacia el exterior de la célula sin modificaciones, pero sin acción antimicrobiana. Existen bombas de eflujos multidrogas en la pared bacteriana que permiten la expulsión de drogas como los antimicrobianos. Los genes involucrados son MefA {Streptococcus pneumoniae), NorA (Staphylococcus aureus) y Mex {Pseudomonas aeruginosa). Estos genes explican la resistencia a macrólidos en estos patógenos12 y a fluoroqulnolonas. Para combatir este tipo de resistencia se encuentran en estudio la asociación de inhibidores de bombas de eflujo junto con el antimicrobiano13.
+
+TRANSFERENCIA HORIZONTAL DE GENES
+
+La transferencia horizontal de genes es el traspaso de información genética entre bacterias, proceso diferente a la replicación. Permite variabilidad genética y evolución bacteriana, generando la capacidad de adaptarse a las variaciones del medio. Las bacterias utilizan diversas vías para transferir información genética: conjugación, transducción y transformación (Figura 2). Estos mecanismos son el mayor determinante en la evolución bacteriana, diseminando genes de virulencia14. Es una transmisión dinámica que genera plasticidad en los genomas, dando propiedades patogénicas a muchos agentes infecciosos, previamente inocuos15.
+
+Conjugación
+
+Proceso mediado por plasmidios, elementos conjugativos, que tienen la propiedad de transferirse de una célula a otra gracias a un contacto cercano entre ambas células mediante un poro de conjugación o pili sexual. Los plasmidios son elementos genéticos móviles, de forma circular, poseen replicación propia, es decir, independiente de la duplicación bacteriana. Dentro de su información poseen casettes génicos que codifican para resistencia bacteriana.
+
+
+
+
+
+Figura 2. Transferencia horizontal de genes. Se adquiere material genético por conjugación, transducción y transformación.      Además se producen deleciones y mutaciones genéticas, que optimizan los procesos bacterianos16.
+
+Transducción
+
+Es la transferencia de material genético de una bacteria a otra mediante un virus que infecta bacterias (bacteriófago). Este virus puede integrarse en el genoma bacteriano y al transferirse a otra célula puede llevar parte del genoma de esta bacteria y así trasferir genes, entre ellos genes de resistencia antimicrobiana.
+
+Transformación
+
+Es la captura de ADN extracelular del medio, que puede integrarse en el genoma y expresarse.
+
+BACTERIAS DE IMPORTANCIA EN ORL
+
+Las infecciones del tracto respiratorio representan la causa más frecuente de consulta médica y de prescripción antibiótica. El tracto respiratorio superior es más susceptible de infecciones bacterianas en individuos con cuadros alérgicos, infecciones virales, efectos del tabaquismo y la contaminación ambiental. Streptococcus pneumoniae, Haemophilus influenzae y Moraxella catarrhalis constituyen los principales agentes patógenos del tracto respiratorio que se
+
+adquieren en la comunidad17. Durante los últimos 20 años se ha observado un aumento de la resistencia antibiótica en muchas bacterias patógenas respiratorias, con modesto desarrollo de nuevos antimicrobianos para combatir este problema. La producción de beta-lactamasa es uno de los mecanismos principales de resistencia de estos organismos, otros mecanismos incluyen impermeabilidad a la membrana, bombas de eflujo, alteración del ribosoma18. Estudios en OMA muestran una resistencia a S. pneumoniae y H. influenzae, asociado a una disminución de la respuesta bacteriológica del tratamiento antimicrobiano, con impacto en la respuesta clínica. Esto sucede por el uso masivo y frecuente de los antimicrobianos, que selecciona cepas resistentes que luego son portadas en la cavidad nasofaríngea de niños y transmitidas a sus familiares y compañeros de escuela, creando un círculo vicioso, aumentando aún más la resistencia y disminuyendo la respuesta clínica, incrementando nuevamente el uso de antimicrobianos19. Se ha observado que el tejido adenoideo de individuos sanos generalmente es colonizado por bacterias aeróbicas y anaeróbicas que interfieren el desarrollo de patógenos, esta protección no sucede en pacientes con infecciones recurrentes del tracto respiratorio. En consecuencia, es importante mantener los beneficios de la microbiota normal evitando la exposición innecesaria a los antimicrobianos y así prevenir la colonización de adenoides por potenciales patógenos20.
+
+Algunas de las bacterias que dan grandes problemas de resistencia antimicrobiana en infecciones respiratorias son: Streptococcus pneu-moniae, Haemophilus influenzae, Streptococcus pyogenes, Pseudomonas aeruginosa.
+
+Streptococcus pneumoniae
+
+Se describe resistencia a penicilina en 20%-30% y a cefotaximo en 15%. Existen diferencias según grupo etario: la resistencia de alto nivel a penicilina es de 30% en niños menores de 5 años de edad y notablemente inferior (12%-13%) en niños sobre 5 años. Con cefotaximo se observa la misma diferencia siendo menos notable. Esta alta resistencia se puede atribuir al uso masivo de antimicrobianos en niños, el intercambio de microorganismos en los jardines infantiles, y otras situaciones que lleven a diseminación de las cepas21.
+
+Los mecanismos de resistencia de S. pneumoniae a beta-lactámicos, son variados, siendo el más importante la alteración de PBP (penicillin binding protein)22, proteínas de síntesis de la pared celular (1a, 1b, 2a, 2b, 2x). Dentro de este grupo, 1 a y 2b son de alto nivel de resistencia a la penicilina y 1a y 2x para cefalosporinas de tercera generación (cefotaxima).
+
+Se produce un interesante fenómeno de transferencia genética entre Streptococcus del grupo viridans con S. pneumoniae en la faringe al existir selección por el uso de antimicrobianos (especialmente ampicilina y amoxicilina).
+
+La resistencia a macrólidos se describe en 25%, los mecanismos de resistencia a macrólidos más frecuentes en S. pneumoniae son la metiiación del ribosoma mediante el gen erm B en 58% y sistemas de bombas de eflujo mediante el gen mef A en 30% aproximadamente, existen cepas con ambos genes de resistencia, en 12%23.
+
+La resistencia a fluoroquinolonas respiratorias como levofloxacino y moxifloxacino es menos del 1%. Los mecanismos de resistencia a fluororqul-nolonas son por mutación de enzimas como glrasa y topolsomerasa, sitios donde actúa el antimicrobiano, y sistemas de eflujo, identificadas en el gen pmrA. Afortunadamente, las nuevas fluoroquinolonas no presentan altos grados de resistencia como el ciprofloxacino y disminuyen el riesgo de la emergencia de cepas resistentes24.
+
+Haemophylus influenzae
+
+La prevalence ha disminuido en forma dramática, especialmente el serotipo b, debido a la incorporación de la vacuna en 1996 en el plan nacional de inmunizaciones. En el estudio LASER se han identificado cepas productoras de beta-lactamasa en Latinoamérica, desde 15% (Brasil) -25% (Panamá); Chile muestra una prevalence de 18% de este mecanismo. La producción de beta-lactamasa es el mecanismo más importante de resistencia a las aminopenicilinas, presentando variación según la zona geográfica. La susceptibilidad antibiótica es superior al 95% cuando se utilizan inhibidores de beta-lactamasa como es clavulanato o sulbactam, asociado al beta-lactámico25.
+
+Moraxella catarrhalis
+
+Existe alta prevalence de producción de beta-lactamasa, cercana al 100%, en muchos países a nivel mundial, lo que le confiere resistencia a amoxicillna en 80%-100%. Otras resistencias antimicrobianas son: 5% a macrólidos, 14% para amoxicilina/ac. clavulánico, 20% cefuroximo y 30% cotrimoxazol. Con respecto a fluoroquinolonas, se observó 100% de cepas sensibles.
+
+Streptococcus pyogenes
+
+Existen Streptococcus l3-hemolít¡cos A, B, C, F, G y no agrupables. Algunos son estreptococos «plogénicos» con una variedad de mecanismos efectivos de virulencia que se traducen en su patogenicidad, mientras otros habitualmente forman parte de la microbiota comensal, aunque pueden aislarse en abscesos (Streptococcus milleri y Streptococcus anginosus)26.
+
+La sensibilidad a penicilina no ha tenido cambios importantes, sin embargo, puede existir falla en la erradicación bacteriológica del S. pyogenes de la faringe, cercanas al 30%, situación indispensable para la prevención de la enfermedad reumática.
+
+Los macrólidos, muestran eficacia similar a la penicilina en pacientes con infecciones por S.pyogenes. Su uso indiscriminado ha generado la aparición de cepas resistentes, la resistencia a eritromicina es de 0,5% a 60%, en Chile se ha descrito resistencia en 7,2%.
+
+Dentro de los mecanismos de resistencia descritos para los macrólidos destaca como más importante la alteración en el ribosoma, mediante una enzima metilasa dependiente del gen erm, de origen plasmidial o cromosomal 27. El mecanismo de resistencia de eflujo se ubica en el gen mefA, corresponde a cepas resistentes a eritromicina, pero susceptibles a ciindamicina.
+
+Pseudomonas aureginosa
+
+Pseudomonas es responsable de muchas infecciones severas como otitis externa difusa, otitis externa maligna, OMC y pericondritis. Dentro de los beta-lactámicos, los únicos con acción antipseudomona son ceftazidima, cefoperazona y cefepime, la susceptibilidad a ceftazidima se mantiene en más del 90%, sin embargo la resistencia a ciprofloxacino ha aumentado28. La resistencia antimicrobiana es una causa importante en la falla del tratamiento. Los mecanismos de resistencia se expresan por genes para bombas de eflujo, mutaciones que modifican el sitio de acción de los antimicrobianos, producción de 13 lactamasas y disminución de la permeabilidad al antibiótico. La resistencia a fluoroquinolonas es de 25% y se explica por sistemas de eflujo. Este problema se soluciona aumentando las concentraciones en el sitio de acción para la erradicación efectiva y la prevención de cepas resistentes. La disminución de la expresión de porinas a nivel de la membrana externa,   genera   resistencia   a ¡mipenem   y meropenem29.
+
+DISCUSIÓN
+
+El tratamiento antibiótico se realiza de manera empírica en la práctica clínica otorrinolaringológica, sin embargo el fracaso a los tratamientos obliga a identificar las cepas bacterianas y su patrón de resistencia antibiótica.
+
+La elección de un tratamiento antimicrobiano para otitis y sinusitis se ha vuelto más compleja debido al incremento en las tasas de resistencia antimicrobiana en los patógenos respiratorios. Entre las opciones terapéuticas siguen destacando beta-lactámicos como amoxicillna, amoxicillna-clavulánico; macrólidos y fluoroqulnolonas. Las cefalosporinas orales como cefuroximo son una buena alternativa para casos complejos.
+
+Asociado a la resistencia antimicrobiana existen pacientes más susceptibles a las infecciones bacterianas, debido a la disminución o ¡neficiencia de la respuesta inmune, es el caso de pacientes diabéticos, ¡nmunosuprimidos (VIH, cáncer), drogas ¡nmunomoduladoras (trasplantes), edades extremas, entre otras, lo que genera un problema mayor.
+
+El control de la prescripción de antimicrobianos permite cambiar patrones de resistencia, es fundamental mantener indicaciones correctas de acuerdo al diagnóstico planteado, seleccionando un tratamiento adecuado. Esta estrategia puede disminuir el problema de resistencia.
+
+Conocer los mecanismos de resistencia permite investigar nuevos blancos de acción para bloquear estos mecanismos, y así permitir la acción antimicrobiana deseada, como sucede con inhibidores de beta-lactamasas. En el futuro, pueden ser importantes los inhibidores de bombas de eflujo, como ya se está estudiando para cepas resistentes en Pseudomonas, importante en el manejo de otitis externa maligna.
+
+
+
+Tabla 1. Mecanismos de resistencia antimicrobiana en los principales patógenos respiratorios31
+
+Patógeno respiratorio
+
+Antimicrobiano
+
+Mecanismo de resistencia
+
+S. pneumoniae
+
+Betalactámicos
+
+Mutación de PBP
+
+
+
+Macrólidos
+
+Metilación del ribosoma (genes erm)         Bombas de eflujo (genes mefA)
+
+H. influenzae y M. catarrhalis
+
+Betalactámicos
+
+Hidrólisis enzimática por betalactamasas
+
+S. pyogenes
+
+Betalactámicos
+
+Sin resistencia
+
+
+
+Macrólidos
+
+Metilación del ribosoma (genes erm)         Bombas de eflujo (genes mefA)

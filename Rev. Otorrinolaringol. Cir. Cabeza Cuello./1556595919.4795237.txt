@@ -1,0 +1,152 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162018000400369
+Influencia de las zonas cocleares muertas sobre la autopercepción de las habilidades auditivas en adultos con hipoacusia sensorioneural bilateral
+
+INTRODUCCIÓN
+
+En la cóclea, las células ciliadas internas se encargan principalmente de la transducción del estímulo sonoro y, gracias a la tonotopía generada por la forma de la membrana basilar, son específicas para una determinada frecuencia1. En cambio, las células ciliadas externas cumplen una función mecánica que ayuda a percibir los sonidos inferiores a 50 y 65 dB HL en las frecuencias bajas y altas, respectivamente2; teniendo, además, un rol relevante en la sintonización, lo que ayuda a la especificidad frecuencial.
+
+El daño a las células ciliadas o a sus fibras nerviosas puede generar regiones que dejan de ser funcionales, denominadas “zonas cocleares muertas” (ZCM), las cuales fueron definidas por Moore3 como “una región en la cóclea en donde las células ciliadas internas y/o neuronas están funcionando tan mal, que un tono que produce un punto de máxima vibración en esa región se detecta por fuera del lugar de escucha (es decir, el tono se detecta en una región en donde la cantidad de la vibración de la membrana basilar es menor, pero las células ciliadas internas y sus neuronas están funcionando de manera más efectiva)”.
+
+Teóricamente, su importancia para la discriminación del habla sería clave, ya que las ZCM limitan la extracción de la información en el rango de las frecuencias para las que son específicas, lo que genera que la recepción ocurra en zonas funcionales contiguas si los estímulos son lo suficientemente intensos; fenómeno conocido como “escucha fuera de la zona frecuencial”. Esto podría desencadenar una percepción alterada de los tonos, sobrecarga de información que alteraría el análisis de una señal determinada en función de sus componentes, pudiendo producir, además, dificultades en la decodificación temporal al no existir relación entre la frecuencia estudiada y el lugar en el que se detecta la señal dentro de la cóclea4.
+
+La escucha fuera de la zona frecuencial puede proporcionar una idea equivocada de una pérdida auditiva, la que se puede ver reflejada, por ejemplo, en la existencia de dos curvas audiométricas gráficamente idénticas, pero que difieren en el número de ZCM. En otras palabras, la audiometría tonal por sí sola no sería capaz de identificar estas zonas, sin embargo, puede proporcionar indicios, como cuando los umbrales tonales sobrepasan los 90 dB HL en las frecuencias altas y los 75 dB HL en las frecuencias bajas, o cuando las curvas audiométricas presentan caídas bruscas en alguna zona frecuencial4.
+
+Para determinar la presencia de ZCM, se han realizado diversos estudios basados en las curvas psicofísicas de sintonización, las cuales especifican la intensidad mínima necesaria de enmascaramiento ipsilateral para un umbral audiométrico determinado, con ruidos de banda estrecha a distintas frecuencias. En un comienzo, éstas fueron consideradas el gold standard, sin embargo, diversos factores dificultan su utilización en la clínica5,6.
+
+Debido a esta necesidad, se desarrolló la prueba TEN (threshold-equalizing noise), la cual fue descrita en dB SPL y, posteriormente, en dB HL7,8. Ambas versiones se basan en la detección de umbrales de tono puro en presencia de un ruido de banda ancha, denominado ruido TEN, diseñado para producir umbrales enmascarados en un amplio rango de frecuencias.
+
+Como se mencionó anteriormente, cuando un tono puro intenta estimular una ZCM, la señal puede ser transmitida por una región funcional aledaña si se produce la vibración suficiente3, sin embargo, la cantidad de vibración producida en esta zona será menor que en la ZCM. Esto determina que el ruido TEN sea eficaz enmascarando la región funcional participante, lo que se traduce en un desplazamiento del umbral tonal hacia una intensidad mayor.
+
+Por otra parte, durante los últimos años, se ha incrementado la utilización de cuestionarios para la evaluación funcional de las capacidades auditivas, como es el caso del cuestionario Speech, spatial and qualities of hearing scale o SSQ49, el cual fue desarrollado por Noble y Gatehouse con la finalidad de proporcionar información relevante sobre la autopercepción de las habilidades auditivas de una persona frente a distintas situaciones cotidianas. El cuestionario consta de 49 preguntas agrupadas en tres escalas: habla, audición espacial y cualidades auditivas; distribuidas según la subescala pragmática que aborde cada pregunta9.
+
+En la actualidad, el cuestionario cuenta con diferentes variaciones. Siendo una de ellas, la versión acortada de 12 preguntas, la cual fue adaptada por Noble y cols, y que preserva solo algunas de las subescalas pragmáticas de la original, pero manteniendo su equivalencia10. A partir de esta última, se desarrolló una versión en español, la que posteriormente fue validada en hablantes de español chileno y denominada IROS1211.
+
+La objetivación de las habilidades auditivas entregada por cuestionarios como IROS12, resulta relevante para los procesos de (re)habilitación auditiva12,13. Pese a esto, la existencia de información específica sobre los efectos funcionales que las ZCM podrían ocasionar, aún es limitada14-16. Por lo anterior, el objetivo del presente estudio fue determinar los efectos de la presencia de ZCM sobre las habilidades auditivas de adultos con hipoacusia, utilizando el cuestionario IROS12.
+
+MATERIAL Y MÉTODO
+
+Sujetos
+
+La muestra quedó constituida por 20 individuos, siendo 50,0% del sexo masculino y 50,0% del sexo femenino, y cuyo rango etario fue de 51 a 75 años (
+
+x¯=66,3
+
+ años, DE =7,4). Se incluyeron en el estudio todos aquellos pacientes que presentaron una hipoacusia sensorioneural bilateral descendente simétrica (diferencia interaural menor o igual a 15 dB) y con umbrales tonales aéreos mayores o iguales a 55 dB HL en, al menos, una de las frecuencias estudiadas (1, 2, 3 y 4 kHz). Además, debían contar con una curva timpanométrica compatible con un oído medio indemne (tipo “A”, según la clasificación de Jerger17) en forma bilateral, y un puntaje inferior a 7 en la evaluación de deterioro cognitivo de 6 elementos (6 CIT)18.
+
+Se excluyeron aquellos pacientes que presentaron un historial de cirugía de oídos, alguna patología crónica de oído medio o externo, y presencia de desórdenes neurológicos o psiquiátricos. Del mismo modo, no fueron considerados los pacientes con tinnitus severo o catastrófico19, ni los usuarios de audífonos. Todas las evaluaciones fueron realizadas en hablantes nativos del idioma español, en las dependencias de una clínica universitaria, previa firma de un consentimiento informado y autorización del comité de ética institucional.
+
+Materiales de evaluación
+
+Prueba TEN (HL)
+
+Evaluación de la presencia o ausencia de ZCM, que en este estudio se restringió a las frecuencias de 1, 2, 3 y 4 kHz, mediante la utilización de un ruido de banda ancha ipsilateral al oído estudiado. La búsqueda de umbrales TEN se efectuó en pasos de 2 dB HL, de acuerdo con el protocolo descrito por Moore y cols7,8, y para determinar la presencia de una ZCM, se consideraron las modificaciones realizadas por Summers y cols6: 1) El umbral TEN debe ser mayor o igual a 14 dB HL sobre el umbral de enmascaramiento, 2) El umbral TEN debe ser mayor o igual a 14 dB HL sobre el umbral absoluto. Para la aplicación de la Prueba TEN, se utilizó el CD TEN Test (HL) de B. Moore, utilizando un reproductor de CD marca Philips, modelo Expanium 3361-01, y un audiómetro Interacoustics® modelo AC40 con fonos TDH39.
+
+Cuestionario sobre el lenguaje, la audición espacial y las cualidades auditivas, versión abreviada (IROS12) El cuestionario IROS12 fue aplicado en formato entrevista, solicitándole a los participantes puntuar las diferentes habilidades auditivas mediante una escala graduada de 0 a 10 puntos (los valores cercanos a 0 se relacionan con una mayor dificultad o incapacidad, mientras que los valores cercanos a 10, identifican lo opuesto)9-11.
+
+Análisis estadístico
+
+La muestra fue dividida en dos grupos, en base a la presencia [ZCM (+)] y ausencia de ZCM [ZCM (-)]. Se utilizó la prueba de normalidad de Shapiro-Wilk, aplicándose pruebas no paramétricas cuando los grupos no presentaban una distribución normal de los datos. Para las comparaciones entre grupos se utilizó prueba t-test de muestras independientes o Mann-Whitney U. La información fue procesada en el software estadístico IBM SPSS, versión 22.0.
+
+RESULTADOS
+
+La muestra presentó un promedio tonal puro bilateral (PTP 0,5, 1, 2 y 4 kHz) de 44,7 dB (DE 11,1), indicando la presencia de una hipoacusia moderada20 (Figura 1).
+
+Figura 1 Perfil audiométrico promedio de los sujetos evaluados (N =20). Barras representan el 95% de intervalo de confianza para la media. 
+
+Del total de la muestra, el 50,0% presentó al menos una ZCM, siendo las frecuencias de 2, 3 y 4 kHz las más comprometidas en ambos oídos; y el oído derecho presentó 20,0% más de ZCM que el oído izquierdo (Tabla 1).
+
+Tabla 1 Distribución de ZCM en función de la frecuencia en el grupo ZCM (+) 
+
+OD= Oído derecho, OI= Oído izquierdo.
+
+Además, no se observó una diferencia significativa de edad entre los grupos ZCM (+) (
+
+x¯=65,4
+
+ años, DE =8,8) y ZCM (-) (
+
+x¯=67,3
+
+ años, DE =6,1) (t(18) = .562, p =0,581), ni en la audición periférica (PTP) (ZCM (+): X =47,3 dB, DE =10,1 y ZCM (-): 
+
+x¯=42,2
+
+, DE =12,0) entre los mismos grupos (t(18) = −1,023, p = .320).
+
+Cuestionario IROS12 y ZCM
+
+En la Figura 2 se puede observar que la escala del “habla” presentó el menor valor en ambos grupos (ZCM (+): 
+
+x¯=4,7
+
+, DE =1,3 y ZCM (-): 
+
+x¯=5,6
+
+, DE =2,0), y la escala de “cualidades auditivas” obtuvo el mayor puntaje (ZCM (+): 
+
+x¯=5,7
+
+, DE =1,4 y ZCM (-): 
+
+x¯=7,0
+
+, DE =2,2), en tanto, la escala de “audición espacial” presentó una mayor variabilidad en ambos grupos (ZCM (+): 
+
+x¯=5,6
+
+, DE =2,6 y ZCM (-): 
+
+x¯=6,9
+
+, DE =2,8).
+
+Figura 2 Puntaje de IROS12 de acuerdo a la presencia (n =10) y la ausencia (n =10) de ZCM. Barras representan el 95% de intervalo de confianza para la media. ZCM: Zona(s) coclear(es) muerta(s). 
+
+Con respecto al grupo ZCM (+), sus valores promedio fueron menores en todas las escalas, sin embargo, no presentó una diferencia significativa en comparación con el grupo ZCM (-) (habla: t(18) =1,306, p=.208; cualidades: t(18) =1,619, p = .123; audición espacial: t(18) =1,082, p =.293; Promedio total: t(18) =1,535, p =.142). En el caso de las subescalas pragmáticas, en la Tabla 2 se puede observar que en “múltiples hablantes” se obtuvo el valor más bajo para ambos grupos. En cambio, el valor más alto para el grupo ZCM (-), se encontró en “segregación del sonido”, y para el grupo ZCM (+), ocurrió en “distancia y movimiento”. La subescala pragmática de “claridad y naturalidad”, por su parte, no presenta una diferencia estadísticamente significativa entre los grupos (t(18) =1,199, p =.246).
+
+Al comparar los puntajes de IROS12 entre individuos que presentan ZCMs adyacentes (n =4) y ZCM únicas o aisladas (n =6), no se observan diferencias significativas en ninguna de las subescales ni el puntaje total (p >.05).
+
+DISCUSIÓN
+
+Investigaciones previas en relación con la prevalencia de ZCM, indican la existencia de una gran variabilidad. Es así como se ha reportado en un grupo de individuos con hipoacusia sensorioneural (n =170) una prevalencia de 31% (n =53) de ZCM en, al menos, una frecuencia, sin diferencias significativas de sexo ni edad21. En un estudio similar, en un grupo de 49 sujetos usuarios de audífonos (con umbrales de tonos puros mayores a 50 y menores a 80 dB HL), se reportó la presencia de ZCM en 29% (n =14), considerando uno o ambos oídos22. En contraste con estas investigaciones, una muestra de 308 individuos de 17 a 95 años (
+
+x¯=57
+
+ años) y con hipoacusia sensorioneural, reportó que la prevalencia de ZCM alcanza 57,3% (n =177), también en uno o ambos oídos23.
+
+
+
+Tabla 2 Media (DE) de puntajes de IROS12 para cada grupo de estudio 
+
+DE= Desviación estándar; ZCM (+) = Zona(s) coclear(es) muerta(s) presente(s); ZCM (-) = Zona(s) coclear(es) muerta(s) ausente(s).
+
+En nuestro caso, se observó una prevalencia de 50%; un valor mayor a los primeros dos estudios señalados. Sin embargo, no fue posible evidenciar una tendencia clara sobre la presencia de ZCM, debido al pequeño número de la muestra. Estas diferencias reportadas en la literatura pueden deberse a distintos factores como, por ejemplo, el grado de pérdida auditiva, el perfil audiométrico de los participantes o el criterio para la identificación de las ZCM. En nuestro caso, el número de ZCM observadas pudo estar influenciado por el nivel de pérdida auditiva de los sujetos estudiados, ya que el perfil promedio sigue la forma de una presbiacusia con una escotadura en los 4 kHz, semejante al que se presenta en los traumas acústicos por exposición a ruido. Sin embargo, las frecuencias bajas y medias se encuentran conservadas, teniendo menos probabilidades de ser afectadas por una ZCM. Es importante recordar que las células ciliadas externas juegan un rol importante en la percepción sonora de los sonidos inferiores a 50 dB HL en las frecuencias bajas e inferiores a 65 dB HL en las frecuencias altas2. Por lo tanto, en pérdidas auditivas mayores sería más probable evidenciar daños en las células ciliadas internas, las que, eventualmente, podrían corresponder a ZCM, principalmente si la pérdida es cercana a los 75 y 90 dB HL en las frecuencias bajas y altas, respectivamente4. Debido a lo anterior, puede que en nuestra muestra no fuese posible evidenciar un mayor número o extensión de ZCM ya que, en promedio, ésta presentó una pérdida menor a lo descrito en la literatura.
+
+IROS12 y zonas cocleares muertas
+
+En la actualidad, existe limitada información sobre los efectos de las ZCM en la funcionalidad auditiva. En el presente estudio, si bien se observó que aquellos individuos que presentan ZCM evidencian un puntaje menor en IROS12, no existe una diferencia significativa en comparación a aquellos individuos sin ZCM. Esto podría ser explicado, en parte, por la variabilidad observada en los puntajes obtenidos, particularmente en el grupo que no presenta ZCM, y por el pequeño número de la muestra, lo que limita la capacidad para detectar diferencias significativas entre los grupos24.
+
+Distorsión o ruido
+
+Existen estudios que han reportado a individuos hipoacúsicos que presentan ZCM y que perciben los tonos puros de manera distorsionada, similar a un ruido25. Huss y Moore26 investigaron si este tipo de percepción se relacionaba directamente a la caída del tono puro dentro de la ZCM. Con este fin, estudiaron a un grupo de normooyentes y a otro grupo de sujetos con hipoacusia sensorioneural y ZCM previamente identificadas. Los participantes debieron puntuar entre 1 (tono claro) y 7 (ruido) el nivel de claridad con que percibían distintos tonos puros. En general, los sujetos con ZCM percibían los tonos más semejantes a un ruido que el grupo de normooyentes, sin embargo, no presentaron diferencias significativas entre un tono ubicado lejos y uno ubicado cerca de la ZCM. Sólo se registró una percepción ruidosa considerable cuando la frecuencia de un tono caía más de 1,5 octavas dentro de una ZCM; hallazgo que no fue consistente cuando la frecuencia del tono cayó justo dentro de la ZCM.
+
+En el caso de IROS12, la pregunta que podría evaluar esta percepción de distorsión es la que aborda la subescala pragmática de “claridad y naturalidad”, pero pese a que el resultado muestra que el grupo ZCM (+) posee un valor claramente menor en comparación al grupo ZCM (-), no presenta una diferencia estadísticamente significativa. Lo cual, puede deberse a que esta versión no sea del todo sensible para detectar los efectos psicoacústicos generados por la presencia de ZCM. Bajo ese contexto, sería interesante establecer si su versión original de 49 preguntas resulta ser más sensible; ya que, al contar con un mayor número de ítems, permite una mejor descripción de las diversas habilidades auditivas, como aquellas involucradas en la percepción de naturalidad y claridad de los sonidos cotidianos y del habla, la capacidad de segregación de los sonidos, o la identificación de mensajes lingüísticos simultáneos, entre otras9.
+
+Si bien es cierto, la sensación de distorsión o ruido de una señal producto de una ZCM podría tener implicancias en la inteligibilidad del habla, debido a que el área del habla se encuentra constituida por un espectro amplio de frecuencias; un número restringido de ZCM, así como la presencia en sólo un oído, puede que no sean suficiente para producir efectos perceptibles por el paciente26. Algunos investigadores sostienen, por ejemplo, que es improbable que una ZCM en una frecuencia aislada obligue a adoptar cambios clínicamente significativos al momento de adaptar un sistema de amplificación27; y pese a que Moore4 concluye que las ZCM extendidas son propensas a generar menos beneficios en el usuario, no está claro cuál debe ser la extensión exacta para tener un efecto significativo en el desempeño de un paciente amplificado. A pesar de que no hay un consenso, las ZCM extendidas se han definido como toda ZCM que abarca tres o más frecuencias estudiadas consecutivas14,27.
+
+Siguiendo esta definición, Pepler y cols27 señalan que los pacientes con ZCM extendidas presentan, por lo general, una pérdida auditiva mayor que los que poseen una ZCM en una frecuencia aislada. Además, señalan que es más probable que los usuarios de audífonos presenten un número mayor de ZCM en comparación con los sujetos que no utilizan ningún tipo de sistema de amplificación, debido, probablemente, a que su pérdida auditiva es más profunda. Por lo tanto, puede que el cuestionario IROS12 sea más sensible en identificar dificultades funcionales en sujetos que presenten ZCM extendidas, no así para aquellos que presenten una única frecuencia comprometida.
+
+Limitaciones
+
+Es posible que los efectos funcionales de la presencia de ZCMs medidos por el cuestionario sean más evidentes en aquellas personas que sean usuarios o tengan experiencia en el uso de audífonos, ya que existen estudios que afirman que la amplificación de las señales acústicas, en particular, las relacionadas con el lenguaje, no presentan un buen rendimiento frente a niveles altos de ruido en sujetos con tres o más ZCM consecutivas14. Debido a que ninguno de los participantes de nuestro estudio presentaba experiencia previa de uso de audífonos no fue posible establecer dicho efecto. Es importante considerar que las características audiológicas del grupo en estudio son específicas (hipoacusia sensorioneural bilateral, moderada a severa, descendente y simétrica), por lo cual no es posible extender estos resultados a otro tipo de pérdidas auditivas (Ej: hipoacusia bilateral asimétrica, unilateral o de perfil ascendente o pérdidas retrococleares).
+
+En el futuro, sería de interés considerar a un mayor número de individuos con ZCM extendidas, así como a usuarios de audífonos, a modo de establecer los posibles efectos de la amplificación en la autopercepción de las habilidades auditivas en personas con ZCM, ya sea, utilizando el cuestionario IROS12 o su versión original de 49 preguntas; e incluyendo un número mayor de participantes, lo que podría establecer una mayor precisión en los efectos funcionales que tendría la presencia de ZCM.
+
+CONCLUSIÓN
+
+La percepción de dificultades auditivas de individuos que presentan una hipoacusia sensorioneural bilateral simétrica moderada con presencia de ZCM, no difiere significativamente de aquellos individuos que no presentan ZCM. El compromiso de una frecuencia única y de forma unilateral, correspondió a la condición más frecuente al existir la presencia de ZCM.
+
+Agradecimientos
+
+Agradecimientos a Carolina Torres y Sergio Escalona por su ayuda en la recolección de datos.

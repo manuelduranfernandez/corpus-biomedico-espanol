@@ -1,0 +1,128 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162017000100003
+Cirugía endoscópica nasosinusal y de base de cráneo asistida por navegación
+
+ 
+
+INTRODUCCIÓN
+
+La cirugía guiada por imágenes corresponde a una herramienta quirúrgica que nace en el área de la neurocirugía con la finalidad de orientar anatómicamente al cirujano en el abordaje de tumores cerebrales1. Consta de una torre computacional con un software especializado al que se cargan imágenes preoperatorias del paciente, las cuales son pareadas con puntos anatómicos de referencia durante el intraoperatorio y permite ubicarse con precisión durante la cirugía2 (Figura 1).
+
+ 
+
+
+
+Figura 1. Navegador con sistema de        comunicación óptico. Se observan sus        diferentes componentes: 1. Estación        computacional. 2. Monitor para el        cirujano. 3. Sistema de comunicación      óptico.
+
+ 
+
+La primera aproximación se remonta al año 1947, cuando Spiegel y Wycis crean un sistema de cirugía estereotáxica con rayos X. Desde ese momento hasta la actualidad se ha incursionado en diversas técnicas de navegación, llegando incluso a softwares que permiten incorporar múltiples imágenes preoperatorias como tomografías, resonancias o angiografías otorgando mayor precisión en casos seleccionados. Es lo que se conoce como navegación multimodal. En 1990 se incorpora a algunos servicios de otorrinolaringología para ser un apoyo en cirugías de cavidades paranasales y base de cráneo con muy buenos resultados. En USA es utilizado por el 73% de los otorrinolaringólogos y 80% de éstos afirma que otorga mayor seguridad durante pasos críticos de la cirugía3.
+
+Navegador
+
+Como mencionamos anteriormente, el navegador se compone de diversos elementos (Figura 1). Presenta una estación computacional con un software especializado. En esta estación se cargan las imágenes preoperatorias del paciente que posteriormente serán emitidas por el monitor de la estación en sus 3 cortes: coronal, sagital y axial. Es requisito contar con una tomografía de cavidades paranasales de corte fino de 1 mm de todo el cráneo, con un protocolo de navegación del cual disponen los servicios de radiología actualmente.
+
+Una vez en pabellón, se realiza el registro del paciente que corresponde a la conexión entre las imágenes preoperatorias y estructuras anatómicas claves o hitos de referencia anatómica. Luego de este proceso el navegador es capaz de traducir cualquier punto de la anatomía del paciente en un punto dentro de las imágenes.
+
+Todos los navegadores requieren un registro en orden para poder emplear las imágenes preoperatorias. Los mejores puntos anatómicos para realizar este procedimiento son reparos óseos debido a su mayor precisión y menor tasa de errores. Existen 3 tipos de registro: el registro de puntos pareados, registro automático y registro basado en contornos. Los 3 han demostrado ser confiables con una precisión de 1-2 mm.
+
+El sistema utilizado en nuestro servicio correspondió al sistema de puntos pareados, por medio de una máscara de superficie, que es lo que se observa en la Figura 2. Luego del registro viene el rastreo intraoperatorio, que se puede llevar a cabo mediante sistemas ópticos o electromagnéticos. En nuestro centro utilizamos la conexión mediante sistema óptico, que utiliza luz infrarroja y una cámara de rastreo posicionada sobre la cabeza del paciente que reconoce instrumental con esferas reflectivas. Esto permite localizar el puntero o el material quirúrgico especializado para la navegación y traducirlo a un punto en las imágenes de la tomografía. No existen diferencias significativas entre ambos métodos, obteniendo una precisión equivalente. La estación computacional integra la información recibida mediante los rastreos y proyecta la ubicación del puntero de navegación en los tres planos de la imagen preoperatoria.
+
+ 
+
+
+
+Figura 2. En la imagen superior se observa el puntero        utilizado para realizar el rastreo intraoperatorio. En la        imagen inferior se observa la máscara de silicona        que permite realizar el registro de los puntos anatómicos.
+
+ 
+
+Es importante que durante la cirugía el cirujano realice chequeos periódicos de la precisión del navegador, posicionando el puntero o material quirúrgico sobre puntos conocidos de la anatomía, frente a cualquier incongruencia observada entre la anatomía y lo que evidencia la tomografía. En nuestra experiencia esto no fue necesario, realizando solo la calibración inicial.
+
+La navegación permite una planificación preoperatoria de la cirugía y es un apoyo imagenológico constante durante ésta. En ningún caso reemplaza los conocimientos anatómicos del cirujano, por el contrario, los complementa y los potencia. El rinólogo, debe tener una formación sólida de carácter teórico-práctico, con cursos de disección periódicos, que nunca serán reemplazados por la navegación.
+
+Indicaciones
+
+A pesar que las complicaciones de la cirugía endoscópica funcional de cavidades paranasales y base de cráneo ocurren en un bajo porcentaje de las intervenciones realizadas, generalmente corresponden a complicaciones graves, incluso fatales que generan la gran mayoría de los litigios en rinosinusología4. Es por esto, que la Academia Americana de Otorrinolaringología y Cirugía de Cabeza y Cuello recomienda el uso de navegador en ciertas intervenciones (Tabla 1).
+
+ 
+
+Tabla 1. Indicaciones de cirugía guiada por imágenes según la AAO-HNS6
+
+
+
+ 
+
+Es necesario recordar que el uso de cirugía guiada por imágenes no mejora el resultado quirúrgico, solo ofrece mayor precisión y seguridad al cirujano sin reemplazar los conocimientos y entrenamiento quirúrgico previo, como ya hemos mencionado previamente5.
+
+En nuestro centro se desarrollan alrededor de 150 cirugías endoscópicas nasosinusales al año6, en nuestra casuística se presentan 12 casos de Cirugía Endoscópica Nasosinusal asistida por navegación, lo que determina 8% de selección para el uso de esta herramienta debido a casos de anatomía compleja o alterada, resección de tumores nasosinusales y estrecha relación con estructuras nobles como órbita y base de cráneo.
+
+OBJETIVO
+
+Presentar y analizar el resultado del uso de cirugía guiada por imágenes en pacientes intervenidos en el Hospital Clínico de la Universidad de Chile.
+
+MATERIAL Y METODO
+
+Se presenta un estudio descriptivo retrospectivo llevado a cabo en el Servicio de Otorrinolaringología del Hospital Clínico de la Universidad de Chile, desde agosto del año 2015 hasta agosto del 2016. Fueron incluidos en este estudio todos los pacientes en los cuales fue utilizado el navegador, con un total de 12 cirugías de cavidades paranasales y de base de cráneo asistida por imágenes. La indicación quirúrgica y la utilidad del navegador en cada procedimiento se resumen en la Tabla 2. De los 12 pacientes, 9 fueron del sexo masculino (75%) y 3 pacientes de sexo femenino (25%), con un rango de edad desde los 13 a 69 años, con una media de 47 años. Las patologías por las cuales los pacientes se sometieron al procedimiento quirúrgico fueron: 2 fístulas de LCR (16.7%), 1 osteoma etmoidoorbitario (8,3%), 1 cuerpo extraño nasosinusal odontógeno (8,3%), 1 seno silente con enoftalmo (8,3%), 1 papiloma invertido operado (8,3%), 2 rinosinusitis crónicas operadas (16,7%), 2 rinosinusitis crónicas frontal (RSC) (16,7%) y 2 rinosinusitis crónica poliposas (16,7%).
+
+ 
+
+Tabla 2. Resumen de los 12 casos intervenidos en nuestro hospital con ayuda de      navegador. Se ordenan de forma cronológica, según diagnóstico y utilidad del      navegador
+
+
+
+ 
+
+RESULTADOS
+
+De un total de 12 cirugías realizadas con ayuda del navegador, se obtuvo 100% de éxito quirúrgico con mejoría sintomática. Durante los procedimientos no se dañaron estructuras nobles y se pudieron identificar las estructuras anatómicas en los pasos críticos de las cirugías. El tiempo aproximado en armar la torre de navegación fue de 15 minutos, lo que no influyó en retrasos del tiempo quirúrgico. En las Figuras 3 a 6 se presentan imágenes de 4 casos clínicos y el uso de navegación.
+
+ 
+
+
+
+Figura 3. Fístula LCR, base de cráneo anterior derecha a nivel de la fóvea        etmoidal asociado a meningocele. A. Tomografía computada y radiocisterno        TAC con corte sagital y coronal que evidencia dehiscencia de lámina cribosa        derecha, a nivel de la fóvea etmoidal y paso de medio de contraste desde la        rinobase a la nariz. B. Imágenes de la visión endoscópica de la fístula. En la        figura izquierda se observa escape de fluoresceína y en la figura derecha se        observan las 2 brechas (flechas) en la duramadre luego de retirar la mucosa        del techo etmoidal. C. Reducción del meningocele con bipolar. D. Captura de        la pantalla del navegador que nos permite visualizar la imagen preoperatoria        del paciente en su corte axial, coronal y sagital, más la visión endoscópica        intraoperatoria. En este caso se observa el escape de fluoresceína en relación        a la fistula de LCR de base de cráneo anterior, en la fóvea etmoidal. E. Se        visualiza la dehiscencia a nivel del techo etmoidal solo cubierto por mucosa y        que corresponde a la zona confirmada por navegación.
+
+ 
+
+
+
+Figura 4. RSC con tabicación alta del seno frontal. Se realiza frontotomía        endoscópica asistida por imágenes. A. Tomografía computada de cavidades        paranasales en sus 3 cortes: Coronal, sagital y axial. Se evidencia ocupación        de seno frontal a izquierda con tabique frontal alto. B y C. Visión endoscópica        y visión de la navegación intraoperatoria. El identificar el receso del seno frontal        corresponde a uno de los pasos críticos de la cirugía donde la navegación nos        permite ingresar con seguridad al seno frontal. En la figura C la flecha nos indica        el sitio de ingreso al receso del frontal, visualizándose hacia posterior la base de        cráneo (*), y hacia anterior una celdilla interseptal. (**). En la imagen B al        navegar se observa la celdilla interseptal y el acceso al seno frontal por posterior        a esta y por delante de la base de cráneo.D. Sinusostomía frontal tipo Draf IIB        completada, se observa el puntero de navegación en la pared posterior del seno        frontal.
+
+ 
+
+
+
+Figura 5. Papiloma invertido recidivado por segunda vez, con compromiso frontal y        etmoidal. Se realiza sinusotomía frontal Draf III. A. Tomografía computada, se observa        tumor nasosinusal izquierdo que presenta estrecha relación con órbita y base de cráneo.        B. Visión endoscópica intraoperatoria de la sinusotomía tipo Draf III, en la imagen de la        izquierda se observan ambos senos frontales y la septectomía posterior, en el centro se        observa la resección del "beak del frontal" con pinza Cobra, a la derecha se muestra la        clásica imagen en herradura del Draf III y el navegador sobre la base de cráneo.        C. Navegación intraoperatoria que nos delimita el límite lateral de la resección, en el seno        frontal izquierdo, donde había una dehiscencia hacia la órbita. Esto se sospechó durante        la cirugía y se confirmó con la navegación.
+
+ 
+
+
+
+Figura 6. Osteoma frontoetmoidal. A. Tomografía computada de órbita y        cavidades paranasales, plano sagital, coronal y axial. Se observa osteoma        etmoidal izquierdo centrado en la lámina papirácea que mide aproximadamente        22 x 30 x 28 mm en sus diámetros transverso, anteroposterior y longitudinal,        el que obstruye el receso naso-frontal izquierdo y el conducto naso-lagrimal,        además de desplazar el músculo recto medial y el globo ocular, con moderada        proptosis. En cortes sagital y coronal se observa estrecha relación del osteoma        con la base de cráneo B. Navegación intraoperatoria con imágenes de        planeamiento virtual preoperatorio. C. Se observa el puntero de la navegación        en el espesor del osteoma para corroborar localización y profundidad del        fresado. D. Fresado del osteoma con fresa de alta revolución (30.000 RPM).        E Visión endoscópica de fosa nasal izquierda posresección del osteoma, se        observa: grasa orbitaria que protruye a fosa nasal (*), receso del frontal        permeable y ampliado (**). F. Visión endoscópica de fosa nasal izquierda        posresección de osteoma, se observa: seno maxilar (*), conducto lagrimal        permeable, al irrigar fluoresceína. (**). G. Osteoma resecado en su totalidad        luego del fresado.
+
+ 
+
+DISCUSIÓN
+
+La cirugía guiada por imágenes es utilizada a menudo para facilitar el entendimiento anatómico durante la cirugía, permitiendo discriminar detalles anatómicos finos en múltiples planos en tiempo real. Se ha postulado que por estas razones podría disminuir la frecuencia de complicaciones, sin embargo, la literatura no ha demostrado esta asociación8. Es importante considerar que la incidencia de complicaciones relacionadas con la CEF es muy baja, por lo que demostrar diferencias significativas con la navegación es un desafío, ya que el tamaño de la muestra de pacientes para mostrar un efecto significativo es excesivamente grande, necesitando enrolar 3.017 pacientes9.
+
+En cuanto a sus ventajas la navegación permitiría realizar una planificación quirúrgica preoperatoria, ahorrar tiempo quirúrgico, una exploración más completa en un área potencialmente peligrosa manteniendo la indemnidad de estructuras nobles, favorecer la formación de futuros cirujanos y acortar su curva de aprendizaje, además de ser beneficiosa en la confirmación de la indemnidad quirúrgica de estructuras nobles en cirugía sinusal, especialmente en cirujanos menos experimentados10.
+
+Se espera que el error objetivo razonable esté en el rango de 1,5 a 2,0 mm con esta herramienta, utilizándose navegación con realidad aumentada se ha estimado un error de 1,5 mm o menos11, en un estudio reciente el uso de navegación virtual 3D no demostró superioridad en comparación a una guía de imagen triplana convencional12. Se ha estimado que en nuestro centro el registro de error no supera 1 mm.
+
+Se ha comprobado que la cirugía guiada por imágenes en pacientes con variedad de patologías nasosinusales con erosión de base de cráneo y/o orbitaria sin extensión intracraneal o intraorbitaria es un procedimiento efectivo y seguro, permitiendo eliminar la morbilidad y mortalidad asociada a procedimientos abiertos y necesidad de recons-trucción13. En un estudio se comparó la esfenoidotomía en CEF de revisión con y sin navegación, encontrándose que la frecuencia de esfenoidotomía exitosa con cirugía guiada por imágenes fue sobre el 91% mientras que en la cirugía sin navegación, el porcentaje de éxito bajó a 68,7%, demostrando una diferencia significativa14. En otra investigación cadavérica sobre abordaje lateral de base de cráneo, se midió el error de registro en 28 puntos de referencia quirúrgicos, analizando veinte huesos temporales de cadáveres mediante navegación electromagnética. Once de 17 objetivos (65%) en el enfoque translaberíntico y cinco de 11 objetivos (45%) en el enfoque de fosa media se identificaron, en el sistema de navegación, con error de registro de menos de 0,5 mm15. Concluyendo que el sistema de navegación electromagnético tiene una precisión suficiente para ser utilizado también en ciertos casos de cirugía de base de cráneo lateral.
+
+Paradójicamente, un exceso de confianza podría incurrir en un error en el cirujano. En efecto, Stetler y cols16 llevó a cabo un estudio en el cual los alumnos parecían confiar en el sistema de navegación en más del 90% del tiempo y demostró un aumento significativo del deseo de asumir riesgos.
+
+En otro estudio el uso de una zona de proximidad de 3 mm (zonas de alerta) alrededor de las arterias carótidas y del nervio óptico, la distancia mínima fue de 1 mm sin navegación (0,2 a 3,1 mm) y 0,6 mm con navegación (0,2 a 2,5 mm)17. Por lo que el uso de sistemas guiados por imágenes intraoperatorias puede ser capaz de aumentar la confianza de manera subjetiva del cirujano en cuanto a la proximidad de estructuras críticas.
+
+Encuestas a cirujanos han documentado mejoras en la carga de trabajo, el estrés, la orientación espacial y la confianza en la cirugía de base del cráneo, lo que implica lógicamente una mejora de los resultados. Para estudiar el estrés asociado a estos procedimientos se ha utilizado como parámetro la frecuencia cardiaca de cirujanos en formación. La carga mental durante la cirugía endoscópica funcional es alta en comparación a antes y después de la cirugía, y la navegación no demostró una diferencia significativa en el registro de la frecuencia cardiaca en comparación a la CEF sin navegación. Sin embargo, los residentes con experiencia y más de 30 procedimientos mostraron una ligera disminución en la carga mental utilizando navegación18.
+
+Pese a todos los beneficios señalados, esta herramienta no reemplaza los conocimientos y la experiencia del cirujano y no está recomendada para la toma de decisiones intraoperatorias. Por lo que debe utilizarse sólo para confirmar o validar la sospecha anatómica o para reorientar cuando la visualización es subóptima o la anatomía no es sencilla, debiendo ser utilizada según criterio clínico y aplicado caso a caso.
+
+Por otro lado, la navegación resulta de suma utilidad frente a hemostasia poco favorable, ya sea en casos de rinosinusitis crónica poliposa con inflamación severa o cirugía de tumores como papiloma invertido, en los cuales se deben hacer abordajes extendidos (Figura 5). En nuestra casuística nos permitió corroborar la localización precisa de las 2 fístulas de líquido cefalorraquídeo (Figura 3), evaluar la profundidad del fresado en el caso del osteoma etmoidoorbitario (Figuras 6B-6C) y delimitar los límites del fresado en el caso del papiloma invertido, en el que se realizó una sinusotomía frontal tipo Draf III (Figuras 5B- 5C). En el osteoma además nos otorgó la funcionalidad del planeamiento virtual preoperatorio, lo cual permite una reconstrucción volumétrica del tumor y planificación de la resección en forma preoperatoria (Figura 6). En los casos de rinosinusitis crónica operada permitió corroborar la localización que sospechaba el cirujano al encontrarse la anatomía alterada. La cirugía asistida por navegación fue de extrema importancia en 2 casos de compromiso poliposo pansinusal, en la cual la hemostasia no fue la adecuada, a pesar de contar con TIVA y las medidas habituales de hemostasia, como cotonoides embebidos en epinefrina 1:20.000. Sin contar con esta herramienta la resección no hubiera sido la adecuada. En el caso de seno silente permitió un abordaje más seguro del seno maxilar al encontrarse la órbita descendida y en el caso del cuerpo extraño odontogénico nos permitió identificarlo con certeza, al encontrarse extruido en etmoides y al haber inflamación severa.
+
+Por lo tanto, en nuestra experiencia las ventajas del uso de navegador fueron múltiples, otorgando al equipo mayor seguridad y precisión en el manejo de estos casos complejos, donde la cirugía es más extensa y demandante, debido al potencial mayor riesgo de estructuras nobles, a diferencia de una cirugía endoscópica funcional habitual de cavidades paranasales.
+
+CONCLUSIONES
+
+El uso de cirugía guiada por imágenes disminuye el riesgo potencial ocasionado por factores inherentes a la orientación anatómica permitiendo discriminar detalles anatómicos en tiempo real, otorgando mayor seguridad en procedimientos complejos de cirugía endoscópica nasosinusal y de la rinobase.

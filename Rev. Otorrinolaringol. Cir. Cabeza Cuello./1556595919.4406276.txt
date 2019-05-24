@@ -1,0 +1,84 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162018000400363
+Evaluación de procesamiento auditivo y percepción sonora en sujetos con presbiacusia
+
+INTRODUCCIÓN
+
+De acuerdo a la Organización Mundial de la Salud 360 millones de personas tienen hipoacusia en el mundo, lo que equivale a 5% de la población mundial1. Esto se acentúa en los mayores de 65 años donde se estima que uno de cada tres sufre de hipoacusia2. La presbiacusia o hipoacusia asociada a la edad corresponde a un déficit auditivo de frecuencias agudas con un patrón audiométrico simétrico para ambos oídos. Sin embargo, en la práctica clínica hay pacientes que dicen escuchar mejor por un oído que por el otro. Esta percepción asimétrica no guarda relación con la función coclear que es posible evaluar mediante la audiometría.
+
+La vía auditiva tiene representación bilateral con múltiples entrecruzamientos entre los estímulos que provienen de cada oído. Sin embargo, hace muchos años que se ha descrito una asimetría en la función auditiva con predominio de los estímulos hablados percibidos por el oído derecho por sobre aquellos percibidos por el oído izquierdo, lo que se ha denominado “ventaja del oído derecho” (VOD)3. Diversos estudios han mostrado resultados disímiles en relación a la VOD y envejecimiento4. Para algunos autores la ventaja del oído derecho se pierde en adultos mayores5 mientras que en otros casos ésta se mantiene3.
+
+A raíz de la experiencia clínica de pacientes portadores de hipoacusia simétrica con percepción asimétrica del déficit, surge la pregunta de si esta dicotomía podría tener relación con diferencias en el procesamiento auditivo del estímulo hablado. La hipótesis del presente trabajo es que en pacientes mayores de 65 años portadores de audición simétrica en la audiometría, que perciben un oído como dominante, esto se relaciona con diferencias en pruebas de procesamiento auditivo versus pacientes que tienen percepción simétrica de su déficit.
+
+MATERIAL Y MÉTODO
+
+Pacientes. Sujetos mayores de 65 años que cumplan con los siguientes criterios de Inclusión y exclusión: sin patología otológica previa, sin antecedente de exposición laboral a ruido, sin entrenamiento musical, examen otoscópico normal, sin deterioro cognitivo evaluado por Mini Mental test (puntaje >21 puntos). A todos los pacientes se les realizó audiometría (125 Hz a 8 kHz) e impedanciometría (256 Hz), los sujetos con hipoacusia asimétrica (diferencia de más de 15 dB HL en dos frecuencias continuas) y/o patología de oído medio fueron excluidos. En la entrevista inicial se registró si el paciente escucha igual por ambos oídos o percibe dominancia de alguno de ellos.
+
+Evaluación procesamiento auditivo
+
+Se evaluaron pruebas de:
+
+Escucha dicótica:
+
+–. 
+
+			Test de habla dicótica: Versión en español de Staggered Spondaic Word Test (SSW-S): corresponde a un test de habla dicótica validado al español6. Se presentan 40 grupos de cuatro palabras en forma dicótica a 50 dB SL en relación con los umbrales de las frecuencias 500, 1.000 y 2.000 Hz. Se obtiene un porcentaje de aciertos por oído.
+
+–. 
+
+			Dígitos dicóticos en español: Esta prueba está estandarizada al español7 y consiste en presentar en forma dicótica 20 sets de dos pares de dígitos a 50 dB SL en relación con los umbrales a 500, 1.000 y 2.000 Hz8. Los sujetos deben repetir los sets de cuatro números y se obtiene un resultado correcto por oído. Se obtiene un puntaje por oído.
+
+Reconocimiento del habla degradada o en ambiente de competencia sonora:
+
+–. 
+
+			Versión en español de speech in noise: Prueba validada al español7. Se presenta en forma monoaural cuatro randomizaciones de lista de 25 palabras monosilábicas en la presencia de ruido blanco a 40 dB SL relativo a umbrales tonales de frecuencias 500, 1.000 y 2.000 Hz. Esto se realiza con relación señal/ruido de 10 dB SNR. Los sujetos deben repetir cada palabra y se marcan los aciertos.
+
+Procesamiento temporal:
+
+–. 
+
+			Test de adaptación de resolución temporal (gap detection): El objetivo de este examen es determinar el umbral en milisegundos (ms) de detección de brechas de silencio por parte de un individuo. Para su ejecución se utilizó software The Beta Adult version of the Adaptive Tests of Temporal Resolution© (ATTR) desarrollado por Jennifer Lister y Richard Roberts9. Este examen emplea un paradigma de respuesta obligada adaptativa10. Al sujeto se le presentan dos sonidos. En el sonido standard se incluye un gap de 1 ms de duración. En el sonido objetivo se incluye un gap de duración adaptativa, es decir, si el sujeto acierta en identificar el sonido objeto la duración del gap disminuye en 1,2 y si el sujeto no acierta aumenta en 1,2. El test finaliza luego de 8 reversas. Los sonidos se presentan en modalidad across channel, es decir, sonido previo al silencio corresponde a ruido de banda ancha centrado en 2 kHz, y sonido posterior al silencio centrado en 1 kHz. La duración del burst previo al gap es de 300 ms y el posterior al gap varía entre 250 y 350 ms.
+
+–. 
+
+			Patrón de frecuencia: Prueba monoaural que consiste de 60 secuencias que contienen tres tonos de frecuencia baja (880 Hz) y alta (1.122 Hz) en distintas combinaciones. Cada tono tiene una duración de 300 ms y el intervalo entre secuencias es de 6 segundos. El sujeto debe identificar la secuencia.
+
+Aspectos éticos
+
+El protocolo fue aprobado por el Comité de Ética de Investigación del Hospital Clínico de la Universidad de Chile, y todos los pacientes cuentan con consentimiento informado. Se cauteló que los datos de los pacientes se mantuvieran en forma anónima.
+
+Análisis estadístico
+
+Se realizó mediante programa SPSS. Se utilizaron estadísticos descriptivos y pruebas no paramédicas (Kruskal Wallis y Mann Whitney). p <.05.
+
+Financiamiento
+
+Este trabajo cuenta con financiamiento de la Sociedad Chilena de Otorrinolaringología (Concurso de Proyectos de Investigación) y del Proyecto Anillo ACT1403.
+
+RESULTADOS
+
+Se reclutaron 49 pacientes, 37 de ellos de género femenino. Se identifican tres grupos: escuchan mejor por oído derecho (n: 19), por oído izquierdo (n: 14), o sin diferencia entre ambos oídos (n: 16) (Tabla 1). 17 pacientes tenían PTP (promedio umbral frecuencias 0,5 kHz a 4 kHz) menor a 20 dB HL, 26 entre 20 y 40 dB HL, y 6 entre 40 y 60 dB HL. El grupo de pacientes con audición simétrica tenía PTP significativamente menor que los otros dos grupos (Tabla 1).
+
+Tabla 1 Características epidemiológicas de los sujetos según oído predominante. Resultados de pruebas de procesamiento auditivo según oído predominante 
+
+SD: desviación standard; OD: oído derecho; OI: oído izquierdo; cSSW: pruebas de palabras espondaicas corregida; GIN AC: test de silencio across channel.
+
+En las pruebas de procesamiento no se encontró diferencia significativa para los grupos en la pruebas de escucha dicótica (dígitos dicóticos y SSW), ni en procesamiento temporal (gap detection y patrón de frecuencia), ni en habla en ruido (Tabla 1).
+
+Al evaluar la VOD en pruebas dicóticas se observó que el oído derecho tuvo un significativo mejor rendimiento que el oído izquierdo para dígitos dicóticos y SSW (p .0 y .007 respectivamente, test de Mann Whitney) en todo el grupo de pacientes evaluados, sin diferencia al agrupar por percepción auditiva (p .835, test de Kruskal Wallis). En particular, el grupo de sujetos que decía escuchar igual por ambos oídos también tuvo mejor rendimiento en oído derecho (p .017, test de Mann Whitney). Los casos de género femenino tuvieron diferencia significativa en relación al género masculino para la prueba de dígitos dicóticos (p .018), sin embargo en la prueba SSW no hubo diferencia entre ambos sexos (p .58).
+
+DISCUSIÓN
+
+El envejecimiento de la población conlleva un aumento progresivo de pacientes portadores de presbiacusia en la consulta del médico otorrinolaringólogo. En ocasiones es posible que los pacientes refieran escuchar mejor por un oído a pesar de tener umbrales audiométricos simétricos. El presente trabajo busca explicar esta situación a través del estudio del procesamiento auditivo, entendiendo que la audiometría otorga una información limitada de la vía auditiva y su relación con el sistema nervioso central. Para esto se utilizó una batería de exámenes que incluyeron comprensión del habla en competencia (habla en ruido), escucha dicótica (dígitos dicóticos y test de escucha dicótica o SSW) y procesamiento temporal (patrón de frecuencia y discriminación de silencios). Todos estos exámenes en español y previamente validados en Chile.
+
+Los resultados no muestran que haya una correlación entre los parámetros estudiados de procesamiento auditivo y la percepción de audición de los pacientes, ya sea simétrica o asimétrica para oído derecho o izquierdo. No encontramos en la literatura reportes similares para poder comparar nuestros resultados, razón por la cual el diseño del método fue exploratorio. Es posible que si se incluye un número mayor de sujetos estos resultados puedan cambiar.
+
+La vía auditiva desde la cóclea hasta la corteza cerebral tienen representación bilateral, sin embargo, el procesamiento de la información de ambos oídos parece no tener la misma relevancia. Para el estímulo hablado la información del oído derecho predomina por sobre el oído izquierdo4. Para explicar este fenómeno se han planteado dos teorías. Kimura en el año 1967 describe la teoría estructural: El oído derecho tienen mejor representación en el centro del lenguaje del hemisferio izquierdo, es decir la asimetría sería secundaria a un fenómeno de aferencia de información o “de abajo hacia arriba”11. Estudios posteriores han demostrado que efectivamente la vía auditiva tiene asimetrías tanto periféricas como centrales. Las emisiones otoacústicas espontáneas son más frecuentes en el oído derecho, la amplitud de emisiones otoacústicas transientes son mayores en oído derecho, el tinnitus es más frecuente en el oído izquierdo3. También a nivel central se ha puesto en evidencia que los estímulos verbales captados por el oído derecho predominan, y para los estímulos no verbales predomina la información del oído izquierdo. En el modelo de Kimura también se describe que la información adquirida por el oído izquierdo debe cruzar por el cuerpo calloso hacia el hemisferio derecho lo cual produce un desfase.
+
+La segunda teoría corresponde al modelo por Kinsbourne el año 197812. El autor plantea que la asimetría en las funciones de los hemisferios cerebrales sería secundario a un fenómeno atencional o “de arriba hacia abajo”. Este predominio del oído derecho se ha llamado en la literatura “ventaja del oído derecho”. A lo largo de la vida esta asimetría en las funciones auditivas podría modificarse. Algunos autores han demostrado que con el envejecimiento se mantiene la ventaja del oído derecho3,13. Sin embargo, otros reportes no coinciden5,14. Es importante mencionar que en pruebas de habla dicótica es relevante la atención, por lo tanto, la divergencia en los resultados de dichas publicaciones podría ser secundario a los paradigmas empleados para evaluar los sujetos.
+
+Nuestros resultados muestran que en pacientes mayores de 65 años incluidos en este estudio la ventaja del oído derecho está presente para ambas pruebas de habla dicótica evaluada, dígitos dicóticos y SSW, con una significancia muy importante. Sin embargo, esta observación no tuvo relación con la percepción auditiva del mejor oído. Hubo diferencia por sexo para los resultados de la prueba de dígitos dicóticos, no así para SSW.
+
+CONCLUSIÓN
+
+La percepción asimétrica de escucha hablada no tuvo relación con características del procesamiento auditivo evaluadas. Se puso en evidencia el fenómeno de ventaja del oído derecho para escucha dicótica en sujetos mayores de 65 años.

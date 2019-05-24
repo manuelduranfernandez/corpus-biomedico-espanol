@@ -1,0 +1,204 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162018000200221
+PET-TC, rol y fundamentos de su uso en la especialidad de otorrinolaringología y cirugía de cabeza y cuello
+
+INTRODUCCIÓN
+
+Cuando nos encontramos con exámenes y tecnologías nuevas, deberemos cuestionarnos cuáles son sus ventajas y desventajas. Hemos aprendido de la experiencia que tras haber sido liberada una tecnología, las cosas cambian rápidamente y eso, nos motiva a revisar esta temática y así tener una visión más actualizada de lo que se debería hacer, cuándo y sobre todo para qué. Hemos visto un abuso de esta tecnología que, si bien en muchas circunstancias tiene una clara indicación, conlleva un esfuerzo importante por parte del paciente desde el punto de vista económico y una gran exposición a dosis de radiación dado que combina la radiación del PET (tomografía por emisión de positrones) más la radiación de la tomografía computarizada (TC). Desde la aparición en la década de los años 1970 la tomografía computarizada por emisión de fotones o SPECT-PET, ha surgido una tecnología que ha transformado cómo entendemos las imágenes y su rol en el manejo de los pacientes.
+
+El SPECT es una tomografía que se genera a partir de la detección de rayos gamma y el PET a partir de fotones por la desintegración del positrón emitido por el radiofármaco. Así podemos adquirir una imagen desde el paciente, pero desde finales de la década de 1990 se fusionó esta tecnología con una TC, cuyo objetivo era delimitar de mejor forma, o sea un correlato anatómico la zona en la que el SPECT-PET estaba marcando como positivo o presente1. El PET-TC o positron emission tomography, o Spect fluorine 18 2-fluoro-2-desoxy-D-Glucose, se basa en la tecnología antes descrita, para marcar de acuerdo a la cantidad de esta molécula derivada de la glucosa, que esté en las células y al que se le puede fusionar una imagen de TC.
+
+1.1 Conceptos importantes en PET-TC
+
+1.1.1 Bases biológicas del PET-TC
+
+Efecto Warburg Se ha establecido, que las células de los tumores malignos utilizan glucosa en rangos mucho más amplios que el tejido normal, principalmente vía glicólisis para producción de energía independientemente de la disponibilidad de oxígeno. Este efecto de llama efecto Warburg y es la base celular, para la utilización de análogos de glucosa para PET-TC2.
+
+La fluorodesoxyglucose (FDG, o 18 2-fluoro-2-desoxy-D-Glucose), ingresa al metabolismo celular por las vías normales, como todas las moléculas de glucosa, pero luego, no es capaz de ser metabolizada, por lo que la fosforilación no se cumple y FDG queda atrapado en las células tumorales. Se usa esta molécula por su capacidad de transformase en un isótopo radiactivo.
+
+1.1.2 Standard Uptake Values
+
+La intensidad en la que marca el fotón se mide en una unidad llamada, Standard Uptake Values o SUV-max., pero esta unidad tiene variabilidades dependiendo de la técnica local y por tanto no puede estandarizarse un valor para usarlo como diagnóstico.
+
+¿Existe un límite para el SUV sea benigno o maligno?
+
+El SUV para considerarse alterado debe ser 2,5 o más. Pero existe una variabilidad entre instituciones, esto deberá entenderse de acuerdo a la preparación, tipo de instrucciones previas que se les da a los pacientes, inclusive a la temperatura en que está la pieza donde se toma el PET-TC. Por otro lado, existen tumores que por naturaleza captan SUV alto ej: tumores benignos de glándulas salivales y otros que por naturaleza captan bajo, ej: sarcomas. Ello es independiente de si una lesión será definida definitivamente como maligna o benigna con la histología. Por otra parte, existe una variabilidad entre los tumores malignos en su captación, como ejemplo los tumores escamosos y linfomas tienen alta tasa metabólica. Además, el SUV debe interpretarse dependiendo de la estructura que estamos estudiando. Por ej: un SUV de 4 en parótida puede no ser muy sospechoso pero un SUV de 4 en una adenopatía de 1 cm, sí lo es. Pareciera ser que la respuesta a nuestra interrogante es no, y cada vez encontramos más detalles en los que fijarse para interpretar de forma correcta uno de estos exámenes1,3.
+
+1.2 Interpretación del examen
+
+Habiendo revisado las bases del funcionamiento de estos exámenes, nos encontraremos ante un informe radiológico, a modo de ejemplo, que dice similar a esto: “Imagen captante en la zona periamigdalina con SUV 8,5-10”. Entonces uno como clínico se puede encontrar ante las siguientes situaciones.
+
+Falso positivo4
+
+
+
+Encontraremos un aumento de la captación que puede ser encontrado en:
+
+–. 
+
+			Tiroiditis de Hashimoto.
+
+–. 
+
+			Grasa parda en el cuello bajo. Cuando el PETTC se realiza en ambientes muy fríos.
+
+–. 
+
+			Anillo de Waldeyer, contexto inflamatorio.
+
+–. 
+
+			Laringe y lengua, pacientes que no respetan las indicaciones de no hablar ni masticar chicle, en la laringe la imagen al ser examinada en el TC simula la forma de una letra V por el uso de la musculatura de las cuerdas vocales.
+
+–. 
+
+			Músculos masticatorios en bruxismo.
+
+–. 
+
+			Diabéticos con glicemias mayor a 200 mg/dl, quienes debieran ser suspendidos y recalendarizados.
+
+Falso negativo4
+
+
+
+–. 
+
+			Por ejemplo, una gran adenopatía que se encuentra en el cuello y no marca en el PET-TC, pudiera ser debido a dos cosas en general:
+
+–. 
+
+			Que el tumor creció tan rápido y se necrosó, y es por eso que no marca en el PET-TC.
+
+–. 
+
+			Que la histología es diferente a la habitual que esperamos, y algunas histologías no marcan bien en el PET-TC, por ejemplo, un sarcoma.
+
+Tips para interpretar el examen de forma correcta5
+
+
+
+–. 
+
+			Ver el examen uno mismo, y completo, la secuencia de TC y la secuencia integrada.
+
+–. 
+
+			Los cánceres crecen como esferas, no planos, y no respetan al órgano, considerar tumores benignos o procesos inflamatorios.
+
+–. 
+
+			Si tenemos un primario y estamos sospechando una metástasis regional, por ejemplo, uno debiera entender que deben tener el mismo SUV max. Si hay grandes diferencias poco probable que sea metástasis.
+
+–. 
+
+			Si persisten las dudas, consulte con un radiólogo especialista en imágenes de cabeza y cuello. En el Hospital Clínico de la Universidad de Chile, revisamos los exámenes con mucha frecuencia con los radiólogos, quienes se retroalimentan de los cirujanos, pero también se puede solicitar diversos aspectos de importancia para la planificación quirúrgica.
+
+2. INTERPRETACIÓN DE UN PET-TC EN PATOLOGÍA PROPIA DE CABEZA Y CUELLO, SITUACIONES COMUNES
+
+Incidentaloma6
+
+
+
+El incidentaloma es aquella situación en la que el paciente, por motivo oncológico de otra zona del cuerpo, se debe realizar un PET-TC, y en ese estudio se encuentra una lesión que brilla y destaca en un área poco esperable o alejada. Causas para esto hay múltiples, desde patología inflamatoria, lo que se ve comúnmente en cavidades paranasales y mastoides o que tenga realmente una enfermedad neoplásica inadvertida. Se calcula que entre 5%- 12% de los PET-TC encontrarán alteraciones en el área de cabeza y cuello y que el riesgo global de malignidad, llega a ser de 21%. La glándula tiroides es la que se lleva gran parte de la carga de estos números (riesgo de 25%-50% de tener una neoplasia maligna). Para clarificar este tema, haremos uso de la serie publicada por Hal-Hakami6 quienes publican de un total de 1.565 PET-TC tomados: encontraron 2,43% de incidentalomas que deberían haber sido estudiados bajo los criterios expuestos en la Tabla 1. Lo interesante, es que proponen los siguientes criterios para decidir si un incidentaloma debe estudiarse o no, criterios propuestos en Tabla 1. De las 38 lesiones incidentales que se estudiaron, los resultados significativos fueron: 9 neoplasias de tiroides, 2 de parótidas y un linfoma en una adenopatía.
+
+Tabla 1 Criterios para estudio dirigido de incidentalomas, propuesto por Hal-Hakami6
+
+						 
+
+Standard Uptake Value (>2,5) en todo cabeza y cuello, excepto en el anillo de Waldayer (>3,0).
+
+Marcación focal intensa o unilateral, con morfología sospechosa en el scanner.
+
+Patrón de captación atípico (por ejemplo asimétrico).
+
+Incidentaloma persistente en la región de cabeza y cuello, que progresa o persiste en otros estudios imagenológicos a futuro de los pacientes.
+
+En los estudios publicados6,7, se calcula un riesgo de patología neoplásica maligna de 21% ante un paciente que se pesquisó una lesión incidental en cabeza y cuello. Esta tasa de riesgo aumenta cuando se incorpora las lesiones de tiroides, ya que los incidentalomas en tiroides el riesgo de malignidad alcanza hasta 50%.
+
+3. USO CORRECTO Y ACTUAL DEL PET-TC EN PATOLOGÍA DE CABEZA Y CUELLO
+
+3.1 Estadiaje
+
+Debemos destacar que el PET-TC requiere de un volumen tumoral de al menos 1 cc3. Si se quiere estudiar una lesión superficial o de extensión mucosa, no tendremos ese tipo de lesiones visible en este examen8. Por ello, no tiene rol en los tumores N0, tampoco es un examen que nos de información fina acerca de la anatomía, por lo que el PET-TC no reemplazará las imágenes más finas como resonancia nuclear magnética e incluso TC de cuello con y sin contraste. Si lo que se requiere es evaluar el T del paciente, el PET-TC no nos aportará en este ámbito.
+
+Cuando se ha usado de forma indiscriminada e irrestricta el PET-TC, no ha tenido impacto en la sobrevida ni en la toma de decisiones oncológicas1,8. En global se calcula que, usando este examen en cabeza y cuello, tiene una sensibilidad de 70%- 95%8,9, dependiendo principalmente del contexto en que se solicite este examen. Dado lo expuesto en los párrafos previos, entendemos que, para el estudio del T, tiene pocas o casi ninguna indicación en el estudio de un tumor primario. Es el contexto general del paciente que estaremos estudiando, tendremos que evaluar el rendimiento de este examen respecto a las metástasis regionales (N)8,9.
+
+Si el cuello es N+, la sensibilidad es de 80% y especificidad de 86%.
+
+Si el cuello es N0, sensibilidad es de 50% y especificidad de 87%.
+
+Todo lo anterior no es válido, si encontramos en el contexto de un cáncer de cabeza y cuello una masa que marca en la parótida. Encontraremos un tercio de neoplasias benignas, un tercio de patología inflamatoria y un tercio de metástasis. Por lo tanto, se recomienda un estudio dirigido, antes de tomar decisiones oncológicas10.
+
+Cuando evaluamos los pacientes de cabeza y cuello nuestra principal preocupación en lo concerniente a una eventual metástasis a distancia, estará radicada en el pulmón, sitio más frecuente de metástasis de los cánceres escamoso de la cabeza y el cuello. Nos podemos encontrar dos condiciones que nos pueden llevar a error al interpretar un PET-TC, la primera es el tamaño tumoral necesario de 1 cc3 no se haya alcanzado aún por lo que el PET-TC no marcará la lesión secundaria, el segundo es que, en lesiones pequeñas, se pueden producir problemas con la adquisición de imágenes, por los movimientos torácicos1,9.
+
+3.2. Nasofaringe e hipofaringe
+
+Como excepción a lo anterior, sí está recomendado en el estudio de lesiones de hipofaringe en particular el comportamiento especial que tiene esta sublocalización, es de una alta tasa de metástasis regionales y a distancia8. Otra sublocalización en la que se recomienda de forma inicial el PETTC, es en el manejo y estudio de las lesiones de nasofaringe8,11. Se recomienda desde las lesiones en estadios I-II por la alta tasa de metástasis tempranas y que éstas pueden producirse en zonas de difícil interpretación como la retrofaringe y el grupo V. Es importante por lo mismo, si el planteamiento inicial es de tratamiento quirúrgico.
+
+3.3. Metástasis cervical de primario desconocido
+
+La metástasis cervical de primario desconocido es una entidad en la que, nos encontramos con una lesión, ubicada en una adenopatía y que, el examen físico y endoscópico es normal y, por lo tanto, no somos capaces de establecer el origen de la metástasis. En este contexto, el PET-TC tiene una sensibilidad de 90% pero una especificidad de 50% versus TC o RNM, que tienen una sensibilidad de 70%. Por lo que la gran utilidad que tiene PET-TC en este contexto, no es eliminar el mapeo con biopsias, sino que dirigirlo específicamente. Si el PET-TC es falso negativo, la gran mayoría de las veces la lesión estará en las amígdalas y/o base de lengua. Se calcula que el PET-TC, es capaz de identificar la ubicación del primario en 29%-54% de las veces1,10,11.
+
+3.4. Segundo primario y/o enfermedad avanzada
+
+En el estudio de un paciente con cáncer escamoso de cabeza y cuello, encontraremos que entre 7,4%-18% de ellos, tendrán un segundo primario. Concepto de un “campo cancerígeno” se agrega a la discusión, ya que toda la vía aérea digestiva superior (VADS) ha estado expuesta a los factores de riesgo asociados, tabaco y alcohol principalmente.
+
+Los resultados del PET-TC para detectar segundos primarios tienen una sensibilidad del 87% y especificidad de 95%. Lo interesante es que, si se detecta un segundo primario, 80% de las veces hay cambios en los planes de tratamiento9. Se sabe, que en 5% de los pacientes con carcinomas escamosos de la VADS tendrán un segundo primario, por lo que realizarles a todos un PET-TC no tiene indicación con relación costo/beneficio. Frecuentemente se pesquisarán nódulos pulmonares, solitarios o únicos, en ausencia de síntomas, pero en pacientes que frecuentemente están expuestos al mismo factor de riesgo que necesitarán estudiarse. La clínica y la radiología tradicional nos dirán finalmente quiénes serán los que se beneficiarán de realizar un PET-TC y/o una biopsia, previa al tratamiento del primario.
+
+En los pacientes con enfermedad avanzada, se puede indicar el PET-TC para buscar enfermedad diseminada. Las condiciones de dicha enfermedad avanzada que tiene un mejor rendimiento son: adenopatías bajas positivas, múltiples adenopatías locales, histologías muy agresivas, tumores localmente muy avanzados en concomitancia a adenopatías locales (T3-T4 con N+)1.
+
+3.5. Seguimiento paciente tratado
+
+Seguimiento con imágenes
+
+Una vez terminado el tratamiento, y ante la necesidad de realizar seguimiento con imágenes a las 10-12 semanas o más después de terminado el tratamiento con radioterapia, tendremos básicamente 3 tipos de imágenes complementarias como opciones y que, se sumarán al examen clínico y endoscópico. Cuando las imágenes se realizan a las 12 semanas o más, obtendremos las siguientes sensibilidades y especificidades de esos exámenes:
+
+–. 
+
+			TC
+
+Sensibilidad 67%
+
+Especificidad 78%
+
+–. 
+
+			RNM
+
+Sensibilidad 81%
+
+Especificidad 46%
+
+–. 
+
+			PET-TC
+
+Sensibilidad 94%
+
+Especificidad 82%
+
+Un valor predictivo negativo (VPN) en PET-TC es bueno, pero el valor predictivo positivo (VPP) no, principalmente por inflamación e infecciones. Es de mejor resultado cuando se evalúa el cuello con el PET-TC. Allí la anatomía se encuentra distorsionada por el efecto de la radioquimioterapia-cirugía por lo que se hace difícil la interpretación con los exámenes de RNM o TC13.
+
+En este ámbito es donde hay más consenso y evidencia que soporten el uso de esta tecnología en la patología de cabeza y cuello. Una vez tratado, sobre todo si el paciente fue irradiado sin haberse realizado cirugía con márgenes libres, se puede producir radionecrosis y las masas residuales postratamiento son difíciles de interpretar con los estudios anatómicos como la RNM o TC. En este sentido, el PET-TC, si se hace en el momento correcto (10-12 semanas habiendo terminado el tratamiento), debiera estar con niveles de captación normal para el área en estudio. Si el PET-TC es negativo el valor predictivo negativo es casi 100%1. Si el PET-TC es positivo el valor predictivo es cercano al 70% ya que la granulación e inflamación posradioterapia también pueden aumentar su captación1. El dilema está en que, al hacer biopsias profundas, podemos acelerar los procesos de radionecrosis, y por tanto esta decisión deberá tomarse muy cuidadosamente.
+
+Vaciamientos planificados prerradioquimioterapia
+
+En algunos contextos clínicos, sobre todo en tumores con N+, el tratamiento planeado es radioquimioterapia y de realizar un vaciamiento de cuello 8 semanas postratamiento.
+
+A las 4 semanas, si se realiza el PET-TC el VPP es de 100% y el VPN es de 14%. O sea, es ineficiente y no permite tomar conductas a tiempo.
+
+A las 16 semanas, si se realiza el PET-TC el VPP es de 77% y el VPN es de 97%. Pero esto es oncológicamente incorrecto, ya que se produce un impacto en la sobrevida al retardar tanto el vaciamiento.
+
+Un estudio donde se estudiaron 588 pacientes con cánceres escamosos de la VADS, donde sólo se incluían pacientes TX N2-3 M0 y todos los cuales, serían tratados con radioquimioterapia fueron asignados a dos ramas: 1 -vigilancia con PET-TC o 2.- cirugía a las 8 semanas. No se encontró diferencias en la sobrevida, ni en el impacto oncológico, mejor calidad de vida postratamiento. De este estudio se calcula que se evitaron cerca del 80% de las disecciones de cuello. Como apéndice destacado de este mismo trabajo, es que si en el PET-TC de control, hay una captación intermedia, se recomienda realizar el vaciamiento de cuello. Por lo tanto, se interpreta que, sólo se aceptarán resultados negativos como válidos para descartar la cirugía14.
+
+4. PET-TC COMO MÉTODO DE TAMIZAJE
+
+Usar el PET-TC como método de tamizaje no tiene evidencia que soporte esta conducta ya que, no es costo efectivo, no garantiza el diagnóstico (falsos positivos y negativos) y además se debe considerar que no diagnostica lesiones menores a 1 cc3 y que no diagnostica las lesiones que crecen con extensión mucosa1,5.
+
+DISCUSION
+
+Más allá de estar al día, muchas veces deberemos usar nuestro criterio, el PET-TC es un examen de elevado costo y que tiene una importante dosis de radiación para el paciente. Creemos que, usándolo de forma correcta, tanto en la indicación como el momento en que se solicita, es una herramienta muy útil y viene a aportar a nuestro arsenal en el estudio y tratamiento de los pacientes oncológicos. Hemos desarrollado un breviario acerca de las recomendaciones que, de acuerdo a la evidencia y en nuestra experiencia, es cuando más se beneficiará el paciente de la realización de este examen (Tabla 2).
+
+Tabla 2 Recomendaciones para estudio con PET-CT en patología de cabeza y cuello 
+
+Sin dudarlo, es una herramienta, que nos permite, fusionar lo anatómico con lo funcional y por tanto nos ayudará a realizar un mejor diagnóstico y a su vez tomar mejores decisiones para nuestros pacientes. La decisión siempre estará radicada en nuestro paciente, a quien de forma individual deberemos evaluar y velar por sus intereses.

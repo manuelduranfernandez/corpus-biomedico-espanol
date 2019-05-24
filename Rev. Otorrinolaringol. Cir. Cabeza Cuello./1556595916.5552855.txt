@@ -1,0 +1,130 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162016000300016
+Enmascaramiento clínico: Una revisión de la literatura
+
+ 
+
+INTRODUCCIÓN
+
+El enmascaramiento es uno de los procedimientos más utilizados y, a la vez, desafiante en la práctica clínica audiológica. Siendo considerada la audiometría tonal como patrón de referencia en el diagnóstico de hipoacusia, el adecuado uso de enmascaramiento es fundamental. No aplicarlo cuando amerita, o el uso incorrecto, puede llevar a cometer graves errores diagnósticos. En consecuencia, la aplicación de esta técnica debe realizarse con cautela, en base a conocimiento audiológico, fisiológico y utilizando criterio clínico.
+
+El enmascaramiento es el proceso por el cual el umbral de audición para un sonido aumenta debido a la presencia de otro sonido1. A nivel clínico, corresponde al proceso en que, utilizando un ruido de banda estrecha o centrado en la palabra, el umbral del oído no evaluado aumenta de tal manera que no interfiere en los resultados audiométricos del oído evaluado1.
+
+Al momento de determinar si es necesario utilizar un ruido enmascarante en el oído no evaluado se debe tener en cuenta al menos 3 factores: (1) Intensidad del sonido que se envía al oído evaluado; (2) Atenuación interaural para ese sonido; entendida como la cantidad de energía perdida en la transmisión de sonidos desde un oído hacia el contralateral2, y (3) Umbral auditivo del oído contralateral. Si la intensidad del sonido que se envía es superior a la atenuación interaural, y además, el oído contralateral posee un umbral auditivo suficiente para percibir dicho sonido, es necesario
+
+enmascarar. Si no se utiliza enmascaramiento, las respuestas obtenidas en el oído estudiado no serán fidedignas, ya que el contralateral podría estar influenciándolas.
+
+A pesar del advenimiento de nuevas tecnologías para la evaluación auditiva, tales como los métodos electrofisiológicos, el estudio auditivo básico, al menos en la población adulta, sigue siendo la audiometría tonal. Lo anterior implica que el correcto uso del enmascaramiento es fundamental para establecer un diagnóstico clínico del paciente.
+
+En nuestro país, se han descrito métodos de enmascaramiento basados en principios de máxima eficacia y no repercusión (técnica conocida como "del máximo permitido")3. Si bien es similar a una de las primeras técnicas de enmascaramiento descritas formalmente por Hood4 (método de la Meseta), difieren en su procedimiento de aplicación. Junto con lo anterior, existen documentos de instituciones públicas5, relacionadas con la evaluación auditiva de trabajadores expuestos a ruido, que, aunque representan un gran avance en la estandarización de procedimientos, éstos se sustentan en literatura que actualmente cuenta con nuevas ediciones. Dichas ediciones muestran cambios, por ejemplo, existen diferencias en cuanto a valores de atenuación interaural entre la última edición de la obra de Katz2 (7a ed; 2015) y la utilizada como sustento teórico por los documentos antes mencionados (5a ed; 2002)6. A su vez, la actual norma chilena sobre exámenes audiométricos (NCh 2573/1-2001)7, al basarse en la norma ISO 8253-1 de 1989, también requeriría una revisión. Esto fundamenta el tener por objetivo realizar una actualización de los procedimientos de enmascaramiento, mediante una búsqueda y revisión exhaustiva de lo publicado, en revistas científicas, organismos internacionales y obras relevantes en el tema.
+
+La revisión en búsqueda de criterios comunes y estandarizados resulta relevante en contextos de docencia como en los de práctica clínica en el área de audiología.
+
+MATERIAl Y METODOS
+
+Metodología de búsqueda
+
+Se consultó las bases PUBMED y SciELO, junto con el buscador Google Scholar. En el caso de PUBMED se utilizó los términos meSH: "pure tone audiometry", "audiometry" "Audiometry, y Pure-Tone", los que fueron combinados mediante el término "AND" con "clinical masking". A su vez se utilizó el subheading "methods" de "Audiometry, Pure-Tone". Las estrategias de búsqueda fueron: (1) "pure tone audiometry"[All Fields] AND "clinical masking"[All Fields]; (2) "audiometry"[All Fields] AND "clinical masking"[All Fields]; (3) "Audiometry, Pure-Tone/methods"[Mesh] AND "masking"[All Fields].
+
+En SciELO se utilizó la búsqueda integrada regional con los términos "Audiometría" y "Audio-metría tonal", filtrando por las áreas temáticas de "Fonoaudiología y disturbios del habla y lenguaje". Además, se realizó búsqueda manual en las siguientes revistas: Revista Brasilera de Otorrinolaringología, Revista CEFAC, Audiology-Communication Research, CoDAS, International Archives of Otorhynolaringolgy, Revista de la Sociedad Brasilera de Fonoaudiología, Pró-Fono Revista de Actualización Científica y Revista de Otorrinolaringología y Cirugía de Cabeza y Cuello.
+
+La búsqueda se complementó con la consulta de los siguientes autores (libros): Roeser (1a y 2a ediciones)1,8, Katz en 5a, 6a y 7a ediciones6,9,2, Stach (2a edición)10, Lehnhardt (6a edición)11, De Almeida y cols. (2a edición)12, Salesa y cols. (2a edición)13. Además, se consultó la información disponible de las siguientes sociedades internacionales: British Society of Audiology (BSA)14, American Speech-
+
+Language Hearing Association (ASHA)15. Finalmente se consulta a la "International Organization for Standardization" (ISO) y en Instituto Nacional de Normalización (INN) por la norma acústica de "Métodos de pruebas audiométricas"7.
+
+No existió un límite de años para la búsqueda, y en cuanto al idioma se revisaron artículos en inglés, portugués y español. La búsqueda se desarrolló desde agosto hasta noviembre de 2015.
+
+RESULTADOS
+
+Estudios y guías técnicas seleccionadas
+
+En PUBMED las estrategias de búsqueda, luego de eliminar los duplicados, arrojaron 81 estudios. Una vez revisados los resúmenes, 13 correspondieron a métodos de enmascaramiento clínico o a atenuación interaural utilizando diferentes tipos de audífonos (relevante al momento de juzgar la necesidad de enmascarar). Dentro de estos también se obtuvo las guías técnicas de la "British Society of Audiology" (BSA)14 y la "American Speech-Language Hearing Association" (ASHA)15.
+
+En SciELO se identifican 116 reportes en el contexto regional sudamericano, de los cuales al revisar los resúmenes sólo dos se enfocaron específicamente en enmascaramiento clínico (Fernandes y cols)16 o transmisión interaural (Pires)17. En el caso de Fernandes y cols también se encontraba disponible en PUBMED.
+
+La revisión en Google arrojó el documento del "College of Speech and Hearing Health Professionals of British Columbia"18, el que no fue pesquisado en búsquedas previas.
+
+El detalle de las fuentes bibliográficas recopiladas se puede observar en la Tabla 1, en ella se analizan las siguientes variables: año de publicación, autor, niveles de atenuación interaural para fonos supraurales y vibrador óseo, criterios para utilizar enmascaramiento al evaluar vía área, vía ósea y pruebas verbales, niveles de efecto de oclusión, procedimiento recomendado para enmascarar.
+
+ 
+
+Tabla 1. Criterios expuestos por la literatura seleccionada en torno a la          aplicación de enmascaramiento clínico
+
+
+
+ 
+
+Atenuación interaural
+
+Se define atenuación interaural como la cantidad de energía perdida durante la transmisión de sonidos, por vía aérea u ósea, a través del cráneo hacia el oído contralateral1. Esta pérdida de energía es dependiente del tipo de fonos utilizados. Los fonos de inserción; aquellos que se ubican directamente en el conducto auditivo externo, presentan una mayor atenuación interaural. Debido a esta característica, la necesidad de utilizar enmascaramiento se ve reducida al evaluar por vía aérea. Los fonos supra-aurales, en cambio, son de mayor envergadura y se posicionan cubriendo los pabellones auriculares. Sus características hacen que presenten una menor atenuación interaural, en consecuencia, la probabilidad de utilizar enmascaramiento en el oído contralateral al estimular por vía aérea es mayor. Los fonos supra-aurales son los más utilizados durante la práctica de la audiometría en Chile.
+
+La valoración de la atenuación interaural ha presentado algunas variaciones durante los años. Desde la década de los 90 se han planteado 3 posturas en relación al nivel mínimo de atenuación interaural, valor que se debe considerar al momento de enmascarar.
+
+La primera postura señala que la atenuación interaural para estimulación por vía aérea a través de fonos supra-aurales es 50 dB independientemente de la frecuencia11. Una segunda postura señala que el nivel de atenuación no es fijo, variando en función de la frecuencia6,12. Estos autores toman como referencia a Goldstein y Newman19, indicando que los valores de atenuación son: 35 dB en 125 kHz; 40 dB en 0,25 kHz; 40 dB en 0,5 kHz; 40 dB en 1 kHz; 45 dB en 2 kHz, 50 dB en 4 kHz y 50 dB en 8 kHz.
+
+Una tercera postura -la más popular a partir del año 2004- sostiene que 40 dB es el valor de atenuación interaural, para sonidos enviados por vía aérea, esto independientemente de la frecuencia8-10,13,14. En cuanto a sonidos enviados por vía ósea, las publicaciones coinciden en que el valor de atenuación es 0 dB1,6,8-13,18. En pruebas verbales, la atenuación interaural varía entre 35 dB1,8, 40 dB2,9,13, 45 dB6,12, o 50 dB11, siendo 40 dB el valor más común en literatura reciente2.
+
+Necesidad de aplicar enmascaramiento
+
+Los criterios utilizados para determinar la necesidad de utilizar enmascaramiento, dependen de los niveles de atenuación interaural. Para vía aérea, el más utilizado consiste en analizar la diferencia entre el umbral aéreo del oído evaluado, con respecto al umbral óseo del oído contralateral. Si esta diferencia es igual o superior a la atenuación interaural, se deben corroborar los umbrales del oído evaluado utilizando ruido enmascarante en el oído no evaluado1,2,8-10,13,18. Esta postura es concordante con lo descrito por la ANSI20 y la BSA14. Algunos autores indican también que el análisis puede realizarse entre umbrales aéreos del oído evaluado y los umbrales aéreos del oído no evaluado1,2,8,9,18.
+
+En la evaluación por vía ósea, el criterio utilizado para determinar el uso de enmascaramiento implica establecer la diferencia entre los umbrales obtenidos por vía ósea, en el oído evaluado, y los umbrales aéreos del mismo oído. La mayoría de la bibliografía consultada establece que si esta diferencia es mayor a 10 dB es necesario utilizar enmascaramiento en el oído contralateral1,2,8,9,11,13,18. Algunos autores proponen que esta diferencia puede ser igual o mayor a 10 dB6,14.
+
+Los mayores contrastes se presentan en las pruebas verbales. Se establecen dos posturas; una analiza la diferencia entre la intensidad del material verbal y el promedio tonal óseo del oído contra-lateral para 0,5, 1 y 2 kHz6,12,13. Si esta diferencia es igual o mayor a 40 dB13 ó 45 dB6,12 se hará necesario utilizar enmascaramiento. La otra postura señala que se debe analizar la diferencia entre la presentación de los estímulos verbales, y el mejor umbral óseo del oído contralateral, en cualquier frecuencia1,2,8,9. Algunos autores delimitan este mejor umbral a las frecuencias 0,5, 1 y 2 kHz1,8; si esta diferencia es igual o mayor a 35 dB1,8 ó 40 dB2,9,18 sería necesario el uso de enmascaramiento.
+
+Procedimiento de enmascaramiento clínico
+
+La mayor parte de la bibliografía recomienda el método de "La Meseta o Plateau", propuesto originalmente por Hood4 en 1960 como procedimiento para enmascarar. Hood describe su método en el contexto de evaluación por vía ósea. En éste se establece como nivel de enmascaramiento inicial 10 dB por sobre el umbral del oído no evaluado, en la frecuencia estudiada. Con este nivel se corrobora el umbral obtenido en el oído evaluado; si el umbral se desplaza se debe incrementar la intensidad del ruido enmascarante en 10 dB. El procedimiento continúa hasta que el umbral del oído evaluado se mantiene constante, a pesar de los incrementos adicionales, en pasos de 10 dB en el ruido enmascarante.
+
+Diversas variantes del método se han descrito para el nivel de enmascaramiento inicial. En evaluación por vía aérea se mencionan los siguientes valores: umbral oído no evaluado +15 dB12, umbral oído no evaluado +10 dB2,9,18, umbral oído no evaluado +10 a 15 dB1,8, umbral oído no evaluado14.
+
+Para el caso de evaluación por vía ósea, y tomando en consideración el efecto de oclusión que Hood en su trabajo original no menciona, se describen los siguientes valores como nivel de enmascaramiento inicial: umbral oído no evaluado +15 dB + efecto de oclusión12, umbral oído no evaluado +10 dB + efecto de oclusión2,9,18, umbral oído no evaluado +10 a 15 dB + efecto de oclusión1,8.
+
+Existe consenso en la literatura en cuanto al procedimiento de obtención de "La Meseta". Se señala que luego de establecer el nivel de enmascaramiento inicial, es necesario corroborar el umbral obtenido en el oído evaluado. Para esto se deben realizar incrementos adicionales en el nivel de enmascaramiento, con el fin de encontrar el punto en la cual el umbral del oído evaluado se mantiene estable. Sin embargo, existe variabilidad en cuanto a los incrementos adicionales recomendados, pudiendo ser: 2 incrementos de 10 dB2,9,12, 2 incrementos de 5 dB18, 3 incrementos de 10 dB1,8,14, 4 incrementos de 5 dB2,9.
+
+Algunos autores diferencian al evaluar por vía ósea, proponiendo las siguientes variantes en relación a la intensidad y número de incrementos: 2 incrementos de 5 dB12, 2 incrementos de 10 dB2,9. En caso que en alguno de estos incrementos el umbral del oído evaluado no se mantenga, la mayoría de la bibliografía indica reubicarlo en pasos ascendentes de 5 dB. Sólo un autor en las 2 ediciones de su obra describe realizarlo en pasos de 10 dB1,8.
+
+Otros métodos de enmascaramiento se describen en la literatura, entre ellos el "Step Masking"6 el método psico-acústico de Goldstein13 y el "Optimized Masking Method"21, este último ha sido probado siendo útil en casos específicos16. Sin embargo, estos métodos no han sido tan populares como el mencionado método de "La Meseta".
+
+Efecto de oclusión
+
+El efecto de oclusión ocurre cuando, al momento de obtener umbrales óseos con enmascaramiento, se cubre con un fono supra-aural el oído no evaluado2. Esto produce en el oído no evaluado una mayor sensibilidad a sonidos por vía ósea producto de la mayor resonancia de las frecuencias graves dentro del conducto auditivo externo1. Esta situación amerita aumentar en nivel de enmascaramiento inicial a utilizar en el oído contralateral, al evaluar las frecuencias 0,25, 0,5 y 1 kHz por vía ósea con el fin de compensar este efecto.
+
+El aumento en el nivel de enmascaramiento inicial es variable según la bibliografía consultada. Entre los valores más utilizados se encuentran los propuestos por Yacullo22 en los cuales se recomienda un factor correctivo de 30 dB al evaluar la frecuencia 0,25 kHz, 20 dB en 0,5 kHz y 10 dB para 1 kHz. Otros valores son los propuestos por Goldstein y Newnan19; alcanzando 15 dB para 0,25 kHz, 15 dB en 0,5 kHz y 10 dB para 1 kHz. Con menor representación en la bibliografía consultada, se encuentran los valores de efecto de oclusión propuestos por Roeser y Clark8, alcanzando 20 dB para 0,25 kHz, 15 dB en 0,5 kHz y 5 dB para 1 kHz.
+
+Cabe destacar que el efecto de oclusión comienza a ser considerado en la literatura consultada con edición posterior al año 2000.
+
+DISCUSIÓN
+
+Como es posible observar, existen diversos criterios en cuanto a valores de atenuación interaural, necesidad de utilizar enmascaramiento, valores de efecto de oclusión y del procedimiento utilizado para enmascarar. Esto podría plantear dificultades en la obtención de resultados comparables al utilizar diferentes procedimientos y en la enseñanza de éstos. Podría existir confusión y discrepancias con respecto a cuál es el procedimiento más adecuado a la hora de utilizar enmascaramiento clínico.
+
+En relación a la atenuación interaural, ésta depende de factores intrínsecos de cada individuo; pudiendo existir diferencias entre sujetos según las frecuencias evaluadas. Esto plantea la necesidad de establecer valores de atenuación individuales, lo que en la práctica clínica es inviable. La literatura reciente indica que "una estimación conservadora de atenuación interaural para auriculares supra-aurales es de 40 dB para todas las frecuencias"2. Sería conservador ya que 40 dB corresponde al menor valor de atenuación interaural reportado23-28. Con dicho valor referencial es posible enmascarar casos en que tal vez no es necesario, pero, al contrario, no se cometerá un error mayor; no enmascarar en caso de ser necesario. Dado lo anterior, resulta razonable considerar un valor único de atenuación interaural de 40 dB para todas las frecuencias evaluadas por vía aérea.
+
+Pese al actual consenso, han existido discrepancias a lo largo de los años acerca de la conveniencia de utilizar un único valor de atenuación interaural. Goldstein y Newman19, por ejemplo, consideraron valores de atenuación variables por frecuencia. El anterior estudio es referenciado por la 5a edición de la obra de Katz6, sin embargo, ediciones más recientes (6a y 7a)9,2 optan por recomendar un valor único de atenuación interaural.
+
+Los criterios reportados para determinar la necesidad de utilizar enmascaramiento al evaluar vía aérea son similares entre sí. La bibliografía reciente y en concordancia con lo planteado por la BSA14 indica que se debe enmascarar cuando el umbral del oído evaluado excede el umbral óseo del no evaluado, por un valor igual o mayor a la atenuación interaural2. Esta regla conlleva un problema práctico, ya que los umbrales óseos suelen obtenerse después de evaluar los umbrales aéreos. Así surge una segunda regla; observar la diferencia entre el umbral aéreo del oído evaluado y el umbral aéreo del no evaluado. Si la diferencia entre dichos umbrales es igual o mayor a la atenuación interaural es necesario aplicar enmascaramiento. Utilizando esta última alternativa y una vez obtenidos los umbrales óseos, se recomienda corroborar si se cumplen los criterios de enmascaramiento de la primera regla y reevaluar cuando sea necesario.
+
+El criterio más utilizado para determinar el uso de enmascaramiento en vía ósea es observar la diferencia entre el umbral óseo del oído evaluado -obtenido sin enmascaramiento- y el umbral aéreo del mismo oído (Gap ósteo-aéreo). Si esta diferencia es igual o mayor a 15 dB (o mayor a 10 dB), es necesario enmascarar para corroborar los umbrales obtenidos originalmente2. Antes de comenzar a
+
+evaluar la vía ósea es posible considerar la historia clínica, otoscopía, timpanometría, etc. del paciente, esto con el fin de determinar si la hipoacusia posiblemente es conductiva o sensorio-neural. De esta forma podría ser prevista la existencia de un Gap ósteo-aéreo y comenzar la evaluación aplicando enmascaramiento. Esto permite ahorrar tiempo, sin embargo, esta técnica no está sustentada por la literatura. Además, no permitiría determinar con precisión el enmascaramiento máximo de ser necesario (umbral óseo del oído evaluado + atenuación interaural - 5 dB)2.
+
+Para enmascarar en las pruebas verbales, existe consenso en la literatura1,2,6,8,9,11-13,18,19, señalando que se debe analizar la intensidad de presentación del material verbal y los umbrales óseos del oído contralateral, considerando el promedio tonal puro (PTP) o el mejor umbral. Esto implica que primero se deben obtener los umbrales óseos y luego realizar las pruebas verbales. Sin embargo, esta práctica es poco común; luego de evaluar vía aérea generalmente se procede a realizar pruebas verbales. Esto se debe a una cuestión logística y no audiológica, ya que el evaluador suele encontrarse fuera de la cámara sonoamortiguada. Resulta necesario considerar procedimientos como otoscopía, timpanometría, historia clínica, etc. y de esta forma prever la posible ubicación de los umbrales óseos del oído no evaluado. Sin embargo, y siempre que no se entorpezca en exceso la evaluación, obtener primero los umbrales óseos sería lo recomendado.
+
+Otro aspecto en los que se genera discrepancia es en los valores de efecto de oclusión. La literatura actual2 recomienda los propuestos por Yacullo22. Estos factores correctivos, que deben ser sumados al nivel de enmascaramiento inicial cuando se evalúa vía ósea, son importantes si se utiliza el método de la meseta, esto debido a que la propuesta original de Hood no los consideró. Uno de los problemas de utilizar los valores propuestos por Yacullo es que se podría incurrir en sobreen-mascaramiento, especialmente en las frecuencias 0,25 kHz y 0,5 kHz. En estos casos es importante el criterio del evaluador.
+
+El método de "La Meseta" propuesto por Hood es el procedimiento más referenciado, aunque ha sufrido modificaciones durante los años. La literatura reciente2 describe las realizadas por Yacullo22,29 quien propone utilizar un ruido enmascarante inicial de 10 dB sobre el umbral aéreo del oído no evaluado y agregar efecto de oclusión al evaluar vía ósea. Luego corroborar la mantención de la respuesta en el oído evaluado. Si se mantiene, realizar 2 incrementos consecutivos de 10 dB (ó 4 de 5 dB) en el enmascarante, corroborando en cada incremento la mantención del umbral del oído evaluado. Si la respuesta del oído evaluado se mantiene, se alcanza la meseta, siendo un umbral válido. Este método es consistente con las recomendaciones de la BSA14; el enmascarante inicial tiene una intensidad igual al umbral contralateral y luego se realizan 3 incrementos de 10 dB en éste.
+
+El método de la meseta modificado por Yacullo presenta ventajas; disminuye la posibilidad de sobreenmascarar al utilizar sólo dos incrementos consecutivos de 10 dB, además de ser de fácil aprendizaje y aplicación, sobre todo para quienes se están iniciando en la práctica clínica. Como desventaja, el tiempo que requiere es mayor, factor importante a considerar en circunstancias donde éste es limitado. En este caso otros métodos de enmascaramiento pueden ser más eficientes, no obstante, esto podría limitar el lograr un consenso que tienda a estandarizar los procedimientos de la audiometría en Chile.
+
+CONCLUSIONES
+
+La revisión de la literatura muestra diferencias de criterios en aspectos a la hora de decidir cuándo enmascarar y cómo hacerlo. No obstante, se pueden establecer criterios comunes, especialmente a partir del año 20041,2,9,10,13,14. Lo anterior es relevante en Chile ya que tanto los documentos de instituciones públicas, relacionadas con la evaluación auditiva de trabajadores expuestos a ruido, como la actual norma chilena de pruebas audiométricas (NCh 2573/1-2001), utilizan como sustento literatura anterior al mencionado año.
+
+En la actualidad existe una preferencia por establecer un valor de atenuación interaural único para la vía aérea, vía ósea y pruebas verbales (40 dB, 0 dB, 40 dB, respectivamente). Tampoco existen mayores diferencias con respecto a los criterios para determinar la necesidad de enmascarar por vía aérea y ósea. Aunque menores, existen diferencias en las pruebas verbales.
+
+De acuerdo a la literatura consultada, el método de "La Meseta" descrito originalmente por Hood sigue siendo el más referenciado al momento de enmascarar, incluyendo a las normativas chilenas vigentes. Sin embargo, dicho método ha sido modificado a lo largo de los años, tomando en cuenta los niveles de efecto de oclusión y el número de incrementos necesarios para encontrar la meseta. La modificación realizada por Yacullo22,29 es la referenciada y recomendada en la literatura actual2. Tanto los niveles de atenuación interaural, niveles de efecto de oclusión, y las modificaciones al método de la meseta, deberían ser considerados al momento de actualizar las normativas vigentes en Chile.
+
+Agradecimientos
+
+Los autores agradecen las contribuciones en el diseño de la presente investigación realizada por Luis Salinas V. de la UDA Ciencias de la Salud de la Pontificia Universidad Católica de Chile. Se agradecen los valiosos comentarios y sugerencias realizados por el corrector de la Revista de Otorrinolaringología y Cirugía de Cabeza y Cuello.
+
+Eduardo Fuentes L. recibió apoyo por parte de la Comisión Nacional de Investigación Científica y Tecnológica (CONICYT) para cursar estudios de Doctorado en Chile.

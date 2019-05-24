@@ -1,0 +1,178 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162016000100019
+Conceptos básicos para el uso racional de antibióticos en otorrinolaringología
+
+
+
+INTRODUCCIÓN
+
+Los antibióticos son un elemento clave para combatir las enfermedades infecciosas, y desde su aparición han permitido disminuir la morbimortalidad asociada a estas patologías de forma muy significativa. En otorrinolaringología (ORL) existe una gran variedad de infecciones en las que su uso está indicado. Para esto, es importante realizar un diagnóstico específico entre enfermedades inflamatorias no infecciosas, enfermedades infecciosas de origen viral, fúngico, parasitario y bacteriano para aportar un tratamiento adecuado, con el fin de mejorar al paciente y lograr un uso racional de antibióticos.
+
+El hecho de diagnosticar una enfermedad infecciosa bacteriana no es necesariamente sinónimo de tratamiento antibiótico. De hecho, en algunos países se indica la observación activa de algunas enfermedades infecciosas agudas comunes que son habitualmente autolimitadas y sólo tratan casos de pacientes vulnerables, evoluciones atípicas o tórpidas o en presencia de complicaciones. Todo esto con el fin de disminuir la aparición de resistencia a agentes antimicrobianos.
+
+La resistencia a antibióticos plantea una grave amenaza para la salud pública mundial. Existen diversos mecanismos mediante los cuales las bacterias pueden generar resistencia, y además transmitirla1. Como resultado, la resistencia antimicrobiana es una causa importante de falla de tratamiento médico2.
+
+Además de los mecanismos de resistencia que cada microorganismo puede presentar como célula individual, algunas bacterias son capaces de agruparse dentro de una matriz de polisacáridos, proteínas y ADN conocida como biofilm, que dificulta la llegada de antibióticos, desinfectantes y distintos componentes del sistema inmune del paciente3. Esto puede permitir el desarrollo de infecciones crónicas de difícil manejo.
+
+En la actualidad se calcula que aproximadamente el 40% de todos los pacientes hospitalizados reciben tratamiento con antibióticos, los que la mayoría de las veces resultan de utilidad incuestionable. Sin embargo, su amplio uso fomenta el aumento de la resistencia de los gérmenes, lo que crea una necesidad cada vez mayor de nuevas drogas, y se encarece el tratamiento4.
+
+El propósito de esta revisión es fundamentar el uso racional de antibióticos en ORL entregando conceptos farmacológicos básicos para entender su uso, conocer la microbiología frecuente en infecciones de cabeza y cuello para orientar el esquema terapéutico adecuado y aportar guías de manejo específico tanto de cuadros habituales como de sus complicaciones.
+
+I. GENERALIDADES DE ANTIBIÓTICOS
+
+Para entender mejor el uso de antibióticos en su contexto clínico, es importante definir algunos conceptos básicos de farmacología.
+
+1. Farmacocinética y farmacodinamia
+
+La farmacocinética estudia los procesos y factores que determinan la cantidad de fármaco presente en el sitio en que debe ejercer su efecto biológico en cada momento, a partir de la aplicación del fármaco sobre el organismo vivo. La curva farmacocinética y la vida media son ejemplos de variables farmacocinéticas. La farmacodinamia estudia las acciones y los efectos de los fármacos en el organismo. Su conocimiento proporciona información importante para predecir la acción terapéutica o toxicidad. Ejemplos farmacodinámicos clásicos incluyen la concentración inhibitoria mínima (CIM), la concentración bactericida mínima (CBM) y la tolerancia.
+
+De acuerdo a estos parámetros, existen dos grandes grupos de agentes antimicrobianos. Los agentes concentración-dependientes (ej. aminoglucósidos y quinolonas) logran su mayor efecto bactericida cuando alcanzan concentraciones mayores a la CIM, es decir, a mayor concentración, mayor actividad bactericida. Por otro lado, en los antibióticos tiempo-dependientes (ej. ß-lactámicos, glucopéptidos y macrólidos); su concentración debe superar la CIM durante el 40%-60% del intervalo de administración. Concentraciones muy altas no aumentan la actividad antibacteriana; en el caso de los ß-lactámicos, es el tiempo en que permanece el antibiótico por encima de la CIM el parámetro más útil para predecir la eficacia del tratamiento.
+
+2. Clases de antimicrobianos, mecanismo de acción, espectro y resistencia
+
+De acuerdo a su origen y composición química, podemos dividir los distintos antibióticos en varias familias. Aunque cada fármaco posee características propias en cuanto a farmacología y espectro de acción antimicrobiana, resulta esquemático agruparlos para tener una visión general respecto a su utilidad clínica (Tabla 1). Además, los antibióticos se pueden dividir en bacteriostáticos y bactericidas, según si inhiben el crecimiento bacteriano o si tienen una acción directa en su eliminación. Esto no implica necesariamente que un grupo sea mejor que el otro, pero sí adquieren mayor relevancia en algunas infecciones graves intracerebrales y en el caso de pacientes con endocarditis infecciosa o inmunodeprimidos graves.
+
+ 
+
+Tabla 1. Familias de antibióticos y sus espectros de acción antimicrobiana
+
+
+
+ 
+
+Existen distintos mecanismos de acción antibiótica, y diferentes mecanismos de resistencia (Figura 1); ésta puede ser relativa (si se logra vencer aumentando la dosis) o absoluta. Los mecanismos de resistencia intrínseca o adquirida y su diseminación van más allá de los objetivos de esta revisión, y han sido descritos en otros artículos5.
+
+ 
+
+
+
+Figura 1. Mecanismos de acción y de resistencia antibiótica.
+
+ 
+
+3. Combinación de antibióticos
+
+La combinación de antibióticos se ocupa en tres situaciones clínicas: para lograr sinergia antimicrobiana, para ampliar el espectro antimicrobiano o para prevenir la aparición de resistencia. Ejemplos de sinergia quedan representados por ampicilina con gentamicina para Streptococcus grupo viridans o Listeria monocytogenes y ß-lactimicos con aminoglucósidos para P aeruginosa. Las combinaciones de B-lactámicos con inhibidores o el cotrimoxazol, también representan ejemplos de sinergia disponibles comercialmente.
+
+No siempre al combinar dos o más antibióticos se obtiene un efecto sinérgico (cuando la suma de ambos tiene una respuesta mayor que la de cada uno por separado). Otros resultados pueden ser un efecto aditivo (cuando el resultado es igual a la sumatoria de la respuesta de dos fármacos, sin ser ésta potenciada) o antagónico (cuando la actividad de un antibiótico interfiere con la del otro).
+
+4. Penetración intracelular
+
+Las bacterias intracelulares implicaron un desafío a comienzos de la era antibiótica, ya que éstas sobrevivían en el interior de la célula y estaban protegidas del efecto bactericida de la mayoría de los antibióticos hasta entonces conocidos.
+
+Los fármacos antimicrobianos con capacidad de penetrar al medio intracelular y alcanzar niveles óptimos de acción son los macrólidos, fluoroquinolonas, clindamicina y tetraciclinas, cubriendo a microorganismos como Mycobacterium, Salmonella, Brucella, Legionella, Listeria, Rickettsia y Chlamydia.
+
+5. Penetración en la barrera hemato-encefálica, normal e inflamada
+
+La entrada de fármacos al líquido cerebroespinal (LCE) y su paso por la barrera hematoencefálica (BHE) está determinado por factores específicos como el tamaño molecular, lipofilicidad y unión a proteínas plasmáticas. Además, la BHE inflamada en contexto de meningitis se vuelve más permeable6.
+
+Los fármacos que atraviesan la BHE independiente del grado de inflamación son: cloranfenicol, metronidazol, rifampicina, sulfonamidas y trimetoprim-sulfametoxazol. En contexto de inflamación también la atraviesan penicilina/ampicilina, algunas cefalosporinas de tercera generación, carbapenémicos, colistin, linezolid, ciprofloxacino y levofloxacino, entre otros.
+
+Finalmente, los fármacos con penetración mínima o impredecible de la BHE incluyen amikacina, gentamicina, macrólidos, cefazolina y moxifloxacino, entre otros7.
+
+6. Efecto inoculo
+
+Indica la disminución del efecto bactericida de los ß-lactámicos en infecciones con alto número de bacterias. Los ß-lactámicos inhiben la síntesis de la pared celular, por lo que sólo actúan en fase de replicación bacteriana activa. En casos de alta carga bacteriana, algunas bacterias están en fase estacionaria. La adición de un antibiótico que actúe a nivel ribosomal (ej. clindamicina, la que es bactericida sobre el género Streptococcus) permite mantener una actividad sin resistencia fisiológica, independiente a la cantidad de bacterias presentes. Esto parece ser muy relevante en infecciones graves por estreptococos tales como el shock tóxico, neumonías necrotizantes o empiemas pleurales estreptocócicos.
+
+II. ELECCIÓN DEL ANTIBIÓTICO
+
+Al momento de elegir un agente antimicrobiano, es necesario antes reevaluar el diagnóstico realizado. Se debe tener en cuenta que existen patologías infecciosas no bacterianas (virus, hongos, parásitos), patologías no infecciosas con presentación similar (reacciones adversas a medicamentos, enfermedades autoinmunes, síndromes paraneoplásicos) o bien una infección bacteriana autolimitada que se resolverá sin necesidad de antibióticos y sin aumentar significativamente el riesgo de complicaciones.
+
+En la elección del antibiótico siempre se debe considerar los beneficios y perjuicios posibles asociados a cada fármaco, con el fin de utilizar el medicamento más idóneo. Para esto, es imprescindible conocer el espectro de acción, el mecanismo de acción, la adecuada penetración al órgano blanco, la vía de administración, las reacciones adversas, las contraindicaciones, las interacciones farmacológicas, las alergias y también el costo asociado. La toma de cultivos puede ser útil en caso que exista duda diagnóstica y previo al inicio de antibioterapia empírica, con el fin de confirmar el agente etiológico o evitar el aumento de resistencia antimicrobiana.
+
+Existe un sinnúmero de reacciones adversas descritas para estos fármacos, de distinta frecuencia y gravedad. Algunos efectos adversos habitualmente asociados son ototoxicidad y nefrotoxicidad en aminoglucósidos; diarrea o colitis pseudomembranosa para clindamicina y otros antibióticos; intolerancia gastrointestinal para macrólidos, y reacciones alérgicas y diarrea para penicilinas. Las fluoroquinolonas pueden producir síntomas gastrointestinales, tendinopatías y alteraciones del sistema nervioso central en pacientes susceptibles; y aunque clásicamente se restringía su uso en niños debido a estudios animales que mostraban que podrían afectar el cartílago de crecimiento, esto no ha sido consistentemente demostrado en humanos8.
+
+En algunos fármacos, la dosis deberá ser ajustada según peso, función renal o hepática, según corresponda. Por ejemplo, la mayor parte de los ß-lactámicos requerirá ajustes en pacientes con enfermedad renal, al igual que quinolonas con algún grado de excreción renal (ciprofloxacino y levofloxacino), tetraciclina, glicopéptidos y aminoglucósidos. En contraste, las alteraciones de la función hepática obligan a hacer ajustes o evitar el uso de compuestos tales como el metronidazol.
+
+El uso de antibióticos en el embarazo es realizado con precaución debido a su toxicidad y potencial teratogénico en embrión y feto. En general no existen estudios humanos adecuados que demuestren sus efectos, ya que las mujeres embarazadas tienden a ser excluidas de los ensayos clínicos. Su uso en la práctica clínica se considera cuando es esencial y los beneficios superan los riesgos. La antigua clasificación para el uso de fármacos de la FDA los dividía en categorías A (uso seguro en todas las etapas del embarazo), B (sin riesgo fetal en animales, sin estudios clínicos adecuados en humanos), C (efectos adversos fetales en animales, sin evidencias adecuadas en humanos), D (evidencias de riesgo fetal humano, su beneficio terapéutico puede ser eventualmente superior a su eventual riesgo teratógeno) y X (medicamentos teratogénicos contraindicados en el embarazo)7. No existen antibióticos en la primera categoría, mientras que en la categoría B destacan penicilinas y cefalosporinas, ácido clavulánico, sulbactam, clindamicina, eritromicina (excepto estolato), azitromicina, glicopéptidos y carbapenémicos. Por otra parte, en general se evitan en el embarazo las tetraciclinas, metronidazol, sulfonamidas y amino-glucósidos. Para el uso excepcional de antibióticos en categorías C y D, debe compararse el riesgo y el beneficio en cada caso.
+
+III. CONSIDERACIONES SOBRE BACTERIAS  COMUNES EN ORL
+
+En general, un porcentaje importante de las infecciones ORL son de origen viral, por lo que es esencial identificar los casos de alta sospecha de infección bacteriana. Como mencionamos anteriormente, hay que considerar que no todas las infecciones bacterianas comunes requieren tratamiento antibiótico. En algunos lugares de Europa, los pacientes de bajo riesgo con ciertas infecciones autolimitadas son manejadas con tratamiento sintomático y observación activa. Clásicamente se ha recomendado un tratamiento empírico por 10 días, aunque esto no necesariamente está avalado por la evidencia para todos los escenarios clínicos y eventualmente el tiempo de tratamiento podría ser más breve con el uso de drogas más nuevas9. Describiremos brevemente algunos microorganismos de importancia en infecciones de oído, nariz y garganta, ya sea por su frecuencia o por particularidades terapéuticas.
+
+a. S. pneumoniae, H influenzae y M catarrhalis
+
+Del punto de vista bacteriológico, debemos considerar la otitis media aguda (OMA) y la rinosinusitis aguda (RSA) como infecciones respiratorias.
+
+Streptococcus pneumoniae es una cocácea Gram positiva anaerobia facultativa, y es el microorganismo bacteriano más frecuentemente aislado en estas infecciones. Datos norteamericanos muestran una sensibilidad a amoxicilina y amoxicilina/ácido clavulánico de 92% y a macrólidos de 71%-72%7. Puede desarrollar resistencia relativa a ß-lactámicos mediante mutaciones de proteínas de la pared celular (las llamadas penicillin-binding proteins o PBP), motivo por el cual guías internacionales sugieren dosis altas de amoxicilina en estas infecciones (75-90 mg/kg/día en niños; 2-3 g/día en adultos), lo cual permite superar la resistencia en el 95% de las infecciones extrameníngeas10.
+
+En Chile, la resistencia a penicilina en cepas extrameníngeas de neumococo (Streptococcus pneumoniae) es muy baja, tanto en población pediátrica como adulta (4% y 0,6%, respectivamente)11. Las cepas meníngeas tienen mayores porcentajes de resistencia en niños (17%), pero no así en adultos (0%)11,12. Es importante recalcar que resistencia a penicilina no implica necesariamente resistencia a amoxicilina, debido a la unión a diferentes PBP13. La resistencia de los neumococos a macrólidos en Chile ha sido escasamente explorada. Datos de un estudio de 2005-2006 indican 18% de resistencia en un grupo de muestras de pacientes adultos de la región del Bío-Bío y de 37% el año 2007 en el área metropolitana, lo que sugiere limitaciones con esta opción13,14.
+
+Por otro lado, Haemophilus influenzae y Moraxella catarrhalis son dos bacterias gram-negativas capaces de producir ß-lactamasas en el 10,9% y 87,5%, respectivamente, según datos chilenos en OMA15. De acuerdo a guías estadounidenses, la susceptibilidad a amoxicilina es de 70% y 7% y a amoxicilina/ácido clavulánico de 98% y 100%, respectivamente7.
+
+Los tres microorganismos descritos son en general sensibles a quinolonas respiratorias.
+
+b. Streptococcus pyogenes (estreptococo ß-hemolítico grupo A)
+
+S pyogenes es una cocácea Gram positiva responsable de una gran cantidad de infecciones faringoamigdalinas, de piel y tejidos blandos, además de infecciones sistémicas potencialmente letales. Hasta ahora se mantiene sensible a penicilina y otros β-lactámicos, y tiene alrededor del 7% de resistencia a macrólidos, datos también reproducidos en Chile16,17. Se considera que la co-infección con anaerobios productores de ß-lactamasas podría explicar casos de falla de tratamiento con penicilinas18.
+
+Otro aspecto importante en infecciones por este agente es la posibilidad de desarrollar complicaciones locales ("supuradas", como flegmones y abscesos) y sistémicas por reacciones autoinmunes o toxinas ("no supuradas", como fiebre reumática y glomerulonefritis aguda). Uno de los objetivos del tratamiento antibiótico es intentar prevenir estas complicaciones. Si bien esto ha sido demostrado para fiebre reumática, el beneficio podría ser más modesto en el caso de otras complicaciones19,20.
+
+c. Staphylococcus aureus
+
+Cocácea Gram positiva que coloniza piel y mucosas, capaz de producir una amplia gama de enfermedades, desde patologías banales a infecciones sistémicas graves. Habitualmente produce penicilinasas de espectro reducido que la hacen resistente a penicilina, por lo que en infecciones comunes se deben usar fármacos como cloxacilina, flucloxacilina, amoxicilina/ácido clavulánico o cefalosporinas de primera generación. La aparición de Staphylococcus aureus multirresistente (SAMR) se ha convertido en un problema de salud pública, en especial en pacientes hospitalizados y con infecciones graves, que hace necesario un tratamiento antibiótico agresivo con vancomicina u otros fármacos. Se genera por la adquisición de nuevas PBP que no tienen afinidad por cloxacilina o cefalosporinas. En algunos países se han observado infecciones comunitarias por SAMR (SAMR-AC), pero su incidencia en Chile ha sido muy baja21,22.
+
+d. Pseudomonas aeruginosa
+
+Es un bacilo Gram negativo oportunista involucrado en infecciones de diversos órganos y habitualmente relacionado con infecciones nosocomiales. Es capaz de producir infecciones crónicas y protegerse mediante la producción de biofilms23. En ORL se relaciona con infecciones agudas del oído externo, además de encontrarse con cierta frecuencia en enfermedades crónicas del oído medio y cavidades paranasales7. Es resistente a diversos antibióticos, por lo que en su tratamiento deben utilizarse fármacos antipseudomónicos como piperacilina, ceftazidima o carbapenémicos. Las quinolonas y aminoglicósidos también poseen actividad contra este microorganismo.
+
+e. Anaerobios
+
+Aunque la penicilina y la amoxicilina son activos contra una gran cantidad de anaerobios de la cavidad oral, más de la mitad de ellos pueden expresar resistencia mediante ß-lactamasas. La presencia de ß-lactamasas antagonizables por inhibidores es frecuente entre aislados de Capnocytophaga sputigena (64%) y Prevotella (67%), aunque menos frecuente en bacteroides y Fusobacterium nucleatum 24. Por ello se recomienda adicionar metronidazol o utilizar fármacos como amoxicilina/ ácido clavulánico o clindamicina en infecciones mixtas. En infecciones graves pueden utilizarse β-lactámicos con inhibidores, clindamicina, metronidazol o carbapenémicos7.
+
+IV. ANTIBIÓTICOS EN INFECCIONES ORL  COMUNES
+
+La elección racional de antibióticos en estas infecciones frecuentes debe ser guiada por los conceptos previamente expuestos. En general, los objetivos del tratamiento antibiótico son disminuir la duración de la enfermedad, aliviar los síntomas y prevenir recurrencia o complicaciones.
+
+Nuestra intención no es presentar una lista exhaustiva, sino que entregar algunas nociones básicas que faciliten el enfrentamiento ante diversas situaciones clínicas cotidianas. Además de presentar el tratamiento de elección, se presentan tratamientos de segunda línea, que habitualmente serán utilizados en pacientes inmunosuprimidos, con falla a tratamiento o con uso reciente de antibióticos. La elección del antibiótico en caso de pacientes alérgicos deberá ser estudiada caso a caso según la gravedad de la reacción alérgica, el cuadro infeccioso presente, la microbiología asociada y la resistencia antibiótica esperada. Las Tablas 2a y 2b muestran algunas enfermedades comunes de la especialidad y su tratamiento antibiótico7,25-36.
+
+ 
+
+Tabla 2a. Tratamiento antibiótico de enfermedades ORL frecuentes
+
+
+
+ 
+
+Tabla 2b. Tratamiento antibiótico de enfermedades ORL frecuentes (continuación)
+
+
+
+ 
+
+¿En qué infecciones ORL frecuentes debieran usarse antibióticos?
+
+La práctica ORL habitual se enfrenta a infecciones virales comunes que fomentan el uso irracional de antimicrobianos y que incluyen la OMA, la faringoamigdalitis aguda y la rinosinusitis aguda.
+
+En el caso de las infecciones rinosinusales, la mayor parte son de etiología viral y la diferenciación con una rinosinusitis aguda bacteriana mediante manifestaciones clínicas e imágenes es imperfecta. La mayor parte mejora en forma espontánea o con manejo sintomático al transcurrir los días. Diferentes revisiones indican que los pacientes deben ser seleccionados antes de recibir terapia antibiótica, pudiendo utilizarse para ello la duración de los síntomas, la refractariedad a los descongestionantes o las características de los síntomas37,38. A pesar de que algunas guías internacionales sugieren como compuesto de primera elección amoxicilina/ácido clavulánico, ello no parece racional para nuestro país, marcado por bajas resistencias en neumococo a penicilina y en H Influenzae a amoxicilina11,37, por lo que mantenemos la recomendación predominante de prescribir como primera opción amoxicilina.
+
+Los cuadros de faringoamigdalitis aguda representan otra oportunidad propicia para el uso irracional de antimicrobianos. Sólo una fracción de los que consultan tiene una etiología bacteriana. La etiología viral debe ser sospechada cuando el paciente tiene síntomas adicionales como rinorrea, tos, disfonía, epifora, conjuntivitis, estornudos u otalgia, incluso en presencia de exudado amigdaliano. Se recomienda fuertemente que los casos sospechosos de faringitis estreptocócica sean confirmados por una prueba rápida o cultivo por la inespecificidad del exudado en las amígdalas asociado a fiebre, el que puede ser provocado también por mononucleosis infecciosa o algunos virus respiratorios39-41. Casos sin exudado pueden estar asociados también a primoinfección por VIH o causas parasitarias40. Los sistemas de puntuación también podrían orientar a seleccionar pacientes para tratamiento41.
+
+V. COMPLICACIONES DE INFECCIONES ORL
+
+En esta sección discutiremos exclusivamente la terapia antibiótica de algunas complicaciones relevantes en ORL, excluyendo de la revisión el tratamiento quirúrgico y otros tratamientos complementarios que sin duda son fundamentales en muchos de estos casos.
+
+a. Otitis externa necrotizante (o "maligna")
+
+Infección invasiva del canal auditivo externo y base de cráneo, que ocurre generalmente en pacientes de edad avanzada con diabetes mellitus y en otros pacientes con inmunodeficiencias42. Pseudomona aeruginosa es el organismo responsable en más de 98% de los casos. En adultos, la terapia con ciprofloxacino en altas dosis (750 mg cada 12 horas) sigue siendo de elección, debido a su baja toxicidad, alta penetrancia a hueso y relativa seguridad; sin embargo, se deben adoptar precauciones ya que puede tener interacciones citocromales en pacientes con polifarmacia y debe ser ajustado en falla renal. Interactúa también con amiodarona, domperidona o quetiapina pudiendo prolongar el QT con riesgo de arritmias. Además de su administración sistémica, debe utilizarse también de manera tópica.
+
+Para otros autores, el tratamiento involucra el uso de quinolonas tópicas más levofloxacino oral/ IV más otro fármaco antipseudomónico IM/IV7,43.
+
+b. Otomastoiditis aguda
+
+Complicación de otitis media caracterizada por fiebre, dolor y/o eritema en la región mastoidea, edema del pabellón auricular y/o su desplazamiento hacia caudal y posterior. La tomografía computarizada muestra característicamente una mastoiditis coalescente, con pérdida de hueso trabecular44. Los gérmenes predominantes son S pneumoniae, S pyogenes, S aureus, y Staphylococcus coagulasa-negativo. Haemophilus, proteus, pseudomonas y bacteroides también han sido reportados7. Una alternativa de tratamiento es ceftriaxona en altas dosis (4 g al día en adultos; en pediatría se podría preferir el uso de cefotaxima) para lograr buena penetración a hueso y SNC, asociado a metronidazol por la probable presencia de anaerobios. Alternativamente, parece razonable el uso de piperacilina/tazobactam en infusión prolongada o ceftazidima en infusión prolongada en altas dosis más metronidazol cuando se sospeche pseudomonas.
+
+c. Complicaciones orbitarias de rinosinusitis aguda
+
+Las complicaciones orbitarias de RSA se producen por extensión de la infección a tejidos adyacentes, favorecido por la proximidad y un sistema venoso carente de válvulas. En 1970, Chandler las clasificó en 5 grupos: celulitis preseptal, celulitis orbitaria, absceso subperióstico, absceso orbitario y trombosis del seno cavernoso. El 70%-90% de los cultivos son positivos y en general polimicrobianos. El aislamiento de anaerobios se encuentra en el 26%-100% de los casos45. Los patógenos encontrados incluyen anaerobios de la cavidad oral, S pneumoniae, S aureus, entre otros7.
+
+La terapia antibiótica debe cubrir anaerobios de la cavidad oral, neumococos (posiblemente resistentes en la población pediátrica, pero no así en adultos en Chile) y asegurar su llegada al SNC para prevenir infecciones centrales. Los antibióticos recomendados son ceftriaxona IV en altas dosis +/- metronidazol, o levofloxacino +/- metronidazol. En países con mayor incidencia de SAMR-AC, puede adicionarse vancomicina7.
+
+d. Infecciones profundas de cuello
+
+En el caso de flegmones y abscesos periamigdalinos, la bacteriología indica la participación de anaerobios, Streptococcus del grupo viridans y sólo en una fracción de los casos S pyogenes46. Ello determina que además del drenaje adecuado, las alternativas terapéuticas con antimicrobianos pueden incluir clindamicina o β-lactámicos con inhibidores. En el caso específico de infecciones periamigdalinas, algunos estudios indican que la penicilina sódica IV en altas dosis, para cubrir anaerobios, podría ser igualmente efectiva y de menor costo47,48.
+
+Para el resto de las infecciones de los espacios profundos del cuello, la microbiología es polimicrobiana y dependerá de si el origen es de foco dental, faríngeo, ótico o rinosinusal. Los gérmenes más frecuentemente involucrados son Streptococcus viridans, estafilococos y anaerobios orales. En general, los tratamientos antibióticos empíricos recomendados son ampicilina/sulbactam o clindamicina IV49; piperacilina/tazobactam también constituye una buena alternativa.
+
+CONCLUSIÓN
+
+Debido a su frecuencia, relevancia y microbiología característica, es importante conocer las infecciones de cabeza y cuello, entendiendo su enfoque terapéutico desde una mirada racional. Dada la variedad de órganos localizados en un espacio anatómico pequeño, es especialmente importante no simplificar escogiendo un solo antibiótico para todas las infecciones ORL, si no que orientar el tratamiento según las directrices expuestas para entregar una terapia efectiva, racional y con la menos cantidad de efectos adversos; sólo en los casos en los que realmente esté indicado.

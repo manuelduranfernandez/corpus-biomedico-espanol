@@ -1,0 +1,78 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-48162013000200014
+Prueba de impulso cefálico: Bases fisiológicas y métodos de registro del reflejo vestíbulo oculomotor
+
+ 
+
+INTRODUCCIÓN
+
+En la historia de la evaluación clínica vestibular siempre se ha buscado la manera de medir en forma individual cada uno de los órganos de este sistema; los seis canales semicirculares y los cuatro órganos otolíticos en toda su gama dinámica.
+
+Los canales semicirculares son sensibles a aceleraciones angulares. Sabemos que la frecuencia fisiológica de los movimientos cefálicos giran en torno a los 5 Hz en un rango de 2 a 7 Hz con aceleraciones de 4 a 5.000o/seg2. La prueba calórica clásica mide el funcionamiento de los canales laterales en forma individual en un rango de frecuencia ultrabajo (0,025 Hz), siendo considerada una prueba umbral. Por otro lado las pruebas rotacionales, como la silla rotatoria, miden la función de los canales laterales simultáneamente, pero no en forma individual y a un rango de frecuencia apenas superior a 1 Hz1. Ambas pruebas se basan en desencadenar el reflejo vestíbulo-oculomotor (RVO), pero sin medir su eficiencia.
+
+La eficiencia del RVO la definiremos como la propiedad de este reflejo de generar movimientos oculares de fase lenta casi perfectamente compensatorios en dirección y velocidad para los movimientos de la cabeza. Esta propiedad puede ser medida y registrada mediante la Prueba del Impulso Cefálico o Head Impulse Test (HIT), no así en las pruebas calóricas y rotacionales.
+
+Es así como basados en el conocimiento de la fisiología vestibular, desarrollado por Goldberg y Fernández en el año 19702, en 1988 Halmagyi y Curthoys describieron la Prueba del Impulso Cefá-lico3 como un método diagnóstico para evaluar la eficiencia del RVO.
+
+BASES FISIOLÓGICAS    HIT
+
+Frente a un estímulo,    el sistema vestibular responde de dos maneras antagónicas, estimulación    e inhibición (sistema push-pull). Es así, como    en un movimiento cefálico a derecha en el plano horizontal, se producirá    una respuesta excitatoria en el canal semicircular lateral (CSCL) derecho y    una respuesta de tipo inhibitoria en el CSCL izquierdo. No obstante, pese a    ser respuestas que ocurren de forma simultánea, los estudios de Goldberg    y Fernández mostraron que frente    a movimientos de alta aceleración y corta duración, estas respuestas    son desiguales entre sí al presentar tasas de descarga neuronal distintas    y con diferentes magnitudes2. Este fenómeno fue primeramente    descrito por Ewald a fines del siglo 193.
+
+El HIT se basa eminentemente    en esta asimetría de la respuesta del sistema canalicular a un estímulo    cefálico de alta aceleración y corta duración. La asimetría    se explica por la diferencia en la tasa de descarga neuronal que existe entre    la excitación e inhibición de dos canales coplanares a partir    de la tasa de descarga de reposo o basal. Considerando como ejemplo el CSCL    derecho, frente a una rotación cefálica hacia derecha de alta    aceleración, la tasa de descarga de las neuronas vestibulares aferentes    primarias de dicho canal, crece en forma lineal con la estimulación,    a partir de la tasa normal de reposo (90 descargas/seg. en el CSCL del mono    ardilla) sin saturarse. Por el contrario, en el CSCL izquierdo, que está    siendo inhibido por el estímulo cefálico, la tasa de descarga    baja desde la tasa de reposo hasta las 0 descargas/seg. como máximo,    sin poder inhibirse más4. Lo mismo ocurre a nivel de las neuronas    secundarias a nivel del núcleo vestibular medial, donde es mucho más    evidente esta diferencia entre las magnitudes de la excitación e inhibición,    ya que la mayoría de estas neuronas presentan tasas de reposo aún    menores que las neuronas primarias, siendo por tanto más fáciles    de "silenciar" (Figura 1).
+
+En otras palabras, si bien tanto la excitación como la inhibición del sistema canalicular son necesarias para el RVO, frente a un estímulo cefálico de alta aceleración y corta duración la mayor parte del peso en su generación recae en la excitación1,4.
+
+Considerando estas características, podría suponerse que las respuestas del RVO a movimientos cefálicos rápidos y de corta duración serían una forma de medir, en forma individual, la función de los canales semicirculares.
+
+HIT Y RVO
+
+El HIT consiste en movimientos    pasivos e impredecibles de la cabeza de pequeña amplitud (10°-20°),    de alta velocidad (200-400o/seg) y de gran aceleración    (3000-4000o/seg2) en el plano de un    par de canales semicirculares (tanto en el plano horizontal como verticales)1,5.    En sujetos sanos, frente a una rotación cefálica, se producirá    un movimiento lento de los ojos de tipo compensatorio y en dirección    opuesta al movimiento de la cabeza, mediado por el RVO, para mantener la mirada    fija y la imagen de interés en la fóvea6. Más    fácilmente, si un sujeto fija su mirada en un punto distante y bruscamente    rotamos su cabeza hacia un lado, los ojos deben ser capaces de mantener la imagen    del objeto en la retina.
+
+El HIT por tanto evalúa la función angular del laberinto, es decir los canales semicirculares, dejando de lado la función lineal que recae en los órganos otolíticos, el utrículo y el sáculo.
+
+Cuando existe algún déficit    en el RVO los ojos se moverán en la misma dirección de la rotación    de la cabeza y, para mantener la mirada fija en un objeto, deberán realizar    un movimiento sacádico correctivo (catch-up saccades) hacia    el lado opuesto a la rotación cefálica. Si esta sacada de corrección    se produce al final del movimiento cefálico, un examinador entrenado    la podrá observar. Estas son conocidas como overt saccades (descubiertas)    y son el signo clínico de una paresia    del CSC estimulado. Sin embargo, si esta sacada correctiva aparece durante el    movimiento cefálico, no podrá ser detectable a ojo desnudo. Estas    sacadas son conocidas como covert saccades (encubiertas) siendo también    signos de paresia vestibular. Tanto las overt saccades como las covert    saccades pueden estar presentes simultáneamente en un paciente. El    problema radica en que la existencia de covert saccades hace que la amplitud    de las overt saccades disminuya, haciendo difícil la observación    de éstas últimas a ojo desnudo y favoreciendo la aparición    de falsos negativos al no registrarlas1,7-9 (Figura    2). Es así que el HIT a ojo desnudo presenta una sensibilidad entre    55% a 72% con una especificidad entre 78% y 83%10.
+
+Por lo anterior se han implementado diversos métodos para mejorar el registro del RVO y aumentar la sensibilidad y especificidad del HIT.
+
+REGISTRO DE LA GANANCIA DEL RVO
+
+El RVO es de los reflejos más    rápidos en desencadenarse, aproximadamente a los 7,5 ± 2,9    mseg. en el plano horizontal (yaw), desde el comienzo de la estimulación,    casi al mismo tiempo del movimiento cefálico, por lo que es fundamental    el instrumental adecuado para su registro5.
+
+El ideal sería poder consignar    la aceleración del movimiento cefálico y relacionarla con la aceleración    del movimiento compensatorio ocular. Esto último se conoce como ganancia    del RVO y se define como la relación que existe entre el movimiento cefálico    (input) y el desplazamiento de los ojos (output). Así,    la aceleración de los ojos puede ser consignada como una función    de la aceleración cefálica (ganancia RVO= aceleración ocular/aceleración    cefálica). En sujetos normales la ganancia del RVO tiene un valor cercano    a 1, siendo en el plano horizontal de 0,94 ± 0,065.
+
+Es así como los valores de ganancia más cercanos a 010, la presencia de catch-up saccades y una ganancia asimétrica son indicativos de un RVO disminuido. La presencia de cualquiera de estos tres criterios de anormalidad es signo de paresia vestibular.
+
+Por tanto dada sus características de ganancia y latencia, en condiciones normales el RVO genera movimientos oculares de fase lenta que son casi perfectamente compensatorios en dirección y velocidad para los movimientos de la cabeza, lo que no ocurre cuando existe una hipofunción vestibular.
+
+REGISTRO DE LA GANANCIA DEL    RVO CON BOBINA ESCLERAL
+
+Para analizar el RVO se ha utilizando    la bobina de búsqueda escleral en campo magnético (scleral    search-coil). Desde su primera descripción en 1963 por    Robinson12, hasta la fecha sigue siendo considerada el gold standard    para el registro de los movimientos oculares. Este dispositivo consta de bobinas    que generan campos magnéticos. La unidad ocular la forman 2 bobinas metálicas    incluidas en un anillo de silicona, a modo de lente, que se coloca sobre la    superficie escleral de manera que la pupila y el iris quedan descubiertos. Bajo    el mismo principio, se usa una bobina doble montada en una impresión    dental para medir los movimientos cefálicos. Ambos dispositivos deben    situarse dentro de un marco cúbico magnético de 1 metro de lado    de forma que al interactuar sus campos magnéticos con los del marco es    posible registrar de la posición de los ojos y de la cabeza en las tres    dimensiones espaciales5 (Figura 3).
+
+Mediante este método de registro la sensibilidad y especificidad aumentan respecto al HIT a ojo desnudo, siendo de 84% y 91% respectivamente10.
+
+No obstante su utilidad, es un    método caro, invasivo, molesto para el paciente y de difícil implementación.
+
+VIDEO HEAD    IMPULSE TEST - vHIT
+
+Con el advenimiento de cámaras de video pequeñas, livianas y de alta velocidad, en combinación con sensores de inercia, es posible obtener los mismos registros que la bobina escleral, pero disminuyendo el costo y las molestias para el paciente.
+
+El Video Head Impulse Test (vHIT) se basa en el registro de los movimientos oculares con el uso de cámaras de alta velocidad (250 cuadro/ segundos) que logran captar los movimientos compensatorios durante el impulso cefálico, que al ser de mayor aceleración y velocidad y de menor latencia, no son posibles de registrar con cámaras convencionales y menos a ojo desnudo.
+
+Para el registro de los movimientos cefálicos se utiliza una unidad de medición de inercia compuesta por un acelerómetro de 3 ejes y de 2 giroscopios de doble eje que forma parte de las gafas de video-oculografía5.
+
+Se conocen en la literatura al    menos dos trabajos, uno australiano13 y otro alemán13,    que comparan los registros del RVO desencadenados por impulsos cefálicos    utilizando ambos métodos en forma simultánea (scleral search-coil    y videoculografía de alta velocidad). Con ambos sistemas se evaluaron    pacientes normales y con patología vestibular conocida, registrando los    movimientos oculares del ojo derecho. Para el estudio con bobina    escleral los sujetos fueron sentados en el centro de un marco magnético,    fijando la mirada en un objetivo colocado a una distancia de 91 cm. aplicándoseles    impulsos cefálicos aleatorios hacia uno y otro lado en el plano horizontal.    Para el registro con video-oculógrafo se uso una cámara liviana,    pequeña y de alta velocidad montada en un marco liviano especialmente    diseñado para evitar su desplazamiento durante los movimientos de la    cabeza. En sujetos normales con ambos métodos se obtuvieron ganancias    del RVO cercanas a 1 en el plano horizontal13,14 (Figura    4).
+
+Caso 1: En un paciente con neuritis vestibular con pérdida unilateral de la función del CSCL consignada en la prueba calórica, los impulsos cefálicos hacia el lado afectado produjeron una disminución de la ganancia RVO. Este sujeto tuvo un HIT positivo presentando sacadas tipo overt, vistas a ojo desnudo, como covert registradas gracias al uso de la bobina escleral y del video-oculógrafo. Al registro ambos tipos de sacadas correctivas fueron evidenciadas y claramente distinguibles de la respuesta residual del RVO13.
+
+Caso 2: En un paciente con vértigo,    cuyo HIT a ojo desnudo fue normal sin poder evidenciarse overt saccades,    pese a tener una prueba calórica casi abolida en el oído supuestamente    afectado. Lo anterior estaría explicado por la presencia de un    sinnúmero de covert saccades durante los impulsos cefálicos,    que sí pudieron ser registradas al realizar el test con el uso de la    bobina y video-cámara. Posteriormente, con una resonancia magnética    se constató la presencia de un schwannoma vestibular en el lado afectado13.
+
+Con lo anterior no hay discusión que el registro de las sacadas correctivas, tanto overt como covert es fundamental para evitar la presencia de falsos negativos como en el segundo caso.
+
+El uso de la bobina escleral    mejora el valor diagnóstico del HIT, pero es un método caro, invasivo,    molesto para el paciente y de difícil implementación. Asimismo,    el vHIT ha demostrado igual efectividad en el registro de los movimientos oculares    compensatorios, con una sensibilidad y especificidad cercana al 100%7,10    y con la ventaja de ser un método fácil de implementar, de pocos    minutos de duración, no invasivo, repetible en el tiempo y mejor tolerado    por los pacientes.
+
+CONCLUSIÓN
+
+Junto con la prueba calórica,    los potenciales evocados miogénicos vestibulares (VEMP), test de la    visual vertical subjetiva (SVV), el registro de los movimientos oculares voluntarios    y reflejos y la posturografía, el HIT con registro video-oculográfico    pasa a engrosar la lista de exámenes necesarios para la correcta y completa    evaluación de las patologías vestibulares. Dado que el vHIT es    un procedimiento rápido, no invasivo, bien tolerado y reproducible en    el tiempo por distintos examinadores entrenados, es útil para el diagnóstico    y, en especial, para el seguimiento de pacientes con sintomatología vestibular.
+
+El poder graficar los movimientos cefálicos y los movimientos oculares compensatorios permite un análisis de las características estímulo-respuesta del RVO, siendo posible realizar estímulos con distintos grados de magnitud y correlacionarlos con los distintos grados de respuesta, convirtiendo al vHIT en una herramienta objetiva en la evaluación de la eficiencia del RVO.
+
+Considerando entonces que el vHIT mide la función dinámica de los canales semicirculares y, por su parte el VEMP y la SVV evalúan la función otolítica, su uso conjunto en la evaluación de un paciente con síntomas vestibulares permitiría realizar una correcta estimación de la función vestibular logrando una mejor aproximación al sitio de la lesión.
