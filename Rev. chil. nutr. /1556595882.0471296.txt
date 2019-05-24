@@ -1,0 +1,140 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182015000100002
+Determinantes sociales y conductuales en salud nutricional: evidencia para Chile
+
+RESUMEN
+
+Los factores de riesgo a la salud    asociados con la alimentación son un foco clave en las estrategias de    promoción de la salud y de seguridad alimentaria y nutricional en Chile    (SAN). Este artículo entrega un análisis de los efectos que variables    conductuales y sociales tienen sobre los factores de riesgo asociados a una    mala nutrición (obesidad, altos niveles de colesterol, glicemia elevada    y altos niveles de sodio), en base a la Encuesta Nacional de Salud 2009-2010    utilizando una estimación por regresiones aparentemente no relacionadas    (SUR). Los resultados revelan que las variables asociadas a aspectos conductuales    y sociales tienen un impacto significativo en los factores de riesgo de salud    alimentaria, controlando por variables demográficas, genéticas    y socioeconómicas. Destaca el efecto de la subestimación de las    personas respecto a su estado nutricional, que puede explicar hasta 6 cm de    circunferencia abdominal y 3 puntos en el IMC. Asimismo, las redes de apoyo    social y económico a nivel individual juegan un rol fundamental. Los    resultados entregados son un insumo relevante para la discusión sobre    los mecanismos que la política pública debiese tener a fin de    promover la seguridad alimentaria y nutricional, en particular al diseñar    programas de educación e información a la población, donde    existe la posibilidad de fortalecer las redes de apoyo existentes.
+
+Palabras clave:    riesgo de salud, estado nutricional, seguridad alimentaria nutricional, Chile,    malnutrición.
+
+ 
+
+INTRODUCCIÓN
+
+Los factores de riesgo a la salud    que se relacionan con hábitos alimentarios han aumentado su prevalencia    en la gran mayoría de los países desarrollados, particularmente    en las últimas décadas y con una mayor incidencia en niños    (1, 2). Las enfermedades no-transmisibles con mayor tasa de mortalidad,    como las coronariopatías, hipertensión, cáncer, arritmia    y diabetes están asociadas con la malnutrición, sobrepeso e inactividad    física (1,3). En Chile, la obesidad y sobrepeso afecta a dos tercios    de la población adulta, dos quintos de los jóvenes a nivel de    octavo básico y más de un 10% de los niños menores de cinco    años (4).
+
+En el contexto de la transición    nutricional experimentada en las últimas décadas en Chile (y el    mundo entero), se observa un incremento en la prevalencia de factores de riesgo    a la salud en la población, particularmente aquellos asociados a obesidad    y sedentarismo, pero también a un mayor consumo de    alimentos altos en sodio, azúcares y grasas (5, 6).
+
+Cambios tanto en los contenidos    como en la variedad de la oferta alimentaria disponible hacia los hogares, así    como en los estilos de vida (tiempo dedicado a la alimentación y actividad    física), han contribuido de manera significativa al incremento en la    malnutrición, ya sea por exceso de ingesta calórica o por una    dieta inadecuada en nutrientes esenciales (2). Controlando por las diferencias    en la oferta de alimentos y factores socioeconómicos, existe evidencia    que factores de comportamiento (conductuales) así como del entorno de    los hogares (ambiente social) son relevantes en términos de su conducta    en cuanto a la ingesta de alimentos y actividad física (7-10). En    Chile no existen a la fecha estudios similares que analicen el impacto de estos    factores en la malnutrición de la población desde una perspectiva    sistémica.
+
+El objetivo de este estudio fue    analizar la relación entre los determinantes sociales y conductuales    de la población chilena y los factores    distales de riesgo a la salud vinculada a malnutrición (particularmente    por exceso), a partir de los datos de la Encuesta Nacional de Salud 2009-2010.    Los resultados son relevantes para la discusión actual de política    pública, en particular en cuanto a que elementos considerar en el diseño    de programas de información y educación alimentaria hacia los    consumidores, así como proveer mecanismos que fortalezcan las redes de    apoyo a nivel individual, a fin de asegurar un acceso y una apropiada utilización    de la alimentación de manera que se reduzcan los factores de riesgo de    salud por malnutrición.
+
+SUJETOS Y MÉTODOS
+
+Diseño
+
+Para este análisis se    siguió un modelo teórico causal basado en Margozzini (11), donde    existe un set observable de variables individuales que conduce a una mayor prevalencia    de factores distales y proximales de riesgo asociados a una mala alimentación    (IMC elevado, obesidad abdominal alta, colesterol alto, entre otros), los cuales    a su vez elevan riesgo de presentar una enfermedad. Siguiendo el modelo, las    variables individuales tienen relación con factores genéticos,    sociales, conductuales y ambientales. Finalmente, el riesgo de presentar una    enfermedad puede observarse indirectamente de forma consistente a través    la medición del riesgo de enfermedad cardiovascular (12,13). Para facilitar    el análisis, podemos expresar matemáticamente la relación    anterior:
+
+RCVi = 1 (Xi'ß    + Wi'θ + εi >0) (1) 
+
+Xij = Zi'Y +      ei ∀j (2)
+
+Donde la prevalencia de riesgo    cardiovascular alto para el individuo (RCVi) se modela con una función    indicador que está asociada a los factores de riesgo asociados a alimentación    (Xi) y otros factores (Wi), que pueden ser de orden genético    o ambiental. En este modelo, (β,θ) son parámetros que    informan sobre el efecto que un factor de riesgo tiene sobre la posibilidad    de observar un individuo con riesgo cardiovascular alto.
+
+A su vez, cada factor de riesgo    observado en el vector X (Xij Є Xi) representa    el factor de riesgo nutricional (j) para el individuo (i), que puede ser modelado    de forma lineal a través de un grupo de variables individuales (Zi),    que pueden ser conductuales, psicosociales, ambientales o genéticas.    Entonces, es el vector de parámetros que informa sobre efecto directo    de una variable individual sobre el factor de riesgo, como el IMC, por ejemplo.
+
+Tanto Єi como ei    son términos de error vinculados a cada una de las ecuaciones respectivas.    Es importante notar que pueden existir variables incluidas simultáneamente    en (Zi) y (Wi), ya que, por ejemplo, la prevalencia de RCV puede estar explicada    de forma directa e indirecta por factores individuales (11).
+
+Encuesta
+
+La Encuesta Nacional de Salud    (ENS) es una iniciativa del Ministerio de Salud de Chile, y ha sido efectuada    en dos ocasiones, el año 2003, y luego entre los años 2009-2010    (14). El objetivo es obtener información poblacional sobre la prevalencia    de enfermedades no transmisibles y los factores de riesgo a la salud asociados    a las mismas. La encuesta es aplicada a mayores de 15 años y tiene representatividad    regional y a nivel de zonas (urbano y rural). La ENS cuenta con un análisis    de patrones de consumo alimentario, sedentarismo,    consumo de drogas, variables psicosociales, entre otras. El número de    observaciones totales varía de acuerdo a las variables consideradas ya    que la encuesta se aplicó en base a dos cuestionarios separados (entrevistador    y profesional médico), lo cual afecta el número de observaciones.
+
+Variables
+
+Para el riesgo cardiovascular,    se considera un valor de 1 para aquellos tienen un riesgo alto y 0 para el resto    de la población. Los factores de riesgo asociados a la alimentación    considerados para este estudio fueron el estado nutricional, medido tanto por    el índice de masa corporal, IMC (kg/mt2), como por la circunferencia    abdominal (cm), la ingesta de sodio (gl/día), el colesterol total (mg/dL)    y la glicemia total (mg/dL). La ingesta de sodio se usa como una medida para    aproximar el balance de sodio-potasio, debido a dificultades de medición    de dicha variable.
+
+En cuanto a las características    individuales utilizadas a partir de la encuesta, existen mediciones socioeconómicas,    demográficas, ambientales (percepción del entorno), psico-sociales,    de dieta alimentaria, consumo de alcohol y tabaco, y actividad física.    En particular, dentro de las variables ambientales, se utilizaron cuatro medidas    de auto percepción de la red de apoyo individual, basadas a la respuesta    sobre el grado de acuerdo/desacuerdo (con niveles decrecientes de 1 a 5) acerca    de las siguientes afirmaciones: 1) a nadie le importa mucho lo que me pase,    2) es más seguro no confiar en nadie, 3) tiene alguien a quien pedir    ayuda/consejo, y 4) este es una villa/barrio donde los vecinos se preocupan    unos por otros1. Las demás variables ambientales, que también    se miden en grado de acuerdo/desacuerdo, incluyen el acceso a apoyo económico    por un cercano (medido en escala de 1 a 7) y percepción de seguridad    en el barrio (escala de 1 a 5). En cuanto a los aspectos psicosociales, se utiliza    la autopercepción de bienestar general y de salud (medidas en grado    de acuerdo/desacuerdo en escala de 1 a 5), y una variable definida como hostilidad,    la cual representa el grado en que la persona manifiesta no participar en actividades    en su grupo social de referencia (estas variables vienen ya creadas y definidas    en la ENS 2009-2010, todas en escala de 1 a 5).
+
+Adicionalmente, dado que se cuenta    con un autorreporte del estado nutricional, se definió una variable llamada    diferencia en percepción física, medida como la diferencia entre    lo autorreportado y observado, como una medida de la subestimación (+)    o sobreestimación (-) sobre el estado nutricional individual. Esta    variable resulta muy relevante a nivel teórico, ya que refleja el grado    en que el individuo identifica correctamente su situación nutricional.
+
+Análisis estadístico  
+
+La estadística descriptiva muestra la media y desviación estándar      de las variables utilizadas en el estudio, así como la correlación      simple entre los factores de riesgo y el RCV (muestra completa). Adicionalmente      se estimó una regresión logística sobre el RCV usando los      factores de riesgo y otras variables individuales (ecuación 1), para      validar el modelo teórico. Posteriormente, el modelo estadístico      para explicar los factores de riesgo (ecuación 2) fue estimado de manera      conjunta usando la metodología de regresiones aparentemente no relacionadas      (SUR). El propósito de usar la metodología SUR es identificar      de manera consistente el impacto de las variables individuales      sobre los factores de riesgo, reconociendo que existe una relación estadística      entre ellos, y el estimar de forma independiente puede afectar los resultados.      Para determinar el ajuste de los modelos se utilizaron criterios de información      a nivel individual y global, fijando el nivel de significancia en 10%. Los cálculos      computacionales fueron realizados con STATA 12.0.
+
+RESULTADOS
+
+En la tabla 1    se observa la estadística descriptiva de las variables individuales.    Las variables de autorreporte en general presentan dificultades de medida, tanto    por la definición sobre la métrica cualitativa de las mismas,    como la dispersión entre las respuestas observadas, por lo que se eliminaron    las observaciones extremas que pudieran influenciar el resultado del estudio.    En línea con lo encontrado en otras investigaciones, el consumo de alimentos    saludables como pescado y fibra es bajo (se declara en promedio consumir entre    1 y 3 veces en el mes), así como la actividad física recreativa    (17 minutos/día en promedio), mientras que la percepción de salud    y bienestar general promedia entre regular y mala, para el total de la población,    siguiendo las categorías usadas en la ENS (4, 16).
+
+ 
+
+TABLA 1
+
+Variables relacionadas con los factores de riesgo
+
+
+
+*DE: Desviación estándar        Fuente: Elaboración propia en base a ENS 2009.
+
+ 
+
+En cuanto a la relación    entre el RCV y los factores de riesgo vinculados con la alimentación,    vemos en la tabla 2 una correlación positiva significativa    (simple) con todas las variables, siendo la más alta como posible predictor    la circunferencia abdominal (0,36) y la glicemia (0,34). Para validar la relación    teórica, se realizó una estimación logística de    los factores de riesgo sobre el RCV, donde se encontró que, al controlar    por edad, sexo, actividad física, consumo de alcohol y tabaco, y factores    genéticos, todas las variables de factores de riesgo asociados a la alimentación    son significativas (tabla 3). Destaca el impacto del consumo    de sal sobre la prevalencia del RCV, lo cual puede explicarse por el efecto    indirecto sobre la hipertensión.
+
+ 
+
+TABLA 2
+
+Correlación simple entre factores de riesgo y riesgo cardiovascular.
+
+
+
+ *CA: Circunferencia abdominal     Fuente: Elaboración propia en base a ENS 2009. Todas las correlaciones son significativas al 5%.
+
+ 
+
+TABLA 3
+
+Modelo Logit para el riesgo cardiovascular (RCV)
+
+
+
+Nota: Modelo ajustado por criterio de información (Akaike).       Fuente: Elaboración propia en base a ENS 2009.
+
+ 
+
+La tabla 4    muestra las estimaciones de cada uno de los factores de riesgo sobre las variables    individuales, usando la metodología SUR. Se observa que la obesidad abdominal,    una vez aplicados los controles, está significativamente relacionada    con la percepción física (estado nutricional), y la percepción    de salud. En particular, una diferencia en la correcta percepción del    estado nutricional puede explicar hasta 6 cm de circunferencia abdominal. Lo    anterior implica que si bien las personas de mayor riesgo están conscientes    de tener una peor salud, tienden a subestimar su estado    nutricional. Este efecto es particularmente relevante, ya que si observamos    el cuadro 1, de las personas obesas, sólo 10% se percibe en dicho estado.    Esta información contrasta con lo reportado en el cuadro 2, donde aquellos    en estado nutricional de obesidad (efectivo) reportan una peor condición    de salud (más del 50% percibe su situación de salud como regular    o mala). Podemos concluir que si bien las personas en situación de riesgo    están conscientes de su mala calidad de salud, no ocurre lo mismo con    su estado nutricional, lo cual puede explicarse por desinformación o    por la incapacidad de analizar dicha información. Estos resultados son    extensivos al IMC, donde una percepción incorrecta del estado nutricional    explica, en promedio, 3 puntos del índice. Adicionalmente, podemos observar    que variables asociadas a la ingesta de alimentos saludables, como un mayor    consumo de pescado, y mayor actividad física, tienen un efecto significativo    sobre la circunferencia abdominal.
+
+ 
+
+TABLA 4
+
+Modelo SUR para factores de riesgo asociados a la alimentación.
+
+
+
+Nota: Modelo ajustado por criterio de información (Akaike). Sólo se reportan variables        estadísticamente significativas.        Fuente: Elaboración propia en base a ENS 2009.
+
+ 
+
+CUADRO 1
+
+Auto-percepción del estado nutricional para el grupo en situación de obesidad (%).
+
+
+
+ 
+
+CUADRO 2
+
+Auto-percepción de salud según estado nutricional (%).
+
+
+
+ 
+
+En cuanto al consumo de sal (sodio),    existe un efecto significativo del aislamiento social (hostilidad) sobre la    calidad de la dieta. Por otra parte, la existencia de apoyo económico    de un cercano conduce marginalmente a una dieta más rica en sodio, lo    cual puede provenir de un mayor consumo de alimentos ultra-procesados.    Lo mismo se observa de la relación entre el consumo de productos altos    en fibra y el nivel de sodio. En relación al vínculo de las variables    individuales sobre el nivel de colesterol    total, nuevamente factores sociales, especialmente a nivel de estrés    y baja autoestima (en referencia a la red de apoyo), pueden condicionar, en    este caso, a la incapacidad de llevar una dieta    saludable, lo cual puede argumentarse tanto por acceso económico, como    por autocontrol en la ingesta de productos altos en colesterol. Adicionalmente    destaca el impacto que tiene el menor consumo de fibra con el incremento en    el colesterol total. Finalmente, todo lo demás constante, el nivel de    glicemia total se encuentra relacionado tanto con aspectos individuales, como    la percepción de salud, así como el entorno, en este caso visto    como la existencia de apoyo económico, sin embargo este último    efecto es de menor orden de magnitud.
+
+DISCUSIÓN
+
+A pesar de las sustanciales mejoras    en la calidad de vida y acceso a la salud en Chile durante los últimos    años, la prevalencia de los factores de riesgo a la salud vinculados    a la nutrición se ha incrementado o mantenido en el tiempo, particularmente    en los grupos más jóvenes (15). Reducir los factores de riesgo    (y promover los factores protectores de la salud) es una de las líneas    de trabajo prioritarias del Ministerio de Salud, según lo expuesto en    la Estrategia Nacional 2011-2020. Sin embargo hay escasa investigación    sobre la relación entre variables individuales (conductuales, ambientales,    sociales) y prevalencia de los factores de riesgo (4). En particular, en cuanto    a los factores conductuales y sociales, no existe evidencia para Chile respecto    del impacto que ellos tienen sobre la prevalencia de factores de riesgo asociados    a la alimentación.
+
+En este estudio analiza estadísticamente    los determinantes de los factores de riesgo asociados a la salud nutricional,    usando variables individuales provenientes de la Encuesta Nacional de Salud    2009-2010, mediante una estimación de ecuaciones aparentemente no    relacionadas (SUR). A partir de los resultados se encontró que, controlando    por variables económicas, demográficas y genéticas, existen    determinantes sociales y conductuales que explican significativamente el incremento    (o disminución) de la prevalencia de los factores de riesgo. En línea    con la literatura empírica, los factores de riesgo aumentan con la edad    de forma cóncava y disminuyen en la medida que aumenta el nivel de socioeconómico    (medido indirectamente por la escolaridad    de la madre) (8-10). Asimismo, los factores genéticos de prevalencia    de enfermedades como el género de la persona son determinantes en los    factores de riesgo (3, 11). Adicionalmente, se aprecia que existe una relación    directa entre el mayor consumo de productos saludables (pescado y cereales altos    en fibra) y la reducción de la prevalencia de los factores de riesgo.    Es cuanto a los factores conductuales, es de particular relevancia el efecto    de la percepción que la persona tiene sobre su salud, condición    física e identificación con el entorno. Además, se encuentra    que la existencia de una red de apoyo a nivel social y económico a nivel    individual es también relevante para reducir la prevalencia de los factores    de riesgo observados. Estos resultados están en línea con lo encontrado    en otros estudios (7 - 9).
+
+El efecto que tiene la discrepancia    entre el estado nutricional percibido (autorreporte) y el efectivo (medición)    es particularmente relevante, ya que indica que una subestimación en    la condición de obesidad del sujeto conduce al incremento de su condición    de riesgo (medido como mayor IMC y circunferencia abdominal). Lo anterior es    preocupante, ya que en el grupo de obesidad en particular, sólo uno de    cada diez reconoce su estado nutricional efectivo. Evidencia internacional en    estudios para adolescentes y adultos muestra que el sesgo en la percepción    del estado nutricional incide en la subestimación del riesgo de salud    (17, 18) y que dicha subestimación está vinculada con la carencia    de capital humano (18 - 21).
+
+En suma, los resultados muestran    que si bien la población chilena aún enfrenta dificultades de    acceso (particularmente económico) a una dieta nutritiva y saludable    (22), el conocimiento de las personas respecto de su situación nutricional    efectiva y la capacidad de generar y mantener redes de apoyo son herramientas    de alto impacto al momento de diseñar intervenciones de política    pública alimentaria que conduzcan a alcanzar la Seguridad Alimentaria    y Nutricional. Esto sugiere tener particularmente en cuenta aquellos programas    que tienen la oportunidad de vincular estrategias de educación alimentaria    y participación local inclusiva, como los programas de asistencia directa    (PAE y PNAC), así como los programas de educación en escuelas    públicas. La vinculación de todos los actores del proceso (padres,    hijos, comunidad), mediante la articulación a través de profesionales    del área alimentación, es clave para el éxito de los programas,    lo cual demanda mayor capacitación e incorporación de nutricionistas,    cocineros y otros profesionales (15, 16). Adicionalmente, es necesario reconocer    la heterogeneidad intra e intergrupal en el acceso y comprensión de la    información nutricional, particularmente por nivel socioeconómico,    como elemento clave en el diseño de políticas al consumidor, tanto    de información como de educación alimentaria. Lo anterior implica    reconocer el entorno social y la oferta alimentaria disponible en cada grupo    de referencia (23).
+
+Agradecimientos: Expreso mis    agradecimientos a Fernando Vio y Pablo Faret por su significativa contribución  a este estudio, a través de sus comentarios y apoyo durante la investigación.
+
+NOTA
+
+1 Las variables en    la tabla 1 están declaradas siguiendo el orden de las    preguntas descritas en este apartado.

@@ -1,0 +1,178 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182015000400004
+Predicción de la dinámica temporal de egresos hospitalarios por obesidad en niños y jóvenes en Estados Unidos
+
+RESUMEN
+
+La prevalencia de sobrepeso en niños a nivel mundial tiende al incremento especialmente en países en vía de desarrollo. Enfermedades asociadas al sobrepeso infantil como asma, apnea del sueño y diabetes mellitus, siendo esta última la más frecuente en niños y adolescentes, implican otra problemática como es el alto costo en salud, el cual ha sido analizado por el Centro Nacional de Estadísticas de la Salud en los Estados Unidos. El objetivo de esta investigación fue estudiar matemáticamente la dinámica del porcentaje de altas hospitalarias por sobrepeso y obesidad de pacientes de 6 a 17 años de edad en los Estados Unidos con el fin de predecir el porcentaje de altas hospitalarias por obesidad en Estados Unidos para el año 1999, en el contexto de la caminata al azar probabilista, específicamente a partir de un espacio total de probabilidades que permite analizar el comportamiento probabilista de aumentos y disminuciones, a partir de los años comprendidos entre 1983 y 1998, en Estados Unidos. El rango predicho para el año 1999 fue de 1,17%, valor que fue posteriormente comparado con los datos del NCHS, que reportó un 1,15%, logrando una predicción del 98,01%. Se estableció un orden físico y matemático subyacente a la dinámica del porcentaje de altas hospitalarias por obesidad en niños, logrando realizar predicciones en su trayectoria.
+
+Palabras clave: Obesidad, infancia, caminata al azar, predicción, Estados Unidos.
+
+ 
+
+INTRODUCCIÓN
+
+El abordaje de las enfermedades epidémicas se ha enfocado en establecer relaciones causales entre variables tales como factores externos (movimientos poblacionales, cambios climáticos) y la dinámica de la enfermedad, con lo que las predicciones quedan limitadas respecto a estos factores dificultando la realización de generalizaciones de la trayectoria de la dinámica (1). En contraposición, desde una perspectiva acausal se han desarrollado metodologías matemáticas y físicas que permiten la caracterización objetiva de estas dinámicas y su predicción. Rodríguez (2) desarrolló una predicción de la epidemia de malaria en Colombia, basada en la ley diferencial de la aceleración solucionada en rangos a través de atractores circulares concéntricos. Del mismo modo se desarrolló una predicción probabilista de las dinámicas de malaria y dengue con porcentajes de exactitud superiores al 90% en la predicción (3,4). Así mismo, se predijo la aparición de brotes de malaria en 820 municipios colombianos en tres semanas usando medidas de probabilidad, entropía y relaciones Entropía/constante de Bolzmann (S/k), con un porcentaje de acierto de 99,86% (5).
+
+La caminata al azar y la teoría de la probabilidad fueron utilizadas por Rodríguez y cols., (6) para realizar una predicción temporal de la dinámica del número anual de infectados de dengue en Colombia para el 2007, con base en el análisis de la dinámica del número de infectados anuales en analogía con una caminata al azar, y su análisis con la teoría de la probabilidad. Mediante esta metodología se logra una predicción correspondiente al 90,4% respecto al valor real, obteniendo de este modo una metodología útil para la toma de decisiones de salud pública (6).
+
+Wang et al. (7), desarrollaron un estudio en el que evaluaron la tendencia de las enfermedades asociadas a la obesidad en los jóvenes y los costos económicos asociados, encontrando que el porcentaje de altas hospitalarias de jóvenes aumentó dramáticamente en los últimos 20 años para todas las enfermedades asociadas a la obesidad durante el período de 1979-1999, lo que ha llevado a un crecimiento significativo en los costos económicos. Por ejemplo, el porcentaje de diagnósticos de diabetes mellitus pasó de tener un valor inferior a 1,5% en 1979 a casi en 2,5% en 1999. En el caso del porcentaje de altas hospitalarias reportadas específicamente por obesidad, se encontró un aumento de un valor inferior a 0,5% en 1979 a casi 1,2% en 1999, y el incremento fue consistente y rápido después de 1995.
+
+El propósito de esta investigación fue tomar la información reportada por Wang et al. (7) para establecer si es posible evaluar la dinámica de variación anual del porcentaje de altas hospitalarias por sobrepeso y obesidad en niños con edades entre 6 y 17 años en Estados Unidos a partir de la metodología desarrollada por Rodríguez y col., (6) para la evaluación de la epidemia de dengue en Colombia con base en la caminata al azar probabilista, lo que se verá confirmado al hacer una predicción temporal del porcentaje de altas hospitalarias por sobrepeso y obesidad para el año 1999. La cuantificación de la dinámica mediante la metodología propuesta permitirá obtener una medida objetiva de su comportamiento, con implicaciones en salud pública.
+
+MATERIALES Y MÉTODOS
+
+La caminata al azar probabilista permite representar y caracterizar un movimiento probabilístico acotando su dinámica y encontrando valores numéricos que permiten predecir dentro de ciertos rangos la evolución de su dinámica, por ejemplo, se puede evaluar el experimento de lanzar una moneda repetidas veces para estudiar la tendencia de dicha dinámica probabilista con respecto a su punto de inicio. Por otro lado, para observar qué tanto se aleja del eje de inicio a medida que se repite el experimento se utiliza la desviación media cuadrática con el fin de determinar si la moneda lanzada es justa o no, es decir, si el espacio de probabilidad tiene un cargamiento de las probabilidades o es equiprobable (8).
+
+En el trabajo desarrollado por Rodríguez et al, en el que se realizó una predicción de la dinámica de dengue en Colombia (6), la analogía realizada de la dinámica de infectados de dengue con la caminata al azar se fundamenta en el concepto de longitud probabilista de una variación anual, que permite evaluar las variaciones en las distancias que se dan de un año a otro en el número de infectados en una gráfica en la que se represente el año en el eje x y el número de infectados en el eje y. A continuación, mediante un análisis probabilista del comportamiento de estas longitudes, y otro análisis de las probabilidades de aumento o disminución del número de infectados, es posible establecer una predicción que señala si el número de infectados aumentará o disminuirá, y además el número de infectados que probablemente se presentarán. Mediante esta metodología se evidenció el cargamiento de las probabilidades de la dinámica, es decir, que no se trata de una dinámica con comportamiento equiprobable, con lo cual un análisis probabilista resultó de utilidad para el desarrollo de predicciones independientes de consideraciones causales.
+
+Desde esta perspectiva, se busca establecer si la dinámica de obesidad y sobrepeso obedece a un comportamiento evaluable mediante la caminata al azar probabilista, lo que permitiría no solamente su caracterización matemática sino su predicción. Para ello, con base en los datos de porcentajes de altas hospitalarias entre 1983 y 1998 para niños entre 6 y 17 años, presentados por Wang et al (7), se analizó esta dinámica como una caminata al azar, basados en la metodología desarrollada por Rodríguez et al. (6). Para esto se partió de la gráfica construida por Wang et al (7), en la que se representan en el eje x los años y en el eje y los porcentajes de altas por sobrepeso y obesidad infantil reportados cada año. Del mismo modo que se hizo con la dinámica de dengue, inicialmente se establecieron las longitudes de todas las variaciones anuales con base en la ecuación 1, donde los valores Y representan el porcentaje de altas por sobrepeso y obesidad infantil reportados cada año, mientras que la variación del eje X para cada año es definida como cero.
+
+ Ecuación 1
+
+Donde las coordenadas cartesianas
+
+X0, Y0: son las coordenadas para el año inicial.     X0, Y1: son las coordenadas para el año siguiente.     L: longitud de una variación anual.
+
+La probabilidad es una medida matemática que evalúa la posibilidad de ocurrencia de un suceso en el futuro (8). Formalmente es llamado espacio muestral al espacio de probabilidad, es decir al conjunto de todos los posibles resultados evaluados con las probabilidades de un experimento en particular. Dado un experimento que presenta varios resultados posibles la frecuencia relativa de un suceso es la proporción entre la cantidad de veces que se presenta dicho resultado entre el total de repeticiones del experimento (8). Siguiendo la metodología desarrollada por Rodríguez et al. (6) para la predicción de dengue en Colombia, se estableció un espacio de probabilidad donde cada variación anual de la longitud L es definida como un evento. Para establecer la probabilidad de cada longitud P(L) (Ecuación 2) de una variación anual se divide la longitud de dicha variación entre la sumatoria del total de longitudes. Con base en este valor se obtuvo la proporción de cada variación anual respecto a la L mínima hallada.
+
+ Ecuación 2 
+
+Posteriormente se calculó (ecuación 3) la probabilidad del porcentaje de altas por sobrepeso infantil para cada año, P(N), definida como el porcentaje para dicho año dividido entre la sumatoria de estos porcentajes.
+
+ Ecuación3
+
+Para saber si existe un cargamiento de la probabilidad de esta dinámica, es decir, para cuantificar si los valores hallados son equiprobables o no, se usa la fórmula de la desviación media cuadrática equiprobable de la caminata al azar enunciada en la ecuación 4 (6).
+
+ Ecuación 4
+
+Donde N es el número de eventos del espacio muestral.
+
+Con el fin de delimitar la dinámica de altas hospitalarias por sobrepeso - obesidad infantil y determinar la predicción, se construyó un espacio de probabilidad que evalúa los últimos tres valores consecutivos de la dinámica de longitudes, seguidamente se definió el promedio aritmético de estos tres períodos como el valor de la probabilidad para la longitud del período cuyo porcentaje será predicho; finalmente se sustituye este valor en la ecuación 1 y se desarrollará hasta obtener una ecuación cuadrática en función de Y1, ecuación 5, obteniendo como solución dos valores que corresponden a la predicción.
+
+ Ecuación 5
+
+Donde: P(L) es el promedio aritmético de la probabilidad para los 3 últimos periodos, y TL es la sumatoria de las 3 proporciones de cada variación anual respecto a la mínima encontrada en el espacio de probabilidad definido con los valores de los tres últimos años.
+
+Seguidamente se construyó un nuevo espacio de probabilidad compuesto por dos eventos: disminución y aumento de casos respecto al año anterior, y se estudió el comportamiento de períodos consecutivos de dos y tres años. Este espacio fue construido con el fin de determinar cuál de los dos valores cuantitativos ya obtenidos para la predicción es el que resulta más probable, y de este modo determinar un valor predictivo para el año 1999.
+
+Aspectos éticos 
+
+Este estudio sigue las leyes establecidas en los artículos 11 y 13 de la resolución 008 430 del Ministerio de Salud de Colombia-1993, dado que se trata de cálculos físicos basados en datos previamente publicados, sin ningún riesgo para pacientes porque no hay datos individuales, por lo cual no se aplica el uso de consentimientos informados. La aprobación de un comité de ética no es necesaria, ya que se tuvo acceso sólo a valores numéricos del documento citado (sin acceso a los nombres, la fuente de datos o historia clínica de pacientes).
+
+RESULTADOS
+
+Se encontró que los valores de las longitudes para el porcentaje de altas anuales se hallaron entre 0,02 y 0,49. Los valores para la probabilidad de la longitud se encontraron entre 0,007 y 0,169. Los valores de la proporción de distancias respecto a la distancia mínima encontrada estuvieron entre 1 y 24,5. Los valores de la probabilidad de altas hospitalarias por sobrepeso - obesidad infantil variaron entre 0,037 y 0,116; los valores de la desviación media cuadrática para estos valores variaron entre un rango de -0,046 a 0,278, encontrando que la diferencia entre estos últimos y el valor esperado varía en un rango de -0,162 a 0,162. La diferencia entre los valores de la desviación media cuadrática muestra como el comportamiento de la dinámica no es equiprobable, sino que presenta un cargamiento, que permite el establecimiento de predicciones (tabla 1).
+
+ 
+
+TABLA 1
+
+Valores para cada año de la longitud (L); probabilidad de la longitud (P(L));          probabilidad del porcentaje de altas por sobrepeso infantil (P(N)); desviación          media cuadrática (DMC+; DMC-) y diferencia entre estos (DMC+ P; DMC- P).
+
+
+
+ 
+
+Con base en el análisis del espacio de probabilidad de los últimos tres años, y la aplicación de la ecuación 5, se determinaron dos valores de predicción para el porcentaje de altas hospitalarias de 1999, que fueron 0,95% y 1,25%. Estos valores significan que de un 100% de altas hospitalarias que se presentaron para cualquier enfermedad en Estados Unidos en 1999 en niños con edades entre 6 y 17 años, el porcentaje de altas hospitalarias por obesidad y sobrepeso debió encontrarse entre 0,95% y 1,25% de acuerdo con la predicción desarrollada. Para calcular un valor predictivo exacto a partir de este rango, se realizaron los análisis probabilistas descritos en la metodología, proporcionando los siguientes resultados:
+
+Para la cuantificación de aumentos (A) y disminuciones (D) en dos años consecutivos se encontró que, el número de aumentos consecutivos varió entre 1 y 3 años, encontrando que en general los aumentos tienen una probabilidad mucho mayor de presentarse respecto a las disminuciones, con una probabilidad de 0,67 respecto a 0,33 (tabla 2). Adicionalmente se encontró que la probabilidad más alta corresponde a los aumentos consecutivos de tres años, con un valor de 0,4, mientras que la probabilidad de tres disminuciones consecutivas es 0 (tabla 3).
+
+ 
+
+TABLA 2
+
+Frecuencia y probabilidad para aumentos y disminuciones consecutivos          y valores totales de cada tipo de variación.
+
+
+
+ 
+
+TABLA 3
+
+Frecuencia y probabilidad para todas las variaciones          posibles en periodos consecutivos de tres años
+
+
+
+ 
+
+El análisis probabilista de aumentos y disminuciones en tres años consecutivos evidenció que la secuencia más probable es Aumento-Disminución-Aumento (ADA), presentando una probabilidad de 0,231, mientras que la menos probable es la de tres disminuciones consecutivas, con una probabilidad de 0. Al contrastar estos resultados con los dos años anteriores al año a predecir, se encuentra que se presentaron dos aumentos consecutivos; de este modo la predicción debe escogerse de acuerdo con la secuencia que presente mayor probabilidad entre AAA y AAD, lo que no es posible pues ambas presentan el mismo valor 0,154; sin embargo al tener en cuenta la probabilidad establecida para dos años consecutivos se encuentra una mayor probabilidad de que ante un aumento se presente otro aumento al año siguiente, de tal forma se predice que el valor para el año 1999 aumentará respecto al año anterior, y debido a que también existe la probabilidad de que disminuya, el valor predicho para el año 1999 corresponde al valor medio entre el valor promedio de los dos valores predichos del número de casos para el año 1999 y el límite superior, lo que corresponde a 1,17%. En otras palabras, mediante esta metodología se predijo que el porcentaje de altas hospitalarias por obesidad y sobrepeso en niños entre 6 y 17 años fue de 1,17%, valor que posteriormente fue corroborado con el porcentaje reportado por Wang et al para ese año (7), que corresponde a 1,15%, encontrando así una predicción cercana al valor real en 98,01%.
+
+DISCUSIÓN
+
+Este es el primer trabajo en el que se evidencia la posibilidad de evaluar la dinámica temporal de egresos hospitalarios asociados a la obesidad y sobrepeso infantil en Estados Unidos con base en la construcción de una caminata al azar probabilista, lo que permite establecer predicciones matemáticas efectivas, generando de forma práctica una herramienta útil en la toma de decisiones en la salud pública, que evidencia matemáticamente el incremento dramático durante los últimos años en la proporción de altas hospitalarias con enfermedades asociadas a la obesidad, y que ha dado lugar a un crecimiento significativo de los costes económicos (7,9).
+
+Siguiendo la metodología desarrollada por Rodríguez y cols. (6) se estableció una analogía de la dinámica con la caminata al azar convirtiendo la proporción de egresos hospitalarios por obesidad en pacientes jóvenes en cada año consecutivo en longitudes probabilistas y con la variación de los últimos 2 años consecutivos se predijo el porcentaje de egresos hospitalarios para 1.999, con una efectividad de 98,01% respecto al valor real, obteniendo una herramienta predictiva útil y práctica, de acuerdo con la realidad de la dinámica de la enfermedad.
+
+Puede considerarse que esta metodología (6) es aplicable a cualquier fenómeno que presente movimiento Browniano, en la medida que se trata una generalización del mismo, requiriendo para su aplicación que la dinámica cumpla con los axiomas de la probabilidad, la función de la recta, y tener información de las variaciones en intervalos temporales constantes, con el fin de poder realizar una asociación entre los valores de la probabilidad y las rectas, desarrollando una predicción dinámica probabilista, es decir, una nueva recta. Al confirmar en este trabajo la capacidad de este método, basado en la caminata al azar probabilista, para predecir la dinámica de egresos hospitalarios asociados a la obesidad y sobrepeso infantil, se abre la posibilidad de establecer predicciones efectivas, no sólo para el año evaluado, sino para otros años posteriores, así como para otras variables asociadas al aumento de obesidad y sobrepeso. Se desarrollarán futuros estudios aplicando la metodología a la predicción de años más recientes, así como a otras dinámicas de interés en salud pública asociadas a la obesidad y sobrepeso.
+
+Los diferentes espacios de probabilidad estudiados para la misma dinámica permiten un estudio de sus diferentes características. La probabilidad para las longitudes anuales es analizada en el contexto de las ecuaciones de segundo grado permitiendo estudiar variaciones geométricas de la dinámica y también permite evidenciar el cargamiento de la probabilidad, mientras que los espacios de probabilidad de aumentos y disminuciones de dos y tres años consecutivos permiten establecer la tendencia de la dinámica a aumentar o descender, mostrando en ambos casos la tendencia al ascenso. Mediante las diferencias entre las desviaciones cuadráticas se evidenció un cargamiento de la dinámica de la enfermedad en la región estudiada, hallazgo práctico y fundamental en la comprensión del fenómeno estudiado, y en el desarrollo de la predicción en el tiempo.
+
+Históricamente se han desarrollado diferentes modelos matemáticos para comprender, describir y en lo posible predecir diferentes aspectos asociados a la obesidad y el sobrepeso. Por ejemplo, se han desarrollado múltiples modelos de la dinámica de glucosa e insulina relacionadas con sobrepeso. Walton et al (9) evaluaron cuatro de estos modelos, obteniendo porcentajes de éxito entre 76 y 100%. Del mismo modo, teniendo en cuenta que el cuerpo reacciona a los cambios forzados de peso mediante procesos de adaptación del gasto total de energía individual, Thomas et al (10) desarrollaron un modelo de ecuaciones diferenciales basada en la primera ley de la termodinámica, que incorpora tres variables: adaptación de la tasa metabólica en reposo, termogénesis de actividad sin ejercicio y termogénesis inducida por la dieta, junto con la reducción natural de la tasa metabólica en reposo relacionada con la edad, que se ajusta bien tanto a los reportes de sobrealimentación como de restricción de calorías. Desde esta línea también se desarrolló un modelo matemático del metabolismo humano adulto que simula adaptaciones del gasto energético durante la pérdida de peso (11).
+
+Se han generado modelos para otros fenómenos asociados a obesidad; tal como un modelo computacional para examinar el impacto de una distribución anormal de grasa corporal en la zona abdominal respecto a la estabilidad postural, cuyos resultados sugieren que ante tensiones posturales diarias, las personas obesas pueden tener mayor riesgo de caídas (12). Recientemente se creó un modelo de sistema dinámico para estudiar sobrepeso y obesidad en mujeres, y su relación con su capacidad reproductiva, que demostró que las mujeres obesas que se embarazan, aumentan sus niveles de obesidad en el tiempo, aumentando significativamente su morbilidad y mortalidad. Por otra parte, las mujeres obesas que pierden peso antes del embarazo pueden correr el riesgo de una mayor disminución de la fertilidad con la edad (13).
+
+Específicamente en el estudio de las variaciones del número de personas afectadas por obesidad, Gregg et al (14) aplicaron modelos multinivel Bayesianos para estimar la prevalencia de la enfermedad en los 3141 condados en los EE.UU. durante el año 2007. Este informe muestra cómo las estimaciones basadas en modelos pueden identificar áreas con poblaciones de alto riesgo, proporcionando información importante a los funcionarios de salud pública para el desarrollo de programas dirigidos a reducir la diabetes y obesidad. Todos estos trabajos evidencian la importancia y aplicabilidad práctica de acercamientos matemáticos para la comprensión de los diferentes aspectos relacionados con la obesidad y el sobrepeso, que pueden tener implicaciones para la toma de decisiones de salud pública. En contraposición con los trabajos mencionados, en la presente investigación el estudio de las variaciones de obesidad y sobrepeso se basó en una abstracción del tiempo, al evaluar los cambios únicamente en el eje y, lo que permitió el establecimiento de predicciones acausales, en contraposición a las metodologías mencionadas, basadas en su mayoría en una perspectiva multicausal. El carácter determinista de la predicción en el contexto acausal probabilista contradice los supuestos de aleatoriedad o caos al ser considerados como impredecibles. Otras metodologías físico matemáticas han sido desarrolladas para la predicción de la dinámica de diferentes epidemias, tales como la de malaria y dengue, basándose en ecuaciones diferenciales de segundo orden (2), la teoría de la probabilidad (3,4) o la relación S/k (5), demostrando la utilidad de esta perspectiva teórica acausal para lograr predicciones de utilidad en la toma de decisiones de salud pública.
+
+Esta perspectiva teórica también ha permitido establecer diagnósticos de aplicación clínica, por ejemplo en cardiología se desarrolló una metodología diagnóstica de la dinámica cardiaca útil a nivel clínico al diferenciar normalidad, enfermedad aguda, crónica, y evolución entre estados (15), cuya capacidad predictiva se ha confirmado en Unidades de Cuidados Coronarios; del mismo modo se desarrolló una ley de aplicación clínica para la diferenciación de atractores cardíacos normales, con enfermedad aguda y la evaluación entre ambos (16), y una generalización que establece la totalidad de arterias normales y restenosadas en modelos experimentales de restenosis (17). También se ha desarrollado un diagnóstico de alteraciones preneoplásicas y neoplásicas de cuello uterino (18) y metodologías para la predicción de la unión de péptidos al HLA clase II (19). Recientemente se desarrolló una metodología que permite la predicción de linfocitos T CD4 con base en el recuento de leucocitos y linfocitos totales en pacientes con HIV (20). Siguiendo esta línea, el presente trabajo evidencia la utilidad práctica del uso de teorías físico-matemáticas en las diferentes áreas médicas.
+
+CONCLUSIONES
+
+La dinámica de altas hospitalarias relacionadas con problemas de sobrepeso y obesidad infantil en Estados Unidos puede ser predicha mediante una metodología previamente desarrollada con base en la caminata al azar probabilista.
+
+Mediante la aplicación de dicha metodología se obtuvo una predicción del porcentaje de altas hospitalarias para el año 1.999 cuya efectividad fue del 98,01% al ser comparada con el valor real.
+
+La metodología aplicada constituye una herramienta de utilidad en la toma de decisiones a nivel de salud pública, permitiendo evidenciar cuantitativamente el fuerte incremento del número de egresos hospitalarios asociados a esta patología en los últimos tiempos.
+
+Agradecimientos: A la Universidad Militar Nueva Granada por su apoyo constante en la investigación, en especial a los Doctores: Juan Miguel Estrada, decano de la Facultad de Medicina, Alejandro Castro, jefe de la división de Investigación Científica, a la Doctora Jacqueline Blanco, Vicerrectora de Investigaciones, y al Dr. Henry Acuña por su constante apoyo a las investigaciones del grupo Insight. Este trabajo es resultado del proyecto MED-1077, financiado por el Fondo de Investigaciones de la Universidad Militar Nueva Granada, por lo cual agradecemos su apoyo.
+
+Al Centro de Investigaciones de la Clínica del Country, en especial al Dr. Tito Tulio Roa, Director de Educación Médica, Dr. Jorge Ospina, Director Médico, Dr. Alfonso Correa, Director del Centro de Investigaciones, y a las doctoras Adriana Lizbeth Ortiz, Epidemióloga, y Silvia Ortiz, Enfermera Jefe del Centro de Investigaciones.
+
+ 
+
+BIBLIOGRAFIA
+
+1. Mckenzie FE, Bossert WH. A target for intervention in plasmodium falciparum infections. Am J Tropical Med Hygiene. 1998; 58(6):763-7.            [ Links ]
+
+2. Rodríguez J, Prieto S. Dinámica de la epidemia de Malaria, Predicciones de su Trayectoria. Rev Fac Med. 2010; 18(2):12-20.            [ Links ]
+
+3. Rodríguez J. Dinámica probabilista temporal de la epidemia de malaria en Colombia. Rev Fac Med. 2009; 17(2):214-21.            [ Links ]
+
+4. Rodríguez J, Vitery S, Puerta G, Muñoz D, Rojas I, Pinilla L, et al. Dinámica probabilista temporal de la epidemia de dengue en Colombia. Rev Cubana Hig Epidemiol. 2011; 49(1):74-83.            [ Links ]
+
+5. Rodríguez J. Método para la predicción de la dinámica temporal de la malaria en los municipios de Colombia. Rev Panam Salud Pública. 2010; 27(3):211-8.            [ Links ]
+
+6. Rodríguez J, Correa C. Predicción Temporal de la Epidemia de Dengue en Colombia: Dinámica probabilista de la epidemia. Rev Salud Púb. 2009; 11(3):443-53.            [ Links ]
+
+7. Wang G, Dietz W. Economic Burden of Obesity in Youths Aged 6to 17 Years: 1979-1999. Pediatrics 2002; 109(5):1-8.            [ Links ]
+
+8. Feynman RP, Leighton RB, Sands M, Probabilidad. En: Feynman RP, Leighton RB, Sands M. Física. Vol. 1. Wilmington: Addison-Wesley Iberoamericana, S. A.; 1964. p. 6-1, 6-16.            [ Links ]
+
+9. Walton C, Godsland IF, Proudler AJ, Felton C, Wynn V. Evaluation of four mathematical models of glucose and insulin dynamics with analysis of effects of age and obesity. Am J Physiol. 1992; 262(5 Pt 1):E755-62.            [ Links ]
+
+10. Thomas DM, Ciesla A, Levine JA, Stevens JG, Martin CK. A mathematical model of weight change with adaptation. Math Biosci Eng. 2009; 6(4):873-87.            [ Links ]
+
+11. Hall KD, Sacks G, Chandramohan D, Chow CC, Wang YC, Gortmaker SL, Swinburn BA. Quantification of the effect of energy imbalance on bodyweight. Lancet. 2011; 378(9793):826-37.            [ Links ]
+
+12. Corbeil P, Simoneau M, Rancourt D, Tremblay A, Teasdale N. Increased risk for falling associated with obesity: mathematical modeling of postural control. IEEE Trans Neural Syst Rehabil Eng. 2001; 9(2):126-36.            [ Links ]
+
+13. Sabounchi NS, Hovmand PS, Osgood ND, Dyck RF, Jungheim ES. A novel system dynamics model of female obesity and fertility. Am J Public Health. 2014; 104(7):1240-6.            [ Links ]
+
+14. Gregg EW, Kirtland KA, Cadwell BL, Burrows NR, Barker LE, Thompson TJ, Geiss L, Pan L. Remove from marked Records Estimated county-level prevalence of diabetes and obesity - United States, 2007. Morbidity Mortality Weekly Report 2009; 58(45):1259-63.            [ Links ]
+
+15. Rodríguez J. Entropía Proporcional de los sistemas dinámicos cardiacos: Predicciones físicas y matemáticas de la dinámica cardiaca de aplicación clínica. Rev Colomb Cardiol. 2010; 17:115-29.            [ Links ]
+
+16. Rodríguez J. Mathematical law of chaotic cardiac dynamic: Predictions of clinic application. J Med Sci. 2011; 2(8):1050-9.            [ Links ]
+
+17. Rodríguez J, Prieto S, Correa C, Bernal P, Puerta G, Vitery S, et al. Theoretical generalization of normal and sick coronary arteries with fractal dimensions and the arterial intrinsic mathematical harmony. BMC Medical Physics 2010; 10:1-6. doi: 10.1186/1756-6649-10-1.            [ Links ]
+
+18. Rodríguez J, Prieto S, Correa C, Dominguez D, Cardona DM, Melo M. Geometrical nuclear diagnosis and total paths of cervix cell evolution from normality to cancer. J Can Res Ther. 2015; 11(1):98-104.            [ Links ]
+
+19. Rodríguez J, Bernal P, Correa C, Prieto S, Benítez L, Vitery S, et al. Predicción de unión de péptidos de MSA-2 y AMA-1 de Plasmodium Falciparum al HLA clase II. Inmunología 2009; 28(3):115-24.            [ Links ]
+
+20. Rodríguez J, Prieto S, Correa C, Mora J, Bravo J, Soracipa Y, et al. Predictions of CD4 lymphocytes' count in HIV patients from complete blood count. BMC Medical Physics. BMC Medical Physics. 2013; 13:3.            [ Links ]
+
+ 
+
+Este trabajo fue recibido el 17 de Abril de 2014 aceptado con modificaciones el 17 de Marzo de 2015 y aceptado para ser publicado el 20 de Agosto de 2015
+
+ 

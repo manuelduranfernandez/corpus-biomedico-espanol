@@ -1,0 +1,168 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182018000400216
+Modelo de predicción de Bacillus cereus para definir las condiciones de calidad y consumo de leche en polvo
+
+INTRODUCCIÓN
+
+Actualmente en los países en vía de desarrollo, la incidencia de enfermedades transmitidas por alimentos no ha logrado ser disminuida a niveles tolerables, reconociendo que no existe un riesgo cero. “La situación sobre el control sanitario de los alimentos en los países en vías de desarrollo dista todavía de llegar a niveles de control sanitario aceptables”1.
+
+El objetivo general de la investigación fue determinar, mediante modelos de predicción microbiológica basada en el diseño de una red neuronal, la probabilidad de conformidad de la leche en polvo que luego del proceso de producción es empacada en bolsas doypack termosellables y estimar el ciclo de vida en diferentes condiciones de almacenamiento, una vez esta ha sido reconstituida, con respecto a cambios fisicoquímicos y microbiológicos, específicamente estudiando el comportamiento del Bacillus cereus.
+
+La importancia de estudiar el comportamiento de este bacilo, se fundamenta en instrucciones de uso, fechas de vencimiento y compromisos de calidad, que deben estar expresados e impresos en las bolsas, previniendo malos hábitos de preservación y almacenamiento del producto de parte de consumidores en diferentes escenarios de almacenamiento y preservación, dado que este bacilo representa una amenaza para el consumo de la leche en condiciones fuera de las establecidas por la estimación microbiológica, provocando así, una alta probabilidad de generar problemas de salud a los consumidores y por ende una imagen negativa de la marca en el mercado. El Bacillus cereus es un Gram positivo y sus cepas pueden encontrarse aisladas en el suelo, el agua, y los vegetales2. Por tanto, son comúnmente hallados en alimentos procesados, leche, cereales, algunos vegetales y especias3.
+
+El Bacillus cereus puede soportar los procesos de pasteurización con altas temperaturas (UHT), resistir los procesos de pulverización y permanecer con una probabilidad significativa en los productos terminados, por ejemplo en le leche en polvo4, considerando una alta variabilidad en el crecimiento y permanencia5, que le permite pasar desapercibido en algunos casos y afectar la calidad de los alimentos.
+
+Para este modelo se utilizó el principio de Arrhenius para el crecimiento bacteriano, siendo uno de los modelos de predicción más importantes en la microbiología; sin embargo, el uso de este modelo limita a ciertas estimaciones de vida útil y calidad del producto para consumo humano, según las extrapolaciones de las gráficas pueden no mostrar linealidad6,7.
+
+Puntualmente, este modelo no puede encajar por debajo o por encima de las temperaturas evaluadas para el crecimiento del bacilo7. Se debe tener en cuenta que no todas las bacterias siguen este proceso de crecimiento tal y como ocurre con Streptomyces spp, Mixobacterias, Hyphomicrobium spp, Nocardia spp. y Micoplasmas7, de tal manera que para este trabajo se hizo necesario entrenar una red neuronal artificial para predecir el comportamiento de crecimiento de la bacteria en ambientes de almacenamiento y preservación de la leche en polvo entera, con el fin de determinar el vencimiento y la calidad microbiológica del producto. De este análisis se determinan las fechas, condiciones, instrucciones y modos de uso del producto.
+
+MATERIALES Y METODOS
+
+Para desarrollar y validar modelos que permitan predecir el comportamiento de este bacilo durante la etapa de producción y empaque de la leche en polvo, se requiere de un trabajo arduo de investigación y recolección de datos8. Para el análisis se utilizaron los softwares Minitab® y MatLab®, con el fin de analizar la base de datos de 2.843 registros del área de calidad microbiológica de dos líneas de producción de una planta destinada a la producción de leche en polvo ubicada en la ciudad de Barranquilla, Colombia, recopilados en los periodos comprendidos entre julio de 2013 y octubre de 2016.
+
+Una vez obtenidos los datos, se construyó un modelo de predicción microbiológica, respaldado con herramientas estadísticas, que permiten analizar cada aspecto que interviene en el crecimiento de la bacteria Bacillus cereus. En consecuencia, se expresa la evolución de la densidad de crecimiento en función del tiempo9,10. Antes de aceptar el modelo predictivo se demostró la exactitud del comportamiento del microorganismo, determinando un buen modelo predictor.
+
+El proceso de validación es un aspecto que aún no está totalmente definido en microbiología predictiva pero establece una comparación entre los parámetros cinéticos (tasa de crecimiento, tiempo de generación, etc.)11,12,13 estimados por los modelos observados en los alimentos para un mismo microorganismo14,15,16,17,18.
+
+Esta validación se llevó a cabo con datos históricos obtenidos en las mismas condiciones que se utilizaron para elaborar el modelo, generando un proceso de validación interna19. Con el modelo microbiológico predictivo que proporcionó datos fiables sobre el ciclo de vida útil del producto una vez ha sido reconstituido; se construyó y entrenó un modelo neuronal artificial, con el fin de estimar la producción de no conformes.
+
+Entre los trabajos que han contribuido con la estimación del crecimiento de bacterias, la metodología de trabajo y algunos aspectos generales del análisis de resultados y las condiciones del producto, podemos encontrar a Abdollahzadeh et al.20, quienes construyeron un modelo de predicción de sobrevivencia/muerte de la bacteria Listeria Monocytogenes en medios líquidos, con el fin de dar soporte a sistemas de alimentación complejos. Arekal et al.21, formularon un modelo con el fin de estimar el comportamiento del Lactobacillus plantarum, con el objeto de analizar la fermentación láctica en suero de soya.
+
+Anisha et al.22,23 desarrollaron modelos experimentales con superficies de respuesta, los cuales tenía como objetivo evaluar la biosintesis por fermentación en estado sólido y por fermentación sumergida de α-galactosidasa por Streptomyces griseoloalbus.
+
+Según la literatura, la tabla 1 se muestra los factores que intervienen en las condiciones fisicoquímicas de la leche, la tabla 2 ilustra las condiciones de conformidad luego del análisis organoléptico y la tabla 3, presenta las condiciones de aceptación y conformidad del análisis microbiológico, en los cuales se pueden obtener dos tipos de datos, atributos (Atr) y variables (Var).
+
+Tabla 1 Análisis fisicoquímico. 
+
+Tabla 2 Análisis organoléptico. 
+
+Tabla 3 Análisis microbiológico. 
+
+Red neuronal perceptrón multicapa
+
+Se diseñó una red neuronal soportada en el software SPSS®, y alimentada con datos históricos de la planta de producción, con 2.843 datos de manera aleatoria, esto con el fin de optimizar el análisis y facilitar la interpretación de figuras.
+
+Se creó una etiqueta para cada serie de variables, es decir, por cada fila en la hoja de cálculo del software SPSS® se designaron números variantes entre −1,0 y 1,0, con una distribución de Bernoulli generada aleatoriamente con un parámetro de probabilidad de 0,7 en lugar de 1 y 0. El software discriminó estos eventos de la siguiente manera: Los casos con valores positivos se asignaran para la muestra de entrenamiento, los casos con valores negativos se asignaran a la muestra de reserva, y los casos con el valor 0 se asignan a la muestra de prueba.
+
+Lo anterior se logró asignado la función: 2 * rv. Bernoulli (0.7) – 1, asignada a una columna, donde la expresión que está definida como rv.bernoulli (p), es un dato numérico que devuelve un valor aleatorio de la distribucion de bernoulli con el parámetro de probabilidad p especificado. Aproximadamente el 70% de los datos tienen un valor de 1. Estos fueron utilizados para la creación y entrenamiento del modelo. El restante (30%), obtuvieron valores de −1 y 0, lo cuales fueron usados para la validación interna.
+
+Las variables incluidas en el estudio se definieron como variable dependiente o variable respuesta se define el crecimiento de Bacillus cereus, estudiado por cultivo, y como covariables o variables explicativas tenemos la acidez, humedad, materia grasa y grasa libre, manifestado en el perfil de la bacteria Bacillus cereus24.
+
+RESULTADOS
+
+Los resultados obtenidos por medio de los cuales se entrega una solución al problema de la preservación, almacenamiento y estimación del ciclo de vida del la leche, fueron procesados a través de la red neuronal que se construyó para tal fin. A continuación se describe el seudo-código de la red, la cual fue entrenada en MatLab® y verificados por Minitab®.
+
+Seudo - Código red neuronal
+
+La red neuronal artificial (RNA) se diseñó con la función del software Matlab® para la totalidad de datos que se teniantenían disponibles. A continuación se presenta el Seudocódigo, el cual captura la información de la base de datos de Microsoft Excel® y ejecuta el modelo. En cada red se lee la base de datos con la línea “Archivo=csvread (Nombredered.xls,0,1)”.
+
+Archivo=csvread(Nombredered.xls,0,1); Instrucción para
+
+leer el archivo de Excel
+
+Size (Archivo) Tamaño de archivo
+
+Archivo=Archivo'
+
+size (Archivo)
+
+%temp_target=Archivo(1,:);
+
+target=Archivo(1,:);
+
+indata=Archivo(2;4,:); lectura de las 6 columnas del registro de las variables
+
+input_ranges=minmax(indata); Lectura de datos net=newff(input_ranges,[10 1],, {‘tansig’, ‘logsig’},‘trainlm’);
+
+Configuración de la red
+
+training_in = indata(:,1:2:length(indata)); Configuración del entrenamiento de la red
+
+testset.P = indata(2;2:length(target)); Configuración de las pruebas
+
+net. trainParam. show= 1;
+
+net = train(net,training_in,training_target,[],[],testset);
+
+porc_err_ent = 100 *(1-accuracy(net,training_in,training_target)) Cálculo de precisión
+
+porc_err_valida = 100*(1-ccuracy(net,testset.P,testset.T))
+
+Cálculo de validación
+
+porc_err_todo = 100*(1-accuracy(net,indata,target)) Cálculo de la confiabilidad total
+
+Con el seudo-código se aporta a la comunidad científica la posibilidad de replicar el análisis y la predicción de este tipo de bacteria. Mediante el soporte gráfico de dispersión se determinó la correlación entre los aspectos fisicoquímicos, los cuales se mencionan en la tabla 1. Los resultados fueron confirmados por el valor P, para comprobar si es adecuado comprobar la hipótesis de que las variables explicativas del modelo tienen incidencia significativa en las variables de respuesta, según con la tabla 4.
+
+Tabla 4 Indices de análisis de correlación. 
+
+Análisis de correlación
+
+Luego de realizar análisis de correlación entre los aspectos fisicoquímicos de la planta de producción de leche en polvo de la cual se tomaron los datos, se obtuvieron las gráficas de dispersión, donde se contraponen las variables explicativas versus variables de respuesta; concluyendo que no existe correlación significativa de tipo lineal, exponencial o cúbica. Tampoco presentan un patrón de respuesta simétrico, o cercano al mismo, por lo que además se estima que no existe correlación de algún tipo.
+
+La no existencia de correlación lineal se ratifica en las matrices de correlación y determinación. Para cualquier otro caso, se hace innecesaria la aplicación de otra herramienta para hallar correlación de tipo exponencial o cúbica, dado que, en las gráficas de dispersión no se observa un comportamiento característico de estas.
+
+Una vez realizados los análisis de correlación para cada aspecto fisicoquímico, en los cuales no se encontró la existencia de correlación, procedemos a realizar el estudio de regresión, con el fin, de cuantificar la relación existente entre cada uno de los aspectos fisicoquímicos influyentes, según la literatura, en el crecimiento, sobrevivencia e inactivación de la bacteria Bacillus cereus; para que, de esta manera, se pudiera modelar su influencia en la probabilidad de generación de no conformidades.
+
+Para el estudio se generó un modelo de regresión Logit (logística) de la forma:
+
+Por tanto se tiene:
+
+En este tipo de modelo, no es posible interpretar directamente las estimaciones de los parámetros β, ya que son modelos no lineales. Por tanto, se observó el signo de los estimadores, así, si estos presentan un signo positivo (+), significa que al aumentar la variable asociada, se observaban aumentos en P (Y= 1), por el contrario, si el estimador era negativo (-), esto suponía que el incremento en la variable asociada, causaba disminuciones en P (Y= 1), sabiendo que P (Y= 1), corresponde a las probabilidades de generación de no conformidad.
+
+En el modelo Logit también se observa la relación entre probabilidades, la cual hace referencia al cociente entre dos probabilidades asociadas. Al obtener un coeficiente βi cercano a cero y una relación de probabilidades cercano a uno, significa que al realizarse un cambio en la variable explicativa Xi asociada, no tiene efecto alguno sobre la variable dependiente Y.
+
+A continuación se plantea un modelo de regresión logística binaria, con el fin de explicar, el comportamiento de la variable dependiente Bacillus cereus, presentada como variable dicotómica, el cual el evento de estudio es la “no conformidad”, representada en la columna valor por el número 1 en la tabla 5, y como covariables a la acidez, humedad y grasa libre. Para ello se utilizara el siguiente modelo probabilístico Logit:
+
+Tabla 5 Valores del muestreo. 
+
+En la tabla 6, se ilustran los resultados del modelo de regresión logística, que se obtiene a partir de los datos muestreados.
+
+Tabla 6 Modelo de regresión logística. 
+
+Log-verosimilitud = −171,957
+
+La tabla 6, muestra los valores para los coeficientes del modelo de (β1 = −19,5061, β2 = 2,85615, β3 = −23,8111 y β4 = 1,11482), junto con sus p-valores (0,070, 0,046, 0,000, y 0,000) respectivamente.
+
+Los coeficientes β2, β3 y β4 se pueden interpretar como el cambio que se produce en el término Logit al incrementarse en una unidad la variable explicativa asociada. Cuando usamos regresión logística, también se ilustra la “relación de probabilidades” (17,39; 0,00 y 3,05 respectivamente).
+
+Se observan que los p-valores asociados a todos los coeficientes son inferiores a 0,05, excepto el asociado a la constante. Por tanto, para un nivel de significación α= 0,05, se rechaza la hipótesis nula de que la constante es nula (que la variable asociada a la misma es relevante en el modelo).
+
+Por lo que se refiere a la variable Humedad, el hecho de que ésta tenga un coeficiente positivo y una “relación de probabilidades” bastante mayor a uno17,31, se estima que cualquier incremento en los niveles de esta variable tiene un efecto significativo sobre la variable dependiente Bacillus cereus, resultado obtenido en algunos trabajos relacionados19. Esto significa que aquellas muestras que presentan una humedad alta tienen una probabilidad de generar productos no conformes por parte de la Bacillus cereus.
+
+DISCUSIÓN
+
+El objetivo del estadístico y del artículo en general, es contrastar la hipótesis de que todos los coeficientes asociados con variables explicativas son nulos. Teniendo en cuenta lo anterior, el p-valor obtenido es de 0,00; lo cual permite rechazar estadísticamente la hipótesis nula y concluir que, como mínimo, uno de los coeficientes será distinto de cero.
+
+En la tabla 7, se indican los p-valores asociados a los contrastes de Pearson, Desviación, y Hosmer-Lemeshow, lo cual indica que no hay suficiencia estadística para rechazar la hipótesis de que el modelo se ajusta adecuadamente a las observaciones. En consecuencia, el modelo se probó de manera adecuada a los datos, indicando que existe una forma de modelar estadísticamente la relación entre las variables.
+
+Tabla 7 Pruebas de bondad de ajuste. 
+
+Por último, según el gráfico 1, se pueden observar la existencia de varias observaciones (3) que no son bien explicadas por el modelo, debido a que presentan altos valores delta chi-cuadrado, lo cual indica que estas variables generan ruido estadístico en el análisis, pero sin incidencia significativa en los resultados.
+
+Adicionalmente, los datos no poseen un número significativo de datos no conformes, por tanto el modelo que se propone por el programa va dirigido al pronóstico de aquellos eventos conformes. El entrenamiento de la red, el cual corresponde a la fase principal; pronosticó 1.543 conformes positivos, y 2 no conformes negativos, con un porcentaje correcto del 99,9%, en contraste con el pronóstico para eventos no conformes, obtuvo 21 datos conformes negativos, y 3 no conformes positivos, con un porcentaje correcto del 12,5%. Se encuentra una alta similitud en la muestra presente en la prueba, donde el porcentaje correcto para eventos conformes y no conformes es de 99,8% y 16,7%, respectivamente.
+
+Figura 1 Delta Chi-Cuadrado Vs Probabilidad. 
+
+Luego de un análisis en la curva característica ilustrada en el gráfico 2, se ratifican los resultados, las líneas conformes tienen una inclinación hacia el lado espacial superior izquierdo, indicando un alto número de eventos conformes positivos.
+
+Figura 2 Curvas características de operación. 
+
+Después de validar el modelo, y obtener resultados óptimos para el pronóstico de eventos conformes, el software valida el algoritmo de red neural artificial para la programación, el cual permite replicar estudios e investigaciones sobre las condiciones microbiológicas del producto, en este caso, la leche en polvo reconstituida.
+
+Una vez obtenido los tiempos de generación de la leche en polvo reconstituida, se procede a calcular la velocidad específica de crecimiento “μ”, para cada temperatura como factor considerado significativo para el crecimiento del Bacillus25.
+
+Obtenidos los valores de la velocidad específica de crecimiento “μ”, se calculan las constantes del modelo de Arrhenius (energía de activación, factor pre-exponencial), con estos datos ya es posible calcular las velocidades de crecimiento específico para cada escenario propuesto, en este caso son: Refrigerado a 4°C y 16°C, con temperatura ambiente de 35°C y sobre expuesto al calor en 40°C, Según el modelo de Arrhenius: Donde, μ es la velocidad de crecimiento; A (ufc/g/tiempo) es un factor pre-exponencial parámetro a ser determinado (intercepto de “y” en una gráfica de Lnμ Vs 1/T); R es la constante de los gases ideales (8,314 KJ/Kg°K); T es la temperatura absoluta (°K); y Ea (KJ/Kg), es la energía de activación de la reacción límite de velocidad - crecimiento24.
+
+Con las velocidades de crecimiento por minuto para cada escenario, y con el nivel máximo permitido antes que el producto se vuelva un riesgo para la salud (104 ufc/ml), se calculó la vida útil para cada temperatura, arrojando los siguientes que se muestran en la tabla 8.
+
+Existen diversas razones para llevar acabo estos estudios, uno de ellos es que las compañías productoras de leche en polvo consideren las diferentes condiciones de almacenamiento del producto, con el fin de definir fechas de consumo y recomendaciones de preservación para evitar la exposición y el almacenamiento deficiente. Con estas herramientas es posible plantear desde la etapa del diseño el mínimo tiempo de vida de anaquel requerido, ya que los costos del rechazo del consumidor por los cambios percibidos sensorialmente en el producto, son extremadamente altos, más aún, si las alteraciones de la calidad del producto corresponden a características microbiológicas.
+
+CONCLUSIÓN
+
+Luego de un recorrido por las distintas formas para predecir el comportamiento de microorganismos generados por el Bacillus cereus, se estima que la vida útil estimada para este producto luego de violar el seguro termo-sellable a 4°C es de 22 días con el modelo de Arrhenius, establecido como margen de seguridad, puede definirse una vida útil de 18 a 20 días a 4°C. Sin embargo, con la aproximación de Monod-Hinshelwood la vida útil se ve prolongada a 45 días. En este caso se podría aproximar a 40 días la vida útil como margen de seguridad.
+
+El aspecto con mayor incidencia sobre los resultados de las pruebas microbiológicas, específicamente, la bacteria Bacillus cereus, es la humedad.
+
+El modelo de red neuronal es capaz de predecir productos conformes con un 98% de exactitud, mientras que la capacidad para predecir las no conformidades es deficiente, esto debido, a que los datos con los que se entrenó el modelo, no presentaban un número considerable de eventos no conformes.
+
+Para este proceso y la calidad de la leche recibida para ser procesada como leche en polvo, el ciclo de vida útil una vez ha sido reconstituida, es de 19 días a una temperatura de refrigeración de 4°C, en contraste a una temperatura de 40°C es de 1 día. Es decir, el ciclo de vida útil es inversamente proporcional a la temperatura de conservación.

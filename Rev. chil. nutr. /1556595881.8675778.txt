@@ -1,0 +1,142 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182014000400010
+Métodos electroforético e inmunoquímicos para detectar proteínas de leche, soja y huevo en premezclas comerciales
+
+RESUMEN
+
+Se evaluó la detección de proteínas de leche, huevo y soja en trece productos comerciales, correspondientes a premezclas para preparar flanes, bizcochuelo, milanesas de soja, tortas fritas, pizza, ñoquis y productos en polvo a base de harinas para niños pequeños. Las muestras fueron analizadas por SDS-PAGE, inmunoblotting y métodos de ELISA. El método electroforético e inmunoblotting resultaron útiles para confirmar la presencia de las proteínas alergénicas en algunas muestras que las declaraban como ingredientes. En cuatro muestras que también declaraban como ingredientes alguna de estas proteínas, tanto con SDS-PAGE como con Inmunoblotting, los resultados fueron negativos, sugiriendo que dichas proteínas no fueron agregadas como ingredientes en dichos alimentos. Los kits de ELISA permitieron la detección de concentraciones muy bajas de estos alérgenos en cuatro productos que presentaban frases de advertencia e incluso en otros cinco que no tenían ninguna declaración de alérgenos. Los métodos de ELISA son útiles para detectar contaminaciones cruzadas, dada su elevada sensibilidad. Se concluye que resulta necesario una declaración responsable de estas proteínas alergénicas, en los rótulos de este tipo de alimentos por parte de los fabricantes.
+
+Palabras clave: alérgenos alimentarios; métodos inmunoquímicos; soja; leche; huevo.
+
+ 
+
+INTRODUCCIÓN
+
+Las alergias alimentarias constituyen una enfermedad creciente en los países desarrollados pero también en los países emergentes. Existen 8 grupos de alimentos que son responsables del 90 % de las alergias alimentarias. Estos alimentos son: leche, huevo, soja, trigo, maní, frutos secos, pescado y mariscos (1-3). La reacción alérgica frente a este tipo de alimentos se puede manifestar sólo con prurito o urticaria hasta el shock anafiláctico dependiendo del individuo y a su vez la intensidad de esta respuesta puede variar a lo largo de su vida.
+
+El 6 de octubre de 2010 fue publicada en el Boletín Oficial de la República Argentina la Resolución Conjunta 57/2010 y 548/2010 de la Secretaría de Políticas, Regulación e Institutos y Secretaría de Agricultura, Ganadería y Pesca que establecía la incorporación del artículo 235 séptimo al Código Alimentario Argentino (CAA) sobre la rotulación de alérgenos en alimentos. De acuerdo a esta Resolución pasarían a ser de declaración obligatoria los alérgenos y sustancias capaces de producir reacciones adversas en individuos susceptibles. Los mismos deberían ser declarados a continuación de la lista de ingredientes del rótulo siempre que ellos o derivados de ellos estén presentes en los productos alimenticios envasados, ya sean añadidos como ingredientes o como parte de otros ingredientes. Los alérgenos contemplados comprenderían: cereales que contienen gluten: trigo, centeno, cebada, avena y sus variedades híbridas y productos de éstos; crustáceos y productos derivados; huevos y productos de los huevos; pescado y productos de la pesca; maní y productos derivados; Soja y productos derivados; leche y productos lácteos (incluida lactosa), frutas secas (almendras, avellanas, castañas, nueces, piñones, pistacho) y productos derivados; dióxido de azufre y sulfitos y Tartrazina (4). Dicha resolución establecía que "No se admite ninguna frase de advertencia que exprese o sugiera el posible o probable contenido de un alérgeno". De acuerdo con la Resolución Conjunta N° 106-2011 y N° 297-2011 desde el 6 de junio de 2011 la aplicación de la Resolución Conjunta N° 57 y 548/2010 se encuentra suspendida hasta que la Comisión Nacional de Alimentos (CONAL) elabore una propuesta de adecuación del artículo 235 séptimo del CAA (5).
+
+Si bien en este momento no hay legislación vigente con respecto a la declaración de sustancias alergénicas en los rótulos de los alimentos envasados son numerosas las empresas de alimentos que agregan a continuación de la lista de ingredientes la frase "Contiene ..." con la enumeración de los ingredientes alergénicos presentes, e incluso son muchas las que utilizan frases de advertencia como por ejemplo: "Contiene trazas de ... ", "Elaborado en una línea donde se procesan productos con detallando a continuación las posibles sustancias alergénicas presentes.
+
+La metodología utilizada internacionalmente para la detección de alérgenos en alimentos comprende: SDS-PAGE y/o IEF-PAGE, enzimoinmunoensayos sandwich y competitivos con anticuerpos poli o monoclonales, tiras inmunocromatográficas, PCR, Real time PCR y cromatografía líquida con espectrometría de masa (7-17). A nivel internacional se han desarrollado kits comerciales que mediante métodos de ELISA permiten la detección/cuantificación de diferentes alérgenos: soja, huevo, leche, gluten, maní, almendras, entre otros. También se comercializan kits Real Time PCR para la determinación de algunos alérgenos (sésamo, gliadina, soja, maní, avellanas, entre otros). Además, se encuentran disponibles test inmunocromatográficos que permiten la detección rápida de alérgenos en las plantas industriales e incluso en los hogares (soja, leche, gluten, huevo, entre otros). Una importante limitación para el uso masivo de estos kits comerciales es su costo, el cual resulta muy elevado en nuestro país en comparación con otros métodos disponibles (por ejemplo, SDS-PAGE o Inmunoblotting).
+
+El objetivo del presente trabajo fue analizar y comparar los resultados obtenidos mediante un método electroforético (SDS-PAGE) y dos métodos inmunoquímicos (Inmunoblotting y ELISA) en trece productos comerciales que presentaban declaraciones de alérgenos y/o frases de advertencia, para verificar la presencia o no de los ingredientes alergénicos de leche, soja y huevo declarados en los respectivos rótulos.
+
+MATERIALES Y MÉTODO 
+
+Muestras
+
+Se analizaron trece muestras comerciales adquiridas al azar en comercios de la Ciudad Autónoma de Buenos Aires. Las muestras correspondían a once premezclas: para preparar flanes (FV1, FV2 y FC), bizcochuelo / pastel marmolado (B1 y B2), milanesas de soja (MS), tortas fritas (TF), pizza (PP), ñoquis (Ñ1, Ñ2 y ÑB) y 2 productos en polvo a base de harinas para niños pequeños (NM y N5C). En la tabla 1 se detalla para cada uno de los alimentos analizados su denominación de venta, ingredientes declarados, declaración de alérgenos y frase de advertencia, cuando corresponde. Se analizaron dos lotes diferentes de las muestras FV, B y Ñ. Los lotes de la muestra B presentaban diferencias entre si, en sus ingredientes.
+
+ 
+
+TABLA 1
+
+Descripción de las trece muestras comerciales analizadas: Denominación de venta,        ingredientes, declaración de alérgenos y Frases de advertencia.
+
+
+
+ 
+
+Tratamiento de las muestras 
+
+Muestreo: Se realizó un muestreo de tipo estratificado de cada uno de los alimentos analizados. La totalidad de las muestras fueron homogeneizadas en molino de cuchillas marca Retsch® modelo Grindomix GM200 hasta una granulometría de 35 mesh.
+
+Extracción de proteínas totales: Se utilizó buffer Tris-ClH 0,0625M (pH: 6,8) con 3 % de SDS y 2 % de 2-ME (solución extractiva de proteínas totales). Se pesó una cantidad de muestra que fue extraída con 2 mL de solución extractiva (concentración aproximada de proteína en el extracto 10 mg/ mL). Se calentó en baño de agua a 100° C durante 5 minutos con agitación y posterior centrifugación a 11000 rpm durante 20 minutos.
+
+Determinaciones analíticas
+
+Análisis electroforético (SDS-PAGE):
+
+Se utilizó el sistema de Laemmli (18). Se trabajó con geles de poliacrilamida en sistema discontinuo, con gel de separación (poro fino) y gel de concentración (poro grueso). El gel de separación se preparó con 10% de acrilamida en una solución 1,5 M Tris-ClH con 0,4% de SDS (pH: 8,8). El gel de concentración se preparó con 3% de acrilamida en una solución 0,5 M Tris-ClH con 0,4% de SDS (pH: 6,8). La electroforesis se realizó con equipo Mini Protean® Tetra cell de BioRad a 180 V durante 45 minutos. La tinción se realizó con Coomassie Brilliant Blue R 250. Las resoluciones proteicas obtenidas se densitometraron con equipo Shimadzu Dual - Wavelength Chromatogram Scanner Model CS - 910. Se trabajó con longitud de onda de máxima absorción de 550 nm y de mínima absorción utilizada como referencia de 400 nm. La adquisición de datos se realizó con el programa Chromatography Station CSW de DataApex Ltd. (19).
+
+Todas las muestras fueron analizadas por duplicado.
+
+Métodos inmunoquímicos:
+
+Inmunoblotting: Se realizó la separación electroforética por SDS-PAGE como se describió previamente.
+
+Transferencia: Se hidrataron los geles, los filtros, las membranas previamente cortadas y los pads, con el buffer de transferencia (25 mM Tris, 192 mM Glicina, 20% v/v metanol, pH 8,3) durante 20 minutos.
+
+Posteriormente se preparó el sandwich de gel en el casete, el cual se colocó en el módulo de transferencia. Este módulo se colocó junto con una unidad de frío y un magneto en la cuba, llenando la misma con buffer de transferencia. Se realizó la transferencia durante 60 minutos a 100 V y 350 mA, con agitación.
+
+Revelado: se bloqueó cada membrana con 7 mL de solución de bloqueo [1,2 g de plasma porcino se llevan a 30 mL con la solución TBS-Tween 20 (125 mL de tween 20 se llevan a 100 mL con la solución TBS)] y se incubó durante 30 minutos con agitación. Se agregaron 5,8 mL del anticuerpo primario correspondiente diluido (antisuero policlonal obtenido en conejos específico de proteínas de leche diluido 1:200 en buffer BSA; antisuero policlonal obtenido en conejos específico de proteínas de soja diluido 1:50 en buffer BSA o antisuero policlonal obtenido en conejos específico de proteínas de huevo diluido 1:200 en buffer BSA). Se incubó 1 hora y 30 minutos con agitación. El buffer BSA contiene 10 mg de BSA (seroalbúmina bovina), 10 uL de Tween 20 y 0,3 g de PEG (polietilenglicol), llevado a 10 mL con buffer PBS. Posteriormente se descartó la solución y se lavó 3 veces, durante 5 minutos cada vez, con 7 mL de solución TBS-Tween 20, con agitación. Se agregaron 7 mL de solución de bloqueo y 15mL del anticuerpo secundario (Anti IgG conjugado con fosfatasa alcalina de Bio-Rad). Se agitó 1 hora 30 minutos. Se lavó 3 veces durante 5 minutos cada vez con 7 mL de solución TBS-Tween 20, con agitación.
+
+Se tiñó la membrana con 7 mL de reactivo colorante de Bio-rad (Catalog Number 170-6432). La misma se dejó reposar durante 7 minutos. Finalmente se lavó tres veces, durante 3 minutos cada vez, con 7 mL de agua destilada, con agitación (20). Se realizó la observación visual de las bandas correspondientes a proteínas de leche, soja y huevo, respectivamente. En todos los casos se trabajó por duplicado.
+
+ELISA:
+
+Leche: La determinación de la presencia de proteínas alergénicas de leche se realizó con un kit ELISA sándwich comercial correspondiente a RIDASCREEN® Fast Milk (Art. Nro.: R4652) de R-biopharm. Todas las muestras se analizaron por duplicado siguiendo el protocolo de trabajo del kit (21). Los resultados finales se expresaron en partes por millón (ppm) de proteína de leche (mg de proteína de leche/Kg de alimento). El límite de detección del kit es 0,7 ppm de proteína de leche, el límite de cuantificación es 2,5 ppm de proteína de leche y el rango de cuantificación es 2,5 a 67,5 ppm de proteína de leche.
+
+Soja: La determinación de la presencia de proteínas alergénicas de soja se realizó con dos kits comerciales de diferentes marcas. Nueve de las muestras se analizaron con el kit ELISA sándwich comercial correspondiente a RIDASCREEN® Fast Soya (Art. Nro.: R7102) de R-biopharm. Estas muestras se analizaron por duplicado siguiendo el protocolo de trabajo del kit (22). Los resultados finales se expresaron en partes por millón (ppm) de proteína de soja (mg de proteína de soja/Kg de alimento). El límite de detección del kit es 0,31 ppm de proteína de soja, el límite de cuantificación es 2,5 ppm de proteína de soja y el rango de cuantificación es 2,5 - 20,0 ppm de proteína de soja.
+
+Ocho de las muestras fueron analizadas con otro kit ELISA sandwich comercial correspondiente a Veratox for soy allergen (Código: 8410) de Neogen. Estas muestras se analizaron por duplicado siguiendo el protocolo de trabajo del kit (23). El límite de cuantificación del presente kit es 2,5 ppm de harina de soja y el rango de cuantificación es 2,5 - 25 ppm de harina de soja.
+
+Huevo: La determinación de la presencia de proteínas alergénicas de huevo se realizó con un kit ELISA sándwich comercial correspondiente a kit RIDASCREEN® Fast Ei Egg Protein (Art. Nro.: R6402) de R-biopharm. Todas las muestras se analizaron por duplicado siguiendo el protocolo de trabajo del kit (24). Los resultados finales se expresan en partes por millón (ppm) de huevo entero en polvo (mg de huevo entero en polvo/Kg de alimento). El límite de detección del kit es 0,1 ppm de huevo en polvo, el límite de cuantificación es 0,5 ppm de huevo en polvo y el rango de cuantificación es 0,5 - 13,5 ppm de huevo en polvo.
+
+RESULTADOS Y DISCUSIÓN
+
+Los resultados obtenidos en el análisis de la detección de proteínas de leche utilizando SDS-PAGE, inumunoblotting y el kit de ELISA RIDASCREEN® Fast Milk de R-biopharm se presentan en la tabla 2. Ambos lotes de las muestras polvo para preparar flan sin huevo dietético, FV1 y FV2, presentan como frase de advertencia "contiene trazas de leche".
+
+ 
+
+TABLA 2
+
+Detección de proteínas alergénicas de leche por SDS-PAGE, inmunoblotting y método de ELISA.
+
+
+
+ 
+
+Las metodologías SDS-PAGE e Inmunoblotting no detectaron proteínas de leche mientras que con el kit de ELISA se determinaron en ambos casos 3,2 ppm de proteína de leche, lo cual coincide con la frase de advertencia. En los dos lotes de polvo para preparar bizcochuelo/pastel marmolado se observaron diferencias en lo declarado en los rótulos, ya que en B1 se declara proteína de leche en la lista de ingredientes y "contiene leche" en la declaración de alérgenos, mientras que en B2 no se declara leche como ingrediente pero tiene la frase de advertencia contiene trazas de leche. Ambas muestras por SDS-PAGE e Inmunoblotting presentaron resultados negativos y con el kit de ELISA se obtuvieron 11,4 y 3,8 ppm de proteína de leche, respectivamente. Estos resultados indican que el primer lote analizado, al igual que el segundo, no contenía proteínas de leche como ingrediente en su composición, ya que de haberlo contenido la metodología Inmunoblotting la hubiera detectado. Cabe aclarar que la metodología SDS-PAGE tiene un límite de detección de 2 g % de leche en polvo en mezcla con harina de trigo con el solvente de extracción utilizado en este trabajo, mientras que el Inmunoblotting permite detectar 50 ppm de leche en polvo en mezcla con harina de trigo (resultados no publicados). De acuerdo con los valores hallados por ELISA, ambas muestras podrían haber sufrido una contaminación cruzada con leche pero no contienen leche como ingrediente, ya que si fuera así el valor obtenido por ELISA hubiera superado el valor mas alto de la curva de calibración. En las dos muestras que declaran leche en polvo descremada como ingrediente (MS y FC), las tres metodologías permitieron detectar la presencia de proteínas lácteas.
+
+En la premezcla para preparar tortas fritas (TF) ninguna metodología detectó proteínas lácteas, esta muestra no declaraba leche ni como ingrediente ni a través de frases de advertencia. Lo mismo se observó en la premezcla para preparar pizza (PP).
+
+En la premezcla para preparar ñoquis de papa (Ñ1 y Ñ2) tanto SDS-PAGE como Inmunoblotting presentaron resultados negativos, sin embargo en uno de los lotes (Ñ1) con el kit de ELISA el resultado fue 6,1 ppm de proteína de leche, mientras que en el otro lote (Ñ2) el resultado fue inferior al límite de cuantificación del kit. Estas muestras no declaraban leche y tampoco tenían frase de advertencia. En las premezclas para preparar ñoquis ÑB se observó lo mismo que en la muestra Ñ2, no declaraba leche ni presentaba frase de advertencia pero el kit de ELISA detectó en este caso 9,8 ppm de proteínas de leche.
+
+Por último, en los productos en polvo a base de harinas NM y N5C los métodos SDS-PAGE e Inmunoblotting presentaron resultados negativos y el kit de ELISA arrojó valores por debajo del límite de cuantificación del kit. Ambas muestras declaraban la frase de advertencia "elaborado en una línea donde se procesan productos con leche". En un trabajo previo en el que se analizaron varios lotes de cinco productos similares a NM y N5C, se observó que este método de ELISA permitió detectar algunas ppm de proteína de leche en algunos de los lotes analizados, por lo que se consideró que es correcto el uso de esta frase de advertencia en este tipo de productos (13).
+
+Los resultados obtenidos en el análisis de la detección de proteínas de soja utilizando SDS-PAGE, Inmunoblotting y los kits de ELISA RIDASCREEN® Soya de R-biopharm y Veratox for soy allergen de Neogen se presentan en la tabla 3. En ambos lotes de la muestra polvo para preparar flan sin huevo dietético (FV1 y FV2) no se detectaron proteínas de soja con ninguno de los métodos estudiados. En ambos lotes se declaraba la frase de advertencia "contiene trazas de soja". En las muestras polvo para preparar bizcochuelo/pastel marmolado el lote B1 declaraba proteína de soja y el lote B2 declaraba harina de soja en las listas de ingredientes respectivas. Ni SDS-PAGE ni inmunoblotting permitieron detectar la presencia de proteínas de soja en estas muestras. Con el kit de R-biopharm se obtuvieron resultados mayores a 20 ppm de proteína de soja y con el kit de Neogen el lote B1 presentó 7,6 ppm de harina de soja. De acuerdo con estos resultados las muestras mencionadas no tendrían ni proteínas de soja ni harina de soja como ingredientes, ya que de ser así las mismas hubieran sido detectadas por SDS-PAGE y/o por Inmunoblotting. El método SDS-PAGE permite detectar aislado de soja en mezcla con harina de trigo con un nivel de detección de 2 g %, y el método Inmunoblotting permite la detección de 250 ppm de aislado de soja en mezcla con harina de trigo. Con el kit de Neogen en el caso de que las muestras hubieran tenido soja como ingrediente, el valor obtenido tendría que haber superado el valor mas alto de la curva de cuantificación (25 ppm).
+
+ 
+
+TABLA 3
+
+Detección de proteínas alergénicas de soja por SDS-PAGE, inmunoblotting y métodos de ELISA.
+
+
+
+ 
+
+La muestra premezcla para preparar milanesas de soja (MS) presentó resultados positivos con todos los métodos analizados. La muestra premezcla para preparar tortas fritas (TF) presentó resultados negativos con SDS-PAGE e Inmunoblotting pero ambos kits de ELISA detectaron proteínas de soja. Esta materia prima no estaba declarada como ingrediente ni tampoco había una frase de advertencia sobre su posible presencia. Como se observó en un trabajo previo algunas muestras elaboradas con trigo presentan contaminación cruzada con soja, esto es posible verificarlo no solo con kits de ELISA sino también con kits de Real Time PCR (15). Esta muestra fue analizada por Real Time PCR y se obtuvo resultado positivo también con esta metodología (resultados no publicados).
+
+La muestra polvo para preparar flan sin yema (FC) no declaraba presencia de soja y se obtuvieron resultados negativos con todos los métodos analizados.
+
+En la muestra premezcla para pizza (PP), que tampoco declaraba soja, se obtuvieron resultados negativos con SDS-PAGE e Inmunoblotting, pero el kit de Neogen detectó 11,0 ppm de harina de soja. Esta muestra analizada por Real time PCR también arrojo un resultado positivo (resultados no publicados).
+
+Las muestras correspondientes a dos lotes de premezclas para elaborar ñoquis de papa (Ñ1 y Ñ2) y premezcla para elaborar ñoquis (ÑB) presentaron resultados negativos con los métodos utilizados, solo en la muestra Ñ1 se determinaron 2,6 ppm de harina de soja con el kit de Neogen. Estas muestras no declaraban soja ni como ingrediente ni a través de frases de advertencia. La muestra producto en polvo a base de harinas (NM) declaraba "contiene derivados de soja" por contener lecitina de soja en su lista de ingredientes. Sin embargo, todos los métodos utilizados resultaron negativos. Por último, la muestra producto en polvo a base de harinas N5C que no declaraba soja ni en la lista de ingredientes ni a través de frases de advertencia, dio resultados negativos por SDS-PAGE y por Inmunoblotting y se detectaron 10 ppm de proteínas de soja con el kit de R-biopharm.
+
+Los resultados obtenidos en el análisis de la detección de proteínas de huevo utilizando SDS-PAGE, Inmunoblotting y el kit de ELISA RIDASCREEN® Ei- Egg Protein de R-biopharm se presentan en la tabla 4. En las muestras polvo para preparar flan sin huevo dietético (FV1 y FV2) las metodologías SDS-PAGE e Inmunoblotting no detectaron proteínas de huevo y con el kit de ELISA de R-biopharm, en uno de los lotes el resultado obtenido fue inferior al límite de detección del kit (FV2) y en el otro el resultado fue 2,7 ppm de huevo en polvo (FV1). Ambos lotes declaraban "contiene trazas de huevo". En las muestras polvo para preparar bizcochuelo/pastel marmolado (B1 y B2) las metodologías SDS-PAGE e inmunoblotting no detectaron proteínas de huevo y con el kit de ELISA de R-biopharm en uno de los lotes que declaraba "contiene trazas de huevo" (B1) se detectaron 10,0 ppm de huevo en polvo, mientras que en el otro lote (B2) que no declaraba huevo el resultado fue menor a 0,5 ppm de huevo en polvo. En las muestras mezcla para preparar milanesas de soja (MS) y premezcla para preparar torta frita (TF) las metodologías SDS-PAGE e Inmunoblotting no detectaron proteínas de huevo y con el kit de ELISA se detectaron respectivamente 1,1 y 1,2 ppm de huevo en polvo. Ninguna de estas muestras declaraba huevo ni como ingrediente ni en una frase de advertencia. En la muestra polvo para preparar flan sin yema (FC), que declaraba albúmina en la lista de ingredientes y "contiene huevo", las metodologías SDS-PAGE e Inmunoblotting presentaron resultados positivos y el kit de ELISA dio un resultado mayor al valor mas alto de la curva de calibración (> 13,5 ppm huevo en polvo). La premezcla para pizza (PP) que no declaraba huevo, ni como ingrediente ni a través de una frase de advertencia, presentó resultados negativos por SDS-PAGE e Inmunoblotting pero se obtuvieron 6,6 ppm de huevo en polvo con el método de ELISA. Ambos lotes de premezcla para elaborar ñoquis de papa (Ñ1 y Ñ2) declaraban en la lista de ingredientes huevo en polvo y "contiene huevo". Tanto la metodología SDS-PAGE como el Inmunoblotting presentaron resultados negativos y con el kit de ELISA se obtuvieron 0,8 ppm de huevo en polvo en Ñ1 y < 0,5 ppm de huevo en polvo en Ñ2. En la muestra premezcla para elaborar ñoquis ÑB, que declara albúmina y "contiene huevo", las metodologías SDS-PAGE e Inmunoblotting presentaron resultados positivos y con el kit de ELISA el resultado superó el valor mas alto de la curva de calibración (> 13,5 ppm). Estos resultados indican que las muestras Ñ1 y Ñ2 no contienen huevo como ingrediente, aunque no se puede descartar una posible contaminación cruzada con huevo, por el resultado obtenido en Ñ1. Los productos en polvo a base de harinas NM y N5C no declaraban huevo como ingrediente ni en frases de advertencia. Todos los métodos resultaron negativos para huevo en estas dos muestras.
+
+ 
+
+TABLA 4
+
+Detección de proteínas alergénicas de huevo por SDS-PAGE, inmunoblotting y método de ELISA.
+
+
+
+ 
+
+En trabajos previos, utilizando las metodologías SDS-PAGE, inmunoblotting y kits comerciales de ELISA para el análisis de la detección de proteínas de soja y de leche en productos cárnicos, tanto crudos como cocidos se encontraron resultados similares a los hallados en el presente trabajo. Se detectaron proteínas alergénicas de soja y de leche en muestras que no declaraban dichas materias primas en la lista de ingredientes y por el contrario no se detectaron en algunas muestras que sí las declaraban como ingredientes. También los métodos de ELISA permitieron detectar trazas de soja y de leche en muestras que presentaban contaminaciones cruzadas (7, 25).
+
+Considerando el elevado costo que presentan los kits de ELISA, estos resultados sugieren que para la detección de estas proteínas alergénicas en una muestra comercial, primero puede realizarse un screening con SDS-PAGE / inmunoblotting para verificar la presencia o ausencia de dichas proteínas como ingredientes. Si se detecta su presencia no es necesario recurrir al método de ELISA. Si se verifica la ausencia y dicha proteína alergénica está declarada en la lista de ingredientes es evidente que el alimento está adulterado. En caso de obtener un resultado negativo y que el ingrediente alergénico no esté declarado en la lista de ingredientes se deberá realizar un análisis mediante ELISA para determinar la posible presencia de trazas de dicho ingrediente alergénico.
+
+CONCLUSIONES
+
+De acuerdo con los resultados obtenidos, el método electroforético e inmunoblotting resultaron útiles para confirmar la presencia de las proteínas alergénicas en algunas muestras que las declaraban como ingredientes. Por otro lado, en otras muestras que también las declaraban como ingredientes, tanto con SDS-PAGE como con inmunoblotting, los resultados fueron negativos. Esto sugiere que dichas proteínas no fueron agregadas como ingredientes en dichos alimentos. Los kits de ELISA permitieron la detección de concentraciones muy bajas de estos alérgenos en muestras que presentaban frases de advertencia e incluso en otras que no tenían ninguna declaración de alérgenos. Los métodos de ELISA son útiles para detectar contaminaciones cruzadas dada su elevada sensibilidad.
+
+Considerando lo declarado en los respectivos rótulos se encontró que algunas sustancias alergénicas declaradas, en los ingredientes o a través de frases de advertencias, no fueron detectadas con las metodologías analizadas. En otros casos, se observó que muestras que no declaraban ingredientes alergénicos de leche, soja o huevo ni en la lista de ingredientes ni en frases de advertencia, contenían trazas de algunos de ellos.
+
+A nivel industrial sería importante realizar un adecuado control de los alergenos que realmente pueden estar presentes y de aquellos que no lo están con el fin de incorporar en la declaración de alergenos sólo los que podrían estar presentes. Esto resultaría de gran utilidad para las personas alérgicas que verían aumentada la oferta de alimentos que pueden consumir.
+
+Agradecimientos: Este trabajo fue parcialmente financiado por UBACyT 20020120100175BA.

@@ -1,0 +1,70 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182017000300262
+Altos niveles de adiposidad se asocian a un deterioro en la salud metabólica en adultos chilenos
+
+INTRODUCCIÓN
+
+La obesidad se caracteriza por un incremento anormal de grasa corporal que causa un proceso inflamatorio afectando la salud1,2. Estudios epidemiológicos han demostrado una asociación positiva entre adiposidad, marcadores metabólicos y de inflamación, los que incrementan el riesgo de enfermedades metabólicas, como enfermedades cardiovasculares (ECV) y diabetes mellitus tipo 23–7.
+
+Existen mediciones simples de adiposidad que se usan en la clasificación y evaluación de grupos de riesgo; tales como el índice de masa corporal (IMC), perímetro cintura (PC) y porcentaje de masa grasa (%MG); resultando ser de utilidad en estudios epidemiológicos y práctica clínica, por ser métodos de bajo costo y fácil aplicación8,9.
+
+El uso de marcadores de adiposidad y metabólicos, puede ser de gran utilidad en la detección temprana y reducción de riesgo de enfermedades metabólicas; así, el objetivo de este estudio fue analizar las asociaciones entre indicadores de adiposidad y marcadores metabólicos en población adulta chilena.
+
+MATERIAL Y MÉTODO
+
+Diseño del estudio
+
+Estudio observacional analítico de corte transversal, con análisis de prevalencias de factores de riesgo cardiovascular y que utiliza información del proyecto GENADIO (Genes, Ambiente, Diabetes y Obesidad), realizado entre los años 2009 al 2011, en población adulta de las regiones del Biobío y Los Ríos, Chile. Se utilizó una muestra de 475 personas para evaluar variables sociodemográficas y una sub-muestra de 370 para variables metabólicas. El cálculo del tamaño muestral se basó en diferencias HOMA-IR (homeostasis assessment model for insulin resistance), basado en estudios previos, donde se ha reportado una desviación estándar de 3-4 unidades de HOMA-IR, determinamos que se necesitarían al menos 65 participantes para cada grupo de interés (Mapuche urbano, Mapuche rural, No-Mapuche urbano, No-Mapuche rural), este tamaño permitiría detectar diferencias de 2 unidades de HOMA-IR entre estos grupos de interés. Se excluyeron del estudio mujeres en etapa de embarazo y personas con antecedentes de ECV, diabetes, hipertensión y cáncer, como también aquellas que reportaron estar bajo medicación para diabetes e hipertensión, esto ha sido descrito en extenso en publicaciones anteriores10,11. Este estudio fue aprobado por los comités de ética de las universidades de Chile, Concepción y Glasgow (Reino Unido).
+
+Mediciones antropométricas y metabólicas
+
+La evaluación antropométrica se realizó utilizando protocolos estandarizados10. Para determinar peso y talla se utilizó una balanza electrónica (TANITA TBF 300A, USA) y tallímetro (SECA A800, USA) con precisión de 100 g y 1 mm respectivamente. Para PC, se utilizó una cinta métrica no distendible (SECA, USA), con precisión de 0,1 cm. El IMC fue calculado usando la ecuación de [peso/talla2] y el estado nutricional se definió mediante los valores de corte de la Organización Mundial de la Salud1. Para obesidad central se utilizó la medición de PC utilizando los puntos de corte: ≥102 cm hombres y ≥88 cm mujeres1. La composición corporal se determinó mediante la medición de 4 pliegues cutáneos (bicipital, tricipital, subescapular y suprailiaco), estimándose el %MG mediante la ecuación de Durnin y Womersley12. Para %MG, se utilizaron tertiles diferenciados según sexo, (hombres: <25,7; 25,7-30,9; >30,9) y (mujeres: <29,4; 29,4-32,2; >32.2), lo que equivale a niveles de adiposidad: bajo, medio y alto, respectivamente, para ambos sexos.
+
+Trabajos previos10,11 describen la metodología empleada para la obtención de datos socio-demográficos y variables metabólicas como glicemia, colesterol total (CT), triglicéridos (TG), colesterol HDL (HDL-c), proteína C-reactiva ultra sensible (PCRus), alanina-amino transpeptidasa (ALT), gama-glutamil transpeptidasa (GGT), colesterol LDL (LDL-c), insulina, leptina, HOMA-IR, presión arterial diastólica (PAD) y presión arterial sistólica (PAS).
+
+Análisis de datos
+
+Para caracterizar variables según niveles de adiposidad se utilizó estadística descriptiva. La distribución normal de las variables fue analizada mediante el test de Anderson Darling y Kruskal-Wallis. Diferencias entre mujeres y hombres para variables continuas fueron determinadas con t-test para muestras independientes y diferencias en porcentajes entre género fue estimada mediante Chi-cuadrado. Las relaciones entre tertiles de IMC, PC y %MG con marcadores metabólicos fueron determinadas mediante la interacción de tertiles de adiposidad y género utilizando regresión lineal múltiple y ajustando los análisis edad, sexo, nivel educacional y tabaquismo. La asociación entre marcadores metabólicos por cada 1-unidad de incremento en IMC, PC, %MG fueron determinadas mediante regresión lineal múltiple. Valor p aceptado para diferencias significativas fue <0,05. Todos los análisis fueron realizados con el software STATA SE 14.
+
+RESULTADOS
+
+La muestra quedó constituida por 475 adultos (55,4% mujeres). La edad promedio fue 38,2 y 35,9 años para mujeres y hombres, respectivamente. En la tabla 1, se resumen las características socio-demográficas y antropométricas según sexo. La prevalencia de obesidad y marcadores de adiposidad (IMC, PC y %MG) fueron significativamente mayores en mujeres. Al analizar la media de los indicadores de adiposidad para ambos sexos, la caracterización de la muestra corresponde a sobrepeso (según IMC), obesidad central (según PC) y nivel medio de adiposidad (según %MG).
+
+Tabla 1 Características socio-demográfcas, antropométricas y actividad física según sexo. 
+
+Prom ± EEM: Promedio ± error estándar de la media, para variables continuas y cómo % para variables categóricas.
+
+Las variables metabólicas caracterizadas según sexo se presentan en la tabla 2. Los niveles promedios de PCRus y LDL-c fueron significativamente mayores en mujeres, en cambio, GGT, triglicéridos y HOMA-IR fueron significativamente mayores en hombres. Para el resto de los marcadores metabólicos no se observaron diferencias significativas entre sexo.
+
+Tabla 2 Características metabólicas según sexo. 
+
+Prom ± EEM: Promedio ± error estándar de la media, para variables continuas.
+
+Las asociaciones entre marcadores metabólicos y de adiposidad, según sexo, con p (trend) significativo, se presentan en las figuras 1, 2 y 3. Al analizar la asociación entre IMC y marcadores metabólicos (Figura 1), no se encontraron interacciones significativas entre sexo*IMC; sin embargo, los niveles de insulina, HOMA-IR, TG, colesterol total, LDL-colesterol, ALT, GGT, PCRus y leptina son significativamente mayores en ambos sexos, a un mayor IMC. Los valores de PAS y PAD son significativamente mayores en mujeres en relación a un mayor IMC. Se observa además, una concentración menor de los niveles de HDL-c en la medida que el IMC es mayor, en ambos sexos. Se encontraron resultados similares para PC y % MG (Figuras 2 y 3).
+
+Figura 1 Asociación entre marcadores metabólicos con tertiles de índice de masa corporal, según sexo.Los datos son presentados como promedio y su respectivo error estándar de la media. Los análisis fueron ajustados por edad, sexo, nivel educacional y tabaquismo. La interacción entre tertiles de IMC y sexo se estimó mediante regresión lineal y se presenta como (sexo*). El valor P-trend fue estimado para hombres y mujeres mediante análisis de regresión lineal. Los puntos de corte para tertiles de IMC fueron definidos según sexo (bajo<26 kg/m2; medio 26-29 kg/m2, alto >29 kg/m2 para hombres y bajo<27 kg/m2; medio 27-30 kg/m2, alto >30 kg/m2 para mujeres). 
+
+Figura 2 Asociación entre marcadores metabólicos con tertiles de perímetro cintura, según sexo.Los datos son presentados como promedio y su respectivo error estándar de la media. Los análisis fueron ajustados por edad, sexo, nivel educacional y tabaquismo. La interacción entre tertiles de Perímetro de cintura y sexo se estimó mediante regresión lineal y se presenta como (sexo*). El valor P-trend fue estimado para hombres y mujeres mediante análisis de regresión lineal. Los puntos de corte para tertiles de perímetro de cintura fueron definidos según sexo (bajo<94 cm; medio 94-103 cm, alto >103 cm para hombres y bajo<94 cm; medio 94-100 cm, alto >100 cm para mujeres). 
+
+Figura 3 Asociación entre marcadores metabólicos con tertiles de porcentaje de masa grasa, según sexo.Los datos son presentados como promedio y su respectivo error estándar de la media. Los análisis fueron ajustados por edad, sexo, nivel educacional y tabaquismo. La interacción entre tertiles de % masa grasa y sexo se estimó mediante regresión lineal y se presenta como (sexo*). El valor P-trend fue estimado para hombres y mujeres mediante análisis de regresión lineal. Los puntos de corte para tertiles de masa grasa fueron definidos según sexo (bajo<25,7%; medio 25,7-30,9%, alto >30,9% para hombres y bajo<29,4%; medio 29,4-32,2%, alto >32,2% para mujeres). 
+
+DISCUSIÓN
+
+El principal hallazgo de este estudio evidencia que a mayor adiposidad, independiente del indicador empleado (IMC, PC o %MG) se produce una tendencia al deterioro en la mayor parte de los marcadores metabólicos analizados. Estos resultados encontrados en una población adulta del sur de Chile, coinciden con otros trabajos realizados en otras poblaciones, que han demostrado una asociación significativa entre sobrepeso y obesidad con el riesgo de enfermedades metabólicas y ECV13–17.
+
+La muestra presenta alta prevalencia de exceso de peso y si bien el promedio de la mayoría de los marcadores metabólicos están dentro de rangos normales, varios de los sujetos analizados presentaban valores sobre del rango normal, situación que es una alerta ya que el exceso de peso y su manifestación a través de la acumulación de tejido adiposo, constituye un importante factor de riesgo de enfermedades metabólicas3,18.
+
+Al comparar el exceso de peso de la población en estudio con lo reportado por la Encuesta Nacional de Salud 2009-2010, se observa mayor prevalencia que la población general chilena19, lo que advierte la necesidad de desarrollar intervenciones en poblaciones del sur de Chile orientadas a cambiar sus estilos de vida.
+
+Los tres marcadores de adiposidad estudiados mostraron que los tertiles más altos se asocian a bajos niveles de HDL-c y mayores niveles de insulina, HOMA-IR, TG, CT, LDL-c, ALT, GGT, PCRus y leptina, en ambos sexos. Estos resultados son similares a los encontrados en otras investigaciones que evidencian asociaciones significativas entre indicadores de adiposidad y marcadores metabólicos13,20,21.
+
+Al analizar en forma individual el comportamiento de los marcadores metabólicos frente a los indicadores de obesidad; los niveles de presión arterial son ligeramente mayores cuando los indicadores de adiposidad evaluados están en el tertil superior, lo que muestra una tendencia a desarrollar hipertensión arterial (HTA) a futuro. Estudios epidemiológicos y clínicos indican que un aumento en el IMC tiene una fuerte e independiente asociación con la presencia de HTA y que un alto porcentaje de la HTA en adultos se atribuye a la adiposidad central22.
+
+En relación al perfil lipídico, a medida que el grado de adiposidad es mayor, se observan mayores niveles de CT, LDL-c y TG y menores niveles de HDL-c; diferencias que fueron significativas al aumentar todos los indicadores de adiposidad evaluados, resultados coincidentes con otras investigaciones17,23.
+
+El incremento de adiposidad produce un deterioro de la tolerancia a la glucosa y de la acción insulínica, conduciendo un estado de resistencia a la insulina, que aumenta el riesgo de diabetes tipo 2 y de ECV5,24,25. Al asociar los distintos tertiles de adiposidad con la resistencia a la insulina estimada a través del HOMA-IR, ésta aumentó significativamente con el incremento de los tres indicadores de adiposidad estudiados.
+
+La obesidad condiciona un estado inflamatorio a nivel sistémico que se manifiesta con el aumento de marcadores inflamatorios, como la PCRus y leptina26,27, cuyos niveles elevados se asocian con ECV y diabetes tipo 228,29,32. En esta investigación, los tres indicadores de adiposidad mostraron una asociación positiva con los niveles de PCRus y leptina, resultados similares a los encontrados en otros estudios30,31.
+
+La obesidad además representa uno de los factores de mayor riesgo para el desarrollo de enfermedad hepática, caracterizada por una elevación de ALT y GGT. En esta investigación se observaron mayores niveles de ambas transaminasas al aumentar los tres indicadores de adiposidad estudiados. Estos resultados son concordantes con un estudio en adultos jóvenes saludables, donde los niveles séricos de ALT y GGT presentaron una correlación positiva con IMC y diversos indicadores de adiposidad33.
+
+Los hallazgos de esta investigación indican que a mayor adiposidad, se produce un deterioro de los marcadores metabólicos, evidenciándose además que no existe diferencia entre utilizar indicadores de obesidad general y central para efectos de predecir cambios metabólicos en la población y anticipar su consecuente riesgo en el desarrollo enfermedades crónicas no transmisibles.

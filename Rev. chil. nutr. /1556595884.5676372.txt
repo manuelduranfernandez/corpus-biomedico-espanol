@@ -1,0 +1,94 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182016000300007
+Parámetros cuantitativos de los glóbulos grasos lácteos por microscopía convencional: potencial tratamiento de leche cruda bovina con rayos Ultravioleta en los puntos de producción primaria de la cadena láctea del Cesar
+
+RESUMEN
+
+El alto registro bacteriano / ml de leche cruda, más de 400 mil en el Cesar obliga a buscar alternativas tecnológicas para su reducción en origen, institutos internacionales han logrado avances significativos en conservación de leches maternas con rayos UV sin alterar sus propiedades nutritivas. Se pudo cuantificar ópticamente la cantidad y diámetros de los GGL en leche cruda de vaca y leche materna mediante la obtención y procesamiento digital de imágenes, encontrándose un promedio de 5,1 micrómetros en el tamaño promedio de los glóbulos grasos lácteos. Este es un primer parámetro determinante para potencializar el uso de los rayos ultravioleta en el sitio de origen de leche bovina para bajar carga microbiana de patógenos.
+
+Palabras clave: Glóbulos grasos lácteos, leche cruda bovina, rayos UV.
+
+ 
+
+INTRODUCCIÓN
+
+El departamento del Cesar, localizado al norte de Colombia, es uno de los cuatro primeros productores de leche bovina en el país, con cerca de 2 millones de litros/día representa una región relevante para la producción de este importante alimento de la canasta básica familiar. Estudios de la Corporación Cimientos (financiado por el Ministerio de Comercio e Industria en el año 2014) develaron pérdidas de la leche cruda recién al ordeño cercanas a un 2% por día [1] , debido a la alta contaminación microbiana. El mismo estudio reveló contaminación entre 400 mil y 1 millón de Recuento Total de Bacterias por mililitro de leche - RTB / ml, cifra superior a la establecida por la resolución No. 17 del 2012, Ministerio de Agricultura, la cual determinó para la región 2, donde está el departamento del Cesar, un número entre 201.000 y 300.000 RTB / ml de leche cruda [2] . Es sabido el gran esfuerzo realizado por las empresas lácteas y productores de la región en infraestructura física, tanques de enfriamiento, equipos de enfriamientos rápidos de leche cruda, capacitación en Buenas Prácticas de Ordeño, si bien ha mejorado la calidad higiénica pues hace una década el RTB / ml era superior a 2 millones, aun se hace necesario continuar con el esfuerzo para reducir la contaminación bacteriana en el origen de la cadena láctea [3]. Trabajos científicos recientes realizados en leches maternas (Fundació Banc de Sang i Teixits de les Illes Balears, 2014) [4], han encontrados buenos resultados en la preservación de leche humana en los bancos maternos empleando rayos ultravioletas (UV), utilizando lámparas de 40 watt de 78 cm, con tiempos de 10 minutos (48.000 J/l), logrando disminuir bacterias en 5-Log10 [5]; incluso ya existe la patente No. WO 2014094189 A1 [6]. Pese a los resultados alentadores los investigadores recomiendan la realización de más pruebas para generar masa crítica en el soporte científico que conlleve a la implementación masiva de esta técnica emergente [7]; precisamente es lo que el grupo denominado Corporación para la Investigación Tecnológica y Científica-CITEC- consideró prudente desarrollar abordando inicialmente la problemática en su contexto físico y matemático, el planteamiento inicial es referido a los glóbulos grasos lácteos (GGL, por sus iniciales en español) por ser los principales agentes ópticos activos en la penetración de los rayos UV en la leche, esto en razón de su estructura, concentración y dimensión física en el alimento referente [8,9]. La Food Drug Administration (FDA por sus siglas en inglés) permite desde noviembre del año 2000 el uso comercial de la luz UV (21 CFR 179.39 para radiación UV y 21 CFR 179.41 para pulsos de luz) para frutas y vegetales, así como para jugos procesados y posteriormente almacenados en refrigeración, el requerimiento de energía para el tratamiento de UV de jugos de frutas, cerca de 2 kW h/m3, es muy inferior que la energía empleada en los tratamientos térmicos, 82 kW h/m3 [10]. Matak (2004 - citado por Choudhary y Bandla 2012) estudió la eficiencia de la luz UV en la inactivación de la E.coli K 12 en leches con diferentes porcentaje de grasa en temperaturas de 4°C y 20 °C empleando el aparato CiderSure 3500, encontrando una reducción entre 0.73 y 2,29 log de esta bacteria en leche con los distintos porcentajes de grasa [11]. El presente trabajo tuvo como propósito fundamental determinar los parámetros fisicoquímicos de los glóbulos grasos lácteos contrastándolo con leche humana para el establecimiento de variables que permitan el tratamiento de la leche cruda bovina con rayos UV en los puntos de producción primaria de la cadena láctea del departamento del Cesar.
+
+MATERIALES Y MÉTODOS
+
+Se trabajó con dos tipos de leches: Se tomaron 20 ml de leche materna inferior a las 2 horas de haberse obtenido y 100 ml leche cruda de vaca sana inferior a 2 horas después del ordeño. Se procedió a realizar observaciones en montaje típico de portaobjeto - laminilla (una gota de leche en portaobjeto, laminilla yuxtapuesta), registros ópticos en 100X con microscopio Nikon Eclipse E200, cámara digital interfasada a computador, software de obtención y procesamiento digital de imágenes. Se determinaron los campos ópticos de cada leche como unidades de observación para los GGL [12], de los tipos de leche; se depositaron dos gotas en un portaobjeto recubriendo con laminilla cada gota por separado, luego de leve presión para adhesión se procedió a registrar 4 campos ópticos por sendas gotas moviendo el porta en forma de cruz a fin de obtener representatividad de la gota observada, es decir, de cada de leche se obtuvo 8 registros ópticos con la luz blanca convencional del microscopio mencionado, este mismo procedimiento se repitió tres veces. Se trabajó en el laboratorio de agroindustria de la Universidad de Santander, 20 °C de temperatura ambiente, 85 % HR, leche en agitación leve pero constante para evitar separación de fase de los GGL en capa superior (formación de nata). Cabe resaltar el empleo de un micrómetro Modelo OB-M marca Olympus B-0550 de 0,01 mm de precisión, es decir, de 10 micras, para las medidas de los GGL.
+
+Luego de las imágenes obtenidas se procedió a cuanti-ficar el número de glóbulos grasos en los 4 campos ópticos por gota en cada una de las tres repeticiones para obtener el promedio por campo óptico de las leches analizadas. Para este conteo de objetos en imágenes bidimensionales se empleó la conversión en imágenes binarias [13] y así realizar el cálculo empleando como fundamento el número de Euler [14]: 
+
+euler (n) = 2neuler [n,1/2]             Ec.[1]
+
+Adicionalmente se procedió a medir el diámetro de 10 glóbulos grasos por campo para establecer un promedio que devele el tamaño del referente. El diámetro se calculó a través del procesamiento digital de imágenes bidimensionales donde la Distancia Euclidiana (DE) entre dos puntos se puede obtener basado en la siguiente ecuación [15]:
+
+DE = √  (x1 - x2)2 + (y1 - y2)2          Ec.[2]
+
+La técnica de medida del diámetro fue indirecta, aquí se fusionaron dos imágenes, una del micrómetro Olympus B-0550 de medida mínima 10 micras y la segunda con los GGL, ambas con el objetivo 100X; tal como se observa en la figura No 2.
+
+RESULTADOS Y DISCUSIÓN
+
+Se seleccionaron las imágenes que mejor definían el contorno de los GGL tal como se ilustra en las figuras 1a y 1c, apreciando el perímetro (circulo negro) y el cuerpo (área blanca) del GGL, tal como se ha explicado se procedió a la binarización para poder aplicar el conteo con la ecuación de Euler Ec.[1], esto se observa en las figuras 1b y 1d.
+
+ 
+
+FIGURA 1
+
+Glóbulos grasos de dos tipos de leches: a) Humana Recién          obtenida, b) Binarización de a, c) De vaca recién al ordeño,          d) Binarización de c. Vistos con microscopía convencional          a 100 X, cámara digital.
+
+
+
+Fuente: Imágenes tomadas en el Laboratorio de Alimentos          de la Universidad de Santander-UDES, año 2015, Valledupar,          Colombia.
+
+ 
+
+Los promedios de estos conteos digitales en los 4 campos ópticos se consolidaron en el gráfico 1, expresados como número de Glóbulos Grasos Lácteos / milímetros cuadrados (mm2).
+
+ 
+
+GRÁFICO 1
+
+Cantidad de glóbulos grasos lácteos por milímetro cuadrado en          dos      tipos de leches, observadosen campo óptico de 100X.
+
+
+
+ 
+
+Es notoria la mayor cantidad de GGL / mm2 en la leche humana, representando más del 50% en los campos ópticos observados. En las imágenes a) y b) de la figura 1 ya se visualizaba la mayor densidad GGL en la primera imagen, con el conteo digital se comprobó numéricamente la mayor cantidad de estos en la leche humana.
+
+Para la determinación del diámetro se usó la medida Euclidiana de la Ec.[2] entre dos puntos esto en consideración a la forma circular de los GGL en el campo óptico observado, empleando un software de procesamiento digital de imágenes se obtuvo el valor en pixeles tal como se muestra en la figura 2.
+
+ 
+
+FIGURA 2
+
+Medida indirecta del diámetro de los GGL en 100X,          a) Fusión de imágenes del micrómetro Olympus B-0550          con Glóbulos Grasos Lácteo, medida Euclidiana en pixeles          (cuadros blancos), b) Medida Euclidiana, la línea diametral          indica los dos puntos para el registro.
+
+
+
+Fuente: Imágenes tomas en el Laboratorio de Alimentos de la          Universidad de Santander-UDES, año 2015, Valledupar, Colombia.
+
+ 
+
+La medida registrada en pixeles se convirtió a micras en razón que el campo óptico observado 80 pixeles representan un valor de 10 micras (líneas divisorias pequeñas). Los GGL humanos dieron valores extremos por eso se definieron en grandes y pequeños (gráfico 2).
+
+ 
+
+GRÁFICO 2
+
+Diámetro de los glóbulos grasos lácteos en dos tipos de leches.          Medida Euclidiana en micras.
+
+
+
+ 
+
+Los resultados obtenidos en el presente trabajo además de los reportados por otros autores como Matak, reducción de E.coli K 12 en leches con distintos porcentajes de grasa, entre otros, develan un potencial uso de la implementación de rayos ultravioletas en leches crudas desde su sitio de producción, máxime cuando es una tecnología aprobada por la FDA en alimentos perecederos. Debe advertirse sobre la aplicación racional y a la medida de esta tecnología en virtud que la leche cruda entera es un líquido perecedero no traslucido por su alto contenido de grasa, proteínas y carbohidratos, en consecuencia el reto de los investigadores e ingenieros es encontrar la dosificación apropiada de la aplicación de los referidos rayos ultravioletas considerando variables intervinientes como potencia de la fuente, distancia y tiempo de exposición del producto estudiado; de hecho algunos resultados de prototipos que emplean rayos ultravioletas animan en la continuación de más trabajos con propósitos similares al presentado. Deberá preservarse al máximo las características fisicoquímicas y sensoriales de le leche, al realizar pruebas directas de aplicación de rayos ultravioletas necesariamente el diseño experimental deberá contemplar pruebas seriadas de afectación fisicoquímica así como evaluaciones sensoriales tipo doble ciego para determinar diferencias.
+
+CONCLUSIONES
+
+Existe una mayor proporción óptica de los GGL en la leche materna tanto en cantidad como en tamaño con referencia a la leche de vaca entera, así cabe inferir que los métodos empleados por los institutos internacionales para el tratamiento de leches de bancos maternos empleando rayos ultravioleta pueden aplicar perfectamente para leche de vaca fresca en el origen, máxime cuando los primeros resultados indican poco o nulo efecto perjudicial sobre el valor nutricional de la leche materna, especialmente en las inmunoglobulinas y de más proteínas con funciones de aporte al sistema inmunológico humano.
+
+Se pudo determinar los parámetros cuantitativos de los GGL como la cantidad por área y el diámetro que devela tamaño del mismo, variables altamente influyentes en potenciales tratamientos de la leche de vaca con rayos ultravioletas, considerando que el principal limitante de estos es el poder de penetración en los materiales. En un contexto macro para trabajos futuros se diseñarán los bloques experimentales sustentados en las técnicas aplicadas por institutos pioneros en el empleo de esta tecnología emergente en leches maternas.
+
+Los resultados presentados, aunados a los obtenidos por otros autores, respaldan el contexto hipotético de potenciar el uso de los rayos ultravioletas en la leche cruda entera en su sitio de producción primaria para reducir microorganismos patógenos.

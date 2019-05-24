@@ -1,0 +1,322 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182019000200121
+Influencia de la edad sobre el cumplimiento de las recomendaciones de actividad física: Resultados de la Encuesta Nacional de Salud en Chile 2009-2010
+
+INTRODUCCIÓN
+
+A nivel mundial la escasa práctica de actividad física (AF) es uno de los principales factores de riesgo que genera efectos nocivos sobre la salud1,2,3. Actualmente, la inactividad física, es decir, realizar menos de 150 minutos de AF de intensidad moderada por semana4, es el cuarto factor de riesgo de mortalidad más importante, atribuyéndole el 6% de las defunciones anuales en todo el mundo5. Estudios también han demostrado que la inactividad física es un importante factor de riesgo para el desarrollo de enfermedades crónicas no transmisibles (ECNT), como la diabetes mellitus tipo 2 (DMT2), hipertensión arterial (HTA), obesidad y algunos tipos de cáncer3,6,7,8,9,10,,11,12,13,14,15. Por otra parte, la inactividad física se ha asociado con deterioro físico y cognitivo, lo que la vincula a fragilidad y mayor riesgo de dependencia15,16,17,18,19,20.
+
+A pesar de la abundante evidencia científica que demuestra los beneficios de realizar AF, un gran porcentaje de la población no cumple con los niveles mínimos recomendados para mantener un óptimo estado de salud21,22. Reportes demuestran que actualmente un 31,1% de la población adulta no cumple con las recomendaciones mínimas de AF23, mientras que, en Chile, según datos de la Encuesta Nacional de Salud 2009-2010 (ENS 2009-2010), un 27,1% de la población reportó ser físicamente inactiva24.
+
+Si bien estos hallazgos han generado alerta, propiciando la creación de políticas públicas orientadas a la reducción de la inactividad física en todos los grupos etarios, los esfuerzos aún continúan siendo insuficientes para incentivar y promover la realización de AF en todas las edades, siendo aún más difícil promoverla en adultos mayores25.
+
+Considerando los grandes beneficios que otorga la AF a la salud, la autonomía y la prevención de enfermedades durante todo el ciclo de la vida3,6,7,8,9,10,11,12,13,14, pero por sobre todo durante la etapa de envejecimiento5, es fundamental identificar cómo la práctica de AF varía en los diferentes rangos etarios, logrando, de esta manera, orientar y generar intervenciones hacía los grupos más vulnerables. Por lo anterior, el objetivo del presente estudio fue investigar como varían los niveles de práctica de AF entre los diferentes grupos etarios en la población chilena.
+
+MATERIAL Y METODOS
+
+Diseño muestral
+
+La muestra seleccionada incluyó a los participantes ENS, desarrollada en Chile entre octubre del año 2009 y septiembre del año 201024. La ENS 2009-2010 corresponde a un estudio poblacional de corte transversal realizado en hogares, con una muestra nacional, probabilística, estratificada y multietápica de 5.412 personas mayores de 15 años con representatividad nacional, regional, y área urbana/rural. Un total de 5.133 participantes con información disponible en relación con su nivel de AF fueron incluidos en este estudio. El protocolo del estudio fue aprobado por el Comité de Ética de Investigación de la Escuela de Medicina de la Pontificia Universidad Católica de Chile, y todos los participantes firmaron voluntariamente un consentimiento informado24.
+
+Mediciones antropométricas y de estilo de vida
+
+El estado nutricional fue clasificado en base a los puntos de corte de la Organización Mundial de la Salud (OMS): Bajo peso: <18,5 kg/m2; Normopeso: 18,5-24,9 kg/m2; Sobrepeso: 25,0-29,9 kg/m2 y Obesidad: ≥30,0 kg/m2(26), mientras que la obesidad central fue definida como un perímetro de cintura (PC) ≥83 cm para mujeres y ≥88 cm para hombres, según los puntos de corte sugeridos por la ENS en población chilena24. Las variables sociodemográficas (edad, sexo, nivel educacional, ingreso económico, zona geográfica) y datos asociados con el estilo de vida, como el tabaquismo, auto-reporte de salud y bienestar, comorbilidad (DMT2, HTA y síndrome metabólico) y consumo de alcohol, frutas y verduras se obtuvieron mediante la aplicación de cuestionarios validados en la ENS 2009-2010.
+
+Clasificación de actividad física
+
+El tiempo destinado para la AF relacionada al transporte (ej. caminar, andar en bicicleta) y actividades de intensidad moderada o vigorosa realizadas durante el tiempo libre y/o en el trabajo, fueron determinados según la guía de análisis de GPAQ (Global Physical Activity Questionnaire v2)27. Para determinar los niveles de AF total, las variables fueron expresadas en METs (Metabolic energy equivalents). Se consideró como punto de corte para inactividad física un gasto energético <600 METs/minutos/semana, o su equivalente de 150 minutos de AF de intensidad moderada a vigorosa o 75 minutos de AF de intensidad vigorosa a la semana o su combinación, según las recomendaciones de la OMS y especificaciones de la guía de análisis de GPAQ527. Los niveles de sedentarismo fueron determinados mediante el auto-reporte de tiempo destinado a actividades que involucren estar sentado o reclinado durante el tiempo libre o de trabajo (ej. tiempo sentado frente al computador, viendo televisión, viajando en bus, tren o auto, etc.).
+
+Análisis estadísticos
+
+Las diferencias entre niveles de AF (activo versus inactivo) fueron determinadas con t-test para variables continuas con distribución normal y el test de Mann-Whitney para variables que no cumplían con una distribución normal. El test Chi-cuadrado fue utilizado para variables categóricas.
+
+Para investigar la asociación entre edad y AF se utilizó análisis de regresión logística no lineal, donde la edad fue introducida en el modelo estadístico como variable continua, estableciendo como grupo de referencia participantes con una edad de 46 años, que representa la mediana de la población de la ENS 2009-2010. La AF fue codificada en dos categorías (físicamente activo= 0 y físicamente inactivo= 1). Los datos para estos análisis fueron presentados como Odds ratio (OR) y sus respectivos intervalos de confianza de 95% (95% IC). Todos los análisis fueron ajustados por nivel educacional, zona de residencia (urbano/rural), ingreso económico, índice de masa corporal (IMC), tabaquismo, consumo de frutas y verduras, consumo de alcohol, auto-reporte de estado de salud y bienestar y comorbilidad (DMT2, HTA y síndrome metabólico).
+
+Para todos los análisis se utilizó el módulo de muestras complejas del programa STATA SE v14, y todos los resultados fueron estimados utilizando muestras expandidas según la ENS 2009-201024. El nivel de significancia fue definido como p<0,05.
+
+RESULTADOS
+
+Las características de la población estudiada, según niveles de AF, son presentadas en la tabla 1. Se evidenció que los participantes clasificados como físicamente inactivos fueron principalmente mujeres (66,9%), presentaron mayor edad y menor nivel educacional. A nivel antropométrico, las personas físicamente inactivas poseían una mayor prevalencia de obesidad y obesidad central. Con respecto al estilo de vida, las personas físicamente inactivas mostraron hábito tabáquico y mayor tiempo destinado al desarrollo de actividades de tipo sedente.
+
+Tabla 1 Características de la población chilena según nivel de actividad física. 
+
+Datos presentados: medias para variables continuas y % para variables categóricas, ambos con intervalo de confianza del 95%. Variables sin distribución normal: mediana y rangos inter cuartil≠. Diferencias entre variables continuas con distribución normal: t-test; y Mann-Whitney test para variables sin distribución normal. Variables categóricas: Chi-cuadrado. Para inactividad física se utilizó un punto de corte en gasto energético <600 METs/minutos/semana, según OMS y especificaciones de la guía de análisis de GPAQ.
+
+En la figura 1 se presenta la prevalencia de inactividad física según grupo etario y sexo. Estos resultados señalan que la prevalencia de inactividad física es similar a edades tempranas, entre 20 a 60 años para mujeres y hombres; sin embargo, después de los 60 años la prevalencia aumentó rápidamente para ambos sexos, llegando a 63% en mujeres y 56% en hombres con una edad mayor a 80 años en comparación a 25% y 9% en mujeres y hombres con edades menor a 20 años, respectivamente.
+
+Figura 1 Asociación entre edad y la prevalencia de inactividad física en mujeres y hombres.Los resultados son presentados como prevalencia y su respectivo 95% IC. La línea negra punteada indica la prevalencia nacional para mujeres y hombres, respectivamente. 
+
+Al investigar la probabilidad de ser físicamente inactivo, esta fue mayor en mujeres que en hombres (OR: 1,51 [95% IC: 1,32; 1,72], p<0,0001). Cuando se investigó la asociación entre inactividad física y edad, tomando como referencia los participantes con una edad de 46 años, que representa la mediana de la población incluida en este estudio, se observó que para los hombres existió una probabilidad de ser físicamente inactivo en todas las edades menores a 55 años; no obstante, la probabilidad de no cumplir con las recomendaciones de AF incrementó significativamente en un 36% a partir de los 60 años en comparación al grupo de referencia (OR: 1,36 [95% IC: 1,01; 1,85], p= 0,019). En el caso de las mujeres, la probabilidad de ser físicamente inactiva fue similar entre los 30 a 55 años en comparación al grupo de referencia (46 años de edad), pero esta probabilidad incrementó en un 34% en mujeres con edades menores a 25 años (OR: 1,34 [95% IC: 1,01; 1,79], p= 0,021) y en un 32% a partir de los 60 años (OR: 1,32 [95% IC: 1,06; 1,65], p= 0,003) (Tabla 2 y Figura 2). En comparación al grupo de referencia, la probabilidad de ser físicamente inactivo se incrementó en un 32%, 63%, 109%, 180% y 295% para mujeres con edades de 60, 65, 70, 75 y >80 años, respectivamente; mientras que para hombres la probabilidad de ser físicamente inactivo incrementó en un 36%, 78%, 137%, 223% y 370% para las edades correspondientes a 60, 65, 70, 75 y >80 años, respectivamente (Tabla 2 y Figura 2).
+
+Tabla 2 Odds ratio para inactividad física según grupo etario en Mujeres y Hombres. 
+
+Datos son presentados como Odds ratio y su respectivo 95% IC. Los participantes con una edad de 46 años fueron utilizados como grupo de referencia, ya que este valor representa la mediana tanto para mujeres como para hombres en la ENS. Un Odds ratio < 1 indica que la población tiene mayor posibilidad de cumplir con la recomendación de AF, mientras que un Odds ratio > 1 indica que la población tiene una mayor probabilidad de no cumplir con las recomendaciones de AF de al menos 150 minutos a la semana de actividad física de intensidad moderada a vigorosa o su equivalente en METs (>600 METs/minuto/semana). Los análisis fueron ajustados por nivel educacional, zona de residencia (urbano/rural), ingreso económico, IMC, tabaquismo, consumo de frutas y verduras, consumo de alcohol, auto-reporte de estado de salud y bienestar, y comorbilidad (DMT2, HTA y síndrome metabólico).
+
+Figura 2 Asociación entre edad y probabilidad de ser físicamente inactivo en mujeres y en hombres.Datos son presentados como Odds ratio (línea negra continua) y su respectivo 95% IC (línea negra punteada). Los participantes con una edad de 46 años fueron utilizados como grupo de referencia, ya que este valor representa la mediana tanto para mujeres como para hombres en la ENS. La línea punteada de color gris en posición horizontal indica el valor de no asociación (Odds ratio = 1), por ende, un Odds ratio menor a 1 indica que la población tiene mayor posibilidad de cumplir con la recomendación de AF, mientras que un Odds ratio > 1 indica que la población tiene una mayor probabilidad de no cumplir con las recomendaciones de AF de al menos 150 minutos a la semana de actividad física de intensidad moderada a vigorosa o su equivalente en METs (>600 METs/minuto/semana). La línea punteada de color gris ubicada a los 60 años de edad representa el punto donde la asociación comienza a ser significativa mayor tanto en mujeres y hombres. También se presenta el Odds ratio para inactividad física en el grupo <20 años y para el grupo >80 años. Los análisis fueron ajustados por nivel educacional, zona de residencia (urbano/rural), ingreso económico, IMC, tabaquismo, consumo de frutas y verduras, consumo de alcohol, auto-reporte de estado de salud y bienestar, y comorbilidad (DMT2, HTA y síndrome metabólico). 
+
+DISCUSIÓN
+
+El principal resultado de este estudio indica que la prevalencia de inactividad física varía con la edad, llegando a 56% para hombres y 63% para mujeres mayores a 80 años en comparación a una prevalencia de 9% y 25% para hombres y mujeres menores a 20 años, respectivamente. Otro resultado de interés para la generación o fortalecimiento de políticas de salud pública en AF, tiene relación a la cuantificación de la probabilidad de ser físicamente inactivo según grupo etario. Estos resultados revelan que en comparación a personas en el grupo de referencia correspondiente a 46 años (que representa la edad promedio de la población de la ENS para ambos sexos), la probabilidad de ser físicamente inactivo aumenta significativamente a partir de los 60 años para ambos sexos, llegando a ser un 295% y 370% mayor en mujeres y hombres mayores a 80 años, respectivamente. Si bien la promoción de la práctica regular de AF debería aplicarse a través de todo el ciclo de vida (desde la niñez a la etapa de adulto mayor), ya que los beneficios asociados a AF son importantes para todos los grupos etarios, estos resultados sugieren que, a partir de los 60 años, una edad donde la mayor parte de la población comienza su etapa de desvinculación laboral, es cuando debería haber un énfasis especial en la creación de políticas públicas y generación de espacios para la práctica regular de AF, la cual está especialmente enfocada a las características del grupo etario, en este caso, programas de AF especializados para el adulto mayor. Esto podría ofrecer grandes beneficios en relación con lograr una mayor interacción social, independencia y, por ende, mayor probabilidad de lograr un envejecimiento exitoso través de la práctica regular de AF.
+
+Los resultados de nuestro estudio son similares a los reportados por estudios internacionales que muestran un aumento en la prevalencia de inactividad física conforme avanza la edad, fluctuando de un 15 a 38% en adultos jóvenes (15 a 29 años) y de un 28 a 60% en adultos mayores de 60 años28,29. Similarmente, Hamrik et al30. señalan que el aumento de la edad incrementa la proporción de hombres y mujeres que no realizan AF, reportando una probabilidad 4 veces mayor de ser físicamente inactivo al alcanzar los 65 años, en comparación con adultos jóvenes (18-39 años). Los antecedentes descritos permitirían señalar a la edad como un potente factor predictivo de inactividad física, además de sindicar edades “críticas” para esta conducta. Este hallazgo sugiere la necesidad de intervenir tempranamente y de forma continua para compensar la disminución de la práctica de AF durante el ciclo vital, pero, especialmente, durante el envejecimiento.
+
+El aumento en el porcentaje de adultos mayores físicamente inactivos podría asociarse principalmente a los cambios biológicos, desarrollo temprano de enfermedades que limitan la práctica de AF, pero también podría estar asociado a cambios sociales como la jubilación y, finalmente, el poco acceso a programas de AF dirigidos y especializados para esta población31. Este patrón de inactividad física predominante en población chilena envejecida ocurre también en países desarrollados y subdesarrollados, lo que genera preocupación considerando los efectos adversos asociados a la inactividad física6,22,32. En este contexto, es necesario generar más investigación que nos permita identificar los principales factores que favorecen como también aquellos que limitan la práctica de AF en distintas etapas del ciclo de vida, y en especial los factores asociados a AF durante la desvinculación laboral o en la etapa de adulto mayor, de manera de poder diseñar programas de intervención y políticas públicas que sean adecuadas al contexto nacional y en especial a cada uno de los principales grupos etarios.
+
+Por otro lado, este estudio identificó una asociación entre ser clasificado como físicamente inactivo y factores sociodemográficos como género y bajo nivel educacional33,34. Este resultado coincide con el reportado previamente en población brasileña y chilena, los cuáles señalan que mujeres y personas con baja escolaridad presentan menores niveles de AF33,34. No obstante, este es el primer estudio en Chile que investiga la asociación que existe entre la edad y la realización de AF.
+
+Finalmente, es importante recalcar que la práctica de AF debe ser incorporada desde la primera infancia, reforzándose durante todo el ciclo vital. De esta manera se lograría generar hábitos de vida que permanecerán durante la etapa adulta y permitirían aumentar la probabilidad de alcanzar un envejecimiento exitoso. Un estudio publicado recientemente refuerza este punto y entrega evidencia del impacto que tiene sobre la fragilidad en el adulto mayor el tener un bajo nivel de fitness cardio-respiratorio y fuerza muscular durante la adolescencia. En este estudio el riesgo de fragilidad en la tercera edad fue un 89% mayor en personas que tuvieron un nivel bajo de fuerza muscular y bajo nivel de fitness en su adolescencia en comparación personas con niveles altos35.
+
+Fortalezas y limitaciones del estudio
+
+La principal fortaleza del estudio es que sus resultados son representativos para población chilena, e incluyen un rango de edad amplio que permite estudiar los patrones de AF durante el ciclo vital (15 a 80 años). Además cabe destacar que los datos relacionados a niveles de AF han sido recolectados utilizando instrumentos validados36.
+
+Dentro de las limitantes del estudio se encuentra el auto-reporte de AF, el cual presenta una baja correlación con métodos objetivos para la cuantificación de los niveles de AF, como, por ejemplo, la acelerometría36,37. Por ende, las asociaciones observadas en este estudio podrían estar sesgadas por la sobreestimación de AF realizada, principalmente en personas con estilos de vida no saludable, con patologías existentes y aquellas con sobrepeso u obesidad36,37. Finalmente, es importante considerar que, debido al diseño observacional de corte transversal de la ENS, no se puede establecer una relación de causa-efecto.
+
+CONCLUSIONES
+
+Los hallazgos de este estudio permiten señalar que existen edades críticas para hombres y mujeres, principalmente sobre los 60 años, en donde aumenta de forma significativa la probabilidad de no cumplir con las recomendaciones de AF en comparación a población más joven (20-59 años). Estos resultados son relevantes, ya que aportan información y evidencia que puede permitir la creación de políticas gubernamentales que incentiven la promoción y la generación de espacios y oportunidades para la práctica de AF en los distintos grupos etarios, pero en especial en aquellos que, debido a cambios sociales, laborales, como lo son la desvinculación laborar, o por problemas relacionados a su salud, reducen sus niveles de AF considerablemente a partir de los 60 años. Para aumentar la adherencia a la práctica regular de AF, la promoción y creación de espacios y programas debe comenzar en una edad temprana y no solo en la tercera edad. Pero también se debe considerar que la promoción y creación de oportunidades y espacios para la práctica de AF deber ser adecuada y personalizada según el grupo etario al que deseamos intervenir, lo cual no solo aumentaría la adherencia, sino también los beneficios asociados a una práctica regular de AF.
+
+Agradecimientos
+
+Se agradece de manera especial a todos los participantes de la ENS 2009-2010, al equipo profesional de la Escuela de Salud Pública, de la Facultad de Medicina de la Pontificia Universidad Católica de Chile, quienes desarrollaron y aplicaron la Encuesta Nacional de Salud y al Ministerio de Salud del Gobierno de Chile. Todos los autores revisaron críticamente el manuscrito y están de acuerdo con su versión final. Ninguno de los autores reporta tener conflictos de intereses.
+
+BIBLIOGRAFIA
+
+BIBLIOGRAFIA
+
+1. Celis-Morales CA, Lyall DM, Welsh P, Anderson J, Steell L, Guo Y, et al. Association between active commuting and incident cardiovascular disease, cancer, and mortality: prospective cohort study. BMJ 2017; 357(4): j1456.
+
+			
+
+			[ Links ] 
+
+2. Yates T, Zaccardi F, Dhalwani NN, Davies MJ, Bakrania K, Celis-Morales CA, et al. Association of walking pace and handgrip strength with all-cause, cardiovascular, and cancer mortality: a UK Biobank observational study. Eur Heart J 2017; 1(1): ehx449.
+
+			
+
+			[ Links ] 
+
+3. Celis-Morales CA, Lyall DM, Anderson J, Iliodromiti S, Fan Y, Ntuk UE, et al. The association between physical activity and risk of mortality is modulated by grip strength and cardiorespiratory fitness: evidence from 498 135 UK-Biobank participants. Eur Heart J 2017; 38(2): 116-122.
+
+			
+
+			[ Links ] 
+
+4. Tremblay MS, Aubert S, Barnes JD, Saunders TJ, Carson V, Latimer-Cheung AE, et al. Sedentary Behavior Research Network (SBRN) - Terminology Consensus Project process and outcome. Int J Behav Nutr Phys Act. 2017; 14.
+
+			
+
+			[ Links ] 
+
+5. World Health Organization. Global recommendations on physical activity for health. 2010. http://www.who.int/dietphysicalactivity/factsheet_recommendations/en/.
+
+			
+
+			[ Links ] 
+
+6. Celis-Morales C, Salas C, Alduhishy A, Sanzana R, Martinez M, Leiva A, et al. Socio-demographic patterns of physical activity and sedentary behaviour in Chile: results from the National Health Survey 2009–2010. J Public Health 2015; 38(2): e98-e105.
+
+			
+
+			[ Links ] 
+
+7. Celis-Morales C, Salas C, Alvarez C, Farias NA, Campillos RR, Leppe J, et al. Higher physical activity levels are associated with lower prevalence of cardiovascular risk factors in Chile. Rev Med Chil 2015; 143(11): 1435-1443.
+
+			
+
+			[ Links ] 
+
+8. Celis-Morales CA, Perez-Bravo F, Ibanes L, Sanzana R, Hormazabal E, Ulloa N, et al. Insulin Resistance in Chileans of European and Indigenous Descent: Evidence for an Ethnicity x Environment Interaction. PlosOne 2011; 6(9): e24690.
+
+			
+
+			[ Links ] 
+
+9. Celis-Morales CA, Petermann F, Hui L, Lyall DM, Iliodromiti S, McLaren J, et al. Associations Between Diabetes and Both Cardiovascular Disease and All-Cause Mortality Are Modified by Grip Strength: Evidence From UK Biobank, a Prospective Population-Based Cohort Study. Diabetes Care 2017; 40(12): 1710-1718.
+
+			
+
+			[ Links ] 
+
+10. Yates T, Zaccardi F, Dhalwani NN, Davies MJ, Bakrania K, Celis-Morales CA, et al. Association of walking pace and handgrip strength with all-cause, cardiovascular, and cancer mortality: a UK Biobank observational study. Eur Heart J 2017; 38(43): 3232-3240.
+
+			
+
+			[ Links ] 
+
+11. Cristi-Montero C, Steell L, Petermann F, Garrido-Mendez A, Diaz-Martinez X, Salas-Bravo C, et al. Joint effect of physical activity and sedentary behaviour on cardiovascular risk factors in Chilean adults. J Public Health (Oxford, England) 2017: Oct 17: 1-8.
+
+			
+
+			[ Links ] 
+
+12. Steell L, Garrido-Mendez A, Petermann F, Diaz-Martinez X, Martinez MA, Leiva AM, et al. Active commuting is associated with a lower risk of obesity, diabetes and metabolic syndrome in Chilean adults. J Public Health (Oxford, England) 2017: Jul 28: 1-9.
+
+			
+
+			[ Links ] 
+
+13. Garrido-Mendez A, Diaz X, Adela Martinez M, Maria Leiva A, Alvarez C, Ramirez Campillo R, et al. Association of active commuting with obesity: findings from the Chilean National Health Survey 2009-2010. Rev Med Chile 2017; 145(7): 837-844.
+
+			
+
+			[ Links ] 
+
+14. Celis-Morales CA, Lyall DM, Welsh P, Anderson J, Steell L, Guo Y, et al. Association between active commuting and incident cardiovascular disease, cancer, and mortality: prospective cohort study. Brit Med J 2017; 357: j1456.
+
+			
+
+			[ Links ] 
+
+15. Díaz-Martínez, X., Petermann, F., Leiva, A. M., Garrido-Méndez, A., Salas-Bravo, C., Martínez, M. A., & Poblete-Valderrama, F. Association of physical inactivity with obesity, diabetes, hypertension and metabolic syndrome in the chilean population. Rev Med Chil 2018; 145 (5): 585-595.
+
+			
+
+			[ Links ] 
+
+16. Yannakoulia M, Ntanasi E, Anastasiou CA, Scarmeas N. Frailty and nutrition: From epidemiological and clinical evidence to potential mechanisms. Metabolism 2017; 68: 64-76.
+
+			
+
+			[ Links ] 
+
+17. Shlisky J, Bloom DE, Beaudreault AR, Tucker KL, Keller HH, Freund-Levi Y, et al. Nutritional Considerations for Healthy Aging and Reduction in Age-Related Chronic Disease. Adv Nutr 2017; 8(1): 17-26.
+
+			
+
+			[ Links ] 
+
+18. McPhee JS, French DP, Jackson D, Nazroo J, Pendleton N, Degens H. Physical activity in older age: perspectives for healthy ageing and frailty. Biogerontology 2016; 17(3): 567-580.
+
+			
+
+			[ Links ] 
+
+19. Vina J, Rodriguez-Manas L, Salvador-Pascual A, Jose Tarazona-Santabalbina F, Carmen Gomez-Cabrera M. Exercise: the lifelong supplement for healthy ageing and slowing down the onset of frailty. J Physiol (London) 2016; 594(8): 1989-1999.
+
+			
+
+			[ Links ] 
+
+20. Bray NW, Smart RR, Jakobi JM, Jones GR. Exercise prescription to reverse frailty. App Physiol Nutr Metab 2016; 41(10): 1112-1116.
+
+			
+
+			[ Links ] 
+
+21. Hallal PC, Andersen LB, Bull FC, Guthold R, Haskell W, Ekelund U. Global physical activity levels: surveillance progress, pitfalls, and prospects. Lancet 2012; 380(9838): 247-257.
+
+			
+
+			[ Links ] 
+
+22. Dumith SC, Hallal PC, Reis RS, Kohl HW, 3rd. Worldwide prevalence of physical inactivity and its association with human development index in 76 countries. Prev Med 2011; 53(1-2): 24-28.
+
+			
+
+			[ Links ] 
+
+23. Garcia-Hermoso A, Saavedra JM, Ramirez-Velez R, Ekelund U, Del Pozo-Cruz B. Reallocating sedentary time to moderate-to-vigorous physical activity but not to light-intensity physical activity is effective to reduce adiposity among youths: a systematic review and meta-analysis. Obes Rev 2017; 18(9): 1088-1095.
+
+			
+
+			[ Links ] 
+
+24. Ministry of Health of Chile, PUC. National Health Survey 2009-2010, Chile. Santiago, Chile 2010. [Avaible in: http://web.minsal.cl/portal/url/item/bcb03d7bc28b64dfe040010165012d23.pdf].
+
+			
+
+			[ Links ] 
+
+25. Cohen-Mansfield J, Shmotkin D, Goldberg S. Predictors of Longitudinal Changes in Older Adults’ Physical Activity Engagement. J Aging Phys Act 2010; 18(2): 141-157.
+
+			
+
+			[ Links ] 
+
+26. World Health Organization. Obesity and overweight. 2014. [Available in: http://www.who.int/mediacentre/factsheets/fs311/en/].
+
+			
+
+			[ Links ] 
+
+27. World Health Organization. Global Physical Activity Questionnaire: GPAQ version 2.0. 2009. http://www.who.int/ncds/surveillance/steps/resources/GPAQ_Analysis_Guide.pdf
+
+				
+
+			
+
+			[ Links ] 
+
+28. Lee IM, Shiroma EJ, Lobelo F, Puska P, Blair SN, Katzmarzyk PT, et al. Effect of physical inactivity on major non-communicable diseases worldwide: an analysis of burden of disease and life expectancy. Lancet 2012; 380(9838): 219-229.
+
+			
+
+			[ Links ] 
+
+29. Bicalho PG, Hallal PC, Gazzinelli A, Knuth AG, Velasquez-Melendez G. Adult physical activity levels and associated factors in rural communities of Minas Gerais State, Brazil. Rev Saude Publica 2010; 44(5): 884-893.
+
+			
+
+			[ Links ] 
+
+30. Hamrik, Z., Sigmundová, D., Kalman, M., Pavelka, J., Sigmund, E. Physical activity and sedentary behaviour in Czech adults: results from the GPAQ study. European journal of sport science 2014; 14(2): 193-198.
+
+			
+
+			[ Links ] 
+
+31. Ingram DK. Age-related decline in physical activity: generalization to nonhumans. Med Sci Sports Exerc. 2000; 32(9): 1623-1629.
+
+			
+
+			[ Links ] 
+
+32. Bauman AE, Reis RS, Sallis JF, Wells JC, Loos RJ, Martin BW. Correlates of physical activity: why are some people physically active and others not? Lancet. 2012; 380(9838): 258-271.
+
+			
+
+			[ Links ] 
+
+33. Thomaz PMD, Costa THMd, Silva EFd, Hallal PC. Factors associated with physical activity in adults, Brasilía, DF. Rev Saúde Pública. 2010; 44: 894-900.
+
+			
+
+			[ Links ] 
+
+34. Ximena Díaz, Alexis Garrido, María Adela Martínez, Ana María Leiva, Cristian Álvarez, Rodrigo Ramírez-Campillo, et al. F Correlates of physical inactivity: Findings from the Chilean National Health Survey 2009-2010. Rev Med Chile. 2017; 145(10): 1259-1267.
+
+			
+
+			[ Links ] 
+
+35. Henriksson H, Henriksson P, Tynelius P, et al. Muscular weakness in adolescence is associated with disability 30 years later: a population-based cohort study of 1.2 million men. Br J Sports Med Published Online First: 19 June 2018.
+
+			
+
+			[ Links ] 
+
+36. Aguilar-Farias N, Leppe Zamora J. Is a single question of the Global Physical Activity Questionnaire (GPAQ) valid for measuring sedentary behaviour in the Chilean population? J Sports Sci 2016: 1-6.
+
+			
+
+			[ Links ] 
+
+37. Celis-Morales CA, Perez-Bravo F, Ibañez L, Salas C, Bailey ME, Gill JM. Objective vs. self-reported physical activity and sedentary time: effects of measurement method on relationships with risk biomarkers. PLoSOne 2012; 7(5): e36345.
+
+			
+
+			[ Links ] 
+
+Recibido:
+
+				30 de Enero de 2018; Revisado:
+
+				12 de Julio de 2018; Aprobado:
+
+				18 de Octubre de 2018
+
+Dirigir correspondencia a: Dr. Carlos Celis-Morales. BHF Glasgow Cardiovascular Research Centre. 126 University Avenue. Glasgow University. Glasgow, United Kingdom, G12 8TA. Teléfono: +(0)44 0141 330 4201 Email: carlos.celis@glasgow.ac.uk
+
+
+
+AGM, YC, FPR contribuyeron de igual manera a este manuscrito por ende son considerados como primer autor compartido.

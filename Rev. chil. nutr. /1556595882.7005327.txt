@@ -1,0 +1,134 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182015000200010
+Aislamiento de bacterias degradadoras de pesticidas organofosforados encontrados en suelos y en leche bovina
+
+RESUMEN
+
+El incremento en el uso de pesticidas organofosforados en las prácticas agrícolas a través de los últimos años, ha generado una serie de problemas ambientales. Estos compuestos tienden a bioacumularse a través de las cadenas tróficas presentando altos niveles de toxicidad desencadenando potenciales riesgos para la salud de las especies que son expuestas a este tipo de sustancias. En esta investigación se usaron los métodos de extracción soxhlet y micro extracción en fase sólida en espacio de cabeza (HS-SPME) para la extracción de pesticidas organofosforados en suelos de cultivo y leche de ganado bovino, respectivamente. Se determinó la presencia de demetón-S-metilsulfón en concentraciones entre 272.9 y 1793.3 ppm en los suelos de cultivo y 12.9 ppm en leche de vaca. Se aislaron bacterias nativas de suelo con capacidad degradadora de estos pesticidas, Bacillus sp y Pantoea agglomerans, obteniéndose resultados de degradación del compuesto organofosforado, clorpirifos de 73.5% y 68.67%, respectivamente, evidenciando que estos microorganismos son una posible solución para el mejoramiento de suelos contaminados por esta clase de pesticidas.
+
+Palabras clave: Bacillus sp, pantoea agglomerans, HS-SPME, cClorpirifos, demetón-S-metilsulfón, leche de vaca.
+
+ 
+
+INTRODUCCIÓN
+
+El nuevo entorno mundial del comercio de alimentos obliga a los países importadores como a los exportadores a reforzar sus sistemas de control de los alimentos. Esto conlleva adoptar, hacer y observar estrategias de control de los alimentos basadas en el riesgo en vigilancia sanitaria y de inocuidad alimentaria. De acuerdo con los organismos mundiales de referencia, los residuos de fármacos y agroquímicos en alimentos de origen animal son considerados un factor de riesgo en la salud pública y como limitante en el desarrollo económico de cualquier país (1) (FAO/OMS, 2003).
+
+Los estudios sobre la presencia de residuos de plaguicidas en la cadena alimentaria de leche de ganado vacuno se han centrado, fundamentalmente, en la presencia de pesticidas organoclorados por su alta persistencia y liposolubilidad (2-5). Pero su progresivo desuso a favor de compuestos organofosforados motiva que se planteen estudios sobre contenido residual de ellos (6-10). Las causas principales de la presencia de residuos de plaguicidas organofosforados (OF) en leche son sus propiedades fisicoquímicas particulares de liposolubilidad.
+
+Además, se debe mencionar el uso excesivo y poco regulado de estos compuestos en las prácticas agropecuarias para el control de las enfermedades de los animales, transmitidas por insectos y parásitos (8,9). Se ha comprobado que los animales productores de leche expuestos a tales condiciones son capaces de trasladar a su proceso metabólico compuestos plaguicidas y pueden ser acumulados en lípidos y lipoproteínas. Debido al porcentaje de grasa presente en la leche, ésta se convierte en un medio, en el cual es de esperarse la presencia de residuos de plaguicidas organofosforados o de algún metabolito de biotransformación de éste (10-12).
+
+Los compuestos organofosforados constituyen un grupo heterogéneo con estructuras químicas derivadas del ácido fosfórico, específicamente son ésteres de este ácido. Entre sus principales propiedades fisicoquímicas encontramos que son mayormente liposolubles y medianamente volátiles, lo que le permite a este grupo de plaguicidas presentar altos niveles de toxicidad y bioacumulación en las cadenas tróficas, por lo que a nivel mundial se han realizado estudios exhaustivos de sus propiedades tóxicas y la capacidad de afección en los seres vivos que no son su objetivo, ya sea de manera directa en los animales, tales como el ganado, para el control de plagas y de forma indirecta para el hombre por medio del consumo de alimentos que han sido tratados por estos compuestos de tipo OPs (12-15).
+
+Las características de estos compuestos han permitido que se utilicen diversos métodos para su extracción en las diferentes matrices existentes, los cuales, se caracterizan por sus eficientes resultados debido al permanente contacto con la muestra, entre ellos está la extracción soxhlet (16). La micro extracción en fase sólida en el espacio de cabeza (HS-SPME) constituye un método eficaz de extracción ya que reduce los costos de solvente, tiempo y es aplicable a todo tipo de muestras (8,11), además, ha mostrado excelentes resultados en la extracción de pesticidas en todas las matrices (17-21).
+
+En Colombia, el municipio de San Bernardo Del Viento por estar ubicado en el departamento de Córdoba, en una zona de trópico bajo y según el Ministerio de Agricultura, Protección Social y de Ambiente, es apta para el ejercicio de actividades agropecuarias, por lo tanto, no está exento del uso de este tipo de compuestos (OPs). San Bernardo del Viento comprende una extensa zona propicia para el desarrollo de la ganadería y cultivos agrícolas, de los que resaltan el arroz, maíz, ñame, yuca, plátano y coco. A su vez, por ser un municipio que presenta un grado bajo de tecnificación y una mano de obra no calificada. Los campesinos del sector realizan sus actividades de manera artesanal, principalmente, al momento de controlar todo tipo de plagas, mediante el uso de pesticidas sin la supervisión de personas expertas, sino bajo criterio propio, lo que estaría generando un desequilibrio ambiental y de salud pública por el uso de estos compuestos (22).
+
+Estudios en diversos países como México y Polonia han demostrado que la biorremediación de pesticidas organofos-forados por medio de microorganismos aislados de suelos agrícolas ha tenido grandes resultados, mostrando degradaciones de hasta un 98% (14,23). En nuestro país trabajos realizados por la compañía de petróleo Ecopetrol han reportado que la biorremediación es una herramienta útil para eliminación de hidrocarburos en diferentes matrices, reduciendo el impacto ambiental producido por este tipo de compuestos (24).
+
+Estos estudios posibilitan la aplicación de esta técnica en los suelos de cultivo del municipio de San Bernardo Del Viento mediante el aislamiento de cepas bacterianas nativas de los suelos cultivados, y que a su vez posean capacidad degradadora de pesticidas organofosforados, ya que dichos compuestos poseen una dinámica ambiental de tal manera que pueden migrar de una matriz como los suelos a otra como lo la leche de ganado bovino. Esto es debido, posiblemente, a la acción de prácticas agrícolas como el pastoreo en zonas expuestas a este tipo de sustancias lo que permite encontrarlas en un rango de concentraciones variadas en cada una de las diferentes matrices ambientales.
+
+Los objetivos de este trabajo fueron determinar pesticidas organofosforados (OP's) en suelos y en leche de vaca del municipio de San Bernardo del Viento y además, aislar bacterias degradadoras de este tipo de contaminantes fosforados de los suelos recolectados.
+
+MATERIALES Y MÉTODOS
+
+Obtención de muestras de suelo. Las muestras de suelos y leche cruda de vaca, se recolectaron en una finca agrícola y ganadera del municipio de San Bernardo del Viento, departamento de Córdoba, Colombia.
+
+La toma de las muestras de suelos fue realizada de acuerdo con lo descrito por Blanco (25) y Brady (26): Se recolectaron 2 muestras (M1 y M2), cada una de 13 submuestras (ICA, 1992). Éstas fueron recolectadas en zigzag, a una profundidad de 0-20 cm, se tomaron 200-300 g de suelo, se mezclaron, se almacenaron en cartuchos de aluminio y se guardaron en un congelador para análisis posterior.
+
+Obtención de muestras de leche. Diariamente, en las mañanas se tomaron 50 mL - 100 mL de leche de un grupo de vacas en ordeño por un periodo de 5 días. Las muestras fueron almacenadas en un frasco colector y guardadas en un congelador (-20 °C) inmediatamente para análisis posterior (9).
+
+Determinación de pesticidas organofosforados. Fueron tomados 7 gramos de muestra de suelo previamente tamizados con un tamaño de partícula < 2 mm y se sometieron a extracción soxhlet por un periodo de 18 horas, usando como solvente hexano/acetona (Panreac, Estados Unidos) (4:1). Posteriormente, los extractos se concentraron por Kuderna Danish, limpiados en una columna de florisil e inyectados en un equipo de cromatografía de gases GC/FID (Agilent Technologies 4890 D) (27).
+
+Las muestras de leche fueron descongeladas y se tomaron 12 mL de cada una, las que fueron depositadas en un vial de vidrio, se agregó agua ultra pura y una solución de cloruro de sodio al 20% para obtener una mejor condición de salting out, el vial fue sellado y dejado por un periodo de 30 min en equilibrio. Posteriormente, se realizó la extracción de los compuestos organofosforados mediante SPME, introduciendo una fibra de Polidimetilsiloxano - Divinilbenceno (65 pm - PDMS-DVB) en el espacio de cabeza (HS) del vial, este fue puesto en una plancha de calentamiento con agitación magnética por un periodo de 45 minutos a 600 rpm y una temperatura aproximada de 90°C, después de este tiempo la fibra fue retirada e introducida en un equipo de cromatografía de gases GC/FID y sometida a desorción por un tiempo de 5 minutos a 250°C (8).
+
+Las condiciones cromatográficas para la separación e identificación de los compuestos OPs fueron la siguientes: columna capilar HP-5 (30m * 0.32 mm* 0.25 pm), helio como gas de arratre a un flujo de 1-2 mL/min, la rampa de temperatura del horno inició en 60°C durante 2 minutos, luego se elevó a razón de 15°C/min hasta 160°C durante un periodo de 6 minutos y finalmente llevada a una temperatura de 280°C a razón de 20°C/min; gases de combustión del FID: Hidrogeno/Aire en proporciones 1:3 respectivamente. El análisis cualitativo y cuantitativo se realizó usando patrones estándar de compuestos organofosforados.
+
+Obtención, aislamiento e identificación de cepas bacterianas. Se llevó a cabo mediante técnicas microbiológicas descritas (28-30), se tomaron 300 g de suelo de cultivo e impregnado con 20 mL de una solución estándar de clorpi-rifos a 200 ppm, se dejó secar y puesto a oscuridad por un periodo de 30 días a una temperatura de 30°C. Pasado este tiempo el suelo fue tamizado, se tomó 1 g y adicionado en 9 mL de agua destilada estéril, esta dilución fue la base para preparación de soluciones sucesivas de 10-1 a 10-4 utilizando como solvente medio mínimo M9 (6 g de fosfato ácido de sodio hidratado, 3 g de fosfato acido de potasio, 4 g de cloruro de amonio, 0,5 g de cloruro de sodio, 0,25 de sulfato de manganeso heptahidratado, 0,0168 g de cloruro de calcio hidratado) con clorpirifos a 200 ppm como única fuente de carbono, este medio fue incubado por una semana a 36°C ±1 (30,31). Después del tiempo de incubación y que se haya observado una turbidez de 0,5 McFarland, se procedió a tomar 100 µL de las colonias suspendidas e se incubaron en agar nutritivo mediante una siembra masiva durante una semana a 36°C ±1, una vez comprobado el crecimiento de las colonias, estas fueron aisladas y sembradas en agar nutritivo durante las mismas condiciones de incubación antes mencionadas. Las cepas fueron identificadas mediante pruebas bioquímicas tales como tinción de gram, catalasa, oxidasa y agar sangre, así como también el uso de kits especializados para tal fin como BBL CRYSTAL©.
+
+Sometimiento de bacterias identificadas a degradación de OPs. Cada una de las cepas identificadas fueron sembradas en medio mínimo M9 con pesticida organofosforado clorpirifos a 200 ppm como única fuente de carbono y se verificó su crecimiento mediante espectrofotometría UV-VIS por un periodo de 120 horas. Posteriormente los medios fueron sometidos a cromatografía de gases GC/FID antes y después de ser inoculados con las cepas bacterianas para determinar la degradación del clorpirifos por parte de las bacterias aisladas (30). El seguimiento del crecimiento bacteriano y degradación se realizó mediante la medición de un blanco con el fin de observar claramente el potencial de las bacterias en este proceso.
+
+Análisis estadístico. Para el desarrollo de la investigación se empleó un diseño experimental unifactorial, con dos tratamientos (cepas bacterianas) y un blanco (ausencia bacteriana), teniendo como variables de respuesta, el crecimiento bacteriano y el porcentaje de reducción de la concentración de clorpirifos.
+
+Para procesar estadísticamente los datos, primero se tabularon en hojas electrónicas del programa computacional Excel de Microsoft, posteriormente los datos se analizaron mediante el uso del paquete estadístico Prisma 6.0; a partir del cual se identificó el modelo de mejor ajuste, al tipo de crecimiento que presentaron las bacterias, así como también se realizó una comparación del porcentaje de reducción de clorpirifos en los medios experimentales, mediante un análisis de varianza (ANOVA), unifactorial (cepa bacteriana).
+
+RESULTADOS
+
+Determinación de OPs en muestras de suelo y leche de ganado bovino. El compuesto encontrado en los extractos obtenidos de los suelos fue el Demetón-S-metilsulfón utilizado para el control de ciertos insectos, este insecticida fue detectado en la zona de estudio en concentraciones de 272,9 ppm y 1793,3 ppm.
+
+Por su parte en las muestras de leche, una vez fue expuesta la fibra de 65 µm - PDMS-DVB y sometida a desorción en GC/FID, se pudo identificar el compuesto organofosforado Demetón-S-Metilsulfón a una concentración 12,9 ppm.
+
+Identificación de bacterias con capacidad degradadora de Ops. Las pruebas bioquímicas de identificación, sugirieron la presencia de dos tipos de bacilos, la cepa 1 fue un bacilo gram negativo (-) y la cepa 2 fue un bacilo gram positivo (+). Bioquímicamente la Cepa 1 fue gamma hemolítica, oxidasa negativa y catalasa positiva; por su parte la Cepa fue gamma hemolítica, oxidasa negativa y catalasa positiva (32).
+
+La Cepa 2 por sus características microscópicas fue identificada en el género Bacillus sp, este género de bacterias se caracteriza y diferencia de las demás bacterias gram positivas por la presencia de esporas y prueba de catalasa negativa (33); mientras que la Cepa 1 por sus características observadas a través de su tinción gram negativa fue sembrada en BBL CRYSTAL para su identificación sugiriendo con un porcentaje de confiabilidad del 98% la presencia de pantoea agglomerans, un bacilo gram negativo de la familia Enterobacteriaceae, es un tipo de bacterias que se encuentra en diferentes matrices ambientales tales como suelo (34).
+
+Crecimiento y verificación de la capacidad degradadora de las cepas bacterianas. Las colonias de estudio fueron sembradas en medio mínimo M9 con una concentración de clorpirifos de 200 ppm, se incubaron a 36 °C±1 y cada 24 horas fue monitoreado el crecimiento bacteriano midiendo su densidad óptica por medio de un espectrofotómetro UV-VIS a 600 nm. La tabla 1 muestra que las dos cepas bacterianas pueden crecer en este medio selectivo usando como única fuente de carbono el pesticida organofosforado.
+
+ 
+
+TABLA 1
+
+Crecimiento de cepas bacterianas.
+
+
+
+*Los datos son presentados como densidad óptica ± error estándar.
+
+ 
+
+Para la verificación de la disminución del compuesto organofosforado por parte de las cepas bacterianas, los medios de cultivo líquidos fueron sometidos a GC/FID en intervalos de 24 horas. Para tal fin se elaboró una curva de calibración del compuesto organofosforado clorpirifos y se procedió a inyectar cada una de las muestras de cada cepa bacteriana y se evaluó la concentración del pesticida presente, a su vez se evaluó un blanco como control negativo para garantizar que la degradación de OPs no sea atribuida a otros factores tales como la temperatura de incubación de las muestras.
+
+Crecimiento bacteriano. El comportamiento del crecimiento bacteriano de las dos cepas, Bacillus sp y Pantoea agglomerans mostró que ambas presentaban un ajuste significativo al modelo exponencial (P-valor < 0.001), con valores del coeficiente de determinación (R2), iguales a 0.94 y 0.87 para las cepas Bacillus sp y Pantoea agglomerans respectivamente. Sin embargo, al comparar graficamente las dos cepas, se aprecia que la primera presenta mayor concentración, con respecto a la segunda, es decir que la proliferación del Bacillus sp es mayor que la del p. agglomerans (figura 1).
+
+ 
+
+FIGURA 1
+
+Crecimiento de cepas bacterianas en medio selectivo con OPs.
+
+
+
+ 
+
+Degradación de clorpirifos por parte de las cepas bacterianas. Al comparar el porcentaje de reducción del clorpirifos mediante el ANOVA, se pudo comprobar que existen diferencias estadísticamente significativas (P << 0.05), entre los tratamientos (tabla 2); además, mediante las múltiples comparaciones pareadas efectuadas por el método de Tukey, se encontró que la especie Bacillus sp., fue quien tuvo mayor porcentaje de reducción (figura 2).
+
+ 
+
+TABLA 2
+
+Análisis de varianza para el porcentaje de reducción de clorpirifos en cada tratamiento, incluido el blanco.
+
+
+
+ 
+
+FIGURA 2
+
+Capacidad degradadora de cepas bacterianas.
+
+
+
+ 
+
+DISCUSIÓN
+
+De acuerdo con los resultados obtenidos en los suelos de cultivo, podemos observar dos valores muy diferentes en las concentraciones del compuesto organofosforado demeton-S-metilsulfón, los cuales pueden ser atribuidos a la morfología de la zona de cultivo, la cual mostraba una inclinación, permitiendo escorrentías o transporte de estos compuestos a las zonas más bajas logrando su respectiva acumulación durante el periodo de cultivo, dando como resultado que esta zona más baja presente una concentración más elevada del compuesto organofosforado determinado. Lo relevante es que estos suelos al ser usados como zona de pastoreo de ganado bovino y de futuras siembras se convierten en una posible amenaza desde el punto de vista de la dinámica ambiental de estos compuestos organofosforados ya que podrían encontrarse en las cosechas posteriores y en los productos derivados como carne y leche de los animales ubicados en esas zonas para pastoreo (9), esto último se evidencia en la determinación de la sustancia demetón-S-metilsulfón en la leche de ganado bovino.
+
+La presencia de pesticidas en este tipo de matrices como la leche, cobra importancia debido al creciente uso de estos compuestos que si bien son menos persistentes que sus homólogos organoclorados, poseen ciertas propiedades fisicoquímicas como su variable liposolubilidad que les permite pasar de una matriz a otra llegando a ocasionar desequilibrios desde el punto de vista ambiental y sobre todo a la hora de ser consumidos por el ser humano debido a la toxicidad que estas sustancias poseen (2,6,13,35,36).
+
+A su vez, fue monitoreado el crecimiento por parte de las dos cepas bacterianas obtenidas, a través de la densidad óptica y comparado con un blanco. Se observó que estas bacterias presentan un crecimiento de tipo exponencial, lo que confirma que estas cepas con el transcurrir del tiempo utilizan el medio selectivo con el pesticida organofosforado clorpirifos como fuente de carbono para su desarrollo, esto no es nuevo en esta clase de microorganismos ya que diversos trabajos han mostrado comportamientos similares en periodos de tiempos un poco más prolongados, en el que este proceso tuvo una duración de 20 días (37-40).
+
+Al observar la degradación del clorpirifos, notamos que los tratamientos que poseen las cepas bacterianas Bacillus sp y Pantoea agglomerans lograron una mayor reducción con respecto al blanco, se aprecia que transcurrido un tiempo de 24 horas la concentración del pesticida disminuyó de 148,4 ppm hasta 39.34, 45.02 y 134.6 ppm para las cepas Bacillus sp, Pantoea agglomerans y el Blanco respectivamente, lo que equivale a una reducción de 73.50%, 69.67% y 9.28% del clorpirifos, respectivamente para las cepas mencionadas con anterioridad; denotándose mayor degradación por parte de la primera especie (figura 2). Se puede inferir a partir de la poca disminución del pesticida en el blanco y que este fué detectado durante el periodo del ensayo, que la disminución de la concentración de clorpirifos se debe al proceso metabólico por parte de las cepas bacterianas y no a las condiciones de temperatura presentadas durante la incubación de dichos microorganismos, estudios similares con otro tipo de OPs como el monocrotofós han mostrado que suelos autoclava-dos tuvieron más persistencia por parte del pesticida, lo que afirma que si bien la temperatura potencia la degradación del pesticida, esta velocidad de degradación no es significativa al compararse con el proceso metabólico.
+
+Los resultados obtenidos tanto para la cepa de Bacillus sp como para Pantoea agglomerans son productos del metabolismo de dichos microorganismos con respecto a este tipo de compuestos ya que para la degradación de pesticidas OPs como para otro tipo de sustancias utilizan enzimas especializadas, que para este caso, es conocida como fosfotriesterasa, la cual puede influir de manera muy significativa en los procesos de biorremediación (41).
+
+Otros estudios han evaluado la degradación de clorpirifos por parte de muchos microorganismos nativos de diferentes suelos y se ha encontrado que la cepa Bacillus sp ha mostrado gran importancia en este proceso, obteniendo porcentajes de degradación hasta 97% en periodos de 120 horas (42), que comparados con los resultados obtenidos en este estudio, muestran capacidad degradadora por parte de esta especie. Cabe resaltar que el porcentaje de degradación de 73.50% y 69.67% por parte de las cepas bacterianas se desarrolló en un periodo de 96 horas y que no se pudo estimar en un rango mayor de tiempo debido a que la concentración de clorpirifos no pudo ser detectada por el equipo de cromatografía de gases, pero la tendencia muestra que el porcentaje de degradación aumenta con el transcurrir del tiempo.
+
+La especie Pantoea agglomerans, conocida también como Enterobacter agglomerans es una especie que obtuvo un resultado muy significativo en cuanto a la degradación del clorpirifos en relación con la especie Bacillus sp, si bien esta última ha sido encontrada en la gran mayoría de suelos y se ha demostrado su capacidad degradadora de sustancias como los OPs (38-40), la especie Pantoea agglomerans ha mostrado su capacidad para otro tipo de sustancias como arsénico y derivados del petróleo (37, 41-43). Este es uno de los primeros trabajos en el que se evidencia la capacidad degradadora de las bacterias anteriormente mencionadas para compuestos de tipo organofosforado, utilizando como base el hecho de que esta clase de microorganismos utiliza enzimas especializadas para degradarlos.
+
+CONCLUSIÓN
+
+La metodología de HS-SPME/GC-FID permitió la separación e identificación de un plaguicida organofosforado (demetón-S-metilsulfón) en suelos y leche de vaca ganado, mostrando que es una técnica confiable para la identificación de estas sustancias en este tipo de matrices, y a su vez evidenciando el paso del pesticida en mención del suelo de cultivo a la leche de ganado bovino por medio de su ruta metabòlica, lo que hace inherente la búsqueda de técnicas de recuperación de suelos contaminados por OPs, en este caso, en el aislamiento de microorganismos capaces de degradarlos.
+
+En los suelos de cultivo se detectó la presencia de cepas bacterianas con capacidad degradadora de pesticidas organofosforados. Estos microorganismos fueron capaces de desarrollarse en medios de cultivo con presencia de clorpirifos en concentraciones de 200 ppm. Los microorganismos aislados fueron identificados por medio de sus características morfológicas y bioquímicas como Bacillus sp, un bacilo gram positivo perteneciente a la familia Bacillaceae, y pantoea agglomerans, un bacilo gram negativo perteneciente a la familia Enterobacteriaceae. Por lo tanto, podemos concluir que estos microorganismos pueden ser utilizados como alternativas de solución para la recuperación de suelos contaminados por OP's, lo cual podría evitar riesgos potenciales a las especies que se encuentran expuestas a esta clase de contaminantes.
+
+Agradecimientos: Agradecemos a la Universidad de Cartagena y a su Vicerrectoría de Investigaciones por la financiación de este proyecto, al grupo de Investigaciones Agroquímicas (GIA) de la Facultad de Ciencias Exactas y Naturales por todo el apoyo brindado durante esta investigación, y a los Señores: Orlando De La Rosa y Juan Carlos Valdelamar, por su valiosa colaboración en este proyecto.

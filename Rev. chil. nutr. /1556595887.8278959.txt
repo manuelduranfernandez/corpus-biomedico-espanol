@@ -1,0 +1,400 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182018000500372
+Patrones de consumo alimentario y pobreza monetaria en Colombia
+
+INTRODUCCIÓN
+
+En Colombia las dos últimas encuestas nacionales sobre la situación nutricional (ENSIN) realizadas en 2005 y 20101,2 permitieron establecer el estado de la transición nutricional y cambios en los patrones alimentarios que son considerados como reflejos de la transición alimentaria, que coexiste además de la nutricional, con la demográfica, epidemiológica y económica3,4,5,6,7,8. La desigualdad en el consumo dietario, así como los factores que propician estas desigualdades han sido ampliamente estudiadas en el mundo9,10,11,12,13,14. En Colombia desde 2015 se viene estableciendo de manera parcial la magnitud de esta relación15.
+
+Colombia en 2013 según el informe de desarrollo humano del programa de las naciones unidas para el desarrollo (PNUD), ocupaba el puesto 12 entre los 168 países más desiguales y el índice de Gini era de 53,516, en 2015 según el Departamento Administrativo Nacional de Estadísticas (DANE), este índice fue de 52,217. A pesar de que la pobreza multidimensional disminuyó pasando del 40% al 28%, aún persiste la desigualdad17.
+
+El interés por determinar las desigualdades en salud y en este caso en los patrones de consumo alimentario, obedece a su vez, al interés por lograr la equidad, es decir, facilitar que los individuos de una sociedad alcancen su máximo potencial en el estado alimentario y nutricional con base en sus patrones alimentarios, disminuyendo las brechas en los determinantes que lo limitan, y centrando el accionar en los aspectos que pueden ser evitados y considerados injustos12,18,19. Dado que con frecuencia el análisis de las desigualdades se concentra en la dimensión socioeconómica, el presente análisis debe considerarse como de “desigualdades económicas en los patrones alimentarios”20. El objetivo de este estudio fue estimar las desigualdades en tres patrones de consumo alimentario relacionadas con la pobreza monetaria, que son considerados en adultos entre 18 y 64 años de interés para la nutrición pública en Colombia1,2.
+
+MATERIAL Y MÉTODOS
+
+Estudio ecológico tomando como referentes los datos poblacionales suministrados por la ENSIN-20102 y como unidad de análisis los municipios de los 32 departamentos y la capital del país (En total 33 unidades geodemográficas).
+
+Población de estudio
+
+En particular en la ENSIN-2010, los participantes fueron seleccionados para representar al 99% de la población del país a través de un muestreo estratificado en múltiples etapas. Todas las unidades geodemográficas, se agruparon en estratos con características sociodemográficas similares. Los estratos fueron representados por municipios seleccionados aleatoriamente, manteniendo la probabilidad proporcional del tamaño del estrato. En cada estrato se conformaron grupos (clúster) de 10 hogares que se seleccionaron aleatoriamente. Los miembros del hogar fueron invitados a participar. En la encuesta se incluyeron 50.670 hogares. Los detalles de la metodología están publicados2.
+
+Muestra en estudio
+
+El tamaño de la muestra para este estudio fue de 33. El número de unidades geodemográficas existentes en Colombia, para algunos análisis la n disminuye a 24 dado que para 9 unidades geodemográficas no existen datos de pobreza. Para este análisis fueron estudiadas tres variables (tres patrones de consumo dietario), en relación con una de tipo económico, la pobreza monetaria. La información sobre pobreza monetaria fue la estimada y reportada por el Departamento Administrativo Nacional de Estadística (DANE) para cada unidad geodemográfica en 2011 (La disponible al año más cercano de los datos de la ENSIN-2010)21. Los patrones de consumo fueron calculados a partir de los datos de la ENSIN-20102. La información sobre la población entre 18 a 64 años para cada una de las 33 unidades geodemográficas, se obtuvo de las proyecciones de población por área para el año de 2010, esta información es reportada por el DANE y está disponible en su página Web.
+
+Variables estudiadas
+
+Pobreza monetaria. Los datos de pobreza monetaria están disponibles desde 2011 y fueron obtenidos de los boletines regionales, uno por unidad geodemográfica, dispuestos en la página oficial del DANE21.
+
+Determinación de patrones de consumo
+
+La ENSIN-2010, estimó a través de un cuestionario de frecuencia de consumo (CFC) utilizando diez categorías de respuesta para el último mes, la frecuencia de consumo de 30 alimentos o grupo de alimentos y de 3 prácticas relacionadas. Los detalles de la construcción y aplicación del CFC ya fueron publicados2,4,5,15. El ICBF obtuvo consentimiento informado de los participantes antes de su enrolamiento2.
+
+Las categorías de respuestas de 28 ítems del CFC (Se excluyeron las mezclas vegetales), fueron convertidas en una variable continua (frecuencia/día del consumo), utilizando divisores apropiados para expresar la frecuencia del consumo en unidades de tiempo “día”22,23,24,25. Con base en análisis de factores, se establecieron tres factores o patrones de consumo a partir de 28 ítems y de su respectiva frecuencia/día del consumo; fruta-verdura/lácteos (Leche, pollo, frutas y verduras, etc.), tradicional/almidón (Arroz, plátano, huevo, leguminosas, etc.) y snack (comida rápida, gaseosas y refrescos, alimentos empaquetados, etc.)4,5,26. Luego para cada patrón se establecieron puntajes de adherencia con base en las cargas factoriales y la frecuencia/día de los ítems que lo componen. Los valores medios de los puntajes de adherencia a cada uno de los tres patrones de consumo, fueron organizados en una tabla de datos para cada unidad geodemográfica (Tabla 1). Los detalles del análisis factorial, así como la bondad de ajuste del modelo factorial se puede solicitar a los autores.
+
+
+
+
+
+Tabla 1 Puntajes de adherencia a patrones de consumo en población adulta de acuerdo a la unidad geodemográfica. Colombia, 2010. 
+
+a Según el Departamento Administrativo Nacional de Estadísticas (DANE) (23)
+
+b Con base en análisis de factores “centrados” (Puntaje de adherencia-valor mínimo).
+
+c No disponible
+
+
+
+
+
+Tabla 1 Puntajes de adherencia a patrones de consumo en población adulta de acuerdo a la unidad geodemográfica. Colombia, 2010. 
+
+a Según el Departamento Administrativo Nacional de Estadísticas (DANE) (23)
+
+b Con base en análisis de factores “centrados” (Puntaje de adherencia-valor mínimo).
+
+c No disponible
+
+Sobre los índices de desigualdad calculados
+
+Fueron calculados índices de desigualdad basados en rangos (razón de tasas extremas, diferencias de tasas extremas, riesgo atribuible poblacional), en la disparidad (Pearcy-Keppel y varianza entre grupos), en la desproporcionalidad (Gini y de concentración), en modelos de regresión (de efecto, desigualdad de la pendiente, de Pamuk, de Kunst y Mackenbach y de desigualdad acotado) y, en el concepto de entropía (Kullback-Libler, Hoover, Theil). Los índices basados en rangos muestran la desigualdad que ocurre en la adherencia a cada patrón alimentario, entre los valores extremos de adherencia, al ordenar las unidades geo demográficas de acuerdo con su pobreza monetaria, esta es una medida de desigualdad absoluta. A diferencia los índices basados en rangos, los de dispersión toman en cuenta la variabilidad que existe en todos los grupos, no sólo la que está en los extremos. Sin embargo, no utilizan una variable ordenadora -en este caso la pobreza monetaria-, ni pondera por el tamaño poblacional en el territorio. Tal vez los índices más conocidos son los basados en la desproporcionalidad, estos son índices de desigualdad relativos que ilustran aquí la cantidad de concentración en la adherencia a cada patrón de consumo. La inexistencia de desigualdad o de perfecta distribución en la adherencia al consumo se representaría con un valor de cero. Los índices de efecto basados en regresión lineal muestran la dirección de la asociación y la magnitud de esta asociación entre la categoría ordenadora -la pobreza monetaria- y el puntaje de adherencia al patrón de consumo. La versión estandarizada de los índices basados en el concepto de entropía varía entre 0 y 1, cuanto más se acerquen a 1, mayor será la desigualdad27.
+
+Análisis estadístico
+
+El análisis estuvo dirigido a establecer en Colombia las desigualdades en los tres patrones de consumo identificados, utilizando como referente económico la pobreza monetaria de cada unidad geodemográfica21. La descripción de las variables se realizó utilizando promedios o proporciones con sus respectivos intervalos de confianza del 95 % (IC 95%). Los cálculos para establecer los patrones de consumo y sus puntajes de adherencia se realizaron utilizando el software Stata, versión 14.128. Las bases de datos para las anteriores estimaciones fueron suministradas por el Instituto Colombiano de Bienestar Familiar, quien es el responsable en Colombia de las ENSIN. Para el cálculo de todos los índices de desigualdad, se construyó una base datos donde las filas eran las unidades geodemográficas y las columnas, las variables de interés, incluida la pobreza monetaria. Esta base se convirtió al formato del software Epidat, versión 4,228 el cual se utilizó para el cálculo de los índices de desigualdad basados en rangos, en la disparidad, en la desproporcionalidad, en modelos de regresión y en el concepto de entropía27,29.
+
+RESULTADOS
+
+La proporción media de pobreza monetaria para el país al momento de la ENSIN-2010 era de 41,5% (IC 95%; 35,7 a 47,4). El valor medio para el puntaje de adherencia al patrón de consumo fruta-verdura/lácteos fue de 0,67 (IC 95%; 0,58 a 0,77), al patrón tradicional/almidón de 0,87 (IC 95%; 0,75 a 0,99) y al patrón snack de 0,33 (IC 95%; 0,25 a 0,41). El coeficiente de correlación (r) entre la pobreza monetaria y el puntaje de adherencia al patrón fruta-verdura/lácteos fue de -0,54 (IC 95%; -0,78 a -0,18), con el patrón tradicional/almidón de -0,29 (IC 95%; -0,62 a 0,13) y con el patrón snack 0,00 (IC 95%; -0,40 a 0,41.)
+
+Desigualdad basada en rangos
+
+La razón de tasas más alta fue para el patrón fruta- verdura/lácteos, seguida por la razón para el patrón tradicional/almidón y la más baja para el patrón snack. El 0,41 de la desigualdad en el puntaje de adherencia al patrón fruta-verdura/lácteos, el 0,20 en la adherencia al patrón tradicional/fibra y el -0,22 en el patrón snack, pueden ser atribuidos a la pobreza monetaria. Del total del riesgo en los tres patrones de consumo estudiados, entre el 48,3% y el 23,1%, podría eliminarse si se redujera o eliminara la pobreza (Tabla 2).
+
+Desigualdad basada en disparidades
+
+La varianza entre grupos ajustada (VEGA) es el doble en el patrón fruta-verdura/lácteos de la alcanzada en los patrones tradicional/almidón y snack. Sin embargo, en los tres patrones es baja, incluso sin ajustar (VEG). La mayor desigualdad por unidades geodemográficas según el índice Pearcy-Keppel está en el patrón tradicional/almidón donde representa el 85,8%, cuando el índice es ajustado representa el 0,9%. Le siguen la desigualdad por regiones en los patrones fruta-verdura/lácteos; 66,3% y en el snack; 32,3%, cuando este índice es ajustado alcanza valores de 0,83 y 0,36 respectivamente (Tabla2).
+
+Desigualdad basada en desproporcionalidad
+
+La desigualdad, dada la pobreza monetaria, alcanzó el mayor coeficiente de Gini en el patrón de consumo snack; 0,26, le sigue el alcanzado en el patrón tradicional/ almidón; 0,17 y el fruta-verdura/lácteos; 0,12. Según el índice de concentración, el patrón tradicional/fibra se distribuye de manera perfecta, en los patrones fruta- verdura/lácteos y snack casi de manera perfecta, -0,08 y -0,11 respectivamente (Tabla 2). Al graficar los índices de concentración y los basados en modelos de regresión se evidenciaron relaciones decrecientes entre la pobreza y la adherencia al patrón de consumo fruta-verdura/lácteos y el tradicional/almidón, e inexistente en el patrón snack. La menor adherencia de consumo al patrón snack se alcanza en los niveles de pobreza de 50%. Bogotá, DC., y Chocó las unidades geodemográficas con menor y mayor pobreza monetaria se han utilizado como referentes en dichas figuras (Figuras 1 a 3).
+
+
+
+
+
+Tabla 2 Índices de desigualdad en los patrones de consumoa de adultos entre 18 a 64 años, con base en la pobreza monetaria. Colombia, ENSIN-2010. 
+
+a Con base en análisis de factores.
+
+b n es 24 cuando para el cálculo del índice es necesario el dato de pobreza monetaria, el cual no está disponible para 9 unidades geodemográficas.
+
+
+
+
+
+Tabla 2 Índices de desigualdad en los patrones de consumoa de adultos entre 18 a 64 años, con base en la pobreza monetaria. Colombia, ENSIN-2010. 
+
+a Con base en análisis de factores.
+
+b n es 24 cuando para el cálculo del índice es necesario el dato de pobreza monetaria, el cual no está disponible para 9 unidades geodemográficas.
+
+Desigualdad basada en índices de efecto y modelos de regresión
+
+El índice de efecto para los tres patrones estudiados es bajo, para el patrón fruta-verdura/lácteos de -0,01, para los patrones tradicional/almidón y snack de 0,00 y -0,00 respectivamente. El coeficiente de determinación para el patrón fruta-verdura/lácteos fue de 0,30, para el patrón tradicional/almidón de 0,08 y para el patrón snack de 0,00. El patrón fruta-verdura/lácteos es el que presenta la mayor desigualdad en la pendiente; -0,43, el patrón tradicional/almidón la menor; 0,01. El índice de desigualdad acotado fue para el patrón tradicional/almidón de 0,99 y para el patrón snack de 1,89 (Tabla 2).
+
+
+
+
+
+Figura 1 Adherencia media (Z Score) al Patrón Fruta-Verdura/Lácteos y Pobreza Monetaria (%). Colombia, ENSIN-2010. 
+
+
+
+
+
+Figura 1 Adherencia media (Z Score) al Patrón Fruta-Verdura/Lácteos y Pobreza Monetaria (%). Colombia, ENSIN-2010. 
+
+
+
+
+
+Figura 2 Adherencia media (Z Score) al Patrón Tradicional/Almidón y Pobreza Monetaria (%). Colombia, ENSIN-2010. 
+
+
+
+
+
+Figura 2 Adherencia media (Z Score) al Patrón Tradicional/Almidón y Pobreza Monetaria (%). Colombia, ENSIN-2010. 
+
+
+
+
+
+Figura 3 Adherencia media (Z Score) al Patrón Snack y Pobreza Monetaria (%). Colombia, ENSIN-2010. 
+
+
+
+
+
+Figura 3 Adherencia media (Z Score) al Patrón Snack y Pobreza Monetaria (%). Colombia, ENSIN-2010. 
+
+Desigualdad basada en el concepto de entropía
+
+Los índices calculados en puntuaciones Z muestran como la mayor redundancia se alcanza en el patrón snack, complementariamente, la mayor entropía se alcanzó en el patrón fruta-verdura/lácteos. En los índices equivalentes de entropía o de disimilitudes (Hoover y Theil), se obtiene la mayor desigualdad en el patrón fruta-verdura/lácteos, el índice de Theil equivalente muestra como el 44% de la población entre 18 a 64 años, soporta el 56% de la adherencia a este patrón. El índice de Hoover equivalente, indica que, se necesitaría hacer una redistribución en los puntajes de adherencia en el patrón fruta-verdura/lácteos del 40% para lograr la máxima equidad posible en este consumo. En general todos los índices de entropía estandarizados (Z) son bajos -es lo deseable- encontrándose en rangos entre 0,03 para el patrón fruta-verdura/lácteos y 0,19 para el patrón snack (Tabla 2).
+
+DISCUSIÓN
+
+Ningún índice de desigualdad es mejor que otro. La interpretación de todo el conjunto de índices permite establecer si existe o no desigualdad en la adherencia a los patrones de consumo entre las unidades geo demográficas, al incorporar una categoría ordenadora, la pobreza monetaria. Cada grupo de índices será preferido dependiendo del arraigo estadístico y familiaridad del lector con ellos, los epidemiólogos están más familiarizados con los basados en rangos o en modelos de regresión, los economistas en los basados en la desproporcionalidad, concentración y disparidad.
+
+Colombia, a pesar de considerarse como de ingreso medio e incluso alto y como otros países en desarrollo, conserva aún el patrón de consumo dietario “tradicional”, patrón que en sociedades desarrolladas se ha perdido, con éste, coexisten los patrones fruta-verdura/lácteos y el snack4,5,6,7,8. Los índices de desigualdad analizados en conjunto permiten establecer si las desigualdades observadas son aparentes o en verdad existen. Aquí fueron estimados y reportados un total de 20 índices de desigualdad27,28,29.
+
+El estudio de los patrones alimentarios presenta un reto adicional en la interpretación de la desigualdad, a diferencia de otras variables que son únicas y excluyentes, eg. La escolaridad, el estado de nutrición, etc., para facilitar el estudio de los patrones alimentarios, éstos se presentan entre sí como variables independientes, pero en verdad, cada uno de los sujetos que se agrupan en las unidades geodemográficas -o al menos la mayoría-consume los tres tipos de patrones, es decir el patrón global de consumo de un individuo que hace parte de la población, se ha descompuesto en tres complementarios. Por lo tanto, las desigualdades establecidas hacen referencia a la adherencia o al conjunto de alimentos que predominan en el consumo de un territorio representado en puntajes de adherencia. Como se ha reportado en otros países la adherencia al patrón de consumo fruta-verdura/lácteos es la que con mayor probabilidad presenta desigualdades30,31.
+
+A medida que disminuyen los ingresos, o que aumenta la pobreza -en este caso la monetaria- se consumen menos proteínas y alimentos ricos en fibra, que necesitan de cadenas de frio e infraestructura para su conservación31. Lo interesante y novedoso aquí, es que dado los resultados de estudios previos para la población colombiana, donde de un lado se concluye que se consumen proteínas excesivas incluso en los estratos más bajos32 y de otro, que el patrón fruta-verdura/lácteos está asociado al desarrollo de exceso de peso en niños y adultos4,5 -fundamentalmente por el exceso de consumo de proteínas- la desigualdad se interpretaría en contravía de los discursos clásicos, lo injusto aquí ocurriría en los menores niveles de pobreza, que es donde ocurre la mayor adherencia al patrón fruta-verdura/lácteos. En términos simples, una política redistributiva en este tipo de consumo apuntaría a propiciar en términos poblacionales, menor ingesta de proteínas en los niveles más altos de la riqueza o con menor pobreza monetaria.
+
+La conservación o el retorno a los patrones tradicionales -aumentado la adherencia al mismo- ha sido entendida como un mecanismo protector, no sólo de las economías de los hogares menos favorecidos y los rurales, sino también de la soberanía y cultura alimentaria de los pueblos30,33. Hay evidencia de que la pérdida de adherencia a los patrones tradicionales o incluso la desaparición de los mismos, absorbidos por el denominado patrón occidental, propicia la aparición de eventos mediadores de enfermedad crónica y cáncer como la obesidad y el síndrome metabólico y además, pérdida de la soberanía y cultura alimentaria3,4,5,6,8,30,31,32,33. La pérdida de adherencia al patrón tradicional/almidón, disminuye los ingresos en los hogares, tanto urbanos como rurales al propiciar mayor gasto en la canasta alimentaria, ocasionando que el aumento en el precio de los alimentos se comporte de manera regresiva33.
+
+Analizados los resultados en conjunto, el patrón snack es el que menos desigualdad presenta y la evidencia para Colombia, en contravía de lo que ocurre en sociedades desarrolladas, muestra que éste aún no está asociado a los mediadores de enfermedad crónica, ni del exceso de peso4,5. El tema de las desigualdades en los patrones de consumo no puede apartarse de los fenómenos que en países en vía de desarrollo son ocasionados por las dinámicas económicas15,19,20,21,34. Como se ha afirmado en otras investigaciones, este tipo de análisis, derivados de encuestas nacionales permiten arrojar luz sobre un orden de realidad que suele ocultarse sistemáticamente por parte de quienes diseñan las políticas económicas: mayores tasas de crecimiento económico suelen traducirse en mayores desigualdades en salud, aquí particularmente en la dieta35,36.
+
+Alcances y limitaciones del estudio
+
+Todos los estudios ecológicos presentan limitaciones, la principal es que al incorporar datos medios de las unidades geo demográficas de Colombia, no es posible hacer inferencia a grupos específicos al interior de ellas, otra limitación es que los valores alcanzados en las variables utilizadas en los cálculos pueden ser expresiones de otras variables determinantes no incluidas en el estudio. Sin embargo, los estudios ecológicos como este, incorporan gradientes complejos del desarrollo de las unidades geodemográficas resumiendo este nivel diferencial de desarrollo en pocas variables, por ejemplo: La pobreza monetaria, el estado de nutrición, el patrón alimentario, etc., lo que otorga a las variables estudiadas mayor poder discriminante entre ellas37. El estudio de las desigualdades en el consumo dietario es complejo y se debe seguir profundizando en él. El hecho de que no existan desigualdades no garantiza una adecuada dieta, la búsqueda o incluso el logro de equidad cuando existen desigualdades en el consumo tampoco es sinónimo de justicia. La información complementaria derivada de estudios clásicos del consumo y de otras aproximaciones socioeconómicas sigue siendo necesarias.
+
+Agradecimientos
+
+Al Instituto Colombiano de Bienestar Familiar por facilitarnos las bases de datos.
+
+BIBLIOGRAFIA
+
+BIBLIOGRAFIA
+
+1. Profamilia, Instituto Nacional de Salud, Universidad de Antioquia, OPS, Instituto Colombiano de Bienestar Familiar. National Survey of the Nutritional Situation of Colombia, 2005. Ensin 2006; 465.
+
+			
+
+			[ Links ] 
+
+2. Instituto Colombiano de Bienestar Familiar, Ministerio de la Protección Social. Encuesta Nacional de la Situación Nutricional en Colombia 2010.
+
+			
+
+			[ Links ] 
+
+3. Kasper NM, Herrán OF, Villamor E. Obesity prevalence in Colombian adults is increasing fastest in lower socio-economic status groups and urban residents: results from two nationally representative surveys. Public Health Nutr 2014; 17(11): 1-9.
+
+			
+
+			[ Links ] 
+
+4. Ocampo T PR, Prada G GE, Herrán F OF. Patterns of food consumption and excess weight of children; survey of the nutritional situation in Colombia, 2010. Rev Chil Nutr 2014; 41(4): 351-359.
+
+			
+
+			[ Links ] 
+
+5. Herrán OF, Patiño GA, Del Castillo SE. The food transition and excess weight in adults evaluated based on the Survey of the Nutritional Situation in Colombia, 2010. Biomédica 2016; 36(1): 109-120.
+
+			
+
+			[ Links ] 
+
+6. Popkin BM, Adair LS, Ng SW. Global nutrition transition and the pandemic of obesity in developing countries. Nutr Rev 2012; 70(1): 3-21.
+
+			
+
+			[ Links ] 
+
+7. Lim H, Kim SY, Wang Y, Lee SJ, Oh K, Sohn CY, et al. Preservation of a traditional Korean dietary pattern and emergence of a fruit and dairy dietary pattern among adults in South Korea: secular transitions in dietary patterns of a prospective study from 1998 to 2010. Nutr Res 2014; 34(9): 760-770.
+
+			
+
+			[ Links ] 
+
+8. Esmaillzadeh A, Kimiagar M, Mehrabi Y, Azadbakht L, Hu FB, Willett WC. Dietary patterns and markers of systemic inflammation among Iranian women. J Nutr 2007; 137(4): 992-998.
+
+			
+
+			[ Links ] 
+
+9. Arcaya MC, Arcaya AL, Subramanian S V. Inequalities in health: definitions, concepts and theories. Rev Panam Salud Publica 2015; 388(4): 261-271.
+
+			
+
+			[ Links ] 
+
+10. Byanyima W. Gobernar para las élites. Oxfam México. OXFAM. 2014.
+
+			
+
+			[ Links ] 
+
+11. Black D, Whitehead M. Inequalities in health: the Black Report, edited by Peter Townsend and Nick Davidson: the Health Divide. Penguin Social Sciences; 1988.
+
+			
+
+			[ Links ] 
+
+12. Whitehead M, Dahlgren G. Concepts and principles of the fight against the social inequalities in health: Developing the maximum potential of health Concepts and principles of the fight against the social inequalities in health: Developing the maximum potential of health. Europe 2010; 1-35.
+
+			
+
+			[ Links ] 
+
+13. De Castro J. Geopolitics of Hunger. Buenos Aires, Argentina: Solar Editions 1970; 309.
+
+			
+
+			[ Links ] 
+
+14. Berg A, Muscat RJ. The nutrition factor; its role in national development. Brookings Institution 1973; 290.
+
+			
+
+			[ Links ] 
+
+15. Herrán OF, Patiño GA, DelCastillo SE. Inequality and nutrition: Survey of the Nutritional Situation in Colombia, 2010. Rev Bras Saude Mater Infan 2015; 15(4): 401-12.
+
+			
+
+			[ Links ] 
+
+16. Programa de las Naciones Unidas para el Desarrollo (PNUD). Human Development Report, 2103. New York: PNUD 2013; 216.
+
+			
+
+			[ Links ] 
+
+17. Departamento Administrativo Nacional de Estadística (DANE). Monetary poverty and inequality (Summary). Bogotá, D.C.; 2015.
+
+			
+
+			[ Links ] 
+
+18. World Health Organization (WHO). OMS World Health Report 2013 - Research for universal health coverage. WHO. Geneva, Switzerland: World Health Organization 2013.
+
+			
+
+			[ Links ] 
+
+19. Sen A. Why equity in health? Rev Panam Salud Publica 2002; 11(5-6): 302-309.
+
+			
+
+			[ Links ] 
+
+20. Guardiola J, Gónzález-Gómez FThe influence of inequality on undernutrition in Latin America: a perspective from the economy. Nutr Hosp 2010; 25(S3): 38-43.
+
+			
+
+			[ Links ] 
+
+21. Departamento Administrativo Nacional de Estadística (DANE). Poverty and Inequality 2011. DANE. 2011.
+
+			
+
+			[ Links ] 
+
+22. Willett W. Nutritional epidemiology. Third. New York: Oxford University Press 2013; 529.
+
+			
+
+			[ Links ] 
+
+23. Margetts BM, Nelson M. editors. Design Concepts in Nutritional Epidemiology | Edited by Barrie M. Margetts and Michael Nelson. Second Edition. Oxford: Oxford University Press 1997; 472.
+
+			
+
+			[ Links ] 
+
+24. Ardila MF, Herrán OF. Development of an instrument to evaluate diet in Colombian children and adolescents. Rev Bras Saude Mater Infan 2012; 12(4): 365-374.
+
+			
+
+			[ Links ] 
+
+25. Herrán OF, Ardila MF, Rojas MP, Hernández GA, Hernández GA. Design of consumption frequency questionnaires to study the diet-cancer relationship in Colombia. Biomédica 2010; 30(1): 116-125.
+
+			
+
+			[ Links ] 
+
+26. Hamilton LC. Amazon.com: Regression with Graphics: A Second Course in Applied Statistics. Second Edition. California: Duxbury Press 1991; 363.
+
+			
+
+			[ Links ] 
+
+27. Consellería de Sanidade, Xunta de Galicia, España; Organización Panamericana de la Salud (OPS-OMS); Universidad CES C. Epidat: programa para análisis epidemiológico de datos. 2016.
+
+			
+
+			[ Links ] 
+
+28. StataCorp. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP. 2015.
+
+			
+
+			[ Links ] 
+
+29. Mancero X. Review of some indicators to measure inequality. In: Sixth Regional Workshop on Indicators on Social Development - LC/R2046 - 2000. Buenos Aires: CEPAL 2000: 375-386.
+
+			
+
+			[ Links ] 
+
+30. Lozada AL, Flores M, Rodríguez S, Barquera S. Dietary patterns in Mexican adolescents. A comparison of two methods. National Nutrition Survey,1999. Salud Pública de Méx 2007; 49(4): 263-273.
+
+			
+
+			[ Links ] 
+
+31. Moreno-Altamirano L, Hernández-Montoya D, Silberman M, Capraro S, García-García JJ, Soto-Estrada G, et al. The food transition and the double burden of malnutrition: changes in food patterns from 1961 to 2009 in the Mexican socioeconomic context. ALAN 2014; 64(4): 231-240.
+
+			
+
+			[ Links ] 
+
+32. Herrán OF, Patiño GA, Del Castillo SE. Excess protein and poverty: The paradox of excess weight in Colombian children. Rev Chil Nutr 2017; 44(1): 45-56.
+
+			
+
+			[ Links ] 
+
+33. Stedile JP, Carvalho Horacio M. Food sovereignty: A need of the people. BRASIL SEM FOME 2011; 2-23.
+
+			
+
+			[ Links ] 
+
+34. Sen A, Rabasco E, Toharia L. Development and freedom. Barcelona: Planeta 2000; 440.
+
+			
+
+			[ Links ] 
+
+35. Uribe JD. Evolution of the inflationary situation and monetary policy decisions. Bogotá, Colombia 2015.
+
+			
+
+			[ Links ] 
+
+36. Fitoussi J-P, Rosanvallon P. The new era of inequalities. Buenos Aires, Argentina: Manantial 1997; 238.
+
+			
+
+			[ Links ] 
+
+37. Mújica OJ. Four axiological issues of social epidemiology for the monitoring of health inequality. Rev Panam Salud Publica 2015; 38(6): 433-441.
+
+			
+
+			[ Links ] 
+
+Recibido:
+
+				16 de Febrero de 2018; Aprobado:
+
+				04 de Julio de 2018
+
+Dirigir Correspondencia a: Oscar Herrán. Escuela de Nutrición y Dietética. Carrera 32 No. 29-31. Universidad Industrial de Santander. Bucaramanga, Santander, Colombia; Sur América. Teléfonos: +57-7 6345781 / +57 7 6323215; E-mail: herran@uis.edu.co; oscar.herran@gmail.com

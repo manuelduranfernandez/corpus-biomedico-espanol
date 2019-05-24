@@ -1,0 +1,168 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182017000100009
+Desarrollo y validación de ecuaciones para estimar composición corporal en niños de 4 a 6 años de Uruguay
+
+RESUMEN
+
+Un correcto diagnóstico de obesidad requiere estimar la composición corporal pues ésta se vincula al exceso de grasa, siendo necesario disponer de métodos prácticos y sensibles para su medición. El objetivo fue desarrollar y validar ecuaciones antropométricas y de bio-impedancia para estimar masa grasa (MG) y masa libre de grasa (MLG). Se realizaron mediciones antropométricas, de bio-impedancia y se aplicó la técnica de dilución con óxido de deuterio como patrón oro a 191 preescolares. Se desarrollaron dos ecuaciones utilizando modelos de regresión múltiple y se validaron en una submuestra. Se aplicó Bland-Altman para evaluar el sesgo entre las diferencias de las medias de ambos métodos. Las ecuaciones diseñadas fueron: MLG (kg)= 2,089 + (0,346* Talla2/Resistencia) + (0,312* Peso) + (0,660* Sexo); con R2= 0,92; SRMSE 0,67kg; sesgo 0,140 kg y precisión 0,73 kg; y MG (kg)= 0,841 + (0,408* Peso) + (0,137* Pliegue Subescapular) + (0,104* Pliegue Tricipital) - (0,764* Sexo) - (0,054* Talla) con R2= 0,89; SRMSE 0. 68.kg, sesgo -0,01 kg y precisión 0,76 kg. Las ecuaciones validadas tienen adecuada capacidad predictiva. Pueden ser especialmente útiles en estudios epidemiológicos.
+
+Palabras claves: Composición corporal, obesidad infantil, antropometría, bio-impedancia, ecuaciones de predicción.
+
+ 
+
+INTRODUCCIÓN
+
+La Organización Mundial de la Salud (OMS) considera la obesidad infantil como una enfermedad crónica, pues se perpetúa en el tiempo y suele acompañarse de trastornos metabólicos que determinan a futuro un mayor riesgo de diabetes tipo 2, hipertensión arterial, aterosclerosis y muerte prematura. En Uruguay el 30% del total de las muertes corresponden a enfermedades cardiovasculares (1).
+
+La prevalencia de obesidad en la niñez se encuentra en un franco aumento con un comportamiento globalizado que involucra tanto a países desarrollados como aquellos en vía de desarrollo (2). Los estudios más recientes realizados en Uruguay ponen de manifiesto la elevada proporción de sobrepeso (23%) y de obesidad (10%) en niños menores de 5 años, constituyendo un grave problema de salud pública (3). Para el diagnóstico de la obesidad infantil el principal indicador utilizado hasta el momento, en la práctica clínica y epidemiológica, es el índice de masa corporal para la edad (IMC/E). Además de la simplicidad de su cálculo, permite detectar los cambios que ocurren con el transcurso de la edad (tracking) (4) y es un indicador que puede ser empleado hasta los 19 años con los estándares de referencia de la OMS (5). Sin embargo, la obesidad se vincula más con un exceso de tejido adiposo que con un peso corporal aumentado (6), por lo que es necesario complementar el diagnóstico con otros indicadores que midan con precisión la masa grasa además del IMC/E.
+
+La dilución isotópica con óxido de deuterio (D2O) es uno de los estándares de oro para evaluar la composición corporal (7), es una técnica que al medir el agua corporal total permite derivar la estimación de la masa libre de grasa (MLG) y la masa grasa (MG) teniendo en cuenta un modelo de composición corporal de dos compartimentos. La grasa corporal total (GCT) evaluada indirectamente con dilución isotópica, tiene una excelente concordancia con la grasa corporal total medida con el estándar de evaluación de composición corporal de cuatro compartimentos (8, 9).
+
+Diversos estudios en la literatura describieron ecuaciones predictivas de la composición corporal basadas en medidas antropométricas y de impedancia bioeléctrica (BIE) validadas a partir del método de dilución con óxido de deuterio (1012). No obstante, existe consenso de que estas ecuaciones son apropiadas para usar en sujetos que concuerden más estrechamente con la población de referencia utilizada originalmente para desarrollar las ecuaciones (13). Por tal razón, el objetivo de este estudio fue desarrollar y validar ecuaciones de predicción para medir grasa corporal en niños uruguayos de 4-6 años a partir de medidas antropométricas y de impedancia bioeléctrica utilizando el método de dilución isotópica con óxido de deuterio como patrón de referencia.
+
+SUJETOS Y MÉTODOS
+
+Se trabajó con una muestra no probabilística de 200 niños entre los 4 y 6 años que asistían a seis Jardines de Infantes públicos de la ciudad de Montevideo, Uruguay; cuya población total era de 683 niños. Entre los criterios de exclusión se consideró la morbilidad por insuficiencia cardíaca o renal, trastornos gastrointestinales y metabólicos o haber recibido algún tipo de medicamento que pudiese interferir con el grado de hidratación y metabolismo.
+
+Al final del estudio, la muestra quedó reducida a 191 sujetos (96 varones y 95 niñas) habiendo existido una pérdida de 9 sujetos (7 niños con protocolo incompleto o alterado y 2 niños con valores inverosímiles de masa grasa respecto al IMC).
+
+El estudio fue aprobado por el Comité de Ética del Hospital de Clínicas - Facultad de Medicina, Universidad de la República. El consentimiento fue firmado por los padres o responsables de los niños previo a su participación en el estudio.
+
+Mediciones antropométricas
+
+Las mediciones antropométricas se realizaron de acuerdo a las técnicas estandarizadas por Frisancho (14) y la OMS (15). Todas las medidas fueron realizadas por los mismos antropometristas por triplicado evitando así el error inter observador, para luego ser promediadas. En el caso de los pliegues cutáneos, se aceptaron sólo aquellos valores con una diferencia menor a 1 mm intra observador; de lo contrario, se realizó otra medición, descartándose la más alejada del promedio. En la talla y las circunferencias se aceptaron sólo aquellos valores con una diferencia menor a 0,5 cm.
+
+El peso se midió utilizando una balanza electrónica portátil (Seca 899, Hamburgo, Alemania), de 200 kg de capacidad y una precisión de 100 g. La altura se midió utilizando un estadiómetro portátil (603 Harpenden, Reino Unido), escala de 810 a 2060 mm, con una precisión de 1 mm. Las circunferencias de brazo, cintura y pantorrilla se midieron con una cinta inextensible (Seca 201, Hamburgo, Alemania) con una precisión de 1 mm. Los pliegues cutáneos tricipital, (PT), sub-escapular (PS), suprailíaco (PSI), bicipital (PB) y la pantorrilla (PP) se tomaron del lado derecho del cuerpo, utilizando un calibrador tipo Lange (Beta Technology Inc, USA) con una precisión de 1 mm.
+
+Para la evaluación antropométrica del estado nutricional de los niños se utilizó el IMC para la edad y se expresó en puntaje z (z), utilizando el software ANTHRO PLUS (OMS v.1.0.2, 2007).
+
+Medición de la composición corporal
+
+El agua corporal total (ACT) se evaluó mediante la técnica de dilución con óxido de deuterio (D2O) (7). Para comenzar el estudio se requirió que los niños tuvieran un mínimo de 30 minutos de ayuno. Previo a la ingestión de la dosis de agua marcada con D2O; se recogió una muestra de saliva para determinar la concentración de deuterio (2H) basal en el cuerpo. Se administró una dosis de 1,5 g de óxido de deuterio por vía oral (99,9% 2H) seguido de 20 ml de agua corriente, para asegurar la ingestión completa de la dosis. Se tomó una muestra post-dosis de saliva luego de 3 horas, tiempo en que se completó el equilibrio del isótopo dentro de los fluidos corporales. Durante el tiempo de equilibrio, los niños realizaron actividades recreativas sedentarias dentro del aula. Las muestras de saliva se recogieron utilizando un hisopo de algodón y se conservaron en crioviales a -20 °C.
+
+El enriquecimiento de deuterio en las muestras de saliva se midió por espectrometría de masas de relación isotópica de flujo continuo (IRMS, Hydra, Europe Scientific, Crewe, UK) por triplicado, en el Laboratorio de Metabolismo Energético e Isótopos Estables del Instituto de Nutrición y Tecnología de los Alimentos (INTA), Universidad de Chile. Los resultados del análisis se expresaron en relación con los estándares de medición de la V-SMOW (Vienna Standard Mean Ocean Water) y SLAP (Standard Light Antartic Precipitation; International Atomic Energy Agency, Vienna, Austria) con una precisión de 0,3-0,4 ppm.
+
+El agua corporal total (ACT) se calculó de acuerdo con el principio de dilución que permite la determinación de un volumen desconocido (ACT) a partir de un volumen y concentración conocido del isótopo (D2O). Para evitar la sobreestimación de ACT, a partir de los valores de enriquecimiento de deuterio en las muestras se calculó el espacio de dilución de deuterio que es 4,1% más grande que el ACT debido al intercambio no acuoso de hidrógeno en el cuerpo (7, 16).
+
+Luego de determinarse el ACT (kg) se calculó la MLG (kg) dividiendo el ACT por los coeficientes de hidratación descritos por Fomon y cols. (17) y corregidos por Schoeller y cols. (18). Posteriormente por diferencia entre el peso corporal (kg) y la MLG (kg) se obtuvo la cantidad de MG expresada en kilogramos (17, 18).
+
+Análisis de impedancia bioeléctrica (BIE)
+
+El estudio de BIE se realizó mediante un equipo de impedancia bioeléctrica (Bodystat® QuadScan 4000) de acuerdo con el protocolo recomendado por el fabricante. El equipo se calibró al inicio de cada jornada de medición, debiendo reflejar lecturas de 496 a 503 ohm (Q) con aproximadamente un 0,5% de diferencia. El niño debió tener una preparación previa que incluyó: no haber realizado ejercicio físico intenso 12 horas antes, 4 horas de ayuno y 30 minutos luego de orinar. La resistencia se expresó en Q y el índice de impedancia en Q cm2/resistencia.
+
+Análisis estadístico
+
+Para el análisis estadístico y el diseño de las ecuaciones se utilizó el programa estadístico NCSS (2007-Kaysville, Utah, USA). Se verificaron los supuestos de normalidad para las variables cuantitativas continuas y se calcularon las medidas de tendencia central y de dispersión para cada una de las variables del total de sujetos en estudio según sexo. Se evaluó si existían diferencias significativas dentro de la muestra según sexo para cada una de las variables mediante el test T para un alfa de 0,05. Se construyeron intervalos de confianza (IC) al 95% para cada una de las variables y para determinar la diferencia de promedios con varianza homogénea se utilizó ANOVA.
+
+La muestra original de 191 niños se randomizó mediante el programa Excel y fue dividida en dos submuestras, una de 134 que se utilizó para desarrollar las ecuaciones y otra de 57 para validarlas. Se buscó construir dos ecuaciones, una basada en BIE y otra basado en antropometría. Se consideró para la ecuación de antropometría como variable dependiente la MG debido a que la mayoría de las medidas antropométricas se relacionan con ella. Las variables independientes que se incluyeron inicialmente para el desarrollo de la ecuación fueron: sexo (mujer= 0, hombre= 1), edad, peso corporal, talla, circunferencias de brazos, cintura y pantorrilla, y los pliegues cutáneos tricipital, subescapular, suprailíaco, bicipital y de pantorrilla. Para la ecuación de BIE se consideró como variable dependiente la MLG, ya que el aparato mide el ACT, que se relaciona con este compartimiento. Las variables independientes consideradas fueron: sexo (mujer= 0, hombre= 1), edad, talla, peso y resistencia a 50 kHz.
+
+Para seleccionar las variables que finalmente formaron parte de las ecuaciones se consideró el método "backword elimination": se incluyeron todas las variables predictoras posibles en el modelo y se fueron eliminando aquellas cuya permanencia no lo mejoraban estadísticamente. Se realizó el análisis de correlación por el método de los mínimos cuadrados. Esto requirió de las siguientes condiciones por parte de las variables seleccionadas: linealidad cuantificada mediante el coeficiente de correlación lineal de Pearson, homocedasticidad realizada mediante el test de contrastes de Levene y normalidad considerando que los residuales siguieran una distribución normal comprobada mediante el test de Shapiro Wilk (19). Una vez elegidas las variables que se usarían, se construyeron todas las ecuaciones posibles y se seleccionaron las que mejor cumplieron los criterios de ajuste desde lo estadístico: -menor cantidad de variables posibles - valor del índice C de Mallows (Cp) - mayor valor del coeficiente de determinación R2 y menor valor del error estándar del estimador (SRMSE). Se consideró además que no existiera colinealidad lo cual fue analizado por el diagnóstico de regresión utilizando el número de condición (condition number: CN< 30) y el factor de inflación de la varianza (variance inflation factor: VIF< 10).
+
+Se aplicó regresión lineal para conocer la exactitud y precisión de las ecuaciones diseñadas. Para ello se tuvo en cuenta si la correlación entre la masa libre de grasa o la masa grasa, medida mediante el método de referencia (dilución con óxido de deuterio) y las nuevas ecuaciones, tenían una pendiente significativamente distinta a 0 y un intercepto no significativamente distinto de 0. La precisión fue determinada por el R2 y el error estándar del estimador (SRMSE) de la regresión.
+
+Se utilizó el gráfico de Bland-Altman para evaluar el sesgo entre las diferencias del valor de la masa libre de grasa medida por la técnica de dilución con óxido de deuterio y la predicha por la ecuación de BIE y la masa grasa medida por la técnica de dilución con óxido de deuterio y la predicha por la ecuación de antropometría (20).
+
+Se utilizó test T con un alfa de 0,05 para comparar los resultados obtenidos al aplicar en los preescolares estudiados la ecuación antropométrica desarrollada en el presente estudio y la ecuación antropométrica publicada anteriormente en la región, con los obtenidos por el método de referencia.(10).
+
+RESULTADOS
+
+Las características antropométricas y de composición corporal de los 191 niños se presentan agrupadas por sexo en la tabla 1. No se encontraron diferencias significativas en la edad, peso, talla, IMC y puntaje z IMC. Los varones presentaron valores promedios significativamente mayores de agua corporal total (kg) y masa libre de grasa (kg) que las niñas, mientras que las niñas presentaron valores significativamente mayores en la masa grasa (kg y %) (p< 0,05).
+
+ 
+
+TABLA 1
+
+Características físicas y composición corporal de los 191 preescolares de la muestra.
+
+
+
+IMC para la edad z-score, IMC: Indice de masa corporal, MLG: Masa libre de grasa,          MG: Masa grasa, ACT: Agua corporal total.     PMG: Porcentaje de masa grasa. Los valores son el promedio ± DE, rangos en paréntesis.     *OMS estándares de crecimiento 2007; ** Las diferencias fueron analizadas con el t-test;          *** Valores medidos con la técnica de dilución con D2O.
+
+ 
+
+No presentaron diferencias significativas en sus valores medios las características antropométricas y de composición corporal de los niños entre la muestra randomizada utilizada para el desarrollo de las ecuaciones (n= 134) y la muestra para la validación cruzada (n= 57) (tabla 2).
+
+ 
+
+TABLA 2
+
+Características antropométricas, análisis de impedancia bioeléctrica y composición          corporal de los preescolares en las dos submuestras.
+
+
+
+Abreviaturas: IMC, Indice de masa corporal; ACT, Agua corporal total; MG, Masa grasa;          MLG, Masa libre de grasa. Los valores son el promedio ± DE.        *Las diferencias fueron analizadas con el t-test y con el test de chi2.        ** Valores medidos con la técnica de dilución con D2O.
+
+ 
+
+Las ecuaciones finales de predicción para MG y MLG se presentan en la tabla 3. Los mejores predictores individuales de MLG (kg) para la ecuación de BIE mediante un análisis parcial del R2 fueron el índice de impedancia y el peso que estimaron el 84% y 78% respectivamente; el sexo sólo estimó el 13%.
+
+ 
+
+TABLA 3
+
+Ecuación de impedancia bioeléctrica para MLG y ecuación antropométrica para MG.
+
+
+
+Abreviaturas: MLG, Masa libre de grasa; MG, Masa grasa; T2/R, Talla2/resistencia (cm2/O);          P, Peso (kg); S, (niña=0, niño=1) PS, pliegue subescapular; PT, pliegue tricipital;          R2, Coeficiente de determinación; SRMSE, Raíz cuadrada del error cuadrático medio;          VIF, factor de inflación de la varianza.
+
+ 
+
+En la ecuación antropométrica los mejores predictores individuales para estimar la MG (kg) fueron el peso, el pliegue subescapular y el pliegue tricipital, que estimaron el 67%, 59% y 55% respectivamente, mientras que la talla y el sexo sólo estimaron el 18% y 6%. En la ecuación de bio-impedancia el R2 fue de 0,92 con un SRMSE de 0,67 kilos. En la ecuación antropométrica el R2 fue de 0,89 con un SRMSE de 0,68 kilos. No se detectó multicolinealidad en ninguna de las dos ecuaciones; el factor de inflación de la varianza (VIF) fue para la ecuación de bio-impedancia 2,7 y para la ecuación antropométrica de 3,3 y el número de condición (CN) fue 12,3 y 25,8 respectivamente.
+
+La exactitud y precisión de las ecuaciones se evaluó en la submuestra de validación (n= 57) no encontrándose diferencias estadísticamente significativas en los valores estimados para la MLG y MG obtenidos por las ecuaciones desarrolladas y por la técnica de referencia, basado en un análisis de regresión simple. En la ecuación BIE el intercepto fue -1,23 (p= 0,08), la pendiente fue de 1,09 (p= 0,00), el R2 fue 0,92 y el SRMSE de 0,73 kg. En la ecuación antropométrica el intercepto fue 0,66 (p= 0,02), la pendiente fue de 0,86 (p= 0,00), el R2 0,84 y SRMSE 0.76 kg.
+
+Mediante el análisis de Bland-Altman no se encontró sesgo significativo en ninguna de las ecuaciones. La media del sesgo de la ecuación de bioimpedancia fue 0,14 kg (IC del 95% = -0,06; 0,34 kg) (figura 1) y la media del sesgo de la ecuación antropométrica fue -0.01 kg (IC del 95% = -0,20; 0,19 kg) (figura 2).
+
+ 
+
+FIGURA 1
+
+Diferencias entre la MLG medida mediante la técnica          de dilución      D2O y la estimada por la ecuación de BIE          desarrollada.
+
+
+
+ 
+
+FIGURA 2
+
+Diferencias entre la MG medida con la técnica de dilución          D2O y la estimada con la ecuación antropométrica desarrollada.
+
+
+
+ 
+
+Al aplicar la ecuación antropométrica chilena de MG (10) a todos los niños de la muestra (n=191), los valores obtenidos mostraron un valor promedio de MG de 3,66±1,19 Kg con un R2= 0,66 y un SRMSE= 1,14 kg, mientras que el valor promedio medido por la técnica de dilución D2O fue 5,04±1,95 Kg, siendo similar a los valores obtenidos con la ecuación antropométrica desarrollada en esta investigación con un R2= 0,87 y un SRMSE= 0,69 kg (tabla 4).
+
+ 
+
+TABLA 4
+
+Masa grasa y masa libre de grasa obtenidas mediante la técnica con D2O y estimadas          por las ecuaciones de predicción mediante antropometría y BIE (n=191).
+
+
+
+(*) t test D2O vs UY; (**)t test D2O vs Chile.(***)t test D2O vs BIE. R2, Coeficiente          de determinación; SRMSE, Raíz cuadrada del error cuadrático medio; Valores son el promedio ± DE.     Ecuación de Chile: (FM (Kg) = -1,524+ (0,371 x Wt) + (0,114 x + TST SST) - (0,238 x edad) +          (0,378 x sexo) - (0,105 x circunferencia de la pantorrilla).
+
+ 
+
+DISCUSIÓN
+
+Este estudio evaluó la composición corporal de niños uruguayos de 4-6 años. Se encontraron diferencias significativas por sexo en todas las variables de composición corporal medidas con la técnica de dilución con óxido de deuterio. Los varones tuvieron valores más altos para el ACT (kg) y la MLG (kg) que las niñas (p <0,05). Este hallazgo es explicado por los estudios de Fomon (17) que muestran que entre el nacimiento y los 5 años de edad la masa celular aumenta más en el sexo masculino que en el femenino. Por otro lado, las niñas presentaron valores más altos de masa grasa (kg) que los varones, resultados que también han reportado otros estudios (21-23).
+
+Es importante establecer que este es el primer estudio en Uruguay que desarrolló y validó ecuaciones de predicción para la composición corporal (MLG, MG) en preescolares basadas en antropometría y BIE con el fin de mejorar la evaluación nutricional. En América del Sur, sólo un estudio chileno desarrolló y validó ecuaciones de predicción de composición corporal en niños preescolares (10). Estos autores y otros investigadores (24-27), han concluido que las ecuaciones existentes presentan errores de predicción al ser aplicadas en grupos distintos al original. Los resultados de MG obtenidos en la muestra de preescolares al aplicar la ecuación diseñada en este estudio, fueron más precisos que los valores derivados de la ecuación antropométrica chilena, lo cual estaría justificando el diseño de ecuaciones para nuestra población. Otro aspecto a considerar es que la mayoría de los equipos de bio-impedancia disponibles no están programados con ecuaciones específicas para menores de seis años de edad.
+
+En este estudio para calcular la masa grasa se utilizó el modelo de dos compartimentos (2C) por ser preciso, económico y sencillo en comparación con el modelo de cuatro compartimentos (4C) (24, 28).
+
+Para la construcción de la ecuación basada en BIE la variable dependiente seleccionada fue la MLG (kg), ya que ha sido demostrada en varias poblaciones su relación estadísticamente significativa con las medidas de impedancia y no así con la MG (29). La variable predictiva que explicó mejor la variabilidad (84%) de la MLG fue el índice de impedancia (T2/R). Este hallazgo coincide con numerosos estudios en que la talla (T) y la resistencia (R) se han mostrado como las variables que presentan una mejor correlación estadística con la MLG, y por ello forman parte como variables predictoras de la mayoría de las ecuaciones publicadas en la literatura bien como términos independientes, o formando parte del índice de impedancia (30-35). Los valores de R2 (0,92) y de SRMSE (0,67 kg) se compararon favorablemente con los presentados en otros estudios que incluyeron participantes con características similares y que emplearon la misma técnica como patrón oro (R2= 0,83 a 0,96 y SRMSE= 1,39 a 2,4 Kg) (31, 33).
+
+Para la construcción de la ecuación basada en antropometría la variable dependiente seleccionada fue la MG (kg) puesto que se ha reportado una mejor correlación entre la MG (kg) y los pliegues cutáneos que con la MLG (21, 36). Por otra parte, se seleccionó la variable MG en valores absolutos (kg) ya que se demostró que la relación entre las medidas antropométricas simples y la estimación de grasa corporal por las técnicas de referencia son mejores cuando la grasa corporal se expresa en valores absolutos y no en porcentaje del peso corporal (21). Las variables independientes que mejor estimaron la variabilidad de la masa grasa fueron el P (66%), PS (59%) y PT (55%). Estas variables fueron también reportadas en varias ecuaciones desarrolladas previamente (10, 28, 37, 38). El valor de R2 fue de 0,89 y el SRMSE de 0,68 kg; estos resultados son mejores que los señalados en el estudio de Velázquez et al (10) el cual presentó un R2 de 0,72.
+
+En el desarrollo de estas ecuaciones, el sexo explicó el 13% de la variabilidad de la MLG y el 6% de la variabilidad de la MG. Esto puede ser explicado ya que en todas las edades se verifican diferencias en la cantidad de ACT y MG en función del sexo (17, 20). Entre las variables inicialmente evaluadas, la edad no resultó ser una variable predictora, si bien fue incluida en el método de todas las posibles regresiones. Esto es consistente con el estrecho rango de variabilidad en la edad de la población de estudio. (4-6 años).
+
+CONCLUSIÓN
+
+Las ecuaciones diseñadas en nuestro estudio son exactas y precisas y tienen una adecuada capacidad predictiva con relación a los valores reales obtenidos por el patrón oro y la ecuación antropométrica chilena de MG. Las ecuaciones para estimar la composición corporal en niños uruguayos de 4 a 6 años de edad se han validado en un amplio rango de IMC (13 a 23 kg/m2).
+
+Ambas ecuaciones tienen exactitud y precisión similares y pueden ser aplicadas dependiendo de la estandarización del recurso humano existente y/o de los instrumentos disponibles. Además, pueden proporcionar una alternativa útil en estudios epidemiológicos; sin embargo, su uso a nivel individual debe ser utilizado con precaución.
+
+Dado que la obesidad infantil es un problema de salud pública importante nuestras ecuaciones diseñadas pueden ser empleadas en estudios epidemiológicos, en combinación con el IMC/edad para mejorar el diagnóstico de obesidad y evaluar el impacto de las intervenciones para reducir la obesidad infantil.

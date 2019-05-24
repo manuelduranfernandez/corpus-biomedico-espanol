@@ -1,0 +1,222 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182015000300003
+Asociación entre obesidad y consumo de frutas y verduras: un estudio de base poblacional en Perú
+
+RESUMEN
+
+Objetivo: Evaluar si el consumo de frutas y verduras se encuentra asociado a sobrepeso y obesidad en adultos peruanos; así como realizar la caracterización del perfil socio-demográfico de las personas con sobrepeso y obesidad. Sujetos y métodos: Estudio poblacional, transversal analítico, que utilizó los datos de la Encuesta Nacional Demográfica y de Salud (ENDES) realizada en las 25 regiones del Perú. Las variables resultado de interés     fueron sobrepeso y obesidad evaluados usando el Índice de Masa Corporal, mientras que la exposición fue el consumo auto-reportado de frutas y verduras en los últimos siete días. Modelos de regresión de Poisson ajustados por potenciales confusores fueron utilizados para evaluar los factores asociados a sobrepeso y obesidad, así como la asociación de interés, reportándose razones de prevalencia (RP) e intervalos de confianza al 95% (IC95%). Resultados: Los datos de 4641 participantes, con media de edad de 37,1 años (DE: 11,8) y 53,6% fueron mujeres, fueron analizados. Sólo 220 (4,8%; IC95% 4,1%-5,4%) individuos reportaron consumir >5 porciones de frutas y verduras por día, mientras 1818 (39,2%; IC95% 37,8%-40,6%) tuvieron sobrepeso y 865 (18,6%, IC95% 17,5%-19,8%) presentaron obesidad. Los factores asociados a sobrepeso y obesidad fueron el género, la edad, el nivel de educación, el nivel socioeconómico, el estado civil y el diagnóstico de hipertensión arterial. No se encontró asociación entre un mayor consumo de frutas y verduras y sobrepeso (p=0.98) u obesidad (p=0.99). Conclusiones: No encontramos evidencia de asociación entre el sobrepeso y la obesidad con el consumo de frutas y verduras. Solo 1 de cada 20 individuos consumían la cantidad de frutas y verduras recomendada por día, mientras que 60% presentaban sobrepeso y obesidad.
+
+Palabras clave: Sobrepeso; obesidad; frutas; verduras; prevalencia.
+
+ 
+
+INTRODUCCIÓN
+
+A nivel mundial, la obesidad ha alcanzado proporciones casi epidémicas. Según la Organización Mundial de la Salud (OMS), casi dos mil millones de adultos tienen sobrepeso, y más de 600 millones son obesos, constituyéndose en un problema de salud pública que no ha sido adecuadamente reconocido y enfrentado (1). En Perú, se estima que uno de cada tres adultos jóvenes tiene sobrepeso u obesidad, mientras que uno de cada dos adultos tienen sobrepeso u obesidad (2, 3).
+
+Existen determinantes sociales que podrían influenciar el desarrollo del sobrepeso y obesidad, como son el sexo, la educación, el status socioeconómico, el lugar de residencia, entre otros (3, 4). Al respecto, la educación está asociada inversamente al sobrepeso y la obesidad y, por el contrario, la riqueza está directamente asociada. Asimismo, el sobrepeso es mayor en los varones que en las mujeres a edades tempranas, mientras que la obesidad es más frecuente en mujeres, y es mayor en la zona urbana (5, 6).
+
+La OMS propone que las personas que presentan sobrepeso y obesidad limiten la ingesta energética procedente de la cantidad de grasa total y de azúcares refinadas (7), y aumenten el consumo de frutas y verduras a cinco porciones al día (8). Las frutas y verduras son importantes ya que proveen al cuerpo de micronutrientes esenciales (9, 10), además de fibra para el adecuado funcionamiento del tracto gastrointestinal (11) y son de bajo contenido calórico (12). Inclusive, un aumento en el consumo de frutas y verduras, sin necesidad de reducir el consumo de otros alimentos puede resultar en una reducción del peso corporal (13). Sin embargo, se ha descrito también que el consumo de frutas podría contribuir al aumento de peso al poseer carbohidratos complejos (14, 15).
+
+El objetivo del presente estudio fue evaluar si un mayor consumo de frutas y verduras se asocia a una menor prevalencia de sobrepeso y obesidad en adultos peruanos. Además, se estimó la prevalencia de sobrepeso y obesidad en la población de estudio, así como los potenciales factores socio-demográficos asociados a sobrepeso y obesidad.
+
+SUJETOS Y MÉTODOS 
+
+Diseño y lugar de estudio
+
+El presente es un análisis secundario de datos provenientes de un estudio de base poblacional. Los datos provienen de la Encuesta Nacional Demográfica y de Salud (ENDES) realizada en las 25 regiones del Perú entre marzo y diciembre del 2013 (16). La ENDES constituye una de las investigaciones estadísticas que, de manera continua, ejecuta el Instituto Nacional de Estadística e Informática (INEI) en el Perú para brindar información sobre la dinámica demográfica y el estado de salud de la población peruana residente en el territorio nacional. La ENDES se ejecuta en el país desde el año 1986 bajo el modelo MEASURE-DHS (Demographic Health Survey).
+
+Población de estudio
+
+El estudio incluyó a varones y mujeres, residentes habituales de todas las regiones del Perú, que tenían edad entre 18 y 60 años. Se excluyeron mujeres embarazadas, así como aquellos que no tenían datos de peso y talla completos y personas con índice de masa corporal (IMC) menor a 18,5 kg/m2 dado el limitado número de estas (n = 42). Solo una muestra aleatoria de 6535 participantes de la ENDES 2013 respondió el cuestionario de salud usado para el presente análisis.
+
+Definición de variables
+
+Las variables resultado de interés fueron sobrepeso y obesidad definido de acuerdo al IMC y a los puntos de corte tradicionales: sobrepeso (>25 kg/m2 y < 30 kg/m2) y obesidad (>30 kg/m2) (1).
+
+La variable exposición de interés fue el consumo autoreportado de frutas y verduras, definido de acuerdo a las preguntas del método STEPwise de la OMS para la vigilancia de factores de riesgo de enfermedades crónicas (17) que evalúa la ingesta en los últimos 7 días previos al estudio. La variable fue luego categorizada de acuerdo a dos definiciones: (1) consumo de frutas y verduras ≥5 porciones por día de acuerdo a la cantidad de consumo recomendado por la OMS (8), y (2) dividido en terciles (bajo, medio y alto consumo) para el análisis de asociación propuesto.
+
+Otras variables incluidas en el estudio fueron el género (varón y mujer); la edad en años, dividida en tres categorías (18 -29, 30-44, y 45-60 años); nivel de educación en años (<7, 7-11, y ≥12 años); nivel socioeconómico, evaluado de acuerdo al índice de bienestar basado en las posesiones disponibles en la vivienda y posteriormente dividido en terciles; estado civil (casado, previamente casado y nunca antes casado); consumo diario de tabaco (si y no); y consumo de alcohol basado en el auto-reporte de consumo ≥12 veces en el último año. Asimismo, otras variables de antecedentes personales de salud fueron incluidas como diagnóstico de hipertensión de acuerdo a guías internacionales: presión arterial sistólica ≥140 o presión arterial diastólica ≥90, o auto- reporte de diagnóstico médico, o consumo de medicamentos anti-hipertensivos (18) y se tomó en cuenta el diagnóstico previo de diabetes mellitus, realizado sólo por auto-reporte.
+
+Procedimientos
+
+Los trabajadores de campo fueron personal de salud entrenados previamente a la realización del estudio. Los cuestionarios fueron realizados por trabajadoras de campo, mientras que las medidas corporales, especialmente la talla, el peso y la presión arterial, obtenida en duplicado, fueron realizadas por un antropometrista. Todas las medidas fueron obtenidas directamente de la persona seleccionada usando procedimientos estandarizados de acuerdo al Manual del Entrevistador (16).
+
+Tamaño de muestra
+
+El tamaño de muestra fue calculado usando el software Power and Sample Size (PASS 2008, NCCS, Utah, US). Asumiendo un nivel de significancia de 5% y un poder de 80%, se requieren un total de 2534 participantes para detectar con un total de 3851 participantes se puede detectar un cambio en la proporción de obesidad de 29% a 20%, es decir una fuerza de asociación de 0.63 o menor (efecto protector del consumo de frutas y verduras). Adicionalmente, considerando un efecto de diseño de 1.5, el tamaño muestra final requerido era de 3801 individuos.
+
+Análisis estadístico
+
+Para el análisis de los     datos se utilizó el programa STATA 13     para Windows (STATA Corp, College Station, TX, USA). Inicialmente     se evaluó las características de la población de estudio     de acuerdo al consumo de frutas y verduras (en terciles) así como     a sobrepeso y obesidad, usando proporciones y la prueba Chi cuadrado para     las comparaciones. Luego se calculó la prevalencia de sobrepeso y     obesidad, así como la del consumo recomendado de frutas y verduras     con sus respectivos intervalos de confianza al 95% (IC95%). Los factores     independientemente asociados a sobrepeso y obesidad fueron determinados usando     modelos de regresión de Poisson, y se reportaron razones de prevalencia     (RP) y los respectivos IC95%. Finalmente, el modelo de regresión de     Poisson fue también usado para evaluar la asociación de interés     entre consumo de frutas y verduras y sobrepeso y obesidad.
+
+Ética
+
+Este estudio fue aprobado por     el Comité de Ética en Investigación de la Universidad Peruana     de Ciencias Aplicadas (UPC), Lima, Perú. Los datos que se usaron fueron     de-identificados para garantizar el anonimato y confidencialidad de los     participantes.
+
+RESULTADOS
+
+De un total de 6535 participantes seleccionados al azar de la ENDES 2013 para el desarrollo del cuestionario de salud, 1806 personas fueron excluidas por ser <18 o >60 años de edad, 46 por no presentar datos de talla o peso, y 42 personas por presentar un IMC < 18.5 kg/m2. Sólo los datos de 4641 participantes 2489 (53,6%) mujeres, y media de edad de 37,1 (DE: 11,8) fueron analizados. Sólo 220 (4,8%; IC95% 4,1%-5,4%) individuos reportaron consumir ≥5 porciones de frutas y verduras por día de acuerdo a la recomendación de la OMS. La caracterización de la población de estudio de acuerdo al consumo de frutas y verduras se muestra en la tabla 1. Tanto el género (p<0,001), como la edad (p=0,02), el nivel de educación (p<0,001) y el nivel socioeconómico (p<0,001) se asociaron al consumo de frutas y verduras.
+
+ 
+
+TABLA 1
+
+Características de la     población de estudio de acuerdo al consumo de frutas y verduras
+
+
+
+Los resultados pueden no sumar     debido a valores faltantes.     * Los valores de p fueron calculados en base a la prueba de Chi cuadrado.
+
+ 
+
+Prevalencia de sobrepeso y obesidad y factores asociados 
+
+Un total de 1818 (39,2%; IC95%     37,8% - 40,6%) participantes tuvieron sobrepeso, mientras que 865 (18,6%, IC95% 17,5% - 19,8%) presentaron obesidad. El perfil socio-demográfico de acuerdo a sobrepeso y obesidad se muestra en la tabla 2.
+
+ 
+
+TABLA 2
+
+Características de la     población de estudio de acuerdo a sobrepeso y obesidad
+
+
+
+Los resultados pueden no sumar     debido a valores faltantes.        * Los valores de p fueron calculados en base a la prueba de Chi cuadrado.
+
+ 
+
+En el modelo multivariado, ser mujer (p<0,001), tener mayor edad (p<0,001), tener un mayor nivel de educación (p<0,05), ser de un mayor nivel socioeconómico (p<0,001), y tener el antecedente de hipertensión (p<0,001) incrementaron la probabilidad de tener sobrepeso, mientras que ser soltero redujo esa posibilidad (p<0,001). De otro lado, ser mujer (p<0,001), tener mayor edad (p<0,001), ser de un mayor nivel socioeconómico (p<0,001) y tener el antecedente de hipertensión (p<0,001) estuvieron positivamente asociados a obesidad en el modelo multivariado. Ser soltero o haber estado casado previamente estuvo asociado a una menor prevalencia de obesidad (p<0,001), (tabla 3).
+
+ 
+
+TABLA 3
+
+Asociación entre sobrepeso     y obesidad y características de la población de estudio:        modelos bivariado y multivariado
+
+
+
+Estimados en negritas son significativos     (p<0.05)        * Modelos ajustados por las variables listadas
+
+ 
+
+Asociación entre consumo de frutas y verduras y sobrepeso/obesidad
+
+No se encontró asociación entre un mayor consumo de frutas y verduras y sobrepeso (p = 0,98) u obesidad (p = 0,99) después de controlar por diversos confusores, (tabla 4).
+
+ 
+
+TABLA 4
+
+Asociación entre sobrepeso     y obesidad y el consumo de frutas y verduras: modelos crudos        y ajustados
+
+
+
+Estimados en negrita son significativos     (p<0.05)     *Ajustado por género, edad, nivel   de educación, nivel socioeconómico y estado civil.     **Ajustado por género, edad, nivel   de educación, nivel socioeconómico, estado civil, tabaco,       alcohol, diagnóstico de diabetes y diagnóstico de hipertensión.
+
+ 
+
+DISCUSIÓN
+
+Hallazgos principales
+
+Los resultados indican que no existe evidencia de asociación entre sobrepeso y obesidad y el consumo de frutas y verduras. De otro lado, diferentes características sociodemográficas estuvieron independientemente asociadas a sobrepeso y obesidad, como el género, la edad, el nivel de educación, el nivel socioeconómico, el estado civil, y el diagnóstico de hipertensión arterial. Finalmente, aproximadamente 1 de cada 20 participantes reportaron ingerir las cantidades recomendadas de frutas y verduras, mientras que casi dos de cada tres sujetos tenían sobrepeso u obesidad.
+
+Asociación entre el consumo de frutas y verduras y el sobrepeso y obesidad
+
+Los resultados no muestran evidencia     de asociación entre el consumo de frutas y verduras y sobrepeso y     obesidad después de controlar por potenciales confusores. Estos hallazgos,     unidos a otros trabajos previos, sugieren que el efecto de la ingesta de     frutas y verduras sobre el exceso de peso podría ser muy pequeño.     Por ejemplo, dos revisiones sistemáticas han     reportado que el consumo de frutas y verduras no tiene efecto en la pérdida     de peso (13, 19). Una de estas revisiones incluyó ocho ensayos clínicos     aleatorizados, reportando que, en promedio, la media de cambio de peso fue     0,68 kg menos en el grupo que comía mayores niveles de frutas y verduras     comparado con los que consumían menos en un tiempo que variaba entre     4 y 52 semanas (13). Similarmente, un estudio de cohorte poblacional australiano     con más de 200000 personas enroladas reportó que no existe     una clara asociación entre el consumo de frutas y verduras y el peso     tanto en varones como mujeres (6). De otro lado, un estudio poblacional en     Estados Unidos, realizado con más de 400000 sujetos, encontró una     relación inversa entre el consumo de frutas y verduras y sobrepeso     y obesidad después de controlar por potenciales confusores (20). Así,     la evidencia no es definitiva en este punto y por lo tanto otros estudios     son necesarios para determinar si las frutas y verduras podrían tener     algún impacto en el peso de los individuos.
+
+Factores asociados a sobrepeso y obesidad
+
+En este estudio se encontró que las mujeres tenían más probabilidades de tener sobrepeso u obesidad que los varones. Esto concuerda con reportes previos realizados en nuestro contexto (4, 5), pero también por reportes internacionales en donde se muestra que existen más mujeres con sobrepeso y obesidad en el mundo que los hombres (1). Según un estudio previo (21), las mujeres, sin importar la raza o el nivel socioeconómico, presentaron siempre mayor sobrepeso y obesidad que los hombres. Por otro lado, la edad estuvo también independientemente asociada con sobrepeso y obesidad como parte del efecto acumulativo de grasa a través de los años (22).
+
+El nivel socioeconómico     también afectó al sobrepeso y la obesidad, en este estudio     a medida que el nivel socioeconómico aumenta, también las probabilidades     de tener sobrepeso y obesidad, similar a otros estudios previos (3). Como     parte de la transición nutricional, mayores ingresos per-cápita     se asocian a un incremento de las prevalencias de sobrepeso y obesidad     (23). De otro lado, el nivel de educación también se encontró relacionado     a sobrepeso y obesidad; sin embargo, esta asociación no existió para     el caso de obesidad cuando el nivel educativo fue de 12 años a más.     En ese sentido, parece ser que diferentes marcadores socioeconómicos,     como el ingreso o el nivel de educación, pueden capturar diferentes     aspectos del proceso de transición nutricional.
+
+Nuestros hallazgos también sugieren que el estado civil redujo la prevalencia de sobrepeso, pero especialmente obesidad entre los que nunca estuvieron casados o aquellos previamente casados. Finalmente, el diagnóstico de hipertensión estuvo asociado a sobrepeso y obesidad, lo que podría explicarse por causalidad reversa, ya que el exceso de peso corporal aumenta el riesgo cardiovascular (24).
+
+Otros resultados relevantes
+
+En este estudio, casi dos tercios de la población (58%) presentaban exceso de peso (sobrepeso u obesidad). Estudios previos en nuestro contexto muestran que la prevalencia de sobrepeso y obesidad va en aumento (25). Más adelante, otro estudio que se llevó a cabo entre el 2009 y el 2010 que incluyó a 69526 individuos, demostró que, la prevalencia de sobrepeso se incrementa a partir de los 20 años, afectando a uno de cada tres adultos jóvenes, dos de cada cinco adultos, y uno de cada cinco adultos mayores (5). Estos cambios son parte del proceso de transición nutricional visto en los países en desarrollo (23).
+
+Se encontró que sólo 5% de los individuos evaluados consumían la cantidad de frutas y verduras recomendadas por la OMS, equivalente a 5 o más porciones (400 gramos) de frutas y verduras (26). En el Reino Unido, un estudio del año 2010 - 2011 reportó que los adultos consumían 4,1 porciones por día, y solo 31% llegaban al consumo recomendado de frutas y verduras (27, 28). Similarmente, en los Estados Unidos de América, un estudio realizado en el año 2012, en Los Ángeles, a adultos de bajos ingresos demostró que el promedio de consumo de frutas y verduras consumidas al día fue de 3,8 porciones y 77% consumía menos de 5 porciones al día (29), mientras que de acuerdo al Behavior Risk Factors Surveillance System (2007) que se hace anualmente en los Estados Unidos, demostró que 24,6% de los adultos consumen la cantidad recomendada de frutas y verduras (20).
+
+Los estudios en países en desarrollo, sin embargo, son escasos. Un estudio previo involucrando datos de 52 países en desarrollo encontró que aproximadamente 75% de las personas consumían menos de la cantidad recomendada de frutas y verduras (30). Aunque un mayor consumo de frutas y verduras ha sido asociado a un menor riesgo de enfermedades crónicas, incluyendo enfermedad cardiovascular (28), todos los resultados apuntan a la necesidad de garantizar un consumo mínimo de frutas y verduras en los países en desarrollo.
+
+Fortalezas y limitaciones
+
+La fortaleza de este estudio es la representatividad del mismo ya que los participantes enrolados pertenecen a las 25 regiones del Perú, lo que permitiría la extrapolación de los resultados encontrados. Sin embargo, este estudio tiene algunas limitaciones. Primero, la medida del IMC no toma en cuenta la composición corporal, sino sólo el peso y la talla, por lo que no se podría evaluar apropiadamente el riesgo cardiovascular. Otros marcadores de obesidad como la circunferencia abdominal, de cintura, o adiposidad debieron ser evaluados como en estudios previos (31). Segundo, la presencia de causalidad reversa entre frutas/verduras y sobrepeso/obesidad puede ser un problema. Tercero, este estudio no toma en cuenta otros potenciales factores asociados a sobrepeso y obesidad como el consumo de grasas y/o de comida rápida en los participantes ya que la encuesta no cuenta con estas preguntas.
+
+CONCLUSIONES 
+
+No se encontró evidencia de asociación entre sobrepeso y obesidad con el consumo de frutas y verduras. Sólo 1 de cada 20 individuos consumían la cantidad de frutas y verduras recomendada, mientras que cerca del 60% presentan sobrepeso y obesidad. Los resultados de este estudio sugieren potenciales intervenciones para reducir la amenaza de la obesidad en nuestro contexto.
+
+ 
+
+BIBLIOGRAFIA
+
+1. World Health Organization. Obesity and overweight: Fact sheet Geneva, Switzerland; 2015 [updated 2015; cited 2015 March 30]; Available from: http://www.who.int/mediacentre/factsheets/fs311/en/.            [ Links ]
+
+2. Lanata CF. [Overweight and obesity in Peru: urgent need to have a public health policy for their control]. Revista peruana de medicina experimental y salud publica. 2012;29(3):299-300.            [ Links ]
+
+3. Poterico JA, Stanojevic S, Ruiz-Grosso P, Bernabe-Ortiz A, Miranda JJ. The association between socioeconomic status and obesity in Peruvian women. Obesity (Silver Spring, Md). 2012 ;20(11):2283-9.            [ Links ]
+
+4. Bernabe-Ortiz A, Benziger CP, Gilman RH, Smeeth L, Miranda JJ. Sex differences in risk factors for cardiovascular disease: the PERU MIGRANT study. PloS one. 2012;7(4):e35127.            [ Links ]
+
+5. Alvarez-Dongo D, Sanchez-Abanto J, Gomez-Guizado G, Tarqui-Mamani C. [Overweight and obesity: prevalence and determining social factors of overweight in the Peruvian population (2009-2010)]. Rev Peruana Med Exp Salud Publica. 2012 ;29(3):303-13.            [ Links ]
+
+6. Charlton K, Kowal P, Soriano MM, Williams S, Banks E, Vo K, et al. Fruit and vegetable intake and body mass index in a large sample of middle-aged Australian men and women. Nutrients. 2014;6(6):2305-19.            [ Links ]
+
+7. Brunello G, De Paola M, Labartino G. More apples fewer chips? the effect of school fruit schemes on the consumption of junk food. Health Policy (Amsterdam, Netherlands). 2014;118(1):114-26.            [ Links ]
+
+8. World Health Organization. Fruit and Vegetable Promotion Initiative - Report of the Meeting, Geneva, 25-27 August 2003. Geneva, Switzerland: WHO; Contract No.: Document Number. 2003.            [ Links ]
+
+9. Fardet A, Boirie Y. Associations between food and beverage groups and major diet-related chronic diseases: an exhaustive review of pooled/meta-analyses and systematic reviews. Nutr Rev. 2014;72(12):741-62.            [ Links ]
+
+10. Lin Y, Huybrechts I, Vereecken C, Mouratidou T, Valtuena J, Kersting M, et al. Dietary fiber intake and its association with indicators of adiposity and serum biomarkers in European adolescents: the HELENA study. Eur J Nutr 2015; 54(5):771-82.            [ Links ]
+
+11. Bere E, Klepp KI, Overby NC. Free school fruit: can an extra piece of fruit every school day contribute to the prevention of future weight gain? A cluster randomized trial. Food Nutr Res. 2014;58:1-5.            [ Links ]
+
+12. Ledoux; TA, Hingle; MD, Baranowski T. Relationchip of fruit and vegetable intake with adiposity: a systematic review. Obes Rev. 2011; 12:e143-e50.            [ Links ]
+
+13. Mytton OT, Nnoaham K, Eyles H, Scarborough P, Ni Mhurchu C. Systematic review and meta-analysis of the effect of increased vegetable and fruit consumption on body weight and energy intake. BMC Public Health. 2014; 14(886):1-11.            [ Links ]
+
+14. Ham E, Kim HJ. Evaluation of fruit intake and its relation to body mass index of adolescents. Clin Nutr Res. 2014; 3(2):126-33.            [ Links ]
+
+15. Saavedra JM, Dattilo AM. [Food and diet factors associated to child obesity: recommendations for preventing it in children under two years of age]. Rev Peruana Med Exp Salud Pública. 2012;29(3):379-85.            [ Links ]
+
+16. Instituto Nacional de Estadística e Informática. Microdatos: Bases de datos. Lima, Peru: INEI; 2015 [updated2015; cited2015 Enero 06]; Available from: http://iinei.inei.gob.pe/microdatos/.            [ Links ]
+
+17. World Health Organization. The WHO STEPwise approach to chronic disease risk factor surveillance (STEPS). Geneva, Switzerland: WHO; Contract No.: Document Number 2008.            [ Links ]
+
+18. Chobanian AV, Bakris GL, Black HR, Cushman WC, Green LA, Izzo JL, Jr., et al. The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure: the JNC 7 report. JAMA 2003; 21;289(19):2560-72.            [ Links ]
+
+19. Kaiser       KA, Brown AW, Bohan Brown MM, Shikany JM, Mattes RD, Allison DB. Increased       fruit and vegetable intake has no discernible effect on weight loss: a       systematic review and meta-analysis.       Am J Clin Nutr. 2014;100(2):567-76.            [ Links ]
+
+20. Heo M, Kim RS, Wylie-Rosett J, Allison DB, Heymsfield SB, Faith MS. Inverse association between fruit and vegetable intake and BMI even after controlling for demographic, socioeconomic and lifestyle factors. Obesity Facts. 2011;4(6):449-55.            [ Links ]
+
+21. Gordon-Larsen P, Adair LS, Popkin BM. The relationship of ethnicity, socioeconomic factors, and overweight in US adolescents. Obe Res. 2003;11(1):121-9.            [ Links ]
+
+22. Johnston R, Poti JM, Popkin BM. Eating and aging: trends in dietary intake among older Americans from 1977-2010. J Nutr, Health Aging. 2014;18(3):234-42.            [ Links ]
+
+23. Popkin BM, Adair LS, Ng SW. Global nutrition transition and the pandemic of obesity in developing countries. Nutr Rev. 2012;70(1):3-21.            [ Links ]
+
+24. Poirier P, Giles TD, Bray GA, Hong Y, Stern JS, Pi-Sunyer FX, et al. Obesity and cardiovascular disease: pathophysiology, evaluation, and effect of weight loss: an update of the 1997American Heart Association Scientific Statement on Obesity and Heart Disease from the Obesity Committee of the Council on Nutrition, Physical Activity, and Metabolism. Circulation. 2006;113(6):898-918.            [ Links ]
+
+25. Loret de Mola C, Quispe R, Valle GA, Poterico JA. Nutritional transition in children under five years and women of reproductive age: a 15-years trend analysis in Peru. PloS One. 2014;9(3):e92550.            [ Links ]
+
+26. World Health Organization. Fruits and Vegetables for Healt: Report of a joint FAO/WHO Workshop, Kobe, Japan. Geneva, Switzerland: WHO; 2004 Contract No.: Document Number]. 1-3 September 2004.            [ Links ]
+
+27. Department of Health: National Diet and Nutrition Survey. Headline Results from Years 1,2 and3 (combined) of the Rolling Programme 2008/09 - 2010/11. Transparency; [cited2015 March 30]; Available from: http://transparency.dh.gov.uk/2012/07/25/ndns-3-years-report/.            [ Links ]
+
+28. Woodside JV, Young IS, McKinley MC. Fruit and vegetable intake and risk of cardiovascular disease. Proc Nutr Soc. 2013;72(4):399-406.            [ Links ]
+
+29. Gase LN, DeFosset AR, Smith LV, Kuo T. The Association between Self-Reported Grocery Store Access, Fruit and Vegetable Intake, Sugar-Sweetened Beverage Consumption, and Obesity in a Racially Diverse, Low-Income Population. Food environments, eating and obesity. 2014;2(229):1-7.            [ Links ]
+
+30. Hall JN, Moore S, Harper SB, Lynch JW. Global variability in fruit and vegetable consumption. Am J Prev Med. 2009; 36(5):402-9.e5.            [ Links ]
+
+31. Ledoux TA, Hingle MD, Baranowski T. Relationship of fruit and vegetable intake with adiposity: a systematic review. Obesity reviews : an official journal of the Internat Assoc Study Obes. 2011;12(5):e143-50.            [ Links ]
+
+ 
+
+Este trabajo fue recibido el 27 de Abril de 2015 y aceptado para ser publicado el 5 de Agosto de 2015.
+
+ 

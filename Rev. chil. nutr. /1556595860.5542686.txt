@@ -1,0 +1,308 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182004000200006
+MÉTODO DE TAGUCHI PARA OPTIMIZAR CALIDAD DE POSTRES FUNCIONALES DESTINADOS AL ADULTO MAYOR Y ESTUDIO DE PREFACTIBILIDAD TÉCNICO - ECONÓMICA
+
+RESUMEN
+
+Este trabajo          tuvo como objetivo principal formular, desarrollar, caracterizar y evaluar          alimentos funcionales para el adulto mayor, específicamente un          postre (mousse de naranja), en el que se consideraron las recomendaciones          nutricionales de organismos nacionales e internacionales, así como          también las limitaciones de su edad.
+
+Se desarrolló          un postre, mousse sabor naranja, al que se le adicionaron los siguientes          elementos funcionales: fructoligosacáridos, vitaminas y minerales,          y se reemplazó en su totalidad la sacarosa por un edulcorante no          metabolizable ni calórico que que fue la sucralosa. La cantidad          de micronutrientes incorporados fue de un 30% de la IDR (Ingesta Diaria          Recomendada) para el caso de las vitaminas y entre un 10 y 20% de la IDR          para los minerales. Se tomaron estos valores considerando que existen          otros alimentos más, a parte de los postres desarrollados, que          también aportan nutrientes a la dieta. En el caso de los fructoligosacáridos,          como no existe todavía un límite reglamentado de uso, y          va más bien por sus efectos digestivos, se usaron los niveles recomendados          por el fabricante para productos similares. El mousse fue optimizado usando          la metodología estadística de Taguchi, donde el número          de variables que intervinieron en este proceso fue de siete, las que en          una etapa posterior quedaron en cuatro. Los valores de evaluación,          optimizados por esta metodología estadística, se obtuvieron          después de aplicar el test de Karlsruhe, con una tabla de valoración          especialmente diseñada para el producto, utilizando un panel de          jueces entrenados para tal efecto. Finalmente, se obtuvo una única          formulación como la mejor de todas, que posteriormente fue sometida          a controles físicos, químicos, microbiológicos y          sensoriales, éstos últimos de aceptabilidad del producto          por parte de la población objetivo que fueron adultos mayores.
+
+	Respecto          a la evaluación de aceptabilidad por parte de adultos mayores,          se les dio a cada persona la formulación optimizada más          una segunda formulación cuya única diferencia con la primera          fue la concentración del edulcorante. De esta forma, además          de señalar el grado de aceptación indicaron su preferencia.          Para esta evaluación se hizo uso de una escala hedónica          de cinco puntos y la cantidad de consumidores (adultos mayores) que evaluaron          cada uno de los postres fue de un poco más de 150 para cada caso.          Este trabajo concluyó con el estudio de prefactibilidad técnico          - económica del proyecto, que sirvió para determinar su          rentabilidad y la posibilidad de elaborar estos productos a escala industrial          y comercial. Se consideró que estos postres van a los estratos          socio - económicos medio y alto, por las características          de sus ingredientes (materias primas ocupadas) y por el tipo de producto          que no corresponde a un producto de consumo masivo. Los indicadores económicos          TIR (tasa interna de retorno) y VAN (valor actual neto), mostraron que          la elaboración de este postre es rentable y conviene producirlos.
+
+Palabras          claves: Evaluación sensorial, fructoligosacáridos, minerales,          vitaminas, Taguchi.
+
+ 
+
+La población          de la Región de las Américas está envejeciendo a          un ritmo acelerado. Hace cien años, en Chile había alrededor          de 3,2 millones de habitantes, de los cuales 200 mil tenían 60          años y más, representando el 6% de la población.          Al comenzar el siglo XXI, de los 15 millones de personas que constituyen          la población total del país, un millón y medio son          adultos mayores, lo que significa que un 10% de la población tiene          60 años y más. En este grupo predominan las mujeres, que          de acuerdo a la tendencia aumentarán más marcadamente que          los hombres hacia el 2040 (9). Esto hace necesario el          desarrollo y creación de nuevos alimentos que satisfagan las necesidades          de este segmento de la población, tanto en calidad como en aporte          de nutrientes. Además, es de importancia la gran competencia que          existe en las empresas por llevar al mercado nuevos productos, de excelente          calidad y con la mayor rapidez y menor costo posible. En este sentido,          la metodología estadística de Taguchi, que usa arreglos          ortogonales en la optimización, permite reducir costos experimentales,          pues se requiere hacer menos evaluaciones obteniéndose un producto          de calidad, optimizado según las características que los          consumidores esperan. El hecho de usar arreglos ortogonales permite la          reproducibilidad de los resultados. Se usan matrices ortogonales en las          que cada fila produce un resultado bajo un conjunto diferente de condiciones.          Esto permite hacer comparaciones de los diferentes niveles de los factores          con lo que se incrementa la seguridad que los resultados obtenidos en          estos experimentos sean reproducibles en el proceso de fabricación          (2). 
+
+	Considerando estos          antecedentes, el objetivo principal de este estudio fue desarrollar un          postre en polvo instantáneo, de bajas calorías, tipo mousse,          enriquecido con vitaminas, minerales, endulzado con sucralosa en reemplazo          de sacarosa y fructoligosacáridos, destinado al adulto mayor de          diferentes grupos socioeconómicos, en cuya formulación se          tomarán en cuenta las ingestas diarias recomendadas (3)          de vitaminas, minerales y fibra dietética, para mayores de 70 años          y para su optimización se usará la metodología estadística          de Taguchi. 
+
+DESARROLLO          DEL PRODUCTO
+
+En esta etapa se utilizaron          diversos elementos como materias primas (carragenina, espumantes, edulcorantes,          entre otras), aditivos (colorantes y saborizantes) y complementos nutricionales          (fibra soluble, vitaminas y minerales), que permitieron desarrollar un          postre destinado a la población objetivo de este estudio que corresponde          al adulto mayor.
+
+Para dicho desarrollo          se aplicó una metodología de acuerdo a un plan de trabajo          para el desarrollo del postre que comenzó con ensayos preliminares          a escala de laboratorio, los cuales se llevaron a cabo utilizando diferentes          materias primas y ensayando formulaciones de la literatura (11)          y otras proporcionadas por empresas elaboradoras de alimentos relacionados          con el producto. A estas formulaciones se les incorporaron vitaminas y          minerales, según los valores recomendados para adultos mayores          de 70 años, según la FDA (3). Para las          vitaminas se usó el 30% de la Ingesta Diaria Recomendada (DRI)          más un 15% de sobre dosificación, para suplir posibles pérdidas          que podrían haberse producido debido a la sensibilidad de las vitaminas          a diferentes factores. Para minerales se adicionó un 10% de la          DRI para el calcio, 20% para el hierro y el zinc y 13% para el magnesio,          más un 15% de sobre dosificación). Para la fibra soluble          se adoptó una recomendación de uso de hasta un 20% del total          de la formulación para oligofructosa y un 10% para inulina (11).          Para fijar los niveles de vitaminas y minerales se emplearon tests triangulares          con el fin de seleccionar las máximas concentraciones que no fueran          detectadas significativamente por 10 jueces entrenados (p=0,05), con el          fin de asegurar que las concentraciones elegidas no modificaran el sabor,          influyendo negativamente en el producto desarrollado.
+
+Dulzor relativo          de la sucralosa: Se usó el test de comparaciones pareadas,          de elección forzada (6, 18)          con el fin de determinar la concentración de sucralosa que produce          el mismo dulzor que la sacarosa de la formulación original. 
+
+Optimización          de la formulación
+
+El término          "calidad total" es quizás el que se ha utilizado más para          denominar a esta nueva corriente de Taguchi, que en síntesis se          puede resumir como "hacer las cosas bien en todas las actividades de la          empresa para satisfacer las necesidades de los consumidores o clientes".          Este método utiliza los denominados arreglos ortogonales que corresponden          a un diseño de experimento que permite hacer una evaluación          matemática e independiente del efecto de cada uno de los factores          presentes en el diseño
+
+Para la optimización          de la formulación de este estudio se utilizó un diseño          fraccionario saturado de Taguchi con 7 factores. En una primera etapa          se usó un arreglo ortogonal L8 (27), es decir          8 corridas experimentales con 7 factores y dos niveles para cada uno,          para luego en una segunda etapa continuar con los factores que resulten          ser significativos. De este último arreglo se obtiene la formulación          optimizada, que debe ser validada. 
+
+Se usó la característica          de mayor es mejor, es decir, la calidad es mejor cuando la característica          que se está midiendo alcanza un puntaje mayor. Se empleó          un panel de 10 jueces entrenados y el test de Karlsruhe para los diferentes          atributos de calidad, escala de 1 a 9. 
+
+Caracterización          del producto optimizado
+
+Se realizaron controles          físicos, químicos, microbiológicos y sensoriales.
+
+A.	Controles          físicos
+
+* Determinación          del pH del producto reconstituido con leche descremada extra calcio. 
+
+* Determinación          del porcentaje de incorporación de aire (% overrun) por método          volumétrico. 
+
+* Determinación          de la actividad de agua por higrometría, mediante el higrómetro          de Novasina.
+
+* Determinación          de la pérdida de peso por método gravimétrico a temperatura          ambiente controlada.
+
+* Determinación          de la humedad por desecación en estufa a 105°C (1).
+
+B.	Controles          químicos
+
+* Proteínas:          por determinación de nitrógeno total, según método          de Kjeldahl y aplicación del factor 6,25 (1).
+
+* Lípidos:          se utilizó un digestor Soxhlet tradicional (1).
+
+* Cenizas: se determinó          por calcinación de la muestra en mufla a 550°C (1).
+
+* Materia grasa. Según          análisis de Weende (14).
+
+* Extracto no nitrogenado:          calculado por diferencia.
+
+* Análisis          de fructoligosacáridos (FOS): por tratamiento de las muestras con          amiloglucosidasa e inulasa y la determinación de los azúcares          liberados por cromatografía de intercambio iónico (7).
+
+* Vitaminas: por HPLC.
+
+* Vitaminas A y E          (4).
+
+* Vitamina B1 y B2          (16).
+
+* Vitamina B3 (10).
+
+* Vitamina B6 (12).
+
+* Vitamina B9 y B12          (17). 
+
+* Vitamina C (17).
+
+* Vitamina D3 (5).          	 
+
+* Minerales: por espectroscopía          de absorción atómica y de llama (sodio y potasio).
+
+C.	Controles          microbiológicos
+
+* Recuento de microorganismos          aerobios mesófilos viables (RAM), por el método de recuento          en placa (8). 
+
+* Determinación          de Bacillus cereus, por el método de recuento en placa (8).
+
+* Determinación          de Salmonella, por el método de referencia (8).
+
+D.	Controles          sensoriales
+
+Se efectuó          una evaluación con el panel de jueces entrenados, usando el test          de Karlsruhe, donde se evaluaron los parámetros de olor, color,          apariencia, textura y sabor. Esta evaluación se hizo en el producto          elaborado, correspondiente a la prueba confirmatoria del producto optimizado          según Taguchi. Se representó la calidad con un valor de          la escala de 9 puntos, en que 1=pésima y 9=excelente.
+
+Estudio y evaluación          con adultos mayores
+
+Se realizaron pruebas          de aceptabilidad con 158 adultos mayores, hombres y mujeres, con el siguiente          rango de edades: <60 años, entre 60 y 70 años, entre          71 y 80 años y >80 años. Además se les pidió          que indicaran su preferencia entre 2 postres con diferente intensidad          de dulzor. Las respuestas de preferencia, para cada sabor de mousse, se          analizaron por  c2 (chi cuadrado).
+
+Estudio de prefactibilidad          técnico - económica
+
+Para la evaluación          de la prefactibilidad técnico - económica se usaron los          indicadores TIR y VAN, para determinar si los postres elaborados eran          o no económicamente rentables al decidir comercializarlos en la          población objetivo.
+
+RESULTADOS          Y DISCUSIÓN
+
+Desarrollo del          mousse sabor naranja
+
+La formulación          base obtenida luego de varias pruebas preliminares, permitió fijar          los factores de trabajo y los niveles de cada uno de ellos. Se usó          el arreglo ortogonal L8 (27) con tres repeticiones.
+
+La Tabla          1 muestra los factores de control y los niveles de trabajo escogidos          para cada uno, que constituyen las variables independientes del diseño.
+
+
+
+
+
+La matriz usada en          la primera etapa, y los resultados de calidad obtenidos, se presentan          en la Tabla 2. Cada una de las repeticiones representa          la elaboración completa del Mouse (R1, R2, R3) y el promedio de          calidad ponderado correspondió al resultado de todos los jueces          participantes en la evaluación y representa la variable dependiente.
+
+
+
+
+
+Basándose en          la respuesta promedio calculada para cada factor se analizaron los deltas,          como se aprecia en la Tabla 3, en la cual se ven          claramente el efecto de los niveles. (Taguchi, programa estadístico)
+
+
+
+
+
+Los niveles de los          factores significativos, en los que se obtuvo mayor respuesta fueron los          siguientes: B1 (sabor naranja/ácido cítrico en su menor          nivel), D2 (carragenina en su mayor nivel), E2 (leche descremada en su          mayor nivel) y F2 (espumante en su mayor nivel).
+
+Al realizar el análisis          de varianza (ANOVA) (Tabla 4), se observa que los          factores A y G tuvieron un efecto no significativo en la respuesta, por          lo que se dejaron constantes durante la segunda etapa de optimización.          También se decidió dejar constante el factor C, a pesar          de ser significativo ya que su peso ponderado en la respuesta es muy bajo          (4,35%),
+
+
+
+
+
+Para la segunda etapa          de la optimización, se siguió trabajando con los cuatro          factores que resultaron significativos en la formulación: B, D,          E y F. 
+
+La Tabla          5 muestra los factores de control y los niveles de trabajo escogidos          para cada uno de los factores significativos. Se hicieron dos repeticiones          (R4 y R5).
+
+
+
+
+
+La matriz usada y          los resultados de calidad obtenidos se presentan en la Tabla          6.
+
+
+
+
+
+La respuesta promedio          de cada factor representa la variables dependiente. Se analizaron los          deltas de cada uno, donde siempre se compara el nivel con valor mayor          menos el nivel con valor menor. Esto se ve en la Tabla          7.
+
+
+
+
+
+Con los datos obtenidos,          se formuló la "Ecuación esperada de Taguchi", resultante          de sumar al valor del promedio total T (6,47) la diferencia entre cada          nivel óptimo de trabajo de las variables con relación a          este promedio:
+
+y          = T + [T - Sabor Naranja/Ácido cítrico (N1)]          + [T - Carragenina (N2)] + [T - leche descremada (N3)]          + [T - Espumante (N3)]
+
+y          = 7,91
+
+El valor esperado          se validó, elaborando la formulación que resultó          óptima según esta metodología, y evaluando sensorialmente          su calidad. El valor total obtenido fue 8,5 puntaje que resultó          superior al esperado de (7,91) lo que indica que la optimización          del producto fue satisfactoria. 
+
+A este producto se          le hicieron análisis químicos, físicos, microbiológicos          y sensoriales (de aceptabilidad y preferencia con adultos mayores). (Tabla          8 y Figura 1). De los análisis químicos          que se hicieron destacan el de las vitaminas en las cuales el nivel esperado/porción          + leche de reconstitución fue para la vitamina A ((m RE) 310,5,          B1 (mg) 0,414, B2 (mg) 0,414, B3 (mg)          5,175, B6 (mg) 0,552, B9 (mg) 0,138, B12          ((g) 0,828, C (mg) 28,635, D ((g - colec) 5,175, E (mg -aTE)          5,175; minerales: calcio (mg) 138, hierro (mg) 2,3, zinc (mg) 3,105, magnesio          (mg) 55,315 y fibra soluble (%): oligofructosa 13,76, inulina 1,53.
+
+
+
+
+
+Los contenidos de          vitaminas, minerales y fibra dietética soluble están dentro          de lo esperado.
+
+Como          muestra la figura 1, se aprecia puede ver que la          aceptación del mousse de naranja es alta, con un bajo porcentaje          de rechazo.
+
+
+
+FIGURA          1
+
+Frecuencia          de la aceptabilidad del mousse sabor naranja             (escala hedónica 1-5)
+
+
+
+Respecto a la preferencia,          como se observa en la Figura 2, los adultos mayores          prefirieron significativamente la formulación más dulce          con 0,125% de sucralosa.
+
+
+
+FIGURA          2
+
+Preferencias          Mousse naranja (n=158)
+
+
+
+ 
+
+Estudio de prefactibilidad          técnico - económica
+
+El producto corresponde          a un postre instantáneo en polvo con sabor a naranja. Se comercializará          en polvo, en un envase trilaminado, con un peso neto de 48 g que corresponde          a cuatro porciones individuales de postre. Este postre está dirigido          a los estratos socio - económicos medio y alto, ya que por las          características de las materias primas y el tipo de postre no corresponde          a un producto de consumo masivo.
+
+Actualmente en el          mercado no existen productos tipo mousse con adición de vitaminas,          minerales, fibras y sucralosa como único edulcorante. Se comercializan          mousse en polvo instantáneos, sin enriquecimiento de micronutrientes          y endulzados con sacarosa. El precio promedio de estos productos es de          $297 (sin IVA). El producto elaborado se destinará a personas mayores          de 60 años cuya residencia está en el área oriente          de la Región Metropolitana, la que comprende las comunas de Providencia,          Vitacura, Lo Barnechea, Las Condes, Nuñoa y La Reina.
+
+Para la elaboración          del mousse, se contratarán los servicios de una planta existente          ya instalada, que realice la mezcla de las distintas materias primas y          el envasado del producto en polvo. De esta forma no se harán inversiones          en equipos. A esta planta se le hará entrega de los insumos e ingredientes          necesarios para la producción del postre. Finalmente, para las          operaciones de la empresa se arrendará una oficina en una zona          cercana a la planta envasadora.
+
+Tamaño de la          producción: se tomaron los datos más recientes publicados          por el Instituto Nacional de Estadísticas sobre la población          adulta mayor residente en la zona oriente de la Región Metropolitana,          que corresponden a las seis comunas mencionadas anteriormente. Según          está información, el número de adultos mayores es          de 117.761. Para los efectos de este estudio, se proyecta el consumo de          un paquete de cada producto por semana, para una población correspondiente          al 2, 3 y 4% del total de adultos mayores, para los años 1, 2 y          3, respectivamente. Según esta proyección, la producción          anual será de: 11.757,3 Kg., 17.635,9 Kg. y 23.514,5 Kg. para los          mismos 3 primeros años, respectivamente.
+
+Costo de elaboración
+
+El precio por servicio          prestado por la planta envasadora asciende a $90/Kg de producto terminado          (productos alimenticios Royal, 2002), monto que significa un costo anual          de $1.058.157 para el primer año.
+
+Insumos
+
+Se utilizará          un envase trilaminado de 20 x 8 cm para cada paquete, éste tiene          un costo unitario de $ 8,5 + un 3% correspondiente a mermas y pérdidas          de envases. Así el costo unitario es de $ 8,8. Por otro lado, se          usará para cada paquete un envase de cartón con una litografía          impresa correspondiente a cada tipo de mousse; las dimensiones de este          envase son de 14 x 9 x 3 cm cuyo costo unitario es de $ 5,5 + un 3% correspondiente          a mermas y pérdidas de envases, lo que se traduce en un costo de:          $3.551.659, $ 5.327.507 y $7.103.347 para los 3 primeros años,          respectivamente.
+
+Suministros
+
+Para los gastos de          agua, energía eléctrica, teléfono, bencina, mantención          y otros imprevistos se considera un costo de $ 300.000 mensuales, lo que          se traduce en $3.600.000 para el primer año.
+
+Sueldo                Gerente
+
+Sueldo                Secretaria
+
+Sueldo                Vendedor
+
+Sueldo                Chofer
+
+Arriendo                Oficina
+
+Promoción/Campañas                Publicitarias
+
+Mantención
+
+$ 1.500.000
+
+			$                380.000
+
+			$                450.000
+
+			$                250.000
+
+			$                400.000
+
+	$ 750.000
+
+			$                380.000
+
+ 
+
+Esto          significa $4.110.000 mensuales y $49.320.000 anuales.
+
+Depreciación
+
+La depreciación          de los activos fijos se realizó por el método lineal, es          decir que se asume que se deprecia en forma constante. De esta forma se          obtuvo un valor anual de:
+
+ 
+
+Amortización          G.A.C.
+
+La ley establece que          la amortización de los gastos afectos a castigo se realice en 5          años, lo que significa $ 3.116.000 anuales.
+
+Determinación          del costo total
+
+El costo total corresponde          a la suma de todos los costos nombrados anteriormente con lo que se obtuvo          un costo unitario de los productos de $ 384 (sin IVA) por paquete en el          primer año.
+
+Determinación          del precio de venta
+
+El precio se determina          a partir del costo total más un margen de utilidad, que en este          caso fue de un 25%. El precio de venta obtenido para el primer año          es de $ 480 (sin IVA) por paquete, el que se mantendrá en los 10          años de estudio.
+
+Cálculo          de los ingresos
+
+Los ingresos corresponden          a las unidades vendidas multiplicadas por el precio de venta, por lo que          el ingreso anual es de $117.528.355 para el primer año de producción.
+
+Flujo de caja
+
+Los ingresos por ventas          se recibirán a partir del tercer mes ya que las ventas se efectúan          a 60 días. Por otra parte, la compra de materias primas e insumos          y el pago de servicios de la planta envasadora se realizará a 30          días.
+
+Ingresos y egresos          proyectados
+
+Los ingresos y egresos          se determinaron para un período de 10 años al final de los          cuales se recupera el capital de trabajo.
+
+Evaluación          económica
+
+Para la evaluación          económica se utilizaron los indicadores TIR y VAN. El VAN, también          conocido como valor presente neto, pretende determinar en cuanto se enriquecerá          quien realiza un proyecto, medido en términos de riqueza actual.          Para ello se aplica la siguiente fórmula: ( Donde Bi          = Beneficios del proyecto en el año i; Ci = Costos del          proyecto en el año i; r = Tasa de descuento)
+
+
+
+La TIR corresponde          a aquella tasa que hace el VAN de un proyecto igual a cero. Usando la          misma fórmula anterior, la TIR corresponderá a aquella tasa          "r" tal que:
+
+
+
+En el caso de este          estudio, los indicadores TIR y VAN entregaron los siguientes valores:
+
+VAN 18%= $225.426.479
+
+TIR = 116%
+
+Luego de calcular          los ingresos y el flujo de caja proyectados a 10 años, se estimaron          los indicadores VAN y TIR que muestran que es económicamente rentable          producir a escala industrial y comercializar el producto denominado "Mouse          de sabor naranja para el adulto mayor"
+
+CONCLUSIONES
+
+- Se obtuvo una excelente          optimización del mousse sabor naranja utilizando la metodología          estadística de Taguchi, que permitió combinar un número          importante de variables al mismo tiempo además de reducir notablemente          el número de experimentos y con esto los costos de producción.
+
+- El postre desarrollado          y optimizado en este trabajo entrega elementos funcionales necesarios          para suplir las deficiencias que normalmente se producen en adultos mayores          además de presentar un menor valor energético y de no alterar          la calidad sensorial.
+
+- Es absolutamente          factible la elaboración de este tipo de postre reemplazando la          totalidad del azúcar por el edulcorante sintético sucralosa,          pues éste es no calórico, no cariogénico, está          aprobado por la FDA, no presenta contraindicaciones y porque, además          de no producir alteración en el sabor y mantener alta la calidad          sensorial del producto, puede ser consumido por personas diabéticas.
+
+- Considerando la          población objetivo de este trabajo, los productos elaborados son          fáciles de ingerir y fueron ampliamente aceptados por los adultos          mayores; su aceptabilidad fue muy alta y cercana al 100% para ambos tipos          de mousse.
+
+- El mousse desarrollado          es de fácil preparación y almacenamiento. Además,          como la actividad del agua es baja, la presencia microbiológica          es mínima, con lo que una alteración debida a esta causa          en el tiempo es poco común. De esta forma, el producto almacenado          durante seis meses se mantuvo estable durante todo este período          de tiempo.
+
+- El estudio de prefactibilidad          técnico económica de este proyecto mostró que es          económicamente rentable producir este tipo de postre para el adulto          mayor y a escala industrial.
