@@ -1,0 +1,84 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000500555
+Disminución en la frecuencia de infección por Helicobacter pylori en endoscopías digestivas altas
+
+La infección por Helicobacter pylori (HP) es la infección crónica más extendida a nivel mundial. Afecta a 50% de la población, llegando a 90% en países subdesarrollados, mientras que en otros países, como Australia, puede llegar a afectar sólo a 20%1. En Chile, mediante estudio serológico en la Encuesta Nacional de Salud del año 2007, se estableció una prevalencia de 73%, que es la más citada a nivel nacional2. En población de La Florida, a través de test de ureasa, se encontró una prevalencia de 78%3. En contraste, se encontró una prevalencia de 44,9%4 en un estudio realizado en el Hospital Clínico de la Universidad de Chile (HCUCh) durante los años 2002 a 2005, con test de ureasa rápido(TUR) fabricado en nuestro laboratorio, que es el mismo utilizado actualmente (Tabla 1). Estas diferencias de prevalencia pueden estar relacionadas con el nivel socioeconómico, condiciones de higiene, la edad y la etnia.
+
+Tabla 1 Prevalencia de infección por Helicobacter pylori publicada en los últimos 15 años 
+
+HCUCh: Hospital Clínico Universidad de Chile. HCUC: Hospital Clínico Universidad Católica.
+
+HP es el factor etiopatogénico más importante de cáncer gástrico2,8–12, el cual en Chile es la primera causa de muerte por cáncer en hombres y la tercera en mujeres13,14. Hoy en día, el mecanismo oncogénico es entendido por la colonización de HP sobre el epitelio gástrico, produciendo una respuesta inflamatoria local y sistémica, lo que conduce a la conocida cascada de gastritis aguda, gastritis crónica, gastritis crónica atrófica, metaplasia intestinal y displasia, considerándose éstas tres últimas como lesiones premalignas15. Estudios recientes han logrado demostrar reducción en la incidencia de cáncer gástrico mediante la erradicación de HP a nivel poblacional, que tiene mayor efecto en zonas de mayor incidencia de cáncer gástrico16–19. Por otro lado, HP se ha relacionado con úlcera péptica gastroduodenal, linfoma gástrico, dispepsia, halitosis20, hiperémesis gravídica6, anemia ferropénica idiopática y púrpura trombocitopénico idiopático.
+
+El objetivo del trabajo es estimar la prevalencia de infección por HP en pacientes derivados a endoscopía digestiva alta (EDA) en el HCUCh y correlacionarla con la indicación de la EDA, la edad y los hallazgos endoscópicos. Además, al comparar los resultados con los publicados anteriormente por nuestro grupo, buscar eventuales cambios en la frecuencia de infección por HP y de las enfermedades relacionadas con la bacteria.
+
+Material y Método
+
+Estudio transversal mediante revisión retrospectiva de 3.433 pacientes derivados a EDA desde enero a diciembre de 2015. Se seleccionaron todas aquellas con TUR. Se excluyeron los pacientes a los que no se les realizó TUR y a aquellos en que no se encontró la información completa, tanto del resultado del TUR como de la histología.
+
+Se utilizaron endoscopios Olympus GIF-H180 y Fujinon de la serie 500, con técnica estándar luego de consentimiento informado. Los procedimientos fueron realizados por endoscopistas del HCUCh.
+
+Se utilizó TUR, el cual consiste en un 1 cc de solución de urea 10% p/v y rojo fenol contenida en tubo Eppendorf, la cual utiliza el rojo fenol como indicador de pH para detectar la hidrólisis de la urea cuando está presente HP, considerándose el resultado como positivo cuando el color de la solución vira de color amarillo a magenta dentro de algunos minutos a dos horas. Esta solución es fabricada en el Laboratorio de Gastroenterología del HCUCh, con reportes de sensibilidad de 83%, 96,6% y 98,2% y especificidad de 86%, 99,2% y 99%, en las distintas series21–23, que no es inferior a los valores obtenidos con los tests comercializados. En un estudio previo, el TUR fabricado en HCUCh fue comparado con cultivo de HP, demostrando 1 falso negativo de 50 cultivos positivos4. Según recomendación local, se tomó una muestra de antro y otra de cuerpo para TUR. Las biopsias gástricas fueron siempre múltiples, tomadas según protocolo Sydney y desde las lesiones, las que fueron examinadas con tinción de Giemsa. Se consideró infección por HP cuando el TUR fue positivo y/o hubo presencia de HP en al menos una biopsia gástrica. Se consideraron los siguientes hallazgos endoscópicos: gastropatía nodular, úlcera gástrica, úlcera duodenal, duodenopatía erosiva, gastropatía erosiva, gastropatía varioliforme, esofagitis y pólipos gástricos. No se obtuvo el antecedente de consumo de antagonistas del receptor H2, inhibidores de la bomba de protones ni uso concomitante de antibióticos.
+
+El trabajo cuenta con la Aprobación del Comité de Ética Científico del HCUCh.
+
+Análisis estadístico
+
+Se utilizó test de χ2 para establecer diferencias entre la frecuencia de infección por HP y el hallazgo endoscópico, mientras que Odds Ratio (OR) con intervalo de confianza de 95%, corregidos por regresión logística binaria por edad y sexo, para estimar el riesgo de los distintos hallazgos endoscópicos según infección por HP. Se utilizó el programa Stata 12, considerándose significativo un valor p < 0,05.
+
+Resultados
+
+De los 3.433 pacientes sometidos a EDA durante el 2015, se les realizó TUR a 1.901 pacientes, correspondiente a 55% de las EDA-s. No se tomó TUR en el restante 45% de las EDA-s. El criterio de realizar o no TUR fue la indicación del médico tratante o los hallazgos endoscópicos evaluados por el endoscopista. Se excluyeron 39 pacientes, cuando el resultado de TUR no fue disponible o el patólogo no informó sobre presencia de HP. Se analizaron los datos de 1.862 pacientes.
+
+La edad promedio fue de 51 ± 17 años, rango 16 a 95 años. El 66% fue de sexo femenino.
+
+El principal motivo de derivación de los pacientes a EDA fue la dispepsia (35,2%), seguido por el reflujo gastroesofágico (17,7%) (Tabla 2). HP fue encontrado con significativamente mayor frecuencia en aquellos pacientes cuya indicación fue chequeo previo a cirugía bariátrica (OR 2,06; IC 95%: 1,33-3,19) y dispepsia (OR 1,33; IC 95%: 1,08-1,63), mientras con significativamente menor frecuencia en pacientes con indicación de EDA por cirrosis (OR: 0,44; IC 95%: 0,23-0,84). Es decir, la probabilidad de los cirróticos de tener infección por HP fue 2,27 veces menor que de los pacientes sin cirrosis.
+
+Tabla 2 Motivo de realización de la endoscopía digestiva alta y su relación con la frecuencia de infección por Helicobacter pylori 
+
+El motivo de realización de la endoscopía fue descrito tal cual estaba anotado en el informe de la endoscopía, esto incluye 9,3% de endoscopías sin diagnóstico en la orden médica y 8% de endoscopías por control no especificados en el informe.
+
+*Odds Ratio crudos.
+
+El TUR fue positivo en 434 de 1.862 (23,3%). Se tomó también biopsia gástrica en 797 de ellos (42,8%). De las biopsias gástricas, 233 (29,2%) fueron según protocolo de Sydney, en los otros casos se tomaron muestras de las lesiones focales o difusas. La biopsia gástrica mostró presencia de HP en 30%. Hubo 105 pacientes con TUR negativo y biopsia gástrica positiva (19,5% de falsos negativos de TUR), mientras que en 13 pacientes TUR fue positivo y biopsia gástrica negativa (5% de falsos negativos de biopsias). Considerando la infección por HP como TUR positivo y/o biopsia gástrica positiva, se encontró una prevalencia de infección de 28,9% en los 1.862 pacientes estudiados.
+
+La mayor prevalencia de infección se encontró durante la quinta década de la vida, entre los 40 a 49 años de edad, llegando a ser de 38,1%, la cual fue disminuyendo por cada década (Figura 1).
+
+Figura 1 Prevalencia de infección por Helicobacter pylori según década de la vida. La prevalencia de infección por HP por test de ureasa rápido y biopsia gástrica fue de 28,9%. En menores de 40 años fue de 30,6%, 40 a 49 años fue de 38,1%, 50 a 59 años fue de 30,9%, 60 a 69 años fue de 25,3%, 70 a 79 años fue de 15,8% y mayores de 80 años fue de 11,8%. 
+
+Al relacionar el hallazgo endoscópico con la frecuencia de infección por HP, se encontró que la gastropatía nodular, la úlcera gástrica, la úlcera duodenal, la duodenopatía erosiva y la gastropatía erosiva tuvieron una relación positiva significativa (p < 0,05). El hallazgo endoscópico que tuvo mayor relación con la infección por HP fue la gastropatía nodular (OR 4,24; IC 95%: 2,9-6,1). Se encontró que la gastropatía varioliforme y la esofagitis no tuvieron relación significativa con la infección por HP, mientras que la presencia de pólipos gástricos se asoció a menor frecuencia de infección por HP (OR 0,51; IC 95%: 0,4-0,7) (Tabla 3).
+
+Tabla 3 Relación entre la frecuencia de infección por Helicobacter pylori y el hallazgo endoscópico 
+
+*Corregidos por Regresión Logística Binaria.
+
+**χ2.
+
+Hubo un total de 207 (11,1%) EDA-s normales. Estas tuvieron infección por HP en 23,2%, lo que implica que los pacientes con EDA normal tienen una tendencia no significativa a no estar infectados por HP (OR 0,72; IC 0,5-1,01, p = 0,06).
+
+Discusión
+
+Desde que Marshall y Warren describieron la infección por HP en 1983 y su asociación con patología gastroduodenal, ha existido una intensa investigación que ha llevado actualmente a la recomendación de erradicación de HP a toda persona infectada24 para la prevención primaria del cáncer gástrico en comunidades con alto riesgo (Maastricht V)25. Esto ha incrementado la importancia de la búsqueda de HP en la mayoría de nuestros pacientes, ya que el tratamiento relativamente precoz de la infección, antes de producir un daño irreversible, está considerado como prevención primaria del cáncer gástrico particularmente en comunidades de alto riesgo, como Chile.
+
+Nuestro trabajo mostró una reducción significativa (p < 0,001) en la frecuencia de infección por HP en el HCUCh de 44,9% (2002 a 2005) a 28,9% (2016). Esta reducción de 16% en 11 años puede deberse a varios factores, como la indicación universal de erradicación de HP a todo paciente infectado, tratamiento recibido eventualmente antes de la EDA y a mejoría del nivel socioeconómico e higiénico de la población.
+
+Hay limitaciones en nuestro hallazgo de baja prevalencia de infección por HP, principalmente no haber considerado el tratamiento con inhibidores de la bomba de protones. A pesar de la recomendación de suspenderlos dos semanas previo a exámenes diagnósticos de infección por HP25, ha sido reportado su uso en otros centros de 47%26 y 70%27 en pacientes derivados a EDA, lo que disminuye la sensibilidad del TUR y de la biopsia gástrica hasta 70% (30% de falsos negativos) para diagnóstico de infección por HP28. Tampoco consideramos otros factores que disminuyen la sensibilidad del TUR al reducir la carga bacteriana de HP, como la gastritis crónica atrófica, la metaplasia intestinal, la hemorragia digestiva y el uso reciente de antibióticos, ya que concentraciones bacterianas menores de 104 pueden resultar en falsos negativos29. Estos factores pueden explicar nuestros hallazgos, donde hubo 105 pacientes con TUR negativo y biopsia gástrica positiva para infección por HP, que corresponde a 19,5% de falsos negativos. Otros factores fueron no tener información de eventual erradicación previa de HP y la recolección retrospectiva de los datos. La toma selectiva de muestra puede interferir también con los resultados, pero en la publicación previa se analizaron datos obtenidos con similares criterios que permite comparar los resultados obtenidos en los dos períodos.
+
+Se tomó muestra para TUR ureasa en sólo 55% de las EDA-s. Esto es explicado por la tendencia a relacionar la infección de HP sólo con hallazgos endoscópicos patológicos, mientras que la realización de TUR en pacientes asintomáticos con EDA normal con el fin de prevención primaria del cáncer gástrico aún no forma parte de la rutina cotidiana. Creemos que a medida que se acepte ampliamente el rol de la infección por HP en la etiopatogenia y prevención primaria del cáncer gástrico, se difundirá la toma de TUR a mayor número de pacientes, incluidos principalmente jóvenes asintomáticos con EDA normal.
+
+Nuestro trabajo confirmó la asociación entre la infección por HP y la gastropatía nodular, la úlcera gástrica, la úlcera duodenal, la duodenopatía erosiva y la gastropatía erosiva, siendo la asociación más fuerte con gastropatía nodular (54% de infección, OR 4,24; IC 95%: 2,9-6,1, p = 0,0001). Se encontró que la presencia de pólipos gástricos se asoció a menor frecuencia de infección por HP (12,8% de infección, OR 0,51; IC 95%: 0,4-0,7, p = 0,0001). Esto puede deberse a que el tratamiento con inhibidores de bomba de protones aumenta la frecuencia de pólipos gástricos y reduce la sensibilidad del TUR y biopsia gástrica, ya que esta asociación no ha sido reportada.
+
+La infección por HP se encontró 2,27 veces menos en cirróticos. Esto puede ser explicado tanto por la menor sensibilidad del TUR30 y la menor prevalencia de HP en estos pacientes31.
+
+Los estudios realizados en los años 1980s y 1990s mostraron que la prevalencia de úlcera péptica en pacientes derivados a EDA era de 15%32, las que estaban asociadas a infección por HP en 90% de úlcera duodenal y en 70% de úlcera gástrica33. La úlcera péptica posteriormente ha ido disminuyendo en prevalencia y asociando cada vez menos a HP, sobrepasando la úlcera gástrica a la úlcera duodenal34. Esto fue confirmado también en nuestra serie: la úlcera gástrica (3,7%) fue más frecuente que la úlcera duodenal (2,7%), y sólo 51% de las úlceras gástricas y 46% de las úlceras duodenales fueron positivas para infección por HP, lo que puede deberse al mayor uso de antiinflamatorios no esteroidales. La baja frecuencia de úlcera péptica en nuestro centro es concordante con nuestra baja prevalencia de infección por HP (28,9%), lo que coincide con lo encontrado en otras series26. En contraste, en La Florida, Chile, con una prevalencia de infección por HP de 78%, se encontró mayor prevalencia de úlcera péptica, con 8,1% de pacientes con úlcera gástrica y 6,4% de pacientes con úlcera duodenal3. Estos hallazgos apoyan la asociación de HP con úlcera péptica gastroduodenal.
+
+No tenemos datos fidedignos de la frecuencia de hallazgo de cáncer gástrico en estos dos períodos en nuestro centro, sin embargo, según la estadística nacional disponible hubo una disminución de mortalidad por cáncer gástrico en Santiago de 16,9 por 100.000 habitantes en el año 2000 a 12,9 por 100.000 habitantes en el año 201113, lo que puede estar relacionado a la disminución en la prevalencia de infección por HP.
+
+Conclusión
+
+Se buscó infección por HP en 55% de las EDA-s realizadas en 2015 y su prevalencia fue 28,9%, demostrando una reducción significativa en nuestro centro de 16% en 11 años. También se observó una baja frecuencia de úlcera péptica duodenal y gástrica, probablemente relacionada a esta reducción de la infección por HP. Los resultados falsos negativos (19,5%) del TUR, en parte pueden ser resultado del uso no registrado de inhibidores de bomba de protones autoprescritos. Por consiguiente, recomendamos registrar el uso de inhibidores de la bomba de protones y de antibióticos en la orden y en el informe de la EDA. En el caso de uso de éstos, aparte de muestra para TUR, sugerimos también tomar biopsias gástricas, para aumentar el rendimiento diagnóstico de infección por HP. Por la importancia demostrada de erradicación de HP en la prevención primaria de cáncer gástrico, recomendamos la toma de muestra para TUR en todos los pacientes menores de 50 años, aún con examen endoscópico normal. Además, sugerimos controlar la erradicación de la infección por HP durante los controles endoscópicos necesarios por la patología encontrada y aún en los casos sin necesidad de control endoscópico, con test no invasivo, ya sea test de aire espirado con urea marcada o, en primer lugar, el antígeno de HP en deposiciones. Este simple y fácilmente accesible test podría servir también para estudio poblacional.
+
+Agradecimientos
+
+A Mauricio Venegas y Carmen Hurtado por discusión y comentarios.
+
+Trabajo no recibió financiamiento

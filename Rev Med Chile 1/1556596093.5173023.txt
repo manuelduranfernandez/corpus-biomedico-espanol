@@ -1,0 +1,108 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000500562
+Estimulación cerebral profunda en enfermedad de Parkinson
+
+El uso de la estimulación cerebral profunda (ECP) como herramienta terapéutica en enfermedad de Parkinson (EP) se inicia en 1987 con el trabajo de un equipo liderado por los doctores Alim Louis Benabid y Pierre Pollak, en Grenoble, Francia. Rápidamente se hizo evidente su eficacia, por lo que ahora se considera una herramienta terapéutica imprescindible en el tratamiento de la EP avanzada1–4. La ECP del núcleo subtalámico (NST) es una herramienta terapéutica útil para las complicaciones motoras de largo plazo, especialmente en el control de las fluctuaciones motoras y de las discinecias5–8.
+
+En la Enfermedad de Parkinson Idiopática, tanto el globo pálido interno (GPI) como el NST presentan una actividad eléctrica aumentada como resultado del daño de la vía nigroestriada, la que puede ser inhibida por una estimulación eléctrica local. Si bien la estimulación eléctrica de alta frecuencia reduce en ambos blancos los síntomas motores y discinesias, es solo en el núcleo subtalámico donde la estimulación permite reducir las dosis de levodopa y agonistas dopaminérgicos necesaria para un buen control de los síntomas motores9–12.
+
+Como la medicación antiparkinsoniana también es responsable de complicaciones motoras y neuropsiquiátricas13, el conseguir un buen control de los síntomas motores con menores dosis de medicación convierte al núcleo subtalámico –por el momento– en la zona de primera elección en la instalación de electrodos cerebrales profundos en Enfermedad de Parkinson14,15.
+
+El objetivo de este artículo es presentar los resultados de una serie clínica retrospectiva de pacientes con Enfermedad de Parkinson idiopática y complicaciones motoras, realizada en Clínica Alemana de Santiago de Chile, con implantaciones de electrodos de ECP en el NST.
+
+Pacientes y Métodos
+
+Entre enero de 2009 y diciembre de 2011, fueron operados 20 pacientes (10 hombres/10 mujeres) con enfermedad de Parkinson idiopático –según los criterios del banco de cerebros de Londres. El rango de edad era de 48,5 ± 10,3 años y 11,7 ± 5,1 años de evolución de la enfermedad con presentación de complicaciones motoras de largo plazo, fluctuaciones y discinecias, y sin presentación de respuesta a los cambios en el esquema de medicamentos, lo que producía un deterioro en su calidad de vida. La severidad de la enfermedad promedio valorada en estadios de Hoehn & Yard fue de 2,7 ± 0,48.
+
+Se les realizó a todos los pacientes una prueba de levodopa en la que se evalúa la severidad de la enfermedad mediante la escala unificada de valoración de la enfermedad de Parkinson. El aspecto motor (UPDRS-III) fue evaluado después de 12 horas sin medicación (“OFF”), a primera hora de la mañana con una puntuación promedio de 56,8 ± 18,3. Luego se administró levodopa benserazida 200/50 mg y se evaluó la misma escala para medir el beneficio del medicamento (“ON”), lo que resultó en un promedio de 26,8 ± 12,3 (Tabla 1).
+
+Tabla 1 Característica demográficas de la población estudiada 
+
+La selección y el seguimiento de los pacientes fueron realizados mediante los criterios sugeridos por el Core Assessment Program for Surgical Interventional therapies in Parkinson's Disease (CAPSIT-PD)16,17.
+
+Los criterios de Inclusión fueron:
+
+Tener enfermedad de Parkinson de más de 5 años de evolución con complicaciones motoras de largo plazo con impacto en las actividades de la vida diaria.
+
+Los síntomas motores responden bien a levodopa, evaluado mediante la prueba de levodopa (previamente descrita).
+
+Condiciones físicas y psicológicas que le permitan tolerar una cirugía prolongada en la que estará consciente y cooperando con el equipo quirúrgico.
+
+Los criterios de exclusión fueron:
+
+Deterioro cognitivo.
+
+Trastornos psiquiátricos y conductuales severos.
+
+Todos los casos cuentan con un consentimiento informado especial aceptado por el paciente y su red de apoyo.
+
+La cirugía se realizó en dos fases: primero, la implantación de electrodos en ambos NST con técnica estereoráctica y microregistro neurofisiológico intraoperatorio. Luego de algunos días, se realizó una segunda intervención con el objeto de hacer la conexión de los cables de extensión y del neuromodulador.
+
+En la primera etapa, se instaló un marco de estereotaxia al paciente con anestesia local (modelo ZD Leibinger). Realizamos una resonancia magnética cerebral (GE 1,5T) con marco compatible y protocolo volumétrico. Las imágenes se transferían a una estación de trabajo con Software de estereotaxia (ocupamos Stryker Leibinger 3,0 y Medtronic Framelynk). Usamos protocolos volumétricos T1 gadolineo y T2 en área de interés18. Una vez procesada la imagen en un sistema de coordenadas estereotácticas, se identifica el punto medio de la linea entre la comisura anterior (CA) y comisura posteriro (CP), llamado punto medio intercomisural.
+
+En la estación de trabajo se establece la localización del núcleo subtalámico de forma indirecta. Habitualmente usamos desde el punto medio intercomisural, 12 mm de lateralidad, 3-4 mm posterior y 3-4 mm inferior. Los planos de Schaltebrandt y Talairach se usan, pero tienen poca utilidad ya que por un defecto en su construcción, no coinciden los blancos en los diferentes planos. De forma directa, tenemos una aproximación al visualizar el núcleo rojo de ambos lados en plano axial. Esta información se ingresa a un sistema de neuronavegación que define la trayectoria y profundidad desde el punto de entrada (craneotomía) hasta el núcleo subtalámico. Así, se evita en el ingreso pasar por los ventrículos laterales y venas corticales en relación a la sutura coronal. El software (Stryker Leibinger 3,0, Medtronic Framelynk) nos dará las coordenadas x, y, z al blanco y trayectoria calculados (Figura 1).
+
+Figura 1 Calculo de coordenadas x, y, z al blanco y trayectoria calculadas en software de navegación neuroquirúrgica. 
+
+Con esta información se posiciona al paciente en la mesa del pabellón, con el cuidado de no elevar mucho el respaldo de la mesa. Luego de un aseo adecuado, se infiltra anestesia local, regional y sedación. De esta forma se pueden construir ambos accesos a nivel coronal bilateral, dejando disecado el plano subgaleal donde se alojarán los electrodos. Abrimos un lado, siempre con la precaución de no perder volumen de líquido céfalo raquídeo, e introdujimos nuestro micro electrodo de exploración, iniciando el registro, a 5 mm de blanco deseado (NST).
+
+A traves del microregistro intraoperatorio(MRI), identificamos la actividad electrica cerebral de la trayectoria realizada con un microelectrodo de registro de 4 μm. Esto permite identificar las diferentes zonas: Talamo, Zona incerta y Nucleo sub talamico. Con esto, logramos una doble confirmacion de estar en el area adecuada: anatomica y electrofisiologica. Este nucleo tiene 5 mm de extension cefalo caudal, y establece relaciones anatomicas con el nucleo del III Nervio craneal, Capsula Interna, Nucleo Rojo y Lemnisco Medial. Esta técnica permite posicionar el electrodo definitivo en una posición óptima.
+
+Una vez establecidos los límites del NST, se realizan estimulaciones eléctricas transitorias en distintas zonas del núcleo. Analizamos la respuesta clínica en la disminución de los síntomas parkinsonianos (temblor, rigidez, discinecias), y en la aparición de efectos no deseados (desviación de mirada, parestesias, activación cápsula interna)19,20. Según los resultados de esta prueba se decide en qué zona del núcleo se dejará el electrodo definitivo, que tiene 4 contactos eléctricos activos en su extremo con un diámetro de 1,2 mm (modelo 3389 Medtronic Inc, Minneapolis, USA). Además, se comprueba su posición mediante radioscopia. Realizamos en todos los casos una TAC Cerebro sin contraste postoperatorio, con el fin de identificar complicaciones, confirmar blanco y localización de los electrodos (Figura 2).
+
+Figura 2 Radiografía de cráneo que se visualizan los electrodos de estimulación instalados. 
+
+En la segunda etapa, a través de un procedimiento bajo anestesia general 2-3 días después, se conectan los electrodos a los cables de conexión y al generador de pulsos programable que se inserta en un bolsillo subcutáneo (3 casos Soletra, 8 casos Kinetra, 6 casos Activa RC todos de Medtronic Inc., Minneapolis, USA, 3 casos de NeuroCor). Se realizan las pruebas de todos los contactos del electrodo definitivo. Se requirieron cerca de 4 semanas en promedio para llegar a los parámetros eléctricos definitivos de estimulación continua, que se muestran en la Tabla 2.
+
+Tabla 2 Paramentos de estimulación 
+
+Se realizó un seguimiento inicial temprano a los 3 meses y posteriormente cada año. Se reporta un período de 5 años. La evaluación inicial se realiza mediante la escala de UPDRS-III en estado motor “ON” y con el estimulador prendido (ONON). Se registra también la presencia de disquinesias, cantidad de medicación tomada, escala de calidad de vida PDQ 39, escala de impresión clínica global de gravedad (ICGG) e impresión clínica de gravedad para enfermedad de Parkinson (CISI-PD)21,22. El seguimiento a largo plazo fue realizado mediante equivalentes de levodopa (ELD), ICGG y CISI-PD.
+
+La medicación se expresó en ELD, según las siguientes equivalencias: 100 mg de levodopa más inhibidor de la descarboxilaza equivalen a 1 mg pramipexol, a 4 mg de Ropirinol, a 4 mg Rotigotina, a 75 mg de levodopa carbidopa retardada o a 50 mg de levodopa benserazida hidrodinámicamente balanceada. El uso de entacapone 200 mg aumenta 30% la levodopa. Mediante estas equivalencias se realizó la suma del tratamiento en equivalentes de levodopa (ELD).
+
+Se evaluaron los eventos adversos a través de preguntas abiertas.
+
+Análisis estadístico
+
+Los resultados se comunican como media y desviación estándar (DE) para las variables cuantitativas y porcentajes para las variables categóricas. Se analizaron las variables demográficas y clínicas usando estadísticos descriptivos. En el análisis de UPDRS-III, PDQ39, ICGG, CISI-PD y ELD se utilizó la prueba de t de Student para comparar dos muestras independiente y análisis de varianza (ANOVA) para más de 2 grupos. Mediante el programa estadístico IBM Corp. Released 2013. IBM SPSS Statistics for Windows, Version 22.0. Armonk, NY: IBM Corp. Se consideró estadísticamente un valor de p < 0,05.
+
+Resultados
+
+La evaluación temprana muestra variaciones significativas de todos los parámetros evaluados respecto a la basal. En la Tabla 3 se presentan las características de los pacientes en la basal y su evaluación a los 3 meses. La evaluación del estado motor se realizó durante el período “ON-ON”. En este estado del paciente se observa una variación de 18,7% respecto a la basal a los 3 meses. La medicación en ELD disminuyó 19,4% respecto a la basal a los 3 meses. Todos los pacientes continuaron tomando levodopa.
+
+Tabla 3 Efectos a los 3 meses de la estimulación subtalámica en la respuesta motora (UPDRS-III), medicación en equivalentes de levodopa, horas de tiempo OFF, ON con y sin discinesias y evaluación de calidad de vida (PDQ-39) 
+
+La estimulación establecida en el período inicial se mantuvo estable durante el período de seguimiento no requiriendo ajustes a los parámetros de estimulación (Tabla 3). El seguimiento posterior se presenta en la Tabla 4 en cuanto a número de paciente ELD, ICGG y CISI-PD. En la Figura 3 se presenta la evolución en el tiempo de CISI-PD. Las diferencias respecto a la basal son significativas para todos los casos.
+
+Tabla 4 Seguimiento a 5 años mediante escala de impresión clínica para la gravedad de la enfermedad de Parkinson (CISI-PD), Impresión clínica global de gravedad y equivalentes de levodopa 
+
+Comparaciones respecto a la basal
+
+*p < 0,05.
+
+Figura 3 Seguimiento a 5 años mediante escala de impresión clínica para la gravedad de la enfermedad de Parkinson (CISI-PD). 
+
+Complicaciones
+
+Eventos adversos quirúrgicos: un caso de neumoencéfalo y un caso de trombosis venosa a nivel del lóbulo frontal en relación al acceso. En ninguno de los casos quedaron secuelas. Además, 2 casos de infección tardía (4 meses y 6 meses posterior a cirugía) a nivel de los electrodos de conexión que requirieron tratamiento antibiótico. Finalmente, en uno de los casos, se debió retirar de forma completo el sistema y reinstalar.
+
+Eventos adversos del dispositivo: una fractura del cable de conexión un año posterior a la cirugía inicial, lo que obligó a cambiar los cables de conexión.
+
+Efectos adversos de la estimulación: un episodio hipomaniaco que cedió con el ajuste de los parámetros de estimulación.
+
+Se perdió el seguimiento de un paciente que murió de cáncer de páncreas al quinto año de estudio.
+
+Discusión
+
+La ECP en el núcleo subtalámico (NST) ha demostrado ampliamente ser costo efectiva23,24 y segura para el manejo de complicaciones motoras tardías de la enfermedad de Parkinson25–27. Nuestra serie muestra resultados y complicaciones similares a las series publicadas en la literatura28–32.
+
+La discusión actual ya no es sobre la eficacia del tratamiento, sino que está centrada en cuándo, en la evolución de la enfermedad, se debe operar. Si bien no existe un consenso al respecto, existen algunos lineamientos generales que nos orientan a la adecuada selección de los pacientes que tendrán mayor beneficio de la cirugía33,34. En este sentido, podemos distinguir algunos predictores del beneficio en la cirugía: se benefician más los pacientes jóvenes, los que tienen una excelente respuesta a levodopa y quienes presenten complicaciones motoras –especialmente disquinesias– como su principal problema35,36. Estas características las cumple aproximadamente 10-15% de la población con enfermedad de Parkinson.
+
+Nuestra serie de pacientes tiene un sesgo en el sentido de que la población seleccionada cumplía con los criterios antes mencionados. El grupo de pacientes era más joven que la mayoría de las series publicadas (48,5 años vs 63 años) y presentaban muy buena respuesta a la levodopa (52,8% de variación promedio de “ON” a “OFF”). En esto último se parecía a las características de la población del estudio Earlystim37.
+
+El seguimiento demuestra una excelente respuesta a largo plazo, especialmente en el control de los aspectos motores como la bradicinecia, la rigidez y diskinesias que se mantiene en el tiempo. Sin embargo, la progresión de la enfermedad continúa. Esta tendencia es observada en nuestra serie con el deterioro del CISI-PD en los años de seguimiento. Pese a esto, la ICGG es mejor que previo a la cirugía.
+
+Conclusiones
+
+En nuestra serie se observan resultados similares a los descritos por la literatura internacional en los que se valida la ECP como una alternativa para el manejo de las complicaciones motoras y discinecias en la enfermedad de Parkinson idiopática. Dado el gran impacto que tiene en la calidad de vida de los pacientes, creemos que debiera ser ofrecido a los pacientes que cumplan las características descritas. Este procedimiento requiere del trabajo de un equipo multidisciplinario, entrenado, coordinado y con experiencia para entregar resultados similares a los publicados.
+
+Trabajo no recibió financiamiento.

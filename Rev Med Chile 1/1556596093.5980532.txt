@@ -1,0 +1,128 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000500578
+Cáncer de cabeza y cuello: validación de cuestionario QLQ-H&amp;N35
+
+El cáncer de cabeza y cuello (CCC) corresponde una neoplasia maligna que afecta principalmente al tracto aéreo digestivo superior y se subdivide según la región anatómica comprometida, clasificándose en cáncer de: cavidad oral, faringe (orofaringe, nasofaringe e hipofaringe), laringe (glótica, supraglótica e infraglótica), glándulas salivales, fosas nasales y senos paranasales. Corresponde al 3% del cáncer en general, siendo el sexto más común en el mundo. Se ubica 40% en labio, cavidad oral y orofaringe, 25% en laringe, 15% en nasofaringe e hipofaringe y 20% en otros sitios anatómicos, como las glándulas salivales1.
+
+La variedad histológica más frecuente es el carcinoma espinocelular (CEC). Dentro de su etiología, el uso de alcohol y de tabaco son los factores de riesgo más relevantes2, estando alrededor de 75% de los casos asociados a ellos3 y las personas que consumen ambos tienen un riesgo mayor debido a su efecto sinérgico4,5, llegando a tener un riesgo 10 a 20 veces mayor que aquellos pacientes que no fuman o no beben6. Se presenta preferentemente entre la 5ta y 6ta década y afecta más a hombres6–9. Otros factores asociados son los medio - ambientales, tales como los virus Epstein Barr, Virus papiloma humano, virus herpes simple, entre otros6.
+
+En Chile, la incidencia para este cáncer, varía según la región de localización. Así, por ejemplo, para cáncer de labio y cavidad oral es de 1,6 por 100.000 habitantes en hombres y de 0,8 por 100.000 habitantes en mujeres y la mortalidad de 0,8 por 100.000 habitantes en hombres y de 0,3 por 100.000 habitantes en mujeres10.
+
+Calidad de vida en salud
+
+En salud, la calidad de vida (CV) es una medida que relaciona la percepción del paciente frente a su salud o enfermedad, variando a lo largo del transcurso y resolución de ésta11,12.
+
+En relación al cáncer en la región de CCC, se pueden ver afectados parámetros estéticos y anatómicos, pudiendo presentar dolor e impotencia funcional afectando funciones vitales, como comer y respirar. Todo esto repercute en aspectos psicológicos, como la autoestima, y la forma de interrelacionarse del paciente13.
+
+Una forma de evaluar la CV en relación a la salud, es empleando cuestionarios. Para la adecuada utilización de estos, debe comprobarse la validez, para así ser aplicados a la población con la enfermedad en estudio14. Esto se garantiza, en primer lugar, por medio de la validación estadística del cuestionario, la que debe realizarse en cada país, adaptándose a las características poblacionales, y, en segundo lugar, a la validez lingüística que permite aplicar el instrumento al contexto social y cultural de este15.
+
+Es así como la Organización Europea para Investigación y Tratamiento del Cáncer (EORTC) ha desarrollado diversos cuestionarios específicos de calidad de vida que se consideran completos y su formulación resulta culturalmente próxima a la idiosincrasia latina. La EORTC ha estructurado un cuestionario en base a 30 preguntas medidas mediante escala Likert, aplicable a todo paciente oncológico, ya adaptado culturalmente y validado en Chile16. Dentro de este cuestionario, existe como módulo suplementario el QLQ-H&N35 para pacientes con CCC, que ha sido traducido a su versión en español, siendo validado por Arrarás et al (2001) en España. Esta versión ha sido modificada para su aplicación en la población chilena, sin embargo, no se ha validado estadísticamente en Chile.
+
+Por lo tanto, el objetivo de este trabajo es validar estadísticamente la encuesta QLQ-H&N35 en pacientes con CCC que se atienden en el Instituto Nacional del Cáncer (INC).
+
+Material y Método
+
+Diseño observacional analítico de corte transversal. La población de estudio está compuesta por pacientes con diagnóstico de CCC que se atienden en el INC. Este estudio incluye a pacientes, mayores de 18 años, con confirmación diagnóstica (clínica e histopatológica) de CCC, cáncer de piel y cáncer de tiroides con o sin tratamiento de su enfermedad. Estos dos últimos cánceres fueron considerados dada la severidad de los casos ingresados, implicando complejidad en los tratamientos.
+
+Como criterios de exclusión, se consideraron a pacientes con presencia de tumores malignos secundarios concurrentes, con incapacidad para entender o completar los cuestionarios, y declaración de enfermedades críticas o desarrollo de complicaciones agudas en relación al tratamiento.
+
+Se aplicó el cuestionario QLQ-C30 con el módulo suplementario QLQ-H&N35 en conjunto con la encuesta SF-36, considerada esta última como Gold Standard (GS). Las encuestas fueron realizadas de manera presencial por estudiantes de 5to año de odontología de la Universidad Mayor en la Unidad de Rehabilitación del INC durante los meses de junio a diciembre del año 2016, las que fueron capacitadas previamente para la aplicación del instrumento. Los pacientes seleccionados consecutivamente, fueron informados sobre su participación asociada a la encuesta y se les solicitó su consentimiento informado para aplicar, analizar y publicar los datos.
+
+El estudio fue aprobado por el Comité de Ética del Servicio de Salud Metropolitano Norte el día 3 de septiembre de 2015.
+
+Análisis estadístico
+
+Cálculo de tamaño de muestra
+
+El tamaño muestral se calculó según la propuesta de Tabachnik y Fidell19, considerando que con el fin de obtener estimaciones fiables a través de análisis multivariado, el número de observaciones debe ser de 5 a 10 veces el número de variables del modelo. En este caso se estimó en 150 individuos, ya que QLQ-C30 incorpora 30 preguntas.
+
+Validación estadística
+
+Se realizó estadística descriptiva según el tipo y escala de la variable, reportando estadígrafos de tendencia central, dispersión y posición.
+
+La confiabilidad de los cuestionario C30 y H&N35, se evaluó mediante el coeficiente de α de Cronbach, y se estableció el nivel de confiabilidad según los criterios de George y Mallery17 (Tabla 1). Para evaluar la validez concurrente, se convirtieron los puntajes Linkert a valores entre 0 y 100 en cada uno de los instrumentos utilizados.
+
+La validez se determinó por medio de la eficacia diagnóstica de la escala QLQ-H&N35 en relación al GS (SF-36), que fue estimada mediante una curva Característica Operativa del Receptor (ROC) y los resultados fueron interpretados mediante los criterios de Hosmer y Lemeshow18.
+
+Se consideraron puntos de corte enfocados en la especificidad para así pesquisar a los pacientes con mala calidad de vida.
+
+Los datos recopilados fueron analizados con el software Stata V.13.1, considerando un nivel de significación de 5%.
+
+Resultados
+
+Las encuestas fueron realizadas en 150 pacientes, 94 mujeres (62,67%) y 56 hombres (37,33%). La edad mediana fue de 61 años (20-88).
+
+En relación al diagnóstico, se presentan en orden de frecuencia en la Tabla 1a y ordenados según su distribución por género en la Tabla 1b.
+
+Tabla 1a Diagnósticos y su frecuencia en los pacientes encuestados 
+
+*Fuente de elaboración propia.
+
+Tabla 1b Diagnósticos: distribución por género 
+
+*Fuente de elaboración propia.
+
+El 96,67% de los pacientes había recibido o se encontraba en tratamiento como se puede apreciar en la Tabla 2. El mayor porcentaje de los pacientes (88%) recibió tratamiento quirúrgico seguido por irradiación, quimioterapia y radioyodo y por último el 3,33% de los pacientes se encontraba sin tratamiento al momento de realizar la encuesta Tabla 3.
+
+Tabla 2 Aplicación de la encuesta en relación al período de tratamiento 
+
+Tabla 3 Tratamientos oncológicos de muestra en estudio 
+
+*Existen pacientes que recibieron terapias combinadas como esquema terapéutico.
+
+Validación de la escala
+
+Análisis de confiabilidad
+
+En ambos cuestionarios se obtuvieron resultados de consistencia interna global aceptables (α de Cronbach fue sobre 0,70)17. La confiabilidad de la encuesta QLQ 30 por sí sola, fue de 93,35%. El módulo suplementario H&N35 tuvo una confiabilidad de 94,77%, y ambos instrumentos de 96,21%.
+
+En el caso del cuestionario C30 los valores de α para las escalas multi-ítem se encontraron entre 0,56 para la escala de función cognitiva, y 0,87 para las escalas de salud global y funcionamiento de roles. En el caso de la encuesta H&N35 la mayor confiabilidad se obtuvo en la escala de “problemas con comidas sociales” con un valor de 0,78 y la menor en la escala de “problemas sensitivos” con un valor de 0,13 (Tabla 4).
+
+Tabla 4 Consistencia interna de las escalas multi-ítem C30 y H&N35 
+
+Análisis de validez
+
+La capacidad de discriminación fue de 74,2%, lo que se considera aceptable. Se estableció como puntos de corte valores entre 40 y 45, obteniendo especificidades que fluctúan entre 85,88% y 90,59% (Figura 1).
+
+Figura 1 Análisis ROC EORTC QLQH&N35/SF-36v2. 
+
+Discusión
+
+En Chile, la CV es considerada y evaluada cada vez con más frecuencia en las diversas áreas de la salud, sin embargo, muchas veces su evaluación es a través de cuestionarios no específicos o a través de encuestas que no han sido validadas16.
+
+En el presente estudio, los datos epidemiológicos presentaron resultados similares a lo descrito en la literatura, destacando que el cancer de mayor prevalencia de la region de CCC es el de tiroides con mayor asociacion al sexo femenino9. En el caso de CCC, el CEC correspondio a la variedad histologica mas frecuente3, y hubo una brecha muy estrecha en su frecuencia de presentacion entre los dos generos, lo que se condice con la literatura, en la cual se relata que este cancer ya no tiene una prediccion marcada por el genero masculino y que ha habido un aumento considerable en la incidencia del CEC en mujeres en los ultimos anos, lo que se asocia al aumento de mujeres fumadoras6–9.
+
+En el presente estudio, los resultados obtenidos en la validacion de QLQ-H&N35 son comparables a los que se demostro en otros paises, como Mexico20, Espana21, Polonia22 y Japon23. En todos estos paises el modulo H&N35 tuvo resultados de consistencia interna aceptables (α > 0,70), tanto al analizarse por si sola como en conjunto al cuestionario C30.
+
+En el analisis de confiabilidad de los items multiples, la escala de “función cognitiva” de la encuesta C30 tuvo un valor menor al aceptable (0,56), obteniendo valores por sobre 0,7 en el resto de las escalas. Al igual como se demostro en la validacion de Mexico20, donde obtuvieron un valor de 0,22 en esta escala, y valores sobre aceptables en todas las demas.
+
+En el caso de la encuesta H&N35, dos escalas obtuvieron valores bajo lo aceptable, la escala de “problemas sensitivos” y la de “menos sexualidad”.
+
+La menor confiabilidad se obtuvo en la escala de “problemas sensitivos” con un α de Cronbach de 0,13. Esto es comparable a lo observado en Mexico20, donde esta escala tampoco obtuvo una confiabilidad aceptable y fue tambien la de menor valor (0,49).
+
+Por otro lado, en Japon y Polonia la confiabilidad de esta misma fue aceptable. Aunque en el caso de Polonia, fue tambien la de menor valor (0,72), pero todas las escalas obtuvieron coeficientes α de Cronbach mayores a 0,70.
+
+La segunda escala que no obtuvo una confiabilidad aceptable en este estudio fue la de “menos sexualidad”. En contraste, a lo ocurrido en Japon23, donde esta escala obtuvo el mayor coeficiente α de Cronbach (0,93).
+
+Los resultados del estudio muestran una mayor similitud con lo que se describe por Carrillo et al. (2013)20 en la validacion de Mexico, lo que puede guardar relacion con que hay una mayor cercania geografica y cultural con esta poblacion.
+
+El analisis de confiabilidad utilizado es aplicable solo a escalas de items multiples (mas de una pregunta), y el valor α de Cronbach es sensible al numero de preguntas de la escala. Todos los valores bajos se presentaron en escalas compuestas por 2 preguntas, lo que no reflejan necesariamente que estas escalas no midan de manera aceptable.
+
+La encuesta H&N35 por si sola tiene una confiabilidad que es alta en la predicción de la CV (94,7%), lo que sugiere que, al implementarse sola, sin la encuesta C30, cumplirá el rol de evaluar la CV. A pesar de eso, se recomienda su aplicación en conjunto16, ya que ambos cuestionarios se complementan abarcando más áreas y recopilando información de utilidad para el tratamiento como también en el seguimiento del paciente. Esto se ve reflejado en los resultados obtenidos en nuestro estudio, donde se obtuvo mayor confiabilidad al aplicar las dos encuestas juntas (96,21%).
+
+En relación a la capacidad de discriminación de la escala H&N35, determinada por el análisis de la curva ROC, fue de 74,2%, lo que se considera aceptable. Esto la convierte en un instrumento útil para pesquisar la buena/mala CV de los pacientes. No hay muchos artículos de la validación de la encuesta H&N35 que determinen la capacidad de discriminación mediante la curva ROC. Sin embargo, en un estudio realizado en Chile para validar el módulo específico de cáncer de mama desarrollado por la EORTC, el BR-23, realizaron el análisis de ROC utilizando el mismo Gold Standard (SF-36) para contrastar la encuesta. La capacidad de discriminación obtenida en este estudio fue de 0,9316.
+
+La diferencia en la capacidad de discriminación entre ambas encuestas a favor del cuestionario BR-23, puede deberse a que a nivel de CCC se presenta una mayor diversidad de neoplasias malignas, lo que hace que sean muy variados los efectos de éstas sobre la CV, siendo difícil abarcarlos todos y estandarizarlos en una sola encuesta.
+
+Además, establecieron puntos de corte según la especificidad, al igual que en el presente estudio. Se definió así para lograr descartar adecuadamente a aquellos pacientes con buena CV, y favorecer la pesquisa de aquellos con mala CV, ya que estos últimos son el principal objetivo de la aplicación de la encuesta para poder ser intervenidos mejorando el tratamiento y reforzando el apoyo en estos paciente24.
+
+Entre las limitaciones encontradas al realizar el estudio, está la gran cantidad de preguntas y el tiempo que demandó contestar las tres encuestas, lo que ocasionó que algunos pacientes se saltaran preguntas, invalidando estos cuestionarios para el estudio. Así también, la población es seleccionada por conveniencia, dada las condiciones del establecimiento (población asignada).
+
+Por otro lado, no fue posible realizar la encuesta en pacientes hospitalizados en Unidad de Cuidados Intensivos o estados más graves, ya que requiere de mayor tiempo y colaboración de otros profesionales. Esto se condice con la literatura, en la que se describe que los pacientes más graves son menos asequibles a las evaluaciones, lo cual constituye un sesgo en los resultados25.
+
+Por último, la utilización de este tipo de herramientas podría ser de ayuda tanto para el equipo médico como para el paciente y quienes cuidan de éste último permitiendo pesquisar aquellos pacientes con mala calidad de vida y permitiendo enfocar de mejor manera sus tratamientos y rehabilitación.
+
+Trabajo no recibió financiamiento.
+
+Agradecimientos:
+
+A todos los funcionarios de la Unidad de Rehabilitación y al Equipo de Cabeza y Cuello, del Instituto Nacional del Cáncer, Chile.

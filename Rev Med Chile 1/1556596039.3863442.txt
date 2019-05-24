@@ -1,0 +1,106 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872010001200004
+Epidemiología del sobrepeso y obesidad infanto-juvenil en las comunas de Concepción, Coronel y Hualpén, VIII Región de Chile
+
+El sobrepeso y obesidad afectan a una importante proporción de la población adulta en nuestro país1, constituyendo un problema de salud pública relevante por el exceso de morbilidad y mortalidad asociado a estos trastornos nutricionales.
+
+La importancia del sobrepeso y obesidad entre escolares y adolescentes ha sido estudiada en diversas naciones del mundo. En todos los casos, independientemente del sexo y grupo etario considerado, se aprecia un aumento en la prevalencia del sobrepeso y la obesidad infanto-juvenil al comparar cortes transversales sucesivos2-22.
+
+En nuestro país Kain y colaboradores23 estudiaron la prevalencia del sobrepeso y obesidad en escolares Chilenos que ingresaban a 1º básico entre los años 1987 y 2000, encontrando tasas de prevalencia semejantes a la de países como España.
+
+Global School-Based Student Health Survey (GSHS)24 fue un estudio multicéntrico internacional que incluyó establecimientos educacionales de nuestro país y que fue patrocinado por International Obesity Taskforce (IOTF) y Centers for Disease Control and Prevention (CDC). Su propósito fue obtener datos de conductas en salud y factores protectores entre los estudiantes de 7º básico a 1º medio. En nuestro país los investigadores encontraron que 3,7% de los escolares encuestados tenía obesidad y 20% sobrepeso.
+
+El estudio de Kain sólo consideró niños de 1º básico y GSHS obtuvo los datos para calcular el índice de masa corporal (IMC) mediante una encuesta. El utilizar el auto-reporte de peso y talla subestima significativamente la prevalencia de sobrepeso y obesidad en relación a la antro-pometría25. Por lo anterior nos pareció necesario obtener nuevos datos para conocer la importancia de los trastornos nutricionales infanto-juveniles en nuestro país.
+
+El propósito de nuestra investigación fue conocer la prevalencia de sobrepeso y obesidad infanto juvenil en las comunas de Concepción, Coronel y Hualpén. Adicionalmente buscamos identificar grupos de riesgo para estos trastornos nutricionales en la muestra de población de interés.
+
+La información obtenida en este estudio se utilizó para la implementación del Proyecto MECESUP UCO 0609 Modelo Educativo Trans-disciplinario para la Prevención de la Obesidad Infanto-Juvenil de la Facultad de Farmacia de la Universidad de Concepción.
+
+Material y Métodos
+
+Se solicitó a la Junta Nacional de Auxilio Escolar y Becas (JUNAEB) los resultados de la evaluación realizada a los establecimientos educacionales bajo su supervisión el año 2006 en las comunas de Concepción, Coronel y Hualpén de la Región del Bío-Bío. La base de datos aportada por la JUNAEB contenía información de 49.199 alumnos para las variables fecha de nacimiento (día, mes y año), nombres y apellidos, género, peso (kg) y talla (cm), escolaridad de la maDre y del jefe de hogar, índice de prioridad social familiar26, ubicación del establecimiento educacional y tipo de enseñanza impartida.
+
+Se incluyeron sólo los alumnos entre 6 y 18 años con datos de antropometría completos (peso y estura), considerando para el cálculo de la edad la fecha del reporte (31 de marzo de 2006).
+
+Se pesquisaron    64 repeticiones de datos que fueron eliminadas del análisis. Para los 45.250    escolares seleccionados se generó la variable índice de masa corporal (IMC)    que significó perder 12.015 observaciones por no contar todos con peso o talla    para su cálculo. Entre las 33.235 observaciones de IMC se pesquisaron 721 valores    incongruentes (IMC < 13 para cualquiera edad y sexo) probablemente por error    de digitación en la base original, que también fueron excluidos del análisis    (Figura 1).
+
+
+
+Para evaluar el efecto de la pérdida de las 12.736 observaciones comparamos las variables edad, género, comuna e índice de prioridad social entre la muestra excluyendo repeticiones (N = 45.250) y la muestra analizada (N = 32.514). Para estimar las prevalencias de sobrepeso y obesidad se utilizaron los criterios del Comité de Expertos en Obesidad Infantil de los Estados Unidos de Norteamérica (EE.UU.)de 1998 con la referencia de IMC del CDC y la definición propuesta por la IOTF en 1997 utilizando como referente el estudio de Cole27-30. Las tablas con la referencia CDC de IMC en formato Excel para percentiles y z-scores se convirtieron a formato STATA y se fusionaron con los datos JUNAEB, homologando las variables edad y sexo. Los datos fueron analizados mediante el programa estadístico STATA 10.0 (STATA Corp.)
+
+La prevalencia de sobrepeso y obesidad se expresó como porcentaje en relación al total de sujetos y luego según sexo, categorías etarias, índice de prioridad social familiar y comuna. A pesar de tratarse de un estudio de corte transversal se evaluó el riesgo de sobrepeso y obesidad de acuerdo al sexo, edad, índice de prioridad y comuna mediante odds ratio (OR). Finalmente, se evaluó el riesgo de sobrepeso y obesidad considerando todas las variables mencionadas mediante regresión logística múltiple.
+
+Resultados
+
+La edad promedio de la muestra analizada (N = 32.514) fue 11,8 ± 3,57 años (rango 5 a 17,8 años), con 47,55% de varones (IC 95% 47-48). La proporción de familias social-mente vulnerables fue 65,3% en la Comuna de Concepción, 65,7% en Hualpén y 78,77% en Coronel. La edad promedio de la muestra original excluyendo repeticiones (N = 45.250) fue 12,4 ± 4,32 años (rango 5 a 17,8), con 47,93% de varones (IC 95% 47,4-48,4). La proporción de familias socialmente vulnerables fue 66,1% en la Comuna de Concepción, 66,58% en Hualpén y 79,46% en Coronel. Al comparar estos datos, solamente la edad promedio de las muestras presentó una diferencia significativa (p < 0,0001).
+
+Sobrepeso y obesidad según Criterio CDC
+
+Las prevalencias de sobrepeso y obesidad de acuerdo al criterio percentilar del CDC fueron 11,19% y 6,54% respectivamente. En la Tabla 1 se presentan la distribución de sobrepeso y obesidad según sexo, siendo el sobrepeso más frecuente en el sexo femenino y la obesidad en el masculino. En las Figuras 2 y 3 se puede apreciar el comportamiento de la prevalencia del sobrepeso y obesidad según edad, para cada sexo. Se observa una mayor frecuencia de sobrepeso y obesidad en el grupo etario entre < 8 años, independientemente del sexo. Al contemplar las curvas de prevalencia de sobrepeso y obesidad versus edad, éstas adoptan la forma de U con un nadir entre 8 y 12-13 años según sexo.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Sobrepeso y obesidad según criterio IOTF
+
+Al realizar las    estimaciones mediante el criterio IOTF se encontró que la prevalencia de sobrepeso    fue 13,19%    y la de obesidad 4,03%. En la Tabla 2 se puede apreciar la    prevalencia de sobrepeso y obesidad por sexo, destacando la mayor frecuencia    de sobrepeso y obesidad en el sexo femenino. Este hallazgo contrasta con la    mayor prevalencia de obesidad observada en varones con el Criterio CDC. En la    Figura 4 se puede observar que la variación de la prevalencia    de sobrepeso y obesidad con la edad también asume la forma de U con el criterio IOTF.
+
+
+
+
+
+ 
+
+
+
+La    prevalencia de sobrepeso y obesidad según el criterio IOTF fueron significativamente    diferentes a las obtenida por el Criterio CDC (Tabla 3).
+
+   
+
+Análisis de factores de riesgo
+
+Al modelar mediante    regresión logística la asociación entre prevalencia de sobrepeso y obesidad    en conjunto con las variables sexo, edad (dicotomizada en menores y mayores    de 8 años), comuna e índice de prioridad social, encontramos que tener menos    de 8 años de edad (OR 3,96; IC 95% 3,71- 4,21; p > 0,0001) y residir en la    comuna de Hualpén en relación a Concepción y Coronel(OR 1,16; IC 95% 1,07-1,25;    p = 0,0001) eran factores de riesgo para sobrepeso y obesidad .
+
+Al modelar sólo prevalencia de obesidad como variable dependiente, encontramos mayor riesgo de esta condición en menores de 8 años (OR 5,66; IC 95% 5,2-6,2; valor p < 0,0001), en el sexo masculino respecto al femenino (OR 1,24; IC 95% 1,13-1,36; p < 0,0001) y en los residentes de Hualpén respecto a las otras comunas (OR 1,40; IC 95% 1,3-1,6; p = 0,001).
+
+Al construir un modelo predictivo del riesgo de obesidad mediante regresión logística múltiple se aprecia que la mayor parte del efecto se atribuiría a la edad dicotomizada en < y > 8 años.
+
+Discusión
+
+Al comparar nuestros resultados con los obtenidos en estudios que utilizaron el Criterio CDC a nivel nacional, encontramos mayor prevalencia de sobrepeso y obesidad en niños de 6 años que la reportada por Kain y colaboradores23. Este hecho no es sorprendente, considerando el aumento en la prevalencia observado en estudios de cortes transversales sucesivos y que nuestros datos fueron obtenidos 6 años después de los de Kain. Al comparar nuestros resultados con estudios internacionales encontramos menor prevalencia de obesidad y sobrepeso que 2 de ellos realizados mediante el Criterio CDC en EE.UU.21 y México22, en grupos etarios semejantes y con datos obtenidos el año 2003 (Figura 5).
+
+
+
+Al estimar la prevalencia de sobrepeso y obesidad mediante el criterio IOTF, nuestro estudio reportó una tasa mayor que la encontrada por Kain. Aunque el estudio GHSH también utilizó el criterio IOTF24, no comparamos nuestros resultados con los de éste porque la forma en que obtuvieron el IMC (auto-reporte) subestima la prevalencia de sobrepeso y obesidad.
+
+Al restringir la revisión de la literatura internacional a estudios que utilizaron el criterio IOTF, la mayor frecuencia de sobrepeso infanto-juvenil la tiene un estudio realizado en Grecia seguida de estudios de España, Alemania, Irlanda y Suecia2-17,19. La mayor prevalencia de obesidad infanto-juvenil la reportó un estudio de EE.UU.21. Otros estudios con prevalencias de obesidad superior al 10% se realizaron en México, Kuwait, Grecia y España 4,5,9,18,22.
+
+En las Figuras 6 y 7 se comparan las prevalencias de sobrepeso en estudiantes menores y mayores de 12 años de nuestra muestra de población con las de otros estudios que utilizaron el criterio IOTF. En las Figuras 8 y 9 se comparan las prevalencias de obesidad. Se modificó la dicotomización de la variable edad (8 a 12 años) para permitir la comparación de datos. Al analizar las figuras se aprecia que en el grupo etario menor de 12 años de nuestra muestra tiene prevalencias de sobrepeso y obesidad relativamente más importantes que las que reportamos en mayores de 12 años.
+
+
+
+
+
+Una de las variables que aumenta el riesgo de sobrepeso y obesidad es la condición socioeconómica familiar31-34. En el presente estudio, la falta de asociación entre prevalencia de sobrepeso y obesidad con el índice de prioridad social se puede atribuir a que en nuestra muestra las categoría sin o con grados leves de vulnerabilidad social estuvieron sub-representadas.   
+
+ 
+
+
+
+El resultado más    relevante de nuestro estudio es que el sub-grupo de niños menores de    8 años tiene la mayor prevalencia de sobrepeso y obesidad. Este hallazgo    es proporcionalmente más importante en nuestra muestra que en estudios internacionales    que utilizaron el criterio IOTF. La forma de U de la curva de prevalencia de    sobrepeso y obesidad versus edad se podría interpretar como un fenómeno ligado    al crecimiento, sin embargo, el nuestro es un estudio de corte transversal y    no una cohorte, por lo que también puede representar diferencias en el comportamiento    nutricional entre diferentes generaciones. Este hecho fue reportado por Muzzo    y cols35, quienes en un análisis de estudios de corte transversal    consecutivos encontraron un incremento más pronunciado en la proporción de sobrepeso    y obesidad en sujetos prepuberales (Criterio CDC).
+
+A pesar que la base de datos JUNAEB 2006 evidencia las incongruencias y omisiones propias de los registros poblacionales y que no podemos excluir algún grado de sesgo de selección relacionado con la exclusión de los sujetos sin registro de antropometría, nuestros resultados nos permiten sugerir que la prevalencia del sobrepeso y obesidad infanto-juvenil ha aumentado con el tiempo y que los niños menores de 8 años representan un sub-grupo de alto riesgo de estas enfermedades nutricionales. En consecuencia, la población infantil menor de 8 años de edad debiera ser el objetivo principal de los programas de intervención que se elaboren en el futuro.
+
+Agradecimientos
+
+Queremos agradecer    la valiosa cooperación de la Sra Cristina Miranda del Centro Saval Temuco en    la obtención de las referencias bibliográficas para el estudio.

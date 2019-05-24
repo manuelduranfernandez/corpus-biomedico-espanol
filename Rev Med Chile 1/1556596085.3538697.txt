@@ -1,0 +1,94 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872016000600002
+Análisis de sobrevida en pacientes de edad avanzada que inician hemodiálisis crónica en Servicio de Salud Chileno
+
+ 
+
+El aumento de la esperanza de vida y el envejecimiento progresivo de la población a nivel mundial supone nuevos desafíos para los sistemas de salud en múltiples aspectos, en especial en lo que se refiere a salud cardiovascular y renal1. Debido a que la prevalencia de enfermedad renal crónica aumenta con la edad, el número de personas de edad avanzada que presentan enfermedad renal crónica terminal (ERCT) está aumentando de manera alarmante2.
+
+A nivel internacional, datos de la United States Renal Data System (USRDS), revelan que el grupo de pacientes en hemodiálisis crónica (HDC) que más ha crecido entre los años 2002 y 2012, son los mayores de 60 y de 80 años, con un aumento de 62% y 72,5% respectivamente3. En Chile, durante el mismo período la prevalencia de este grupo de pacientes ha aumentado aún más, en torno a 96% para los mayores de 60 años, y 300% los de más de 804.
+
+En nuestro país, existe un aumento progresivo de la esperanza de vida de la población que se ha acompañado de un cambio en la distribución de la tasa de mortalidad, concentrándose en el grupo de mayores de 75 años. En este grupo, las enfermedades cardiovasculares y el cáncer son las principales causas de muerte5. La Encuesta Nacional de Salud (2009-10)6 muestra que los mayores de 65 años tienen una prevalencia de función renal disminuida (definida como VFGe < 60/ml/min/1,73 mt2 por la fórmula MDRD-4) de 10,5%. Por otro lado, el grupo mayor de 80 años tiene una alta prevalencia de sobrepeso (26%), hipertensión arterial (85%), dislipidemia (63%) y alto riesgo cardiovascular (52%)7; todos estos datos hacen suponer que existe un elevado riesgo de ERCT en esta población de pacientes. El Registro de Diálisis Chileno del año 2013 reveló que 37,7% de los ingresos anuales corresponde a mayores de 65 años, además 64,9% de los pacientes fallecidos ese año fueron mayores de 70 años4.
+
+La importancia de considerar la ERCT como un problema de salud pública en los pacientes de edad avanzada, radica no sólo en el alto costo económico de la terapia de sustitución renal, sino que también en su resultado en este grupo etario. La menor expectativa de vida y la mayor prevalencia de comorbilidades afectan negativamente la sobrevida durante el tratamiento de sustitución renal. Datos internacionales muestran que la mortalidad anual, en los mayores de 80 años, que inician diálisis, es de 54%, y en 20% esta ocurre durante los primeros 3 meses, y además la mortalidad precoz se acompaña además de un importante deterioro funcional8. Pese a la relevancia de estos datos, en Chile no existen estudios prospectivos que evalúen la sobrevida de los pacientes de edad avanzada con ERCT en tratamiento con HDC.
+
+En este estudio se comparara la sobrevida actuarial de pacientes que inician HDC en nuestro Servicio de Salud, según la edad de ingreso a la terapia, con énfasis en la población mayor o igual de 70 años. Se analiza además la relación entre la causa de ERCT, el acceso vascular y las comorbilidades con la mortalidad en cada grupo.
+
+    Materiales y Métodos
+
+Se incluyeron a todos los pacientes mayores o igual a 18 años de edad que ingresaron al programa nacional de Hemodiálisis Crónica (HDC) en el Servicio de Salud Metropolitano Oriente (SSMO), entre el 01 de enero de 2010 y el 31 de diciembre de 2012, y que hayan sido dados de alta del hospital a un régimen de diálisis crónica ambulatoria. Se obtuvo la información de la fecha de ingreso a HDC, diagnóstico de ERCT, acceso vascular, y comorbilidades del Registro de Ingreso a HDC del SSMO que lleva el Hospital del Salvador. Como comorbilidades se consideraron la presencia de hipertensión arterial (HTA), diabetes mellitus (DM), cáncer, y enfermedad cardiovascular (ECV) definida como la presencia de infarto al miocardio, accidente cerebrovascular, enfermedad vascular periférica o de la aorta. Para todos los pacientes se calculo el Índice de Comorbilidad de Charlson (IC), que ha sido validado en población general9, y también en población con ERCT10. La edad de ingreso a HDC, y la fecha de muerte se registró a partir del servicio de certificados en línea del Registro Civil. La cohorte se dividió en cuatro estratos etarios, en menores de 70 años (grupo 1), de 70 a 74 años (grupo 2), 75 a 79 años (grupo 3) y mayores o igual a 80 años (grupo 4). Se definió como evento principal la muerte del paciente. El fin del seguimiento fue el 21 de abril de 2014.
+
+El análisis estadístico se realizó en el programa STATA versión 12.1. Las variables fueron expresadas en frecuencias, proporciones, medias con desviación estándar, o mediana con rango intercuartílico según su distribución, la cual se verificó mediante la prueba de Komolgorov-Smirnov. Se compararon las variables cualitativas con el test de chi-cuadrado, mientras que las cuantitativas con la prueba de ANOVA, con ajuste de Bonferroni o Kruskall-Wallis en ausencia de distribución normal. Se consideró un valor de p < 0,05 como estadísticamente significativo.
+
+El análisis de sobrevida se realizó con curvas de Kaplan-Meier y test de log-rank. Se excluyeron de este análisis los pacientes trasplantados. Se incluyeron curvas alisadas de estimación del riesgo para graficarla probabilidad de mortalidad en el tiempo para los distintos grupos. Se realizó un análisis multivariado con el modelo de riesgo proporcional de Cox para los factores de riesgo de mortalidad general, incluyendo las variables que en la literatura han sido asociadas a mortalidad en esta población de pacientes.
+
+    Resultados
+
+Ingresaron al programa de HDC 459 pacientes durante el período 2010-2012. El seguimiento promedio de la cohorte fue de 27 meses (rango 3 a 52). El grupo 1 correspondió a 65,4% del total, el grupo 2 a 12,6%, el grupo 3 a 12,4% y el grupo 4 a 9,8%. No hubo diferencia en la distribución por sexo entre los grupos, del total de la cohorte 55,6% eran hombres. Se trasplantaron 9 pacientes, todos del grupo 1.
+
+En la Tabla 1    se muestran las características en relación a la causa de ERCT    y acceso vascular de la cohorte comparando los grupos etarios. Del total de    pacientes 29,8% correspondían a ERCT por nefropatía diabética,    24,6% de causa desconocida, 11,5% de causa glomerular, 9,8% calificada como    nefroesclerosis hipertensiva, 7,6% por disfunción del injerto renal,    3,7% por enfermedad poliquística, 3,9% de origen obstructivo y 8,9% de    causas misceláneas (ocho pacientes por lupus eritematoso sistémico,    once por mieloma múltiple, doce por nefritis túbulo-intersticial    crónica, seis por nefropatía isquémica, una hipertensión    maligna y una necrosis tubular aguda no recuperada).
+
+A mayor edad se observó más pacientes con ERCT de causa desconocida y calificada como nefroesclerosis, con diferencia estadísticamente significativa entre los grupos 1 y 4 para etiología desconocida, y entre el grupo 1 y todos los demás para nefroesclerosis hipertensiva. En el grupo 4 hubo menos nefropatía diabética y una tendencia a menor glomerulonefritis crónica comparado con el grupo 1.
+
+Respecto al acceso vascular no hubo diferencia entre los grupos, del total de los pacientes, 73,4% inició hemodiálisis con catéter venoso central tunelizado (Tabla 1).
+
+
+
+Tabla 1. Características basales de la cohorte por grupos etarios, causa de ERCT y acceso vascular
+
+ 
+
+Como se ve en la Tabla 2, la mortalidad al final del seguimiento fue mayor a mayor edad. La mortalidad al año de seguimiento en el grupo de ≥ 80 años fue de 43% mientras que en los < 70 años, 70-74 años, y 75-79 fue de 13, 26 y 29% al año, respectivamente. Las curvas de sobrevida (Figura 1) muestran una mejor sobrevida para el grupo 1, con diferencia significativa respecto a los grupos 2 (p = 0,0014), grupo 3 y grupo 4 (p < 0,0001). También hubo una mayor mortalidad del grupo 4 comparado con el grupo 2 (p = 0,0175).
+
+
+
+Tabla 2. Características basales de la cohorte por grupo etario y comorbilidades
+
+ 
+
+
+
+  
+
+La estimación de riesgo de mortalidad mediante curvas alisadas, refleja que la probabilidad de morir es mayor en los primeros meses de iniciada la hemodiálisis en los grupos de mayor edad (Figura 2). Para el grupo 4 existe un segundo pico de mortalidad alrededor de los 20 meses, mientras que para el grupo 3 este pico es más tardío. El patrón es diferente para los grupos más jóvenes, en los que una vez iniciada la terapia la probabilidad de morir disminuye durante la fase inicial del seguimiento.
+
+
+
+ 
+
+Figura 2. Estimación de riesgo de mortalidad en el tiempo. Se observan dos picos de mortalidad en el grupo 3 y 4, uno a los pocos meses, y el segundo al final del seguimiento para el grupo 3, y a los 20 meses para el grupo 4. La forma de la curva sigue un patrón diferente en los grupos más jóvenes, con mortalidad más tardía.
+
+En el análisis con modelo de Cox multivariado se observa que la edad mayor a 75 y 80 años, el índice de Charlson y la presencia de catéter venoso central como acceso vascular se asocian de forma significativa a mayor riesgo de mortalidad, con HR de 1.37, 1.63, 1.45 y 1.95 respectivamente (Tabla 3).
+
+
+
+Tabla 3. Modelo proporcional de riesgo de Cox, análisis multivariado
+
+ 
+
+Discusión
+
+En sus inicios la terapia de sustitución renal era considerada sólo en aquellos pacientes jóvenes susceptibles de ser trasplantados, su uso en pacientes de edad avanzada era excepcional. Esto ha cambiado radicalmente en la última década, donde se ha visto un aumento marcado del número de pacientes mayores de 80 años que inician diálisis, tal como ha sido reportado tanto en estudios unicéntricos11, como en grandes registros internacionales2-4. Por esto es fundamental conocer los resultados de la HDC en este grupo de pacientes y cuáles son los factores que se asocian a peores resultados, de tal manera de llevar a cabo la terapia de la mejor manera y seleccionar a quienes más se benefician de esta.
+
+La mayoría de la información proviene de estudios observacionales. En Francia, en una muestra del registro REIN (2,500 pacientes incidentes de ≥ 75 años) se vio una mortalidad de 19% a 6 meses, los factores de riesgo independientes más importantes fueron el inicio de diálisis no planificado, presencia de diabetes, insuficiencia cardíaca, enfermedad vascular periférica, cáncer activo, arritmias, demencia y poca movilidad12. En Corea, un análisis de 11.301 pacientes incidentes de ≥ 65 años, reveló una mortalidad de 30% el primer año en los octogenarios, con asociación a factores como edad, enfermedad cardiovascular, diabetes, demencia y falta de seguro médico13.
+
+En Latinoamérica hay pocos reportes enfocados en la sobrevida del adulto mayor, sin embargo, en los estudios de mortalidad en HDC en adultos en general, los factores asociados a mayor mortalidad siguen siendo la edad, y la presencia de diabetes, tal como lo muestra una numerosa cohorte publicada en Brasil14.
+
+Nuestro estudio revela que 34,9% de los pacientes que inician HDC tienen 70 o más años, y 9,8% son ≥ 80 años. Los pacientes de mayor edad presentaron mayor prevalencia de comorbilidades, principalmente cardiovasculares. En el caso de diabetes mellitus, esta se observó en una menor prevalencia en el grupo ≥ de 80 años, lo que ha sido también reportado en registros grandes como el DOPPS-III15; esto podría deberse a la elevada mortalidad cardiovascular de los pacientes diabéticos a edades más precoces. En relación a las causas de ERCT en este grupo etario los hallazgos son similares a los mencionados en la literatura internacional, menos enfermedad glomerular, poliquistosis, y nefropatía diabética, y más enfermedad hipertensiva, vascular y de causa desconocida3.
+
+La mortalidad fue más alta a mayor edad. El grupo de pacientes ≥ 80 años tuvo una mortalidad al año de 43%, cuatro veces mayor que la población general de la misma edad en Chile6. Llama la atención que 25% de los sujetos de este grupo falleció en los primeros 3 meses, fenómeno que ha sido ampliamente reportado, y que podría indicar que existe un grupo de pacientes de alto riesgo que no se benefician con la terapia o que requieren consideraciones terapéuticas especiales.
+
+En el análisis multivariado, las variables que se asociaron con mortalidad fueron la edad a partir de los 75 años, el índice de Charlson y el catéter venoso central como acceso vascular. Del total de la muestra 73,4% inició HDC con catéter, sin diferencia entre los grupos.
+
+Otros estudios también han mostrado mayor mortalidad en pacientes que inician diálisis con catéter versus fístula arteriovenosa (FAV); un registro canadiense de 397.721 pacientes entre los años 2001 y 2010 mostró, en un análisis estratificado por edad, que tener FAV era un factor protector en todos los grupos, con un HR 0,65 para el grupo ≥ 85 años de edad16.
+
+Si bien la presencia de catéter puede asociarse a complicaciones por sí mismo, también es reflejo de falta de control nefrológico al inicio de diálisis no planificada. Esto lo muestra el estudio CHOICE, donde los pacientes que habían sido vistos por nefrólogo un mes previo al inicio de HDC tenían más probabilidad de iniciar diálisis con FAV (39 versus 10%)17.
+
+En nuestro país, el acceso a control nefrológico sigue siendo deficiente pese al desarrollo del plan de Garantías Explícitas en Salud (GES)18, esto mismo ocurre en otros aspectos de la terapia de HDC, como el tratamiento de la anemia19 y probablemente también el acceso vascular. Esto permite plantear que la falta de acceso vascular definitivo al inicio de HDC puede ser indicador de falta de control nefrológico oportuno previo al inicio del tratamiento.
+
+La tendencia actual apunta al desarrollo de puntajes pronósticos para predecir la mortalidad a 3 meses, de tal manera de introducir algoritmos que permitan derivar a los pacientes añosos a trasplante, hemodiálisis, diálisis peritoneal, o terapia paliativa20, si bien esto pudiera ayudar a la toma de decisiones, debe ser ajustado y validado a la realidad local.
+
+Dentro de las fortalezas del estudio está el incluir a pacientes incidentes en HDC de una red de atención que abarca varios centros asistenciales, por lo que es una población heterogénea que parece una muestra representativa de la población urbana de nuestro país. El seguimiento es completo debido a que toda la información está canalizada en el hospital base y en el Registro Civil. Las características de la cohorte muestra hallazgos similares a otras descritas en la literatura, en lo que se refiere a prevalencia de patologías y etiología de la ERC. Como debilidades del estudio está la falta de mayor información respecto a otras características clínicas que pueden influir en el desenlace, como el estado nutricional, la funcionalidad, y los tratamientos farmacológicos recibidos. La falta de información respecto a hospitalizaciones y causas específicas de mortalidad también pueden verse como una limitación, sin embargo, el objetivo del estudio era analizar la mortalidad general.
+
+En suma, en nuestro estudio observamos una mayor mortalidad en el grupo de pacientes de edad avanzada que inician hemodiálisis crónica, en especial en los octogenarios, de ellos 64% estaban muertos al final del seguimiento, con un pico de mortalidad al inicio de la terapia y a los 20 meses de evolución. Los factores de riesgo asociados a mayor mortalidad, aparte de la edad, fueron la presencia de catéter venoso central como acceso vascular y el índice de Charlson.
+
+Por lo tanto, se puede concluir que la presencia de comorbilidades y un inicio no planificado de HDC afectan negativamente el pronóstico de sobrevida, por lo que es fundamental orientar las políticas de salud a reforzar el control nefrológico oportuno de los pacientes con ERC. Este estudio representa un esfuerzo más en intentar determinar cuáles son las características que pueden predecir una mala evolución de los pacientes de edad avanzada que inician hemodiálisis crónica.

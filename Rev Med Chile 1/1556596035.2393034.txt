@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872010000600009
+Survival of patients with vulvar cancer
+
+El cáncer de vulva corresponde a una patología de baja frecuencia1,2 que da cuenta de entre el 3 al 5% del total de las neoplasias malignas en el aparato reproductor femenino.
+
+En el año 2009 aproximadamente 3.580 mujeres estadounidenses desarrollaron cáncer de vulva y 900 de ellas murieron por la misma causa3. Se presenta con mayor frecuencia en mujeres entre los 65 y 75 años, aunque también puede presentarse en mujeres jóvenes. El 90% de estos tumores son de histología escamosa2.
+
+La causa de esta neoplasia es aún desconocida. Diferentes publicaciones reportan que ésta se desarrolla a partir de distrofias vulvares1. También se le han asociado factores médicos no específicos tales como hipertensión, diabetes mellitus y la obesidad, ya que estas patologías coexisten en el 25% de las pacientes con este tipo de cancer. Sin embargo, no son considerados como factores de riesgo independientes2.
+
+El pronóstico para el cáncer de vulva es favorable en etapas iniciales. La sobrevida global a 5 años es de 70% y está directamente correlacionada con el estadio de la enfermedad y el estado linfonodal2.
+
+Para esta patología los tratamientos estándares son la cirugía, radioterapia y/o quimioterapia, dependiendo del estadio del cancer. Adicionalmente, existen ensayos clínicos que evalúan constantemente nuevas terapias de intervención a los pacientes3.
+
+Una limitación clínica en la estimación de la sobrevida en pacientes con cancer, es que ésta es estimada en tiempos globales, generalmente a 5 años. Ello, a menudo desalienta y no necesariamente representa la expectativa de vida real para los pacientes que ya han sobrevivido un período de tiempo luego de completado su tratamiento. Los pacientes que han sobrevivido un tiempo después del diagnóstico tienen una probabilidad distinta de vivir a medida que el seguimiento avanza. Debido a ello, surge el concepto de sobrevida condicional (SC), el cual se define como la probabilidad de que un paciente que ha sobrevivido durante un período determinado, viva en otro intervalo de tiempo fijo4.
+
+Para todos estos pacientes que sean sometidos a algún tipo de terapia, según el estadio, el pronóstico puede ser mejorado sustancialmente5. En la literatura existen varios artículos que muestran los diferentes modelos de SC, como por ejemplo, en canceres del Sistema Nervioso Central (SNC)6-8, cabeza y cuello8, mama10-14, pulmón15-17, entre otros.
+
+El objetivo de este estudio es estimar la sobrevida global y condicional, a uno y dos años, en pacientes con diagnóstico de cáncer de vulva en el Instituto Nacional del Cancer (INC), de Santiago de Chile.
+
+Material y Método
+
+Se realizó un estudio analítico observacional de cohorte retrospectiva.
+
+Se analizó la base de datos que incluye a todas las pacientes con diagnóstico de cáncer de vulva atendidas en el INC entre el período 1997-2006. Estas pacientes fueron seleccionadas a través del Software de Seguimiento INC utilizando criterios de búsqueda por diagnóstico y período a estudiar. Se efectuó una actualización de datos de todas las pacientes de esta cohorte. La fecha y causa de muerte se obtuvieron del certificado de defunción otorgado por el Registro Civil.
+
+Se incluyeron a todas aquellas pacientes con cáncer de vulva ingresadas al INC, con confirmación diagnóstica, mediante biopsia, sin límite de edad ni etapa, que hayan recibido tratamiento completo e incompleto en esta institución. El tratamiento otorgado fue según la etapa del cancer en la que se encontraban las pacientes:
+
+Como criterios de exclusión se consideraron a las pacientes portadoras de un segundo primario.
+
+Estadística
+
+Las variables que se consideraron para el análisis fueron edad, etapa, histología, tratamiento recibido, motivo de consulta, linfonodos, metástasis, ubicación y tratamiento recibido. La base de datos fue construida en una planilla Excel y analizada en el software estadístico Stata 10.
+
+El análisis comprendió la descripción del grupo en estudio con herramientas de estadística descriptiva y el cumplimiento de los objetivos en forma descriptiva e inferencial, asumiendo que la muestra corresponde a una muestra en el tiempo de una población de referencia mayor. Para el cálculo del tiempo de la sobrevida, se tomó como fecha de inicio el día en que las pacientes fueron evaluadas por el comité de ginecología que condujo al diagnóstico de cancer a la vulva y como fecha de término se consideró el día de la muerte de la paciente por causa del cancer o la censura, mediante el certificado de defunción o la pérdida de seguimiento al finalizar el estudio.
+
+La sobrevida fue estimada por el método de Kaplan Meier y se usó el método log-rank para la comparación global de la sobrevida. El cálculo de sobrevida condicional (CS) se efectuó mediante la siguiente fórmula:
+
+CS (y|x) = S (x + y) / S (x)
+
+dónde:
+
+CS (x+y) = Probabilidad de vivir adicionalmente "y" años.
+
+S (x+y) = Probabilidad de sobrevivir más allá del tiempo x+y
+
+S (x) = Probabilidad de sobrevivir más allá del tiempo x
+
+Resultados
+
+Se realizó el análisis en una cohorte de 86 pacientes. El promedio de edad fue de 67,8 años, con una mediana de 70 años (rango 32-92) (Tabla 1).
+
+
+
+
+
+El 80,2% (69 pacientes) presentó histología escamosa y el 46,5% (40 pacientes) se encontró en etapa (TNM) III. El 48% de ellas recibió tratamiento incompleto y 32% completo. De 3 pacientes no se obtuvo información del tipo de tratamiento realizado. Las principales razones de tratamientos incompletos se debieron a abandonos y/o traslados a otros centros.
+
+El motivo de consulta más frecuente fue la presencia de masa vulvar (39,5%), seguido de prurito (13,9%). La ubicación predominante del tumor fue labio mayor y menor, con 17,65%. El promedio de linfonodos comprometidos fue de 1 (DE ± 0,81). El 91,8% de las pacientes no presentó metástasis al momento de ingreso al estudio.
+
+La mediana de seguimiento fue de 1,4 años (rango 0,2-9,9 años). La sobrevida global a 5 años, fue de 41,8% (Figura 1). La mediana de sobrevida fue de 3,3 años.
+
+
+
+
+
+Figura 1. sobrevida estimada por Kaplan-Meier en 86 pacientes con diagnóstico de cáncer de vulva.
+
+Para las etapas IA, IB, II, III, IVA y IVB, la sobrevida global fue de 100%, 100%, 62,80%, 37,71%, 17,05% y 37,50%, respectivamente (Figura 2). Para aquellas pacientes con etapas no registradas, la sobrevida alcanzó el 100%. Se estableció diferencia estadísticamente significativa, según la etapa del cancer (p = 0,003).
+
+
+
+
+
+Figura 2. análisis de sobrevida estimada en los 86 pacientes con diagnóstico de cáncer de vulva según etapa del cáncer.
+
+La sobrevida a 5 años de los cánceres de vulva, de acuerdo a la histología, fue la siguiente: escamosa, 38,81%, melanoma, 50%, sarcoma 100%, adenocarcinoma, 66,67% y otras histologías 0% (Figura 3). No existe diferencia estadísticamente significativa, según histología (p = 0,22).
+
+La sobrevida global a 5 años para el tratamiento efectuado fue de 57,4% para las que recibieron tratamiento completo y de 21% para las tratadas incompletamente.
+
+
+
+Figura 3. análisis de sobrevida estimada en los 86 pacientes con diagnóstico de cáncer de vulva, por histología.
+
+La estimación de la sobrevida condicional en los 86 casos, se muestra en la Tabla 3. La sobrevida a 5 años condicional a un año y dos años del diagnóstico del cáncer fue 59% y 79% respectivamente.
+
+
+
+
+
+
+
+Discusión
+
+El cáncer de vulva corresponde entre el 3 y 5% de las neoplasias malignas en el aparato reproductor femenino, catalogándola como una patología de baja frecuencia.
+
+El cáncer de vulva es una patología de buen pronóstico si se diagnostica en etapas tempranas. De acuerdo a los resultados obtenidos en este estudio, el 67,4% de las pacientes estudiadas fueron diagnosticadas en etapas avanzadas (III y IV), relacionadas con porcentajes de sobrevida bajos, con diferencias estadísticamente significativas. En relación a este punto, existen diferentes condiciones socioeconómicas y factores pronósticos asociados descritos que hacen que el diagnóstico sea tardío5,11,14,15.
+
+La principal histología de las pacientes de este estudio, es de tipo escamosa (80,2%), resultado similar a lo reportado en la literatura2. La sobrevida global para esta histología fue de 38,81%. Para sarcoma y células claras, la sobrevida fue de 100% y 0% respectivamente, esto se explica por el bajo número de pacientes para cada uno de éstas categorías.
+
+Una limitación clínica es que la estimación de la sobrevida en pacientes con cancer es estimada en tiempos globales, generalmente a 5 años. Ello a menudo desalienta y no necesariamente es pertinente para los pacientes que ya han sobrevivido un período de tiempo al período inicial de tratamiento. Es así, como pacientes que han sobrevivido un tiempo después del diagnóstico, tienen una probabilidad distinta de vivir, a medida que el seguimiento avanza a partir del diagnóstico3.
+
+Por último, se pudo concluir que la sobrevida global de los primeros 5 años, tiene un comportamiento descendente, para posteriormente estabilizarse. La etapa del cancer se comporta como factor pronóstico en esta cohorte de pacientes.
+
+La sobrevida condicional es de gran utilidad clínica. Permite dar una valiosa información a las pacientes acerca del pronóstico de sobrevida en la medida que avanza el tiempo de seguimiento. En este estudio las pacientes que ya han sobrevivido los dos primeros años, prolongan su expectativa de sobrevida sustancialmente (37,6% a 90,0%).

@@ -1,0 +1,82 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872012000700003
+Impacto del delirium en pacientes de edad avanzada hospitalizados: un estudio prospectivo de cohortes
+
+ 
+
+El delirium es un síndrome caracterizado por alteración de la conciencia, de la atención y del pensamiento, que se inicia en forma aguda y presenta un curso fluctuante, en el que pueden aparecer, además, ideas delirantes y alucinaciones1. Su prevalencia en pacientes hospitalizados aumenta con la edad y varía según el diagnóstico de ingreso. Es considerado el segundo síndrome psiquiátrico más prevalente en el ámbito hospitalario después de los trastornos del ánimo2 afectando de 11 a 42% de los pacientes ingresados3 y hasta 80% de los pacientes de unidades de cuidados intensivos4. Aún no existe una comprensión cabal de su fisiopatología, sin embargo, se reconoce una alteración funcional de niveles de neurotransmisores, hiperactividad del eje hipotálamo-hipófisis-glándula adrenal y aumento en la producción de citoquinas5.
+
+La presencia de delirium ha demostrado estar asociada a mal pronóstico, aumentar las complicaciones intrahospitalarias, tales como infecciones, caídas, incontinencia y úlceras de decúbito6,7, provocando estadías hospitalarias significativamente más prolongadas y generando elevados costos en salud8-10. Sin embargo, las consecuencias no terminan con el alta del paciente, y se ha demostrado asociación entre delirium y mayor riesgo de institucionalización, demencia y mortalidad, en forma independiente a importantes variables como edad, sexo, comorbilidades, severidad de enfermedad y deterioro cognitivo basal11.
+
+El delirium es considerado un marcador de estado del paciente geriátrico hospitalizado12, ya que los pacientes que lo padecen presentarían un incremento en la complejidad desde el punto de vista de su manejo individual y de lo que implica para los servicios asistenciales. Por otro lado, al ser potencialmente prevenible, puede ser considerado un indicador de calidad asistencial.
+
+Existen pocos estudios prospectivos de pacientes mayores que cursan con delirium en Latinoamérica, el objetivo de este estudio es aportar más información sobre el pronóstico de los pacientes que han cursado con delirium durante su estadía hospitalaria, específicamente su asociación con mortalidad y el deterioro funcional a largo plazo, medidos a un año.
+
+Material y Métodos
+
+Estudio desarrollado en el Servicio de Medicina del Hospital Clínico de la Pontificia Universidad Católica de Chile, hospital que cuenta con 536 camas y cubre una extensa área de la ciudad de Santiago de Chile. El protocolo de estudio fue aprobado por el Comité de Ética de la institución y se obtuvo consentimiento informado de los pacientes o sus representantes previo a su ingreso al estudio.
+
+Los participantes fueron pacientes con al menos 65 años de edad, ingresados en forma consecutiva, hospitalizados en las últimas 48 horas, en el servicio de medicina del hospital entre marzo y octubre del año 2006. Los criterios de exclusión utilizados fueron la presencia de afasia severa, coma e incapacidad para participar de la entrevista clínica.
+
+Protocolo de estudio
+
+Los pacientes fueron enrolados cada 48 horas por un equipo compuesto por psico-geriatras entrenados en la detección de delirium. Se consignaron los datos demográficos (sexo, edad, RUN, información de contacto) y se les aplicaron escalas de evaluación: Acute Physiology and Chronic Health Evaluation II (APACHE II), que permite medir la severidad de la enfermedad aguda mediante el uso de datos clínicos y de laboratorio13, el Índice de Comorbilidad de Charlson, que estima el grado de comorbilidad de los pacientes14, el nivel de funcionamiento previo fue medido mediante el Índice de Barthel15, que mide la capacidad de los pacientes para realizar 10 actividades básicas de la vida diaria con puntajes que van desde 0 (funcionalidad mínima) a los 100 puntos (funcionalidad óptima), y por último se aplicó el Cuestionario de Evaluación Funcional de Pfeffer (PFAQ)16 que estima funcionalidad basal mediante información otorgada por el cuidador, en que puntajes sobre 7 sugieren la presencia de demencia previa17.
+
+La presencia de delirium fue determinada mediante el Confusion Assesment Method (CAM)18, en su versión adaptada al español19. El CAM es un instrumento validado para detectar delirium y está basado en la aplicación operacional de los criterios diagnósticos del DSM III-R, obteniendo la información relevante desde el paciente y su cuidador. Para diagnosticar delirium sigue un algoritmo diagnóstico basado en la presencia de dos criterios principales: 1) inicio agudo y curso fluctuante y; 2) inatención, y la presencia de al menos uno de los dos criterios secundarios: 1) pensamiento desorganizado; y 2) compromiso de conciencia.
+
+Procedimiento
+
+El equipo de investigadores evaluó mediante CAM19 la presencia y duración del delirium en los pacientes enrolados cada 48 horas. La evaluación se realizó entre las 9 AM y las 2 PM hasta el alta o por un máximo de 12 días. La información necesaria para el APACHE II13 y el Índice de Comorbilidad de Charlson14 fue obtenida de los registros médicos y de enfermería. Se entrevistó a los cuidadores de los pacientes para evaluar la funcionalidad mediante los Índices de Barthel15 y Pfeffer16. En estas entrevistas se preguntó sobre la capacidad de los pacientes para realizar las actividades de la vida diaria dos semanas previas al ingreso hospitalario. Se registraron los datos de exámenes del laboratorio de las primeras 24 h, específicamente nitrógeno ureico (BUN), creatinina plasmática, electrolitos plasmáticos, proteína C reactiva (PCR), velocidad de eritrosedimentación (VHS), albúmina y hemoglobina plasmáticas.
+
+En caso de que el paciente evaluado presente un tamizaje CAM positivo, en la evaluación inicial o en las de seguimiento durante la estadía hospitalaria, el paciente era incluido en la cohorte de delirium. Si no se diagnosticaba delirium el paciente ingresaba a la cohorte sin delirium. Se determinó la mortalidad de acuerdo a datos del Registro Civil de Identificación Chileno, usando los registros electrónicos en base al RUN y la funcionalidad después de 12 meses mediante entrevistas telefónicas estructuradas, así como para obtener información de institucionalización o rehospitalización en el período.
+
+El equipo de investigadores no participó en los cuidados hospitalarios ni ambulatorios de los pacientes.
+
+Estadística
+
+Los datos fueron analizados mediante el programa estadístico SPSS 15.0. Para el análisis bivariado de variables cualitativas y proporciones se utilizó la prueba de χ2 y las variables cuantitativas fueron analizadas a través de la prueba T para igualdad de medias. Se consideró significativo un p < 0,001. Con el fin de evaluar el impacto del delirium en la mortalidad al año, se realizó un modelo de regresión logística20, controlando por las posibles variables confundentes incluyendo en el modelo: edad, género, puntaje APACHE, puntajes de Barthel basal, índice de Charlson, valor de Pffefer mayor de 7, el valor de albúmina y hemoglobina basal.
+
+Resultados
+
+Un total de 542 pacientes fueron ingresados al estudio. El promedio de edad fue de 78 años y su estadía promedio en el hospital fue de 5,8 ± 4,8 días. El 62% de los pacientes fueron mujeres. Los diagnósticos médicos primarios de la muestra se agruparon de la siguiente manera: patologías infecciosas (31%), alteraciones metabólicas (15%), patologías gastrointestinales (14%), patologías cardiovasculares (10,5%) y otras patologías (30%).
+
+Se pesquisó delirium en 192 pacientes (35,4%), la mayoría (87%) durante las primeras 48 horas de hospitalización. La duración promedio del delirium fue de 4,9 días ± 3,1. Según se muestra en la Tabla.1, la cohorte con delirium era de mayor edad (81,5 ± 7,2 años versus 75,8 ± 7,0 años), con una funcionalidad basal más deteriorada, de acuerdo al Índice de Barthel más bajo (73,8 ± 24,3 versus 92,7 ± 15,1) y un puntaje de Pfeffer más elevado (9,1 ± 9,7 en cohorte con delirium versus 2,2 ± 5,1). En cuanto a gravedad de la enfermedad aguda según APACHE la cohorte con delirium presentó un puntaje mayor, como asimismo, en exámenes de laboratorio del ingreso valores de albumina más baja y mayor valores de nitrógeno ureico (p < 0,05), sin diferencias significativas en otras variables como hemoglobina, creatinina, natremia, velocidad de sedimentación (VHS), proteína C reactiva (PCR) ni hemoglobina.
+
+ Tabla 1. Características basales de la población estudiada, según delirium
+
+
+
+La cohorte con delirium presentó mayor estadía hospitalaria (7,3 ± 5,9 días versus 5,0 ± 3,9 días), así como una mayor mortalidad durante la hospitalización 8,5% versus 1,7% en la cohorte sin delirium.
+
+Seguimiento al año
+
+De los 542 pacientes, seis (1,1%) fueron perdidos de seguimiento a los 12 meses, la mortalidad global fue de 20,7% (111 de 536 pacientes). La mortalidad en la cohorte con delirium fue 34,9%, versus 13,0% en la cohorte sin delirium (RR 2,71 [CI 95% 1,96-3,75]) (Figura.1).
+
+
+
+ Figura 1. Sobrevida al año según presencia de Delirium.
+
+Al realizar el análisis de regresión logística con el fin de evaluar el peso de la variable delirium sobre la mortalidad a un año, se encontró que las variables independientemente asociadas a morir antes del año de seguimiento fueron delirium, Índice de Comorbilidad de Charlson y la albúmina basal.
+
+Al ajustar el resultado por las demás variables analizadas en el estudio (edad, Índice de Comorbilidad de Charlson, APACHE II, Índice de Barthel, Pfeffer, además de albúmina), la presencia de delirium se asoció en forma independiente a mayor mortalidad.
+
+En relación con la funcionalidad se observó que la cohorte con delirium, se deterioró en forma significativa tanto en la medición según Barthel como en el Pfeffer (p < 0,001), como se muestra en la Tabla.2. En este mismo sentido, fue más frecuente en la cohorte con delirium la presencia de sospecha de demencia según Pfeffer mayor de 7, utilizado como aproximación a deterioro cognitivo17.
+
+ Tabla 2. Características de las cohortes al año de seguimiento según delirium
+
+
+
+En frecuencia de institucionalización, se observó que 9 pacientes de la cohorte con delirium fueron ingresados a residencias de larga estadía o institucionalizados versus 1 paciente de la cohorte sin delirium (p < 0,001). No hubo diferencias en el número de rehospitalizaciones.
+
+Discusión
+
+Los resultados de este estudio apoyan, con una cohorte de gran de tamaño, la elevada incidencia y prevalencia de delirium en los pacientes ancianos hospitalizados de un hospital universitario. Se confirma la asociación entre delirium y edad avanzada, severidad de enfermedad aguda, peor funcionalidad basal y deterioro cognitivo.
+
+Se identifica al delirium como un factor de riesgo independiente de mortalidad, asociándose a una cifra cuatro veces mayor de mortalidad intra-hospitalaria, tendencia que se mantiene en el seguimiento, en forma similar a lo observado por McCusker et al21 en un seguimiento de un año. La mayor mortalidad se mantiene incluso al ser ajustado por variables como edad, estado funcional basal, severidad de enfermedad aguda y comorbilidad. Estos resultados van en la misma línea de otros estudios previamente publicados y concuerdan con los obtenidos por Rockwood et al6,22,23. Un meta-análisis reciente confirma la asociación entre delirium y mal pronóstico, con mayor riesgo de mortalidad, institucionalización y demencia11. Los estudios que han fallado en demostrar estas asociaciones podrían carecer de un poder estadístico significativo o poseer cohortes con pocos casos de delirium24,25.
+
+Nuestro seguimiento confirma también, la asociación del delirium con deterioro en la capacidad funcional a un año de seguimiento. Esto es muy relevante considerando que el objetivo primordial en la atención de personas mayores debe ir focalizado a la mantención de la funcionalidad y prevención de la dependencia, ya que son estas variables las que mejor de correlacionan con calidad de vida y pronóstico vital26.
+
+La metodología de este estudio posee destacables fortalezas. El tamizaje de delirium fue realizado por un equipo de psicogeriatría no involucrado en los cuidados del paciente, con una frecuencia de 48 h durante la hospitalización lo que a nuestro entender es fundamental en el estudio del delirium, dada su condición característica de fluctuación sintomática, disminuyendo así la posibilidad de falsos negativos. La muestra de pacientes analizados fue de gran tamaño, con un bajo porcentaje de pérdida de seguimiento (1,1%), lo que le otorga un adecuado poder estadístico. El análisis de los resultados se llevó a cabo controlando variables confundentes, como el grado severidad de enfermedad, comorbilidades y estado funcional basal del paciente. Nuestros resultados podrían ser extrapolables a poblaciones similares, es decir, pacientes adultos mayores ingresados en servicios de medicina, sin embargo, se requieren otros estudios que confirmen nuestros datos en otro tipo de pacientes.
+
+Realizar estudios en población con delirium, representa un desafío importante en cuanto al diseño y seguimiento de estas cohortes. En nuestro caso gracias al sistema de Registro de Mortalidad Nacional, nos permitió tener datos confiables con escasas pérdidas en ese aspecto del seguimiento, sin embargo, esto no ocurrió en el seguimiento de la evaluación de funcionalidad y datos de rehospitalizaciones, en que dependimos del contacto telefónico del cuidador, no siempre posible y afectado por el sesgo del recuerdo. Aun así, se observa una tendencia que apoya los hallazgos de datos previos.
+
+El impacto de la presencia de delirium en la mortalidad reafirma la importancia de incorporar en nuestra práctica clínica al delirium como un marcador de estado de salud en el paciente hospitalizado12. Ello implica que su presencia pone en alerta sobre un grupo de pacientes que requerirán una atención especial por parte del sistema sanitario, dado su mayor riesgo de complicaciones, deterioro funcional y mortalidad tanto a corto como a largo plazo, asociándose también a mayores costos en salud.

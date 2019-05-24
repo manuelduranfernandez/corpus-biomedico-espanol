@@ -1,0 +1,92 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872016001200013
+Módulos interactivos en línea de semiología médica: Una herramienta para estandarizar el aprendizaje clínico
+
+ 
+
+La semiología es la ciencia que estudia los síntomas y signos de las enfermedades1. De acuerdo a esta definición, se puede determinar con certeza el carácter multidisciplinario de su enseñanza y aprendizaje, para lo cual se requiere desarrollar habilidades en comunicación, examen físico, interpretación, diagnóstico de los principales síndromes de la medicina2,3.
+
+Enmarcados en una sociedad cambiante y que demanda a los médicos competencias y aptitudes sobresalientes, no es de extrañar que estas exigencias se deduzcan, como dicta la lógica, en la implícita necesidad de instituciones y sistemas de enseñanza de excelencia. En la búsqueda de esta excelencia homogénea es que se han desarrollado herramientas que, de manera sistematizada, pudieran facilitar el aprendizaje del alumno de medicina4. Dentro de estas herramientas, una de las más novedosas y con mayor potencial de expansión es el aprendizaje en línea. Puede que no resulte fácil para los educadores médicos adaptarse a esta forma pedagógica, pero los progresos en la educación médica, en conjunto a una asistencia sanitaria que restringe la presencia del alumnado en centros de salud, son las fuerzas motrices que impulsan al desarrollo de formas más eficientes y menos costosas de educación5.
+
+En el caso de la Escuela de Medicina de la Pontificia Universidad Católica de Chile (PUC) la semiología se aprende formalmente en el curso de Integrado de Clínicas II para alumnos de tercer año. Este curso incluye en su programa clases lectivas, talleres prácticos de examen físico con fantomas y recursos interactivos, además de actividades prácticas hospitalarias con pacientes reales. Los alumnos son divididos en grupos de 5 a 6 personas, los cuales rotan tanto por actividades prácticas hospitalarias como por talleres de semiología presenciales con simulación a cargo de un tutor, realizándose estos últimos una vez por semana hasta completar un total de catorce talleres, que incluyen: examen físico general, examen abdominal, examen pulmonar, examen cardíaco, examen neurológico, examen articular, examen urológico, examen de mama, examen dermatológico, examen pediátrico, examen geriátrico, examen otorrinolaringológico, examen oftalmológico y radiografía de tórax.
+
+Con el objetivo de facilitar el aprendizaje de habilidades prácticas semiológicas y de interpretación clínica básica por parte de los alumnos de tercer año de medicina, apoyando a su vez los talleres de simulación mencionados y enmarcados en la necesidad de mejorar el aprendizaje en tiempo y calidad por la nueva reforma curricular de nuestra escuela de medicina adoptada a partir del año 20156, se implementó una plataforma virtual de aprendizaje y evaluación, disponible en la dirección: www.semiologia.cl, web interactiva de semiología médica, diseñada acorde los objetivos del curso y con material audiovisual, donde el alumno cuenta con material interactivo que logra agrupar y presentar la experiencia clínica en un formato flexible y amable, aprovechando recursos audiovisuales.
+
+Circunscritos por una política de cambios curriculares iniciada hace décadas por parte de la Escuela de Medicina7 y al alero de los principios FAIR, planteados para lograr un mayor aprendizaje efectivo (entrega de retroalimentación, aprendizaje activo, individualizado y relevante) la realización de la intervención mencionada busca reforzar el aprendizaje activo del alumnado, donde es el estudiante el protagonista y responsable de la exploración y obtención del material de la plataforma. Asimismo, y siguiendo el paradigma nuevo de evaluación para el aprendizaje (en lugar de evaluación por el aprendizaje) se procura la entrega de retroalimentación efectiva e individualizado para optimizar su aprendizaje8.
+
+Metodología
+
+Se diseñó una página web que contiene, imágenes, vídeos y casos clínicos virtuales que incluían: historia clínica, examen físico y exámenes complementarios. Este material se encuentra distribuido en un total de 9 módulos que incluyen: examen físico general, examen físico abdominal, radiografía de tórax, examen dermatológico, examen neurológico, examen articular, examen pulmonar, examen cardiaco y pediatría. La organización y contenido de cada módulo se detallan en la Tabla 1. La web fue utilizada en el curso de semiología de tercer año (Integrados Clínica II) del año 2015.
+
+ 
+
+Tabla 1. Módulos web y su contenido
+
+ 
+
+A modo de ejemplo, las Figuras 1 y 2 corresponden a capturas de pantalla de los módulos de Examen abdominal y Radiografía de tórax respectivamente.
+
+    
+
+Figura 1. En esta sección se cuenta con un botón de Menú principal y 2 botones que         direccionan a dos escenarios posibles: Matidez y Normalidad. En este caso, se muestra        la situación Normal. El alumno debe hacer “click” o presionar en caso de estar en un      smartphone o tablet sobre la proyección hepática, gástrica o la superficie abdominal         para escuchar y evaluar la diferencia auditiva. Una experiencia similar se encuentra        en la sección “Matidez”.
+
+ 
+
+Figura 2. En esta sección de la web correspondiente al módulo Radiografía de Tórax,        los alumnos al posar el cursor sobre la placa encontrarán coloreados los elementos        con su respectiva nominación. Al quitar el cursor de la imagen, la placa        volverá a su original.
+
+ 
+
+Como método de autoevaluación del aprendizaje logrado en cada uno de los talleres de simulación recién descritos, junto a la disponibilidad de la web interactiva para el estudio personal y de reforzamiento, se generó un banco de preguntas estructuradas que evaluaran el aprendizaje de los talleres prácticos simulados. Al finalizar cada taller de simulación, considerando la disponibilidad permanente de la web, se aplicó mediante la aplicación gratuita Edmodo 2016© (disponible para computadores y dispositivos móviles), un minitest de 10 preguntas que evalúan el logro de objetivos mínimos para cada taller. Esta aplicación, se comporta como una red social que permite hacer llegar notificaciones o minitest a los alumnos por grupos específicos y asignarles tareas por separado, pudiendo realizar evaluaciones de desarrollo o selección múltiple, en un período de tiempo determinado, que en este curso fue de siete días, además se realiza retroalimentación instantánea con nota formativa de los mismos minitest, enviándolos de manera privada al correo electrónico de cada alumno.
+
+Con el objetivo de evaluar la satisfacción global de los alumnos con los módulos en línea de autoinstrucción, se realizó un estudio observacional antes y después, el que consistió en realizar una encuesta (Tabla 2) al finalizar el curso de semiología, en la que se presentaron 7 aseveraciones, a la cuales los alumnos tenían que determinar su grado de acuerdo, siendo 1 muy de acuerdo y 4 muy en desacuerdo. Esta encuesta se realizó en base a los objeticos del curso de semiología y las recomendaciones realizadas por el Centro de Educación Médica de la Facultad de Medicina. Luego se realizó análisis de validez de contenido, muestreo y constructo mediante un análisis factorial exploratorio con rotación Varimax. Los factores se seleccionaron de acuerdo al criterio de Kaiser-Guttman, que incluye a los factores con un auto-valor (eigenvalue) > 19. También se utilizó el criterio de Cattell, que establece el punto de inflexión del grafico de sedimentación como valor de corte, considerando todos los factores sobre éste9. Por otro lado, se midió la confiabilidad de los resultados de la encuesta en base al análisis de consistencia con alfa de Cronbach, que se expresa de 0 a1 (< 0,4: pobre, 0,4 - < 0,6: moderada, 0,6 - < 0,8: buena y 0,8 a 1: excelente)10.
+
+ 
+
+Tabla 2. Encuesta de satisfacción global
+
+  
+
+Finalmente, se les pidió que le pusieran una nota al curso de 1 a 10, siendo esta última la mejor nota. Para objetivar y cuantificar la utilidad de este nuevo método se procedió a comparar el promedio de notas del Examen Clínico Objetivo Estructurado (ECOE), que se realiza al finalizar el curso, con una población no expuesta a la intervención de los módulos de autoinstrucción, pero con la misma exposición al resto de las instancias docentes y con un ECOE que contenía los mismos objetivos y el mismo nivel de dificultad, por lo que se eligió el curso del año previo.
+
+Los análisis estadísticos se llevaron a cabo con el programa SPSS versión 17. Un valor p < 0,01 se consideró significativo. Los datos son presentados en promedio ± desviación estándar considerando un intervalo de confianza de 95%. La comparación de ambas notas fue hecha con test t de Student para variables continuas.
+
+Resultados
+
+Los resultados de esta experiencia de innovación incluyeron la percepción de los propios estudiantes y el impacto académico reflejado en las calificaciones finales.
+
+El total de los alumnos de tercer año (n: 120) realizaron el módulo de auto instrucción online durante el segundo semestre del 2015 (53% hombres, edad promedio 21 años), el 100% respondió la encuesta al final del curso. Los resultados de la encuesta se encuentran en la Tabla 2. Todas las aseveraciones tuvieron un alto grado de acuerdo entre los estudiantes (entre 1,35 y 1,76), siendo la utilidad para reforzar conocimientos en semiología (pregunta 4) la aseveración con la que los alumnos mayor acuerdo tuvieron (1,35 ± 0,71). Ante la aseveración si modificarían la metodología utilizada en los módulos de autoinstrucción, hubo un alto grado de desacuerdo (2,85 ± 0,94).
+
+Con respecto a la validez de constructo, el análisis factorial mostró que el instrumento posee una estructura de 2 factores, de acuerdo al criterio de auto-valor (eigenvalue) > 1. El primer factor dio cuenta de 44,5% de la varianza, mientras que con los 2 factores en conjunto se explicó el 58,8% de la varianza total. El primer factor contiene las preguntas 1, 2, 3, 4, 5 y 7. El segundo contiene la pregunta 6.
+
+Para evaluar la consistencia interna de la encuesta se calculó alfa de Cronbach, el cual resultó en 0,69 incluyendo todos los ítems y 0,79 excluyendo el ítem 6. Ambos considerados buenos resultados.
+
+Para evaluar la satisfacción global del módulo de autoinstrucción, se les solicitó que le pusieran una nota (de 1 a 10), cuya media fue de 8,3 ± 1,38. Para evaluar la efectividad de los módulos de autoinstrucción se comparó la nota promedio de ECOE del año 2014 (media 5,53 ± 0,48), en la que no se contó con los módulos online, con la del 2015 (media 5,93 ± 0,32), resultando una diferencia significativa (valor p < 0,0001).
+
+Discusión
+
+La realización de los módulos interactivos online tuvo resultados promisorios en su impacto educacional.
+
+Los módulos interactivos online tuvieron una buena evaluación por los alumnos, con una nota promedio de 8,3 ± 1,38. Por otro lado, los alumnos estuvieron de acuerdo en que el módulo de autoaprendizaje les fue útil en varios aspectos, como en la eficiente obtención de datos en la historia clínica, en la interpretación del examen físico, en la facilitación del aprendizaje y en el reforzamiento de conocimientos teóricos de semiología, lo cual era parte de los objetivos de la implementación de los módulos. Dentro de éstos, el mayor acuerdo se encontró en la aseveración que hacía referencia a la utilidad en reforzar “conocimientos de semiología”. Dicho hallazgo es interesante, ya que resalta el hecho de que los alumnos perciben los módulos en línea como una herramienta útil en apoyar los conocimientos teóricos de la medicina, lo que podría ser utilizado en el futuro para reemplazar parcialmente las clases lectivas o teóricas por clases en línea, reservando los espacios tradicionalmente ocupados como clases magistrales en actividades prácticas, actividades aplicadas o en la resolución de dudas con los docentes, haciendo más eficiente los espacios con los tutores.
+
+Siguiendo con la línea de la importancia del aprendizaje activo y del alumno como protagonista de su conocimiento, es destacable que los alumnos estuvieron de acuerdo con que los módulos interactivos online los motivaron a estudiar más, lo que ciertamente es uno de los objetivos que se tienen como educador y lo que además es un objetivo de las escuelas de medicina en donde se busca que los alumnos desarrollen la capacidad de autoaprendizaje.
+
+Otro punto importante es que los alumnos perciben que los módulos los ayudaron a rendir el ECOE, probablemente al poder clarificar dudas teóricas que no quedaron resueltas en los seminarios clásicos que les fueron dictados. Esta percepción se evidenció en una significativa mejoría que tuvo el promedio del curso en este examen con respecto al año anterior.
+
+La novedad de la actividad online propuesta en el curso Integrado II y el impacto educacional de la misma podría sustentarse en 3 puntos.
+
+El primero sería la entrega inmediata de retroalimentación, lo que permite que el alumno reconozca inmediatamente sus fortalezas y debilidades, pudiendo optimizar su estudio personal.
+
+El segundo punto es la presentación de situaciones clínicas que incluyen los contenidos mínimos esperados para un alumno de tercer año de medicina, a las cuales no siempre se pueden exponer en sus rotaciones prácticas, dada la heterogeneidad de pacientes a los que son expuestos y de los tutores que están a cargo de los grupos.
+
+Lo tercero sería la metodología interactiva con alto grado de apoyo audiovisual, lo que ciertamente hace que el aprendizaje de la semiología sea más atractivo y tangible11.
+
+Estos 3 puntos podrían facilitar la estandarización de la enseñanza de la semiología en particular y de la medicina en general, la que frecuentemente está sesgada por problemas como heterogeneidad de docentes, exposición a diferentes situaciones clínicas, elementos que históricamente ocurren en la enseñanza de la medicina12.
+
+Finalmente se puede decir que, si bien existe satisfacción dentro del alumnado con respecto a esta metodología, ésta aún se puede seguir perfeccionando, dado que pese a existir una tendencia hacia no modificar la metodología (2,85 ± 0,94), ésta no es absoluta. Esto da espacio al perfeccionamiento y mejoría del método. Por lo mismo es importante enfatizar que cualquier nueva metodología que se implemente, por más exitosa que sea inicialmente, tiene que estar constantemente retroalimentándose de sus usuarios, para actualizarse, perfeccionarse y adecuarse a las necesidades de las nuevas generaciones de futuros médicos.
+
+Es importante mencionar que evaluando la validez y consistencia de la encuesta llama la atención que tanto el análisis factorial como el alfa de Cronbach indican fuertemente que habría que excluir la pregunta número 6. El análisis factorial indica que hay 2 factores en la encuesta, siendo que el segundo sólo incluye la pregunta 6 y el alfa de Cronbach sube, incluyendo todos los ítems de la encuesta y excluyendo el ítem 6, de 0,69 a 0,79. Sin embargo, si bien al excluir el ítem 6 se aumenta la validez de constructo, ésta aún se mantiene en un rango considerado como “bueno”. Además, al excluir ese ítem se pierde validez de contenido, dado que la percepción de los alumnos con respecto a la metodología utilizada (pregunta 6) es de gran valor para la evaluación del método, razón por la cual se decidió mantener.
+
+Dentro de las limitaciones de este estudio cabe destacar la dificultad en la interpretación, ya que la nota del ECOE fue comparada con el curso del año previo y no con una población control dentro del mismo curso. La justificación es que los alumnos que no se expongan a la página web de semiología, podrían perjudicar su aprendizaje y calificación es frente a los compañeros que sí tuvieron exposición al material. Por lo que si bien, no es una población de control ideal, era la comparación más justa para los estudiantes.
+
+En conclusión, podemos decir que los módulos interactivos en línea de semiología médica son una metodología bien evaluada por los alumnos, que posiblemente mejora su rendimiento y que, si bien puede ser perfeccionada, es una herramienta que se puede utilizar para mejorar el aprendizaje en cursos clínicos iniciales.
+
+Agradecimientos: Agradecemos la valiosa colaboración de Arnoldo Riquelme y Oslando Padilla en el apoyo estadístico.

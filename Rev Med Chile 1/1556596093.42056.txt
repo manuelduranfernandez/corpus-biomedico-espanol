@@ -1,0 +1,114 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000500547
+El sinsabor que deja el mejor año en la donación de órganos para trasplante en Chile
+
+El trasplante otorga un beneficio de supervivencia a quienes sufren de insuficiencias terminales de hígado y riñón 1 . Condición sine qua non para realizar trasplantes es el disponer de donantes, particularmente donantes fallecidos. Según cifras del año 2016, tanto las tasas de donación como de negativa familiar chilenas son peores que el promedio de Sudamérica (7,4 versus 9,1 pacientes por millón de habitantes {pmp} y 51% versus 41%, respectivamente) muy distantes al líder mundial, España, con 43,8 pmp y 15,6% 2 .
+
+El proceso de obtención de donantes fallecidos es largo y complejo; puede resumírselo en tres subprocesos: 1) Detección del potencial donante; 2) Mantención de éste en condiciones fisiológicamente adecuadas para la donación y certificación de la condición de fallecido y 3) Obtención de autorización, por parte de la familia directa, para realizar la cirugía de extracción de los órganos a ser donados. Los primeros dos dependen, fundamentalmente, de la gestión de los sistemas de salud (rescate y traslado de quienes han sufrido accidentes traumáticos o vasculares con compromiso encefálico, atención de los pacientes en los servicios de urgencia y unidades de paciente crítico de centros de alta complejidad y, de haber un desenlace fatal a pesar de los tratamientos médicos y quirúrgicos al paciente, certificación del fallecimiento); en cambio, el tercero depende de la autorización de la familia para que su ser querido fallecido se convierta en un donante efectivo de órganos. Para este último es fundamental se cumplan: Adecuada información técnica del equipo de salud a los familiares, entendimiento cabal de la familia de la condición médica del ser querido, conocimiento del deseo previo de éste por ser donante y, muy importante, confianza de todos los participantes de que todo lo que se realiza es ética, técnica y legalmente correcto y apropiado.
+
+Probablemente, las tasas de donación españolas se explican porque se han hecho expeditos estos tres subprocesos y por la alta confianza que tiene la población que reside en ese país por el quehacer la Organización Nacional de Trasplante (ONT) y del funcionamiento del sistema de salud que no es análoga a lo que puede percibirse en Chile 3 . Por ejemplo, el hecho que entre los años 2007 y 2011 dos ministros de estado y la cónyuge de un tercero hayan recibido un órgano sólido y en instituciones privadas puede percibirse como manifestaciones de inequidad, asimismo la mediatización de algunos otros casos 4–8 .
+
+En octubre de 2016, un canal de televisión inició una campaña para aumentar la donación emitiendo videos, reportajes, entrevistas y otras herramientas de comunicación en horario de alta audiencia y con el apoyo de connotados rostros de dicha estación 9 . En los meses siguientes hubo un incremento sostenido en la tasa de donación hasta lograrse un máximo histórico. Esto fue interpretado por las autoridades de salud como consecuencia de una mejora en pesquisa y mantención 10 y por los ejecutivos de TV, como consecuencia de una reducción la tasa de negativa familiar (TNF) 11 . En paralelo, se trasmitieron las campañas “Súmate a la Donación de Órganos” y “Última Llamada”.
+
+Nuestro objetivo es analizar el año posterior a las campañas e identificar el efecto relativo en la mejora de los subprocesos de la donación efectiva de órganos para trasplante.
+
+Metodología
+
+A partir de las cifras reportadas de donantes efectivos (DE) mensuales y TNF a la donación entre los años 2013-2017, disponibles en los sitios web del Ministerio de Salud ( www.minsal.cl ), Corporación del Trasplante ( www.trasplante.cl ) y otras fuentes públicas, que se detallan en la sección de referencias, se recabó información para analizar, en tres partes, la actividad de donación durante el período anual posterior al inicio de la campaña de TV.
+
+Parte I
+
+Diagnóstico de si el año 2017 fue diferente a los años precedentes. Para ello, se corroboró que los donantes mensuales de los años 2013-2016 distribuyeran de forma normal y que hubiera homocedasticidad interanual mediante los test de Shapiro-Wilk y Bartlett, respectivamente. Median-te ANOVA se comparó los donantes mensuales de los períodos anuales y con pruebas post hoc de Tukey y Student-Newman-Keuls se identificó los años distintos.
+
+Parte II
+
+Subprocesos de Detección y Manejo de los Donantes Potenciales (DP). El foco es verificar si la sola proyección o inercia de la actividad de donación efectiva del período 2013-2016 puede explicar lo observado durante el 2017. Si las donaciones no siguen una estacionalidad interanual (ANOVA entre meses), puede construirse, a partir de las cifras mensuales, períodos anualizados móviles de 12 meses para así aumentar las observaciones de períodos anuales y facilitar el análisis visual de la actividad de donación. Además, se buscó la función que mejor describiera los datos observados mediante inspección visual de ellos y el desarrollo formal de un modelo determinístico 12 .
+
+Una vez identificada esa función, tanto para los DE como los donantes potenciales (DP), entendiendo éstos como el cociente entre los DE y la tasa de aceptación familiar (1-TNF), se estimó el número de DE y DP esperables para el año 2017 y se los comparó con lo que ocurrido efectivamente.
+
+Parte III
+
+Subproceso de Reducción de la Negativa Familiar o Aumento de la Aceptación Familiar. Se comparó las TNF reportadas con modelamientos para el año 2017 mediante dos metodologías:
+
+A partir de los datos mensuales de negativa de 2016, se generó, mediante el método de Montecarlo, probables TNF para cada mes del 2017.
+
+A partir de las TNF 2013-2016, se buscó la mejor función de regresión para pronosticar lo que podría observarse durante el 2017.
+
+Para los análisis descritos se utilizó Excel 2013 de Microsoft Office y SSPS 20 de IBM.
+
+Resultados
+
+Los DE del período 2013 a 2016 se muestran en la Tabla 1 y las TNF de esos años fueron 50%, 52%, 53% y 51%, respectivamente. Las TNF disponibles de 2017 son de enero (33%) 13 y septiembre (44%) 14 .
+
+Tabla 1 Número de donantes efectivos mensuales período 2013-2017 
+
+Parte I
+
+Efectivamente, los números de donantes mensuales de cada año del período 2013-2016 se distribuyen de manera normal (p = 0,20-0,91) y poseen homocedasticidad (p = 0,838). Tampoco se encuentra existan meses “mejores que otros”. (p = 0,56).
+
+De la tabla se desprende que el número de DE mensuales es bastante variable de mes en mes, y que el número anual de DE ha ido aumentando en el último lustro (r = 0,915; p = 0,029). No obstante, al analizar el período completo, se encuentra que, si bien el número de DE efectivamente ha aumentado (p < 0,001), ello ha ocurrido, en conjunto, por los últimos dos años. Los test post hoc muestran que los DE anuales del período 2013-2015 son comparables entre sí, pero menores a los del 2016-2017 (p < 0,05).
+
+Parte II
+
+La Figura 1 muestra los DE mensuales 2013-2016 y los DE y DP anualizados en el mismo período. Las funciones que describen los DP y DE son ambas de segundo grado, convexidad superior, prediciendo descensos futuros.
+
+Figura 1 Número de donantes efectivos mensuales y los donantes potenciales y efectivos anualizados en el período enero de 2013 a diciembre de 2016. Función de DP y = −0,065 (+ 0,013) x2 + 4,589 (+ 0,506) x + 191,313 (+ 4,17) tiene un r = 0,951; p < 0,001. 
+
+La Figura 2 muestra los DE del año 2017, además de lo proyectado según el comportamiento del período 2013-2016. De ella se desprende que esta actividad es bastante parecida a lo proyectado y que las curvas convergen hacia el final del año, implicando que gran parte del resultado podría ser extrapolado desde los años precedentes. Esto mismo se replica en la Figura 3 para los DP.
+
+Figura 2 Número de donantes efectivos mensuales y donantes efectivos anualizados 2017 y proyección de donantes efectivos 2017 a partir del período enero de 2013 a diciembre de 2016. Función de DE y = −0,015 (+ 0,006) x2 + 1,518 (+ 0,237) x + 97,63 (+ 1,957) tiene un r = 0,942; p < 0,001. 
+
+Figura 3 Número de donantes potenciales mensuales y donantes potenciales anualizados 2017 y proyección de donantes potenciales 2017 a partir del período enero de 2013 a diciembre de 2016. 
+
+Por tanto, los subprocesos de detección y manejo de DP del año 2017 no fueron estadísticamente diferentes a lo observado en el lapso 2013-2016.
+
+Parte III
+
+La Figura 4 grafica que la TNF durante el primer semestre efectivamente se redujo respecto de lo que puede proyectarse a partir de las dos metodologías empleadas.
+
+Figura 4 Evolución de la negativa familiar reportada durante el año 2017 en comparación con tasas aleatorias generadas a partir de las tasas del año 2016 y de la proyección de lo observado en el período de 2010-2016. 
+
+Discusión
+
+El número de DE de 2017 es, numéricamente, el mayor de la historia. A juicio de las autoridades de salud es fruto del “trabajo realizado por el MINSAL en materia de fortalecimiento de los equipos de procuramiento a nivel nacional y de generación de orientaciones técnicas para acompañar el proceso de donación de órganos y tejidos para trasplante” 15 y que el camino a seguir es “profundizar las campañas comunicacionales que permitan seguir disminuyendo la negativa familiar a donar órganos” 15 .
+
+Basados en nuestros hallazgos, podemos concluir:
+
+Las tasas de donación varían mensualmente de manera no sistematizada sin existir “meses buenos” o “malos”.
+
+Las tasas de donación se han mantenido bastante estables en los últimos 36 períodos anuales y es preocupante que la mejor función matemática que explica este comportamiento sea una de segundo grado con convexidad superior, que predice que los DE tenderán a caer a menos que se intervenga adecuadamente en sus procesos determinantes.
+
+Que los DE sigan una distribución de probabilidad aleatoria (distribución normal), sugiere que la actividad de donación se debe al azar sin existir evidencias de existencia de planes sólidos para asegurar que esta actividad mejore. Tampoco puede descartarse que parte de la actividad de procura se deba a situaciones aisladas, como un equipo de procuramiento comprometido en un tiempo limitado o en algún centro asistencial aislado.
+
+Si bien es posible que el 2017 haya sido un éxito en materia de donación, ello es controvertido; nuestros resultados sugieren que el 2017, en el mejor de los casos, fue sólo marginalmente superior a los anteriores y no del todo diferenciable de 2016 y lo peor, es que no encontramos evidencia que lo que afirman las autoridades de Salud, respecto de la mejora de los procesos hospitalarios, tenga sustento empírico. Efectivamente, nuestros análisis del comportamiento de los subprocesos de pesquisa y mantención de DP, que son los verdaderos generadores de DE, no se modificaron respecto de lo que se había realizado anteriormente.
+
+Sí fue evidente la mejora de la TNF a la donación; de la histórica cercana a 50% cayó hasta un mínimo de 33% en enero y promedió anualmente 45% 14 , explicando la mayor parte del alza de la donación del 2017 hasta alcanzar el máximo de 10 donantes pmp 15 . También preocupa lo que se grafica en la Figura 4 , en el sentido que la mejora en el subproceso de reducción en la TNF está regresando al promedio de 2013-2016, sugiriendo que lo que motivó este cambio ya no se encuentra igualmente presente en la sociedad y que volveremos a nuestras tasas de donación mediocres.
+
+La Coordinadora Nacional de Trasplantes (CNT), dependiente de la Subsecretaría de Redes Asistenciales del MINSAL ha intentado replicar el exitoso modelo de la ONT español y sus tasas récord de obtención de donantes 2 . La ONT basa su modelo en la existencia de coordinadores de donación en los hospitales de mediana y alta complejidad y la existencia de equipos quirúrgicos locales, y su éxito, a la consecución de los procesos de detección y manejo de DP y a las reducidas TNF; todo acompañado de constantes auditorías a todos los procesos intervinientes. En Chile, esto no ha podido replicarse. Razones de este fracaso relativo son:
+
+Insuficiente autonomía e importancia relativa de la CNT respecto de otras reparticiones del MINSAL y falta de herramientas reales de supervisión (auditoría) a los hospitales participantes en actividades de donación 16 .
+
+Falta de alineación entre los servicios de urgencia y unidades de paciente crítico de centros de alta complejidad, de tal forma que los subprocesos de detección y manejo de los DP sea expedito y eficaz 17 .
+
+Relativa escasez de equipos quirúrgicos entrenados que puedan imposibilitar el realizar procuramientos en algunos lugares de Chile, en fechas determinadas o si se presentan simultáneamente dos o más DE.
+
+Alta TNF: Mientras en España es 18%, en Chile es 50% 18 .
+
+Se la ha atribuido que la alta TNF chilena se debe a nuestra legislación, pero, sus “mejoras” recientes pareciera empeoraron el problema 19 . Sí parece influir importantemente en este guarismo la confianza de la sociedad sobre la transparencia y equidad de las actividades de pesquisa y mantenimiento de DP, del acto de donación propiamente tal y, sobretodo, de la justicia y equidad en la asignación de los órganos procurados. En este último aspecto es donde los casos mediáticos restan voluntades de donación y merman la tasa de donantes 4–8 .
+
+Las campañas periódicas sobre donación del MINSAL parecen no ser suficientemente efectivas, no así la del canal de TV en horarios de alta audiencia y con el apoyo de sus rostros emblemáticos 9 y emitida entre octubre de 2016 y octubre de 2017. En paralelo con ella, desde enero del 2017 dio la impresión que las tasas de donación se habían incrementado. El problema, eso sí, es que el costo de producir y emitir los programas en horarios privilegiados y con rostros de alto impacto es elevadísimo, US$ 10-20 MM (F Gerdtzen, Jefe de proyecto Mi Causa Mi Mega, comunicación personal), lo que es, claramente insostenible en el tiempo y, si consideráremos que ella fue la responsable de todos los donantes extra del año 2017 respecto de 2016, cada uno de los 39 habría tenido un costo de US$ 250.000-500.000. Cifra que debe compararse con el presupuesto anual de la CNT de US$ 400.000 anuales 16 .
+
+Evidentemente, el análisis matemático y estadístico presentado tiene las limitaciones propias de la incapacidad de poder predecir el futuro con exactitud y la escasez de información disponible para análisis, que obliga a buscar fuentes alternativas, como las notas de prensa.
+
+Finalmente, cabe preguntarse, qué podemos hacer para el futuro. Proponemos:
+
+Analizar y realizar reingeniería en el quehacer de la CNT.
+
+Promover y facilitar los subprocesos de pesquisa y manejo de los DP. Por ejemplo, automatizando la pesquisa mediante el uso de algoritmos sencillos, pero sensibles y buscando herramientas que faciliten su traslado a unidades de paciente crítico. En este sentido, el empleo de tecnologías de la información pueden promover eficacia en los resultados a un costo razonable.
+
+Auditar el quehacer de los servicios de urgencia y unidades de paciente crítico en busca de “cuellos de botella” y de prácticas mejorables para la consecución de DE. Estas actividades, de suyo complejas y onerosas, también podrían facilitarse mediante el uso de tecnologías de la información.
+
+Realizar campañas sensibilizadoras, si bien útiles 20 , suelen ser costosas e insostenibles en el tiempo. Para reducir la TNF debe mejorarse los procesos previos al acta de donación, lo cual se consigue con un sistema eficiente y percibido como transparente y justo. Los inmigrantes latinoamericanos mejoran su voluntad a donar al vivir en España respecto a la voluntad en sus países de origen 21 . En promedio, la donación efectiva en Latinoamérica es 10 pmp, que se eleva a 55,8 pmp en los inmigrantes 21 . Al hacer eficiente nuestro sistema de donación y trasplante se mejora la percepción del mismo en la población. Se destaca que Chile es el país que menos aumenta su disposición a donar, sugiriendo que si no se mejoran los dos procesos hospitalarios, aún con más ahínco que en España, es difícil que mejoremos en algo nuestras cifras 21 .
+
+En suma, si bien el año 2017 fue el mejor en cuanto al número de donantes de órganos conseguidos y al número de pacientes beneficiados con un trasplante, queda un importante sinsabor al reparar que estos auspiciosos números no obedecen a un desarrollo sistemático y sostenible de la actividad de procura.
+
+Trabajo sin financiamiento externo.

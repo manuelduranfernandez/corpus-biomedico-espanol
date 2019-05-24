@@ -1,0 +1,92 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872011000400008
+Detección de mutaciones asociadas a cepas multidrogo resistente de Mycobacterium tuberculosis en Chile
+
+Rev    Med Chile 2011; 139: 467-473
+
+ARTÍCULO    DE INVESTIGACIÓN
+
+
+
+Detección    de mutaciones asociadas a cepas multidrogo resistente de Mycobacterium tuberculosis    en Chile
+
+Detection    of genes associated with drug resistance in Mycobacterium tuberculosis strains  isolated in Chile
+
+ 
+
+Pamela    Araya1,a, Maritza Velasco2,b, Javier Tognarelli1,a,    Fabiola Arias2,b, Tamara Leiva2,b, Angélica Sccapatticio2,b,    Pablo    Alviz1,a, Jorge Fernández1,c
+
+1Subdepartamento    Genética Molecular. 2Sección Micobacterias. Instituto    de Salud Pública de Chile. aBioquímico. bTecnólogo    Médico. cLicenciado en Biología, PHD.
+
+Dirección para correspondencia
+
+Background:    The incidence of acquired resistance to antituberculous drugs of Mycobacterium    tuberculosis in Chile is approximately 23%. Aim: To analyze the mutations    associated with drug resistance in drug resistant strains of Mycobacterium tuberculosis.    Material and Methods: In 28 drug resistant Mycobacterium tuberculosis    strains isolated in Chile, genes leading to drug resistance were studied. DNA    was amplifed by polymerase chain reaction (PCR) and sequencing was carried out    using the ABI PRISM big dye terminator cycle sequencing ready reaction kit.    Results: In rifampicin-resistant strains, the mutations in rpoβ    gene were in the codons S531W/L (56%), D516Y (16%) and D516V (16%).    The predominant mutation in katG gene was in the codon S315L (73%) in isoniazid-resistant    strains. The mutation S95T was found in the 71% of ciprofoxacin resistant strains.    Only one ethambutol resistant strain had the M306I mutation. Three unreported    mutations in katG were identifed. Conclusions: Drug resistance associated    mutations of Mycobacterium tuberculosis isolated in Chile were similar to those    reported abroad.
+
+Key    words: Drug resistance, microbial; Mutation; Mycobacterium tuberculosis.
+
+
+
+ 
+
+La    incidencia de tuberculosis (Tb) se ha incrementado en muchos países durante    las últimas décadas y en la actualidad es la enfermedad infecciosa más común    en el mundo1. Según estimaciones de la Organización Mundial de la    Salud en el año 2008 hubo una incidencia de alrededor de 9,4 millones de casos    nuevos de tuberculosis en todo el mundo1.
+
+La    emergencia de cepas resistentes a drogas de Tb, especialmente cepas multidrogo    resistentes (Tb-MDR), ha planteado una amenaza a los programas de control de    la tuberculosis. La Tb multidrogo resistente es reconocida como una infección    con Mycobacterium tuberculosis resistente a las drogas isoniazida (INH)    y rifampicina (RIF) de manera simultánea, que son agentes antituberculosos de    primera línea y la columna vertebral del actual tratamiento antituberculosis2,3.    En 2008, los casos nuevos de Tb-MDR se estimaron en 440.000 casos y los casos    prevalentes son estimados en sobre un millón1,4.
+
+En    Chile, la tasa de casos de Tb es una de las más bajas en Sudamérica, con una    incidencia estimada de 13,2 casos por 100.000 habitantes en el año 2009 (observaciones    no publicadas). Sin embargo, la incidencia de tuberculosis en Chile varía según    la zona geográfica, con tasas de 20-38 casos por 100.000 habitantes en    algunas ciudades en el norte y sur del país5. La resistencia adquirida    a drogas antituberculosas durante el período 1999 al 2008 ha sido en promedio    de 23,4%. Durante los años 2007 y 2008 se observó una resistencia de 26,9%    y 22,2% respectivamente (observaciones no publicadas). La resistencia a rifampicina    durante los años 2007 y 2008 fue de 8,4% y 7,1% respectivamente. En cambio,    la resistencia isoniazida durante el 2007 y 2008 fue de 14,9% y 11,5% respectivamente.    La multidrogo resistencia durante estos dos años fue de 5,7% y 4,3% (observaciones    no publicadas).
+
+El    análisis genético de las cepas Tb-MDR ha revelado diferentes mecanismos de resistencia.    La resistencia a RIf, sobre 90% de los casos, ha sido asociada con mutaciones    en la región principal de 81 pares de bases del gen rpoβ    que codifica para la subunidad-β    de la aRN polimerasa7-9. En contraste, las mutaciones causantes    de la resistencia a INH están dispersas en el gen katG (catalasa-peroxidasa),    la región promotor de ahpC (alquil hidroperoxidasa), inhA (enoil-acil    reductasa), kasA (β-ketoacil    acP sintasa), mabA (3-cetoacil reductasa) y ndh (NaDH dehidrogenasa)2,10,-14.    Sin embargo, en 60 a 96% de los casos, la resistencia a INH es asociada con    mutaciones en el gen katG principalmente en el codón 315 (Ser→Thr)9,15-18.    También se han detectado resistencia a otras drogas antituberculosas, que forman    parte del tratamiento que reciben los pacientes. La resistencia a etambutol    (EMb) se ha asignado al operón em-babc, que codifica para la arabinosil    transferasa. Mutaciones puntuales en los genes de embABC comúnmente ocurren    en embB en el codón 30619-21. finalmente, en las fuoroquinolonas    (fQ), usadas como agentes de retratamiento antituberculosis y recomendadas para    tratar las Tb-MDR, las mutaciones se ubican en el gen gyrA22.
+
+El    objetivo de este trabajo fue analizar las mutaciones en los genes rpoβ,    katG, inha, embB y gyrA en cepas de Mycobacterium    tuberculosis resistentes a las drogas antituberculosas. Este estudio es    el primero en describir las mutaciones asociadas a la resistencia a drogas en    cepas chilenas de Mycobacterium tuberculosis.
+
+Material    y Método
+
+Cepas
+
+Las    cepas fueron obtenidas de distintos laboratorios de los Servicios de Salud que    conforman la red de bacteriología de la tuberculosis en Chile. Dos cepas provenían    de la zona norte, dieciocho de la zona central y ocho de la zona sur. Todas    las cepas fueron identificadas como M. tuberculosis, por pruebas de identificación    fenotípicas estándares. Estas fueron analizadas para determinar la resistencia    por el método de las proporciones de canetti, Rist y Grosset a las concentraciones    inhibitorias mínimas correspondientes a cada droga (INH (0,2 μg/ml), RIf    (40 μg/ml), cP (2 μg/ml) y EMb (2 μg/ml). De un total de 28 cepas    resistentes, 23 fueron MDR y 5 cepas fueron monoresistentes (Tabla    1). Se utilizaron 10 cepas susceptibles como controles para el mismo período    de tiempo. Las cepas de M. tuberculosis fueron conservadas a -70ºc en    medio middlebrook suplementado con OaDc/PaNTa y mostacillas23.
+
+  
+
+ 
+
+Extracción    de ADN
+
+A    partir del cultivo en medio Lowenstein Jensen, se tomó una porción de bacteria    con una asa y se resuspendió en 500 μl de TE (10 mM Tris pH 8,0, 1 mM EDTa).    La suspensión fue inactivada por calentamiento a 95ºc por 15 minutos. El ADN    fue aislado por tratamiento con bromuro de cetiltrimetilamonio en presencia    de 0,7 M Nacl como se ha descrito anteriormente24.
+
+Amplificación    de ADN mediante reacción en cadena de la polimerasa (PcR): Las principales regiones    que determinan resistencia en los genes katG, inhA, rpoβ, embB y gyrA fueron amplificadas usando partidores de oligonucleótidos    y condiciones de PCR descritas previamente (Tabla 2)21,22,24,26.    Para la amplificación del ADN se utilizó el termociclador Geneamp System 2700    (applied biosystems). Los productos de PcR fueron purificados con un kit    de extracción de gel de Omega biotek (OMEGa, USA) según instrucciones del  fabricante.
+
+  
+
+ 
+
+Secuenciación    de ADN
+
+La    secuenciación fue realizada con dideoxinu-cleótidos marcados con fuorescencia    usando el kit abI PRISM big dye terminator cycle sequencing ready reaction    (applied biosystems, foster city, ca.) y se utilizaron los mismo partidores    con los que se realizó la amplificación por PcR. Las secuencias nucleotídicas    fueron analizadas usando el equipo abI PRISM 3130 Genetic analyser (applied    biosystems). Las secuencias fueron ensambladas y editadas con los programas    ALIGN, EDITSEQ y MEGALIGN (DNASTAR, Madison, Wis) y fueron comparadas con la    secuencia correspondiente de la cepa susceptible de M. tuberculosis.
+
+Resultados
+
+En    28 cepas de Mycobacterium tuberculosis resistentes a drogas se analizaron    los genes asociados a la resistencia mediante secuenciamiento genético. Las    cepas fueron originalmente cultivadas entre los años 1998 al 2001 y provenían    de diferentes zonas geográficas de Chile. Se estableció que 25 cepas    provenían de pacientes con un historial de tratamiento previo y 3 cepas correspondieron    a pacientes sin tratamiento previo (Tabla 1).
+
+En    22 (88%) de las 25 cepas resistentes a rifampicina se identificaron mutaciones    en los codones: 516 (4 cepas), 526 (4 cepas) y 531 (14 cepas) (Tabla    1). En el codón 531 se encontraron las mutaciones TcG→TTG    (S531L) y TcG→TGG    (S531W) que produjo la sustitución del aminoácido serina a leucina y de serina    a triptófano en este codón respectivamente. Las mutaciones en los codones 516    y 526 produjeron la sustitución de ácido aspártico a valina y de histidina a    tirosina respectivamente. En ninguna de las cepas susceptibles se encontraron    mutaciones a RIF.
+
+Las    mutaciones en katg fueron detectadas en 23 de los 26 cepas resistentes    (88,5%), pero en ninguna de las 10 cepas susceptibles. En 20 cepas se encontró    una mutación puntual y en 2 cepas se detectó una deleción de 3 bases (Tabla    1). La mutación más común correspondió al codón 315 de katG, en 18    cepas se identificó la mutación aGc→acc    y 1 cepa la mutación aGc→acG.    ambas mutaciones producen la sustitución de serina por treonina en este codón.    Otras dos mutaciones fueron detectadas en los codones 381 y 463 del gen katG.    En tres cepas MDR no se detectaron mutaciones en la región del gen katG    estudiado. En la región promotora del gen inhA se identificó la mutación    c59T en 2 cepas.
+
+En    una cepa resistente a EMb se encontró una mutación en el codón 306 generando    un cambio de metionina a isoleucina. En las cepas susceptibles no se encontraron    mutación en la región embB.
+
+En    las siete cepas resistentes a ciprofoxacina (cP) se analizó el gen gyrA,    en 5 (71,4%) de ellas se encontró la mutación S95T.
+
+Discusión
+
+Los    mecanismos de resistencia a RIf están basados en cambios estructurales de la    aRN polime-rasa, sugiriendo que la región de la subunidad β    de la enzima juega un rol importante en determinar el fenotipo de resistencia15.    Mutaciones en uno de los 3 codones (516, 526 y 531) se observan para la mayoría    de los aislados resistentes a RIf (70 a 95%), especialmente en áreas con alta    incidencia de MDR-Tb7. Estudios previos demuestran que la mutación    S531L fue la más frecuente18,27. En ninguna de las cepas resistentes    a RIf se detectaron mutaciones simultaneas en más de un codón y tampoco se encontraron    inserciones en los codo-nes 514 y 521 como se ha descrito27,29. En    3 cepas resistentes a RIf no se detectaron mutaciones en la región del gen rpoβ    que se estudió. Este resultado indica que la resistencia a RIf en estas    cepas, podría estar relacionado con mutaciones en otra región del gen rpoβ    o que otro mecanismo diferente es responsable de esta resistencia30.
+
+En    las cepas resistentes a INH, se observó principalmente la mutación en el codón    315 de katg, como se ha reportado previamente14,18. Las mutaciones    en los codones 381 y 463 también han sido reportadas, sin embargo, se ha descrito    que la mutación R463L (cGG→cTG)    es un polimorfismo que no influencia la resistencia a INH18,31,32,33.    En este estudio se encontraron 3 mutaciones en el gen katg que no han    sido descritas en la literatura (T344P y las deleciones de 3 bases en los codones    450 y 485). Sin embargo, desconocemos si estas mutaciones están asociadas a    la resistencia a INH.
+
+Estudios    previos han identificados otros genes responsables de la resistencia a INH,    como los genes ahpC, kasA y ndh13,29. Las mutaciones    en inhA o su promotor pueden presentarse por sí solas o en combinación    con las mutaciones en katG, lo cual fue observado en una de las cepas    resistentes a INH11. Por lo tanto, las cepas resistentes a INH que    no presentaron mutaciones en katG o en inhA la resistencia pueden    estar asociadas a otro gen o a otro mecanismo de resistencia.
+
+Se    ha encontrado que la resistencia a etambutol genera mutaciones puntuales en    los genes embA-BC, especialmente en el codón 306 de embB21,26.    Sin embargo, esta mutación también se ha identificado en cepas susceptibles    a este fármaco21. Estos resultados pueden sugerir que otro mecanismo    esté operando, el cual podría explicar la resistencia a EMb en los aislados    de M. tuberculosis con las regiones de embb intactas26.
+
+Las    fuoroquinolonas comprenden un régimen de droga para retratamiento en la terapia    de Tb. La mutación más común en las cepas cP resistentes fue en el codón S95T,    que se ha reportado que no tiene un rol directo en el desarrollo de la resistencia    a esta droga, ya que también se ha detectado en cepas sensibles al fármaco22.    La resistencia a ésta u otra droga antituberculosa podrían deberse a una disminución    en la permeabilidad de la pared celular o bien a mecanismos de bombas de eflujo    de drogas activas, secuestro e inactivación de la droga34.
+
+El    método de las proporciones define una concentración crítica que permite detectar    las cepas resistentes a diversas drogas antituberculosas. Los estudios realizados    para correlacionar la resistencia fenotípica a rifampicina (40 μg/ml) e    isoniazida (0,2 μg/ml) por el método de las proporciones con mutaciones    en los genes rpoβ    (codones 516, 526 y 531), y katG (codón 315) han demostrado una    correlación de 70-95% para la resistencia a rifampicina y de 42-93% para la    resistencia a isoniazida7-9,15-18 en estos codones. Nuestros resultados    demostraron una correlación similar entre la resistencia genotípica a rifampicina    e isoniazida y las mutaciones encontradas en los genes rpoβ    y katG en las cepas chilenas de M. tuberculosis.
+
+La    alta prevalencia de las mutaciones en la región de rpoβ    así como las mutaciones en el codón 315 de katG en las cepas MDR-Tb    de Chile, indican el potencial que podrían tener las pruebas de diagnóstico    rápido para la detección de la resistencia a estas drogas en M. tuberculosis.    Sin embargo, no se puede descartar que cepas que no posean estas mutaciones    sean resistentes a estos fármacos.
+
+Este    estudio provee datos valiosos, ya que incrementan nuestro entendimiento de los    mecanismos moleculares de la resistencia a drogas y orientan respecto al uso    cuidadoso de las técnicas de susceptibilidad a drogas, basadas en la detección    de diferentes tipos de mutaciones que ocurren en las cepas chilenas de M.    tuberculosis.

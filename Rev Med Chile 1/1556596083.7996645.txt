@@ -1,0 +1,40 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872016000300019
+Estimación paramétrica de la confiabilidad y diferencias confiables
+
+CARTAS AL EDITOR
+
+ 
+
+ Estimación paramétrica de la confiabilidad y diferencias confiables 
+
+Confidence interval methods and its reliability
+
+ 
+
+             Sergio Alexis Dominguez Lara, César Merino Soto, Jhonatan S. Navarro Loli         
+
+             Instituto de Investigación de Psicología, Universidad de San Martín de Porres.         
+
+Correspondencia a:
+
+ 
+
+Sr. Editor:
+
+Es común entre los profesionales de la salud elegir instrumentos que se adecúen a las                 características del grupo a evaluar, que tengan un marco teórico sólido y                 propiedades psicométricas adecuadas, es decir, que las inferencias que se realizarán                 sean válidas y sus puntajes confiables. En este sentido, el WHOQoL diseñado por la                 Organización Mundial de la Salud (OMS) para la evaluación de la calidad de vida                 (CV), incluyendo su versión breve (WHOQoL-Bref) estudiada por Urzúa y                     Caqueo-Urízar1, no debe escapar de esta pretensión, especialmente si                 se usará como línea base para programas de intervención y estudios longitudinales de                 CV.
+
+Urzúa y Caqueo-Urízar brindan un aporte significativo al estudiar psicométricamente                 el WHOQoL-Bref en Latinoamérica, lo cual abre las puertas para que otros                 investigadores de la región puedan tomarlo como base para realizar sus propios                 estudios. Sin embargo, dos aspectos fueron omitidos: la discusión rigurosa de los                 coeficientes de confiabilidad y el impacto de sus magnitudes en la interpretación de                 los perfiles de calidad de vida. Estos aspectos serán desarrollados en la presente                 carta.
+
+En el análisis de la confiabilidad por consistencia interna, el coeficiente alfa (α)                 indica la proporción de error de medición presente al aplicar un instrumento en                 determinado grupo2, por lo cual puede ser un criterio útil para                 seleccionar un test psicológico, entre otros, considerando ciertos estándares de                 adecuación del coeficiente α. Evidentemente, los criterios para evaluar un                 coeficiente α varían según el autor de referencia, pero parece llegarse al consenso                 que, aun para fines de investigación, se exige un valor mínimo de 0,70 para                 considerarlo adecuado3. En tal sentido, Urzúa y Caqueo-Urízar reportaron                 los siguientes coeficientes: 0,71 para la dimensión Salud Física; 0,75 para la                 dimensión Salud Psicológica; 0,63 para la dimensión Social y 0,76 para la dimensión                 Ambiental. Entre ellos, uno se encuentra por debajo del límite, otro al límite, y                 dos aparentemente elevados. Sin embargo, para generalizar estas estimaciones a las                 poblaciones de referencia, es necesario calcular intervalos de confianza. El                 intervalo de confianza (IC) para el coeficiente α es un aspecto que debe reportarse                 a fin de tener un estimador probabilístico del “verdadero” valor α en la                     población4. Esta información paramétrica puede servir para evaluar la                 significación de los cálculos estadísticos obtenidos en la muestra (en este caso, el                 coeficiente α). Cabe mencionar que se espera que el límite inferior del IC para el                 coeficiente α sea mayor que 0,703. Mediante el programa                     ICalfa5 se realizaron los cálculos de los IC (nivel de confianza de                 95%) para cada α bajo el método Fisher6, obteniéndose lo                 siguiente: para Salud Física: 0,688-0,731; para Salud Psicológica: 0,730-0,768; para                 la dimensión Social: 0,603-0,656; y para la dimensión Ambiental: 0,741-0,778. Estos                 resultados indican que las dimensiones Salud Psicológica y Ambiental mantienen un                 nivel de confiabilidad poblacionalmente superior a 0,70, mientras que la dimensión                 Social puede alcanzar niveles debajo de 0,70, ya que tiene todo su IC debajo de                 0,70.
+
+Aunque la mayoría de los coeficientes α supera el valor de 0,70, para aplicaciones                 clínicas y de intervención individual, magnitudes altas de confiablidad son la regla                 más que la excepción, especialmente si se planea realizar comparaciones en base a                     perfiles3,7. Por lo tanto, los resultados de las comparaciones                 grupales reportadas están involucrando magnitudes de error de medición que pueden                 limitar las interpretaciones (por ejemplo, en las diferencias entre perfiles). Para                 corroborar esto, y basándonos en el trabajo de Charter8, se puede usar                 una prueba estadística de la diferencia confiable entre dos puntajes dentro de un                 mismo instrumento; esto es, determinar si la diferencia (D) entre dos puntajes es lo                 suficientemente grande que la producida por error de medición. El procedimiento se                 respalda en la siguiente formulación:
+
+ 
+
+Donde se requiere del error estándar de medición ,                 la confiabilidad (rxx; en este caso los coeficientes α) y la                 dispersión (DE) de los puntajes. Modificando la ecuación anterior, se obtiene                 la fórmula que permitirá determinar la diferencia confiable necesaria en los niveles                 de confianza de 80% (z =1,64), 95% (z = 1,96) y 99% (z =                 2,58):
+
+
+
+A fin de ver el impacto de los coeficientes de confiabilidad sobre la configuración                 de un perfil, como ejemplo se considerarán dos escalas (Dimensión Ambiental y                 Social) que corresponden con el mayor y menor coeficiente α reportado, y el                 grupo de varones de 20 a 29 años. Asumiendo que los puntajes de ambas escalas se                 estandarizan a puntajes T (M = 50 y DE = 10), el error estándar                 de medición de ambos factores es 4,899 y 6,083, respectivamente. Finalmente, la                 diferencia confiable requerida entre los factores, en los niveles 80%, 95% y 99% es,                 respectivamente, 13, 15 y 20 puntos. Para ejemplificar, se considerará el caso más                 favorable, es decir, el perfil de un sujeto en el cual todos los puntajes se acercan                 al promedio del grupo de pertenencia, y siendo la Dimensión Ambiental y Social las                 escogidas, sus puntajes serán 59 y 68. Ante ello, se desea establecer si la                 diferencia entre ambos puntajes es lo suficientemente grande como para poder                 interpretarse en el marco de un perfil integrado de calidad de vida. Eligiendo un                 nivel de confianza de 95%, se requiere una diferencia mínima de 15 puntos para                 establecer que la misma es confiable y, considerando que la actual es de 9 puntos,                 esta puede ser interpretada como un efecto del error de medición y no requerir mayor                 atención. Si el investigador requiere alta precisión, se requerirá una diferencia                 mínima de 20 puntos (99% de confianza). Sin embargo, con confiabilidades de 0,90 o                 más, las discrepancias mínimas confiables serán menores debido al reducido error de                 medición.
+
+Nota: Se ofreció posibilidad de réplica a los autores aludidos, sin recibir su                 respuesta.

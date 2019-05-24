@@ -1,0 +1,102 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872012000800002
+Índice clínico de gravedad en pancreatitis aguda: BISAP ("Bedside Index for Severity in Acute Pancreatitis"): Dos años de experiencia en el Hospital Clínico Universidad de Chile
+
+ 
+
+La incidencia de pancreatitis aguda (PA) ha aumentado, constituyendo más de 200.000 ingresos cada año en Estados Unidos de Norteamérica1 y más de 3.000 en Chile. La mayoría de los casos de PA son leves y autolimitados, sin embargo, aproximadamente 20% de los pacientes desarrollan una enfermedad grave con complicaciones locales y sistémicas; la mortalidad de este subgrupo puede alcanzar de 10 a 30%1-4. Según estadísticas del Ministerio de Salud de Chile, la mortalidad a causa de PA en Chile fue 7-10% entre los años 2000 y 2003, significando alrededor de 250 muertes por año.
+
+El diagnóstico de PA se basa en la presencia de dolor abdominal característico asociado al aumento en los niveles de enzimas pancreáticas y/o hallazgos característicos de PA en la tomografía axial computarizada (TAC) de abdomen1,2.
+
+La gravedad de la PA se define por la presencia de complicaciones locales, falla orgánica o ambas. La identificación precoz de pacientes que cursan una PA grave es importante para optimizar el manejo y mejorar los resultados2-8.
+
+Se han propuesto múltiples factores pronósticos e índices predictores de gravedad en PA. APACHE II es el que ha demostrado un mayor valor predictivo positivo con 69%. El resto de los índices pronósticos no han demostrado adecuada sensibilidad y especificidad en la predicción precoz de PA grave3,7-16.
+
+Continúa la búsqueda permanente para obtener un método predictor de gravedad en PA que sea simple, orientado a la clínica y aplicable en cualquier institución en las primeras 24 h de ingreso. El índice BISAP (Bedside Indexfor Severity in Acute Pancreatitis) fue creado con este objetivo y validado en forma retrospectiva en un gran número de pacientes (17.992 y 18.256 casos respectivamente)17. Posteriormente, fue validado en forma prospectiva en 397 pacientes concluyendo que constituye un método fiable y preciso para predecir gravedad en PA y una herramienta útil para el manejo clínico e investigación18.
+
+El índice BISAP se calcula dentro de las primeras 24 h de ingreso del paciente con diagnóstico de PA. Se basa en cinco variables: nitrógeno ureico (BUN) (=B) > 25 mg/dl, compromiso de conciencia ("Impaired mental status = I"), síndrome de respuesta inflamatoria sistêmica (SIRS = S), edad (Age =A) > 60 años y derrame pleural ( Pleural efusión = P) evidenciado en imágenes. La puntuación comprende desde 0 (ausencia de variables señaladas) a 5 puntos (presencia de todas las variables), reflejando buena correlación con la evolución posterior y sobrevida. En el grupo de pacientes en el cual fue validado este índice, los puntajes de 3, 4 y 5 se relacionaron con una mortalidad de 5,3, 12,7 y 22,5%, respectivamente. Además de la evaluación de mortalidad, una puntuación > 3 se correlacionó con 7,4 y 12,7 veces mayor riesgo de desarrollar falla orgánica y falla orgánica persistente, respectivamente15,16.
+
+Objetivos
+
+El objetivo de este estudio fue evaluar la utilidad del índice BISAP como predictor de gravedad y riesgo de mortalidad en PA, en nuestro grupo de pacientes, y compararlo con los índices APACHE II y Balthazar. El objetivo secundario fue evaluar la utilidad de BISAP para predecir el tiempo de estadía hospitalaria.
+
+Métodos
+
+Se realizó un estudio retrospectivo que incluyó todos los pacientes hospitalizados con diagnóstico de PA en el Hospital Clínico Universidad de Chile entre enero de 2009 y diciembre de 2010. Se excluyeron aquellos casos en los cuales no fue posible obtener datos completos de la ficha clínica. El diagnóstico de PA se realizó en base a la presencia de dolor abdominal, aumento de enzimas pancreáticas al menos 3 veces sobre el valor normal y/o evidencias radiológicas de pancreatitis.
+
+Se recolectaron datos demográficos, comorbilidades, resultados de laboratorio e imágenes de los pacientes hospitalizados con diagnóstico de PA. Los índices BISAP y APACHE-II fueron calculados para cada paciente utilizando datos de las primeras 24 h del ingreso. La TAC o resonancia magnética abdominal se realizó generalmente después de las 72 h. El síndrome de respuesta inflamatoria sistêmica se definió mediante la presencia de 2 o más de los siguientes criterios: pulso > 90 latidos/ min, frecuencia respiratoria > 20 respiraciones/ min o PaCO2 < 32 mmHg, temperatura >38°C o < 36°C, recuento leucocitos > 12.000 o < 4.000 células/mm3 o >10% baciliformes4.
+
+Se registró el tiempo de hospitalización, complicaciones locales, presencia de falla orgánica y mortalidad.
+
+Estadística
+
+Los datos descriptivos se presentan como medianas con intervalo de confianza 95% para variables continuas. Los datos categóricos se presentan como proporciones.
+
+La distribución de gravedad y mortalidad en PA para el índice BISAP fue evaluada utilizando la prueba Cochran-Armitage. Se calculó la sensibilidad, especificidad, valor predictivo positivo y negativo para cada índice. Se calcularon las curvas de ROC (acrónimo de Receiver Operating Characteristic) para falla orgánica para los índices BISAP, APACHE II y Balthazar utilizando valores de corte; la precisión de cada índice se evaluó mediante el área bajo la curva16. Se consideró significativo un valor de p < 0,05. El análisis estadístico se realizó utilizando STATA 10.0.
+
+Resultados
+
+Ciento cuarenta pacientes fueron hospitalizados con diagnóstico de PA entre enero de 2009 y diciembre de 2010 en el Hospital Clínico Universidad de Chile. Ciento veintiocho pacientes fueron incluidos en este estudio y 12 fueron excluidos por falta de disponibilidad de ficha clínica o datos incompletos; entre los pacientes excluidos no hubo fallecidos.
+
+La edad promedio de los 128 pacientes fue 46,5 años, 55,5% fueron hombres. Las características clínicas y demográficas de este grupo de pacientesestán detalladas en la Tabla.1  , los índices de gravedad están detallados en la Tabla.2.
+
+ Tabla 1. Características clínicas, demográficas y          datos de laboratorio de 128 pacientes con pancreatitis aguda
+
+
+
+ Tabla 2. Índices de gravedad en 128 pacientes con pancreatitis aguda
+
+
+
+En relación a la evolución clínica, 18 pacientes desarrollaron complicaciones locales, 7 pacientes desarrollaron falla orgánica y 2 pacientes fallecieron; se detallan las complicaciones y los índices de gravedad de ambos pacientes fallecidos en la Tabla.3  . La distribución de los casos y la relación entre el índice BISAP con el desarrollo de complicaciones locales y falla orgánica se presenta en la Figura.1.
+
+ Tabla 3. Complicaciones en 128 pacientes con pancreatitis aguda
+
+
+
+
+
+ Figura 1. Severidad en relación a índice BISAP. Distribución de los casos y relación entre el índice BISAP      con el desarrollo de complicaciones locales y falla orgánica en este grupo de pacientes (n = 128).      La distribución fue 66, 37, 19, 2, 4 y 0 pacientes con puntaje BISAP de 0 a 5 respectivamente.
+
+Evaluación del desarrollo de falla orgánica en relación a puntaje BISAP
+
+La curva ROC demostró que el puntaje BISAP 3 posee una sensibilidad y especificidad óptima como umbral para predecir falla orgánica (Tabla.4). La relación entre puntajes más altos del índice BISAP y mayor desarrollo de falla orgánica fue estadísticamente significativo (valor p = 0,003).
+
+ Tabla 4. Sensibilidad, especificidad,          valor predictivo positivo y negativo de BISAP
+
+
+
+El área bajo la curva del índice BISAP en este estudio fue 0,9770 (95% IC 0,947-1,000), se presenta en la Figura.2.
+
+
+
+ Figura 2. Área bajo la curva ROC del índice BISAP.
+
+La curva ROC demostró una sensibilidad y especificidad óptima para puntaje APACHE II de 12 como umbral para predecir falla orgánica en este grupo de pacientes (sensibilidad 71,4%, especificidad 97,5%). Al analizar el puntaje APACHE II > 8, aceptado generalmente como punto de corte4,5,9 se obtuvo una sensibilidad de 71,5% y especificidad de 86,8%.
+
+El área bajo la curva para el índice Balthazar fue 0,8275 (95% IC 0,6843-0,9707). Un puntaje > 6 posee sensibilidad y especificidad óptima como umbral para predecir falla orgánica en este grupo (sensibilidad 42,86%, especificidad 98,31%).
+
+Evaluación del tiempo de hospitalización en relación a puntaje BISAP
+
+La estadía hospitalaria promedio de los 128 pacientes fue de 15 días. Analizando según el índice BISAP, la duración promedio de la hospitalización fue 8,2; 12; 32,4; 40,5 y 61 días para los puntajes BISAP de 0 a 4 respectivamente (no hubo pacientes con puntaje BISAP 5 en este estudio). La distribución se presenta en la Figura.3.
+
+
+
+ Figura 3. Estadía hospitalaria en relación a índice BISAP.          Tiempo de hospitalización en relación a puntuación BISAP          (no hubo pacientes con puntaje BISAP 5 en este estudio).
+
+La relación entre hospitalización más prolongada y puntaje BISAP mayor fue estadísticamente significativa (valor p = 0,0001). Los pacientes con puntaje BISAP > 3 tuvieron 2,7 veces mayor probabilidad de estadía hospitalaria más prolongada que aquellos con puntaje BISAP < 3 (valor p = 0,0001).
+
+Discusión
+
+La gravedad de la PA varía desde enfermedad leve a grave. Los casos leves son generalmente auto-limitados y la inflamación se resuelve sin secuelas mediante manejo médico. Cerca de 20% de los pacientes desarrollan una enfermedad severa GRAVE definida por la presencia de complicaciones locales o falla orgánica según la clasificación de Atlanta20. En nuestro estudio encontramos 14% de casos GRAVES severos y una mortalidad global de 1,6%, lo cual se correlaciona con los resultados obtenidos en un estudio previo realizado en el Hospital de Concepción basado en índice de gravedad según TAC de abdomen, en el cual se identifico 16% de casos GRAVES severos y 0% de mortalidad en un grupo de 61 pacientes21.
+
+Este estudio retrospectivo demostró la utilidad del índice BISAP como predictor de gravedad en PA, revelando que un puntaje BISAP > 3 presenta buena correlación con el desarrollo de complicaciones locales y falla orgánica. Cuando comparamos la sensibilidad y especificidad óptima para predecir falla orgánica de los índices BISAP, APACHE II y Balthazar observamos que BISAP > 3 posee una sensibilidad de 71,4% y especificidad de 99,1%, las cuales son superiores a las obtenidas con APACHE II > 8 y Balthazar > 6.
+
+Al analizar este grupo de pacientes observamos que la mayoría de ellos obtuvo puntajes BISAP entre 0 a 1, lo cual se correlacionó con una evolución compatible con PA leve. En el grupo de pacientes con puntaje 2 observamos que el 53% presentó complicaciones locales y 11% desarrollo falla orgánica en forma tardía (después de la primera semana de evolución) relacionada con infección de necrosis pancreática. En el grupo de pacientes con puntaje 3, el 50% desarrolló complicaciones locales y falla orgánica precoz, mientras que el 100% de los pacientes con puntaje 4 presentaron enfermedad GRAVE severa con una mortalidad de 50% (no hubo pacientes con puntaje BISAP 5). En resumen, podemos señalar que BISAP > 2 sería útil para predecir complicaciones locales, mientras que BISAP > 3 podría predecir complicaciones sistémicas y falla orgánica.
+
+Aunque la clasificación de Atlanta sólo distingue pancreatitis leve y grave, surge la necesidad de la categoría "moderada" definida como la presencia de colecciones agudas y/o necrosis pancreática con bajo riesgo de mortalidad, según un estudio de De-Madaria y colaboradores22,23. Esta clasificación es apoyada en el estudio de Petrov y colaboradores, quienes además proponen una cuarta categoría denominada "crítica"24. En base a nuestro estudio podemos sugerir que BISAP 2 podría corresponder a casos moderados de PA, lo cual requiere ser validado en futuras investigaciones.
+
+Un hallazgo relevante de nuestro estudio fue la correlación significativa entre puntajes altos del índice BISAP con estadía hospitalaria más prolongada. Este resultado no había sido mencionado en publicaciones anteriores.
+
+El índice BISAP posee la ventaja de ser un método simple, barato y que se basa en signos vitales, exámenes de laboratorio e imágenes que son realizados prácticamente en todos los pacientes durante las primeras 24 h de hospitalización. Esta simpleza le brinda ventajas sobre el índice APACHE II que requiere mayor número de exámenes de laboratorio y es de cálculo complejo, y sobre el índice Balthazar, que requiere la realización de imágenes abdominales costosas, además de necesitar al menos 72 h de evolución de la enfermedad. El alto valor predictivo negativo (98,36%, Tabla.4) permitiría evitar la hospitalización de pacientes con BISAP 0 y 1 en unidades de mayor complejidad y más alto costo.
+
+La principal limitación de nuestro estudio fue el bajo número de casos severos de PA con sólo 2 casos fatales, por lo que no es posible analizar la relación entre índice BISAP y mortalidad. Esta mortalidad no difiere significativamente de las experiencias en nuestro hospital: la mortalidad fue de 2,8% en pacientes hospitalizados con PA, entre enero de 2002 y diciembre de 2010, con 19 casos fatales de un total de 673 pacientes (datos no publicados).

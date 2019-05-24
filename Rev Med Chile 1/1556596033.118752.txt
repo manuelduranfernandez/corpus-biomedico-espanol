@@ -1,0 +1,82 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872010000400005
+Búsqueda de mutaciones en el gen UL 97 asociadas a resistencia a ganciclovir en citomegalovirus obtenidos desde muestras biológicas de pacientes chilenos
+
+La infección por citomegalovirus (CMV) representa una causa importante de morbi-mortalidad en pacientes inmunocompro-metidos, en particular en receptores de trasplante de precursores hematopoyéticos, órganos sólidos y en pacientes con síndrome de inmunodefciencia adquirida (SIDA)1. En ellos, el espectro clínico varía desde viremias asintomáticas a un síndrome sistémico, con febre, leucopenia, trombocitopenia y disfunción hepática, pudiendo localizarse de manera secundaria en otros órganos2.
+
+La droga de primera elección para proflaxis y tratamiento es el ganciclovir (GCV), análogo de guanosina, cuya activación requiere de reacciones de fosforilación en su estructura: la primera depende de una proteína codifcada por el gen UL 97 del virus y las siguientes fosforilaciones son realizadas por proteínas quinasas propias de las células infectadas1,3. El GCV activo es incorporado al genoma viral a través de la ADN polimerasa viral, retrasando la replicación y elongación del ADN viral mediante inhibición competitiva1,3.
+
+En el manejo de pacientes pre y post-trasplante existen distintas estrategias para prevenir la infección y las reactivaciones sintomáticas por CMV1,4. En este centro, los receptores de órganos sólidos reciben de manera profláctica GCV intravenoso por tres semanas y luego valganciclovir durante los primeros 100 días post trasplante cuando la relación donante-receptor es D(+)/R(-), mientras que en las otras relaciones donante receptor y en los trasplantes de precursores hematopoyéticos (TPH) se aplica la estrategia denominada terapia anticipada, traducción del término inglés "pre-emptive therapy", que consiste en vigilar la aparición de viremia mediante la detección del antígeno pp65 (una fosfoproteína de la matriz) de CMV al interior de los leucocitos5,6 y administrar cursos de tratamiento con GCV cuando son positivas.
+
+La terapia y proflaxis antiviral prolongada con GCV se ha asociado a resistencia viral, aumentando de manera proporcional al tiempo de exposición, como lo demostró un estudio que reportó resistencia en 7, 12 y 28% de los pacientes después de 3, 6 y 9 meses de terapia con GCV, respectivamente7. Esta resistencia se relaciona con mala respuesta terapéutica, progresión y recurrencia de la enfermedad1,4. Varios estudios han reportado infección por CMV resistente a GCV tanto en receptores de órganos sólidos como en pacientes receptores de TPH1,8-12.
+
+La resistencia de CMV a GCV se ha asociado con la presencia de mutaciones en el gen que codifca para la proteína quinasa UL 97 (gen UL 97) y en la región que codifca para la ADN polimerasa viral (gen UL54). Más de 90% de estas mutaciones ocurren en el gen UL 97 viral, particularmente entre los codones 460 y 520, implicados en la unión de ATP y 590 al 607 relacionado con el reconocimiento del sustrato1,13-17.
+
+El método de referencia dorado para evaluar la resistencia viral es la inhibición en placa de cultivo; método laborioso, requiere de períodos prolongados de trabajo y no permite aplicar oportunamente los resultados a la práctica clínica. Por lo anterior, se ha postulado el uso de métodos moleculares para el diagnóstico de susceptibilidad/resistencia de CMV a GCV, basados en la búsqueda de aquellas mutaciones que con mayor frecuencia se han asociado a resistencia.
+
+En nuestro medio se sospecha la resistencia al antiviral cuando no hay respuesta clínica en el trata miento de la enfermedad o respuesta virológica con disminución en la antigenemia o carga viral de CMV, pese al uso de GCV en dosis adecuadas.
+
+La importancia de documentar la presencia de resistencia de CMV a GCV en nuestro medio radica en que el uso cada día más frecuente de este antiviral asociado al aumento de la población de inmunocomprometidos, obliga a establecer un fundamento sólido para el uso de antivirales de segunda línea para CMV, ya que el potencial tóxico y efectos adversos de estos, son claramente superio res al GCV. Dado que desconocemos la situación de susceptibilidad a GCV en Chile y que la mayoría de las mutaciones descritas en CMV asociadas a resistencia a GCV involucran la región 460 a 607 del gen UL 97, el objetivo de esta investigación fue buscar la presencia de las mutaciones más frecuentemente descritas asociadas a resistencia a GCV ubicadas en esta región, usando material genético de CMV proveniente de pacientes expuestos a la droga y comparar esta información con la obtenida desde aislados virales provenientes de niños inmunocompetentes que nunca fueron expuestos al antiviral.
+
+Pacientes y Métodos
+
+Se seleccionaron muestras de plasma de pacientes tratados con inmunosupresores posterior a un trasplante y que durante su evolución presentaron antigenemias para CMV (pp65) positivas. Todas estas muestras fueron procesadas en el Laboratorio de Infectología y Virología Molecular de la Pontificia Universidad Católica de Chile entre enero 2007 y junio 2008. Se consideraron como positivas aquellas muestras con 1 o más núcleos fuorescentes por 200.000 células blancas observadas en al menos dos láminas. El ensayo de antigenemia de CMV pp65 se realizó de acuerdo a la metodología descrita por Boeckh et al5. Se eligieron además, durante el mismo período, los aislados positivos de muestras de orina de recién nacidos o lactantes pequeños y leche materna.
+
+Origen de las muestras clínicas y clasifcación de los grupos de pacientes (Figura 1)
+
+  
+
+Grupo 1: 40 plasmas de 15 pacientes inmunodeprimidos receptores de trasplante de precursores hematopoyéticos (TPH) o trasplante de órgano sólido (TOS). Cuatro eran niños con edad promedio 8 años (rango 3 a 13 años) y once eran adultos con edad promedio 37 años (rango 22 a 63 años). Todos estos pacientes habían recibido en algún momento de su evolución GCV como proflaxis o terapia en dosis recomendadas, previo a la toma de la/las muestras incluidas en este estudio. En la mayoría de ellos la determinación de antigenemia se efectuó como estrategia de terapia adelantada (pre-emptive) y en otros motivado por sospecha de enfermedad por CMV manifestada por febre. Sólo uno presentó síntomas y signos compatibles con enfermedad por CMV intestinal.
+
+Grupo 2: 15 aislados de CMV en orina de recién nacidos y lactantes menores de tres meses y un aislado en leche materna, madre de un recién nacido con hepatitis neonatal y detención de la curva de peso. Ninguno de estos pacientes recibió GCV previo al momento de la toma de muestra.
+
+Todas las muestras estaban conservadas a -70ºC y fueron analizadas en una primera etapa mediante reacción en cadena de la polimerasa (RPC) diseñada para amplifcar la región del gen UL 97 de CMV ubicada entre los codones 440 a 645. Se utilizó una cepa prototipo AD169 CMV, a la que también se hizo análisis de secuencias nucleotídicas en la misma zona.
+
+Extracción del ácido nucleico y detección de CMV
+
+El ácido nucleico fue obtenido usando reactivos de extracción viral de alta pureza (High Pure Viral Nucleic Acid Kit, Roche, Mannheim, Alemania) de acuerdo con las instrucciones del fabricante. Se utilizó la cepa prototipo AD169 de CMV como referencia (ATCC Nº VR-538).
+
+La detección del genoma viral se realizó de acuerdo a una adaptación de la metodología descrita previamente18. Se diseñaron dos set de partidores para amplifcar la región del gen UL 97 contenida entre los codones 440 y 645. Para cada muestra, los dos fragmentos obtenidos se sobreponían en 37 nucleótidos (Figura 2).
+
+  
+
+GRUPO 1
+
+El ADN viral fue    amplifcado utilizando, para el primer set de partidores, el siguiente programa:    desnaturalización a 95 ºC por 2 minutos, luego 35 ciclos de 95 ºC por 20 segundos;    60 °C por 30 segundos, 72 °C por 30 segundos y 72 ºC por 4 minutos.    Para el segundo set de partidores se realizó desnaturalización a 95 ºC por 7    minutos y luego 35 ciclos de 95 °C por 30 segundos; 55 °C por 40 segundos,    72 °C por 40 segundos y 72 ºC por 10 minutos. Los productos de RPC obtenidos    fueron caracterizados mediante electroforesis en geles de agarosa al 3% y tinción    con bromuro de etidio. Posteriormente, se realizó purifcación y análisis automatizado    de secuencias nucleotídicas (Macrogen, Rockville, Indiana, USA). Los cromatogramas    obtenidos se analizaron para confrmar las secuencias nucleotídicas reportadas.    Las secuencias fueron fnalmente alineadas y comparadas con la descrita en Gene    Bank (http://www.ncbi.nlm.nih.gov/nuccore/59591)    para la cepa AD169 de CMV (access number X17403) a través del programa Vector    NTI V8. Las mutaciones encontradas se confrmaron analizando el cromatograma    obtenido para cada muestra (Figura 3).
+
+  
+
+Comité de Ética
+
+Estudio aprobado por el comité de ética de la Escuela de Medicina de la Pontificia Universidad Católica de Chile.
+
+Resultados
+
+Las 40 muestras de plasma del grupo 1 pertenecían a 15 pacientes trasplantados seguidos en esta institución: 7 receptores de trasplante hepático, 1 de trasplante renal y 7 de precursores hematopoyéticos. Las muestras del grupo 2 correspondieron a muestras de orina de 15 recién nacidos y lactantes con infección congénita o adquirida en los primeros meses de vida y una muestra de leche materna de una madre cuyo recién nacido desarrolló hepatitis neonatal y detención de su curva de peso. El promedio de tiempo post trasplante en que fueron obtenidas las muestras de los pacientes del grupo 1 fue de 87 días y el tiempo promedio de exposición a GCV fue 48 días al momento de obtención de las muestras.
+
+De la primera amplifcación fue posible obtener producto para análisis de secuencias nucleotídicas en 23/40 muestras de plasma (57%) provenientes de 13 pacientes del grupo 1 y en 10/16 muestras (62%) de 10 pacientes del grupo 2, quedando así 33 muestras totales que pudieron ser sometidas a la segunda fase de la investigación.
+
+Las muestras sometidas    a análisis de secuencias de nucleótidos fueron comparadas con la cepa AD169    CMV. Esta cepa de referencia no tenía ninguna mutación en el segmento de interés    del estudio; sin embargo, las 33 muestras exitosamente amplifcadas para estudio    presentaron un total de 151 mutaciones en la zona comprendida entre los codones    440 y 645 (Tablas 1 y 2).
+
+Del total de mutaciones encontradas, 105 mutaciones fueron encontradas en el primer grupo y 46 en el segundo; la mayoría de ellas se comportaron como mutaciones sinónimas. Las mutaciones más frecuentes fueron G503G, G579G y G598G.
+
+   
+
+   
+
+En nueve muestras, tres del primer grupo y seis del segundo, se encontró más de una señal en el cromatograma lo que sugiere infección por más de una variedad de CMV, cepa silvestre y cepas mutantes. En una de estas muestras, perteneciente a un paciente trasplantado, se presentó la mutación M460I reconocida como marcador de resistencia. Dos pacientes del primer grupo y seis del segundo presentaron la mutación D605E cuyo efecto sobre la resistencia es todavía incierto.
+
+En ninguno de los pacientes estudiados que presentaron las mutaciones M4601 o D605E se sospechó resistencia clínica al GCV.
+
+Discusión
+
+La infección por CMV resistente a GCV está bien documentada como complicación de la exposición prolongada al antiviral, observándose con mayor frecuencia en pacientes con SIDA y retinitis por este virus1. En las últimas décadas este ha sido un problema emergente en la población de receptores de trasplantes tanto de órganos sólidos como de precursores hematopoyéticos dado el amplio uso de GCV, como proflaxis o terapia anticipada (pre-emptive) y, a la inmunosupresión intensiva, asociándose con persistencia, progresión de la enfermedad y fracaso terapéutico19,20. Hoy en nuestro país, la decisión de cambiar la terapia anti-CMV desde GCV a una droga de segunda línea como foscarnet, se fundamenta en la sospecha clínica de resistencia manifestada por progresión de la enfermedad y empeoramiento en los resultados de los ensayos virológicos utilizados en la monitorización de la terapia, tales como, persistencia de antigenemias positivas o cargas virales en ascenso19,20.
+
+Este estudio contribuye con la información molecular que sustenta el uso de GCV en nuestros pacientes como una elección segura de un antiviral efectivo en el tratamiento de la enfermedad por CMV.
+
+La aproximación a la búsqueda de genes de resistencia realizada en este trabajo fue limitada, por la falta de una prueba confrmatoria, inhibición en placa del cultivo de CMV en presencia de GCV, y por la recuperación parcial del genoma viral sufciente para la secuenciación del gen UL 97 y sus mutaciones en todas las muestras seleccionadas. Sólo se obtuvo producto de RPC útil para secuenciación en 57% de las muestras de plasma y en 62% de las muestras de orina y leche materna. Esto probablemente porque las cargas virales de una fracción de las muestras del primer grupo de pacientes estaba en el rango de carga viral indetectable, como ha sido descrito previamente18 y en otras puede tener relación con el mal alineamiento de los partidores, dado la amplia cantidad de mutaciones silentes y polimorfsmos encontrados en esta región.
+
+Aunque nuestros pacientes no presentaron resistencia clínica y el promedio de días de exposición fue menor en relación a los estudios previos, es interesante comprobar que la presencia de mutaciones descritas en resistencia está en una frecuencia muy baja concordante con la expresión clínica actual de la infección por CMV. Sin embargo, la alta frecuencia de mutaciones silentes encontradas en el gen UL 97, que ha sido descrito como una región bien conservada, podría representar un potencial peligro para que se produzca un cambio drástico y relevante en la secuencia a medida que aumentan los días de exposición a la droga17. Todas las mutaciones encontradas han sido descritas con anterioridad, y la mayoría de ellas se comporta como mutaciones silentes, no alteran la función de la proteína UL 97 ni la susceptibilidad al GCV. En dos pacientes del grupo de inmunodeprimidos expuestos a GCV y en 6 pacientes del segundo grupo se encontró la mutación D605E, cuyo rol en resistencia antiviral aún es controversial. Existen estudios donde se la ha relacionado a resistencia; sin embargo, no se cuenta con estudios de marcadores de transferencia génica que lo confrmen18,19. En otro estudio se demostró que tendría relación con resistencia viral en presencia de la mutación A594P17,20; sin embargo, esta mutación no fue encontrada en nuestro estudio. Los 6 pacientes del segundo grupo que presentaron esta mutación eran recién nacidos que no habían recibido tratamiento con ganciclovir. El hecho de que pacientes vírgenes a tratamiento presenten esta mutación podría explicarse por adquisición de cepas mutantes desde sus madres. Apoya esta afrmación el hecho que las cepas encontradas en la muestra de leche de una mujer con reactivación durante su embarazo presenta las mismas mutaciones de las cepas aisladas desde la orina de su hijo lactante.
+
+El hallazgo de infección mixta, coexistencia de una cepa silvestre con una o más cepas mutantes, es un fenómeno interesante desde el punto de vista clínico ya que las manifestaciones de resistencia pueden presentarse una vez que la cepa sensible haya sido efcazmente tratada21. Esta podría ser la situación del paciente cuya muestra presentó la mutación M460I, conocida como marcador de resistencia, pero que en el tiempo de exposición a GCV no se comportó como tal.
+
+La relevancia de detectar mutaciones asociadas a resistencia a GCV en forma rápida mediante métodos moleculares, radica en la detección oportuna de infecciones o enfermedad por CMV resistentes a GCV que permite adaptar la terapia antiviral en un tiempo apropiado. La incorporación de métodos de estudio molecular en los laboratorios de diagnóstico virológico contribuirá a la detección rápida y sensible de CMV resistentes a GCV. En este sentido, aunque no encontremos alta frecuencia de mutaciones asociadas a resistencia en nuestros pacientes, sería benefcioso instaurar una búsqueda sistemática en pacientes con largo tiempo de exposición a GCV, como vigilancia de la situación de resistencia en nuestro medio.

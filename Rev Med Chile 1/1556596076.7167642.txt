@@ -1,0 +1,80 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015000400005
+Asociación entre polimorfismos del gen NAT2 y fisura labiopalatina no sindrómica en Argentina
+
+ 
+
+La fisura labiopalatina no sindrómica (FLPNS) es un defecto congénito que presenta etiología multifactorial. Entre las probables               causas que generan fisuras orales se encuentran factores genéticos (genes candidatos), factores ambientales o una combinación               de ambos1. La prevalencia de las fisuras orofaciales varía de 1/500 a 1/2.500, dependiendo del origen geográfico, la ancestría2,3 y de las condiciones socioeconómicas4. Las mayores frecuencias se registran en poblaciones asiáticas, 12-13/10.000 nacimientos para China, 16/10.000 en Japón.               En Sudamérica, 10/10.000 nacidos vivos poseen alguna de estas afecciones (www.eclamc.org). En las poblaciones europeas la         frecuencia es intermedia, en afro-descendientes se registran las más bajas, 3/10.000 nacimientos2-6.
+
+A la fecha, existen una gran cantidad de estudios de factores ambientales y FLPNS. Sin embargo, ningún factor de riesgo ha             demostrado una asociación contundente7. Un meta-análisis de 24 estudios caso-control y de cohortes evaluó la asociación entre el consumo materno de tabaco y el             riesgo de fisuras orales en los nacimientos e identificó significancia estadística para consumo materno de tabaco y FLPNS             (RR = 1,34; 95%; IC = 1,25-1,44) y consumo materno de tabaco y fisura palatina (RR = 1,22; 95%; IC = 1,10-1,35)8. La N-acetiltransferasa 2 (NAT2) es una enzima metabolizadora de aminas presentes en el humo del tabaco, participa en la detoxificación y/o activación de             arilamidas encontradas en el medio ambiente, y algunas aminas aromáticas producidas durante la cocción de carnes9. La acción de las enzimas NAT puede producir iones electrofílicos capaces de inducir mutaciones en el ADN10. Nuestro objetivo es evaluar la asociación entre los alelos *5(481C>T), *6(590G>A) y *7(857G>A) del gen NAT2 que determinan fenotipo acetilador lento y el riesgo de aparición de FLPNS. El alelo *4 salvaje es de referencia. Se utilizará             un diseño de base familiar de tríos (caso, padre y madre) como un método adecuado para evaluar asociaciones genotipo-enfermedad             y minimizar el efecto de la estructuración étnica de la muestra11.
+
+Materiales y Métodos
+
+Los casos seleccionados presentan FLPNS como única anomalía. Los criterios de exclusión fueron casos sindrómicos, nacidos             muertos y casos sindrómicos y no sindrómicos con paladar hendido solo. La muestra está conformada por 97 tríos caso-progenitores             reunidos de un total de 423 individuos de maternidades argentinas participantes del Estudio Colaborativo Latinoamericano de             Malformaciones Congénitas (ECLAMC)12. La Tabla 1 muestra la composición de la muestra de tríos y progenitores según hospital, región y ciudad de localización. Los donantes             voluntarios brindaron su Consentimiento Informado. El proyecto fue aprobado por el Comité de Ética del CEMIC.
+
+ 
+
+Tabla1. Progenitores y tríos caso-progenitores participantes de las            maternidades argentinas del ECLAMC
+
+ 
+
+Análisis molecular
+
+Se extrajeron 10 ml de sangre periférica a cada caso y a sus respectivos progenitores. La purificación de ADN se realizó mediante             QiaAMP ADN blood midi kit de Quiagen (http://www.qiagen.com/system/404.aspx). La identificación de las variantes alélicas se realizó mediante la técnica de PCR-RFLP             de acuerdo a un protocolo previamente descripto (13). *5 (481C>T, rs1799929), *6 (590G>A, rs1799930) y *7 (857G>A, rs1799931)             y el alelo de referencia *414.
+
+Análisis estadístico
+
+Las frecuencias alélicas y genotípicas se obtuvieron por conteo directo. Para la prueba del equilibrio de Hardy-Weinberg (H-W)             se consideraron sólo los individuos no emparentados. Para determinar si existen diferencias genéticas entre poblaciones de             distinto origen geográfico se realizó el análisis de la varianza molecular (AMOVA). Ambas pruebas fueron realizadas mediante             el programa Arlequin (ver 3.0)15.
+
+Para evaluar la asociación de los alelos con la malformación estudiada se empleó la Prueba de desequilibrio de transmisión             (TDT, “Transmission disequilibrium test”)16. Esta prueba compara el número de veces que se transmite un alelo versus el número de veces que no se transmite de progenitores             heterocigotos a la progenie afectada. Tiene la ventaja de ser robusta, aun cuando los datos no se encuentren en equilibrio             de Hardy-Weinberg. El análisis de asociación se realizó con el programa informático Métodos Iterativos (programa desarrollado             en el Departamento de Epidemiología Genética del CEMIC). 
+
+Resultados
+
+Las frecuencias alélicas y genotípicas de los progenitores se detallan en las Tablas 2 y 3 respectivamente. La prueba de H-W (Tabla 4) fue significativa en el hospital 318 (p = 0,035), este resultado puede deberse a que este hospital funciona como un Centro             Perinatológico de alta complejidad que recibe derivación de otros nosocomios y atiende grupos poblacionales diversos.
+
+ 
+
+Tabla 2. Frecuencias alélicas relativas del gen NAT2 en maternidades Argentinas del ECLAMC
+
+ 
+
+Tabla 3. Frecuencias relativas de los genotipos del gen NAT2 en maternidades Argentinas del ECLAMC
+
+ 
+
+Tabla 4. Prueba de Hardy-Weinberg en maternidades argentinas del ECLAMC
+
+ 
+
+Al estudiar la distribución de frecuencias de las variantes alélicas de NAT2 en las maternidades del ECLAMC, se pudo determinar que el coeficiente de diferenciación genética (FST) entre hospitales fue bajo (0,02). El 98% de variabilidad fue encontrada dentro de las maternidades y la diferenciación entre               grupos menor a 0,2% (datos no mostrados).
+
+La Tabla 5 muestra el número absoluto de trasmisiones y no transmisiones a los casos, a partir de los progenitores heterocigotas. De             un total de 137 transmisiones parentales, el alelo *4 se trasmitió 43 veces (30,9%), los alelos *5, *6 y *7 se transmitieron             53 (39,0%); 22 (16,1%) y 19 veces (14,0%), respectivamente. A partir de este análisis sólo observamos asociación positiva entre el alelo *5 y FLPNS (OR = 1,61; p = 0,031).
+
+ 
+
+Tabla 5. Transmisión alélica de padres heterocigotas en 97 tríos caso-progenitores
+
+ 
+
+Discusión 
+
+Se sabe que la población contemporánea argentina es el resultado de múltiples interacciones ocurridas entre la población nativa             del continente con poblaciones europeas y africanas17,18. Para controlar el factor de confusión ancestralidad en nuestra muestra empleamos un diseño de tríos caso-progenitores donde             el caso es comparado con un pseudocontrol pareado étnicamente11.
+
+Nuestros resultados evidencian la asociación significativa del alelo *5 y la malformación FLPNS. Los resultados hallados en             la literatura son contradictorios. Lammer et al.19, en una muestra de la población de California (Estados Unidos de Norteamérica) no detectaron asociación entre FLPNS y variantes             fetales del gen NAT2 (OR = 0,85; IC = 0,57-1,3). También, Van Rooij et al.20 determinaron el estatus acetilador a partir de la medición de metabolitos de cafeína en la orina, concluyendo que los individuos             caracterizados como acetiladores lentos no presentaban riesgo para fisuras orales (OR = 1,0; IC = 0,4-2,3) en comparación             con los acetiladores rápidos. Ambos estudios utilizaron metodología caso-control, susceptible de sesgo debido a la estratificación             genética o mezcla racial de la población.
+
+En estudios combinados caso-control y de tríos caso-progenitores en Noruega, Dinamarca y Iowa, se evidenció una trasmisión             preferencial de haplotipos portadores del SNP G590A (*6) en individuos con FLPNS21,22. Zöllner et al.23, utilizando análisis de ligamiento en 148 familias, demostraron evidencia de transmisión diferencial en varias regiones del             genoma humano, en una de las cuales se encuentra ubicado el cromosoma 8, coincidiendo con la ubicación cromosómica de NAT2.
+
+Los resultados discordantes de NAT2 en los estudios de asociación podrían deberse a la existencia de heterogeneidad genética interpoblacional. Es probable que             los diferentes genes candidatos involucrados en esta patología difieran en su importancia relativa en cada población analizada             dependiendo de su origen étnico o geográfico.
+
+No es posible descartar una asociación funcional de NAT2 y FLPNS, sustentado por los resultados experimentales de expresión de Nat en la ventana temporal crítica del desarrollo del labio y el paladar24,25 y por ser N-acetiltransferasa 2 una enzima involucrada en la detoxificación del tabaco, un factor que ha sido demostrado en la bibliografía como de riesgo             para el desarrollo de esta anomalía8.
+
+Dado el carácter multifactorial de la FLPNS, el análisis de las variantes del gen NAT2 podría no ser suficiente como herramienta de evaluación de susceptibilidad. Sin embargo, nuestros resultados muestran que             existe una trasmisión preferencial del alelo NAT2 *5 en niños con FLPNS de maternidades argentinas del ECLAMC.
+
+Consideramos que el significado de una asociación positiva puede deberse a: 
+
+a) El alelo por sí mismo es el responsable de la susceptibilidad a la anomalía o b) el alelo asociado está en desequilibrio             de ligamiento con el alelo de susceptibilidad. 
+
+En relación con la opción a), en Patagonia, en la misma población que hemos analizado este trabajo, a partir de un estudio             de segregación compleja, Poletta26 sugiere el efecto de un gen principal en la ocurrencia de FLPNS, cuya acción podría ser modificada por la acción de otro             locus y/o de un factor de exposición ambiental. Este gen principal dominante tendría una baja penetrancia (6 a 15%) y la frecuencia             del alelo de riesgo sería entre 1 y 9%, sumada a la de un componente multifactorial (o varianza residual familiar no explicada             por el gen principal). Otro aporte, relevante para la interpretación de nuestros resultados, y que significó un hallazgo trascendental             en el estudio de FLPNS, fue la evidencia de la contribución de IRF6 a FLPNS27. Estos autores evaluaron 8.003 individuos en 1.968 familias de poblaciones asiáticas, europeas y de Norte y Sudamérica. Este             trabajo reveló que todos los genes que contribuyen a la anomalía FLPNS, que aún no han sido identificados, tienen efectos             muy pequeños comparados con el de IRF6 en la ocurrencia de FLPNS. En relación con los estudios de segregación de Poletta26 y la evidencia reportada por Zuchero et al.27, NAT2 no es un factor necesario ni suficiente para la producción de FLPNS. Sin embargo, no podemos desestimar alguna participación             en la generación de fisuras como parte de ese componente multifactorial o varianza residual no explicada por el gen principal.
+
+Cuando el alelo asociado está en desequilibrio de ligamiento con el alelo de susceptibilidad, significa específicamente que             existe una asociación no al azar entre dos marcadores alélicos heredados. En ausencia de selección, el grado de desequilibrio             de ligamiento depende de dos factores: la distancia entre el marcador y la mutación que confiere susceptibilidad y el tiempo             transcurrido tanto para la mutación que confiere susceptibilidad como para el marcador. Una reciente mutación que confiere             susceptibilidad estará en desequilibrio de ligamiento con su adyacente marcador genético en relación con la distancia que             los separe. La extensión de estas regiones cromosómicas en desequilibrio de ligamiento disminuye en cada generación, producto             de recombinación y conversión génica. En base a los resultados hallados, creemos que lo más probable es que el alelo NAT2 *5 no constituye una variante funcionalmente relevante sino que estaría actuando como un marcador. Quizás sirva como tal en             ciertas poblaciones y en otras no, pues no estaría en desequilibrio de ligamiento con el gen causal, situación que depende             de la historia particular de cada población.
+
+En relación con nuestros resultados, nuestro próximo trabajo consistirá en el mapeo fino, saturando la región donde se ubica             NAT2 con más marcadores genéticos con el fin de contribuir con la identificación de genes de susceptibilidad. El avance en el             conocimiento de los genes que estarían operando en la producción de FLPNS tiene como finalidad el incremento del uso rutinario             de análisis genéticos con fines diagnósticos y terapéuticos, permitiendo de este modo el desarrollo de estrategias preventivas             más eficaces en la identificación de individuos genéticamente susceptibles al padecimiento de esta anomalía.

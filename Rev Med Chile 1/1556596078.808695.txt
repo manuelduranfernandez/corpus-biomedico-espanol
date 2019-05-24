@@ -1,0 +1,36 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015000600019
+El potencial de las variables latentes en investigación en Salud
+
+CARTAS AL EDITOR
+
+ 
+
+El potencial de las variables latentes en investigación en Salud
+
+Latent variable theory in research in health topics
+
+ 
+
+Víctor Pedrero1, Báltica Cabieses2, Margarita Bernales3 
+
+1 Enfermero, Mg. Medición y Evaluación de Programas Educacionales ©. Pontificia Universidad Católica de Chile. Profesor Asistente Facultad de Medicina Universidad del Desarrollo Chile; vpedrero@udd.cl  2 PhD Health Sciences (Social Epidemiology), Profesor Titular Facultad de Medicina Universidad del Desarrollo Chile; Visiting Fellow Department of Health Sciences University of York England; bcabieses@udd.cl  3 PhD Salud Comunitaria, Universidad de Auckland, Nueva Zelanda. Docente Investigador Facultad de Medicina Universidad del Desarrollo Chile; margaritabernales@udd.cl
+
+Correspondencia a:
+
+
+
+Sr. Editor:  
+
+En salud es frecuente que se utilicen variables que no se observan directamente, como, por ejemplo, la calidad de vida, la             satisfacción usuaria, o la competencia cultural. Estas variables son conocidas como latentes y muchas veces son tratadas de             la misma manera que aquellas que son observadas directamente, como el sexo o la estatura. Sin embargo, presentan diferencias             considerables, tanto en su definición, como en las técnicas utilizadas para estudiar sus relaciones o hacer inferencias a             partir de ellas. 
+
+Las variables latentes son entidades aleatorias no observadas, que no presentan una unidad de medida específica y, por lo             tanto, cualquier estimación está sujeta a un error asociado1. Por ejemplo, la competencia cultural en profesionales de la salud es una variable latente. En caso de contar con un instrumento             válido de medición de esta variable,  la asignación de cualquier valor tendría –ineludiblemente– un margen de error asociado             y su unidad de medida podría variar entre estudios, porque no hay consenso en su parámetro de comparación. 
+
+Por ello, surge la interrogante de cómo acceder adecuadamente a variables latentes en investigación en salud. La respuesta             está en la utilización de un grupo de variables o indicadores que puedan ser obtenidos directamente y que, a su vez, estén             asociados teóricamente a la variable latente de interés, como, por ejemplo, las preguntas de un cuestionario o los ítems de             una encuesta. Así puede modelarse la probabilidad de responder a un set de preguntas o indicadores observados dado cierto             nivel en el rasgo latente1.
+
+Esta relación condicional entre variables observadas y latentes se logra a través de modelos específicos que permiten determinar,             por ejemplo, cuánto de la variabilidad de las respuestas de las personas es atribuida a la estructura latente y cuánto al             error de medición1,2. La elección de un modelo adecuado se basa en el carácter teórico de la variable no observada1,2. Por ejemplo, si se cree que la competencia cultural es de naturaleza continua sería útil un modelo de factor común y, por             el contrario, si se cree que la variable latente es discreta, como la posición social, se trataría de uno de clases latentes.             Estas consideraciones también incluyen a las variables observadas directamente. De esta manera, si la parte observada del             modelo es dicotómica (como podrían ser las preguntas de una prueba) y la variable latente se considera continua (como el logro             académico), una aproximación sería a través de la Teoría de Respuesta al Ítem.
+
+En ciencias sociales, las variables latentes han sido estudiadas desde principios del siglo XX. Sin embargo, en investigación             en salud este enfoque es más reciente2, por lo que aún no se ha extendido en todo su potencial. Existen algunos ejemplos relevantes del uso de variables latentes             en salud. Recientemente la Revista Médica de Chile publicó un artículo sobre la relación entre calidad de vida y cantidad de sueño en adultos mayores3, el cual podría ser analizado con alguno de los modelos propuestos desde un enfoque de variable latente. También, en la literatura             internacional se pueden encontrar artículos recientes, en donde fenómenos como la posición socioeconómica y su impacto en             salud4 han sido abordados desde esta perspectiva. A esto se suma el caso de la epidemiología de curso de vida, donde ha cobrado             popularidad esta visión. Una muestra es un trabajo reciente en el American Journal of Epidemiology que hace referencia a los fenómenos de mediación en el contexto de ecuaciones estructurales5, metodología cada vez más frecuente para el abordaje de variables latentes en investigación en salud.
+
+Los modelos para variables latentes son diversos y flexibles, por lo que son herramientas útiles para la investigación ya             que contribuyen a un abordaje más apropiado y amplio a problemas complejos de salud. La introducción de este tipo de variables             y de metodologías apropiadas de estimación son, sin duda, nuevos recursos para el desarrollo y la innovación en investigación             en salud en Chile y el mundo. 
+
+En Chile, el uso de estas metodologías en salud es incipiente y ha estado vinculado a los procesos de validación de instrumentos             específicos. No obstante, se puede extender al trabajo con encuestas poblacionales o al desarrollo de explicaciones causales             de ciertos fenómenos de salud que involucran variables a las cuales no es posible acceder directamente. Todos estos casos             representan oportunidades para la investigación con un enfoque interdisciplinario e innovador de la ciencia en salud.

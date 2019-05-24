@@ -1,0 +1,92 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872014001100008
+Propiedades psicométricas del cuestionario de calidad de vida relacionada con la salud KIDSCREEN-27 en adolescentes chilenos
+
+ 
+
+Cada vez existe mayor preocupación en evaluar la calidad de vida en los niños y adolescentes, para lo cual en Ibero-América               existen escasos instrumentos1, uno de ellos es el KIDSCREEN-52, que mide la calidad de vida relacionada con la salud en la población de 8 a 18 años. Este               instrumento ha sido usado en una variedad de diseños de estudio, particularmente en Europa extendiéndose a países como Argentina,               Brasil, Chile y Colombia, entre otros1-4. En Chile la adaptación transcultural y validación del cuestionario KIDSCREEN-52 en adolescentes chilenos, ha sido recientemente               publicado, demostrando sus excelentes propiedades psicométricas5. Existe una versión más corta de este mismo instrumento, denominada KIDSCREEN-27. Este instrumento está formado por una selección               de preguntas del KIDSCREEN-52 y tiene 5 dimensiones, con un total de 27 ítems, bienestar físico (5 ítems) explora el nivel de actividad física, energía y estado físico del niño/adolescente; bienestar psicológico (7 ítems) examina el bienestar psicológico de niño/adolescente, incluye emociones positivas y satisfacción con la vida, así como la ausencia de sentimientos de soledad y tristeza; autonomía y relación con los padres (7 ítems) explora la calidad de la interacción entre el niño/adolescente y sus padres o cuidadores, atmósfera familiar, apoyado               por la familia, nivel de autonomía percibido, y satisfacción con los recursos económicos; apoyo social y pares (4 ítems) explora la calidad de la interacción entre el niño/adolescente con sus pares; entorno escolar (4 ítems) explora la percepción del niño/adolescente de su capacidad cognitiva, aprendizaje y concentración y sus sentimientos         acerca de la escuela.
+
+Los 27 ítems son respondidos en escala de Likert, con 5 niveles de respuesta, que va desde nada a muchísimo o desde nunca             a siempre. La relación entre las dimensiones del instrumento KIDSCREEN-52 y KIDSCREEN-27 se muestra en la Figura 1.
+
+ 
+
+Figura 1. Relación entre las versiones KIDSCREEN-52 y KIDSCREEN-27.
+
+ 
+
+Esta versión por ser más corta que la del KIDSCREEN-52 podría ser más útil en ciertos estudios de salud poblacional a gran       escala o para uso en la práctica clínica, también ha probado tener buenas propiedades psicométricas6 y se ha adaptado y validado en países de Sudamérica2,7,8.
+
+En Chile, en la ciudad de Antofagasta, se evaluó las propiedades psicométricas del cuestionario KIDSCREEN-279, en una muestra intencionada, donde la adaptación transcultural se hizo a partir del cuestionario validado para la población             adolescente en España.
+
+El objetivo del presente estudio es evaluar las propiedades psicométricas del instrumento KIDSCREEN-27 para la población adolescente chilena.
+
+Material y Método
+
+Para evaluar las propiedades psicométricas de este instrumento, se utilizó la misma base de datos (n = 7910) usada  para evaluar             la adaptación y validación del KIDSCREEN-52 en Chile5.
+
+La distribución del tamaño de muestra para la adaptación y validación del KIDSCREEN-52 fue similar para los tres tipos de             establecimiento escolar (Municipal: 32,6%; Subvencionado: 37,0% y Pagado: 30,4%). Para este análisis se consideró ponderar             la distribución de la muestra a la proporción real según su distribución en la población escolar chilena: (Municipal: 46,4%;             Subvencionado: 46,7% y Pagado: 6,9%)5.
+
+Fiabilidad
+
+La consistencia interna del cuestionario fue estimada a través del alfa de Cronbach, aceptando 0,70 como mínimo para comparaciones             grupales10.
+
+La correlación ítem-resto del test se evaluó a través del coeficiente de correlación de Pearson, los coeficientes de correlación             entre 0,1 y 0,3 son considerados bajos, entre 0,31 y 0,50 moderados y mayores de 0,50 son considerados altos11,12.
+
+Validez
+
+Validez de constructo. La estructura multidimensional del instrumento fue evaluada a través del Análisis Factorial Confirmatorio.
+
+La bondad de ajuste se evaluó con varios índices: Raíz del error cuadrático medio aproximado (RMSEA) que con valor menor a             0,06 indica ajuste satisfactorio del modelo13,14, y con el Índice del ajuste comparativo (CFI) sobre 0,9 λ; Índice de ajuste normal (NFI), Índice de bondad de ajuste (GFI), e Índice de ajuste             relativo (RFI).
+
+Validez discriminante. A fin de evaluar la validez discriminante se utilizó la comparación de las medias en las cuales otros estudios sobre calidad             de vida han reportado similares diferencias significativas por género15-18.
+
+Para realizar el análisis de los puntajes Rasch en cada dimensión y el Análisis Factorial Confirmatorio, se utilizaron los             software Winsteps 3.69.1 y LISREL 8.5019. Para evaluar las diferencias de medias entre hombres y mujeres y entre los rangos de edad, se utilizó la prueba estadística             T de Student y F de Fisher y el software STATA 10.0 y SAS 9.1.
+
+Resultados
+
+Fiabilidad
+
+El alfa de Cronbach para el instrumento completo fue de 0,89 y para las dimensiones puntuaciones mayores a  0,75, a excepción             del dominio entorno escolar con 0,69. El error estándar fue 0,01 en todos los ítems. Las correlaciones Ítem-Resto del test,             se encuentran entre 0,50 y 0,62 excepto seis ítems que se encuentran entre 0,42 y 0,49 (Tabla 1).
+
+Las dimensiones que componen la escala se encuentran significativamente correlacionadas p < 0,001 (Tabla 2).
+
+ 
+
+Tabla 1. Características psicométricas de las dimensiones e ítems de la versión            chilena del KIDSCREEN-27 
+
+ 
+
+Tabla 2. Correlación entre dimensiones de la Escala KIDSCREEN-27 
+
+ 
+
+Validación
+
+El Análisis Factorial Confirmatorio mostró que los índices obtenidos para valorar la bondad de ajuste en este estudio fueron             de un χ2 (314) = 10521,4, RMSEA (Raíz del error cuadrático medio aproximado) = 0,064, CFI (Índice del ajuste comparativo) = 0,96, NFI             (Índice de ajuste normal) = 0,96, GFI (Índice de bondad de ajuste) = 0,85 y RFI (Índice de ajuste relativo) = 0,95.
+
+En la validez discriminante hubo diferencias significativas entre hombres y mujeres en todas las dimensiones. Las mujeres             percibieron peor calidad de vida en relación a los hombres en la mayoría de las dimensiones, excepto en “Apoyo social y pares”             y “Entorno escolar” (Tabla 3).
+
+ 
+
+Tabla 3. Medias de puntaje Rasch según sexo 
+
+
+
+Se observaron diferencias significativas en todos los grupos de edad. Los grupos de edad menor presentaron mejor calidad de             vida (Tabla 4).
+
+ 
+
+Tabla 4. Medias de puntaje Rasch según rango de edad 
+
+ 
+
+Discusión
+
+Los análisis psicométricos obtenidos mostraron las adecuadas propiedades encontradas en esta versión chilena del KIDSCREEN-27,             que se reflejan en los buenos niveles de fiabilidad medidos por el alfa de Cronbach20 y la correlación Item v/s Resto del Test, que presentaron valores sobre el mínimo considerado aceptable11,12, en la mayoría de los ítems.
+
+Con respecto a la validez discriminante, las diferencias encontradas por sexo indican que el cuestionario es capaz de discriminar             entre grupos en los cuales a priori se esperaría encontrar diferencias15-18,21. Estos resultados coinciden con lo encontrado en estudio de Ravens-Sieberer U. y col.22, donde por sexo se observaron diferencias significativas en todas las dimensiones, en que los hombres percibieron mejor calidad             de vida que las mujeres, a excepción de las dimensiones “Amigo y apoyo social” y “Entorno escolar”. En comparación a los estudios             de Urzúa A. y col.9,15, se observaron diferencias significativas sólo en tres dimensiones “Actividad física y salud”, “Amigos y apoyo social” y             “Entorno escolar”, donde los hombres percibieron mejor calidad de vida.
+
+En relación a los grupos de edad, se encontraron diferencias significativas en todas las dimensiones, donde los grupos de             menor edad percibieron mejor calidad de vida.
+
+El Análisis Factorial Confirmatorio realizado para conocer la validez de constructo mostró que este instrumento mantiene las             dimensiones del test original y que los índices obtenidos para valorar la bondad de ajuste en este estudio fueron adecuados             (RMSEA = 0,064, CFI = 0,96) y distintos a los encontrados en estudio de Urzúa A. y col. (RMSEA = 0,08, CFI = 0,73)9. Esta diferencia en los resultados de ambos estudios podría explicarse por los diferentes procedimientos realizados, como             por ejemplo la traducción y traducción inversa del KIDSCREEN original hecho en el presente estudio y la cobertura de una muestra             de representatividad nacional, mientras que en el estudio de Antofagasta, la validación transcultural se hizo a partir del             cuestionario validado para la población adolescente en España y se uso una muestra de sólo una región de Chile.
+
+Una de las limitaciones del estudio es su focalización en población adolescente, de 10 a 18 años. Originalmente el instrumento             es para un rango de 8 a 18 años.

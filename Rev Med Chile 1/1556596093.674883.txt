@@ -1,0 +1,76 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872018000500596
+Prevalencia de cepas cagA-positivo en la región de Coquimbo, determinada mediante nested-qPCR en muestras fecales
+
+La infección por Helicobacter pylori, afecta casi a 50% de la población mundial y puede llegar a 90% en países subdesarrollados, siendo una de las infecciones crónicas más importantes en la especie humana. Incluso, dentro de un mismo país, la prevalencia puede variar significativamente entre las poblaciones urbanas de mayor nivel económico y las poblaciones rurales1. En Chile, la prevalencia de infección por esta bacteria, supera 75% entre la población adulta asintomática2, siendo una de las tasas más altas en el mundo3,4.
+
+La trasmisión de H. pylori ocurre principal-mente de persona a persona por vía fecal-oral, oro-oral, o gastro-oral, y no se ha identificado un reservorio ambiental significativo5,6.
+
+La infección por H. pylori se asocia a gastritis superficial, la cual progresaría hacia gastritis atrófica crónica, metaplasia intestinal, displasia, y final-mente cáncer gástrico7–9. Con estos antecedentes, H. pylori ha sido clasificado como un carcinógeno tipo I, desde 1994, de acuerdo a la Organización Mundial de la Salud10. Al respecto, la virulencia de H. pylori se asocia fuertemente a la presencia de la isla de patogenicidad cag (cagPAI) que codifica a la oncoproteína CagA11. Esta proteína es translocada al citoplasma de la célula gástrica a través del sistema de secreción tipo IV (T4SS), codificado en el mismo cag-PAI12, en donde puede conducir la activación de cascadas de señal involucradas en el aumento de la proliferación celular, apoptosis y supresión del ciclo celular13. La región C-terminal de CagA contiene una secuencia de cinco aminoácidos, conocida como motivo EPIYA (Glu-Pro-Ile-Tyr-Ala), y de los cuales se han descrito cuatro de ellos, denominados EPIYA-A, -B, -C, y -D, los que han servido para clasificar a las cepas cagA-positivo de H. pylori, y los responsables del mayor potencial carcinogénico de estas cepas14.
+
+Recientemente, nuestro laboratorio ha desarrollado un método diagnóstico, basado en nested-qPCR, para determinar la presencia de H. pylori en muestras fecales humanas15. Este método diagnóstico, que mide la presencia del gen ureC, posee una solicitud de patente, la que se encuentra bajo el N° 2016-01214, en INAPI (Instituto Nacional de Propiedad Industrial). En este trabajo, y por un protocolo similar al ya desarrollado, hemos determinado la prevalencia de las cepas cagA-positivo, en muestras fecales de pacientes sintomáticos digestivos de la Región de Coquimbo, infectados con H. pylori.
+
+Materiales y Métodos
+
+Pacientes
+
+En este estudio participaron 160 pacientes sintomáticos digestivos, de los cuales 115 fueron mujeres (71,9%) y 45 hombres (28,1%), con una edad promedio de 55,6 años (± 11,8), quienes fueron sometidos a una endoscopía digestiva alta de rutina. Las biopsias gástricas fueron obtenidas en forma protocolizada, tomando 2 muestras de antro distal (una en curvatura mayor y otra en curvatura menor), y 2 muestras de cuerpo (una de cara anterior y otra de cara posterior) durante la endoscopía. La determinación de H. pylori se realizó mediante tinción de Giemsa en la Unidad de Anatomía Patológica del Hospital San Pablo de Coquimbo, Chile.
+
+El Comité de Bioética del Servicio Salud Coquimbo aprobó el protocolo y los pacientes firmaron voluntariamente el consentimiento informado.
+
+Extracción de DNA fecal y nested-qPCR
+
+Cada participante debió depositar alrededor de 5 g de heces en un frasco cerrado, que contenía 3 ml de RNA Later® (Ambion), el cual se almacenó a −80 °C hasta su análisis.
+
+Se utilizaron 200 mg de cada muestra fecal para extraer el DNA, mediante el kit QIAamp® Fast DNA Stool Mini (QIAGEN), de acuerdo a las condiciones del fabricante. La integridad del DNA fue determinada mediante un gel de agarosa a 1% y su concentración determinada en un Nanodrop™ One (Thermo Scientific™). Luego, 120 ng de este DNA se utilizaron para amplificar los genes ureC o cagA, mediante nested-qPCR, proceso que comienza con una primera amplificación mediante PCR convencional, que se llevó a cabo en un Axygen® MaxyGene Thermal Cycler II. El DNA se incubó en presencia de 5 μl Buffer 5x; 1,5 μL MgCl2 25 mM; 0,5 μL dNTPs 10 mM; 1 μL de cada partidor externo (10 μM c/u), y 0,2 μL de Platinum Taq® DNA polimerasa (5 U/μL) (Invitrogen), en un volumen final de 25 μL. Las condiciones de amplificación incluyeron 30 ciclos a 95 °C por 45s, 57 °C por 45s y 72 °C por 45s. Posteriormente, 2 μL de una dilución 10x de este primer PCR, fueron usados para la siguiente ronda de amplificación, mediante qPCR, en un Eco Real Time PCR (Ilumina®). La mezcla de qPCR contenía 5 μL de SYBR Green 2x (KAPA SYBR® FAST qPCR) y 0,1 μl de cada partidor interno (10 μM c/u), en un volumen final de 10 μL. Las condiciones de amplificación incluyeron 40 ciclos a 95 °C por 10s y 60 °C por 30s. Como control se utilizó DNA extraído de la cepa 26695 de H. pylori.
+
+La secuencia de los partidores utilizados en este trabajo se muestra en la Tabla 1.
+
+Tabla 1 Información de los partidores utilizados 
+
+Análisis de los datos
+
+Los datos fueron analizados utilizando el Software Eco v4.1 PCR System y el programa XLSTAT Versión 2.06, para calcular sensibilidad, especificidad, y valor predictivo positivo y negativo de la detección de infección por H. pylori en las muestras fecales. Se utilizó la prueba de Histología-Giemsa como referencia de infección. Se calculó prevalencia de cepas cagA-positivo en la población evaluada sólo cuando la histología y el nested-qPCR ureC fueron positivos para esos pacientes. p < 0,05 fue considerado significante.
+
+
+
+Figura 1 Curva de melt obtenida del software qPCR (Eco Real Time, Illumina) en que se muestra la amplificación del gen CagA desde la cepa control 26695 (A) o de un grupo de muestras fecales (B). Como se aprecia en la figura, el amplicón generado tiene una tm de 79°C, el cual fue un indicador de positividad para este gen. 
+
+Resultados
+
+Un total de 160 pacientes con sintomatología digestiva fueron evaluados para diagnosticar H. pylori en muestras fecales, y determinar la presencia de cepas virulentas cagA-positivo entre los infectados.
+
+Mediante histología por Giemsa (método de referencia) se detectaron 123 pacientes infectados (76,9%), 35 hombres (77,8% del total de hombres) y 88 mujeres (76,5% del total de mujeres), mientras que se encontraron 129 pacientes infectados (80,6%) utilizando nested-qPCR para ureC en muestras fecales; 32 hombres (71,1% del total de hombres), y 97 mujeres (84,3% del total de mujeres). La Sensibilidad de la técnica nested-qPCR para detectar la bacteria fue de 96,7% (95% CI: 91,9%-98,7%), mientras que la especificidad fue de 73,0% (95% CI: 57,0%-84,6%). A su vez, el VPP fue de 92,2% (95% CI: 86,3%-95,7%) y el VPN fue de 87,1% (95% CI: 71,1%-94,9%). Según resultados obtenidos con el método de referencia, la infección por H. pylori tendría una prevalencia de 76,9% en la población evaluada.
+
+Posteriormente, en 122 muestras positivas tanto para histología como para nested-qPCR ureC, se determinó la presencia de cepas cagA-positivo, encontrando 31 pacientes con esta cepa más virulenta, lo que corresponde a 25,4% de la población evaluada. No se consideraron para esta evaluación aquellas muestras en las que la histología fue positiva pero el nested-qPCR negativo para ureC, ni viceversa.
+
+No se observó una relación significativa entre el género y la infección por H. pylori, ni tampoco entre género y prevalencias de cepas cagA-positivas.
+
+Los resultados completos obtenidos en el diagnóstico de H. pylori con las distintas técnicas utilizadas, se encuentran en las Tablas 2 y 3.
+
+Tabla 2 Distribución de la población, según características sociodemográficas y método diagnóstico 
+
+Tabla 3 Parámetros estadísticos de la técnica nested-qPCR para la detección de H. pylori en muestras fecales 
+
+Discusión
+
+En este trabajo evaluamos la presencia de cepas cagA-positivo entre aquellos pacientes infectados con H. pylori en la región de Coquimbo, mediante nested-qPCR, a partir de DNA extraído desde muestras fecales15. Entre 160 pacientes con sintomatología digestiva, encontramos 123 en los cuales la Histología (Giemsa) detectó la bacteria, mientras que esta cifra aumentó a 129 pacientes cuando se utilizó nested-qPCR para el gen ureC. Estos resultados están de acuerdo a lo descrito en reportes previos, donde se establecen prevalencias de 76,8% y 73,0% respectivamente para H. pylori en Chile3,6.
+
+En la población de la región de Coquimbo encontramos una prevalencia de 25,4% para cepas cagA-positivo entre los infectados por H. pylori, valor por sobre 15,2% encontrado recientemente por el grupo que dirige la Dra. Apolinaria García, en una población de la ciudad de Concepción16. Interesantemente, 16 años antes, en otra población de la misma ciudad de Concepción, una investigación encontró 38% de cepas cagA-positivas entre los pacientes infectados con H. pylori17. Aparentemente, estos resultados se correlacionarían con la disminución observada en la tasa de mortalidad ajustada por cáncer gástrico en esta región, la que va de 28,37/100.000 hab. en el año 2000, a 17,21/100.000 hab. en al año 201518. En la región de Coquimbo, también se ha observado una disminución en la tasa de mortalidad ajustada por cáncer gástrico, la cual va de 21,59/100.000 hab en el año 2000, a 14,10/100.000 hab. en el año 201518, lo cual podría, en parte, relacionarse con la baja tasa de cepas cagA-positivas observadas en este trabajo. No obstante, un mayor acceso de la población a las terapias de erradicación en los últimos años también podría haber favorecido esta disminución en la tasa de mortalidad registrada. Al respecto, de acuerdo al Maastricht V/Florence Consensus Report, se recomienda la estrategia de “diagnosticar y tratar” en poblaciones de alto riesgo de cáncer gástrico para la prevención de esta patología19.
+
+Estos resultados son muy disímiles a los encontrados en la región del Maule, la que se caracteriza por una alta tasa de cáncer gástrico, en la cual 94,9% de los infectados con H. pylori, poseía la cepa cagA-positiva20. Esta prevalencia es muy similar a lo encontrado en Tailandia, donde 96,7% de los infectados por el patógeno presentan la cepa cagA-positiva, no obstante, y de manera interesante, en este país la incidencia por cáncer gástrico no supera los 5/100.000 hab21. Otros estudios recientes muestran una prevalencia de 69,5%, 77,3% y 87,5%, para las cepas cagA-positivas en poblaciones de Malasia, India y China, respectivamente22–24. Por su parte, en América Latina, se reportan similares resultados para este tipo de cepas, con prevalencias de 62,6%, 71,0% y 85,6%, para México, Argentina y Brasil, respectivamente25–27. Es interesante notar que reportes recientes no encuentran una asociación estadísticamente significativa para la prevalencia de cepas cagA-positivas y el cáncer gástrico24,25,27. Al respecto, es evidente que existen otros factores bacterianos asociados al riesgo de desarrollar cáncer gástrico, tales como la toxina vacuolizante VacA, entre otros, en particular la isoforma s1m124. De manera interesante, un trabajo reciente realizado en Chile demostró que cepas que portaban el gen vacAi1 tenían una fuerte correlación con lesiones gástricas severas, que podrían conducir al desarrollo de cáncer gástrico16. Otro factor que sin duda influye en la relación de las cepas cagA-positivas con el riesgo de cáncer gástrico, es la variación alélica en el motivo EPIYA en el carboxilo terminal de CagA. Cepas que contienen los alelos EPIYA-A, -B, y -D (provenientes de aislados de países de Asia del Este) muestran una mayor correlación con cáncer gástrico que cepas que contienen los alelos EPIYA-A, -B, y -C (provenientes de aislados de países occidentales)28.
+
+Por otro lado, y no menos importante, la edad de adquisición de la infección y los factores propios del huésped, son también condicionantes que podrían influir en el desarrollo de cáncer gástrico asociado a H. pylori29.
+
+La técnica utilizada en este estudio no es invasiva, y el paciente solo debe enviar una muestra fecal, debidamente rotulada, al laboratorio, para su análisis, lo cual es una ventaja comparativa frente a las técnicas diagnósticas habituales. Al respecto, una revisión del año 2014 sugirió que la técnica de PCR podría ser superior a otros métodos diagnósticos para la detección de infección por H. pylori, debido a su alta sensibilidad y especificidad, especialmente con variantes que incluyen nested- y semi-nested-PCR4.
+
+Nuestros resultados son alentadores, puesto que esta técnica, no invasiva, económica y de alta sensibilidad, puede no sólo diagnosticar la infección por esta bacteria, sino que, como en este caso, determinar la presencia de cepas más virulentas en los pacientes. Actualmente, estamos incorporando al diagnóstico, otros genes asociados a virulencia, tales como vacAs1m1, y además, la determinación de cepas resistentes a claritromicina y metronidazol, a través del proyecto FONIS SA16I0230. Por otro lado, ya que la infección es adquirida durante la infancia, esta técnica podría ser convenientemente aplicada en estudios clínicos y epidemiológicos en población infantil.
+
+En términos de costos, hemos calculado que la determinación de infección más la detección de cepas cagA-positivas en muestras fecales, tiene un valor aproximado de $10.000 chilenos (USD 15,4).
+
+Finalmente, estamos esperando la aprobación de nuestra solicitud de patente N° 2016-01214 en INAPI para este protocolo diagnóstico.
+
+Agradecimientos
+
+Los autores agradecen al proyecto CORFO 12IDL2-16202.
+
+Trabajo Financiado por CORFO 12IDL2-16202.
