@@ -1,0 +1,192 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000300332
+Caracterización espirométrica de pacientes con fibrosis quística
+
+ARTÍCULOS ORIGINALES
+
+Caracterización espirométrica de pacientes con fibrosis quística
+
+Astrid PezoaA 
+
+			
+
+Pablo JorqueraB 
+
+			
+
+Ricardo MadridB 
+
+			
+
+Pamela MaturanaC 
+
+			
+
+Paola VivianiD 
+
+			
+
+Solange CaussadeE 
+
+			
+
+A División Pediatría. Facultad de Medicina, Pontificia Universidad Católica de Chile, Chile.
+
+B Servicio Pediatría. Hospital Dr. Sótero del Río, Chile.
+
+C CDT Juan Pefaur. Hospital Dr. Sótero del Río, Chile.
+
+D Departamento Salud Pública. Facultad de Medicina, Pontificia Universidad Católica de Chile, Chile.
+
+E Departamento Cardiología y Enfermedades Respiratorias Pediátricas. Facultad Medicina. Pontificia Universidad Católica de Chile, Chile.
+
+
+
+
+
+Resumen:
+
+Introducción: 
+
+El pronóstico de los pacientes con fibrosis quística (FQ) ha mejorado en forma notable. La evaluación de la progresión de la enfermedad se basa en la medición del Volumen Espirado al primer segundo (VEF1).
+
+Objetivos:
+
+ 1. Describir volúmenes y flujos espiratorios forza dos y comparar su interpretación según diferentes patrones de referencia (Knudson, multiétnicas Global Lung Initiative, Gutiérrez); 2. Comparar evolución de VEF1 según diferentes patrones de referencia; 3. Describir respuesta a broncodilatador.
+
+Pacientes y Método: 
+
+Estudio retrospectivo de fichas clínicas y espirometrías de pacientes con FQ controlados en Hospital Dr. Sótero del Río. Se obtuvo antecedentes demográficos, resultados de prueba de sudor, estudio genético, estudio bacteriológico. Se evaluó respuesta a broncodilatador (salbutamol 400 ugr), considerando signi ficativo un aumento en 12% en el VEF1. El valor de cloro en sudor se obtuvo mediante método de Gibson y Cooke. Se registraron: Capacidad Vital Forzada (CVF), Volumen Espirado al primer segundo (VEF1) y relación VEF1/CVF. Para graficar la progresión del VEF1 en el tiempo y las curvas teóricas de GLI, Knudson y Gutiérrez, se utilizó el software de libre distribución R versión 3.3.1.
+
+Resultados:
+
+ Se incluyeron 14 pacientes, 7 varones, edad entre 6 y 24 años, mediana 15 años, me diana índice de masa corporal (IMC) 18,15 (rango 14,6-23,3), mediana cloro en sudor 76 mEq/l (rango 50,2- 119), 7 pacientes con al menos 1 mutación F508del. Al utilizar fórmulas predictivas multiétnicas y de Gutiérrez, el compromiso de la función pulmonar ocurría con anterioridad en re lación al uso de ecuaciones de Knudson. Ninguno de los pacientes presentó respuesta significativa a broncodilatador.
+
+Conclusión:
+
+ El grupo de pacientes descritos presenta en su mayoría compromiso funcional respiratorio y no tiene respuesta a broncodilatador. La interpretación del compromiso funcional respiratorio varía según los valores teóricos utilizados.
+
+Palabras clave: Fibrosis quística; espirometría; pruebas de función pulmonar; VEF1
+
+Introducción
+
+La Fibrosis Quística (FQ) es la enfermedad autosómica recesiva letal más frecuente en raza blanca, cau sada por mutaciones en el gen que codifica la proteína reguladora del transporte de cloro en la membrana celular1. En Chile se estima una incidencia aproxima da de 1/8.000 a 1/10.000 recién nacidos vivos2. Es una enfermedad multisistémica en la cual el compromiso pulmonar da cuenta del 85% de la mortalidad3.
+
+El daño pulmonar es causado por la obstrucción de la vía aérea debido a la deshidratación y espesamiento de las secreciones, infección endobronquial resultante, y una respuesta inflamatoria exagerada que conduce al desarrollo de bronquiectasias y en fermedad obstructiva y restrictiva progresivas3. Las pruebas de función pulmonar juegan un rol central en el control y tratamiento de los pacientes con FQ a toda edad4,5,6. La medición del VEFi (volumen espi ratorio forzado al primer segundo) mediante espiro metría es por ahora el parámetro clave para monitorizar la función pulmonar, evaluar su severidad y progresión7,8,9,10,11,12. Por otro lado, la elección del patrón de referencia puede tener un efecto determinante en la interpretación del deterioro de la función pulmonar y como consecuencia en las medidas terapéuticas11. Actualmente en nuestro país se usan ecuaciones de referencia de Knudson13, Gutiérrez14 y multiétnicas de la Global Lung Initiative (GLI)15. Los objetivos de este trabajo son: 1) Describir volúmenes espiratorios forzados en pacientes con fibrosis quística y comparar su interpretación según diferentes patrones de refe rencia; 2) Comparar evolución del VEF1 según dife rentes patrones de referencia y 3) Describir respuesta a broncodilatador.
+
+Pacientes y Método
+
+Estudio retrospectivo y descriptivo de pacientes con FQ controlados en la Unidad de Respiratorio Pediátrico del Hospital Sótero del Río. Se revisaron las fichas clínicas registrando los siguientes datos: edad al diagnóstico y fecha del estudio, género, antropome tría, estado nutricional según índice de masa corporal (IMC), prueba del sudor, mutación presente, número de hospitalizaciones y exacerbaciones y colonización bacteriana a la fecha. Se consideraron los siguien tes diagnósticos nutricionales según IMC: Obesidad > p95, sobrepeso: > p85 - < 94, eutrofia: > p10 - < 84 y bajo peso: < p10, según recomendaciones para esta enfermedad16,17.
+
+Además, se revisó el total de espirometrías de cada paciente, registrando Capacidad Vital Forzada (CVF), Volumen espirado al primer segundo (VEF1), relación VEF1/CVF y flujos espiratorios forzados entre el 25 y 75% de la CVF (FEF25-75). La espirometría se realizó se gún normas establecidas18,19,20, cumpliendo los criterios de aceptabilidad y repetibilidad exigidos para escola res y adolescentes. El espirómetro utilizado fue Med- Graphics Breeze Suite 6.4.144SPA, versión 510, 2009, St Paul, Minnesota, USA. Se usaron como valores de referencia Knudson13, Gutiérrez14 y multiétnicos GLI15. Se interpretó la última espirometría registrada en cada paciente, según Knudson y Gutiérrez usando Percentil 5 como límite inferior (para ambos se usa el límite in ferior en porcentaje, el cual varía según género, talla y edad), y para GLI 1 z-score (límite inferior 1 z-score, -1,64 D.S.), analizando VEF1, CVF y relación VEF1/ CVF. Para establecer grado de severidad se utilizó por centaje del valor real de CVF y VEF1 con respecto al teórico2.
+
+Se evaluó respuesta a broncodilatador (salbutamol 400 ugr), considerando significativo un aumento en 12% en el VEF119. El valor de cloro en sudor se obtuvo mediante método de Gibson y Cooke1.
+
+Para graficar la progresión del VEF1 en el tiempo y las curvas teóricas de GLI, Knudson y Gutiérrez, se utilizó el software de libre distribución R versión 3.3.1. Esta investigación fue aprobada por el comité de ética del Hospital Dr. Sótero del Río (dispensa de consenti miento informado).
+
+Resultados
+
+De los 17 pacientes controlados en esta Unidad, 14 tuvieron espirometrías seriadas, durante una mediana de tiempo de seguimiento de 9 años (rango 1-17 años), 7 hombres. La mediana de edad al momento del estu dio fue de 15 años (rango 6-24 años), mediana de peso 41 Kg (rango 19-61 kg). En la Tabla 1 se describen las características demográficas, resultados de cloro en su dor y estudio genético.
+
+
+
+
+
+Tabla 1 Características de los pacientes. 
+
+
+
+
+
+
+
+Tabla 1 Características de los pacientes. 
+
+La mediana del tiempo de seguimiento fue de 10 años (rango 1-17), exacerbaciones 12 (rango 4-29). La mediana del número de exacerbaciones calculada por año de seguimiento fue 1,8 (rango 0,35-4/año) y de hospitalizaciones 0,95 (rango 0,14-3,5/año). En 3 de nuestros pacientes no se encontraban datos debido a inicio reciente de control en nuestro centro.
+
+En la Tabla 2 se muestra la interpretación de la úl tima espirometría realizada por cada paciente, según Knudson13, Gutiérrez14 y GLI15. Siete pacientes tuvie ron espirometría normal según Knudson, 6 si se utiliza GLI y 4 si utilizamos los parámetros de Gutiérrez. En 6 pacientes no hubo concordancia en la interpretación. Según GLI hubo mayor tendencia a encontrar patrones restrictivos, y según Gutiérrez obstructivos.
+
+
+
+
+
+Tabla 2 Diagnóstico espirométrico según valores de referencia. 
+
+
+
+
+
+
+
+Tabla 2 Diagnóstico espirométrico según valores de referencia. 
+
+En la Tabla 3 se muestran los valores basales de VEF1 y la respuesta a la administración de 400 ugr de salbutamol, observándose que al interpretar según guías19,20, ningún paciente presentó un aumento signi ficativo (> 12% con respecto al basal) en esta variable.
+
+
+
+
+
+Tabla 3 Respuesta a broncodilatador. 
+
+
+
+
+
+
+
+Tabla 3 Respuesta a broncodilatador. 
+
+En la Figura 1 se muestra la evolución en el tiempo del porcentaje de VEF1 de cada paciente interpretado por Knudson, GLI y Gutiérrez, y se proyecta la edad promedio a la cual se alcanzaría el 30% del VEF1 pre dicho, siendo aproximadamente a los 38 años si se uti liza Knudson como referencia, y aproximadamente 33 años usando GLI y Gutiérrez.
+
+
+
+
+
+Figura 1 Evolución del porcentaje de VEF1 con respecto a teóricos de cada paciente según Knudson, GLI y Gutiérrez y su proyección al 30% en VEF1 según estos 3 teóricos (flechas). VEF,: Volumen espirado al primer segundo. GLI: Global Lung Initiative. 
+
+
+
+
+
+Figura 1 Evolución del porcentaje de VEF1 con respecto a teóricos de cada paciente según Knudson, GLI y Gutiérrez y su proyección al 30% en VEF1 según estos 3 teóricos (flechas). VEF,: Volumen espirado al primer segundo. GLI: Global Lung Initiative. 
+
+Discusión
+
+En esta serie de 14 pacientes con fibrosis quística nuestros datos indican que la interpretación del com promiso funcional respiratorio varía según los valores teóricos utilizados, diagnosticando mayor compromi so con valores teóricos GLI y Gutiérrez, y alcanzando el nivel crítico de VEF1 de 30% aproximadamente 5 años antes al utilizar estos últimos como referencia con respecto a Knudson. Además, no hubo respuesta significativa a broncodilatador en ninguno de los pa cientes, concordando con la fisiopatología de esta enfermedad1,3.
+
+La implementación del programa ministerial de FQ en Chile21,22 ha contribuido al diagnóstico precoz, destacando en nuestros pacientes su realización an tes de los 5 años en 7 de ellos, y tres previo al año de vida. Además, ha favorecido la sobrevida, es así como la mediana de edad actual de nuestros pacientes es de 15 años.
+
+Siendo la prueba del sudor el gold standard para el diagnóstico de fibrosis quística1, 5 pacientes presenta ron resultado en valores intermedios (30-59 mmol/l)23 (Tabla 1). El paciente con mutaciones R117H y R1162X tiene función pulmonar normal, lo que sería concordante con el predominio fenotípico de R117H, conocida por tener manifestaciones leves23,24. En otro de los pacientes se identificó solo 1 mutación F508del; se asume que la otra mutación sería de fenotipo leve ya que el paciente tiene 22 años y su función pulmonar es normal. En los 3 restantes no se identificó mutación. En 2 de ellos la función pulmonar está alterada. Se han descrito discordancias entre mutaciones y manifesta ciones clínicas esperadas25.
+
+Con respecto al estado nutricional, Barja y cols26 re fieren una estrecha correlación entre este y el valor de VEF1. En nuestra serie hubo 3 pacientes con sobrepeso y 1 obeso, por el escaso número no podemos estable cer correlaciones. Es importante destacar que no solo el bajo peso si no que el exceso de peso y el exceso de masa grasa se relaciona con un deterioro de la función pulmonar, deterioro en la función metabólica y peores outcomes post trasplante pulmonar27,28,29.
+
+En Chile aún se utilizan valores predictivos de Knudson13, los cuales se ha visto subestiman los resul tados al interpretar las espirometrías30. Las fórmulas de Gutiérrez fueron obtenidas en niños sanos chilenos residentes en Valparaiso14. Las fórmulas predictivas de GLI15 se diseñaron con datos obtenidos de diversos países y etnias, teniendo la gran ventaja de reflejar la función pulmonar como un continuo entre los 2 y 95 años11,31. En nuestra serie hubo diferencia en la inter pretación de la espirometría en 6 de los 14 pacientes, diagnosticándose mayor compromiso al usar las fór mulas de Gutiérrez y GLI. Esto significa que si usamos Knudson como referente algunos pacientes con FQ presentarían resultados aparentemente en “rango nor mal”, y se podrían determinar tratamientos errados. Hubo más limitaciones restrictivas al interpretar con GLI, lo que indicaría que estas fórmulas son más exi gentes para el valor de CVF, por otro lado, Gutiérrez lo sería para VEF1 y VEF1/CVF.
+
+El FEV1 es la variable más utilizada para evaluar la severidad y progresión de la enfermedad. Su porcen taje con respecto al valor teórico se usa para decidir cambios de terapia, evaluar eficacia de tratamientos, decisión de hospitalizar y otros9,11,32. Pero además el % del VEF1 se relaciona con la sobrevida de los pacientes con FQ; se demostró que los pacientes cuyo porcen taje de VEF1 es menor a 30% con respecto al teórico tienen una mortalidad mayor a 50% a 2 años7,8,9,10, y por esta razón este es uno de los criterios que se toma en cuenta para decidir la indicación de trasplante pulmonar4,7,8,18,28.
+
+En la Figura 1 se observan diferentes patrones evo lutivos, incluso aumentando la función pulmonar en algunos de ellos. Esto podría explicarse por la conocida mayor variabilidad de los parámetros espirométricos en estos pacientes debido a la presencia permanente de secreciones bronquiales4,7,33. En nuestro caso no se debe al cambio en los patrones de referencia espirométricos, como se ha descrito en otras casuísticas31. Se ha visto correlación entre variabilidad significativa de la función pulmonar durante 1 año de evolución con mayor deterioro de la caída en el VEF1, considerándose su variabilidad un buen predictor de la progresión de la enfermedad4,7,9.
+
+Lo esperable en un niño sano es un aumento en volúmenes pulmonares hasta que finaliza el estirón puberal6,34. Gran parte de los pacientes con FQ tienen una característica inevitable la cual es una disminu ción progresiva de la función pulmonar en el tiempo10,11,34. Para evaluar esta trayectoria se usa el VEF1, describiéndose una disminución variable entre - 0,65 y - 2,52% anual según diversos factores de riesgo de pérdida de la función pulmonar, tales como la mu tación presente, compromiso pancreático, estado nutricional, agente infeccioso presente, número de exacerbaciones anuales, etc.7,25. En nuestros pacientes vemos como el porcentaje promedio del VEF1 va dis minuyendo con la edad, independiente del patrón de referencia utilizado.
+
+Como resultado de este estudio cabe destacar que existe una diferencia relevante en el corte del VEF1 en 30% según los distintos parámetros de referencia. Esta se produce hasta con 5 años de diferencia entre los va lores de Knudson y los valores de Gutiérrez y GLI. Esto lleva a un retraso en la toma de decisiones lo que pu diese repercutir negativamente en la evolución de los pacientes.
+
+En relación a la terapia, los pacientes con FQ fre cuentemente reciben broncodilatadores, pero su uso no siempre se ha justificado34,35,36. La patogenia de las sibilancias en esta enfermedad implica varios meca nismos que se sobreponen entre ellos: edema de la mucosa bronquial debido a infección e inflamación crónicas, obstrucción por secreciones, estímulo de vías autonómicas, contracción del músculo liso bron quial, y colapso dinámico de la vía aérea por destruc ción de sus paredes35. En esta casuística vemos que si guiendo las guías para interpretación espirométricas ninguno mostró cambio significativo en VEF1 con el uso de BD, es decir su VEF1 no aumentó 12% o más con respecto al basal19. Estos hallazgos son semejantes a los encontrados por Ziebach et al37 y Sánchez et al38. Sin embargo, estos últimos autores refieren que un aumento de 6% con respecto al VEF1 basal sugeriría la presencia de hiperreactividad bronquial en pacientes con FQ, con 83% de sensibilidad y 100% especifici dad. Si analizamos la Tabla 3, solo 3 pacientes ten drían un cambio igual o superior al 6%. En todo caso, es difícil definir un punto de corte para considerar un cambio significativo debido a la gran variabilidad que presentan los pacientes en VEF1 y CVF, con cifras de 15-20% en forma espontánea, incluso el mismo día de realizada la espirometría3. Los autores de una re visión Cochrane39 sugieren que previo a iniciar una terapia broncodilatadora permanente debe evaluarse la respuesta a broncodilatador considerando razona ble un aumento del VEF1 en 10% luego de adminis trar el broncodilatador. En relación a los flujos forza dos (FEF25-75), no consideramos mostrarlo ya que se ha visto su variabilidad es aún mayor, y se propone omitirlo en el informe espirométrico40, aunque otros autores han encontrado que estos (FEF75) servirían como marcador precoz del compromiso de vía aérea pequeña41.
+
+Consideramos una fortaleza de este estudio haber contado con todas las espirometrías de cada paciente, lo que permitió realizar su seguimiento funcional res piratorio por un período considerable, y así definir la tendencia individual del VEF1, determinando su pro nóstico. Además, estos exámenes fueron realizados siempre con el mismo espirómetro, el cual cumple las características exigidas para confiabilidad de resulta dos.
+
+Las debilidades del estudio son el número escaso de pacientes, el cual no es suficiente para asumir una representatividad de la población chilena ni obtener correlaciones de la función pulmonar con parámetros clínicos u otros parámetros de laboratorio.
+
+Conclusión
+
+Las mediciones de la función pulmonar son funda mentales para la toma de decisiones terapéuticas en pa cientes con FQ, siendo el VEF1 la variable más utilizada para evaluar su severidad y progresión y para buscar la presencia de hiperreactividad bronquial.
+
+Debemos informarnos acerca de los valores de re ferencia utilizados para espirometría, ya que según el elegido el diagnóstico funcional respiratorio puede ser variable.
+
+Responsabilidades éticas
+
+Protección de personas y animales: Los autores decla ran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación hu mana responsable y de acuerdo con la Asociación Mé dica Mundial y la Declaración de Helsinki.
+
+Confidencialidad de los datos: Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informa do: Los autores han obtenido el consentimiento informado de los pacientes y/o sujetos referidos en el artículo. Este documento obra en poder del autor de correspondencia.
+
+Conflicto de intereses: Los autores declaran no tener conflicto de intereses.

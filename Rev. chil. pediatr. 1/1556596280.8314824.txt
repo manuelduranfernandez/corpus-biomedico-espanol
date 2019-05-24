@@ -1,0 +1,86 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062016000300006
+Índice cintura-estatura como indicador de riesgo metabólico en niños
+
+ 
+
+ 
+
+Introducción
+
+El diagnóstico de complicaciones provocadas por la obesidad, sigue siendo un reto para el profesional de la salud1. La falta de pruebas estandarizadas con buena sensibilidad y especificidad para la población infantil, hace difícil inferir quiénes tienen alto riesgo de padecer complicaciones asociadas al exceso de grasa corporal2, principalmente las relacionadas con los riesgos cardiovascular y metabólico3,4. Es conocida la acción metabólica e inflamatoria de la grasa visceral y las limitantes del índice de masa corporal (IMC) para determinar la distribución de la grasa corporal, por ello los índices somáticos específicos para la evaluación del patrón adiposo abdominal representan alternativas más efectivas para la discriminación de pacientes con riesgo5.
+
+El perímetro de cintura (PC) puede presentar sesgos en las determinaciones porque el tamaño corporal tiene una gran influencia en todas las mediciones, es así que el índice cintura-estatura (ICE) al ajustar el perímetro de cintura a la estatura ha demostrado mayor utilidad para diagnosticar obesidad visceral y se ha demostrado en diversos estudios su efectividad en la detección de alteraciones metabólicas en la población pediátrica en general (ambos géneros y diversas edades)6–10, cuando el punto de corte de ICE es mayor o igual a 0,511,12.
+
+Hasta el momento se conoce un estudio realizado en adolescentes mexicanos con obesidad donde el ICE presentó mejor efectividad que IMC y PC en predecir síndrome metabólico13, considerando las características de la población de nuestro país, los altos índices de obesidad y la complejidad de las alteraciones metabólicas, las cuales se presentan en edades cada vez más tempranas, es importante contar con pruebas que permitan predecir riesgo metabólico en población pediátrica de menor edad, como lo son los niños de edad escolar14. El objetivo de este estudio es determinar la capacidad del índice cintura-estatura en la detección de riesgo metabólico en niños mexicanos de edad escolar.
+
+Pacientes y método
+
+Previa autorización del Comité Local de Investigación y Ética de la investigación en Salud del Hospital General Regional N.°. 1 del Instituto Mexicano del Seguro Social en Ciudad Obregón, Sonora, se realizó un estudio transversal analítico en niños de 6 a 12 años de edad que acudieron a la consulta de pediatría en el lapso comprendido entre febrero y agosto del 2014.
+
+El tamaño de la muestra se calculó para una sensibilidad de 80% (0,8), un intervalo de confianza de 0,1 a un nivel de confianza del 95%. El muestreo se realizó por casos consecutivos y se excluyeron aquellos pacientes con sospecha de enfermedad genética y/o endocrina, o que tomaran fármacos esteroideos, diuréticos o anticonvulsivantes.
+
+Todos los padres de los participantes otorgaron su consentimiento por escrito, los propios participantes otorgaron su consentimiento, posteriormente los padres llenaron un cuestionario de variables sociodemográficas (edad, sexo, lugar de residencia). Las mediciones de las variables antropométricas como peso, talla y perímetro de cintura se realizaron según el Manual de Antropometría del Departamento de Nutrición del Instituto de Ciencias Médicas y Nutrición Salvador Zubirán15. Las mediciones fueron realizadas por dos de los investigadores, peso y talla se midieron por duplicado, perímetro de cintura por triplicado, previamente se estandarizó la técnica según lo emitido en el manual de antropometría arriba referido, con una concordancia intraobservador de 0,94 e interobservador de 0,78. El cálculo del IMC se realizó con la fórmula de Quetelet16, y el ICE dividiendo el perímetro de la cintura entre la estatura, ambas mediciones en metros. Las muestras sanguíneas fueron extraídas después de un ayuno de 12 h. Glucosa de ayuno, colesterol total y triglicéridos se midieron a través del sistema de análisis automatizado del equipo Unicel DXC 600, Beckman Coulter17. Se consideró «prueba anormal» cuando los niveles de glucosa fueron mayores a 100 mg/dl y el colesterol total ≥ a 200 mg/dl y triglicéridos por arriba de 100 mg/dl en menores de 10 años, y ≥ 130 mg/dl en mayores de 10 años18,19.
+
+El estado nutricional se calculó según las tablas específicas para edad y sexo del CDC de los Estados Unidos de Norteamérica20, y se clasificaron con exceso de adiposidad (obesidad) los niños con IMC situados arriba del percentil 85 (percentil adaptado a la población mexicana por considerarse de alto riesgo)21 y, con obesidad visceral aquellos con ICE mayor de 0,5.
+
+Los resultados se registraron en una base de datos en el programa Excel y fueron procesados en Software SPSS versión 18.0. Mediante una tabla tetracórica y de acuerdo al teorema de Bayes se determinó la sensibilidad, especificidad, valores predictivos y coeficientes de verosimilitud para medir eficiencia del IMC y del ICE para el diagnóstico de alteraciones metabólicas; se elaboraron curvas de rendimiento diagnóstico (ROC) para medir áreas bajo la curva y establecer el mejor punto de corte de ICE que discrimine el riesgo para cada una de las alteraciones metabólicas estudiadas.
+
+Resultados
+
+Se incluyeron 223 niños entre 6 y 12 años de edad, la distribución por género, edad, estado nutricional y frecuencia de alteraciones metabólicas de acuerdo a la presencia o ausencia de obesidad visceral se muestra en la tabla 1. Se encontró hipertrigliceridemia en 51 niños (22,9%), hipercolesterolemia en 27(12,1%) y en 9 niños hiperglucemia (4%).
+
+
+
+Tabla 1 Características y frecuencia de alteraciones metabólicas en niños de 6-12 años con y sin obesidad visceral que acudieron a consulta en una clínica de segundo nivel de atención del IMSS en Sonora, México. n = 223
+
+
+
+p = Chi cuadrada de Pearson.  * - :significación estadística.
+
+El ICE ≥ 0,5 se observó en el 39% de la población estudiada, con predominio en los niños de 8 a 9 y 10 a 12 años de edad y de género masculino (58,6%). De acuerdo al IMC (> centil 85) el 52% de los niños tenían obesidad. El 12% de los sujetos clasificados sin obesidad por IMC, tenían un ICE mayor de 0,5 y el 36% de los clasificados con obesidad tenían un ICE menor de 0,5. El 100% de los niños con hiperglucemia, el 76% con hipertrigliceridemia y el 93% con hipercolesterolemia presentaron ICE mayor de 0,5.
+
+El ICE ≥ 0,5 mostró una sensibilidad del 100% para la detección de hiperglucemia, del 93% para hipercolesterolemia y del 77% para hipertrigliceridemia, el IMC de 56,70 y 59% respectivamente. El área bajo la curva para las distintas alteraciones metabólicas en la curva COR fue de 0,84; 0,80; 0,84 frente 0,65; 0,68; 0,67 del IMC respectivamente. El resto de los resultados de las pruebas que evalúan la eficiencia diagnóstica del ICE y del IMC para la detección de alteraciones metabólicas se detallan en las tablas 2 y 3.
+
+
+
+Tabla 2 Índice cintura/estatura (ICE) como prueba diagnóstica para detectar alteraciones metabólicas en niños de 6-12 años de edad en ciudad Obregón, Sonora. n =223
+
+
+
+ABC: área bajo la curva; Esp: especificidad; CP+: cociente de verosimilitud positivo; CP-: cociente de verosimilitud negativo; IC: intervalo de confianza; p: Chi cuadrada de Pearson; Sens: sensibilidad; VPN: valor predictivo negativo; VPP: valor predictivo positivo.
+
+
+
+Tabla 3 Índice de masa corporal (IMC) como prueba diagnóstica para detectar alteraciones metabólicas en niños de 6-12 años de edad en ciudad Obregón, Sonora. n =223
+
+
+
+ABC: área bajo la curva; Esp: especificidad; CP+: cociente de verosimilitud positivo; CP-: cociente de verosimilitud negativo; IC: intervalo de confianza; p: chi cuadrada de Pearson; Sens: sensibilidad; VPN: valor predictivo negativo; VPP: valor predictivo positivo.
+
+El mejor punto de corte de ICE para hiperglucemia fue de 0,5, para hipercolesterolemia de 0,5 y para hipertrigliceridemia de 0,475.
+
+Discusión
+
+Nuestros resultados demuestran que, en niños de edad escolar, un ICE igual o superior a 0,5 puede ser un indicador útil para identificar riesgo metabólico. Al comparar los resultados frente a los del IMC, el ICE es claramente más sensible para la detección de hiperglucemia, hipercolesterolemia e hipertrigliceridemia, la especificidad es muy similar para ambos índices y áreas bajo la curva (ROC) se reportaron mayores para ICE, lo que significa que este último índice tiene una mayor eficiencia diagnóstica para la identificación de alteraciones metabólicas. El análisis de los coeficientes de verosimilitud positivo y negativo permite evaluar la potencia de ambas pruebas diagnósticas de acuerdo a su sensibilidad y especificidad sin depender de la proporción de participantes con alteraciones metabólicas, tanto coeficientes de verosimilitud positivo como negativo muestran superioridad diagnóstica del ICE frente al IMC.
+
+Existe información relevante de la implicación que tiene la grasa visceral en el desarrollo de complicaciones metabólicas y cómo este tipo de grasa es subestimada por el IMC, por lo que consideramos que este índice no es el más adecuado para discriminar riesgo metabólico, pues como se muestra en los resultados de este estudio, aproximadamente un 12 por ciento de los participantes en quienes el IMC catalogó como no obesos, tenían un ICE ≥ de 0,5, y por lo tanto, riesgo metabólico.
+
+En los últimos años se han publicados investigaciones en diferentes países los cuales muestran resultados diversos. Bianchi et al. en el 2015 reportaron en niños y adolescentes de Brasil mejor eficiencia diagnóstica del ICE frente al IMC, perímetro de cintura (PC) y pliegue tricipital para predecir dislipidemia9. Rodea-Montero et al. en 2014, reportaron al ICE con mayor eficiencia diagnóstica frente a IMC y PC para predecir síndrome metabólico en adolescentes mexicanos con obesidad, proponiendo de acuerdo a sus resultados ICE de 0,6 como el mejor punto de corte para predecir síndrome metabólico en este grupo de población13.
+
+En estudio publicado en 2013 por Mansur et al.22, realizado en niños brasileños de 6 a 10 años, se encontró buena eficacia diagnóstica para ICE e IMC, con áreas bajo la curva con valores similares de ambos índices para resistencia a insulina, hipertrigliceridemia e hipercolesterolemia. Se reporta en este estudio para un punto de corte de ICE de 0,47 sensibilidad de 66%, especificidad del 45% y área bajo la curva de 0,58 para el diagnóstico de hipertrigliceridemia, comparándolo con los resultados de nuestra serie: para un punto de corte de 0,5; sensibilidad del 77%, especificidad del 72% y área bajo la curva de 0,74 para la identificación de hipertrigliceridemia. Arnaiz et al. en población Chilena en 2010, encontró que ICE e IMC predicen de igual manera riesgo metabólico en niños y adolescentes para un punto de corte de 0,55 sensibilidad de 72% y especificidad de 70% frente a sensibilidad de 71% y especificidad del 74% para IMC. Khan et al. en el 2014, reporta en alumnos de sexto grado de una población multiétnica de los Estados Unidos utilidad similar de ICE e IMC para identificar alteraciones metabólicas10.
+
+Los artículos publicados recientemente apoyan el uso de un punto de corte único de 0,5 para niños y adolescentes de diferentes países23,24, así como se ha publicado que este índice no varía con el general, la edad, ni con la maduración puberal25. Nuestros resultados indican que a diferencia de otras poblaciones, en los participantes de este estudio el punto de corte único 0,5 es eficaz para identificar riesgo metabólico, con resultados incluso superiores a los reportados en otras series de niños, además los mejores puntos de corte para las alteraciones metabólicas (hiperglucemia 0,5; hipercolesterolemia 0,5; hipertrigliceridemia 0,475) son menores, esto quizá por las características genéticas propias de nuestra población que tienden a modificar la distribución de la grasa corporal y a aumentar la susceptibilidad para desarrollar alteraciones metabólicas26.
+
+Es importante realizar detección de alteraciones metabólicas desde edades tempranas de la vida, ya que la génesis de este grupo de enfermedades ocurre en la infancia. Es necesaria la identificación temprana del riesgo metabólico en niños con el fin de realizar intervenciones que eviten su progresión.
+
+En la población infantil debemos vigilar el índice de masa corporal para clasificar estado nutricional, pero también debemos medir el índice cintura-estatura para detectar obesidad visceral, recomendamos la utilización en conjunto de ambos índices para identificación eficiente y oportuna de riesgo metabólico.
+
+Es importante destacar algunas limitaciones de nuestro estudio, la primera: la falta de identificación del punto de corte de ICE para resistencia a insulina mediante HOMA, sabemos la relevancia de esta medición para detectar fases mucho más tempranas de alteraciones en el metabolismo de la glucosa, pero no fue posible realizarla por los costos elevados de la prueba. No se pudo realizar la medición de perfil lipídico completo que incluyera fracciones del colesterol, específicamente la fracción LDL que sabemos tiene una asociación mayor con enfermedades cardiovasculares.
+
+Sería importante incluir en futuros estudios un perfil metabólico más completo, así como valorar la utilidad de este índice en niños de menor edad, con la finalidad de detectar riesgo metabólico de forma más temprana.
+
+Conclusiones
+
+Este estudio concluye que un ICE ≥ de 0,5 es un indicador más práctico y eficiente que el IMC para identificar riesgo metabólico. Por lo que se puede recomendar su uso en la evaluación y seguimiento de niños con sobrepeso y obesidad en unidades médicas de primer y segundo nivel de atención. Nuestros resultados apoyan el mensaje de salud «cuida que tu cintura mida menos de la mitad de tu estatura».
+
+Financiación: Insumos del Hospital General Regional Número uno del IMSS en Ciudad Obregón, Sonora, México. Sin financiamiento externo.

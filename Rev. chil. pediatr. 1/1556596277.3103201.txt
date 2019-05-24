@@ -1,0 +1,132 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062014000600004
+Incidencia y prevalencia de las lesiones por quemaduras en menores de 20 años
+
+RESUMEN
+
+Objetivo: Estimar incidencia de lesiones por quemaduras en año 2011 y prevalencia en población < 20 años, en tres comunas de la Región Metropolitana de Chile. Pacientes y Método: Estudio de prevalencia con empadronamiento de 4.968 hogares de comunas mencionadas. Se aplicó muestra probabilística, representativa, bietápica y de conglomerados, con error muestral < 5%. Se usó módulo de muestras complejas para procesar datos con SPSS 17.0. El empadronamiento se realizó en terreno, preguntando en cada vivienda seleccionada a personas de 18 años y más, sobre composición del hogar por género y edad para identificar < 20 años con quemaduras, ocurridas alguna vez en su vida o en el año 2011. Resultados: Se obtuvo una incidencia de quemaduras de 2,02% [IC95%:1,63-2,61%] y prevalencia de 13,50% [IC95%:11,88-15,31%]. La mayor incidencia fue en mujeres (2,31%) [IC95%:1,77-2,99%]. En varones < 5 años, la incidencia fue de 2,76% [IC95%:1,42-5,28%] y en mujeres de 2,46% [IC95%:1,37-4,36%]. La comuna de Lo Prado tuvo mayor incidencia (2,73%) [IC95%:1,82-4,07%]; Pudahuel registró prevalencia mayor (14,01%) [IC95%:11,87-16,46%]. Conclusión: En 20 años, la incidencia de quemaduras en < 15 años, descendió un 46,4%; en promedio, 1 de cada 7 niños/jóvenes se ha quemado entre el nacimiento y el momento de cumplir 20 años en comunas estudiadas.
+
+(palabras clave: Incidencia, prevalencia, quemaduras, niños, jóvenes).
+
+ 
+
+Introducción
+
+Las quemaduras son consideradas como lesiones en los tejidos vivos, resultantes de la exposición a agentes físicos, químicos o biológicos que puede originar alteraciones locales o sistémicas, reversibles o no, y dependiendo de diversos factores, constituyen un problema de salud pública a nivel mundial, con mayor impacto en países en vías de desarrollo1.
+
+La tasa de mortalidad por quemaduras en menores de 20 años en el mundo es de 3,9 x 105, variando entre 0,4 x 105 en países desarrollados a 4,3 x 105 en países en vía de desarrollo en año 2008. En las Américas, la tasa fluctúa entre 0,6 x 105 en los países de ingresos bajos o medianos y de 0,7 x 105 en países desarro-llados2. En todo el mundo, las defunciones por lesiones no intencionales, dentro de las cuales se incluyen las quemaduras por fuego (según nomenclatura CIE-10), ocupan el tercer lugar con 9,1%, después de ahogamiento (16,8%) y traumatismos causados por el tránsito (22,3%) en los menores de 18 años2.
+
+En Chile, la tasa de mortalidad por quemaduras en menores de 20 años, ha descendido desde 1,5 x 105 en 1997 a 0,4 x 105 en 2007, lo que representa una reducción de 73,3% en diez años3-5. Los egresos hospitalarios por quemaduras y corrosivos (CIE-10: T20, T32) de los menores de 15 años, fueron de 4.396 en año 1996 y 3.152 en año 2010, constituyendo tasas de 10,3 x 104 y 7,8 x 104, respectivamente6.
+
+Sin embargo, se ignora la magnitud de aquellos que son tratados en el hogar o no consultan oportunamente en un centro de salud, arriesgando secuelas estéticas o funcionales derivadas de la cicatrización. El impacto de la secuela puede ser a nivel psicológico, social o económico, esto último debido a los costos de rehabilitación posterior a la quemadura, que habitualmente se prolongan en el tiempo y suelen ser elevados.
+
+La fuente de información que complementa los registros de salud sistemáticos, son las encuestas poblacionales. En este sentido, la información es escasa, desactualizada o dirigida a población de adultos. En el año 1993 en un estudio de morbilidad poblacional realizado en la Región Metropolitana por la Escuela de Salud Pública de la Universidad de Chile y COANIQUEM, que incluyó una muestra de 1.000 hogares y aproximadamente 5.000 personas de todos los estratos socioeconómicos, se encontró que el 3,9% de la población menor de 15 años había sufrido una quemadura en el lapso de un año y, que un tercio de ellos demandaba consulta. Aproximadamente 162.000 niños chilenos estaban expuestos al riesgo de sufrir una quemadura en un año7. En la Encuesta Nacional de Calidad de Vida y Salud (ENCAVI) efectuada por el MINSAL8 en año 2006, a los menores de 15 años, sólo se preguntaba por problemas a la piel por más de 6 meses, alcanzando al 7% (IC 95%: 6,2-7,9%) (299.957 niños).
+
+En la actualidad, se hace necesario estimar la magnitud real del problema en la población menor de 20 años con medidas indicadoras de riesgo, que se usan para hacer pronósticos, analizar la tendencia de ellas en el tiempo y para que sirvan de marco de referencia para otros estudios. Además, sabemos que en la Región Metropolitana existen comunas de mayor o menor vulnerabilidad social, por lo tanto, la exploración de algunas de ellas en el Área Occidente9, nos permitirá contribuir a darle un nuevo enfoque a los planes y programas que desarrollen las autoridades de salud a nivel comunal. En consecuencia, se planteó cuantificar la incidencia acumulada de lesiones por quemaduras en el año 2011 y la prevalencia de período en la población menor de 20 años, residentes en las comunas de Cerro Navia, Lo Prado y Pudahuel del Área Occidente de la Región Metropolitana.
+
+Pacientes y Método
+
+a) Tipo de estudio y de muestreo
+
+Estudio de prevalencia a partir del Censo de Población y Vivienda levantado por el Instituto Nacional de Estadísticas (INE) en abril de 2002, actualizando la cartografía al año 2011. Como no se puede seleccionar directamente a las personas, la alternativa fue la selección de hogares, por lo tanto, se diseñó una muestra de hogares de tipo complejo, con las siguientes características: a) Probabilístico para seleccionar los hogares que forman parte de la muestra; la probabilidad de selección fue conocida y diferente de cero para cada elemento de la población, lo cual permitió realizar inferencia estadística a la población objetivo de niños y jóvenes menores de 20 años, manteniendo acotado el error muestral en 5%; b) Estratificado, previo a la selección, las unidades primarias de muestreo (manzanas) fueron clasificadas en estratos; con probabilidad de selección proporcional al tamaño, dado que la probabilidad de selección de las manzanas censales está función del número de hogares que éstas contienen; y c) Bietápico, porque los elementos pertenecientes a la muestra se seleccionan en dos etapas: 1) Selección de manzanas censales; 2) Selección de segmentos compactos de viviendas (a partir de las manzanas censales seleccionadas en la etapa anterior). Como resultado, se deberían empadronar 3.105 hogares, no obstante, se sobredimensionó en 60%, para compensar la pérdida de precisión producto del diseño utilizado. El número definitivo de hogares fue de 4.968. Se aplicó factor de expansión, para ponderar cada observación de acuerdo a las probabilidades que tuvo cada unidad al momento de ser seleccionada. Una vez calculados los factores de expansión de acuerdo al diseño muestral, se ajustó la población considerando las proyecciones de población al año 2011 por comuna, sexo y tramo de edad (0-4,5-9,10-14,15-19 y 20 y más años)11.
+
+b) Recolección de la información
+
+El empadronamiento consistió en la obtención en el terreno mismo, de un listado actualizado de direcciones correspondientes a viviendas y hogares particulares dentro de un área determinada. El ordenamiento de estas direcciones dentro de la hoja de registro fue igual al observado en terreno, siguiendo algunas reglas básicas para realizar el recorrido del área a empadronar.
+
+Una vez levantado el empadronamiento visual, se concurrió físicamente al hogar y se aplicó una hoja filtro para recopilar datos sobre la composición de cada hogar según edad, sexo y relación de parentesco. Al respondiente (de 18 años o más, de preferencia el jefe de hogar) se le preguntó si el menor de 20 años sufrió una quemadura durante su vida y/o en el último año y si podía identificar una persona del hogar que hubiese estado presente cuando el menor se quemó y su disponibilidad para contestar sobre las circunstancias en que se produjo la quemadura en una próxima visita. Se le mostró o leyó una cartilla que contenía la definición de quemadura: "Se entiende por quemadura, cuando un niño/joven se quemó con cualquier líquido, objeto, químico, electricidad, sol o fuego y este contacto le originó una lesión, independiente que haya consultado en un centro de salud, haya sido hospitalizado o no le haya quedado una marca o cicatriz", con el propósito de captar a todos los menores quemados. Se realizó un segundo y tercer esfuerzo de contacto con las viviendas que se encontraron sin moradores en la primera visita y/o rechazaron su participación al realizar el primer empadronamiento (tasa de rechazo = 12%).
+
+c) Resguardos éticos
+
+El protocolo del proyecto fue presentado ante el Comité de Ética Científico de COANIQUEM en agosto de 2011. No se identificaron conflictos éticos en el estudio.
+
+d) Definiciones 
+
+Se definió incidencia acumulada como:
+
+N° niños y jóvenes de ambos sexos < 20 años     	quemados por primera vez en año 2011       	Ia	= _______________________________________________ * 100     Población de ambos sexos < 20 años presentes al     momento del empadronamiento
+
+Se definió prevalencia de período como:
+
+N° niños y jóvenes de ambos sexos quemados     período del nacimiento hasta cumplir 20 años     Pp = ______________________________________________ * 100     Población de ambos sexos < 20 años presentes al     momento del empadronamiento
+
+e) Procesamiento de los datos
+
+Los datos del empadronamiento fueron vaciados en una planilla Excel con las variables codificadas y procesadas mediante el software SPSS versión 17.0. Se aplicaron los procesos implementados en el software para tratar los datos omitidos, los que no superaron el 0,1%. Para efectos de interpretación de los resultados, todos los parámetros estimados (incidencias y prevalencias) correspondieron a valores expandidos, procesados con módulo para muestras complejas.
+
+Resultados
+
+Se obtuvo una incidencia acumulada de 2,02% [IC 95%: 1,63-2,61%], siendo relativamente mayor en mujeres que en hombres (tabla 1).
+
+ 
+
+Tabla 1. Incidencia acumulada por quemaduras de los menores de 20 años según          género. Comunas de Cerro Navia, Lo Prado y Pudahuel. Año 2011
+
+
+
+ 
+
+Según edad y género, en varones menores de 5 años la incidencia de quemaduras fue de 2,76% [IC 95%: 1,42-5,28%] y en mujeres 2,46% [IC 95%: 1,37-4,36%]. Entre los 15 y 19 años de edad, la incidencia en varones tendió a descender, siendo de 0,87% [IC 95%: 0,41-1,81%], mientras que en mujeres, el indicador tendió al alza, 2,82% [IC 95%: 1,814,36%] (tabla 2).
+
+ 
+
+Tabla 2. Incidencia acumulada por quemaduras según grupos de edad y género,          Comunas de Cerro Navia, Lo Prado y Pudahuel. Año 2011
+
+
+
+ 
+
+Por comunas, la incidencia más alta correspondió a la comuna de Lo Prado 2,73% [IC 95%: 1,82-4,07%] y la menor a la comuna de Pudahuel. Además, se obtuvo incidencia por comunas aplicando como denominador, la población proyectada por INE para 2011. Las estimaciones fueron similares. La diferencia de la población total fue de 1,5% (tabla 3).
+
+ 
+
+Tabla 3. Incidencia de quemaduras por comunas estudiadas. Año 2011
+
+
+
+ 
+
+La prevalencia de período de quemaduras, es decir, desde el nacimiento hasta el momento de cumplir 20 años, fue de 13,5% [IC 95%: 11,88-15,31%]. Según género, la prevalencia fue similar (tabla 4).
+
+ 
+
+Tabla 4. Prevalencia por quemaduras según género. Comunas de Cerro Navia,          Lo Prado y Pudahuel. Año 2011
+
+
+
+ 
+
+Según grupos de edad, la prevalencia de período aumentó sistemáticamente para mujeres, desde 6,79% [IC 95%: 4,58-9,99%] en las menores de 5 años, hasta 20,19% [IC 95%: 16,21-24,87%] para el grupo de 15 a 19 años de edad. En varones, registró 8,73% [IC 95%: 6,47-11,69%] para los menores de 5 años, alcanzando su valor mayor en el grupo de 10 a 14 años (tabla 5).
+
+ 
+
+Tabla 5. Prevalencia por quemaduras según grupos de edad y género. Comunas de          Cerro Navia, Lo Prado y Pudahuel. Año 2011
+
+
+
+ 
+
+Por comunas, la mayor prevalencia de período se registró en la comuna de Pudahuel y la menor en Lo Prado (tabla 6).
+
+ 
+
+Tabla 6. Prevalencia por quemaduras según comunas estudiadas. Año 2011
+
+
+
+ 
+
+Discusión
+
+En la literatura, se encuentra sólo un estudio similar para la ciudad de Santiago en el año 19937. Considerando las restricciones muestrales y estadísticas correspondientes, nos parece razonable comparar los resultados de ambos estudios. En 1993, la incidencia registrada para los menores de 15 años fue de 3,9%. Para este mismo grupo de edad, la incidencia estimada para el año 2011 es de 2,09% (2.326/111,143) lo que significa una reducción global del riesgo de 46,4% en un período de 20 años. En el primer estudio, las incidencias por grupos de edades fue de 6,7% en menores de 5 años, 3,3% en el grupo 5 a 9 años y de 1,5% para los adolescentes de 10-14 años. Con las cifras aportadas por esta investigación, de 2,62% para los menores de 5 años, 1,60% para el grupo de 5-9 años y de 2,04% para el grupo de 10 a 14 años, significa una reducción del riesgo de 60,8% para los menores de 5 años y de 51,5% para el grupo de 5-9 años, mientras que, el grupo de 10 a 14 años aumentó el riesgo en 36%. Se sugiere profundizar en estrategias de prevención ante el aumento de la incidencia, principalmente en mujeres adolescentes.
+
+Se confirma además, que la mayor frecuencia de quemaduras, ocurre en el grupo menor de 5 años, situación similar a la registrada en estudios hospitalarios de otros países12,13.
+
+La razón de incidencia entre géneros, es de 1,28:1 a favor de mujeres. En la bibliografía, con referencia en pacientes quemados hospitalizados, la razón fluctúa entre 1,95:1 a favor de pacientes varones menores de 15 años bajo cuidado intensivo en República Checa (2012)14 y 1,53:1 en un hospital de quemados en el Norte de China (2012)15. Esta discrepancia en la medida de comparación, podría atribuirse a que las quemaduras en varones son de mayor gravedad y ocurren a edades más precoces, por lo tanto, requieren de hospitalización. En la prevalencia, la razón entre géneros de quemados es prácticamente igual (1,03:1), levemente a favor de hombres. En los menores de 5 años, hay una diferencia mayor a favor de hombres (1,17:1), sin embargo, en el grupo de 15 a 19 años de edad, la situación se revierte, con claro predominio de las mujeres (3,17:1), lo que pudiera atribuirse a la adquisición temprana del rol de mujer, con responsabilidades en el hogar, como la presencia y manipulación de artefactos en la cocina, siendo esta situación similar a lo observado en COANIQUEM que atiende a pacientes ambulatorios de las comunas en estudio16.
+
+Por comunas, la mayor incidencia en año 2011, se registra en la comuna de Lo Prado, sin embargo, la prevalencia más alta se observa en la comuna de Pudahuel, lo que estaría en concordancia con la tasa de pobreza de ambas comunas, dado que, Lo Prado descendió 0,6% entre los años 2009 y 2011 (de 13,1% a 12,5%), mientras que, Pudahuel tuvo una fuerte reducción del índice de pobreza desde 16,1% a 10,9% entre los años estudiados17.
+
+Por otra parte, Saavedra et al (2001)18, en estudio efectuado para la comuna de Pudahuel, encuentra una incidencia de quemaduras de 933/100.000 en menores de 15 años. En el año 2011, COANIQUEM registra 404 ingresos agudos en la comuna de Pudahuel del mismo grupo de edad, siendo una incidencia de 663/100.000 (404/60.950) en menores de 15 años. Estas cifras, reflejan un descenso de 28,9% en 10 años. Además, si comparamos el número absoluto de incidencia de quemados detectados en COANIQUEM y por el estudio (404/1505), significaría que de la población menor de 15 años de esta comuna, este centro atiende el 26,8%, cifra relativamente similar a la encontrada en la encuesta del proyecto10.
+
+En síntesis, respecto de la incidencia, se produce una reducción global del riesgo de 46,4% en menores de 15 años y de 60,8% para el grupo de menores de 5 años en un período de 20 años.
+
+Por primera vez se registra la prevalencia de período de lesiones por quemaduras; dada su magnitud, indica que en los hogares de las comunas encuestadas, en promedio, 1 de cada 7 niños/jóvenes se ha quemado entre el nacimiento y el momento de cumplir 20 años, con franco predominio de varones hasta los 15 años. Sin embargo, entre 15 y 19 años, 1 de cada 5 niñas se ha quemado, lo que sugiere una mayor presencia de la mujer en labores domésticas dentro del hogar. Las cifras obtenidas, podrían extrapolarse a comunas de Región Metropolitana con similar nivel de vulnerabilidad social.

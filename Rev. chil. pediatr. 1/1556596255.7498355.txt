@@ -1,0 +1,34 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062007000400013
+¿Conviene cambiarse a Windows Vista?
+
+Rev          Chil Pediatr 2007; 78 (4): 424-425
+
+ INFORMÁTICA     MEDICINE AND THE WEB
+
+¿Conviene cambiarse a Windows Vista?
+
+  EDUARDO COSOI P.1
+
+  1.          Profesor Asistente. Universidad de Chile. Unidad Lactante y Nutrición,          Hospital Luis Calvo Mackenna.
+
+          Correspondencia a : 
+
+Todo parece bien. Es posible          ver en la televisión agolparse a cientos de clientes en búsqueda de lo          último en software. Apareció Windows Vista. La última creación de Microsoft          que promete ofrecer una nueva y eficaz interfaz para el usuario y un gran          nivel de seguridad. Para alguien, como yo, que le intrigan las novedades          tecnológicas, la tentación fue irresistible. Instalé Windows Vista Ultimate          en mi PC con 1 GB de memoria RAM, tarjeta de video de 128 MB y un procesador          Pentium IV de 2 GHZ. Estos son requerimientos prácticamente mínimos para          su instalación. No es recomendable ni siquiera intentar instalarlo con          512 MB de RAM. La instalación es relativamente sencilla y dura alrededor          de 40 minutos. Luego de su instalación el software requiere ser activado          directamente a través de Internet. De no realizar este proceso se inactiva          en un mes. La activación da derecho a actualizaciones permanentes. Hasta          aquí todo bien. Vista tiene un sistema que evalúa el hardware y le pone          una nota, que demuestra la eficiencia del software en relación a los componentes          del PC. Me saqué un 2,2. No indica la nota máxima, pero sospecho que no          es muy buena. Aparentemente para mejorar se requiere de una mejor tarjeta          de video (de 256 MB). En la práctica, no veo que el PC se haya enlentecido.
+
+Ahora comienzan los problemas.          Al entrar a Internet a través del Explorer, noto que la velocidad con          que bajan las páginas Web es muy lenta. Compruebo la velocidad de conexión          (http://www.speedtest.net/) y determina que mi conexión de 2          MB ahora es de 24 KBS (como si fuera a través de un modem telefónico).          La primera sospecha es que el sistema se encuentra infectado con un virus,          que usualmente produce un enlentecimiento severo de la conexión. Intento          instalar la versión de Norton Antivirus 2006, pero me indica que Windows          Vista requiere de una versión más nueva del antivirus. Logro revisar el          disco duro con otro PC y descubro que no hay virus en el sistema. Realizo          una búsqueda a través de Google para determinar si hay alguien más con          el mismo problema. Por supuesto hay muchos. El problema es que el driver          de la tarjeta de red que conecta el PC al router viene malo en Windows          Vista y distintos usuarios sugieren intentar volver atrás al driver de          Windows XP. Luego de ubicar en el nuevo menú la ubicación de los drivers          de la tarjeta indico que se cargue el driver más antiguo. Finalmente la          solución da resultado y la Internet funciona rápida.
+
+
+
+Ahora quiero instalar mi impresora          HP 7150. Con sorpresa descubro que no existen drivers para dicha impresora.          Definitivamente no imprime de ninguna manera. En el sitio de HP indican          que en julio o agosto saldrá un driver para Vista. Espero hasta que al          fin aparece un driver. Lo instalo. Por supuesto, con limitada funcionalidad.
+
+¿Qué pasará con mi agenda          Palm? Cargo el software de Palm. Todo parece funcionar bien. Pero... No          es posible sincronizar la agenda, por ahora, cuando se utiliza Vista.          Pronto aparecerá un driver apropiado, según informa la página de Palm.
+
+¿Y el scanner? Por supuesto,          no existen, ni existirán drivers para Vista. Es demasiado antiguo. Del          año 2005.              Entre los programas que no funcionan con Windows Vista figuran aplicaciones          de gran popularidad como Nero, Paint Shop Pro y varios programas antivirus.          La revista sueca PC, para Todos, ha realizado una prueba de compatibilidad          de Windows Vista con 46 programas populares entre usuarios de PC. Entre          los 46 programas incluidos en la prueba, 20 no funcionan o experimentan          grandes problemas con Windows Vista. Entre ellos figuran versiones de          Nero, DivX5, AcDSee, Paint Shop Pro 9 y Winamp 5. Tampoco Nokia ni Sony          Ericsson escapan al problema de compatibilidad. Ambas compañías informan          que sus programas de sincronización por ahora no funcionan con Windows          Vista. También los usuarios de Firefox han experimentado problemas. Firefox          2.0.0.2 funciona prácticamente sin problemas, pero experimenta dificultades          con la función de actualización. El navegador también puede quedar congelado          al intentar abrir documentos PDF. Paralelamente, varios programas antivirus          también experimentan problemas. Kaspersky y AVG funcionan correctamente,          pero para Norton y McAfee es necesario descargar parches. F-Secure, Panda          Internet Security, CA Internet Security y Zone Alarm no funcionan. Estas          compañías han anunciado parches, aunque sin especificar fechas.
+
+No todo es          malo. La interfaz de usuario (el desktop y las distintas funcionalidades)          es verdaderamente novedosa y se transluce sobre los distintos objetos.          El uso es relativamente sencillo y es especialmente amigable al cargar          imágenes o videos. 
+
+
+
+En resumen,          es posible que Windows Vista evolucione en el futuro y se desarrollen          drivers para todos los equipos que se conectan habitualmente a un PC.          De ser así, será un efectivo avance para los usuarios. Mi recomendación          es por ahora esperar antes de instalarlo ya que es posible que su antigua          impresora, scanner u otro implemento no funcione y tenga que comprar uno          nuevo. Ya existen antecedentes de que Microsoft sacó sistemas operativos          que rápidamente fueron retirados del mercado (Windows 2.0 y Windows ME)          por el fracaso ante los consumidores. Por otra parte, Windows XP ha resultado          ser muy estables y ampliamente compatible. Si requiere de mayor información          visite mi página Web: www.dr-cosoi.com.
+
+Correspondencia          a: Eduardo Cosoi P., E-mail: ecosoi@med.uchile.cl 

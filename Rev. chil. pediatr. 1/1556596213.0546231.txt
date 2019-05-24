@@ -1,0 +1,22 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062003000400015
+Detección de "Programas Espía" ("Spyware")
+
+    Rev Chil Pediatr 74 (4); 432-433, 2003
+
+    Eduardo Cosoi P.1
+
+    Aunque se disponga del más avanzado y actualizado programa anti-virus   (Norton, McAfee, etc) no habrá nada que ellos puedan hacer frente a   los llamados “programas espías” o “Spywares”.   Estos verdaderos “Caballos de Troya”, se instalan inadvertidamente   en el computador al instalar muchos de los programas descargados desde la Internet.   Producen muchos cambios, entre ellos, por ejemplo, le agregan una barra al   Explorer con propaganda o sitios específicos u ofertas especiales y   envían información privada. En otras ocasiones, al momento de   realizar una determinada búsqueda, por ejemplo de una línea aérea,   son capaces de detectarla y responder con un aviso del tipo “popup” (una   ventana nueva) con una oferta específica de otra línea aérea   (que evidentemente ha sido elegida selectivamente por los creadores del programa   spyware). Algunos de ellos, se mantienen “escondidos” en las profundidades   del computador, trabajando en forma subrepticia y enviando información   permanentemente acerca de las páginas visitadas, compras realizadas,   líneas aéreas preferidas, dirección de correo electrónico,   etc. Desgraciadamente, una vez que se instalan dentro del computador, la mayoría   no posee un mecanismo para ser desinstalado, y por el contrario, si son localizados,   poseen sistemas en que logran introducirse en el “Registro maestro” del   computador, permitiendo que sin son borrados manualmente, se vuelvan a crear   cada vez que se reinicia.        La forma en que llegan a instalarse generalmente es a través de la instalación   de un programa gratuito descargado de la Internet (ejemplo: Kazaa, Divx, Codecs,   etc.). Habitualmente, el programa exige la aceptación de una licencia.   La mayoría no la lee, y en ella se expone que el usuario autoriza la   instalación de un programa adicional al original, “Spyware” (ejemplo   Gator, DSO Exploit). Una vez hecho esto, a pesar de poder desinstalar el programa   original, el “Spyware” quedará permanentemente en el computador.   En otras ocasiones, existen ciertas páginas Web que indican que se acepte   el entrar a ellas mediante un botón o con un aviso de “confianza   del proveedor de servicios”, que en realidad es una aceptación   para instalar el programa spyware. La figura 1 muestra una típica advertencia   de seguridad. Incluso los botones del Si y el No pueden estar invertidos. Conviene   cerrar el “diálogo” con la “x” del borde superior   derecho, para así evitar que se incorporen programas tipo “Spyware”.   Sólo deben aceptarse de empresas reconocidas (Microsoft, etc).     ¿   Por qué los programas “anti-virus no los detectan? Ello ocurre   debido a que el usuario al aceptar la licencia del programa “Spyware”,   legalmente, dichos programas no pueden detectarlos ni eliminarlos. Por otra   parte, no producen daño en los archivos ni en la función del   computador.       Para aquellos de nosotros que hemos instalado programas que tenían incorporados   los “Spywares”, resulta incomoda la aparición de los “popups”,   o que se envíe información a terceros. Afortunadamente existen   programas capaces de eliminarlos: Ad-Aware (http://www.lavasoftusa.com/software/adaware/),   SpyBot (http://www.safer-networ   king.org/), PestPatrol (www.pestpatrol.com/),   etc (figura 2).       Una vez instalado, se debe actualizar, ya que permanentemente se están   incorporando más de estos programas maliciosos. Luego, se realiza un   escaneo completo del computador y se detecta la localización del programa   y su incorporación en el “Registro”. Se debe confirmar finalmente   la eliminación de dichos programas. En ocasiones, debido a que parte   de las funciones del “Spyware” se encuentran incorporados al Explorer,   se requiere reiniciar el computador y permitir que el programa lo vuelva a   revisar. Puede ocurrir que algunos de los programas que introdujeron el “Spyware” dentro   del computador, dejen de funcionar al eliminar el Spyware.
+
+
+
+Figura 1. Advertencia de seguridad.
+
+
+
+Figura 2. Programa anti “Spyware” llamado     “Spybot”.
+
+ 
+
+  
+
+1. Unidad de Lactantes y Nutrición. Hospital Luis Calvo Mackenna.

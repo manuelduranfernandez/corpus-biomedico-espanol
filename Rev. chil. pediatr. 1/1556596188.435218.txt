@@ -1,0 +1,64 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41061999000300017
+Correo electrónico
+
+EDUARDO COSOI P.1
+
+
+
+
+
+El correo electrónico constituye una de las innovaciones más    importantes que ha traído a los usuarios la Internet. Permite enviar al instante    cualquier tipo de información a cualquier lugar del mundo. 
+
+Para ello se requiere de un programa de Correo, tal como    el Outlook Express que viene incluido en las diferentes versiones del Internet    Explorer (http://www.microsoft.com/downloads/search.asp?) o el Eudora (http://www.eudora.com),    que también se puede bajar gratuitamente de la Red. Lo primero que se debe hacer    al utilizar estos programas es establecer una cuenta de correo electrónico con    un proveedor de Servicios de Internet (Cmet, Entel, CTC, Netup, etc.).
+
+Para realizarlo en forma práctica, revisaremos el Outlook Express    (versión 5 en español), que en términos generales es parecido a los otros programas.
+
+
+
+INSTALACIÓN DE UNA CUENTA DE CORREO ELECTRÓNICO
+
+ 
+
+En primer lugar se debe establecer en "Herramientas"    la alternativa "Cuentas", "Correo", "Agregar",    "Correo" y aparece un recuadro en que se debe completar el nombre    del usuario que corresponda; luego se debe avanzar y aparecerá la dirección    del correo electrónico que fue asignado por el Servidor (ej: ecosoi@cmet.net    ecosoi@cmet.net); un nuevo recuadro en que se debe colocar el "Servidor    de Correo Entrante" (ej. cmet.net, que se debe obtener del proveedor de    Internet, pero que en general corresponde al dominio del correo electrónico:    cmet.net). El mismo dominio se coloca en el "Servidor de Correo Saliente".
+
+Se avanza nuevamente y se debe indicar el nombre del usuario    (ej: ecosoi) y una palabra o número clave que impide el ingreso a otra persona    (se debe elegir e informar al Proveedor de Internet). Finalmente se debe indicar    la alternativa de conexión, que en general es la de utilizar una línea telefónica.
+
+ 
+
+MENSAJES
+
+
+
+Para enviar un mensaje a otra persona o institución se debe    conocer su dirección electrónica: aparecerá un nombre (ej., ecosoi) seguido    de "@" y el dominio del servidor (cmet.net). Se debe elegir la opción    "Enviar Mensaje", escribir la dirección del destinatario en la parte    superior ("Para"), más abajo está el casillero "CC" (con    copia a ... ), y luego "Asunto" en que se debe indicar el objeto del    mensaje (es muy importante que se incluya este punto, ya que al recibirlo es    lo que primero se lee). 
+
+En un recuadro inferior viene un área destinada al mensaje    propiamente tal. Conviene preparar y escribirlo estando desconectado de la Internet,    ya que se puede guardar (tal como cualquier otro archivo de Windows) y mandar    posteriormente. También existe la posibilidad de mandar a través del correo    archivos en sus formatos originales (Word, Excel, Dibujos, Fotografías, Sonido,    Películas, etc.), usando la función "Attachment" o "Adjuntar".  
+
+Para ello se activa dicha función apretando el botón con aspecto    de clip en la parte superior del programa. Al hacerlo, se abre el contenido    completo del computador. Se debe buscar en el disco duro (C o D) el archivo    que previamente se encontraba guardado, haciendo doble click sobre él (ej. Word.doc;    excel.xls; dibujo.jpg; sonido.wav, película.mov), luego quedará incorporado    al mensaje, pudiéndose agregar un mensaje adicional, en el que se le puede    indicar al destinatario el objeto del envío. Se puede incluir un número    indefinido de archivos con la función "Adjuntar" en cada mensaje,    sólo teniendo en consideración que el tiempo de envío y de recepción será    directamente proporcional al tamaño de cada uno de ellos. Algo muy importante,    es que el destinatario disponga en su computador de los programas necesarios    para poder leerlos. En caso necesario, existen pequeños programas "lectores"    que así lo permiten (ej Word y Excel http://officeupdate.microsoft.com/Articles/viewerscvt.htm).    El Internet Explorer o Netscape cuentan con la capacidad de poder leer imágenes    de dibujo o fotografía, de sonido y de películas, por lo que se podrán recibir    automáticamente.
+
+
+
+PROGRAMACIÓN
+
+
+
+Se puede ordenar en forma personalizada el correo recibido.    Para ello se debe ir a "Herramientas", "Reglas de Mensaje",    "Nuevo" y completar el recuadro con la opción "La línea De...    o Asunto o Cuerpo del Mensaje...," en que se eligen palabras claves    que destinan a una determinada carpeta el "email" recibido en forma    automática (ej: Eduardo, Pediatría, Sociedad, etc), indicando "mover a"    (determinada carpeta que se crea para que se guarden allí dichos mensajes o    "copiarlo a" (otra carpeta, quedando en dos lugares distintos el mismo    "email"), o "no descargar del servidor" (normalmente, en    forma automática al recibir el correo electrónico es eliminado desde el Servidor,    con esta opción ello no ocurre, permitiendo que otro usuario lo descargue posteriormente).    Luego se aceptan las opciones, y repitiendo el procedimiento anterior, se van    agregando individualmente más referentes que distingan a cada usuario. Esto    permite que varias personas puedan utilizar una misma dirección electrónica.
+
+
+
+LIBRO DE DIRECCIONES
+
+
+
+El libro de direcciones permite guardar información de personas,    instituciones, grupos de interés, para automatizar el envío de "email"    repetidos. Al recibir el "email" de alguien que nos interesa anotar    en esta libreta, se apreta el botón derecho del "mouse" sobre su nombre,    apareciendo la alternativa de "Guardar en Libro de Direcciones". Se    puede crear un "Nuevo Grupo" con el objeto de seleccionar a aquellos    miembros a los que se desee enviar un mismo "email" en forma automática.    Se elige un nombre que comprende a todos los elegidos, quedando como una dirección    individual. Al "Componer un Mensaje", y elegir desde la libreta de    direcciones (botones superiores), se elige el Grupo, y el mensaje será    recibido en forma automática por todos. 
+
+
+
+FORMATO
+
+
+
+Se puede mejorar el aspecto del "email" utilizando    la función de formato. En "formato" se elige "Estilo", con    lo que se puede numerar, poner títulos, etc.; en "Carácter" se puede    elegir el tipo y tamaño de las letras a utilizar; en "Fondo" se puede    elegir un "Dibujo" que ocupa la parte posterior del "email"    y que le puede dar un determinado carácter; y en "color" se elige    el color del fondo.
+
+En suma, la gran ventaja de contar con "email" es    poder establecer contacto con personas o instituciones en forma instantánea.    La Sociedad de Pediatría cuenta ya con su nueva página electrónica y pretende    establecer Grupos de Interés con diferentes especialidades que estén incluidas    dentro de las Ramas de la Sociedad, para que todos nuestros miembros, donde    quieran que se encuentren, puedan realizar preguntas o comentarios respecto    de sus pacientes o cualquier duda que puedan tener. Por ello, es de sumo interés    que se utilice apropiadamente el correo electrónico y de allí la necesidad de    realizar este artículo. Partiremos con los Nefrólogos, por lo que los invitamos    a visitarla en http://www.socchiped.cl.
+
+Envíenos sus comentarios a: ecosoi@cmet.net    o al fax 207 8020.

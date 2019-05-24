@@ -1,0 +1,104 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062016000600008
+Déficit de vitamina D en niños ingresados en cuidados intensivos pediátricos
+
+ 
+
+Introducción
+
+El rol más conocido de la vitamina D (VD) es la regulación de los niveles de calcio a través de acciones bien descritas en el sistema gastrointestinal, renal y óseo. Por otro lado, se han identificado receptores de la VD en múltiples órganos, y es a través de estos receptores que la VD cumple importantes funciones fisiológicas en el organismo. Así, evidencia creciente indica que el déficit de vitamina D (DVD) tendría efectos negativos en la composición corporal, el sistema cardiovascular, respiratorio y en la respuesta inmune1.
+
+Estudios observacionales en pacientes críticos adultos han documentado una prevalencia del DVD de alrededor del 50%2. El DVD se ha asociado a morbilidad frecuentemente encontrada en pacientes críticos, incluyendo el síndrome de respuesta inflamatoria sistémica, el desarrollo y evolución de la sepsis, falla multiorgánica y disfunción metabólica. En pacientes adultos hospitalizados, los niveles bajos de VD son un predictor sólido de disfunción de órganos, sepsis, infecciones del torrente sanguíneo y mortalidad3,4.
+
+En niños críticamente enfermos, niveles subóptimos de VD —de acuerdo con las guías clínicas internacionales— se han asociado con gravedad de la enfermedad al momento de ingreso, duración de la estancia en la unidad de cuidados intensivos pediátricos (UCIP) y requerimiento de inotropos5. En nuestro país, se ha descrito una elevada prevalencia del DVD en niños sanos que habitan en zonas australes, con tasas que van del 60% en Coyhaique al 96% en Punta Arenas6,7.
+
+A nuestro entender, no se ha reportado los niveles de la VD en niños ingresados en UCIP en Chile y Sudamérica. Por este motivo, los objetivos de nuestro estudio son determinar la prevalencia del DVD en niños ingresados en una UCIP de la zona centro-sur de Chile, así como su asociación con desenlaces clínicos relevantes.
+
+Pacientes y método
+
+Estudio prospectivo de cohorte, realizado en la UCIP del Hospital Guillermo Grant Benavente (HGGB) (Concepción, Chile; latitud 36°). Esta UCIP recibe todo tipo de niños con enfermedad médico-quirúrgica; se excluye a los postoperados de cirugía cardiaca. El estudio fue realizado entre abril del 2014 y julio del 2015. Esta investigación fue aprobada por el Comité Ético Científico del Servicio de Salud de Concepción.
+
+Pacientes. Como criterios de inclusión fueron considerados los siguientes: ingreso a la UCIP por un periodo mayor de 24 h, edad gestacional superior a 37 semanas y menor de 15 años. Los criterios de exclusión fueron niños con enfermedad renal o hepática crónica.
+
+Estimación del tamaño muestral. Estudios previos han reportado una prevalencia de DVD en niños críticamente enfermos del 69%. Por tanto, considerando un riesgo de error α y β del 5%, el tamaño muestral estimado fue de 84 sujetos. Considerando que la muestra de este estudio está integrada por 90 niños, la potencia estadística calculada es superior al 95%.
+
+Variables. De cada paciente fueron registradas las características demográficas, resultados de las escalas de gravedad clínica que incluyeron escala Pediatric risk index of mortality (PRISM), la escala Pediatric logistic organ disfunction (PELOD) y la escala Vasoactive inotropic score (VIS)8,9. También se registró el volumen de fluidos de reanimación, administrados en las primeras 24 h de estadía en la UCI (ml/kg), la necesidad de fármacos vasoactivos, el uso de ventilación mecánica (VM), los días de VM, días de estancia y mortalidad en la UCIP.
+
+El diagnóstico de shock séptico se hizo usando los criterios de la International Pediatric Sepsis Consensus Conference10.
+
+Colección de muestras sanguíneas y análisis. Al ingreso de los pacientes en la UCIP, se tomaron 2 ml de sangre para la medición simultánea de VD, calcio, hemograma, procalcitonina, proteína C reactiva y lactato. La medición de VD se realizó por inmunoanálisis Enzyme linked fluorescent assay (ELFA) (Vidas®, Biomerieux, Francia). Este análisis mide niveles totales de VD (25OHD2 + 25OHD3). Los niveles de 25OHD se estratificaron, según las guías clínicas de la Endocrine Society, en déficit: < 20 ng/ml, insuficiencia: 20-30 ng/ml y normalidad si los valores eran ≥ 30 ng/ml11.
+
+Análisis estadístico. Se realizó análisis exploratorio de los datos y evaluación de la normalidad mediante el test de Shapiro Wilk. Se realizó estadística descriptiva mediante el cálculo del promedio y del error estándar para variables cuantitativas y mediante porcentajes para variables categóricas. Se utilizó el test t de Student para muestras independientes, cuando las variables presentaron distribución normal, o el test de U Mann Whitney, cuando no existió distribución normal. Para la comparación de variables cualitativas fue utilizado el test chi cuadrado o el test exacto de Fisher.
+
+Finalmente, se realizó análisis de regresión logística mediante el cálculo del riesgo relativo (RR) y el número necesario a dañar (NND), los cuales fueron ajustados por las siguientes variables de confusión: edad, sexo, peso, estación del año, coeficientes de gravedad PRISM y PELOD. Como variables de interés fueron consideradas la necesidad de fármacos vasoactivos, VM, shock, necesidad de volumen de fluido superior a 40 ml/kg en 24 h y mortalidad. El RR y NND se expresan en valor absoluto y el 95% de intervalo de confianza (IC). Un valor de p menor a 0,05 fue considerado significativo. Se usó el paquete estadístico MedCalc Statistical versión 15.8 (MedCalc, Ostende, Bélgica).
+
+Resultados
+
+Durante el periodo del estudio se reclutaron 90 pacientes, 52 (58%) varones, con una media de edad de 47,3 (5,2) meses. El promedio de los niveles de VD, al ingreso en la UCI, de toda la cohorte fueron de 22,8 (1,0) ng/ml. El 81% de los pacientes presentaron valores de VD inferiores a 30 ng/ml. La prevalencia de DVD en la cohorte fue del 43,3% (n = 39), que presentaron un valor promedio de VD de 13,8 (0,5) ng/ml.
+
+No existieron diferencias estadísticamente significativas entre los niños con y sin DVD respecto al score PRISM, en las características demográficas, en la enfermedad de base ni en el diagnóstico médico o quirúrgico al ingreso en la UCIP. Del total de los niños con DVD, 22 (56%) fueron ingresados durante la primavera (p = 0,0429).
+
+Los niños con DVD presentaron un mayor compromiso multiorgánico expresado en el score PELOD (p = 0,0458) y mayor requerimiento de inotropos y fármacos vasoactivos, según el score VIS (p = 0,0003). En cuanto a los parámetros de laboratorio al ingreso, los niños con DVD presentaron niveles sanguíneos de lactato y procalcitonina significativamente más elevados que el grupo no deficitario. Los niveles de calcio fueron significativamente más bajos en los niños con DVD al ingreso a la UCI (p = 0,0063) (tabla 1).
+
+ 
+
+Tabla 1 Características demográficas y parámetros bioquímicos de los pacientes al ingreso
+
+
+
+NA: no aplicable; PCR: proteína C reactiva; PCT: procalcitonina; PELOD: Pediatric          logistic organ dysfunction; PRISM: Pediatric risk of mortality; VIS: Vasoactive          inotropic score.Los resultados se muestran en promedio y desviación estándar (DE).
+
+ 
+
+Respecto a los desenlaces clínicos relevantes, el grupo con DVD requirió el doble de volumen de fluidos de reanimación en las primeras 24 h de ingreso comparado con el grupo sin déficit de VD (50,7 [7,8] vs. 24,2 [3,1] ml/kg; p = 0,0248). Adicionalmente, en los niños con DVD se observó una mayor proporción que requirieron fármacos vasoactivos y VM (p = 0,0046 y p = 0,0079, respectivamente). Así mismo, el 46% de los niños con DVD presentaron shock séptico, en contraste con el grupo sin déficit, en el que el 7,6% presentó shock séptico (p = 0,0002). Los días de VM (8,0 [1,2] vs. 5,0 [1,1] días; p = 0,0248) y estadía en la UCIP y (9,3 [1,39] vs. 6,4 [0,9] días; p = 0,0160) fueron significativamente mayores en el grupo de niños con DVD. Cuatro niños fallecieron en la UCIP, todos presentaron un déficit de VD al ingreso (p = 0,0296) (tabla 2).
+
+ 
+
+Tabla 2 Desenlaces clínicos relevantes
+
+
+
+DVA: fármacos vasoactivos; VM: ventilación mecánica.
+
+ 
+
+Se observaron diferencias estadísticamente significativas en los niveles de VD entre los grupos, en función de la presencia o ausencia de las variables de interés. Así, se observaron niveles más bajos de VD en el subgrupo de pacientes que requirieron infusión de DVA (19,7 [1,6] vs. 24,7 [1,3] ng/ml; p = 0,0163) (fig. 1A), VM (20,8 [1,4] vs. 25,2 [1,5] ng/ml; p = 0,0256) (fig. 1B) y que presentaron shock séptico (18,6 [1,6] vs. 25,5 [1,3] ng/ml; p = 0,0013) (fig. 1C). También, aquellos pacientes que requirieron fluidos de reanimación siperiores a 40 ml/kg en las primeras 24 h presentaron niveles más bajos de VD al ingreso (19,3 [1,9] vs. 24,8 [1,5] ng/ml; p = 0,0269) (fig. 1D).
+
+ 
+
+
+
+Figura 1 Niveles de vitamina D al ingreso según: A) uso de fármacos vasoactivos;          B) ventilación mecánica; C) shock séptico; D) fluidos de reanimación en las primeras          24 h de estancia en la UCI.
+
+ 
+
+En la tabla 3, se muestran los resultados del análisis de regresión logística entre el DVD y los desenlaces clínicos. La necesidad de fármacos vasoactivos, VM, volumen de fluidos de reanimación > 40 ml/kg en 24 h, así como el shock séptico se asociaron significativamente con la existencia de DVD en los pacientes estudiados.
+
+ 
+
+Tabla 3 Riesgo relativo y número necesario a dañar referido al déficit de          vitamina D vs. ausencia de déficit de vitamina D
+
+
+
+NND: número necesario a dañar; RR: riesgo relativo.     * - <0,05.     ** - < 0,01.     *** - < 0,001.
+
+ 
+
+Discusión
+
+En este estudio realizado en la zona centro-sur de Chile, el 81% de los niños presentaron niveles subóptimos y un 43% se encontraban en rango de déficit de VD al ingreso en la UCIP. El déficit de VD al ingreso en la UCIP estuvo asociado a desenlaces clínicos desfavorables.
+
+Nuestros hallazgos son similares a los encontrados en pacientes pediátricos ingresados en UCIP de otras latitudes. Así, 4 estudios observacionales realizados en Norteamérica, Australia y Europa, que incluyeron un total de 1.429 pacientes, revelan una prevalencia del DVD de 30 a 60%, con valores promedio de VD que fluctúan del 17,3 al 26 ng/ml12. Nuestros resultados son concordantes con los estudios de Mc Nally et al. de Canadá, Madden et al. de EE. UU. y Onwuneme et al. de Irlanda, donde se confirma una asociación entre un estatus deficiente de VD y desenlaces clínicos desfavorables en niños críticos; esto es, requerimientos de fármacos vasoactivos y de VM, bolos de volumen durante las primeras 24 h de ingreso en la UCI y mayor proporción de sepsis e índices de mortalidad13–15.
+
+A su vez, en nuestro estudio los valores de lactato —un marcador de hipoperfusión tisular— y de procalcitonina —biomarcador de sepsis— fueron más elevados en el grupo con déficit de VD, probablemente por el alto porcentaje de pacientes (46%) que cursaron con shock séptico en este grupo.
+
+Creemos que estos desenlaces desfavorables reflejarían una inestabilidad cardiorrespiratoria más acentuada en el grupo de niños con DVD. En este sentido, se ha establecido que la VD se comportaría como una hormona pleiotrópica, que contribuye al buen funcionamiento del músculo cardiaco y del sistema respiratorio, permite la proliferación y maduración de los glóbulos blancos, la liberación de citocinas, y regula, además, la expresión de péptidos antimicrobianos como la catelicidina y la β defensina16. La catelicidina tiene un efecto antimicrobiano de amplio espectro y está involucrada en la quimiotaxis, unión y neutralización del lipopolisacárido y en la regulación de la respuesta inflamatoria17.
+
+Sin embargo, otras experiencias en niños críticos han mostrado resultados diferentes a los aquí presentados. Rey et al., en un estudio que incluyó a 156 pacientes, demostraron que, si bien los niños ingresados en UCI tenían niveles significativamente más bajos de VD respecto a un grupo control, el DVD no se asoció a mayor riesgo de mortalidad, duración de la estadía en la UCI, soporte ventilatorio ni uso de fármacos vasoactivos18. Rippel et al. en su estudio de niños críticos, de los cuales 2/3 eran postoperados de cirugía cardiaca, no encontraron una asociación entre DVD y necesidad de VM, uso de vasoactivos, estancia en UCI ni mortalidad19.
+
+En este contexto, siendo el DVD un potencial factor de riesgo modificable en pacientes críticos, la suplementación de VD aparece como una alternativa terapéutica atractiva. En esta línea, un estudio aleatorizado doble ciego realizado en 475 adultos en UCI demostró que la suplementación con 540.000 UI de VD, en el subgrupo de pacientes con el déficit más profundo de VD —25OHD < 12 ng/ml— se acompañó de una reducción en la mortalidad hospitalaria a los 28 días20. Otro ensayo, en 30 adultos con sepsis grave y shock séptico, demostró que la suplementación de una dosis única de 400.000 UI de colecalciferol es una intervención segura y efectiva para aumentar los niveles de VD biodisponible y de la catelicidina. Este estudio no demostró un impacto clínico, pero aporta información sobre el mecanismo protector de la VD a través de péptidos antimicrobianos en la sepsis21. También, en niños postoperados de cirugía cardiaca, se está realizando un ensayo que pretende examinar el efecto de la suplementación de la VD en la evolución posquirúrgica de este grupo de pacientes22.
+
+Si bien el reemplazo con VD en pacientes críticos con déficit es de bajo costo y aparece como seguro, hoy en día representa solo una potencial opción terapéutica que requiere de más ensayos clínicos de buena calidad23,24.
+
+Algunas limitaciones de nuestro estudio son las siguientes: fue realizado en un solo centro y con escaso número de pacientes incluidos. Al igual que en las experiencias similares a la nuestra, desconocemos los valores de la VD previos al ingreso de los niños a la UCIP, por lo que no tenemos la certeza de si los niveles bajos de VD son resultado de la enfermedad aguda, de las terapias en la UCI (aporte de fluidos) o una condición de déficit crónico. Al mismo tiempo, desconocemos la prevalencia del DVD en niños sanos de nuestra región y no realizamos una encuesta nutricional con una evaluación antropométrica detallada en cada niño, ya que se ha descrito que la obesidad se asocia a niveles subóptimos de VD25.
+
+El tamaño muestral fue calculado considerando la prevalencia de DVD observada en otros estudios. No obstante, dada la amplitud de los intervalos de confianza encontrados en los desenlaces clínicos, es probable que el número de sujetos considerado sea pequeño para establecer relaciones causales contundentes entre el factor de exposición y las variables de interés.

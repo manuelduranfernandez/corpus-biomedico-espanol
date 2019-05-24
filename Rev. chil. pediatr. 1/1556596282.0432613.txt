@@ -1,0 +1,84 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062016000600005
+Costo efectividad y análisis de impacto presupuestario del óxido nítrico inhalatorio neonatal en un hospital, desde la perspectiva del sistema público de salud
+
+ 
+
+Introducción
+
+El óxido nítrico inhalatorio (ONi) es la terapia de primera línea en el manejo de la insuficiencia respiratoria hipoxémica con hipertensión pulmonar del recién nacido. Existe evidencia contundente sobre la eficacia de este tratamiento en reducir la incidencia de casos que requieren oxigenación con membrana extracorpórea y el resultado combinado de muerte o necesidad de ECMO1, disminuir los días de hospitalización2, la incidencia de fracaso en el tratamiento (índice de oxigenación mayor a 40) y los días de oxigenoterapia3. Debido al alto costo de implementación y suministro, la mayor parte de los centros neonatales de regiones en Chile no cuenta con esta terapia, debiendo trasladar a los recién nacidos que lo requieren a centros de mayor complejidad en la capital, o tratarlos con los recursos disponibles. No existen evaluaciones económicas previas, realizadas en Chile o en otros países latinoamericanos, sobre el óxido nítrico en recién nacidos. Se identificó en la literatura 5 evaluaciones económicas sobre esta terapia4–8, todas desarrolladas en centros norteamericanos, 2 se excluyeron del análisis por que incluían prematuros menores de 34 semanas9,10; entre los estudios analizados existe concordancia sobre el costo efectividad del óxido nítrico en recién nacidos en distintos escenarios y con distintos umbrales de pago4–6.
+
+El objetivo fue determinar la costo efectividad del ONi en el tratamiento de la insuficiencia respiratoria asociada a hipertensión pulmonar del recién nacido, comparado con el cuidado habitual y el traslado a un centro de mayor complejidad, en la unidad de cuidados intensivos neonatal del hospital Dr. Hernán Henríquez Aravena, Temuco, durante el año 2014.
+
+Pacientes y método
+
+Se realizó un análisis de costo efectividad, modelado a través de un árbol de decisiones clínicas (fig. 1), considerando como medida de efectividad: recién nacido dado de alta vivo, sin requerimiento de oxigenación extracorpórea. Los resultados de efectividad del óxido nítrico comparado con el cuidado habitual se obtuvieron desde una revisión sistemática de la literatura con metaanálisis Cochrane, disminución del resultado combinado de muerte o necesidad de ECMO —RR: 0,65, IC 95%: 0,55 a 0,763— y se sensibilizó por intervalos de confianza. Horizonte temporal: un año; perspectiva de la evaluación económica: sistema público de salud chileno. Se utilizó el software TreeAge Health Care Pro 2014. Alternativas comparadas: cuidado habitual, traslado aeromédico con óxido nítrico a centro de mayor complejidad y tratamiento con óxido nítrico en el hospital local. Criterios de inclusión: neonato igual o mayor a 34 semanas, clasificado con una o ambas de las siguientes condiciones: insuficiencia respiratoria hipoxémica (índice de oxigenación igual o superior a 25) o hipertensión pulmonar persistente (clínica o ecocardiografía). Costos: se realizó microcosteo en pesos chilenos en función del arancel de prestaciones del Fondo Nacional de Salud (FONASA) del año 2014, el arancel del hospital Dr. Hernán Henríquez Aravena del año 2014, el contrato de la empresa distribuidora de óxido nítrico (INOMAX©) y el presupuesto de 2 empresas de traslado aeromédico. Se realizó un análisis de sensibilidad determinístico de una vía por las variaciones de costos en relación con el número de pacientes tratados y por las variaciones en los costos del cuidado habitual, y un análisis de sensibilidad probabilístico mediante simulación de Monte Carlo. El protocolo fue aprobado por la subdirección médica, la unidad de supervisión de investigaciones clínicas y la dirección del Hospital Dr. Hernán Henríquez Aravena.
+
+ 
+
+
+
+Figura 1 Análisis de costo efectividad-árbol de decisiones clínicas.
+
+ 
+
+Resultados
+
+Costos del cuidado habitual
+
+Los costos promedios según la condición de egreso son los siguientes: sobrevivientes 4.276.068 de pesos chilenos ($) (SD: 2.161.699 $, rango: 2.440.730 $, 10.051.903 $), fallecidos 3.605.584 $ (SD: 3.495.099 $, rango: 1.056.550 $, 9.516.631 $), el costo promedio por paciente tratado con el cuidado habitual es de 3.710.400 $ (SD: 2.161.699 $, rango: 944.451 $, 10.051.903 $), sin diferencias significativas entre los costos del grupo egresados vivos y fallecidos (p = 0.91). El costo monetario promedio por paciente trasladado a otro centro fue de 5.563.638 $ (SD: 2.543.307 $; rango: 4.885.412 $, 21.158.180 $). Costos del ONi: considerando la duración de la terapia publicada en los ensayos clínicos 48 a 96 h3, los costos clínicos y los costos asociados a la implementación de INOMAX©, el costo promedio por paciente tratado con óxido nítrico estimado es 5.984.125 $ (SD: 3.001.033 $, rango: 4.726.526 $, 7.241.725 $).
+
+Análisis de costo efectividad
+
+En el análisis se consideró como máxima disponibilidad a pagar 3 PIB per cápita por muerte evitada, considerando las recomendaciones de la OMS, monto que en nuestro país equivale a 40.932.555 $ (septiembre de 2014). En la figura 2 se observa el plano de costo-efectividad; la intervención en estudio se encuentra en el cuadrante NE del plano, por lo que se trata de una alternativa más costosa y a la vez más efectiva. El análisis de costo-efectividad indica como la alternativa óptima el óxido nítrico, los costos incrementales, las razones de costo-efectividad, las razones de costo-efectividad incremental y el beneficio monetario neto (tabla 1).
+
+ 
+
+
+
+Figura 2 Plano costo-efectividad.
+
+ 
+
+Tabla 1 Ranking de costo-efectividad
+
+
+
+Costos expresados en pesos chilenos. BMN: beneficio monetario neto;          C. incr: costo incremental; E. incr: efectividad incremental.
+
+ 
+
+Análisis de sensibilidad determinístico
+
+Costos fijos del óxido nítrico según la incidencia estimada; las categorías consideran cambios en la incidencia de la enfermedad de 3 a 8 casos al año, los costos totales se asignaron por el n.° de pacientes estimados (fig. 3). Este análisis demuestra que a partir de 7 casos tratados al año los costos incrementales del óxido nítrico son menores a los del traslado, y llega a ser tan rentable como un ICER de 7,2 $ millones por muerte evitada. Estimamos que en cerca del 20% de los casos tratados con cuidado habitual, los costos son mayores a 7,7 $ millones. En este rango los costos incrementales del óxido nítrico sobre el cuidado habitual disminuyen a 5,3 $ millones y los costos promedios del traslado superan los del óxido nítrico (15,6 millones $ vs 15,4 millones $), por lo que esta alternativa se vuelve dominada por óxido nítrico con un ICER de –463,052 $ por muerte evitada.
+
+ 
+
+
+
+Figura 3 Análisis de sensibilidad por incidencia.
+
+ 
+
+Análisis de sensibilidad probabilístico
+
+Considerando una disponibilidad a pagar de 2 PIB per cápita, la estrategia óptima en el 70% de los escenarios es el óxido nítrico, en el 27% de los escenarios es el cuidado habitual y solo en el 3% de estos es el traslado. En la curva de aceptabilidad, entre los valores de disponibilidad a pagar de 2 a 3 PIB per cápita (27.288.370 $ a 40.932.555 $), la probabilidad de que el óxido nítrico resulte costo efectivo aumenta de 70% a 94%, la probabilidad de que el cuidado habitual resulte costo efectivo disminuye de 7% a 3%, finalmente la probabilidad de que el traslado resulte una alternativa costo efectiva se mantiene cercana al 3% en todo el rango de disponibilidad a pagar.
+
+Análisis de impacto presupuestario
+
+En la tabla 2 se muestran los costos financieros netos que incorporaría el Hospital Dr. Hernán Henríquez Aravena de Temuco, al dar cobertura al tratamiento de la insuficiencia respiratoria hipoxémica neonatal con ONi. Considerando una incidencia de casos moderados o graves de 3 a 8 por año, los costos financieros netos presentan un aumento en 4,7 $ millones por cada nuevo paciente tratado, sin embargo, los costos incrementales individuales presentan una disminución al aumentar el número de pacientes tratados. El mejor escenario posible se presenta a partir de los 6 casos tratados al año, ya que desde este punto los costos individuales son de menos de 8,8 millones de $ por paciente.
+
+ 
+
+Tabla 2 Costos financieros netos
+
+
+
+ONi: óxido nítrico inhalatorio; $: pesos chilenos.
+
+ 
+
+Discusión
+
+Armstrong et al. (2010) estimaron el costo efectividad de la administración precoz de óxido nítrico vs el inicio de la administración durante el traslado o en el centro terciario, desde la perspectiva de un hospital, con datos de efectividad de un ensayo clínico realizado en Chile, que demostró menores costos para la administración precoz 13,1 millones de $ vs 16,6 millones de $. La curva de aceptabilidad entre las alternativas demostró que el ONi precoz tenía más de un 90% de probabilidad de ser el tratamiento más rentable4. Angus et al. (2003) estudiaron la costo efectividad del ONi desde una perspectiva social, modelando un árbol de decisiones con los resultados de 2 ensayos clínicos (n = 483), y concluyen que ONi tiene un perfil favorable de costo-efectividad cuando se inicia, ya sea en los centros de ECMO o en hospitales locales. Desde esta perspectiva ONi resultó ser más eficaz y más económico, ahorro de costos de 1,1 millones de $ por caso, a pesar de los costos de adquisición de 3,3 millones de $, principalmente como resultado de la disminución de la necesidad de ECMO5. Lorch et al. (2004) evaluaron el impacto económico de la adición de óxido nítrico en el protocolo de tratamiento de la hipertensión pulmonar persistente, utilizando un modelo de árbol de decisiones desde una perspectiva social, el óxido nítrico aumentó los costos en un promedio de 698,292 $ por caso tratado, la relación coste efectividad incremental fue de 20,3 millones de $ por muerte evitada y 11,6 millones de $ por año de vida ajustado por calidad (QALY) ganado. Los autores concluyen que ONi resulta costo efectivo, pero no para ahorrar costos en el tratamiento6. A diferencia de lo publicado por Angus et al. (2003), el óxido nítrico en nuestro análisis no permite ahorrar costos, incorporarlo en un hospital regional implica un aumento significativo de estos en 16,8 millones de $ a 21,5 millones de $ de incremento presupuestario al año. Estimamos un ICER comparado con el cuidado habitual de 23 millones de $ por muerte o caso de oxigenación extracorpórea evitada, mayor a lo publicado por Lorch et al. (2004), los que estimaron un ICER de 18,3 millones de $ por muerte evitada o 10,4 millones de $ por QALY ganado. En el análisis de Amstrong et al. (2010), que compara el uso precoz vs tardío de óxido nítrico, esta primera alternativa presenta un perfil favorable de costo efectividad en el 90% de los escenarios, y una razón de costo efectividad de 16 millones de $ por unidad de efectividad, similar a la estimada en nuestro análisis de 17 millones de $ por unidad de efectividad, con un perfil de costo efectividad favorable entre el 70% al 94% de los escenarios posibles. Nosotros estudiamos los costos y los resultados clínicos de incorporar ONi al tratamiento de la insuficiencia respiratoria neonatal moderada o grave, y los comparamos con los del cuidado habitual y el traslado a un centro de mayor complejidad; nuestro estudio es pionero, ya que incluye la perspectiva del Sistema Público de Salud chileno, reportando un análisis de impacto presupuestario para un hospital regional, junto al número de pacientes necesario a tratar para que incorporar esta terapia resulte menos costoso que el traslado. Considerando el número de partos anual en la Región de la Araucanía en 13.024 (INE 2012), y el riesgo de presentar hipertensión pulmonar moderada o grave, estimamos que incorporar óxido nítrico podría beneficiar de 13 a 27 pacientes por año, si consideramos solo los casos más graves (20%), se tratarían 3 a 8 pacientes por año, número que incrementaría si consideramos los pacientes que eventualmente pueden derivarse de otros centros de la zona sur. La principal limitación en nuestro análisis es que se realizó en un solo centro, incorporar los resultados de distintos centros en otras regiones permitiría realizar comparaciones y conclusiones a nivel nacional.
+
+Conclusiones

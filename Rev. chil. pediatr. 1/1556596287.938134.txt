@@ -1,0 +1,78 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000400559
+Significancia práctica o significancia estadística: re-análisis de la magnitud de las diferencias en Contreras et al.
+
+CARTA AL EDITOR
+
+Significancia práctica o significancia estadística: re-análisis de la magnitud de las diferencias en Contreras et al.
+
+Practical or statistical significance: re-analysis of the magnitude of the differences in Contreras etal.
+
+César Merino SotoA 
+
+			
+
+Sergio Dominguez-LaraA 
+
+			
+
+A Instituto de Investigación de Psicología. Universidad de San Martín de Porres, Lima, Perú.
+
+
+
+
+
+Sr. Editor
+
+Los trastornos de la conducta alimentaria (TCA) se originan por una interacción de diversos factores (psi cológicos, interpersonales y biológicos), e influencian sinérgicamente en la variabilidad de la intensidad y comorbidad de este cuadro psicopatológico con otros problemas1. En este panorama, Contreras et al.2 expo nen la asociación entre conductas de control de peso, insatisfacción corporal y obsesión con la delgadez, dado que son el punto central de los TCA1. No obs tante, si bien el reporte de las diferencias de acuerdo al uso de la dieta revelan la significancia estadística de sus resultados, sus conclusiones carecen de un elemento que enriquecerá la interpretación de las diferencias: la magnitud del efecto (ME), que ayuda a cuantificar el grado en que ocurre el fenómeno observado; en este caso, el parámetro es la diferencia de medias entre dos grupos independientes3.
+
+Es habitual que al aplicar las pruebas de significan cia estadística para comparar dos grupos (τ de Student o U de Mann-Whitney), se busque retener o rechazar la hipótesis nula de no diferencia entre grupos (Ho: υ1 - υ2 = 0). En este marco, si el ρ-valor de la prueba estadística en cuestión (τ, por ejemplo) es menor que a (usualmente, .05), se rechaza Ho y se concluye que existen diferencias estadísticamente significativas entre los grupos (H¡: υ1 - υ2 ^ 0). Sin embargo, este enfoque no es suficiente evidencia para valorar las diferencias entre grupos, pues realmente no informa directamente sobre el grado en que el fenómeno examinado (en este caso, el parámetro υ1 - υ2) ha ocurrido3. Dado este y otros problemas relacionados con el uso de las pruebas de hipótesis nula, es necesario que este tipo de resul tado estadístico sea acompañado con estimadores de ME.
+
+En su reporte, los autores mencionan que “se ob servaron valores promedio significativamente superio res...” (p. 99), pero únicamente valoraron el rechazo de la hipótesis nula y no proporcionaron algún indica dor del tamaño en que ocurrieron las diferencias entre los grupos; el resultado de la prueba de hipótesis (U Mann-Whitney) para Obsesión por la Delgadez e Insa tisfacción Corporal tampoco fue reportado. Afortuna damente, los autores informan los estadísticos descrip tivos (media y desviación estándar) para cuantificar estas diferencias (en tabla 1). Esta estimación, en el caso de la comparación de grupos, permite deducir la importancia de la diferencia encontrada3. Para el caso de comparación de dos grupos independientes, se usa el estimador de diferencias estandarizadas, d4:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donde M
+
+1,
+
+DE
+
+1 y n
+
+1, y M
+
+2,
+
+DE
+
+2 y n
+
+2 son las medias, desviaciones estándar y tamaños muestrales del primer y segundo grupo, respectivamente. En función de ello, se calcularon las ME de las diferencias entre adolescen tes dietantes y no dietantes con respecto a la Obsesión con la Delgadez y la Insatisfacción Corporal mediante un módulo especializado, considerando además el inter valo de confianza (IC) al 95%5 (este mismo puede ser obtenido libremente).
+
+Una forma recomendable para categorizar en nive les la ME para las diferencia estandarizada de medias: pequeña (.20), mediana (.50) y grande (.80)4. Los re sultados expuestos en nuestra (Tabla 1) evidencian dife rencias que pueden ser catalogadas entre moderadas y grandes (d > .50) a favor de las adolescentes dietantes. De acuerdo con los IC, la generalización de las diferen cias estandarizadas en obsesión con la delgadez proba blemente pueden mostrar elevadas discrepancias entre ambos grupos en la población, pero respecto a la insa tisfacción corporal, se podrían generalizar diferencias entre niveles moderados y grandes. El contraste entre dietantes y no dietantes es ligeramente mayor respecto a obsesión por la delgadez, comparado con insatisfac ción corporal.
+
+
+
+
+
+Tabla 1 Magnitud del efecto para la diferencia de medias entre grupos. 
+
+
+
+
+
+
+
+Tabla 1 Magnitud del efecto para la diferencia de medias entre grupos. 
+
+Concluimos que, si bien nuestro re-análisis llega a resultados similares a los informados por los autores, es preferible la evidencia cuantitativa por sobre el jui cio heurístico para valorar el grado en que ocurren las diferencias entre grupos.

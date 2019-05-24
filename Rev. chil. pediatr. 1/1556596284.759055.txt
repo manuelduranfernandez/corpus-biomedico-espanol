@@ -1,0 +1,40 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062017000500005
+Hospitalizaciones por asma infantil en Chile: 2001-2014
+
+ 
+
+Introducción
+
+El asma bronquial es una enfermedad altamente prevalente. De acuerdo a la Organización Mundial de la Salud cerca de 300 millones de personas padecen de asma a nivel mundial, siendo la enfermedad crónica más frecuente en la edad pediátrica1. En Estados Unidos la prevalencia de asma en niños es de 8,6%2. A nivel latinoamericano más de la mitad los países reportan una prevalencia mayor de 15%3. Utilizando cuestionarios estandarizados The International Study of Asthma and Allergies in Childhood (ISAAC) determinó que la prevalencia de asma en Chile en el grupo de 6 a 7 años era de 17,9% y en el grupo de 13 a 14 años de 15,5%4. En un estudio de corte transversal realizado en Santiago en 4.561 niños de 6 a 7 años y de 13 a 14 años se determinó que la prevalencia de asma era mayor en hombres que en mujeres (13,2 vs 10,8%)5. A nivel internacional se estima que un 5% del total de pacientes asmáticos presenta evolución severa, lo que se asocia a una alta morbilidad y da cuenta de al menos 50% de los costos en salud por esta enfermedad6. La gran mayoría de estos pacientes a pesar de recibir tratamiento adecuado presenta un pobre control de sus síntomas con exacerbaciones frecuentes, consultas a servicios de urgencia, hospitalizaciones y en ocasiones disminución de la función pulmonar, con una muy mala calidad de vida6. Las hospitalizaciones por asma bronquial son un aspecto muy importante de los pacientes con “asma severo” y “asma de difícil control” representando un resultado adverso serio, el cual podría evitarse con un mejor manejo a nivel ambulatorio. El objetivo del presente estudio es determinar la magnitud de las hospitalizaciones por asma en la población infantil de nuestro país ya que la información disponible en la literatura es escasa.
+
+Pacientes y Método
+
+Se estudió la evolución de las tasas de hospitalización por asma, desde el año 2001 al 2014, en niños cuyas edades fluctuaron entre los 5 y los 15 años. La evolución de las tasas se analizó en forma global y por edad simple. Los datos fueron extraídos de los registros de egresos hospitalarios proporcionados por el Departamento de Estadística e Información de Salud del Ministerio de Salud de Chile (DEIS). Se seleccionó la información correspondiente a los códigos CIE10: J450, J451, J458, J459 y J46X, además de la edad simple, sexo, días de hospitalización, fecha de hospitalización y la condición de egreso. Los tamaños de las poblaciones expuestas al riesgo de hospitalización se obtuvieron de las proyecciones de población proporcionadas por el Instituto Nacional de Estadística. La evolución de las tasas de hospitalización se analizó mediante un modelo lineal autoregresivo de primer orden (Prais-Winsten). La asociación entre la tasa de hospitalización y variables como sexo y Garantías Explícitas en Salud (GES) fueron evaluadas mediante una regresión de Poisson. Las variables continuas se describieron mediante percentiles, promedios y desviación estándar, mientras que las variables cualitativas mediante frecuencias y proporciones. Los intervalos de confianza fueron de nivel 95% y se utilizó una significación del 5%. Los datos fueron procesados en el programa estadístico STATA versión 14.0.
+
+Resultados
+
+Durante el período estudiado hubo un total de 58.548 pacientes hospitalizados por crisis de asma, de los cuales 23.382 (39,9%) correspondieron a niños de 5 a 15 años. Focalizando los resultados a los pacientes pediátricos con asma, se encontró una mediana de días de hospitalización de 3 (rango 1 a 12), siendo este resultado similar entre hombres y mujeres. Se observó que la mediana de días de hospitalización no varió en el período observado. El promedio de edad fue de 8,5 ± 2,7 años. Los pacientes de sexo masculino fueron 13.463 (57,58%) y los de sexo femenino 9.919 (42,42%). La distribución de las hospitalizaciones por rango etario fue de 26% en el grupo de 5 a 10 años y de 13% en el grupo de 11 a 15, cayendo bajo el 6% en los mayores de 15 años (figura 1). Desde el año 2001 al 2014 se observó un aumento significativo de la tasa de hospitalización por asma en niños de 5 a 15 años, desde 3,8 por 10.000 habitantes el 2001 a 7,8 por 10.000 habitantes el 2014 (figura 2). Esta tendencia presenta una velocidad de incremento de 0,25 por 10.000 habitantes por año (p = 0,000). Si analizamos las tasas de hospitalización por edad simple podemos ver que todas se incrementan significativamente entre los 5 y los 11 años. En edades posteriores estas tasas se estabilizan, tendiendo a ser constantes en el período de tiempo observado (tabla 1). El aumento más significativo de las tasas de hospitalización ocurre entre los 5 y los 7 años (figura 3). Si observamos por rango etario la tasa media de hospitalización en el grupo de 5 a 10 años fue de 8,06 por 10 mil habitantes y en el grupo de 11 a 15 años de 2,86 por 10 mil habitantes. Al estudiar la evolución de las tasas de hospitalización no se encontraron diferencias significativas por sexo (p = 0,902). Se observó que en los años posteriores al 2006 en que se dio inicio a las Garantías Explícitas en Salud (GES) en asma hubo un aumento de 10,5% en la tasa de egresos hospitalarios por esta enfermedad, en comparación con el período pre GES (p = 0,000). Sin embargo, este incremento no explica el cambio en la tendencia de aumento de las tasas de hospitalización por asma en niños (p = 0,679). Con respecto a la estacionalidad de las hospitalizaciones pudimos observar un incremento de las mismas en marzo y posteriormente en octubre (figura 4). Durante los años analizados fallecieron en total 5 pacientes pediátricos, lo que representa una letalidad de 0,02%.
+
+
+
+Tabla 1. Tasa global y por edad simple de hospitalizaciones pediátricas por asma (x 10 mil habitantes)
+
+
+
+Figura 1. Distribución de la edad de hospitalización. Chile 2001-2014.
+
+
+
+Figura 2. Evolución de la tasa de egresos hospitalarios por asma. Chile 2001-2014.
+
+
+
+Figura 3. Evolución de la tasa de egresos hospitalarios de asma por edad simple. Chile 2001-2014.
+
+
+
+
+
+Figura 4. Distribución de casos por mes. Chile 2014.
+
+Discusión

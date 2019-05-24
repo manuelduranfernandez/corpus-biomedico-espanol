@@ -1,0 +1,156 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000500606
+Correlación en la determinación de la edad ósea radiológica mediante el método de Greulich y Pyle versus la evaluación automatizada utilizando el software BoneXpert
+
+ARTÍCULOS ORIGINALES
+
+Correlación en la determinación de la edad ósea radiológica mediante el método de Greulich y Pyle versus la evaluación automatizada utilizando el software BoneXpert
+
+Georgette Pose LepeA 
+
+			
+
+Fabián VillacrésB 
+
+			
+
+Claudio Silva Fuente-AlbaA 
+
+			
+
+Stefan GuiloffB 
+
+			
+
+A Médico Radiólogo Departamento de Imágenes - Clínica Alemana de Santiago, Chile
+
+B Residente Programa de Especialidad en Radiología. Facultad de Medicina, Clínica Alemana de Santiago-Universidad del Desarrollo, Chile.
+
+
+
+
+
+Resumen:
+
+Objetivo: 
+
+Determinar el grado de correlación en la valoración de la edad ósea radiológica mediante el método de Greulich y Pyle versus la evaluación automatizada por el programa computacional BoneXpert® entre los años 2013-2016.
+
+Material y Método: 
+
+Estudio de correlación de técnicas diag nósticas de 1500 radiografías de carpo para evaluar la edad ósea, en pacientes menores de 16 años pertenecientes a Clínica Alemana de Santiago. Las radiografías con evaluación de la edad ósea por el Atlas de Greulich y Pyle (GP) por 1 de 7 radiólogos pediatras fueron sometidas al programa BoneX pert (BE) para la evaluación automatizada de la edad ósea. Se tomó 100 casos al azar para un análisis/ re-análisis del método BE, para conocer su precisión. Se analizó el nivel de correlación de las medicio nes por coeficiente de correlación (r de Pearson) y la variabilidad de las mediciones mediante análisis de Bland-Altman.
+
+Resultados: 
+
+Se incluyeron 1.493 casos, se excluyeron 7 por falla en técnica de la radiografía, 922 de sexo femenino (61.8%), mediana de edad cronológica 9.96 años y 11.12 años para los varones (p 0,001). La correlación entre la edad ósea manual GP y la edad ósea automatizada BE entre los lectores varió entre 0,91 y 0,93. El análisis de Bland-Altman indicó una diferencia promedio entre la edad ósea manual y la edad ósea BE de 0,19 años (IC 0,13 a 0,25). En el análisis/re-análisis de 100 casos al azar mediante BoneXpert, la correlación fue de 1,0.
+
+Conclusión: 
+
+El análisis automatizado mediante BoneXpert permite una evaluación estandarizada, de baja variabilidad, y alta concordancia.
+
+Palabras clave: Edad ósea; Greulich y Pyle; BoneXpert
+
+Introducción
+
+La edad ósea es una medida del grado de madura ción esquelética de un niño, es decir, hasta qué punto el niño ha avanzado en su desarrollo esquelético1. La maduración esquelética es controlada por hormonas y estas mismas hormonas influyen en el inicio de la pu bertad, por lo que un niño con maduración esquelética tardía, por ejemplo, también es probable que tenga una pubertad tardía2.
+
+La evaluación radiológica de la edad ósea (EO), me diante el uso de la radiografía del carpo y muñeca, es un procedimiento de rutina en la radiología pediátrica, constituyendo un indicador efectivo para diagnosticar varias enfermedades y determinar el mejor momento de su tratamiento, por ejemplo, niños con pubertad precoz y talla baja, por lo que la exactitud en la evalua ción de la edad ósea es muy importante3,4.
+
+En el desarrollo óseo durante el período fetal, el radio, el cúbito y las falanges tienen osificación endocondral, mientras que los huesos del carpo osificación intramembranosa. La tasa de maduración de los hue sos del carpo varía entre individuos, sin embargo, la maduración completa ocurre tempranamente en los huesos del carpo, siendo éstos, menos dependientes de la hormona de crecimiento comparada con los metacarpianos y falanges, motivo por el cual, los huesos del carpo no son adecuados para la evaluación de la edad ósea. Aunque el proceso de maduración ósea es similar en todas las personas, la tasa de maduración ósea difie re entre los grupos étnicos, debido al tiempo del inicio de la pubertad5,6.
+
+Varios métodos han sido utilizados para evaluar la edad ósea radiológica a lo largo del tiempo, el princi pal problema es la variabilidad inter e intra-observador7,14. Los métodos más comúnmente usados son el atlas de Greulich y Pyle (GP) y el método de Tanner-Whitehouse (TW), ambos realizados a través de la eva luación de radiografías de la mano izquierda. La razón para usar la mano izquierda se debe a que la mayoría de las personas son diestras y es más probable que la mano derecha sufra más lesiones que la mano izquier da, además, a inicios del siglo XX en una reunión de los antropólogos físicos, se llegó a un acuerdo y se deter minó según sus observaciones, que las medidas físicas deben ser realizadas del lado izquierdo del cuerpo4.
+
+Los métodos manuales tradicionalmente usados para determinar la edad ósea a menudo consumen mucho tiempo y pueden ser imprecisos, es por esto, que últimamente ha aumentado la necesidad de uti lizar métodos automatizados para determinar la edad ósea de los pacientes con resultados más precisos14.
+
+El método de Greulich y Pyle consiste en un atlas en el cual la edad ósea es evaluada por comparación de la radiografía de la mano izquierda de un paciente con una de las radiografías estándar más cercanas del atlas. Este método fue desarrollado usando las radio grafías de niños caucásicos en Cleveland Ohio, Estados Unidos de Norteamérica, durante el periodo de 1931 a 19421. Se ha reportado que los caracteres sexuales secundarios de los niños y niñas estadounidenses en la actualidad, comienzan más temprano que varias décadas atrás, por lo tanto, podría ser difícil evaluar exacta mente la edad ósea en los niños de hoy en día con este método15.
+
+El método para la determinación automática de la edad ósea, llamado BoneXpert®, analiza la radiografía de manera completamente automática, independien te de la rotación de la mano, siendo aceptadas por el programa tanto la mano izquierda como la derecha. El rango de edad establecido para la lectura es de 2,5 a 17 años en niños y 2 a 15 años en niñas. BoneXpert® de termina desde la radiografía de la mano, los bordes de 13 huesos automáticamente: radio, cúbito y 11 huesos cortos (metacarpianos y falanges del 1, 3 y 5 dedos). El sistema automáticamente rechaza imágenes con morfología ósea anormal o de muy mala calidad de la imagen5,7.
+
+El análisis de la imagen es dividido en 3 capas: la capa A reconstruye el borde de los huesos y lo valida. La capa B determina la edad ósea de cada hueso y lo valida. En la capa C, el sistema implica una transfor mación potencialmente no lineal de las edades óseas intrínsecas en edades óseas Greulich y Pyle o estadios de Tanner Whitehouse7. Los resultados están inme diatamente disponibles para el radiólogo y/o el clínico solicitante a través del sistema PACS y puede ser leído directamente de la imagen (Figura 1).
+
+
+
+
+
+Figura 1 Evaluación radiográfica por el método BoneXpert. BA (GP): Edad ósea Greulich-Pyle con decimales (M or F indica el género); BA SDS: Score de desviación estándar de la edad ósea GP.; BA SDS > 0 indica edad ósea avanzada.; BA SDS < 0 indica edad ósea retardada.; BA (TW3): Edad ósea en Tanner-Whitehouse 3.; Age: Edad cronológica con decimales.; BHI: Índice de hueso saludable, basado en el grosor cortical de los metacarpianos.; BHI SDS: Score de desviación estándar del índice de hueso saludable. 
+
+
+
+
+
+Figura 1 Evaluación radiográfica por el método BoneXpert. BA (GP): Edad ósea Greulich-Pyle con decimales (M or F indica el género); BA SDS: Score de desviación estándar de la edad ósea GP.; BA SDS > 0 indica edad ósea avanzada.; BA SDS < 0 indica edad ósea retardada.; BA (TW3): Edad ósea en Tanner-Whitehouse 3.; Age: Edad cronológica con decimales.; BHI: Índice de hueso saludable, basado en el grosor cortical de los metacarpianos.; BHI SDS: Score de desviación estándar del índice de hueso saludable. 
+
+El objetivo de este estudio fue establecer la corre lación de la edad ósea evaluada mediante el método manual a través del atlas de Greulich y Pyle, vs la evaluación automatizada mediante el programa computacional BoneXpert®.
+
+Material y Métodos
+
+Análisis retrospectivo aprobado por el Comité de Ética de la Institución sede del estudio, Clínica Ale mana de Santiago de Chile, quien otorga exención de consentimiento informado. Se realizó un estudio de correlación de técnicas diagnósticas para el cual se se leccionaron 1.500 radiografías de carpo consecutivas del sistema PACS del departamento de imágenes de nuestra institución realizadas para determinación de la edad ósea en niños y niñas menores de 16 años de edad durante el periodo enero 2013 a enero 2016. Se anonimizaron y posteriormente se almacenaron en formato DICOM, asignándosele un número correlativo a cada estudio. Las radiografías que ya contaban previamen te con la evaluación de la edad ósea mediante el Atlas de Greulich y Pyle (GP) por uno de siete radiólogos pediatras de nuestra institución, fueron sometidas al software computacional BoneXpert® (BE) para la eva luación automatizada de edad ósea.
+
+Se extrajo el reporte de la edad ósea del informe ra diológico en años y meses con su respectiva desviación estándar y también los resultados de la lectura de edad ósea arrojados por el programa BoneXpert®. Todos los datos fueron registrados en una base de datos Excel y posteriormente analizados en el STATA statistical soft ware versión 13.1.
+
+Además, se toma muestra de 100 casos al azar para un análisis/re-análisis de la técnica BE. Posteriormente se analizaron niveles de correlación de las mediciones utilizando el coeficiente de correlación (r de Pearson) y los niveles de variabilidad de las mediciones mediante análisis de Bland-Altman y se calcularon intervalos de confianza del 95%.
+
+Resultados
+
+De las 1.500 radiografías analizadas, se excluyeron 7 casos por falla técnica que impide la cuantificación automática, como por ejemplo aparecía un dedo del tecnólogo y/o padres proyectado sobre el radio y/o cúbito, el sistema no indicó la edad ósea. La muestra final corresponde a 1493 casos de los cuales 922 eran niñas (61,6%) y 571 niños (38,4%), con una mediana de edad cronológica de 9,96 años (RIC 8,51-11,29) en niñas y 11,12 años (RIC 8,72-12,71) en niños (p 0,001). (Figura 2).
+
+
+
+
+
+Figura 2 Porcentaje de paciente y distribución según edad cronológica. 
+
+
+
+
+
+Figura 2 Porcentaje de paciente y distribución según edad cronológica. 
+
+Los niveles de correlación entre edad ósea manual (EO) y la edad ósea automatizada BoneXpert (BE) entre los distintos lectores variaron entre 0,91 y 0,93. (Figura 3).
+
+
+
+
+
+Figura 3 Correlación de la edad ósea radiológica versus edad ósea automatizada BoneXpert. 
+
+
+
+
+
+Figura 3 Correlación de la edad ósea radiológica versus edad ósea automatizada BoneXpert. 
+
+El análisis de Bland-Altman indicó una diferen cia promedio entre EO y BE de 0.19 años (IC 0,13 a 0,25), lo que corresponde a 2,2 meses (Figura 4). En el análisis/re-análisis de 100 casos al azar mediante el método BE para evaluar la precisión del programa, la correlación fue de un 1,00 (correlación perfecta, es de cir 100% de precisión).
+
+
+
+
+
+Figura 4 Bland-Altman plot. Diferencia entre la edad ósea radiológica y edad ósea BoneXpert. 
+
+
+
+
+
+Figura 4 Bland-Altman plot. Diferencia entre la edad ósea radiológica y edad ósea BoneXpert. 
+
+Discusión
+
+La correlación en la evaluación de la edad ósea por el método BoneXpert respecto a la evaluación ma nual por radiólogos pediatras en nuestro estudio fue muy buena, variando entre 0,91 y 0,93 al comparar los distintos lectores, con una diferencia promedio entre las mediciones de 0,19 años o 2,2 meses entre los métodos. El 61,6% de nuestra serie corresponde a niñas, con una mediana de edad de 9,9 años, cifras que probablemente estén influenciadas por la preocu pación de las madres y las mismas pacientes a saber cuál será su talla final y consultar tempranamente al médico. En una serie de estudios publicados hasta la fecha en distintos países y poblaciones, se observaron resultados similares a los nuestros, así por ejemplo, en el estudio realizado en Japón por el grupo de Martin en 284 pacientes, la variación entre las mediciones fue de 0,7111. Otro estudio en población china realizado por Shao-Yan, que incluyó 6.026 imágenes, el grado de acuerdo entre BE y la lectura manual fue de 0,6410. El estudio de Van Rijn, en población alemana (405 ca sos) fue de 0,7113 y el estudio de Thodberg15, donde se validó el método BoneXpert en 1.390 niños ameri canos de 4 etnias (hispanos, afroamericanos, caucási cos y asiáticos), la correlación entre los métodos fue de 0,74. En Chile, el año 2010 Moenne, K y colaboradores realizaron un análisis comparativo de la edad ósea en tre la lectura manual, BoneXpert y el ultrasonido Bo ne-age en una cohorte de 194 niños entre 5 y 7 años, que demostró una buena correlación de 0,69 entre los métodos15. Nuestros resultados permiten validar la lectura automatizada de la edad ósea por el programa BoneXpert en una muestra importante de la pobla ción chilena. La evaluación del radiólogo siempre es importante para determinar anormalidades más allá de lo mera cuantificación de los contornos y en aque llos casos de pacientes que caen fuera del rango esta blecido por el fabricante del software 2,5 a 17 años en niños y 2 a 15 años en niñas.
+
+Para los efectos de este estudio el software BoneX pert fue utilizado bajo una licencia académica exclu siva de investigación, pero en los próximos meses se encontrará disponible como herramienta clínica habi tual de apoyo al accionar de los radiólogos pediatras en aquellos estudios realizados en Clínica Alemana de
+
+Santiago. Información acerca del software y como ob tenerlo se puede encontrar en www.bonexpert.com.
+
+Conclusión
+
+El análisis automatizado de la edad ósea mediante el programa computacional BoneXpert permite una evaluación estandarizada, de baja variabilidad, y alta concordancia con respecto a la lectura manual por radiólogos pediatras.
+
+Responsabilidades éticas
+
+Protección de personas y animales: Los autores decla ran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación hu mana responsable y de acuerdo con la Asociación Mé dica Mundial y la Declaración de Helsinki.
+
+Confidencialidad de los datos: Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la Privacidad y Consentimiento Informa do: Los autores declaran que la información ha sido obtenida de datos previos en forma anonimizada, por lo cual el Comité de Ética de Investigación en uso de sus facultades, ha eximido de la obtención de un con sentimiento informado, lo cual consta en el acta res pectiva.
+
+Conflicto de intereses: Los autores declaran no tener conflicto de intereses.

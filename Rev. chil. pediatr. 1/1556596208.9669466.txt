@@ -1,0 +1,48 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062002000200013
+Cómo instalar una red de computadoras
+
+Rev. Chil. Pediatr. 73 (2); 181-183, 2002
+
+Eduardo Cosoi P.1 
+
+Luego de elegir un nuevo computador, generalmente quedan en el hogar o en la    oficina computadores antiguos, con discos duros de baja capacidad, escasa memoria    RAM y de relativa baja velocidad (ejemplo: Pentium 100, 64 RAM y 4GB de disco    duro) que prácticamente ya no soportan nuevos programas. La solución    para mantenerlos activos es conectarlos en red, aprovechando la mayor velocidad    y capacidad de los computadores más nuevos. Se puede conectar dos o más    computadoras con el fin de compartir recursos como impresoras, escáner    o conexión a Internet. Mediante este sistema, se pueden compartir los    archivos, incluso dejándolos guardados en el de mayor capacidad. Se puede    utilizar en forma compartida la conexión a Internet, cualquiera sea la    velocidad de conexión (MODEM de 56 kbs hasta líneas ADSL), de    manera simultánea. 
+
+Existen incluso sistemas más avanzados en que es posible transformar    el computador más lento en un terminal, permitiendo que el computador    del ejemplo anterior posea la velocidad, memoria, sistema operativo y conexión    a Internet del computador más avanzado. Dicho sistema requiere poseer    el nuevo sistema operativo de Windows XP o Windows 2000 e instalar el sistema    Linux en el computador que actuará de terminal. Ciertos programas (Winconnect)    son capaces de realizar dicho proceso. El sistema operativo Linux se encuentra    disponible en forma gratuita en la Internet (son 2 discos de 650 megabytes cada    uno, se requiere poseer un grabador de CD para traspasarlos y dejarlos activos    para su instalación; se requiere como mínimo 64 MB de RAM).     
+
+¿CÓMO SE INSTALA UNA RED CASERA?
+
+Hay varias formas, pero las más comunes son interconectarlas mediante    un cable de red tipo Ethernet, igual que en cualquier oficina, o hacer una red    inalámbrica, permitiendo usar las computadoras desde cualquier punto    de la casa sin necesidad de instalaciones que afecten la decoración.
+
+Para instalar la red se necesita:
+
+a) Red alámbrica: Tarjetas de red Ethernet (valor aproximado:    $15 000), Cable de red ($700 x metro), terminales de cable ($1 000 c/u).
+
+b) Red inalámbrica: Tarjetas de red tipo Airport (Precios variables).
+
+Para compartir una conexión a Internet, es necesario que una de las    PC sirva como puerta de entrada y distribuya la señal a las otras máquinas.    Esto se logra con aplicaciones como Wingate o Winroute, o bien instalando un    LAN Módem que realice la función.
+
+La mayoría de los nuevos computadores vienen con la tarjeta de red incluida,    sin embargo, los antiguos no la traen y se les debe instalar. Para ello, hay    que confirmar que exista un hueco o "slot" del tipo PCI libre, lo    que generalmente es así. 
+
+Una vez instalada la tarjeta, se debe configurar la red. Partiremos en el computador    nuevo, asignando el protocolo la dirección IP, que es el equivalente    a un número telefónico y es individual para cada computador. En    el menú de inicio, seleccionar las conexiones y pedir que se muestren    todas, seleccionar el dispositivo de red con el botón derecho del mouse    y seleccionar las propiedades. Seleccionar el protocolo de Internet (TCP/IP)    e indicar que se quiere seleccionar una dirección IP específica,    (asume que se cuenta con Windows XP, para instalación a Windows 98, ir    a panel de control y seleccionar redes) (figura 1). 
+
+Se debe seleccionar una dirección IP (el "número telefónico").    Hay muchas alternativas, sugiero 192.168.0.xxx (este número va desde    el 1 al 999 y permite conectar muchos computadores) y la "subset mask",    que es otro número necesario que se calcula a partir de la dirección    IP, pero que en el ejemplo es 255.255.255.0. 
+
+  
+
+En Windows 98 y versiones anteriores de Windows, es necesario    reiniciar el computador, no así en Windows 2000, para que surtan efecto    los cambios.
+
+Luego, se debe configurar el computador secundario. Se debe realizar    el mismo procedimiento (redes en Windows 95 ó 98) y seleccionar las propiedades    del protocolo de Internet (TCP/IP). El número IP tiene un segmento compartido,    en el ejemplo 192.168. 0.xxx (en que xxx debe ser un número diferente    del otro computador). La "subset mask" debe ser 255.255.255.0 (existen    innumerables otras alternativas, pero deben ser obtenidas de tablas especiales    para que funcione). Finalmente, se debe indicar el servidor DNS preferido, que    debe ser el número indicado en el computador nuevo (192.168.0.2 en el    caso del ejemplo) (figura 2).
+
+  
+
+La segunda fase consiste en compartir los archivos de ambos computadores    para que puedan ser accesibles. Ello se debe realizar en cada una de las carpetas    de cada uno de los computadores, eligiendo las que quedaran disponibles para    ser compartidas (figura 3).
+
+  
+
+Con el botón derecho del mouse se marca la carpeta y se    eligen sus propiedades. Luego, se accede a "sharing" o compartir y    se elige dicha alternativa.
+
+En Windows 2000, además se debe permitir que distintos    usuarios accedan al computador. Para ello, en el panel de control, se debe elegir    usuarios e incorporar al otro computador con una clave de acceso. En Windows    95 y 98, se debe crear una cuenta de usuario independiente (en el panel de control).    Se debe elegir un nombre de usuario y una clave. De no realizar este proceso,    no se podrá establecer conexión entre las computadoras. 
+
+Finalmente, en Windows 95, 98 y 2000, se debe acceder a través    de la red que generalmente se encuentra en el menú de inicio o en la    pantalla de comienzo. Cada computador tiene su propio nombre, el cual aparecerá    automáticamente al solicitar la búsqueda en el "grupo de    trabajo" o "workgroup".
+
+1. Unidad de Lactantes y Nutrición, Hospital    Luis Calvo Mackenna.E-mail: ecosoi@manquehue.net 

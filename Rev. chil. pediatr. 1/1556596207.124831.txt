@@ -1,0 +1,66 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062001000500014
+Cómo programar Outlook Express
+
+Eduardo Cosoi P.1
+
+1.	Unidad de Lactantes y Nutrición. Hospital Luis    Calvo Mackenna ecosoi@manquehue.net
+
+El programa más utilizado de correo electrónico    es generalmente el Outlook Express que viene junto con el Microsoft Explorer.  
+
+Dicho programa posee poderosas herramientas de selección    del correo entrante que permiten manejar de una manera más ordenada el    correo electrónico.
+
+Es útil el ordenar en carpetas el correo entrante, lo    que permite acumular email de distintas personas u organizaciones en forma automática    en las carpetas seleccionadas. 
+
+Se debe ir a à Herramientasà Reglas de Mensajeà    Correoà Nueva.
+
+
+
+
+
+ Existen las siguientes alternativas:
+
+
+
+En la sección 1 se debe marcar una:
+
+1.	Determinada persona envía el email       2.	Tema (subject)       3.	Palabra específica que aparece en cualquier parte del texto       4.	Determinado destinatario       5.	Cuando se envía con copia (CC) a un determinado destinatario de    correo       6.	Si el mensaje posee archivos adjuntos (attachments)       7.	Para todos los mensajes       8.	Combinaciones de las alternativas anteriores
+
+Luego, se debe seleccionar las acciones a realizar con el mensaje:
+
+
+
+1.	Moverlo a una determinada carpeta (que se puede crear    al momento de seleccionarla)       2.	Copiarlo a una determinada carpeta       3.	Eliminarlo       4.	Reenviarlo a otras personas       5.	Eliminarlo del servidor, etc.     
+
+El programa admite la alternativa de seleccionar varias reglas    simultáneamente y combinarlas de una manera lógica (y/o).
+
+Después de asignada las opciones, a la llegada del correo    electrónico, este se cargará a las carpetas especificadas. Si    se tiene un grupo de empresas que envían correo electrónico de    propaganda o que no nos interesan demasiado, se puede seleccionar una carpeta    especial donde se puedan recibir. Al asignar la línea "De",    basta ir agregando a la misma regla de correo nuevas personas o empresas con    el objeto de asignarles a todas ellas la misma carpeta. 
+
+
+
+
+
+Posteriormente se elige la carpeta deseada:
+
+
+
+Otro de los elementos importantes para programar apropiadamente    el Outlook es la frecuencia con que revisa el correo electrónico, especialmente    si se cuenta con una cuenta de conexión de banda ancha:
+
+
+
+En herramientas à opciones, se puede elegir con qué    frecuencia se "baja" el correo.
+
+
+
+
+
+Finalmente, un elemento que es fundamental a la hora de evitar    los virus, es el activar el programa antiviral para detectar email con virus.    Dicha función no está habitualmente activada y debe ser hecha    manualmente. 
+
+
+
+
+
+
+
+Se debe evaluar la función de email
+
+

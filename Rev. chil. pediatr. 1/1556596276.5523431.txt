@@ -1,0 +1,74 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062014000400007
+Secuenciación del gen CFTR en un grupo de pacientes chilenos con fibrosis quística
+
+RESUMEN
+
+Introducción: La    fibrosis quística (FQ) es un trastorno autosómico recesivo causado    por mutaciones en el gen CFTR, en el cual se han identificado más    de 1.900 mutaciones diferentes. En Chile, el panel diagnóstico con    las 36 mutaciones más comunes permite una tasa de detección cercana    al 50% de los alelos, mientras que en caucásicos la tasa es casi de 90%.    El objetivo fue ampliar la capacidad de detección mutacional en los pacientes    chilenos y buscar mutaciones que pudieran ser recurrentes a nivel local. Pacientes    y Método: Se evaluó la detección de alelos patogénicos    desconocidos mediante la secuenciación del gen CFTR en un grupo    seleccionado de pacientes del Programa Nacional de FQ (PNFQ). Se analizaron    39 pacientes, que cumplían los criterios diagnósticos de FQ y    que tenían sólo un alelo identificado con el panel mutacional.    Se realizó secuenciación masiva y para el análisis se utilizaron    las principales bases de datos de CFTR. Resultados: En este grupo    seleccionado de pacientes se identificó el segundo alelo patogénico    en 16 de los 39 pacientes (41%), encontrándose once diferentes mutaciones    que no se habían reportado en nuestra población. Según    nuestro conocimiento, una de las variantes no había sido descrita previamente.    Conclusiones: Se identificaron mutaciones que habían sido descritas    principalmente en poblaciones hispánicas y/o mediterráneas. Encontramos    una variante no reportada, aunque no encontramos mutaciones lo suficientemente    recurrentes que pudieran explicar la baja tasa de detección. El conocimiento    de las mutaciones permite otorgar un adecuado asesoramiento genético    y será fundamental para evaluar el potencial uso de nuevas terapias específicas    para las mutaciones. 
+
+Palabras clave: Gen CFTR,    Fibrosis quística, Mutación, Secuenciación masiva.
+
+ 
+
+Introducción
+
+La Fibrosis Quística (FQ)    es una enfermedad multisistémica de herencia autosómica recesiva,    con un incidencia de 1 en 2.000 a 1 en 3.000 nacimientos1. En Chile,    se estima que afecta a alrededor de 1 en 8.000 nacidos vivos2,3.
+
+El diagnóstico incluye    al menos una característica clínica típica (enfermedad    sinopulmonar crónica, insuficiencia pancreática, azoospermia obstructiva,    síndrome perdedor de sal) más la evidencia de disfunción    del canal de cloro CFTR (Cystic fibrosis transmembrane conductance regulator)    demostrada a través de la detección de una elevada concentración    de cloro en el sudor en 2 oportunidades, o una diferencia de potencial nasal    transepitelial (NPD) característico de FQ o la detección de dos    mutaciones en el gen CFTR causantes de FQ1,4.
+
+Hasta la fecha, más de    1.900 mutaciones diferentes han sido identificadas en el gen CFTR5,    con frecuencias muy variables entre las distintas poblaciones. La p.F508 del    (o deleción del aminoácido fenilalanina en la posición    508 del polipéptido) es la mutación más común, con    una frecuencia global promedio de 66%, pero con notables diferencias étnicas    que van desde 28% en Asia a un 70% en los Europeos del norte6. Otras    mutaciones llamadas "comunes" a nivel mundial, es decir con frecuencias >    1%, incluyen p.G542X, p.G551D, p.N1303K    y p.W1282X. El resto son relativamente infrecuentes6,7, y para muchas    de ellas, su rol patogénico no ha sido demostrado. Debido a que la gran    mayoría de las mutaciones no tienen estudios funcionales, surgió    el proyecto CFTR2 que ha permitido el análisis de más de 130 mutaciones    sin información funcional previa8.
+
+El panel mutacional para el diagnóstico molecular de FQ, que incluye las 36 mutaciones más comunes a nivel mundial, tiene una tasa de detección de menos de un 50% de los alelos en nuestros pacientes9, mientras que en pacientes caucásicos con FQ este panel tiene una tasa de detección de alrededor de un 90%10. Nuestro objetivo fue ampliar la capacidad de detección mutacional en los pacientes chilenos y buscar mutaciones que pudieran ser recurrentes a nivel local.
+
+Pacientes y Método
+
+Pacientes y aprobaciones éticas
+
+Los pacientes que ingresan al    Programa Nacional de Fibrosis Quística (PNFQ) cuentan con un diagnóstico    clínico de la enfermedad con test anormal de electrolitos en sudor, según    los criterios vigentes4. En ellos se realiza un estudio molecular,    consistente en un panel que incluye las 36 mutaciones más comunes a nivel    mundial. Para este reporte se estudiaron    treinta y nueve pacientes no emparentados, quienes permanecían con una    sola mutación identificada con el panel de 36 mutaciones. Los participantes    y sus representantes legales autorizaron y firmaron un consentimiento informado,    que consideró la toma de muestra para el estudio molecular en búsqueda    de mutaciones en el gen CFTR.
+
+Muestras
+
+Se estudió un grupo seleccionado de pacientes del Programa Nacional de Fibrosis Quística (PNFQ) en que faltaba detectar la segunda mutación patogénica, debido a que está reconocido que esta estrategia tiene más éxito en encontrar los alelos faltantes11. Mediante un método de secuenciación masiva, se analizó toda la secuencia codificante y los bordes exón-intrón del gen CFTR buscando mutaciones ya sea incluidas o no incluidas en el panel.
+
+Se purificó ADN genómico    desde linfocitos de sangre periférica utilizando el ensayo AxyPrepTM    Blood Genomic DNA Miniprep de Axygen Biosciences (Union City, California, EEUU).
+
+Análisis molecular
+
+Se prepararon las muestras utilizando el kit CFTR MASTR Assay v1.0 (Multiplicon N.V., Bélgica). El diseño experimental correspondió a la realización de dos PCR multiplex para cada paciente, generándose 34 amplicones específicos, que incluían los 27 exones del gen CFTR, más los segmentos intrónicos adyacentes.
+
+La secuenciación masiva    se realizó con el sistema de pirosecuenciación 454 GS Junior (Roche    Diagnostics Corporation, Basilea, Suiza)12. Todos los procedimientos    descritos se realizaron según las indicaciones de los fabricantes.
+
+El resultado de las secuencias    obtenidas para cada individuo fueron comparadas con la secuencia consenso de    CFTR utilizando el software GS Amplicon Variant Analyser v2.5p1 (Roche    Diagnostics Corporation, Basilea, Suiza) (figura 1). Todas    las variantes detectadas se confirmaron con secuenciación capilar (método    Sanger) y se contrastaron con los datos alojadas en las principales bases de    datos de FQ5,8,13,14.
+
+ 
+
+ 
+
+Resultados
+
+Se analizaron 39 pacientes, que    cumplían los criterios diagnósticos de FQ y que tenían    sólo un alelo identificado con el panel mutacional. En este grupo seleccionado    de pacientes se identificó el segundo alelo patogénico en 16 de    los 39 pacientes (41%), encontrándose once diferentes mutaciones, las    cuales no se habían reportado en nuestra población. Los resultados    se encuentran resumidos en la tabla 1. Cuatro de ellas fueron    encontradas en más de un individuo. Al mismo tiempo, en cada paciente    se corroboró la presencia de la otra mutación, previamente demostrada    por el panel comercial.
+
+ 
+
+ 
+
+Según nuestro conocimiento,    la variante c.308G>A (p.Gly103Glu), no ha sido descrita previamente en la    literatura (figura 1 y tabla 1).
+
+Las mutaciones determinadas se    clasificaron en: seis con sentido erróneo (missense), tres del    sitio de corte y empalme (splicing), una mutación sin sentido    (nonsense); y una deleción de 2 nucleótidos, que altera    el marco de lectura (frameshift) y a la vez que genera un codón    de termino prematuro.
+
+Adicionalmente, se encontró    la variante c.3080T>C en un paciente con un alelo p.F508del. Esta variante    se ha reportado como alelo complejo ya que comúnmente se encuentra en    cis con la mutación p.F508del y por sí sola no tendría    un rol patogénico815-21. Para corroborar que esta variante    fue heredada en cis con la mutación p.F508del se deberán    realizar estudios en los padres de este paciente.
+
+Discusión
+
+Este estudio comprendió un análisis completo de la secuencia codificante en un subgrupo de pacientes chilenos con FQ con sólo una mutación identificada. Se logró identificar un grupo de mutaciones que no están incluidas en el panel de las 36 mutaciones más comunes en la población mundial. La mayoría de estas mutaciones habían sido descritas en poblaciones con origen hispánico o del Mediterráneo. Esto es concordante con la observación de que las mutaciones más frecuentes en Chile tendrían un origen en la población del sur de Europa9.
+
+En este grupo, no encontramos mutaciones lo suficientemente recurrentes que pudieran explicar en gran parte la razón de la baja tasa de detección en nuestro país, siendo probable que existan muchas mutaciones "privadas" con baja frecuencia. Es así como la mutación más frecuente encontrada en nuestro grupo de estudio, la mutación c.1330_1331delAT (p.Ile444X), fue identificada en tres pacientes diferentes. En el resto de los casos, tres mutaciones fueron encontradas en dos pacientes y ocho fueron detectadas sólo en un paciente. Las mutaciones están siendo analizadas en la cohorte completa de pacientes con FQ que tienen alelos sin identificar, para establecer su prevalencia en el total de pacientes del PNFQ.
+
+Es interesante mencionar que    la variante c.308G>A (p.Gly103Glu), no ha sido descrita previamente, según    la revisión de las distintas publicaciones y bases de datos de mutaciones    de CFTR. Aunque no disponemos de datos funcionales, consideramos que    es posiblemente patogénica ya que es una mutación que, cambia    una glicina por un glutamato en el dominio de transmembrana MSD1 de CFTR.    Estudios in vitro nos permitirán    corroborar si el canal con la mutación es capaz de transportar iones    en forma adecuada.
+
+Basados en la experiencia internacional,    con la estrategia de estudiar la secuencia codificante completa de CFTR    y los segmentos intrónicos adyacentes a los exones, esperábamos    acercarnos a un 90% de tasa de detección en el total de alelos4.    Sin embargo, la gran proporción de alelos que permanecen no identificados    plantean interrogantes sobre otras razones de esta baja tasa de detección.    Un factor a considerar es referente a la certeza del diagnóstico clínico    de FQ. Sin embargo, todos los pacientes que participaron de este análisis,    al ingreso al PNFQ fueron seleccionados en base a criterios clínicos    y de laboratorio compatible, por lo que problemas de selección de pacientes    se hace menos probable.
+
+Respecto a la metodología    usada, la secuenciación masiva es una herramienta cada vez más    accesible y confiable para ya sea para el estudio de mutaciones puntuales. Actualmente,    es posible estudiar con fines clínicos los cambios genéticos que    involucren una única base nucleotídica, en el conjunto completo    de exones de un individuo (exoma)22, e incluso el genoma completo23.    Debido a que se genera una gran cantidad de información, el gran desafío    es la interpretación de la posible relevancia clínica de las variantes    detectadas y que pueden corresponder a nuestra variabilidad "normal" entre individuos24.
+
+En nuestro estudio, se hizo el análisis completo de la secuencia codificante del gen CFTR, no incluyendo regiones regulatorias ni la totalidad de la región intrónica, donde podrían encontrarse mutaciones con potencial patogénico. La secuenciación tiene limitaciones ya que no permite detectar rearreglos (deleciones y duplicaciones) del gen CFTR que también son causa de enfermedad, para ello será necesario analizar a estos pacientes con técnicas complementarias como el MLPA (Multiplex Ligation-dependent Probe Amplification), que detecta rearreglos cromosómicos de gran tamaño y no detectables por cualquier tipo de secuenciación25,26.
+
+El análisis con metodologías    complementarias (ej: MLPA) debe ser realizados en nuestros pacientes con FQ    para poder obtener un diagnóstico molecular certero. Esta información    redundará en un adecuado asesoramiento genético y en el último    tiempo ha cobrado mayor relevancia, debido al advenimiento de terapias personalizadas    según el tipo de mutación. A principios de 2012, la FDA ya ha    aprobado el uso de un medicamento que es específico para la mutación    p.G551D, el cual restaura la función proteica disminuyendo la concentración    de cloruro en el sudor, y mejorando la función pulmonar27,28,    mientras que otros medicamentos están en ensayos clínicos avanzados29-31.

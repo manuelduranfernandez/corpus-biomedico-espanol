@@ -1,0 +1,46 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062002000400014
+Fotografía digital: (I) Archivo de Imágenes
+
+Rev. Chil. Pediatr. 73 (4); 402-403, 2002
+
+Eduardo Cosoi P.1
+
+La fotografía digital se ha ido convirtiendo en forma progresiva en    una alternativa a la fotografía tradicional. Aunque todavía la    calidad de ésta última continúa superándola, la    flexibilidad y sencillez de la digital la ponen en un primer plano, en especial    en su uso médico. El tener que esperar el resultado de la fotografía,    la imposibilidad de modificarla de no obtener un resultado apropiado, la imposibilidad    de poder ser utilizada directamente en documentos computacionales, le dan una    gran ventaja a las fotografías digitales. En esta serie de artículos,    analizaré distintos aspectos de este interesante tema.
+
+En una primera etapa, conviene identificar los distintos tipos de formatos    que existen y sus distintas funciones.     
+
+000Imágenes Bitmap: están    compuesta de bits y es mostrada en la pantalla como pixeles. Las imágenes    Bitmap pierden resolución a medida que son agrandadas. Se las identifica    con la extensión .bmp.     
+
+000CGM (Computer Graphics Metafile) es    el estandard ANSI (American National Standard Institution) para vectores e imágenes    bitmap.      
+
+000CMYK (Cyan, Magenta, Yellow, and Black)    es un modelo de color sustractivo para imprimir en papel (permite hacer    un calce de los colores vistos en pantalla con los reales).     
+
+000GIF (Graphics Interchange Format)    es un formato del tipo bitmap para los gráficos y fotografías    identificado con la extensión .gif. Usualmente son de tamaño muy    pequeño y de baja resolución soportando hasta 256 colores.     
+
+000JPEG (Joint Photographic Experts Group):    es un formato de almacenamiento de imágenes que se identifica por la    extensión. jpg. Este formato utiliza el sistema Lossy compression, que    es una técnica de compresión que resulta en pérdida de    datos. Es el más ampliamente utilizado, ya que mantiene una buena resolución    con una gran compresión.     
+
+000JPEG 2000 es la respuesta    ISO (Inter-national Organization for Standardization) para un formato estándar    integrado. Dicho formato encapsula las características Flashpix del Digital    Imaging Groups de resolución independiente, tamaño independiente,    metadata, y un modelo no ambiguo del color.      
+
+000MPEG (Moving Picture Experts Group):    es un sistema de video digital con formato de compresión digital del    tipo video Lossy. Puede ser identificado por la extensión .mpg.     
+
+000MPEG-1: es un código    de video y audio para el almacenamiento digital de multimedia hasta 1.5 Mbit/s.    El estándar en los cuales se produce Video CD y MP3.     
+
+000MPEG-2: está diseñado    para producir imágenes de alta calidad (ej. 720 x 485 a 1.5 Mbits/sec).         
+
+000PCX (Picture Image): es un    tipo de formato utilizado por muchos programas. Fue desarrollado por Microsoft    Paintbrush y puede ser identificado por la extensión .pcx.      
+
+000TIFF (Tagged Image File Format): es    un formato que se utiliza frecuentemente para archivar imágenes debido    a que conserva en forma fidedigna la imagen original. Por ello, su tamaño    es mayor que la de otros formatos. Puede ser identificada por la extensión    .tif. Este formato habitualmente no es utilizado en la Web.     
+
+Otros formatos menos utilizados son: .EPS (Photoshop, un programa profesional    para el manejo de imágenes), .PCT (Picture), .PXR (Pixar), .TGA (Targa),    .SCT (Scitex, un sistema de impresoras profesionales), .RAW (un sistema binario    de almacenamiento de imágenes que es universal) y .PSP (Paint Shop Pro,    un programa de fácil uso).     
+
+La mayoría de las imágenes utilizan el formato JPEG. Este formato    es muy versátil ya que permite comprimir las imágenes manteniendo    una apropiada definición. Ello hace que imágenes de gran tamaño    puedan quedar manejables cuando son incluidas en presentaciones de Powerpoint    o al ser insertadas en documentos. Para ello, al momento de ser guardadas, la    mayoría de los programas de dibujo, permiten seleccionar el grado de    compresión (0 a 100%). Al aumentar la compresión disminuye la    definición. Un nivel del 30 a 50% permite mantener bastante bien la calidad    original. Para mantener la máxima calidad, se debe guardar en formato    TIFF (que también tiene la opción de compresión). Otros    formatos corrientes, tales como el BMP, característico de Windows, tienen    el inconveniente de que son muy grandes y de menor definición.      
+
+La fuente más corriente de imágenes provienen de cámaras    digitales, la Internet o de programas como Microsoft Office que contienen dibujos    o fotos en una base de datos. Las imágenes de las páginas Web    pueden ser guardadas en el disco duro apretando el botón derecho del    mouse sobre la imagen; en ese momento se desplega un menú que da la opción    de guardar dicha imagen. Ello permite ir construyendo una base de datos de imágenes.         
+
+En el próximo artículo analizaré los diferentes programas    utilizados para la edición de imágenes.
+
+
+
+ 
+
+1. Médico. Unidad de Lactantes    y Nutrición, Hospital Luis Calvo Mackenna.       E-mail:ecosoi@manquehue.net

@@ -1,0 +1,32 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062018000600770
+Sobre la pérdida de peso en recién nacidos a término en las primeras 48 horas post natales
+
+CARTA AL EDITOR
+
+Sobre la pérdida de peso en recién nacidos a término en las primeras 48 horas post natales
+
+About weight loss in full-term newborns in the first 48 hours after birth
+
+Manuel André Virú-Loza1 
+
+			
+
+1Médico Pediatra, Facultad de Medicina San Fernando, Universidad Nacional Mayor de San Marcos, Perú.
+
+
+
+
+
+Sr. Editor,
+
+He leído con mucho interés el artículo de Gallardo- López et al1, y hay ciertas acotaciones que podría ser prudente mencionar.
+
+Parece ser que los coeficientes estadísticamente significativos han sido interpretados de forma inversa. Por ejemplo, en la columna “2° Día” de la Tabla 2, se observa que el coeficiente de regresión para “cesárea” es -0,7251474. Asumiendo que la variable “pérdida de peso” está medida en unidades de porcentaje, que el análisis realizado es de regresión lineal múltiple y que la categoría a la que pertenece el coeficiente es justa mente “haber nacido por cesárea”, la interpretación de este coeficiente sería la siguiente: “en la población de estudio, haber nacido por cesárea disminuye la pérdi da de peso en 0,7251474% a comparación de aquellos que no han nacido por cesárea”. Esto significa que los que han nacido por cesárea tienen menor porcentaje de pérdida de peso, sin embargo en el artículo se des cribe lo contrario.
+
+A pesar que por el tamaño de muestra los resulta dos podrían considerarse precisos, idealmente se debe ría reportar intervalos de confianza en vez de valores p. Por otro lado, puede que no sea conveniente utilizar expresiones como “p < 0,1”. Si se asume un nivel de significancia de 0,05, existen valores p < 0,1 que pue den ser estadísticamente significativos y no significa tivos (ej.: 0,04 y 0,08 respectivamente). Por tanto la expresión “p < 0,1” no nos brinda mucha información y nos restringe a únicamente tener en cuenta la inter pretación dada por los autores en el resto del artículo. Finalmente, puede que en vez de utilizar la expresión “p = 0,000” sea mejor utilizar la expresión “p < 0,001”.
+
+La variable “cesárea” se ve en la Tabla 1 que consta de 4 categorías que para el estudio son mutuamente excluyentes (si se suma el número de sujetos nacidos por parto vaginal, cesárea, espátula y fórceps resulta en exactamente el número total de sujetos participantes en el estudio). Cuando se realiza el análisis multivariado debería mencionarse cuál fue la categoría de re ferencia. Se asume que es la categoría “parto vaginal”, pero debería detallarse más. Podría ser que se haya uni do las categorías “espátula” y “fórceps” con la catego ría “vaginal”, o simplemente podría haberse eliminado a aquellos en la categoría “espátula” y “fórceps” en el análisis.
+
+Es importante mencionar que los promedios repor tados de pérdida de peso el 1er y 2° día de vida1 guardan cierta correlación con el percentil 50 de las curvas de pérdida de peso desarrolladas en población de Califor nia, sin embargo se alejan de los valores descritos para aquellos alimentados exclusivamente con fórmula so bretodo más allá de las 24 horas de vida2,3. Además, pa rece ser que la pérdida de peso es diferente entre aque llos nacidos vía vaginal o por cesárea2,3. Por tanto, sería interesante describir para la población estudiada cómo se comporta la pérdida de peso en diversos grupos por separado. El estudio de Flaherman et al3 también está en las referencias del artículo de Gallardo-López et al1) pero no se detalla en el cuerpo del artículo el motivo por el que se cita dicho estudio.
+
+Estudios sobre la pérdida de peso neonatal son es casos en Latinoamérica. Gallardo-López et al1 aportan información que debería ser ampliada en futuros es tudios.

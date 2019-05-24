@@ -1,0 +1,520 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062001000400007
+Evaluación del programa de tratamiento de lactantes en riesgo nutricional en la Región Metropolitana
+
+INTRODUCCIÓN
+
+
+
+En 1993 el Ministerio de Salud (MINSAL) modificó los    criterios de evaluación nutricional en los menores de seis años,    cambiando el patrón de referencia y los puntos de corte para calificar    el déficit nutricional. Se consideró en riesgo de desnutrir a    los menores de dos años con un peso para la edad ubicado entre –1 y –2    DE respecto a la referencia NCHS-OMS y a los preescolares con una relación    peso para la talla en el mismo rango1.
+
+ A escala nacional las cifras demuestran una baja prevalencia    de déficit nutricional en los menores de 6 años (3% en riesgo    y 0,6% desnutrido), aunque la tasa es mayor en el segundo año de vida    donde el riesgo alcanza 8%2, 3.    En contraste, el sobrepeso y la obesidad superan en conjunto el 25%, adquiriendo    cada vez mayor prioridad en los programas de prevención y control4-7.  
+
+La alta vulnerabilidad del déficit nutricional en niños    pequeños amerita continuar los esfuerzos destinados a su reducción,    particularmente en zonas geográficas donde las prevalencias son superiores    al promedio nacional. Sin embargo, el único estudio que evaluó    la eficacia del actual programa de tratamiento mostró resultados desalentadores.    Según datos no publicados del propio MINSAL, la recuperación fue    de 28% en niños de 6 a 11 meses y 45% en lactantes mayores después    de seis meses de tratamiento. Ello sugiere la necesidad de profundizar el análisis    de los factores asociados a la evolución nutricional para desarrollar    estrategias que contribuyan a un mejor resultado, lo que constituye el propósito    de este estudio. 
+
+
+
+MATERIAL Y MÉTODO
+
+
+
+Se utilizó un diseño retrospectivo de observación    en una cohorte de lactantes de 6 a 18 meses con peso para la edad entre –1 y    –2 DE, atendidos en el SNSS. Para definir el tamaño muestral, arbitrariamente    se estimó un cambio en el peso/edad de 0,2 + 0,8 DE durante la    intervención, 95% de nivel de confianza y 80% de error beta, lo que determinó    la necesidad de estudiar 150 casos8, 9.    La selección de la muestra fue aleatoria y por etapas en tres servicios    de salud de la Región Metropolitana y fue descrita en una publicación    previa10.
+
+ Se elaboró una formulario estructurado para recoger    desde la ficha clínica y tarjetero del Programa Nacional de Alimentación    Complementaria información antropométrica, médica, social    y sobre el retiro de alimentos. Ingresaron al estudio 174 casos y a partir de    los datos antropométricos se determinó la relación peso/edad,    talla/edad y peso/talla y la tasa de recuperación nutricional (peso/edad    > 0,9 DE). La evolución nutricional fue calificada como satisfactoria    cuando al final de la intervención cambió el estado nutricional    de desnutrición a riesgo, de riesgo a normal o se mantuvo la condición    de normalidad del ingreso, en los pocos casos que ingresaron normales. Como    insatisfactoria se consideró la evolución de normal a riesgo o    desnutrición o cuando se mantuvo la condición de riesgo inicial.    El análisis se efectuó incluyendo y excluyendo a los niños    pretérminos (9,9%); como no hubo diferencias en la evolución de    ninguno de los indicadores antropométricos entre ambos grupos, se optó    por su inclusión, conformando un solo grupo. En cada caso se constató    el índice de calidad de atención que considera 14 variables y    que fue descrito en detalle en una publicación anterior10.
+
+ El análisis antropométrico se efectuó    con el programa ANTHRO y el procesamiento de los datos con el programa STATA    versión 6.011. El análisis consideró    estadísticas descriptivas, prueba de c2 y    regresiones logísticas de un factor y de factores múltiples. Se    consideró como variable dependiente la evolución nutricional insatisfactoria    del peso/edad y como variables de exposición los antecedentes biomédicos    de los menores, características del hogar y el índice de calidad    de atención. La mayor parte de las variables fue analizada en forma categórica:    edad materna menor de 25 años, escolaridad materna inferior a 8 años,    madre sola o con unión inestable, peso de nacimiento < de 3 000 g,    edad de ingreso inferior a 12 meses, morbilidad previa al ingreso, aplanamiento    de la curva de peso superior a 3 meses antes del ingreso, ingesta alimentaria    inadecuada, lactancia materna exclusiva inadecuada (< de 3 o >    a 7 meses), retiro irregular de alimentos, índice de calidad de la atención    < a 9. La razón de disparidad establecida (OR) refleja el riesgo    de una evolución insatisfactoria asociado a la presencia de la variable    de exposición. Para el análisis multivariado se usó la    técnica paso a paso, retirando las variables cuyo aporte al modelo no    era significativo. En todos los casos se aceptaron como significativas diferencias    con una probabilidad < 0,05.
+
+
+
+RESULTADOS
+
+
+
+Las características generales de los casos estudiados    se presentan en la tabla 1. Los niños pertenecían    a hogares con madres jóvenes, que en el 39,7% de los casos eran mujeres    solas o con convivencia inestable. El nivel de escolaridad es similar al promedio    de los beneficiarios del sistema publico de salud. El peso promedio de nacimiento    fue relativamente adecuado, pero destaca un 18,6% con peso < 2 500    g. La mayor parte de los niños ingresó al programa alrededor del    año de edad y después de varios meses de presentar una curva de    peso aplanada.
+
+Tabla 1
+
+Características generales de la población estudiada
+
+
+
+Variable 
+
+Promedio 
+
+DE 
+
+Rango 
+
+Edad padre años
+
+Edad madre años
+
+Escolaridad padre años
+
+Escolaridad madre años
+
+Personas en el hogar número
+
+Peso de nacimiento (g)
+
+Talla de nacimiento (cm)
+
+Edad ingreso al programa meses
+
+Peso ingreso (g)
+
+Talla ingreso (cm)
+
+Tiempo aplanamiento curva de peso meses       
+
+29,6
+
+26,1
+
+8,9
+
+9,3
+
+4,6
+
+3.160
+
+49,0
+
+10,5
+
+8.000
+
+69,6
+
+5,8       
+
+8,1
+
+6,9
+
+3,3
+
+3,0
+
+1,9
+
+517
+
+2,4
+
+3,5
+
+1.100
+
+4,8
+
+2,6       
+
+15-55
+
+14-45
+
+0-15
+
+0-13
+
+2-16
+
+1.060 - 4.240
+
+37 - 53
+
+4 – 19
+
+5.200 – 10.400
+
+58,5 – 81,5
+
+2-15       
+
+
+
+El déficit ponderal en el 46% de los casos fue explicado    por factores alimentarios (alimentación insuficiente, lactancia natural    prolongada, mal manejo en el período de destete), en el 11% por la presencia    de episodios de morbilidad y en el resto la etiología fue mixta, dando    como resultado que en la mayoría de los casos la alimentación    desempeñó un papel preponderante.
+
+Al ingreso al programa el 82% cumplía efectivamente    con el criterio de riesgo según la norma actual, 2% estaba desnutrido    y el 16% restante presentaba un peso/edad en el rango de la normalidad, aunque    en el límite inferior de la curva y con un aplanamiento sostenido por    varios meses que ameritaba la intervención. El 83% de los casos cumplió    la norma de permanencia máxima de 6 meses en el programa y más    de la mitad egresó justo al cumplirse los 6 meses de intervención.  
+
+En ninguno de los indicadores antropométricos hubo un    cambio importante durante el tratamiento (tabla 2). Hubo    una discreta mejoría del peso/edad y talla/edad y un leve deterioro del    peso/talla, de poco significado biológico. La mejoría en talla    fue equivalente a la recuperación de aproximadamente 0,6 cm. 
+
+El 42,4% de los niños calificados en riesgo de desnutrir    mejoró su estado nutricional durante la intervención, una proporción    similar mantuvo el diagnóstico de ingreso y el resto deterioró    su estado nutricional (tabla 3). No se observaron diferencias    en la evolución del peso/edad en función de la relación    peso/talla de ingreso. La evolución fue más negativa en los 27    lactantes que ingresaron con peso/edad normal, ya que el 44% deterioró    su estado nutricional, reforzando la idea de que era un grupo de alto riesgo.
+
+Tabla 2
+
+Promedio y DE del puntaje Z de los indicadores antropométricos           durante la permanencia en el programa
+
+Control 
+
+n 
+
+Peso/edad
+
+Promedio ± DE 
+
+Talla /edad
+
+Promedio ± DE 
+
+Peso /talla
+
+Promedio ± DE 
+
+Ingreso
+
+A los 3 meses
+
+A los 6 meses
+
+Egreso     
+
+174
+
+168
+
+122
+
+174     
+
+-1,25 ± 0,38
+
+-1,26 ± 0,50
+
+-1,31 ± 0,59
+
+-1,12 ± 0,80     
+
+- 1,26 ± 0,75
+
+- 1,15 ± 0,75
+
+- 1,17 ± 0,92
+
+- 1,07 ± 1,01     
+
+- 0,42 ± 0,56
+
+- 0,61 ± 0,62
+
+- 0,76 ± 0,53
+
+- 0,63 ± 0,69     
+
+Ingreso vs egreso     
+
+p 0,06     
+
+p < 0,02     
+
+p < 0,005     
+
+
+
+ Tabla 3
+
+Evolución de la relación peso/edad durante la    permanencia en el programa en niños que ingresaron en riesgo (peso/edad    entre –1 y –2 DE)
+
+Diagnóstico de egreso
+
+según peso/edad 
+
+Relación peso/talla al ingreso 
+
+< – 1 DE > – 1 DE
+
+Desnutrición < – 2 DE
+
+Riesgo –1 a – 2 DE
+
+Normal > – 1 DE
+
+Total      
+
+ 2
+
+12 
+
+11 
+
+25      
+
+8,0
+
+48,0
+
+44,0
+
+100,0 
+
+19 
+
+43 
+
+45 
+
+107      
+
+17,8
+
+40,2
+
+40,0
+
+100,0 
+
+21 
+
+55 
+
+56 
+
+132      
+
+15,9
+
+41,7
+
+42,4
+
+100,0 
+
+ c 2 1,53    ns 
+
+
+
+Al considerar los otros indicadores antropométricos    se puede apreciar que la evolución fue más favorable en aquellos    niños con déficit de peso/talla inicial (tabla    4).
+
+Las únicas variables que se asociaron con la evolución    insatisfactoria fueron la edad de la madre y el tipo de unión (tabla    5). El riesgo de una evolución insatisfactoria fue casi dos veces    mayor en madres menores de 25 años y el triple en madres solas o con    unión inestable. Ninguna de las otras variables estudiadas se asoció    con la evolución, incluyendo la calidad de la atención, el número    de controles o el retiro de alimentos. Los análisis multivariados retuvieron    en el modelo solo al tipo de unión, con un riesgo 3 veces mayor de evolución    insatisfactoria en madres solas o con unión inestable (R2 0,05, p <    0,01).
+
+Tabla 4
+
+Distribución según la evolución nutricional    para los diferentes       indicadores antropométricos
+
+
+
+Evolución 
+
+Peso /edad 
+
+Peso/talla 
+
+Talla/edad 
+
+n 
+
+% 
+
+n 
+
+% 
+
+n 
+
+% 
+
+Satisfactoria 
+
+ Insatisfactoria
+
+ 
+
+77
+
+95        
+
+44,8
+
+55,2        
+
+119
+
+53        
+
+69,7
+
+30,4        
+
+91
+
+81        
+
+52,9
+
+47,1        
+
+Total        
+
+172        
+
+100,0        
+
+172        
+
+100,0        
+
+172        
+
+100,0        
+
+
+
+
+
+Tabla 5
+
+Razón de disparidad (OR) y 95% de intervalo de confianza       de una evolución nutricional insatisfactoria según peso para la    edad
+
+Variable 
+
+OR 
+
+95% IC 
+
+p 
+
+Edad de la madre < 25 años
+
+Escolaridad materna < 7 años
+
+Tipo de Unión (1)
+
+Peso de nacimiento < 3.000
+
+Ingreso al programa < 12 meses
+
+Antecedentes morbilidad (2)
+
+Ingesta inadecuada (2)
+
+Tiempo aplanamiento curva > 3 meses
+
+Número de controles < 4 
+
+Retiro de alimentos (2)
+
+Episodios morbilidad número
+
+Consultas médicas número
+
+Calidad de atención < 9 puntos      
+
+1,84
+
+1,17
+
+2,98
+
+1,22
+
+1,51
+
+1,01
+
+1,53
+
+1,25
+
+0,96
+
+1,76
+
+1,02
+
+1,19
+
+1,23      
+
+1,01
+
+0,58
+
+1,47
+
+0,65
+
+0,81
+
+0,64
+
+0,76
+
+0,59
+
+0,67
+
+0,62
+
+0,74
+
+0,86
+
+0,62      
+
+3,38
+
+2,34
+
+6,04
+
+2,22
+
+2,83
+
+1,57
+
+3,07
+
+2,64
+
+1,37
+
+4,92
+
+1,41
+
+1,64
+
+2,44      
+
+< 0,05
+
+ns
+
+< 0,001
+
+ns
+
+ns
+
+ns
+
+ns
+
+ns
+
+ns
+
+ns
+
+ns
+
+ns
+
+ns      
+
+(1) Madres solas o con convivencias inestables versus    uniones regulares.       (2) Con antecedentes de morbilidad versus sin antecedentes; ingesta inadecuada    versus adecuada, retiro de alimentos adecuado versus inadecuado. 
+
+DISCUSIÓN
+
+
+
+Los resultados demuestran el efecto insuficiente del programa    de tratamiento del riesgo de desnutrir en la recuperación nutricional    de los lactantes. A ello hay que agregar que cerca del 20% no solo no se recuperó    durante la intervención, sino que experimentó un deterioro en    los diferentes indicadores.
+
+El poco efecto observado conduce a la discusión sobre    cuáles debieran ser los resultados esperados con la intervención.    La diferenciación entre los factores genéticos y ambientales en    la etiología del retardo de crecimiento determinan en forma importante    las probabilidades de recuperación. Diversos hechos sugieren que en esta    población priman los factores ambientales, donde sería esperable    un mayor efecto del tratamiento: prevalencia de bajo peso al nacer tres veces    mayor que el promedio nacional, alta proporción de niños con ingesta    inadecuada, descenso de la curva de crecimiento por períodos prolongados    y alta incidencia de morbilidades infecciosas (3 a 6 episodios en un tercio    de los menores durante la intervención). También es relevante    considerar que los niños provienen de hogares donde el 40% de las madres    son solas o mantienen uniones inestables y 73% son adolescentes o bastante jóvenes.
+
+También es necesario analizar los eventuales problemas    derivados de las normas vigentes y su aplicación. La mayoría de    los niños egresó al cumplirse los 6 meses de intervención,    tiempo que parece ser insuficiente, particularmente cuando existe una evolución    favorable de la talla para la edad y deterioro del peso para la talla (28% de    los niños egresados). El temor de generar obesidad al prolongar la intervención    resulta injustificado al menos en estos casos y revelan la aplicación    poco flexible de las normas, la falta de incorporación del peso para    la talla en la evolución nutricional y la ausencia de criterios de alta    según la evolución específica de los menores. También    es necesario considerar que uno de los alimentos que utiliza el programa de    refuerzo (arroz) tiene muy bajo valor nutricional y alta dilución intrafamiliar.    Un estudio del PNAC demostró que menos del 10% del arroz era efectivamente    consumido por el beneficiario12. 
+
+ Los resultados de este estudio sugieren la necesidad de incorporar    los tres indicadores antropométricos en el análisis de la evolución    nutricional de los niños, definir criterios de alta y un modelo de intervención    más integral, coordinado con la red social y con otros programas públicos    que atienden problemáticas específicas. Sugieren la persistencia    de problemas de déficit nutricional en sectores sociales vulnerables    y la necesidad de poner especial atención en la capacitación de    madres jóvenes, solas o con convivencia inestable, que constituyen importantes    factores de riesgo. También refleja la necesidad de articular mejor el    programa nutricional de riesgo de desnutrir con el programa de embarazo de la    adolescente, prolongándolo en el postparto y en el período de    destete. A la vez, refuerza la necesidad de explorar y evaluar nuevas alternativas    de suplementación, con alimentos de mayor valor nutricional y que sean    mejor focalizados al grupo objetivo13. 

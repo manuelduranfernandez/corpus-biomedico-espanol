@@ -1,0 +1,92 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062015000200002
+Predisposición genética y síndrome de distrés respiratorio agudo pediátrico: nuevas herramientas de estudio genético
+
+ 
+
+Síndrome de distrés respiratorio agudo, un problema relevante
+
+El síndrome de distrés respiratorio agudo (SDRA) es una forma devastadora de insuficiencia respiratoria, que se caracteriza por una intensa inflamación y el aumento de la permeabilidad vascular pulmonar en respuesta a una noxa aguda, tal como neumonía, sepsis, trauma o aspiración1,2. Desde una perspectiva clínica, se caracteriza por síntomas respiratorios agudos, opacidades bilaterales en imágenes de tórax e hipoxemia, en ausencia de insuficiencia cardiaca o sobrecarga de fluidos (definición de Berlín de SDRA)1. Fisiopatológicamente, el SDRA se caracteriza por la presencia de noxa epitelial y endotelial, acumulación anormal de fluido extravascular pulmonar, hemorragia alveolar y alteración dela homeostasis del surfactante3. Durante la última década se ha visto un progreso sin precedentes en la comprensión del SDRA, pero su tratamiento es exclusivamente de soporte (ventilación mecánica y soporte hemodinámico). El SDRA consume una fracción significativa de los recursos dedicados a la medicina de alta complejidad, con una incidencia ajustada por edad de 86,2/100 000 personas-año. Aproximadamente 190600 casos de SDRA se diagnostican cada año solo en los Estados Unidos, asociados a 74500 muertes (mayores que aquellas causadas por enfermedad pulmonar obstructiva crónica o VIH) y 3,6 millones de días de hospitalización4. El SDRA es la principal causa de insuficiencia respiratoria aguda en niños; representa el 66-79% de los casos, con una mortalidad cercana al 40% y una frecuente morbilidad a largo plazo en los supervivientes4-9. De este modo, las intervenciones destinadas a prevenir o tratar el SDRA pueden tener un impacto significativo en cuidados intensivos y salud pública.
+
+Predisposición genética a SDRA
+
+A pesar de la ocurrencia frecuente de lesiones capaces de causar un SDRA, solo una minoría de los pacientes lo desarrolla10. La comprensión actual del SDRA es aún incompleta, ya que en su predisposición y pronóstico están implicados factores genéticos. Por ejemplo, una fuerte asociación en el riesgo de desarrollar infecciones graves, principal desencadenante de SDRA, ha sido descrita entre niños adoptados y sus padres biológicos11. Del mismo modo, la predisposición a SDRA es notablemente distinta entre grupos étnicos de una misma población, hecho que no puede explicarse completamente por factores socioeconómicos12. Además, estudios encepas de roedores consanguíneos han encontrado diferencias en la predisposición y la gravedad del SDRA, identificando múltiples loci involucrados, y han demostrado la naturaleza multigénica de esta condición13-15.
+
+Marcadores genéticos versus proteicos para estudiar el SDRA
+
+Durante los últimos 20 años, múltiples estudios han reportado el rol de mediadores proteicos en el curso del SDRA, como citoquinas y factores de crecimiento16. Estos biomarcadores han mostrado predecir el desarrollo y la gravedad del SDRA, contribuyendo fuertemente en el entendimiento dela patogénesis de esta enfermedad17-27. Sin embargo, han presentado algunas limitaciones que afectan a la reproducibilidad de los hallazgos. La concentración de marcadores proteicos varía según la noxa precipitante y el curso temporal de la enfermedad. Algunos de ellos deben ser medidos idealmente por lavado bronco alveolar, procedimiento invasivo y vulnerable a problemas técnicos, no siempre seguro y apropiado para un paciente críticamente enfermo. En contraparte, el ADN puede ser extraído fácilmente y en forma segura desde una muestra sanguínea, el genotipo permanece constante durante toda la vida del sujeto y podría ser utilizado para predecir la predisposición a esta enfermedad.
+
+Polimorfismos genéticos para estudiar enfermedades complejas
+
+La epidemiología genética es una disciplina que estudia el rol de factores genéticos y su interacción con el ambiente, en la predisposición y los resultados de enfermedades en una población28. Tras completar el International HapMap Project y el 1000 Genomes Project, esfuerzos internacionales para catalogar similitudes y diferencias entre humanos, se ha obtenido una cantidad considerable de información sobre la variación del genoma humano29-33. Dos fuentes de variación en el ADN han sido profusamente investigadas como explicaciones potenciales de las diferencias interindividuales en la predisposición a enfermar; estos son los polimorfismos de nucleótido simple (SNP, single nucleotide polymorphism) y las variantes en el número de copias (CNV, copy number variation) (fig. 1).
+
+ 
+
+
+
+Figura 1 Variantes genéticas comunes y la predisposición a enfermedades complejas.
+
+ 
+
+Los SNP ocurren con una frecuencia de 1/300 a 1/1000 nucleótidos, y los más comunes son bialélicos. El HapMap Project y el 1000 Genomes Project han catalogado sobre 3 millones de SNP32-34. Algunos están localizados en regiones regulatorias, aunque la mayoría parecen ser SNP silentes (no modifican la codificación de un aminoácido). El mapeo de desequilibrio de ligamiento de los SNP ha mostrado la existencia de bloques de haplotipos en el genoma humano. El término haplotipo se refiere a una combinación particular de SNP que están vinculados entre sí. La mayor parte dela estructura de haplotipos en una región cromosómica particular puede ser capturada por la genotipificación de un número pequeño de SNP que sirven como marcadores de otros SNP cercanos. En efecto, si un polimorfismo incrementa el riesgo de una enfermedad, el análisis de haplotipo puede discernir cuál de los SNP cercanos o combinaciones de SNP causan esta enfermedad35,36.
+
+Las CNV son otro tipo de variante del genoma de identificación más reciente, que han sido definidas como un segmento de ADN ≥ 1 kb presentes en un número variable de copias en comparación con el genoma de referencia37,38. Deleciones, duplicaciones, inserciones, inversiones y translocaciones representan algunos de los procesos resultantes en CNV. En los años recientes ha aparecido evidencia acumulativa que las CNV están presentes en el genoma de individuos sanos, estimándose que equivaldría al 15-18% del genoma y siendo más comunes que los SNP y, por ende, una rica fuente de diferencias interindividuales en el riesgo genético de enfermar37-42.
+
+Estas dos variantes genéticas pueden alterar la expresión génica, determinando diferentes fenotipos. Existe evidencia fehaciente de que estas variantes genéticas tienen una implicación en la predisposición y el pronóstico de muchas enfermedades, pero su impacto en pacientes críticamente enfermos es aún un tópico emergente.
+
+Aproximación de gen candidato en SDRA
+
+La aproximación de gen candidato implica una selección a priori de genes y polimorfismos que pudieran estar relacionados con la patogénesis de la enfermedad. A pesar de sus limitaciones, ha sido la aproximación genética de elección en SDRA. Se enfoca en genes específicos, seleccionados considerando mecanismos celulares y moleculares de la lesión pulmonar, como daño epitelial y endotelial, inflamación tisular, estrés oxidativo y coagulopatía43,44.
+
+La aproximación de gen candidato ha contribuido a dilucidar las bases genéticas del SDRA e identificar potenciales nuevos blancos terapéuticos. Por ejemplo, nuestro grupo encontró asociación entre polimorfismo inserción/deleción dela enzima convertidora de angiotensina (ECA) e hipoxemia grave en niños con SDRA. Los pacientes portadores del alelo D tuvieron mayores niveles plasmáticos de angiotensina II, confirmando que este es un polimorfismo funcional, y evidenciándose además una fuerte interacción gen-ambiente45.
+
+Hasta ahora, veintinueve polimorfismos genéticos han sido asociados con la predisposición y/o la mortalidad por SDRA. Las variantes genéticas pueden conferir protección o riesgo, con odds ratio (OR) entre 0,27 y 9,95, al evaluarlos individualmente46. Estos estudios analizaron un número limitado de genes, pero las complejas interacciones gen-gen y gen ambiente hacen necesario realizar estudios que exploren un amplio número de variantes en pacientes con SDRA.
+
+Además, es importante considerar que solo tres estudios fueron realizados en pacientes pediátricos, existiendo diferencias fisiológicas y etiopatogénicas relevantes respecto a población adulta (tabla 1)8,47-49, por lo que sería inapropiado asumir que los mismos genes identificados en adultos estén involucrados en la predisposición a desarrollar SDRA pediátrico.
+
+ 
+
+Tabla 1 Variantes en genes candidatos asociadas
+
+
+
+DIP: polimorfismo deleción/inserción (287-pb) en el intrón 16 del gen ECA; rs: indicador          de identificación o referencia del polimorfismo de nucleótido simple (SNP); SDRA: síndrome          de distrés respiratorio agudo; VM: ventilación mecánica.
+
+ 
+
+Estudio de asociación del genoma completo (GWAS): una herramienta poderosa para identificar variantes genéticas asociadas a SDRA
+
+La hipótesis de variante común/enfermedad común establece que desórdenes comunes son influenciados por variantes genéticas que también son comunes en la población. Se supone que si la variante genética común incide en una enfermedad, la penetrancia o el tamaño del efecto de ella debe ser pequeña, porque una variante deletérea de alta penetrancia no puede tener una frecuencia alta en la población. Dada la alta mortalidad del SDRA, podemos suponer la asociación de múltiples variantes comunes de baja penetrancia. La limitación en la aproximación de gen candidato, la cual detecta solo genes con gran penetrancia, puede ser resuelto con el estudio de asociación del genoma completo (GWAS, del inglés Genome-Wide Association Study) (fig. 2). Vasta evidencia ha demostrado que variantes genéticas comunes con escaso efecto fisiológico pueden modificar la predisposición a enfermedades multigénicas50-55.
+
+ 
+
+
+
+Figura 2 La estrategia para la identificación de variantes genéticas depende de          su frecuencia alélica y penetrancia (tamaño del efecto).
+
+ 
+
+Actualmente, el GWAS mide y analiza más de 1,8 millones de variaciones de la secuencia de ADN a través de todo elgenoma humano (más de 900000 SNP y 945000 CNV), para identificar factores de riesgo genético para enfermedades comunes en la población56. Por tamizaje simultáneo, el GWAS tiene la habilidad de detectar asociación de enfermedades con genes previamente insospechados.
+
+Múltiples metodologías están disponibles a gran escala, de alto rendimiento para genotipificar SNP. Estas tecnologías permiten detectar simultáneamente cientos de miles de SNP en miles de pacientes y se acoplan a programas computacionales para el control de calidad y análisis estadístico55. Dado el aumento de la densidad de los SNP que se ha producido en los ensayos durante los últimos 8 años, estos chips también pueden detectar CNV en desequilibrio de ligamiento con un SNP37-40. La introducción de ensayos de SNP y CNV ha conducido a un gran número de estudios no sesgados de variantes a través de todo el genoma, permitiendo examinar una potencial asociación con múltiples fenotipos diferentes. Además, el GWAS es cada vez más accesible, de modo que se reduce el costo de la genotipificación de alto rendimiento. Basado en el análisis de datos del proyecto HapMap, más de un 80% de los SNP que ocurren comúnmente en la población pueden ser capturados utilizando un subconjunto de 0,5-1 mill ón de SNP repartidos por todo el genoma, de una manera costo-efectiva56.
+
+El GWAS ha mostrado ser una herramienta robusta en la identificación de variantes o locus genéticos en casi 40 enfermedades complejas, incluyendo asma57-59. El Wellcome Trust Case Control Study evaluó 500 000 SNP en 2000 casos para siete enfermedades comunes (trastorno bipolar, hipertensión, diabetes, etc.) para un total de casi 14000 casos y 3000 controles sanos del Reino Unido, equivalente a 8,5 billones de genotipos60, identificando nuevas variantes asociadas con estas enfermedades y reafirmando asociaciones previamente conocidas61.
+
+Asimismo, otros estudios han asociado CNV con enfermedades. Un ejemplo relevante es el hallazgo de deleciones recurrentes en pacientes con esquizofrenia62,63. Varios deestos loci o variantes no han sido previamente identificados por otros métodos, lo que ilustra el valor de esta aproximación64.
+
+Aunque ha habido mucho interés en el GWAS, este ha sido utilizado solo una vez en pacientes con SDRA, identificando a PPFIA1 (protein tyrosine phosphatase alpha 1) como un nuevo gen candidato funcional, no detectado por la aproximación de gen candidato65,66.
+
+El GWAS es una buena herramienta para mejorar nuestra comprensión de los factores genéticos que afectan a la predisposición y el pronóstico del SDRA, siendo inminente y necesaria su aplicación en SDRA pediátrico (fig. 3).
+
+ 
+
+
+
+Figura 3 Uso del GWAS para la identificación de variantes genéticas asociadas a SDRA pediátrico.
+
+ 
+
+Conclusión
+
+El SDRA es una enfermedad común con un amplio rango de manifestaciones fenotípicas. La multiplicidad de factores involucrados en la variabilidad clínica de esta entidad nohan sido dilucidados, siendo la aproximación de gen candidato poco concluyente. El GWAS es una herramienta poderosa para identificar variantes genéticas o interacciones gen-gen en enfermedades complejas. Es integral, evaluando múltiples polimorfismos a través de todo el genoma, y sin sesgos hacia genes específicos, pudiendo identificar genes y vías patogénicas previamente insospechadas.
+
+Debido a la naturaleza compleja de enfermedades inflamatorias como el SDRA, es posible anticipar que múltiples variantes comunes contribuyen en su predisposición y pronóstico. Como el efecto de estas variantes debe ser relativamente modesto, podemos suponer que múltiples genes tienen efecto sinérgico o aditivo, modificando el riesgo de enfermar. Nosotros pensamos que nuevas variantes asociadas con el fenotipo SDRA pueden ser identificadas con el GWAS, generando nuevas hipótesis y potenciales blancos terapéuticos. Dado que su patogénesis y bases genéticas son parcialmente conocidas, la identificación de nuevos genes y vías patogénicas es crucial para el desarrollo de una aproximación terapéutica más racional y personalizada. En un futuro próximo, el manejo del SDRA en UCI podría incluir protocolos de fenotipificación que individualicen la estrategia terapéutica y mejoren la supervivencia.

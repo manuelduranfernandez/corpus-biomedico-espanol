@@ -1,0 +1,102 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062014000500003
+El tiempo de llene capilar prolongado es predictor de una saturación venosa central de oxígeno disminuida
+
+RESUMEN
+
+Introducción: Programas educativos de reanimación pediátrica establecen que un tiempo de llene capilar > 2 s es un indicador de shock. En unidades de emergencia, una barrera para la implementación de una reanimación precoz guiada por metas, teniendo como objetivo una saturación venosa central de oxígeno (ScvO2) ≥ 70%, es la inserción de un catéter venoso central (CVC). Objetivo: Determinar el valor predictivo de un tiempo de llene capilar > 2 s en la detección de ScvO2 < 70% en niños ingresados a la Unidad de Cuidados Intensivos. Pacientes y Método: Estudio prospectivo. Se incluyeron 48 niños ingresados en las primeras 24 h en UCI con CVC en la vena cava superior. De manera simultánea se determinaron ScvO2 y tiempo de llene capilar en talón o dedo de extremidad superior. Resultados: Se obtuvieron 75 mediciones pareadas de ScvO2 (75,9 ± 8,4%) y llene capilar (1,9 ± 1,0 s), observándose una correlación inversa entre llene capilar y ScvO2 (r = -0,58). El análisis de la curva ROC reveló una excelente capacidad del tiempo de llene capilar > 2 s para predecir una ScvO2 < 70% (AUC = 0,94, IC 95% = 0,87-0,98). Conclusiones: La prolongación del tiempo de llene capilar > 2 s es predictor de ScvO2 < 70% en niños críticamente enfermos. Este hallazgo apoya las recomendaciones actuales y podría ser relevante en unidades de emergencia donde el uso de CVC es limitado y la ScvO2 no está disponible.
+
+(Palabras clave: Tiempo de llene capilar, saturación venosa central de oxígeno, pediatría, reanimación).
+
+ 
+
+Introducción
+
+Actualmente es aceptado que una disminución de la saturación venosa central de oxígeno (ScvO2), obtenida a través de un catéter venoso central (CVC) en el territorio de la vena cava superior, puede revelar un desequilibrio entre el aporte y las demandas de oxígeno, y por lo tanto, disoxia tisular.
+
+En unidades de emergencia, intervenciones hemodinámicas basadas en la normalización de ScvO2 a valores ≥ 70% -reanimación precoz guiada por metas (early goal directed therapy)- han logrado disminuir la mortalidad en pacientes adultos sépticos1. Estos protocolos y paquetes de medidas han sido adoptados por la "Campaña Sobreviviendo a la Sepsis" y son recomendados por el American College of Critical Care Medicine en las guías de tratamiento del shock séptico pediátrico2.
+
+En general, cuando estas estrategias se han implementado en instituciones de salud, se ha observado una adherencia y cumplimiento menores a un 50%. Así, una de las principales barreras para la implementación de estos paquetes de medidas son el tiempo requerido y la dificultad técnica en insertar un CVC en sala de emergencia3-5.
+
+Numerosos grupos y programas educativos, incluida la Organización Mundial de la Salud, la Academia Americana de Pediatría, a través del curso Advanced Pediatric Life Support (APLS), la American Heart Association, a través del curso Pediatric Advanced Life Support (PALS) avalan el uso del tiempo de llene capilar (TLLC) como una importante herramienta clínica para identificar aquellos pacientes en riesgo de shock circulatorio6-7. Las guías del PALS y APLS establecen un tiempo de llene capilar > 2 s como indicador de shock y hacen énfasis en que una de la metas clínicas de la reanimación es su normalización a valores ≤  2 s.
+
+El objetivo de esta investigación es determinar el valor predictivo de un TLLC > 2 s en la detección de ScvO2 < 70% en niños ingresados a la Unidad de Cuidados Intensivos (UCI).
+
+Pacientes y Método
+
+Diseño
+
+Estudio prospectivo observacional realizado en la UCI pediátrica del Hospital Guillermo Grant Benavente de Concepción, aprobado por el Comité de Etica clínico de nuestro hospital. Esta UCI tiene 8 camas y admite pacientes de 1 mes a 15 años con todo tipo de patología médico quirúrgica a excepción de post operados de cirugía cardíaca. Durante el período de estudio de 12 meses (febrero 2009-febrero 2010), previo consentimiento informado, se incluyeron 48 niños ingresados en las primeras 24 h con CVC. En todos los pacientes se insertaron catéteres por vía yugular interna, siendo verificada su correcta localización con una radiografía de tórax.
+
+Se excluyeron pacientes con cardiopatías congénitas cianóticas, anemia (hemoglobina < 10 g/dL) y fiebre (temperatura (T°) > 38,5°C) durante la medición del TLLC y toma de la muestra sanguínea.
+
+Procedimientos
+
+El TLLC se definió como el tiempo que toma un lecho capilar distal en obtener su coloración después hayan sido vaciados por la aplicación de presión.
+
+El TLLC fue realizado por la enfermera a cargo del paciente, con la ayuda de un cronómetro y presionando durante 3 s el talón o dedo de extremidad superior, manteniendo la extremidad sobre el nivel del corazón para evitar el efecto del llene venoso. Los valores obtenidos de TLLC fueron aproximados a enteros cercanos. De manera simultánea se determinó la ScvO2 por el CVC. Las muestras sanguíneas fueron procesadas en un analizador de gases Cobas Òb 221 (Roche Diagnostics).
+
+Análisis estadístico
+
+Los datos continuos se presentan mediante mínimo, máximo, percentiles, medias y desviación estándar. Los datos categóricos se expresan en porcentaje. Se calculó correlación no paramétrica de Spearman entre la ScvO2 y el TLLC. Se generó una curva receiver operator characteristic (ROC) para evaluar el valor predictivo del TLLC en determinar ScvO2 < 70%. A partir de un valor del TLLC > 2 s, se realizó un análisis de sensibilidad y la especificidad, valores predictivos y razón de verisimilitud para la detección de ScvO2< 70%. Estos datos se presentan con sus intervalos de confianza (IC) al 95%. Los análisis se realizaron en el programa SPSS, versión 17. Un valor p < 0,05 fue considerado como estadísticamente significativo.
+
+Resultados
+
+Se realizaron setenta y cinco mediciones pareadas de ScvO2 y TLLC en 48 pacientes. Las características demográficas y diagnósticos de ingreso aparecen en la tabla 1. Seis (12,5%) de los ingresos fueron electivos. Veintitrés (48%) fueron pacientes con criterios de shock séptico y que requirieron drogas vasoactivas y 37 (77%) se encontraban en ventilación mecánica durante la medición. Los valores obtenidos de ScvO2 y TLLC fueron 75,9 ± 8,4% y 1,9 ± 1,0 s, respectivamente. Dieciséis de las mediciones de ScvO2 fueron inferiores a 70% y tres menores a 60%. Al momento de la determinación del TLLC, el lactato fue de 2,2 ± 2,0 mmol/L, el hematocrito de 31,3 ± 1% y la T° de los pacientes fue de 37,3 ± 0,6°C .
+
+ 
+
+Tabla 1. Características demográficas y clínicas de          los pacientes incluidos en el estudio
+
+
+
+ 
+
+El análisis de la curva ROC reveló una capacidad excelente del TLLC > 2 s para predecir ScvO2 < 70%, con un área bajo la curva de 0,94 (IC 95% 0,87-0,98, p = 0,0001, figura 1). El TLLC > 2 s presentó una sensibilidad de 86,7% (IC 95% 69-100) y una especificidad de 91,7% (IC 95% 85,7-99,4) para detectar ScvO2 < 70%. La razón de verosimilitud positiva fue de 10 con un valor predictivo positivo de 72 (tabla 2). La correlación no paramétrica de Spearman entre el tiempo de llenado del capilar y la saturación venosa fue de -0,58 < 0,0001, figura 2).
+
+ 
+
+
+
+Figura 1. Análisis de la curva receiver operator characteristic      (ROC). Demuestra la capacidad predictiva del tiempo de llene      	capilar  	para detectar ScvO2. ≤ 70%. ABC: Area bajo la curva.      	IC: Intervalo de confianza.
+
+ 
+
+Tabla 2. Sensibilidad, especificidad, valor predictivo positivo y negativo para el          tiempo    de llene capilar
+
+
+
+Sens: sensibilidad. Espec: especificidad .VP+: valor predictivo positivo.         VP -: valor predictivo negativo. RV +: razón de verosimilitud positiva.         RV -: razón de verosimilitud negativa.
+
+
+
+Figura 2. Correlación entre tiempo de llene capilar y saturación venosa          central    de oxígeno.
+
+ 
+
+Discusión
+
+Esta experiencia demuestra que el TLLC prolongado tiene una excelente capacidad de predicción de ScvO2 disminuida, en niños ingresados las primeras 24 h en UCI.
+
+Raimer y cols., realizaron 39 mediciones de ScvO2 y TLLC, en esternón o frente (central) y en talón o dedos de extremidades inferiores (periférico), en veintiún niños, 12 con shock séptico, en los que se encontró resultados similares a los nuestros, donde un TLLC < 2 s se asoció a ScvO2 > 70%. En esta experiencia el TLLC determinado en región central presentó un valor predictivo superior a la toma en zonas periféricas. También el TLLC presentó una correlación inversa con la ScvO2 con un r = -0,66 central y de -0,43 para la determinación periférica8.
+
+Nos llama la atención que los valores de la ScvO2 encontrados en nuestros pacientes fueron notoriamente más elevados de los valores observados en el estudio de Rivers, pero se asemejan a los reportados por otros autores en pacientes adultos ingresados a la UCI9-10. Lo anterior podría ser atribuido al diseño de nuestro estudio, ya que no fue realizado en sala de emergencias y no todas las mediciones fueron realizadas en las primeras horas de ingreso de los pacientes. El alto porcentaje de pacientes intubados y en ventilación mecánica durante la medición de la ScvO2 en nuestra serie puede haber contribuido a estos valores de ScvO2. Hernández y cols., demostró previamente que la maniobra de intubación puede aumentar significativamente los valores de la ScvO211.
+
+Nuestros hallazgos son consistentes con lo sugerido por Carcillo, en términos de que el uso de parámetros clínicos de fácil obtención como el TLLC, la frecuencia cardíaca y la presión arterial sistólica, pueden ser usados en atención primaria o en la sala de urgencias para identificar aquellos niños con riesgo de mortalidad y morbilidad funcional causadas por shock. En este estudio de 5.000 niños transferidos a cinco hospitales de alta complejidad, el uso adecuado de las guías del PALS, es decir normalización precoz del llene capilar a un valor de ≤ 2 s y de la presión arterial, resultó en una reducción de 2 veces en la mortalidad y la morbilidad funcional en estos niños12. Estos resultados fueron muy similares al reporte de Han y cols., quien encontró que cada hora de retraso en el uso de las guías PALS en la sala de urgencias se asoció con un aumento del 40% en la mortalidad en niños con shock séptico13.
+
+Otros autores, han planteado la necesidad de encontrar métodos más simples que la medición de la ScvO2 como meta en la reanimación inicial de la sepsis. Jones y cols., en un estudio multicéntrico de 300 adultos con sepsis severa o shock séptico, compararon el aclaramiento de lactato con la normalización de la ScvO2 como meta de resucitación. Se encontró que ambas estrategias fueron equivalentes, ya que la mortalidad hospitalaria fue similar en ambos grupos14. En esta misma línea, otro estudio multicéntrico de reciente aparición, también realizado en unidades de emergencia, sugiere que el empleo de protocolos de reanimación que incorporen la medición de ScvO2 no mejora el desenlace de pacientes adultos con shock séptico al compararlos con pacientes tratados sin la determinación de ScvO2 o terapia estándar15.
+
+A pesar de que su medición es afectada por múltiples factores externos y existe una gran variabilidad en la realización e interpretación del TLLC por el personal de salud, se ha demostrado que su determinación constituye uno de los signos clínicos más útiles en el diagnóstico de deshidratación en niños16,17.
+
+El uso del TLLC como herramienta clínica ha sido evaluado en niños con deshidratación severa, una causa frecuente de shock en pediatría. Saavedra y cols., demostró que el llene capilar se correlaciona con el grado de deshidratación y un TLLC > 3 s indicaría un déficit de fluidos mayor a 100 ml kg18. También, se ha establecido que en niños con malaria grave, un TLLC > 2 s es un predictor independiente de mortalidad y es altamente específico para detectar infecciones severas en unidades de emergencia pediátrica19-21.
+
+Algunas limitaciones de nuestro estudio la constituyen el hecho de que fue realizado en un solo centro, con pocos pacientes incluidos. Por escasez de personal, el llene capilar fue realizado por la enfermera a cargo del mismo paciente, lo que ciertamente puede introducir un sesgo. Este sesgo se atenúa si el llene capilar fue medido antes de tener el resultado del gas. No se evaluó la diferencia inter-observador para el TLLC previo al estudio.
+
+Las variables hemoglobina y T°, no afectaron nuestros resultados, ya que excluimos pacientes con anemia y fiebre al momento de la evaluación. Sin embargo, otros factores que influyen en la medición del TLLC, como las condiciones de iluminación y T° ambiental, no fueron controladas.
+
+El diseño de nuestro estudio no permitió investigar los cambios temporales del llene capilar en nuestros pacientes, por lo que en el futuro se debiera determinar si la normalización del TLLC tendría un impacto en el desenlace.
+
+Se debe hacer énfasis que estos resultados no pueden extrapolarse a mediciones en el territorio de la vena cava inferior, frecuentemente utilizados en pediatría. Por otro lado, se debe recordar que el llene capilar es una medición de la perfusión del lecho capilar distal, por lo que no es equivalente a otras variables hemodinámicas sistémicas.
+
+En la medida que el beneficio real de la medición continua o intermitente de la ScvO2 siga siendo motivo de controversia, creemos que la inspección del TLLC es un procedimiento seguro, no invasivo y fácil de realizar al lado de la cama del paciente, permitiendo al clínico identificar aquellos pacientes con hipoperfusión antes de continuar con procedimientos más invasivos.
+
+En conclusión, la prolongación del TLLC > 2 s es predictor de ScvO2 < 70% en niños ingresados a UCI lo que apoya las recomendaciones del PALS. Este hallazgo, podría ser relevante en unidades de emergencia o en un escenario hospitalario fuera de la UCI, donde el uso de CVC es limitado y la ScvO2 no está disponible. La normalización del TLLC es una meta clínica razonable cuando la inserción de un CVC no sea posible.

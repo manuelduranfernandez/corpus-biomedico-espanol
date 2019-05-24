@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062017000400003
+Análisis de los factores de riesgo de muerte neonatal en Chile, 2010-2014
+
+ 
+
+Introducción
+
+Los indicadores de salud materno-infantil son un reflejo no sólo del nivel de salud alcanzado, sino que también del nivel de vida y del estado de desarrollo de un país. Según cifras oficiales de la Dirección de Estadística e Investigación en Salud1 para el 2012, Chile se destaca por tener una tasa de mortalidad infantil de 7,4 por mil nacidos vivos, siendo la más baja de América del Sur2. Sin embargo, a pesar de que uno de los objetivos del Desarrollo del Milenio establecido por la Organización de Naciones Unidas (ONU) es llegar a una tasa de mortalidad infantil de 5,3 por mil nacidos vivos3, en Chile no se ha logrado bajar a menos de 7 por mil nacidos vivos en los últimos 5 años1. 
+
+La muerte neonatal, definida como aquella que ocurrió dentro de los primeros 28 días de vida, constituye un 72% de todas las muertes infantiles según las cifras publicadas por el Departamento de Estadísticas e Información en Salud de Chile (DEIS)1. A nivel país estas cifras de mortalidad neonatal no son uniformes. Por ejemplo, las tasas más altas de mortalidad neonatal se encuentran en las Regiones de Arica y Parinacota y Los Lagos1. 
+
+El período de mayor riesgo de muerte durante el primer año de vida es la etapa neonatal4. La muerte neonatal es un acontecimiento multifactorial. Según información de la Organización Mundial de la Salud (OMS), las causas principales de fallecimientos de recién nacidos son: nacimiento prematuro y bajo peso al nacer, infecciones, asfixia y traumatismos en el parto. Estas causas explican cerca del 80% de las muertes en este grupo de edad5. En Chile, se ha encontrado que las principales causas de muerte neonatal son las malformaciones congénitas, las anomalías cromosómicas, la prematurez y la sepsis neonatal4. Además, existen evidencias que asocian directa o indirectamente un mayor riesgo de muerte neonatal con factores maternos tales como; edad extrema6, baja escolaridad7, obesidad en el embarazo8, hipertensión y diabetes9,10; así como también con factores sociales como el estado civil y otras variables socioeconómicas11,12. La muerte neonatal se asocia también a factores relacionados con la atención del embarazo y parto, tales como control prenatal insuficiente y parto por cesárea13,14.
+
+Dado que el hospital de Chillán, es un hospital de referencia en la Región del Bío Bío, este estudio busca investigar a nivel local, factores de riesgo asociados a mortalidad neonatal durante los años 2010-2014.
+
+Pacientes y Métodos
+
+Este es un estudio retrospectivo que incluye niños con muerte neonatal (casos) y los compara con niños vivos (controles), aprobado por el Comité Ético Científico del Hospital de Clínico Herminda Martín de Chillán (ORD Nº 548 del 28/08/2014). Se consultaron las fichas clínicas y bases de datos secundarias, solicitando información a la unidad de estadística del hospital y al Servicio de Salud Ñuble. Toda la información se tabuló y compatibilizó utilizando una base de datos diseñada para el estudio. 
+
+El universo de estudio correspondió al total de recién nacidos vivos en el Hospital Clínico Herminda Martín, durante el período de análisis. Los criterios de inclusión para los casos fueron: parto ocurrido en el hospital, edad gestacional al nacer mayor o igual a 22 semanas, peso al nacer igual o mayor a 500 g, muerte ocurrida en el hospital dentro de los primeros 28 días de vida. Los criterios de inclusión para los controles fueron: parto ocurrido en el hospital, edad gestacional al nacer mayor o igual a 22 semanas, peso al nacer igual o mayor a 500 g, condición vivo al egreso. 
+
+La selección de los controles se realizó por muestreo aleatorio simple desde la base de datos estadística de los partos. Se seleccionaron dos controles por cada caso, pareados por lugar, año, mes de nacimiento y sexo. Para aquellos casos de recién nacidos fallecidos cuyo sexo fue indeterminado se eligieron sus controles aleatoriamente sin considerar sexo del recién nacido. Se excluyeron del estudio aquellos recién nacidos en los que no fue posible encontrar la información completa (partos ocurridos fuera del hospital y cuando las fichas clínicas no se encontraron). 
+
+Tomando en cuenta como variable dependiente la mortalidad neonatal, se consignaron 21 variables de estudio subdivididas en variables neonatales, maternas y de atención del parto (tabla 1). Se presentan en este análisis aquellas variables de exposición que se presentaron en más de tres casos en alguno de los grupos de estudio. 
+
+
+
+
+
+Tabla 1. Resumen variables estudiadas
+
+
+
+Se realizó un análisis descriptivo de las variables en donde las variables cuantitativas son expresadas en medias y desvíos estándares, mientras que las variables cualitativas se expresan en porcentaje respecto al grupo de estudio. Para establecer diferencias entre casos y controles, se realizó análisis bivariado utilizando la prueba t-student para comparar medias entre los grupos. Para el caso de las variables cualitativas se utilizó 2, con un nivel de confianza de 95%. Se calculó OR (odd ratio)mediante análisis de regresión logística binaria bruto y ajustado para cada factor de riesgo asociado significativamente a muerte neonatal en el análisis bivariado. Para el análisis de OR ajustado se excluyeron en todos los modelos los prematuros extremos (parto antes de las 32 semanas de gestación), aquellos con puntaje Apgar al minuto inferior a 3 puntos y las malformaciones congénitas incompatible con la vida. Las variables de ajuste se escogieron según reportes previos en la literatura1,6-11,19. No se evaluó interacción entre las variables de ajuste. Se realizó un análisis de Kaplan-Meier considerando la probabilidad de sobrevida del niño, ya sea global o asociada a parto prematuro (< 37 semanas y/o espontáneo). La comparación entre ambos grupos se realizó mediante el test de Mantel-Cox. Para el análisis estadístico se utilizó los programas SPSS versión 21 y Graph Pad Prism versión 6.0. 
+
+Resultados
+
+Según información aportada por la unidad de estadística del Hospital Clínico Herminda Martín, un total de 81 muertes neonatales ocurrieron durante el período 2010-2014. La tasa estimada de muerte neonatal en el hospital correspondió a 5,8 por mil nacidos vivos. De estas muertes neonatales, se revisaron 65 casos que cumplieron los criterios de inclusión (80% del universo en el hospital). 74% de estos recién nacidos fallecieron dentro de los primeros 7 días de vida. Este grupo se comparó con 130 recién nacidos vivos. 
+
+Las principales causas de muerte, según registro médico fueron prematurez (57%) y malformación congénita (29%). Las características de los recién nacidos estudiados se muestran en la tabla 2. La edad pediátrica promedio y el peso al nacer fue menor en el grupo de recién nacidos que fallecieron que el grupo control (p < 0,0001, en ambos casos). En ambos grupos se observó una mayor proporción de recién nacidos adecuados para la edad gestacional, 60% en el grupo casos y 82% en el grupo control. Sin embargo, se encontró una mayor proporción de recién nacidos pequeño para la edad gestacional (PEG) en el grupo de casos respecto al grupo control (32% vs 8%, p < 0,0001). 
+
+
+
+
+
+Tabla 2. Características de los recién nacidos estudiados
+
+
+
+Las características maternas se describen en la tabla 3. Existió un mayor porcentaje de estudiantes o madres que trabajan fuera del hogar en el grupo de los casos respecto a los controles, (71% vs 38%, p = 0,0001). Además, el antecedente de muerte perinatal fue superior en las madres cuyos recién nacidos fallecieron (8% vs 1%). No se encontraron diferencias en los antecedentes de diabetes o hipertensión en el grupo de madres estudiadas.
+
+
+
+
+
+Tabla 3. Características de las madres estudiadas
+
+
+
+
+
+
+
+Tabla 4. Factores relacionados a la atención del embarazo y parto
+
+
+
+
+
+
+
+Figura 1. Tasa de sobrevida asociado a prematurez y parto prematuro espontáneo (PPE). Muestra la sobrevida de los recién nacidos total (total casos) o asociada a parto prematuro (< 37 semanas y/o parto prematuro espontáneo). El parto prematuro estuvo presente en la mayoría de casos.
+
+
+
+En la tabla 5 se incluyen los datos de OR bruto y ajustado para los factores asociados a muerte neonatal. Según los OR ajustado, el riesgo de muerte aumenta 3 veces en los recién nacidos prematuros mayores de 32 semanas de gestación, comparados con los de término (p < 0,02). Según la relación peso para la edad gestacional, los neonatos PEG tienen un riesgo de muerte 4 veces mayor a los controles (p < 0,002). Mientras que el puntaje Apgar entre 4 y 7 al minuto de vida, también resultó ser un factor de riesgo estadísticamente significativo para muerte neonatal (OR ajustado = 4,4 IC 95% = 1,8-10,5; p = 0,001). 
+
+
+
+Tabla 5. Odd ratio (OR) bruto y ajustado para los factores de riesgo de muerte neonatal
+
+
+
+Respecto a los factores maternos, se encontró que el realizar una actividad fuera del hogar se asoció a al menos 4 veces más riesgo de muerte neonatal comparado con el grupo control (OR ajustado = 4,5; IC 95% = 2,3-8,7; p = <0,001). Y por último el parto por cesárea, se asoció con un aumento de 3 veces el riesgo de muerte (p < 0,001) (tabla 5). 
+
+Discusión
+
+Dentro de los factores de riesgo encontrados en este estudio, la prematurez fue una de las principales causas de muerte neonatal en el Hospital de Chillán. Los resultados confirman estudios nacionales e internacionales15,16. Además, la asfixia, malformaciones congénitas, membrana hialina y sepsis se encontraron como factores asociados a la muerte neonatal, confirmando también lo reportado en la literatura17. Las malformaciones congénitas en este estudio están presentes en 37% de los fallecidos, cifra inferior a lo publicado18, en donde se ha indicado que las malformaciones están presentes en 45% de los recién nacidos fallecidos en nuestro país. Las causas para esta diferencia no fueron estudiadas; sin embargo, guarda relación con la disímil tasa de mortalidad neonatal asociada a malformaciones encontrada en distintos establecimientos hospitalarios del país18. 
+
+Respecto a otros factores de riesgo tanto del neonato, como de la madre y de la atención del parto, encontramos ciertas particularidades en nuestro estudio. Por ejemplo, la literatura ha reportado que la edad de la madre6, el estado civil11, menor escolaridad7, presencia de hipertensión o diabetes9,10 y obesidad materna8,19, son factores de riesgo para muerte neonatal, lo cual no pudo ser comprobado en nuestro estudio. 
+
+En relación a la atención del embarazo y parto, solamente se encontraron diferencias significativas en cuanto a la vía del parto, siendo la tasa de cesárea más alta en el grupo de neonatos que fallecieron. Esta tasa fue 60%, la cual duplicó lo reportado a nivel nacional14. Las causas para estas diferencias no fueron analizadas en este estudio; sin embargo, indirectamente esto podría representar una mayor morbilidad tanto materna como fetal en el grupo de fallecidos previo al parto. 
+
+Como era de esperarse según la tasa de prematurez, la cantidad de controles prenatales fue menor en las madres con recién nacidos fallecidos. Sin embargo, si se considera que la normativa nacional señala que el 100% de las embarazadas debe tener control prenatal, es interesante resaltar que esto no se cumplió en ninguno de los dos grupos analizados (muerte neonatal y control). Un menor porcentaje de los casos de muerte neonatal cursaron con cumplimiento de esta normativa (94% y 99% de asistencia en casos y controles, respectivamente). Por ello, la recomendación es que los esfuerzos deberían centrarse en mejorar la captación precoz y seguimiento de las mujeres embarazadas.
+
+A través de análisis de regresión logística ajustado se resalta que el parto prematuro, PEG, puntaje Apgar bajo, madres que tienen ocupación fuera del hogar y parto por cesárea fueron entre 3 y 5 veces más frecuentes en los niños con muerte neonatal en relación al grupo control. Dentro de ellos, uno de los principales factores de riesgo reportados en la literatura15,17 y encontrado en este estudio, es el parto prematuro. Por ello, se hace necesario seguir dirigiendo los esfuerzos para la prevención de este tipo de parto patológico. Cabe recordar que el origen de la mayor parte de los partos prematuros fue espontáneo o por rotura de membranas, por lo que sería interesante revisar el cumplimiento del protocolo de atención de parto prematuro en los tres niveles de atención. Además como hallazgo en este estudio se encontró que 25% de las madres que tuvieron un parto prematuro espontáneo ingresaron al hospital en trabajo de parto avanzado o en expulsivo (datos no mostrados). 
+
+Estamos conscientes de que existen varias limitaciones en este estudio. Partiendo de que es un análisis retrospectivo. Sin embargo, incluimos 80% del universo de muertes neonatales ocurridas en el hospital, y analizamos tanto la ficha materna como los registros neonatales. Adicionalmente, se incluyó un grupo control para realizar estadística comparativa. No fue posible encontrar significancia estadística en factores de riesgo “clásicos” de muerte neonatal. Sin embargo, pese a la íntegra revisión de la ficha clínica, no es posible descartar un subregistro de los diagnósticos, en particular en casos de comorbilidad. 

@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062015000500005
+Valor predictivo de la procalcitonina en niños con sospecha de sepsis
+
+ 
+
+Introducción
+
+El shock séptico es una     causa importante de mortalidad en pediatría, estimándose que     cerca de 4.000 niños fallecen anualmente en EE. UU. por esta causa1.     El tratamiento antibiótico precoz combinado con una adecuada estrategia     hemodinámica tiene el mayor impacto en su pronóstico2.
+
+Sin embargo, la sepsis puede     ser difícil de diferenciar de la inflamación sistémica     de causa no infecciosa. Ambas condiciones comparten características     clínicas y de laboratorio como cambios en la temperatura, taquicardia,     leucocitosis o leucopenia. Estos factores dificultan un diagnóstico     temprano de la infección, por lo que el desarrollo de biomarcadores     capaces de mejorar el diagnóstico de la sepsis podría eventualmente     mejorar la proporción de pacientes que reciban un tratamiento efectivo     y así mejorar el pronóstico3. En el contexto de     ensayos clínicos intervencionales de la sepsis, el uso de un     biomarcador capaz de estratificar objetivamente a pacientes de mayor gravedad     permitiría elegir a aquellos pacientes para terapias más agresivas     o de mayor riesgo, excluyendo así a aquellos menos graves de ser expuestos     a terapias innecesarias4.
+
+La procalcitonina (PCT) es un     propéptido de la hormona calcitonina, constituido por 116 aminoácidos,     desprovisto de actividad hormonal, que se eleva rápidamente en pacientes     con infecciones bacterianas. La PCT es producida en todos los tejidos en     respuesta a endotoxinas o mediadores liberados en infecciones bacterianas     (IL-1B, factor de necrosis tumoral, IL-6). Esta respuesta se ha relacionado     con la severidad de la infección, ya que en infecciones severas puede     alcanzar concentraciones de 10-1.000 ng/mL, niveles que decrecen rápidamente     después de una terapia antibiótica adecuada. Los valores descritos     con máxima sensibilidad y especificidad son < 0,5 ng/mL para inflamación     de origen no infeccioso y > 2ng/mL para sepsis bacteriana5.     La PCT ha sido usada en la diferenciación     entre síndrome de respuesta inflamatoria sistémica (SRIS) de     origen no infeccioso y la sepsis, para determinar la progresión del     síndrome séptico, evaluar la respuesta al tratamiento y estimar     pronóstico6.
+
+La proteína C reactiva     (PCR) es una proteína reactante de la fase aguda, cuyos niveles plasmáticos     están aumentados en enfermedades inflamatorias agudas y crónicas.     Es liberada por el hígado después de una inflamación     o daño tisular, siendo la IL-6 el principal estímulo para     su producción7. Este biomarcador es probablemente el más     usado en pacientes críticos y ha sido estudiado en adultos y niños8-9.
+
+El lactato es un marcador de     sepsis severa que se ha asociado con riego de mortalidad en el escenario     pre-hospitalario, unidades de urgencia y unidad de cuidado intensivo     (UCI)10. Niveles elevados de lactato podrían servir de     herramienta de screening, identificando a pacientes con hipoperfusión     tisular, antes del desarrollo de signos clínicos de shock séptico.     Guías de manejo de la sepsis establecen que niveles de lactato > 4mmol/L     son indicativas de sepsis grave o shock séptico11.
+
+El objetivo de la presente investigación     es analizar el valor de la PCT, la PCR y el lactato en la predicción     de shock séptico y mortalidad, y en la estratificación en niños     con sospecha de sepsis ingresados en la UCI.
+
+Pacientes y método
+
+Pacientes
+
+Estudio prospectivo observacional     aprobado por el comité de ética del Hospital Guillermo Grant     Benavente. No se requirió consentimiento informado. Se incluyeron     todos los pacientes con sospecha de sepsis ingresados en la UCI Pediátrica     entre septiembre del 2009 a abril del 2011 y que no hayan recibido antibióticos     sistémicos durante más de 24 h. El SRIS, sepsis, sepsis     severa y shock séptico     se definieron usando los criterios de la International Pediatric Consensus     Conference11. Se recogieron las siguientes variables:     edad, género, requerimientos de volumen o fármacos vasoactivos,     necesidad y duración de ventilación mecánica y estadía     en la unidad en días, sitio de infección, microorganismo aislado     y desenlace.
+
+Colección de muestras       sanguíneas y ensayos
+
+Al ingreso o en las primeras     24h de estadía en la UCI, se tomaron 2 mL de sangre para la medición     de PCT, PCR y lactato. La medición de PCT se realizó por     el sistema VIDAS® BRAHMS PCT (Biomerieux, Lyon, Francia) usando la técnica Enzyme-Linked     Fluorescent Assay (ELFA). Este test tiene un límite de detección     analítico < 0,05 ng/mL con un límite de detección     funcional de 0,09 ng/mL. La PCR fue medida por turbidimetría (Turbitimer® Dade     Behring, Marburg, Alemania). El lactato se midió utilizando un analizador     de gases OMNI Roche (Basilea, Suiza). Los hemocultivos fueron procesados     por el laboratorio de microbiología del Hospital Guillermo Grant Benavente     usando el sistema BACTEC (Becton Dickinson MD, EE. UU.).
+
+Análisis estadístico
+
+Se usó el test no paramétrico     de Kruskal-Wallis y comparaciones mediante la prueba de Mann-Whitney     aplicando la corrección de Bonferroni. La prueba chi-cuadrado,     de la probabilidad exacta de Fisher o su generalización y la prueba     de Freeman-Halton se usaron para testear la relación entre variables     categóricas. Además se realizó análisis de curvas receiver     operating characteristic (ROC), para mortalidad y shock séptico     con las variables PCT, PCR y lactato. Se llevó a cabo regresión     logística para determinar las variables relacionadas con la mortalidad.     Todos los valores de p fueron con 2 colas y un valor de p <0,05 fue considerado     como estadísticamente significativo.     Los cálculos estadísticos se realizaron con el paquete estadístico     SPSS 17 (Chicago, IL, EE. UU.).
+
+Resultados
+
+Ochenta y un pacientes fueron     incluidos, 11 (13,5%) fallecieron en la UCI. El origen de la sepsis fue respiratorio     en 36 (44%) casos, oncohematológico en 12 (15%) y sistema nervioso     central en 9 (11%) casos. Al ingreso en la UCI, 3 (4%) pacientes cumplieron     criterios de SRIS, 20 (25%) de sepsis, 27 (33%) de sepsis severa y 31 (38%)     pacientes presentaron shock séptico. Se aislaron microorganismos en     41 (51%) pacientes, encontrándose bacterias gramnegativas en     24 (58%) de los casos, con predominio de Klebsiella pneumoniae. El Streptococcus     pneumoniae fue la bacteria grampositiva más aislada con 8 casos.
+
+Todos los pacientes fallecidos     presentaron un shock séptico. Los niveles de la PCT al ingreso fueron     significativamente más elevados (p = 0,002) en aquellos pacientes     que fallecieron en la UCI en comparación con los supervivientes (35     vs. 3,9ng/mL). Lo mismo ocurrió con la concentración de lactato,     donde los valores fueron 3,6 mmol/L para los fallecidos vs. 2 mmol/L para     los supervivientes (p = 0,006). Los niveles de PCR no mostraron una diferencia     significativa (tabla 1).
+
+ 
+
+Tabla       1 Características de los pacientes al ingreso en UCI
+
+
+
+UCI:     unidad de cuidados intensivos.     a Edad y valores de biomarcadores procalcitonina, proteína       C reactiva y lactato al ingreso        en UCI expresados en mediana (rango).
+
+ 
+
+El área bajo la curva     ROC reveló un poder discriminativo favorable de la PCT y el lactato     de 0,80 (IC95%: 0,69-0,88) (p = 0,0004) para la PCT y 0,76 (IC95%: 0,65-0,85)     (p = 0,003) para el lactato, respectivamente, en predecir mortalidad en la     UCI. La PCR con un área bajo la curva de 0,65 (IC95%: 0,54-0,76) (p     = 0,1) no presentó un valor predictivo adecuado. Valores de PCT > 33     ng/mL presentaron una sensibilidad del 73% (IC95%: 39-93) y una especificidad     del 86% (IC95%: 7593) para predecir mortalidad en UCI con un LR positivo     de 5 y un valor predictivo negativo del 95,2% (tabla 2).     En el análisis de regresión     logística, solo la PCT fue relevante en la predicción de mortalidad     en la UCI, con un OR (IC95%) de 11 (2,4-51) (p = 0,02).
+
+ 
+
+Tabla 2 Precisión     diagnóstica de la procalcitonina, proteína C reactiva y lactato     para        mortalidad en UCI
+
+
+
+ABC: área bajo curva;     LR+: likelihood ratio positivo; LR-: likelihood ratio negativo     PCR:        proteína C reactiva; PCT: procalcitonina; ROC: receiver operating   characteristic; UCI:        unidad de cuidados intensivos; VP+: valor predictivo positivo; VP-: valor   predictivo negativo.     Los valores de corte óptimo de   los biomarcadores se obtuvieron de los análisis de la curva        ROC. Resultados expresados como porcentaje (IC95%).
+
+ 
+
+La PCT fue un excelente predictor     de shock séptico, con un área bajo la curva ROC de 0,91 (IC95%:     0,83-0,97), valores de PCT > 5 ng/mL presentaron una sensibilidad     del 97% (IC95%: 83-99) y una especificidad del 74% (IC95%: 60-85)     para el diagnóstico de shock séptico. El área bajo la     curva ROC de la PCR y el lactato para la predicción de shock séptico     fueron de 0,67 (IC95%: 0,55-0,72) y 0,65 (IC95%: 0,53-0,75), respectivamente     (fig. 1).
+
+ 
+
+
+
+Figura 1 Figura     1a. Curvas ROC de la PCT para la predicción de shock séptico. Área     bajo la        curva ROC de la PCT 0,91 (IC95%: 0,83-0,97). Valor de corte optimo 5ng/mL.   Sensibilidad        del 97% y especificidad del 74%. Figura 1b. Curvas ROC de la PCR para la predicción   de        shock séptico. Área bajo la curva ROC de la PCR 0,67 (IC95% 0,55-0,72).   Valor de corte      óptimo de la PCR obtenido a partir de curva ROC fue de 116mg/dL, con una sensibilidad y        especificidad del 62 y 74%, respectivamente. Figura 1c. Curvas ROC del lactato   para la        predicción de shock séptico. Área bajo la curva ROC del   lactato 0,65 (IC95% 0,53-0,75).        Valor de corte óptimo obtenido a partir de curva ROC 2 mmol/L. Sensibilidad   67%,        especificidad 63%.
+
+ 
+
+El valor de corte de la PCR     para el diagnóstico de shock séptico fue de 116mg/dL con una     sensibilidad y especificidad del 62 y 74%, respectivamente. El valor de corte     del lactato fue de 2 mmol/L con una sensibilidad del 67% y una especificidad     del 63%.
+
+Al categorizar a los pacientes     en los diferentes grupos diagnósticos se observó que las concentraciones     plasmáticas de PCT (ng/mL) (IC95%) aumentaron significativamente de     acuerdo a la gravedad de la sepsis en toda las categorías diagnósticas     (p < 0,001): 0,36 (0-1,2) para SRIS; 1,96 (0,4-3,5) para sepsis;     7,5 (3,9-11,1) para sepsis grave; y 59 (35,1-82,7) para shock séptico.     Los niveles de lactato (mmol/L) fueron 3,3 (0,5-6,2); 1,8 (1,4-2,3);     2,9 (2,1-3,7) y 4,1 (2,6-5,6) para SRIS, sepsis, sepsis grave y shock     séptico, respectivamente. Estos valores presentaron diferencias significativas     solo entre la sepsis y el shock séptico (p < 0,002).
+
+La PCR (mg/dL) no permitió estratificar     a los pacientes de acuerdo a la severidad de la sepsis ya que sus valores     fueron en mg/dL: 87,3 (0-433); 78,6 (42-115); 93,7 (53,7-133,7)     y 146,7 (109,2-184,2) para SRIS, sepsis, sepsis grave y shock séptico     (fig. 2).
+
+ 
+
+
+
+Figura 2 Figura 2a. Box     plot de niveles plasmáticos de procalcitonina, en los diferentes        grupos diagnósticos. Línea central mediana, boxes percentil 25-percentil   75. p < 0,05        para PCT en todas las categorías diagnósticas. Figura 2b. Box   plot de niveles plasmáticos        de proteína C reactiva en los diferentes grupos diagnósticos.   Línea central mediana, boxes        percentil 25-percentil 75. No existen diferencias significativas. Figura   2c. Box plot de        niveles plasmáticos de lactato en los diferentes grupos diagnósticos.   Línea central mediana,        boxes percentil 25-percentil 75. p < 0,05 para lactato entre sepsis   y shock séptico.        S: sepsis; SRIS: síndrome de respuesta inflamatoria sistémica.
+
+ 
+
+Discusión
+
+En este estudio comparamos 3     biomarcadores utilizados frecuentemente en el diagnóstico de la sepsis.     En contraste a la PCR y al lactato, nuestros hallazgos confirman que la medición     de la PCT al ingreso en la UCI presenta el mejor valor predictivo para la     mortalidad y el shock séptico. La PCT es capaz de categorizar a los     pacientes de acuerdo a la gravedad del síndrome séptico.
+
+Se ha demostrado previamente     en adultos la superioridad del valor pronóstico de la PCT sobre la     PCR, lactato y algunas interleucinas en la predicción de pronóstico     adverso en UCI y en determinar la severidad del cuadro séptico13 -15.     Concordante a nuestros hallazgos, Hatherill et al., en 175 niños también     describen que valores de PCT > 5 ng/mL al ingreso en la UCI tienen una     sensibilidad del 99% y una especificidad del 78% para el diagnóstico     de shock séptico con un área bajo la curva ROC de 0,96: estos     valores fueron superiores a la PCR y el recuento de leucocitos16.     Casado-Flores et al., en una cohorte de 80 niños ingresados en     la UCI por sospecha de sepsis, reportaron     que los niveles de PCT fueron más elevados en los pacientes que evolucionaron     con shock séptico, falla multisistémica y que posteriormente     fallecieron en la UCI. En ese estudio, la PCR no fue capaz de discriminar     aquellos pacientes que evolucionaron a shock séptico17.
+
+Nuestro estudio demuestra que     los niveles de PCR no permiten diferenciar entre el SRIS y etapas más     avanzadas del síndrome séptico. Rey et al., en 96 niños     hospitalizados en la UCI y categorizados previamente en 6 grupos, desde ausencia     de infección, infección localizada, SRIS, sepsis, sepsis severa     y shock séptico, demostraron que la PCT permite una estratificación     adecuada de los pacientes en los diferentes grupos diagnósticos al     compararla con la PCR y el recuento de leucocitos18. Rey et al.,     en un estudio de 254 niños, demostraron posteriormente que concentraciones     de PCT > 2 ng/mL en las primeras 12 h en la UCI podrían identificar     a aquellos niños con mayor riesgo de mortalidad19.
+
+Una efectiva estratificación     de la sepsis a través de un biomarcador puede identificar a los pacientes     que son propensos a tener buenos resultados con las terapias estándar,     por tanto, objetivamente se puede excluir a los pacientes de ser expuestos     a terapias innecesarias20. Al excluir a pacientes     con bajo riesgo de mortalidad, el riesgo-beneficio de una intervención     terapéutica     experimental tendría mayor posibilidad de éxito.
+
+Algunas limitaciones de nuestro     estudio son su carácter monocéntrico, con escaso número     de pacientes incluidos, por lo que los resultados obtenidos no pueden ser     generalizados. El valor de corte de 33 ng/mL de la PCT, como predictor de     mortalidad en UCI, debe ser validado en cohortes independientes de pacientes     pediátricos con sepsis. El diseño de este estudio no permitió investigar     los cambios temporales de los biomarcadores estudiados. Se ha sugerido que     la persistencia de concentraciones elevadas o el aumento diario de la PCT     se asocia a una mayor mortalidad en UCI6. Por el contrario, su     aclaramiento o disminución a las 48 h se relacionaría con un     pronóstico favorable21. A pesar de que se hizo lo posible     por obtener las muestras de los biomarcadores al ingreso de los pacientes     en la UCI, muestras obtenidas varias horas después del ingreso podrían     introducir un sesgo en función de la velocidad de elevación     de la PCT y la PCR.
+
+Si bien nuestros resultados     apoyarían la medición de rutina de la PCT al ingreso en la     UCI, especialmente en términos de capacidad de la PCT para el diagnóstico     de shock séptico, no nos parece prudente asumir que la medición única     de este u otro biomarcador pueda diferenciar la compleja respuesta del organismo     a una infección     bacteriana o a un estímulo no infeccioso22. En este contexto,     el uso de una combinación de biomarcadores aparece como una aproximación     promisoria para mejorar el diagnóstico de la sepsis en pacientes ingresados     en la UCI con sospecha de infección23. En conclusión,     la determinación de la PCT en niños con sospecha de sepsis, al ingreso     en la UCI, constituye un buen predictor de mortalidad y shock séptico,     permitiendo estratificar a los pacientes de acuerdo a la severidad de la     sepsis.

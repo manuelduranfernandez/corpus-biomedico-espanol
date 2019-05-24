@@ -1,0 +1,78 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062000000500010
+Estimación del tamaño muestral en estudios biomédicos por diferentes programas de computación
+
+El cálculo del tamaño muestral en estudios biomédicos    es complejo y constituye solo una aproximación pero es indispensable    efectuarlo por cuanto tiene implicancias muy importantes. Desde luego, hay un    aspecto de factibilidad que no se puede soslayar. Es así como en no pocas    oportunidades el investigador podría saber por anticipado que con los    recursos disponibles o el número de pacientes que cree poder reunir en    el plazo que cuenta para el estudio, no podrá detectar una diferencia    esperada, si esta existe. Por otra parte, hay un ángulo ético    que respetar: no es posible involucrar pacientes que acceden a participar en    la investigación sin contar al menos con razonable seguridad que el estudio    será terminado y que tendrá el poder suficiente. De las posibles    varias medidas de resultado que se escojan para incluirlas en la investigación    deberá emplearse la que requiera el tamaño muestral mayor. En    ocasiones, en modo casi inadvertido, la investigación propone, entre    otras, la hipótesis de igualdad de dos terapias. En tal caso con toda    seguridad esta es la que requerirá un tamaño muestral más    elevado para ser verificada. 
+
+Muy importante será también establecer qué    clase de datos serán obtenidos y la forma como serán analizados,    puesto que el tamaño de la muestra depende también del método    de análisis a emplear.
+
+El uso de programas computacionales facilita la tarea, pero    presenta nuevos desafíos al ofrecer estimaciones variables.
+
+Elementos en la estimación del tamaño muestral:    1. El error alfa, que indica la probabilidad que los hallazgos de interés    pudieran ser justificados por variaciones explicables por el azar. 2. El error    beta, que corresponde a la probabilidad de no detectar un hallazgo como importante    y atribuirlo al azar. 3. Diferencia clínicamente significativa. Para    cualquier estadígrafo, al realizar una investigación, se deberá    definir el valor que el clínico considere importante: diferencia, sea    de proporciones o promedios, así como razón de ventaja o riesgo    relativo comparados con la unidad, índice kappa o coeficiente de correlación    comparados con cero, etc. 4. Hipótesis uni o bilateral. En los estudios    clínicos corresponde casi siempre plantear una hipótesis bilateral.    5. Posible pérdida de casos dentro del estudio. Es importante tener presente    la necesidad de evitar hasta donde sea posible la pérdida de casos puesto    que si esta es muy importante el estudio puede quedar invalidado. Como veremos,    algunos programas calculan el tamaño muestral incrementando el resultado    en un porcentaje arbitrario con el fin de compensar en parte una eventual pérdida    de casos. 6. Método de análisis de los resultados. Este es otro    importante factor a considerar, como será visto más adelante.
+
+Se deberá tener presente que las investigaciones basadas    en muestras insuficientes pueden conducir a: 1. Disminuir la probabilidad de    detectar una diferencia supuesta, si existe. 2. Reducir la efectividad de la    aleatorización de los integrantes de la muestra. 3. Alejar la posibilidad    de análisis estratificado.
+
+Por otra parte, también se debe tomar en cuenta lo siguiente:    Cuando un estudio con muestra pequeña arroja resultados "negativos"    se suele explicar ello por falta de poder y se considera, como ya señalamos,    que se actuó mal por no haber hecho una estimación apropiada del    tamaño muestral. Sin embargo, si en ese mismo estudio los resultados    son "significativos" frecuentemente se olvida que la falta de poder    igualmente significó involucrar recursos humanos, materiales y riesgos    de diversa magnitud en los participantes que otorgaron su consentimiento informado    en una empresa con baja probabilidad de "éxito"1-5.  
+
+El objetivo es presentar estimaciones de tamaño muestral    y su variación, empleando diferentes programas computacionales en estudios    de medias, proporciones, cohortes y caso-control. 
+
+MATERIAL Y MÉTODO
+
+Se dispuso de 6 programas estadísticos de empleo relativamente    común, que incluyen en sus opciones el cálculo del tamaño    muestral. Estos no cubren habitualmente todos los problemas de tamaño    de muestra más frecuentemente planteados y fueron los siguientes: EPIINFO    6.04a y b6, EPIDAT 2.07,    WIN EPISCOPE 1.08, MEDCALC9,    POWER10, PS(Power-Sample)11.
+
+A todos ellos se les plantearon problemas de cálculo    del tamaño de la muestra en comparación de proporciones, medias,    estudio de cohorte, caso-control y se observaron las diferencias generadas ante    un mismo problema.
+
+RESULTADOS
+
+En la tabla 1 se observa que hay diferencias    a veces muy manifiestas en los cálculos realizados por distintos programas.    En el estudio de medias, EpiDat 2.0 sugiere un tamaño que corresponde    a la mitad de los otros programas. Esto corresponde directamente a un error    de programación no detectado oportunamente. Realmente la cifra que genera    corresponde al número de casos por grupo pero está errónea.    En proporciones, MedCalc versión 4.16, calcula una muestra cuyo tamaño    es el 58% del mayor propuesto. No señala el procedimiento de cálculo    empleado pero en una versión posterior (MedCalc 4.20 win 95) alcanza    las cifras de los programas que utilizan el procedimiento de Fleiss. Se debe    tomar en cuenta que EpiInfo 6.04 incrementa en 10% el tamaño muestral    inicialmente estimado por el programa, para dar cuenta de una cierta pérdida    de casos. En cohortes y caso-control, con grupos de igual tamaño, la    variación no es tan manifiesta, aunque no despreciable y depende de la    prueba de hipótesis que se empleará. EpiDat 2.0 en el estudio    de cohortes (que no se muestra en la tabla), para detectar un riesgo relativo    preestablecido, no ofrece la opción de grupos de tamaño diferente    (razón expuestos/no expuesto solo 1) y por otra parte, no opera como    le interesa al clínico, a saber, cuántos casos debe investigar    para detectar un RR determinado o mayor. El programa genera tamaño muestral    para detección de un cierto RR más menos cierto error. En caso-control    con 4 controles por caso, la diferencia puede ser muy notoria entre los subprogramas    StatCalc y Epitable de EpiInfo y entre estos y EpiDat. Power muestra tamaños    diferentes según la prueba de hipótesis planeada usar, refiriéndose    al empleo de Ji cuadrado sin corrección de Yates o a la misma prueba    con la corrección, así como Fisher-Irwin. PS, en este punto, opera    de modo similar aunque no indica contemplar la opción de Ji cuadrado    corregido.
+
+Tabla 1
+
+Muestras independientes. Dos colas.N por grupo.       Errores: a : 5%, ß    :20%
+
+
+
+EpiInfo 6.04  
+
+EpiDat 2.0  
+
+Win                Episcope 1.0 
+
+Medcalc 4.16e  
+
+Power  
+
+PS 1.0.12  
+
+
+
+140*
+
+
+
+140*
+
+
+
+159**
+
+S= Statcalc               E= Epitable               *= Empleando Ji cuadrado sin corrección               **=Empleando Ji cuadrado corregido o Fisher-Irwin según Power            y Fisher-Irwin según PS
+
+ 
+
+No hemos mencionado el programa EpiInfo 2000 porque la rutina    StatCalc que incluye no es nueva, de hecho es la versión de 1993 y, por    otro lado, no tiene Epitable.
+
+CONCLUSIONES
+
+1. Existen errores en los programas, como se    ha podido observar con EpiDat en estudio de medias o EpiInfo 6.04 ("a"    o "b") en los subprogramas Statcalc y Epitable.
+
+2. No todos los programas muestran las fórmulas    empleadas en las estimaciones.
+
+3. Los programas no suelen abordar todos los    diseños más comunes.
+
+4. EpiInfo incrementa en 10% el tamaño    muestral determinado, para compensar posibles pérdidas. Se debe aclarar    que no se puede solucionar la pérdida de casos por el solo expediente    de aumentar la muestra.
+
+5. El investigador debiera informar siempre    al lector acerca del procedimiento empleado para estimar la muestra en su estudio.
+
+6. Entonces, aunque importante ayuda se puede    esperar de los programas que permiten estimar el tamaño de la muestra    a investigar en diferentes situaciones, resulta indispensable disponer del manejo    necesario de los conceptos bioestadísticos que subyacen a tales estimaciones    para mejor decidir. Además, el investigador debiera elegir y estar familiarizado    con las características de un programa específico y emplear este.
+
+1.	Departamento de Pediatría, Campus    Norte, Facultad de Medicina, Universidad de Chile.       Correspondencia: e-mail: xv-gd@ctcinternet.cl

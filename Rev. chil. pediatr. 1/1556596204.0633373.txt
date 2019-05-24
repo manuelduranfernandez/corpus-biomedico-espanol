@@ -1,0 +1,68 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062000000500015
+Elección de empresas de acceso a Internet (ISP: Internet Service Provider)
+
+Eduardo Cosoi P.1
+
+Las empresas proveedoras de acceso a Internet ofrecen una amplia    variedad de opciones. Para poder elegir la más apropiada es conveniente    considerar diversos aspectos, los cuales serán analizados en este artículo.
+
+TIPOS DE ACCESO A INTERNET
+
+La forma más común de conectarse a Internet es    a través de un computador personal y un modem. Las diferentes velocidades    de conexión oscilan entre los 14 400 y 56 000 bps. La factibilidad    de realizar una conexión a la más alta velocidad no solo depende    del modem, sino que de la velocidad de conexión del ISP, de la congestión    en el momento de la conexión y finalmente de la velocidad o capacidad    de conexiones del sitio al cual se está accediendo remotamente. Frente    a todos estos factores, solo es posible intervenir en el ISP, que es la empresa    local proveedora de servicios de Internet. Desafortunadamente, no todas ellas    logran la misma velocidad de conexión; algunas ni siquiera cuentan con    un número suficiente de modems de acceso a los usuarios, y en muchas    ocasiones, son de una velocidad menor a los 56 000 bps. El costo mensual    oscila entre los $ 4 000 y $ 10 000, lo que permite un acceso ilimitado.    Dicho acceso no incluye el servicio local medido (SLM). Ejemplos de empresas    que cuentan con un número apropiado de modems, de buena velocidad son    Entel, Terra, Cmet, Manquehue Net, Chilesat, etc. Hay que considerar que el    servicio local medido (SLM), es un costo adicional y corre por cuenta del usuario.    Dichos valores son de $ 9 el minuto en horario diurno y de $ 1,5 en horario    nocturno (versus $ 21 y $ 3,5 el SLM normal), lo que en la práctica    significa un costo adicional de entre $ 7 000 y $ 10 000 por concepto    de SLM mensual, por uso en promedio de 1 hora diaria. A este último valor,    si se ha contratado una línea telefónica adicional para usar Internet,    se le debe agregar un costo mensual de $ 6 000 de cargo fijo, lo que representa    un costo de alrededor de $ 20 000 al mes. 
+
+INTERNET "GRATIS"
+
+Frente a esto, algunos meses atrás se ha ofrecido    el acceso a Internet "gratis". La mayor parte de estas empresas cobran    un SLM superior al correspondiente a Internet, con lo cual logran financiar    dicho acceso. Al acceder una hora diaria durante un mes con estos servicios,    se llegan a costos que oscilan entre $ 18 000 y $ 23 000,    por lo que no son recomendables para usuarios que utilizan Internet en    forma regular. 
+
+Tabla
+
+Valores SLM para conexión a Internet "gratis"
+
+
+
+Empresa 
+
+Valor SLM     (nocturno)
+
+Valor SLM     (hábil)
+
+TUTOPIA
+
+SURFREE
+
+TERRA
+
+ENTEL       
+
+$2,4
+
+$1,5*
+
+$3,0
+
+$3,6       
+
+$15
+
+$9*
+
+$21
+
+$21       
+
+ 
+
+SERVICIOS ISDN Y DE BANDA ANCHA
+
+Otras empresas ofrecen servicios de alta velocidad: ISDN (Entel,    Telefónica, Manquehue Net) que permiten conexiones de hasta 112 000    kbs. El costo es de alrededor de $ 7 000 por el acceso a Internet; $ 15 000    por el servicio de ISDN, $ 12 000 por 2 líneas telefónicas    y adicionalmente el SLM. Esto representa un costo mensual de aproximadamente    entre $ 35 000 y $ 40 000. 
+
+Para aquellos que se conectan más de 2 horas, especialmente    en horario hábil, es recomendable contratar servicios que incluyan el    SLM. El servicio ADSL permite conexiones de entre 160 000 kbs hasta 2 MBkbs,    e incluye una línea telefónica, el cargo fijo y el SLM, lo que    permite realizar una conexión ininterrumpida a Internet. Los valores    oscilan entre $ 29 000 y $ 80 000, pero incluyen la conexión    a Internet, el SLM y el cargo fijo de la línea telefónica, por    lo que es francamente competitiva frente a las otras alternativas (Manquehue    Net). 
+
+En resumen, la elección del tipo de conexión    a Internet debe depender de las necesidades del usuario. Si se requieren períodos    largos de conexión, bajar archivos de gran tamaño, o se desarrollan    actividades comerciales, se debe preferir aquellos servicios que incluyan el    SLM y que además posean una banda ancha (ADSL). Estos servicios aún    no están disponibles en forma masiva, ya que requieren que el usuario    se encuentre a una corta distancia de la Central Telefónica. 
+
+Para los que se conectan en promedio una hora diaria, los servicios    tradicionales de conexión a Internet resultan apropiados. Tienen la ventaja    que se encuentran universalmente disponibles, se pueden utilizar desde cualquier    localización, hay una gran competencia en el sector y los costos mensuales    son relativamente bajos. Dada la permanente tendencia a la baja de los costos,    no resulta prudente inscribirse en contratos de larga duración. Por otra    parte, es conveniente probar la funcionalidad y el servicio técnico del    ISP, antes de firmar un contrato, por lo que se puede solicitar un período    de prueba, en que se pueda valorar la facilidad de conexión y la velocidad    de bajada de archivos desde Internet (no debiese ser inferior a 4 kbs). También    es importante determinar la capacidad de recepción del correo electrónico    ya que muchas de estas compañías las restringen a un determinado    tamaño (no debiese ser inferior a 5 megabites). 
+
+Para los usuarios que solo la utilizan esporádicamente,    resultan atractivos aquellos planes de acceso "gratuito", en los cuales    no se necesita contrato previo y se asume un costo "por acceso" (Entel    Tutopia, Surfree, Terra, etc.). 
+
+Por favor, continúe colaborando con esta sección,    enviándonos sus preguntas o sugerencias al correo electrónico:    ecosoi@netup.cl.
+
+1. Unidad de Lactantes y Nutrición.    Hospital Luis Calvo Mackenna (ecosoi@netup.cl).

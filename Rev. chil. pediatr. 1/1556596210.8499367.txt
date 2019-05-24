@@ -1,0 +1,88 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062003000100005
+¿Es útil la antropometría para estimar la composición corporal en niños preescolares?
+
+INTRODUCCIÓN
+
+El peso corporal y la relación peso para la talla constituyen indicadores    claves para la evaluación nutricional tanto poblacional como individual.    Sin embargo, estos indicadores no proporcionan información acerca de    la composición corporal. Para el diagnóstico de sobrepeso y obesidad    se requiere demostrar un incremento de la grasa corporal, mientras que en la    desnutrición interesa la información tanto de grasa como de masa    libre de grasa para evaluar la recuperación nutricional1 3.
+
+Existen numerosas metodologías para evaluar la composición corporal    con el apoyo de métodos sofisticados que no están al alcance del    equipo de salud en la atención primaria, ya sea por su complejidad y/o    costo3. Dado que la antropometría tiene un costo muy    reducido, parece atractivo utilizar combinaciones de indicadores antropométricos,    tales como los pliegues cutáneos tricipital, bicipital, suprailíaco    y sub-escapular, para intentar conocer la masa grasa o la masa libre de grasa.  
+
+En este trabajo, se diseñaron nuevas ecuaciones antropométricas    combinando ciertas mediciones de pliegues, circunferencias (de tronco y extremidades),    peso y talla, para estimar la composición corporal en niños preescolares    chilenos entre 3 y 5 años de edad. Estas ecuaciones fueron comparadas    con una metodología considerada de referencia para estimar la composición    corporal que es la dilución con deuterio4. 
+
+MATERIAL Y MÉTODOS
+
+La muestra de niños preescolares provino de tres jardines infantiles    de la Junta Nacional de Jardines Infantiles (JUNJI) de la comuna de Macul estudiados    entre agosto y noviembre del año 1999, con los siguientes criterios de    ingreso para cada niño: edad entre 31 y 60 meses (2,7-5,0 años),    estado nutricional normal, sobrepeso y obeso (hasta una relación peso/talla    < 3,5 desviaciones estándar), saludable y sin medicamentos que interfieran    con el grado de hidratación ni metabolismo.    El conjunto de los niños de los tres jardines fue 341 niños: 178    varones (52,2%) y 163 mujeres (47,8%). Dado que el tamaño de la muestra    para la construcción de ecuaciones predictivas debe ser al menos de 100    niños, se seleccionó una muestra de 125 niños, por las    pérdidas posibles, en subgrupos similares de acuerdo al estado nutricional    (eutróficos, sobrepeso y obesos) y con una distribución igualitaria    por sexo. 
+
+Para la evaluación nutricional peso/talla se utilizó el patrón    de referencia NCHS/OMS 5. Los pliegues cutáneos tricipital,    bicipital, sub-escapular, suprailíaco, pantorrilla, fueron tomados en    el lado derecho del cuerpo al igual que las circunferencias de brazo, muñeca,    cintura, cadera y pantorrilla, siguiendo las técnicas de medición    descritas por Jelliffe6. Todas las mediciones antropométricas    fueron realizadas por el mismo investigador en triplicado, evitando así    el error inter observador, para ser luego promediadas aceptando sólo    aquellos valores con una desviación estándar menor a un mm en    el caso de los pliegues cutáneos en la variabilidad intra observador;    en caso contrario se repitieron las mediciones 7.
+
+Se evaluó la composición corporal de la muestra haciendo uso    de la dilución isotópica con deuterio como el método de    referencia para determinar agua corporal4.
+
+El agua corporal no se mantiene constante a lo largo del día, por lo    que debe medirse en la mañana, después de un ayuno previo y de    haber vaciado la vejiga. En caso de niños pequeños, el ayuno es    difícil, por lo que se recomienda un semi-ayuno de 2 horas de anticipación    como mínimo a la toma de la dosis de deuterio.
+
+El isótopo se administró de forma oral en una dosis de 1,5 gr    diluida al 50%. El agua corporal total se determinó mediante la concentración    de deuterio en el agua corporal de acuerdo al método plateau4,8.    Se tomó una muestra basal en saliva, después de un ayuno durante    la noche, se administró el isótopo y después de alcanzado    el tiempo de equilibrio, otra muestra de ayuno a las tres horas post-dosis.    Este método se adaptó para niños pequeños, usando    un semi-ayuno y acortando el tiempo para la segunda muestra de saliva, a las    dos horas y media. En estas dos horas y media se recolectó la orina para    medir las pérdidas de agua y se procuró que el niño no    ingiriera líquidos; en caso de hacerlo se midió para descontar    el agua extra post-dosis.
+
+Las muestras de saliva se refrigeraron a ¾4°    C para la medición posterior del contenido de deuterio por espectrometría    de masas (Laboratorio de Metabolismo Energético e Isótopos Estables,    INTA). 
+
+La composición corporal consideró dos compartimentos: masa libre    de grasa (MLG) y masa grasa (MG). Una vez determinada el agua corporal total    (ACT) se estimó la MLG dividiendo el ACT por los coeficientes de hidratación    descritos por Fomon y corregidos por Schoeller (3 años: 77,0 varones    y 77,4 mujeres; 4 años: 76,6 varones y 77,3 mujeres; 5 años: 76,0    varones y 77,1 mujeres)2,4. La masa grasa    (MG) se calculó como la diferencia entre la MLG y el peso corporal. 
+
+El estudio fue aprobado por los Comités de Ética de la Facultad    de Medicina de la Pontificia Universidad Católica de Chile y del Instituto    de Nutrición y Tecnología de los Alimentos (INTA) de la Universidad    de Chile. 
+
+Se describieron los datos utilizando: medias, porcentajes, percentilos y desviación    estándar para comparar los grupos de acuerdo al sexo y estado nutricional.    Para evaluar homogeneidad de varianza se usó la prueba de Levene; para    determinar la diferencia de promedios en muestras de varianza homogénea    se usó ANOVA-MANOVA, y en aquellas varianzas que no cumplieron con el    supuesto de normalidad, pruebas no paramétricas (Kruskal-Wallis, Mann-Withney).    Para conocer si los promedios eran todos diferentes entre sí, se aplicó    la prueba de Sheffé9. Estas pruebas estadísticas    se aplicaron a través del programa computacional STATISTICA10.  
+
+Se construyeron modelos antropométricos de los compartimentos de la    composición corporal con el método de regresión múltiple,    usando el procedimiento paso a paso a través del programa estadístico    SAS11. 
+
+Para establecer el grado de acuerdo entre el método de referencia (deuterio)    y los modelos antropométricos, se realizó el análisis de    concordancia desarrollado por Bland y Altman12 . El análisis    de concordancia ha sido propuesto para establecer sí dos métodos    de medición son similares ya que una alta correlación de los datos    no significa que estos métodos concuerden y puedan ser intercambiados.    En el eje de las X se representó el promedio de la medición por    ambos métodos y en el eje de las Y la diferencia entre la medición    por ambos métodos. Se graficó la media de la diferencia del conjunto    de las mediciones ubicando los valores en un área de ± dos desviaciones    estándar, es decir, con límites de 95% de confianza. La falta    de acuerdo entre el nuevo método y el de referencia se sintetiza calculando    su sesgo, estimado por la diferencia promedio y la desviación estándar    de las diferencias. Si las diferencias caen dentro de las dos desviaciones estándar,    los dos métodos podrán usarse intercambiablemente siempre que    las diferencias sean clínicamente aceptables. 
+
+RESULTADOS
+
+El grupo final del estudio correspondió a 106 niños (hubo pérdidas    de 19 casos por contaminación o evaporación de las muestras de    saliva) con una distribución según estado nutricional (P/T NCHS)    de 40 niños eutróficos, 40 sobrepeso y 26 obesos. Todas las variables    tuvieron diferencias estadísticamente significativas entre los tres grupos    (tabla 1). Los valores absolutos de las diferencias fueron    mayores para el grupo de obesos, lo que fue validado por la prueba de Sheffé.  
+
+   
+
+La distribución de la muestra por sexo indica que 57 niños eran    del sexo masculino (53,8%) y 49 del sexo femenino (46,2%). La distribución    por sexo fue también similar para cada estado nutricional; esta observación    está corroborada por la similitud de los valores promedios para ambos    sexos de edad, peso y talla (tabla 2). Sin embargo, la circunferencia    de cadera, el área grasa braquial y casi todos los pliegues (exceptuando    el bicipital) fueron significativamente mayores para el sexo femenino (tabla    2).
+
+   
+
+La tabla 3 muestra que en todos los parámetros determinados    por el método de dilución con deuterio hubo diferencias estadísticamente    significativas según el estado nutricional. El ACT en litros es mayor    en obesos (p < 0,0001) que en eutróficos; al aplicar el test de Scheffé    la diferencia no fue significativa entre los niños con sobrepeso y obesos.    El porcentaje de ACT es menor en los obesos, en comparación con los otros    estados nutricionales. Como es de esperarse también los obesos tienen    mayor MG en kilos y en porcentaje (p < 0,0001) que los eutróficos    y sobrepesos. Sin embargo, no se observó entre los varones y las mujeres    diferencias estadísticamente significativas para ACT (litros y porcentaje)    y MG (kg y porcentaje).
+
+   
+
+Por su uso más frecuente en clínica se prefirió desarrollar    sólo tres ecuaciones a partir de las variables antropométricas.    Ellas fueron: a) para agua corporal total en litros, b) para grasa en kilos    y c) para grasa en porcentaje. En la tabla 4 se presentan    estos modelos con su valor de R2, la desviación estándar    y la significación estadística. 
+
+   
+
+   El análisis de concordancia para comparar los dos métodos se sintetiza    en tres figuras. 
+
+   En la figura 1 se aprecia que la media de las diferencias    entre los dos métodos para el agua corporal total fue de 0,008 lt, con    una desviación estándar (DE) de 0,85 lt. El promedio de los valores    fue de 10,76 lt. 
+
+  
+
+En la figura 2 se aprecia que la media de    las diferencias entre los dos métodos para la grasa en kilos para ambos    sexos fue de –0,01 y la DE 1,09 kg. El promedio de los valores fue de    4,7 kg.  
+
+  
+
+  
+
+En la figura 3 se aprecia que la media de las diferencias    entre los dos métodos para la grasa en porcentaje en ambos sexos fue    de –0,06% y la DE 5,9%. El promedio de los valores fue de 24,8%. 
+
+  
+
+DISCUSIÓN
+
+En Chile se realizó otro estudio en niñas de mayor edad (9-11,6    años) para evaluar bioimpedancia eléctrica en su capacidad de    determinar adecuadamente grasa corporal, utilizando como patrón diversas    ecuaciones antropométricas propuestas en niños caucásicos    (Slaughter13, Houtkooper14). En sus conclusiones15    advierten que las ecuaciones extranjeras tanto como antropométricas como    para Bioimpedancia no dan cuenta del contenido de grasa evaluada por pliegues    cutáneos. Se sugiere la importancia de desarrollar ecuaciones específicas    antropométricas y bioimpedancia, pues las que existen fueron desarrolladas    en niños caucásicos; especial énfasis dio Houtkooper cuando    se necesita evaluar niños con exceso de peso.
+
+En el presente estudio se escogió el modelo de dos compartimentos    como método de referencia porque es más sencillo de realizar que    otros de tres o cuatro compartimentos y porque dilución isotópica    con deuterio tiene a su favor un estudio comparativo que lo valida frente a    los más complejos16. Este último trabajo fue    realizado en un grupo de niños escolares (8-12 años de edad) donde    se comparó la estimación de grasa corporal de algunos métodos    bi-compartimetales en relación con la referencia de cuatro compartimentos    demostrando que el mejor método para medir grasa corporal en niños    fue la dilución isotópica, usando un modelo bicompartimental16.    Por otra parte, el coeficiente de hidratación de la MLG que utilizamos    en esta investigación está avalada porque diversos autores coinciden    en que los valores del coeficiente de hidratación en niños pequeños    sanos es muy constante 2,4,16.  
+
+No existen actualmente ecuaciones antropométricas específicas    y disponibles para la predicción de MG, MLG y % de MG en niños    de esta edad17, por lo que parece útil realizar este    tipo de estudios. Sin embargo, su utilidad debe ser validada con nuevos estudios    en que las ecuaciones de predicción sean usadas en niños con el    mismo rango de edad. 
+
+En cuanto a las mediciones antropométricas mismas, nuestros datos fueron    similares según sexo con los de Fomon2, que mostraron    valores de la masa grasa en niños eutróficos entre 2 y 5 años    mayores en las mujeres que en los varones. 
+
+Los obesos en nuestros datos tuvieron mayor ACT (en litros) que los no obesos,    hecho asociado a una mayor MLG expresada en kg. Cuando el ACT y la MLG se expresaron    como porcentaje del peso corporal, ellos fueron menores en los obesos. Sin embargo,    la MG fue mayor en los obesos expresada tanto en kg como en porcentaje. 
+
+Si se comparan los valores obtenidos por nosotros en los niños eutróficos    con respecto al porcentaje de ACT (61,0%), se nota que es menor que los niños    y niñas estudiados por Fomon (64,7% y 64,1%, respectivamente)2.    Por tanto, nuestros niños también tendrán menor MLG. Este    hallazgo indicaría que los niños eutróficos evaluados en    este estudio, tienen mayor porcentaje de grasa que los evaluados en el estudio    de Fomon, que hoy sirve de referencia para niños normales, resultado    que es coincidente al obtenido por Ellis et al en niños hispanos de la    ciudad de Houston18. Esta tendencia se ratifica en la evaluación    realizada en un grupo mayor de niños preescolares donde se evidenció    un mayor porcentaje de grasa en niños 3-5 años chilenos, comparado    con la referencia de Fomon19.
+
+Los modelos obtenidos para ACT, MG en kg y MG en porcentaje, tuvieron una alta    explicación de la varianza (R2) de los valores determinados por la dilución    con deuterio, especialmente en los dos primeros. Este poder de explicación    de los modelos no basta para definir la concordancia entre dos métodos    y la posibilidad de reemplazarse mutuamente, lo que se discute más adelante.  
+
+La media de las diferencias de agua corporal total entre los dos métodos    fue de 0,008 lt, con una desviación estándar de 0,85 lt. Aunque    la diferencia promedio entre los dos métodos es cercana a cero, la DE    es clínicamente muy grande para niños de un promedio de peso de    18-19 kilos. La explicación a esta variabilidad estaría dada fundamentalmente    porque la antropometría es un método indirecto menos preciso que    la dilución isotópica con deuterio. Además, el método    de dilución con deuterio podría tener algún error. Por    ejemplo, el coeficiente de hidratación de la MLG calculado por Fomon    y corregido por Schoeller para niños eutróficos podría    tener mayor error en sujetos con mayor sobrepeso. Brunton manifiesta que variaciones    pequeñas en la hidratación de la MLG se aumentan al trasladar    el error a un compartimento menor como lo es la MG20. Por    otra parte, en este estudio se tomó 2,5 horas como el tiempo de equilibrio    indispensable del deuterio por ser niños muy pequeños y no se    descarta el hecho de que existan casos que requirieran un tiempo mayor, lo que    podría influir en los resultados introduciendo también un margen    de error 4. 
+
+La media de la diferencia entre los dos métodos para determinar MG en    kg fue muy cercana a cero (¾0,01) y su DE    fue de 1,08 kg. La media de la diferencia entre los dos métodos para    determinar porcentaje de grasa fue de ¾0,06%    y su DE fue de 6%. Aunque la diferencia promedio entre los dos métodos    tanto para grasa en valores absolutos como en porcentaje fue cercana a cero,    la DE fue clínicamente muy grande para niños de un promedio de    peso de 18-19 kilos. Por ello, el análisis de la concordancia es similar    que para el agua corporal. Goran comparó grasa con diferentes métodos    y observó que la correlación de la medición de grasa es    mayor cuando esta se expresa en términos absolutos (kg) y no en porcentaje,    coincidiendo con nuestros datos en que los pliegues cutáneos se asocian    mejor con la MG expresada en términos absolutos21.  

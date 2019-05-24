@@ -1,0 +1,98 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062014000500004
+Características de las interacciones farmacológicas en una unidad de cuidados intensivos de pediatría
+
+RESUMEN
+
+Introducción: El objetivo de éste estudio fue medir la frecuencia teórica de interacciones farmacológicas probables (IF) y sus características en los esquemas terapéuticos de los pacientes hospitalizados una Unidad de Cuidados Intensivos Pediátricos (UCIP). Pacientes y Método: Estudio observacional que analizó las prescripciones médicas en UCIP entre septiembre y noviembre del año 2011. Criterios de inclusión fueron estar hospitalizados en la UCIP, tener prescripciones que incluyan a lo menos 3 medicamentos, excepto aquellos de aplicación tópica, ambos sexos, sin límite de edad, ni estadía hospitalaria. Se utilizó el programa Micromedex 2.0® para la detección y clasificación de las IF. Resultados: De 223 pacientes, 100 cumplieron criterio de inclusión, en quienes se analizaron 610 prescripciones médicas, donde se indicaron 815 fármacos. Se detectaron 1.240 IF en 44 pacientes. Doce pacientes recibieron más de 10 fármacos cada uno, registrándose en ellos 1.162 IF (93,7% de las IF). Ocho pacientes estuvieron más de 10 días hospitalizados, concentrando 1.035 IF (83,5% de las IF). Según severidad teórica de las IF, se encontró 37,5% mayores, 51,7% moderadas, 6,7% menores y 4,1% contraindicadas. El grupo terapéutico más implicado fueron los antimicrobianos (17,6%) y los fármacos individuales más frecuentemente involucrados fueron hidrato de cloral (15,9%), midazolam (14,1%) y vecuronio (13,4%). Conclusión: Las IF fueron más frecuentes en pacientes con mayor polifarmacia y estadía más prolongada.
+
+(Palabras clave: Fármacos, interacción farmacológica, interacciones farmacodinámicas, cuidados intensivos pediátricos).
+
+ 
+
+Introducción
+
+La farmacovigilancia (FV) se define como la ciencia y las actividades relacionadas con la detección, evaluación, comprensión y prevención de los efectos adversos (EA) de los medicamentos o cualquier otro problema relacionado con ellos1. Los EA o reacción adversa a medicamento (RAM) son definidos por la OMS como todo efecto de un medicamento, que es perjudicial y no deseado y que ocurre a dosis normalmente usadas con fines terapéuticos, profilácticos o de diagnóstico1. El programa nacional de FV en Chile iniciado el año 1995, presentaba entre los años 1995 y 2001 un total de 1.797 casos reportados de RAM2. A nivel mundial a través del programa de FV de la Organización mundial de la Salud (OMS) había más de 3.000.000 de informes de RAM en abril de 20043.
+
+Las interacciones farmacológicas (IF) son un fenómeno que ocurre cuando el efecto de un fármaco es modificado por la administración previa o simultánea de otro fármaco. Se pueden categorizar en 2 tipos, interacción farmacocinética si surgen por una alteración en la absorción, distribución, metabolismo o excreción de cada uno de los medicamentos, o interacción farmacodinámica si existe un sinergismo (cuando el efecto aumenta) o un antagonismo en sus acciones (cuando el efecto disminuye)4. Las IF pueden provocar un beneficio en el efecto terapéutico, o al contrario, la aparición de RAM. Un caso símbolo de esto fue reportado en un hospital de Nueva York en 1984, cuando a una paciente se le indicó meperidina, en circunstancias que ella recibía medicación previa con un antidepresivo del grupo de los inhibidores de la monoaminooxidasa (fenelzina), ocasionándole la muerte a debido al efecto de depresión aditiva sobre el sistema nervioso central5. La frecuencia potencial de las IF aumenta con la polifarmacia, lo cual puede constituir una buena práctica médica siempre y cuando seamos capaces de saber qué medicamentos pueden afectar la farmacocinética y la farmacodinamia al ser utilizados al mismo tiempo6. Se estima que la incidencia de IF en aquellos pacientes tratados con un número menor de fármacos es de 3 a 5% pero esta tasa puede alcanzar hasta el 20% en aquellos que reciben de 10 a 20 fármacos7, situación que es esperable en unidades de cuidados intensivos (UCI). Leape y cols., reportan que las IF teóricamente asociadas a RAM en una UCI adulto disminuyeron de 10,4 por 1.000 pacientes día a 3,5 al incorporar a un químico farmacéutico clínico a la visita médica diaria8.
+
+Una terapéutica farmacológica efectiva, segura y racional en neonatos, lactantes y niños requiere del exhaustivo conocimiento de las diferencias en la absorción, distribución, metabolismo y excreción, las que van variando durante el crecimiento. Por desgracia, la FV en la UCI Pediátrica (UCIP) es un tema que aún está en desarrollo6,7,9. Son escasos los estudios cuantitativos que demuestran la magnitud de las IF en las UCI10. Los pocos reportes han coincidido en que los factores de riesgos de que se presenten IF son el número de fármacos, los días de hospitalización y las características del medicamento administrado11,12. Nuestro objetivo fue medir la frecuencia teórica de IF probables y sus características en los esquemas terapéuticos (prescripciones) empleados en los pacientes hospitalizados en una UCIP.
+
+Pacientes y Método
+
+Diseño
+
+Se efectuó un estudio observacional, en el cuál se analizaron las prescripciones médicas realizadas en la UCIP con el fin de cuantificar la frecuencia teórica de las IF probables en ellas, durante el período comprendido entre septiembre y noviembre del año 2011. Se definió prescripción como la receta de uno o más medicamentos indicados en la ficha clínica del paciente. Se analizó las IF entre 2 medicamentos solamente. Se incluyó tanto a pacientes de cuidados intensivos (6 camas) como intermedios (6 camas) que están dentro de la misma UCIP. Los criterios de inclusión de los pacientes a quienes se les hicieron las prescripciones médicas analizadas, fueron estar hospitalizados en la UCIP, tener prescripciones que incluyan a lo menos 3 medicamentos, excepto aquellos de aplicación tópica, ambos sexos, sin límite de edad, ni estadía hospitalaria. Se excluyeron los pacientes que estuvieron hospitalizados sólo durante el fin de semana, ya que no contábamos con recursos para obtener la información en esos días.
+
+Obtención de los datos
+
+Los datos fueron extraídos por un tesista de química y farmacia de la ficha clínica de cada paciente y registrados en una planilla Microsoft Excel® 2007: número de ficha clínica, edad, sexo, fecha de ingreso, fecha de egreso, diagnóstico de ingreso, medicamentos administrados, número de IF detectadas. Se hizo una suma final con el número de medicamentos administrados a cada paciente, que constituyó el número total de medicamentos administrados en la cohorte estudiada. Posteriormente, en una segunda fase, se analizó con el programa Micromedex 2.0® para detectar las potenciales IF, registrando los fármacos involucrados, el mecanismo farmacológico y la severidad teórica de la IF de acuerdo a una clasificación otorgada por el mismo progra-ma13. Micromedex 2.0® consiste en una base de datos actualizada de fármacos, dosis, vías de administración, indicaciones, EA e IF entre otros. Dentro de sus herramientas utiliza los programas Drug REAX® y Drug DEX® que indican las potenciales IF y EA que pudiesen presentarse con la asociación de medicamentos7,11,12,14. Las IF detectadas se clasificaron de acuerdo a 2 criterios: a) según mecanismo farmacológico involucrado, en farmacocinéticas o farmacodinámicas, y b) según severidad teórica, como: Contraindicada (medicamentos contraindicados para su uso simultáneo), mayor (sus efectos pueden ser capaces de poner en riesgo la vida del paciente o causar daño permanente), moderada (sus efectos pueden causar deterioro en el estado clínico del paciente, llevando a un tratamiento adicional o prolongación de la estadía hospitalaria, y menor (sus efectos son ligeros, no detectados o previstos, y sin afección clínica de importancia). El análisis en Micromedex 2.0® se hizo al final del período de recolección de datos.
+
+Resultados
+
+Pacientes y patologías
+
+De los 223 pacientes hospitalizados, 123 (55,1%) fueron excluidos porque no cumplían con los criterios de inclusión solicitados, quedando un total de 100 (44,8%) seleccionados para el estudio. La edad promedio de esta muestra fue 4,7 años (13 días-17 años), 62 sexo masculino.
+
+En los 100 pacientes incluidos en esta muestra se contabilizaron 610 prescripciones médicas, donde se indicaron 815 fármacos.
+
+Los principales motivos de ingreso fueron patología respiratoria 30%, recuperación post cirugía 19%, patología neurológica 11%, patología traumatológica 9%, gastrointestinal 8%, inmunológica 5% y renal 5%. Al correlacionar los 3 primeros motivos de ingreso con la presencia de IF en los pacientes, resulta en una incidencia de 29,5%, 20,5% y un 18,2%, respectivamente.
+
+Interacciones farmacológicas
+
+Se detectaron 1.240 IF en 44 pacientes. Doce pacientes recibieron más de 10 fármacos cada uno, registrándose en ellos 1.162 IF (93,7% de las IF). Ocho pacientes estuvieron más de 10 días hospitalizados, concentrando 1.035 IF (83,5% de las IF).
+
+De las 1.240 IF detectadas, 806 (65%) fueron por mecanismos farmacodinámicos. En cuanto a la severidad teórica de las IF, se encontró un 37,5% de IF mayores, 51,7% IF moderadas, 6,7% IF menores y un 4,1% IF contraindicadas (figura 1).
+
+ 
+
+
+
+Figura 1. Severidad teórica de las interacciones farmacológicas de acuerdo a clasificación          de programa Micromedex 2.0® expresado en porcentaje de las 1.240 IF encontradas.
+
+ 
+
+Dentro de los grupos terapéuticos mayormente implicados en las IF se encontraron los Antimicrobianos, Antihipertensivos y las Benzodiazepinas, con un 17,6%, 16,2% y 14,9%, respectivamente (figura 2).
+
+ 
+
+
+
+Figura 2. Distribución de interacciones farmacológicas de acuerdo a grupo terapéutico          implicado.
+
+ 
+
+Al observar los medicamentos que con mayor frecuencia participaron de las IF, detectamos diferencias con respecto a la figura 1, ya que no coincidieron con los principales exponentes de los dos primeros grupos terapéuticos mencionados anteriormente, destacando el hidrato de cloral (HC), el midazolam (MDZ) y el vecuronio con un 15,9%, 14,1%, 13,4%, respectivamente, como los fármacos predominantes involucrados en las IF (figura 3). Las IF más frecuentemente detectadas se muestran en la tabla 1.
+
+ 
+
+
+
+Figura 3. Fármacos más frecuentemente involucrados en las interacciones farmacológicas
+
+ 
+
+Tabla 1. Interacciones farmacológicas más frecuentemente detectadas en esta          serie y su efecto potencial de acuerdo a programa Micromedex 2.0®
+
+
+
+ 
+
+Discusión
+
+Del total de la muestra estudiada, 44% de los pacientes presentaron IF en sus prescripciones médicas, corroborando reportes previos7-12. Un estudio nacional en UCI adulto reporta un total de 76 IF en 35 pacientes, aunque sólo buscó IF entre los sedantes-analgésicos y antibióticos y en pacientes con más de 3 días de hospitalización14. Sin embargo, no encontramos estudios de IF en UCIP en Chile, por lo que este sería el primer reporte en nuestro país. Este estudio tiene limitaciones debido a que fue no intervencional, sólo observacional y retrospectivo, y sólo una vez que se recopilaron todos los datos, se procedió a su análisis computacional. Por otro lado, hubo una pérdida de muestra que se basó fundamentalmente en que un grupo importante de los pacientes ingresados por motivo de monitoreo no invasivo y/o que recibieron menos de 3 medicamentos durante su hospitalización.
+
+Los pacientes cuyo motivo de ingreso fue patología respiratoria, representaron el 30% de la muestra, y casi un tercio de ellos presentó IF, la más alta incidencia dentro de los motivos de ingreso a UCIP. Generalmente, las enfermedades respiratorias graves necesitan una extensa farmacoterapia, lo cual aumenta el riesgo de aparición de IF. Clapé y cols., reportan en un estudio en UCI adulto, en pacientes con enfermedades respiratorias como motivo de ingreso, que el 72% de ellos presentó IF15. En estos pacientes se utilizan mucho los antimicrobianos, los cuales son uno de los grupos terapéuticos más frecuentemente descritos en las IF6,12,14,16. Un ejemplo fue lo que ocurrió a principios de la década de 1990, en que un grupo de pacientes presentó toxicidad cardíaca grave después de tomar antihistamínicos o fármacos procinéticos junto con macrólidos o antimicóticos azoles. Se identificó que la inhibición de las isoenzimas 3A del citocromo P450 (CYP3A) producía concentraciones plasmáticas más altas de los fármacos16.
+
+Un aspecto importante de resaltar es la relación que existe entre la presencia de IF y el número de medicamentos administrados, que ha sido comprobada en varios estudios sobre el tema10-12,14,17. Nosotros observamos que 12 de nuestros pacientes recibieron más de 10 fármacos cada uno, concentrando el 93% de todas las IF descritas en esta serie. Martinbiancho y cols., en un estudio realizado en 3.170 niños hospitalizados describió que la incidencia de IF llegaba en aquellos con más de 10 fármacos indicados a 61,3%7. Debido a la gravedad de las patologías tratadas en UCIP los pacientes reciben más medicamentos, haciéndolos más susceptibles a experimentar IF.
+
+Otra asociación importante está dada por la duración de la hospitalización y el riesgo de IF. Moreira y cols., reporta en un estudio en 299 adultos en UCI, que aquellos que presentaban IF el primer día de hospitalización, tuvieron un promedio de 8 días de hospitalización versus 7 días los que no presentaron IF (p < 0,001)12. Fontenele reportó en 102 adultos en UCI que los pacientes que permanecieron por un tiempo mayor o igual a 9 días presentaron un mayor número de IF (56,7%), versus los que estuvieron menos de 9 días (43%; p < 0,001)11. Nosotros confirmamos en nuestra serie esta asociación, ya que 8 pacientes estuvieron más de 10 días hospitalizados, concentrando el 83,5% de todas las IF.
+
+Al analizar los mecanismos farmacológicos por los cuales se originan las IF descritas, se observa un predominio de mecanismos farmacodinámicos, con 65% versus el 35% de los farmacocinéticos. Moreira en su serie describe que el 61,4% de la IF detectadas el primer día de hospitalización fueron farmacodinámicas12. Otro estudio en niños hospitalizados también describe que el mecanismo farmacodinámico predomina en las IF7. Sinergia y antagonismo son fenómenos de laboratorio bien definidos, con un número limitado de correlaciones clínicas, siendo un ejemplo la asociación de ácido valproico y carbapenémicos que aumenta el riesgo de convulsiones por disminución de los niveles de valproato16.
+
+Cuantificando la severidad de las IF pesquisadas, encontramos que las interacciones moderadas son las de mayor prevalencia con un 51,7%. Pero entre las mayores y las contraindicadas se hace un total de 41,6%. Martinbiancho encontró en su serie de 3.170 niños estudiados 17% de IF teóricas severas y 56% moderadas, rango muy similar a nuestro hallazgo7. En teoría estas IF se asocian a más EA, lo cual no fue medido en este estudio que sin duda constituye una limitación, pero sugiere que el impacto sobre el efecto terapéutico debiera ser monitorizado estrechamente en estos casos8,17.
+
+Los fármacos implicados con mayor frecuencia en las IF fueron Hidrato de Cloral, Midazolam, y Vecuronio. Los 2 primeros son sedantes y el tercero miorelajante6,18-20. La analgesia y sedación en UCIP es necesaria no sólo por razones humanitarias, sino que desde el punto de vista fisiopatológico, la supresión del dolor, frena la respuesta neuroendocrina inicialmente beneficiosa, pero inútil y perjudicial a muy corto plazo. Una buena sedoanalgesia permite mantener la estabilidad hemodinámica y respiratoria19. Esto explica su amplio uso en las UCIP donde habitualmente los pacientes graves están con dolor y con inestabilidad hemodinámica y respiratoria.
+
+El Hidrato de Cloral es un fármaco hipnótico seguro y efectivo que tiene más de 100 años de uso clínico. En general se usa en niños de 4 años o menores. Proporciona sedación moderada a profunda, que hace dormir al paciente. El Midazolam es una benzodiacepina con efecto ansiolítico, amnésico, sedante hipnótico, relajante muscular y anticonvulsivo. Ha superado a otras benzodiacepinas por su rápida acción y solubilidad en agua que permite la administración a través de cualquier vía (intranasal, IV, oral, rectal, e intramuscular).
+
+En resumen, se presenta el análisis teórico de las IF detectadas en las prescripciones de una serie de 100 pacientes pediátricos hospitalizados en UCIP. Se detectaron 1.240 IF en 44 pacientes. Doce pacientes recibieron más de 10 fármacos cada uno, registrándose en ellos el 93,7% de las IF. Ocho pacientes estuvieron más de 10 días hospitalizados, concentrando el 83,5% de las IF. Dentro de los grupos terapéuticos mayormente implicados en las IF, se encontraron los antimicrobianos, antihipertensivos y las benzodiacepinas, con un 17,6%, 16,2% y 14,9%, respectivamente. Hacen falta más estudios para determinar cuál es el impacto real y objetivo de las IF en los pacientes hospitalizados en UCIP.
