@@ -1,0 +1,140 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482018000200122
+Manejo clínico y programático de la tuberculosis con resistencia a fármacos
+
+1. El problema clínico-epidemiológico de la Tuberculosis MultiDrogoResistente (TB-MDR)
+
+Magnitud de la TB-MDR
+
+Los últimos datos aportados por la OMS registran 10,4 millones de casos nuevos estimados de tuberculosis (TBC) para el año 2016 en el mundo, de los cuales al menos 490.000 corresponderían a casos de TB-MDR; pero existirían además 110.000 casos con mono-resistencia a rifampicina (R) los que, aunque sean reportados como sensibles a la isoniacida (H), actualmente se les informa como TB-MDR porque su pronóstico es muy parecido. El problema es que se diagnostica sólo el 56% de las TB existentes a nivel mundial, y menos del 30% de las TB-MDR/RR (resistente a rifampicina). En Chile, la TB-MDR está presente en el 0,9% de los casos de TBC. Durante el año 2016 se registraron 16 TB-MDR (0,95% de los casos nuevos y 4,7% de los antes tratados) además de 7 enfermos mono-resistentes a R. Actualmente la mitad de las TB-MDR en nuestro país se presentan en extranjeros. En la Tabla 1 se muestra la casuística entre los años 2000 a 2016.
+
+Tabla 1 Número de casos de Tuberculosis MultiDrogoResistente en Chile (años 2000 a 2016) 
+
+Resultados de la terapia de TB-MDR
+
+En general la curación de la TB-MDR con los tratamientos actuales no es mayor al 60% a nivel mundial. en Chile, la cohorte de pacientes evaluados entre 2011 y 2014 muestra un éxito terapéutico muy inferior (menos de 30% de curación) debido a que una alta proporción de ellos abandona la terapia (14-33%) o fallece (17-29%).
+
+Diagnóstico de TB-MDR
+
+En Chile, las PSD (pruebas de susceptibilidad a drogas antituberculosas) son realizadas en el Instituto de Salud Pública de Chile (ISP) desde el cultivo primario en todos los casos con bacteriología positiva. Para el diagnóstico de resistencia a isoniazida (H) y rifampicina (R) se utiliza LPA (Line Probe Assay) y si se detectan mutaciones o no es concluyente el resultado por los métodos moleculares, se les realiza estudio con PSD fenotípicas en medio líquido mediante MGIT, con testeo de resistencia a concentraciones altas de H en caso de resistencia a este fármaco y a todos los fármacos de 1a y 2a línea si se detecta resistencia a R.
+
+Las PSD tienen un valor predictivo positivo dependiente de la prevalencia de resistencia a la TBC en el área geográfica estudiada. Mientras más prevalente la resistencia global, mayor es el valor predictivo positivo de las PSD. La sensibilidad de las pruebas utilizadas en Chile para detectar resistencia a H y a R es alta, pero como la proporción de TB-MDR en la población general es menor al 1% el valor predictivo positivo de un resultado resistente es bajo y existe una mayor probabilidad de que sean falsos positivos o sea falsos resistentes.
+
+Por este motivo hay que ser muy críticos al momento de interpretar los resultados de estas pruebas, lo que debe considerar además la historia de fármacos recibidos por el paciente y su historia clínica detallada.
+
+Protocolo de diagnóstico de TBC resistente a fármacos:
+
+Para una adecuada interpretación de la resistencia a los fármacos es útil evaluar los siguientes indicadores:
+
+Historia detallada del uso previo de drogas antituberculosas. especialmente determinar si existió algún período mayor de 3-4 semanas de monoterapia directa o encubierta, detallar la temporalidad y dosis de los fármacos utilizados y reconocer los fracasos bacteriológicos.
+
+Pruebas de sensibilidad fenotípicas clásicas, cuyos resultados son generalmente muy tardíos y no guardan adecuada correlación in vivo e in vitro excepto para H y R. Habitualmente más de la mitad de los resistentes a R son también resistentes a pirazinamida (Z), mientras que los resistentes a H suelen ser sensibles a etambutol (E) y Z, pero hasta un 20% de ellos son resistentes a etionamida (et) (por mutación del gen Inh A) y más de 50% también son resistentes a estreptomicina (S). Para los fármacos de segunda línea la concordancia es alta solamente para aminoglucósidos (inyectables) y fluoroquinolonas (Fq), siendo poco creíbles para Et, ácido para-aminosalicílico (PAS) y cicloserina (Cs).
+
+Tests de susceptibilidad por análisis molecular, que detectan mutaciones en los genes asociados a resistencia. Por ejemplo, el Genxpert puede detectar mutaciones del gen rpoB presente en más del 95-98% de los casos resistentes a R. Habitualmente esta mutación se asocia además a resistencia a H en más del 90% de los casos y, por lo tanto, estos pacientes se pueden considerar y se tratan como MDR, como ya señalamos. Sin embargo, Genxpert no detecta mutaciones de genes asociados a resistencia a H (katG, inhA) en casos sensibles a R.
+
+La resistencia a H puede detectarse en la actualidad mediante LPA que es un PCR con una hibridación reversa que en nuestro país es realizada en el ISP. La identificación de los genes que confieren resistencia a H es muy importante, ya que entrega información clínica relevante. Por ejemplo, la mutación del gen inhA, que es la predominante en los enfermos nuevos que nunca han recibido fármacos antituberculosos, nos hace suponer que la Et también resultará resistente, aunque la PSD fenotípica resulte sensible y que, en cambio, se puede administrar H en las concentraciones habituales, o algo incrementadas. Por otra parte, la mutación del gen katG, que es la más frecuente, obliga a usar dosis altas de H o prescindir de ella. Si hay mutación en ambos genes no se puede utilizar la H.
+
+En nuestro país cuando se detecta resistencia a H por LPA, se realizan además PSD fenotípicas a diferentes concentraciones del fármaco (1 μg/ml, 3 μg/ml y 10 μg/ml). Cuando se obtienen niveles de resistencia moderados, hasta 3 μg/ml, se pueden indicar dosis altas de H; por el contrario, si se encuentra una resistencia a 10 μg/ml no es recomendable usarla. Estos estudios con diferentes concentraciones de H, demuestran que hasta en 80-90% de los casos con resistencia a H se puede seguir utilizando este fármaco aunque a dosis mayores a las habituales.
+
+Los datos preliminares de perfiles de resistencia en Chile para H indican mutaciones en el gen katG en el 53%, para gen inhA en el 36% y otras mutaciones no determinadas en un 11%. La mayoría de las cepas resistentes son sensibles a altas dosis de H (15-20 mg/kg) administradas idealmente en forma diaria durante todo el tratamiento (2HRZE/4HR).
+
+Fármacos y esquemas de tratamiento para TB-MDR
+
+El arsenal terapéutico de la TB-MDR puede incluir a los siguientes fármacos:
+
+Isoniacida (H): en algunos casos de resistencia podría usarse en altas dosis.
+
+Rifampicina (R): si se detecta resistencia a R no se debería utilizar este fármaco, ni tampoco ninguna de las otras rifamicinas, pues su resistencia cruzada es muy elevada.
+
+Pirazinamida (Z): se emplea empíricamente porque el 50% de los casos MDR aún son sensibles a este fármaco y las PSD fenotípicas para Z tienen bajo valor predictivo en los informados como resistentes. El ISP para mejorar el diagnóstico está secuenciando el gen pncA con el inconveniente de la demora en la entrega de los resultados del examen.
+
+Etambutol (E) es inhabitual que tenga resistencia.
+
+Moxifloxacino (Mx): es una fluoroquinolona (Fq) que se concentra en el pulmón y tiene buena potencia esterilizante. Se puede usar a altas dosis y en forma diaria (no intermitente ya que muy posiblemente tiene un pobre efecto post-antibiótico).
+
+Kanamicina (Km): aunque por patrones farmacodinámicos la amikacina (Am) parece que es el más activo de los inyectables, se utiliza habitualmente kanamicina, porque la diferencia en su efecto no es muy relevante. Ambos tienen toxicidad auditiva. En general se indica mientras el paciente mantiene baciloscopías positivas. Su administración por más de 4 meses obliga a su empleo intermitente (trisemanal). Se puede usar amikacina (Am) cuando se encuentre resistencia a Km y no a amikacina.
+
+Linezolid (LZD): es bactericida y esterilizante. Es costoso y tiene efectos secundarios hematológicos dosis dependientes. Se usa a dosis de 600 mg/día hasta lograr negativizar la baciloscopía o hasta que aparezcan efectos colaterales significativos. En ambos casos lo ideal es reducir la dosis a 300 mg/día).
+
+Etionamida (Et): tiene resistencia cruzada con H cuando la resistencia a este último fármaco se debe a mutación del gen inhA. Es teratogénico y por lo tanto se debe evitar en embarazadas.
+
+Clofazimina (Cf): tiene actividad esterilizante y permite negativizar precozmente la baciloscopía, acortando el tiempo de terapia.
+
+Cicloserina(Cs): es bacteriostático. Tiene buena tolerancia digestiva, pero toxicidad psiquiátrica y neurológica.
+
+Bedaquilina (BDQ): es bactericida y esterilizante, de efecto muy prolongado por su larga vida media. Puede prolongar el QT por lo que su uso debe ser monitoreado con frecuentes ECG.
+
+Delamanid (DLM): es esterilizante y bactericida pero de vida media corta.
+
+Otros fármacos: carbapenémicos (meropenem, ertapenem), amoxicilina-ácido clavulánico (por su efecto sobre betalactamasas) son menos utilizados.
+
+Los esquemas se organizan seleccionando fármacos según una agrupación propuesta por la OMS basada en orden de potencia y eficacia. Los más importantes son los del grupo A, las Fq (Mx), luego B, los inyectables (Am, Km), luego C (Et, Cs, LZD, Cf). Grupo D, fármacos como Z, Et, H a altas dosis, BDQ y DLM quedan en las últimas posiciones de selección.
+
+En esta capacitación se propuso introducir el nuevo tratamiento acortado de TB-MDR de 9 meses de duración en Chile y empezar a utilizar los nuevos fármacos LZD, BDQ y DLM para el tratamiento estandarizado o individualizado en los casos de TB pre-XDR (resistente a R-H y a Mx o algún inyectable como Km y de TB- XDR (resistente a R-H y a Mx e inyectables como Km o Am).
+
+Tratamiento de la TBC según resistencia a fármacos
+
+Se enumeran las alternativas de tratamiento según los fármacos útiles en los siguientes casos:
+
+1. Sensibles a todos los fármacos: el esquema indicado sería 2HRzE/4HR (o 2HREZ/4H3R3) con éxitos teóricamente superiores a 95%, con efectos adversos significativos menores al 5% y costo inferior a 10 dólares (USA). La OMS está recomendando en la actualidad el uso diario de este esquema pues no existe seguridad de que en todos los países el tratamiento directamente observado se cumpla. En países como Chile se puede seguir utilizando trisemanal en la segunda fase debido al cumplimiento de la terapia completamente supervisada.
+
+Uno de los problemas que se han evidenciado con este esquema es que algunos pacientes pueden presentar niveles sub-terapéuticos de R por disminución en la absorción del fármaco y requieren mayores dosis de R (900 mg). otro problema es la persistencia de la baciloscopía positiva al final del 2° mes de terapia, no pudiendo discriminarse si hay resistencia a H, lo que obliga a mantener la fase diaria (con el fin de evitar la mono-terapia con R que pudiera ocurrir en la fase trisemanal en resistentes a H). Esta prolongación será hasta negativizar la baciloscopía o hasta que se demuestre sensibilidad a H y R.
+
+2. Resistentes sólo a H: En la última guía de la OMS de tratamiento de la TB con resistencia a H se aconseja un esquema de 6 meses con RZE y levofloxacino, aunque existe el riesgo de que si el resultado de la resistencia inicial a H se conoce después de 1-2 meses de tratamiento, se suspenda H y se añada entonces Fq, lo que supondría añadir una sola droga a un esquema que puede no estar funcionando bien por esa resistencia a H. Por eso, cuando el resultado de la resistencia inicial a H se conoce después de 1-2 meses de tratamiento, es mejor seguir con HRZE hasta completar 6-9 meses de tratamiento, mantenendo H en el esquema para facilitar el administrar los fármacos en dosis fijas combinadas y porque en muchos casos de resistencia de bajo nivel de H esta droga puede seguir funcionando.
+
+3. Resistentes sólo a R: se deben considerar como TB-MDR, ya que más del 95% de estos casos son resistentes a H aunque no por los genes más comunes (aquí incluso las PSD fenotípicas no tienen un 100% de confiabilidad). No se debe sustituir la R por Fq ya que esto puede amplificar el desarrollo de resistencias en casos TB-MDR. La excepción de sustituir la R por otro fármaco sólo se reserva para casos sensibles que tienen efectos adversos a R.
+
+4. Casos TB-MDR: se prefieren los regímenes acortados (Bangladesh, Camerún). El esquema recomendado por la OMS tiene una fase inicial de 4-6 meses diarios con Km, Mx a altas dosis, Et, Cfz, Z, E, H a altas dosis, seguido de una fase de continuación diaria de 5 meses con Mx a altas dosis, Cfz, Z y E. La primera fase se extiende hasta obtener baciloscopías negativas en el caso de que estas sean positivas al final del cuarto mes. Si a los 6 meses de tratamiento la baciloscopía persiste positiva se considera un fracaso. Estos esquemas excluyen a los pacientes que usaron previamente fármacos de 2a línea por más de 1 mes o que tienen demostrado por PSD resistencia a Fq e inyectables de 2a línea; también se excluyen las embarazadas y los casos de TBC extra-pulmonar, pero puede ser utilizado en niños y personas VIH+.
+
+5. Casos PreXDR y XDR: son pacientes con TB-MDR que tienen resistencia ampliada a fármacos de segunda línea. En ellos el tratamiento se prolonga a más de 18 meses diariamente con toda clase de medicamentos, incluyendo en algunos casos el agregado de Am los primeros 4 meses.
+
+6. Hasta un 10% de los contactos de pacientes con TB-MDR puede desarrollar una TBC, de las cuales el 62-84% resulta ser MDR, por lo que todo caso de TBC surgido en los contactos de estos enfermos debe ser considerado y tratado como TB- MDR.
+
+Manejo operacional de TB-MDR
+
+El manejo de estos pacientes debe hacerse por personal de salud capacitado, cumpliendo con:
+
+Gestión y coordinación estrechas con ISP, PROCET del MINSAL y CENABAST (Central Nacional de Abastecimientos). Los Equipos técnicos de tuberculosis (ETT) de los Servicios de Salud deben capacitar y reunirse trimestralmente con los ETT de la Atención Primaria que es donde se recibe el tratamiento.
+
+Solicitar los fármacos en forma trimestral al PROCET del MINSAL con al menos 15 días de antelación al término de las dosis disponibles en el Servicio de Salud respectivo.
+
+Mantener un control médico mensual por parte de los ETT del Servicio de Salud.
+
+Mantener un estudio de contactos prolongado: cada 6 meses durante 2 años.
+
+Manejar los casos con un equipo multi-profesional (médico, enfermera, tecnólogo, asistente social, salud mental, etc.).
+
+Incorporación de GenXpert MTB/RIF en Chile
+
+Actualmente el tiempo de demora en obtener los resultados de las PSD genotípicas desde cultivo, es de alrededor de 60 días. Con la incorporación del genXpert para el diagnóstico de la TBC, se obtienen resultados de detección de micobacteria tuberculosa: MTBC y de resistencia a R en 2 h. Además, si la baciloscopía es positiva y el genXpert resulta negativo para TBC (es decir no se amplifica genoma de MTBC variedad humana) se debe sospechar la presencia de una micobacteria no tuberculosa (MNT) como puede ocurrir especialmente en pacientes VIH+.
+
+La sensibilidad y especificidad del genXpert para la detección de resistencia a R es de 95% y 98% respectivamente, mientras que para la detección de TBC pulmonar bacilífera la sensibilidad global podría alcanzar hasta el 88% y la especificidad a 99%. Además, puede detectar casos de TBC pulmonar con baciloscopía negativa que a los 60 días tienen cultivos positivos con una sensibilidad de alrededor del 77%. El uso de este nuevo recurso sería prioritario en los siguientes casos:
+
+Pacientes con síntomas de TBC y probabilidad de TB-MDR: (pacientes antes tratados perdidos en el seguimiento, fracasos a terapia, extranjeros, contactos de TB-MDR).
+
+Pacientes VIH+ con síntomas sugerentes de TBC.
+
+Casos de meningitis (para aumentar la sensibilidad diagnóstica).
+
+Sospecha de TBC (alteración radiológica torácica) con baciloscopías de esputo negativas.
+
+La indicación para el uso del GenXpert MTB/RIF tiene como objetivo el diagnóstico precoz de TBC, orientar a la presencia de MNT en pacientes con VIH y descartar TB-MDR en enfermos de riesgo. Si el Genxpert muestra resistencia a R, se debe repetir el examen con una segunda muestra y enviar otra muestra al ISP para realización de LPA directo de fármacos de primera y segunda linea antes de iniciar terapia de TB-MDR, ya que como se explicó anteriormente, en situaciones epidemiológicas de baja incidencia de TBC resistente pueden aparecer falsos positivos con este examen. Si se confirma TB-MDR hay que solicitar los fármacos correspondientes al PROCET del MINSAL, mientras esperamos resultados de susceptibilidad a H y drogas de segunda línea en el LPA directo realizado en ISP.
+
+Probablemente a corto plazo se pueda disponer además del Genxpert ultra, lo que representaría una mejora en la capacidad de detección de MTBC, ya que si con el GenXpert convencional el límite de detección son 130 bacilos/ml (sensibilidad de 72,5-88%), para el ultra bastaría la presencia de 16 bacilos/ml (sensibilidad de 85-90%) (Figura 1).
+
+Figura 1 Algoritmo diagnóstico Xpert MTBC/RIF Chile. TBC: Tuberculosis; LPA: ‘Line Probe Assay’: RR: Resistente a Rifampicina; MDR: MultiDrogoResistente. 
+
+Las variantes de resistencia a fármacos obtenidas por el estudio darán lugar a la necesidad de modificar los esquemas terapéuticos. Hay algunas propuestas que se muestran a continuación (Figura 2), pero deben ser validadas en las nuevas normas nacionales para ser aplicadas.
+
+Figura 2 Propuesta de cambios de terapia de tuberculosis según susceptibilidad a fármacos. BK: baciloscopía; E: etambutol; F: Fluoroquinolona; H: isoniacida; LPA: ‘Line Probe Assay’; MDR: MultiDrogoResistente; R: Rifampicina; XDR: Extremadamente Drogoresistente; Z: Pirazinamida; TB tuberculosis. 
+
+Comentarios finales
+
+Dado que el tratamiento de la TB-MDR tiene un éxito global inferior al 60%, que es incluso menor en nuestro país, lo más importante es evitar que los casos de TBC sensibles se vuelvan resistentes por causa de mal manejo y baja adherencia a las terapias, como ocurre en cerca de la mitad de los enfermos. Para esto es necesario un fortalecimiento del PROCET pero, además, se requiere de un sistema de detección precoz de los casos TB-MDR mediante el uso de test de susceptibilidad a fármacos rápidos (tests moleculares como IPA o genotípicos como Genxpert) altamente sensibles y fáciles de utilizar. También es necesario modificar el esquema de terapia actual incorporando alternativas más efectivas, mejor toleradas y de menor duración, como recomienda ahora la OMS. Para esto será necesario disponer de los fármacos necesarios.
+
+Actualmente se encuentra en desarrollo en el MINSAL la implementación de una red nacional de diagnóstico molecular rápido en todos los servicios de salud, la renovación de las normas nacionales y la adquisición de nuevos fármacos para la terapia de la TB-MDR. La capacitación de los equipos de TBC y la difusión de estas medidas al ámbito de la salud son una parte fundamental y en este sentido esta publicación puede ser de utilidad.
+
+Extraído del “Curso intensivo de manejo clínico y programático de tuberculosis sensible y resistente a fármacos” destinado a referentes clínicos del Programa de Control y Eliminación de la Tuberculosis (PROCET) efectuado en julio de 2017 con la colaboración del Prof. José Antonio Caminero Luna.
+
+Agradecimientos
+
+Debemos reiterar nuestro agradecimiento al Dr. José Antonio Caminero Luna por su apoyo para realizar esta capacitación de alto nivel en nuestro país y además por permitirnos utilizar y difundir libremente los contenidos de sus presentaciones.

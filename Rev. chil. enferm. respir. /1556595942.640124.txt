@@ -1,0 +1,290 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482014000300004
+Estandarización de la prueba de capacidad de difusión de monóxido de carbono: Chilean Society of Respiratory Diseases guidelines
+
+Resumen
+
+Desde la introducción en la práctica clínica de la prueba de difusión con monóxido de carbono (CO) a mediados del siglo pasado, su utilización ha sido ampliamente difundida en la evaluación de diversas enfermedades respiratorias, de hecho se le considera la prueba más utilizada luego de la espirometría. Desde el punto de vista conceptual aporta información global de todo el proceso de difusión, que incluye el paso a través de la barrera alvéolo capilar y su unión con la hemoglobina. Gracias a la elevada afinidad del CO por la hemoglobina y a la particularidad de que la presión parcial de CO en el plasma es prácticamente cero, la transferencia del CO depende sólo de su difusión. Patologías respiratorias y cardíacas habituales como el enfisema pulmonar, las enfermedades pulmonares intersticiales, el compromiso pulmonar por drogas neumotóxicas, la hipertensión arterial pulmonar y la insuficiencia cardíaca congestiva, entre otras, cursan con disminución de la capacidad de difusión de CO (DLCO). Un nuevo desafío plantean las hipótesis recientes que postulan que la resistencia a la difusión del monóxido de carbono depende principalmente del glóbulo rojo, por lo que ésta podría consistir en una representación de la microcirculación. Como ejemplo, en la insuficiencia cardíaca congestiva, el deterioro de la DLCO no mejora en conjunto con los volúmenes pulmonares, ni cuando estos pacientes se estabilizan o se trasplantan. Si bien se trata de una técnica de laboratorio ampliamente utilizada, aún presenta problemas de estandarización y reproducibilidad. En este documento de consenso, un grupo de estudio de la Comisión de Función Pulmonar de la Sociedad Chilena de Enfermedades Respiratorias, ha efectuado una revisión de este método, con las correspondientes proposiciones de técnicas de medición, control de calidad, calibración e interpretación. 
+
+Palabras clave: DLCO; capacidad de difusión; pruebas de función pulmonar.
+
+ 
+
+Introducción
+
+Historia
+
+En los primeros años del siglo 20 el fisiólogo danés Christian Bohr proponía que el oxígeno (O2) era secretado activamente por los pulmones. August Krogh, recientemente doctorado por su trabajo sobre la respiración en la rana y que trabajaba en su laboratorio, creó microtonómetros precisos para la medición de gases tanto en sangre arterial como a nivel alveolar, con el fin de comprobar esta teoría. En el mismo laboratorio en 1904, comenzó a trabajar Marie Jorgensen en sus últimos años de estudiante de Medicina, donde conoció a Krogh (su futuro esposo), con quien investigó activamente el transporte de gases en el pulmón.
+
+En sus estudios no pudieron comprobar la hipótesis de Bohr, sino por el contrario, demostraron que el O2 se transportaba a través del epitelio alveolar por un proceso de difusión. Por las implicancias obvias de esta disparidad con Bohr, no pudieron publicar sus hallazgos hasta 19101. Marie Krogh, titulada ya en 1907, investigaba sobre el efecto de la altitud sobre las enfermedades pulmonares y sobre la difusión del O2, describiendo para ello la técnica de la difusión del CO. Sus trabajos quedaron en el olvido por más de 40 años, siendo posteriormente actualizados y utilizados en la práctica clínica, para evaluar la difusión de gases en el pulmón2-4.
+
+Fundamento fisiológico
+
+La prueba de difusión de monóxido de carbono (DLCO) aporta información global de todo el proceso de difusión, que incluye el paso a través de la barrera alvéolo-capilar y su unión con la hemoglobina (Hb). En definitiva representa el contacto de los alvéolos ventilados con el lecho capilar. De esto se desprende que una reducción de la superficie de intercambio gaseoso o un aumento en el grosor de la membrana alvéolo-capilar disminuyen la difusión de CO. Asimismo, la disminución del flujo sanguíneo o de la concentración de Hb también la disminuyen.
+
+
+
+Donde: Dgas: difusión del gas.          K: coeficiente de difusión de la barrera gas/ sangre (cm2/min).     d: grosor de la barrera (cm).      αgas: coeficiente de solubilidad del gas en la barrera gas-sangre (ml/100 ml/mmHg).      	PM gas: peso molecular del gas.
+
+En el Laboratorio de Función Pulmonar se mide la DLCO, aprovechando la elevada afinidad del CO por la Hb. Además, la particularidad de que la presión parcial de CO en el plasma es prácticamente cero, resulta ventajosa para medir la capacidad de difusión pulmonar, ya que por este motivo, la transferencia del CO depende sólo de su difusión. Sin embargo, es importante considerar que guarda diferencias importantes con la difusión del oxígeno (O2), por lo que corresponde a una aproximación.
+
+Esta prueba mide la cantidad de CO transferido desde el alvéolo a la sangre por unidad de tiempo y diferencia de presión parcial de CO a cada lado de la membrana alvéolo-capilar.
+
+Vgas (t) = - Dgas [Palv gas - Pcp gas (t)]
+
+Donde: Vgas(t): flujo de gas.          Dgas: difusión del gas.          Palv gas: presión alveolar del gas.          Pcp gas (t): presión capilar del gas.
+
+El CO atraviesa la barrera alvéolo-capilar en forma semejante a la del O2, pero dada su alta afinidad por la Hb, (210 veces la del O2), el CO se fija rápidamente a ella, por lo que su presión parcial en sangre es cercana a cero, a lo largo de todo el recorrido por el capilar pulmonar. Esto permite estimar el gradiente de difusión con sólo medir la presión del CO alveolar.
+
+El modelo inicial descrito por Foster y Roughton2,3 a mediados del siglo pasado, separaba los componentes de membrana y capilar, como resistencias en serie con una participación semejante de cada componente, representado por la siguiente ecuación.
+
+1 / DL = 1/DM + 1/q · Vc
+
+Donde:     DM: capacidad de difusión de la membrana alvéolo-capilar.     Vc: volumen de sangre en los capilares pulmonares.     q: tasa de combinación gas - Hb.
+
+Este modelo ha sido recientemente cuestionado, al disponerse de evidencia que sustenta que más del 80% de la difusión de O2, depende del componente capilar de la superficie de intercambio gaseoso, lo que supone un nuevo espectro de análisis, que corresponde a la microcirculación propiamente tal5,6. Con las consideraciones anteriores, la DLCO puede descender por alteraciones en la distribución de la ventilación, por reducción de la superficie de intercambio gaseoso, por disminución del volumen de sangre capilar o por disminución de la cantidad de Hb.
+
+Indicaciones de la prueba
+
+1. Evaluación y seguimiento de enfermedades del parénquima pulmonar.
+
+a. Enfermedad pulmonar obstructiva crónica
+
+b. Por agentes ocupacionales (asbesto, sílice, algunos metales)
+
+c. Por sustancias orgánicas (neumonía por hipersensibilidad)
+
+d. Por drogas (amiodarona, metotrexato, nitrofurantoína, etc.)
+
+e. Asociadas a radioterapia y/o quimioterapia por cáncer
+
+f. Idiopáticas.
+
+2. Cuantificación de la discapacidad asociada a las enfermedades intersticiales del pulmón.
+
+3. Evaluación del compromiso pulmonar en enfermedades sistémicas:
+
+a. Esclerosis sistémica progresiva
+
+b. Enfermedad mixta del tejido conectivo
+
+c. Lupus
+
+d. Artritis reumatoide
+
+e. Sarcoidosis
+
+4. Evaluación de enfermedades cardiovasculares:
+
+a. Insuficiencia cardíaca congestiva
+
+b. Hipertensión pulmonar primaria
+
+c. Tromboembolismo pulmonar agudo y crónico.
+
+5. Evaluación pre operatoria de cirugía de resección pulmonar.
+
+6. Cortocircuitos de izquierda a derecha.
+
+7. Sospecha de hemorragia pulmonar.
+
+Técnicas de medición
+
+Cuando la prueba de DLCO comenzó a utilizarse como examen de laboratorio, se plantearon diferentes técnicas de medición, entre ellas, la medición en estado estable, que consiste en varias respiraciones y mediciones sucesivas, técnica que está actualmente en desuso, al igual que la técnica de re-inhalación, que no está adecuadamente estandarizada. Por estas razones actualmente sólo se realiza la técnica de respiración única. Esta técnica fue propuesta como una prueba clínica por Marie Krogh en 19101 y luego descrita en forma estandarizada en 1957 por Foster y Ogilvie2,3. Hoy en día es la técnica más difundida, se encuentra estandarizada y existen valores de referencia en diversos países.
+
+Técnica de respiración única con apnea
+
+Con esta técnica el paciente inhala una mezcla de prueba que contiene CO al 0,3%, un gas trazador (helio, neón o metano), dependiendo de los requerimientos de cada equipo, oxígeno al 21% y nitrógeno para el balance. La mezcla gaseosa debe ser la provista idealmente por el fabricante del equipo, o minuciosamente preparada por empresas distribuidoras de gases médicos, ya que los analizadores de gases aceptan variaciones muy pequeñas en su concentración4.
+
+Descripción de la técnica
+
+Previo a la realización de cualquier examen respiratorio se debe haber verificado que las condiciones del laboratorio, de los equipos, del personal y del paciente sean las adecuadas de acuerdo a la normativa. El espacio debe ser suficiente para contener el equipo y sus insumos, los cilindros de gases, escritorio y sillas para el paciente y operador. El operador, idealmente tecnólogo(a) o médico debe tener capacitación de al menos seis meses en la técnica. Los equipos, actualmente computarizados, deben cumplir con los requerimientos ATS-ERS7-9 en cuanto a estructura y software y deben recibir la mantención de acuerdo a las recomendaciones del fabricante.
+
+Se recomienda tener un equipo simulador para chequear el funcionamiento del equipo o mantener regularmente un control biológico7-9.
+
+El paciente no debe haber fumado en las últimas 24 h ni haber hecho ejercicio intenso antes de acudir al examen y debe alimentarse normalmente. Pacientes con tos persistente difícil de detener, con hipoacusia severa, con deterioro cognitivo o con capacidad vital menor a 1 L, habitualmente no pueden realizar bien la prueba, aunque para este reparo hay equipos que permiten disminuir el volumen de lavado del espacio muerto para alcanzar una adecuada muestra alveolar. Para efectuar la prueba de DLCO se debe seguir los siguientes pasos:
+
+1. Medir la talla y el peso del paciente, vigilando el registro fiel de género, edad y talla. En grandes fumadores se aconseja la determinación del porcentaje de carboxihemoglobina.
+
+2. Se debe disponer del valor de la concentración de hemoglobina actualizado (últimas 2 semanas).
+
+3. El paciente debe estar cómodamente sentado en una silla sin ruedas y con apoya brazos.
+
+4. Se le debe explicar y demostrar el examen que se va a realizar.
+
+5. Se le debe conectar con el equipo utilizando una boquilla "tipo buzo" para evitar fugas de aire y se debe instalar una pinza nasal.
+
+6. Se debe conocer su valor de Capacidad vital; si no se dispone de ella, se debe determinar la Capacidad vital lenta.
+
+7. Se deben realizar 3 a 5 ciclos estables de volumen corriente, para luego realizar una espiración máxima, lenta y sostenida hasta llegar al Volumen residual (línea isoeléctrica en la imagen). Hay equipos que cierran la válvula espiratoria al detectar el fin del volumen, y en otros el cierre debe hacerlo manualmente el operador.
+
+8. Luego se debe realizar una inspiración máxima y forzada, debiendo alcanzar valores sobre el 90% de la capacidad vital previamente conocida, en menos de 2 s.
+
+9. A continuación se debe mantener una apnea durante 10 ± 2 s.
+
+10. Posteriormente se debe realizar una espiración forzada, (ya que si se efectúa en forma lenta, el equipo no finaliza la prueba).
+
+11. Finalmente se debe desconectar al paciente de la boquilla.
+
+Es importante instruir al paciente para evitar que realice maniobras de Valsalva o de Müller durante el procedimiento, y se deben obtener al menos dos maniobras técnicamente aceptables y repetibles con un máximo de seis, para que este examen pueda ser interpretado. El tiempo de espera entre una medición y la siguiente es de un tiempo mínimo de 4 min9-11.
+
+Criterios de aceptabilidad de las maniobras de DLCO
+
+1. La espiración inicial debe llegar hasta el Volumen residual.
+
+2. La inspiración forzada debe alcanzar al menos el 90% de la Capacidad vital previamente conocida.
+
+3. El tiempo de apnea debe mantenerse al menos 8 s, con un máximo de 12 s.
+
+4. La espiración final debe ser forzada en menos
+
+de 4 s.
+
+Criterios de reproducibilidad de las maniobras de DLCO
+
+La proposición del grupo de trabajo ATS/ERS9, sugiere utilizar la media de dos determinaciones que difieran en menos de 10% o en menos de 3 mlCO/min/mmHg en la repetibilidad de la prueba, recomendación fundamentada en un extenso estudio en que más del 95% de los pacientes cumplieron con este criterio9. Por otro lado, si se tiene en consideración que la repetición de 5 maniobras puede aumentar la hemoglobina unida a CO en un 3,5%, se aconseja efectuar más de 2 y menos de 5 pruebas en el mismo día, ya que la DLCO puede disminuir entre un 3 a un 3,5%.
+
+Control de calidad
+
+El control de calidad en la medición de la DLCO es esencial para la obtención de resultados válidos y reproducibles. Diversos elementos constituyen el control de calidad e involucran las respectivas fuentes de variabilidad de los resultados: el paciente, el técnico (y su entrenamiento) y la calidad y mantención de los equipos de medición.
+
+Elementos a considerar en el control de calidad de la DLCO
+
+1. Indicaciones previas al examen, con el fin de disminuir las fuentes de variabilidad dependientes de la colaboración del paciente.
+
+2. Ejecución del examen de acuerdo a las normas internacionales.
+
+3. Interpretación de los resultados utilizando ecuaciones de referencia apropiadas.
+
+4. Calibración de los equipos (volumen y analizadores).
+
+5. Control de calidad de los analizadores (controles biológicos, simulador de DLCO).
+
+Los aspectos 1, 2 y 3 se describen en distintas secciones de este documento, por lo que nos referiremos a los aspectos 4 y 5.
+
+Calibración de los equipos
+
+a) Calibración del volumen
+
+Para los equipos que disponen de medición directa de volumen, debe hacerse la calibración de volumen y la búsqueda de fugas. Para los equipos con sensores de flujo, debe evaluarse su exactitud y linealidad. Existen diversos tipos de sensores de flujo, los de mayor estabilidad son los sensores de masa de flujo, seguidos por los tubos de Pitot, y por último, los sensores de turbina.
+
+La calibración se realiza con una jeringa de calibración de 3 L en buen estado, y que tenga certificación de calidad cada 1-2 años. La certificación es compleja en nuestro país, y en consideración a su costo, recomendamos el cuidado de la jeringa, evitando los golpes del pistón al calibrar y las caídas, y favoreciendo su renovación frecuente.
+
+El volumen no debe tener una variación mayor al 3% respecto del valor esperado con la jeringa de calibración. Se recomienda una frecuencia de calibración diaria, pero esta frecuencia puede duplicarse en caso de realizarse muchos exámenes, o en caso de variaciones importantes de la temperatura en el laboratorio7,8.
+
+Cada grado de error en la temperatura representa un 0,67% de error en el valor de DLCO. Si se considera que la temperatura en un laboratorio puede variar en 10 oC durante un día de trabajo, el error de la DLCO puede llegar a ser de un 7%. El cálculo de la DLCO también depende de la presión barométrica. De hecho, algunos equipos tienen incluida una central meteorológica. Para aquellos que no la tienen, se recomienda usar el valor de presión barométrica promedio del laboratorio, ya que los cambios de presión diarios no afectan significativamente la DLCO7,8.
+
+Procedimiento de calibración: Con el equipo preparado para realizar una DLCO, se conecta la jeringa vacía a la pieza bucal, efectuando una maniobra de inspiración con el pistón, hasta alcanzar 3 L, se espera durante 10 s, y luego se vacía el gas de la jeringa en el circuito. El volumen inspirado debe ser de 3 L. Al corregir las condiciones ATPS a BTPS (factor 1,1) el volumen inspirado debe corresponder a 3,3 L. Por otra parte, el valor de la DLCO debe ser cero, al no haber difusión de CO.
+
+Una deficiente calibración del volumen tiene las siguientes implicancias en la medición de la DLCO:
+
+1. Cálculo erróneo del volumen inspirado, lo que puede llevar a aceptar o rechazar erróneamente maniobras basadas en el criterio de aceptabilidad del 90% de la capacidad vital.
+
+2. El cálculo erróneo del volumen inspirado llevará a un cálculo erróneo en el volumen alveolar
+
+3. La DLCO calculada será incorrecta
+
+4. Los solenoides pueden abrirse o cerrarse a volúmenes o tiempos inadecuados.
+
+b) Calibración de los analizadores de CO y del gas trazador
+
+La ATS recomienda que los equipos de DLCO se calibren 1 a 2 veces al día (calibración de dos puntos: CO = 0 y CO = 0,3%). Afortunadamente, el software de los equipos actualmente disponibles en el mercado excede esa recomendación y obliga al técnico a calibrar los analizadores de gases antes de cada prueba, y en algunos casos antes de cada maniobra9.
+
+La evaluación de la linealidad de los analizadores de gases también es importante, ya que el cálculo del volumen alveolar (VA) se basa en la linealidad del analizador del gas trazador. Se recomienda que se evalúe cada tres meses, usando 5 a 10 concentraciones diferentes de gases. Sin embargo, este objetivo es complejo, por la falta de disponibilidad de diversas concentraciones de gases por los servicios técnicos, y las limitaciones del software para introducir las distintas mezclas de gases al sistema9.
+
+Al evaluar la calibración de volumen descrita en la sección anterior, se puede simular la DLCO, dado que tanto el gas trazador como el CO se diluyen de igual forma. El cambio en sus concentraciones debe ser idéntico, y la DLCO calculada debe ser igual a cero7-9.
+
+c) Control de calidad de los analizadores
+
+1. Controles biológicos
+
+Representan el método más simple para el control de calidad de los analizadores. Se recomienda que al menos tres sujetos sanos no fumadores constituyan un grupo control del laboratorio, para lo que se propone la siguiente secuencia: 
+
+a) En primer lugar: utilizando una plantilla de registro de tres mediciones repetidas por sujeto control sano no fumador y en un total de 20 sujetos, calcular la media y la desviación estándar (DS) de éstas.
+
+
+
+Calcular:
+
+Media de los promedios de DLCO...............
+
+Media de las DS de DLCO........................
+
+b) En segundo lugar: Construir un gráfico (Figura 1) con el valor de DLCO (ml/min/mmHg) en el eje vertical "y"(ordenada) y tiempo en el eje horizontal "x" (abscisa), identificando la media ± 2 DS o límite de confianza del 95% (obtenidos de acuerdo al punto precedente).
+
+ 
+
+
+
+ 
+
+c) En tercer lugar: En estos gráficos, registrar los valores de 3 controles biológicos a lo largo del tiempo (mensualmente o con mayor frecuencia si hay problemas). Los símbolos (*) en la Figura 1 representan 4 valores de DLCO repetidos a lo largo del tiempo para un control biológico en un equipo de DLCO. Estos están dentro de la media ± 2DS (o dentro del límite de confianza del 95%).
+
+d) Dos valores fuera del límite de confianza del 95% o un valor fuera del límite de confianza del 99% (± 3 DS) son señal de mal funcionamiento del sistema de medición y éste debe ser revisado.
+
+e) Toda la información sobre control de calidad, mantención y reparación de equipos debe ser fechada y registrada en la bitácora del laboratorio7-9.
+
+2. Simulador de DLCO
+
+Es un aparato que utiliza jeringas y mezclas precisas de gases para simular los volúmenes y concentraciones de gases que debería tener un sujeto normal. Un programa computacional registra las mediciones que hace el instrumento, e informa las diferencias en uno o más de los siguientes aspectos: volumen, concentraciones de gases y cálculo final de la DLCO. El simulador de DLCO ha sido útil para mantener la exactitud de los equipos que participan en estudios multicéntricos, disminuyendo la variabilidad intra e inter laboratorios7-9.
+
+Interpretación
+
+En países en los que no se dispone de valores de referencia en sus habitantes como es el caso de Chile, la ATS/ERS8 recomienda comparar los resultados de la DLCO de sujetos sanos de una muestra representativa de la población, con ecuaciones internacionales y escoger la que presente la menor suma de residuos. No obstante, en nuestro medio Briceño y cols., analizaron las 10 ecuaciones de referencia más importantes descritas en la literatura y detectaron que sólo 6 abordaban grupos etarios amplios, mientras que el resto fue obtenido de grupos específicos12 (Tablas 1 y 2).
+
+ 
+
+Tabla 1. Ecuaciones de referencia DLCO12
+
+ 
+
+Tabla 2. Comparación de ecuaciones de referencia DLCO12
+
+ 
+
+Si bien la mayoría se había obtenido de sujetos sanos, algunas incluían fumadores, ex fumadores y sujetos expuestos a contaminantes ambientales. La altitud, la fracción inspirada de O2 y la metodología también variaban. De hecho, 9 de ellas utilizaban metodología antigua (equipos sin lectura instantánea de CO), lo que no permite saber si la muestra alveolar se contaminó con aire del espacio muerto, induciendo una alta variabilidad. Como conclusión, los autores cuestionaron la elección de una ecuación con la menor suma de residuos, por la alta variabilidad metodológica12.
+
+Ante la ausencia de valores de referencia nacionales y en consideración a los reparos previos y la proposición de la ATS/ERS, la ecuación de Thompson y cols.13, que dispone de lectura instantánea de CO y tiene una baja variabilidad, podría recomendarse para sujetos entre 45 y 71 años, a pesar de su alta suma de residuos. Por otra parte, debido a que la prueba de DLCO tiene indicaciones a cualquier edad, la ecuación de Cotes y cols.14, que proviene de una síntesis de varias ecuaciones, cubre un amplio rango etario de 18 a 70 años, y tiene una baja suma de residuos12, también podría proponerse.
+
+La ecuación de Roca y cols.15, que se utiliza en algunos centros en Chile por tener una baja suma de residuos, utiliza una FiO2 de 0,17. Sin embargo, si la FiO2 se corrigiera a 0,21, la suma de residuos aumentaría y no podría ser una ecuación aconsejable.
+
+Variaciones de la DLCO con significado clínico
+
+La interpretación de un examen de laboratorio está sujeta a modificaciones, por lo que las recomendaciones sugeridas en este documento de consenso deben ser revisadas de acuerdo a los cambios en la información disponible.
+
+Una variación con significado clínico de la DLCO, debe superar la variabilidad propia del método en su reproducibilidad y repetibilidad 9-11,16,17. En sujetos normales, la medición repetida de la DLCO ha demostrado una variabilidad del 3,1% (repetibilidad o variabilidad intra-sesión); en pacientes con espirometría anormal, la variabilidad intrasesión puede ser de hasta un 4,4%.
+
+Por otro lado, la variabilidad en individuos normales entre diferentes sesiones, (reproducibilidad o variabilidad inter-sesión) alcanza un 9%9,16,17,18. Sin embargo, un estudio multicéntrico reciente demostró una mejor reproducibilidad: sobre un total de 4.797 exámenes, el 95,5% presentó una variación  ≤ 2 ml CO/min/mmHg, particularmente por una adecuada estandarización entre los diferentes centros10.
+
+Expresión de los resultados para su interpretación
+
+Los selección de los valores de referencia para la interpretación de la DLCO es difícil de establecer, de hecho se han observado divergencias acentuadas entre estudios de Norteamérica y Europa8,10,13,15. Si la distribución de los individuos de la ecuación de predicción es de tipo normal, 2 desviaciones standard representan el 95% de la población. Los límites superior e inferior se calculan multiplicando ± 1,65 por la DS. En forma convencional se suelen considerar como valores normales aquellos que se encuentran entre el 80-120% de los valores de referencia9,11,19.
+
+Además de las correcciones para la hemoglobina, carboxi-hemoglobina y altura, mencionadas previamente, existen variaciones fisiológicas de la prueba, que no son consideradas en la interpretación habitual, como el descenso diurno que puede alcanzar hasta 1,2% por hora entre las 9:30 y 17:30 h y la variación de hasta un 13% durante el ciclo menstrual9-11.
+
+Los resultados deben incluir: a) el valor absoluto de DLCO no ajustado, comparado con el valor teórico esperado (de la ecuación de referencia escogida) expresado en porcentaje y b) las correcciones realizadas (según hemoglobina, carboxi-hemoglobina o altitud). La corrección por hemogobina es especialmente relevante en pacientes con quimioterapia, en los que se está controlando toxicidad pulmonar por drogas, ya que pueden presentar variaciones significativas de hemoglobina9-11,19.
+
+Se debe indicar también el volumen alveolar (VA), en valor absoluto y como porcentaje del valor teórico y la relación DLCO/VA. En relación a este índice, su interpretación es controversial y ha sido cuestionado, ya que la relación entre ambos no es lineal. Sin embargo, una disminución de la DLCO acompañada de una disminución de la relación DLCO/VA sugiere una alteración parenquimatosa, por el contrario, una disminución de la DLCO y del VA con una relación DLCO/VA normal o alta, sugiere una restricción extra parenquimatosa9-11,19.
+
+Disminución de la DLCO
+
+Una serie de patologías habituales en Enfermedades Respiratorias cursan con disminución de la DLCO. Entre ellas el enfisema pulmonar y las enfermedades pulmonares intersticiales de diversa etiología, la hipertensión arterial pulmonar y el tromboembolismo pulmonar crónico entre otras.
+
+En este contexto, hipótesis recientes postulan que la resistencia a la difusión del CO depende principalmente del glóbulo rojo, por lo que la DLCO podría representar la microcirculación9-11,19. En particular, en la insuficiencia cardíaca congestiva, el deterioro de la DLCO no mejora en conjunto con los volúmenes pulmonares cuando estos pacientes se estabilizan o se trasplantan20,21.
+
+Se considera útil la interpretación de los resultados de la DLCO en conjunto con la espirometría y los volúmenes pulmonares, en caso de que se disponga de ellos9-11,19. Por ejemplo, la disminución de la DLCO en concomitancia con una espirometría y volúmenes pulmonares normales, sugiere etapas iniciales de enfisema pulmonar, enfermedad pulmonar intersticial o enfermedad vascular pulmonar. La asociación de disminución de la DLCO con restricción pulmonar, es sugerente de fibrosis pulmonar, así como la asociación de DLCO normal con restricción pulmonar es consistente con compromiso del fuelle torácico (Figura 2). Si el patrón espirométrico es obstructivo y se asocia a DLCO disminuida, es sugerente de enfisema pulmonar. La Tabla 3 muestra una forma de calificar el grado de severidad de la disminución de la DLCO según el grupo de trabajo ATS/ERS9.
+
+ 
+
+
+
+ 
+
+Tabla 3. Graduación de severidad en la disminución de la DLCO
+
+ 
+
+Aumento de la DLCO
+
+Por mucho tiempo se ha planteado que un incremento de la DLCO se puede observar en policitemias, hemorragias alveolares, insuficiencia cardíaca, cortocircuito intracardíaco de izquierda a derecha y asma, sin embargo, este aspecto es motivo de controversia. En un extenso estudio en un centro de referencia, sobre un total de 16.778 pacientes con una DLCO > 85% del valor teórico, sólo 251 pacientes (1,5%) presentaron una DLCO > 140%22.
+
+Entre ellos el 33% tenía asma, el 16% obesidad y el 14% la asociación de ambas. Entre los restantes, un 20% tenía un IMC > 30 kg/m2, sólo 3 pacientes (1,2%) habían presentado hemoptisis, 3 tenían cortocircuito de izquierda a derecha (1,2%) y un paciente tenía policitemia, pero asociada a obesidad y asma22. Este y otros estudios han postulado teorías para explicar este mecanismo, en los pacientes obesos dependería de aumento del volumen globular y aumento del débito cardíaco, que incrementarían el volumen capilar23. En los pacientes con asma dependería del aumento de la perfusión de los vértices o a un incremento en la presión negativa intrapleural24. Se puede suponer que en la práctica habitual de un laboratorio de función pulmonar, la mayoría de los pacientes con aumento de la DLCO presenten asma, obesidad o la asociación de ambas y sólo una fracción menor otras patologías.

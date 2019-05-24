@@ -1,0 +1,142 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482016000400007
+Nuevos métodos para el diagnóstico de la tuberculosis
+
+Resumen
+
+Hasta antes de 2007, el diagnóstico de la tuberculosis se basaba en la baciloscopía y el cultivo. Desde entonces, y ante la necesidad de contar con diagnósticos más rápidos y más sensibles y que permitan conocer el perfil de resistencia de los enfermos, han surgido múltiples test diagnósticos basados en pruebas moleculares que ya están siendo recomendados para su uso programático por la Organización Mundial de la Salud. En este artículo se describen los métodos actualmente implementados en el Instituto de Salud Pública y aquellos que están siendo evaluados y recomendados recientemente por la Organización Mundial de la Salud.
+
+Palabras clave: Tuberculosis; pruebas diagnósticas; Salud pública; Chile; Organización Mundial de la Salud.
+
+ 
+
+El año 2015 la Organización Mundial de la Salud (OMS) estimó en 10,4 millones el número de personas que enfermaron de tuberculosis (TB), de las cuales sólo se detectaron y notificaron 6,1 millones, existiendo una brecha de 4,3 millones de enfermos no notificados o no diagnosticados. Para ese mismo año se produjeron 1,8 millones de muertes por la enfermedad, de las cuales 400.000 corresponden a personas co-infectadas con el virus de la inmunodeficiencia humana (VIH)1.
+
+Por otra parte, la tuberculosis multidrogorresistente (TB-MDR), es decir aquella TB resistente al menos a isoniacida y rifampicina, sigue siendo un gran problema de salud pública a nivel mundial. Se estiman en 480.000 los casos de TB-MDR y en 100.000 los de TB resistente solo a rifampicina (TB-RR); de los primeros sólo 125.000 iniciaron tratamiento en el 20151.
+
+Durante los últimos años se ha evidenciado una mejora en el diagnóstico de la tuberculosis drogorresistente (TB-DR), avances que se han atribuido a la introducción de métodos rápidos de diagnóstico molecular. En 2015 a un 30% de los 3,4 millones de casos nuevos y previamente tratados con bacteriología positiva a nivel global se les realizó una prueba de susceptibilidad a fármacos antituberculosos, logrando una cobertura de 24% en casos nuevos y de 53% en casos previamente tratados1.
+
+La Estrategia Mundial contra la TB de la OMS incluye el diagnóstico precoz de la enfermedad y el empleo de pruebas universales de susceptibilidad a los fármacos, destacando el papel crítico de los laboratorios en la era post-2015 para detectar rápida y precisamente la TB y la resistencia a fármacos2. Para lograr estos objetivos la OMS inicialmente ha identificado el desarrollo y la evaluación de nuevas herramientas de diagnóstico, como parte esencial de los futuros esfuerzos en el control de la TB y, posteriormente, ha publicado una serie de directrices para facilitar la introducción de estos nuevos métodos, incluida la prueba de susceptibilidad universal, en los Programas Nacionales de Control de la Tuberculosis.
+
+Antes del año 2007 las recomendaciones para el diagnóstico de TB se basaban en la realización de la baciloscopia (BK) del esputo por tinción de Zielh Neelsen (ZN) o fluorescencia convencional y el cultivo en medio sólido de Lowestein-Jensen (LJ). La BK es la prueba más comúnmente utilizada en la mayoría de los entornos con recursos limitados para el diagnóstico de la TB; sin embargo, tiene varias limitaciones: demuestra bacilos ácido-alcohol resistentes (BAAR), pero no diferencia el M. tuberculosis de otras micobacterias no tuberculosas (MNT), su sensibilidad es limitada, y no permite detectar la resistencia a los fármacos. El cultivo en medio sólido es mucho más sensible que la BK; permite la identificación de las diferentes micobacterias y practicar los estudios de susceptibilidad a fármacos antituberculosos3; sin embargo, tiene los inconvenientes de su mayor costo y demora en sus resultados.
+
+El propósito de este artículo es describir los avances en los métodos diagnósticos para TB de la última década, sus características de sensibilidad y especificidad y las recomendaciones para su uso, de modo de tener el panorama actual de las posibilidades diagnósticas que pueden utilizarse en el Programa de Control y Eliminación de la Tuberculosis de Chile (PROCET).
+
+Los nuevos métodos diagnósticos
+
+En la Tabla 1 se muestran los nuevos métodos recomendados por la OMS antes y después del año 2007, que van desde el cambio de medios de cultivo sólidos por medios líquidos para diagnóstico y para el estudio de la susceptibilidad a fármacos; el empleo de la microscopía LED (light-emitting diode), y la utilización de las técnicas moleculares de diagnóstico.
+
+ 
+
+Tabla 1. Directrices de la OMS para la introducción de nuevos métodos diagnósticos
+
+
+
+BK: baciloscopia. ZN: tinción de Ziehl-Neelsen. *PSD: Prueba de susceptibilidad directa;          *LPA: Line Probe Assay; *LAM: Lipoarabinomanano; *FQ: Fluoroquinolonas; *AMG: Aminoglucósidos.
+
+ 
+
+De estas metodologías, las dos más importantes corresponden al Xpert MTB/Rif y a los ensayos con sondas en línea (LPA), las cuales se describen a continuación.
+
+1. Xpert MTB/Rif.
+
+El Xpert MTB/Rif es una prueba molecular de reacción en cadena de la polimerasa (PCR) en tiempo real recomendada por la OMS desde el año 2010, que es capaz de detectar simultáneamente la presencia de M. tuberculosis y la resistencia a la rifampicina (TB-RR) en un plazo de 2 h.
+
+Esta prueba es mucho más sensible que la BK para el diagnóstico de TB, pero su sensibilidad es menor que el cultivo, tanto en medio sólido como líquido. La sensibilidad del Xpert MTB/Rif en muestras pulmonares de adultos es de 88% para BK (+), 68% para BK (-) y 79% en pacientes VIH (+), con una especificidad de 99%. Para la detección de TB-RR su sensibilidad es de 95%, con una especificidad del 98%. En muestras pulmonares de niños su sensibilidad es de 66%, con la misma especificad de 98%4.
+
+A pesar de la buena sensibilidad y especificidad para detectar resistencia a rifampicina (R), se han observado discrepancias entre los resultados fenotípicos y moleculares, por lo que cuando se detecta una resistencia a R por el Xpert MTB/Rif, pero el método fenotípico señala sensibilidad, sólo la secuenciación del gen rpoB efectuada en laboratorios de referencia puede resolver la discordancia y confirmar o descartar una TB-RR4.
+
+Se estima que cuando la prevalencia de la resistencia a la R es menor al 2% en una población, un test positivo tiene 50% de posibilidades de ser un error de laboratorio5. En la práctica, en los casos en que se detecta TB-RR con el Xpert MTB/RIF, para garantizar que no se trata de un falso positivo, por errores pre y post analíticos, se recomienda repetir el Xpert MTB/Rif en una segunda muestra distinta del paciente. Esto es especialmente necesario en pacientes que no están en grupos de riesgo de resistencia a rifampicina y en países con baja prevalencia de TB-RR como Chile6.
+
+Las siguientes son las recomendaciones de la OMS para el uso de Xpert MTB/Rif en muestras pulmonares4:
+
+- Xpert MTB/Rif se debe utilizar en lugar de BK, cultivo y PSD para el diagnóstico inicial de adultos con sospecha de TB-MDR o TB/ HIV
+
+- Xpert MTB/Rif puede ser utilizado en lugar de BK y cultivo como prueba de diagnóstico inicial en adultos con sospecha de TB (de acuerdo a los recursos disponibles).
+
+- Xpert MTB/Rif puede ser utilizado a continuación de la BK en adultos con sospecha de TB sin riesgo de TB-MDR o TB-VIH, especialmente cuando tienen BK negativas.
+
+Para las muestras extra pulmonares en adultos la OMS recomienda:
+
+- Xpert MTB/Rif debería ser utilizado en lugar de BK y cultivo como prueba de diagnóstico inicial, en líquido céfalo-raquídeo, en pacientes sospechosos de meningitis tuberculosa.
+
+- Xpert MTB/Rif puede ser utilizado en reemplazo de BK, cultivo y/o histopatología para muestras de ganglios linfáticos y otros tejidos de pacientes en los que se sospeche una TB extra pulmonar.
+
+En el caso de los niños, la OMS recomienda:
+
+- Xpert MTB/Rif se puede utilizar en lugar de BK, cultivo y PSD como prueba de diagnóstico inicial en niños con sospecha de TB-MDR o TB/HIV
+
+- Xpert MTB/Rif puede ser utilizado en lugar de BK y cultivo como prueba de diagnóstico inicial en todos los niños en los que se sospeche TB pulmonar.
+
+2. Ensayos con Sondas en Línea (LPA)
+
+Los ensayos con sondas en línea o LPA (Line Probe Assays) son pruebas moleculares que utilizan tiras reactivas de nitrocelulosa (tecnología DNA Strip) que contienen regiones moleculares parciales o sondas de los genes de resistencia en estudio. Esta tecnología se realiza extrayendo el ADN de las muestras en estudio, para luego realizar una amplificación por PCR múltiple de punto final seguido de una hibridación reversa del ADN amplificado a las sondas de ADN específico unido a las tiras de nitrocelulosa y por último se realiza la evaluación de las tiras para determinar la identificación de especie y si se detectan genes que confieren resistencia.
+
+En el Instituto de Salud Pública de Chile (ISP) se emplean varias pruebas LPA, las que se describen a continuación:
+
+Genotype®MDRTBplus (v 1.0 y 2.0)
+
+Esta prueba utiliza tiras reactivas que contienen regiones moleculares parciales de los genes rpoB, katG e inhA fijadas sobre ellas, detectando así mutaciones de resistencia a la rifampicina (rpoB) y las principales mutaciones presentes en la resistencia a isoniacida (katG e inhA).
+
+Está basada en una PCR múltiple de punto final que genera variados productos de amplificación los cuales, mediante una hibridación reversa, reconocen en forma de bandas sobre la tira las mutaciones génicas más frecuentemente asociadas a la resistencia a isoniacida y rifampicina.
+
+Realizada a partir de muestra directa de esputo tiene una sensibilidad de 95,7% para rifampicina, 95,8% para isoniacida y 95,3% para TB-MDR. La misma prueba molecular a partir de cultivos tiene una sensibilidad de 100% para detectar resistencia a rifampicina, 97,5% para isoniacida y 96,9% para TB-MDR7.
+
+Genoscholar TB-NTM+MDR
+
+Es un LPA, que no está implementado aún en el Instituto de Salud Pública, detecta resistencia a rifampicina e isoniacida identificando no solo al Complejo M. tuberculosis sino también a otras micobacterias como M. avium, M. Intracellulare y M. Kansasii. Se puede utilizar en muestras directas de esputo o en cultivos positivos, con una sensibilidad de 98,9% para rifampicina y 61,6% para isoniacida, y una especificidad de 97,3% y 100% respectivamente8.
+
+Genotype MTBDR s/
+
+Esta prueba es un LPA que utiliza la misma tecnología que Genotype®MDRTB plus con la diferencia que detecta las mutaciones más frecuentemente asociadas a resistencia a aminoglucósidos (AMG) y fluoroquinolonas (FQ), las dos familias de fármacos de segunda línea cuya resistencia determina la presencia de tuberculosis extensamente resistente (TB-XDR). La sensibilidad global para detectar la TB-XDR es cercana al 80% y se puede realizar desde muestra directa y cultivo positivos.10
+
+Las siguientes son las últimas recomendaciones de la OMS para el uso de LPA9,10:
+
+- Se recomienda el uso de los dos nuevos kits de LPA comerciales (Genoscholar NMT+MDRTB y Genotype MTBDRplus v 2.0). Ambos fueron comparados con Genotype MTBDR plus v 1.0, recomendado ya en 2008. Los resultados fueron equivalentes en los tres LPA disponibles en el mercado para la detección de la tuberculosis y la resistencia a la rifampicina e isoniacida.
+
+- Estas pruebas diagnósticas se recomiendan como exámenes de inicio para detectar resistencia a rifampicina e isoniacida para muestras BK positivas o en cultivos aislados de M. tuberculosis, pudiéndose utilizar cualquiera de los tres LPA comerciales.
+
+- Para pacientes con TB-RR o TB-MDR confirmada (pulmonar o extrapulmonar) LPA sl puede ser empleado como prueba inicial, directa (en muestras de esputo BK (+) o BK (-) o indirecta (en cultivos de muestras pulmonares o extrapulmonares) para detectar resistencia a FQ e inyectables de segunda línea (AMG).
+
+Otros métodos diagnósticos
+
+1. Determinación de LAM
+
+Alere Determine™ TB LAM Ag ofrece detectar el antígeno LAM (lipoarabinomanano) en muestras de orina para ayudar al diagnóstico de TB más rápidamente que con los métodos tradicionales en personas VIH(+). Su sensibilidad global en población VIH (+) es de 21 a 54%, pero aumenta a 56% si el recuento de CD4 es < 100, con una especificidad de 95%11.
+
+El año 2015 la OMS publicó las directrices para la utilización de esta metodología, donde se indica que LF-LAM no debe utilizarse para el diagnóstico de la tuberculosis, excepto en personas con infección por VIH con recuentos de CD4 bajos o que estén gravemente enfermos12.
+
+Tecnologías en evaluación
+
+Actualmente hay un gran desarrollo de nuevas metodologías para el diagnóstico rápido de TB y TB-MDR que, aunque aún no son recomendadas por la OMS, están siendo evaluadas por su potencial utilidad clínica. Algunas de ellas ya están disponibles en el mercado.
+
+1. LPA para pirazinamida
+
+Es una técnica de LPA desde cultivos positivos de M. tuberculosis, que detecta el gen pncA, responsable de la resistencia a la pirazinamida. Ofrece una sensibilidad de 89,7% y una especificidad de 96%.
+
+2. LPA Genoscholar INH TB
+
+Este LPA detecta la resistencia a isoniacida desde muestras directas o cultivos positivos con una sensibilidad del 90,6% y una especificidad de 100%. La mayoría de las mutaciones más frecuentes se encuentran en genes katG y inhA, pero muchas mutaciones son reportadas en otros genes. Esta metodología cuenta con 43 sondas para katG lo que permite detectar otras mutaciones de este gen, además de la incorporación del gen mabA por lo que permite mejorar la sensibilidad para demostrar resistencia a isoniacida13.
+
+3. GeneXpert Omni
+
+Este test utiliza la tecnología Xpert en un equipo portable para un solo cartucho, un dispositivo móvil y baterías recargables. Está indicado para ser empleado en lugares alejados, sin acceso a hospitales y laboratorios, o en centros de salud.
+
+4. XPERT ULTRA
+
+Este test utiliza la tecnología Xpert pero con mayor sensibilidad para detectar TB en muestras con BK negativa que el actualmente recomendado. El Xpert MTB/RIF tiene un límite de detección de 130 ufc/mL, en cambio en el Xpert MTB/RIF Ultra se han realizado ajustes para lograr bajar el límite de detección a 10 ufc/mL, un nivel que es similar o mejor que el del cultivo líquido. Se espera llegar a una sensibilidad mayor al 90%, con una especificidad de 100% en pacientes BK negativos con cultivos positivos.
+
+5. XPERT XDR
+
+Este test detecta genes de resistencia para isoniacida, fluoroquinolonas y aminoglicósidos. Estaría recomendado para pacientes que tengan un resultado positivo de TB-RR con el Xpert MTB/RIF o Xpert MTB/RIF ultra.
+
+6. Secuenciación del genoma completo (WGS)
+
+Técnica que compara el genoma del bacilo con bases de datos que contienen todos los marcadores de resistencia conocidos. En teoría, al identificar cualquier mutación de resistencia podría realizarse un tratamiento más adecuado del paciente.
+
+El atractivo de WGS para M. tuberculosis (y otros patógenos) radica en la cantidad de datos proporcionados; con una prueba, un organismo puede ser identificado, detectar mutaciones de resistencia y la cepa se puede colocar en el contexto de la epidemiología local.
+
+La sensibilidad de WGS para predecir la resistencia es más alta para isoniacida y rifampicina en 92,8% y 96,2% respectivamente. En cambio, la sensibilidad de WGS para la resistencia a pirazinamida es de sólo 70,9%. La especificidad del WGS es mayor para isoniacida y rifampicina (100% y 98,1% respectivamente) pero para otras drogas como el etambutol, es tan baja como 81,7%.
+
+El mayor problema de esta técnica es que se pierde la rapidez en el diagnóstico si se aplica desde el cultivo positivo, ya que a esas alturas el paciente ya ha iniciado un tratamiento. Además es complejo determinar qué pacientes realmente se beneficiarían con su uso, por lo que es difícil que en la actualidad WGS suplante a la BK o a la amplificación de ácidos nucleicos14.
+
+Conclusión

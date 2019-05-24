@@ -1,0 +1,116 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482003000100005
+Orientaciones para una consultoría estadística satisfactoria
+
+ 
+
+ 
+
+ RESUMEN
+
+ 
+
+Una debilidad fundamental en el desarrollo y difusión de la información    científica está dada por el inadecuado apoyo estadístico    en la preparación de protocolos de investigación, el procesamiento    y manejo de datos y la elaboración de artículos científicos.    Para superar esta limitación es preciso considerar en el trabajo científico    el aporte del profesional estadístico desde el inicio. Instituciones    académicas que cuentan con adecuado desarrollo académico de la    estadística (docencia, investigación aplicada y desarrollo propio    de la disciplina) han propuesto lineamientos generales para regular la interacción    entre profesionales del área biomédica y estadística. Algunas    de estas recomendaciones, así como reglas generales de adecuadas prácticas    entre médicos y estadísticos, son expuestas en el presente artículo. 
+
+ 
+
+INTRODUCCIÓN
+
+ 
+
+Una de las debilidades más importantes en la generación y divulgación    del conocimiento científico está dado por limitaciones y errores    estadísticos en los que incurren los investigadores, sea en la elaboración    de protocolos de investigación, en la preparación de presentaciones    o en la elaboración de manuscritos científicos1,2.    Para superar esta limitación, hoy en día, la labor del estadístico,    y en especial del bioestadístico, se hace cada día más    necesaria en un ambiente científico riguroso y crecientemente competitivo.    En Chile, el recurso profesional estadístico es escaso y puede tener    un costo elevado, motivo por el cual me ha parecido conveniente compartir algunas    ideas generales respecto a la utilización de este recurso en nuestros    ambientes de trabajo. Las recomendaciones que se entregan a continuación,    derivan de la experiencia del grupo de investigación epidemiológica    del Departamento de Ciencias de Salud Pública de la United Medical &    Dental School del Guy´s Hospital en Londres, que cuenta con un grupo de    apoyo estadístico en los tres frentes básicos de trabajo médico:    docencia, investigación aplicada y estadística pura. He agregado    a estas ideas, algunas consideraciones personales producto de mi trabajo como    epidemiólogo con este y otros grupos profesionales. 
+
+ 
+
+ 
+
+¿Por qué es importante el estadístico en su trabajo? 
+
+ 
+
+Son innumerables las razones que fundamentan esta interacción. Para    entender gráficamente algunas de ellas, sólo recuerde que, como    resultado de una investigación, sea clínica, en ciencias básicas    o epidemiológica, usted deberá demostrar que sus resultados se    sostienen por sí solos y no se han visto afectados por: 
+
+ 
+
+1. Simple azar: deberá dar cuenta del nivel de confianza    de sus resultados y los valores de "p" obtenidos, analizar la variabilidad    de sus datos y características de su distribución. 
+
+2. Inadecuada potencia: si sus resultados no cumplen sus expectativas:    ¿Los hallazgos son reales o podrían originarse por una muestra reducida    que no es capaz de expresar lo que realmente ocurre? 
+
+3. Errores de medición y sesgos: deberá descartar    o reconocer cuando ocurre error aleatorio o sistemático. 
+
+4. Acción de una variable ajena a su estudio (confundente), a través    de la cual se produce el efecto que usted observa, y que en la práctica    no es tal. 
+
+ 
+
+ 
+
+¿Cuándo buscar apoyo estadístico y qué esperar    de él? 
+
+ 
+
+En un protocolo de investigación hay al menos cuatro momentos o posibles    escenarios en los cuales podría ser necesario pensar en obtener apoyo    estadístico2,6,7.  
+
+ 
+
+El primero es cuando usted está comenzando a planificar un estudio.    A menos que tenga la certeza absoluta de saber -no sólo cual es la mejor    forma de diseñar el estudio sino también la mejor forma de analizar    los datos una vez recolectados- usted debería consultar al estadístico    en esta etapa. Esto debiera ser una garantía de obtener el máximo    provecho de la información obtenida y ofrece las ventajas inmediatas    de: a) poder recibir sugerencias acerca del diseño a emplear, b) probablemente    refinar el planteamiento de su hipótesis de trabajo y, c) poder efectuar    un adecuado cálculo de tamaño muestral, evitando el riesgo de    usar muestras pequeñas de baja potencia o muestras de mayor tamaño    que el necesario, que ciertamente significarán pérdida de tiempo    o gasto innecesario de recursos3. Siempre será    más fácil modificar un diseño de investigación al    comienzo de un estudio que hacerlo sobre la marcha de un proyecto. Ni el mejor    apoyo estadístico o epidemiológico es capaz de cambiar el destino    de una investigación basada en un diseño de investigación    inapropiado4. 
+
+La consejería estadística orienta también al investigador    acerca de la mejor forma de recoger la información. 
+
+Un segundo momento es cuando usted ha recolectado los datos pero aún    no inicia el análisis de ellos. La consejería estadística    podrá orientar sobre la forma de analizar los datos e incluso, acerca    de la forma de organizarlos adecuadamente en una base de datos (con frecuencia    el estadístico invierte un tiempo valioso en ordenar una base de datos    y darle una estructura que permita su trabajo). Podría ser incluso necesario    que el análisis estadístico deba ser, en parte o totalmente, realizado    por el especialista, en el caso que el mejor análisis no sea obvio para    usted o requiera de técnicas complejas, más allá de lo    que está en condiciones de entender o aplicar para sus datos. Cuando    busque consejería en esta etapa, tome una parte de la base de datos con    todas sus variables y obtenga referencias bibliográficas acerca de los    procedimientos de análisis usualmente empleados por otros investigadores.    Esto orientará al estadístico en su apoyo técnico. 
+
+Un tercer escenario es aquel en el cual usted se ha involucrado personalmente    en el análisis de los datos, pero en algún momento, no logra avanzar    en ello. En este caso, tome sus datos originales y si es posible, genere algunos    resultados computacionales de sus análisis (outputs), incluyendo    gráficas y datos acerca de la forma de distribución de las principales    variables de su investigación. Probablemente antes de la consultoría,    el estadístico necesitará que usted le de a conocer en detalle    los alcances del proyecto y sus ideas respecto a la hipótesis de trabajo,    las características de las variables y la forma en que a priori,    usted pensaba analizar y entender los resultados. 
+
+El cuarto escenario es aquel en el cual usted tiene confianza absoluta    en sus habilidades de diseño de investigación y capacidad de análisis    estadístico, hasta que su manuscrito llega a sus manos rechazado por    la revista en que intentó publicarlo con observaciones metodológicas    o con el análisis que los revisores han realizado5.    Ocasionalmente las observaciones de los revisores no están justificadas,    en cuyo caso, la ayuda del estadístico le ayudará a contraargumentar.    En caso contrario, el estadístico podrá ayudarle a buscar alternativas    técnicas para superar la dificultad, que es un camino más adecuado    que enfrascarse en un debate epistolar tratando de argumentar en defensa de    sus decisiones de análisis. Esta actitud sólo termina por perpetuar    un análisis pobre y reducir la probabilidad de lograr comunicar sus resultados    en alguna revista científica. 
+
+ 
+
+ 
+
+ 
+
+Postulaciones a proyectos y tamaños de muestra 
+
+ 
+
+Calcular un tamaño de muestra no es un acto mecánico de tomar    información aislada, declarar algunos supuestos estadísticos y    alimentar algún programa de computación para que efectúe    el cálculo en forma inmediata. El proceso puede tardar más de    lo estimado a priori, si la expectativa es trabajar con la seguridad    que otorga una muestra adecuada. Se sugiere no dejar esta parte de la formulación    de un proyecto para el último momento. Es posible que el estadístico    pueda hacer observaciones relevantes, incluyendo reducción en la expectativa    de tamaño de muestra originalmente pensado por usted (por ejemplo, tomar    más de un control por cada caso en un estudio de casos y controles en    los cuales le es difícil obtener casos por baja incidencia de una enfermedad).  
+
+ 
+
+ 
+
+Preparaciones de abstracts, posters 
+
+ 
+
+Al igual que la postulación a fondos para proyectos de investigación,    éstos tienen fechas de entrega límites. No descanse en la seguridad    de poder obtener consejería y apoyo estadístico en el último    minuto. Es posible que el trabajo sea complejo y finalmente, recuerde que usted    no será la única persona apremiada por un plazo por cumplir. Un    revisor avezado percibe rápidamente improvisación en esta materia.  
+
+ 
+
+¿Consejería o colaboración?2,8 
+
+ 
+
+Al igual que otros académicos, los estadísticos también    necesitan publicar e investigar en su propio campo del conocimiento. En ocasiones    ellos no disponen de un adecuado material clínico o epidemiológico    para materializar sus ideas propias o aplicar técnicas poco convencionales    en las que se han entrenado. Si el estadístico dedica un tiempo considerable    en su problema, protocolo o publicación y llega a involucrarse cabalmente    en la interpretación de los resultados, aportando un esfuerzo intelectual    creativo que contribuirá científicamente a una mejor comprensión    del problema estudiado, es recomendable que en justicia le ofrezca una co-autoría    a este profesional2,6. 
+
+ 
+
+ 
+
+ 
+
+Detalles que permiten obtener mejores resultados de una consejería    estadística 
+
+ 
+
+1. Siempre concierte una reunión con el estadístico. En Chile    hay pocos especialistas estadísticos en medicina y ellos no están    esperando que se los consulte. Generalmente, tienen gran cantidad de trabajo    y les es complejo pasar de un protocolo a otro en corto tiempo. Fijar una cita    dará el tiempo para planificar adecuadamente una asesoría. 
+
+2. Prepare adecuadamente la sesión de consultoría. Lleve consigo    la información pertinente para el nivel de consulta o consejería    buscada. Por ejemplo, si el tema es tamaño de muestra, documéntese    bien antes acerca del efecto esperado en el grupo intervenido si se trata de    un estudio experimental. Tenga claro cómo desea medir la magnitud del    efecto (size effect) si compara dos grupos y cuál es la magnitud    esperada. 
+
+3. Sea paciente en la interacción con el estadístico. No siempre    el problema científico que usted trae es simple de entender para una    persona a quien su campo de estudio le es ajeno. Considere que el tiempo invertido    en este aspecto es garantía de una consejería plena e imbuida    en su lógica científica. 
+
+4. Disponga de su propia bibliografía de referencia estadística.    Lo ideal es que usted no sea un receptor pasivo de la consejería, sino    que se involucre intelectualmente con ella en la comprensión de algunos    procedimientos e interpretaciones de sus datos. El estadístico podrá    conocer cual es su nivel de trabajo estadístico e irá delegando    trabajo estadístico en usted para poder utilizar su tiempo en análisis    de mayor profundidad si fuera el caso. 
+
+5. No espere que necesariamente el estadístico comprenda un resultado    que usted ha producido en un programa computacional diferente al que el estadístico    usa habitualmente. Infórmele anticipadamente de esto al estadístico    a fin de optimizar la consejería. 
+
+6. Trabaje con tiempo con el estadístico. Hacerlo muy cerca de fechas    de entrega no permite al profesional "empaparse" del problema y genera    un menor grado de compromiso con sus datos. Esta situación produce en    el estadístico un sentimiento muy frecuente y frustrante entre estos    profesionales: sentirse "utilizado instrumentalmente por los investigadores",    lo que menoscaba su dignidad profesional y restringe su aporte al proceso de    la investigación. 
+
+7. Dimensione bien la magnitud y alcance de la consulta. Tanto los estadísticos    como los epidemiólogos tiemblan cuando escuchan que la consulta "sólo    les tomará cinco minutos". 

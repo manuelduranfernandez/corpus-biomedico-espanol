@@ -1,0 +1,142 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482016000400002
+Letalidad y sobrevida de pacientes con tuberculosis hospitalizados en el Instituto Nacional del Tórax
+
+Resumen
+
+Introducción: La Tuberculosis (TBC) aún es un problema de salud pública en Chile. El 2015, la incidencia en todas las formas fue 16 casos x 100.000 habitantes, y en la cohorte de casos de TBC pulmonar adultos en tratamiento, la letalidad fue 10,8% (2013). Un subgrupo de estos pacientes requieren hospitalización y tienen mayor morbimortalidad. Objetivo: Conocer la letalidad hospitalaria, los factores riesgo y determinar la sobrevida a 6 meses del diagnóstico e inicio del tratamiento. Método: Estudio retrospectivo, observacional que incluyó a todos los pacientes >15 años, hospitalizados en el Instituto Nacional del Tórax (INT) entre el 1 julio 2012 al 30 Junio 2015 y cuyo diagnóstico de egreso fue TBC. Se registraron datos demográficos, comorbilidades, exámenes de laboratorio, microbiológicos, radiológicos, estadía hospitalaria, tratamiento, complicaciones y letalidad a 6 meses. Para identificar factores asociados a letalidad, utilizamos un modelo de regresión logística y para sobrevida se utilizó la curva de Kaplan-Meier. Resultados: Se incluyeron 100 pacientes, edad 46 ± 19 años, 64% varones. Predominó la TBC pulmonar (79%). La estadía hospitalaria fue 27 ± 32 días. La letalidad intrahospitalaria fue 8% en TBC y 11,4% en TBC pulmonar. La sobrevida a los 6 meses fue 91 %>. El análisis multivariado mostró que la letalidad se asoció estadísticamente con niveles de albúmina ≤ 3,0 g/dl, trombocitopenia y shock séptico. Conclusiones: La letalidad en pacientes hospitalizados con TBC es similar a la descrita en el país. Se debe poner especial atención en pacientes con TBC pulmonar que tienen hipoalbuminemia, trombocitopenia al ingreso, o desarrollan shock séptico.
+
+Palabras clave: Tuberculosis; Mortalidad Hospitalaria; Letalidad; Factores de riesgo; salud pública.
+
+ 
+
+Introducción
+
+La tuberculosis (TBC), continúa siendo un importante problema de salud pública en todo el mundo y una de las enfermedades transmisibles con mayor letalidad1. Se estiman, el año 2015, en 10,4 millones los casos nuevos de tuberculosis y en 1,8 millones (17%) las muertes anuales2. Por otro lado se ha reportado, en EE.UU, un costo de los pacientes hospitalizados por tuberculosis de 2 billones de dólares anuales3.
+
+Chile, desde la segunda mitad del siglo XX pertenece al selecto grupo de países con baja prevalencia de Tuberculosis de Latinoamérica y el Caribe. Actualmente su tasa de incidencia se encuentra por debajo del umbral de eliminación (menos de 20 casos nuevos por 100.000 habitantes/año). Sin embargo, la TBC aún está lejos de ser erradicada en nuestro país. en el año 2015 la incidencia nacional fue de 16 casos por 100.000 habitantes por año4. Por otro lado, en el año 2013, el porcentaje de fallecidos en los casos nuevos de tuberculosis pulmonar confirmados por bacteriología, en mayores de 15 años, alcanzó un 10,8%5.
+
+Una de las estrategias para reducir la mortalidad por TBC, en pacientes hospitalizados, es realizar un manejo clínico más intensivo y estrategias de prevención, entre ellas, identificar factores que incrementan el riesgo de muerte5.
+
+Si bien, los pacientes con tuberculosis pueden ser tratados de forma ambulatoria, un grupo significativo requiere hospitalización, tanto por motivos de proceso diagnóstico como para el manejo de las complicaciones4. En el año 2014, de un total de 2.383 casos de tuberculosis, el número de egresos hospitalarios informados por el Ministerio de salud (MINSAL) fue de 1.409 (59,1%) pacientes5,6. En nuestro país, se dispone de escasa información sobre la evolución y el desenlace de los pacientes hospitalizados por esta enfermedad.
+
+Los objetivos de nuestro estudio fueron: conocer la letalidad hospitalaria en pacientes con tuberculosis tratados en el Instituto Nacional del Tórax (INT), determinar los factores pronósticos de la letalidad durante el tratamiento y la sobrevida a 6 meses de iniciado el tratamiento.
+
+Material y Métodos
+
+Estudio retrospectivo observacional en el cual fueron incluidos todos los pacientes mayores de 15 años, hospitalizados en el INT durante el período comprendido entre el 1 de julio de 2012 y 30 de junio de 2015. Se registraron datos demográficos, comorbilidades, nivel de escolaridad, procedencia, comienzo de los síntomas, síntomas, hallazgos relevantes del examen físico, exámenes de laboratorio de ingreso, método diagnóstico de TBC, datos radiológicos, tratamiento, estadía hospitalaria, complicaciones y mortalidad intrahospitalaria y a los 6 meses de egreso. Se consideró positivo el consumo de alcohol cuando el paciente refería una ingesta de alcohol de 1 o más veces por semana.
+
+Los datos fueron obtenidos de la ficha clínica de paciente. Para conocer su condición, a los 6 meses se obtuvo información del Registro Civil. Este estudio fue aprobado por el Comité de ética-científico del Servicio de Salud Metropolitano Oriente.
+
+El diagnóstico de tuberculosis se confirmó por alguno de los siguientes métodos: (1) cultivo de M. tuberculosis positivo, (2) resultado de PCR para M. tuberculosis positivo, (3) baciloscopia positiva, (4) hallazgos sugerentes de infección por tuberculosis en la histología, y/o (5) manifestaciones clínico-radiológicas típicas de tuberculosis en ausencia de diagnóstico alternativo. Los pacientes con diagnóstico de tuberculosis fueron todos tratados de acuerdo a las normas nacionales vigentes del programa de control de la tuberculosis del Ministerio de Salud7,8 y recibieron los fármacos en forma supervisada por técnicos paramédicos capacitados. Los estudios de sensibilidad mediante el uso de biología molecular de muestras de expectoración y líquidos corporales, fueron realizados con la técnica de geneXpert MTB/RIF. Todas las muestras para estudio de sensibilidad fueron confirmadas por el instituto de salud Pública. La baciloscopia y cultivo de Koch se realizó mediante tinción de Ziehl-Melsen y cultivos en medios líquidos.
+
+Análisis estadístico
+
+Los resultados son expresados como: valores promedio ± desviación estándar para variables en escala numérica y en porcentajes para medidas registradas en escala nominal. Las variables continuas fueron comparadas utilizando una prueba "t" de student. Para las variables categóricas se utilizó la prueba de X2 o prueba de Fisher. Para identificar factores asociados con mayor letalidad en pacientes con TBC, usamos un modelo de regresión logística con varibles categorizadas y con el método de selección por pasos hacia adelante. La variables fueron incluidas en el análisis multivariado cuando estas tenían un nivel de significancia estadística en el analisis univariado (p < 0,05). las siguientes variable fueron incluidas en el modelo: edad > 40 años, nivel de albúmina ≤ 3,0 g/dl, plaquetas < 150.000 por mm3, consumo de alcohol, diabetes mellitus, insuficiencia renal aguda, shock y requerimiento de soporte respiratorio mecánico (ventilación no invasiva y/o ventilación mecánica). Los resultados del análisis multivariado son reportados como odds ratios (OR) e intervalos de confianza (IC) para el 95%. Para todas las pruebas, el nivel de significación se estableció en 0,05 y con dos colas. Todos los pacientes fueron incluidos en el analisis univariado y multivariado.
+
+Para analizar la sobrevida se utilizó la curva de Kaplan-Meier. Todos los datos fueron procesados con el programa estadístico IBM SPSS Statistic, versión 22.
+
+Resultados
+
+Durante los 36 meses del período en estudio, fueron incluidos un total de 100 pacientes que tuvieron diagnóstico de tuberculosis al momento de su egreso hospitalario. Fueron excluidos dos pacientes por información insuficiente y un caso, que correspondió a un paciente extranjero que no aceptó recibir tratamiento antituberculoso.
+
+Características clínicas
+
+La edad promedio de los pacientes fue de 46 ± 19 DS (rango 15-91) años, el 64% eran de género masculino y el 13% extranjeros.
+
+El hábito tabáquico estaba presente en el 22% de los casos y el consumo de alcohol en el 24%. Las comorbilidades más frecuentes reportadas fueron: diabetes mellitus en el 23%, patología pulmonar obstructiva crónica en el 15% e infección por VIH en el 11%. El 18% de los casos tenía antecedentes previos de tuberculosis. Otras características generales de la población estudiada, son presentadas en la Tabla 1.
+
+ 
+
+Tabla 1. Características generales de los pacientes       con tuberculosis
+
+
+
+*EPD, enfermedad pulmonar difusa;        **VIH, virus de inmunodeficiencia humana.
+
+ 
+
+Los síntomas de presentación más frecuentes fueron: tos en el 76% de los casos, y baja de peso en el 52%. La hemoptisis se presentó en el 15% de ellos. El 48% de los casos, tenían el antecedente de síntomas de más de 90 días de duración.
+
+En la radiografía de tórax, el 30% de los pacientes presentaban compromiso bilateral, las lesiones cavitadas se observaron en el 41% y la presencia de derrame pleural en el 31%.
+
+En los exámenes de laboratorio destaca que la hemoglobina fue de 12,1 ± 2,3 (rango 6,9-19) g/dL; recuento plaquetas 361.857 (79.000-946.000) por mm3; la VHS 65,6 ± 36 mm/h; la albúmina plasmática 3,2 ± 0,7 (rango 1,4-4,4) g/dL y el ADA (adenosina deaminasa) en el líquido pleural = 38,3 (rango 12-60) UI/L.
+
+Al ingreso hospitalario, solo el 30% de los pacientes tenía diagnóstico de TBC pulmonar ya formulado. Al egreso hospitalario, el 79% de pacientes correspondió a tuberculosis pulmonar y el 21% a tuberculosis extrapulmonar (Tabla 2).
+
+ 
+
+Tabla 2. Clasificación diagnóstica de los pacientes       con Tuberculosis (n = 100)
+
+
+
+ 
+
+La estadía hospitalaria fue de 27 ± 32 días, sin observar diferencias significativas entre los pacientes que sobrevivieron y aquellos fallecidos.
+
+Complicaciones
+
+El 17% de los pacientes presentó complicaciones que fueron las siguientes: shock séptico en 8 casos, falla respiratoria aguda en 6, de los cuales todos requirieron ventilación no invasiva y 4 ventilación mecánica invasiva. Cinco pacientes presentaron insuficiencia renal aguda, empiema 7, e insuficiencia hepática un paciente.
+
+Letalidad
+
+Durante los 6 meses de tratamiento, se registró un total de 9 fallecidos, 8 de los cuales fallecieron durante la hospitalización, siendo en todos ellos la TBC la causa de muerte. Un caso falleció post-alta por un infarto agudo al miocardio. La letalidad intrahospitalaria por TBC fue de 8% (IC 95%: 3-14,1) y de un 11,4% en el subgrupo de TBC pulmonar. La sobrevida a los 6 meses fue 91 %. (IC 95%: 85,9-97) la Figura 1, muestra la curva de sobrevida de pacientes con tuberculosis hospitalizados.
+
+ 
+
+
+
+Figura 1. Curva de sobrevida de Kaplan-Meier de pacientes       hospitalizados con tuberculosis.
+
+ 
+
+Análisis univariado
+
+En el análisis univariado para evaluar los factores pronósticos de mortalidad, se encontró que: edad > 40 años, nivel de albúmina ≤ 3,0 g/dl, plaquetas < 150.000 por mm3, consumo de alcohol, diabetes mellitus, insuficiencia renal aguda, shock séptico y requerimiento de soporte respiratorio mecánico, resultaron estar significativamente asociados (Tabla 3).
+
+ 
+
+Tabla 3. Análisis univariado de factores pronósticos de mortalidad en pacientes        hospitalizados por tuberculosis
+
+
+
+Datos son porcentajes y proporciones.
+
+ 
+
+Análisis multivariado
+
+El análisis de regresión logística muestra que la hipoalbuminemia (OR: 7,38; 95% IC, 1,66-32,65; p = 0,008) y la plaquetopenia (OR: 14,56; 95% IC: 1,29-163,8; p = 0,030), medidas al ingreso de la hospitalización, y la presencia de shock séptico (OR: 86,35; 95% IC, 6,16-1.210,28; p = 0,001) durante la hospitalización, resultaron factores pronósticos independientes de mortalidad hospitalaria en pacientes con TBC.
+
+Discusión
+
+Entre los principales hallazgos en este estudio destacamos: (1) la letalidad hospitalaria de los pacientes con TBC fue de 8%, con una sobrevida del 91% a los 6 meses y (2) la hipoalbuminemia, la trombocitopenia al ingreso y el shock séptico durante la hospitalización, son factores de riesgo independientes de mortalidad. La letalidad por TBC en nuestro estudio, es algo mayor a lo encontrado por Hansel y cols en EE.UU., 4,9%9 y por Pepper y cols10 en Sudáfrica, 5,6%. Por el contrario, es menor a lo reportado por Lubart y cols11 en Israel,13%; Silva y cols12 en Brasil,17%; Chuquiyauri y col13 en Perú, 18,4%; y rao y cols14 en EE.UU., 28,1%, en pacientes con TBC hospitalizados (Tabla 4). Esta diferencia en la letalidad, puede ser explicada por varios factores, entre ellos, se debe considerar el hecho que el INT, es un centro nacional de derivación, lo que puede condicionar la selección de casos de mayor severidad o complejidad. Otros factores de importancia son las comorbilidades presentes en las poblaciones estudiadas. En el estudio israelí, el 40% de los fallecidos tenían insuficiencia cardiaca isquémica11. En cambio, en el estudio realizado en brasil12 y Perú13, los pacientes fallecidos presentaban co-infección por VIH en el 63% y 66%, respectivamente. La tuberculosis es la causa más común de muerte en pacientes que presentan co-infección por VIH en países en desarrollo15. no obstante, esto ha mejorado con la incorporación en la última década de la terapia antiretroviral. Abdool-Karim y cols, encontraron que la iniciación de terapia antiretroviral durante la terapia antituberculosa, disminuye la mortalidad en 56%16. En nuestro estudio, solo 1 de los 11 pacientes que tenía co-infección por VIH falleció y había suspendido la terapia antiretroviral meses antes. En cambio, los otros pacientes estaban en tratamiento antiretroviral regular.
+
+ 
+
+Tabla 4. Estudios que analizan la letalidad y los factores de riesgo de mortalidad       de pacientes con tuberculosis hospitalizados
+
+
+
+*Análisis multivariado, con modelo de regresión logística o regresión de Cox.      § Pacientes hospitalizados en UCI. SDRA: Síndrome distrés respiratorio agudo;        VIH: virus de inmunodeficiencia humana.
+
+ 
+
+La sobrevida a los 6 meses de iniciado el tratamiento antituberculoso fue de 91%, sin embargo, la mayoría de los pacientes que fallecieron, lo hicieron por tuberculosis pulmonar durante la hospitalización. En ellos, las comorbilidades más frecuentes asociadas fueron la diabetes mellitus (56%) y el consumo de alcohol (56%). Solo un caso falleció después de la hospitalización por una causa diferente a la tuberculosis.
+
+En el estudio de Hansen y cols.9, se encontró que aquellos pacientes con un elevado índice de comorbilidad de Charlson17 (método pronóstico de mortalidad según el número de comorbilidades seleccionadas), tenían un mayor riesgo de mortalidad hospitalaria, OR = 1,57.
+
+A pesar de que nuestros pacientes recibieron la mejor terapia antituberculosa disponible de acuerdo a las normas nacionales del programa de control de la tuberculosis7,8, un 8% de ellos falleció. Esta cifra se acerca a lo reportado por el Ministerio de Salud, el año 2013, de un 10,8% de mortalidad global5. Dado la gravedad y complicaciones que tiene estos pacientes, como se muestra en nuestro estudio, es muy probable que la mayoría de los pacientes que fallecen por tuberculosis en Chile corresponda a pacientes hospitalizados.
+
+En nuestro estudio, encontramos que la hipoalbuminemia, es un factor de mal pronóstico. Esto ha sido comunicado previamente por Lubart y cols11, que encontró en el análisis multivariado que la hipoalbuminemia era uno de los más importantes factores relacionados con mortalidad en pacientes hospitalizados con TBC. En otro estudio, Tang y cols18 encontraron que la hipoalbuminemia es factor pronóstico independiente de pobre respuesta en pacientes con tuberculosis resistente a multidrogas (MDR). Otros factores de riesgo relacionados a mortalidad son mal-nutrición, bajo peso e índice de masa corporal bajo11,14,18,19. Esto es muy importante, y sugiere la conveniencia de evaluar el estado nutricional del paciente desde el inicio del tratamiento e iniciar intervenciones con los suplementos nutricionales necesarios, de forma precoz.
+
+Con respecto a la trombocitopenia es conocido que es un marcador de mal pronóstico en neumonía y sepsis20. En tuberculosis, la trombocitopenia es infrecuente y está usualmente asociada con TBC diseminada o TBC miliar21. En la etiopatogenia de la trombocitopenia de estos pacientes se encuentra: infiltración de la médula ósea en TBC diseminada, coagulación intravascular diseminada relacionado a TBC, generación de anticuerpos anti plaquetarios inducidos por rifampicina y el púrpura trombótico trombocitopénico (PTT)21,22. La trombocitopenia severa como complicación de la tuberculosis es poco común, pero puede ser potencialmente letal23. No obstante, puede representar un fenómeno reversible si el diagnóstico es precoz y el tratamiento adecuado.
+
+Los pacientes con TBC que requieren hospitalización en la unidad de paciente crítico tienen una elevada letalidad24, siendo las complicaciones como el shock séptico y la falla respiratoria aguda las causas muerte. en el estudio de Rollas y cols24, la principal causa de muerte fue shock séptico en 5 de los 7 pacientes fallecidos. Así también, Erbes y cols25 estudiaron a 58 pacientes con tuberculosis hospitalizados en la UCI con una letalidad del 26%, estando la sepsis presente en el 25,8% de los casos. En nuestro estudio, 6 de los 8 pacientes que fallecieron durante la hospitalización y que requirieron atención en la unidad de Paciente Crítico presentaron shock séptico. En la Tabla 4 se presentan varios estudios que analizan los factores de riesgo de mortalidad de pacientes hospitalizados con tuberculosis.
+
+Finalmente, en otros estudios las variables: género masculino26 y la edad, sobre todo mayores de 65 años26,27, son asociados con mortalidad por tuberculosis. En nuestro estudio estas variables no fueron retenidas en el modelo multivariado. Es posible que influya el tamaño muestral que es menor a los estudios antes mencionados.
+
+No obstante que Chile tiene una baja incidencia de TBC comparada con la mayoría de los países de Latinoamérica y el Caribe, aún estamos lejos de su erradicación y de convertirnos así en un país de baja incidencia28. Es más, se ha observado en los últimos años una detención en la velocidad de reducción de la tasa de incidencia y una mortalidad preocupantemente elevada para una enfermedad prevenible y tratable5.
+
+Conclusiones
+
+Nuestro estudio muestra una letalidad por TBC, en pacientes hospitalizados, de un 8% y una sobrevida a los 6 meses de 91%. La mayoría falleció por causa de la TBC pulmonar. En el análisis multivariado, la hipoalbuminemia, la trombocitopenia, y el shock séptico fueron factores pronóstico de mortalidad.

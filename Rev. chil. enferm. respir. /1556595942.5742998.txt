@@ -1,0 +1,140 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482014000300002
+Consultas de urgencia general y por causa respiratoria en la Red de establecimientos del Sistema Nacional de Servicios de Salud (SNSS): un modelo predictivo en el Servicio de Salud de Chiloé
+
+Resumen
+
+Objetivo: El objetivo de esta publicación es evaluar un sistema de pronóstico, a partir de modelos SARIMA para la demanda de Consultas de Urgencia Total y Respiratorias, medida en términos del número de visitas registradas semanalmente para el consolidado de los cinco Hospitales de la Red del Servicio de Salud Chiloé, Chile. Método: Identificación, ajuste, pronóstico y validación de modelo SARIMA para la serie temporal de demanda por consultas de urgencia total y respiratoria en los hospitales del Servicio de Salud Chiloé. Resultados: al aplicar el protocolo de identificación Box-Jenkins de Modelos ARIMA con componente estacional, se observó que las serie de consultas totales y de urgencia consolidadas presenta una estacionalidad de 26 semanas estadísticas y sigue una familia de modelos Autorregresivo - Estacional SARIMA (p,0,0)x (P,D,0), el cual, para el caso en estudio presenta una estructura particular SARIMA (1,0,0)x(1,1,0)26, para ambos casos, diferenciados solamente en la inclusión de la constante en el mismo, los cuales, al ser usados para pronosticar, mostraron un error de pronóstico según el estadístico MAPE para los modelos de urgencia total y respiratoria de 5,8% y 4,27% respectivamente. Conclusiones: el rendimiento predictivo del sistema propuesto evidencia que la metodología expuesta es válida para ser usada como una herramienta de gestión de la demanda de consultas de urgencia en el Servicio de Salud Chiloé, considerando que la proyección de este modelo augura cada vez mayor certeza en sus períodos de pronóstico en la medida que se vaya incorporando la demanda de nuevos períodos lo que potenciará su uso como herramienta para la planificación y gestión.
+
+Palabras clave: Consultas de urgencia; urgencias respiratorias; pronóstico, SARIMA; series de tiempo.
+
+ 
+
+Introducción
+
+Una consulta de urgencia puede definirse como una situación clínica que precisa de una atención sanitaria inmediata, por lo que el resultado final para la salud del paciente depende, no sólo de la naturaleza del servicio sanitario ofrecido, sino también y en gran medida, de la celeridad con que se preste tal servicio1. El aumento desmesurado de la demanda en los servicios de urgencias tiene consecuencias negativas para el centro en forma de falta de espacio físico, sobrecarga de los servicios de laboratorio y radiología y de los profesionales del hospital, alargamiento de la lista de espera de ingresos programados y pérdidas en productividad por las dificultades para programar el trabajo y sobre todo, se pueden producir demoras en la asistencia a pacientes que sufren situaciones de riesgo vital2. La demanda de atención a los UEH (Unidades de Emergencia Hospitalaria) para atender situaciones que no satisfacen criterios de urgentes, genera una presión innecesaria sobre una oferta limitada y reduce la calidad del servicio. Por esto, en los países desarrollados se han puesto en práctica una serie de medidas que intenten reorientar las consultas inapropiadas a UEH hacia su lugar correcto en el sistema sanitario, tratándose, sin embargo, de un problema persistente de difícil solución3. de hecho, el análisis de las actuaciones emprendidas con este fin, muestran escaso éxito en cuanto a frenar la demanda inapropiada, sugiriendo, por tanto, que las políticas sobre urgencias hospitalarias se orienten más bien a reorganizar los UEH para que su oferta se ajuste mejor a la demanda real4. Sin embargo, las variaciones estacionales asociadas a este tipo de consulta, un factor gravitante en el volumen de ellas, no ha recibido la atención debida en el campo de la investigación en economía de la salud5. En general, las acciones de corto plazo en determinadas decisiones médicas son características importantes para que los gestores en este ámbito puedan tomar decisiones acertadas. Por esta razón, el análisis de la influencia del patrón estacional presente en series sanitarias, de frecuente observación es una tarea relevante para una mejor comprensión del fenómeno. En el caso específico de los servicios de urgencias, el resultado final de la asistencia sanitaria puede depender, en gran medida, de la rapidez con que el paciente sea atendido y, no obstante la alta incertidumbre de este tipo de demanda, el conocimiento preciso de sus variaciones a lo largo del año, de la semana o del día, resulta extremadamente útil para ofrecer un servicio con garantías de éxito6.
+
+En el caso de los servicios hospitalarios la capacidad disponible de atención se ve determinada por las instalaciones físicas (boxes de atención), y recursos humanos (técnicos paramédicos y enfermeras), que realizan diagnósticos y tratamientos. Esta capacidad se debe planificar para garantizar un buen nivel de servicio brindado y, a su vez, optimizar el uso de los recursos7. Por esto, el problema medular del investigador que trabaja con datos en una serie temporal es el de establecer el proceso generador de datos que ha dado lugar a la serie temporal real objeto de estudio. Ese proceso generador de datos ha de estar provocado por un mecanismo que debe responder a supuestos substantivos sobre la forma que se han producido los datos. Es decir, una buena teoría ha de explicar los datos (comprobada mediante el modelo estadístico adecuado) y no debe dejarse a un modelo estadístico (por sí solo) que substituya a la teoría8. El objetivo de esta comunicación es evaluar el rendimiento de un sistema predictivo, basado en el modelo estadístico SARIMA9 (Modelo Autorregresivo Integrado de Medias Móviles, con componente Estacional), aplicado a la demanda real de consultas de urgencia Total y Respiratorias, medida en términos del número de visitas registradas semanalmente, para el consolidado de los cinco hospitales de la Red del Servicio de Salud Chiloé.
+
+Materiales y Métodos
+
+El Servicio de Salud Chiloé, atiende a una red compuesta por 5 hospitales: un Hospital de Alta Complejidad (tipo 2) en Castro, que es el Hospital Base, un Hospital de Mediana Complejidad (tipo 3) en Ancud, que realiza algunas acciones de Hospital de Alta complejidad, como ser medicina hiperbárica y, 3 Hospitales de Baja Complejidad (tipo 4) ubicados en Achao, comuna de Quinchao, Queilén y Quellón10. La presente comunicación evaluará el rendimiento de un método predictivo de consultas de urgencia totales y de causa Respiratoria, para los hospitales de la Red del Servicio de Salud Chiloé para un período de 12 semanas. técnicamente, la mejor opción de análisis la presentan los modelos ARIMA integrado Estacional, SARIMA11, por la naturaleza y estructura de las series temporales a modelar. Estos modelos resultan notablemente eficientes y eficaces en el modelamiento de procesos de consultas de urgencia, obteniéndose modelos robustos y generalizables en la mayoría de los casos. Con el objetivo de generar pronósticos a través de los mismos datos, se modelaron series temporales de consultas de urgencia (variable dependiente) y no a través de variables exógenas a éstas, recurriendo al modelamiento SARIMA (Modelo Autorregresivo Integrado de Medias Móviles Estacionales), el cual, formalmente se define12-13 según la siguiente formulación:
+
+
+
+(B) = Operador de Retardo, luego:     BXt = Xt-1, ...BkXt = Xt-k; si k = orden de la autocorrelación parcial y t = retardo de tiempo entre las variables separadas por k retardos.
+
+BS = Operador de retardo estacional.     Si s = estacionalidad.      Øp (B)Xt = at + c = Proceso autoregresivo (AR).   	Xt = θq (B)at + c = Proceso media móvil (MA).   ∇Xt = (1 - B)Xt = X1 - Xt-1, ... ∇d Xt = Operador de diferencia (Integración) (1 - BS)Xt = Xt - Xt-s.
+
+Por la naturaleza y estructura de los procesos de consultas en servicios de urgencia, que presentan alta y fuerte estacionalidad14, se aplicó análisis espectral para determinar la estacionalidad en las series temporales de urgencia. El proceso de identificación del modelo o la familia de modelos por cada serie analizada, se consiguió mediante protocolo estándar de Box y Jenkins, es decir, buscando patrones en las funciones de auto correlación, análisis de residuos, significancia de parámetros, coeficientes de ajuste y observación del comportamiento de la serie a través del tiempo. Finalmente, en la etapa de control de pronóstico, se utilizó el estadístico de Error Porcentual Absoluto Medio (MAPE), con el objeto de medir el rendimiento predictivo del modelo frente a la muestra de validación compuesta por 12 retardos, el cual formalmente se expresa15 mediante la siguiente expresión:
+
+
+
+Yt = Valor observado.     Yt = Valor estimado por el modelo.     n = Número de retardos.
+
+Los datos utilizados fueron extraídos del DEIS (Departamento de Estadísticas e Información en Salud) diariamente, siendo luego consolidados por semana estadística. Considerando que el Hospital de Castro sólo comenzó a ingresar información al sistema de urgencias a partir de la semana N°12 del año 2011, el consolidado de los cinco hospitales se inicia sólo a partir de dicha semana. De esta forma, las dos series consolidadas estarán compuestas por consultas de urgencia totales y Respiratorias, en períodos semanales desde la semana estadística N° 12 del año 2011 hasta la semana 33 del año 2013, en total 123 retardos, usando como muestra de validación del modelo SARIMA el período comprendido entre las semanas 34 a la 45 (12 semanas estadísticas) del mismo año. Para el análisis estadístico de datos se utilizaron los software, STATA 12.0 y JMP 5.0.
+
+Resultados
+
+Al aplicar el protocolo Box-Jenkins para identificación de modelos SARIMA16, se identificó en primer término, la estructura de los probables modelos que definan el proceso que mejor ajusta a los datos, ésto es, analizar los patrones de las funciones de Autocorrelación Simple y Autocorrelación Parcial12-14 (Figura 1 y 2, respectivamente).
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Para determinar la posible estacionalidad de las series de urgencia total y de urgencia respiratoria se recurrió al análisis espectral, en donde, de la misma forma mencionada previamente, se identificó la estacionalidad de 26 semanas estadísticas, lo que corresponde a un ciclo semestral17 (Figuras 3 y 4).
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+El análisis de las funciones de autocorrelación simple y parcial, tanto para demanda total de consultas de urgencia como para consultas de urgencia respiratoria, responden a un Modelo SARIMA autorregresivo (AR) estacional, según lo cual, se obtiene la familia de modelos18 para la demanda de consultas de urgencia total, los cuales, son expuestos en la Tabla 1.
+
+ 
+
+Tabla 1. Familia de modelos SARIMA Urgencia Total consolidado de los cinco Hospitales del Servicio de Salud Chiloé
+
+ 
+
+De todos ellos, se elige en función de sus adecuados valores obtenidos mediantes criterios estadísticos el Modelo SARIMA (1, 0,0) (1, 1,0)26 como el modelo que mejor se ajusta a la estructura de serie temporal y finalmente por pertinencia estadística de sus parámetros, como se observa en la Tabla 2.
+
+ 
+
+Tabla 2. Evaluación modelo SARIMA (1, 0, 0) (1, 1, 0)26, Estable e Invertible e Inferencia a los parámetros estimados del modelo. Urgencia Total
+
+ 
+
+Luego de verificar la validez estadística-inferencial del modelo elegido, se modeló el proceso de pronóstico o predicción de un período de 12 semanas estadísticas de la serie (semana 34 a la 45) con su correspondiente banda de confianza (95%). Obtenida la información anterior, se efectúa la verificación mediante la muestra de validación para el período, para analizar las deviaciones existentes entre los valores de demanda de urgencia total pronosticados por el modelo seleccionado y los observado en el período descrito, verificando así el ajuste y la calidad predictiva real del modelo estimado (Figura 5), expresado:
+
+
+
+Equivalente a Modelo:
+
+
+
+ΦP = Parámetro AR autoregresivo estacional.     ϕP = Parámetro AR autoregresivo.        (1 - BS)D = Operador de integración estacional.
+
+ 
+
+
+
+ 
+
+Reemplazando los parámetros estimados en el modelo SARIMA particular para demanda de Urgencia Total, la expresión final sería:
+
+(1 + 0,6646B)(1 - 0,7322B)(1 - B26)Xt = 84,5597
+
+De igual forma a lo expresado para la demanda por urgencia total, se repite el procedimiento antes descrito en la demanda de urgencia respiratoria seleccionado el modelo SARIMA (1, 0,0) (1, 1,0)26. Sin intercepto, como el más adecuado para realizar pronóstico en este proceso específico. La evidencia que respalda esta selección se puede observar en las Tablas 3 y 4.
+
+ 
+
+Tabla 3. Familia de modelos SARIMA Urgencia Respiratoria consolidado de los cinco Hospitales del Servicio de Salud Chiloé
+
+ 
+
+Tabla 4. Evaluación modelo SARIMA (1, 0, 0) (1, 1, 0)26, Estable e Invertible e Inferencia a los parámetros estimados del modelo. Urgencia Respiratoria
+
+ 
+
+Luego de verificar la validez estadística-inferencial del modelo elegido, se siguió similar procedimiento que el empleado para el análisis de las consultas totales de urgencia para el período de 12 semanas estadísticas mencionadas y su correspondiente banda de confianza al 95%, (figura 6), expresándose para este caso en la siguiente formulación:
+
+
+
+Equivalente a:
+
+
+
+ΦP = Parámetro AR autoregresivo estacional.     ϕP = Parámetro AR autoregresivo.      	(1 - BS)D = Operador de integración estacional.
+
+Reemplazando los parámetros estimados el modelo SARIMA particular para demanda de Urgencia Total, el modelo adopta la siguiente forma:
+
+(1 + 0,6626B)(1 - 0,8889B)(1 - B26)Xt = 0 
+
+ 
+
+
+
+ 
+
+Finalmente, al cotejar la muestra de validación con el pronóstico entregado por los respectivos modelos en cada caso mediante el estadístico MAPE19,20, para el caso del pronóstico de la urgencia total del consolidado de la red de cinco hospitales del Servicio de Salud Chiloé, se obtiene un Error Porcentual Absoluto Medio de pronóstico del 5,8% y para el caso de la urgencia respiratoria se obtiene un Error Porcentual Absoluto Medio de pronóstico del 4,27%.
+
+Discusión
+
+La estacionalidad de la demanda tanto de urgencia total como respiratoria, para el consolidado de los cinco hospitales del Servicio de Salud Chiloé, se estimó en aproximadamente 26 semanas, es decir, un semestre, entre un ciclo y el siguiente.
+
+Las series temporales en períodos semanales, tanto de consultas de urgencia total como respiratoria, responden a un Modelo Autorregresivo-Estacional SARIMA (p, 0,0) (P, D, 0) S, el cual se deriva del análisis de los patrones de las Funciones de Autocorrelación Simple y Parcial, y al análisis de la función de densidad espectral de las serie de datos de urgencia total y respiratoria. El mejor ajuste del modelo SARIMA, para ambas series, en función de los mejores indicadores de criterios Estadístico de Información y Ajuste para estas series en particular fue; SARIMA (1,0,0)(1,1,0)26 para la urgencia Total y SARIMA (1,0,0)(1,1,0)26 Sin intercepto, para la urgencia respiratoria. una utilidad potencial de esta herramienta es la aplicación para evaluar el impacto que tienen las medidas que se toman para modificar una situación. A modo de ejemplo, en la incorporación de otra oferta en el Servicio de Salud, como por ejemplo un SAPU (Servicio de Atención Primaria de Urgencia) en la comuna de castro, que debería impactar en una menor demanda en la consulta de urgencia del Hospital de Castro. Esto debiera influir en los resultados esperados en este modelo, con resultados distintos contemplando todos los servicios de urgencia, respecto de un escenario que incluya sólo hospitales. Esta eventual variación podría ser de utilidad para evaluar el impacto de la decisión de abrir un nuevo SAPU o aplicar un programa de vacunación de cobertura amplia y oportuna, lo que también podría influir en el número de consultas respiratorias en un año, y la variación observada al aplicar este modelo al ser una expresión más de la efectividad o no del programa. Finalmente cabe señalar que, aunque la implementación de esta herramienta es reciente en el Servicio de Salud Chiloé, lo observado hasta el día de hoy muestra que los resultados de la demanda en consultas totales de urgencia, como en consultas de tipo respiratorias, se han enmarcado dentro de los intervalos de confianza del Modelo predictivo, con un Error Porcentual Absoluto Medio de pronóstico de los modelos inferior al 6%, tanto para las series de urgencia total como para las de urgencia respiratoria. Esto ha permitido que la aplicación del Plan de Invierno en este Servicio se implemente con la anticipación adecuada y con mayor certidumbre, lo que es relevante en la eficiencia y optimización de recursos. En función de lo expuesto anteriormente se observa que la metodología expuesta es válida para ser usada como una herramienta de gestión de la demanda de consultas de urgencia en el Servicio de Salud Chiloé21,22, considerando que la proyección de este modelo augura cada vez mayor certeza en sus períodos de pronóstico en la medida que se incorporen progresivamente la demanda observada de nuevos períodos lo que potenciará su uso como herramienta para la planificación y gestión23-25.
+
+Agradecimientos
+
+Los autores agradecen a la Sra. Laura Devoto Tobar, Secretaria del Subdepartamento de Evaluación y Control de Gestión, por sus valiosas revisiones a los borradores de este trabajo.

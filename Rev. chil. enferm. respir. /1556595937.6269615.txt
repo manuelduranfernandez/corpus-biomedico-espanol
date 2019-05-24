@@ -1,0 +1,164 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482010000100003
+Nomogramas de ecuaciones de referencia espirométrica SER 2009
+
+Resumen
+
+La actual disponibilidad    de programas de detección y tratamiento de enfermedades respiratorias en Chile    ha determinado una mayor utilización de la espirometría en el diagnóstico de    dichas enfermedades. La adecuada interpretación de los resultados de la espirometría    requiere disponer de patrones de referencia idealmente originados en la misma    población en la cual se utilizarán. Para facilitar el uso y aplicación de nuevas    ecuaciones de referencia espirométricas recientemente modeladas en población    adulta chilena, se presentan nomogramas diseñados para cada uno de los parámetros    en base al género, edad y talla para sujetos entre 19 y 50 años y en mayores    de 51 años. Estas ecuaciones derivan de 5 estudios nacionales que incluyeron    población que cumplió criterios universales para determinar valores de referencia,    (1.174 sujetos, 19 a 94 años), que efectuaron espirometrías siguiendo recomendaciones    internacionales (ATS).
+
+Palabras    clave: Espirometría, valores de referencia, nomogramas.
+
+ 
+
+Introducción
+
+Durante los últimos    años se ha asistido a una progresiva masifcación en el uso clínico de la espirometría    a nivel nacional, actualmente disponible en todos los establecimientos del sistema    público de salud. Para su correcta utilización es indispensable disponer de    adecuados valores de referencia, obtenidos de población chilena en base a procedimientos    estandarizados1. Con esta finalidad, la Comisión de Función Pulmonar    de la Sociedad Chilena de Enfermedades Respiratorias propuso a su Directorio    obtener ecuaciones de referencia espirométricas representativas de la población    general sana chilena, propósito recientemente logrado. Con el objetivo de favorecer    la aplicación expedita de estas ecuaciones, al igual que en el estudio platino2,    se decidió diseñar nomogramas que faciliten su uso en la práctica clínica, los    que se presentan en esta comunicación.
+
+Material    y Método
+
+En base a las ecuaciones    obtenidas recientemente en población adulta chilena entre 19 y 94 años, cuyas    características se describen en la Tabla 1, se diseñaron    nomogramas separados según género y grupos de edad.     
+
+Diseño del    Nomograma El valor teórico    de cada variable de función pulmonar fue obtenido a partir del diseño de diversas    ecuaciones lineales (Tabla 2), en las cuales dicha variable    corresponde a: Variable = Intercepto    + (B* edad) + (C* talla) Utilizando el sistema    de resolución de ecuaciones lineales se puede granear un modelo con la forma    de un cuadrado, donde cada lado vertical corresponde    a un eje, indicando el eje izquierdo a la variable edad expresada en años (W\    a W2) y el del costado derecho, a la talla expresada en cm (Zi a    Z2). La altura de cada    eje es igual a la distancia que los separa y corresponde a "Y". Las variables de    función pulmonar incluidas Capacidad vital forzada (CVF), Volumen espiratorio    forzado en el primer segundo (VEFi), relación VEFi/CVF y Flujo espiratorio forzado    entre el 25 y 75% de la CVF (FEF25-75) corresponden a ejes verticales y paralelos    a este cuadrado. Utilizando la siguiente    ecuación3 para cada variable en cada grupo: 
+
+C: constante de    talla       W1: límite superior del eje de la edad       W2: límite inferior del eje de la edad Se obtiene la incógnita    X que corresponde a la distancia del 0 en la línea horizontal en que    se ubica el eje de esa variable. El 0 esta determinado por el punto en que el    eje de la edad corta la línea horizontal. Para obtener el valor del límite superior    e inferior de cada variable, se aplica la ecuación correspondiente para esa    edad y estatura. Se usó test t de    Student para muestras pareadas y gráfcos de Bland-Altman3 para comparar    los valores arrojados por los nomogramas y los obtenidos aplicando las ecuaciones    lineales. Resultados Se diseñaron nomogramas    para el cálculo de Capacidad vital forzada (CVF), Volumen espiratorio forzado    en el primer segundo (VEFi), relación VEFi/CVF y Flujo espiratorio forzado entre    el 25 y 75% de la CVF (FEF^s) para: Mujeres entre 19    y 50 años (Figura 1) y entre 51 y 94 años (Figura    2).    
+
+   Figura        1. Nomograma donde se relaciona cada variable espi-rométrica con la        edad y talla en cm en mujeres de 19 a 50 años. Las unidades para las variables        espirométricas son las señaladas en la Tabla 2.     
+
+   Figura        2. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en mujeres de 51 a 94 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.      
+
+Hombres entre 19    y 50 años (Figura 3) y entre 51 y 84 años (Figura    4).     
+
+  
+
+   Figura        4. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en hombres de 51 a 84 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.   Se comparó, mediante    test t de Student para muestras pareadas, la lectura del nomograma para cada    variable versus el valor entregado al resolver la ecuación, no encontrando    diferencias clínicas ni estadísticamente signifcativas (p > 0,05) en los    4 nomogramas diseñados (Tabla 3). También se realizaron    gráfcos de Bland-Altman para detectar la existencia de algún patrón en las diferencias    observadas en los valores obtenidos al aplicar el nomograma y la correspondiente    ecuación (Figura 5). Con la excepción del gráfico de FEF25-75,    en que se observa valores algo mayores en el nomograma (aunque sin diferencias    estadísticamente signifcativas), el resto de los parámetros de función pulmonar    se comportan de forma similar tanto para el nomograma como en los valores obtenidos    directamente a partir de las ecuaciones.     
+
+   
+
+Conclusiones Se logró obtener    nomogramas confiables para el cálculo del valor teórico esperado para cada variable    espirométrica, los que no diferen del valor entregado por la ecuación; esto    es de particular importancia considerando que aún las ecuaciones calculadas    no están incorporadas en el software correspondiente de los espirómetros. Para su utilización    simplemente se necesita un lápiz y una regla. Se debe trazar una recta entre    la edad y la talla, obteniendo el valor de cada parámetro en el punto en que    se cruza esta recta. Agradecimientos Los autores agradecen    al Sr. Jorge Gutiérrez por el diseño de la fórmula matemática para grafcar los    nomogramas y su valiosa ayuda en aplicarla. Bibliografía 1.- PELLEGRINO    R, VIEGI G, BRUSASCO V, CRAPO R O, BURGOS F, CASABURI R, et al. Interpretative    strategies for lung function test. Eur Respir J 2005; 26: 948-68.        [ Links ]2.- PÉREZ-PADILLA    R, VALDIVIA G, MUIÑO A, LÓPEZ M, MÁRQUEZ M, MONTES DE OCA M, et al. Valores    de referencia espirométrica en cinco grandes ciudades de Latinoamérica para    sujetos de 40 o más años de edad. Arch Bronconeumol 2006; 42: 317-25.        [ Links ]3.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Ecuaciones de referencia espirométrica en población    chilena. Rev Chil Enf Respir 1997; 13: 165-77.        [ Links ]4.- BLAND J M,    ALTMAN D G. Statistical methods for assessing agreement between two methods    of clinical measurement. Lancet 1986; 327 (8476): 307-10.        [ Links ]5.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Determinación de valores espirométricos en una    población chilena normal mayor de 5 años, a nivel del mar. Rev Med Chile 1996;    124: 1295-306.        [ Links ]Correspondencia    a: Dra. Mónica Gutiérrez Clavería.    
+
+   Hospital Naval Viña del Mar, Jefatura del Laboratorio de Función Pulmonar, Docente    ad honorem Universidad de Valparaíso. 5 norte 1011 dpto 71 Viña del Mar. Teléfono:    32 2471603. E-mail: mgancaroe@gmail.com 
+
+   
+
+Diseño del    Nomograma
+
+El valor teórico    de cada variable de función pulmonar fue obtenido a partir del diseño de diversas    ecuaciones lineales (Tabla 2), en las cuales dicha variable    corresponde a:
+
+Variable = Intercepto    + (B* edad) + (C* talla)
+
+Utilizando el sistema    de resolución de ecuaciones lineales se puede granear un modelo con la forma    de un cuadrado, donde cada lado vertical corresponde    a un eje, indicando el eje izquierdo a la variable edad expresada en años (W\    a W2) y el del costado derecho, a la talla expresada en cm (Zi a    Z2).
+
+La altura de cada    eje es igual a la distancia que los separa y corresponde a "Y".
+
+Las variables de    función pulmonar incluidas Capacidad vital forzada (CVF), Volumen espiratorio    forzado en el primer segundo (VEFi), relación VEFi/CVF y Flujo espiratorio forzado    entre el 25 y 75% de la CVF (FEF25-75) corresponden a ejes verticales y paralelos    a este cuadrado.
+
+Utilizando la siguiente    ecuación3 para cada variable en cada grupo:
+
+
+
+C: constante de    talla       W1: límite superior del eje de la edad       W2: límite inferior del eje de la edad
+
+Se obtiene la incógnita    X que corresponde a la distancia del 0 en la línea horizontal en que    se ubica el eje de esa variable. El 0 esta determinado por el punto en que el    eje de la edad corta la línea horizontal. Para obtener el valor del límite superior    e inferior de cada variable, se aplica la ecuación correspondiente para esa    edad y estatura.
+
+Se usó test t de    Student para muestras pareadas y gráfcos de Bland-Altman3 para comparar    los valores arrojados por los nomogramas y los obtenidos aplicando las ecuaciones    lineales.
+
+Resultados
+
+Se diseñaron nomogramas    para el cálculo de Capacidad vital forzada (CVF), Volumen espiratorio forzado    en el primer segundo (VEFi), relación VEFi/CVF y Flujo espiratorio forzado entre    el 25 y 75% de la CVF (FEF^s) para:
+
+Mujeres entre 19    y 50 años (Figura 1) y entre 51 y 94 años (Figura    2).    
+
+   Figura        1. Nomograma donde se relaciona cada variable espi-rométrica con la        edad y talla en cm en mujeres de 19 a 50 años. Las unidades para las variables        espirométricas son las señaladas en la Tabla 2.     
+
+   Figura        2. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en mujeres de 51 a 94 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.      
+
+Hombres entre 19    y 50 años (Figura 3) y entre 51 y 84 años (Figura    4).     
+
+  
+
+   Figura        4. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en hombres de 51 a 84 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.   Se comparó, mediante    test t de Student para muestras pareadas, la lectura del nomograma para cada    variable versus el valor entregado al resolver la ecuación, no encontrando    diferencias clínicas ni estadísticamente signifcativas (p > 0,05) en los    4 nomogramas diseñados (Tabla 3). También se realizaron    gráfcos de Bland-Altman para detectar la existencia de algún patrón en las diferencias    observadas en los valores obtenidos al aplicar el nomograma y la correspondiente    ecuación (Figura 5). Con la excepción del gráfico de FEF25-75,    en que se observa valores algo mayores en el nomograma (aunque sin diferencias    estadísticamente signifcativas), el resto de los parámetros de función pulmonar    se comportan de forma similar tanto para el nomograma como en los valores obtenidos    directamente a partir de las ecuaciones.     
+
+   
+
+Conclusiones Se logró obtener    nomogramas confiables para el cálculo del valor teórico esperado para cada variable    espirométrica, los que no diferen del valor entregado por la ecuación; esto    es de particular importancia considerando que aún las ecuaciones calculadas    no están incorporadas en el software correspondiente de los espirómetros. Para su utilización    simplemente se necesita un lápiz y una regla. Se debe trazar una recta entre    la edad y la talla, obteniendo el valor de cada parámetro en el punto en que    se cruza esta recta. Agradecimientos Los autores agradecen    al Sr. Jorge Gutiérrez por el diseño de la fórmula matemática para grafcar los    nomogramas y su valiosa ayuda en aplicarla. Bibliografía 1.- PELLEGRINO    R, VIEGI G, BRUSASCO V, CRAPO R O, BURGOS F, CASABURI R, et al. Interpretative    strategies for lung function test. Eur Respir J 2005; 26: 948-68.        [ Links ]2.- PÉREZ-PADILLA    R, VALDIVIA G, MUIÑO A, LÓPEZ M, MÁRQUEZ M, MONTES DE OCA M, et al. Valores    de referencia espirométrica en cinco grandes ciudades de Latinoamérica para    sujetos de 40 o más años de edad. Arch Bronconeumol 2006; 42: 317-25.        [ Links ]3.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Ecuaciones de referencia espirométrica en población    chilena. Rev Chil Enf Respir 1997; 13: 165-77.        [ Links ]4.- BLAND J M,    ALTMAN D G. Statistical methods for assessing agreement between two methods    of clinical measurement. Lancet 1986; 327 (8476): 307-10.        [ Links ]5.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Determinación de valores espirométricos en una    población chilena normal mayor de 5 años, a nivel del mar. Rev Med Chile 1996;    124: 1295-306.        [ Links ]Correspondencia    a: Dra. Mónica Gutiérrez Clavería.    
+
+   Hospital Naval Viña del Mar, Jefatura del Laboratorio de Función Pulmonar, Docente    ad honorem Universidad de Valparaíso. 5 norte 1011 dpto 71 Viña del Mar. Teléfono:    32 2471603. E-mail: mgancaroe@gmail.com 
+
+  
+
+   Figura        1. Nomograma donde se relaciona cada variable espi-rométrica con la        edad y talla en cm en mujeres de 19 a 50 años. Las unidades para las variables        espirométricas son las señaladas en la Tabla 2.     
+
+   Figura        2. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en mujeres de 51 a 94 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.      
+
+Hombres entre 19    y 50 años (Figura 3) y entre 51 y 84 años (Figura    4).     
+
+  
+
+   Figura        4. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en hombres de 51 a 84 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.   Se comparó, mediante    test t de Student para muestras pareadas, la lectura del nomograma para cada    variable versus el valor entregado al resolver la ecuación, no encontrando    diferencias clínicas ni estadísticamente signifcativas (p > 0,05) en los    4 nomogramas diseñados (Tabla 3). También se realizaron    gráfcos de Bland-Altman para detectar la existencia de algún patrón en las diferencias    observadas en los valores obtenidos al aplicar el nomograma y la correspondiente    ecuación (Figura 5). Con la excepción del gráfico de FEF25-75,    en que se observa valores algo mayores en el nomograma (aunque sin diferencias    estadísticamente signifcativas), el resto de los parámetros de función pulmonar    se comportan de forma similar tanto para el nomograma como en los valores obtenidos    directamente a partir de las ecuaciones.     
+
+   
+
+Conclusiones Se logró obtener    nomogramas confiables para el cálculo del valor teórico esperado para cada variable    espirométrica, los que no diferen del valor entregado por la ecuación; esto    es de particular importancia considerando que aún las ecuaciones calculadas    no están incorporadas en el software correspondiente de los espirómetros. Para su utilización    simplemente se necesita un lápiz y una regla. Se debe trazar una recta entre    la edad y la talla, obteniendo el valor de cada parámetro en el punto en que    se cruza esta recta. Agradecimientos Los autores agradecen    al Sr. Jorge Gutiérrez por el diseño de la fórmula matemática para grafcar los    nomogramas y su valiosa ayuda en aplicarla. Bibliografía 1.- PELLEGRINO    R, VIEGI G, BRUSASCO V, CRAPO R O, BURGOS F, CASABURI R, et al. Interpretative    strategies for lung function test. Eur Respir J 2005; 26: 948-68.        [ Links ]2.- PÉREZ-PADILLA    R, VALDIVIA G, MUIÑO A, LÓPEZ M, MÁRQUEZ M, MONTES DE OCA M, et al. Valores    de referencia espirométrica en cinco grandes ciudades de Latinoamérica para    sujetos de 40 o más años de edad. Arch Bronconeumol 2006; 42: 317-25.        [ Links ]3.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Ecuaciones de referencia espirométrica en población    chilena. Rev Chil Enf Respir 1997; 13: 165-77.        [ Links ]4.- BLAND J M,    ALTMAN D G. Statistical methods for assessing agreement between two methods    of clinical measurement. Lancet 1986; 327 (8476): 307-10.        [ Links ]5.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Determinación de valores espirométricos en una    población chilena normal mayor de 5 años, a nivel del mar. Rev Med Chile 1996;    124: 1295-306.        [ Links ]Correspondencia    a: Dra. Mónica Gutiérrez Clavería.    
+
+   Hospital Naval Viña del Mar, Jefatura del Laboratorio de Función Pulmonar, Docente    ad honorem Universidad de Valparaíso. 5 norte 1011 dpto 71 Viña del Mar. Teléfono:    32 2471603. E-mail: mgancaroe@gmail.com 
+
+  
+
+   Figura        2. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en mujeres de 51 a 94 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.      
+
+Hombres entre 19    y 50 años (Figura 3) y entre 51 y 84 años (Figura    4).     
+
+  
+
+   Figura        4. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en hombres de 51 a 84 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.   Se comparó, mediante    test t de Student para muestras pareadas, la lectura del nomograma para cada    variable versus el valor entregado al resolver la ecuación, no encontrando    diferencias clínicas ni estadísticamente signifcativas (p > 0,05) en los    4 nomogramas diseñados (Tabla 3). También se realizaron    gráfcos de Bland-Altman para detectar la existencia de algún patrón en las diferencias    observadas en los valores obtenidos al aplicar el nomograma y la correspondiente    ecuación (Figura 5). Con la excepción del gráfico de FEF25-75,    en que se observa valores algo mayores en el nomograma (aunque sin diferencias    estadísticamente signifcativas), el resto de los parámetros de función pulmonar    se comportan de forma similar tanto para el nomograma como en los valores obtenidos    directamente a partir de las ecuaciones.     
+
+   
+
+Conclusiones Se logró obtener    nomogramas confiables para el cálculo del valor teórico esperado para cada variable    espirométrica, los que no diferen del valor entregado por la ecuación; esto    es de particular importancia considerando que aún las ecuaciones calculadas    no están incorporadas en el software correspondiente de los espirómetros. Para su utilización    simplemente se necesita un lápiz y una regla. Se debe trazar una recta entre    la edad y la talla, obteniendo el valor de cada parámetro en el punto en que    se cruza esta recta. Agradecimientos Los autores agradecen    al Sr. Jorge Gutiérrez por el diseño de la fórmula matemática para grafcar los    nomogramas y su valiosa ayuda en aplicarla. Bibliografía 1.- PELLEGRINO    R, VIEGI G, BRUSASCO V, CRAPO R O, BURGOS F, CASABURI R, et al. Interpretative    strategies for lung function test. Eur Respir J 2005; 26: 948-68.        [ Links ]2.- PÉREZ-PADILLA    R, VALDIVIA G, MUIÑO A, LÓPEZ M, MÁRQUEZ M, MONTES DE OCA M, et al. Valores    de referencia espirométrica en cinco grandes ciudades de Latinoamérica para    sujetos de 40 o más años de edad. Arch Bronconeumol 2006; 42: 317-25.        [ Links ]3.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Ecuaciones de referencia espirométrica en población    chilena. Rev Chil Enf Respir 1997; 13: 165-77.        [ Links ]4.- BLAND J M,    ALTMAN D G. Statistical methods for assessing agreement between two methods    of clinical measurement. Lancet 1986; 327 (8476): 307-10.        [ Links ]5.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Determinación de valores espirométricos en una    población chilena normal mayor de 5 años, a nivel del mar. Rev Med Chile 1996;    124: 1295-306.        [ Links ]Correspondencia    a: Dra. Mónica Gutiérrez Clavería.    
+
+   Hospital Naval Viña del Mar, Jefatura del Laboratorio de Función Pulmonar, Docente    ad honorem Universidad de Valparaíso. 5 norte 1011 dpto 71 Viña del Mar. Teléfono:    32 2471603. E-mail: mgancaroe@gmail.com 
+
+   
+
+Hombres entre 19    y 50 años (Figura 3) y entre 51 y 84 años (Figura    4).     
+
+  
+
+   Figura        4. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en hombres de 51 a 84 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.   Se comparó, mediante    test t de Student para muestras pareadas, la lectura del nomograma para cada    variable versus el valor entregado al resolver la ecuación, no encontrando    diferencias clínicas ni estadísticamente signifcativas (p > 0,05) en los    4 nomogramas diseñados (Tabla 3). También se realizaron    gráfcos de Bland-Altman para detectar la existencia de algún patrón en las diferencias    observadas en los valores obtenidos al aplicar el nomograma y la correspondiente    ecuación (Figura 5). Con la excepción del gráfico de FEF25-75,    en que se observa valores algo mayores en el nomograma (aunque sin diferencias    estadísticamente signifcativas), el resto de los parámetros de función pulmonar    se comportan de forma similar tanto para el nomograma como en los valores obtenidos    directamente a partir de las ecuaciones.     
+
+   
+
+Conclusiones Se logró obtener    nomogramas confiables para el cálculo del valor teórico esperado para cada variable    espirométrica, los que no diferen del valor entregado por la ecuación; esto    es de particular importancia considerando que aún las ecuaciones calculadas    no están incorporadas en el software correspondiente de los espirómetros. Para su utilización    simplemente se necesita un lápiz y una regla. Se debe trazar una recta entre    la edad y la talla, obteniendo el valor de cada parámetro en el punto en que    se cruza esta recta. Agradecimientos Los autores agradecen    al Sr. Jorge Gutiérrez por el diseño de la fórmula matemática para grafcar los    nomogramas y su valiosa ayuda en aplicarla. Bibliografía 1.- PELLEGRINO    R, VIEGI G, BRUSASCO V, CRAPO R O, BURGOS F, CASABURI R, et al. Interpretative    strategies for lung function test. Eur Respir J 2005; 26: 948-68.        [ Links ]2.- PÉREZ-PADILLA    R, VALDIVIA G, MUIÑO A, LÓPEZ M, MÁRQUEZ M, MONTES DE OCA M, et al. Valores    de referencia espirométrica en cinco grandes ciudades de Latinoamérica para    sujetos de 40 o más años de edad. Arch Bronconeumol 2006; 42: 317-25.        [ Links ]3.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Ecuaciones de referencia espirométrica en población    chilena. Rev Chil Enf Respir 1997; 13: 165-77.        [ Links ]4.- BLAND J M,    ALTMAN D G. Statistical methods for assessing agreement between two methods    of clinical measurement. Lancet 1986; 327 (8476): 307-10.        [ Links ]5.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Determinación de valores espirométricos en una    población chilena normal mayor de 5 años, a nivel del mar. Rev Med Chile 1996;    124: 1295-306.        [ Links ]Correspondencia    a: Dra. Mónica Gutiérrez Clavería.    
+
+   Hospital Naval Viña del Mar, Jefatura del Laboratorio de Función Pulmonar, Docente    ad honorem Universidad de Valparaíso. 5 norte 1011 dpto 71 Viña del Mar. Teléfono:    32 2471603. E-mail: mgancaroe@gmail.com 
+
+   
+
+  
+
+   Figura        4. Nomograma donde se relaciona cada variable espi-rométrica con la        edad en años y talla en cm en hombres de 51 a 84 años. Las unidades para        las variables espirométricas son las señaladas en la Tabla        2.   Se comparó, mediante    test t de Student para muestras pareadas, la lectura del nomograma para cada    variable versus el valor entregado al resolver la ecuación, no encontrando    diferencias clínicas ni estadísticamente signifcativas (p > 0,05) en los    4 nomogramas diseñados (Tabla 3). También se realizaron    gráfcos de Bland-Altman para detectar la existencia de algún patrón en las diferencias    observadas en los valores obtenidos al aplicar el nomograma y la correspondiente    ecuación (Figura 5). Con la excepción del gráfico de FEF25-75,    en que se observa valores algo mayores en el nomograma (aunque sin diferencias    estadísticamente signifcativas), el resto de los parámetros de función pulmonar    se comportan de forma similar tanto para el nomograma como en los valores obtenidos    directamente a partir de las ecuaciones.     
+
+   
+
+Conclusiones Se logró obtener    nomogramas confiables para el cálculo del valor teórico esperado para cada variable    espirométrica, los que no diferen del valor entregado por la ecuación; esto    es de particular importancia considerando que aún las ecuaciones calculadas    no están incorporadas en el software correspondiente de los espirómetros. Para su utilización    simplemente se necesita un lápiz y una regla. Se debe trazar una recta entre    la edad y la talla, obteniendo el valor de cada parámetro en el punto en que    se cruza esta recta. Agradecimientos Los autores agradecen    al Sr. Jorge Gutiérrez por el diseño de la fórmula matemática para grafcar los    nomogramas y su valiosa ayuda en aplicarla. Bibliografía 1.- PELLEGRINO    R, VIEGI G, BRUSASCO V, CRAPO R O, BURGOS F, CASABURI R, et al. Interpretative    strategies for lung function test. Eur Respir J 2005; 26: 948-68.        [ Links ]2.- PÉREZ-PADILLA    R, VALDIVIA G, MUIÑO A, LÓPEZ M, MÁRQUEZ M, MONTES DE OCA M, et al. Valores    de referencia espirométrica en cinco grandes ciudades de Latinoamérica para    sujetos de 40 o más años de edad. Arch Bronconeumol 2006; 42: 317-25.        [ Links ]3.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Ecuaciones de referencia espirométrica en población    chilena. Rev Chil Enf Respir 1997; 13: 165-77.        [ Links ]4.- BLAND J M,    ALTMAN D G. Statistical methods for assessing agreement between two methods    of clinical measurement. Lancet 1986; 327 (8476): 307-10.        [ Links ]5.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Determinación de valores espirométricos en una    población chilena normal mayor de 5 años, a nivel del mar. Rev Med Chile 1996;    124: 1295-306.        [ Links ]Correspondencia    a: Dra. Mónica Gutiérrez Clavería.    
+
+   Hospital Naval Viña del Mar, Jefatura del Laboratorio de Función Pulmonar, Docente    ad honorem Universidad de Valparaíso. 5 norte 1011 dpto 71 Viña del Mar. Teléfono:    32 2471603. E-mail: mgancaroe@gmail.com 
+
+Se comparó, mediante    test t de Student para muestras pareadas, la lectura del nomograma para cada    variable versus el valor entregado al resolver la ecuación, no encontrando    diferencias clínicas ni estadísticamente signifcativas (p > 0,05) en los    4 nomogramas diseñados (Tabla 3). También se realizaron    gráfcos de Bland-Altman para detectar la existencia de algún patrón en las diferencias    observadas en los valores obtenidos al aplicar el nomograma y la correspondiente    ecuación (Figura 5). Con la excepción del gráfico de FEF25-75,    en que se observa valores algo mayores en el nomograma (aunque sin diferencias    estadísticamente signifcativas), el resto de los parámetros de función pulmonar    se comportan de forma similar tanto para el nomograma como en los valores obtenidos    directamente a partir de las ecuaciones.     
+
+   
+
+Conclusiones Se logró obtener    nomogramas confiables para el cálculo del valor teórico esperado para cada variable    espirométrica, los que no diferen del valor entregado por la ecuación; esto    es de particular importancia considerando que aún las ecuaciones calculadas    no están incorporadas en el software correspondiente de los espirómetros. Para su utilización    simplemente se necesita un lápiz y una regla. Se debe trazar una recta entre    la edad y la talla, obteniendo el valor de cada parámetro en el punto en que    se cruza esta recta. Agradecimientos Los autores agradecen    al Sr. Jorge Gutiérrez por el diseño de la fórmula matemática para grafcar los    nomogramas y su valiosa ayuda en aplicarla. Bibliografía 1.- PELLEGRINO    R, VIEGI G, BRUSASCO V, CRAPO R O, BURGOS F, CASABURI R, et al. Interpretative    strategies for lung function test. Eur Respir J 2005; 26: 948-68.        [ Links ]2.- PÉREZ-PADILLA    R, VALDIVIA G, MUIÑO A, LÓPEZ M, MÁRQUEZ M, MONTES DE OCA M, et al. Valores    de referencia espirométrica en cinco grandes ciudades de Latinoamérica para    sujetos de 40 o más años de edad. Arch Bronconeumol 2006; 42: 317-25.        [ Links ]3.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Ecuaciones de referencia espirométrica en población    chilena. Rev Chil Enf Respir 1997; 13: 165-77.        [ Links ]4.- BLAND J M,    ALTMAN D G. Statistical methods for assessing agreement between two methods    of clinical measurement. Lancet 1986; 327 (8476): 307-10.        [ Links ]5.- GUTIÉRREZ M,    RIOSECO F, ROJAS A, CASANOVA D. Determinación de valores espirométricos en una    población chilena normal mayor de 5 años, a nivel del mar. Rev Med Chile 1996;    124: 1295-306.        [ Links ]Correspondencia    a: Dra. Mónica Gutiérrez Clavería.    
+
+   Hospital Naval Viña del Mar, Jefatura del Laboratorio de Función Pulmonar, Docente    ad honorem Universidad de Valparaíso. 5 norte 1011 dpto 71 Viña del Mar. Teléfono:    32 2471603. E-mail: mgancaroe@gmail.com 
+
+   
+
+   
+
+Conclusiones
+
+Se logró obtener    nomogramas confiables para el cálculo del valor teórico esperado para cada variable    espirométrica, los que no diferen del valor entregado por la ecuación; esto    es de particular importancia considerando que aún las ecuaciones calculadas    no están incorporadas en el software correspondiente de los espirómetros.
+
+Para su utilización    simplemente se necesita un lápiz y una regla. Se debe trazar una recta entre    la edad y la talla, obteniendo el valor de cada parámetro en el punto en que    se cruza esta recta.
+
+Agradecimientos

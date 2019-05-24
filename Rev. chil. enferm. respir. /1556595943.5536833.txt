@@ -1,0 +1,100 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482015000200010
+Ensayo Xpert MTB/RIF en el diagnóstico de tuberculosis
+
+Resumen
+
+Xpert MTB/RIF es un método automatizado basado en la reacción de la polimerasa en cadena que permite en menos de dos horas detectar la presencia de ADN de Mycobacterium tuberculosis y, además, informa la susceptibilidad a la Rifampicina. Esta técnica, que está disponible en el Instituto Nacional del Tórax (INT) desde hace dos años, tiene una buena sensibilidad y una mejor especificidad en muestras respiratorias. En muestras no respiratorias el rendimiento, aunque inferior, sigue siendo clínicamente útil. Se analizaron 529 muestras enviadas al Laboratorio de Tuberculosis del INT, comparándolas con el cultivo de Koch en medio sólido que es el "gold standard". El 73% (384) de las muestras fueron respiratorias y sólo 145 (27%) no respiratorias (líquido pleural, orina y líquido cefalorraquídeo). Del total de las muestras, 43 resultaron positivas para tuberculosis, de ellas, 33 eran de origen respiratorio y 10 no respiratorio. Todos los pacientes que tenían baciloscopias positivas fueron confirmados por el Xpert. De los 17 enfermos con baciloscopias negativas y cultivos positivos, 15 fueron detectados con el Xpert. De los 351 pacientes con cultivos negativos de las muestras respiratorias, 17 resultaron positivos por el Xpert, pero 8 de éstos estaban en tratamiento o habían tenido una tuberculosis anteriormente. En las muestras no respiratorias, de 10 pacientes con cultivos positivos el Xpert detectó los 10, demostrando también una excelente sensibilidad. En cuanto a la resistencia a Rifampicina, cuando la prevalencia de ésta en una población es baja, como ocurre en Chile, requiere confirmación por las técnicas estándar.
+
+Palabras clave: Diagnóstico de tuberculosis, Xpert MTB/RIF.
+
+ 
+
+Introducción
+
+La tuberculosis (TB) sigue constituyendo un importante problema de salud pública, tanto a nivel nacional como a nivel mundial. Se estima que 9 millones de personas enfermaron de TB en el año 2013 y que 1,5 millones murieron a causa de esta enfermedad. Por otra parte, la TB es la principal causa de muerte en enfermos VIH positivos, ocasionando la cuarta parte de las muertes en estos pacientes.
+
+La emergencia y diseminación de cepas de Mycobacterium tuberculosis resistentes a diferentes drogas, representa actualmente un serio problema para el control mundial de la TB, por lo que el diagnóstico temprano de una TB activa y la detección precoz de cepas multi-resistentes (TB-MDR) es esencial para interrumpir su trasmisión. Se estima que el año 2013, 480.000 personas desarrollaron a nivel mundial una TB-MDR, definida como resistencia simultánea a Rifampicina e Isoniacida y que sólo un 10% de ellas habría recibido una terapia adecuada. Más de 170.000 de estos pacientes murieron por esta causa el mismo año.
+
+La principal limitación de los Programas de Control de la Tuberculosis son las dificultades para hacer el diagnóstico temprano de la enfermedad. Tradicionalmente, la baciloscopia ha sido el método inicial para el diagnóstico de la TB por su simplicidad, rapidez de procesamiento y bajo costo. Sin embargo, su baja sensibilidad (45-80% de los casos positivos al cultivo), justamente menor en los países de baja incidencia de TB como Chile, limita la utilidad de esta técnica. Por otra parte, los cultivos son más sensibles, pero requieren de técnicas más complejas, que demoran entre 30 y 60 días en demostrar el desarrollo micobacteriano. Por eso, en los últimos decenios se han desarrollado nuevos métodos de diagnóstico de la TB que intentan superar las limitaciones de la baciloscopia y del cultivo.
+
+La empresa Cepheid, Inc. (Sunnyvale, California, EE.UU.) desarrolló la técnica xpert MTB/RIF, que es un test automatizado para el diagnóstico de tuberculosis basado en la detección de ácidos nucleicos específicos del bacilo de Koch, con cartuchos, en cualquier muestra orgánica. Simplifica la identificación de ADN micobacteriano, integrando y automatizando los 3 procesos requeridos para pruebas moleculares basadas en PCR: extracción, amplificación y detección. Reduce la complejidad de las pruebas moleculares, el riesgo de contaminación cruzada y las limitaciones de bioseguridad, detectando la presencia de M. tuberculosis directamente de una muestra en menos de 2 h. Esta técnica tiene una muy buena sensibilidad y especificidad1,2. Además, es capaz de identificar como blanco al gen rpoB, que codifica para la resistencia a la Rifampicina1.
+
+Diagnosticar la resistencia a Rifampicina (R) es muy importante, ya que más del 90% de los bacilos con resistencia a este fármaco la tienen también a la Isoniacida y, por lo tanto, son portadores de TB-MDR. Facilita la detección de resistencia a la R el hecho que este fármaco tenga sólo un gen que codifica para la resistencia, a diferencia de la Isoniacida (I), que tiene varios genes involucrados. En la literatura se señala que la sensibilidad para detectar la resistencia a la R con este método es de 95% aproximadamente, pero con una especificidad menor3.
+
+El Grupo Asesor Técnico y Estratégico sobre Tuberculosis (STAG-TB) que se reunió entre el 27 y el 29 de septiembre de 2010, avaló las recomendaciones del Grupo de Expertos de la organización Mundial de la Salud y recomendó la amplia implementación del xpert MTB/RIF, negociando además con Cepheid un descuento en su costo para los países en desarrollo.
+
+El Instituto Nacional del Tórax (INT) cuenta con esta tecnología desde hace dos años y está preparado para recibir diversas muestras orgánicas de todo el país.
+
+El objetivo de este trabajo fue evaluar el rendimiento diagnóstico del xpert para el diagnóstico de TB en muestras respiratorias y no respiratorias y, además, determinar la precisión de esta técnica para detectar la resistencia a R en dichas muestras.
+
+Material y Métodos 
+
+Se analizaron en forma retrospectiva las muestras respiratorias y no respiratorias recibidas por el Laboratorio de Tuberculosis del INT entre abril de 2013 y diciembre de 2014. A todas ellas se les practicó baciloscopia, Xpert MTB/RIF y cultivo de Koch.
+
+Las baciloscopías de expectoración fueron examinadas por microscopía fluorescente, mediante la técnica de batido y tinción con auramina-rodamina (Becton-Dickinson). Las muestras de expectoración que resultaron positivas fueron reteñidas con tinción de Becton-Dickinson. Las muestras de líquidos orgánicos (con volúmenes mayores a 3 mL) y de orina, fueron centrifugadas a 3.000 g por 30 min y una gota del sedimento fue depositada en un portaobjeto, secada a temperatura ambiente y fijada con metanol5.
+
+Todas las muestras que no correspondían a expectoración fueron teñidas con tinción de Becton-Dickinson y leídas en un microscopio Olympus BX-405.
+
+Las muestras fueron procesadas con el kit Xpert MTB/RIF, mezclando 1 mL de la muestra y 2 ml de reactivo, los que fueron agitados manualmente 20 veces en 2 oportunidades, seguido de una incubación de 15 y 5 min respectivamente a temperatura ambiente. Posteriormente, se tomaron 2 mL de la muestra así tratada y se agregaron al cartucho Xpert MTB/RIF para ser cargadas en el equipo4.
+
+Los cultivos de Koch fueron realizados mediante el método de Petroff modificado y sembrados en medio Lowenstein-Jensen (Becton-Dickinson)6.
+
+El análisis estadístico se efectuó utilizando como gold estandard de la existencia de tuberculosis en el cultivo positivo. La detección de resistencia a la Rifampicina se confirmó también con los procedimientos fenotípicos clásicos, según el método de las proporciones, en el Instituto de Salud Pública (ISP).
+
+Se calculó la sensibilidad (S) y especificidad (E), del Xpert para baciloscopías positivas y negativas en muestras respiratorias y no respiratorias (Tablas 1 y 2). También se estudiaron las muestras con resistencia a la Rifampicina.
+
+Resultados
+
+Se analizó un total de 529 muestras. Previamente se descartaron 3 muestras en las que se detectó M. Avium complex. De las 529 muestras 384 (73%) fueron respiratorias y 145 (27%) no respiratorias.
+
+De las 384 muestras respiratorias, 89 fueron de expectoración, 74 de aspirado bronquial y 221 de lavado bronco-alveolar, y de las 145 no respiratorias 55 fueron de líquido pleural, 48 de líquido cefalorraquídeo, 10 de orina y 32 de otros líquidos orgánicos.
+
+Un total de 43 (8%) de las 529 muestras estudiadas fueron positivas para M. tuberculosis (33 respiratorias y 10 no respiratorias).
+
+En las Tablas 1 y 2 se muestran los resultados de las muestras respiratorias y las no respiratorias, con sus respectivas sensibilidades y especificidades.
+
+El Xpert detectó 15 de 17 casos con baciloscopia negativa y cultivo positivo, lo que le da una sensibilidad de 88,2% para las muestras respiratorias con baciloscopia negativa.
+
+Se detectaron 12 muestras con resistencia a la R, 8 respiratorias y 4 no respiratorias. De las 8 muestras respiratorias con resistencia a la R según el test Xpert, 7 fueron resistentes según el Instituto de Salud Pública (ISP) y uno resultó con cultivo negativo. De las 7 resistentes en el test Xpert, 6 correspondieron a 4 pacientes con TB-MDR. De las 4 muestras no respiratorias resistentes según el test Xpert , dos resultaron sensibles por el método de las proporciones y dos tuvieron cultivo negativo.
+
+Discusión
+
+El método más simple y económico para el diagnóstico de tuberculosis sigue siendo hasta ahora la baciloscopía. El cultivo de Koch, aún con medios líquidos más modernos, es todavía demasiado lento en sus resultados.
+
+La biología molecular ha contribuido en forma muy importante, no sólo al diagnóstico de la tuberculosis, sino también al estudio de la resistencia a las drogas y también tiene gran utilidad con fines epidemiológicos, ya que hoy es posible discriminar entre las diferentes cepas que afectan a los enfermos7.
+
+El Xpert es un método basado en la biología molecular que detecta en menos de dos horas la presencia de bacilos tuberculosos en diferentes fluidos orgánicos, con el agregado que permite identificar la resistencia a R. Diferentes estudios han demostrado que esta técnica tiene una buena sensibilidad y una mejor especificidad para ambos objetivos7.
+
+En nuestra serie la sensibilidad para detectar en la expectoración o en lavado bronco- alveolar el bacilo de Koch, fue de un 93,94%, utilizando el cultivo como gold standard (Tabla 1). En las muestras no respiratorias la sensibilidad en general es menor8, aunque entre nosotros fue de 100% (Tabla 2). Esto se puede explicar por el escaso número de muestras y por el sesgo que tienen éstas, dado que todos los casos que se derivan a nuestra institución tienen una alta sospecha de tuberculosis.
+
+ 
+
+Tabla 1. Muestras respiratorias (n = 384): sensibilidad          y especificidad del ensayo Xpert para cultivos positivos          y negativos de M. Tuberculosis
+
+
+
+Sensibilidad 93,94%. Especificidad 95,16%.
+
+ 
+
+Tabla 2. Muestras no respiratorias (n = 145): sensibilidad          y especificidad del ensayo Xpert para cultivos positivos          y negativos de M. Tuberculosis
+
+
+
+Sensibilidad 100%. Especificidad 94,07%.
+
+ 
+
+Aún en los pacientes que tienen baciloscopia negativa y sólo cultivo positivo, la sensibilidad fue de 88,2%, cifra que concuerda con la reportada en la literatura, lo que confirma las bondades de la técnica y permite iniciar una terapia antituberculosa precoz, sin tener que esperar el resultado de los cultivos9,10. Los enfermos inmunodeprimidos son un grupo especial, en los cuales la confirmación del diagnóstico de TB es más urgente y por tanto el Xpert puede ser más útil11.
+
+Por otra parte, el Xpert tiene una alta especificidad para el diagnóstico de tuberculosis, la que en nuestra serie fue de 95% en las muestras respiratorias (Tabla 1) y 94% en las no respiratorias (Tabla 2), considerando como gold standard la positividad del cultivo.
+
+Considerando el costo de este examen, no debería ser indicado a todos los pacientes a quienes se les solicita una baciloscopia, sino sólo en aquellos con sospecha fundada de tuberculosis en los cuales las baciloscopias sean negativas. Dada su alta especificidad también está indicado cuando se sospecha una micobacteria no tuberculosa. Así en enfermos que tienen una baciloscopia positiva, si el Xpert es negativo, confirmaría que se trata de otra micobacteria. Esto es particularmente útil en pacientes VIH (+) y en portadores de bronquiectasias11.
+
+Como es un método muy sensible no está indicado en enfermos que hayan tenido una tuberculosis, porque por ser una técnica de PCR, cualquier residuo de DNA micobacteriano que haya quedado del pasado será amplificado muchas veces y puede dar un resultado falso positivo. En nuestra serie, 8 de los pacientes con test Xpert positivo y cultivo negativo eran enfermos que habían sido antes tratados o estaban en tratamiento por TB. En los otros 9 con examen falso positivo, no nos fue posible conocer sus antecedentes, por tratarse de muestras externas derivadas al INT con datos incompletos.
+
+Otra indicación importante de este examen es cuando se sospecha resistencia a la R, dada la importancia de detectarla precozmente, porque orienta hacia el diagnóstico de TB Multi-Drogo-Resistente (TB-MDR) o de TB Extensamente-Drogo-Resistente (TB-XDR), las que requieren de tratamientos muy diferentes11. Sin embargo, en Chile, por razones que no se conocen, se ha detectado un número inusual de casos con mono-rresistencia a la R (el año 2014 hubo 15 casos de TB-MDR y 8 casos de resistencia aislada a R).
+
+Por otra parte, es importante señalar que en países como el nuestro, donde la resistencia a la R es menor al 1% en los casos nuevos, un xpert positivo requiere ser confirmado en el ISP, porque puede ser un falso positivo. En nuestro estudio se detectó resistencia a R por el test Xpert en 12 pacientes, pero sólo en 7 de ellos se confirmó en el ISP. Se estima que cuando la prevalencia de la resistencia a la R es menor al 2% en una población, un test positivo tiene 50% de posibilidades de ser un error de laboratorio, por lo que antes de asumir el diagnóstico de TB-MDR por el test Xpert y cambiar el esquema de tratamiento, debe esperarse la confirmación en el ISP por los métodos convencionales.
+
+En resumen, podemos decir que el test Xpert es una contribución muy importante para el diagnóstico de la TB, tanto en muestras de origen respiratorio como en las de otros orígenes. Atoque entre nosotros la resistencia a la R, no es un problema mayor, ésta técnica también nos entrega en forma precoz información relevante.

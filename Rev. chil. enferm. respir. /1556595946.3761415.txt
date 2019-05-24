@@ -1,0 +1,244 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482017000400308
+Mecanismos regulatorios del tono vascular pulmonar neonatal. Una perspectiva molecular
+
+Introducción
+
+Durante la vida intrauterina, la circulación pulmonar fetal está caracterizada por una resistencia vascular alta y un flujo sanguíneo pulmonar bajo, de tal manera que solo alrededor del 10% del gasto cardiaco combinado fluye a través de los pulmones, mientras el intercambio gaseoso de la sangre fetal se realiza en la placenta1. El bajo flujo sanguíneo pulmonar y la elevada resistencia vascular pulmonar fetal dependen de varios factores tales como: la alta presión extraluminal alrededor de la vasculatura pulmonar, debido a que los pulmones están llenos de líquido; un contenido relativamente bajo en sustancias vasodilatadoras, como lo son el óxido nítrico (NO) y prostaciclina (PGI2), y particularmente por la baja presión de oxígeno (PO2 12-15 mmHg a nivel del mar) en la circulación fetal2,3.
+
+La transición neonatal desde la vida fetal hacia los primeros días de vida está determinada por cambios fisiológicos importantes en las funciones hemodinámicas iniciadas por el trabajo de parto, la ventilación pulmonar, y el pinzado del cordón umbilical, pero muy especialmente por el aumento de la PO2 en los alvéolos y en la sangre pulmonar4. La eliminación y absorción de líquidos pulmonares y la ventilación, son claves no solo para el establecimiento de la capacidad residual funcional (CRF), que permite evitar el colapso alveolar, sino también y especialmente para el descenso de la resistencia vascular pulmonar.
+
+La circulación pulmonar se transforma rápidamente, de un sistema de bajo flujo y alta resistencia, a uno de alto flujo y baja resistencia, produciéndose el cierre funcional de las comunicaciones anatómicas como el ductus arteriosus y el foramen ovale. Estos eventos, pero muy en particular el incremento de la PO2, generan aumentos en la expresión y la actividad de mecanismos de señalización de un número de moléculas vasodilatadoras como PGI2 y NO, y una disminución de mecanismos vasoconstrictores como endotelina-1 (ET-1) y el factor activador de plaquetas3,5,6. Conjuntamente, se produce un notable remodelamiento fisiológico de la estructura de las arterias pulmonares, cuya principal característica es el adelgazamiento de la pared arterial pulmonar, como resultado de una disminución en el número de células de músculo liso arterial pulmonar, y un aplanamiento de las células endoteliales pulmonares, entre otros mecanismos3,7,8.
+
+El tono vascular pulmonar basal es regulado por un delicado equilibrio entre agentes vasoconstrictores (ET-1, Serotonina y tromboxano) y agentes vasodilatadores (NO, CO, cGMP, PGI2). En esta revisión, profundizaremos en los mecanismos moleculares que participan en la regulación local del tono vascular pulmonar neonatal.
+
+Aspectos básicos de la vasoconstricción
+
+Se define la contracción de los vasos sanguíneos como la disminución del lumen vascular, mediante la formación del puente entre las fibras de actina y la cadena liviana de la miosina en las células musculares lisas (CML), y que es regulada mediante la activación de receptores ubicados en las células endoteliales o las CML. Los factores que participan en estimular la vasoconstricción pueden ser de distintas naturalezas u orígenes, por ejemplo, pueden ser físicos por estimulación directa de las células endoteliales (shear stress o deformación por el esfuerzo), o químicos donde se estimulan los receptores de la célula muscular lisa (serotonina, tromboxano y endotelina).
+
+Vasoconstricción dependiente de calcio
+
+La contracción de las CML depende de la fosforilación de la cadena liviana de miosina, proceso que le permitirá la interacción con los filamentos de actina9. La quinasa de la cadena liviana de miosina (QCLM) es una enzima dependiente de Ca2+ y calmodulina (formación del complejo CaMq), y esta podría activarse con cualquier estímulo que promueva un aumento de la concentración citosplamática de Ca2+ (10).
+
+La activación de los receptores de agonistas pro-vasoconstrictores, inducen la activación de las proteínas G y estas a su vez, activan las fosfolipasas, formándose PIP2, (fosfatidil inositol 4,5-bifosfato) a partir del cual se formarán IP3 (inositol trifosfato) y DAG (diacilglicerol). El aumento en la producción de IP3, permitirá que se una a su receptor, presente en canales de calcio en el retículo sarcoplásmico, liberando este ión hacia el compartimiento intracelular. El aumento de calcio es detectado por calmodulina, formando el complejo Ca-calmodulina. Este complejo, actuará de dos maneras: 1) Activando la quinasa de la cadena liviana de la miosina (QCML), fosforilando a la cadena liviana de la miosina y generando la interacción de miosina con actina, produciendo finalmente la vasoconstricción; 2) Activando a enzimas que mantienen inhibida la acción de la miosina ATPasa en concentraciones bajas de Ca2+, por lo que se libera la inhibición de la miosina ATPasa y se facilita la generación de puentes entre actina y miosina10 (Figura 1).
+
+Figura 1 Esquema de las principales vías vasoconstrictoras y vasodilatadoras que gobiernan el tono vascular pulmonar neonatal (ver texto). Abreviaturas: M3: Receptor muscarinico M3; PLA: fosfolipasa A; PLC: fosfolipasa C; AA: ácido araquidónico; COX: ciclo-oxigenasa; PGI2: prostaciclina; TXS: Tromboxano sintasa; TXA2: Tromboxano A2; PIP2: fosfoinositol bifosfato; IP3. Fosfoinositol trifosfato; RE: reticulo endoplasmico; eNOS:NO sintasa endotelial; HO. Hemooxigenasa; L-Arg: L- arginina. 5HT: Serotonina; ET-1: endotelina 1; SOC: store operated channel; ROCK: quinasa de RhoA, CaM: calmodulina; SERCA: sarco/endoplasmic reticulum Ca+2 ATPase; MLCK: cadena ligera de miosina quinasa; MLC: cadena liviana de miosina; MLCP: fosfatasa de la cadena liviana de miosina; PDE-5: fosfodiesterasa 5; sGC: guanil ciclasa soluble; cGMP: Guanosín Monofosfato cíclico, GTP: guanosín trifosfato; PKG: Proteína Quinasa dependiente de cGMP; BKA: Canal de potasio dependiente de calcio de gran conductancia. 
+
+En la membrana del retículo sarcoplasmático se encuentran las moléculas de interacción estromal (STIM), moléculas encargadas de detectar el vaciamiento de calcio reticular. Cuando el Ca2+ reticular es liberado por algún estímulo, STIM oligomeriza y transloca hacia las zonas punctae del retículo, permitiendo así una interacción con la membrana plasmática de la CML. Esta acción permitirá la unión física con homo o heterotertrámeros de TRPC (Transient Receptor Potential Cation Channel Subfamily C) u ORAI (término de la mitología griega que significa ‘el guardador de llaves’), gatillando la entrada de Ca2++ desde el espacio extracelular hacia el intracelular, proceso conocido como “entrada de calcio operada por depósito” (SOCE, del inglés Store Operated Calcium Entry)11,12(Figura 1).
+
+Por otra parte, el aumento de Ca2+ intracelular participa en la activación de enzimas quinasas, a través de proteína quinasa C, que fosforilan enzimas fosforiladoras (CPI-17), que a su vez también puede ser fosforilada por ROCK, (quinasa de RhoA) amplificando y prolongando la señalización. CPI-17 fosforila a la fosfatasa de la cadena liviana de la miosina (MLCp) en la unidad catalítica de MYPT1 (myosin phosphatase targeting protein), inhibiendo su efecto fosfatasa y generando vasoconstricción9,13,14. Otra vía de aumento de calcio intracelular son los canales de calcio sensibles a voltaje, tipo L y T. La apertura de estos canales dependerá de cambios en el potencial de membrana. Específicamente, cualquier estímulo que genere una despolarización de la membrana plasmática, permitirá la apertura de estos canales, gatillando así la entrada de calcio del espacio extracelular al intracelular15.
+
+Los canales receptores de rianodina (RYR) se encuentran en la membrana del retículo sarcoplásmico, estos canales detectan el aumento de Ca2++ intracelular generado por los mecanismos anteriormente descritos, y liberan Ca2++ al intracelular desde el retículo sarcoplásmico, por lo que contribuyen al incrementos de Ca intracelular en zonas específicas de la CML y durante breves momentos (Ca spark o centelleo de calcio), el mecanismo de apertura de estos canales es mediante fosforilación por quinasas (PKA), las que a su vez son activadas por proteínas G. Por último, la bomba Ca-ATPasa SERCA (sarco/endoplasmic reticulum Ca2++-ATPase), que hace que ingrese Ca2++ al interior del retículo sarcoplasmático, se encuentra inhibida por fosfolamban, manteniendo los niveles de calcio intracelular altos16. La actividad de la SERCA2a está bajo el control de una fosfoproteína de 52 aminoácidos, asociada a la membrana del retículo sarcoplásmico, denominada fosfolamban (PLB). En su estado desfosforilado, fosfolamban inhibe a la SERCA2a y el transporte de Ca2++ hacia el retículo sarcoplásmico.
+
+Mecanismo independiente de calcio
+
+En condiciones de concentración de calcio intracelular constante, la vasoconstricción de la célula muscular lisa está asociada a una sensibilización al calcio, que es un importante factor en la respuesta constrictora, pues se asocia a muchos agonistas y a proteínas quinasas que median esta respuesta. Este mecanismo es comandado por la fosforilación de la cadena liviana de la miosina (MLC: myosin light chain), al existir una unión entre receptores transmembrana de agonistas vasoconstrictores ligados a proteínas G y distintos agentes vasoconstrictores, tales como endotelina (ET-1) y sus receptores en células musculares lisas, tromboxano (TXA2) y Serotonina (5HT), entre otros3.
+
+La vasoconstricción independiente de calcio, al igual que la dependiente, involucra proteínas G, las que activan enzimas RhoA-GTP asas, que inducen la activación de las enzimas ROCK, que son una familia de serina/treonina quinasa, que participa en la fosforilación de distintas proteínas, que regulan la vasocontracción y la proliferación de las células musculares lisas pulmonares, dentro de estas proteínas, ROCK fosforila a CPI-17, que es una proteína inhibitoria endógena de la fosfatasa de la miosina. La CPI-17 se une a la unidad catalítica de MYPT1, inhibiendo a MYPT1, específicamente, fosforila a MYPT1 en dos treoninas, afectando la unidad regulatoria y por ende la desfosforilación de MLC, manteniendo la vasoconstricción14,17,18.
+
+Los receptores, de los agonistas vasoconstrictores, de las células musculares se encuentran unidas a fosfolipasa C (PLC) o al homólogo de la familia génica Ras. Las proteínas Ras son una parte de una gran familia de GTPasas. En los seres humanos, la superfamilia Ras se divide en 6 subfamilias: Ras, Rho, Arf, Rab, Ran y Rad. En este caso se trata del miembro A (RhoA) dependiendo del agonista a unir, en el caso de la Endotelina (ET-1) los receptores son ETA y ETB y están ligados a una PLC al igual que los receptores de Serotonina (5HT) 5HT1B/D, 5HT2A y 5HT2B que están ligados a una PLC19,20 (Figura 1).
+
+Agonistas vasoconstrictores
+
+Los principales agentes vasoconstrictores de la circulación pulmonar neonatal son endotelina-1 (ET-1), serotonina (5-HT) y tromboxano. La endotelina-1, es un potente vasoconstrictor, de naturaleza polipéptidica, de 21 aminoácidos producido principalmente por las células endoteliales3. Además, ET-1 presenta propiedades mitogénicas e hipertróficas, a través de estimular la proliferación, migración, contracción, remodelamiento de la matriz extracelular y la secreción de factores de crecimiento y mediadores inflamatorios en las células musculares lisas3. Ejerce su efecto de una manera autocrina y paracrina a través de la activación de sus dos subtipos de receptores, ETA y ETB. Ambos receptores pertenecen a la gran familia de receptores transmembrana acoplados a proteínas G. Los receptores ETA están altamente expresados en las células musculares lisas de vasos sanguíneos, mientras que los receptores ETB son los predominantes en las células endoteliales, y ambos receptores exhiben roles fisiológicos relativamente distintos. La activación de receptores ETA por ET-1 contribuye a la vasoconstricción, estimulando ambas vías de la contracción, la dependiente y la independiente de calcio, además estimula el crecimiento y la adhesión celular, mientras que la unión de ET-1 a ETB lleva a una vasodilatación por liberación de óxido nítrico (NO) y prostaciclinas, induciendo la respuesta vasodilatadora dependiente de endotelio3.
+
+La serotonina (5-HT), tiene un importante papel en el período fetal en la mantención de la resistencia vascular pulmonar elevada21, y posterior al nacimiento sus niveles disminuyen21,22. La respuesta celular de 5HT es a través del aumento de la actividad de la PLC acoplada a proteína Gq, produciendo diacilglicerol e inositol 1,4,5 - trifosfato (IP3)23. IP3 se une a receptores específicos del retículo endoplásmico, produciendo la liberación de calcio (Ca2+), aumentando la concentración del calcio citosólico ([Ca+2]i). Este aumento de [Ca2++]i junto a diacilglicerol activan a la proteína quinasa C (PKC), que fosforila proteínas específicas23,24 (Figura 1).
+
+El tromboxano A2 (TxA2) es un prostanoide inestable, metabolito del ácido araquidónico (AA)25. Puede ser producido en el endotelio por acción de la enzima tromboxano sintasa (TXS), y activa los receptores de tromboxano A2 en la membrana del musculo liso. Estos, se encuentran unidos a una molécula de RhoA, esta última es la que activa la Rho Quinasa (ROCK), que a su vez fosforila la MLCK (quinasa de la cadena ligera o liviana de miosina), activándola e induciendo finalmente la vasocontracción19,20. Además, la cascada de señalización mediada por tromboxano se inicia con la unión al receptor específico de membrana acoplado a proteína G, que induce la ruptura del fosfatidilinositol 4,5 bisfosfato, vía fosfolipasa C (PLC), generando inositol trisfosfato (IP3), y continuando a través de la vía dependiente de calcio. La acción de la PLC origina también la producción de diacilglicerol (DAG), el cual activa a la proteína kinasa C (PKC). Las vías de activación mediadas por Ca+2 y por proteína quinasa (PKC) actúan de modo sinérgico, produciendo efectos en términos de activación celular y consecuentemente en la contracción del musculo liso vascular25 (Figura 1).
+
+Aspectos básicos de la vasodilatación.
+
+La relajación del músculo liso permite el aumento del radio del lumen de los vasos sanguíneos. Esta relajación ocurre ya sea como resultados de la remoción del estímulo contráctil, es decir, iniciar la salida del intracelular del Ca2+, hacia el extracelular o al retículo sarcoplásmico, o por una acción directa que inhiba el mecanismo contráctil, o sea, inhibiendo la señalización que finalmente fosforilará la MYPT1, “deteniendo” así la vasoconstricción. En otras palabras, sin importar cuál de los dos sea el involucrado, el proceso de relajación requiere de una disminución del [Ca+2]i, y un aumento en la actividad de la fosfatasa de la cadena liviana de miosina (MLCP).
+
+Dentro de los agentes vasodilatadores más importantes en el período neonatal, encontramos el óxido nítrico (NO), gasotransmisor producido en el endotelio, por la enzima NO sintasa (NOS). Se conocen tres isoformas de NOS, inducible (iNOS), endotelial (eNOS) y neuronal (nNOS). La eNOS es el regulador más importante en la producción de NO en la circulación pulmonar perinatal3. La eNOS cataliza la oxidación de L- arginina a L-citrulina, que involucra la activación de una molécula de oxígeno (O2) gracias a la presencia de tetrahidrobiopterina (H4B), que al ser reducida permite la formación de NO, este gas difunde a la vecina célula muscular lisa, donde estimula a la Guanilato Ciclasa Soluble (sGC) catalizando la producción de Guanosín Monofosfato cíclico (cGMP), el segundo mensajero predominante en la vía vasodilatadora (28,29). En el endotelio vascular, la Arginasa-2 (Arg-2), compite con la NOS por la L-Arginina, y un predominio de la función arginasa, se asocia con disfunción endotelial26. Además, la función endotelial durante los primeros días de vida parecería no ser óptima, pues la respuesta a metacolina -un análogo no hidrolizable de acetilcolina-mediante la activación de los receptores muscarínicos de la célula endotelial es baja en recién nacidos sanos27,28 (Figura 1).
+
+Otro gasotransmisor que activa la sGC es el monóxido de carbono (CO), aunque de manera menos potente que la activación por NO. Este transmisor es sintetizado por la Hemoxigenasa (HO)29,30. La HO es una enzima microsomal con tres isoformas diferentes, HO-1 es inducida frente a estímulos tales como radiación ultravioleta, peróxido de hidrógeno (H2O2), hipoxia, pro-oxidantes, inflamación, metales pesados y NO30, la HO-2, está normalmente expresada las capas endoteliales y musculares de los vasos sanguíneos y generan CO que modula el tono vascular bajo condiciones fisiológicas, HO-3, comparte una considerable homología con HO-2, aún no tiene una función claramente descrita30 (Figura 1).
+
+La generación de cGMP es mediada por isoformas de la enzima sGC y Guanilato Ciclasa particulada (pGC)3,31. La pGC es estimulada por péptidos natriuréticos31, mientras que, la sGC es estimulada por NO y CO. La sGC puede existir en dos formas distintas, la forma nativa o reducida, contenedora del grupo heme, que es la forma receptora endógena de NO, y la forma oxidada o que pierde el grupo heme, asociada a condiciones del tipo estrés oxidativo e involucrada en el desarrollo de variadas enfermedades cardiovasculares. La forma libre del grupo heme ya no es sensible al NO y se denomina como disfuncional31.
+
+El cGMP activa variados sistemas efectores, tales como la Proteína Quinasa dependiente de cGMP (PKG-1), que fosforila distintas proteínas blancos, que finalmente regulan de manera negativa la contracción mediada por la quinasa Rho A (ROCK-2), inhibiendo la acción de la vía independiente de calcio de la vasoconstricción32,33. ROCK-2 tiene un importante rol en la mediación de la vasoconstricción y el remodelamiento vascular en la patogénesis de la hipertensión pulmonar. ROCK induce la vasoconstricción mediante la fosforilación de la subunidad de la fosfatasa de la cadena liviana de la miosina, por lo tanto, disminuyendo la actividad fosfatásica y aumentando la contracción del músculo liso vascular3 (Figura 1).
+
+Otro agonista vasodilatador de importancia en la circulación pulmonar, durante el período neonatal, es la prostaciclina. Esta juega un papel importante en la salud cardiovascular, específicamente modulando la vasodilatación a través de la relajación del músculo liso, al igual que la PKG-1, inhibe principalmente la ROCK quinasa, bloqueando la vía vasoconstrictora independiente de calcio34. La biosíntesis de la prostaciclina comienza con la liberación de ácido araquidónico (AA) desde la membrana plasmática por fosfolipasa A2 (PLA2), y posteriormente a través de la acción de ciclo-oxigenasas (COXs), catalizan la conversión de AA en prostaglandinas, dentro de las cuales se incluye prostaciclina (PGI2) y tromboxano (TXA2). La síntesis de PGI2 está regulada por diferentes procesos intracelulares, incluyendo la fosforilación por quinasas de proteínas y la modificación de factores de transcripción nucleares34.
+
+La prostaciclina ejerce su efecto a través de su receptor (IP), este está conformado por siete dominios transmembrana acoplado a proteína G estimuladora alfa ligante de guanosina (Gαs)35. Cuando IP es activado por PGI2, estimula a adenilato ciclasa (AC), cuya isoforma más importante a nivel pulmonar es la AC2, incrementando los niveles intracelulares de adenosina-monofosfato cíclico (AMPc). Los niveles incrementados de AMPc conllevan a la activación de la proteína quinasa A (PKA) y posterior fosforilación de proteínas claves. Los efectos de la PGI2 en las células vasculares están mediados por diferentes vías de señalización, incluyendo la vía PGI2/IP/Gs/AMPc clásico y las vías intracrinas que implican receptores nucleares34.
+
+Agradecimientos
+
+Los autores agradecen el apoyo financiero a sus investigaciones otorgado por los proyectos FONDECyT 114064, 1151119 y VID Enlace Universidad de Chile.
+
+Glosario de abreviaturas utilizadas en este artículo
+
+5HT: 
+
+Serotonina
+
+AA: 
+
+Ácido araquidónico
+
+AC: 
+
+Adenilato ciclasa
+
+AMPc: 
+
+Adenosina-monofosfato cíclico
+
+Arg-2: 
+
+Arginasa-2
+
+CaMq: 
+
+Complejo Ca2+ y calmodulina
+
+cGMP: 
+
+Guanosín monofosfato cíclico
+
+CML: 
+
+Células musculares lisas
+
+CO: 
+
+Monóxido de carbono
+
+CPI-17: 
+
+C-kinase-activated protein phosphatase-1inhibitor
+
+CRF: 
+
+Capacidad residual funcional
+
+DAG: 
+
+Diacilglicerol
+
+eNOS: 
+
+Enzima NO sintasa endotelial
+
+ET-1: 
+
+Endotelina-1
+
+Gαs: 
+
+Proteína G estimuladora alfa ligante de guanosina
+
+H2O2: 
+
+Peróxido de hidrógeno
+
+H4B: 
+
+Tetrahidrobiopterina
+
+HO: 
+
+Hemoxigenasa
+
+iNOS: 
+
+Enzima NO sintasa inducible
+
+IP3: 
+
+Inositol trifosfato
+
+MLC: 
+
+Cadena liviana de la miosina (MLC: myosin light chain)
+
+MLCK: 
+
+Cadena ligera o liviana de miosina quinasa
+
+MLCP: 
+
+Fosfatasa de la cadena liviana de la miosina
+
+MYPT1: 
+
+Myosin phosphatase targeting protein
+
+nNOS: 
+
+Enzima NO sintasa neuronal
+
+NO: 
+
+Óxido nítrico
+
+NOS: 
+
+Enzima NO sintasa
+
+PGI2: 
+
+Prostaciclina
+
+PIP2: 
+
+Fosfatidil inositol 4,5-bifosfato
+
+PKA: 
+
+Proteína quinasa A
+
+PKG-1: 
+
+Proteína Quinasa dependiente de cGMP
+
+PLA2: 
+
+Fosfolipasa A2
+
+PLB: 
+
+Fosfolamban
+
+PLC: 
+
+Fosfolipasa C
+
+QCLM: 
+
+Quinasa de la cadena liviana de miosina
+
+ROCK: 
+
+Quinasa de Rho A
+
+RYR: 
+
+Canales receptores de rianodina
+
+SERCA: 
+
+Sarco/endoplasmic reticulum Ca2+-ATPase
+
+sGC: 
+
+Guanilato Ciclasa Soluble
+
+SOCE: 
+
+Store Operated Calcium Entry
+
+STIM: 
+
+Moléculas de interacción estromal
+
+TRPC: 
+
+Transient Receptor Potential Cation Channel
+
+TxA2: 
+
+Tromboxano A2
+
+TXS: 
+
+Tromboxano sintasa

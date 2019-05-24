@@ -1,0 +1,248 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482017000300167
+Guías de Práctica Clínica para el Tratamiento del Tabaquismo, Chile 2017
+
+Introducción
+
+Las Enfermedades Crónicas no Transmisibles como cáncer, enfermedades cardiovasculares, enfermedades respiratorias y diabetes son la epidemia del siglo XXI. El consumo de tabaco es un factor de riesgo común a todas ellas. Chile tiene una historia de alta prevalencia de consume de tabaco en escolares, adolescentes y adultos, al igual que en mujeres embarazadas. Ello produce una elevada carga de enfermedad y mortalidad atribuible al consumo de tabaco, y crecientes e importantes costos económicos derivados del tratamiento de enfermedades relacionadas1-6. Más de 1 billón de pesos es gastado en Chile cada año para tratar los problemas de salud provocados por el tabaco5.
+
+El tabaquismo se considera una enfermedad crónica y una adicción compleja, con componentes físicos, psicológicos y sociales. La nicotina, compuesto orgánico presente en el tabaco, es una de las sustancias más adictivas que existe junto con la cocaína y la heroína7.
+
+En Chile, al momento de confeccionar esta Guía de Práctica Clínica (GPC), existen diversas intervenciones para ayudar al cese del tabaquismo; tanto de tipo no-farmacológico (cognitivo conductuales, entrevista motivacional) entre ellas consejería breve, terapia intensiva, líneas telefónicas (Salud Responde MINSAL 6003607777, este número esta en los envases de cigarrillos), apps, mensajes de texto, sitios web8; como farmacológicas, es decir terapia de reemplazo nicotínico, bupropión, vareniclina y otras de segunda línea. Existen terapias no respaldadas por la evidencia en la actualidad como cigarrillo electrónico, láser, hipnosis, flores de Bach y acupuntura.
+
+Propósito de la GPC, audiencia y población objetivo:
+
+El propósito de esta guía es presentar recomendaciones basadas en evidencia sobre las intervenciones disponibles para dejar de fumar. Su audiencia objetivo corresponde a todos los profesionales de la salud y su población objetivo corresponde a personas fumadoras atendidas en ambientes ambulatorios u hospitalarios, además de poblaciones especiales como embarazadas, adolescentes y pacientes con enfermedad psiquiátrica (compensada por al menos tres meses). Nos parece que se debe focalizar en pacientes de alto riesgo diabéticos, cardiovasculares, respiratorios y con cáncer, tanto en el ambiente ambulatorio como hospitalario.
+
+Método
+
+El panel elaboró y graduó las recomendaciones siguiendo la metodología GRADE, de acuerdo a los estándares propuestos por el Institute of Medicine y la Guidelines International Network9.
+
+Composición del Panel
+
+Mediante invitaciones personales fueron convocados todos los profesionales de la salud de alguna manera involucrados en programas control del tabaco a nivel nacional.
+
+Formulación de preguntas y selección de desenlaces
+
+El panel elaboró preguntas definiendo explícitamente la población de interés, la intervención y la comparación. Luego de un proceso de priorización, se seleccionaron seis preguntas (Tabla 1).
+
+Tabla 1 Preguntas priorizadas para la guía 
+
+Para cada una de las preguntas se seleccionaron los desenlaces de interés siguiendo un proceso estandarizado: primero, el panel identificó todos los posibles desenlaces atingentes, para luego evaluar su importancia relativa para la decisión clínica.
+
+Revisión de la evidencia respecto de los efectos de las intervenciones
+
+Para estimar el efecto relativo de cada intervención, primero se identificó revisiones sistemáticas pertinentes mediante una búsqueda en la biblioteca de la Colaboración Cochrane y en MEDLINE. Luego se realizó una búsqueda de estudios randomizados publicados luego de la fecha de búsqueda de las revisiones sistemáticas encontradas en MEDLINE, EMBASE y CENTRAL (el apéndice 1 describe la estrategia de búsqueda en detalle, link en la nube). Cuando no se identificó algún estudio randomizado no contenido en las revisiones sistemáticas, se utilizó los resultados del meta-análisis original sin cambios. Cuando se identificó uno o más estudios randomizados no contenidos en una revisión sistemática, se actualizó el meta-análisis usando el programa RevMan 5.3 (Version 5.3 Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration, 2014) mediante el método de Mantel-Haenszel y el modelo de efectos aleatorios.
+
+Además, para obtener una estimación del riesgo basal de los distintos desenlaces, se realize una búsqueda electrónica en MEDLINE y EMBASE de estudios observacionales realizados con población chilena (apéndice 1).
+
+Los efectos absolutos de las intervenciones fueron calculados a partir de los riesgos basales identificados en la población chilena y el riesgo relativo obtenido del meta-analisis de los estudios randomizados relevantes.
+
+Para cada desenlace seleccionado, se evaluó la certeza en la evidencia siguiendo la metodología GRADE10. Dos investigadores juzgaron el riesgo de sesgo del conjunto de evidencia, la inconsistencia entre los resultados de los estudios individuales, la precisión de los estimadores combinados en el meta-análisis, la aplicabilidad de la evidencia encontrada a la pregunta y la probabilidad de sesgo de publicación. En el caso de los estudios randomizados incluidos en revisiones sistemáticas se aceptó el juicio de riesgo de sesgo para los estudios individuales de los autores de la revisión. Para los estudios randomizados no incluidos en revisiones sistemáticas, se evaluó el riesgo de sesgo a nivel de cada desenlace siguiendo los principios de la Cochrane Risk of Bias Tool11.
+
+Finalmente, los efectos relativos y absolutos de las intervenciones, así como la evaluación de la certeza de la evidencia se presentaron al panel en una tabla de resumen de evidencia.
+
+Revisión de la evidencia respecto de los valores y preferencias
+
+Para identificar estudios describiendo la importancia relativa de los distintos desenlaces seleccionados, así como de la valoración de los pacientes de las distintas intervenciones, se condujo una búsqueda de estudios observacionales en MEDLINE y EMBASE (apéndice 1).
+
+Determinación de la dirección y fuerza de la recomendación
+
+Para cada una de las preguntas, el panel determinó en consenso la dirección y fuerza de la recomendación siguiendo la metodología GRADE. Para ello se elaboró una tabla de la Evidencia a la Decisión utilizando el programa GRADEpro Guideline Development Tool (McMaster GRADE Center, Hamilton, Ontario, Canadá, 2016). Cada tabla resume la evidencia disponible respecto de los efectos de la intervención, la certeza en la evidencia, los valores y preferencias de los pacientes, así como información respecto a la accesibilidad, aceptabilidad e impacto en la equidad de cada intervención. El panel decidió no incluir evidencia de costos en la determinación de la dirección y fuerza de la recomendación.
+
+Como utilizar esta guía
+
+Las recomendaciones fueron clasificadas como “fuerte” o “condicional”. La Tabla 2 muestra la interpretación correcta de los distintos grados de recomendación.
+
+Tabla 2 Interpretación de recomendaciones fuertes y condicionales 
+
+Recomendaciones
+
+1. ¿Se debe utilizar la consejería breve versus no intervención en fumadores para la cesación del consumo de tabaco?
+
+Recomendación 1: Para todos los fumadores, el panel recomienda usar consejería breve sobre no intervención (recomendación fuerte; certeza moderada en la evidencia de los efectos).
+
+Resumen de la evidencia
+
+Identificamos una revisión sistemática (RS)12 y un estudio clínico aleatorizado (ECA)13 adicional (en el apéndice 2, se encuentra la tabla de resumen de hallazgos (SoF) y la tabla de la evidencia a la decisión [EtD]).
+
+Beneficios
+
+Por cada 100 pacientes en que se efectúa la consejería breve, 5 más dejan de fumar en comparación a cuando no se realiza (certeza moderada).
+
+Riesgos
+
+No se identificó riesgos en relación con el uso de la consejería breve.
+
+Justificación de la recomendación
+
+El panel consideró que, si bien no existe evidencia respecto del efecto de la consejería breve en el pronóstico de los fumadores, el beneficio en dejar de fumar justifica una recomendación fuerte. Además, el panel consideró que la consejería breve es una intervención factible de implementar y que resulta aceptable por pacientes y prestadores.
+
+Consideraciones de implementación
+
+ABC-D:
+
+La consejería breve consiste en realizar el ABC-D y registrar en la ficha clínica14. A: significa averiguar si el paciente fuma o no (debe hacerse en todo consultante independiente del motivo de consulta); B: implica dar un breve consejo firme, personalizado y repetido cada vez que un fumador consulte (en general los pacientes requieren varios intentos para dejar de fumar definitivamente), hablar del mal olor de la ropa, del color amarillo de la piel, dientes y uñas, la producción de arrugas, la sequedad del pelo, infertilidad e impotencia y C: cesación del tabaquismo que quiere decir (I) Referir a consejería telefónica (MINSAL Salud Responde, 6003607777, este número está escrito en los envases de cigarrillos), a un sitio web8, a un centro que tenga implementado tratamiento de cesación del tabaquismo, o (II) Tratar, que implica (1) preguntar al paciente si quiere dejar de fumar de aquí a un mes más, (sólo si la respuesta es positiva existe la motivación para tratamiento) (2) saber cuántos cigarrillos fuma y a qué hora fuma su primer cigarrillo, porque si fuma más de 10 cigarrillos al día o si fuma su primer cigarrillo durante la primera media hora desde que se levanta el paciente requiere fármacos (3) Uso de fármacos (a) en los pacientes con antecedentes o sospecha de patología psiquiátrica inestable se debe pedir autorización de equipo de Salud Mental o al psiquiatra para iniciar un tratamiento farmacológico. Las Guías de Práctica Clínica de Tratamiento de Personas con Depresión del MINSAL15, presentan tres preguntas que pueden ayudar: ¿Se ha sentido cansado o decaído casi todos los días?, ¿Se ha sentido triste, deprimido o pesimista casi todos los días?¿Siente que ya no disfruta o ha perdido en el interés por cosas o actividades que antes le resultaban agradables o entretenidas? La patología psiquiátrica estable por tres meses permite el uso seguro de TRN, bupropión y vareniclina16(b) preguntar por antecedente de convulsiones o traumatismo encéfalo craneano, uso concomitante de nortriptilina o amitriptilina; en estas condiciones está contraindicado el uso de bupropión (4) establecer la fecha para dejar de fumar o “Día D”, (primer día sin fumar), que debe ser máximo hasta un mes más desde la primera consulta, e indicar al paciente que empiece a postergar 10 minutos cada cigarrillo y haga algo que o distraiga (cambiar de actividad, consumiendo, chicles, líquidos, frutas, verduras) (5) Prescribir medicamentos, si esto beneficia al paciente. (6) Seguimiento a la semana para ver tolerancia al fármaco, (ya sea personal o telefónico) y controlar una vez a la semana en 3 ocasiones más14, los mayores riesgos de recaída son durante el primer mes14. Por último, D implica derivar siempre, si es que no dispone de tiempo suficiente para realizar el ABC completo, ya que incluso a los fumadores ocasionales les produce daño el cigarrillo.
+
+2. ¿Se deben utilizar intervenciones basadas en telefonía móvil versus no intervención en fumadores?
+
+Recomendación 2: Para todos los fumadores el panel recomienda usar intervenciones de telefonía móvil sobre no intervención (recomendación fuerte; certeza moderada en la evidencia de los efectos).
+
+Resumen de la evidencia
+
+Identificamos una RS17 y ningún ECA adicional (apéndice 3).
+
+Beneficios
+
+Por cada 100 pacientes en que se utiliza intervenciones de telefonía móvil, 5 más dejan de fumar en comparación a cuando no se realiza (certeza moderada).
+
+Riesgos
+
+No se identificó riesgos en relación al uso de telefonía móvil.
+
+Justificación de la recomendación
+
+El panel consideró que, si bien no existe evidencia respecto del efecto de las intervenciones de telefonía móvil en el pronóstico de los fumadores, el beneficio en dejar de fumar justifica una recomendación fuerte.
+
+Consideraciones de implementación
+
+La mHealth, se refiere al uso de dispositivos móviles como una herramienta de telemedicina, ideal para la promoción, prevención y control de enfermedades, facilitando no sólo la comunicación entre el equipo de salud y los pacientes, sino también entre pacientes y con la red de recursos comunitarios18.
+
+En Chile, un 91% de la población tiene acceso a internet y un 80% de los accesos son a través de dispositivos móviles19. Esto convierte a internet y la telefonía móvil en herramientas particularmente atractivas para intervenciones en salud, con el potencial de contribuir a disminuir las brechas socioeconómicas de acceso a tratamiento de apoyo a la cesación tabáquica en nuestra población19,20.
+
+3. ¿Se deben utilizar intervenciones basadas en mensajes de texto versus no intervención en fumadores?
+
+Recomendación 3: Para todos los fumadores, el panel recomienda usar mensaje de texto sobre no intervención (recomendación fuerte; certeza moderada en la evidencia de los efectos).
+
+Resumen de la evidencia
+
+Identificamos una RS17 y ningún ECA adicional (apéndice 4).
+
+Beneficios
+
+Por cada 100 pacientes en que se utilizan mensajes de texto, 5 más dejan de fumar en comparación a cuando no se realiza (certeza moderada).
+
+Riesgos
+
+No se identificó riesgos en relación con el uso de mensajes de texto.
+
+Justificación de la recomendación
+
+El panel consideró que, si bien no existe evidencia respecto del efecto de la mensajería de texto en el pronóstico de los fumadores, el beneficio en dejar de fumar justifica una recomendación fuerte.
+
+Consideraciones de implementación
+
+Los estudios que implican intervenciones a través de mensajes de texto para el apoyo a la cesación tabáquica, no son directamente extrapolables a contextos sociales y culturales distintos a los de origen (la mayoría provienen de países desarrollados y de habla inglesa), motivo por el cual es necesario desarrollar y evaluar intervenciones de este tipo en nuestra población.
+
+4. ¿Se debe usar terapia de reemplazo nicotínico (TRN) sobre no intervención en individuos con indicación de fármacos y con intención de dejar de fumar?
+
+Recomendación 4: Para los individuos con indicación de fármacos e intención de dejar de fumar, el panel recomienda usar terapia de reemplazo sobre no intervención (recomendación fuerte; certeza moderada en la evidencia de los efectos).
+
+Resumen de la evidencia
+
+Identificamos una RS21 y ningún ECA adicional (apéndice 5).
+
+Beneficios
+
+Por cada 100 pacientes en que se utiliza terapia de reemplazo nicotínico, 5 más dejan de fumar en comparación a cuando no se realiza (certeza alta).
+
+Riesgos
+
+Por cada 100 pacientes en que se utiliza terapia de reemplazo nicotínico, 1 más desarrolla palpitaciones en comparación a cuando no se realiza (certeza moderada).
+
+Justificación de la recomendación
+
+El panel consideró que, si bien no existe evidencia respecto del efecto de la terapia de reemplazo nicotínico a largo plazo, el beneficio en dejar de fumar justifica una recomendación fuerte.
+
+Consideraciones de implementación
+
+La TRN se puede usar como terapia única, combinar entre sus formas rápida (chicles) o lenta (parches) o asociar (en general chicles) con otras drogas como bupropión o vareniclina. Se sugiere utilizar parche de nicotina o bupropión con una forma de administración rápida de TRN para lograr la mayor eficacia. TRN y bupropión, usados como terapia única son de igual eficacia21 Chicles y parches requieren una técnica especial de utilización. Presentación: chicles de 2 y 4 mg, parches de 7, 14 y 21 mg de 24 h de duración, (en la actualidad solo los chicles existen en Chile, los parches estarán disponibles en 2018). Prescripción: TRN se utiliza a partir del “Día D”. Se usa entre 5 a 8 unidades de chicles al día SOS, en general la dosis es de 2 mg para manejo del “craving” o urgencia por fumar, (los pacientes tienden a usar menos chicles de lo que necesitan, por lo que es necesario incentivar el uso). Un cigarrillo es igual a 1 mg de nicotina. En caso de los parches, la dosis se titula de acuerdo con el nivel de adicción, el inicio del tratamiento para los que fuman más de 15 cigarrillos/día o prenden su primer cigarrillo dentro de la primera hora del día es con parches de 21 mg/día y se disminuye cada 2 semanas no recomendándose tiempos superiores a las 8 semanas. La TRN está contraindicada en pacientes inestables hemodinámicamente o con arritmias graves.
+
+Según expertos chilenos, se necesita usar TRN en adolescentes22-27 en forma de chicles de 2 mg por 1 a 2 meses, en adolescentes adictos a la nicotina si ellos quieren y piensan que este fármaco lo puede ayudar. Si una embarazada expresa un claro deseo de recibir TRN22,27, se sugiere (i) discutir con ella los riesgos y beneficios asociados, (ii) utilizarla sólo si falla la cesación con medidas no farmacológicas (terapia cognitiva conductual) y (iii) utilizar el criterio profesional al decidir si ofrecer la prescripción de TRN; iiii) Si bien no existe consenso en el esquema terapéutico a usar en embarazadas, expertos internacionales sugieren lo siguiente:
+
+Partir con chicles de nicotina de 2 mg. Si esto no funciona considerar el uso de parches de nicotina de 24 h de duración que se colocan en la mañana y se retiran en la noche. Si la paciente fuma menos de 10 cigarrillos al día usar 1 parche al día de 7 o 14 mg. Si fuma 10 o más cigarrillos al día partir con 1 parche al día de 14 mg. Evaluar cada 2 semanas y considerar la disminución progresiva de los parches de 14 a 7 mg. Usar por un máximo de 2 meses. Notar que solo se justifica mantener los parches si la paciente se mantiene sin fumar.
+
+Basado en esquema terapéutico usado en The Mayo Clinic Dependence Center, USA y Division of Primary Care, University of Nottingham, England.
+
+En la actualidad los chicles de nicotina existen en Chile pero no estan disponibles en el sistema público.
+
+5. ¿Se debe usar bupropión sobre no intervención en individuos dependientes de nicotina con intención de dejar de fumar?
+
+Recomendación 5: Para todos los fumadores, el panel recomienda usar bupropión sobre no intervención (recomendación fuerte; certeza moderada en la evidencia de los efectos).
+
+Resumen de la evidencia
+
+Identificamos una RS28 y ningún ECA adicional (apéndice 6).
+
+Beneficios
+
+Por cada 100 pacientes en que se utiliza bupropión, 5 más dejan de fumar en comparación a cuando no se realiza (certeza moderada).
+
+Riesgos
+
+Por cada 100 pacientes, no habrá diferencias en cuanto a la cantidad de eventos adversos serios entre el uso de bupropión y no utilizar nada (certeza moderada).
+
+Justificación de la recomendación
+
+El panel consideró que, si bien no existe evidencia respecto del efecto del bupropión en el pronóstico de los fumadores cardiópatas hospitalizados, el beneficio en dejar de fumar justifica una recomendación fuerte.
+
+Consideraciones de implementación
+
+Bupropión
+
+La presentación de bupropión es de 150 mg (administración dos veces al día) y 150 y 300 mg (liberación sostenida se puede tomar 1 vez al día). Indicación una semana antes del prefijado “Día D” (primer día sin fumar) en la forma de 150 mg en la mañana por 3 días, luego 150 mg por 2 veces, última dosis a las 15-16 h o antes, para minimizar insomnio (30-40%). Su tiempo de uso es de 2 a 3 meses, aunque podría ser mayor. Está contraindicado en pacientes con antecedentes de convulsiones, tumores del sistema nervioso central, traumatismo encéfalo craneano, bulimia, anorexia o trastorno bipolar, también está contraindicado usarlo junto a inhibidores de la MAO. No se administra en embarazo ni lactancia. Puede ser usado en conjunto con inhibidores de recaptación de la serotonina. En Adultos mayores reducir dosis a 150 mg al día, al igual que en pacientes con deficiente tolerancia al fármaco.
+
+6. ¿Se debe usar vareniclina sobre no intervención en individuos dependientes de nicotina con intención de dejar de fumar?
+
+Recomendación 6: Para los individuos con intención de dejar de fumar dependientes de nicotina, el panel recomienda usar vareniclina sobre no intervención (recomendación fuerte; certeza moderada en la evidencia de los efectos).
+
+Resumen de la evidencia
+
+Identificamos una RS29 y ningún ECA adicional (apéndice 7).
+
+Beneficios
+
+Por cada 100 pacientes en que se utiliza vareniclina sola, 20 más dejan de fumar en comparación a cuando no se utiliza (certeza moderada).
+
+Riesgos
+
+Por cada 100 pacientes en que se utiliza vareniclina
+
+-. 
+
+			20 más presentarán náuseas en comparación a cuando no se utiliza (certeza alta).
+
+-. 
+
+			4 más presentarán insomnio en comparación a cuando no se utiliza (certeza alta).
+
+-. 
+
+			2 más presentaran cefalea en comparación a cuando no se utiliza (certeza alta).
+
+-. 
+
+			No habrá diferencias en el número de casos de ideación suicida en comparación a cuando no se utiliza (certeza moderada).
+
+Justificación de la recomendación
+
+El panel consideró que, si bien no existe evidencia respecto del efecto de la vareniclina en el pronóstico de los fumadores, el beneficio en dejar de fumar justifica una recomendación fuerte.
+
+Consideraciones de implementación
+
+El panel consideró que los pacientes con mayor dependencia a la nicotina son los que más se beneficiarían del uso de vareniclina. En su inicio, una semana antes del “Día D” se usa una tableta de 0.5 mg en la mañana por 3 días y luego 1 cada 12 del blíster de inicio y luego de una semana se pasa al blíster de mantención, cuyas tabletas son de 1 mg y se usan cada 12 h con desayuno y cena por 2-3 meses o incluso más prolongado. Es el medicamento de primera línea más efectivo, es seguro, con pocos efectos colaterales (náuseas, que aparecen inicialmente y luego se atenúan), se usa en pacientes con clearance de creatinina mayor a 30 ml/min, no se puede usar en embarazo, lactancia ni adolescentes menores de 18 años se puede reducir dosis a la mitad en pacientes con deficiente tolerancia al fármaco. Este medicamento se encuentra en Chile, pero no está disponible en el sistema público en la actualidad.
+
+Discusión
+
+La presente Guía de Práctica Clínica para el Tratamiento del Tabaquismo en Chile (2017) ofrece recomendaciones elaboradas por un grupo multidisciplinario de expertos, basándose su confección en la mejor evidencia disponible. Su enfoque ha sido en intervenciones farmacológicas y no-farmacológicas para la cesación del tabaquismo. Se espera que la implementación de estas recomendaciones contribuya a reducir la prevalencia de consumo de tabaco en Chile, siendo complementarias a las medidas legales (ej. aumento de impuestos al tabaco, espacios cerrados de uso público libres de humo de tabaco, control de la publicidad) que han sido instauradas progresivamente en nuestro país.
+
+Agradecimientos
+
+A Carlos Jiménez R y Gustavo Zabert V por la asesoría internacional en la realización de las primeras Guías de Práctica Clínica de Tratamiento del Tabaquismo, Chile 2017. A Gonzalo Valdivia C. y Sergio Bello S. por su apoyo permanente a la gestión de este proyecto, a Taylor Hays, Robert West y Tim Coleman por su consejo en el uso de TRN en embarazadas, a Stan Shatenstein por su ayuda en búsquedas bibliográficas, a José Luis Corvalán M. y Carmen Barros F. por su colaboración en la edición de estas Guías.
+
+Asesores metodológicos: María Francisca Rodríguez, USS e Ignacio Neumann B., PhD, PUC.
+
+Financiamiento: Los recursos económicos requeridos para la elaboración de esta guía fueron proporcionados por la Sociedad Chilena de Enfermedades Respiratorias, entidad que brindó además el patrocinio para esta iniciativa.
+
+NOTA: Por su relevancia nacional estas guías de práctica clínica para el tratamiento del tabaquismo serán publicadas simultáneamente en la Revista Chilena de Enfermedades Respiratorias y en la Revista Médica de Chile. Los archivos complementarios conteniendo los apéndices 1 a 7 citados en este texto pueden ser consultados en: www.scielo.cl, vol 33, n 3.
+
+Supplementary Material

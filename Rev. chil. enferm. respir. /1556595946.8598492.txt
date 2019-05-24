@@ -1,0 +1,162 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482018000200102
+Adultos con influenza, evolución clínica, costos y grupos relacionados por el diagnóstico, resultados de 4 años. Clínica Dávila. Santiago de Chile
+
+Introducción
+
+La Influenza es una infección respiratoria estacional de origen viral, causada por el virus Influenza A y B, que afecta a niños y adultos, pero que genera mayor morbilidad y mortalidad en el adulto mayor, además produce un impacto económico en todos los centros hospitalarios por la ocupación de camas y consumo de recursos especialmente en período invernal. Este virus tiene varios genotipos, dentro de los cuales la influenza A, genotipo H1N1 tiende a ser pandémico y a generar neumonía grave1.
+
+En el año 2009, se produjo en el mundo la pandemia de influenza A H1N1pdm09. En Chile se reportaron 12.258 casos y 155 muertes2. La tasa acumulada de casos de enfermedad tipo Influenza (ETI) en el año 2009 fue de 1.050 por 100.000 habitantes, disminuyendo en el año 2010 a 693 por 100.000 habitantes2. Ese año, debido la gran demanda estacional de atención por enfermedades respiratorias, tanto en niños como adultos, los centros hospitalarios públicos debieron reconvertir camas para responder a esa demanda. En los centros privados se produjo un fenómeno similar.
+
+La Clínica Dávila es un hospital privado que al año 2014 contaba con 500 camas, 250 eran del Servicio Médico Quirúrgico de Adultos (SMQ) y 100 camas de la unidad de Pacientes Críticos de Adultos (UPC), de estas últimas, 30 correspondían a la Unidad de Cuidados Intensivos (UCI) y 70 a la Unidad de tratamiento Intermedio (UTI). Está situada en el sector norte de la ciudad de Santiago. Atiende a una población beneficiaria del Seguro de Salud Público “Fondo Nacional de Salud “(FONASA), que representa entre el 35% a 40% de todas las atenciones de la clínica3, las restantes atenciones corresponden a pacientes con seguros de salud privados.
+
+El objetivo de este estudio fue describir el comportamiento de los egresos hospitalarios de pacientes adultos con diagnóstico principal o secundario de influenza, utilizando el código CIE 10: J10.- Influenza debido a virus de la influenza identificado, los Grupos Relacionados por el diagnóstico (GRD), costos de hospitalización expresados en millones de pesos chilenos ($MM), requerimientos de soporte ventilatorio y letalidad, durante 4 años (2009, 2010, 2012 y 2014).
+
+Materiales y Método
+
+Diseño
+
+Se trata de un estudio retrospectivo, descriptivo, de los años 2009, 2010, 2012 y 2014. Se revisó cada egreso con diagnóstico, principal o secundario de influenza, según requerimiento de soporte ventilatorio, los pacientes se dividieron en tres grupos: 1) Sin ningún requerimiento ventilatorio; 2) Con ventilación no invasiva y 3) Con ventilación mecánica invasiva. Se describen en cada grupo, número total de casos, grupos etarios, género, promedio días de estada, tipo de seguro de salud, índice de complejidad (mediana de peso GRD), promedio del costo de la cuenta y letalidad.
+
+Además, se registró por cada año analizado, número de casos, edad promedio, virus identificado, letalidad, peso GRD, estadía y promedio del costo de la cuenta.
+
+Se utilizó como fuente primaria de información la ficha clínica, el conjunto mínimo básico de datos CMBD (datos financieros, administrativos, demográficos, clínicos, diagnósticos y procedimientos) de cada paciente, que son obtenidos de la herramienta GRD4.
+
+El sistema GRD agrupa a pacientes egresados de una hospitalización, en base a características clínicas homogéneas y similar consumo de recursos, asignándole un peso relativo que da cuenta del gasto de cada GRD, y por ende de su nivel de complejidad, de esta forma, un peso relativo igual a 1 (estándar), significa el consumo de recursos de una hospitalización promedio4. utilizando esta herramienta podemos conocer la complejidad de los casos estudiados, su variabilidad en el manejo médico, el consumo de recursos y nos permite comparar la casuística de Clínica Dávila con otras instituciones de salud5.
+
+Criterios de inclusión y exclusión
+
+Se incluyeron todos los pacientes adultos mayores de 15 años, de ambos sexos con diagnóstico principal o secundario de Influenza. Los pacientes fueron agrupados según rango de edad; de 15 a 34, de 35 a 64 y mayores de 65 años, para efectos de tipo de soporte ventilatorio y letalidad.
+
+Diagnóstico y evolución clínica
+
+El diagnóstico de influenza en los pacientes incluidos fue realizado mediante historia clínica y/o resultados de laboratorio que incluyeron inmunocromatografía (“test pack” de influenza), inmuno fluorescencia directa (IFD) y/o reacción de la polimerasa en cadena (PCR), por tanto, el diagnóstico se estableció clínicamente siendo corroborado en la mayor parte de los casos, con cualquiera de los tests previamente señalados.
+
+Es importante precisar que el año de la pandemia (2009), el criterio diagnóstico predominante, en su inicio, fue clínico-epidemiológico6, por la situación país. Al final del año 2009, y en los años siguientes el Laboratorio de Clínica Dávila incorporó el diagnóstico molecular de los virus influenza, incluyendo H1N1pdm09, lo que permitió confirmar el diagnóstico.
+
+En cuanto a la evolución clínica se evaluó: 1) el tipo de soporte ventilatorio usado: a) sin ningún requerimiento ventilatorio; b) con ventilación no invasiva y c) con ventilación mecánica invasiva y 2) condición clínica al alta (letalidad). Tanto la causa de muerte, como las comorbilidades fueron registradas en la ficha del paciente (Tabla 1).
+
+Tabla 1 Pacientes fallecidos por influenza, virus identificado, diagnóstico* causa de muerte y comorbilidades o diagnósticos secundarios*
+
+						 
+
+*Códigos CIE 10. Dg = diagnóstico. K55.0: Trastorno vascular agudo de los intestinos. A41.5: Septicemia debida a otros organismos gramnegativos. I33.0: Endocarditis infecciosa aguda y subaguda. J10.0: Influenza con neumonía, debida a virus de la influenza identificado. C83.0: Linfoma no Hodgkin de células pequeñas (difuso). B44.1: Otras aspergilosis pulmonares. I11.0: Enfermedad cardíaca hipertensiva con insuficiencia cardíaca (congestiva). J81: Edema pulmonar. T86.1: Falla y rechazo de trasplante de riñón. N39: otros trastornos del aparto urinario. I12: Enfermedad Renal hipertensiva.
+
+Fuente de datos clínicos
+
+Los datos fueron extraídos del sistema IR GRD (grupos relacionados por el diagnóstico internacional refinado), además se utilizó la ficha electrónica local (RCE o registro clínico electrónico)7 y el sistema informático de salud MedisynR Los datos obtenidos para la construcción de GRD, son extraídos de la fuente primaria de información “Ficha clínica” por un grupo de profesionales expertos, capacitados en documentación clínica, aplicación de la normativa y reglas de codificación (CIE 10 y CIE 9 MC).
+
+Para la codificación de los datos en GRD desde 2009 a 2012, se utilizó la CIE 10 Versión 2003 para diagnósticos y CIE 9 MC v22.0 para procedimientos. El año 2014 se utilizó CIE 10 versión 2010 y CIE 9 MC v22.0 para diagnósticos y procedimientos, respectivamente.
+
+La extracción de datos de la ficha clínica electrónica fue autorizada por el Comité de Ética y Científico institucional.
+
+Debido a que no todos los pacientes egresados de Clínica Dávila los años 2011 y 2013 tenían el cálculo de GRD, estos años no fueron considerados en el análisis.
+
+Análisis estadístico
+
+Las variables cuantitativas continuas se resumen mediante estadígrafos de tendencia central y de dispersión, siendo la media y el intervalo de confianza al 95% para aquellas que distribuyen en forma normal y, mediante medianas y rangos intercuartilicos para aquellas que no distribuyen en forma normal.
+
+Aquellas variables de naturaleza cualitativa fueron descritas mediante frecuencias absolutas y relativas.
+
+Para comparar las variables cuantitativas y estimar diferencias entre los grupos, se utilizó el análisis de varianza de una vía (ANOVA), estableciendo como criterio de significación estadística un valor de p < 0,05.
+
+En el caso de las variables cualitativas, se utilizó el test exacto de Fisher debido a que se observó un bajo número de muertes por cada año. En este caso se estableció como criterio de significación estadística de las diferencias entre los grupos un valor de p < 0,05.
+
+El cálculo del peso GRD se realizó con la herramienta del agrupador GRD ALCORR (SIGESA, España)8.
+
+Resultados
+
+En los 4 años de análisis, hubo en Clínica Dávila un total de 141.888 egresos, de los cuales 25.515 correspondieron a niños (individuos menores de 15 años) y 115.673 adultos, de estos, 338 pacientes (0,29%) egresaron con diagnóstico de influenza, la edad promedio fue de 56,5 años, 59% eran mujeres, el 40,8% de los diagnosticados con influenza, tenían seguro de salud estatal, FONASA y los pacientes restantes tenían seguros privados (Tabla 2).
+
+Tabla 2 Características de los pacientes con influenza según necesidad de soporte ventilatorio, grupos relacionados por el diagnóstico (GRD), Costo promedio y letalidad 
+
+*Datos expresados en promedio ± DS.
+
+**Datos expresados en Mediana.
+
+***Datos en valor promedio.
+
+aVMNI: Ventilación mecánica no invasiva.
+
+bVMI: Ventilación mecánica invasiva. clp: pesos chilenos. USD: dólares USA.
+
+Doscientos noventa y nueve pacientes (88,5%) tuvieron al menos un test diagnóstico positivo para influenza, resultando la inmunocromatografía (test pack) positiva en 151 pacientes, la IFD positiva en 42 pacientes y la PCR positiva en 112. Se detectaron 260 casos influenza A y 39 de influenza B.
+
+En el año 2009 la mediana de edad fue 37,5 años (Tabla 3), mientras que en el año 2010 fue 63,5 años, en el año 2012 fue de 64 años y en el año 2014 de 69,5 años, al comparar el año 2009 con los siguientes años hay una diferencia significativa en las medianas de edad (p < 0,0001), así mismo hay una diferencia significativa en las medianas de edad entre los pacientes del año 2010 versus 2014 (p = 0,0247). La diferencia de edad de los años 2012 versus 2014 no alcanza a ser significativa (p = 0,0638). Tampoco hay diferencias entre las edades de los pacientes de los años 2012 y 2010 (p = 0,88).
+
+Tabla 3 Comparación de los pacientes con influenza según el año analizado 
+
+aχ2 compara letalidades anuales.
+
+*Mediana.
+
+**Millones de pesos (p25-p75) Intervalos Intercuartílicos.
+
+1ANOVA pacientes año 2009 vs los otros años.
+
+2ANOVA: El GRD 2014 vs los otros años.
+
+3ANOVA: La estadía 2014 vs los otros años.
+
+4ANOVA: La cuenta 2014 vs los otros años.
+
+La letalidad por influenza el año 2014 fue de 8,5%, con una tendencia a ser mayor comparada con los años 2009, 2010 y 2012, en que fue 2,5%, 3% y 1,5% respectivamente (p = 0,09) (Tabla 3). La letalidad del grupo total fue de 4% (14 pacientes), de los 14 pacientes fallecidos, en 2 se detectó Influenza A H1N1pdm09, en 9 pacientes Influenza A estacional y en 3 Influenza B. En la Tabla 1 se puede observar las características de los pacientes fallecidos, incluyendo el diagnóstico de muerte y la comorbilidad principal con su CIE-10 respectivo. De los 14 fallecidos por influenza, 9 son mujeres; fallecen en UCI y UTI 9 pacientes y 5 en Médico Quirúrgico (Tabla 4).
+
+Tabla 4 Pacientes fallecidos por influenza, edad, peso GRD, estadía, lugar donde falleció y Costo de la hospitalización 
+
+*Unidad de Cuidados Intensivos.
+
+**Unidad de Tratamiento Intermedio.
+
+***Médico quirúrgico. ᵃExtracorporeal membrane oxygenation.
+
+Se describen los pesos GRD de los 338 pacientes, distribuidos por cada año en que se hospitalizaron, así, la mediana de los pesos GRD en 2009, 2010, 2012 y 2014 fueron 0,41, 0,41, 0,41 y 0,62 respectivamente, siendo la diferencia entre el año 2014 y los años restantes estadísticamente significativa (p < 0,0001) (Tabla 3).
+
+En relación con la evolución clínica y a la necesidad de soporte ventilatorio, el 86,3% de los pacientes no requirieron soporte ventilatorio (295 pacientes), mientras que 43 necesitaron algún tipo de soporte (12,7%), así, 23 pacientes necesitaron solo Ventilación Mecánica no Invasiva (VMNI) y 20 pacientes fueron intubados y conectados a ventilación mecánica invasiva (VMI). Las características de cada grupo se detallan en la Tabla 2.
+
+El tipo de soporte ventilatorio utilizado por grupo etario de los pacientes con influenza se muestra en la Figura 1. El promedio de edad de los pacientes según tipo de soporte ventilatorio fue el siguiente: pacientes sin soporte 63 ± 20,4, con VMNI 77,2 ± 13,2, con VMI 56,4 ± 14,9, siendo significativa la diferencia de edad entre pacientes en VMNI versus, VMI y ningún tipo de soporte (p < 0,001 y p = 0,03, respectivamente), no hubo diferencia significativa entre las edades de los pacientes sometidos a VMI y aquellos sin ningún tipo de soporte (p = 0,16).
+
+Figura 1 Tipo de soporte ventilatorio por grupo etario, en pacientes con influenza en Clínica Dávila, años 2009, 2010, 2012 y 2014. VMNI = ventilación mecánica no Invasiva; VMI = ventilación mecánica invasiva. 
+
+Los pacientes sin soporte ventilatorio estuvieron hospitalizados en promedio 6,6 ± 6,9 días, los que necesitaron VMNI 16,8 ± 2,4 días, los que se intubaron (VMI) 36,9 ± 41,39 días. Cuando se comparan los promedios de días de hospitalización entre pacientes sin ningún soporte ventilatorio versus VMNI y VMI, la diferencia es significativa (p < 0,0001) (Tabla 2). También al comparar el tiempo de hospitalización entre pacientes con VMNI versus VMI, la diferencia es significativa (p = 0,0321).
+
+De los 292 pacientes sin ningún soporte ventilatorio, fallecen 3 (1%), de los 23 pacientes en VMNI, fallecen 5 (21,7%) y de los 20 ventilados invasivamente, fallecen 6 (30%). Cuando se compara el porcentaje de pacientes fallecidos según el tipo de soporte ventilatorio, la diferencia es significativa entre los 3 grupos (p < 0,0001).
+
+Hubo diferencias significativas al comparar los promedios de los pesos de GRD entre pacientes en VMI versus VMNI y sin ningún soporte ventilatorio (p < 0,0001 y p < 0,0001 respectivamente) y cuando se comparan los pesos GRD entre pacientes sometidos a VMNI y ningún soporte ventilatorio la diferencia es también significativa (p = < 0,0015) (Tabla 2 y Figura 2).
+
+Figura 2 Letalidad y complejidad de Grupos Relacionados por el Diagnóstico (GRD, expresado como promedio) según soporte ventilatorio de pacientes con Influenza, en Clínica Dávila, años 2009, 2010, 2012 y 2014. VMNI = ventilación mecánica no invasiva; VMI = ventilación mecánica invasiva. 
+
+Los que recibieron VMNI, son más viejos y el 65% de ellos pertenecen al seguro estatal.
+
+Discusión
+
+La influenza es una patología con una alta incidencia anual y una baja letalidad general9. Sin embargo, hay pocos estudios a nivel nacional que comparen las características de los afectados que necesitan hospitalizarse, su evolución clínica, la letalidad de pacientes con influenza y que además analice los costos de hospitalización y los respectivos pesos GRD.
+
+Encontramos diferencias significativas en las edades de los pacientes egresados con diagnóstico de influenza el año 2009 versus 2010, 2012 y 2014, destaca que, en el año 2009, el porcentaje de pacientes menores de 35 años fue de un 48%, versus los otros 3 años de análisis (2010, 2012 y 2014) en que fue un promedio de 15,6% (Tabla 3), los pacientes del año 2014 fueron los de mayor edad comparados con los pacientes de los años 2009 y 2010.
+
+Ha sido comentado en otros estudios nacionales10, que probablemente la ausencia de exposición de los individuos más jóvenes a los genotipos de Influenza A H1N1, los hace más susceptibles y según las series analizadas genera mayor morbilidad y mortalidad asociada11.
+
+Sin embargo, en nuestro universo de pacientes, la mortalidad de los egresados en el año 2009, no fue mayor que la de los años subsiguientes de este análisis. En el año 2014 se observó una tendencia hacia una mayor mortalidad que no alcanzó a ser significativa, esto puede ser explicado por la mayor edad de los pacientes egresados ese año y por tanto, portadores de un número mayor de comorbilidades.
+
+El grupo de trabajo del Dr. Riquelme y colaboradores del hospital de Puerto Montt10, publicó el análisis de 119 casos de Influenza A que requieren hospitalización durante el año 2015, el 52% (62 casos) son Influenza A H1N1pdm09 y 48% (57 casos) son H3N2 estacional, la mortalidad entre los 119 casos fue de 9% (11 pacientes) sin encontrar una diferencia significativa entre Influenza A H1N1pdm09 e Influenza A H3N2 estacional. De los 94 pacientes egresados el año 2014, en Clínica Dávila fallece el 8,5% (8 pacientes) muy similar a la mortalidad del grupo de pacientes de Puerto Montt. En el mismo grupo del Dr. Riquelme el año 2015 encontraron una diferencia significativa en la edad de los pacientes, siendo más jóvenes los pacientes con Influenza A H1N1pdm09 (59 ± 16) que los pacientes con Influenza A H3N2 estacional (70 ± 17). En nuestro estudio, en el año 2014 la mediana de edad de los pacientes fue de 69,5 años. En Clínica Dávila no tipificamos H3N2 estacional en ninguno de los años del estudio, pero usamos PCR para H1N1pdm09, desde junio de 2009, ese año fueron testeadas muestras respiratorias de 137 adultos, buscando Influenza A H1N1pm09, siendo positivas en 51 pacientes (37,2%), en cambio en el año 2014 se estudiaron muestras de 20 pacientes adultos, siendo negativas en todos ellos. es posible que en los pacientes egresados en el año 2014 de Clínica Dávila con diagnóstico de influenza, haya sido la Influenza A estacional el agente causal más frecuente. el trabajo de Xu-Xian y cols.11, realizado en China describe los resultados de 10.094 muestras coleccionadas y testeadas en busca de virus influenza entre los años 2010 y 2015, de esas muestras 121 fueron positivas para Influenza A H1N1pdm09, 617 para Influenza A H3N2 estacional y 347 para influenza B, encontraron que el virus predominante en los años 2010 y 2011 fue Influenza B, mientras que desde el 2012 al 2015 el virus predominante fue el Influenza A H3N2. Aunque se trata de un estudio realizado en el hemisferio norte, y los genotipos identificados pueden variar entre ambos hemisferios, fue el virus Influenza A H3N2 el más frecuentemente aislado entre 2012 y 2015.
+
+En relación a la edad, evolución y pronóstico, la edad promedio de los pacientes fallecidos en VMNI fue de 85,2 años, el 65% de los pacientes que son sometidos a VMNI pertenecen al seguro estatal de salud (FONASA), es posible que debido a razones económicas o por la edad y la presencia de comorbilidades sus familiares hayan solicitado limitación de esfuerzo terapéutico, como esta condición empezó a registrarse en formatos obligatorios después del año 2012 no está disponible el registro en todos los pacientes. Esta puede haber sido una de las razones por las que los pacientes que tenían una deficiente respuesta a VMNI no se intubaron. Por otra parte, en Clínica Dávila el requerimiento de soporte ventilatorio invasivo se concentró en individuos entre los 35 años y 65 años, mientras que la ventilación mecánica no invasiva se concentró en mayores de 65 años (Figura 2).
+
+Cuando analizamos los pesos GRD, los pacientes con influenza que requieren VMI y que egresan de la unidad de Cuidados Intensivos (UCI) de Clínica Dávila, tienen una mediana de peso GRD de 5,86, que equivale a un costo promedio 38.681.099 clp (pesos chilenos) y representa el grupo que genera el mayor consumo de recursos, de todos los pacientes analizados en estos 4 años (Tabla 2). El Hospital de urgencias de la Asistencia Publica HUAP, publica sus resultados de producción del año 20 1 45 y en su página 31 reporta un peso GRD medio de 5,82, para los 227 pacientes egresados el año 2014 y que estuvieron en ventilación mecánica prolongada sin traqueotomía, esto representa un costo promedio por paciente de 19.255.704 clp para el HUAP, usaron la misma metodología de cálculo de peso GRD que Clínica Dávila y por tanto sus resultados son comparables con los nuestros.
+
+El agente causal identificado en los fallecidos en el año 2014 fue exclusivamente influenza A y B estacional. Sin embargo, no podemos descartar que el universo de pacientes atendidos en hospitales públicos sea distinto al nuestro.
+
+Nuestro estudio nos permite conocer los resultados de evolución, costos y recursos consumidos, de esta enfermedad, en un grupo de pacientes con seguros de salud privado y público, pero como todo estudio retrospectivo adolece de varios sesgos, representa la realidad de un solo centro, no se investigaron todas las genotipos de virus influenza A, no contamos con las variables antropométricas de todos los pacientes, no tenemos registro del tiempo de duración de síntomas previos a la hospitalización, terapia antiviral recibida antes del ingreso, registro del puntaje de gravedad en todos los pacientes y la consignación de limitación de esfuerzo terapéutico de todos ellos. otra debilidad es que los años analizados no son consecutivos, esto debido que los pesos GRD de los años 2011 y 2013 eran incompletos, pero muestra una realidad asistencial en que el uso de todas las técnicas diagnósticas disponibles, en pacientes con tests económicos inicialmente positivos, probablemente no cambie la conducta clínica y sí aumente los costos.
+
+Conclusiones
+
+No se encuentran diferencias significativas en la letalidad, según el año analizado, hay diferencias significativas según el tipo de soporte ventilatorio y el grupo etario.
+
+Es posible que en nuestros fallecidos en el año 2014 el agente principal haya sido Influenza estacional A H3N2 considerando los resultados del grupo de Puerto Montt. La edad de los que recibieron VMNI es significativamente mayor. Sin embargo, no tenemos la información sobre el número de pacientes en que, ellos o sus familiares, definieron no escalar en el tipo de soporte.
+
+El peso GRD de los intubados fue mayor que el de los no intubados, independiente del tiempo de hospitalización, y tiene relación a la mayor cantidad de procedimientos e insumos usados, el peso GRD es comparable al obtenido en pacientes de similar gravedad y consumo de recursos de otras instituciones. El peso GRD promedio anual tiene un aumento significativo en el año 2014 (GRD = 0,6) comparado con el valor de los años 2009, 2010 y 2012 (GRD = 0,4). No encontramos información disponible sobre peso GRD y costos de hospitalización en Influenza en otras instituciones privadas del país, realizados en el período de nuestro trabajo.
+
+En nuestro conocimiento este estudio es uno de los primeros en la aplicación de herramientas objetivas de gestión hospitalaria (GRD) y costos, en una patología infecciosa respiratoria estacional en Chile.
+
+Agradecimientos
+
+A los estudiantes de cuarto año de la Escuela de Medicina de la Universidad de Los Andes período 2016 por su labor de recolección de información: Valentina Ojeda, Rocío Gutiérrez, Diego Larraín y Sofía Darritchon. a Nicolás Valdés ortega, Epidemiólogo de la universidad de Los Andes, por su asesoría en estadística.

@@ -1,0 +1,652 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-73482018000300171
+Espirometría: Manual de procedimientos. SERChile
+
+La espirometría sigue siendo el examen fundamental en la evaluación de la función pulmonar, cada vez más accesible en nuestro país. Para su correcta aplicación e interpretación es imprescindible contar con normas estandarizadas. En 1988, la sociedad chilena de Enfermedades Respiratorias (SER), publicó las primeras recomendaciones sobre el informe espirométrico en Chile1,2. El año 2005 se publicó a nivel internacional por las sociedades Americana y Europea de enfermedades Respiratorias (ATS/ERS)3,4, una acabada estandarización de las pruebas de función pulmonar incluyendo aspectos técnicos como de interpretación. El año 2006, el Comité de Función pulmonar de la SER, elaboró un manual de procedimientos para realizar espirometrías5, el cual se ha utilizado ampliamente en la práctica clínica. El año 2007, se demostró la factibilidad de realizar espirometrías en niños entre 2 a 6 años, en la publicación de la estandarización de pruebas de función pulmonar en pre-escolares de la ATS/ERS6. El año 2012, se publicaron los valores de referencia espirométricos multiétnicos GLI 20127, que han cambiado a nivel mundial el paradigma de los valores de referencia. La sociedad Española de Neumología (SEPAR) el año 2013, actualizó, la normativa para realizar la espirometría8. El año 2014, a través de la SER se pudo concretar la publicación de valores de referencia espirométricos para adultos chilenos9 y recientemente se han publicado Recomendaciones para estandarizar el informe de Función pulmonar ATS/ERS 201710.
+
+Considerando estos avances y basándonos también en el Manual de procedimientos para Laboratorios de función pulmonar de la ATS 201611, estimamos que era necesario hacer esta actualización del Manual de procedimientos para Espirometría en nuestro país.
+
+I. Consideraciones generales
+
+a) Espacio físico
+
+Idealmente debe consistir en una habitación de al menos 2 por 3 m, donde se pueda acomodar al paciente, al espirómetro y a quien realiza la espirometría. Debe disponer una forma de medir la talla o estatura, una pesa, una estación ambiental (termómetro, barómetro e higrómetro), un sillón cómodo (de brazos) y sin ruedas para el paciente y un mueble o estante para colocar pinzas nasales y otros elementos o accesorios del equipo. Debe existir un área limpia con lavatorio para lavado de manos y un área sucia para dejar pinzas nasales y boquillas reutilizables.
+
+En el caso de realizar el test en niños pre-escolares es importante tener un ambiente acogedor y apto para niños, se puede contar con algunos juguetes, videos y darle tiempo para que se adapte a la pieza bucal.
+
+b) Personal
+
+Si se trata de un laboratorio de función pulmonar, un médico especialista en Enfermedades Respiratorias debe estar a cargo del informe, interpretación y supervisión en la realización de la técnica. Cuando la espirometría se realice fuera de un laboratorio especializado el responsable del cumplimiento de las normas y del informe del examen, será el médico designado para tales funciones.
+
+El operador, idealmente tecnólogo médico, kinesiólogo, enfermera o técnico paramédico debe estar debidamente calificado y certificado. En el caso de niños pre-escolares el técnico tiene que estar capacitado y certificado para trabajar con niños pequeños en forma empática, manejar la escasa capacidad de atención infantil y obtener las curvas sin estresar al niño.
+
+c) Calificación del técnico en espirometrías
+
+Debe tener estudios superiores que contengan nociones básicas de biología, matemáticas, física, etc. como son los profesionales de la salud: tecnólogos médicos, kinesiólogos, enfermeras y técnicos paramédicos. Debe mostrar capacidad de relación con pacientes y para el trabajo en equipo. Ayuda una actitud enérgica, animada, estimulante para facilitar que el paciente logre este máximo esfuerzo. Por lo que es deseable que el técnico tenga una personalidad empática, que favorezca la interacción y genere confianza.
+
+Deberá acreditar haber cursado y aprobado algún curso teórico presencial u online reconocido, que contenga los fundamentos biológicos, conceptos de fisiología y fisiopatología respiratoria, nociones de patología respiratoria relacionada y toda la estandarización de la técnica espirométrica. posteriormente, debe completar un período de entrenamiento práctico supervisado por médico o técnico certificado por al menos un mes, con el objetivo de realizar 100 espirometrías aprobadas antes de adquirir autonomía para realizar procedimiento sin supervisión. La experiencia que permite la detección de errores en el procedimiento y en el funcionamiento de los aparatos, que capacita al técnico para trabajar con cierta autonomía, suele alcanzarse luego de seis meses de entrenamiento.
+
+II. Equipos
+
+Existen dos tipos de espirómetros: de volumen y de flujo. Actualmente, los espirómetros de volumen han sido ampliamente desplazados por los de flujo y ya no se utilizan en la práctica clínica.
+
+Dentro de los espirómetros de flujo los más utilizados son: los neumotacómetros que miden el flujo a partir de una resistencia conocida que produce una diferencia de presión entre uno y otro lado del paso del aire (neumotacómetro tipo Fleish o Lilly), los de turbina y últimamente han ganado posición los que utilizan un sensor de flujo ultrasónico.
+
+Estos equipos pueden ser divididos en dos grupos:
+
+Equipos de gran capacidad computacional, propios de laboratorios de grandes centros o de alta demanda de exámenes, que deben cumplir con toda la amplia gama de requerimientos planteados por la ATS/ERS o la SEPAR.
+
+Equipos de escritorio u oficina, de menor capacidad computacional, que deben cumplir los requisitos internacionales para las mediciones de flujo (F), volumen (V) y tiempo (t) que realizan. Deben tener visualización en pantalla de las maniobras realizadas, en tiempo real e idealmente tanto de las curvas curvas F/V y v/t, aunque bastaría la imagen de la curva de F/V, que es más sensible para definir la aceptabilidad de cada maniobra. Algunos de estos equipos pueden conectarse a un computador personal mejorando la visualización de las maniobras.
+
+Los espirómetros deben cumplir una serie de requisitos mínimos que han sido establecidos internacionalmente (Tabla 1).
+
+Tabla 1 Requerimientos mínimos de los espirómetros 
+
+III. Controles de calidad de los equipos
+
+La periodicidad de los controles de calidad de los espirómetros depende principalmente de su tipo. La actualización de las variables ambientales de temperatura, humedad y presión barométrica antes de cada calibración es fundamental para entregar los valores medidos en condiciones BTPS (saturado con vapor de agua, a presión ambiental y a 37 °C). Al respecto el Instituto Nacional para la salud y seguridad Ocupacional (NIOSH de EE UU) ha establecido entre 17 y 40 °C el rango exclusivo de temperatura ambiental para realizar una evaluación espirométrica.
+
+Equipos grandes, de laboratorios especializados en función pulmonar
+
+a) Control diario
+
+Calibración con una jeringa de 3 litros, mantenida a la misma temperatura y humedad que el espirómetro (requisitos de la jeringa: exactitud de 15 ml ó 0,5% testeada anualmente por el servicio técnico correspondiente). Debe dar un resultado dentro del 3% del volumen de la jeringa (± 90 ml para una jeringa de 3 litros; entre 97 y 103%). Cada vez que la temperatura cambie más de 5 °C se debe volver a calibrar.
+
+Revisión del sensor de flujo buscando perforación, obstrucción y exceso de humedad.
+
+Evaluación de la linealidad, que se realiza inyectando el volumen de 3 litros con 3 flujos distintos (entre 2 y 12 L/s). El volumen medido para cada uno de los flujos utilizados no debe variar más de 3%.
+
+b) Control mensual
+
+controles biológicos a sujetos sanos, no fumadores, de distinto sexo, talla y edad (ATS recomienda al menos 3 sujetos una vez al mes): calcular promedio, desviación estándar (DE) y coeficiente de variación (cv).
+
+Para CVF y VEF1. el cv debe ser inferior al 10%. Resultados fuera del promedio + 2 DE requieren evaluación del equipo. En la práctica cada control biológico inicialmente debe tener 20 mediciones en días sucesivos. Una vez completados se calcula el promedio y desviaciones estándar (DE) de esos datos que servirán para el seguimiento sucesivo. Se sugiere hacer el seguimiento con el gráfico de Levey-Jennings según Tabla 2.
+
+Tabla 2 Ejemplo de registro de control biológico 
+
+Equipos portátiles
+
+Control diario: control de la calibración inicial y cada vez que el equipo se utilice. Algunos de estos equipos no permiten hacer ajustes de calibración, por lo que si se encuentra fuera de los rangos mencionados, debiera ser enviado al Servicio Técnico para su reparación.
+
+Control mensual: control biológico.
+
+Control trimestral: comprobar la linealidad de las mediciones haciendo inicialmente exámenes en paralelo (repetidos) con un espirómetro del laboratorio de referencia, tanto en sujetos normales como en pacientes restrictivos y obstructivos. También se puede hacer entrando al menú “paciente” y colocar el volumen con la jeringa de calibración con 3 flujos distintos (bajo, mediano y alto), debe obtenerse 3.000 ± 90 ml en las 3 mediciones.
+
+IV. Indicaciones de la espirometría
+
+Las principales indicaciones de la espirometría se resumen a continuación.
+
+a) Diagnósticas
+
+Evaluación de síntomas, signos o exámenes de laboratorio alterados relacionados con patología respiratoria.
+
+Valoración del impacto de enfermedades respiratorias o extra-respiratorias sobre la función pulmonar.
+
+Estudio de individuos con riesgo de deteriorar su función pulmonar (fumadores).
+
+Evaluación de riesgo quirúrgico.
+
+b) De control
+
+Control de enfermedades que afectan la función pulmonar.
+
+Control de pacientes expuestos a agentes nocivos para el sistema respiratorio.
+
+Control de reacciones adversas a drogas con toxicidad pulmonar.
+
+Evaluación de la respuesta frente a intervenciones terapéuticas.
+
+Evaluación de pacientes con patología respiratoria en programas de rehabilitación.
+
+c) Laborales y de incapacidad
+
+Evaluación del estado funcional respiratorio para desempeñar actividades laborales específicas.
+
+Evaluación de los efectos de exposición ambiental u ocupacional.
+
+Evaluación del pronóstico de patologías respiratorias laborales.
+
+Valoración del grado de incapacidad para determinación de pensiones de invalidez y de seguros.
+
+d) Epidemiológicas
+
+Investigación clínico-epidemiológica.
+
+Derivación de ecuaciones de referencia.
+
+e) Preventivas
+
+Espirometría anual a sujetos expuestos a riesgos inhalatorios: tabaco y otros.
+
+En cuanto a la periodicidad con que debe repetirse el examen, se sugiere realizar al menos una espirometría anual en pacientes de riesgo o con enfermedades respiratorias crónicas. Sin embargo, el médico tratante será quien decida cuándo solicitarla.
+
+V. Contraindicaciones
+
+a) Absolutas*
+
+Inestabilidad hemodinámica.
+
+Embolia pulmonar hasta adecuada anticoagulación.
+
+Angina inestable o infarto al miocardio menor a 1 mes.
+
+Neumotórax reciente (2 semanas tras la resolución).
+
+Aneurisma aórtico de gran tamaño o que ha crecido.
+
+Aneurisma cerebral complicado.
+
+Desprendimiento de retina reciente (1 mes).
+
+Síndrome de hipertensión endocraneana.
+
+Crisis de hipertensión arterial.
+
+b) Relativas
+
+Condiciones que limiten la realización de la técnica adecuada.
+
+–. 
+
+			Falta de comprensión o colaboración con el examen.
+
+–. 
+
+			Dolor torácico o abdominal.
+
+–. 
+
+			problemas bucodentales o faciales.
+
+–. 
+
+			Incontinencia urinaria de esfuerzo.
+
+–. 
+
+			Hipoacusia.
+
+Condiciones de seguridad:
+
+–. 
+
+			Cirugía torácica reciente.
+
+–. 
+
+			Cirugía cerebral u otorrinolaringológica reciente.
+
+–. 
+
+			Cirugía ocular de glaucoma o vitrectomía reciente (2 meses).
+
+–. 
+
+			Cirugía de catarata y queratotomía reciente (3 meses).
+
+–. 
+
+			Aneurisma aórtico no complicado.
+
+–. 
+
+			Aneurisma cerebral no complicado.
+
+–. 
+
+			Hemoptisis reciente.
+
+–. 
+
+			Embarazo.
+
+–. 
+
+			Paciente con signos de insuficiencia respiratoria aguda.
+
+*Nota: En los casos de contraindicaciones absolutas es factible realizar la maniobra de capacidad vital lenta, previo acuerdo con el médico solicitante del examen.
+
+Complicaciones de la espirometría
+
+Infrecuentes: accesos de tos, broncoespasmo, mareo, incontinencia urinaria, aumento de la presión intracraneana.
+
+Muy infrecuentes: síncope.
+
+El técnico debe detectar esta situación y detener la prueba. se recomienda no insistir en la maniobra y realizar el procedimiento en otro día.
+
+VI. Instrucciones Pre Test. Indicaciones para el paciente
+
+Las instrucciones deben entregarse idealmente por escrito al asignar la hora y fecha del examen:
+
+No debe estar en ayunas; si se realiza en la tarde, ingerir almuerzo liviano.
+
+No haber realizado ejercicio vigoroso (al menos 30 min antes).
+
+Acudir sin ropa ajustada.
+
+No fumar al menos en la hora previa.
+
+Traer la orden médica con diagnóstico.
+
+suspender el tratamiento broncodilatador de acuerdo a la Tabla 3 (siempre que sea posible o que se indique lo contrario en la orden médica).
+
+No suspender otras terapias de uso habitual (diabetes, hipertensión arterial, hipotiroidismo, epilepsia, etc.).
+
+Tabla 3 Tiempo de espera aconsejado para realizar la espirometría forzada después de haber usado medicación broncodilatadora11
+
+					 
+
+VII. Técnica
+
+a) Consideraciones sobre higiene y control de infecciones
+
+Se recomienda:
+
+–. 
+
+			Operador:
+
+Lavarse las manos antes y después de atender a cada paciente.
+
+Secado de manos.
+
+–. 
+
+			Material:
+
+Cambiar la boquilla al terminar el examen de cada paciente.
+
+Desinfectar, esterilizar o descartar después de cada uso: boquillas, pinzas nasales, cualquier instrumento que se ponga en contacto con la mucosa de la nariz o la boca.
+
+Usar un filtro desechable en todos los pacientes para evitar riesgos no detectados previamente. Si no se cuenta con filtro hacer solo la maniobra espiratoria en la boquilla (maniobra de circuito abierto).
+
+b) Preparación del paciente
+
+El paciente debe estar sentado y relajado, al menos 5 a 10 min antes de la prueba.
+
+Realizar una breve historia clínica, indagar sobre diagnóstico, motivo del estudio, medicamentos usados, enfermedades infecciosas (TBC, VIH, hepatitis), evaluando la posibilidad de contraindicaciones.
+
+Explicar y demostrar al paciente la técnica adecuada del procedimiento y cómo deberá colaborar.
+
+se deberá registrar:
+
+Nombre completo y cédula de identidad.
+
+Fecha de nacimiento y edad.
+
+Sexo.
+
+Peso (expresado en kg) medido en una báscula adecuada sin zapatos y con ropa ligera.
+
+Estatura medida sin zapatos con la espalda erguida, la cabeza y la espalda apoyadas en el tallímetro o estadímetro, para mayor exactitud en la medición se puede aplicar una escuadra en la zona cefálica más alta. En sujetos con marcada cifoescoliosis u otra deformidad torácica o en pacientes que no puedan ponerse de pie, se puede estimar la talla con la medición de la envergadura (distancia máxima entre el extremo de los dedos medios de ambas manos, con las extremidades superiores extendidas al máximo en cruz).
+
+c) Ejecución del examen
+
+El paciente debe estar bien sentado en una silla cómoda con brazos y respaldo vertical, con la espalda erguida y sin cruzar las piernas.
+
+En el caso de niños mayores de 6 años puede realizarse indistintamente de pie o sentado lo que sea más cómodo para los niños y utilizar pinza nasal.
+
+En niños preescolares menores de 6 años se recomienda realizar la espirometría de pie y sin pinza nasal. La pinza nasal asusta e incomoda al niño y no se han demostrado diferencias significativas en los valores de VEF1 y CVF con o sin pinza nasal.
+
+En niños debe registrarse en el informe la posición y el uso o no de pinza nasal.
+
+d) Procedimientos
+
+i. Capacidad vital lenta (CVL)
+
+Esta maniobra permite medir además de la capacidad vital lenta, las subdivisiones de ésta, en especial, la capacidad inspiratoria.
+
+Colocación de boquilla (indeformable) en el interior de la boca, con los labios alrededor, sin interponer la lengua.
+
+Oclusión de la nariz con una pinza nasal.
+
+Activación del espirómetro por el operador.
+
+Respiración tranquila por la boca a volumen corriente durante al menos 3 ciclos en que se verifique la línea de base estable, no más de 5 ciclos.
+
+Desde el nivel de fin de espiración tranquila inspirar hasta capacidad pulmonar total: inhalación no forzada, pero máxima (“debe llenar completamente los pulmones”).
+
+Inmediatamente sin pausa, o si la hay que sea menor de 2 s., exhalar lentamente todo el aire hasta que no se registren cambios de volumen durante un segundo (se puede estimular con expresiones como “siga, siga”).
+
+Realizar un mínimo de 3 maniobras aceptables separadas por un minuto.
+
+Se selecciona la maniobra con mayor CVL.
+
+ii. Capacidad vital forzada (CVF)
+
+La maniobra de espiración forzada tiene 3 fases:
+
+–. 
+
+			Inspiración máxima.
+
+–. 
+
+			Exhalación a máxima fuerza y velocidad.
+
+–. 
+
+			Exhalación continuada, completa, hasta el final del examen.
+
+Si se requiere una curva Flujo/volumen (F/V) volver a hacer una inspiración máxima forzada, ya que se imprime la curva inspiratoria realizada después de la espiratoria para obtener la capacidad vital inspiratoria (CVI), ya que la inspiración anterior es desde CRF.
+
+Esta maniobra permite medir volúmenes en el tiempo. Se informará:
+
+Capacidad vital forzada (CVF).
+
+Volumen espiratorio forzado en el primer segundo (VEF1).
+
+Relación VEF1/CVF.
+
+En niños preescolares o menores de 6 años se informa además el volumen espiratorio forzado a los 0,5 s (VEF0,5) y/o a los 0,75 s (VEF0,75) y la relación vEF0,75/cvF. solo se registra vEF1 si la maniobra tiene un tiempo espiratorio forzado mayor a 1 s.
+
+Pudiendo agregar como controles de calidad:
+
+Flujo espiratorio máximo (PEF o FEM).
+
+Tiempo espiratorio (TEF).
+
+ La exhalación forzada debe ser realizada inmediatamente después de la inspiración máxima sin pausa y si no la hay no debe superar los 2 s. Debe ser realizada con la máxima rapidez hasta que no se pueda exhalar más aire, cumpliendo los criterios de aceptabilidad de fin de espiración.
+
+Se realizará un mínimo de 3 maniobras aceptables y nunca más de 8 maniobras.
+
+Los menores de 6 años, quienes tendrán más dificultad para lograr maniobras adecuadas, requieren que se les explique y demuestre detalladamente la técnica correcta de espiración forzada previo al examen, ocupando el tiempo necesario para conseguir la confianza del niño en un ambiente acogedor. Existen programas animados con juegos incorporados a equipos de espirometría que incentivan a los niños a realizar una maniobra de espiración rápida y prolongada, pueden utilizarse, pero su efectividad debe ser evaluada individualmente.
+
+Procedimiento en equipos de circuito abierto sin filtro:
+
+Oclusión de la nariz con una pinza nasal.
+
+Respiración a volumen corriente, 3 a 5 ciclos.
+
+Inhalación rápida y completa hasta capacidad pulmonar total (CPT).
+
+Debe colocarse la boquilla del espirómetro.
+
+Exhalación forzada, con la máxima rapidez hasta que no pueda exhalar más aire, cumpliendo los criterios de aceptabilidad de fin de espiración.
+
+Se realizará un mínimo de 3 maniobras aceptables separadas por un minuto, no deben realizarse más de 8 maniobras.
+
+VIII. Criterios de aceptabilidad y repetibilidad
+
+La espirometría supondrá siempre un mínimo de tres maniobras satisfactorias de espiración forzada para conseguir los criterios de aceptabilidad y repetibilidad con un máximo de ocho cuando no sean juzgadas adecuadas. Espirometría aceptable (Figura 1).
+
+Figura 1 Espirometría aceptable. Curva volumen tiempo a la izquierda y flujo volumen a la derecha (modificado de NIOSH: The National Institute for Occupational Safety & Health,Centers for Disease Control and Prevention, USA25). 
+
+a) Criterios de aceptabilidad de inicio de la maniobra
+
+Maniobras realizadas según las instrucciones previas con máximo esfuerzo.
+
+Sin pausa inspiratoria, si la hay debe ser menor a 2 segundos.
+
+Curva de ascenso rápido, sin titubeos, con un PEF visualmente evidente.
+
+El volumen de extrapolación retrógrada debe ser menor a 150 ml o 5% de la CVF en adultos. En niños preescolares menores de 6 años se acepta un volumen de extrapolación retrógrada menor a 80 ml o menor del 12,5% de la CVF.
+
+El PEF debe ir seguido de un trazado descendente liso sin artefactos: sin tos, cierre de glotis, boquilla ocluida ni evidencias de pérdidas de aire alrededor de la boquilla. (Figura 2).
+
+En niños preescolares el trazado descendente de la curva flujo/volumen puede tener forma convexa.
+
+Figura 2a Espirometría inaceptable por cierre de glotis (modificada de NIOSH25). 
+
+Figura 2b Espirometría inaceptable por extrapolación retrógrada (modificada de NIOSH25). 
+
+Figura 2c Espirometría inaceptable por esfuerzo variable (modificada de NIOSH25). 
+
+Figura 2d Espirometría inaceptable por fuga de aire (modificada de NIOSH25). 
+
+b) Criterios de aceptabilidad de fin de la espiración
+
+Haber alcanzado el “plateau” (meseta) en la curva volumen-tiempo (flujos espiratorios muy bajos < 0,025 L por al menos 1 s) o final tipo asintótico en la curva F/V No debe producirse una amputación al final de la espiración.
+
+El tiempo espiratorio debe ser:
+
+–. 
+
+			Mayor a 6 s en adultos y niños mayores de 10 años con un máximo de 15 s.
+
+–. 
+
+			Entre 6 y 12 años
+
+–. 
+
+			Mayor a 1 s en < 6 años.
+
+Existen algunos pacientes que alcanzan el plateau antes de los tiempos espiratorios recomendados, considerándose aceptables.
+
+Los preescolares tienen un volumen pulmonar absoluto pequeño y una vía aérea de mayor tamaño en relación al volumen pulmonar por lo que vacían el aire de sus pulmones en tiempos espiratorios muy cortos, incluso en menos de 1 s lo que implica que el VEF1 puede tener el mismo valor que la CVF. En este grupo etario se recomienda12 alcanzar un tiempo espiratorio de al menos 1 s. La mayoría de los niños tienden a finalizar bruscamente la espiración aun cuando no han logrado una espiración completa de modo que no es exigible un plateau de 1 s. En estos casos si el cese de flujo se produce a un flujo > 10% del PEF o en flujos mayores a 200 mL/s se considera como término abrupto de la maniobra y se descarta para considerar CVF, pero puede utilizarse para VEF0,75 o VEFC0,513.
+
+c) Criterios de repetibilidad
+
+Una vez obtenidas 3 maniobras aceptables se debe elegir las 2 maniobras mayores por suma de volumen de CVF y VEF1 y entre ellas sus CVF y sus VEF1 deben diferir menos de 150 mL, salvo que si la CVF es menor a 1 L la diferencia debe ser menor a 100 ml (Figura 3).
+
+Figura 3a Curvas espirométricas repetibles (modificada de NIOSH25). 
+
+Figura 3b Curvas espirométricas no repetibles (modificada de NIOSH25). 
+
+En preescolares menores de 6 años esta diferencia debe ser menor a 10% o 100 mL.
+
+IX. Prueba broncodilatadora
+
+Se debe usar salbutamol 400 μg (4 inhalaciones de inhalador presurizado) separadas por al menos 60 segundos a través de una aerocámara valvulada, siempre que no existan contraindicaciones para su uso.
+
+Si el paciente tiene antecedentes de arritmias, hipertensión arterial severa o enfermedades generadoras de temblores musculares la dosis de salbutamol será reducida a 200 μg.
+
+En caso de no poder utilizar salbutamol, se podría usar el anticolinérgico: bromuro de ipratropio, dosis total de 80 μg, equivalente a 4 puffs de inhalador presurizado a través de una cámara espaciadora, pero no hay evidencia demostrada sobre el significado ni el nivel de cambio significativo, por lo cual no se puede utilizar de rutina como alternativa al salbutamol.
+
+Para el beta 2 adrenérgico la respuesta bronco-dilatadora se mide entre 10 a 15 min de terminada la administración del broncodilatador y para el anticolinérgico será a los 30 min de la administración. Se repetirán los pasos descritos para las maniobras de capacidad vital lenta y para CVF.
+
+La técnica de administración del broncodilatador en adultos y niños se describe en Anexo 1.
+
+X. Criterios de calidad
+
+Estos criterios permiten al revisor evaluar la probabilidad de que los resultados de la espirometría sean representativos de los valores verdaderos del sujeto. En la evaluación de la calidad se considera tanto los criterios de aceptabilidad como de repetibilidad para CVF y VEFI por separado de acuerdo a los criterios de Enright14. (Tabla 4).
+
+Tabla 4 Categorías de Calidad para CVF y VEF1 en Adultos y niños 
+
+En general las pruebas de grado A, B y C son utilizables, las pruebas con grado D son dudosas, las pruebas con grado E pueden ser utilizadas únicamente por el intérprete para mostrar valores “dentro del rango normal” o “al menos tan alto como”, sin repetibilidad demostrada; y las pruebas con grado F no deben usarse.
+
+La estricta aplicación de estos criterios puede llevar a la exclusión de resultados útiles. La dificultad para obtener pruebas óptimas puede deberse a una enfermedad subyacente; por lo tanto, es función del revisor aplicar criterio para analizar las curvas individuales, lo que puede cambiar el puntaje y permitir la interpretación.
+
+En espirómetros de última generación el software incorpora estos grados de calidad e incluyen la evaluación del PEF (FEM) y el cumplimiento del tiempo mínimo.
+
+Es posible que a futuro se use el VEF6 en reemplazo de la CVF, lo que se ha demostrado que no cambia la interpretación de la espirometría y evita el sobre esfuerzo del paciente obstructivo.
+
+Consideraciones
+
+Tener en cuenta que la principal causa de valores espiratorios disminuidos es una inhalación previa incompleta. por lo que se debe lograr que el sujeto siempre realice una inhalación máxima antes de la maniobra espirométrica, esto incide especialmente en la repetibilidad.
+
+Puede ocurrir que una maniobra sea inaceptable por excesivo volumen de extrapolación retrógrada, pero si podría ser usada para estimar la repetibilidad de la CVF en la sesión.
+
+Hay muchas maniobras que se excluyen por no alcanzar el mínimo de segundos espiratorios establecidos según la edad. Hay que comprobar que el software del equipo no esté en modo automático y haya detenido la recopilación de datos por detectar bajo flujo, haciendo que no se cumpla el criterio de los 6 s. Esto es frecuente que ocurra especialmente en niños y adolescentes que no pueden exhalar durante los 3 o 6 s requeridos porque eliminan toda su CVF alrededor de 2 s; también se puede ver en adultos con alto nivel de entrenamiento físico. Si estos sujetos tienen una meseta de 1 s, con final tipo asintótico en la curva F/V y el revisor considera que estas maniobras representan una CVF máxima, la calificación de calidad debe ajustarse y estas maniobras deben ser aceptadas.
+
+Algunos pacientes con obstrucción al flujo aéreo nunca pueden alcanzar una meseta incluso en el límite sugerido de 15 s. en estos casos el revisor puede aceptar estas maniobras y cambiar la calificación de calidad.
+
+Los pacientes con enfermedad pulmonar restrictiva pueden llegar a una meseta temprana y es posible que no puedan mantener un esfuerzo de 6 s. Los resultados pueden considerarse aceptables en estos casos haciendo un comentario apropiado por parte del revisor.
+
+XI. Valores de referencia
+
+Se debe contar con valores de referencia teóricos para poder comparar e interpretar los resultados obtenidos en un sujeto determinado.
+
+La evidencia actual de numerosos estudios, indica que los valores de referencia de Knudson y cols.15, no son aplicables a la población chilena16–20.
+
+El año 2014, se publicó valores de referencia espirométricos para adultos chilenos mayores de 18 y hasta 84 años en hombres y hasta 92 años en mujeres. Estos valores están validados para ser utilizados en adultos chilenos. Hay una fe de errata a esa publicación que por motivos administrativos no fue publicada, y que es la siguiente: “En las ecuaciones se debe introducir la estatura en centímetros y no en metros como está publicado”.
+
+Las Guías internacionales ATS/ERS 2017 recomiendan utilizar a nivel Global los valores de referencia multiétnicos GLI 2012 que abarcan hombres y mujeres de 3 a 95 años de edad. Estas nuevas ecuaciones tendrían muchos beneficios comparadas con las ecuaciones de regresión lineal clásicamente utilizadas. Representan a una amplia población, evitan los ‘saltos” que inevitablemente ocurren al utilizar diferentes ecuaciones por rangos de edades y utilizan como cofactor la etnicidad cuando corresponde.
+
+Al comparar los valores medidos en chilenos sanos de los diferentes trabajos publicados con los valores GLI 2012, a los que más se asemejan los valores chilenos son a los de raza caucásica, siendo siempre algo superiores (Tabla 5).
+
+Tabla 5 Comparación con GLI 2012 
+
+El ajuste perfecto corresponde a z-score promedio = 0 con DS = 1. DS: desviación estándar o DE.
+
+Dado los beneficios que conlleva utilizar las ecuaciones GLI 2012, y la demostrada aplicabilidad en nuestra población, sumado a las diferentes etnias emigradas a nuestro país, recomendamos utilizar a nivel nacional las ecuaciones GLI 2012.
+
+XII. Registro de resultados
+
+Obtenidas al menos 3 maniobras aceptables y repetibles, con un máximo de 8 intentos, elegir entre las 2 mayores, el mejor valor medido de CVF y VEF1, aunque sean de diferentes maniobras. Registrar la relación VEF1/CVF de la maniobra que tenga la suma más alta de CVF + VEF1 (“mejor curva”).
+
+En la Figura 4 se adjunta un algoritmo de ejecución del examen.
+
+Figura 4 Algoritmo de ejecución de la sesión espiro-métrica. Modificado de ATS/ ERS 2005. 
+
+En niños preescolares con tiempo espiratorio menor a 1 s no se puede consignar VEF1 ni relación VEF1/cVF. se recomienda evaluar VEF0,5; VEF0,75 y el índice VEF0,75/CVF para el diagnóstico de limitación obstructiva.
+
+El informe de la espirometría debe incluir todos los datos referidos a identidad y características antropométricas del paciente: Nombre completo, número de la cédula de identidad, fecha de nacimiento, edad en años (en niños con un decimal), sexo, estatura (cm), peso (kg), etnicidad, fecha y lugar de realización del examen, Además equipo y valores de referencia utilizados. otra información útil: historia de tabaquismo, motivo del examen y nombre del médico solicitante.
+
+La nueva estandarización de informe espirométrico ATS/ERS 2017 hace las siguientes recomendaciones:
+
+En el Informe de espirometría solo se debe incluir información con utilidad clínica validada. para los informes de rutina sólo se requiere CVF, VEF1 y VEF1 /CVF. La medición de la capacidad vital lenta (CV) y la relación VEF1/ CV puede ser útil en pacientes con sospecha de obstrucción. No se debe utilizar el FEF25-75 por su alta variabilidad.
+
+Los valores medidos deben registrarse antes de los valores de referencia expresados sólo como límite inferior de normalidad (LIN).
+
+Se propone mostrar la diferencia de los valores medidos respecto a los valores de referencia en z-score además del porcentaje con respecto al teórico al cual estamos acostumbrados.
+
+
+
+
+
+z−score=x - μδ
+
+
+
+
+
+Donde, “x” es el valor obtenido, “μ” es la media poblacional para las características antropométricas del sujeto y “ δ” la desviación estándar.
+
+Se sugiere informar la relación VEF1/CVF como una fracción decimal y no informar como un porcentaje del valor predicho para esta relación.
+
+De la misma forma, registrar los valores de todas estas variables obtenidos después de la inhalación del broncodilatador y su cambio (diferencia en valor absoluto) expresado como porcentaje del correspondiente valor basal.
+
+En los equipos portátiles elegir la “mejor curva”, a menos que el operador sea especialista y pueda “componer” los valores numéricos.
+
+En equipos grandes o portátiles siempre se imprime la mejor curva, aunque los valores hayan sido compuestos.
+
+Debe incluirse además las curvas flujo-volumen y volumen-tiempo para permitir evaluar la calidad de los valores obtenidos. Estos gráficos deben ser de buena resolución y con escalas ajustadas a los datos, especialmente en niños, para poder apreciar la calidad de las curvas.
+
+En los equipos portátiles que no imprimen el límite inferior de normalidad: LIN como percentil, es aconsejable hacer una página de informe con todas las variables ya señaladas, anotar en ella los valores numéricos, obtener el Lin (percentil 5) de tabla ad hoc y adjuntar el papel con la impresión de las curvas que entrega el equipo.
+
+En la Figura 5 se presenta el nuevo formato de informe recomendado por ATs/ERs 2017.
+
+Figura 5 Formato de informe de espirometría recomendado. 
+
+XIII. Interpretación del informe de espirometría en el laboratorio
+
+A. Calidad de la prueba y comparación de los valores obtenidos con los valores de referencia
+
+Para realizar una adecuada interpretación de los resultados espirométricos, primero se debe observar la calidad de las curvas obtenidas, tanto la de volumen/tiempo como la flujo/volumen para verificar que cumplan con las características de aceptabilidad definidas en el capítulo VIII. Después se debe comparar los valores obtenidos con el LIN de los valores de referencia utilizados.
+
+Para interpretar la espirometría empezar siempre por analizar la relación VEF1/CVF con respecto al LIN predeterminado. si está por debajo, corresponde a una limitación obstructiva, en caso contrario, puede ser normal o sugerir una alteración restrictiva.
+
+B. Normalidad espirométrica
+
+Es aquella cuyos valores de VEF1/CVF, CVF y VEF1 se encuentran sobre el UN.
+
+C. Patrones de alteración espirométricas (Tabla 6)
+
+Alteración ventilatoria de tipo restrictiva: la relación VEF1/CVF es normal y la CVF se encuentra por debajo de su LIN con el VEF1 proporcionalmente bajo. Para confirmar una alteración restrictiva se deben medir volúmenes pulmonares.
+
+Alteración ventilatoria obstructiva: tiene por definición la relación VEF1/CVF bajo el LIN, la CVF igual o superior a su LIN (se debe considerar el valor más alto, ya sea de la maniobra basal o la post-broncodilatador: Bd) y el VEF1 puede estar bajo su LIN o ser normal.
+
+Alteración ventilatoria obstructiva con CVF disminuida: la relación VEF1/CVF está bajo su LIN, al igual que la CVF y el VEF1, siendo la caída de este último mayor que la de la cVF. se debe tener presente que el Bd no debe mejorar la cVF sobre su LIN, pero puede haber cambios significativos. Para confirmar una alteración restrictiva se deben medir volúmenes pulmonares.
+
+Es importante interpretar con cautela los valores espirométricos cercanos a los límites inferiores de normalidad, evitando clasificarlos en alguno de los patrones espirométricos antes descritos, consignando “valores espirométricos en límites inferiores de normalidad”.
+
+Graduación de las alteraciones espirométricas
+
+Se ha decidido adherir a las guías internacionales ATS/ERS. La estimación de la gravedad de la alteración espirométrica se realiza de acuerdo al porcentaje del VEF1 con respecto al teórico, y/o con la desviación del z score21 con respecto al teórico (Tabla 7).
+
+Tabla 6 Características de las principales alteraciones espirométricas 
+
+Disminuido/a con respecto al límite inferior (LIN) de cada índice.
+
+*En algunos casos el VEF1 puede ser normal (ver texto).
+
+Tabla 7 Graduación de la gravedad de las alteraciones espirométricas basadas en el VEF1 
+
+D. Respuesta a broncodilatadores
+
+En adultos un cambio significativo postbroncodilatador corresponde a la mejoría de al menos 12% de la CVF y/o del VEF1 respecto al valor basal, siempre y cuando se acompañe de un cambio de volumen de al menos 200 ml en el índice espirométrico respectivo.
+
+En pacientes obstructivos leves por estar cerca de sus valores máximos, la espirometría post-broncodilatador puede estar normal, sin haber cumplido los criterios de cambio significativo. En estos casos se debe informar como obstrucción leve que se normaliza con el broncodilatador.
+
+En niños se considera cambio significativo la mejoría de al menos un 12% en VEF1, VEF0,75 o VEF0,5.
+
+El cálculo del % de cambio post-broncodilatador se debe realizar usando la siguiente fórmula:
+
+XIV. Interpretación de la Curva F/V para estudio de obstrucción de la Vía Aérea Superior (OVAS)
+
+Las alteraciones en la curva flujo/volumen su-gerentes de obstrucción de la vía aérea superior, tienen baja sensibilidad y baja especificidad22. sin embargo, es importante saber reconocerlas para alertar al clínico sobre esta posibilidad23.
+
+Para su adecuada interpretación se requiere que la maniobra espirométrica haya sido realizada con una nueva inspiración máxima al final de la espiración forzada, que se haya graficado y permita medir el PEF (flujo espiratorio máximo) FEF50 (Flujo espiratorio forzado al 50% de la capacidad vital espiratoria) y el FIF50 (Flujo inspiratorio forzado al 50% de la capacidad vital inspiratoria), además de los índices espirométricos basales. Es importante tener en cuenta que la mayoría de las alteraciones en la curva inspiratoria son debidas a esfuerzo inspiratorio submáximo.
+
+Lo más importante es la visualización de la forma de la curva F/v en la cual se han descrito 3 patrones característicos de obstrucción (Figura 6, Tabla 8).
+
+Figura 6 Ejemplos de forma curva flujo/volumen en obstrucción de vía aérea alta. 
+
+Tabla 8 Índices de la curva flujo-volumen para diferenciar obstrucciones de las vías aéreas altas 
+
+XV. Interpretación clínica de la espirometría
+
+El informe espirométrico que entrega el laboratorio de función pulmonar describe la interpretación funcional de los resultados. la interpretación clínica de la espirometría debe ser efectuada por el médico tratante en el contexto específico de cada paciente.
+
+Este manual tiene como uno de sus propósitos entregar una orientación respecto a la interpretación clínica de los resultados espirométricos en las situaciones clínicas más frecuentes.
+
+A. Rol de la espirometría en el asma bronquial
+
+En todo paciente con sospecha de asma bronquial se debe realizar una espirometría basal y con broncodilatador para evaluar una alteración espirométrica obstructiva reversible o con cambio significativo postbroncodilatador. La espirometría es útil para confirmar el diagnóstico de asma bronquial, para evaluar la respuesta al tratamiento, riesgo de exacerbaciones y monitorización periódica de la función pulmonar. pacientes con un VEF1 disminuido especialmente < 60% del teórico y con mayor respuesta postbroncodilatadora tienen mayor riesgo de exacerbación. se ha demostrado que un 75% de los niños con asma persistente moderada a grave tienen un patrón de crecimiento pulmonar anormal y declinación precoz de la función pulmonar con mayor riesgo de desarrollar EPOC en la vida adulta26.
+
+Se recomienda realizar espirometría en las siguientes situaciones:
+
+Sospecha diagnóstica de asma bronquial antes de inicio de tratamiento.
+
+A los 3 a 6 meses después de haber iniciado el tratamiento y después de suspenderlo.
+
+Persistencia o deterioro de síntomas respiratorios.
+
+Al menos cada 1 o 2 años para evaluar la mantención de la función de la vía aérea.
+
+En un gran porcentaje de pacientes con asma, la espirometría es normal en su período estable, lo que no descarta el diagnóstico de asma.
+
+Patrones espirométricos posibles de observar en asma bronquial:
+
+Alteración obstructiva reversible, que normaliza postbroncodilatador. Confirma el diagnóstico y es el patrón más característico de asma bronquial.
+
+Espirometría normal. No descarta asma bronquial, ya que el examen puede haberse efectuado entre las crisis.
+
+Alteración espirométrica obstructiva con escasa o nula reversibilidad no excluye asma. La alternativa es repetir la espirometría después de una prueba terapéutica.
+
+B. Rol de la espirometría en Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+
+En pacientes con sospecha clínica de Epoc se debe demostrar la existencia de limitación al flujo aéreo no totalmente reversible. Se confirma el diagnóstico de acuerdo a criterios GOLD, con una espirometría post-broncodilatador que tenga una relación vEF1/cvF < 0,7. en GOLD 201827 se recomienda repetir la espirometría en los casos que tienen vEF1/CVF entre 0,6 y 0,8 para confirmar el diagnóstico.
+
+En estos pacientes se pueden observar los siguientes resultados de este examen:
+
+Alteración espirométrica obstructiva sin cambio significativo con broncodilatador este es el patrón más característico de Epoc.
+
+Alteración espirométrica obstructiva con cambio significativo con broncodilatador sin llegar a la normalidad. En estos pacientes se debe estudiar la posibilidad de asociación con asma bronquial.
+
+Alteración espirométrica obstructiva que con broncodilatadores se normaliza. se descarta Epoc, excepto si la relación vEF1/cvF post-broncodilatador es < 0,7.
+
+Espirometría normal. puede tener el diagnóstico de Epoc si la relación VEF1/cVF < 0,7 de acuerdo a criterios GOLD.
+
+Los pacientes con enfisema pulmonar en etapa inicial pueden tener la espirometría normal, y no tienen EPOC por criterios GOLD.
+
+Se recomienda realizar espirometría anual a todo fumador mayor de 40 años con el objetivo de detectar la enfermedad precozmente.
+
+En el seguimiento de los pacientes en tratamiento por EPOC, debería controlarse la función pulmonar con espirometría en forma periódica. según GOLD 2018 siempre se debe repetir espirometría a los 3 a 4 meses post-exacerbación.
+
+C. Otras consideraciones
+
+Es importante considerar los resultados de la espirometría en el contexto clínico, especialmente cuando los valores espirométricos están cercanos a los límites inferiores de normalidad.
+
+Por otra parte, la ausencia de respuesta al broncodilatador durante el examen no implica una falta de respuesta clínica a la terapia broncodilatadora.
+
+Anexo 1
+
+Técnica inhalatoria con aerosol presurizado 
+
+*Se recomienda cámara espadadora con válvula inspiratoria y espiratoria unidireccional de baja resistencia.
+
+
+
+*Se recomienda usar cámara espaciadora con válvula unidireccional. En niños pequeños de 4 a 6 años de edad usar cámara espaciadora con válvula inspiratoria y espiratoria unidireccional de baja resistencia.
