@@ -1,0 +1,234 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262018000200147
+Factores pronósticos de sobrevida alejada en cáncer gástrico. Introducción del nuevo índice N+/T
+
+Introducción
+
+El cáncer gástrico en Chile ha experimentado un significativo cambio en cuanto a tratamiento y pronóstico en los últimos 40 años. Es así como se ha presenciado un aumento de pacientes con cánceres indiferenciados (en especial el tipo anillo en sello), tumores de tercio superior del estómago, una mayor proporción de gastrectomías totales, junto con una significativa disminución de mortalidad quirúrgica y mejora en sobrevida global a 5 años (SVg5)1–4.
+
+La identificación de algunos factores pronósticos ha permitido predecir qué pacientes tendrán una peor evolución y así contribuir en la toma de decisiones terapéuticas5. Sin embargo, en nuestra realidad nacional existe un déficit de estudios que analicen factores pronósticos de sobrevida alejada.6. El objetivo principal de este estudio fue evaluar distintos factores pronósticos de sobrevida alejada en cáncer gástrico. Los objetivos secundarios son: 1. describir las características demográficas de la población estudiada, b) analizar la evolución posoperatoria de los pacientes, c) determinar la tasa de sobrevida global mayor a 5 y 10 años posoperatoria y d) evaluar el valor de un nuevo factor pronóstico de sobrevida alejada denominado N+/T.
+
+Material y Método
+
+Este trabajo es un análisis prospectivo de la base de datos oncológica del Hospital Clínico de la Universidad de Chile. El período de análisis fue entre mayo de 2004 y mayo de 2012, con el objeto de tener un seguimiento mayor a 5 años en todos los pacientes vivos de ese período de tiempo.
+
+Pacientes estudiados
+
+En el presente estudio se incluyeron todos los pacientes con adenocarcinoma gástrico y de unión gastroesofágica Siewert II y III en población adulta, tratados en forma quirúrgica con intención curativa. Se incluyeron gastrectomías subtotales, totales y ampliadas. Estas últimas se definieron como aquellas gastrectomías que incluyeron resección adicional de otro órgano para alcanzar el R0, como esófago intratorácico, colon, páncreas y riñón.
+
+Técnica quirúrgica
+
+Las cirugías realizadas fueron gastrectomías subtotales en caso de lesiones distales sin células en anillo de sello, o gastrectomías totales en caso de tener un carcinoma de tipo intestinal del tercio medio o proximal o un carcinoma difuso de cualquier localización. Se obtuvo un margen distal a 2 cm del píloro y el margen proximal a 4 cm en caso de lesiones incipientes y 6 cm en caso de lesiones avanzadas, lo que corresponde a una cirugía R0. En todos los pacientes se realizó biopsia contemporánea intraoperatoria para confirmar bordes de sección libres de compromiso tumoral. La linfadenectomía fue D2, excepto en casos de lesiones incipientes donde se realizó D1 alfa o beta. La omentectomía mayor y menor fue de regla en casos de lesiones avanzadas, mientras que en casos de lesiones incipientes se realizaron omentectomías parciales a 6 cm de arcada gastromental. En las lesiones de cara posterior con compromiso de serosa se realizó bursectomía. La esplenectomía se llevó a cabo en caso de compromiso linfonodal del grupo 10 o ante invasión tumoral esplénica. En caso de lesiones con compromiso de órganos adyacentes por contigüidad (no metastásico) se realizó una gastrectomía ampliada para alcanzar R0.
+
+Definiciones
+
+a) La clasificación TNM y el estadio final, se estandarizó empleando la 7ᵃ ed. de la AJCC para todos los pacientes.
+
+
+
+Estadios
+
+Los estadios se clasificaron según la combinación de los distintos factores del TNM de la siguiente manera, siguiendo la 7ᵃ ed. de la AJCC.
+
+
+
+b) El índice linfonodal (LNR) definido como el cuociente entre el número de linfonodos comprometido por metástasis histológica y el número total de linfonodos cosechados (expresado en porcentaje), se subdividió en 0: 0% de linfonodos comprometidos, 1: de 1% a 9% de linfonodos comprometidos, 2: de 10 a 25% de linfonodos comprometidos y 3: más de 25% de linfonodos comprometidos7.
+
+c) El índice N+/T calcula el cuociente entre el número de linfonodos positivos para metástasis de adenocarcinoma y la clasificación T del paciente. Para fines matemáticos las subdivisiones de T1a y T1b se asumieron indistintamente como 1 en el denominador (ejemplos: 1/T1a = 1/1 = 1, 6/ T3 = 6/3 = 2, 24/T4 = 24/4 = 6). Los resultados de la razón se dividieron en subgrupos N+/T A (0), N+/T B (0,1-3) y N+/T C (> 3).
+
+d) La mortalidad quirúrgica se definió desde el momento de la cirugía hasta 30 días posoperatorios.
+
+e) La sobrevida global se definió desde el alta hospitalaria, eliminando la mortalidad quirúrgica.
+
+f) La sobrevida alejada se definió como aquella mayor a 5 años posoperatorios.
+
+g) El tiempo cero para determinar asociación pronostica fue la gastrectomía.
+
+h) Las comorbilidades fueron definidas a partir de las guías ministeriales chilenas MINSAL8–11.
+
+Cálculos estadísticos
+
+Los factores pronósticos evaluados fueron demográficos (sexo, edad, clasificación ASA, comorbilidades), clínicos (síntomas, exámenes de laboratorio), quirúrgicos (tipo de gastrectomía, morbilidad quirúrgica, morbilidad médica), anatomopatológicos (presencia de células en anillo de sello, permeación linfovascular, compromiso perineural, clasificación TNM y estadios de dicha clasificación), e índices pronósticos (índice linfonodal e índice N+/T).
+
+La distribución de las variables se determinó por test de Shapirowilk. De acuerdo a este, las variables continuas con distribución paramétrica (ordinal) se expresan en promedio y desviación estándar (DS), mientras que en las variables continuas con distribución no paramétricas (nominal) se empleó mediana y rango intercuartil (IC25%-75%). Las variables categóricas fueron descritas en porcentajes. Se utilizó test de Fisher, χ2, t de student y Wilcoxon Rank-Sum según característica y distribución de las variables. Para el análisis estadístico analítico se empleó el programa StataR 14, se consideró estadísticamente significativo un p < 0,05, se realizaron análisis uni y multivariado de los factores pronósticos calculando el odds ratio (OR) con un intervalo de confianza (IC) de 95%. Para las curvas de sobrevida se empleó el método de Kaplan-Meier en el programa Prism7MR. En la creación de curvas ROC se empleó el programa StataR 14.
+
+Seguimiento
+
+Considerando los criterios de exclusión, el presente estudio posee un 100% de seguimiento. El llenado de la base de datos se realiza en forma prospectiva con cada paciente, mientras que la actualización de la sobrevida se lleva a cabo en forma anual (mes de febrero), con la base de datos de nuestro hospital y del Registro Civil de Chile.
+
+Resultados
+
+Se incluyeron un total de 284 pacientes, de los cuales un 65,4% fueron hombres, la edad media fue 64,5 años (± 12,7 DS). Un 69,7% de los pacientes presentaron comorbilidades siendo la hipertensión, el tabaquismo y la diabetes las más frecuentes, con un 38,3%, 34,8% y 17,6% respectivamente (Tabla 1). Según la clasificación ASA12, un 21,1% fueron ASA I, 70,7% fueron ASA II y 8,0% fueron ASA III. Un 24,6% de los pacientes presentaban familiares de primer grado con cáncer gástrico.
+
+Tabla 1 Comorbilidades de la población global de pacientes (n: 284) 
+
+HTA: Hipertensión arterial, DM2: Diabetes mellitus 2, DLP: Dislipidemia, IAM: Infarto agudo al miocardio, ACV: Accidente cerebrovascular, ICC: Insuficiencia cardíaca congestiva.
+
+En relación a la forma clínica de presentación un 55,9% presentaron epigastralgia, 10,5% disfagia y 10,1% saciedad precoz. La baja de peso se identificó en un 45,7% con una mediana de pérdida de 8 kg (2-35 kg). La anemia (HTO < 35%) estuvo presente en un 30,9%, mientras que la desnutrición proteica (albúmina < 3,5 mg/dl) en un 12,6%.
+
+Respecto a la técnica quirúrgica, 72,5% de los pacientes requirieron una gastrectomía total, 19,7% un subtotal y 7,8% una gastrectomía ampliada. El detalle de los órganos extraídos adicionalmente se detalla en la Figura 1. La linfadenectomía practicada fue un D1 alfa o beta en un 14,7% y un D2 en un 85,2%. La cosecha linfononodal global media fueron 30 linfonodos (IC25-75%: 22-41). El número de los ganglios cosechados en linfadenectomías D1 (alfa y beta) corresponde a 28 (IC25%-75%:19-32,5), mientras que en D2 es 33 (IC25%-75%: 24-44). El tiempo operatorio promedio fue de 20°8 min (± 63,8 DS). El 100% de la muestra fueron resecciones R0.
+
+Figura 1 Órganos adicionales resecados en las gastrectomías ampliadas (n: 22). 
+
+La estadía hospitalaria media de los pacientes fue de 9 días (IC25-75%: 7-11). La morbilidad quirúrgica posoperatoria correspondió a 17,2%, mientras que la mortalidad quirúrgica fue de 5 pacientes (atribuidas a 3 filtraciones de esofagoyeyuno anastomosis, 1 neumonía asociada a ventilación mecánica y una fístula de muñón duodenal) lo que representa un 1,7% (Tabla 2).
+
+Tabla 2 Morbilidad y mortalidad posoperatoria (n: 284) 
+
+SDRA: Síndrome de distrés respiratorio del adulto, TEP: Tromboembolismo pulmonar, ITU: infección del tracto urinario, ICC: insuficiencia cardíaca congestiva, IAM: infarto agudo de miocardio.
+
+El estudio histopatológico identificó que un 58,4% de los tumores fueron de tipo intestinal, mientras que el 36,6% son de tipo difuso (indiferenciados o con células en anillo de sello) y un 4,9% fueron mixtos. Un 25% de la muestra corresponde a cánceres incipientes y un 75% a avanzados. Los pacientes con células en anillo de sello representan un 24,2% de la muestra total. La permeación linfovascular se identificó en un 50,3% de la muestra, mientras que el compromiso perineural en un 41,5%. La media de linfonodos comprometidos por paciente fue 2 (IC25_75%: 0-9) y la media del índice ganglionar de toda la muestra fue 7% (IC25-75%: 0-31,2), lo que corresponde a una clasificación de LNR 1. Las Tablas 3 y 4 muestran la clasificación TNM y estadio de los pacientes.
+
+Tabla 3 Clasificación T y N (n: 284) 
+
+Clasificación TNM según la 7ᵃ ed. de la AJCC de 2010.
+
+Tabla 4 Estadios TNM (n: 284) 
+
+Clasificación por estadio según la 7ᵃ ed. de la AJCC de 2010.
+
+La sobrevida global media fue de 69,9 meses (intervalo entre 1 y 158 meses, con DS ± 47,9). La tasa de pacientes con una SVg5 fue de 56,9%, de este grupo un 40,2% fueron cánceres incipientes y un 59,8% avanzados, la SVg5 de estos fue 90,1% y 44,6% respectivamente. Las curvas de sobrevida según clasificación T y N se detallan en la Figura 2, ambas gráficas muestras diferencias estadísticamente significativas entre grupos con un p < 0,0001 para cada una.
+
+Figura 2 Curvas de sobrevida global según clasificación T y N. A) Sobrevida según T y B) Sobrevida según N. Svg%: porcentaje de sobrevida global. 
+
+La sobrevida global mayor a 10 años de la población que completó el seguimiento entre 2004 hasta 2007 (133 pacientes), fue de 53,4%, este tipo de sobrevida en cánceres incipientes (27,1% de dicha cohorte) fue 88,8%, mientras que en cánceres avanzados (72,9% de dicha cohorte) fue 40,2%.
+
+Al comparar la evolución de la sobrevida entre pacientes con más y menos de 5 años de supervivencia, se objetiva que, dentro del grupo de pacientes con sobrevida exclusivamente menor a 5 años, un 50,7% fallece antes de los 2 años, mientras que la población de pacientes con sobrevida exclusivamente mayor a 5 años presenta sólo una caída de 17,2% entre el 5° y 10° año posoperatorio (Figura 3).
+
+Figura 3 Curvas de sobrevida global diferenciando paciente con sobrevida global mayor y menor a 5 años. Svg > 5 años: sobrevida global mayor a 5 años, Svg < 5 años: sobrevida global menor a 5 años, Svg%: porcentaje de sobrevida global. *50,7% de los pacientes con sobrevida menor a 5 años fallece antes de los 24 meses. **Sobrevida a 10 años del grupo de pacientes con supervivencia mayor de 5 años entre 2004 y 2007. 
+
+La sobrevida global según el índice linfondal de nuestra población estudiada se refleja en la Figura 4.
+
+Figura 4 Curvas de sobrevida global alejada según grupos de LNR. Svg%: porcentaje de sobrevida global. 
+
+La diferencia observada alcanza una significancia estadística con un p < 0,0001.
+
+Al analizar el índice N+/T, se identifica una diferencia estadísticamente significativa en la sobrevida global alejada de todos los subgrupos (N+/T A, N+/T B y N+/T C) con un p < 0,0001 (Figura 5).
+
+Figura 5 Curvas de sobrevida global alejada según grupos de índice N+/T. Svg%: porcentaje de sobrevida global. 
+
+Al realizar el estudio comparativo univariado entre pacientes con menos o más de 5 años de sobrevida global, se obtienen los resultados expuestos en la Tabla 5. En este tipo de análisis, el índice N+/T logra discriminar ambos grupos de manera estadísticamente significativa en cada una de sus divisiones (N+/T A, N+/T B y N+/T C). Los pacientes N+/T A presentan un p < 0,0001. OR: 0,12 (IC 95%: 0,070,21)], mientras que los pacientes N+/T C presentan un p < 0,0001. OR: 6,45 (IC 95%: 3,42-12,09)]. (Tabla 4).
+
+Tabla 5 Análisis univariado de factores pronóstico de sobrevida alejada (n: 279*) 
+
+IC: Intervalo de confianza, OR: Odds ratio, SVg > 5 años: sobrevida global mayor a 5 años, SVg < 5 años: sobrevida global menor a 5 años.
+
+*Se excluyeron los 5 pacientes que presentaron mortalidad quirúrgica,
+
+**El análisis de edad se realizó considerándola como variable continua, las edades expresadas en las columnas son los promedios de edad de los pacientes con menos y más de 5 años de sobrevida.
+
+El análisis multivariado de los factores pronósticos está representado en la Tabla 6, donde se evidencia que las variables que persisten siendo significativas son: índice N+/T, LNR, edad, permeación linfovascular, clasificación T, clasificación N y estadio TNM.
+
+Tabla 6 Análisis multivariado de factores pronóstico de sobrevida alejada 
+
+IC: Intervalo de confianza, OR: Odds ratio. LNR: Índice linfonodal.
+
+La curva ROC del índice N+/T y las curvas comparativas entre las variables predictoras T y LNR se representa en la Figura 6. El área bajo la curva de N+/T es 0,789 y la diferencia apreciada entre las curvas de las tres variables comparadas no alcanza una significancia estadística, con un p = 0,96.
+
+Figura 6 Curvas ROC. A) curva N+/T con un área bajo la curva igual a 0,78; B) curva de N+/T comparativa con T y LNR con áreas bajo la curva iguales a 0,78 y 0,79 respectivamente. 
+
+Discusión
+
+Los resultados principales de este estudio sugieren que:
+
+La población de pacientes estudiados, poseen características demográficas comparables a otras publicaciones.
+
+Los resultados quirúrgicos de morbilidad y mortalidad posoperatorio son aceptables según estándares internacionales.
+
+Los resultados oncológicos cumplen modelos de calidad en el manejo moderno del cáncer gástrico.
+
+En el grupo de pacientes con sobrevida menor a 5 años, la mayoría fallecen antes de los 24 meses, en su mayoría por progresión de enfermedad.
+
+Existen distintas variables que predicen de manera significativa la población susceptible de alcanzar una sobrevida alejada posoperatoria.
+
+El índice N+/T es una herramienta que puede ser útil en la predicción de sobrevida mayor a 5 años en pacientes operados de adenocarcinoma gástrico con intención curativa.
+
+La presentación y tratamiento del cáncer gástrico ha cambiado en los últimos 40 años. La frecuencia de tumores distales disminuyó de 64% a 25%, la proporción de tipo intestinal:difusa pasó de 3-4:1 a casi 1:1, la tasa de resecabilidad ha aumentado de 48% a 85% (p < 0,001), un 75% de los casos son gastrectomías totales y la mortalidad quirúrgica ha disminuido de 25% a 0,8% (p < 0,0001)1,13.
+
+Los cambios epidemiológicos presentan distintas explicaciones13, mientras que los mejores resultados posoperatorios se han debido principalmente a 2 factores: “factor primario y factor secundario”, el primero hace mención al rol de cirujano y su equipo quirúrgico especializado en esta patología, mientras que el factor secundario es representado por los avances de medicamentos y las unidades de apoyo como cuidados intensivos, nutrición médica, kinesioterapias, radiología intervencional, entre otras14.
+
+La serie estudiada en el presente artículo refleja parte de estos cambios. Es así como un 40% de los casos son lesiones difusas, 2/3 de la población requirieron de una gastrectomía total (esta cifra aumenta si se consideran el grupo de pacientes con gastrectomía total ampliada, del cual el 100% fueron totales), la morbilidad posoperatoria es de 25,9% y la mortalidad quirúrgica es 1,7%, estando estas cifras dentro de los estándares de calidad expuestos en el último consenso panamericano de cáncer gástrico15.
+
+La SVg5 de los pacientes en el presente estudio es de 56,9%, este valor es comparable a otras publicaciones16. Al analizar los casos con sobrevida menor de 5 años cerca de un 50% fallece antes de los 24 meses, en su mayoría por progresión de enfermedad, lo cual se ha documentado en otros reportes4,17,18. Un aspecto interesante es que la curva de sobrevida de la población con supervivencia mayor a 5 años, tiende a aplanarse entre el 5° y 10° año de seguimiento posoperatorio, lo que objetiva que el principal período de mortalidad en este grupo de pacientes, es en los primeros 2 años posoperatorio.
+
+En relación a factores pronósticos de sobrevida alejada, se han diseñado guías que permiten tomar decisiones en relación a estrategias terapéuticas para optimizar el pronóstico oncológico de estos pacientes, es así como la clasificación TNM ha permitido pautar el pronóstico y manejo de estos pacientes, su última actualización es del año 2010 (AJCC, Chicago, Illinois), mientras que las últimas pautas del NCCN son de 20 1 75.
+
+La eficacia pronóstica de la clasificación TNM y sus estadios es conocida y ha sido analizada por distintos grupos de trabajo internacionales7,19,20 y nacionales16,21,22.
+
+En los últimos años se han analizado distintos factores complementarios predictores de sobrevida alejada.
+
+Género
+
+La evidencia en relación al impacto del género en la sobrevida de pacientes con cáncer gástrico es controversial, si bien existen artículos que defienden una significancia estadística23,24, hay evidencia que se contrapone25,26.
+
+Los resultados de esta publicación sugieren una asociación entre el sexo femenino y sobrevida alejada con un p = 0,014 [OR: 1,88 (IC 95%: 1,153,07)]. Sin embargo, en el análisis multivariado no se demostró significancia estadística.
+
+Edad
+
+El rol de la edad en el pronóstico de los pacientes sometidos a gastrectomía por cáncer ha sido estudiado por distintos autores23,27,28.
+
+En esta serie no se logró identificar impacto pronóstico de la edad en la evolución de los pacientes tomando como margen los 70 años. Sin embargo, al evaluar la edad como variable continua, se determinó que a mayor edad existe peor pronóstico oncológico, tanto en análisis uni como multivariado con un p = 0,008.
+
+Estado nutricional
+
+El estado nutricional ha sido ampliamente estudiado por distintos autores tanto en el período preoperatorio como posoperatorio, es así como Liu analiza el impacto del IMC, la albúmina y triglicéridos preoperatorios, logrando identificar significancia en análisis multivariado de estos factores en el pronóstico de sobrevida29. Jun también estudió el impacto en supervivencia del IMC preoperatorio en una población de 211 cánceres gástricos avanzados estadio II-III sometidos a cirugía curativa y quimioterapia adyuvante, sus hallazgos apoyan un factor protector de un IMC ≥ 23 kg/mt2, aunque no logra demostrar impacto en recurrencia30. Un factor recientemente descrito es la sarcopenia en el pronóstico de estos pacientes. Zheng analizó una población cercana a 1.000 cánceres gástricos sometidos a gastrectomía radical, en su estudio logró establecer cómo la sarcopenia, definida a través del índice musculoesquelético por tomografía computada, impacta negativamente el pronóstico de los pacientes, con una sobrevida a 3 años de 55%, en comparación a la población sin sarcopenia con una sobrevida de 75%. Además, ideó un score pronóstico combinando cT, cN y sarcopenia, demostrando una sobrevida a 3 años de 89% en la población de bajo riesgo y de 54,8% para el grupo de alto riesgo (p < 0,001)26. En el análisis de la evolución nutricional posoperatoria, un estudio coreano con más de 1.900 pacientes revisó en forma retrospectiva aquellos pacientes con cáncer gástrico sometidos a gastrectomía, este estudio concluyó que un IMC > 25 kg/mt2 al año posoperatorio representa un factor protector en sobrevida global en comparación a la población normopeso, alcanzando un 49% de reducción de mortalidad (HR 0,51; IC 95%: 0,26- 0,98)31.
+
+Células tumorales circulantes
+
+Lee logró mostrar una mejor sobrevida libre de enfermedad en aquellos pacientes con ≤ 5 células tumorales circulantes en 7,5 ml de sangre periférica con un p = 0,03432.
+
+Sin embargo, una desventaja de este marcador es su costo, es así como esta realidad existe en modelos experimentales, ya que resulta poco implementable, por ahora, como método de estudio para políticas públicas.
+
+Tipo de gastrectomía
+
+Generalmente es aceptado que aquellos tumores gástricos distales poseen mejor pronóstico que los cardiales, esto se ha atribuido a que en la cara posterior del área subcardial existe una región gástrica retroperitonal sin cobertura serosa, la cual pudiese predisponer a una invasión tumoral de la grasa perigástrica, y por ende poseer un estadio mayor, en forma más precoz33,34. De esta forma, existen reportes que atribuyen a las gastrectomías subtotales un factor protector en relación a sobrevida alejada7,35–42. Esta evidencia es concordante con lo expuesto en el presente estudio donde las gastrectomías subtotales presentaron un factor protector estadísticamente significativo para sobrevida alejada con un p = 0,01. Sin embargo, esta asociación se pierde luego del análisis multivariado.
+
+Pérdidas sanguíneas
+
+Lian estudió una población de 845 cánceres gástricos estadios I-III sometidos a gastrectomía curativa. Concluyó que existe un impacto en sobrevida inversamente proporcional a las pérdidas hemáticas intraoperatorias, pérdidas menores a 200 cc presentan una sobrevida alejada de 51%, mientras que pérdidas de 200-400 cc tienen 39% y aquellas mayores de 400 cc sólo 23%25.
+
+Histología
+
+Históricamente se ha evaluado el impacto de la diferenciación tumoral y el compromiso linfovascular en la sobrevida global de los pacientes. Al igual que lo objetivado en este trabajo, donde la presencia de células en anillo de sello, la permeación linfovascular y el compromiso perineural lograron demostrar significancia pronóstica. Un estudio chino de 323 pacientes operados en forma curativa mostró en el análisis multivariado que el grado de diferenciación, el compromiso vascular y las metástasis linfáticas son herramientas pronósticas para determinar sobrevida libre de enfermedad, con un hazard ratio (HR) de 3,5, 3,4 y 4,2 respectivamente; al evaluar estos factores en el pronóstico de sobrevida global y de metástasis hematógena, sólo la diferenciación celular se mantuvo estadísticamente significativa con un HR de 1,6 y 5,623.
+
+Nomograma
+
+Una manera de integrar el valor pronóstico de distintos factores es el desarrollo de nomogramas, así un estudio norteamericano multicéntrico con más de 1.600 pacientes desarrolló un nomograma que combina: sexo, edad al momento de cirugía, localización tumoral, clasificación de Lauren, diámetro tumoral, T y N. Al seguir la pauta de su estudio se obtiene un índice de concordancia de 0,77, logrando mejorar la capacidad de predicción de sobrevida específica relacionada a enfermedad a 5 años24,
+
+Índice linfonodal
+
+El índice linfonodal o LNR (lymph node ratio) compara la razón entre los linfonodos comprometidos y la cosecha linfonodal total. Se han estudiado distintos puntos de corte en subgrupos, Sin embargo, para el presente estudio se definieron los límites propuestos por un estudio chino basado en 710 pacientes sometidos a gastrectomía R07, en éste se definió los márgenes LNR en 4 categorías: 0 (0%), 1 (1-9%), 2 (10-25%), 3 (> 25%). Los resultados del análisis multivariado mostraron que el índice linfonodal, a diferencia de la clasificación TNM empleada, lograba predecir sobrevida de manera independiente.
+
+Otros autores también han logrado demostrar el impacto del LNR en la sobrevida de los pacientes19,21,27,40. Estas experiencias se reproducen en el presente estudio, el LNR logró mostrar significancia estadística en el análisis multivariado, con un gran poder pronóstico en el subgrupo LNR2, con un p < 0,0001; OR: 10,17 (IC 95% 5,37-18,8), en su contraparte el LNR0 ofrece un factor protector para sobrevida mayor a 5 años, con un p < 0,0001; OR: 0,12 (IC 95% 0,07-0,21).
+
+Índice N+/T
+
+Respecto al índice N+/T resulta lógico pensar que la potencialidad metastásica linfonodal de un tumor dependiendo de su grado de invasión pudiese predecir en forma fidedigna el pronóstico de los pacientes. De esta forma se ideó la razón entre los linfonodos comprometidos y la clasificación T, logrando demostrarse una diferenciación significativa entre las curvas de sobrevida global de los distintos subgrupos con un p < 0,0001 (Figura 5). Además, se objetivó una asociación pronóstica potente tanto en el análisis uni como multivariado para predecir sobrevida alejada a más de 5 años, con un p < 0,0001, 0,008 y < 0,0001, para los subgrupos A, B y C respectivamente. El análisis de curvas ROC (Figura 6) muestra cómo el índice N+/T posee un área bajo la curva de 0,789, sin diferencia estadísticamente significativa de los factores T y LNR con un p = 0,96. Si bien en el grupo de pacientes con sobrevida mayor a 5 años no se identificó diferencias pronósticas estadísticamente significativas en la evaluación de T, N y N+/T, es posible que con una población mayor de pacientes estudiados se habría alcanzado la significancia. Sin embargo, existe un reporte hecho por Moon20 quien en una cohorte de 500 pacientes con cáncer gástrico avanzado tratados con intención curativa, identifica que posterior a los 5 años de seguimiento, el TNM no logra predecir evolución excepto en estadios IV y sobre los 10 años de seguimiento ninguna de las variables estudiadas predijo evolución.
+
+Las publicaciones nacionales enfocadas a pronóstico de supervivencia en cáncer gástrico se han centrado en distintos aspectos. En términos de SVg5 la primera publicación chilena fue realizada por Frenkel en 195443, donde describió una SVg5 de 12,7%. Veinte años después en 1974, Csendes reportó el primer estudio multicéntrico de SVg5 en cáncer gástrico en Chile. Dicha publicación objetivó una SVg5 de 19% en los pacientes reseca- dos44, desde entonces esta tasa se ha mejorado hasta cifras cercanas a 49% y 65%21,22,35,55. Al evaluar exclusivamente los cánceres incipientes Csendes recientemente publicó una SVg5 de 88% y de 72% a 15 años45, mientras que Ceroni publicó una SVg5 de 98% y de 94,7% a 10 años16 (Tabla 7).
+
+Tabla 7 Sobrevida a 5 años reportada por autores chilenos en el tratamiento del cáncer gástrico con resecciones con intención curativa 
+
+*Publicaciones que analizan sólo cáncer gástrico incipiente.
+
+En cuanto al estudio de variables pronósticas de esta sobrevida, la mayoría de las publicaciones se enfocan en variables similares, como la clasificación de Lauren, la profundidad de invasión tumoral, el compromiso linfonodal y el estadio oncológico según clasificación TNM4,16,21,22,35,36–39,44,46–51,55. Algunas publicaciones han estudiado el impacto de la gastrectomía subtotal35–39,55, menos publicaciones han estudiado el impacto de la presencia de células en anillo de sello36,53, el uso de adyuvancia48,52,54, complicaciones posoperatorias48 y el índice linfonodal21. Las fortalezas de este trabajo son: a) tener una población estudiada numerosa y representativa de la realidad nacional e internacional; b) dicha población ha sido manejada siguiendo estándares internacionales de tratamiento del cáncer gastrico con intención curativa por un número reducido de cirujanos expertos en este tema; c) analizar el mayor número de variables pronósticas de supervivencia alejada en cáncer gástrico reportado en la literatura nacional y d) aportar un nuevo índice predictor de sobrevida.
+
+Las debilidades de esta investigación son: a) ser un estudio retrospectivo, sometido a los sesgos propios de dicha metodología; b) abarcar un período de tiempo donde existió un cambio de clasificación TNM (de 6ᵃ a 7ᵃ edición) lo cual impacta en la clasificación y posiblemente en el manejo de estos pacientes.
+
+En conclusión, el presente estudio logra demostrar la presencia de distintos factores pronósticos de cáncer gástrico concordantes con evidencias internacionales. Los factores pronósticos independientes de sobrevida mayor a 5 años son: índice N+/T, LNR, edad, permeación linfovascular, clasificación T, clasificación N y estadio TNM. Concomitantemente se ha logrado aportar un nuevo cuociente pronóstico en la evaluación de pacientes con adenocarcinoma gástrico resecados con intención curativa, el índice N+/T.
+
+Responsabilidades éticas
+
+Protección de personas y animales. El autor declara que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+Confidencialidad de los datos. El autor declara que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+Derecho a la privacidad y consentimiento informado. El autor ha obtenido el consentimiento informado de los pacientes y/o sujetos referidos en el artículo. Este documento obra en poder del autor de correspondencia.
+
+Financiación
+
+El autor declara no haber recibido ninguna financiación para la realización de este trabajo.
+
+Trabajo de Ingreso a la Sociedad de Cirujanos de Chile
+
+Agradecimientos
+
+Prof. Dr. Attila Csendes por su tutoría en el desarrollo del estudio. Drs. Katya Carrillo y Stefan Danilla por su apoyo estadístico. EU. Solange Cortés por su trabajo en la mantención de la base de datos oncológica HCUCH.

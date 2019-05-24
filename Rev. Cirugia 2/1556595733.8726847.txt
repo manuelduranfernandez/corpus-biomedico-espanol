@@ -1,0 +1,170 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262015000500006
+BODY-QoL: UN NUEVO INSTRUMENTO DE EVALUACIÓN DE RESULTADOS DESDE LA PERSPECTIVA DEL PACIENTE EN CIRUGÍA DEL CONTORNO CORPORAL ESTÉTICA Y POST BARIÁTRICA
+
+Resumen
+
+Objetivo: La evaluación de resultados cualitativos demanda la utilización de instrumentos sistemáticos y reproducibles. No existe actualmente un instrumento para evaluación de resultados en cirugía de contorno corporal. nuestro objetivo fue desarrollar un nuevo instrumento de autoreporte de resultados desde la perspectiva del paciente (PROM) para medir calidad de vida (CdV) asociada a satisfacción corporal. Materiales y Métodos: Se siguió un diseño fase 3 estándar para la creación de un instrumento de autoreporte de resultados por el paciente; en la fase 1 se utilizó un diseño cualitativo en 45 pacientes para desarrollar un marco conceptual y crear los dominios e ítems de la escala preliminar. En la fase 2, se condujo una evaluación de la población a gran escala en 1.340 pacientes a fin de reducir los ítems y dominios. En la fase 3, se realizó una evaluación final del instrumento desarrollado en 34 pacientes. La evaluación estadística incluyó análisis de factores, RASCH y regresión multivariada. Las propiedades psicométricas medidas fueron la confiabilidad interna de la escala, correlaciones item-test, item-retest y correlación test-retest. Resultados: El instrumento desarrollado consta de 4 dominios (Satisfacción con el abdomen, vida sexual, autoestima-vida social y síntomas psicológicos) y 20 ítems en total. El puntaje puede variar entre 20 (peor) y 100 (mejor). La tasa de respuesta fue 100%, confiabilidad interna 93,3%, concordancia test-retest 97,7%. La calidad de vida (CdV) asociada a imagen corporal fue superior en hombres que en mujeres (p < 0,001) y disminuye con la edad (p = 0,004) e incremento del IMC (p < 0,001). Los pacientes de cirugía de contorno corporal post bariátrica, puntuaron menos que los pacientes de estética en todos los dominios del instrumento Body-QoL (p < 0,001). En el postoperatorio el puntaje mejoró un promedio de 21,9 ± 16,9 (tamaño efecto 1,8, p < 0,001). Conclusiones: La calidad de vida asociada a satisfacción corporal puede ser medida de manera confiable con el instrumento Body-QoL. Puede ser utilizado en pacientes estéticos y postbariátricos, lipectomías asistidas por aspiración, lipoabdominoplastías, abdominoplastías y body-lift inferiores además de entregar un acercamiento basado en evidencia a la práctica clínica estándar.
+
+Palabras clave: Body-QoL, contorno corporal, post bariátrica.
+
+ 
+
+Introducción
+
+La medicina basada en evidencia ha cambiado la forma en la cual los clínicos proveen medicina1-3. Actualmente, si un nuevo tratamiento no ha probado ser efectivo en un estudio aleatorizado controlado bien diseñado, es poco probable que se convierta en la terapia estándar; por el contrario intervenciones clásicas que han probado ser inefectivas son reemplazadas por intervenciones nuevas más efectivas4,5. Esto se hace patente con la proliferación generalizada de guías clínicas basadas en evidencia6,7.
+
+Las mediciones de resultados de estudios de terapia pueden ser divididas en resultados de seguridad como mortalidad o morbilidad y resultados de eficacia como tasas de sobrevida o mejoría funcional8,9. En cirugía estética, el objetivo directo es hacer que un segmento de la anatomía sea más bello que antes10. No obstante, que el embellecimiento corporal es el objetivo obvio del paciente, las razones para que este se someta a un procedimiento riesgoso y costoso son de una naturaleza más compleja11,12. La disconformidad con la imagen corporal puede impactar negativamente en diversos aspectos de la calidad de vida (CdV) tales como: vida sexual, baja autoestima, aislamiento social, incluso impactando en su desempeño laboral, vida social y actividades recreacionales. Los casos leves de alteraciones corporales presentan pocos síntomas físicos, pero las ptosis abdominales moderadas a severas pueden llevar a sensación de bulto abdominal, dolor somático y problemas de los pliegues tales como excoriaciones y desarrollo de micosis11-13. De acuerdo con lo anterior, el objetivo subyacente de los procedimientos cosméticos es mejorar la CdV, por medio del embellecimiento corporal. Así, una manera confiable de medir la eficacia de los procedimientos de contorno corporal es medir su impacto en CdV desde la perspectiva del paciente y consecuentemente medir tanto los aspectos psicológicos, sociales y físicos que el paciente pueda atribuir a la discapacidad asociada a su autoimagen disminuida. Es por esto que la evaluación de resultados tradicional, usando fotografías y antropometría, si bien constituye una aproximación objetiva de los resultados, resulta insuficiente como método único de evaluación ya que no logra abordar todos los aspectos que impactan en la CdV del paciente.
+
+Actualmente el mejor acercamiento para medir resultados cualitativos o "blandos" es a través de cuestionarios desarrollados usando métodos sistemáticos y reproducibles8,14,15, usando un enfoque mixto cualitativo y cuantitativo. Estos cuestionarios rigurosamente desarrollados son válidos, reproduci-bles y como resultado son confiables. En particular, aquellos instrumentos que miden fenómenos desde la perspectiva del paciente se conocen como PROMs (Patient Reported Outcomes Measures) por sus siglas en inglés16. Usualmente los PROMs están estructurados en diferentes dominios que corresponden a diferentes preguntas que comparten un tópico común, como sexualidad, autoestima, bienestar social y síntomas físicos. Cada pregunta se denomina ítem, así cada PROMs está compuesto de dominios con una colección de preguntas asociadas a éste. Los PROMs genéricos están diseñados para medir un problema general en una población, al contrario de los instrumentos específicos, diseñados para medir un problema atribuible a poblaciones particulares. Ejemplos conocidos de instrumentos genéricos son el SF-3617 y APACHE18 o Índice Barthel19. Ejemplos de PROMs específicos son la Escalada de Vancouver de Cicatrices20, Escala de Salud Específica de Quemado21 y el Breast-Q para reconstrucción, reducción y aumento mamario22. Cada PROMs tiene sus propio sistema de puntaje, pero la mayoría utiliza preguntas Likert, en cuales se efectúa una afirmación y el paciente indica su grado de acuerdo con la misma14. No existe ningún instrumento diseñado para pacientes de cirugía de contorno corporal, ni estética ni post bariátrica. Existen instrumentos desarrollados para obesidad, anorexia, y deformidades post cirugía oncológica. Ninguno de éstos evalúa adecuadamente los problemas que los pacientes de contorno corporal enfrentan23,24. Dado la falta de un instrumento válido, nos propusimos desarrollar un nuevo instrumento de medición de resultados reportado por el paciente para evaluar la CdV y satisfacción asociadas a imagen corporal para pacientes sometidos a procedimientos de contorno corporal tales como liposucción, abdominoplastía o body-lift.
+
+Material y Método
+
+Diseño
+
+El estudio fue aprobado por el comité de ética (acta aprobación n° 22 de 17.07.2013) y el comité revisor del Hospital Clínico de la Universidad de Chile, siendo conducido bajo los principios de la declaración de Helsinki25. Todos los pacientes entregaron su consentimiento informado para participar en el estudio. Se siguió un diseño de fase 3 estándar para el desarrollo de un PROM; la información detallada del diseño ha sido publicada previamente13. Brevemente, la fase 1 busca crear un instrumento preliminar, para ello se realizó una revisión exhaustiva de literatura y entrevistas en profundidad con 16 pacientes antes y después de la cirugía. A partir de esto se creó un instrumento primitivo de 5 dominios y 93 ítems. Éste fue posteriormente probado en compresión y lenguaje en una muestra independiente de 29 pacientes antes de la cirugía, luego de lo cual el Body-QoL preliminar alcanzó los 120 ítems. En la fase 2, el Body-QoL preliminar fue evaluado a gran escala y en un gran espectro de pacientes. Se tomaron 3 muestras de pacientes: 1) población general; 2) cohorte de pacientes quirúrgicos sometidos a cirugía de contorno corporal y 3) una población histórica de pacientes entre 1 a 3 años luego de ser sometidos a cirugía de contorno corporal. El objetivo de la fase 2 fue reducir el número de ítems y dominios a los más potentes, relevantes y sensibles; usando pruebas estadísticas adecuadas para seleccionar los ítems. En fase 3, la escala obtenida a partir de las fases 1 y 2 fue probada en otra muestra de pacientes a fin de medir las propiedades psicométricas definitivas.
+
+Muestreo y pacientes
+
+En fase 2, nos propusimos muestrear un amplio espectro de pacientes, incluyendo desde individuos normales a los más severamente enfermos. Por esta razón muestreamos pacientes no relacionados con cirugía estética del contorno corporal, miembros de la población general y pacientes de cirugía de contorno corporal. Para el grupo de población general, las encuestas fueron distribuidas en papel a pacientes ajenos a cirugía plástica, a acompañantes de pacientes, estudiantes universitarios, funcionarios del hospital y distribuidas electrónica, libre y anónimamente vía email, Google drive y Facebook.
+
+La población histórica fue conformada por todos los pacientes en los cuales se había realizado cirugía de contorno corporal, incluyendo liposucción, abdominoplastía, lipoabdominoplastía, lipectomía circunferencial y body-lift inferior. Los pacientes fueron contactados vía telefónica y correo electrónico (email).
+
+La cohorte antes/después fue compuesta por todos los pacientes operados entre junio de 2013 y marzo de 2014 en nuestra institución, programados para procedimientos de contorno corporal, que consintieron participar en el estudio y contestaron al menos una encuesta. El instrumento Body-QoL preoperatorio fue administrado previo a la cirugía en la semana previa o apenas el paciente acudía al hospital durante la evaluación preoperatoria. La encuesta postoperatoria se aplicaba vía email 3 meses después de la cirugía.
+
+Características preliminares del Body-QoL y otras variables
+
+El Body-QoL de fase 2 era un instrumento de 120 ítems agrupados en 5 dominios: a) Vestimenta y apariencia física; b) Vida sexual y emocional; c) Imagen corporal y autoestima; d) Relaciones sociales y e) Síntomas físicos. Los ítems fueron organizados como preguntas tipo Likert en las cuales, una se hace una afirmación y el paciente evalúa su grado de acuerdo con la afirmación en una escala ordinal de 1 al 5 (completamente desacuerdo, algo en desacuerdo, indiferente, algo de acuerdo, completamente de acuerdo). Además, le pedimos a los pacientes que evalúen la importancia relativa de cada dominio desde 0 (no importante) a 10 (muy importante). Realizamos esta medición para determinar la importancia relativa de cada dominio y así darle su peso correspondiente en el instrumento final. Después de la reducción del instrumento, la escala final fue aplicada a una pequeña muestra de 34 pacientes y repetida 2 a 4 semanas después a fin de determinar el coeficiente de correlación test-retest, el tiempo para completar la escala y la tasa de respuesta.
+
+El cuestionario Body-QoL fue auto-administrado en papel o vía electrónica en formas que podían ser respondidas vía computador personal o dispositivos móviles como smartphones o tablets en nuestro sitio web (http://www.bodyqol.org). Además del cuestionario Body-QoL, se consultaron variables demográficas y en la cohorte de población pre/post operatoria se registraron también comorbilidades, procedimientos quirúrgicos y aspectos técnicos de la cirugía.
+
+Estadística
+
+Para efectos de análisis, la muestra completa del estudio fase 2 fue dividida en una muestra exploratoria y una muestra confirmatoria. La muestra exploratoria se compuso de la población general que no había tenido procedimientos de contorno corporal previos así como el grupo preoperatorio de la cohorte quirúrgica. La muestra confirmatoria se compuso de los pacientes de la población general que habían tenido procedimientos de contorno corporal previos, así como de los pacientes históricos y del grupo postoperatorio de la cohorte quirúrgica. Para la reducción de ítems, sólo se utilizó la muestra exploratoria.
+
+Los ítems fueron seleccionados usando los siguientes criterios: primero, fue realizado un análisis RASCH par medir la capacidad de ser respondido y de discriminar de cada ítem. Después, análisis de factores para reducir los dominios de 5 a 4. Los ítems con cargas de factor mayores y menor singularidad para cada dominio fueron seleccionados. Redujimos los ítems hasta encontrar un límite inferior del alfa de Cronbach de 90%. Este valor mide la confiabilidad interna de la escala o la probabilidad de estar midiendo el mismo fenómeno. Una vez que se ha alcanzado adecuada consistencia interna, probamos los ítems seleccionados en un análisis de factores confirmatorio.
+
+Finalmente, para evaluar nuestra validez de constructo, la escala reducida fue probada en la población confirmatoria (inicialmente excluida del análisis) mediante regresión logística para probar la capacidad de predecir el resultado postoperatorio y para probar la validez predictiva o capacidad de discriminar entre población control que quiere tener cirugía de contorno corporal de aquellos que eran normales, con un índice de masa corporal normal y que no querían una cirugía de contorno corporal. También se usaron modelos lineales para evaluar cómo los distintos factores de riesgo y grupos de población afectaron el resultado del Body-QoL. Dentro de las propiedades de la escala se calcularon la tasa de respuesta, confiabilidad interna (alfa de Cronbach), correlación ítem-test, correlación ítem-resto, correlación de coeficiente de concordancia test-retest y tiempo para completar la escala14,22. Otras pruebas estadísticas estándar usadas fueron Mann-Whitney y Kruskall-Wallis para variables ordinales prueba a prueba entre diferentes grupos, T test y ANOVA univariada para variables continuas o normalizadas entre grupos. Para variables binarias modelos de regresión lineal y fraccional polinómica, así como prueba de proporción z. Para adaptarse a las pruebas de hipótesis clásica los resultados fueron normalizados, para facilidad de lectura el valor no estandarizado se muestra como media ± DS. En todas las pruebas estadísticas se utilizó un valor de alfa igual o menor que 0,05. Todos los intervalos de confianza fueron calculados al 95%. Los datos son descritos usando media ± SD para variables continuas, mediana, rango intercuartílico (RIQ) y rango para datos ordinales, frecuencia absoluta y porcentaje para variables nominales. Para el análisis de los datos se utilizaron STATA® 12.0 (Stata Corp, TX,USA) y SPSS®. La aplicación del Body-QoL electrónica se realizó vía nuestro sitio web o por medio de formas de Google Drive.
+
+Resultados
+
+En la fase 2, un total de 1.346 encuestas fueron completadas por 1.200 pacientes. La tasa de respuesta para la cohorte quirúrgica pre/post fue de 63,7% (109/171). La tasa de respuesta de la población general no se calculó exactamente pero la tasa de abandono (pacientes que dejaron de responder luego abierta la encuesta) fue de 15,7% (211/1346). Las características generales de la poblaciones muestreadas se señalan en la Tabla 1.
+
+ 
+
+Tabla 1. Características de la población estudiada
+
+
+
+ 
+
+Luego del análisis RASCH, todos los ítems fueron ordenados en rankings de acuerdo a su capacidad discriminatoria y dificultad. El análisis de factores exploratorio agrupó los items en 12 soluciones de factores, pero también demostró que 4 factores explican nuestro constructo teórico con confiabilidad interna sólida. La relevancia de dominio medida de 1 a 10 no varió de manera importante. Por lo tanto, decidimos ponderar igualitariamente cada dominio: cada dominio fue representado por el mismo número de preguntas. Para privilegiar la simplicidad y capacidad de discriminación, decidimos reorganizar nuestra escala en 4 factores (dominios); luego, la escala de 120 ítems y 5 dominios fue reestructurada en una escala de 20 ítems, 4 dominios (5 ítems cada uno), fluctuando el puntaje entre 20 (peor) y 100 (mejor). Un puntaje máximo de 100 fue decidido arbitrariamente, así cada dominio pondera % del puntaje máximo. Los dominios resultantes luego de la reducción fueron: 1) Satisfacción con tu cuerpo; 2) Vida sexual; 3) Autoestima y desempeño social y 4) Síntomas físicos.
+
+La confiabilidad interna de la escala fue de 93,3% para la población global, siendo de 93,6% para los pacientes estéticos y de 92,2% para los postbariá-tricos. Según tipo de cirugía la confiabilidad fue de 93,4% para pacientes de liposucción, 93,6% para abdominoplastía (con o sin liposucción) y 96,3% para pacientes de body-lift. La tasa de respuesta de la escala fue de 100%. El tiempo para completar el instrumento final fue de 4,3 ± 2,3 min, con un rango de 1 a 15 min. Los dominios e ítems seleccionados que componen el Body-QoL definitivo se muestran en la Tabla 2, las propiedades psicométricas de cada dominio se representan en la Tabla 3.
+
+ 
+
+Tabla 2. Dominios e ítems del instrumento       Body-QoL® definitivo
+
+
+
+ 
+
+Tabla 3. Propiedades Sicométricas del          instrumento Body-QoL®
+
+
+
+ 
+
+Dentro de los factores estudiados en los análisis multivariados, el género femenino (p < 0,001), aumento del IMC (p < 0,001) y aumento de la edad (p = 0,004) disminuyeron significativamente la calidad de vida asociada al cuerpo (Figuras 1 y 2). Además, pacientes que no deseaban tener un procedimiento de contorno corporal puntuaron mejor que los pacientes que sí querían algún procedimiento (mediana 79 vs 67 puntos, p < 0,001) y los pacientes que habían tenido procedimientos de contorno corporal previos puntuaron mejor que la población control independiente de su deseo o no de realizarse un procedimiento de contorno corporal (mediana de 86 vs 74, p < 0,001, Figura 3). En la Tabla 4 se presentan estadísticas descriptivas detalladas del puntaje de Body-QoL estratificadas por sexo, edad e IMC.
+
+ 
+
+
+
+Figura 1. Gráfico regresión lineal puntaje Body-QoL®      e IMC estratificado por género.
+
+ 
+
+
+
+Figura 2. Puntaje Body-QoL® por edad y género.
+
+ 
+
+
+
+Figura 3. Puntaje Body-QoL® estratificado por mujeres que          quieren cirugía (rojo), mujeres que no quieren cirugía (azul) y          mujeres que tienen cirugía (rosado).
+
+ 
+
+Tabla 4. Estadísticas descriptivas detalladas del puntaje de Body-QoL®      estratificada por género, edad e IMC
+
+
+
+Número de observaciones, promedio y desviación estándar del puntaje de Body-QoL®      estratificado por género, edad e IMC.
+
+ 
+
+En la cohorte quirúrgica el puntaje mejoró significativamente desde el preoperatorio a los 3 meses post cirugía (53 [RIC 42-60] a 82 [RIC72-91], p < 0,008; Figura 4). Las diferencias entre puntaje pre y postoperatorio fueron en promedio 21,9 ± 16,9 puntos.
+
+ 
+
+
+
+Figura 4. Gráfico de cajas de puntaje Body-QoL® antes y          después de cirugía de contorno corporal (p = 0,0008).
+
+ 
+
+Los puntajes de todos los dominios demostraron una mejoría significativa en satisfacción corporal (Figura 5). Los puntajes preoperatorios fueron significativamente diferentes (p = 0,039) entre pacientes de liposucción (58,5 ± 23,3), lipoabdominoplastía (52,1 ± 11,8) y body-lift (50,3 ± 13,6), como se muestra en la Figura 6. En pacientes postbariátricos los puntajes pre y postoperatorios fueron menores que en pacientes de estética (p = 0,014 y p = 0,020), pero la mejoría antes y después de la cirugía fue igual entre ambas poblaciones (22,2 ± 5,3 vs 21,2 ± 6,1; p = 0,918, Figura 7). Los pacientes postbariátricos puntuaron menor en todos los dominios comparados con los pacientes estéticos (p = 0,031; 0,002; 0,006 y 0,010 para los dominios A, B, C y D respectivamente, Figura 8).
+
+ 
+
+
+
+Figura 5. Gráfico cajas preoperatorio (izquierda) y postoperatorio          (derecha) representando puntaje de Body-QoL® en cada dominio.
+
+ 
+
+
+
+Figura 6. Puntaje normalizado de Body-QoL® estratificado por cirugía.
+
+ 
+
+
+
+Figura 7. Gráficos cajas pre y postoperatorios del puntaje       Body-QoL® separado entre pacientes cosméticos (izquierda)          y postbariátricos (derecha).
+
+ 
+
+
+
+Figura 8. Gráficos cajas pre y postoperatorios del puntaje       Body-QoL® separado entre pacientes cosméticos (izquierda) y          postbariátricos (derecha) detallado por dominio.
+
+ 
+
+Discusión
+
+Nuestro estudio fue llevado a cabo de acuerdo al mejor estándar actual para el desarrollo de un PROM16,26,27. En la fase 1, los ítems se desarrollaron considerando la perspectiva del paciente, las opiniones de expertos y una exhaustiva revisión de la literatura para asegurar validez de contenido. En la fase 2 se condujo una aplicación a gran escala en una población de gran envergadura’ incluyendo individuos de diversas edades, pesos, IMC, nivel educacional’ deseo de cirugía y en pacientes pre y postoperatorios. La razón para esta decisión metodológica fue asegurar que el Body-QoL pudiera medir adecuadamente en todas las poblaciones’ así el instrumento puede aplicarse a otras poblaciones como pacientes de cirugía bariátrica por ejemplo. Los ítems definitivos fueron seleccionados debido a sus propiedades psicométricas, enfocándose en el desarrollo de un instrumento sensible al cambio y con validez de contenido para todo el espectro de enfermedad, reflejado en las características de pacientes para sus IMC, ptosis abdominal y cirugía realizada (liposucción, lipoabdominoplastía, abdominoplastía o body-lift). Después de la reducción de ítems, todas nuestras hipótesis para validar nuestra validez de constructo fueron probadas: el puntaje del Body-QoL fue más alto en pacientes eutróficos que en obesos, el puntaje preoperatorio fue más alto en población general que en pacientes buscando cirugía, el puntaje mejora después de la cirugía, pacientes bariátricos tuvieron peor puntaje que pacientes estéticos; en ausencia de un patrón de referencia, estas comparaciones constituyen nuestra validez de constructo.
+
+Elegimos mantener la puntuación lo más simple posible, dando a cada ítem un puntaje del 1 al 5, de esa forma el puntaje total se calcula fácilmente, sumando el puntaje de cada dominio y permitiendo una comparación directa entre pre y postoperatorio o cualquier comparación que el clínico o investigador quiera realizar. Además, decidimos mantener 20 ítems en el instrumento, así el puntaje puede variar entre 20 y 100, manteniendo el puntaje máximo en 100 (imitando 100%). De esta forma es fácil interpretar rápidamente el puntaje final y los cambios del mismo. La mayoría de las preguntas en el Body-QoL, son de "signo positivo" eso implica que "Completamente de Acuerdo" marca 5 puntos, lo cual significa un resultado favorable. Con el fin de evitar tener dobles negaciones, se incluyeron preguntas de "signo negativo" (ítems A5, B4, B5, C5, D1-5).
+
+También privilegiando la sencillez, decidimos crear un único instrumento para medir la satisfacción corporal como un todo. Otros grupos se han centrado en desarrollar un instrumento para cada procedimiento. Nosotros creemos que los PROM deben estar centrados en el paciente y no en los procedimientos. El procedimiento es una decisión del cirujano tratante, que pretende resolver un problema; por lo tanto, frente al mismo problema distintos cirujanos pudiesen escoger distintos procedimientos. Por ejemplo, frente a una paciente con lipodistrofia leve y ptosis moderada un cirujano pudiese escoger una liposucción con miniabdominoplastía, o sólo una liposucción o una lipoabdominoplastía. Al tener un instrumento común para medir todos los problemas, podemos realizar una comparación entre las distintas aproximaciones terapéuticas, si tuviésemos una escala distinta para cada cirugía, sería imposible realizar comparaciones de resultado entre distintas técnicas para un mismo problema.
+
+Así como con cualquier diseño científico, el desarrollo de un PROM, es susceptible al sesgo en el diseño, conducción, análisis y reporte del estudio. La mayor amenaza a la validez del instrumento es la validez de contenido (asegurar que el instrumento incluya todo el espectro del fenómeno a medir) y la validez de constructo (demostrar que el instrumento se comporta como teóricamente se espera o comparado con un patrón estándar)8-14-24. Como se describió en la sección de métodos, nos preocupamos de prevenir los sesgos en todos los pasos de la investigación usando métodos cualitativos en la fase 1a, prueba piloto en la fase 1b y una aplicación a gran escala en una población de amplio espectro en la fase 2 y 3.
+
+Un problema que enfrentamos en fase 1 fue que la mayoría de pacientes eran mujeres, por lo cual inicialmente no sabíamos cómo se comportaría el instrumento en la población masculina. En la segunda fase, 288 hombres respondieron la encuesta, la confiabilidad interna fue tan alta como en mujeres (91,5% hombre vs 93,4% mujeres) por lo cual el Body-QoL puede medir la calidad de vida asociada a satisfacción corporal en ambas poblaciones. Este mismo dilema fue enfrentado por otros investigadores28 y refleja la naturaleza de la cirugía plástica, que es realizada más frecuentemente en mujeres que en hombres, un hecho que avala nuestros resultados: menores puntajes de Body-QoL en mujeres que en hombres independiente de la edad y el IMC. Este estudio fue desarrollado en un centro, con base en un Hospital Universitario de un país de ingresos medios-altos. Sin embargo, la población general fue muestreada mayormente dentro de la Universidad, incluyendo acompañantes de pacientes, trabajadores administrativos, personal de salud, profesores y estudiantes, lo cual se refleja en el alto nivel educacional de la muestra. No encontramos diferencias estadísticamente significativas en satisfacción corporal según nivel educacional (p = 0,1884), pero luego de ajustar por sexo, edad y IMC encontramos que un mayor nivel educacional se asocia a una mayor satisfacción corporal (Coef 0,07; p = 0,001; Rho de Spearman = 0,09). Este análisis de subgrupo es solamente exploratorio y sus resultados deben ser interpretados con precaución. Sólo constituye una asociación y requiere de una comprobación en un estudio futuro.
+
+Otra pregunta que este estudio no puede responder es si la motivación para la cirugía, los aspectos físicos o sicológicos relacionados a calidad de vida relacionada al cuerpo son los mismos en otras poblaciones en diferentes países y continentes. Aunque la globalización y la disponibilidad masiva de cirugía plástica pueden llevar a asumir que las motivaciones deben ser las mismas, estas presunciones deben ser probadas, validando el Body-QoL en otros lenguajes y en diferentes poblaciones26. Éste es el primer PROM publicado específicamente desarrollado para medir calidad de vida asociada a satisfacción corporal para pacientes de cirugía plástica. Otros instrumentos genéricos como el Medical Outcomes Study Short-Form 36, Patient Health Questionnaire and Generalized Anxiety Disorder29, han sido usados y fallado en demostrar mejoría en calidad de vida luego de cirugía de contorno corporal o en poblaciones postbariátricas. nosotros creemos que las diferencias en nuestros resultados pueden ser explicadas porque los instrumentos genéricos no tienen suficiente sensibilidad para detectar estos cambios. En nuestra cohorte pre/postoperatoria, todos los dominios mejoraron significativamente, reflejando la sensibilidad al cambio en el instrumento Body-QoL. Otros instrumentos relacionados a obesidad han sido usados con buenos resultados30, pero con frecuencia hacen preguntas que no son relevantes para población estética o pacientes sometidos a li-poabdominoplastía o lipoplastía sola23,24.
+
+El instrumento Body-QoL puede ser usado fácilmente en práctica clínica, las preguntas están hechas en lenguaje coloquial, evitando términos técnicos para mejorar la comprensión de todos los pacientes. Idealmente debe ser usado al menos una vez previo a la cirugía y una vez después de la cirugía, cuando se han conseguido los resultados definitivos. En nuestra población quirúrgica usamos mediciones preoperatorias y también a los 3 meses postoperatorios. La satisfacción a largo plazo y como ésta cambia con el tiempo todavía es desconocido. Como el Body-QoL es auto-administrado, puede ser fácilmente distribuido por papel o vía electrónica. La mayoría de nuestros pacientes prefieren encuestas electrónicas y en estos días dispositivos portátiles como teléfonos y tablets pueden mejorar la tasa de respuesta. Esto es especialmente útil en el seguimiento porque el paciente no tiene que imprimir o adjuntar documentos para responder la encuesta, puede ser hecha directamente en nuestro sitio web (www.bodyqol.org) o vía Google Drive.
+
+El Body-QoL abre una completa nueva área de investigación, proporcionando un medio de medir algo que nunca se ha medido antes. Puede ser usado para comparar antes y después entre pacientes y puede también ser usado para comparar técnicas usadas como el resultado principal de un estudio aleatorizado y controlado. Además en estudios de cohorte y casos-controles puede usarse para identificar el perfil de pacientes que tienen menor o mayor mejoría en calidad de vida asociada a satisfacción corporal. Estudiar el cambio en CdV o la magnitud de la mejoría (o empeoramiento) después de la cirugía entregará una nueva forma de entender el impacto de las técnicas quirúrgicas. Si una técnica prueba mejorar la CdV más que otra, debe llegar a ser la práctica estándar. Además, fotos pre y postoperatorias usadas para representar los resultados de la cirugía pueden ser estandarizadas. Usualmente el cirujano muestra lo que piensa es su mejor resultado; usando el Body-QoL, las fotos de un paciente con la mayor mejoría, mejoría promedio y la menor mejoría pueden ser mostradas para presentar resultados más realistas y tangibles. Esto puede ser hecho simplemente calculando la diferencia entre el puntaje pre y postoperatorio, y haciendo estadística descriptiva simple como promedio, rango, luego seleccionando fotos de los pacientes que tengan las estadísticas calculadas (media, mediana, rango). El puntaje del Body-QoL es un resultado de naturaleza ordinal. Pruebas estadísticas no paramétricas como la correlación Spearman, rango pareado de Wilcoxon para comparar en pacientes y Kruskall-Wallis para comparar el puntaje entre múltiples categorías. Aunque, puede ser tratado como un resultado continuo y usar el coeficiente de correlación de Pearson, t-test para comparar puntajes promedios entre pacientes, t-test pareado en el mismo paciente, ANOVA para más de dos categorías y regresión lineal para realizar análisis multivariado; se puede hacer normalización del puntaje a fin de obtener estadísticas de mayor poder y para adaptar los supuestos de las pruebas clásicas. También la dicotomización del puntaje puede realizarse a fin de usar modelos de regresión logística; por ejemplo, en nuestra muestra un valor de corte de Body-QoL de 72 puntos tiene un área ROC de 91,7%, con un 87% de sensibilidad y un 91,5% de especificidad para discriminar entre población pre y postoperatoria. La mejoría media entre puntaje pre y postoperatorio fue de 22 puntos en nuestro cohorte pre/post lo que corresponde a un efecto de gran magnitud como medida del efecto de la cirugía, que implica una muy buena sensibilidad al cambio del instrumento Body-QoL. Si un estudio desea comparar 2 técnicas con un 80% de poder para detectar una diferencia a favor de una técnica dada, se necesitarán sólo 35 pacientes por rama y si la comparación es diseñada dentro del mismo paciente, se necesitarán sólo 18 pacientes.
+
+El instrumento Body-QoL está disponible sin costo para académicos e instituciones sin fines de lucro o para cirujanos investigadores individuales. Las próximas tareas serán validarlo en diferentes idiomas y poblaciones para confirmar sus propiedades psicométricas.
+
+Durante el desarrollo del instrumento surgieron 2 problemas: 1) la perspectiva del cirujano del resultado y 2) el dolor y el discomfort postoperatorio experimentado por las pacientes. Decidimos separar el fenómeno en 3 diferentes escalas, así el Body-QoL busca medir calidad de vida, el Body-PPDS® (Postoperative Pain and Disability Scale) mide discapacidad desde la perspectiva del paciente y el Body-PSSOAS® (Patient/Surgeon Subjective/Objective Assesment Scale) que enfocará la perspectiva del cirujano y la del paciente respecto a los detalles técnicos de la cirugía, tales como contorno, naturalidad del resultado, problemas de las cicatrices etc. Ambos, Body-PSSOAS y Body-PPDS, están en fase 2 de desarrollo y juntos conforman el instrumento Body-PROM.
+
+Conclusiones
+
+La calidad de vida relacionada a satisfacción corporal puede ser medida con alta confiabilidad con el instrumento Body-QoL. Éste tiene una adecuada sensibilidad al cambio, consistencia y confiabilidad. La percepción de CdV asociada al cuerpo es mejor en hombres que en mujeres y disminuye con el aumento del índice de masa corporal. Independiente de la edad, la satisfacción corporal en hombres aumenta discretamente con el tiempo, las mujeres por el contrario mejoran su satisfacción corporal alcanzando una cima en su segunda década y disminuyendo sostenidamente desde los 30 años en adelante. Los pacientes sometidos a procedimientos de contorno corporal tienen una mayor satisfacción corporal que los no operados. Además los pacientes mejoran su satisfacción corporal luego de la cirugía incluyendo su satisfacción con su área abdominal, bienestar sexual, autoestima, relaciones sociales y síntoma físicos. Los pacientes de pérdida masiva de peso corporal (postbariátricos) tienen peor satisfacción corporal comparado con los otros grupos; pero después de la cirugía mejoran alcanzando valores similares a los de población normal.

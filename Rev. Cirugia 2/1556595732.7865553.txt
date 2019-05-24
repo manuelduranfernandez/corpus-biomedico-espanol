@@ -1,0 +1,202 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262015000200019
+PAUTAS DE CHEQUEO, PARTE I: CONSORT Y TREND
+
+Resumen
+
+Uno de los problemas más frecuentes en los artículos científicos es su deficiente reporte, situación que redunda en falta de información, afectando la validez interna y externa, cuestionando su aporte y utilidad. Esta situación ha sido motivo de estudio y propuestas por parte de la comunidad científica internacional, que se materializan en una serie de pautas de chequeo o checklists como CONSORT y TREND para ensayos clínicos aleatorizados (ECA) y estudios de intervención no aleatorizados (EINA) respectivamente. La propuesta CONSORT nace en 1996, con una última versión en 2010, constituida por 25 ítems, agrupados en 6 dominios: Título y Resumen, Introducción, Metodología, Resultados, Discusión y Otra información; representando puntos esenciales a reportar en un ECA. En muchas ocasiones se debe recurrir a otro tipo de diseños de investigación como los EINA, para los que en 2004 se desarrolló la pauta TREND, el cual consta de 22 ítems, agrupados en 5 dominios: Título y resumen, Introducción, Métodos, Resultados y Discusión. Aun cuando la evidencia ha sido contradictoria respecto al impacto de estas pautas, estas representan una herramienta relevante para mejorar la investigación biomédica. El presente artículo intenta dar a conocer estos checklists e incentivar su uso por parte de los autores de la Revista Chilena de Cirugía, con lo cual se espera contribuir a una mejora continua de sus artículos de una forma simple y eficiente.
+
+Palabras clave: Reporte de investigación, calidad metodológica, ensayo clínico, estudio no aleatorizado.
+
+ 
+
+Introducción
+
+La calidad metodológica (CM) de la investigación biomédica es un concepto complejo, por cuanto se encuentra compuesto de múltiples aristas o dimensiones, entre las que destacan: el diseño, la metodología empleada, la cantidad de sujetos incluidos, calidad del reporte, entre otros1,2.
+
+Uno de los problemas más frecuentemente detectados en la CM de los artículos es el deficiente reporte de estos3, situación transversal a todos los tipos de diseños y que redunda en insuficiencia de la información necesaria para replicar el estudio o comprender a cabalidad la obtención de los resultados y por ende las conclusiones, situación que afecta tanto la validez interna como externa4, cuestionando su aporte y utilidad. En el peor de los casos, es posible observar conclusiones no válidas y que se asocian con una estimación exagerada del efecto estudiado5, llevando al lector a generar cambios errados en sus conductas clínicas, con el consecuente perjuicio para los pacientes.
+
+Las deficiencias en el reporte de los artículos de diferentes tipos de diseños ha sido motivo de estudio y propuestas por parte de la comunidad científica internacional6. En un esfuerzo por dar solución a estos cuestionamientos, importantes grupos conformados por editores, investigadores, clínicos y bioestadísticos entre otros, han propuesto una serie de pautas de chequeo o checklists para el correcto reporte de los diferentes tipos de diseños de investigación en los diferentes escenarios clínicos7.
+
+Estos checklists han sido adoptados por importantes revistas a nivel internacional, medidas que han demostrado un aumento en la calidad del reporte de algunos tipos de diseños de investigación, aun cuando un porcentaje importante de estas siga siendo bajo8 y en recientes investigaciones no se ha comprobado tan claramente este positivo efecto, por lo que es necesario seguir investigando y trabajando mancomunadamente al interior de la comunidad científica biomédica9.
+
+Sin embargo, el conocimiento y adopción de estos checklists en el escenario nacional es aún escaso, limitando el mejoramiento en la CM de la investigación biomédica local10. El objetivo del primer artículo de esta serie es dar a conocer los checklists CONSORT y TREND para ensayos clínicos aleatorizados (ECA) y estudios de intervención no aleatorizados (EmA) respectivamente.
+
+CONSORT (Consolidated Standards of Reporting Trials)
+
+Los ECA corresponden a un poderoso diseño de investigación, y representan el más alto nivel de evidencia11 en relación al efecto de una intervención sanitaria cuando son correctamente diseñados y ejecutados; es decir, cuando describen de forma detallada y transparente cada uno de los pasos referentes a su diseño, implementación y análisis12.
+
+Con el fin de estandarizar criterios respecto del reporte de los ECA y además facilitar la lectura crítica e interpretación de los mismos, es que a inicio de los años 90 dos grupos independientes generaron de forma separada recomendaciones para la comunicación de ECA, las que posteriormente aunaron una propuesta consensuada publicada bajo el acrónimo CONSORT en 199612, la que posteriormente fue revisada, dando paso a un nuevo documento publicado el 200113, existiendo una tercera y última versión actualizada del año 201014.
+
+En el año 2004 se publicó una versión extendida para ensayos aleatorizados por conglomerados15, existiendo otras extensiones para distintas instancias, disciplinas o variedades de ensayos16.
+
+La propuesta CONSORT de 2010 quedó constituida por 25 ítems, agrupados en 6 dominios: Título y resumen, Introducción, Metodología, Resultados, Discusión y Otra información; estos representan los puntos más importantes que debieran estar incluidos en todos los reportes de ECA.
+
+Se debe agregar además un diagrama de flujo de los participantes en el ensayo, lo que permite una rápida y fácil comprensión de los aspectos más relevantes de cómo se ejecutó el ECA.
+
+Ítems de la pauta de chequeo
+
+Título y resumen
+
+1.a. Título y resumen: Se debe indicar en el título que la asignación de los sujetos fue aleatoria con el fin de facilitar su identificación como tal por parte de base de datos y usuarios.
+
+1.b. Resumen estructurado: Incluyendo métodos, resultados y conclusiones, existe una pauta específica para el reporte de los resúmenes según CONSORT17.
+
+Introducción
+
+2.a. Antecedentes: En la introducción se debe hacer referencia al conocimiento previo existente en relación al tema del ensayo. Se debe identificar la existencia de ECA o revisiones sistemáticas (RS) similares o constatar la ausencia de estos. Es en este acápite donde se debe indicar la razón o fundamento del estudio.
+
+2.b. Objetivos específicos o hipótesis: Señalar claramente qué persigue el estudio o cuál es hipótesis a comprobar, todo el resto del manuscrito debe estar en concordancia con lo planteado en este punto.
+
+Métodos
+
+3.a. Diseño del EC: Describir claramente el tipo de EC utilizado, por ej: de brazos paralelos, factorial u otro; se debe señalar también el ratio o factor de asignación entre los distintos grupos de intervención.
+
+3.b. Modificaciones del diseño: En muchas ocasiones se deben realizar cambios respecto a lo originalmente planificado en virtud de las condiciones en terreno y con el fin de asegurar la ejecución del EC, dichos cambios deben describirse y justificarse claramente.
+
+4.a. Participantes: Se deben definir claramente los criterios de selección haciendo la diferencia entre aquellos que son de inclusión y aquellos que son de exclusión, así como también los métodos utilizados para el reclutamiento de los pacientes.
+
+4.b. Lugar: Es importante también constatar el centro y el ámbito en el cual se llevó a cabo la investigación, lo cual aportará a la validez externa del estudio.
+
+5. Intervenciones: Se deben describir de forma detallada las intervenciones que se realizarán en ambos grupos, esto incluye tanto a aquellas utilizadas como control (placebo) como a aquellas a las cuales se les podrá atribuir el efecto, cuando estas intervenciones correspondan a procedimientos será necesario también informar de la experticia de quien las realiza. En este ítem se deberá indicar también cómo y cuándo fueron administradas dichas intervenciones, ello otorga la necesaria replicabilidad al estudio.
+
+6.a. Resultados: Este ítem se refiere a las variables resultado que se usan para medir el efecto de la intervención. Es importante definir estas variables con claridad y explicitar cómo serán medidas por ejemplo escalas o instrumentos que idealmente deberían estar validados para tales fines. Se debe distinguir con precisión la variable principal de aquellas que no lo son ya que es en base a esta que se diseñará el ensayo.
+
+6.b. Modificaciones de resultados: Igualmente que con el diseño, se deben describir y justificar cualquier cambio en los resultados una vez comenzado el estudio.
+
+7.a. Tamaño de la muestra: Se debe describir cómo se determinó el tamaño de la muestra, tanto el cálculo como los posibles ajustes realizados para compensar las pérdidas.
+
+7.b. Análisis interino: Se deben consignar además cualquier análisis interino o regla de interrupción del ensayo que genere variación entre el número de sujetos estimados y el realmente reclutado.
+
+8.a. Generación de la secuencia de aleatorización: Erróneamente llamado randomización. Se debe describir el método utilizado para realizar la aleatorización (tabla de números aleatorios o secuencia de aleatorización mediante programas informáticos), no basta sólo con mencionarla.
+
+8.b. Tipo de aleatorización: Se debe consignar además las características de la secuencia y si existieron restricciones en el esquema de aleatorización (estratificación).
+
+9. Asignación oculta: La asignación de los pacientes a cada grupo de tratamiento debe estar oculta con el fin de evitar el sesgo de selección que puede ocurrir cuando quien administra los tratamientos conoce la secuencia de asignación de tratamientos. El procedimiento de asignación de los individuos debe garantizar que el tratamiento asignado es desconocido para quien lo administra o quien decide la inclusión o exclusión de un sujeto. Para conseguir lo anterior se cuenta con diferentes procedimientos como asignación aleatoria telefónica o sistemas computacionales automatizados, los que tienen que ser descritos en este ítem.
+
+10. Implementación: Para asegurar el punto anterior se debe indicar quién generó la secuencia de asignación, quién incluyó o excluyó a los individuos y quién los asignó a cada grupo de tratamiento.
+
+11.a. Enmascaramiento: El enmascaramiento se refiere al desconocimiento de quienes participan del estudio respecto de los tratamientos asignados (quienes lo reciben, quienes lo administran, quienes evalúan los resultados y quienes los analizan) y que tiene el fin de evitar sesgos a la hora de obtener los resultados. Se debe indicar quienes de los participantes fueron enmascarados y si se realizó alguna evaluación del éxito del enmascaramiento. No en todos los EC es posible realizar enmascaramiento (p. ej. EC del ámbito quirúrgico), cuando esto ocurre se debe explicitar las razones por las cuales no se utilizó.
+
+11.b. Similitud de las intervenciones: Si es relevante debe describirse las semejanzas, permite tener mayor claridad respecto al éxito del enmascaramiento.
+
+12.a. Métodos estadísticos: Se debe indicar cuales fueron los métodos estadísticos utilizados para comparar los grupos en relación con la variable principal y secundarias. Es de importancia indicar si estos métodos fueron establecidos al diseñar el EC o con posterioridad a la obtención los resultados.
+
+12.b. Estadística adicional: Métodos usados para análisis adicionales como análisis de subgrupos o de ajuste.
+
+Resultados
+
+13.a. Flujo de participantes: Se recomienda exponer sus diferentes etapas (inclusión, asignación, seguimiento y análisis) mediante un diagrama de flujo. En la inclusión se debe indicar cuántos pacientes fueron evaluados, según la asignación se debe consignar el número absoluto de sujetos aleatorizados, el número de individuos asignados a cada intervención y cuantos efectivamente recibieron la intervención. Finalmente, en la etapa del análisis se debe exponer el número de sujetos que fueron analizados.
+
+13.b. Exclusiones y pérdidas: Cuántos sujetos fueron excluidos y sus respectivos motivos de exclusión, esto es importante ya que tendrá relación con la validez externa del estudio. En la etapa de seguimiento se debe indicar cuantos interrumpen la intervención, cuantos se pierden en el seguimiento y cuantos finalmente terminan el estudio según el protocolo.
+
+14.a. Reclutamiento: Se debe indicar las fechas que limitan los períodos de reclutamiento y de seguimiento de los individuos incluidos en el estudio.
+
+14.b. Detención del ensayo: Si el estudio es interrumpido o terminado, por ejemplo producto de un análisis interino, también debe ser consignado en este ítem.
+
+15. Datos basales: Se debe exponer las características demográficas y clínicas de base de cada grupo que son importantes al momento de generalizar los resultados a un tipo específico de población. Es importante indicar que si bien una correcta aleatorización garantiza la ausencia de sesgo de selección esta no asegura grupos con un equilibrio basal perfecto.
+
+16. Números analizados: En esta etapa se debe indicar el número de participantes de cada grupo incluido en cada análisis. Se debe indicar también si el análisis se realizó por intención de tratar o por protocolo. Se recomienda expresar los resultados en números absolutos cuando esto sea posible.
+
+17.a. Resultados y estimación: Se deben describir los resultados tanto para la variable principal como para las variables secundarias, para cada uno de los grupos del EC, además se debe describir el estadístico adecuado que compare los resultados entre los grupos y su intervalo de confianza al 95%. Se puede incluir también el valor de p en el estudio, sin embargo, este no reemplaza al IC.
+
+17.b. Resultados dicotómicos: Para este tipo de variables se recomienda el reporte de los tamaños de efecto relativos y absolutos.
+
+18. Análisis complementarios: Se debe informar sobre cualquier análisis adicional que se haya realizado, incluyendo análisis de subgrupos y análisis ajustados. Si bien es tentador realizar más análisis de los que originalmente se encuentran en el protocolo esto no se recomienda por el riesgo de resultados falsos positivos.
+
+19. Efectos adversos: Se debe consignar si existieron o no efectos adversos asociados a la intervención, indicando la severidad, frecuencia de individuos con el efecto adverso y la frecuencia de dicho efecto en los individuos.
+
+Discusión
+
+20. Limitaciones: Se deben mencionar las limitaciones del EC, los posibles sesgos y sus fuentes e imprecisiones; si corresponde, se debe mencionar la multiplicidad de análisis realizados.
+
+21. Generalización: Se refiere a la validez externa de los hallazgos del estudio, es decir, cuál es la posibilidad de que los resultados obtenidos sean aplicables a un número mayor de pacientes, esto depende de múltiples factores como son población estudiada, condiciones clínicas y socioeconómicas, lugar en el que se realiza el estudio, etc.
+
+22. Interpretación: En este ítem se debe presentar un breve resumen de los resultados, teniendo en cuenta la hipótesis del estudio. Se debe considerar los beneficios y daños asociados a cada intervención estudiada. Se debe realizar comparaciones con estudios similares.
+
+Otra información
+
+23. Registro: Número y nombre de la base del registro.
+
+24. Protocolo: Donde se puede acceder al texto completo del protocolo.
+
+25. Financiamiento: Fuentes de apoyo económico o de otro tipo como donación de medicamentos, aclarar que rol jugaron los financiadores en el EC.
+
+TREND (Transparent Reporting of Evaluations with Nonrandomized Designs)
+
+Como se mencionó previamente, los ECA son el diseño de investigación clínica de elección y que aporta la mejor evidencia en el ámbito de la terapia11, sin embargo, no siempre es posible llevarlos a cabo e incluso han sido cuestionados éticamente en el campo de la cirugía18. Es en este escenario que se debe recurrir a otro tipo de diseños de investigación en la cual no se realiza aleatorización de los sujetos que en él participan, son los llamados "estudios de intervención no aleatorizados".
+
+Dada la importancia que toma este tipo de diseño en la generación de políticas relacionadas con intervenciones sanitarias es que se hace necesario que su reporte sea lo suficientemente claro y transparente para facilitar al lector el entendimiento de como se realizó, como se obtuvieron los resultados y en que se diferencia el estudio de otros similares en el área.
+
+Dado lo anterior, el equipo de Síntesis de Investigación Preventiva en VIH/SIDA del Centro de Control y Prevención de Enfermedades de Atlanta (CDC) y un grupo de editores de revistas científicas en torno a la investigación conductual del VIH/SIDA generaron una iniciativa que fue publicada por primera y única vez en el 2004 bajo el acrónimo de TREND19, el cual consta de 22 ítems, agrupados en 5 dominios: Título y resumen, Introducción, Métodos, Resultados y Discusión.
+
+Ítems de la pauta de chequeo
+
+Título y resumen
+
+1. Título y resumen: Se debe exponer claramente la información respecto de cómo se realizó la asignación de los individuos a cada intervención. Se recomienda demás realizar un resumen estructurado que incluya información relevante sobre la población objetivo y la población realmente estudiada.
+
+Introducción
+
+2. Antecedentes: Describir el fundamento científico y la racionalidad de la intervención planteada. Se debe exponer las teorías en las cuales se basa la asignación de los sujetos a cada grupo de intervención, cada una de las cuales debe estar cuidadosamente justificadas.
+
+Métodos
+
+3. Participantes: Se deben definir claramente los criterios de selección, haciendo la diferencia entre aquellos que son de inclusión y aquellos que son de exclusión en cada uno de los niveles de reclutamiento y cuál fue el plan para su muestreo. Se debe incluir cuales fueron los métodos de reclutamiento de los participantes (si fue por derivación, selección simple u otros) y se debe incluir el método de muestreo si es que este se utilizó. Es importante señalar el lugar donde se realizó el registro de los datos.
+
+4. Intervenciones: Este punto es de vital importancia, ya que en el radica el entendimiento de las intervenciones realizadas. Se debe detallar claramente las intervenciones propuestas para los sujetos en estudio, esto incluye la especificación de los elementos o sustancias administradas, cuál fue el método por el cual fueron administradas, como se distribuyeron los sujetos para la administración (por ej. grupos o de forma individual), quien fue el o los encargados de la administración. Se debe también especificar las instalaciones en las cuales se realizó el procedimiento, cual fue la duración de la exposición, cuál fue la cronología de administración en los diferentes grupos y cuales fueron los incentivos otorgados para asegurar la adhesión a las diferentes intervenciones.
+
+5. Objetivos: Se deben plasmar de forma clara cuales son los objetivos tanto el principal como secundario del estudio y las hipótesis si es que estas existieran.
+
+6. Variables: Corresponde a la definición de las variables resultado tanto principal como secundarias que se usan para medir el efecto de la intervención. Es fundamental consignar cuales fueron los métodos utilizados para registrar los datos y si existieron métodos adicionales para mejorar la calidad de las estimaciones. Se debe adicionar en este ítem si se utilizaron métodos válidos y confiables para realizar las mediciones, tales como escalas o pruebas biomédicas.
+
+7. Tamaño de la muestra: Se debe exponer claramente como se realizó el cálculo del tamaño de la muestra que no es otra cosa que el número mínimo de individuos requeridos para poder extrapolar los datos a una población en particular. Además se debe indicar las condiciones por las cuales se podría detener el estudio, si es que estas existen, así como la realización de un análisis interino.
+
+8. Método de asignación: Se debe exponer cual fue la unidad de asignación, ya sean sujetos, instituciones, comunidades, etc., así como cuál fue el procedimiento por el cual se asignaron estas unidades a cada grupo de intervención. Es necesario identificar cuales fueron los métodos utilizados para la reducción de sesgos potenciales por no haber realizado aleatorización de los sujetos (por ej. emparejamiento) si es que estos métodos se utilizaron.
+
+9. Enmascaramiento: Como se mencionó anteriormente, una forma de evitar sesgos a la hora de la obtención de los resultados radica en que los participantes del estudio desconozcan las intervenciones asignadas, para esto es importante consignar quienes fueron enmascarados e indicar cuales fueron las medidas utilizadas para su implementación y su verificación.
+
+10. Unidad de análisis: Es importante señalar cuál fue la unidad de análisis más pequeña utilizada para valorar los efectos de la intervención (individuo, población, región, etc.). Se debe consignar si la unidad de análisis difiere de la unidad de aplicación de la intervención, si es así se debe explicitar cuales fueron los métodos empleados para controlar estas diferencias (por ej. análisis multivariados).
+
+11. Métodos estadísticos: Se deben indicar cuales fueron los métodos estadísticos empleados en el análisis de la variable principal y cuáles fueron los estadígrafos adicionales utilizados para otros análisis (por ej. subgrupos). Además es importante señalar cuales fueron los programas estadísticos utilizados.
+
+Resultados
+
+12. Flujo de participantes: En este ítem se debe indicar claramente cuál fue el movimiento de pacientes incluidos en las diferentes etapas para lo cual es recomendable la utilización de un diagrama de flujo. En el reclutamiento es importante indicar el número de participantes elegibles, no elegibles, quienes rechazaron la inclusión y finalmente quienes fueron incluidos. En la asignación se debe indicar cuantos participantes fueron asignados a cada intervención. En inclusión y exposición indicar el número de participantes incluidos para cada intervención y cuantos realmente la recibieron. Para la etapa de seguimiento se debe consignar cuántos de los sujetos en estudio completaron el seguimiento y cuántos no. En el análisis es importante consignar cuantos participantes fueron incluidos y excluidos para cada rama estudiada. Por último es necesario consignar si existieron o no desviaciones del protocolo original, además de los motivos que llevaron a estas desviaciones.
+
+13. Reclutamiento: Indicar cuales fueron las fechas que correspondieron al reclutamiento y al seguimiento de los pacientes.
+
+14. Datos basales: En este ítem se debe indicar los datos demográficos y clínicos de los participantes para cada rama del estudio, poniendo énfasis en los datos más relevantes a los objetivos del estudio. Se deben comparar los datos basales de quienes se perdieron durante el seguimiento y de quienes terminaron el estudio en conjunto y separado para cada rama, además de la comparación de estos datos entre la población estudiada y la población objetivo.
+
+15. Equivalencia de datos basales: Se debe aportar información sobre la equivalencia de los datos basales en cada grupo y de los métodos estadísticos utilizados para controlar dichas diferencias.
+
+16. Análisis cuantitativos: De preferencia los resultados se deben exponer en cifras absolutas, se deben indicar si los análisis estuvieron basados en la intención de tratar y cómo se analizaron los datos de los participantes que no cumplían con el protocolo. Es importante exponer el número de sujetos que se incluyeron en cada una de las alternativas del estudio, especialmente cuando el número de sujetos cambia dependiendo del resultado medido.
+
+17. Resultados y estimaciones: Se debe realizar un resumen de los resultados de cada alternativa del estudio, además de la estimación del efecto, explicitando el intervalo de confianza que indica la precisión de la estimación; para cada una de las variables principal y secundaria. Incluir los resultados del testeo de las posibles vías explicativas de la intervención estudiada.
+
+18. Análisis secundarios: Corresponde al resumen de otros análisis efectuados, esto incluye análisis de subgrupos u otros, indicando si estos estaban incluidos en el protocolo inicial o fueron sólo exploratorios.
+
+19. Acontecimientos adversos: Corresponde a un resumen de todos los efectos adversos o inesperados ocurridos durante el estudio producto de la administración de la intervención en cada una de las ramas, se debe indicar cuales fueron las medidas tomadas al respecto y una estimación del tamaño del efecto e intervalo de confianza de estas.
+
+Discusión
+
+20. Interpretación: Corresponde al análisis y comentario de los resultados desde la perspectiva de la hipótesis del estudio, los sesgos presentes, las posibles imprecisiones en las estimaciones y cualquier otra limitación o debilidad que pudiese presentar el estudio. Los resultados deben ser discutidos considerando los mecanismos por los cuales la intervención logra el efecto buscado, los posibles mecanismos alternativos y los problemas o facilidades que se hayan presentado durante su aplicación.
+
+21. Extrapolación: Se debe discutir cuál es la validez externa del estudio tomando en consideración la población estudiada, el tipo de intervención, la duración del seguimiento, los incentivos entregados, el cumplimiento de la intervención y cualquier otro aspecto relacionado con esta.
+
+22. Evidencias en conjunto: Corresponde a una interpretación general de los resultados encontrados en el contexto de la evidencia global existente y las teorías transversalmente aceptadas.
+
+Discusión
+
+El objetivo de las revistas biomédicas es difundir el conocimiento20, en base a esta afirmación surge la pregunta ¿sirve de algo la difusión de este conocimiento, cuando quienes deben ser los receptores de este, no son capaces de entenderlo o peor aún, no lo entienden de una forma adecuada? La respuesta debe ser un rotundo no.
+
+Una forma de asegurar que la información contenida en los artículos llegue de forma adecuada a los usuarios es cuidando la CM de los mismos1’2. Son múltiples las alternativas con las que se cuenta para intentar mejorar la CM de los artículos10, que van desde la formación de capital humano avanzado y financiamientos de proyectos, esfuerzos que en nuestro medio muchas veces parecen inalcanzables, hasta la mejora en la presentación de los resultados en los manuscritos mediante pautas de chequeo o checklists como los previamente presentados12-19.
+
+Estos checklists no son otra cosa que instrumentos que contienen los criterios que como mínimo debiera tener un determinado manuscrito dependiendo del tipo de diseño empleado para su ejecución. De esta forma sirven para poder evaluar de forma objetiva y ordenada las diferentes etapas de la implementación de cada diseño, aunque está claro que no fueron diseñados ni tampoco se encuentran validados para tales fines21.
+
+Sin embargo, es perentorio mencionar que la evidencia ha sido contradictoria respecto al impacto esperado por la aplicación de estas pautas por parte de autores y revistas científicas, existiendo evidencia con grados variables de adopción y mejora en la calidad de los reportes8,9,22.
+
+Lo anterior, podría deberse a una comprensión errónea de las pautas o su utilización de manera tardía, cuando los estudios ya fueron ejecutados y analizados, existiendo poco o nulo espacio para generar un reporte de calidad. Considerando esto, la recomendación principal es revisar este tipo de pautas en la etapa de planificación del estudio y solicitar asesoría metodológica, esto no es distinto a las consideraciones médico-quirúrgicas que tiene cualquier intervención e implica simplemente saber qué, cómo y por qué haremos algo antes de hacerlo.
+
+Es importante entender que la construcción de estas pautas representa el esfuerzo de científicos, editores y organizaciones científicas12-19 que redunde en la obtención de resultados válidos y confiables para su aplicación clínica y de políticas públicas, sin embargo, ese impacto se materializa sólo con la adopción por parte de los investigadores.
+
+El presente insumo intenta dar a conocer los checklists CONSORT y TREND e incentivar su uso por parte de los autores de la Revista Chilena de Cirugía, con lo cual se espera contribuir a una mejora continua de la CM de sus artículos de una forma simple y eficiente.

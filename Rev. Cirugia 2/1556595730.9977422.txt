@@ -1,0 +1,160 @@
+https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-40262014000500018
+¿DÓNDE Y CÓMO BUSCAR EVIDENCIA CIENTÍFICA EN MEDICINA?
+
+Resumen
+
+Con el advenimiento de la medicina basada en la evidencia, los clínicos deben mantenerse vigentes respecto de los rápidos avances en ciencias biomédicas. Sin embargo, debido a la inmensa cantidad y variada calidad de la evidencia es necesario contar con estrategias que permitan optimizar su búsqueda. El objetivo de esta comunicación es entregar algunas de las herramientas que permitan al usuario optimizar el tiempo dedicado a la búsqueda de información y acceder a la mejor evidencia disponible. Existen variados recursos electrónicos para acceder a información médica, entre las más relevantes se cuentan: MEDLINE, LILACS, Web of Knowledge, The Cochrane Library, TRIP database, EMBASE, Google Scholar, entre otras. Para plantear la búsqueda es necesario definir una pregunta de investigación estructurada de acuerdo al nemotécnico PICoR (Paciente, Intervención, Comparador y Resultado) y adaptarla al lenguaje del buscador a utilizar con ayuda de operadores booleanos, términos MeSH, palabras clave y diversos filtros metodológicos (tipo de estudio, tipo de población, categoría clínica y sensibilidad de la búsqueda). Con estas herramientas es posible mejorar la efectividad y eficiencia de la búsqueda, accediendo a la mejor evidencia disponible, que en conjunto con la experiencia clínica particular irá en beneficio directo de nuestros pacientes.
+
+Palabras clave: Motor de búsqueda, medicina basada en evidencia, bases de datos como asunto.
+
+ 
+
+Introducción
+
+Durante mucho tiempo las decisiones en salud se tomaron basadas casi de forma exclusiva en la experiencia de las personas. La incorporación del paradigma de la práctica clínica basada en la evidencia, ha ido cambiando de forma paulatina esa conducta integrando las competencias clínicas individuales con la mejor evidencia externa disponible y las preferencias de los pacientes1-3.
+
+Lo anterior, ha obligado al clínico a mantenerse vigente en los avances que experimenta la medicina día a día; introduciendo otra problemática, que dice relación con la gran cantidad de información que se genera (se estima en 2.000 a 4.000 artículos diarios)4, y el escaso tiempo con que se cuenta para su lectura y evaluación (se calcula que para leer todo lo que se publica en un año sobre una especialidad se requeriría de aproximadamente 19 h al día durante todos los días del año).
+
+Esta verdadera avalancha de información no es siempre relevante, por lo que más que ayudar puede incluso generar controversia, incertidumbre, e incluso alejar al usuario de las mejores prácticas con una adecuada base científica. Se hace por ende indispensable contar con herramientas que permitan a los clínicos e investigadores optimizar el tiempo utilizado en la búsqueda de información y además acceder a la mejor evidencia disponible para el cuidado de sus pacientes5.
+
+El objetivo de esta comunicación es entregar algunas de las herramientas que permitan al usuario optimizar el tiempo dedicado a la búsqueda de información y acceder a la mejor evidencia disponible.
+
+Recursos de información
+
+La información a la que podemos acceder se puede encontrar en diferentes formatos, estos pueden ser estudios primarios u originales, síntesis de la evidencia, sinopsis de la evidencia y sistemas. A continuación se mencionarán algunas características de cada uno de estos tipos de recursos5:
+
+1. Estudios primarios
+
+Corresponden a investigaciones individuales con diferentes tipos de diseños, tales como: series de casos, estudios de cohortes, estudios de casos y controles, ensayos clínicos, etc.
+
+2. Síntesis
+
+Se basan en la búsqueda exhaustiva de la literatura para identificar, evaluar y sintetizar todos los estudios sobre el efecto de alguna intervención, dentro de este grupo se encuentran las revisiones sistemáticas de la literatura (RS).
+
+3. Sinopsis
+
+Corresponden a resúmenes estructurados de la información principal de estudios relevantes, en este grupo encontramos guías de la práctica clínica, revisiones globales de la evidencia (overviews) y revistas secundarias.
+
+4. Sistemas
+
+Corresponde a toda la información relevante sobre un problema relacionada con las características clínicas de un paciente.
+
+Para acceder a éstos, contamos con diferentes recursos electrónicos disponibles en la Web6, tales como:
+
+1. Libros metodológicos
+
+Corresponden a textos basados en bibliografía adecuada y que son actualizados de forma periódica. Algunos ejemplos disponibles son:
+
+a) UpToDate: Permite el acceso a información actualizada de diferentes especialidades clínicas. Requiere de suscripción para acceder a su contenido. Se puede acceder en http://www.uptodate.com.
+
+b) eMedicine: Similar a la anterior, requiere de inscripción, la que es gratuita en su sitio web. Disponible en http://www.emedicine.com.
+
+2. Motores de búsqueda
+
+Son sitios que realizan una búsqueda simultánea en diversos sitios considerados relevantes (corresponden a una búsqueda específica de la información). Un ejemplo de ellos es: 
+
+a) EMBASE, que tiene información acerca de más de 25 millones de registros de más de 7.000 revistas de más de 70 países en un índice por diccionario de sinónimos, que incluye términos MeSH. Además, cuenta con más de 5 millones de artículos y ponencias que se indizan sólo en EMBASE y todo el contenido de MEDLINE. Su dirección electrónica es http://www.elsevier.com/online-tools/embase.
+
+b) Google Scholar, buscador especializado en artículos de revistas científicas, orientado al mundo académico. Incluye las revistas más leídas en el mundo científico. Ordena los resultados por relevancia, considerando autores, lugar de publicación, texto completo de cada artículo y frecuencia de citación en otras fuentes especializadas. Se puede acceder a través de las direcciones electrónicas http://scholar.google.com y http://scholar.google.es.
+
+c) TRIP database; que realiza la búsqueda en más de 75 sitios. El acceso a los documentos encontrados depende del sitio en el cual se encontró el artículo (algunos permiten el acceso libre a texto completo y otros sólo a los resúmenes). Su dirección electrónica es http://www.tripdatabase.com.
+
+3. Bases de datos de Revisión Sistemática (RS)
+
+Las RS pueden corresponder generalmente al mejor nivel de evidencia; según como hayan sido ejecutadas. El sitio más utilizado es la librería Cochrane; sin embargo, existen otras bases de datos de RS como DARE.
+
+a) The Cochrane Library: La colaboración Cochrane tiene por objetivo preparar, actualizar, promover y facilitar el acceso a RS sobre intervenciones de la atención sanitaria. Esta incluye varias bases de datos diferentes como son: The Cochrane Database of Systematic Reviews (CDSR), que contiene protocolos y RS preparadas y actualizadas por los grupos de revisión; The Database of Abstracts of Reviews of Effectiveness (DARE), que contiene evaluaciones críticas y resúmenes estructurados de otras RS según criterios de calidad explícitos; The Cochrane Controlled Trials Register (CCTR), que contiene información de ensayos clínicos controlados e informes publicados en actas de congresos y otras fuentes que no se encuentran contenidas en bases de datos como MEDLINE; y The Cochrane Review Methodology Database (CRMD), que contiene referencias de artículos sobre metodología de la investigación. Se puede acceder de forma gratuita a los resúmenes en http://www.cochranelibrary.com o de forma gratuita previo registro en http://cochrane.bireme.br.
+
+b) Clinical Evidence: Base de datos del grupo editorial BMJ que pretende contestar interrogantes clínicas mediante el análisis de resultados de RS, rigurosamente desarrolladas y estudios individuales seleccionados de forma crítica por grupos de expertos que evalúan beneficios y daños de tratamientos. Contiene además un conjunto de recursos de medicina basada en evidencia y materiales de capacitación. Se puede acceder a través de las direcciones electrónicas www.clinicalevidence.com y http://clinicalevidence.bmj.com
+
+4. Bases de datos de estudios primarios
+
+Son la principal fuente de información y nos permiten acceder a los artículos originales independiente del nivel de evidencia y calidad metodológica de ellos. Almacenan la información mediante un vocabulario controlado para una correcta indización de los artículos. Es en estas bases de datos donde se requiere mayor experticia al momento de realizar la búsqueda; ya que de lo contrario la cantidad y calidad de la información recolectada impedirá responder de buena forma a nuestras preguntas clínicas.
+
+a) LILACS: Base de datos que registra la literatura científica y técnica en el área de la salud producida en Latinoamérica y el Caribe. Es de acceso gratuito a través de http://www.bireme.br.
+
+b) MEDLINE: Es una de las bases de datos más utilizadas. Contiene artículos de publicaciones periódicas de todo el mundo en el ámbito de la biomedicina, de las cuales más del 50% corresponden a publicaciones originales de EE.UU. Utiliza como vocablo de indización a los términos MeSH (Medical Subject Headings). Es de acceso gratuito a través de http://www.pubmed.gov.
+
+c) Web of Knowledge (WoK): Anteriormente denominado Institute for Scientific Information (ISI), integrado en Thomson Reuters. Da acceso a un conjunto de bases de datos y otros recursos que abarcan todos los campos del conocimiento (Web of Science, Conference Proceedings Citation Index, anteriormente denominado ISI Proceedings, Derwent Innovations Index, Journal Citation Reports, Essential Science IndicatorsSM, Current Contents Connect®, etc.). Incluye además, otros servicios y productos: Science Citation Index (SCI), Science Citation Index Expanded (SCI-E), Social Sciences Citation Index (SSCI), Arts & Humanities Citation Index (A&HCI), Biological Abstracts, Index Chemicus y Current Chemical Reactions. Sus direcciones electrónicas son http://webofknowledge.com, http://wokinfo.com, http://wokinfo.com/espanol.
+
+El problema y la pregunta de investigación
+
+Durante la práctica clínica, es habitual la aparición de problemas o interrogantes para las cuales no tenemos respuestas específicas o incluso no contamos con información general del problema, es en momentos como estos que se hace necesario realizar una búsqueda que nos permita dar respuesta a estas interrogantes.
+
+Lo primero que debemos realizar al momento de iniciar una búsqueda o diseñar una investigación es definir y acotar el problema, el segundo paso es transformar dicho problema en una pregunta clínica estructurada que pueda ser respondida, para ello se debe cautelar que la pregunta contenga una serie de componentes básicos como son: el problema que genera la incertidumbre, la intervención que se desea valorar, el comparador para la intervención en estudio y el resultado que buscamos2,3,7.
+
+Una forma sencilla de recordar los componentes que posee una pregunta clínica estructurada es a través del nemotécnico PICoR (P = paciente, I = intervención, Co = comparador, R = respuesta)7 (Tabla 1). Si bien la incorporación de una intervención y un comparador podrían determinar que este nemotécnico se limitara sólo a preguntas del ámbito de la terapia, éste se puede adaptar a diferentes escenarios clínicos como son pronóstico y pruebas diagnósticas8.
+
+     Tabla 1. Nemotécnico picor para la generación de preguntas de investigación estructuradas           
+
+Planteamiento de la estrategia de búsqueda Definición de los términos principales Una vez generada la pregunta de investigación, esta se debe desglosar de acuerdo al nemotécnico PICoR, con lo cual tendremos cuatro componentes (Pacientes, Intervención, Comparador y Resultado). Para cada uno de estos componentes es necesario definir los términos principales que serán los que utilizaremos finalmente en la búsqueda; estos términos deben ser preferentemente términos "MeSH" o "DeCS", los que pueden ser consultados en la base de datos PubMed en su MeSH database, disponible en http://www.ncbi.nlm.nih.gov/mesh, o en la página de la BVS de "Descriptores en Ciencias de la Salud (DECS)", disponible en http://decs.bvs.br. Se pueden usar en esta etapa términos libres y truncamientos de palabras. El truncar la palabra significa identificar la raíz de ésta, seguida por un comando propio de cada buscador que para el caso de Pubmed es "*", con lo cual se identifican todas las palabras derivadas del término. Por ejemplo si el paciente que deseamos identificar es adolescente ("teenager"), debemos identificar en primer lugar la raíz de la palabra que para este caso particular es "teen", seguido del comando que para Pubmed es *, con lo cual tenemos "Teen*", esto buscará las palabras relacionadas teenage, teenager, teenagers, teens, teen, etc. Combinación de términos En esta etapa de la búsqueda se deben utilizar operadores booleanos. Estos son palabras o conectores que nos permiten combinar los términos antes seleccionados. Los principales son "OR", "AND" y "NOT". El operador booleano "OR" es inclusivo y se debe utilizar para combinar las palabras dentro de cada componente del PICoR, es decir, buscará todos los artículos que contengan uno u otro término. Por ejemplo dentro del apartado de pacientes, se definen los términos: Joven, young people, adolescent [MeSH] y Child [MeSH]. Al combinar los pacientes con "OR" buscará todos los artículos que contengan al menos uno de los términos antes mencionados. Luego de combinar los términos en cada uno de los componentes en particular, se utilizará el operador booleano "AND" para relacionar los diferentes conceptos del PICoR. Este es un operador excluyente, que tiende a focalizar los resultados; vale decir, es un filtro que incluye sólo aquellos resultados que tengan todos los componentes del PICoR. Otro operador de utilidad en algunos casos es "NOT". Este, excluirá los resultados de algún término específico. Siguiendo el ejemplo anterior con adolescentes, podríamos excluir los estudios de embarazo adolescente mediante "NOT" Pregnant. Refinamiento de la estrategia Para refinar la estrategia se deben utilizar filtros metodológicos, dentro de los cuales tenemos: tipo de estudios (ensayos clínicos con asignación aleatoria, estudios de cohorte, casos y controles, etc.); tipo de población (sexo, grupos de edad, especie); características de la búsqueda, identificando si esta es una búsqueda sensible o especifica; y categoría clínica de los estudios o escenarios de investigación (terapia, pruebas diagnósticas, pronóstico, etc.). Una vez desarrollada la estrategia de búsqueda, esta puede ser adaptada a diferentes bases de datos. Ejemplo: Cirugía laparoscópica en apendicitis aguda Con el objetivo de evaluar la morbilidad asociada a la cirugía, en pacientes adultos mayores de 19 años sometidos a apendicectomía laparoscópica por puerto único y apendicectomía laparoscópica convencional se realizó una búsqueda de la literatura en la base de datos MEDLINE que siguió las siguientes etapas: Problema de investigación: Parece existir consenso en que la apendicectomía por puerto único es la primera elección en el tratamiento de la apendicitis aguda en niños, bajo consideraciones de morbilidad asociada a la cirugía. No contamos con datos respecto del tratamiento de esta patología mediante la técnica citada en adultos, mayores de 19 años. Pregunta clínica estructurada: Se aplica el nemotécnico PICoR. Pacientes: adultos mayores de 19 años con diagnóstico de apendicitis aguda. Intervención: Apendicectomía laparoscópica por puerto único. Comparador: Apendicectomía laparoscópica convencional. Resultado: Morbilidad asociada a la cirugía. Con lo cual la pregunta sería la siguiente: "¿Cuál es la mejor opción terapéutica entre apendicetomía laparoscópica por puerto único y apendicetomía laparoscópica convencional en el tratamiento de la apendicitis aguda en adultos mayores de 19 años en términos de morbilidad asociada a la cirugía? Definición de términos principales: Los términos seleccionados para cada uno de los componentes del nemotécnico PICoR fueron:  1. Pacientes: "Appendicitis" [MeSH], Apendicitis, "Adult" [MeSH]. 2. Intervención: Laparoscopy Single Port, Single Port Laparoscopy, Laparoscopic Single Port, Single Port Laparoscopic, Single Port Laparoscopic Appendectomy, Appendectomy Single Port Laparoscopy, Appendectomy Single Port Laparoscopic, Appendectomy Single incision Laparoscopy, Appendectomy Single Incision Laparoscopic. 3. Comparador: "Appendectomy" [MeSH], "Laparoscopy" [MeSH], "Surgery" [MeSH], Laparoscop*, Apendicectomía, Appendicectomy, Appendicectomies, Laparoscopia, Laparoscopic, Laparoscopic Surgery, Laparoscopy Surgery, Apendicectomía Laparoscópica, Appendectomy Laparoscopic, Appendectomy Laparoscopy, Appendicectomies Laparoscopic, Appendicectomies Laparoscopy. 4. Respuesta: "Morbidity" [MeSH], "Postoperative Complications" [MeSH].  Combinación de los términos mediante operadores booleanos: Tal como se mencionó anteriormente, utilizamos los operadores booleanos "OR" y "AND" para combinar los términos dentro de cada uno de los componentes y entre los diferentes conceptos del PICoR respectivamente (búsqueda realizada el 23 de agosto de 2013) como se muestra a continuación:  # 1: ("Appendicitis" [MeSH] OR Appendicitis): Que arroja 19011 artículos. # 2: (Laparoscopy Single Port OR Single Port Laparoscopy OR Laparoscopic Single Port OR Single Port Laparoscopic OR Single Port Laparoscopic Appendectomy OR Appendectomy Single Port Laparoscopy OR Appendectomy Single Port Laparoscopic OR Appendectomy Single incision Laparoscopy OR Appendectomy Single Incision Laparoscopic): Que nos entrega 1.517 artículos. # 3: ("Appendectomy" [MeSH] OR "Laparoscopy" [MeSH] OR "Surgery" [MeSH] OR Laparoscop* OR Appendicectomy OR Appendicectomies OR Laparoscopic OR Laparoscopic Surgery OR Laparoscopy Surgery OR Appendectomy Laparoscopic OR Appendectomy Laparoscopy OR Appendicectomies Laparoscopic OR Appendicectomies Laparoscopy): Con 97.885 artículos. # 4: ("Morbidity" [MeSH] OR "Postoperative Complications" [MeSH]): Que arroja 727.528 artículos. # 5: # 1AND # 2 AND # 3 AND # 4: Lo que finalmente nos da 32 artículos.  Refinamiento de la estrategia de búsqueda: En esta etapa, se utilizaron los siguientes filtros metodológicos:  1.    Tipo de artículos: Case reports, clinical trial, comparative study, Journal article, multicenter study y randomized controlled trial.     2.    Disponibilidad de textos: Resumen disponible y texto completo disponible.     3.    Fecha de publicación: 1 de enero de 2003 a 31 de mayo de 2013.     4.    Especie: Humanos.     5.    Idiomas: Inglés y español.     6.    Sexo: Hombres y mujeres.     7.    Categoría de revistas: MEDLINE.     8.    Edad: Adultos mayores de 19 años.  Con esta estrategia de búsqueda, el número de artículos obtenidos fue 17; los cuales habrán de ser sometidos a una lectura crítica, idealmente aplicando pautas ad-hoc3,9-11, que nos darán una orientación más apropiada de la validez interna y externa de cada artículo para tomar decisiones basadas en la evidencia. Conclusión A pesar del creciente número de publicaciones y del escaso tiempo del que disponemos para resolver preguntas que surgen en la práctica clínica diaria, producto de la carga asistencial y académica; es posible optimizar el tiempo mediante estrategias de búsqueda de la información científica como la planteada; y de esta forma, poder acceder a la mejor evidencia disponible, que en conjunto con la experiencia clínica particular irá en beneficio directo de nuestros pacientes. Este manuscrito no pretende representar la única ni la mejor forma de realizar una búsqueda de información científica; sino más bien, ser de utilidad para optimizar el tiempo para resolver sus inquietudes.   Referencias 1. Sackett D, Roseberg WM, Muir Gray JA, Haynes RB, Richardson WS. Evidence based medicine: What it is and what it isn't. BMJ 1996;312:71-2.            [ Links ] 2. Manterola C. Medicina basada en la evidencia. Conceptos generales y razones para su aplicación en cirugía. Rev Chil Cir. 2002;54:550-4.            [ Links ] 3. Manterola C. Medicina Basada en la Evidencia o Medicina Basada en Pruebas. Generalidades acerca de su aplicación en la práctica clínica cotidiana. Rev Med Clin Condes 2009;20:125-30.            [ Links ] 4. http://www.nlm.nih.gov/pubs/factsheets/medline.html. Visitado el 20 de Agosto de 2013.            [ Links ] 5. Manterola C. Análisis crítico de la literatura biomédica. Rev Med Clin Condes 2009;20:371-81.            [ Links ] 6. Rada G, Andrade M, Leyton V, Pacheco C, Ramos E. Búsqueda de información en medicina basada en la evidencia. Rev Med Chile 2004;132:253-9.            [ Links ] 7. Manterola C, Cortés M. Cómo valorar e interpretar un artículo sobre tratamiento o procedimientos terapéuticos. Rev Chil Cir. 2010;62:639-48.            [ Links ] 8. Claro J, Lustig N, Soto M, Rada G. El primer paso: la pregunta clínica. Rev Med Chile 2012;140:1067-72.            [ Links ] 9. Guyatt GH, Sackett DL, Cook DJ. Users' guides to the medical literature. II. How to use an article about therapy or prevention. A. Are the results of the study valid? Evidence-Based Medicine Working Group. JAMA  1993;270:2598-601. 10. Guyatt GH, Sackett DL, Cook DJ. Users' guides to the medical literature. II. How to use an article about therapy or prevention. B. What were the results and will they help me in caring for my patients? Evidence-Based Medicine Working Group. JAMA 1994;271:59-63.            [ Links ] 11. Manterola C, Pineda V, Vial M, Losada H. Revisión crítica de la literatura para artículos de terapia. Rev Chil Cir. 2004;56:604-9.            [ Links ]    * Recibido el 19 de diciembre de 2013 y aceptado para publicación el 25 de marzo de 2014.  Los autores declaran no tener conflicto de interés. Correspondencia: Dr. Javier Moraga.     Javier.moragac@gmail.com   
+
+Tabla 1. Nemotécnico picor para la generación de preguntas de investigación estructuradas
+
+Planteamiento de la estrategia de búsqueda
+
+Definición de los términos principales
+
+Una vez generada la pregunta de investigación, esta se debe desglosar de acuerdo al nemotécnico PICoR, con lo cual tendremos cuatro componentes (Pacientes, Intervención, Comparador y Resultado). Para cada uno de estos componentes es necesario definir los términos principales que serán los que utilizaremos finalmente en la búsqueda; estos términos deben ser preferentemente términos "MeSH" o "DeCS", los que pueden ser consultados en la base de datos PubMed en su MeSH database, disponible en http://www.ncbi.nlm.nih.gov/mesh, o en la página de la BVS de "Descriptores en Ciencias de la Salud (DECS)", disponible en http://decs.bvs.br.
+
+Se pueden usar en esta etapa términos libres y truncamientos de palabras. El truncar la palabra significa identificar la raíz de ésta, seguida por un comando propio de cada buscador que para el caso de Pubmed es "*", con lo cual se identifican todas las palabras derivadas del término. Por ejemplo si el paciente que deseamos identificar es adolescente ("teenager"), debemos identificar en primer lugar la raíz de la palabra que para este caso particular es "teen", seguido del comando que para Pubmed es *, con lo cual tenemos "Teen*", esto buscará las palabras relacionadas teenage, teenager, teenagers, teens, teen, etc.
+
+Combinación de términos
+
+En esta etapa de la búsqueda se deben utilizar operadores booleanos. Estos son palabras o conectores que nos permiten combinar los términos antes seleccionados. Los principales son "OR", "AND" y "NOT".
+
+El operador booleano "OR" es inclusivo y se debe utilizar para combinar las palabras dentro de cada componente del PICoR, es decir, buscará todos los artículos que contengan uno u otro término. Por ejemplo dentro del apartado de pacientes, se definen los términos: Joven, young people, adolescent [MeSH] y Child [MeSH]. Al combinar los pacientes con "OR" buscará todos los artículos que contengan al menos uno de los términos antes mencionados.
+
+Luego de combinar los términos en cada uno de los componentes en particular, se utilizará el operador booleano "AND" para relacionar los diferentes conceptos del PICoR. Este es un operador excluyente, que tiende a focalizar los resultados; vale decir, es un filtro que incluye sólo aquellos resultados que tengan todos los componentes del PICoR.
+
+Otro operador de utilidad en algunos casos es "NOT". Este, excluirá los resultados de algún término específico. Siguiendo el ejemplo anterior con adolescentes, podríamos excluir los estudios de embarazo adolescente mediante "NOT" Pregnant.
+
+Refinamiento de la estrategia
+
+Para refinar la estrategia se deben utilizar filtros metodológicos, dentro de los cuales tenemos: tipo de estudios (ensayos clínicos con asignación aleatoria, estudios de cohorte, casos y controles, etc.); tipo de población (sexo, grupos de edad, especie); características de la búsqueda, identificando si esta es una búsqueda sensible o especifica; y categoría clínica de los estudios o escenarios de investigación (terapia, pruebas diagnósticas, pronóstico, etc.).
+
+Una vez desarrollada la estrategia de búsqueda, esta puede ser adaptada a diferentes bases de datos.
+
+Ejemplo:
+
+Cirugía laparoscópica en apendicitis aguda
+
+Con el objetivo de evaluar la morbilidad asociada a la cirugía, en pacientes adultos mayores de 19 años sometidos a apendicectomía laparoscópica por puerto único y apendicectomía laparoscópica convencional se realizó una búsqueda de la literatura en la base de datos MEDLINE que siguió las siguientes etapas:
+
+Problema de investigación: Parece existir consenso en que la apendicectomía por puerto único es la primera elección en el tratamiento de la apendicitis aguda en niños, bajo consideraciones de morbilidad asociada a la cirugía. No contamos con datos respecto del tratamiento de esta patología mediante la técnica citada en adultos, mayores de 19 años.
+
+Pregunta clínica estructurada: Se aplica el nemotécnico PICoR. Pacientes: adultos mayores de 19 años con diagnóstico de apendicitis aguda. Intervención: Apendicectomía laparoscópica por puerto único. Comparador: Apendicectomía laparoscópica convencional. Resultado: Morbilidad asociada a la cirugía. Con lo cual la pregunta sería la siguiente: "¿Cuál es la mejor opción terapéutica entre apendicetomía laparoscópica por puerto único y apendicetomía laparoscópica convencional en el tratamiento de la apendicitis aguda en adultos mayores de 19 años en términos de morbilidad asociada a la cirugía?
+
+Definición de términos principales: Los términos seleccionados para cada uno de los componentes del nemotécnico PICoR fueron:
+
+1. Pacientes: "Appendicitis" [MeSH], Apendicitis, "Adult" [MeSH].
+
+2. Intervención: Laparoscopy Single Port, Single Port Laparoscopy, Laparoscopic Single Port, Single Port Laparoscopic, Single Port Laparoscopic Appendectomy, Appendectomy Single Port Laparoscopy, Appendectomy Single Port Laparoscopic, Appendectomy Single incision Laparoscopy, Appendectomy Single Incision Laparoscopic.
+
+3. Comparador: "Appendectomy" [MeSH], "Laparoscopy" [MeSH], "Surgery" [MeSH], Laparoscop*, Apendicectomía, Appendicectomy, Appendicectomies, Laparoscopia, Laparoscopic, Laparoscopic Surgery, Laparoscopy Surgery, Apendicectomía Laparoscópica, Appendectomy Laparoscopic, Appendectomy Laparoscopy, Appendicectomies Laparoscopic, Appendicectomies Laparoscopy.
+
+4. Respuesta: "Morbidity" [MeSH], "Postoperative Complications" [MeSH].
+
+Combinación de los términos mediante operadores booleanos: Tal como se mencionó anteriormente, utilizamos los operadores booleanos "OR" y "AND" para combinar los términos dentro de cada uno de los componentes y entre los diferentes conceptos del PICoR respectivamente (búsqueda realizada el 23 de agosto de 2013) como se muestra a continuación:
+
+# 1: ("Appendicitis" [MeSH] OR Appendicitis): Que arroja 19011 artículos.
+
+# 2: (Laparoscopy Single Port OR Single Port Laparoscopy OR Laparoscopic Single Port OR Single Port Laparoscopic OR Single Port Laparoscopic Appendectomy OR Appendectomy Single Port Laparoscopy OR Appendectomy Single Port Laparoscopic OR Appendectomy Single incision Laparoscopy OR Appendectomy Single Incision Laparoscopic): Que nos entrega 1.517 artículos.
+
+# 3: ("Appendectomy" [MeSH] OR "Laparoscopy" [MeSH] OR "Surgery" [MeSH] OR Laparoscop* OR Appendicectomy OR Appendicectomies OR Laparoscopic OR Laparoscopic Surgery OR Laparoscopy Surgery OR Appendectomy Laparoscopic OR Appendectomy Laparoscopy OR Appendicectomies Laparoscopic OR Appendicectomies Laparoscopy): Con 97.885 artículos.
+
+# 4: ("Morbidity" [MeSH] OR "Postoperative Complications" [MeSH]): Que arroja 727.528 artículos.
+
+# 5: # 1AND # 2 AND # 3 AND # 4: Lo que finalmente nos da 32 artículos.
+
+Refinamiento de la estrategia de búsqueda: En esta etapa, se utilizaron los siguientes filtros metodológicos:
+
+1.    Tipo de artículos: Case reports, clinical trial, comparative study, Journal article, multicenter study y randomized controlled trial.     2.    Disponibilidad de textos: Resumen disponible y texto completo disponible.     3.    Fecha de publicación: 1 de enero de 2003 a 31 de mayo de 2013.     4.    Especie: Humanos.     5.    Idiomas: Inglés y español.     6.    Sexo: Hombres y mujeres.     7.    Categoría de revistas: MEDLINE.     8.    Edad: Adultos mayores de 19 años.
+
+Con esta estrategia de búsqueda, el número de artículos obtenidos fue 17; los cuales habrán de ser sometidos a una lectura crítica, idealmente aplicando pautas ad-hoc3,9-11, que nos darán una orientación más apropiada de la validez interna y externa de cada artículo para tomar decisiones basadas en la evidencia.
+
+Conclusión
+
+A pesar del creciente número de publicaciones y del escaso tiempo del que disponemos para resolver preguntas que surgen en la práctica clínica diaria, producto de la carga asistencial y académica; es posible optimizar el tiempo mediante estrategias de búsqueda de la información científica como la planteada; y de esta forma, poder acceder a la mejor evidencia disponible, que en conjunto con la experiencia clínica particular irá en beneficio directo de nuestros pacientes.
+
+Este manuscrito no pretende representar la única ni la mejor forma de realizar una búsqueda de información científica; sino más bien, ser de utilidad para optimizar el tiempo para resolver sus inquietudes.
